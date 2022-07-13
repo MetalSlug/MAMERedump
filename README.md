@@ -1,7 +1,6 @@
 # MAME Redump
 
-The aim of the MAME Redump project is to recognize the redump images used in mame CHD files and merge them into a new CHD set (DirToDat format).
-As a result, either the redump set or the mame software list CHD set can be rebuild from this set.
+The aim of the MAME Redump project is to convert the redump sets to the chd format. All mame chds (if available) should be also merged or included.
 
 This project uses the track information stored in the MAME CHD files.
 The program to read out this information or to merge the sets are not yet public because they are still in a very early stage.
