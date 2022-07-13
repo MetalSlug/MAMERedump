@@ -13,10 +13,17 @@ The program to read out this information or to merge the sets are not yet public
 
 # Folders in this repository
 
-MAME 0.245 Software List CHDs (merged) - All MAME SW CHDs with additional track an checksum information
-MAME Redump 0.245 - Current CHD files
-MAME Redump 0.245 Additional - Redump CHD which are not included in MAME SW CHDs
-MAME Redump 0.245 Missing - Missing Redump Games
+MAME 0.245 Software List CHDs (merged)
+- All MAME SW CHDs with additional track an checksum information
+
+MAME Redump 0.245 
+- Current CHD files
+
+MAME Redump 0.245 Additional 
+- Redump CHD which are not included in MAME SW CHDs
+
+MAME Redump 0.245 Missing 
+- Missing Redump Games
 
 # MAME Redump 0.245 status and used sets
 
