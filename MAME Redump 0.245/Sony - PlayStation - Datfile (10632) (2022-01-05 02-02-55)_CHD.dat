@@ -4,7 +4,7 @@
   <header>
     <name>MAME Redump - Sony - PlayStation_CHD</name>
     <description>MAME Redump - Sony - PlayStation - Discs (10632) (2022-01-05 02-02-55)_CHD</description>
-    <version>2022-07-13</version>
+    <version>2022-07-21</version>
     <author />
     <homepage />
     <url />
@@ -416,6 +416,7 @@
     <rom name="Arc the Lad II - Characters &amp; World CG Movie Collection (Japan).chd" size="92221765" crc="4695B350" sha1="94CF702DC031CAB63D2D7D97BE7B88B63AFFC0BB" />
     <rom name="Arc the Lad II (Japan).chd" size="320531324" crc="08A8A0C5" sha1="E4825B13B29DD1EC1D8AA56523284813B83EAC7D" />
     <rom name="Arc the Lad II (Japan) (Rev 1).chd" size="320441188" crc="B7EE87D7" sha1="5B1673C43E5215ACC321E1DE72B5962A2627B3D7" />
+    <rom name="Arc the Lad III (Japan) (Demo 1).chd" size="139098241" crc="B7EC2091" sha1="8B7073070B696CCA4B19CA92360CC55B10F226A0" />
     <rom name="Arc the Lad III (Japan) (Demo 3).chd" size="30043875" crc="61BF6D0C" sha1="83F20437DD2841B4A40289407ECC9FBFBC7D2B0D" />
     <rom name="Arc the Lad III (Japan) (Disc 1).chd" size="265094449" crc="893F3758" sha1="62908FA902159DEA82A001C382F49C5AFF6CFAD3" />
     <rom name="Arc the Lad III (Japan) (Disc 1) (Rev 1).chd" size="265066666" crc="6745DFD2" sha1="72CDE2AFE9154F7E7F823876DE91192FD1E522D7" />
@@ -1330,6 +1331,7 @@
     <rom name="Cina - Crimini nella Citta Proibita (Italy).chd" size="331637182" crc="3899E0F7" sha1="F33FAD52CC67B58F4F1CB7B5FD83A86C19E73E70" />
     <rom name="Cindy's Caribbean Holiday (Europe).chd" size="20303792" crc="41960FA6" sha1="A1114A9D50BBE75C269D59A88D1F62A634BF4158" />
     <rom name="Cindy's Fashion World (Europe).chd" size="24639866" crc="D8C3B118" sha1="4208FF5AC729B97A74BBDA52F2DAB50E5B2F9C5A" />
+    <rom name="Cinema Eikaiwa Series - Tengoku ni Ikenai Papa (Japan) (Demo).chd" size="371259867" crc="4FE06A02" sha1="31EB68484B2DABDA8839D3ABA55D17C4110B67BD" />
     <rom name="Cinema Eikaiwa Series Dai-1-dan - Tengoku ni Ikenai Papa (Japan) (Disc 1) (Joukan).chd" size="370278547" crc="04A9E720" sha1="02763DE44FF4A522479CF95EEA36EFCA4005E79B" />
     <rom name="Cinema Eikaiwa Series Dai-1-dan - Tengoku ni Ikenai Papa (Japan) (Disc 2) (Chuukan).chd" size="392240821" crc="74487F81" sha1="3D3C68614C3223A6A098E41CC2A50F9BB98EF300" />
     <rom name="Cinema Eikaiwa Series Dai-1-dan - Tengoku ni Ikenai Papa (Japan) (Disc 3) (Gekan).chd" size="329670796" crc="CEED377D" sha1="F19D0BAE4A32E69A8F8C7D6B1EDBE855D13E7B53" />
@@ -1352,6 +1354,7 @@
     <rom name="Cinema Eikaiwa Series Dai-6-dan - Ai no Hate ni (Japan) (Disc 3).chd" size="451215937" crc="4F912DB3" sha1="B8F92C937D56866F85457AA40EE92A46A6F4EA3F" />
     <rom name="Cinema Eikaiwa Series Dai-6-dan - Ai no Hate ni (Japan) (Disc 4).chd" size="435333047" crc="D08676DD" sha1="960B78FC4136B84214C476E9AAF2E6D26F9590C2" />
     <rom name="Circadia (Japan) (Demo 1).chd" size="152819660" crc="DACAEA95" sha1="E2677816A3B2D48BACAB74857BA7FC1E7E6DCC9C" />
+    <rom name="Circadia (Japan) (Demo 2).chd" size="207119568" crc="1927FEED" sha1="2B484467121F9FDD8BE98E33A1AE2F822D950D98" />
     <rom name="Circadia (Japan) (Disc 1).chd" size="369701748" crc="294CEB1A" sha1="74DA996F29AFBD47602D3C94C1C69B089A91B204" />
     <rom name="Circadia (Japan) (Disc 2).chd" size="327935214" crc="40DBA06D" sha1="264F3D5E6DF8F6D49E07C1CDD590CF5ADB890158" />
     <rom name="Circuit Beat (Japan).chd" size="45192088" crc="0A889577" sha1="600127A67DC7653217D2CC00AE332E1B05F2490D" />
@@ -4626,6 +4629,9 @@
     <rom name="Kamen Rider V3 (Japan).chd" size="305666010" crc="8B9E9CED" sha1="89AD6CE211BAA981B06D47913067EA8CE6BA2756" />
     <rom name="Kanazawa Shougi - Tsuki (Japan).chd" size="236815588" crc="245823D0" sha1="B4FD52658B2217AEA0270E9284FC6FD9A8E96B3E" />
     <rom name="Kanazawa Shougi '95 (Japan).chd" size="149889623" crc="CBE010FD" sha1="8BB2DB42F3ADDD1B5BFF615820798C16A109C88F" />
+    <rom name="Karat PS PS2-you Pro Action Replay CDX2 Demo-ban (Japan) (Unl).chd" size="1051603" crc="F7DC6618" sha1="0FD86E3190E19DF0F91770415C9BAF2F85838E89" />
+    <rom name="Karat PS PS2-you Pro Action Replay CDX2 Sampler (Japan) (Unl).chd" size="814338" crc="68DFD51C" sha1="C78376F9E512CF33BD0038DD9D186C924A608BB6" />
+    <rom name="Karat PS PS2-you Pro Action Replay CDX2 Taikenban (Japan) (Unl).chd" size="1051668" crc="540B4C28" sha1="3D3A24D73815792DBDAA663C1982EB1C5D6BB3E6" />
     <rom name="Karat PS1-you Pro Action Replay CDX3 (Japan) (Unl).chd" size="1024536" crc="D613ED97" sha1="DCE40FAC6640B79BC54D650F8FBEA2F2A167AFC1" />
     <rom name="Karat PS-PS2-you Catalog &amp; Taikenban (Japan) (Unl).chd" size="47807352" crc="B3CD1188" sha1="B2E754187ADA4441D98CB49DC0A50F2D5C1C7BD2" />
     <rom name="Kart Challenge (Europe) (En,Fr,De,It).chd" size="81161056" crc="71B9A167" sha1="392D1BBD5AF95D6B626A2757ADFF5DCC6487A38C" />
@@ -6828,6 +6834,7 @@
     <rom name="Pesni iz kino (Russia) (Unl).chd" size="466540834" crc="6BBAB964" sha1="F9D5B1F6E3CB459290B69132F6532F543931D93C" />
     <rom name="Pet in TV - Ton Nouveau Meilleur Ami! (France).chd" size="17921545" crc="144E3604" sha1="93A9E2936B724891A2AA3C2DFB10E3DEFB7C9894" />
     <rom name="Pet in TV - With My Dear Dog (Japan).chd" size="153480589" crc="B3BF9590" sha1="6AA332760EA3FECD9F0DE7A9B3C57A8A693A8356" />
+    <rom name="Pet in TV - With My Dear Dog (Japan) (Demo).chd" size="153253839" crc="A0E000B5" sha1="64E39BC9BB640C6CC9672A2E5B5D84559BC04C16" />
     <rom name="Pet in TV (Europe).chd" size="17921517" crc="3A55BA62" sha1="C1FBFDD9A2BA447C970579254E4692C6AB063347" />
     <rom name="Pet in TV (Europe) (Beta).chd" size="17547433" crc="9D39E685" sha1="4EA585720A86AFB74ACEAF00A704CEC00DF3BD5E" />
     <rom name="Pet in TV (Germany).chd" size="17921717" crc="F278E8B6" sha1="B9B8627E3D651F812DF46C60C94706ED0141A6B4" />
@@ -8800,6 +8807,7 @@
     <rom name="Street Fighter Zero (Japan).chd" size="411677499" crc="84758C56" sha1="A9AA669227D2B0FFE48300F6AD85DD05C75A6EFC" />
     <rom name="Street Fighter Zero 2 (Japan).chd" size="344668748" crc="7728059B" sha1="D1EEF54B71BC7BBC5FED4786C210E198161F5684" />
     <rom name="Street Fighter Zero 2' (Japan).chd" size="311919329" crc="ADD70A3C" sha1="810DE59CDA1E4E4BFE7997C56D829DB4079AA4B3" />
+    <rom name="Street Fighter Zero 2 (Japan) (Demo).chd" size="86251992" crc="3E135B7A" sha1="B3C87CC15F8FC48A82CB1371B009FA001CEBCB12" />
     <rom name="Street Fighter Zero 3 (Japan).chd" size="332568193" crc="9FA8A5D1" sha1="8438A6E0A63FFB3539DB28CB8FBBD4619884960C" />
     <rom name="Street Games '97 (Japan).chd" size="381426599" crc="2C9F9891" sha1="DE367EFC2D57BE0B77310731AF6D6C4E3C385D8E" />
     <rom name="Street Games '97 (Japan) (Demo).chd" size="56047199" crc="B2EC9C5B" sha1="B2F15B0736C73191E6260C3B5D6B8683E79991EA" />

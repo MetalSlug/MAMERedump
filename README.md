@@ -61,7 +61,6 @@ NEC - PC-98 series
 Missing
 Angel Night - Yamiyo o Kakeru Tenshi-tachi no Monogatari (Japan)
 Ardor Aeternus - Wasureenu Honoo (Japan)
-Etemible - Tenjou Mukyuu (Japan)
 Logicool Mouseware 8.2J (Japan) (En,Ja)
 Yatsu no Na wa Diamond - His Name Is Diamond (Japan)
 ```
@@ -121,24 +120,17 @@ Sony - PlayStation
 
 ```
 Missing
-Arc the Lad III (Japan) (Demo 1)
 Arc the Lad III (Japan) (Demo 2)
 Artdink Preview (Japan)
-Cinema Eikaiwa Series - Tengoku ni Ikenai Papa (Japan) (Demo)
-Circadia (Japan) (Demo 2)
 Ehrgeiz - God Bless the Ring (Japan) (Demo 2)
 Gran Turismo (Japan) (Demo 2)
 Karat PS PS2-you Pro Action Replay CDX2 (Japan) (Unl)
-Karat PS PS2-you Pro Action Replay CDX2 Demo-ban (Japan) (Unl)
-Karat PS PS2-you Pro Action Replay CDX2 Sampler (Japan) (Unl)
-Karat PS PS2-you Pro Action Replay CDX2 Taikenban (Japan) (Unl)
 Kosodate Quiz My Angel (Japan) (Rev 1)
 LEGO Rock Raiders (USA)
 Monopoly (USA)
 Ore no Shikabane o Koete Yuke (Japan) (Demo)
 Oumagatoki (Japan) (Premium Fan Disc)
-Pet in TV - With My Dear Dog (Japan) (Demo)
-Street Fighter Zero 2 (Japan) (Demo)
 Thoroughbred Breeder - Sekai Seiha-hen (Japan) (Rev 1)
 Yamasa Digi World - Tetra Master (Japan) (Demo)
+
 ```

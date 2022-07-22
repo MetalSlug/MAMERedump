@@ -4,16 +4,11 @@
   <header>
     <name>MAME Redump - Sony - PlayStation</name>
     <description>MAME Redump - Sony - PlayStation - Discs (10632) (2022-01-05 02-02-55)</description>
-    <version>2022-07-13</version>
+    <version>2022-07-21</version>
     <author />
     <homepage />
     <url />
   </header>
-  <game name="Arc the Lad III (Japan) (Demo 1)">
-    <description>Arc the Lad III (Japan) (Demo 1)</description>
-    <rom name="Arc the Lad III (Japan) (Demo 1).cue" size="98" crc="4DD83E0A" sha1="39519D8D89DC831298456E9C7C8F545C68E756F6" />
-    <rom name="Arc the Lad III (Japan) (Demo 1).bin" size="215647824" crc="01384991" sha1="A8B2E9F116AA2CD428E943AE2F3D8958D6F06A79" />
-  </game>
   <game name="Arc the Lad III (Japan) (Demo 2)">
     <description>Arc the Lad III (Japan) (Demo 2)</description>
     <rom name="Arc the Lad III (Japan) (Demo 2).cue" size="98" crc="4C8518DB" sha1="FA93F8030A4CBE93882B6875BADFEA4316A80137" />
@@ -24,16 +19,6 @@
     <rom name="Artdink Preview (Japan).cue" size="216" crc="2F58F3F0" sha1="94FACDACB10918A327CBC3232CAD33D29484F656" />
     <rom name="Artdink Preview (Japan) (Track 1).bin" size="155460144" crc="738D2B11" sha1="CAA74476972A098FEF0A3456212DDE3D0EA93D4A" />
     <rom name="Artdink Preview (Japan) (Track 2).bin" size="37399152" crc="BBDD6515" sha1="F8E38E1EA1294D12E267E0A01F3553FF0FC17537" />
-  </game>
-  <game name="Cinema Eikaiwa Series - Tengoku ni Ikenai Papa (Japan) (Demo)">
-    <description>Cinema Eikaiwa Series - Tengoku ni Ikenai Papa (Japan) (Demo)</description>
-    <rom name="Cinema Eikaiwa Series - Tengoku ni Ikenai Papa (Japan) (Demo).cue" size="127" crc="5C29F759" sha1="06DB20EEC42AB1A6DD34CAAD23060FBB3608D598" />
-    <rom name="Cinema Eikaiwa Series - Tengoku ni Ikenai Papa (Japan) (Demo).bin" size="550464432" crc="B623B7E1" sha1="1776BF987B94D8FDA5D5BCBACBBAC2E272A6C738" />
-  </game>
-  <game name="Circadia (Japan) (Demo 2)">
-    <description>Circadia (Japan) (Demo 2)</description>
-    <rom name="Circadia (Japan) (Demo 2).cue" size="91" crc="ACBB2912" sha1="58B24BAB59084D6D7C8E89907B0E0F836F70DAC0" />
-    <rom name="Circadia (Japan) (Demo 2).bin" size="372025248" crc="4EA17F23" sha1="B9CF6008D07D292621BE98588B2A4D0DF4FA9C3A" />
   </game>
   <game name="Ehrgeiz - God Bless the Ring (Japan) (Demo 2)">
     <description>Ehrgeiz - God Bless the Ring (Japan) (Demo 2)</description>
@@ -49,21 +34,6 @@
     <description>Karat PS PS2-you Pro Action Replay CDX2 (Japan) (Unl)</description>
     <rom name="Karat PS PS2-you Pro Action Replay CDX2 (Japan) (Unl).cue" size="119" crc="79B306E1" sha1="BD71F27D72F5CD99E18296C63AAB7ABD15D2B238" />
     <rom name="Karat PS PS2-you Pro Action Replay CDX2 (Japan) (Unl).bin" size="158771760" crc="0BF124D3" sha1="93BBB65821BB43B2D1BD4C5C193BDEEC56B58FA6" />
-  </game>
-  <game name="Karat PS PS2-you Pro Action Replay CDX2 Demo-ban (Japan) (Unl)">
-    <description>Karat PS PS2-you Pro Action Replay CDX2 Demo-ban (Japan) (Unl)</description>
-    <rom name="Karat PS PS2-you Pro Action Replay CDX2 Demo-ban (Japan) (Unl).cue" size="128" crc="97363B56" sha1="07E72F5B283506D0AA6E189A09ADE6492EA3A4C4" />
-    <rom name="Karat PS PS2-you Pro Action Replay CDX2 Demo-ban (Japan) (Unl).bin" size="158449536" crc="CF33EFEF" sha1="D64D4900DCBBFBFEBE38CCF89D8456F010E9EB45" />
-  </game>
-  <game name="Karat PS PS2-you Pro Action Replay CDX2 Sampler (Japan) (Unl)">
-    <description>Karat PS PS2-you Pro Action Replay CDX2 Sampler (Japan) (Unl)</description>
-    <rom name="Karat PS PS2-you Pro Action Replay CDX2 Sampler (Japan) (Unl).cue" size="127" crc="96C68A19" sha1="8A7C7C9AFD0EE26F7DBCBFF56F8F1B91EA043AA8" />
-    <rom name="Karat PS PS2-you Pro Action Replay CDX2 Sampler (Japan) (Unl).bin" size="97556256" crc="E1800259" sha1="D419F4C54E65A57B91F8D6A93D75E5457CF0BE52" />
-  </game>
-  <game name="Karat PS PS2-you Pro Action Replay CDX2 Taikenban (Japan) (Unl)">
-    <description>Karat PS PS2-you Pro Action Replay CDX2 Taikenban (Japan) (Unl)</description>
-    <rom name="Karat PS PS2-you Pro Action Replay CDX2 Taikenban (Japan) (Unl).cue" size="129" crc="E64AB5CD" sha1="3736E1522930632B41A5E9E9C722C146F6A6A27C" />
-    <rom name="Karat PS PS2-you Pro Action Replay CDX2 Taikenban (Japan) (Unl).bin" size="158449536" crc="2B3E42CF" sha1="A070748106DF0CDCB45F6408D06309441312879A" />
   </game>
   <game name="Kosodate Quiz My Angel (Japan) (Rev 1)">
     <description>Kosodate Quiz My Angel (Japan) (Rev 1)</description>
@@ -106,17 +76,6 @@
     <description>Oumagatoki (Japan) (Premium Fan Disc)</description>
     <rom name="Oumagatoki (Japan) (Premium Fan Disc).cue" size="103" crc="9DB54037" sha1="C3DE6DBEDC6D3D56BED80C843BAA16BA9C21ACA8" />
     <rom name="Oumagatoki (Japan) (Premium Fan Disc).bin" size="603963024" crc="C263EF84" sha1="52537C08F23177ED6222DE211E63E43E679E740F" />
-  </game>
-  <game name="Pet in TV - With My Dear Dog (Japan) (Demo)">
-    <description>Pet in TV - With My Dear Dog (Japan) (Demo)</description>
-    <rom name="Pet in TV - With My Dear Dog (Japan) (Demo).cue" size="109" crc="B8AF8ADB" sha1="B34F98850E189BBA7E8D703D88546935149BCE60" />
-    <rom name="Pet in TV - With My Dear Dog (Japan) (Demo).bin" size="354568704" crc="E93FB632" sha1="B8F36B40BD6A860F248FEC1E8B824B56400C62D4" />
-  </game>
-  <game name="Street Fighter Zero 2 (Japan) (Demo)">
-    <description>Street Fighter Zero 2 (Japan) (Demo)</description>
-    <rom name="Street Fighter Zero 2 (Japan) (Demo).cue" size="247" crc="9CCF7789" sha1="EDD6062FBCF53F8A3D69BEC4F457373C958E5295" />
-    <rom name="Street Fighter Zero 2 (Japan) (Demo) (Track 1).bin" size="139602960" crc="A682D7B1" sha1="DFB0708452C885A574DBA0611742B3C28EF79274" />
-    <rom name="Street Fighter Zero 2 (Japan) (Demo) (Track 2).bin" size="43248576" crc="E0909E81" sha1="81F8B9394ACF37ED51EAC6B7B929CF8273F7CA53" />
   </game>
   <game name="Thoroughbred Breeder - Sekai Seiha-hen (Japan) (Rev 1)">
     <description>Thoroughbred Breeder - Sekai Seiha-hen (Japan) (Rev 1)</description>
