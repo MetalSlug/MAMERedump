@@ -28,11 +28,11 @@ MAME Redump 0.245 Missing
 
 Acorn - Archimedes
 - Redump 2022-05-16
-- **No Match with MAME 0.245 Software List CHDs (pcecd)**
+- **No Match with MAME 0.245 Software List CHDs**
 
 Commodore - Amiga CD
 - Redump 2022-02-04
-- **No Match with MAME 0.245 Software List CHDs (pcecd)**
+- **No Match with MAME 0.245 Software List CHDs**
 
 Commodore - Amiga CD32
 - Redump 2021-05-04
