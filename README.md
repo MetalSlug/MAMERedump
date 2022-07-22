@@ -28,9 +28,11 @@ MAME Redump 0.245 Missing
 
 Acorn - Archimedes
 - Redump 2022-05-16
+- **No Match with MAME 0.245 Software List CHDs (pcecd)**
 
 Commodore - Amiga CD
 - Redump 2022-02-04
+- **No Match with MAME 0.245 Software List CHDs (pcecd)**
 
 Commodore - Amiga CD32
 - Redump 2021-05-04
@@ -51,6 +53,7 @@ Psychic Detective Series Vol. 2 - Memories (Japan) (DCCS)
 ```
 
 NEC - PC Engine CD & TurboGrafx CD
+- Redump 2022-06-04
 - **No Match with MAME 0.245 Software List CHDs (pcecd)**
 
 NEC - PC-98 series
@@ -132,5 +135,4 @@ Ore no Shikabane o Koete Yuke (Japan) (Demo)
 Oumagatoki (Japan) (Premium Fan Disc)
 Thoroughbred Breeder - Sekai Seiha-hen (Japan) (Rev 1)
 Yamasa Digi World - Tetra Master (Japan) (Demo)
-
 ```
