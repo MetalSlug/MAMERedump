@@ -1,0 +1,28 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC " -//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>amiga_workbench</name>
+		<description>amiga_workbench</description>
+		<version>2022-01-01 15-44-09</version>
+		<date>2022-01-01 15-44-09</date>
+		<author>CHD Dat</author>
+		<homepage>CHD Dat.org</homepage>
+		<url>http://CHDDat.org/</url>
+	</header>
+	<game name="amigos35\amigaos35" sha1="8a4a12ec7356c3cbe009ad7daf3fdd2d28bb9f79" size="56729587" crc="6f99027e" fullsha1="6dcf1e5821717128ac2e763064f1ef31dee3ce8c" dataSha1="ca453c445087973ac34e1bab0ad1a6ec77df44fc">
+		<category>Games</category>
+		<description>amigos35\amigaos35</description>
+		<rom name="amigaos35 (Track 1).bin" size="98203648" crc="57ac8904" md5="0d87d66b1c72a69d857accd3f37254c3" sha1="e0ab93bd0dad99ccc37e201b0ea9206c9de69e64"/>
+	</game>
+	<game name="amigos39\amigaos39" sha1="9101785d00b55152d7f37a0e7f1be953bf0c366a" size="346649587" crc="d1d02a10" fullsha1="c7917402016b3627e533d11b998e21dec2a31029" dataSha1="37b5e5b0052521aefedd082055d2dee5c4659872">
+		<category>Games</category>
+		<description>amigos39\amigaos39</description>
+		<rom name="amigaos39 (Track 1).bin" size="490856448" crc="04cc6cda" md5="3cb96e77d922a4f8eb696e525a240448" sha1="7bf86794475de3adcc73b78a500c0f19705de4c5"/>
+	</game>
+	<game name="amigos40\amiga_os4_0_classic_52_21" sha1="5f6fa19da9349ff67c948c13d36d93f47d3a6c4a" size="51326023" crc="33c54ba8" fullsha1="39570993166af8a26d84d4f91d4725b508aa8942" dataSha1="2a3ce690c27f97f8f56885651fd817fd72ecc0b0">
+		<category>Games</category>
+		<description>amigos40\amiga_os4_0_classic_52_21</description>
+		<rom name="amiga_os4_0_classic_52_21 (Track 1).bin" size="150890496" crc="057ae679" md5="cbe68e4fb9db4f742aa12f14e8b3af8e" sha1="fc3038d418197cf024e1994ca06f165a614f45e7"/>
+	</game>
+</datafile>
