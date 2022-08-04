@@ -4,10 +4,9 @@
   <header>
     <name>MAME Redump - Sony - PlayStation_CHD</name>
     <description>MAME Redump - Sony - PlayStation - Discs (10660) (2022-07-28 13-46-17)_CHD</description>
-    <version>2022-07-29</version>
-    <author />
-    <homepage />
-    <url />
+    <version>2022-08-04</version>
+    <author>MAME Redump</author>
+    <url>https://github.com/MetalSlug/MAMERedump</url>
   </header>
   <game name="MAME Redump - Sony - PlayStation - Discs (10660) (2022-07-28 13-46-17)">
     <description>MAME Redump - Sony - PlayStation - Discs (10660) (2022-07-28 13-46-17)</description>
@@ -4120,6 +4119,7 @@
     <rom name="Hive, The (USA) (Disc 1).chd" size="428323192" crc="2F190211" sha1="52E7008FA4078EA80567AE415B128D9455AE70CB" />
     <rom name="Hive, The (USA) (Disc 2).chd" size="387219744" crc="361BC515" sha1="2FD075B4010DA08F78535D3805B693F0C22198CC" />
     <rom name="Hiza no Ue no Partner - Kitty on Your Lap (Japan).chd" size="281058414" crc="2B7C0634" sha1="1AD95FC185D69B0FFAEE616408F7FFA293533B41" />
+    <rom name="HMV CodeBuster (UK) (Unl).chd" size="414565" crc="B56A1E2B" sha1="4005A4149657F787E92EAD45A9B4A065565459F6" />
     <rom name="Hogs of War - Nati per Soffritto (Italy).chd" size="205197256" crc="71E0D256" sha1="4189C68CEC2E770FF817D7F1CA4097762DEEE46D" />
     <rom name="Hogs of War (Europe).chd" size="238459761" crc="A5A9D0BF" sha1="915DB429069EE6913EEFF11A75FE3ED58668668D" />
     <rom name="Hogs of War (Europe) (Demo).chd" size="36594437" crc="A2FEC8FE" sha1="804761BB5AE986A594A34B30AB86982AF365F5B4" />
@@ -8751,6 +8751,7 @@
     <rom name="Station Demo Disc 7 (Europe).chd" size="415424596" crc="97F99648" sha1="FF17181E0D50CD840BBD40EE688D41D8EC7DDA4F" />
     <rom name="Station Demo Disc 8 (Europe).chd" size="392135064" crc="927223FC" sha1="0B0B017CF7B8F386A6286D31517C321B30E195DC" />
     <rom name="Station Demo Disc 9 (Europe).chd" size="261319717" crc="59DACBBE" sha1="04BCE6A2CDAFBC57B8A82A59F3F081517BC1A440" />
+    <rom name="StationMaster 02-2001 Xploder (Germany) (En,De) (Unl).chd" size="431367" crc="ABBACB32" sha1="FBAA570919CC8D9B39B9E6CE7857F3276EC623E1" />
     <rom name="StationMaster 03-2001 Xploder (Germany) (En,De) (Unl).chd" size="418710" crc="B75FDED0" sha1="735CEAED3357EC7CB5B6E552127FBF7932D5553E" />
     <rom name="StationMaster 04-2001 Xploder (Germany) (Demo) (Unl).chd" size="336132" crc="28E119F5" sha1="48443AD7E1EBA63B0E2D679429993CF1526978F1" />
     <rom name="Steel Harbinger (Europe).chd" size="386675491" crc="1F66BAB7" sha1="182437BF9484F00278FBAD44FD9FB0E1AF7A5144" />
