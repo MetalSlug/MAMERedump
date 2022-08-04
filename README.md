@@ -1,6 +1,6 @@
 # MAME Redump
 
-The aim of the MAME Redump project is to convert the redump sets to the chd format. All mame chds (if available) should be also merged or included.
+The aim of the MAME Redump project is to convert the redump sets to the chd format. All mame CHDs (if available) should be also merged or included.
 
 This project uses the track information stored in the MAME CHD files.
 The program to read out this information or to merge the sets are not yet public because they are still in a very early stage.
@@ -19,7 +19,7 @@ MAME Redump 0.246 - Missing
 - Missing Redump Games
 
 MAME 0.246 Software List CHDs (merged)
-- All MAME SW CHDs with additional track an checksum information
+- All MAME SW CHDs with additional track and checksum information
 
 MAME 0.246 Additional Redump CHDs
 - Redump CHDs which are not included in MAME SW CHDs
