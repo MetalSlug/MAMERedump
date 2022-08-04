@@ -4,16 +4,23 @@
 	<header>
 		<name>snes_vkun</name>
 		<description>snes_vkun</description>
-		<version>2022-01-01 15-44-09</version>
-		<date>2022-01-01 15-44-09</date>
-		<author>CHD Dat</author>
-		<homepage>CHD Dat.org</homepage>
-		<url>http://CHDDat.org/</url>
+		<version>0.246</version>
+		<date>2022-08-04</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
 	<game name="angelvf\angelvf" sha1="7dc2a4d02819e6c8abb52a0f02b19f7fc56ed4a1" size="82230904" crc="8855af95" fullsha1="97aa958bc0ae6cbb9ede9b00dd54e1e1750077aa" dataSha1="59ecad62e9257e7d61191109a55bb105f01fdba7">
 		<category>Games</category>
 		<description>angelvf\angelvf</description>
-		<rom name="angelvf (Track 1).bin" size="39621792" crc="b787adb7" md5="d9e9bbd4949c4e3a15d47f6b2a2fa36f" sha1="514134c72ad36793b32f958137b4a64bd6effb78"/>
+		<rom name="angelvf (Track 01).bin" size="39621792" crc="b787adb7" md5="d9e9bbd4949c4e3a15d47f6b2a2fa36f" sha1="514134c72ad36793b32f958137b4a64bd6effb78"/>
+		<rom name="angelvf (Track 02).bin" size="7940352" crc="c49e1cac" md5="0a59470e9148a3d60cc8b7147b138874" sha1="9d3df36f155ae5d22b2cb135a392f31b46431c13"/>
+		<rom name="angelvf (Track 03).bin" size="4417056" crc="2c6cdc09" md5="d1cf2ef1279e951aeb0d0884aee389dc" sha1="5d029a0a2c2f62f4fbb6bb836de3bab3a9d891e9"/>
+		<rom name="angelvf (Track 04).bin" size="4457040" crc="f77b9715" md5="bb9db2e95783931676f31089b8aadd27" sha1="afdece3df2586caa9c5661a45cbbfcce5a015f67"/>
+		<rom name="angelvf (Track 05).bin" size="4452336" crc="cf8e17b5" md5="b5495ef4c0d6a7e933cbf3896612a76b" sha1="87fb439cf0fb80578b74636badc3288c01af6d87"/>
+		<rom name="angelvf (Track 06).bin" size="4494672" crc="e7384c8d" md5="58fde40e442f8e7904b169dcb345b9ab" sha1="45aaf85b148ffacb5811bd5b286933719da47cc1"/>
+		<rom name="angelvf (Track 07).bin" size="4433520" crc="15e451f8" md5="3b79b38f48ff7e3d8a9918ab770b9f13" sha1="66a8befbb3722bd169f2fb44899403f872af8e63"/>
+		<rom name="angelvf (Track 08).bin" size="4494672" crc="5a56248e" md5="9e70bb5600049574238d48b96a0a74f4" sha1="2784c532bf02edc5787bf44b49c19580e3ce74ad"/>
+		<rom name="angelvf (Track 09).bin" size="4419408" crc="f7f765ec" md5="8991c6a1ecf0ab058df35aed63db7918" sha1="86eca833171082d4b349fd1a62f570b37a9425a4"/>
 		<rom name="angelvf (Track 10).bin" size="4459392" crc="368cbe34" md5="5a56990c6398f9c2f4345e9c70f11f48" sha1="267602bb2ae8e0096e2e3a17415800d6483c6514"/>
 		<rom name="angelvf (Track 11).bin" size="4417056" crc="73edde7f" md5="0d888ab6b3e1aa4ace4931ed9e10b4a8" sha1="243931879e53446d3088c3b81b5e6aa0f7a453a7"/>
 		<rom name="angelvf (Track 12).bin" size="4459392" crc="64f0b2b6" md5="2118433ea0e87d6a5379fa37cfbc4865" sha1="5a2b4509b1de8dbaaca7ce09597f16bed5f5f3f9"/>
@@ -24,7 +31,6 @@
 		<rom name="angelvf (Track 17).bin" size="4459392" crc="3bffad9b" md5="4921e680b40487cf05c037dd83b5a676" sha1="3e96225b6c3c7441d3ba84e5d94bec9659e898e1"/>
 		<rom name="angelvf (Track 18).bin" size="4417056" crc="2773d297" md5="5f9e317000350e5f5acc4fe05ed11520" sha1="30e1d3339cb7d60aa28623ec4bb378de20862259"/>
 		<rom name="angelvf (Track 19).bin" size="4466448" crc="ff8c39ab" md5="47e39cdc3610953d042aabaf79e35f3b" sha1="92c01d5631d65beec3c54fefa77a4fb078164647"/>
-		<rom name="angelvf (Track 2).bin" size="7940352" crc="c49e1cac" md5="0a59470e9148a3d60cc8b7147b138874" sha1="9d3df36f155ae5d22b2cb135a392f31b46431c13"/>
 		<rom name="angelvf (Track 20).bin" size="4417056" crc="9f3d94a3" md5="febab9df46714669394faf962cc706ba" sha1="8967cfc12666647064a2e958414e7f9a18ec5422"/>
 		<rom name="angelvf (Track 21).bin" size="4440576" crc="d6581c54" md5="96f84c1e38f14bcb59a6a14c13b06059" sha1="b304658d823b8094ba454b6a20a7b46f36f8c8fb"/>
 		<rom name="angelvf (Track 22).bin" size="4459392" crc="44298b38" md5="19ed71d53b0ba40f70b9b540d3683429" sha1="f407c1699adbab8825620135193a0fcd464cf46e"/>
@@ -35,7 +41,6 @@
 		<rom name="angelvf (Track 27).bin" size="4452336" crc="8787a991" md5="2680f0aa9fd46927f88ec45811b01d0f" sha1="734aec633b3ba9e9dc625f1987644a77b7cb18db"/>
 		<rom name="angelvf (Track 28).bin" size="4424112" crc="77f8a061" md5="d941da29bef2c2a3d845d492f8b26223" sha1="2ca417a8f07398e15d450f16875268742f61ed99"/>
 		<rom name="angelvf (Track 29).bin" size="4424112" crc="aecf9bf2" md5="daa960e6733d894cfc4181f59214b620" sha1="dd2df1bfe76af07539857d762c492817674dd7eb"/>
-		<rom name="angelvf (Track 3).bin" size="4417056" crc="2c6cdc09" md5="d1cf2ef1279e951aeb0d0884aee389dc" sha1="5d029a0a2c2f62f4fbb6bb836de3bab3a9d891e9"/>
 		<rom name="angelvf (Track 30).bin" size="4457040" crc="f7129daf" md5="ae47fe50b57daa4ed93b934ba442e0fc" sha1="a1c4d2ccd7e2c6e14af86c5b925a27284248cd7a"/>
 		<rom name="angelvf (Track 31).bin" size="4419408" crc="78a68be2" md5="c927cf5af0ff8d93f2efde6a1bf6091e" sha1="0d75b712990199fca3a7803fe6e6bb89aa7099cf"/>
 		<rom name="angelvf (Track 32).bin" size="8497776" crc="20dabf6f" md5="ef5fd51345242576e4a3aefb9781adc4" sha1="0702d89089cb1bd0bc676c5ee941fbadeeb4afe5"/>
@@ -46,7 +51,6 @@
 		<rom name="angelvf (Track 37).bin" size="8161440" crc="9e540a35" md5="9754c08c3cd00ceedc092550c0676529" sha1="493e15562cc434866012b5dfaeb4ee3de4289687"/>
 		<rom name="angelvf (Track 38).bin" size="5665968" crc="32bf7f5d" md5="4ddea1f4ae0c5d03605240ef0ed44733" sha1="82c813ddc9939920c0a14b80611134ec813a8c2c"/>
 		<rom name="angelvf (Track 39).bin" size="6392736" crc="2e78841c" md5="2e0e108d6f6e7e43a6986be34903995c" sha1="fc83c877b47ecdae2b3cf2ef3c5a9bc4e0ca01c0"/>
-		<rom name="angelvf (Track 4).bin" size="4457040" crc="f77b9715" md5="bb9db2e95783931676f31089b8aadd27" sha1="afdece3df2586caa9c5661a45cbbfcce5a015f67"/>
 		<rom name="angelvf (Track 40).bin" size="8911728" crc="d0a63ab5" md5="744181d7e359c17089fb862353d0bdd8" sha1="89575613282bee46fb5945fda196ca24341d2be5"/>
 		<rom name="angelvf (Track 41).bin" size="7084224" crc="000a78d2" md5="43b863fb8c98f2a0e3a4fd6ddef24cc3" sha1="1571c416445b850445fd53e35c7fa460e43437cd"/>
 		<rom name="angelvf (Track 42).bin" size="5771808" crc="47967fce" md5="0c0ec9402752c8b641a87382677f4798" sha1="38c2faea9427fd63d5aabde95971cd0e95452108"/>
@@ -57,7 +61,6 @@
 		<rom name="angelvf (Track 47).bin" size="15563184" crc="d00921d1" md5="43e362507cd88a5549c728fa82ce072b" sha1="7cc19ef12133251a8097791f290f2b37b1d9954c"/>
 		<rom name="angelvf (Track 48).bin" size="7519344" crc="be018343" md5="97ac430a1458fde6e5ad8194435e934f" sha1="492c9aa14f91febab79dfa58122f328b83455edc"/>
 		<rom name="angelvf (Track 49).bin" size="5174400" crc="63a089ca" md5="d161844cf21bb5720b18d0b92943cf9a" sha1="d9d1878d5228a282a3f7932a1dd7624a35a1f3db"/>
-		<rom name="angelvf (Track 5).bin" size="4452336" crc="cf8e17b5" md5="b5495ef4c0d6a7e933cbf3896612a76b" sha1="87fb439cf0fb80578b74636badc3288c01af6d87"/>
 		<rom name="angelvf (Track 50).bin" size="6032880" crc="0e3021e4" md5="016075f2278c9bb2ddf9a278d3ef1399" sha1="afae5910ffa5a023a7d5aba5c4531a2ec79f8704"/>
 		<rom name="angelvf (Track 51).bin" size="10087728" crc="6ba3fd29" md5="d37714896ead4165dcb679e8fea6427f" sha1="32df7fcc72866c67e872f04fe651e92b3c71bb64"/>
 		<rom name="angelvf (Track 52).bin" size="6766704" crc="15d37ace" md5="53ad6b89ae9fea97948a02f258622358" sha1="e23b19dbb76147c33f8d809f9f9820c4a4aa1792"/>
@@ -68,7 +71,6 @@
 		<rom name="angelvf (Track 57).bin" size="4866288" crc="335e88c7" md5="cfce7ab02f3d2348e74c387d22c74697" sha1="9b0906deb98ac0e00308ce29a320797dc4a7c5c3"/>
 		<rom name="angelvf (Track 58).bin" size="4440576" crc="45f4f61b" md5="31ccf414c0c4aafaf59f014ef45dcae7" sha1="3fa63fa7b6444d8daae25f402c058c34c6c054e8"/>
 		<rom name="angelvf (Track 59).bin" size="4438224" crc="23374576" md5="d738a04737d7754cec0be74d33ff67c2" sha1="d4a98daa11a7c54a32f90fa67ab02269179a750c"/>
-		<rom name="angelvf (Track 6).bin" size="4494672" crc="e7384c8d" md5="58fde40e442f8e7904b169dcb345b9ab" sha1="45aaf85b148ffacb5811bd5b286933719da47cc1"/>
 		<rom name="angelvf (Track 60).bin" size="7507584" crc="0627d7f2" md5="aad943a2f8cbaadff56cbd0215adb44b" sha1="84125a768b73bc73574c983b976078ad19444f7d"/>
 		<rom name="angelvf (Track 61).bin" size="7065408" crc="f279bafc" md5="3bb5e0073155ddd9d8ec08decc2862d6" sha1="778dc33accf15c611772b5ea1ec71eb9375e7a6a"/>
 		<rom name="angelvf (Track 62).bin" size="5306112" crc="36aa1d54" md5="1fe790a884441af861e6fccc3b811428" sha1="d4001915b7610b150c543d7176597b163aa1ee65"/>
@@ -79,7 +81,6 @@
 		<rom name="angelvf (Track 67).bin" size="4459392" crc="cdd07d29" md5="685fcc071be4a3e3528a4813d35bf660" sha1="512792c1b6239985acb9abbe848a5d7440023a73"/>
 		<rom name="angelvf (Track 68).bin" size="4433520" crc="5732c7ef" md5="bf5d8d2ec3decbf9dcc46ccdb9b5cf6e" sha1="93881e1d6e44f1e4c1bbb1b13da59902dc631b0d"/>
 		<rom name="angelvf (Track 69).bin" size="4473504" crc="0b31d9b3" md5="13dc6ee8e119e9c8aaa8995703229c89" sha1="acd261a2963b7c32ff6f226354ef92ab8e1a207a"/>
-		<rom name="angelvf (Track 7).bin" size="4433520" crc="15e451f8" md5="3b79b38f48ff7e3d8a9918ab770b9f13" sha1="66a8befbb3722bd169f2fb44899403f872af8e63"/>
 		<rom name="angelvf (Track 70).bin" size="5863536" crc="a2599aad" md5="0160e6a6b148f016b1f28f8be338dd50" sha1="29777e3ed901c9f44f905858885a1ddf547f0143"/>
 		<rom name="angelvf (Track 71).bin" size="4887456" crc="52fc3d84" md5="1778988414a5aa22f2a8815d190b9a6c" sha1="a39cef997f8f6f8696db8b8cb67729a8c1ebee8d"/>
 		<rom name="angelvf (Track 72).bin" size="4628736" crc="ca96497b" md5="585362c2126176255b487f7203b00d8b" sha1="e7503cb144b318eeb7cb082ce95667ef342c4ed1"/>
@@ -90,7 +91,6 @@
 		<rom name="angelvf (Track 77).bin" size="12705504" crc="437fdde5" md5="cd54e246818b36a553fd7445eb75f5ba" sha1="23888fd69f2d44525ba9484282795b805c78a04a"/>
 		<rom name="angelvf (Track 78).bin" size="6054048" crc="8e69e5a7" md5="f9f999e34ac1fb1ed66b2ef21d511d67" sha1="a3accc0e6b9981144de7c324c7c3fc2f1f13e10e"/>
 		<rom name="angelvf (Track 79).bin" size="6980736" crc="4a9099b5" md5="b7d7fe58b95518b98dcb9480cb621b81" sha1="db4fb4cc884ac4e68a82b67e37443576c86acbfa"/>
-		<rom name="angelvf (Track 8).bin" size="4494672" crc="5a56248e" md5="9e70bb5600049574238d48b96a0a74f4" sha1="2784c532bf02edc5787bf44b49c19580e3ce74ad"/>
 		<rom name="angelvf (Track 80).bin" size="6891360" crc="97f74696" md5="b35c9aad8b91b7a491d1d021665dda63" sha1="0003ddeae956a1871e391f35799c563897e6a288"/>
 		<rom name="angelvf (Track 81).bin" size="9433872" crc="6fe1f254" md5="517060c146a85bbda33e4c27bbfa916a" sha1="f6af05afb9d20194907cfff8d058898d6c7eee6d"/>
 		<rom name="angelvf (Track 82).bin" size="9095184" crc="96b61332" md5="45f9546f5d98f96877d080ed118695ab" sha1="f4804f40100abe19937170724443cacd68c4fe51"/>
@@ -101,7 +101,6 @@
 		<rom name="angelvf (Track 87).bin" size="6590304" crc="92535052" md5="cb2239de01a8162e54997f1dc5ae1ec5" sha1="7c1c1320a64e2299e20a57b3e17e1eaf15956148"/>
 		<rom name="angelvf (Track 88).bin" size="7074816" crc="3c2dc22f" md5="da94aa888507854c3c1af6d1a7c93c7d" sha1="629a9107291bcdab8bc9282d3480d45a4fcf9e9f"/>
 		<rom name="angelvf (Track 89).bin" size="7535808" crc="a3e4b24e" md5="b6698e489aefb5a02e666a58ecbf594f" sha1="1aa6e65a2dc25536df97428974d082f24ac52bd0"/>
-		<rom name="angelvf (Track 9).bin" size="4419408" crc="f7f765ec" md5="8991c6a1ecf0ab058df35aed63db7918" sha1="86eca833171082d4b349fd1a62f570b37a9425a4"/>
 		<rom name="angelvf (Track 90).bin" size="4457040" crc="f7129daf" md5="ae47fe50b57daa4ed93b934ba442e0fc" sha1="a1c4d2ccd7e2c6e14af86c5b925a27284248cd7a"/>
 	</game>
 </datafile>
