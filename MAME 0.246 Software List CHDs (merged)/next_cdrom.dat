@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC " -//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>next_cdrom</name>
+		<description>next_cdrom</description>
+		<version>2022-01-01 15-44-09</version>
+		<date>2022-01-01 15-44-09</date>
+		<author>CHD Dat</author>
+		<homepage>CHD Dat.org</homepage>
+		<url>http://CHDDat.org/</url>
+	</header>
+	<game name="3p_prod_93\next_3rd_party_products_93" sha1="2756e5f8276522cdffb510b1d15c2ede524fbff0" size="80871770" crc="d4fa8af7" fullsha1="be4583233cb3485304b2e43e3a4edf79b900ef08" dataSha1="b526b70b5ea9b8a5ce9450362c9cd855589ef43a">
+		<category>Games</category>
+		<description>3p_prod_93\next_3rd_party_products_93</description>
+		<rom name="next_3rd_party_products_93 (Track 1).bin" size="302764032" crc="dbbde2da" md5="000f4afca86230eac05090bd7d750023" sha1="8c7416df16670c90f8540c5fc128f700d94be3e9"/>
+	</game>
+	<game name="3p_prod_fall_95\3rd_party_products_fall_95" sha1="f40eccd56169dacd06b804e807b02409ae3c562b" size="342092789" crc="0379ac80" fullsha1="81560984906652f23ce7ed9d774af3b7c3e3ef9f" dataSha1="9877bad16fe605e3243c83ac24b0c8549ef95834">
+		<category>Games</category>
+		<description>3p_prod_fall_95\3rd_party_products_fall_95</description>
+		<rom name="3rd_party_products_fall_95 (Track 1).bin" size="583481344" crc="3b778a37" md5="717a2a4605ba148e5da02e52306a60cc" sha1="f1b14da7f0b890053bf5692951157d6334c2a82d"/>
+	</game>
+	<game name="3p_sampl_fall_93\3rd_party_sampler_fall_93" sha1="f48bf922a5e6c71826261656e727341370eeead3" size="139614843" crc="a2a6935f" fullsha1="b28e80f82dc79186e286bb3f9f8ef0e14950f2e4" dataSha1="1179bf3343d698cd5cec548250063c7e2a61c405">
+		<category>Games</category>
+		<description>3p_sampl_fall_93\3rd_party_sampler_fall_93</description>
+		<rom name="3rd_party_sampler_fall_93 (Track 1).bin" size="403431424" crc="afbcfc26" md5="a5806364e6f349f21fda3c463cf4f2aa" sha1="e51e23053add4fdc98a9529b2c3bf88860a9cd3b"/>
+	</game>
+	<game name="app_wrapper_2\the_electronic_app_wrapper" sha1="4146458a5da087117f3fe151e9c05b98f7d34168" size="331722775" crc="47f6c7ab" fullsha1="30ccb94b896566ffdf5c310f47dd41f9c83b3285" dataSha1="6602fe725e10563c4b19d5910a71cb6f5627c896">
+		<category>Games</category>
+		<description>app_wrapper_2\the_electronic_app_wrapper</description>
+		<rom name="the_electronic_app_wrapper (Track 1).bin" size="682287104" crc="fce7a222" md5="dc52384622273d9a996445613736a888" sha1="4811b749a85c0647c273d5d8156832b71345ea1c"/>
+	</game>
+	<game name="edu_sampl_92\education_1992_sampler" sha1="a9b3370e0e9c4f1a2d9888e6ac164ec334dc65f6" size="168099220" crc="6657c7bf" fullsha1="f0b468ac8f7388b5e620ae9beae7b0183e2b9eee" dataSha1="c7692aff93ddb77fb7688c52eae7406a167d8a4f">
+		<category>Games</category>
+		<description>edu_sampl_92\education_1992_sampler</description>
+		<rom name="education_1992_sampler (Track 1).bin" size="676143104" crc="18d86ef7" md5="d31cd8c037e0c009dbf0a35095c95f83" sha1="f69472858955a7836175c99779eca5f137cb0b0a"/>
+	</game>
+	<game name="softpc_3_0\softpc30_win" sha1="5a3cef335d4e0d21e7ca1e348ea54a00a725baf5" size="27760078" crc="1bba2693" fullsha1="530a900663a1a49498c7f779385da98c6f363293" dataSha1="f2465ba0dcc3487fd247c2ac5629505048b58ba5">
+		<category>Games</category>
+		<description>softpc_3_0\softpc30_win</description>
+		<rom name="softpc30_win (Track 1).bin" size="664119296" crc="b11a12fe" md5="5a5fed9d7d6fd3f3dafd612061c0aa05" sha1="e66725902dca0f61843e8b8d2380cf1681ad18e7"/>
+	</game>
+</datafile>
