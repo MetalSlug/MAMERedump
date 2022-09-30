@@ -1,4 +1,4 @@
-# MAME Redump
+# MAME Redump 0.246
 
 The aim of the MAME Redump project is to convert the redump sets to the chd format. All mame CHDs (if available) should be also merged or included.
 
@@ -12,19 +12,19 @@ The program to read out this information or to merge the sets are not yet public
 
 # Folders in this repository
 
-MAME Redump 0.246 
+MAME Redump
 - Current CHD files
 
-MAME Redump 0.246 - Missing 
+MAME Redump - Missing 
 - Missing Redump Games
 
-MAME 0.246 Software List CHDs (merged)
+MAME Software List CHDs (merged)
 - All MAME SW CHDs with additional track and checksum information
 
-MAME 0.246 Additional Redump CHDs
+MAME Additional Redump CHDs
 - Redump CHDs which are not included in MAME SW CHDs
 
-# MAME Redump 0.246 status and used sets
+# Status and used sets
 
 Acorn - Archimedes
 - Redump 2022-07-06 (50)
