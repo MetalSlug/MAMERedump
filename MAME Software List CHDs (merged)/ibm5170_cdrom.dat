@@ -4,8 +4,8 @@
 	<header>
 		<name>ibm5170_cdrom</name>
 		<description>ibm5170_cdrom</description>
-		<version>0.246</version>
-		<date>2022-08-04</date>
+		<version>0.250</version>
+		<date>2022-12-21</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -368,6 +368,11 @@
 		<category>Games</category>
 		<description>bioforge\bioforge vf1.01 (1995)(origin)(m3)</description>
 		<rom name="bioforge vf1.01 (1995)(origin)(m3) (Track 01).bin" size="174841856" crc="be17ddb6" md5="248521d56b190ae1e62bb98e5c9d0ce7" sha1="db7fdbaf2af6c7ecb9361312fac2041bb3eb1af8"/>
+	</game>
+	<game name="blackhawk\Blackhawk (Europe) (En,Fr,De)" sha1="c7964cefec0eeacd7f626efdd74f1456e417f205" size="4664950" crc="e12f16f9" fullsha1="7031e0b00ade177a62d0df78c3f2f69fbc3e4e33" dataSha1="511b948030359275dac022cbbca8e0e24e857696">
+		<category>Games</category>
+		<description>blackhawk\Blackhawk (Europe) (En,Fr,De)</description>
+		<rom name="Blackhawk (Europe) (En,Fr,De) (Track 01).bin" size="6218688" crc="8fe67eb5" md5="d1259beb9eb449cab1b0c1dd9dfe1c01" sha1="0bee0c935c00ec7564610ad365288c6a32bf1664"/>
 	</game>
 	<game name="bladerun\blade runner (1997)(virgin)(disc 1 of 4)" sha1="b0472f9fa12b8346acd67a606dfd97e7227b1e33" size="460231258" crc="f6cb7c87" fullsha1="449b907d4b85e67d3b7fe5832ea7ad4f555b31db" dataSha1="afbcaf622fba4793511fc88f92f75b45f4cf1b5f">
 		<category>Games</category>
@@ -1386,6 +1391,11 @@
 		<rom name="prototyp (Track 07).bin" size="13606320" crc="c93ba353" md5="61c7daa61066d9eefd27d6209970ec93" sha1="aa1c683f1e91313be6f2dcfe64ef9f32ba134ffe"/>
 		<rom name="prototyp (Track 08).bin" size="31634400" crc="d054c17c" md5="6ccf7dd9f6d7a0c53084dc6fd14b48d6" sha1="2cf5806ce419fe30e61aa26bc474c08c42a1bdde"/>
 	</game>
+	<game name="qracrally\Network Q RAC Rally (USA)" sha1="ca50aaada87a3d0aaaa1e5cfbb8cc11f4d9862ea" size="7555347" crc="d3fe6f7d" fullsha1="953ab84ace809f851ba536bf66df86618c9add29" dataSha1="479b01840f15e692746f34d130b4dce27ede504b">
+		<category>Games</category>
+		<description>qracrally\Network Q RAC Rally (USA)</description>
+		<rom name="Network Q RAC Rally (USA) (Track 01).bin" size="14824656" crc="2d2a7c4f" md5="7a97e543e09781c81de315236afb11b5" sha1="e6b1be6d3a9cb276d4909c97befc938af11cf67f"/>
+	</game>
 	<game name="rayman\rayman" sha1="207d28d20adcc9d17233c8ebc3dc168cef0dc882" size="183671212" crc="d15d3d8e" fullsha1="7e2eeda69210a4d862f3f3b29c8b984d4aa443fd" dataSha1="a8ab904ee9879a247ce0ac474504e03655519ec6">
 		<category>Games</category>
 		<description>rayman\rayman</description>
@@ -1558,6 +1568,11 @@
 		<rom name="stg (Track 21).bin" size="51687552" crc="4a2ce67f" md5="27e7a8d0d6cf8bb954554df8ea9e47ed" sha1="c458955f45aeab10b218cbee725e6f39a5e8ad64"/>
 		<rom name="stg (Track 22).bin" size="54460560" crc="2a5308bd" md5="862ac63175e55af074d560ab39167a87" sha1="cef7256d9ce8a19a9930e6c4ff3bba7a6d26420a"/>
 		<rom name="stg (Track 23).bin" size="1063104" crc="876623b7" md5="7eb797d6f8c8fff173e2b56ebb66b78b" sha1="a6bf32311b329950c43277657b691132792090e6"/>
+	</game>
+	<game name="supaplex\Supaplex (Europe)" sha1="e18383536bc1eeb4b80fafc8cf101018703e5373" size="10132963" crc="4b81d815" fullsha1="24aae2c6eb6aed18550a8d86803c1e122c26bf12" dataSha1="0f4655cb3d8c2019ef3c8068f744cc925f5443fc">
+		<category>Games</category>
+		<description>supaplex\Supaplex (Europe)</description>
+		<rom name="Supaplex (Europe) (Track 01).bin" size="13199424" crc="403367aa" md5="e1bf1d380f579a0ed893247c46465220" sha1="7ee29b80716176fdd8aa587a300dd137448d6a0d"/>
 	</game>
 	<game name="t2gmchess\t2_cdrom" sha1="9df5cd7ab7c8d63610c2d9c6a87411e62c28f852" size="20251344" crc="0e0ad906" fullsha1="9bbb9362fe6a4895c7b1e3e34c179fdd7436c070" dataSha1="e4b7a9a5328bfc7af02c52cfac6c2955a1a5d67d">
 		<category>Games</category>

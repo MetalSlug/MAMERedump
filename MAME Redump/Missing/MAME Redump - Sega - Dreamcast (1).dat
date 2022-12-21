@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+  <header>
+    <name>MAME Redump - Sega - Dreamcast</name>
+    <description>MAME Redump - Sega - Dreamcast - Discs (1454) (2022-12-08 19-28-56)</description>
+    <date>2022-12-21</date>
+    <version>0.250</version>
+    <author>MAME Redump</author>
+    <url>https://github.com/MetalSlug/MAMERedump</url>
+  </header>
+  <game name="Tough Guy (USA, Japan) (Unl)">
+    <description>Tough Guy (USA, Japan) (Unl)</description>
+    <rom name="Tough Guy (USA, Japan) (Unl).cue" size="235" crc="01DD426D" sha1="36C92012F6B857DBA0C94020B72B15EC907D17BB" />
+    <rom name="Tough Guy (USA, Japan) (Unl) (Track 1).bin" size="10633392" crc="EABD310B" sha1="77F7E7298B627C9E2B8D44F83BB3CF4EFC7054E6" />
+    <rom name="Tough Guy (USA, Japan) (Unl) (Track 2).bin" size="670390560" crc="C6AE014A" sha1="2FC101E775DDD882AC7E4A335319A753B4379664" />
+  </game>
+</datafile>

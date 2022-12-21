@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+  <header>
+    <name>MAME Redump - Philips - CD-i</name>
+    <description>MAME Redump - Philips - CD-i - Discs (1804) (2022-09-22 02-08-04)</description>
+    <date>2022-12-21</date>
+    <version>0.250</version>
+    <author>MAME Redump</author>
+    <url>https://github.com/MetalSlug/MAMERedump</url>
+  </header>
+  <game name="Nobelia (USA, Europe) (Unl)">
+    <description>Nobelia (USA, Europe) (Unl)</description>
+    <rom name="Nobelia (USA, Europe) (Unl).cue" size="91" crc="0A130AF9" sha1="0CD3A50A7413139C2A97D8390BBF8FBF86EEC7BF" />
+    <rom name="Nobelia (USA, Europe) (Unl).bin" size="58035600" crc="DF2EB03C" sha1="154EC94E6CFCE386E22151454FA3196138710F5B" />
+  </game>
+</datafile>
