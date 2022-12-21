@@ -14,11 +14,13 @@ The program to read out this information or to merge the sets are not yet public
 
 MAME Redump
 - Current CHD files
+
 MAME Redump / Missing 
 - Missing Redump Games
 
 MAME Software List CHDs (merged)
 - All MAME SW CHDs with additional track and checksum information
+
 MAME Software List CHDs (merged) / Additional Redump CHDs
 - Redump CHDs which are not included in MAME SW CHDs
 
