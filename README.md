@@ -14,14 +14,12 @@ The program to read out this information or to merge the sets are not yet public
 
 MAME Redump
 - Current CHD files
-
-MAME Redump - Missing 
+MAME Redump / Missing 
 - Missing Redump Games
 
 MAME Software List CHDs (merged)
 - All MAME SW CHDs with additional track and checksum information
-
-MAME Additional Redump CHDs
+MAME Software List CHDs (merged) / Additional Redump CHDs
 - Redump CHDs which are not included in MAME SW CHDs
 
 # Status and used sets
@@ -64,7 +62,6 @@ Wing Commander (Japan) (En,Ja) (Alt)
 
 Redump MIA (1)
 http://wiki.redump.org/index.php?title=Fujitsu_-_FM-Towns_MIA
-
 ```
 
 NEC - PC Engine CD & TurboGrafx CD (542)
@@ -115,7 +112,6 @@ Tough Guy (USA, Japan) (Unl)
 
 Redump MIA (1)
 http://wiki.redump.org/index.php?title=Sega_-_Dreamcast_MIA
-
 ```
 
 Sega - Mega CD & Sega CD (806)
@@ -152,7 +148,6 @@ Oumagatoki (Japan) (Premium Fan Disc)
 R4 - Ridge Racer Type 4 (Korea)
 Thoroughbred Breeder - Sekai Seiha-hen (Japan) (Rev 1)
 Zero Divide (Japan) (Demo)
-
 
 Redump MIA (8)
 http://wiki.redump.org/index.php?title=Sony_-_PlayStation_MIA
