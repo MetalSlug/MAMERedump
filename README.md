@@ -124,15 +124,9 @@ Sega - Saturn (4406)
 - Redump 2022-11-24 (2356)
 - MAME 0.250 Software List CHDs (merged) (saturn)
 
-SNK - Neo Geo CD (110)
+SNK - Neo Geo CD (111)
 - Redump 2022-09-23 (111)
 - **No Match with MAME 0.250 Software List CHDs (neocd)**
-
-```
-Missing (1)
-
-Xeno Crisis (World) (Unl)
-```
 
 Sony - PlayStation (11480)
 - Redump 2022-12-14 (10681)
