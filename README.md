@@ -24,6 +24,10 @@ MAME Software List CHDs (merged)
 MAME Software List CHDs (merged) / Additional Redump CHDs
 - Redump CHDs which are not included in MAME SW CHDs
 
+# RomVault Settings
+
+![RomVault Settings](/Romvault.png?raw=true "RomVault Settings")
+
 # Status and used sets
 
 Acorn - Archimedes (51)
