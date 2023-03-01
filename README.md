@@ -28,6 +28,9 @@ MAME Software List CHDs (merged) / Additional Redump CHDs
 
 ![RomVault Settings](/Romvault.png?raw=true "RomVault Settings")
 
+- Use Scan Quick (Headers Only) for faster scans (right mouse button context menu).
+- RomVault will show some CHDs as fixable because it want to convert the CHDS to V5 Format.
+
 # Status and used sets
 
 Acorn - Archimedes (51)
