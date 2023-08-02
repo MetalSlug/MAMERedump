@@ -4,8 +4,8 @@
 	<header>
 		<name>SNK - Neo Geo CD - Redump 2022-06-05</name>
 		<description>SNK - Neo Geo CD - Redump 2022-06-05</description>
-		<version>0.250</version>
-		<date>2022-12-21</date>
+		<version>0.257</version>
+		<date>2023-08-02</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -552,30 +552,6 @@
 		<rom name="Double Dragon (Export) (En,Ja) (Track 19).bin" size="26862192" crc="44a21c02" md5="b7de0c4da252a4c67f8277a6156ee138" sha1="900e29a7132c982cab0c7fecb7f1b149667c2252"/>
 		<rom name="Double Dragon (Export) (En,Ja) (Track 20).bin" size="27984096" crc="2b16ee70" md5="02b32c21da0e9801653945b4066e7871" sha1="9da224ef2e510f79468ffc85fd9a14f3bbfbefd7"/>
 	</game>
-	<game name="Double Dragon (Japan) (En,Ja) (Rev 1)" sha1="3f06514f31476fe9872850899a3ba912dadfc675" size="443181476" crc="c7aaab1f" fullsha1="64bf06de31105900dacbdd927ef635f71d264725" dataSha1="a32acb0b674ccc53f5fa98094f8b3134bf0ff7d4">
-		<category>Games</category>
-		<description>Double Dragon (Japan) (En,Ja) (Rev 1)</description>
-		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1) (Track 01).bin" size="22988448" crc="3bddb81a" md5="3f6119a8c0fa4bdd18da8636f1dee440" sha1="a9d3a27bdbd533279368cdac7f83ece312235f56"/>
-		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1) (Track 02).bin" size="17903424" crc="5e1138f0" md5="6855ee77c32d4640ad0e80c01e900666" sha1="92a401dfc87853ffc5e72003577216d018b6b801"/>
-		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1) (Track 03).bin" size="17823456" crc="f865e94f" md5="056a1ac0302e7b366cee842dad19df31" sha1="e597eb19147cfd96b2d82d7141d05ee4e14ff5c1"/>
-		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1) (Track 04).bin" size="5089728" crc="6f243990" md5="cba4aea648662c9fcb0faa112cbd1b74" sha1="382cbd817c1c2a58e42e35b9cf58109a58453a3d"/>
-		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1) (Track 05).bin" size="3539760" crc="e76047ad" md5="eecfd6b09cc8cf84ddcce2afdb09b0ed" sha1="941315e36eec2f5f28e8ec3ec70ee609970816df"/>
-		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1) (Track 06).bin" size="45224256" crc="fed1ed7d" md5="0905b95573d6270b65eca463fb4141a6" sha1="22f7bd588aa68776930cc9e06283a8813025fb99"/>
-		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1) (Track 07).bin" size="38913840" crc="25093ae8" md5="4cd3f1edafc0e1ac9b3f3f5ca8e203f9" sha1="076905470bcc47e5705972985466e9fd7d5730b6"/>
-		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1) (Track 08).bin" size="47686800" crc="f74c501a" md5="c031185fb5a365f53c87d15c55830b57" sha1="b09607747da75cceb2b933339c72733c67132766"/>
-		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1) (Track 09).bin" size="43472016" crc="e6b0116f" md5="43ba26a326c23f95637ffa7ecbcd5b8f" sha1="fba60832dbc065737b6d12c71bf855497013d150"/>
-		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1) (Track 10).bin" size="45160752" crc="b5319c17" md5="b1ebfc0ecbdcd5251dcebfe8482270fd" sha1="b54b45f13f99fc130ef50648f213230245e0cbcf"/>
-		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1) (Track 11).bin" size="47818512" crc="af19e471" md5="57d287e069d0bd2aa019ad32e5096c66" sha1="7697603904e028de0087cc0834667d65c0caafd3"/>
-		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1) (Track 12).bin" size="44036496" crc="3d711524" md5="1f49e07cc4bf7b0ef031f562d8c4a704" sha1="ae09667e2f5a1cb96853a0d2e368a2a404aca364"/>
-		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1) (Track 13).bin" size="48046656" crc="4c94d4ad" md5="00571bf4c1b93e83d26ab8f3f82b3819" sha1="64b8f726a21e1b907da16aa2b90199f9a1a8b7ef"/>
-		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1) (Track 14).bin" size="46390848" crc="a139597c" md5="d9e9e76a804c7bf0a5be4431efa1c1e8" sha1="99c72746026a83e7db78c83e98f6c320d2ae8933"/>
-		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1) (Track 15).bin" size="48945120" crc="385af469" md5="38052c197456605a018c42437ce721f0" sha1="8db22f7dd99791ff7e25ddbb4ee55525111e3d70"/>
-		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1) (Track 16).bin" size="47051760" crc="d3df36c1" md5="7df84848fd6df6218bc5770ee1deae29" sha1="9c498cc1cba7568b9ddf18c22d878bcf00b4bc09"/>
-		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1) (Track 17).bin" size="47188176" crc="90d9fdde" md5="c4eb98f796ae063a3747436ffc35341c" sha1="72d76311925768b816f2c822389f43af9fb1326c"/>
-		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1) (Track 18).bin" size="42719376" crc="f053c8ca" md5="40500cc132832b2f9dcd1f78788b5a08" sha1="1ec792a8ce3e9674ea6108d8746749a72fd70f76"/>
-		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1) (Track 19).bin" size="26862192" crc="44a21c02" md5="b7de0c4da252a4c67f8277a6156ee138" sha1="900e29a7132c982cab0c7fecb7f1b149667c2252"/>
-		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1) (Track 20).bin" size="27984096" crc="2b16ee70" md5="02b32c21da0e9801653945b4066e7871" sha1="9da224ef2e510f79468ffc85fd9a14f3bbfbefd7"/>
-	</game>
 	<game name="Dunk Dream ~ Street Slam ~ Street Hoop (World)" sha1="b0a7264f0c0b1981083d39ef2044197ef447c6ec" size="208542555" crc="5f04df40" fullsha1="b32a7b5e0c2cae6f1fcc8561fdb14cb142b25e88" dataSha1="76a7c937bb188edf47ff8d1225dcc9bbc18b95b7">
 		<category>Games</category>
 		<description>Dunk Dream ~ Street Slam ~ Street Hoop (World)</description>
@@ -825,44 +801,44 @@
 		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Export) (En,Ja,Es,Pt) (Rev 1) (Track 34).bin" size="12907776" crc="c1ee8fb0" md5="27bbc8b9680a069f2c782811e6bb845c" sha1="2153d3937a899dd62124bff11224c2ed08be59eb"/>
 		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Export) (En,Ja,Es,Pt) (Rev 1) (Track 35).bin" size="21076272" crc="b32d4cbe" md5="bd0d9a442c47ab0626554f2f25dba761" sha1="52a8ae41a72848003aa3bce8b5b3719764569f1e"/>
 	</game>
-	<game name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt)" sha1="054827ac2453ee836ffcc047994e20ba87f1204e" size="339487745" crc="1f9bb3e2" fullsha1="8a0d2a0f0114ae4bbdeb902a102b57a4a5bd83f8" dataSha1="2d9f7f5dc2020105eda5efc949fb5eb06c6f2f6e">
+	<game name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt)" sha1="054827ac2453ee836ffcc047994e20ba87f1204e" size="339487745" crc="1f9bb3e2" fullsha1="8a0d2a0f0114ae4bbdeb902a102b57a4a5bd83f8" dataSha1="2d9f7f5dc2020105eda5efc949fb5eb06c6f2f6e">
 		<category>Games</category>
-		<description>Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt)</description>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 01).bin" size="59562048" crc="89074587" md5="ed12060f02e8347ce639261943d2ad27" sha1="610515a22118f4c2593969cf39531c2ec8569c93"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 02).bin" size="7180656" crc="f0eba4d9" md5="d80f6da29ed83c8fdb004ec68cd35d7c" sha1="c1e1e76d9cd0bb05667d1b6637800dae7729272e"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 03).bin" size="9565584" crc="7f4198c6" md5="668af8c942d6d9672808a4fb2b6f62c9" sha1="0a520c05993d6b65732ba6b0926d3b1dd867d1a6"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 04).bin" size="12345648" crc="f872ddc9" md5="59643f813e5a58a7b0d6f3009e3de08a" sha1="1d7fd3714830d3b091bd3fa36342736ccbe035c4"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 05).bin" size="4123056" crc="073c740c" md5="2d261977cf1cd130e8832ed6780cff46" sha1="46159128ffb84aa4876c75d591e622e9828101bc"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 06).bin" size="2415504" crc="c832453f" md5="c477979f9dcc84d0de82439fedeb4dd4" sha1="2786ad667c0b3fe55304e73fa3e538a71faccb61"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 07).bin" size="3368064" crc="fddd2987" md5="ad9a1198c816260a3d99cbcee699050c" sha1="505635b17881e27c8ccd0e87117ae96364619738"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 08).bin" size="18837168" crc="64045236" md5="b8dbd56accc43dfe2488343da1f40823" sha1="c882c87f47bd4a506a85cd85c15dc05a83663858"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 09).bin" size="35924448" crc="5d701087" md5="c259f9c37470826cd3369a7fd929f656" sha1="38dfe3016abb325243cf5720b11661eb607ba5b3"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 10).bin" size="2354352" crc="ad2df538" md5="d6eb144044d14406346264ac9421b5c3" sha1="dc8d91b422cb25f51a209fb3e69742c70d295048"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 11).bin" size="35275296" crc="ca287cd1" md5="770e2839d06d6d4a3bbfd8d9c29335b1" sha1="199688e38fb5bcd0cac8448603b9e43122502a23"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 12).bin" size="34348608" crc="67ce0a68" md5="2602d3413529bb457e17238d5e1e9f60" sha1="1cee9f505a9d00b414741ebac8157cb54165c495"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 13).bin" size="2354352" crc="ad2df538" md5="d6eb144044d14406346264ac9421b5c3" sha1="dc8d91b422cb25f51a209fb3e69742c70d295048"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 14).bin" size="35912688" crc="eed26f3d" md5="7cbae3104faa823f57d3319794128c90" sha1="8e84347810c3f87c8e323be9f51939cdeaa54655"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 15).bin" size="34717872" crc="e176d6ad" md5="5b09deff12810e53613a8e6dc0723577" sha1="0ad45633c9e0d1209fdc66fe9557ec13089f3de9"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 16).bin" size="2354352" crc="ad2df538" md5="d6eb144044d14406346264ac9421b5c3" sha1="dc8d91b422cb25f51a209fb3e69742c70d295048"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 17).bin" size="35432880" crc="c1095ef0" md5="c5f44bb70d5c358659a0d06c8fa494f7" sha1="b7728648d0f1d2c4b20da477060f0f965fb0fb0e"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 18).bin" size="34903680" crc="46eb5d30" md5="ec074825cd7dc6424d99a4d79587bc39" sha1="d19f3f0d0a15def0dd314ff904d22d6439d44e36"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 19).bin" size="2354352" crc="ad2df538" md5="d6eb144044d14406346264ac9421b5c3" sha1="dc8d91b422cb25f51a209fb3e69742c70d295048"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 20).bin" size="34045200" crc="b1ea6d68" md5="c8dc96e66568c8ac7867961342fc97bc" sha1="7e6f89f1c50db42133cd59095d0c9964a11bf00a"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 21).bin" size="34278048" crc="e940cd6b" md5="eeeab247a0ad81ea3366e75acaf5a84e" sha1="fb9ab1bb3d2cdded3ec74dab75ea7f169cfd2d7f"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 22).bin" size="2354352" crc="ad2df538" md5="d6eb144044d14406346264ac9421b5c3" sha1="dc8d91b422cb25f51a209fb3e69742c70d295048"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 23).bin" size="33445440" crc="dff61a7f" md5="dd51ea91a5c5d6fc27dd9393fbb0eed6" sha1="aefef5b44d8c64b69d5ba534bb0b88ca1488f437"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 24).bin" size="5315520" crc="c58f8f3b" md5="0931e0f723573ec823a598cbaff82042" sha1="384985ce7c677e6fb24995814259f9141386d06e"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 25).bin" size="9095184" crc="63c79454" md5="55f37a4526e8a323666686e2102b1152" sha1="b8b70e8cbd88eeb01ee52accc90ff52541794da1"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 26).bin" size="2648352" crc="04a4677d" md5="6c284b889f2ff744c2b72fbf15414d73" sha1="af1ad592b4fa26cc90b81248e4c6eb5e03c49fbe"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 27).bin" size="33092640" crc="c8eaabb7" md5="4d48fd51fd2f4b2ed5a210880cff36c2" sha1="71b2665dee1b2982771d2fefc7988a33ee7bf52b"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 28).bin" size="12355056" crc="82422142" md5="83eb90e062695ae163244a12d1c7bfe6" sha1="1db85f89453bc3f223ffac95b0cc31d358a6ca5c"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 29).bin" size="12625536" crc="f1e6302a" md5="749d7833aa95a94e9d0ad9bd7c953238" sha1="03f904400a58e4563e1f789b090745f835863c6e"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 30).bin" size="17635296" crc="db945db2" md5="3a2d3bf1e168cad76efdebf46ddbc673" sha1="90d21a2da995c13c636050b75124d392c60adb8b"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 31).bin" size="4708704" crc="f1b46d89" md5="12c3425d25c18851c7142a0da4bc02a9" sha1="b3f3871cfba085d95b2b4876fd64765d7a077774"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 32).bin" size="18670176" crc="dee8b65e" md5="08eff5ddf4835c905460eb0017efd2c3" sha1="4a5ec9d61d92a41823217eebca0f4c6b160f1de5"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 33).bin" size="17385984" crc="0467f5bc" md5="f297059285b0116f3951a046324d6085" sha1="06557ef03ea9b747b68942c76cfd0ffd62403da4"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 34).bin" size="12907776" crc="c1ee8fb0" md5="27bbc8b9680a069f2c782811e6bb845c" sha1="2153d3937a899dd62124bff11224c2ed08be59eb"/>
-		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Track 35).bin" size="21076272" crc="b32d4cbe" md5="bd0d9a442c47ab0626554f2f25dba761" sha1="52a8ae41a72848003aa3bce8b5b3719764569f1e"/>
+		<description>Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt)</description>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 01).bin" size="59562048" crc="89074587" md5="ed12060f02e8347ce639261943d2ad27" sha1="610515a22118f4c2593969cf39531c2ec8569c93"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 02).bin" size="7180656" crc="f0eba4d9" md5="d80f6da29ed83c8fdb004ec68cd35d7c" sha1="c1e1e76d9cd0bb05667d1b6637800dae7729272e"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 03).bin" size="9565584" crc="7f4198c6" md5="668af8c942d6d9672808a4fb2b6f62c9" sha1="0a520c05993d6b65732ba6b0926d3b1dd867d1a6"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 04).bin" size="12345648" crc="f872ddc9" md5="59643f813e5a58a7b0d6f3009e3de08a" sha1="1d7fd3714830d3b091bd3fa36342736ccbe035c4"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 05).bin" size="4123056" crc="073c740c" md5="2d261977cf1cd130e8832ed6780cff46" sha1="46159128ffb84aa4876c75d591e622e9828101bc"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 06).bin" size="2415504" crc="c832453f" md5="c477979f9dcc84d0de82439fedeb4dd4" sha1="2786ad667c0b3fe55304e73fa3e538a71faccb61"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 07).bin" size="3368064" crc="fddd2987" md5="ad9a1198c816260a3d99cbcee699050c" sha1="505635b17881e27c8ccd0e87117ae96364619738"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 08).bin" size="18837168" crc="64045236" md5="b8dbd56accc43dfe2488343da1f40823" sha1="c882c87f47bd4a506a85cd85c15dc05a83663858"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 09).bin" size="35924448" crc="5d701087" md5="c259f9c37470826cd3369a7fd929f656" sha1="38dfe3016abb325243cf5720b11661eb607ba5b3"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 10).bin" size="2354352" crc="ad2df538" md5="d6eb144044d14406346264ac9421b5c3" sha1="dc8d91b422cb25f51a209fb3e69742c70d295048"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 11).bin" size="35275296" crc="ca287cd1" md5="770e2839d06d6d4a3bbfd8d9c29335b1" sha1="199688e38fb5bcd0cac8448603b9e43122502a23"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 12).bin" size="34348608" crc="67ce0a68" md5="2602d3413529bb457e17238d5e1e9f60" sha1="1cee9f505a9d00b414741ebac8157cb54165c495"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 13).bin" size="2354352" crc="ad2df538" md5="d6eb144044d14406346264ac9421b5c3" sha1="dc8d91b422cb25f51a209fb3e69742c70d295048"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 14).bin" size="35912688" crc="eed26f3d" md5="7cbae3104faa823f57d3319794128c90" sha1="8e84347810c3f87c8e323be9f51939cdeaa54655"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 15).bin" size="34717872" crc="e176d6ad" md5="5b09deff12810e53613a8e6dc0723577" sha1="0ad45633c9e0d1209fdc66fe9557ec13089f3de9"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 16).bin" size="2354352" crc="ad2df538" md5="d6eb144044d14406346264ac9421b5c3" sha1="dc8d91b422cb25f51a209fb3e69742c70d295048"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 17).bin" size="35432880" crc="c1095ef0" md5="c5f44bb70d5c358659a0d06c8fa494f7" sha1="b7728648d0f1d2c4b20da477060f0f965fb0fb0e"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 18).bin" size="34903680" crc="46eb5d30" md5="ec074825cd7dc6424d99a4d79587bc39" sha1="d19f3f0d0a15def0dd314ff904d22d6439d44e36"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 19).bin" size="2354352" crc="ad2df538" md5="d6eb144044d14406346264ac9421b5c3" sha1="dc8d91b422cb25f51a209fb3e69742c70d295048"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 20).bin" size="34045200" crc="b1ea6d68" md5="c8dc96e66568c8ac7867961342fc97bc" sha1="7e6f89f1c50db42133cd59095d0c9964a11bf00a"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 21).bin" size="34278048" crc="e940cd6b" md5="eeeab247a0ad81ea3366e75acaf5a84e" sha1="fb9ab1bb3d2cdded3ec74dab75ea7f169cfd2d7f"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 22).bin" size="2354352" crc="ad2df538" md5="d6eb144044d14406346264ac9421b5c3" sha1="dc8d91b422cb25f51a209fb3e69742c70d295048"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 23).bin" size="33445440" crc="dff61a7f" md5="dd51ea91a5c5d6fc27dd9393fbb0eed6" sha1="aefef5b44d8c64b69d5ba534bb0b88ca1488f437"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 24).bin" size="5315520" crc="c58f8f3b" md5="0931e0f723573ec823a598cbaff82042" sha1="384985ce7c677e6fb24995814259f9141386d06e"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 25).bin" size="9095184" crc="63c79454" md5="55f37a4526e8a323666686e2102b1152" sha1="b8b70e8cbd88eeb01ee52accc90ff52541794da1"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 26).bin" size="2648352" crc="04a4677d" md5="6c284b889f2ff744c2b72fbf15414d73" sha1="af1ad592b4fa26cc90b81248e4c6eb5e03c49fbe"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 27).bin" size="33092640" crc="c8eaabb7" md5="4d48fd51fd2f4b2ed5a210880cff36c2" sha1="71b2665dee1b2982771d2fefc7988a33ee7bf52b"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 28).bin" size="12355056" crc="82422142" md5="83eb90e062695ae163244a12d1c7bfe6" sha1="1db85f89453bc3f223ffac95b0cc31d358a6ca5c"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 29).bin" size="12625536" crc="f1e6302a" md5="749d7833aa95a94e9d0ad9bd7c953238" sha1="03f904400a58e4563e1f789b090745f835863c6e"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 30).bin" size="17635296" crc="db945db2" md5="3a2d3bf1e168cad76efdebf46ddbc673" sha1="90d21a2da995c13c636050b75124d392c60adb8b"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 31).bin" size="4708704" crc="f1b46d89" md5="12c3425d25c18851c7142a0da4bc02a9" sha1="b3f3871cfba085d95b2b4876fd64765d7a077774"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 32).bin" size="18670176" crc="dee8b65e" md5="08eff5ddf4835c905460eb0017efd2c3" sha1="4a5ec9d61d92a41823217eebca0f4c6b160f1de5"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 33).bin" size="17385984" crc="0467f5bc" md5="f297059285b0116f3951a046324d6085" sha1="06557ef03ea9b747b68942c76cfd0ffd62403da4"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 34).bin" size="12907776" crc="c1ee8fb0" md5="27bbc8b9680a069f2c782811e6bb845c" sha1="2153d3937a899dd62124bff11224c2ed08be59eb"/>
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 35).bin" size="21076272" crc="b32d4cbe" md5="bd0d9a442c47ab0626554f2f25dba761" sha1="52a8ae41a72848003aa3bce8b5b3719764569f1e"/>
 	</game>
 	<game name="Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es)" sha1="bdaaafd89ea68f7354584230df2b6f416cbbd604" size="420491754" crc="3918df23" fullsha1="4ab99e94587cce07596cfdd865a3cee87b585a7f" dataSha1="965ff7268e7f2d3938cb53bb29797b0f24bbb36d">
 		<category>Games</category>
@@ -1198,29 +1174,29 @@
 		<rom name="Garou Densetsu Special ~ Fatal Fury Special (World) (En,Ja) (Rev 1) (Track 26).bin" size="34263936" crc="316da47c" md5="8fe193fa245b447aa50e89e85d607fd5" sha1="5d5d0582e1bbe330a0ccad33af63dab698e49410"/>
 		<rom name="Garou Densetsu Special ~ Fatal Fury Special (World) (En,Ja) (Rev 1) (Track 27).bin" size="30521904" crc="3b794950" md5="0d15d716c6c4357249f39fcaaae56dac" sha1="2df95a27d6cdad49271ac4565789a6dae7d1a90f"/>
 	</game>
-	<game name="Ghost Pilots (Japan)" sha1="5c85b897a33b320643bd3b285776b3d350870005" size="349750018" crc="407bdd8e" fullsha1="f99f307dbd8243963bd77a98d5233d534ef8e195" dataSha1="25563804b8bf555f7150ba3079d04d7d4c47e6f2">
+	<game name="Ghost Pilots (World)" sha1="5c85b897a33b320643bd3b285776b3d350870005" size="349750018" crc="407bdd8e" fullsha1="f99f307dbd8243963bd77a98d5233d534ef8e195" dataSha1="25563804b8bf555f7150ba3079d04d7d4c47e6f2">
 		<category>Games</category>
-		<description>Ghost Pilots (Japan)</description>
-		<rom name="Ghost Pilots (Japan) (Track 01).bin" size="8822352" crc="a6ff1b78" md5="c41f1d4058cc7fbba171e35f23d0a3ec" sha1="988ef1601be196bbf2d9d4eadf9b2b1956560907"/>
-		<rom name="Ghost Pilots (Japan) (Track 02).bin" size="4492320" crc="708dc208" md5="9b439a656f8b25428204a8080e41f4c2" sha1="3871d83e7f24da723b8499a679ff4c13d1a55e6e"/>
-		<rom name="Ghost Pilots (Japan) (Track 03).bin" size="13660416" crc="ff484bb8" md5="59eff31318585142f62b199da76acfc3" sha1="b305a6494566bad1e3390556e72aeb9fa827c330"/>
-		<rom name="Ghost Pilots (Japan) (Track 04).bin" size="49591920" crc="ed9c9866" md5="535ee784830d6757db0baad877adf70e" sha1="f1e440dc297f8225180a2b82d565afc09d737782"/>
-		<rom name="Ghost Pilots (Japan) (Track 05).bin" size="48260688" crc="8fa354d9" md5="0a61c2d6ff9d38d89ac570d99f7ea369" sha1="d6f2410c20bd8e0fcc3c8f3c2d3fcdf515835df0"/>
-		<rom name="Ghost Pilots (Japan) (Track 06).bin" size="52162656" crc="5b62aa68" md5="d7109f9ca4c76c706668b1cf060c19f7" sha1="eb1444d90cbee7a670f6cfb046cee99f75fbe52d"/>
-		<rom name="Ghost Pilots (Japan) (Track 07).bin" size="50370432" crc="bba9d09f" md5="d4fd999185e32b9bc84bb786f5021da3" sha1="dc18c81e1d11a47a5becaa2f36a334c327611834"/>
-		<rom name="Ghost Pilots (Japan) (Track 08).bin" size="49669536" crc="710d3642" md5="ed6fcebdce32bea508d1012531a9de03" sha1="eb16bd9a321e6e045183119023aea32e3dfb1a7c"/>
-		<rom name="Ghost Pilots (Japan) (Track 09).bin" size="51275952" crc="4f184d6d" md5="ca66bcd5412c5a58d704440f4ce20da1" sha1="75e91f885bf5511c9f80adcefa4a6715733e6666"/>
-		<rom name="Ghost Pilots (Japan) (Track 10).bin" size="51445296" crc="e2fc0592" md5="082f317a95ec58946adf1ad706738b62" sha1="be8473a4792c1f0b71025ae8b6d3861c3c1d71eb"/>
-		<rom name="Ghost Pilots (Japan) (Track 11).bin" size="81931920" crc="2766bd4d" md5="e0d97fa5ebaa48ae6d5d72fed0544861" sha1="74827de3f1103bab4f47e5aeaede68d225a56d54"/>
-		<rom name="Ghost Pilots (Japan) (Track 12).bin" size="82256496" crc="4b5f50fc" md5="d60189ca1823057f31fca7559a15b04e" sha1="81e3a65a7c02b47b18a6aec9d56c1553adb73a61"/>
-		<rom name="Ghost Pilots (Japan) (Track 13).bin" size="39003216" crc="2db24831" md5="ab21a5fe45f275aefd0bc28acc8ac3ac" sha1="6c5c2b0cc3355e07af23ff3d2df89ad7ea74310f"/>
-		<rom name="Ghost Pilots (Japan) (Track 14).bin" size="39160800" crc="7015a5f8" md5="b6402e7fb2b5fe33aa5a0a2f4e663fec" sha1="1f256060d1c31e0d0f9f36c3a0a7a8fd40f19c51"/>
-		<rom name="Ghost Pilots (Japan) (Track 15).bin" size="2591904" crc="88f799f3" md5="c9f4eea49693080d8a8e7c4ca6da2664" sha1="f39f977b57799ec602cde0233b2674d9097cfaba"/>
-		<rom name="Ghost Pilots (Japan) (Track 16).bin" size="2768304" crc="9521eb95" md5="0d7363236b75fbd6b41d8fe7927b8cbe" sha1="9cecb30bb4bf90efbc6245d2078aa7af55a60146"/>
-		<rom name="Ghost Pilots (Japan) (Track 17).bin" size="17047296" crc="84fcd3f9" md5="5e2c8bfd8c0a8112024d2168c075dc3b" sha1="9bebd525ca554542ff6676e2d208c3f9ae6fa736"/>
-		<rom name="Ghost Pilots (Japan) (Track 18).bin" size="2622480" crc="4df99a3c" md5="6736abc9221bb377b906ca37b72b2609" sha1="b47d992b573eabb13e71180bfbf2259482a56682"/>
-		<rom name="Ghost Pilots (Japan) (Track 19).bin" size="5484864" crc="9420c060" md5="a9427365de8ded9c5fb6370bd2ba0bbc" sha1="0f1cd548adeb5b0776a56be5cbc241cf34e863c6"/>
-		<rom name="Ghost Pilots (Japan) (Track 20).bin" size="3812592" crc="adbe1525" md5="95de917281a708d261c1c72b87d30136" sha1="7f9ab93170448c40cade336fb317459f95ffef46"/>
+		<description>Ghost Pilots (World)</description>
+		<rom name="Ghost Pilots (World) (Track 01).bin" size="8822352" crc="a6ff1b78" md5="c41f1d4058cc7fbba171e35f23d0a3ec" sha1="988ef1601be196bbf2d9d4eadf9b2b1956560907"/>
+		<rom name="Ghost Pilots (World) (Track 02).bin" size="4492320" crc="708dc208" md5="9b439a656f8b25428204a8080e41f4c2" sha1="3871d83e7f24da723b8499a679ff4c13d1a55e6e"/>
+		<rom name="Ghost Pilots (World) (Track 03).bin" size="13660416" crc="ff484bb8" md5="59eff31318585142f62b199da76acfc3" sha1="b305a6494566bad1e3390556e72aeb9fa827c330"/>
+		<rom name="Ghost Pilots (World) (Track 04).bin" size="49591920" crc="ed9c9866" md5="535ee784830d6757db0baad877adf70e" sha1="f1e440dc297f8225180a2b82d565afc09d737782"/>
+		<rom name="Ghost Pilots (World) (Track 05).bin" size="48260688" crc="8fa354d9" md5="0a61c2d6ff9d38d89ac570d99f7ea369" sha1="d6f2410c20bd8e0fcc3c8f3c2d3fcdf515835df0"/>
+		<rom name="Ghost Pilots (World) (Track 06).bin" size="52162656" crc="5b62aa68" md5="d7109f9ca4c76c706668b1cf060c19f7" sha1="eb1444d90cbee7a670f6cfb046cee99f75fbe52d"/>
+		<rom name="Ghost Pilots (World) (Track 07).bin" size="50370432" crc="bba9d09f" md5="d4fd999185e32b9bc84bb786f5021da3" sha1="dc18c81e1d11a47a5becaa2f36a334c327611834"/>
+		<rom name="Ghost Pilots (World) (Track 08).bin" size="49669536" crc="710d3642" md5="ed6fcebdce32bea508d1012531a9de03" sha1="eb16bd9a321e6e045183119023aea32e3dfb1a7c"/>
+		<rom name="Ghost Pilots (World) (Track 09).bin" size="51275952" crc="4f184d6d" md5="ca66bcd5412c5a58d704440f4ce20da1" sha1="75e91f885bf5511c9f80adcefa4a6715733e6666"/>
+		<rom name="Ghost Pilots (World) (Track 10).bin" size="51445296" crc="e2fc0592" md5="082f317a95ec58946adf1ad706738b62" sha1="be8473a4792c1f0b71025ae8b6d3861c3c1d71eb"/>
+		<rom name="Ghost Pilots (World) (Track 11).bin" size="81931920" crc="2766bd4d" md5="e0d97fa5ebaa48ae6d5d72fed0544861" sha1="74827de3f1103bab4f47e5aeaede68d225a56d54"/>
+		<rom name="Ghost Pilots (World) (Track 12).bin" size="82256496" crc="4b5f50fc" md5="d60189ca1823057f31fca7559a15b04e" sha1="81e3a65a7c02b47b18a6aec9d56c1553adb73a61"/>
+		<rom name="Ghost Pilots (World) (Track 13).bin" size="39003216" crc="2db24831" md5="ab21a5fe45f275aefd0bc28acc8ac3ac" sha1="6c5c2b0cc3355e07af23ff3d2df89ad7ea74310f"/>
+		<rom name="Ghost Pilots (World) (Track 14).bin" size="39160800" crc="7015a5f8" md5="b6402e7fb2b5fe33aa5a0a2f4e663fec" sha1="1f256060d1c31e0d0f9f36c3a0a7a8fd40f19c51"/>
+		<rom name="Ghost Pilots (World) (Track 15).bin" size="2591904" crc="88f799f3" md5="c9f4eea49693080d8a8e7c4ca6da2664" sha1="f39f977b57799ec602cde0233b2674d9097cfaba"/>
+		<rom name="Ghost Pilots (World) (Track 16).bin" size="2768304" crc="9521eb95" md5="0d7363236b75fbd6b41d8fe7927b8cbe" sha1="9cecb30bb4bf90efbc6245d2078aa7af55a60146"/>
+		<rom name="Ghost Pilots (World) (Track 17).bin" size="17047296" crc="84fcd3f9" md5="5e2c8bfd8c0a8112024d2168c075dc3b" sha1="9bebd525ca554542ff6676e2d208c3f9ae6fa736"/>
+		<rom name="Ghost Pilots (World) (Track 18).bin" size="2622480" crc="4df99a3c" md5="6736abc9221bb377b906ca37b72b2609" sha1="b47d992b573eabb13e71180bfbf2259482a56682"/>
+		<rom name="Ghost Pilots (World) (Track 19).bin" size="5484864" crc="9420c060" md5="a9427365de8ded9c5fb6370bd2ba0bbc" sha1="0f1cd548adeb5b0776a56be5cbc241cf34e863c6"/>
+		<rom name="Ghost Pilots (World) (Track 20).bin" size="3812592" crc="adbe1525" md5="95de917281a708d261c1c72b87d30136" sha1="7f9ab93170448c40cade336fb317459f95ffef46"/>
 	</game>
 	<game name="Idol Mahjong - Final Romance 2 (Japan)" sha1="dd847973057984d68bf636d1ae382c45b11c57aa" size="140480300" crc="e32d491c" fullsha1="f777d35f7c589c7d87d87e3fe151ce78fd16f026" dataSha1="73f8b9a3baf139e906bb50d11ea6d88751c9ea19">
 		<category>Games</category>
@@ -1343,77 +1319,77 @@
 		<rom name="Janshin Densetsu - Quest of Jongmaster (Japan) (Track 35).bin" size="23461200" crc="7a329635" md5="e80d5c767f264713fc1d317f3b51baf6" sha1="f9f7441d5fb5d2dca996cd450602e07735b30631"/>
 		<rom name="Janshin Densetsu - Quest of Jongmaster (Japan) (Track 36).bin" size="3433920" crc="cd30ae98" md5="a0ae553b7bb340539c32699c4af7fd63" sha1="ae5ec8c3af18587ce2382cbafc15b618974732ed"/>
 	</game>
-	<game name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja)" sha1="07a53c77ede08038b72d5fc9fa07b63151535d4d" size="252098400" crc="f96b891c" fullsha1="4671b58303a51a96459c9bc8fd8ed10445f63e32" dataSha1="b0ab97cfbc10c4b3137d137fa5f1d2ea2a37a986">
+	<game name="Joy Joy Kid ~ Puzzled (World) (En,Ja)" sha1="07a53c77ede08038b72d5fc9fa07b63151535d4d" size="252098400" crc="f96b891c" fullsha1="4671b58303a51a96459c9bc8fd8ed10445f63e32" dataSha1="b0ab97cfbc10c4b3137d137fa5f1d2ea2a37a986">
 		<category>Games</category>
-		<description>Joy Joy Kid ~ Puzzled (Japan) (En,Ja)</description>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 01).bin" size="4306512" crc="ec0a7d08" md5="ef003d72465a04c5af0ccd66010917ce" sha1="299bbbc22586f192ff7b92d5c371ee4ec9068faf"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 02).bin" size="36453648" crc="4dea2725" md5="251886181166faf33ed1e7fe069b0bbf" sha1="729b9b4ea1e71159b2a8c9153df88b95d611be65"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 03).bin" size="12623184" crc="02ebae78" md5="606a4dbb0ec91aa24c753cfdee5e2b32" sha1="ff666c343366ed09e22a66bc0732a8a62be657ee"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 04).bin" size="18486720" crc="1ffbe5fc" md5="69b38c8128ea9001a0f33c7021f2fad0" sha1="ed7aea25dcdd987f782482cbbbe46eed907418c4"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 05).bin" size="20194272" crc="ac1fd4a7" md5="85479c23390ec09e9e628619836ab9c8" sha1="e2c19d534970b70a5e6c0641163baa605d3db55b"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 06).bin" size="13213536" crc="0d01509b" md5="fc5e7ac6e13f4a5d3d2faeb3fc56ac6e" sha1="d78dbd7a4933275e44d0bfa63a3d9c9cc0334115"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 07).bin" size="19897920" crc="576447fe" md5="869ee59e18c971c132340606e3f3131d" sha1="7b9a5d969140f2f1a009743bfe4ab1b7ff8f61b0"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 08).bin" size="18658416" crc="a966c8cf" md5="5cafee7b36f3ab4105b68e13c0975507" sha1="1ec8db1a0109a465a622ad48d255ea5aac425bf6"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 09).bin" size="16953216" crc="5db71812" md5="aad473918de7ed247901d503de45dc72" sha1="d40c68a56c4f235583bd6aeed4cb3d1bebdbb44e"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 10).bin" size="15400896" crc="1bc622ef" md5="65ce5afb3fda6bbbae25df4c45189f1a" sha1="da5023e3e3cc4eb141ae966c596e53659d785488"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 11).bin" size="2446080" crc="b2a456f4" md5="7206ce07669b73f2d668119998e6f261" sha1="2bc277eaa9fd74108732c47cd96607a4990215f4"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 12).bin" size="2824752" crc="a005a79e" md5="bc8f22b5bcff2527e593aacf8850c3fa" sha1="d075ecebbaf645eceb62deef74285effd905cd4c"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 13).bin" size="13093584" crc="4d1d7bdf" md5="9faa8641539a718f130752d99021a492" sha1="251e70d7d1ea5e057f9e2e266d7e05a71547255e"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 14).bin" size="2523696" crc="86b93ebe" md5="5da4670d32af91319ebfb86e7c79b520" sha1="a768ca48cc3848deeac4aec81a9821ddb4e07297"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 15).bin" size="17508288" crc="12735c47" md5="a7d3a5a8fb598e93daf5b54f5d0c7d47" sha1="5fe5398a00aeee657db921f79435a3db47e42ff7"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 16).bin" size="15652560" crc="a4827458" md5="38549223c938881ef3046e44368c8930" sha1="3dd477b1d59794032076af1f20b0b729efb9b7c8"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 17).bin" size="18155088" crc="c37ac45d" md5="56536ecd5260e381c27c6e9a339ed9cb" sha1="605766ee891fa6c7bd2365859d79e2d86ed5fcbc"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 18).bin" size="19815600" crc="964e9549" md5="ef0f4e6d5529e352e9377a8d0ad96275" sha1="17244c240f66df3d3b3e85da0007c02989e7a267"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 19).bin" size="15911280" crc="0616bd48" md5="5bcc198c1a642bec4942252338ceda9e" sha1="94366c44cdac6107523f8feb000a80194c0f8c31"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 20).bin" size="15560832" crc="08c0298f" md5="b010a91bf3449cac9d891b179c48e1ef" sha1="e729d4273a4b84fb0fc7b429d78f3e16c6e95a84"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 21).bin" size="15939504" crc="c1080b90" md5="9568e1d0ba41fac081f1791646b9b277" sha1="18e541cfbf83f5ec6b51c06fa95668756d431b05"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 22).bin" size="14617680" crc="193c0c23" md5="aedd992910d55840d4d2581a400ec79e" sha1="737f653760afed86cdde51ce5f8350a6718d7b7d"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 23).bin" size="13916784" crc="513f6536" md5="f8719f7e5706eb74dc6e0ee0d0c38aba" sha1="dabde0624a40a4231c7a458acd57a48b4249b0c9"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 24).bin" size="14695296" crc="1ed78c82" md5="263e87b19380434f78c8149d146ce40f" sha1="9f14b32bff50b1c923f7cb5a6f9bfa49a2ad7f47"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 25).bin" size="16360512" crc="ec2e9a8a" md5="c6d2f4a07e84064dfe0026e988276b6a" sha1="4992698935cdf6ee750e1f6a083b3916cd0de04f"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 26).bin" size="16409904" crc="49062e5e" md5="13c307541e7eb33805f7244b6dde8ec0" sha1="30d2548824739f06d6d9b78afbd1b5aa2d5a8cf1"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 27).bin" size="16174704" crc="4faa57f1" md5="796b6683ddd4d5a51e76476c241885b7" sha1="6f3e7dbf39962b1a0d0fc1891a9d0a3587fcecc0"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 28).bin" size="16447536" crc="b0bfaa45" md5="3a9938353ee2ef2a856ca0fcc635d477" sha1="f120bdb1e678d23341e12f40edae95d869537398"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 29).bin" size="15730176" crc="d5596676" md5="9c884a0e492925dcf939855385645106" sha1="2f6823034aa2002c794c88ce67a1551558fea031"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 30).bin" size="12482064" crc="1f7fb165" md5="9661723942cf650f5730b4882d5334d3" sha1="27c03e12fc2b8cc6186f2fd0552fd0a81e5de961"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 31).bin" size="6696144" crc="bf003260" md5="992d113280023ca2f78f8f76bdd56276" sha1="3ef1d50706fb796828b10ed557b7855bbab19d77"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 32).bin" size="7806288" crc="cfdbe6e0" md5="d8601e828487c2da5981f7d25b1025ef" sha1="2c63563d29558eee56ef71dac163986a6642d337"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 33).bin" size="16233504" crc="b519d215" md5="dcde06673ad9406c05a2f4059eee2e40" sha1="e4b4861eef2d262d9b307f9100f6bdb2861432aa"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 34).bin" size="15772512" crc="c074de7d" md5="40f3408f79706aa5f2dbeccc1d93a68e" sha1="c2a2ed08c20fc00444b1364677c4ffe933c660ca"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 35).bin" size="16753296" crc="1ef36826" md5="7b63a56f2fb43c5d8482c386fc38bbb0" sha1="a099b0f656e6b48ab9814ab2f79787cb80e87f89"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 36).bin" size="15638448" crc="a747d3a8" md5="53d26fa05da298a0e6f2be1451174bc5" sha1="1bf447c04dc8acbfa899afc71ce265b6f058844e"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 37).bin" size="14855232" crc="1eceec80" md5="c0497abff29be4daae255a1ff12f5218" sha1="76c367f45b2078765b43d40feab85029e213ae01"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 38).bin" size="15057504" crc="bcb38db7" md5="2210f285e3f33b07edbb0a636ddeebde" sha1="78042c6390ab34a2cb4c93cd268d3c3ce4a11fe6"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 39).bin" size="14290752" crc="ad5c893e" md5="efcc07b533f5b7b3f74935a61a98bd05" sha1="9852acdbfdd541499361beeaef7bc14d36e6df3f"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 40).bin" size="15701952" crc="a4d37ca5" md5="f081c9a08dc4a4d410fda475275a0fbc" sha1="a6762ac4d28d0f0fbbb65aac1f738be41b3a38e3"/>
-		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja) (Track 41).bin" size="16082976" crc="b84a334c" md5="ceae5ae102efb4896255c5f9adbbfaab" sha1="7e5e017c3190616ff69deaf13b5cff82d2f47881"/>
+		<description>Joy Joy Kid ~ Puzzled (World) (En,Ja)</description>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 01).bin" size="4306512" crc="ec0a7d08" md5="ef003d72465a04c5af0ccd66010917ce" sha1="299bbbc22586f192ff7b92d5c371ee4ec9068faf"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 02).bin" size="36453648" crc="4dea2725" md5="251886181166faf33ed1e7fe069b0bbf" sha1="729b9b4ea1e71159b2a8c9153df88b95d611be65"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 03).bin" size="12623184" crc="02ebae78" md5="606a4dbb0ec91aa24c753cfdee5e2b32" sha1="ff666c343366ed09e22a66bc0732a8a62be657ee"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 04).bin" size="18486720" crc="1ffbe5fc" md5="69b38c8128ea9001a0f33c7021f2fad0" sha1="ed7aea25dcdd987f782482cbbbe46eed907418c4"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 05).bin" size="20194272" crc="ac1fd4a7" md5="85479c23390ec09e9e628619836ab9c8" sha1="e2c19d534970b70a5e6c0641163baa605d3db55b"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 06).bin" size="13213536" crc="0d01509b" md5="fc5e7ac6e13f4a5d3d2faeb3fc56ac6e" sha1="d78dbd7a4933275e44d0bfa63a3d9c9cc0334115"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 07).bin" size="19897920" crc="576447fe" md5="869ee59e18c971c132340606e3f3131d" sha1="7b9a5d969140f2f1a009743bfe4ab1b7ff8f61b0"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 08).bin" size="18658416" crc="a966c8cf" md5="5cafee7b36f3ab4105b68e13c0975507" sha1="1ec8db1a0109a465a622ad48d255ea5aac425bf6"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 09).bin" size="16953216" crc="5db71812" md5="aad473918de7ed247901d503de45dc72" sha1="d40c68a56c4f235583bd6aeed4cb3d1bebdbb44e"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 10).bin" size="15400896" crc="1bc622ef" md5="65ce5afb3fda6bbbae25df4c45189f1a" sha1="da5023e3e3cc4eb141ae966c596e53659d785488"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 11).bin" size="2446080" crc="b2a456f4" md5="7206ce07669b73f2d668119998e6f261" sha1="2bc277eaa9fd74108732c47cd96607a4990215f4"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 12).bin" size="2824752" crc="a005a79e" md5="bc8f22b5bcff2527e593aacf8850c3fa" sha1="d075ecebbaf645eceb62deef74285effd905cd4c"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 13).bin" size="13093584" crc="4d1d7bdf" md5="9faa8641539a718f130752d99021a492" sha1="251e70d7d1ea5e057f9e2e266d7e05a71547255e"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 14).bin" size="2523696" crc="86b93ebe" md5="5da4670d32af91319ebfb86e7c79b520" sha1="a768ca48cc3848deeac4aec81a9821ddb4e07297"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 15).bin" size="17508288" crc="12735c47" md5="a7d3a5a8fb598e93daf5b54f5d0c7d47" sha1="5fe5398a00aeee657db921f79435a3db47e42ff7"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 16).bin" size="15652560" crc="a4827458" md5="38549223c938881ef3046e44368c8930" sha1="3dd477b1d59794032076af1f20b0b729efb9b7c8"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 17).bin" size="18155088" crc="c37ac45d" md5="56536ecd5260e381c27c6e9a339ed9cb" sha1="605766ee891fa6c7bd2365859d79e2d86ed5fcbc"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 18).bin" size="19815600" crc="964e9549" md5="ef0f4e6d5529e352e9377a8d0ad96275" sha1="17244c240f66df3d3b3e85da0007c02989e7a267"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 19).bin" size="15911280" crc="0616bd48" md5="5bcc198c1a642bec4942252338ceda9e" sha1="94366c44cdac6107523f8feb000a80194c0f8c31"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 20).bin" size="15560832" crc="08c0298f" md5="b010a91bf3449cac9d891b179c48e1ef" sha1="e729d4273a4b84fb0fc7b429d78f3e16c6e95a84"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 21).bin" size="15939504" crc="c1080b90" md5="9568e1d0ba41fac081f1791646b9b277" sha1="18e541cfbf83f5ec6b51c06fa95668756d431b05"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 22).bin" size="14617680" crc="193c0c23" md5="aedd992910d55840d4d2581a400ec79e" sha1="737f653760afed86cdde51ce5f8350a6718d7b7d"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 23).bin" size="13916784" crc="513f6536" md5="f8719f7e5706eb74dc6e0ee0d0c38aba" sha1="dabde0624a40a4231c7a458acd57a48b4249b0c9"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 24).bin" size="14695296" crc="1ed78c82" md5="263e87b19380434f78c8149d146ce40f" sha1="9f14b32bff50b1c923f7cb5a6f9bfa49a2ad7f47"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 25).bin" size="16360512" crc="ec2e9a8a" md5="c6d2f4a07e84064dfe0026e988276b6a" sha1="4992698935cdf6ee750e1f6a083b3916cd0de04f"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 26).bin" size="16409904" crc="49062e5e" md5="13c307541e7eb33805f7244b6dde8ec0" sha1="30d2548824739f06d6d9b78afbd1b5aa2d5a8cf1"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 27).bin" size="16174704" crc="4faa57f1" md5="796b6683ddd4d5a51e76476c241885b7" sha1="6f3e7dbf39962b1a0d0fc1891a9d0a3587fcecc0"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 28).bin" size="16447536" crc="b0bfaa45" md5="3a9938353ee2ef2a856ca0fcc635d477" sha1="f120bdb1e678d23341e12f40edae95d869537398"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 29).bin" size="15730176" crc="d5596676" md5="9c884a0e492925dcf939855385645106" sha1="2f6823034aa2002c794c88ce67a1551558fea031"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 30).bin" size="12482064" crc="1f7fb165" md5="9661723942cf650f5730b4882d5334d3" sha1="27c03e12fc2b8cc6186f2fd0552fd0a81e5de961"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 31).bin" size="6696144" crc="bf003260" md5="992d113280023ca2f78f8f76bdd56276" sha1="3ef1d50706fb796828b10ed557b7855bbab19d77"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 32).bin" size="7806288" crc="cfdbe6e0" md5="d8601e828487c2da5981f7d25b1025ef" sha1="2c63563d29558eee56ef71dac163986a6642d337"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 33).bin" size="16233504" crc="b519d215" md5="dcde06673ad9406c05a2f4059eee2e40" sha1="e4b4861eef2d262d9b307f9100f6bdb2861432aa"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 34).bin" size="15772512" crc="c074de7d" md5="40f3408f79706aa5f2dbeccc1d93a68e" sha1="c2a2ed08c20fc00444b1364677c4ffe933c660ca"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 35).bin" size="16753296" crc="1ef36826" md5="7b63a56f2fb43c5d8482c386fc38bbb0" sha1="a099b0f656e6b48ab9814ab2f79787cb80e87f89"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 36).bin" size="15638448" crc="a747d3a8" md5="53d26fa05da298a0e6f2be1451174bc5" sha1="1bf447c04dc8acbfa899afc71ce265b6f058844e"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 37).bin" size="14855232" crc="1eceec80" md5="c0497abff29be4daae255a1ff12f5218" sha1="76c367f45b2078765b43d40feab85029e213ae01"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 38).bin" size="15057504" crc="bcb38db7" md5="2210f285e3f33b07edbb0a636ddeebde" sha1="78042c6390ab34a2cb4c93cd268d3c3ce4a11fe6"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 39).bin" size="14290752" crc="ad5c893e" md5="efcc07b533f5b7b3f74935a61a98bd05" sha1="9852acdbfdd541499361beeaef7bc14d36e6df3f"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 40).bin" size="15701952" crc="a4d37ca5" md5="f081c9a08dc4a4d410fda475275a0fbc" sha1="a6762ac4d28d0f0fbbb65aac1f738be41b3a38e3"/>
+		<rom name="Joy Joy Kid ~ Puzzled (World) (En,Ja) (Track 41).bin" size="16082976" crc="b84a334c" md5="ceae5ae102efb4896255c5f9adbbfaab" sha1="7e5e017c3190616ff69deaf13b5cff82d2f47881"/>
 	</game>
-	<game name="King of Fighters '94, The (Japan) (En,Ja)" sha1="53580dae66634bba3b90aa2414725f23e388bf30" size="372110301" crc="725e96cc" fullsha1="fa875fb77f5e6c87993620b36a7a09d1215f4542" dataSha1="a95484ae83e13fda19d6fb724784eb21ec1483f5">
+	<game name="King of Fighters '94, The (World) (En,Ja)" sha1="53580dae66634bba3b90aa2414725f23e388bf30" size="372110301" crc="725e96cc" fullsha1="fa875fb77f5e6c87993620b36a7a09d1215f4542" dataSha1="a95484ae83e13fda19d6fb724784eb21ec1483f5">
 		<category>Games</category>
-		<description>King of Fighters '94, The (Japan) (En,Ja)</description>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 01).bin" size="39149040" crc="8233acfd" md5="0bc0410878d4f0ac764dfbe9c026a1ca" sha1="a41d012ce4a3b25a60233de1d58488555c5447df"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 02).bin" size="50805552" crc="0856715d" md5="c0a909d21f1b2881a38d372b8665860a" sha1="6d9687c316114798a5512ef2d2ad873ce828228d"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 03).bin" size="49396704" crc="759f187a" md5="388ef1b00f2ac8a1de63cef5385b01ce" sha1="1900778890525609b2bc6828c65f5ef5fb4386e9"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 04).bin" size="52172064" crc="974bd094" md5="689c3bae91d85649247d461d66f3be05" sha1="91e84b6b1c89ecca3ac3fa67a835fa08ad701034"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 05).bin" size="51508800" crc="10779b2b" md5="2a24121a8e3db9438d549c734ec78773" sha1="1ad4e88f9c51f4775c021eabbf1c198afec20231"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 06).bin" size="51614640" crc="5aac5c6f" md5="49b14eadbacd555163a511ccfbfb7722" sha1="f8bfac180fa6e683cb985138a912f92b79bc35cc"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 07).bin" size="49399056" crc="2fabf4bd" md5="d5278f3314605f6bd328790fc3088cab" sha1="ffd6b479e3cce091ab16baefb17bc603a793831e"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 08).bin" size="49467264" crc="afd9deea" md5="c1626ea0ca5a654bea99a67573c4a4ae" sha1="fd6288ec88a4e5d4286d89aee2050122798336c1"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 09).bin" size="56683200" crc="bc4664f0" md5="240f4230e3e58ad96a7b185be8dc90df" sha1="bdb3efa0b133c64896a7ad649dbf54973b25d352"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 10).bin" size="48648768" crc="b6fde130" md5="7a6a1c4a8895ea241ebde548de2cbcea" sha1="a2867558ec6d97fe0be2e73775111bfc21d0ecba"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 11).bin" size="52562496" crc="209e3af6" md5="0d0c75fd0d99cee6b2229c47b7754247" sha1="62474249869f814f529b7669c7e541a4d16194ca"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 12).bin" size="2843568" crc="02344d2e" md5="169ccd8d1ca6f55a3a51be6b92283ffe" sha1="018992b7d0f88f243e9337f768d15c81138f050b"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 13).bin" size="4297104" crc="d9c5a77a" md5="c672f42cf8b22e1d76a8d210e45d50d8" sha1="dce2da281876adef0d7fdafd10cd697f73f3a724"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 14).bin" size="9153984" crc="ed538d2c" md5="392244c7a5678f4e6311ac4a74a402ff" sha1="9cf6877731b564e84d659e52ba37f9db0c95e3df"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 15).bin" size="4880400" crc="2db74479" md5="a585d93efdc5240c5927c8501dc5bbfc" sha1="334800686409e827cedb417e30d6bec1665adb94"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 16).bin" size="22715616" crc="0c6ce467" md5="4acf326a15c452f452d011a06021351f" sha1="3a917b6db18940231a55366168465a1e0f745fa0"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 17).bin" size="27191472" crc="559b949f" md5="8efce7639446a1c5fb57b407a59bd424" sha1="1239b76011a438b87c6443e0e2fca22a9a4d56c5"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 18).bin" size="9001104" crc="f1fbbb3a" md5="94b196bb7b41a4b562e78b910b0c4ac6" sha1="2bc53217188a13e26b865e1578773624c22947f9"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 19).bin" size="33518352" crc="eb45180d" md5="b61c6183ba2abb28642eb2cacd6106a5" sha1="778f875154ce3b1dfa4012a7272b35ed947728b2"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 20).bin" size="7674576" crc="c01dde05" md5="94583598df5e7574d4555d0c6d3f9f5d" sha1="9d17d4ca6a14b923e3d5d369b9d4b00ee2fe8690"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 21).bin" size="8274336" crc="8b0d5faf" md5="237379c5948d8ad1896dc4275b6c32b3" sha1="d9343a94661f208a9ff9f593bdc8777d283b6a7a"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 22).bin" size="9182208" crc="d1ebe709" md5="59cac8a5f22a68c397b509252735dc6e" sha1="9be4e2de229df9b9c709db650d3d9640091eeffc"/>
-		<rom name="King of Fighters '94, The (Japan) (En,Ja) (Track 23).bin" size="13761552" crc="868aa659" md5="bdedaff7378e58b65b8e6642e7cd261b" sha1="f3a619a41235a23836a96c954a68b551818d0572"/>
+		<description>King of Fighters '94, The (World) (En,Ja)</description>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 01).bin" size="39149040" crc="8233acfd" md5="0bc0410878d4f0ac764dfbe9c026a1ca" sha1="a41d012ce4a3b25a60233de1d58488555c5447df"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 02).bin" size="50805552" crc="0856715d" md5="c0a909d21f1b2881a38d372b8665860a" sha1="6d9687c316114798a5512ef2d2ad873ce828228d"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 03).bin" size="49396704" crc="759f187a" md5="388ef1b00f2ac8a1de63cef5385b01ce" sha1="1900778890525609b2bc6828c65f5ef5fb4386e9"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 04).bin" size="52172064" crc="974bd094" md5="689c3bae91d85649247d461d66f3be05" sha1="91e84b6b1c89ecca3ac3fa67a835fa08ad701034"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 05).bin" size="51508800" crc="10779b2b" md5="2a24121a8e3db9438d549c734ec78773" sha1="1ad4e88f9c51f4775c021eabbf1c198afec20231"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 06).bin" size="51614640" crc="5aac5c6f" md5="49b14eadbacd555163a511ccfbfb7722" sha1="f8bfac180fa6e683cb985138a912f92b79bc35cc"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 07).bin" size="49399056" crc="2fabf4bd" md5="d5278f3314605f6bd328790fc3088cab" sha1="ffd6b479e3cce091ab16baefb17bc603a793831e"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 08).bin" size="49467264" crc="afd9deea" md5="c1626ea0ca5a654bea99a67573c4a4ae" sha1="fd6288ec88a4e5d4286d89aee2050122798336c1"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 09).bin" size="56683200" crc="bc4664f0" md5="240f4230e3e58ad96a7b185be8dc90df" sha1="bdb3efa0b133c64896a7ad649dbf54973b25d352"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 10).bin" size="48648768" crc="b6fde130" md5="7a6a1c4a8895ea241ebde548de2cbcea" sha1="a2867558ec6d97fe0be2e73775111bfc21d0ecba"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 11).bin" size="52562496" crc="209e3af6" md5="0d0c75fd0d99cee6b2229c47b7754247" sha1="62474249869f814f529b7669c7e541a4d16194ca"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 12).bin" size="2843568" crc="02344d2e" md5="169ccd8d1ca6f55a3a51be6b92283ffe" sha1="018992b7d0f88f243e9337f768d15c81138f050b"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 13).bin" size="4297104" crc="d9c5a77a" md5="c672f42cf8b22e1d76a8d210e45d50d8" sha1="dce2da281876adef0d7fdafd10cd697f73f3a724"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 14).bin" size="9153984" crc="ed538d2c" md5="392244c7a5678f4e6311ac4a74a402ff" sha1="9cf6877731b564e84d659e52ba37f9db0c95e3df"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 15).bin" size="4880400" crc="2db74479" md5="a585d93efdc5240c5927c8501dc5bbfc" sha1="334800686409e827cedb417e30d6bec1665adb94"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 16).bin" size="22715616" crc="0c6ce467" md5="4acf326a15c452f452d011a06021351f" sha1="3a917b6db18940231a55366168465a1e0f745fa0"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 17).bin" size="27191472" crc="559b949f" md5="8efce7639446a1c5fb57b407a59bd424" sha1="1239b76011a438b87c6443e0e2fca22a9a4d56c5"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 18).bin" size="9001104" crc="f1fbbb3a" md5="94b196bb7b41a4b562e78b910b0c4ac6" sha1="2bc53217188a13e26b865e1578773624c22947f9"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 19).bin" size="33518352" crc="eb45180d" md5="b61c6183ba2abb28642eb2cacd6106a5" sha1="778f875154ce3b1dfa4012a7272b35ed947728b2"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 20).bin" size="7674576" crc="c01dde05" md5="94583598df5e7574d4555d0c6d3f9f5d" sha1="9d17d4ca6a14b923e3d5d369b9d4b00ee2fe8690"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 21).bin" size="8274336" crc="8b0d5faf" md5="237379c5948d8ad1896dc4275b6c32b3" sha1="d9343a94661f208a9ff9f593bdc8777d283b6a7a"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 22).bin" size="9182208" crc="d1ebe709" md5="59cac8a5f22a68c397b509252735dc6e" sha1="9be4e2de229df9b9c709db650d3d9640091eeffc"/>
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Track 23).bin" size="13761552" crc="868aa659" md5="bdedaff7378e58b65b8e6642e7cd261b" sha1="f3a619a41235a23836a96c954a68b551818d0572"/>
 	</game>
 	<game name="King of Fighters '94, The (World) (En,Ja) (Rev 1)" sha1="8818beb62deb9a27b69bd48f55440bbcdb5bc455" size="372167587" crc="d237c974" fullsha1="ed9fb78aeab2c8dd3aba7be916d2f68ca10f8860" dataSha1="d5da77a55ed0baa33b4dc9ac995eeb91e41fd2ac">
 		<category>Games</category>
@@ -2302,30 +2278,30 @@
 		<rom name="Power Spikes II (Japan) (En,Ja) (Track 26).bin" size="10943856" crc="11236d34" md5="84a3a51ea510ffe661e65aa839115593" sha1="12681dca5801cee3051e3a94e1f9bc8e585c2231"/>
 		<rom name="Power Spikes II (Japan) (En,Ja) (Track 27).bin" size="14902272" crc="7f489000" md5="c167c941270b0ca9d8ba8247b3183f2c" sha1="29392affdbf1d453a76c6fe2bfd094f838fc51d7"/>
 	</game>
-	<game name="Pulstar (Japan)" sha1="97036a3b97c84292ea3a33b12ec65035adbaca01" size="354366576" crc="9d7879ed" fullsha1="9c5fa602b1c3dcf70ff75a1a5f5ce16f24baeca1" dataSha1="03acc78fb3f64a3e9487c2bf50a772e5248df63b">
+	<game name="Pulstar (Japan) (En,Ja)" sha1="97036a3b97c84292ea3a33b12ec65035adbaca01" size="354366576" crc="9d7879ed" fullsha1="9c5fa602b1c3dcf70ff75a1a5f5ce16f24baeca1" dataSha1="03acc78fb3f64a3e9487c2bf50a772e5248df63b">
 		<category>Games</category>
-		<description>Pulstar (Japan)</description>
-		<rom name="Pulstar (Japan) (Track 01).bin" size="146005104" crc="922b2afb" md5="f9b26de3ae4a3a777f401077ed3de791" sha1="476f2454dfce5c9df605e3ac7e4957b8936e1b79"/>
-		<rom name="Pulstar (Japan) (Track 02).bin" size="34400352" crc="ef003b64" md5="c06fde471863a3497bb6f032f8e2dc52" sha1="33130ee7aee110441bd9e03e5aa5d4df11918bb8"/>
-		<rom name="Pulstar (Japan) (Track 03).bin" size="41764464" crc="a19618d2" md5="dd3d0f964c483dd6fdc10b47d730d740" sha1="759d7a88018e06cbbd893e31f9b6a4404c961e14"/>
-		<rom name="Pulstar (Japan) (Track 04).bin" size="35449344" crc="6b188100" md5="74f1b11bd9781991576f6c927f1dc246" sha1="38204804c433412825e7233df2354772016c1b49"/>
-		<rom name="Pulstar (Japan) (Track 05).bin" size="29503488" crc="d83fa677" md5="f540aaa2db2134d49461a549a51889de" sha1="ec7edd4a9b13c9d29bcf4f9915671ce22bb75033"/>
-		<rom name="Pulstar (Japan) (Track 06).bin" size="34172208" crc="d8e06d91" md5="fbe4656da9169cf16e09c489ac3578f0" sha1="8455da860903aa199d64e43e04831521167435fe"/>
-		<rom name="Pulstar (Japan) (Track 07).bin" size="30528960" crc="45a71d91" md5="82a6717c14c9989aa9520d2e2a3b63b5" sha1="9da456ed7e2f0c4e28a6c7d3d2602700c7800d5a"/>
-		<rom name="Pulstar (Japan) (Track 08).bin" size="27972336" crc="3953219d" md5="81c8cf908c33a618b4c1c8809bfdc7ab" sha1="cab036132a7d1a19b1d22a8f7225a9f7b0e0522c"/>
-		<rom name="Pulstar (Japan) (Track 09).bin" size="54876864" crc="c5479b59" md5="f5e8d0fadf4a58228cfdd6b27d041b8a" sha1="baabc7514ee7a63a364f811b2818caf2ad0ec2cb"/>
-		<rom name="Pulstar (Japan) (Track 10).bin" size="36907584" crc="d2325d48" md5="c55b3b5a8e00200df6c2d24b568496ee" sha1="b992af581324d34f354f78e80bbbb4b73f5e61a6"/>
-		<rom name="Pulstar (Japan) (Track 11).bin" size="50927856" crc="9115a2c3" md5="6d778fa9df466b7146bb0478ec7b2efe" sha1="462e08e597882f96a51710dcbcbdd3ebff3c1029"/>
-		<rom name="Pulstar (Japan) (Track 12).bin" size="27153840" crc="65d04db0" md5="d7c17955ee3106674df8980f6190c5b9" sha1="8dc1fd31899b0abc1399166e3ee84217a1969e35"/>
-		<rom name="Pulstar (Japan) (Track 13).bin" size="47463360" crc="48d5460e" md5="c827521e5382eecc336a4ad7c89b88e7" sha1="4ece2f2d62932fb141dec2f54332fcc84145411b"/>
-		<rom name="Pulstar (Japan) (Track 14).bin" size="8290800" crc="9af29fae" md5="9ff3045266f7f3a12bbb3bd38005adf4" sha1="06f03741a78513a7c7711415eec258bd057e244e"/>
-		<rom name="Pulstar (Japan) (Track 15).bin" size="19309920" crc="3a640c71" md5="a8eeb754fa6ab376e876dc4b88bb7acd" sha1="5d39a0acf787f86948a95f39b866f3253aafa2fe"/>
-		<rom name="Pulstar (Japan) (Track 16).bin" size="4045440" crc="92732e71" md5="8f7bd721abdb867080da5cf0cbb056c0" sha1="7a10e28da59bdc4c7740392d654c0227e35c056b"/>
-		<rom name="Pulstar (Japan) (Track 17).bin" size="4076016" crc="82da5c91" md5="61f26355fd0a16be0b42337a9a70cb0c" sha1="9f83a2503d9991cd884b1dd03e444df11fe24456"/>
-		<rom name="Pulstar (Japan) (Track 18).bin" size="9659664" crc="f8c0b923" md5="ed1d7a6c1e3d661f50f1bd5c2fada9cf" sha1="509b0929646eeff6847445d46cca6c282a246802"/>
-		<rom name="Pulstar (Japan) (Track 19).bin" size="14617680" crc="0f004f97" md5="47d6cdbac17db0bad0111257f7c948f0" sha1="3de9cad5421de3e68ed6dbbfe6f46fb9a84bf9cd"/>
-		<rom name="Pulstar (Japan) (Track 20).bin" size="2648352" crc="925f6423" md5="4793d322925285d65377378b8e4e65ae" sha1="20e985d3a6be504d284028d4b492dea036ab4fa3"/>
-		<rom name="Pulstar (Japan) (Track 21).bin" size="35811552" crc="b6cf8db8" md5="fe198461ca748dbe9b63749d3681daa8" sha1="af115ccc79f7a52cdc382a4cc79d1b8fa9cc5f6f"/>
+		<description>Pulstar (Japan) (En,Ja)</description>
+		<rom name="Pulstar (Japan) (En,Ja) (Track 01).bin" size="146005104" crc="922b2afb" md5="f9b26de3ae4a3a777f401077ed3de791" sha1="476f2454dfce5c9df605e3ac7e4957b8936e1b79"/>
+		<rom name="Pulstar (Japan) (En,Ja) (Track 02).bin" size="34400352" crc="ef003b64" md5="c06fde471863a3497bb6f032f8e2dc52" sha1="33130ee7aee110441bd9e03e5aa5d4df11918bb8"/>
+		<rom name="Pulstar (Japan) (En,Ja) (Track 03).bin" size="41764464" crc="a19618d2" md5="dd3d0f964c483dd6fdc10b47d730d740" sha1="759d7a88018e06cbbd893e31f9b6a4404c961e14"/>
+		<rom name="Pulstar (Japan) (En,Ja) (Track 04).bin" size="35449344" crc="6b188100" md5="74f1b11bd9781991576f6c927f1dc246" sha1="38204804c433412825e7233df2354772016c1b49"/>
+		<rom name="Pulstar (Japan) (En,Ja) (Track 05).bin" size="29503488" crc="d83fa677" md5="f540aaa2db2134d49461a549a51889de" sha1="ec7edd4a9b13c9d29bcf4f9915671ce22bb75033"/>
+		<rom name="Pulstar (Japan) (En,Ja) (Track 06).bin" size="34172208" crc="d8e06d91" md5="fbe4656da9169cf16e09c489ac3578f0" sha1="8455da860903aa199d64e43e04831521167435fe"/>
+		<rom name="Pulstar (Japan) (En,Ja) (Track 07).bin" size="30528960" crc="45a71d91" md5="82a6717c14c9989aa9520d2e2a3b63b5" sha1="9da456ed7e2f0c4e28a6c7d3d2602700c7800d5a"/>
+		<rom name="Pulstar (Japan) (En,Ja) (Track 08).bin" size="27972336" crc="3953219d" md5="81c8cf908c33a618b4c1c8809bfdc7ab" sha1="cab036132a7d1a19b1d22a8f7225a9f7b0e0522c"/>
+		<rom name="Pulstar (Japan) (En,Ja) (Track 09).bin" size="54876864" crc="c5479b59" md5="f5e8d0fadf4a58228cfdd6b27d041b8a" sha1="baabc7514ee7a63a364f811b2818caf2ad0ec2cb"/>
+		<rom name="Pulstar (Japan) (En,Ja) (Track 10).bin" size="36907584" crc="d2325d48" md5="c55b3b5a8e00200df6c2d24b568496ee" sha1="b992af581324d34f354f78e80bbbb4b73f5e61a6"/>
+		<rom name="Pulstar (Japan) (En,Ja) (Track 11).bin" size="50927856" crc="9115a2c3" md5="6d778fa9df466b7146bb0478ec7b2efe" sha1="462e08e597882f96a51710dcbcbdd3ebff3c1029"/>
+		<rom name="Pulstar (Japan) (En,Ja) (Track 12).bin" size="27153840" crc="65d04db0" md5="d7c17955ee3106674df8980f6190c5b9" sha1="8dc1fd31899b0abc1399166e3ee84217a1969e35"/>
+		<rom name="Pulstar (Japan) (En,Ja) (Track 13).bin" size="47463360" crc="48d5460e" md5="c827521e5382eecc336a4ad7c89b88e7" sha1="4ece2f2d62932fb141dec2f54332fcc84145411b"/>
+		<rom name="Pulstar (Japan) (En,Ja) (Track 14).bin" size="8290800" crc="9af29fae" md5="9ff3045266f7f3a12bbb3bd38005adf4" sha1="06f03741a78513a7c7711415eec258bd057e244e"/>
+		<rom name="Pulstar (Japan) (En,Ja) (Track 15).bin" size="19309920" crc="3a640c71" md5="a8eeb754fa6ab376e876dc4b88bb7acd" sha1="5d39a0acf787f86948a95f39b866f3253aafa2fe"/>
+		<rom name="Pulstar (Japan) (En,Ja) (Track 16).bin" size="4045440" crc="92732e71" md5="8f7bd721abdb867080da5cf0cbb056c0" sha1="7a10e28da59bdc4c7740392d654c0227e35c056b"/>
+		<rom name="Pulstar (Japan) (En,Ja) (Track 17).bin" size="4076016" crc="82da5c91" md5="61f26355fd0a16be0b42337a9a70cb0c" sha1="9f83a2503d9991cd884b1dd03e444df11fe24456"/>
+		<rom name="Pulstar (Japan) (En,Ja) (Track 18).bin" size="9659664" crc="f8c0b923" md5="ed1d7a6c1e3d661f50f1bd5c2fada9cf" sha1="509b0929646eeff6847445d46cca6c282a246802"/>
+		<rom name="Pulstar (Japan) (En,Ja) (Track 19).bin" size="14617680" crc="0f004f97" md5="47d6cdbac17db0bad0111257f7c948f0" sha1="3de9cad5421de3e68ed6dbbfe6f46fb9a84bf9cd"/>
+		<rom name="Pulstar (Japan) (En,Ja) (Track 20).bin" size="2648352" crc="925f6423" md5="4793d322925285d65377378b8e4e65ae" sha1="20e985d3a6be504d284028d4b492dea036ab4fa3"/>
+		<rom name="Pulstar (Japan) (En,Ja) (Track 21).bin" size="35811552" crc="b6cf8db8" md5="fe198461ca748dbe9b63749d3681daa8" sha1="af115ccc79f7a52cdc382a4cc79d1b8fa9cc5f6f"/>
 	</game>
 	<game name="Puzzle Bobble ~ Bust-A-Move (Japan) (En,Ja)" sha1="78df1c90a4f43b668a64286367214311515ec8ec" size="1095740" crc="1702b307" fullsha1="0079ce8efa93443b3988ecf733f6cd6b4ccf54f8" dataSha1="0cd76c19ae64e5e59f2161af37e9403f880bcd4d">
 		<category>Games</category>
@@ -3027,64 +3003,64 @@
 		<rom name="Shougi no Tatsujin - Master of Syougi (Japan) (Track 12).bin" size="4010160" crc="e88d9762" md5="e4a586a3888b126d43010a6cf05ccc59" sha1="d2032f5f1b7b5c1f154147b33c5b949916835411"/>
 		<rom name="Shougi no Tatsujin - Master of Syougi (Japan) (Track 13).bin" size="13662768" crc="a668dcd4" md5="dd2a59673b2613f2073b9343d6b2a2a2" sha1="2bf55e60a773cceb885d3f13af7c3395195fece2"/>
 	</game>
-	<game name="Soccer Brawl (Japan)" sha1="8848e58ac9eaa28eaf659b3d4635432ba0860767" size="134595069" crc="22b67045" fullsha1="e6d56efd9f3e7f0d6f92256de90b4d576131b585" dataSha1="96f04ead449ead5082cbf19e4a0b4f71b90b7b10">
+	<game name="Soccer Brawl (World)" sha1="8848e58ac9eaa28eaf659b3d4635432ba0860767" size="134595069" crc="22b67045" fullsha1="e6d56efd9f3e7f0d6f92256de90b4d576131b585" dataSha1="96f04ead449ead5082cbf19e4a0b4f71b90b7b10">
 		<category>Games</category>
-		<description>Soccer Brawl (Japan)</description>
-		<rom name="Soccer Brawl (Japan) (Track 01).bin" size="8688288" crc="f4497457" md5="37803fdacac177a3ed5a1dddfe55ebaa" sha1="24f9e1ba2b1a0578fd5d026fd8b7530d6f748254"/>
-		<rom name="Soccer Brawl (Japan) (Track 02).bin" size="3212832" crc="01cbf848" md5="9a0453f0649ab9f644f5c3ed50267446" sha1="381e9efae601c09db58bde44c36e825e0a07d7a1"/>
-		<rom name="Soccer Brawl (Japan) (Track 03).bin" size="7639296" crc="a0431b3c" md5="3b79a5a52cc0130e24279339ed8c994e" sha1="5ea18aaf81e0e28414bb2cd87b099406d87665a4"/>
-		<rom name="Soccer Brawl (Japan) (Track 04).bin" size="10593408" crc="4a922924" md5="93a5ed90716ed3b62c57c6ff3e1ef777" sha1="5a1ef27d9b819f0582814e3173aee62cc998ced7"/>
-		<rom name="Soccer Brawl (Japan) (Track 05).bin" size="9050496" crc="149142d1" md5="651686d01ac56b14d764b9db04c5a1e9" sha1="f75eb3964b571b77a36d3ff9025c2e0e11d61ce4"/>
-		<rom name="Soccer Brawl (Japan) (Track 06).bin" size="10666320" crc="399c9eeb" md5="f560d5bc22531968a7ebc98467a3e8ef" sha1="79a73cd3085d64c1be8a557401deee1a80a05bea"/>
-		<rom name="Soccer Brawl (Japan) (Track 07).bin" size="3377472" crc="7128e879" md5="a723c3986e0b620ccb5d1e163bb3b701" sha1="8fa3e2be947e5966fbfcfa320ea8130bc8b225ec"/>
-		<rom name="Soccer Brawl (Japan) (Track 08).bin" size="31288656" crc="bac2c217" md5="a608998d957d5b8ac5f8bd54b80d7523" sha1="afaba7a1702a1e53e10b81adb647fede4a442618"/>
-		<rom name="Soccer Brawl (Japan) (Track 09).bin" size="32163600" crc="8a73e940" md5="0a55fe6ae25b3bd704974ffebd2ea1f9" sha1="f30ca0d42c963d014d769f691bba5b84edcf50c7"/>
-		<rom name="Soccer Brawl (Japan) (Track 10).bin" size="32751600" crc="3757685a" md5="b962b53d4ea8fca215dd2df6c9e81eda" sha1="3a0c6727dd9d3ba6cec7978deac5d8ec094a310c"/>
-		<rom name="Soccer Brawl (Japan) (Track 11).bin" size="33955824" crc="36932713" md5="1d4e147e54ef46660dd337680b8b552a" sha1="cc8ea70c64c2f9a2acd90470d04fe98f91e00155"/>
-		<rom name="Soccer Brawl (Japan) (Track 12).bin" size="20815200" crc="df0ea019" md5="1155f0aa073d41f35bc7a72a2dc61cc5" sha1="eb095c656019407c0ae461789a5e23fddc1103a0"/>
-		<rom name="Soccer Brawl (Japan) (Track 13).bin" size="10075968" crc="becef11a" md5="7b7e456825cbddb0ffff10cf91cff439" sha1="535d823bf8c4e948dd425b5a7f023e0981a496b9"/>
-		<rom name="Soccer Brawl (Japan) (Track 14).bin" size="8373120" crc="58855ded" md5="cdb19ee1e6b418a719cb70568acfef27" sha1="c9a16f1defdf9006953cb4155419ef39870892ae"/>
-		<rom name="Soccer Brawl (Japan) (Track 15).bin" size="2328480" crc="16747063" md5="45863e6e2a630ff1fdc36cedb7d8e5ac" sha1="206c4320bc52de15adeaf216d9aed13dd784d819"/>
-		<rom name="Soccer Brawl (Japan) (Track 16).bin" size="7683984" crc="11103e25" md5="f80b6b605a69919b7c841f9b60581c82" sha1="623aa513fd83dd5980c55c2d6f427be97024a1ee"/>
-		<rom name="Soccer Brawl (Japan) (Track 17).bin" size="9135168" crc="5871ebc2" md5="29048f4b71b44b01d03b808e671b5d79" sha1="3db6795916d8843ca9ed7d9ce552fb4a285232d8"/>
+		<description>Soccer Brawl (World)</description>
+		<rom name="Soccer Brawl (World) (Track 01).bin" size="8688288" crc="f4497457" md5="37803fdacac177a3ed5a1dddfe55ebaa" sha1="24f9e1ba2b1a0578fd5d026fd8b7530d6f748254"/>
+		<rom name="Soccer Brawl (World) (Track 02).bin" size="3212832" crc="01cbf848" md5="9a0453f0649ab9f644f5c3ed50267446" sha1="381e9efae601c09db58bde44c36e825e0a07d7a1"/>
+		<rom name="Soccer Brawl (World) (Track 03).bin" size="7639296" crc="a0431b3c" md5="3b79a5a52cc0130e24279339ed8c994e" sha1="5ea18aaf81e0e28414bb2cd87b099406d87665a4"/>
+		<rom name="Soccer Brawl (World) (Track 04).bin" size="10593408" crc="4a922924" md5="93a5ed90716ed3b62c57c6ff3e1ef777" sha1="5a1ef27d9b819f0582814e3173aee62cc998ced7"/>
+		<rom name="Soccer Brawl (World) (Track 05).bin" size="9050496" crc="149142d1" md5="651686d01ac56b14d764b9db04c5a1e9" sha1="f75eb3964b571b77a36d3ff9025c2e0e11d61ce4"/>
+		<rom name="Soccer Brawl (World) (Track 06).bin" size="10666320" crc="399c9eeb" md5="f560d5bc22531968a7ebc98467a3e8ef" sha1="79a73cd3085d64c1be8a557401deee1a80a05bea"/>
+		<rom name="Soccer Brawl (World) (Track 07).bin" size="3377472" crc="7128e879" md5="a723c3986e0b620ccb5d1e163bb3b701" sha1="8fa3e2be947e5966fbfcfa320ea8130bc8b225ec"/>
+		<rom name="Soccer Brawl (World) (Track 08).bin" size="31288656" crc="bac2c217" md5="a608998d957d5b8ac5f8bd54b80d7523" sha1="afaba7a1702a1e53e10b81adb647fede4a442618"/>
+		<rom name="Soccer Brawl (World) (Track 09).bin" size="32163600" crc="8a73e940" md5="0a55fe6ae25b3bd704974ffebd2ea1f9" sha1="f30ca0d42c963d014d769f691bba5b84edcf50c7"/>
+		<rom name="Soccer Brawl (World) (Track 10).bin" size="32751600" crc="3757685a" md5="b962b53d4ea8fca215dd2df6c9e81eda" sha1="3a0c6727dd9d3ba6cec7978deac5d8ec094a310c"/>
+		<rom name="Soccer Brawl (World) (Track 11).bin" size="33955824" crc="36932713" md5="1d4e147e54ef46660dd337680b8b552a" sha1="cc8ea70c64c2f9a2acd90470d04fe98f91e00155"/>
+		<rom name="Soccer Brawl (World) (Track 12).bin" size="20815200" crc="df0ea019" md5="1155f0aa073d41f35bc7a72a2dc61cc5" sha1="eb095c656019407c0ae461789a5e23fddc1103a0"/>
+		<rom name="Soccer Brawl (World) (Track 13).bin" size="10075968" crc="becef11a" md5="7b7e456825cbddb0ffff10cf91cff439" sha1="535d823bf8c4e948dd425b5a7f023e0981a496b9"/>
+		<rom name="Soccer Brawl (World) (Track 14).bin" size="8373120" crc="58855ded" md5="cdb19ee1e6b418a719cb70568acfef27" sha1="c9a16f1defdf9006953cb4155419ef39870892ae"/>
+		<rom name="Soccer Brawl (World) (Track 15).bin" size="2328480" crc="16747063" md5="45863e6e2a630ff1fdc36cedb7d8e5ac" sha1="206c4320bc52de15adeaf216d9aed13dd784d819"/>
+		<rom name="Soccer Brawl (World) (Track 16).bin" size="7683984" crc="11103e25" md5="f80b6b605a69919b7c841f9b60581c82" sha1="623aa513fd83dd5980c55c2d6f427be97024a1ee"/>
+		<rom name="Soccer Brawl (World) (Track 17).bin" size="9135168" crc="5871ebc2" md5="29048f4b71b44b01d03b808e671b5d79" sha1="3db6795916d8843ca9ed7d9ce552fb4a285232d8"/>
 	</game>
-	<game name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja)" sha1="e6db0a76170c232f8018590a5f4df9df4da8459b" size="352487491" crc="503d493c" fullsha1="1f6294b688132bca63eb2c8c9cf5534959fbb35a" dataSha1="7b31d65bdcb81ed810bdf90baaf246c3b6792970">
+	<game name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja)" sha1="e6db0a76170c232f8018590a5f4df9df4da8459b" size="352487491" crc="503d493c" fullsha1="1f6294b688132bca63eb2c8c9cf5534959fbb35a" dataSha1="7b31d65bdcb81ed810bdf90baaf246c3b6792970">
 		<category>Games</category>
-		<description>Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja)</description>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 01).bin" size="22259328" crc="bbb2f599" md5="7688fc3d710c3df5509bbdd137c7e282" sha1="a684a6a330e882989a3618f54c5c08a181ca096f"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 02).bin" size="2516640" crc="3c211b50" md5="97a3b96d79ff4d9610c51c3854ba8b2b" sha1="95ed440c00ca57544949c0dd237dc048e4aadba5"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 03).bin" size="7540512" crc="932728cb" md5="55b16bd1cf510fc386a1badc42cc6367" sha1="777499cf844fa9f1e92670dcdeee51d02b305883"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 04).bin" size="8942304" crc="153439dd" md5="0df7bbc0c6fdcae99544dbdef77addb3" sha1="815a2d7d1a7c8b8897af45dfffedfbf66be05949"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 05).bin" size="30747696" crc="d0818b40" md5="ca29a2d2e82e3eb6e8b21e3aa266100d" sha1="4af659b42b2bddff4498054e569ad6b1e0b15b7b"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 06).bin" size="32053056" crc="dce14fee" md5="6c3b090d7fb4afb23142205ed41c204c" sha1="501569f156e86a475498efa748671e1b3a3acc72"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 07).bin" size="16882656" crc="47899175" md5="dfabb4cda55c0e4a612e140ac4edc66e" sha1="ac65f3843a9cf4317f7b177ab3617e9a71324958"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 08).bin" size="29484672" crc="d54dfca9" md5="47c77f207f27ea14f1d9a1af3217f288" sha1="a36a134548c8ccdcd43d554ca099434c370f770c"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 09).bin" size="27045648" crc="76a10ec7" md5="f238585fb12956c564d654ae14d038ac" sha1="083b4a1ca9bd6aa7d43898a2df8aab6c068c8f56"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 10).bin" size="18914784" crc="9782a2e3" md5="c116693751c4e559363bf6b4e7afa487" sha1="7de96fd2e9cf3b7d245ae80e24f688f7ce8c6b48"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 11).bin" size="29870400" crc="0c57209a" md5="d3356496d08d5a7c2454aa0ea732fa51" sha1="9551186372d9813d4207a3c0d558ba42aff23aee"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 12).bin" size="30350208" crc="d2e40d8e" md5="a9b6cb6cce401c67e5c9fa53f4efb8c0" sha1="e5e29cebbc2cbf0b3694058a8302952f0d64c710"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 13).bin" size="35223552" crc="f67e0296" md5="05a3b8df58175b624679de22aab69454" sha1="e353da176c05d4a2e87f0002ab38534d81948edd"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 14).bin" size="31712016" crc="21b83956" md5="df8a43260d223df7c3d73c2c04db5efe" sha1="12de07f1427a18b72e30a4bb84fa90a0b207386a"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 15).bin" size="27791232" crc="ef0d55ab" md5="e918b0f24cff86d66a055cb10eae3263" sha1="7d4440a7ad9374a8b37f6eaac8a257fadf068cb1"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 16).bin" size="12451488" crc="eeca6452" md5="7efffaf9c4c5dafffe4c74dd2f352386" sha1="b520a05f74fefd56d3521b4f7ecb48dd9ad98fe9"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 17).bin" size="37756656" crc="b5a42738" md5="72082906d6b2304b1e838156c49972f9" sha1="14a0134bba084deb4bceee89a73b71f271d087fe"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 18).bin" size="40734288" crc="d925e784" md5="70d695874136e8f59375c8fcb06ea297" sha1="4350b24acb2475bdea4003ec1562e93a621ec4f5"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 19).bin" size="3149328" crc="271b96b4" md5="1474cc11bb9baa647269e485025808fd" sha1="5deef1e5b57519972e15c2c9a5c599834ca15747"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 20).bin" size="6261024" crc="b9be1619" md5="90b9edb5d38f402f5ed4076960a0f9c0" sha1="0dca0881359276ec7e7e68c01c29e8c1db2badc6"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 21).bin" size="5776512" crc="c7d45284" md5="2fa097e029458191e178a76a04f453e8" sha1="00dd390b63ebd311df85efeb61094dda0118f409"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 22).bin" size="6145776" crc="e4f165eb" md5="da44bea4ab5e88e2385c053695a0b959" sha1="35122a86e837b1dd0247c69b8b184957a1704e41"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 23).bin" size="6141072" crc="2da0ee06" md5="cf392e642d453f208d83d65e4c7d7676" sha1="5dfa3c9520641197a0d93c235b2a98a385b0938a"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 24).bin" size="5727120" crc="ee126f2a" md5="3ce26f9d717a9e885743c651baefc04c" sha1="13b2696668d6c00cf9f4ba28e7163c6170a764d5"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 25).bin" size="6018768" crc="bcb1314c" md5="b88aaad04975991c68b0ce0b577b39a7" sha1="d912d045826ab6f3899178a65e1482356b53c71c"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 26).bin" size="5353152" crc="ad8e3624" md5="306dd85d4f6d09bd3effd3ef378a8f02" sha1="9a9f5a2a0c72a4202f186a8588c11c42ac486988"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 27).bin" size="5334336" crc="5bc4294e" md5="55267dcaaf6e77c12e737be4eba16cdf" sha1="4a747bd119ae459889ba835b880dace9a482be39"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 28).bin" size="5771808" crc="b6db6386" md5="6c1d0e1daf6994fbca6acbcb35fd59d7" sha1="2bd161d1f1d8264339393e3403543033a08fdcb1"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 29).bin" size="5847072" crc="3d8f1c8c" md5="cfa6f810e2e68010355e9e571390605f" sha1="42df31534e25aa13e5a14fb48d16f17571db46fc"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 30).bin" size="5887056" crc="9f2487a6" md5="da34aa757b1a249d08aeb44441d3b402" sha1="1e1d1e763b66be8b7f45c16b3c88d2f7c0763878"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 31).bin" size="5673024" crc="9f6dc726" md5="1a1b7c9a37f1bbc15f78dae17d618fcb" sha1="ac83fa21a0b6fd2ba29e9f417e0ced906826b355"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 32).bin" size="13084176" crc="9310b8eb" md5="fc452cead130f5e90ff2f8e349c530ca" sha1="673ac4cfe524862e207377b3f711bb145b53b141"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 33).bin" size="81310992" crc="d87db8a2" md5="2935935dfe75c83eed0937c1916a6e91" sha1="5860ba9f98260a87adb402975136d3f0189850c5"/>
-		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja) (Track 34).bin" size="119018256" crc="22ec0f73" md5="f56576035ca395e5874705c9c3585326" sha1="86bb9cd736e21a3681cc86b9a35acba14a4e6939"/>
+		<description>Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja)</description>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 01).bin" size="22259328" crc="bbb2f599" md5="7688fc3d710c3df5509bbdd137c7e282" sha1="a684a6a330e882989a3618f54c5c08a181ca096f"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 02).bin" size="2516640" crc="3c211b50" md5="97a3b96d79ff4d9610c51c3854ba8b2b" sha1="95ed440c00ca57544949c0dd237dc048e4aadba5"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 03).bin" size="7540512" crc="932728cb" md5="55b16bd1cf510fc386a1badc42cc6367" sha1="777499cf844fa9f1e92670dcdeee51d02b305883"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 04).bin" size="8942304" crc="153439dd" md5="0df7bbc0c6fdcae99544dbdef77addb3" sha1="815a2d7d1a7c8b8897af45dfffedfbf66be05949"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 05).bin" size="30747696" crc="d0818b40" md5="ca29a2d2e82e3eb6e8b21e3aa266100d" sha1="4af659b42b2bddff4498054e569ad6b1e0b15b7b"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 06).bin" size="32053056" crc="dce14fee" md5="6c3b090d7fb4afb23142205ed41c204c" sha1="501569f156e86a475498efa748671e1b3a3acc72"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 07).bin" size="16882656" crc="47899175" md5="dfabb4cda55c0e4a612e140ac4edc66e" sha1="ac65f3843a9cf4317f7b177ab3617e9a71324958"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 08).bin" size="29484672" crc="d54dfca9" md5="47c77f207f27ea14f1d9a1af3217f288" sha1="a36a134548c8ccdcd43d554ca099434c370f770c"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 09).bin" size="27045648" crc="76a10ec7" md5="f238585fb12956c564d654ae14d038ac" sha1="083b4a1ca9bd6aa7d43898a2df8aab6c068c8f56"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 10).bin" size="18914784" crc="9782a2e3" md5="c116693751c4e559363bf6b4e7afa487" sha1="7de96fd2e9cf3b7d245ae80e24f688f7ce8c6b48"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 11).bin" size="29870400" crc="0c57209a" md5="d3356496d08d5a7c2454aa0ea732fa51" sha1="9551186372d9813d4207a3c0d558ba42aff23aee"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 12).bin" size="30350208" crc="d2e40d8e" md5="a9b6cb6cce401c67e5c9fa53f4efb8c0" sha1="e5e29cebbc2cbf0b3694058a8302952f0d64c710"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 13).bin" size="35223552" crc="f67e0296" md5="05a3b8df58175b624679de22aab69454" sha1="e353da176c05d4a2e87f0002ab38534d81948edd"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 14).bin" size="31712016" crc="21b83956" md5="df8a43260d223df7c3d73c2c04db5efe" sha1="12de07f1427a18b72e30a4bb84fa90a0b207386a"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 15).bin" size="27791232" crc="ef0d55ab" md5="e918b0f24cff86d66a055cb10eae3263" sha1="7d4440a7ad9374a8b37f6eaac8a257fadf068cb1"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 16).bin" size="12451488" crc="eeca6452" md5="7efffaf9c4c5dafffe4c74dd2f352386" sha1="b520a05f74fefd56d3521b4f7ecb48dd9ad98fe9"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 17).bin" size="37756656" crc="b5a42738" md5="72082906d6b2304b1e838156c49972f9" sha1="14a0134bba084deb4bceee89a73b71f271d087fe"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 18).bin" size="40734288" crc="d925e784" md5="70d695874136e8f59375c8fcb06ea297" sha1="4350b24acb2475bdea4003ec1562e93a621ec4f5"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 19).bin" size="3149328" crc="271b96b4" md5="1474cc11bb9baa647269e485025808fd" sha1="5deef1e5b57519972e15c2c9a5c599834ca15747"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 20).bin" size="6261024" crc="b9be1619" md5="90b9edb5d38f402f5ed4076960a0f9c0" sha1="0dca0881359276ec7e7e68c01c29e8c1db2badc6"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 21).bin" size="5776512" crc="c7d45284" md5="2fa097e029458191e178a76a04f453e8" sha1="00dd390b63ebd311df85efeb61094dda0118f409"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 22).bin" size="6145776" crc="e4f165eb" md5="da44bea4ab5e88e2385c053695a0b959" sha1="35122a86e837b1dd0247c69b8b184957a1704e41"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 23).bin" size="6141072" crc="2da0ee06" md5="cf392e642d453f208d83d65e4c7d7676" sha1="5dfa3c9520641197a0d93c235b2a98a385b0938a"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 24).bin" size="5727120" crc="ee126f2a" md5="3ce26f9d717a9e885743c651baefc04c" sha1="13b2696668d6c00cf9f4ba28e7163c6170a764d5"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 25).bin" size="6018768" crc="bcb1314c" md5="b88aaad04975991c68b0ce0b577b39a7" sha1="d912d045826ab6f3899178a65e1482356b53c71c"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 26).bin" size="5353152" crc="ad8e3624" md5="306dd85d4f6d09bd3effd3ef378a8f02" sha1="9a9f5a2a0c72a4202f186a8588c11c42ac486988"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 27).bin" size="5334336" crc="5bc4294e" md5="55267dcaaf6e77c12e737be4eba16cdf" sha1="4a747bd119ae459889ba835b880dace9a482be39"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 28).bin" size="5771808" crc="b6db6386" md5="6c1d0e1daf6994fbca6acbcb35fd59d7" sha1="2bd161d1f1d8264339393e3403543033a08fdcb1"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 29).bin" size="5847072" crc="3d8f1c8c" md5="cfa6f810e2e68010355e9e571390605f" sha1="42df31534e25aa13e5a14fb48d16f17571db46fc"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 30).bin" size="5887056" crc="9f2487a6" md5="da34aa757b1a249d08aeb44441d3b402" sha1="1e1d1e763b66be8b7f45c16b3c88d2f7c0763878"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 31).bin" size="5673024" crc="9f6dc726" md5="1a1b7c9a37f1bbc15f78dae17d618fcb" sha1="ac83fa21a0b6fd2ba29e9f417e0ced906826b355"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 32).bin" size="13084176" crc="9310b8eb" md5="fc452cead130f5e90ff2f8e349c530ca" sha1="673ac4cfe524862e207377b3f711bb145b53b141"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 33).bin" size="81310992" crc="d87db8a2" md5="2935935dfe75c83eed0937c1916a6e91" sha1="5860ba9f98260a87adb402975136d3f0189850c5"/>
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 34).bin" size="119018256" crc="22ec0f73" md5="f56576035ca395e5874705c9c3585326" sha1="86bb9cd736e21a3681cc86b9a35acba14a4e6939"/>
 	</game>
 	<game name="Sonic Wings 3 ~ Aero Fighters 3 (Japan) (En,Ja)" sha1="1ae3164837505288fd91ea6a362050a7a9f0130b" size="211677820" crc="3fdaa91f" fullsha1="65961353c43952c1c39d7e5fc48d912fa74045fc" dataSha1="88dc01b17f3c8b3f7a90e299c2c8b66727cf8d1e">
 		<category>Games</category>

@@ -4,8 +4,8 @@
 	<header>
 		<name>sgi_mips</name>
 		<description>sgi_mips</description>
-		<version>0.250</version>
-		<date>2022-12-21</date>
+		<version>0.257</version>
+		<date>2023-08-02</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -2163,6 +2163,21 @@
 		<category>Games</category>
 		<description>onc3nfs_ind\onc3_nfs_for_irix_6_2_with_indigo2_impact_10000_version_1</description>
 		<rom name="onc3_nfs_for_irix_6_2_with_indigo2_impact_10000_version_1 (Track 01).bin" size="39483024" crc="7f0b9c84" md5="ba3df9b774df2675155082f5b351035e" sha1="08c3b986f0a801fc84a88e2abcd56fb75fd05dd9"/>
+	</game>
+	<game name="onyx2demo1\sgi-onyx2-demo-1" sha1="128d6a508d7a97327ad11c017c39d4ba64a39809" size="624092713" crc="ae76218f" fullsha1="42a6d6e968e1c97be0aa28e32834fd127a423ccb" dataSha1="84f4950eb8070e3a7b91f79dbd6179e25fd830d0">
+		<category>Games</category>
+		<description>onyx2demo1\sgi-onyx2-demo-1</description>
+		<rom name="sgi-onyx2-demo-1 (Track 01).bin" size="636450816" crc="19feb43d" md5="5c2268336d6d3acc70c08917da992b0a" sha1="1654ff3d97681b2c9700ad11d306879e234977c7"/>
+	</game>
+	<game name="onyx2demo2\sgi-onyx2-demo-2" sha1="cf1ab422401ff293f4e3b4e168215f164cae2d97" size="552843260" crc="f94c9017" fullsha1="65f883c17c32a8d18d90872da424ec5a2d255d03" dataSha1="1ecedd11d6ecf01904e7fa1a7d3c1c827f3ed46a">
+		<category>Games</category>
+		<description>onyx2demo2\sgi-onyx2-demo-2</description>
+		<rom name="sgi-onyx2-demo-2 (Track 01).bin" size="574398464" crc="b7c63cab" md5="c785830e6b91d1e125aa25eb0f8cae90" sha1="feec8e292e67d8db9eee1a3f1034c3f5709b9112"/>
+	</game>
+	<game name="onyx2demo3\sgi-onyx2-demo-3" sha1="dd7c43e4b892dc4f4f4992bd18561b06a934ea94" size="587765811" crc="ca48602d" fullsha1="a4798ad293b23b904149bd7d72708c01a729c1be" dataSha1="39418d4278d510028e3f8ef4b926dc738fa7628a">
+		<category>Games</category>
+		<description>onyx2demo3\sgi-onyx2-demo-3</description>
+		<rom name="sgi-onyx2-demo-3 (Track 01).bin" size="626894848" crc="52c268b6" md5="f2a5043016241670a808bb341d01df38" sha1="ff638aeacff4c443dbbf5fa3e4a6136eb7d74db9"/>
 	</game>
 	<game name="openinv_2_1_2\open_inventor_3d_toolkit_2_1_2" sha1="39e316ac4b245696935445c8b9461070b5e02695" size="82761177" crc="4d78aeaa" fullsha1="0aa0616d5156e2555b89df459b75c9fc4a33b331" dataSha1="9d21df7186f5c2e47171b86f7f9685b6b7975ded">
 		<category>Games</category>

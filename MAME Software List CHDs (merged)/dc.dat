@@ -4,8 +4,8 @@
 	<header>
 		<name>dc</name>
 		<description>dc</description>
-		<version>0.250</version>
-		<date>2022-12-21</date>
+		<version>0.257</version>
+		<date>2023-08-02</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -2373,6 +2373,13 @@
 		<rom name="deep fighter (usa) (disc 2) (Track 25).bin" size="28308672" crc="abf6a38e" md5="b3e4854d45b9f61240b7b0f779ab6c3f" sha1="73a8f9661dc8ce48dc15185bf28e2317c700967c"/>
 		<rom name="deep fighter (usa) (disc 2) (Track 26).bin" size="353072832" crc="0d48bc5a" md5="9c31818f2a9c6947dadfee6a2103a3a2" sha1="659c05bacd490b9efae77f5d815b1e00b65197ff"/>
 	</game>
+	<game name="dejiko\dejiko no maibura (jpn)" sha1="ac2f875d07b4e153f56ec6235d5dba0e13bb0d47" size="178275783" crc="acecb824" fullsha1="6594bcf8409839a5323fec91ab2f1ce2e3eb3a23" dataSha1="6be1f36644c0edd36e88c52197d6e57dd666c529">
+		<category>Games</category>
+		<description>dejiko\dejiko no maibura (jpn)</description>
+		<rom name="dejiko no maibura (jpn) (Track 01).bin" size="705600" crc="92d776d2" md5="eba49319e8c9a24611323ee71f17826c" sha1="25598497e9ada69c572a9c35275af1c1a739f4ed"/>
+		<rom name="dejiko no maibura (jpn) (Track 02).bin" size="8888208" crc="ceb94e11" md5="8329237d30d32a2474771a0cb8fd9a8d" sha1="9f16d8664c6edf3e2a773830486604d661cbc09d"/>
+		<rom name="dejiko no maibura (jpn) (Track 03).bin" size="1185760800" crc="51f53495" md5="964b0c13d5daccb551847790d88946de" sha1="cad5ef380716adcc0369138834e764ce871b8664"/>
+	</game>
 	<game name="demracer\demolition racer no exit (usa)" sha1="ec18cd08c046d90df6116dd1ba6e4db6c682020b" size="409104198" crc="b82705fb" fullsha1="15aa59f894998033ab136c23d07587219017cb3d" dataSha1="d2908c975feea5b93c0b3bf6268688cd566ecdfa">
 		<category>Games</category>
 		<description>demracer\demolition racer no exit (usa)</description>
@@ -3070,13 +3077,6 @@
 		<rom name="hello kitty no dream passport 2 (jpn) (Track 01).bin" size="2370816" crc="fe936b5b" md5="01a5190afdb5daa6068aef0d7d121977" sha1="b5d9669597ec52c9b71c30e3e0ac92bf2142f1ca"/>
 		<rom name="hello kitty no dream passport 2 (jpn) (Track 02).bin" size="1994496" crc="295a221d" md5="6b970200bc800ac1f7d9ea9943f23e96" sha1="feff872e02c286e924a3baca945646b55f7a48d9"/>
 		<rom name="hello kitty no dream passport 2 (jpn) (Track 03).bin" size="1185760800" crc="e71fc925" md5="d5bfcfcc3305c5f3840a7afc31920454" sha1="d0a8888c2e434baff06e1708575956d8cc204b39"/>
-	</game>
-	<game name="drmpass3\dejiko no maibura (jpn)" sha1="ac2f875d07b4e153f56ec6235d5dba0e13bb0d47" size="178275783" crc="acecb824" fullsha1="6594bcf8409839a5323fec91ab2f1ce2e3eb3a23" dataSha1="6be1f36644c0edd36e88c52197d6e57dd666c529">
-		<category>Games</category>
-		<description>drmpass3\dejiko no maibura (jpn)</description>
-		<rom name="dejiko no maibura (jpn) (Track 01).bin" size="705600" crc="92d776d2" md5="eba49319e8c9a24611323ee71f17826c" sha1="25598497e9ada69c572a9c35275af1c1a739f4ed"/>
-		<rom name="dejiko no maibura (jpn) (Track 02).bin" size="8888208" crc="ceb94e11" md5="8329237d30d32a2474771a0cb8fd9a8d" sha1="9f16d8664c6edf3e2a773830486604d661cbc09d"/>
-		<rom name="dejiko no maibura (jpn) (Track 03).bin" size="1185760800" crc="51f53495" md5="964b0c13d5daccb551847790d88946de" sha1="cad5ef380716adcc0369138834e764ce871b8664"/>
 	</game>
 	<game name="drmpass3\dream passport 3 (jpn)" sha1="65086ef94c1c1f76c8391119cd39efccc01e642a" size="402459119" crc="92e4705c" fullsha1="f0195bcf0492f0f1bc7efd7177865108d0a7f66a" dataSha1="81ed2d209e473f6b5ac9c2701c649d1d3bef8227">
 		<category>Games</category>

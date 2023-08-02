@@ -4,8 +4,8 @@
 	<header>
 		<name>neocd</name>
 		<description>neocd</description>
-		<version>0.250</version>
-		<date>2022-12-21</date>
+		<version>0.257</version>
+		<date>2023-08-02</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -590,6 +590,30 @@
 		<rom name="cyber-lip (1995)(snk)(jp-us) (Track 27).bin" size="7345296" crc="d1046367" md5="8dda320a21a4fa6210461747c9d909ff" sha1="3c460088c353817e3b05015ade9641bcfbe9331b"/>
 		<rom name="cyber-lip (1995)(snk)(jp-us) (Track 28).bin" size="2756544" crc="b6f0c827" md5="848e00f0f6619156754238fda6232ba0" sha1="100536985ace93d534ba45cc12edd4eda30ec347"/>
 		<rom name="cyber-lip (1995)(snk)(jp-us) (Track 29).bin" size="4501728" crc="46114332" md5="3b347c87048f31eaab16fac5ae8be52c" sha1="99423cc13b9ff5a336d5f493a3fd3b1a8536bd1b"/>
+	</game>
+	<game name="doubledr\double dragon (1995)(snk)(jp)[ngcd-082 mt b06]" sha1="112247572129b20249f0145380c298cd0acc45e5" size="443180099" crc="228fb42f" fullsha1="64bf06de31105900dacbdd927ef635f71d264725" dataSha1="a32acb0b674ccc53f5fa98094f8b3134bf0ff7d4">
+		<category>Games</category>
+		<description>doubledr\double dragon (1995)(snk)(jp)[ngcd-082 mt b06]</description>
+		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 01).bin" size="22988448" crc="3bddb81a" md5="3f6119a8c0fa4bdd18da8636f1dee440" sha1="a9d3a27bdbd533279368cdac7f83ece312235f56"/>
+		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 02).bin" size="17903424" crc="5e1138f0" md5="6855ee77c32d4640ad0e80c01e900666" sha1="92a401dfc87853ffc5e72003577216d018b6b801"/>
+		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 03).bin" size="17823456" crc="f865e94f" md5="056a1ac0302e7b366cee842dad19df31" sha1="e597eb19147cfd96b2d82d7141d05ee4e14ff5c1"/>
+		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 04).bin" size="5089728" crc="6f243990" md5="cba4aea648662c9fcb0faa112cbd1b74" sha1="382cbd817c1c2a58e42e35b9cf58109a58453a3d"/>
+		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 05).bin" size="3539760" crc="e76047ad" md5="eecfd6b09cc8cf84ddcce2afdb09b0ed" sha1="941315e36eec2f5f28e8ec3ec70ee609970816df"/>
+		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 06).bin" size="45224256" crc="fed1ed7d" md5="0905b95573d6270b65eca463fb4141a6" sha1="22f7bd588aa68776930cc9e06283a8813025fb99"/>
+		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 07).bin" size="38913840" crc="25093ae8" md5="4cd3f1edafc0e1ac9b3f3f5ca8e203f9" sha1="076905470bcc47e5705972985466e9fd7d5730b6"/>
+		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 08).bin" size="47686800" crc="f74c501a" md5="c031185fb5a365f53c87d15c55830b57" sha1="b09607747da75cceb2b933339c72733c67132766"/>
+		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 09).bin" size="43472016" crc="e6b0116f" md5="43ba26a326c23f95637ffa7ecbcd5b8f" sha1="fba60832dbc065737b6d12c71bf855497013d150"/>
+		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 10).bin" size="45160752" crc="b5319c17" md5="b1ebfc0ecbdcd5251dcebfe8482270fd" sha1="b54b45f13f99fc130ef50648f213230245e0cbcf"/>
+		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 11).bin" size="47818512" crc="af19e471" md5="57d287e069d0bd2aa019ad32e5096c66" sha1="7697603904e028de0087cc0834667d65c0caafd3"/>
+		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 12).bin" size="44036496" crc="3d711524" md5="1f49e07cc4bf7b0ef031f562d8c4a704" sha1="ae09667e2f5a1cb96853a0d2e368a2a404aca364"/>
+		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 13).bin" size="48046656" crc="4c94d4ad" md5="00571bf4c1b93e83d26ab8f3f82b3819" sha1="64b8f726a21e1b907da16aa2b90199f9a1a8b7ef"/>
+		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 14).bin" size="46390848" crc="a139597c" md5="d9e9e76a804c7bf0a5be4431efa1c1e8" sha1="99c72746026a83e7db78c83e98f6c320d2ae8933"/>
+		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 15).bin" size="48945120" crc="385af469" md5="38052c197456605a018c42437ce721f0" sha1="8db22f7dd99791ff7e25ddbb4ee55525111e3d70"/>
+		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 16).bin" size="47051760" crc="d3df36c1" md5="7df84848fd6df6218bc5770ee1deae29" sha1="9c498cc1cba7568b9ddf18c22d878bcf00b4bc09"/>
+		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 17).bin" size="47188176" crc="90d9fdde" md5="c4eb98f796ae063a3747436ffc35341c" sha1="72d76311925768b816f2c822389f43af9fb1326c"/>
+		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 18).bin" size="42719376" crc="f053c8ca" md5="40500cc132832b2f9dcd1f78788b5a08" sha1="1ec792a8ce3e9674ea6108d8746749a72fd70f76"/>
+		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 19).bin" size="26862192" crc="44a21c02" md5="b7de0c4da252a4c67f8277a6156ee138" sha1="900e29a7132c982cab0c7fecb7f1b149667c2252"/>
+		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 20).bin" size="27984096" crc="2b16ee70" md5="02b32c21da0e9801653945b4066e7871" sha1="9da224ef2e510f79468ffc85fd9a14f3bbfbefd7"/>
 	</game>
 	<game name="doubledr\double dragon (1995)(snk)(jp-us)[ngcd-082 mt b01, ngcd-082e mt b04]" sha1="6c4904abf7eabb4d7a51dfbd5d2071fb4f89e437" size="443085692" crc="2dfbee98" fullsha1="404856deac6875ec1fac00fa36c2aed1b6900c09" dataSha1="50b4e00da549a9e9e08cbec21bf389c09820ffd5">
 		<category>Games</category>

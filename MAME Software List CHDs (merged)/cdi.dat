@@ -4,8 +4,8 @@
 	<header>
 		<name>cdi</name>
 		<description>cdi</description>
-		<version>0.250</version>
-		<date>2022-12-21</date>
+		<version>0.257</version>
+		<date>2023-08-02</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -1007,6 +1007,16 @@
 		<description>domststp\dom zu st. stephan in wien, der (1995)(philips)(at)</description>
 		<rom name="dom zu st. stephan in wien, der (1995)(philips)(at) (Track 01).bin" size="686024304" crc="5d079016" md5="fb7007fd0a301e4392db594f4ecccb3f" sha1="a0372509eaad0179959de79439ad6d02cafcbd2e"/>
 	</game>
+	<game name="doorswin\cranberries, the - doors and windows (usa)" sha1="4933df55a2925e4bc6639537b2b5d18349d7b3ac" size="443090773" crc="3e3d35fd" fullsha1="7088d9cead7c658279a362e97caa55e0ee9f07a2" dataSha1="af796e4fb004e20c0ca70157ea5c2601d021b929">
+		<category>Games</category>
+		<description>doorswin\cranberries, the - doors and windows (usa)</description>
+		<rom name="cranberries, the - doors and windows (usa) (Track 01).bin" size="553665504" crc="499dc148" md5="ec76c5c41095ce953509bbfb889dd95a" sha1="d2c7a2f71feb216e91e7aa06ce9ec42902287479"/>
+		<rom name="cranberries, the - doors and windows (usa) (Track 02).bin" size="44528064" crc="ff10d7d3" md5="b66710e4192053062aa80ecf6ea3c1e5" sha1="a850e09a91ca23a42929a2b63fa52b1a580006d6"/>
+		<rom name="cranberries, the - doors and windows (usa) (Track 03).bin" size="50516256" crc="aed80da5" md5="07876717d36fa90bdb6e55bbb0b06fc6" sha1="67c0a4db7dde07ce9b0f45d78d41812cb1b8d1f1"/>
+		<rom name="cranberries, the - doors and windows (usa) (Track 04).bin" size="28405104" crc="8b042db3" md5="39d672dbc91e5c6e44a5a0d8e0f852d1" sha1="298a9ad28946f886fa415fd826454a4178d7baae"/>
+		<rom name="cranberries, the - doors and windows (usa) (Track 05).bin" size="37269792" crc="26ed1a0d" md5="99afa04401a863b4238425848954a2a1" sha1="5415974d94d62f60d90e190477084ca86d7bdc2e"/>
+		<rom name="cranberries, the - doors and windows (usa) (Track 06).bin" size="55996416" crc="4e78455b" md5="fca6e7e070cfb63d59e5872bd1692034" sha1="6cae7be0edab93d83cf13da23a98c29ee9438b54"/>
+	</game>
 	<game name="downhome\downhome blues, the (1994)(philips)(us)" sha1="f8cb47c08c67da86e4cfcff03f4c55c8befcc198" size="330517779" crc="2ca74825" fullsha1="893926bdf0bb85c6e475639658c35da3fb7af04a" dataSha1="38274a6302e08c898824d035244bb35071bbd411">
 		<category>Games</category>
 		<description>downhome\downhome blues, the (1994)(philips)(us)</description>
@@ -1297,6 +1307,11 @@
 		<category>Games</category>
 		<description>golftips\golf tips - customised golf instruction (1993)(xdra)(eu)(en-ja)</description>
 		<rom name="golf tips - customised golf instruction (1993)(xdra)(eu)(en-ja) (Track 01).bin" size="417009600" crc="16ee5e0a" md5="3e1f463727d407c684a3fe98839b1593" sha1="022595ac11f35f8e1986f7da2fdf87ecc41dcbfc"/>
+	</game>
+	<game name="golgo13\golgo 13 (1992)(japan interactive media)(jp)" sha1="c9d82b668ad097e4cc72d4c4d8274f5f36753a6d" size="117311189" crc="9828d0aa" fullsha1="c8767a7864e139e50af9f121c7f944285b5763f0" dataSha1="8ec74171033af6c3347b8de46d10b0eddfb06dd9">
+		<category>Games</category>
+		<description>golgo13\golgo 13 (1992)(japan interactive media)(jp)</description>
+		<rom name="golgo 13 (1992)(japan interactive media)(jp) (Track 01).bin" size="555483600" crc="dc016ec2" md5="9c12718d43129e23d525f7c24d55a5d0" sha1="ded6c8c54b857fa1ee6ea7bcb10d012eaba76985"/>
 	</game>
 	<game name="gose\go - special edition" sha1="6ba5ebd3a9acf2cdb8f676da2ef19c6bb6556b62" size="226444497" crc="0e873a42" fullsha1="abcb043a29b8c5f432b8c1097a76a8b45e9c946c" dataSha1="b3eb631cc7c891203f5aafd23641ff27a56040b1">
 		<category>Games</category>

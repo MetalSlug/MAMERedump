@@ -4,8 +4,8 @@
 	<header>
 		<name>NEC - PC Engine CD &amp; TurboGrafx CD - Redump 2022-06-04</name>
 		<description>NEC - PC Engine CD &amp; TurboGrafx CD - Redump 2022-06-04</description>
-		<version>0.250</version>
-		<date>2022-12-21</date>
+		<version>0.257</version>
+		<date>2023-08-02</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -352,30 +352,30 @@
 		<rom name="Adventure Quiz - Capcom World + Hatena no Daibouken (Japan) (Track 06).bin" size="27854736" crc="e3646dc1" md5="7dbec70aafa45e8c93391ea803288a9c" sha1="f78f73880aada3a41ecfdc924a8e1230a141b91c"/>
 		<rom name="Adventure Quiz - Capcom World + Hatena no Daibouken (Japan) (Track 07).bin" size="5216736" crc="e3792471" md5="1178fbda4620e6453f8e67dcc2214a99" sha1="28ac4cba96e35587de3ddadee0958871b11c5795"/>
 	</game>
-	<game name="Ai Chou Aniki (Japan) (SADS)" sha1="5c6d0fadfb48ce66b498bc4e0e3a48351a7d96db" size="362252363" crc="ac832120" fullsha1="25c8ce630b816f7ff52b1798c238e8c22716482b" dataSha1="1b09bd083b6a10b1568d2af2c9048c30badd8fdd">
+	<game name="Ai Chou Aniki (Japan) (SADS, SAES)" sha1="5c6d0fadfb48ce66b498bc4e0e3a48351a7d96db" size="362252363" crc="ac832120" fullsha1="25c8ce630b816f7ff52b1798c238e8c22716482b" dataSha1="1b09bd083b6a10b1568d2af2c9048c30badd8fdd">
 		<category>Games</category>
-		<description>Ai Chou Aniki (Japan) (SADS)</description>
-		<rom name="Ai Chou Aniki (Japan) (SADS) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
-		<rom name="Ai Chou Aniki (Japan) (SADS) (Track 02).bin" size="5821200" crc="35689ce2" md5="bc9a7f74ebaafecca8828724c7ac4370" sha1="40891269d184f4527fcb6cf7e18313189f5fdd5d"/>
-		<rom name="Ai Chou Aniki (Japan) (SADS) (Track 03).bin" size="1573488" crc="93544bfe" md5="e57bdb559315913b30c8a7a2d279bd3e" sha1="0da1f454928eda9fe8e6f3ad3398655c4e467db9"/>
-		<rom name="Ai Chou Aniki (Japan) (SADS) (Track 04).bin" size="35075376" crc="5b3e508b" md5="38dfc157ae9af424a19613c190fa2bf7" sha1="4c91cfe9b65501702aa2eadad38bf1f30304ccb3"/>
-		<rom name="Ai Chou Aniki (Japan) (SADS) (Track 05).bin" size="24279696" crc="9fc4ef72" md5="be0b6af192ee0fff18809d5bf8468e9d" sha1="17497a6eb4d9bda45c9500dbfa47669f40f0face"/>
-		<rom name="Ai Chou Aniki (Japan) (SADS) (Track 06).bin" size="24987648" crc="4bcfd9df" md5="e94246a7167c17356adbf01eada4adb7" sha1="8707a198896d5a8df63ee4e9d6f67a748193b2bc"/>
-		<rom name="Ai Chou Aniki (Japan) (SADS) (Track 07).bin" size="36289008" crc="6ee15d9d" md5="5448a00dce1c9dbe6efa0322cb6d6a1a" sha1="4f37dba560f567c910d99e80c286b468d16f1f65"/>
-		<rom name="Ai Chou Aniki (Japan) (SADS) (Track 08).bin" size="33365472" crc="512dc420" md5="c50ec0bc40fbc8e55463876b9d66b2fe" sha1="b14992e2c827eb5a1c32bdfb7d2b6fda443618b8"/>
-		<rom name="Ai Chou Aniki (Japan) (SADS) (Track 09).bin" size="25422768" crc="9824e41f" md5="ead638dc9f0c94d4ac28fbfae5a34084" sha1="7746bdf277f74f38622e2aeabfdf4466e8663d90"/>
-		<rom name="Ai Chou Aniki (Japan) (SADS) (Track 10).bin" size="24531360" crc="48bb6a74" md5="c5687a8f276c2bd8a6774dc8b00db089" sha1="0b444061a1e164fe3d4adc652f9a04754b1766b3"/>
-		<rom name="Ai Chou Aniki (Japan) (SADS) (Track 11).bin" size="30166752" crc="18ef57e9" md5="5acf93083c1f9d02d0b6559ff95f080e" sha1="3e6de63e9c0460a7e0ce3fc334180a5dc2a5c586"/>
-		<rom name="Ai Chou Aniki (Japan) (SADS) (Track 12).bin" size="23421216" crc="0aa36601" md5="75ce45905e44019ea8624fedb3da2ac1" sha1="2cac8ea38684a3d0c798745c01ece5f26e56739a"/>
-		<rom name="Ai Chou Aniki (Japan) (SADS) (Track 13).bin" size="38361120" crc="af04f085" md5="fe974afc7210a8ed3d138257a1374db7" sha1="b457fabdcc9f1cd3902f76cb82998301c380d830"/>
-		<rom name="Ai Chou Aniki (Japan) (SADS) (Track 14).bin" size="35367024" crc="6a0d779a" md5="66fcd45fd711c3779f8b98fbb000b038" sha1="96da19e9e3b7c61524c02cb851b3f4f2e28dbe8e"/>
-		<rom name="Ai Chou Aniki (Japan) (SADS) (Track 15).bin" size="40866000" crc="91b1832b" md5="4981ff6e219b97842314d9ce77d25d69" sha1="8d58216d0059bd679cb6fb03a45da835719b2f95"/>
-		<rom name="Ai Chou Aniki (Japan) (SADS) (Track 16).bin" size="14180208" crc="a2f9714d" md5="2cca073ca0fbbcf178558819cd704e69" sha1="cde9dfeded081726ddff68f4ac109e19fb900045"/>
-		<rom name="Ai Chou Aniki (Japan) (SADS) (Track 17).bin" size="40875408" crc="6c2bdeba" md5="b02562f8d33e51d21f30463e9a384baf" sha1="f981f7b5a8d43a5069273448af0213650ed1c392"/>
-		<rom name="Ai Chou Aniki (Japan) (SADS) (Track 18).bin" size="37283904" crc="7f42e360" md5="6043bc1af72b28cc567af21b114664c3" sha1="f45d009848a89295fadc9bdae309a6c640b1a307"/>
-		<rom name="Ai Chou Aniki (Japan) (SADS) (Track 19).bin" size="39471264" crc="d827db46" md5="a6a81a04e051220d64d5d823c2daaddb" sha1="1303e74c97ca27962bf0d5ee96c180213e67ab53"/>
-		<rom name="Ai Chou Aniki (Japan) (SADS) (Track 20).bin" size="1220688" crc="7ff267e2" md5="556b473f12e33fa64fe8d39fae40e38e" sha1="0789be9c90b954a2e355c069b542882b16c247d0"/>
-		<rom name="Ai Chou Aniki (Japan) (SADS) (Track 21).bin" size="5470752" crc="1e011a5c" md5="3d39b01e2946492bbf669ebb6014bce6" sha1="3c4b05535bdb58c740e1f95afec7686689b2c711"/>
+		<description>Ai Chou Aniki (Japan) (SADS, SAES)</description>
+		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
+		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 02).bin" size="5821200" crc="35689ce2" md5="bc9a7f74ebaafecca8828724c7ac4370" sha1="40891269d184f4527fcb6cf7e18313189f5fdd5d"/>
+		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 03).bin" size="1573488" crc="93544bfe" md5="e57bdb559315913b30c8a7a2d279bd3e" sha1="0da1f454928eda9fe8e6f3ad3398655c4e467db9"/>
+		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 04).bin" size="35075376" crc="5b3e508b" md5="38dfc157ae9af424a19613c190fa2bf7" sha1="4c91cfe9b65501702aa2eadad38bf1f30304ccb3"/>
+		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 05).bin" size="24279696" crc="9fc4ef72" md5="be0b6af192ee0fff18809d5bf8468e9d" sha1="17497a6eb4d9bda45c9500dbfa47669f40f0face"/>
+		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 06).bin" size="24987648" crc="4bcfd9df" md5="e94246a7167c17356adbf01eada4adb7" sha1="8707a198896d5a8df63ee4e9d6f67a748193b2bc"/>
+		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 07).bin" size="36289008" crc="6ee15d9d" md5="5448a00dce1c9dbe6efa0322cb6d6a1a" sha1="4f37dba560f567c910d99e80c286b468d16f1f65"/>
+		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 08).bin" size="33365472" crc="512dc420" md5="c50ec0bc40fbc8e55463876b9d66b2fe" sha1="b14992e2c827eb5a1c32bdfb7d2b6fda443618b8"/>
+		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 09).bin" size="25422768" crc="9824e41f" md5="ead638dc9f0c94d4ac28fbfae5a34084" sha1="7746bdf277f74f38622e2aeabfdf4466e8663d90"/>
+		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 10).bin" size="24531360" crc="48bb6a74" md5="c5687a8f276c2bd8a6774dc8b00db089" sha1="0b444061a1e164fe3d4adc652f9a04754b1766b3"/>
+		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 11).bin" size="30166752" crc="18ef57e9" md5="5acf93083c1f9d02d0b6559ff95f080e" sha1="3e6de63e9c0460a7e0ce3fc334180a5dc2a5c586"/>
+		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 12).bin" size="23421216" crc="0aa36601" md5="75ce45905e44019ea8624fedb3da2ac1" sha1="2cac8ea38684a3d0c798745c01ece5f26e56739a"/>
+		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 13).bin" size="38361120" crc="af04f085" md5="fe974afc7210a8ed3d138257a1374db7" sha1="b457fabdcc9f1cd3902f76cb82998301c380d830"/>
+		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 14).bin" size="35367024" crc="6a0d779a" md5="66fcd45fd711c3779f8b98fbb000b038" sha1="96da19e9e3b7c61524c02cb851b3f4f2e28dbe8e"/>
+		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 15).bin" size="40866000" crc="91b1832b" md5="4981ff6e219b97842314d9ce77d25d69" sha1="8d58216d0059bd679cb6fb03a45da835719b2f95"/>
+		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 16).bin" size="14180208" crc="a2f9714d" md5="2cca073ca0fbbcf178558819cd704e69" sha1="cde9dfeded081726ddff68f4ac109e19fb900045"/>
+		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 17).bin" size="40875408" crc="6c2bdeba" md5="b02562f8d33e51d21f30463e9a384baf" sha1="f981f7b5a8d43a5069273448af0213650ed1c392"/>
+		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 18).bin" size="37283904" crc="7f42e360" md5="6043bc1af72b28cc567af21b114664c3" sha1="f45d009848a89295fadc9bdae309a6c640b1a307"/>
+		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 19).bin" size="39471264" crc="d827db46" md5="a6a81a04e051220d64d5d823c2daaddb" sha1="1303e74c97ca27962bf0d5ee96c180213e67ab53"/>
+		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 20).bin" size="1220688" crc="7ff267e2" md5="556b473f12e33fa64fe8d39fae40e38e" sha1="0789be9c90b954a2e355c069b542882b16c247d0"/>
+		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 21).bin" size="5470752" crc="1e011a5c" md5="3d39b01e2946492bbf669ebb6014bce6" sha1="3c4b05535bdb58c740e1f95afec7686689b2c711"/>
 	</game>
 	<game name="Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT)" sha1="a2620a574fc6d3c7ac190b62fe025428b26d6871" size="283421488" crc="5d2cb467" fullsha1="92cdfc558162e75781345808ebf8e6095a05eb18" dataSha1="006e82932a7b45adfec2f46eeb8ff8f83fc3d663">
 		<category>Games</category>
@@ -5285,29 +5285,29 @@
 		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (Demo) (SABS) (Track 20).bin" size="19608624" crc="bbaad326" md5="ee18f1fd1c4f53956a51b33ee8216c15" sha1="29258d16beab181e7c4a1cf69411220047464d7a"/>
 		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (Demo) (SABS) (Track 21).bin" size="24578400" crc="c9deb83b" md5="cd4d9b7fa7e9fe1aff1f04a5e47cefc5" sha1="a8ee524c4abf069a08c705f217d5d7de0ee05c37"/>
 	</game>
-	<game name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT)" sha1="0d2bdead9243d3757322a5310486b85e727522a1" size="388622633" crc="f5313e63" fullsha1="1df2de48ec745f63120682b2c39cfe09d9e4928d" dataSha1="805323d246b7e80fafae70eae7023857fab676f6">
+	<game name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT)" sha1="0d2bdead9243d3757322a5310486b85e727522a1" size="388622633" crc="f5313e63" fullsha1="1df2de48ec745f63120682b2c39cfe09d9e4928d" dataSha1="805323d246b7e80fafae70eae7023857fab676f6">
 		<category>Games</category>
-		<description>Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT)</description>
-		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
-		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (Track 02).bin" size="30013872" crc="537da3c1" md5="93dc5a9e8f8b6ff54098ad4a72b1f6b1" sha1="3e39cdce31f8c64b85c20e112610361334cc3a0b"/>
-		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (Track 03).bin" size="38765664" crc="8896f5af" md5="3892fa9d8f1c2b1220ba6e35d59b38d4" sha1="f041929e7e6896f827c04198ddce4575cc69e571"/>
-		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (Track 04).bin" size="39720576" crc="87248a40" md5="407abf5d58c14490535a9cbad8a56e52" sha1="ccf70b322e47958a720704af6ccb112f0e5eaf72"/>
-		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (Track 05).bin" size="40409712" crc="9a18dafa" md5="4b85b1adf5b904cda7e100060df0e52c" sha1="5c5cefe00e6e0d50fc7aa42a1b8e708c19bf1cc7"/>
-		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (Track 06).bin" size="37208640" crc="dd208023" md5="f82eae792a499b74dc1fe7a2cf3a59a2" sha1="a77dac9cfb72a591cd9618b43b71bdf5607d1a41"/>
-		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (Track 07).bin" size="34560288" crc="816515e3" md5="ebd5ba6d041aff4e0ff9ad3a0771330b" sha1="2ff20e8927d6f979525e623f031d1a035174b696"/>
-		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (Track 08).bin" size="43730736" crc="d741739a" md5="2d62d9a83f27fe26ccbc746b1bbdf045" sha1="ef0076553e5fdbc66ee351c230839c7524478531"/>
-		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (Track 09).bin" size="40259184" crc="1d12ee94" md5="fcf47f2a56e02220fd11a0ab267dca21" sha1="121ea0523b28b514ebeadb181d6b1950c8912e53"/>
-		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (Track 10).bin" size="39544176" crc="d334e9fa" md5="64fcd861b6df3c147677a18ee5a5a1a4" sha1="3bba19578665adc61da5f0b1e64e70db6b5d5ea0"/>
-		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (Track 11).bin" size="39421872" crc="ce3264da" md5="b48836e1050d26bd3a9b2b7e86a9c041" sha1="36c374f053e0ca8a23104f0e4b36c42c8e9cebbf"/>
-		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (Track 12).bin" size="39057312" crc="d58d52a5" md5="16b2f5eec3735444d761d516ff41333e" sha1="1c839d72a9c1e1bbabb0fa1ea6720999b2325503"/>
-		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (Track 13).bin" size="31775520" crc="1cb11146" md5="ed424bd3af6c9b1c477545fbb97b908b" sha1="240375d44b9d233c8014ff7d138bab26a1eec565"/>
-		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (Track 14).bin" size="32612832" crc="1b9c92a3" md5="9daef309e53ce8a6fd99db10d69b6a63" sha1="edd74891033c7c53cb6d86c194e752d1e0834c95"/>
-		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (Track 15).bin" size="48427680" crc="db5fa2c0" md5="3b30ea55062a0a5172f103d3515d4736" sha1="8364c97546b91333ef0f85d027fdb4a149addf69"/>
-		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (Track 16).bin" size="3292800" crc="1baf2b60" md5="aa2c5f938e5851e9f1d4810b835a26c1" sha1="4bc9dbbeccb9e7fa896af2f9dcd1548009eac034"/>
-		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (Track 17).bin" size="2620128" crc="026794a3" md5="4a655c26b711033701320d38693edc15" sha1="2fe7aeb2979c3f03b9a96d814786410f5f64be25"/>
-		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (Track 18).bin" size="19608624" crc="bbaad326" md5="ee18f1fd1c4f53956a51b33ee8216c15" sha1="29258d16beab181e7c4a1cf69411220047464d7a"/>
-		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (Track 19).bin" size="18919488" crc="d5f308df" md5="8e0df851e280f8a29a237e0c9671ee37" sha1="6d5e165237265e239077259ca59ce6759b1f3e87"/>
-		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT) (Track 20).bin" size="24745392" crc="e2037443" md5="15d8ec4dca110befa829a45fd2f88ef0" sha1="80204ade8836d9c6077f23b2cb5edf48683fb2d1"/>
+		<description>Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT)</description>
+		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
+		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT) (Track 02).bin" size="30013872" crc="537da3c1" md5="93dc5a9e8f8b6ff54098ad4a72b1f6b1" sha1="3e39cdce31f8c64b85c20e112610361334cc3a0b"/>
+		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT) (Track 03).bin" size="38765664" crc="8896f5af" md5="3892fa9d8f1c2b1220ba6e35d59b38d4" sha1="f041929e7e6896f827c04198ddce4575cc69e571"/>
+		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT) (Track 04).bin" size="39720576" crc="87248a40" md5="407abf5d58c14490535a9cbad8a56e52" sha1="ccf70b322e47958a720704af6ccb112f0e5eaf72"/>
+		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT) (Track 05).bin" size="40409712" crc="9a18dafa" md5="4b85b1adf5b904cda7e100060df0e52c" sha1="5c5cefe00e6e0d50fc7aa42a1b8e708c19bf1cc7"/>
+		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT) (Track 06).bin" size="37208640" crc="dd208023" md5="f82eae792a499b74dc1fe7a2cf3a59a2" sha1="a77dac9cfb72a591cd9618b43b71bdf5607d1a41"/>
+		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT) (Track 07).bin" size="34560288" crc="816515e3" md5="ebd5ba6d041aff4e0ff9ad3a0771330b" sha1="2ff20e8927d6f979525e623f031d1a035174b696"/>
+		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT) (Track 08).bin" size="43730736" crc="d741739a" md5="2d62d9a83f27fe26ccbc746b1bbdf045" sha1="ef0076553e5fdbc66ee351c230839c7524478531"/>
+		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT) (Track 09).bin" size="40259184" crc="1d12ee94" md5="fcf47f2a56e02220fd11a0ab267dca21" sha1="121ea0523b28b514ebeadb181d6b1950c8912e53"/>
+		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT) (Track 10).bin" size="39544176" crc="d334e9fa" md5="64fcd861b6df3c147677a18ee5a5a1a4" sha1="3bba19578665adc61da5f0b1e64e70db6b5d5ea0"/>
+		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT) (Track 11).bin" size="39421872" crc="ce3264da" md5="b48836e1050d26bd3a9b2b7e86a9c041" sha1="36c374f053e0ca8a23104f0e4b36c42c8e9cebbf"/>
+		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT) (Track 12).bin" size="39057312" crc="d58d52a5" md5="16b2f5eec3735444d761d516ff41333e" sha1="1c839d72a9c1e1bbabb0fa1ea6720999b2325503"/>
+		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT) (Track 13).bin" size="31775520" crc="1cb11146" md5="ed424bd3af6c9b1c477545fbb97b908b" sha1="240375d44b9d233c8014ff7d138bab26a1eec565"/>
+		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT) (Track 14).bin" size="32612832" crc="1b9c92a3" md5="9daef309e53ce8a6fd99db10d69b6a63" sha1="edd74891033c7c53cb6d86c194e752d1e0834c95"/>
+		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT) (Track 15).bin" size="48427680" crc="db5fa2c0" md5="3b30ea55062a0a5172f103d3515d4736" sha1="8364c97546b91333ef0f85d027fdb4a149addf69"/>
+		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT) (Track 16).bin" size="3292800" crc="1baf2b60" md5="aa2c5f938e5851e9f1d4810b835a26c1" sha1="4bc9dbbeccb9e7fa896af2f9dcd1548009eac034"/>
+		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT) (Track 17).bin" size="2620128" crc="026794a3" md5="4a655c26b711033701320d38693edc15" sha1="2fe7aeb2979c3f03b9a96d814786410f5f64be25"/>
+		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT) (Track 18).bin" size="19608624" crc="bbaad326" md5="ee18f1fd1c4f53956a51b33ee8216c15" sha1="29258d16beab181e7c4a1cf69411220047464d7a"/>
+		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT) (Track 19).bin" size="18919488" crc="d5f308df" md5="8e0df851e280f8a29a237e0c9671ee37" sha1="6d5e165237265e239077259ca59ce6759b1f3e87"/>
+		<rom name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT) (Track 20).bin" size="24745392" crc="e2037443" md5="15d8ec4dca110befa829a45fd2f88ef0" sha1="80204ade8836d9c6077f23b2cb5edf48683fb2d1"/>
 	</game>
 	<game name="Garou Densetsu Special (Japan) (Demo)" sha1="9d3472ab0dcbb400b13567518e8455ebe8e40014" size="286944591" crc="a63a9eaf" fullsha1="7f7f34a0baefc8aee948536c4dd0a7d8220147ca" dataSha1="fc881c616d4558ad29653cf9d2bce6027f73f595">
 		<category>Games</category>

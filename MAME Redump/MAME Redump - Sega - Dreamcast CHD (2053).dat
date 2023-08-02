@@ -4,8 +4,8 @@
   <header>
     <name>MAME Redump - Sega - Dreamcast CHD</name>
     <description>MAME Redump - Sega - Dreamcast - Discs (1454) (2022-12-08 19-28-56)</description>
-    <date>2022-12-21</date>
-    <version>0.250</version>
+    <version>0.257</version>
+    <date>2023-08-02</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
   </header>
@@ -1632,6 +1632,7 @@
     <rom name="deepfght\deep fighter (ger) (disc 2).chd" size="379718188" crc="DBEEA917" sha1="18D84B06F4E2FF535256D7C6FDF14352DC71E819" />
     <rom name="deepfght\deep fighter (usa) (disc 1).chd" size="334855809" crc="EB75A942" sha1="BDBCA665AA82244FF8E596AB9E8D8414DAB1F98D" />
     <rom name="deepfght\deep fighter (usa) (disc 2).chd" size="372554151" crc="272CACBE" sha1="99E7CCA725AFDD227966F2D074CF65492466C9EA" />
+    <rom name="dejiko\dejiko no maibura (jpn).chd" size="178275783" crc="ACECB824" sha1="AC2F875D07B4E153F56EC6235D5DBA0E13BB0D47" />
     <rom name="demracer\demolition racer no exit - demo version (usa).chd" size="26874919" crc="4246B261" sha1="D086B3FD104ED2168C466D93E443CDC0FBCD8DDD" />
     <rom name="demracer\demolition racer no exit (usa).chd" size="409104198" crc="B82705FB" sha1="EC18CD08C046D90DF6116DD1BA6E4DB6C682020B" />
     <rom name="despiria\despiria (jpn).chd" size="521952266" crc="D78364FD" sha1="EFA976C07DF13AD549B5FEE9FF82B5067676C9A6" />
@@ -1689,7 +1690,6 @@
     <rom name="drmpass2\dream passport 2 (jpn).chd" size="83701326" crc="06CE638B" sha1="3F28D2C62191F4E8B28116EC1ACC3B9C6D8EF621" />
     <rom name="drmpass2\dream passport 2 (jpn, Rev. 1).chd" size="106493798" crc="BEFCA0FF" sha1="F40E23879CD11D9DBFD0B038E7E8E515225C281B" />
     <rom name="drmpass2\dream passport 2 for lan (jpn).chd" size="33358197" crc="1E46D29B" sha1="FB97C33C3628BE19187F21E51A5572231C6B2AB6" />
-    <rom name="drmpass3\dejiko no maibura (jpn).chd" size="178275783" crc="ACECB824" sha1="AC2F875D07B4E153F56EC6235D5DBA0E13BB0D47" />
     <rom name="drmpass3\dream passport 3 (jpn).chd" size="402459119" crc="92E4705C" sha1="65086EF94C1C1F76C8391119CD39EFCCC01E642A" />
     <rom name="drmpass3\dream passport 3 (jpn, alt 2).chd" size="402458804" crc="CBAF7B82" sha1="81105C8F4D761C223AB98D3D1261DB152BE2F0A6" />
     <rom name="drmpass3\dream passport 3 (jpn, alt).chd" size="402458660" crc="294F2E6F" sha1="35A56674405A1935CFBEBF984F95B87A4276B2C7" />
