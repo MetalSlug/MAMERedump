@@ -4,8 +4,8 @@
 	<header>
 		<name>segacd</name>
 		<description>segacd</description>
-		<version>0.250</version>
-		<date>2022-12-21</date>
+		<version>0.257</version>
+		<date>2023-08-02</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -612,6 +612,36 @@
 		<description>cobracom\cobra command (usa)</description>
 		<rom name="cobra command (usa) (Track 01).bin" size="256344480" crc="a2093c3c" md5="0ebc135ddfe2f242ff5310ecc2a8a3d2" sha1="7da194e336877f0d4e4d2ec0f0de903236056de8"/>
 		<rom name="cobra command (usa) (Track 02).bin" size="2003904" crc="17d0d5ec" md5="596273342dcfc8b7a2229a5daab50d20" sha1="ff62a856f65d2671881c8f8f764046a250ab2bbb"/>
+	</game>
+	<game name="colormec\note color mechanica (usa)" sha1="75188004099ce91057c623ef86ee0af3f01ae9b1" size="392838800" crc="8430f5f7" fullsha1="117afb5a656039570a203620c7ba4384d19617bf" dataSha1="b6101e20eea6ea7c6fe7d5995f5cb49a26287496">
+		<category>Games</category>
+		<description>colormec\note color mechanica (usa)</description>
+		<rom name="note color mechanica (usa) (Track 01).bin" size="218914752" crc="9c9cea01" md5="151ba1786271320d1cde9bbb175d977e" sha1="24ab8bb97d448f0d18336cc6835df5365d51a91b"/>
+		<rom name="note color mechanica (usa) (Track 02).bin" size="59992464" crc="44561a10" md5="23cae92ddc31ed797377cc94abeb3a05" sha1="3d240db42e0ec298fa4c12f11801b2ba6f028f62"/>
+		<rom name="note color mechanica (usa) (Track 03).bin" size="50807904" crc="ad7c5f47" md5="59e13b25e472ed21b355498e4e4ec451" sha1="6fb421dc44cc97c487a89d8cfa199b01c806a1fb"/>
+		<rom name="note color mechanica (usa) (Track 04).bin" size="34508544" crc="0eb05bf5" md5="7faa361a28f89698a9680cb80cbb184f" sha1="788319a3c4b62793ff976c07fbec9ad7aa6245cc"/>
+		<rom name="note color mechanica (usa) (Track 05).bin" size="50353968" crc="a54eafa7" md5="f848218e2de72b9716afe59b80483fcb" sha1="d4f5b5ef2edc8bc5465d0dce09412f4bc03edbd5"/>
+		<rom name="note color mechanica (usa) (Track 06).bin" size="53449200" crc="325b574e" md5="d830d14bbbf493e45fde330a91d548f6" sha1="868b4e8aaa240efd3c68c1653843e0553ff5b6f0"/>
+		<rom name="note color mechanica (usa) (Track 07).bin" size="57153600" crc="c90c3ac5" md5="e3afd5746eebd3cb20571ad9d5bf42cd" sha1="560e90d8b97f0886c96f931c36f4075293c1874e"/>
+		<rom name="note color mechanica (usa) (Track 08).bin" size="40633152" crc="5b633865" md5="3f779b27f8c67110799fff1ec4ef992d" sha1="b28aed1acad1df25776dcd10534e3d2c77cfd92a"/>
+	</game>
+	<game name="colormec\note color mechanica (usa) (alt)" sha1="8c32428e1df4d6f750cdccf7fe745817dafbac77" size="392837639" crc="7ae5e6a1" fullsha1="6de2359fc0ad8dc7d8206515a0fdcd67bd9e43ab" dataSha1="c131bb4d067d54068c60f7392b104eaa52d3ed23">
+		<category>Games</category>
+		<description>colormec\note color mechanica (usa) (alt)</description>
+		<rom name="note color mechanica (usa) (alt) (Track 01).bin" size="218561952" crc="db70f07d" md5="2fefa8e119ac66e77513e60e1a777c52" sha1="977ea925c9cece4a07ef6c7daec09c10ce00a121"/>
+		<rom name="note color mechanica (usa) (alt) (Track 02).bin" size="60345264" crc="1f9ce5e6" md5="02c30b3117a364e0ec878fbcad3c6c29" sha1="d13db4965f32d22b4b44e8f3cd7baf3cc3227d98"/>
+		<rom name="note color mechanica (usa) (alt) (Track 03).bin" size="50807904" crc="ad7c5f47" md5="59e13b25e472ed21b355498e4e4ec451" sha1="6fb421dc44cc97c487a89d8cfa199b01c806a1fb"/>
+		<rom name="note color mechanica (usa) (alt) (Track 04).bin" size="34508544" crc="0eb05bf5" md5="7faa361a28f89698a9680cb80cbb184f" sha1="788319a3c4b62793ff976c07fbec9ad7aa6245cc"/>
+		<rom name="note color mechanica (usa) (alt) (Track 05).bin" size="50353968" crc="a54eafa7" md5="f848218e2de72b9716afe59b80483fcb" sha1="d4f5b5ef2edc8bc5465d0dce09412f4bc03edbd5"/>
+		<rom name="note color mechanica (usa) (alt) (Track 06).bin" size="53449200" crc="325b574e" md5="d830d14bbbf493e45fde330a91d548f6" sha1="868b4e8aaa240efd3c68c1653843e0553ff5b6f0"/>
+		<rom name="note color mechanica (usa) (alt) (Track 07).bin" size="57153600" crc="c90c3ac5" md5="e3afd5746eebd3cb20571ad9d5bf42cd" sha1="560e90d8b97f0886c96f931c36f4075293c1874e"/>
+		<rom name="note color mechanica (usa) (alt) (Track 08).bin" size="40633152" crc="5b633865" md5="3f779b27f8c67110799fff1ec4ef992d" sha1="b28aed1acad1df25776dcd10534e3d2c77cfd92a"/>
+	</game>
+	<game name="comptons\compton's interactive encyclopedia v2.00s (usa)" sha1="2835dd8d5ad4faabccf75c1a73e3516ffe77e59b" size="94958141" crc="d68b6a22" fullsha1="2d9abe1a456af0a230670e870353d41f330f8d90" dataSha1="5ca99b2577463a9db43fa29585c1a0eb9ee754e4">
+		<category>Games</category>
+		<description>comptons\compton's interactive encyclopedia v2.00s (usa)</description>
+		<rom name="compton's interactive encyclopedia v2.00s (usa) (Track 01).bin" size="225806112" crc="ebb612cc" md5="aae8091c0b1ef9f273c0647d343982a4" sha1="4e534a2a66b52353e898fb12d1ff0fc25f3bca56"/>
+		<rom name="compton's interactive encyclopedia v2.00s (usa) (Track 02).bin" size="2765952" crc="45fccb44" md5="d4119738483b3491e88b40f9f6a48aa0" sha1="afe472c77b619cacdb9cebc4ce01394855aac9c8"/>
 	</game>
 	<game name="comptons\compton's interactive encyclopedia v2.01r (usa)" sha1="6ddc6b192447e3695b79fb00e9f1b7245470e3e7" size="183460550" crc="da090370" fullsha1="2df62d0e0a8f37e7b52c549ce7605d8c55fadf00" dataSha1="14ee396c5d4d02059527d9894fbf1d4ae17e2f0a">
 		<category>Games</category>
@@ -3336,6 +3366,13 @@
 		<rom name="supreme warrior (usa, 32x) (disc 2) (Track 01).bin" size="460056576" crc="1ce0ad3d" md5="e607284ffddfeabd68ef337d52dc2eac" sha1="7f3a7b37281d32bdff2e36caebfee695688b145e"/>
 		<rom name="supreme warrior (usa, 32x) (disc 2) (Track 02).bin" size="1848672" crc="65dffcfc" md5="5f27d76d8e462e87892513be5950798b" sha1="458138cfa09bad59b0d625f43c1929d30d416bc8"/>
 	</game>
+	<game name="surgical\surgical strike (bra, 32x)" sha1="46d5a284a5c3c3c7599a586f7a58aca37a549366" size="348897841" crc="4d25b871" fullsha1="857e0602e35e4b45ec3660d8639fb88d2a014230" dataSha1="8f539de25f4754c9cb4856e7cdf579eef6fd1339">
+		<category>Games</category>
+		<description>surgical\surgical strike (bra, 32x)</description>
+		<rom name="surgical strike (bra, 32x) (Track 01).bin" size="438499824" crc="2356dcc6" md5="945d37549f11012247e5b064b161340d" sha1="19bb54e5af096ae321af5a02c9e2741cb8c992c4"/>
+		<rom name="surgical strike (bra, 32x) (Track 02).bin" size="43210944" crc="87b19436" md5="743818576ccae4b33af1a9b313edf9a7" sha1="fd9cbc2109cbffadd752e6b3d74ae8eef22ef8b3"/>
+		<rom name="surgical strike (bra, 32x) (Track 03).bin" size="1985088" crc="d00d9864" md5="7f4fe8fd637190ec145efc96f1db7198" sha1="3b7555ccacad8994deb0fe00edef83551d607344"/>
+	</game>
 	<game name="surgical\surgical strike (usa)" sha1="143a3edbad6a4d8e1de2498d55bef74d8d3b7c7c" size="324537885" crc="89cf4050" fullsha1="37ba598fdc774b805f89d43962591a176c2215d4" dataSha1="3f925e8a1a98e094227dfe4c9851d63a9b22d3ea">
 		<category>Games</category>
 		<description>surgical\surgical strike (usa)</description>
@@ -3539,6 +3576,18 @@
 		<description>wirehead\wirehead (usa)</description>
 		<rom name="wirehead (usa) (Track 01).bin" size="626641008" crc="e896b306" md5="f8fd756c5692f74e5a2ea97c8a302bcc" sha1="c0812455aa6b81aea5f0a20e15901bfba3e01d47"/>
 		<rom name="wirehead (usa) (Track 02).bin" size="1982736" crc="d5a007ad" md5="2e00d8aa85fe90f039e7c0156b3e63b1" sha1="1b2ecedb429924e3f009ce355649d2ec9781aa3e"/>
+	</game>
+	<game name="wixeye\what is x'eye multi entertainment system (usa)" sha1="cb8191c080bf3036361a2634c8e8485d8d6b30a5" size="52774077" crc="7b4279b5" fullsha1="926143f74d8bad9cda401bbf651051396e96aa54" dataSha1="ac6e5aa820bdf3f01ef78c1796b51d31742b0e3e">
+		<category>Games</category>
+		<description>wixeye\what is x'eye multi entertainment system (usa)</description>
+		<rom name="what is x'eye multi entertainment system (usa) (Track 01).bin" size="49316736" crc="7def0d97" md5="b69e5ab1f3c1a7d245f0b3271a068d5f" sha1="41d4eb1ba16433b214eee48500d8919b1023d471"/>
+		<rom name="what is x'eye multi entertainment system (usa) (Track 02).bin" size="6738480" crc="4865c4cf" md5="9378f4314a13898c16b941bd9df767ed" sha1="089f0ae203d0c1508e00675930fe003b122b7586"/>
+		<rom name="what is x'eye multi entertainment system (usa) (Track 03).bin" size="9904272" crc="2435b213" md5="529bf0f97a3acdc56691b57784dba28a" sha1="88a34d7cae7332508fcf5ccdb2b03a5dd1b94d44"/>
+		<rom name="what is x'eye multi entertainment system (usa) (Track 04).bin" size="12712560" crc="3cafa2e8" md5="72d113d09b95575164d17af0c58a5c2f" sha1="492eb90b17504b7dfc9ed25bccc67d07b88f94a0"/>
+		<rom name="what is x'eye multi entertainment system (usa) (Track 05).bin" size="11400144" crc="6ee4f4be" md5="3d607ded7e1f8504a7d9165cebad5af5" sha1="47eab4062acf6de7467936616e4954038a6d4852"/>
+		<rom name="what is x'eye multi entertainment system (usa) (Track 06).bin" size="16426368" crc="03e0c09d" md5="15e1ea3c556ceadecbeac9f3a7cfacd3" sha1="de8fb4c92b14e786dbee24cd844294b65a9a360c"/>
+		<rom name="what is x'eye multi entertainment system (usa) (Track 07).bin" size="24832416" crc="4abb85d7" md5="5990e136e792c4afd69e350965192158" sha1="21b68fe1d63ff9febb4ba141b61bf4d1f8b47462"/>
+		<rom name="what is x'eye multi entertainment system (usa) (Track 08).bin" size="6733776" crc="5576161c" md5="b5e7f064844a43d329aaaf221098707d" sha1="5e1b125e6e272680afadedfdeb39639eaecaa060"/>
 	</game>
 	<game name="wolfchld\wolfchild (usa)" sha1="d27b99bd224127a507e2387590fcd016962d67de" size="233178354" crc="7a03a068" fullsha1="700228109f9fe28bd5af6525c9fe0354913e1c6a" dataSha1="11cbe214ddfdf2536a7448bfd1534d17434f2783">
 		<category>Games</category>

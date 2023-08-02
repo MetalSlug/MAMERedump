@@ -4,8 +4,8 @@
 	<header>
 		<name>Sega - Mega-CD - Sega CD - Redump 2022-07-25</name>
 		<description>Sega - Mega-CD - Sega CD - Redump 2022-07-25</description>
-		<version>0.250</version>
-		<date>2022-12-21</date>
+		<version>0.257</version>
+		<date>2023-08-02</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -274,18 +274,6 @@
 		<rom name="Android Assault - The Revenge of Bari-Arm (USA) (Track 17).bin" size="22285200" crc="4b0ce15d" md5="dcbc8719c7d253df0be0279135086735" sha1="60f7fbe16eeab08b425b25418d5603f86318ad21"/>
 		<rom name="Android Assault - The Revenge of Bari-Arm (USA) (Track 18).bin" size="11802336" crc="c7da1319" md5="9ba2f318a9446e1f2ec73ef259e2c367" sha1="5425dca040790cc408466432357494857b749fc1"/>
 		<rom name="Android Assault - The Revenge of Bari-Arm (USA) (Track 19).bin" size="1507632" crc="f33c29be" md5="2843d0628ffd5be50579455a83d8c080" sha1="0586431ad9766bd7736088159658dc0b8fb1b203"/>
-	</game>
-	<game name="Animals!, The (Europe)" sha1="bd7b0cbd45e106c2947ad82579c3c6c8d3297e6a" size="316619699" crc="69cedf39" fullsha1="768dc171dfd44e6a737baad16776bba4047448e2" dataSha1="d2669ac8e72415f3cbdd4c8d59a9cfe6fa988311">
-		<category>Games</category>
-		<description>Animals!, The (Europe)</description>
-		<rom name="Animals!, The (Europe) (Track 01).bin" size="695867424" crc="549791ae" md5="017da47a06703b136183fc1e750e6b06" sha1="f8d8295b26a537466050f8cf03c35d4764957d93"/>
-		<rom name="Animals!, The (Europe) (Track 02).bin" size="1879248" crc="3725929b" md5="5a167e74296b7c5d313273bdc06b077e" sha1="ffb2823ea1d1a489c8ee9306a3a9f8395406511a"/>
-	</game>
-	<game name="Animals!, The (USA)" sha1="5b252d65fc344bf0e726032b5f740f0f9a1b7c3c" size="316841513" crc="10b19bea" fullsha1="9cb39fde022b7f80f550490d30ada4a5725163fb" dataSha1="81e8fb02cac3258eca977315dc85bdf587fff25a">
-		<category>Games</category>
-		<description>Animals!, The (USA)</description>
-		<rom name="Animals!, The (USA) (Track 01).bin" size="695686320" crc="9a157ced" md5="fa90c770bc08dcdbf83ed79ac05a7bf7" sha1="c21eb67fb7dfe770cd3b2a8ad71bd1086ac51217"/>
-		<rom name="Animals!, The (USA) (Track 02).bin" size="1521744" crc="a408bb52" md5="04a26d0c4b82d757ceb424e2d827adf7" sha1="f14b874390ba045c0a1368bfae5753089415b188"/>
 	</game>
 	<game name="Annett Futatabi (Japan)" sha1="27a41d124186653aa70327de0d1f1bbe2e0133e4" size="358260552" crc="208e6af4" fullsha1="92b31fb3d7282861250d1773d731b1d1226cbf42" dataSha1="5813fa22b98e71cdca682dc76dd4b13beff02910">
 		<category>Games</category>
@@ -1066,12 +1054,6 @@
 		<description>Colors of Modern Rock, The (USA)</description>
 		<rom name="Colors of Modern Rock, The (USA) (Track 01).bin" size="164016720" crc="8d0e7e69" md5="677e6b2b7ef35d827ecc71c03384b7ac" sha1="ea71f946627e1d1f66b207c70e8e862d3286a5b2"/>
 		<rom name="Colors of Modern Rock, The (USA) (Track 02).bin" size="2050944" crc="08de90bd" md5="09c6f0d986315c0568fae536f4b738c0" sha1="9829b794249f58e2f4caec5bab7cb2ac3831d6f1"/>
-	</game>
-	<game name="Compton's Interactive Encyclopedia (USA) (Version 2.00S)" sha1="9ebeb3629bfd73aa452f4b890c23f0a04030058c" size="94791083" crc="c6ef17e7" fullsha1="2d9abe1a456af0a230670e870353d41f330f8d90" dataSha1="5ca99b2577463a9db43fa29585c1a0eb9ee754e4">
-		<category>Games</category>
-		<description>Compton's Interactive Encyclopedia (USA) (Version 2.00S)</description>
-		<rom name="Compton's Interactive Encyclopedia (USA) (Version 2.00S) (Track 01).bin" size="225806112" crc="ebb612cc" md5="aae8091c0b1ef9f273c0647d343982a4" sha1="4e534a2a66b52353e898fb12d1ff0fc25f3bca56"/>
-		<rom name="Compton's Interactive Encyclopedia (USA) (Version 2.00S) (Track 02).bin" size="2765952" crc="45fccb44" md5="d4119738483b3491e88b40f9f6a48aa0" sha1="afe472c77b619cacdb9cebc4ce01394855aac9c8"/>
 	</game>
 	<game name="Compton's Interactive Encyclopedia (USA) (Version 2.10) (RE2)" sha1="03299097e444a68d224696a4b0f0abeec82ff4a6" size="183441366" crc="eeb01c7c" fullsha1="07a1a09e796914841c5f9e5d12147d2d4a60031c" dataSha1="6de492ee19199f92b70bb2b477023eb19c8bf3b2">
 		<category>Games</category>
@@ -1905,47 +1887,6 @@
 		<rom name="Ground Zero Texas (USA) (Disc 2) (Alt) (Track 01).bin" size="599743536" crc="455bacbf" md5="f59e2dbadd6ff65c67344d598ae71dc2" sha1="2bb503b604403528f7971bc23cb48ca790e80c3e"/>
 		<rom name="Ground Zero Texas (USA) (Disc 2) (Alt) (Track 02).bin" size="2587200" crc="4135fb4a" md5="627872db1ef108b1e1dac2f5cd9bd730" sha1="675f746b09482b4a2011f423bf6f8c10af0f1c7a"/>
 	</game>
-	<game name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo)" sha1="7033490876e875f350043afc9361236252ce28b3" size="405674842" crc="922fa92b" fullsha1="42524a8b0f0232df1519551e492a89300f772ff3" dataSha1="92f7135760ff88d61adb00b161c291750e3ac484">
-		<category>Games</category>
-		<description>Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo)</description>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 01).bin" size="202408416" crc="9b3fb252" md5="16ff2fc012427f9582152afda5dcd308" sha1="8b6f65d8bba4526ff4ecb8fc6f1a11fba46825c9"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 02).bin" size="16014768" crc="129ed3da" md5="0bb7cdf28569da047504e9e3381d4447" sha1="b871898a780c0f1b00c720ce872db3e544599910"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 03).bin" size="19707408" crc="fc68a898" md5="4873fc4193dd160d53375eb61d2d33ba" sha1="f933ed2064a91221e6d8e11903561287ea1cb6d6"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 04).bin" size="16753296" crc="32337abf" md5="a9539f961dd153d482ac649a29c73054" sha1="692faddb31ff3bab4085587ffdc6ac3ba2136c83"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 05).bin" size="11658864" crc="93860f87" md5="8fbc59e7918db8ca4f7340c1790c431b" sha1="d468bb3085508f71f8868976206d758570f101fd"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 06).bin" size="11228448" crc="56096ca3" md5="3b7f9e5f7c2864c0878d34f1c86f7c3d" sha1="4de00806901c29d37f6493a977bbfac6aac682f8"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 07).bin" size="17433024" crc="dcfa821f" md5="f3bcd8426b58c4b532005a89a751bfaf" sha1="265253c8de168a1d37e1ff47a373130aa9516c2f"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 08).bin" size="12324480" crc="d395cb4d" md5="487cee84c1e2f78cdfc460bf98658b01" sha1="cdf8e1b1a341e22902a001f56c6b5fcc142ad392"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 09).bin" size="15462048" crc="c2eb664c" md5="be1f2808cfcfeca32c3f2c14e9c38650" sha1="bb364e4a420905119496d35bf5b45165e31ec42b"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 10).bin" size="26107200" crc="5686998d" md5="0a36ba1fe255830115a4394264179f2c" sha1="fc3fab0cec2d4cda4cc19e77770bef010307386c"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 11).bin" size="11529504" crc="7c24ea79" md5="741f35f238c824b3e1fcc4aa9fd6ab75" sha1="9b33ad0b347f965b1f9461b71366480bb90cf294"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 12).bin" size="15377376" crc="3aa5bdc5" md5="45c8632a5ad7671f29559054fe2db9df" sha1="4333acd810347f79f4459b8e679035452fbccb73"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 13).bin" size="21337344" crc="bdbc2d65" md5="bef7b30796d6b2b4e8cfb235c4efcca9" sha1="11a593a4db11835ea2f01863e9782b7fb8d4600c"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 14).bin" size="2996448" crc="70b00db4" md5="88858de4d1418b284cd706f19bc1bf36" sha1="02ec725a2ba509b13d5cad7dea64de23dc1b92e4"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 15).bin" size="2493120" crc="3f35ceb6" md5="f89ab5187f7f13afa4a237261d6d71cf" sha1="5ece8abe39a914c7205b13087f860c2698c9503b"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 16).bin" size="7168896" crc="7707f5e0" md5="53e61194eda3e316affa594a37183baa" sha1="d9724ad75243d3b29c3ee7f11a30bc2f5b97c328"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 17).bin" size="3706752" crc="8b741032" md5="fde37205fc233635865926a89ea7a878" sha1="037098138e99d89bf0032952a68366fb15fe056b"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 18).bin" size="2911776" crc="0d2c6519" md5="72a4ed701ed76fb20180b64a68cb2823" sha1="75b8409167e85760d92e9e0ce7b9fe5d2fd92d0c"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 19).bin" size="1117200" crc="421f466c" md5="5e92186dc8f242b125d5ce41c4040eb4" sha1="4c0ffe1b53f26375dc362f1bd4d7a0a44b3009f1"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 20).bin" size="13032432" crc="7fc3c5a7" md5="5ca85e2d80fcc3fb3bfa6e5e4a01b4a2" sha1="1067e819e9df59eeb81976d1e82f8a0926e8d346"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 21).bin" size="10499328" crc="4b6cc7ce" md5="8c38f52ab69eb5c6ac355956b8d7ac27" sha1="61feb5d7db27d3e5ded467cecf5147091bea94ce"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 22).bin" size="9885456" crc="dad1304f" md5="e6bba6f6073b90ad6813dd335b64b0a9" sha1="4cd5315ddd2b9f33d1b850465442435ab671f248"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 23).bin" size="11228448" crc="c73e18cb" md5="fbffb49c1a7c7adba7c338206bf99b72" sha1="27133849307ccdd835ebeced0237ff8658ac8ab8"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 24).bin" size="10861536" crc="57a73fc5" md5="a850dba8495857f615e9d79b5b8f3914" sha1="7c2488199b5850212f12c0342034fdc148d9ecbb"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 25).bin" size="13220592" crc="58acd55f" md5="310c17cf4583f0a2aab1f3f55cfe7876" sha1="4c9baef36f75d2a4210ee997e56c5c96953db7a1"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 26).bin" size="11663568" crc="bd80964d" md5="c301f60ace074ef6e0a55a946bdab529" sha1="308eca7423dc7df1e8bd4d165ec9072027305b6d"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 27).bin" size="11440128" crc="ac0f53d6" md5="5eeb1ad431a5e62cc6c2e54b086e45cf" sha1="8185217984ea1a24474a5965515426eb3bf743b0"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 28).bin" size="11531856" crc="82dc6f50" md5="0a1458bc7e59c596005994aabdaf17bb" sha1="2a88c193c8424b6e349d06fd57f9ae8a3f7ca849"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 29).bin" size="11195520" crc="4df9fad1" md5="fb52d45fb1b8fcb9b86b104a26245c0a" sha1="83c06402c3b2319873e8e951729d17c57e9a6422"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 30).bin" size="11717664" crc="0cd8fd9b" md5="13c9fb1e4b8f47b030d442c3c11b1902" sha1="04525040acd3fa9ef825050093e1a4791e0e653a"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 31).bin" size="11865840" crc="18b4441d" md5="06962c101af6bd36a6c9df125e2b27b3" sha1="384cca92a6d8614481ca869e4bff6e7afa708257"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 32).bin" size="11376624" crc="356a93b0" md5="47dd69dc35037700bf8e19776bad2b5d" sha1="4fc8fa3e6afce3eaf77dd983e67dcfd59fc2d2df"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 33).bin" size="12517344" crc="1b43de31" md5="f662561901c204e590c0e279bfa73c17" sha1="30ad11d7edb2f9682585902b7f1244cf79f8ea19"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 34).bin" size="11983440" crc="7bd0c837" md5="44fa4c287c03af3931ad0789ff30ab7d" sha1="deaeb30df72f31ad00cf9413d83dfeb98e32289e"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 35).bin" size="16186464" crc="950b6a34" md5="c50986bcf82e3131e2e2d94b54b8d51f" sha1="2eac2f995debee681aadc151227d5cd70df3002c"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 36).bin" size="14866992" crc="108f5a17" md5="68ac0a6d616ac04c0048f937a688e038" sha1="704e8b19d78086a46eae173b1b06bbe19be7d0cf"/>
-		<rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo) (Track 37).bin" size="43267392" crc="e55cb55b" md5="0b7a523758db73362dbb1b7bc86895c9" sha1="0790f2c59ac62b59b8e93d8f2d323472325022fe"/>
-	</game>
 	<game name="Hook (Europe)" sha1="c466a6e31bd51d81524d7153de7a17fb035fcdc9" size="169027806" crc="2620daa9" fullsha1="d7a159732ed4fdcac14cf7f4ac940a48bf760996" dataSha1="788ac5b4786d6d8874d9ea8ff845e2bb0b53ee98">
 		<category>Games</category>
 		<description>Hook (Europe)</description>
@@ -2311,25 +2252,6 @@
 		<rom name="Keio Flying Squadron (Europe) (Demo) (Track 25).bin" size="26556432" crc="3120180a" md5="302184577af691882ccd6164eb950a62" sha1="38797dfebd31a7de9188ed778636991ba6c7c3e4"/>
 		<rom name="Keio Flying Squadron (Europe) (Demo) (Track 26).bin" size="9953664" crc="7f31ac46" md5="9e6616c906db316ba70946e67842b349" sha1="e522f1e3ce00beb3da520d841446a79f60d8ba47"/>
 	</game>
-	<game name="Keiou Yuugekitai (Japan) (Demo)" sha1="0da498bdab8e8a2cde3551057ccdaae2a44c38be" size="179054199" crc="219fb877" fullsha1="51cc65015c31d30d75eddef7aa2c1bfaeb2f48bf" dataSha1="4f229c4fcaea494657c753369d4d6439501f1dd6">
-		<category>Games</category>
-		<description>Keiou Yuugekitai (Japan) (Demo)</description>
-		<rom name="Keiou Yuugekitai (Japan) (Demo) (Track 01).bin" size="75790848" crc="04c07f7e" md5="c12e18d6824521baf3f97d8841163cb1" sha1="5787f0eaaf81cbd00332782bce7ed9df1c0368d3"/>
-		<rom name="Keiou Yuugekitai (Japan) (Demo) (Track 02).bin" size="1117200" crc="6cdfd209" md5="e0d85798d30a72666baca352675c3a89" sha1="6714ee152fb1b508107fc14138b5628dd68ca385"/>
-		<rom name="Keiou Yuugekitai (Japan) (Demo) (Track 03).bin" size="40720176" crc="1bcab310" md5="fe747b0c5d465860c5cf803990d37eab" sha1="d911e5ad63dfb7a8b9d03b16462ba05f9ed01a27"/>
-		<rom name="Keiou Yuugekitai (Japan) (Demo) (Track 04).bin" size="45922800" crc="ad73e1e6" md5="82bf5e6bf056a3e10ac340d6db09d804" sha1="d268f5e3ea8fd37928802da2d4e19f1bce61cc4d"/>
-		<rom name="Keiou Yuugekitai (Japan) (Demo) (Track 05).bin" size="49062720" crc="ddb213e4" md5="8404332eabab014e7c9a3d0d446be55a" sha1="6dd59f2622c7dd4fc992708996540ac571e91b9e"/>
-		<rom name="Keiou Yuugekitai (Japan) (Demo) (Track 06).bin" size="10125360" crc="bbb14bc6" md5="eda72d50b98c9d62fdfc134feb32d0b8" sha1="7476dd3e741c15cc4d3b34264958bbc28b8ffedf"/>
-		<rom name="Keiou Yuugekitai (Japan) (Demo) (Track 07).bin" size="9974832" crc="f2d4e9f4" md5="e89fd9f64df38c92b1fbbb67fa42c28c" sha1="cb63d3e6279bde063ad567d4711036357cf37096"/>
-		<rom name="Keiou Yuugekitai (Japan) (Demo) (Track 08).bin" size="7441728" crc="f686ad16" md5="a49445334ec13cff45c1a43e6674c33a" sha1="9db35cfce53e9f1f897fadebee9c5a1c44adb0a9"/>
-		<rom name="Keiou Yuugekitai (Japan) (Demo) (Track 09).bin" size="1114848" crc="b370237d" md5="c644b3216954ea54f335ed7911a28fc2" sha1="9c9c8c2c3822b487dd96f173bfa7726151d69b9a"/>
-		<rom name="Keiou Yuugekitai (Japan) (Demo) (Track 10).bin" size="25944912" crc="da153759" md5="e54a5fbad39b124173108ff617cf9ff4" sha1="6e8915409b7b58be43601c800b3fa9a671901883"/>
-		<rom name="Keiou Yuugekitai (Japan) (Demo) (Track 11).bin" size="19977888" crc="e1c594c9" md5="c879b780d1d289801392a9e33c492d04" sha1="d56bb5d13d0c4fdda4ab6471530a9243685ddb3e"/>
-		<rom name="Keiou Yuugekitai (Japan) (Demo) (Track 12).bin" size="1756944" crc="0d1c28ad" md5="c2140405cfa5a9f9c69c2cb8bf66cbb0" sha1="3d01e486fc11c2f04271ec3c36dca9f8d416d3d0"/>
-		<rom name="Keiou Yuugekitai (Japan) (Demo) (Track 13).bin" size="6851376" crc="9dbc18b5" md5="b7c72af5bb096fff5512c315909b3eef" sha1="680b8d6327af372dbf19e94fb82abc8e0f3293db"/>
-		<rom name="Keiou Yuugekitai (Japan) (Demo) (Track 14).bin" size="19714464" crc="cc90cc4f" md5="2faf5f75eb20b6237284cd9f94d4417b" sha1="38b18e242f82025a02eb936cc21d2ca3f140aaa7"/>
-		<rom name="Keiou Yuugekitai (Japan) (Demo) (Track 15).bin" size="26805744" crc="abbb53dd" md5="d2341942be31c08c43b87dfb9329b578" sha1="ff32a8d0ae4c291b6b20abf7e72550fdc5dd562c"/>
-	</game>
 	<game name="Kids on Site (Europe) (RE-1)" sha1="ebf3a44066217a910e90e5a07ada4e7a4386cc06" size="349997360" crc="18690736" fullsha1="5b0a34ccde7b3c9f77f6a0c45006a2839470fdf5" dataSha1="25ab9311fce7026a1d1485f6918017ef2b63a95e">
 		<category>Games</category>
 		<description>Kids on Site (Europe) (RE-1)</description>
@@ -2544,12 +2466,6 @@
 		<rom name="Lords of Thunder (Europe) (Track 19).bin" size="10939152" crc="d502c4d2" md5="00eb82c20cb1a2ceb8a6287bf96c25f1" sha1="ecfa1d858c2a40242baa5361348f800201f97249"/>
 		<rom name="Lords of Thunder (Europe) (Track 20).bin" size="11049696" crc="23c45c5e" md5="945af44a06bfae3250a5b3b40c0814d3" sha1="c8e56ed4811f234f8b86528ba55c2044242fbf72"/>
 		<rom name="Lords of Thunder (Europe) (Track 21).bin" size="32514048" crc="7a3e7dab" md5="8c19c1ae88d3650a14e545caea9ca5ed" sha1="f2099f29ed0ce351b79fc7849caf982476d9bf00"/>
-	</game>
-	<game name="Lunar - Eternal Blue (Japan) (Demo)" sha1="09450db5340512433ad2ac173efc101361696e4a" size="11984252" crc="dbf1b7c5" fullsha1="cc87b4610877d135207100c2eff7affa572ef56c" dataSha1="632e0ff15100112b11ee9d9be3c0ee82d0836f5d">
-		<category>Games</category>
-		<description>Lunar - Eternal Blue (Japan) (Demo)</description>
-		<rom name="Lunar - Eternal Blue (Japan) (Demo) (Track 01).bin" size="38706864" crc="66c67434" md5="e5f1d1c960a6b869e16d4c70ec6b1f43" sha1="00b2f913d1a484bb55d9e1acb4e9b944d6b4268e"/>
-		<rom name="Lunar - Eternal Blue (Japan) (Demo) (Track 02).bin" size="1611120" crc="18661dfb" md5="8c7ac8d79766ae5aa158ecf1d1be2192" sha1="066e08880688b804643b9e8df2b55da8ae04939d"/>
 	</game>
 	<game name="Lunar - Eternal Blue (Japan) (Rev A)" sha1="b3adbcc8f982cf51355ec9d4f57fa84ffff19374" size="167118799" crc="5c3c3065" fullsha1="5044ea58fcc440df57c40bf91c3d1d7553060e21" dataSha1="9faf4b1d9a128ba1831ce5613f72d5dbabab0a5e">
 		<category>Games</category>
@@ -2916,19 +2832,6 @@
 		<rom name="Microcosm (Europe) (Alt) (Track 08).bin" size="21873600" crc="5f2ba53b" md5="11e12d3803956a1ab70b00b860cab797" sha1="b453c8f81a8756d6adb85a069a30a79b86d4e741"/>
 		<rom name="Microcosm (Europe) (Alt) (Track 09).bin" size="23990400" crc="ac3ff3a6" md5="d3d1f618bca783776ab66e51472611f2" sha1="9902a3ccd8704dd3af677d245078d0dbc102355d"/>
 	</game>
-	<game name="Microcosm (Japan) (Demo)" sha1="d0ad637a0a32be61451951ae6bd8106c0d1028a7" size="296761017" crc="6349e672" fullsha1="2983f32c9c63753cc3acbd5160cd830b8b844090" dataSha1="2222fdbeefb72822f73f258fbdd6458446000514">
-		<category>Games</category>
-		<description>Microcosm (Japan) (Demo)</description>
-		<rom name="Microcosm (Japan) (Demo) (Track 01).bin" size="274203216" crc="5c4ae0c1" md5="113dc601404c92302360c34568a28f6f" sha1="42b975a94c40cdb59f302fcdd43dd4e4b9ed345c"/>
-		<rom name="Microcosm (Japan) (Demo) (Track 02).bin" size="20993952" crc="5a892270" md5="de1c9394dcc0ec0f32fe58dd354a685f" sha1="21d058feade5df53a2898562667d87614719a878"/>
-		<rom name="Microcosm (Japan) (Demo) (Track 03).bin" size="22755600" crc="d4110a7d" md5="5ee2199fa124e5afe036c623b3bd4b0b" sha1="4e024db1e5252decfa9177f3cbb08d608990c5c5"/>
-		<rom name="Microcosm (Japan) (Demo) (Track 04).bin" size="21873600" crc="2beb48b8" md5="7453fb20268783bf65298384993eac97" sha1="a21bd8a07d26a190f2963def36586140ac71cf73"/>
-		<rom name="Microcosm (Japan) (Demo) (Track 05).bin" size="35985600" crc="708877db" md5="700a1d3e50fb433dd3b7c522bead3005" sha1="ebec800c44c6c92d89dca71d82b7f4c017d33a90"/>
-		<rom name="Microcosm (Japan) (Demo) (Track 06).bin" size="24519600" crc="aa292aba" md5="8c287b2ebd364860ef30455c6e150153" sha1="4b30411a2bac5aa1ec05e33353e23eabce55d733"/>
-		<rom name="Microcosm (Japan) (Demo) (Track 07).bin" size="22755600" crc="03a29b6f" md5="b3f53c01c023f0a54c54065e9ac24ea2" sha1="74301ecb7a29033ab53099905f27d62a6919dc7c"/>
-		<rom name="Microcosm (Japan) (Demo) (Track 08).bin" size="21873600" crc="bba6b7c9" md5="29dafeaa5cb974150f9e5e901827b92c" sha1="83049f29c52f232cdddd7a04bdf3789520e91751"/>
-		<rom name="Microcosm (Japan) (Demo) (Track 09).bin" size="23988048" crc="9956dc95" md5="2afe544f6d2e0fe2af0f3a8ed22d9ea7" sha1="b042e183405cd04ac2ab3395f529f61e60a32140"/>
-	</game>
 	<game name="Midnight Raiders (Europe)" sha1="44136c6839e225cbd1142966b5cc0eb80b955459" size="369202362" crc="5ec3d791" fullsha1="2c1a46592cb2c3f0c23b0e30f4fd5a5deb6ebf69" dataSha1="084a51437feab6fec51fc209317eedcb5358b36d">
 		<category>Games</category>
 		<description>Midnight Raiders (Europe)</description>
@@ -3172,12 +3075,6 @@
 		<rom name="Night Trap (France) (Disc 2) (Track 01).bin" size="514464720" crc="5e26e9cb" md5="49b65ca593ba15a9e892e93a070d6843" sha1="a83617abe23a39f95bac11e93f6be912514a4502"/>
 		<rom name="Night Trap (France) (Disc 2) (Track 02).bin" size="2554272" crc="12a429a6" md5="327bbcd5fe7da96e9ff95922139d0cf6" sha1="6552e4f604e347ba64481f8242dc013896a4f0fe"/>
 	</game>
-	<game name="Night Trap (Japan) (Demo)" sha1="e304586344573b12ffc24451ad4b434119fa71ff" size="278660798" crc="0be4a9c8" fullsha1="b852a032c5e49655a060cad7f6e18a205578be1f" dataSha1="cab3bd34bc884d2abb153b5a66b17244be75d9aa">
-		<category>Games</category>
-		<description>Night Trap (Japan) (Demo)</description>
-		<rom name="Night Trap (Japan) (Demo) (Track 01).bin" size="615875904" crc="03e24407" md5="8e29d7761a3c2119703808c2ddadf6ab" sha1="17cfd321b0c94cef51c269177eab81afa88bc75c"/>
-		<rom name="Night Trap (Japan) (Demo) (Track 02).bin" size="2587200" crc="1cc25944" md5="d47840b34e5286b8c5ecb3514489ee2a" sha1="18fc15b4003126b9874c1c67d2034c8f33a6fa63"/>
-	</game>
 	<game name="Night Trap (USA) (Disc 1) (Rerelease)" sha1="041cc985647d92fcf354f6f9f709f2eb1251281a" size="275942908" crc="9b36e9d8" fullsha1="62c6e2db69cd934c7d08205a5bae20d4665cc6e3" dataSha1="52dda2a21c9f19b0a8609bfd80965531c9f8729a">
 		<category>Games</category>
 		<description>Night Trap (USA) (Disc 1) (Rerelease)</description>
@@ -3230,30 +3127,6 @@
 		<rom name="Nobunaga no Yabou - Haouden (Japan) (Track 11).bin" size="60723936" crc="5ff98cd4" md5="ae057817480f729c579e2d3373f21c34" sha1="f12320e70b5dc1a47155cfa077b84c3c8fddc763"/>
 		<rom name="Nobunaga no Yabou - Haouden (Japan) (Track 12).bin" size="38147088" crc="d8842fe2" md5="5b694d24884431b0502f05bdf615b81f" sha1="affc7ad9aafba09dc5e604d25b4eabb2fafeb69a"/>
 		<rom name="Nobunaga no Yabou - Haouden (Japan) (Track 13).bin" size="20309520" crc="7ad27ff5" md5="5e74519025f6dc046e9c5a6ffad49501" sha1="9d04a12b12b670edbff7f765802cade0f9764c43"/>
-	</game>
-	<game name="Note! Color Mechanica (USA) (Unl)" sha1="b1c9ffd3786bb1c8474a94f7d6d89833d32493dc" size="392856763" crc="24d2fbbf" fullsha1="117afb5a656039570a203620c7ba4384d19617bf" dataSha1="b6101e20eea6ea7c6fe7d5995f5cb49a26287496">
-		<category>Games</category>
-		<description>Note! Color Mechanica (USA) (Unl)</description>
-		<rom name="Note! Color Mechanica (USA) (Unl) (Track 01).bin" size="218914752" crc="9c9cea01" md5="151ba1786271320d1cde9bbb175d977e" sha1="24ab8bb97d448f0d18336cc6835df5365d51a91b"/>
-		<rom name="Note! Color Mechanica (USA) (Unl) (Track 02).bin" size="59992464" crc="44561a10" md5="23cae92ddc31ed797377cc94abeb3a05" sha1="3d240db42e0ec298fa4c12f11801b2ba6f028f62"/>
-		<rom name="Note! Color Mechanica (USA) (Unl) (Track 03).bin" size="50807904" crc="ad7c5f47" md5="59e13b25e472ed21b355498e4e4ec451" sha1="6fb421dc44cc97c487a89d8cfa199b01c806a1fb"/>
-		<rom name="Note! Color Mechanica (USA) (Unl) (Track 04).bin" size="34508544" crc="0eb05bf5" md5="7faa361a28f89698a9680cb80cbb184f" sha1="788319a3c4b62793ff976c07fbec9ad7aa6245cc"/>
-		<rom name="Note! Color Mechanica (USA) (Unl) (Track 05).bin" size="50353968" crc="a54eafa7" md5="f848218e2de72b9716afe59b80483fcb" sha1="d4f5b5ef2edc8bc5465d0dce09412f4bc03edbd5"/>
-		<rom name="Note! Color Mechanica (USA) (Unl) (Track 06).bin" size="53449200" crc="325b574e" md5="d830d14bbbf493e45fde330a91d548f6" sha1="868b4e8aaa240efd3c68c1653843e0553ff5b6f0"/>
-		<rom name="Note! Color Mechanica (USA) (Unl) (Track 07).bin" size="57153600" crc="c90c3ac5" md5="e3afd5746eebd3cb20571ad9d5bf42cd" sha1="560e90d8b97f0886c96f931c36f4075293c1874e"/>
-		<rom name="Note! Color Mechanica (USA) (Unl) (Track 08).bin" size="40633152" crc="5b633865" md5="3f779b27f8c67110799fff1ec4ef992d" sha1="b28aed1acad1df25776dcd10534e3d2c77cfd92a"/>
-	</game>
-	<game name="Note! Color Mechanica (USA) (Unl) (Alt)" sha1="6a0da249a773911938aff5ea2a712bc4aa670a73" size="392855291" crc="0e697f9d" fullsha1="6de2359fc0ad8dc7d8206515a0fdcd67bd9e43ab" dataSha1="c131bb4d067d54068c60f7392b104eaa52d3ed23">
-		<category>Games</category>
-		<description>Note! Color Mechanica (USA) (Unl) (Alt)</description>
-		<rom name="Note! Color Mechanica (USA) (Unl) (Alt) (Track 01).bin" size="218561952" crc="db70f07d" md5="2fefa8e119ac66e77513e60e1a777c52" sha1="977ea925c9cece4a07ef6c7daec09c10ce00a121"/>
-		<rom name="Note! Color Mechanica (USA) (Unl) (Alt) (Track 02).bin" size="60345264" crc="1f9ce5e6" md5="02c30b3117a364e0ec878fbcad3c6c29" sha1="d13db4965f32d22b4b44e8f3cd7baf3cc3227d98"/>
-		<rom name="Note! Color Mechanica (USA) (Unl) (Alt) (Track 03).bin" size="50807904" crc="ad7c5f47" md5="59e13b25e472ed21b355498e4e4ec451" sha1="6fb421dc44cc97c487a89d8cfa199b01c806a1fb"/>
-		<rom name="Note! Color Mechanica (USA) (Unl) (Alt) (Track 04).bin" size="34508544" crc="0eb05bf5" md5="7faa361a28f89698a9680cb80cbb184f" sha1="788319a3c4b62793ff976c07fbec9ad7aa6245cc"/>
-		<rom name="Note! Color Mechanica (USA) (Unl) (Alt) (Track 05).bin" size="50353968" crc="a54eafa7" md5="f848218e2de72b9716afe59b80483fcb" sha1="d4f5b5ef2edc8bc5465d0dce09412f4bc03edbd5"/>
-		<rom name="Note! Color Mechanica (USA) (Unl) (Alt) (Track 06).bin" size="53449200" crc="325b574e" md5="d830d14bbbf493e45fde330a91d548f6" sha1="868b4e8aaa240efd3c68c1653843e0553ff5b6f0"/>
-		<rom name="Note! Color Mechanica (USA) (Unl) (Alt) (Track 07).bin" size="57153600" crc="c90c3ac5" md5="e3afd5746eebd3cb20571ad9d5bf42cd" sha1="560e90d8b97f0886c96f931c36f4075293c1874e"/>
-		<rom name="Note! Color Mechanica (USA) (Unl) (Alt) (Track 08).bin" size="40633152" crc="5b633865" md5="3f779b27f8c67110799fff1ec4ef992d" sha1="b28aed1acad1df25776dcd10534e3d2c77cfd92a"/>
 	</game>
 	<game name="Novastorm (Europe)" sha1="b94a35d772524b10bf682bd38450bca0725995fa" size="281577848" crc="54f94f50" fullsha1="41617095614641893298189546fa17322ecd276f" dataSha1="8e38089196800b234c4c88935626056dd7f1ba2f">
 		<category>Games</category>
@@ -3346,13 +3219,6 @@
 		<rom name="Pitfall - The Mayan Adventure (USA) (Track 22).bin" size="4275936" crc="93ce70ed" md5="79db6991b592b440ba3be88c95ea3d6c" sha1="9e320684d32901f2c6622460b2adf885f4c518c3"/>
 		<rom name="Pitfall - The Mayan Adventure (USA) (Track 23).bin" size="24032736" crc="593eb13a" md5="79abdc2ae23ec33f9c045590a997aa64" sha1="fb44a06c07e5fb8842d59a9ef3334f6963488e3e"/>
 	</game>
-	<game name="PopfulMail (Japan) (Demo)" sha1="35020808818e144bbf073bb9fbb83b84ee4b2c89" size="139496834" crc="3f41bb6e" fullsha1="c09abf833cb576503c745affbfd3d091ccc76a27" dataSha1="859df2379b2077d8679fee14e1b7d078c232e92f">
-		<category>Games</category>
-		<description>PopfulMail (Japan) (Demo)</description>
-		<rom name="PopfulMail (Japan) (Demo) (Track 01).bin" size="353736096" crc="6ec9ff55" md5="a7c43a967668c16074e264a48ec06e71" sha1="9f43e704cccde663e6a5d2606ff032d3d7520096"/>
-		<rom name="PopfulMail (Japan) (Demo) (Track 02).bin" size="25133472" crc="4afcdca3" md5="075a31a2c707de6988a734104d548640" sha1="d18e4890dbb43e5563065308dc257991c01d7fb1"/>
-		<rom name="PopfulMail (Japan) (Demo) (Track 03).bin" size="42778176" crc="f64659a4" md5="a65263c7c6ad37c71f0f3da7114998da" sha1="af3cda760ac4fa418e7fb2c1c18bed4908a3ee33"/>
-	</game>
 	<game name="Power Factory (Europe)" sha1="e5a3a7e2d7919ee07de34b158224c76dc662745c" size="265476031" crc="e6cbcb01" fullsha1="d4f43207791208352b5ae7e905dabaa3d5200ae2" dataSha1="00e9279ab20db6200cbbb5b7dccbc5bfce1ff782">
 		<category>Games</category>
 		<description>Power Factory (Europe)</description>
@@ -3438,12 +3304,6 @@
 		<rom name="Psychic Detective Series Vol. 3 - Aya (Japan) (Track 05).bin" size="51955680" crc="a629c512" md5="896f9ca7312956efd0a16b3733f3ebfb" sha1="d20fa5a31a2f31908c28bee8d197e260c5f6bbed"/>
 		<rom name="Psychic Detective Series Vol. 3 - Aya (Japan) (Track 06).bin" size="34983648" crc="242d0c96" md5="af4a448f06307b8aa372c4942451df4b" sha1="8edeaf48da84481c154402f5beedb5c822e6441b"/>
 		<rom name="Psychic Detective Series Vol. 3 - Aya (Japan) (Track 07).bin" size="58724736" crc="35f6164e" md5="cda8b906ed3fcc5b36b0468c34622ecc" sha1="03b403bd60746589045b5edc49a30d8350b54374"/>
-	</game>
-	<game name="Psychic Detective Series Vol. 3 - Aya (Japan) (Demo)" sha1="b35483ea7de249b9838cecffbe74899f801fab77" size="4238058" crc="118ab41f" fullsha1="5402ed98cd6f980e97473071630362d6f63c5f0e" dataSha1="cfa1a03781f1f98bdb8488ec0fe3f78350b109f6">
-		<category>Games</category>
-		<description>Psychic Detective Series Vol. 3 - Aya (Japan) (Demo)</description>
-		<rom name="Psychic Detective Series Vol. 3 - Aya (Japan) (Demo) (Track 01).bin" size="17324832" crc="91c8008c" md5="ddb7e3dd597b6782ed0fae617184e0f5" sha1="4f703a09ba11b0349187368a6c90fe76a4831860"/>
-		<rom name="Psychic Detective Series Vol. 3 - Aya (Japan) (Demo) (Track 02).bin" size="6037584" crc="b036819f" md5="cf7bc0b1d189e5b85f1b95130731b2e7" sha1="87ef39e5254f8738cc45c09879063508254ba32c"/>
 	</game>
 	<game name="Psychic Detective Series Vol. 4 - Orgel (Japan)" sha1="da36debf8f5bd41c0b84be926ddb30cf3ba19f15" size="143192730" crc="92c8eea2" fullsha1="4bfa7de5193d18d19ec9798a6ec2c7beb4490b89" dataSha1="a4faa3c74b36daaedceb08487a1edd38c6fc4cf9">
 		<category>Games</category>
@@ -3689,6 +3549,18 @@
 		<rom name="Samurai Shodown (USA) (RE) (Track 28).bin" size="3426864" crc="eeca6d43" md5="f031a0fd00c7ef3490525aacf01ef1dd" sha1="6bf0c9fa0dc9bd15e93322db82e60c3743beb2ca"/>
 		<rom name="Samurai Shodown (USA) (RE) (Track 29).bin" size="3015264" crc="d7036075" md5="eec0cc3d785975e9d8793d4418827ac1" sha1="f70650f7168df4717b8ebbd054fcbd56b760247c"/>
 		<rom name="Samurai Shodown (USA) (RE) (Track 30).bin" size="31754352" crc="e255acb2" md5="4ce7db28c64b566ba6e9ee5cd5e3aa26" sha1="f44f18e22fd785a68b25c055e790a921c42aa71d"/>
+	</game>
+	<game name="San Diego Zoo Presents... The Animals!, The (Europe)" sha1="bd7b0cbd45e106c2947ad82579c3c6c8d3297e6a" size="316619699" crc="69cedf39" fullsha1="768dc171dfd44e6a737baad16776bba4047448e2" dataSha1="d2669ac8e72415f3cbdd4c8d59a9cfe6fa988311">
+		<category>Games</category>
+		<description>San Diego Zoo Presents... The Animals!, The (Europe)</description>
+		<rom name="San Diego Zoo Presents... The Animals!, The (Europe) (Track 01).bin" size="695867424" crc="549791ae" md5="017da47a06703b136183fc1e750e6b06" sha1="f8d8295b26a537466050f8cf03c35d4764957d93"/>
+		<rom name="San Diego Zoo Presents... The Animals!, The (Europe) (Track 02).bin" size="1879248" crc="3725929b" md5="5a167e74296b7c5d313273bdc06b077e" sha1="ffb2823ea1d1a489c8ee9306a3a9f8395406511a"/>
+	</game>
+	<game name="San Diego Zoo Presents... The Animals!, The (USA)" sha1="5b252d65fc344bf0e726032b5f740f0f9a1b7c3c" size="316841513" crc="10b19bea" fullsha1="9cb39fde022b7f80f550490d30ada4a5725163fb" dataSha1="81e8fb02cac3258eca977315dc85bdf587fff25a">
+		<category>Games</category>
+		<description>San Diego Zoo Presents... The Animals!, The (USA)</description>
+		<rom name="San Diego Zoo Presents... The Animals!, The (USA) (Track 01).bin" size="695686320" crc="9a157ced" md5="fa90c770bc08dcdbf83ed79ac05a7bf7" sha1="c21eb67fb7dfe770cd3b2a8ad71bd1086ac51217"/>
+		<rom name="San Diego Zoo Presents... The Animals!, The (USA) (Track 02).bin" size="1521744" crc="a408bb52" md5="04a26d0c4b82d757ceb424e2d827adf7" sha1="f14b874390ba045c0a1368bfae5753089415b188"/>
 	</game>
 	<game name="Secret of Monkey Island, The (Japan)" sha1="64b856a2737ec87ca382285e18ba2bf85c1729a4" size="203366408" crc="6d8fed19" fullsha1="7130813b4f884f6157267b800493a2f20a9e6c2b" dataSha1="ea9fb889fcd0b08cb738055f1083149500989a62">
 		<category>Games</category>
@@ -4087,18 +3959,6 @@
 		<rom name="Shining Force CD (Europe) (Track 33).bin" size="1952160" crc="9eef130a" md5="57767eea1dc5fbf94aac301db8b45387" sha1="25225a87f3ba2945376de385f49cb574a32c23c9"/>
 		<rom name="Shining Force CD (Europe) (Track 34).bin" size="1822800" crc="44e76230" md5="f71e92f58eae726ef9bff2337ff52a92" sha1="8a0a0b4a37d6a4f8d7894a2b5d48dd1d0bace5eb"/>
 		<rom name="Shining Force CD (Europe) (Track 35).bin" size="19314624" crc="b18d3307" md5="a742590f03d762c52dc831b103427ec3" sha1="03ffe3ad2532325df1603b605146cf4f6a24b97e"/>
-	</game>
-	<game name="Silpheed (Japan) (Demo)" sha1="27a72dbf4e0d5b534545a7406e78f3389eb00b4d" size="182239445" crc="87124dfb" fullsha1="18f438c6fce0f143046fc4eeb15eec6fb47a1631" dataSha1="c3b535334c0c1e70feb44840109518def3792b78">
-		<category>Games</category>
-		<description>Silpheed (Japan) (Demo)</description>
-		<rom name="Silpheed (Japan) (Demo) (Track 01).bin" size="369174624" crc="70ab8271" md5="8674b1961817af9d1ea56ca05f7bce5c" sha1="ccfd9d72f77d6d6d9d04013e13a4267c81b13426"/>
-		<rom name="Silpheed (Japan) (Demo) (Track 02).bin" size="1058400" crc="b22e5a2a" md5="6a4fbc297d3c25c7ee9e7c690abc05eb" sha1="33ba4ce4758f6cc1343e2f63d91938528826221d"/>
-	</game>
-	<game name="Silpheed (Japan) (Demo) (Fixed Dump)" sha1="e3db23ffbbea33d96359e93f75783044e33abdca" size="115304668" crc="957d240e" fullsha1="12c371524399e53978e57b17673265a3d9cf9b80" dataSha1="fe41dcc8834b560663d81e324e60892b4191d268">
-		<category>Games</category>
-		<description>Silpheed (Japan) (Demo) (Fixed Dump)</description>
-		<rom name="Silpheed (Japan) (Demo) (Fixed Dump) (Track 01).bin" size="369174624" crc="6b59f551" md5="62114ad0be5d9ce331d90607687a2574" sha1="a04f5372e40ba222489d384dc050524f9574527e"/>
-		<rom name="Silpheed (Japan) (Demo) (Fixed Dump) (Track 02).bin" size="1058400" crc="648c227c" md5="dc35d6b52ac7add94a6d52f480bf89d4" sha1="729c8d0d2eb161d068c48a84826268f9ec790222"/>
 	</game>
 	<game name="SimEarth (Japan)" sha1="779d3a85f0b82b33c50f120a0d9ee033897f1f8c" size="126038301" crc="2ae80de5" fullsha1="1a650c6b8962dd712e1ccb2e371de51cfde628b1" dataSha1="5eabe9c01c1bf91418ea2533f32dde5b1758dfef">
 		<category>Games</category>
@@ -4607,45 +4467,6 @@
 		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 34).bin" size="16214688" crc="421c17ed" md5="d76cfc6efd29a29d612e1a9acbab8160" sha1="7b3bc326e4e9c6b873815bbe944d8a01ee53d57b"/>
 		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 35).bin" size="32107152" crc="596128c2" md5="4ee14141bb14e3d101f72b17f95ab2b0" sha1="d36327d4c4eddf048f2ad9d55990c5332d86827f"/>
 	</game>
-	<game name="Sonic The Hedgehog CD (Japan) (Demo)" sha1="530087e9b1ff91661d823b82909c33e956fd71dd" size="338810508" crc="e2d09a12" fullsha1="fc5d4690bfc10e4fe6bb81a753c7750b99c2cb46" dataSha1="98b26b8b8b726cf1b9181d9e4940af70a4a83799">
-		<category>Games</category>
-		<description>Sonic The Hedgehog CD (Japan) (Demo)</description>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 01).bin" size="129592848" crc="128ac97f" md5="8166ba70699bee43fb0d04fe34789fe6" sha1="02ebd329959c894ab95d63b4aec5940eeb333c28"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 02).bin" size="1093680" crc="b5575d36" md5="80db3494cb82edc14a675a04f46ec26b" sha1="341889736030dd9706810326dcf62969305ac72e"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 03).bin" size="19077072" crc="fc6ec59e" md5="f7f4a684cfacbd006679e92f29586c82" sha1="3ee63e1505038d7fcb7f1c2e7be5b7ff9ac15dde"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 04).bin" size="14231952" crc="fb6c1ae5" md5="dd1e655523f7cab12649213fb70c26f1" sha1="bcbfa2f7d170ca99c86f2406dadda68a89cd2983"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 05).bin" size="14827008" crc="1e0d8f87" md5="c88b6e3fa615a7e59565312f88aebecf" sha1="e770934dc3a54be08119e5095981f88a53f6ad78"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 06).bin" size="17567088" crc="acd1383f" md5="6bf21256bf60f1854c15021ee6ed6afa" sha1="624f749a46ca4ee0a036e76fa0b49566a3ae5b48"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 07).bin" size="13980288" crc="293daff5" md5="aacdb82ddb72021457b3547e46289cd5" sha1="b08f6b115b197b28ff29c418fc185d3a592f745f"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 08).bin" size="14342496" crc="038ddf9e" md5="5344c99dbc7d76898a55c9a177275825" sha1="091021842409f578d33cad3d9096f36809febfb1"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 09).bin" size="20278944" crc="e4932318" md5="46d517c3e4c918207cadb79c71e43b38" sha1="2238c90c3d78793f1ef95294bd559c35b396ccd6"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 10).bin" size="14041440" crc="a583cc24" md5="751655e21c2cbc8412941b8d7c8840e7" sha1="7bfb149770ea5f32c7f7c88f429bd8b9605f8c1b"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 11).bin" size="13653360" crc="c0b8e3ef" md5="21c74240ce7e713ab26c06f8d09b7ad4" sha1="04b5827b9cf3a2931438a9c2d6ed1acb5511d26a"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 12).bin" size="18016320" crc="021318e0" md5="2a62785a15bfc4a68a4403fd334d0227" sha1="2e5ff70c0a3cac5587d42b25c18ef9791f21f40f"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 13).bin" size="13573392" crc="68d8d7de" md5="c1ee3ddf766e1ca6df8c11ee663f82ed" sha1="a316b37b0377ede34f440437a7ee33728986c4d3"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 14).bin" size="11411904" crc="ea181442" md5="80fce94152c61b4b66c1c5bbd849e605" sha1="02261c250f5e4b5ed3c5c66bf95913501d6b338f"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 15).bin" size="16231152" crc="092b16d8" md5="d2601fd26edd4b9de9f0045cc59cfbeb" sha1="3056063c2bc214a446246c034f71421f643519a8"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 16).bin" size="10932096" crc="4bd4f694" md5="77dbedc305fad65b878d86b4b36f596b" sha1="cb610b25f53727e11072bef1c68a6db9136dc9f6"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 17).bin" size="14048496" crc="9c978637" md5="0aebe729179b04b08db22c5b333351df" sha1="1a8a5faafb3b711abaa02c98f0192d1f12b1469a"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 18).bin" size="20137824" crc="ecf914a0" md5="68f79c9a623b6fcb634e8e0cc44eed4e" sha1="e9397ca1f155acd1ff8205c9207759989651b060"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 19).bin" size="12881904" crc="96c5de23" md5="49e7342bb94da1c373d430ef02a6f710" sha1="f0aab4bfa63510445db4404acbde324d2b1d76ff"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 20).bin" size="11783520" crc="6c51ddc6" md5="f67c84aa8b032caad1010ffefce403f2" sha1="085281ed6195cff409c02ff60c71910e25b1727b"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 21).bin" size="14942256" crc="98e7a25e" md5="a40f7e08188d63d4f72301bb76d0eaf5" sha1="acc48e0db475557c2eba04e1204820a8cdbb4aa5"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 22).bin" size="11607120" crc="874c1767" md5="0e86df60fddbe1b71f14147404e61016" sha1="9820001953671f44c2bab4d90fc4e615826fb90c"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 23).bin" size="12816048" crc="9ec4920e" md5="a03760c26f294957c22b4c97553860de" sha1="f27dd92d0e9e3c9d72b1f93ce8255e548e183cc8"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 24).bin" size="14088480" crc="a55590e6" md5="ab2818b4310e535a2e52177241f1ebb2" sha1="edf61b04d37155bf94b03d87ce02f1ac231f914a"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 25).bin" size="14660016" crc="a48ca9dd" md5="8f1a85fabea11a3800c1dbb3ecf307a9" sha1="491ae04565c3f3690bded1bc21e0a26336ed397a"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 26).bin" size="5294352" crc="dab24994" md5="a1eece7b5b8da9c7663c21c6c5a8ee7b" sha1="810ab21517fa17d6f61786c0ea946002365ec944"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 27).bin" size="5296704" crc="b7a17d88" md5="e9f3b466f4a3a4e3e88caa3d6ca4c8bc" sha1="7e9f611a6e51a6350a258b2b435ba161616ec9b8"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 28).bin" size="1458240" crc="6b3db1ca" md5="221b13c4c7c62aa6afeafb834bf224a2" sha1="2f4c0d17a7162e4d4ae8b9e2e40d54f2b9c14a85"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 29).bin" size="3988992" crc="c69de397" md5="56b68dcc387c62f9bb915f318fd6cb6d" sha1="c88e0070dd16e43d563116d2344101a576abe908"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 30).bin" size="3869040" crc="7142a282" md5="245d51ffd0615e358e68ada387dae5ed" sha1="133c628d4ab291846d40583d33fd0e9722e5283b"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 31).bin" size="2008608" crc="59e1254d" md5="2fac5ea49dc876fe4aa3a77d8f703d9f" sha1="0fc278b2395184acdf774818e71e24bcecd6c94c"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 32).bin" size="21513744" crc="725d71e3" md5="d192a8478ba0c96e20852b42cb5c8de4" sha1="635d8f98b62d7e2ffc7126c688c642795fe8f70e"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 33).bin" size="21873600" crc="646b66ee" md5="ed02ffa1cae6ffecd22af24feecd906f" sha1="b4909a4c35282b90bfd3a6494086ae336a63893e"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 34).bin" size="16214688" crc="ad32fc11" md5="8624781766c38e02eaeb0f60ce641677" sha1="45c89ceed98672cb239cc5a9aab423e924faae3d"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Demo) (Track 35).bin" size="32104800" crc="e63f110d" md5="af2aad73d29091972a7ba0bcb1a31593" sha1="21b733c249e02f376e3d3fed7b3e32d476a9edd5"/>
-	</game>
 	<game name="SoulStar &amp; Battlecorps (Europe) (Demo)" sha1="d97c7cb67a7cb033dc2cd5f53f9acbc45a2f46ba" size="98279771" crc="ba81b768" fullsha1="0feac28af9090aeed3bc4d7c119652ded1a3e26c" dataSha1="55df429f9c71143ed631870141a7c262142c106e">
 		<category>Games</category>
 		<description>SoulStar &amp; Battlecorps (Europe) (Demo)</description>
@@ -4791,13 +4612,6 @@
 		<description>Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu) (Sega CD 32X)</description>
 		<rom name="Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu) (Sega CD 32X) (Track 01).bin" size="528346224" crc="62981e58" md5="4ac962443d6a3e57a1d9376d3f21ab22" sha1="1ff6271cd88d69c17f3ff16d349fdcd174d93072"/>
 		<rom name="Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu) (Sega CD 32X) (Track 02).bin" size="2201472" crc="177bf077" md5="3bb082a8162286733d6e0828e522fd22" sha1="689a96c69c2025b932ed6c8be9893e2bad72aee5"/>
-	</game>
-	<game name="Surgical Strike (Brazil) (Sega CD 32X)" sha1="30f56b5a32af4053d68cc32ab0f34537671b8622" size="349199286" crc="a14fb4dd" fullsha1="857e0602e35e4b45ec3660d8639fb88d2a014230" dataSha1="8f539de25f4754c9cb4856e7cdf579eef6fd1339">
-		<category>Games</category>
-		<description>Surgical Strike (Brazil) (Sega CD 32X)</description>
-		<rom name="Surgical Strike (Brazil) (Sega CD 32X) (Track 01).bin" size="438499824" crc="2356dcc6" md5="945d37549f11012247e5b064b161340d" sha1="19bb54e5af096ae321af5a02c9e2741cb8c992c4"/>
-		<rom name="Surgical Strike (Brazil) (Sega CD 32X) (Track 02).bin" size="43210944" crc="87b19436" md5="743818576ccae4b33af1a9b313edf9a7" sha1="fd9cbc2109cbffadd752e6b3d74ae8eef22ef8b3"/>
-		<rom name="Surgical Strike (Brazil) (Sega CD 32X) (Track 03).bin" size="1985088" crc="d00d9864" md5="7f4fe8fd637190ec145efc96f1db7198" sha1="3b7555ccacad8994deb0fe00edef83551d607344"/>
 	</game>
 	<game name="Surgical Strike (Europe)" sha1="854d622c2b89bd2a107932fb37dbdaa837907b88" size="324535879" crc="5f7561dc" fullsha1="3dfcbb2ff4b21baf5ab523472e1aaedb331422e9" dataSha1="4a528a753cae9aba3ddf80544991b45a38a5c1d6">
 		<category>Games</category>
@@ -4950,13 +4764,6 @@
 		<rom name="Thunderhawk (Europe) (Demo) (Mega Power, Sega Pro) (Track 04).bin" size="10094784" crc="d5e5b1f7" md5="e2eb2e0c230fb2e7b759d8bc0aeade19" sha1="475e29f370e4414e5808c1a2799018817559404f"/>
 		<rom name="Thunderhawk (Europe) (Demo) (Mega Power, Sega Pro) (Track 05).bin" size="1900416" crc="d177e2be" md5="ef251e6249cc14821df071e6ba89299e" sha1="43de47d3a4cea6de60bed528c1e5be181adc847a"/>
 	</game>
-	<game name="Thunderhawk (Japan) (Demo)" sha1="641c89f0af9c14a9646a8614e183ecc85251f901" size="62574094" crc="260f3c29" fullsha1="533205e617a7514de1d9e877c3cc0597ca92e4ea" dataSha1="06baa7c52280e6a548232df9cf98953a619e4475">
-		<category>Games</category>
-		<description>Thunderhawk (Japan) (Demo)</description>
-		<rom name="Thunderhawk (Japan) (Demo) (Track 01).bin" size="23204832" crc="be4dae9e" md5="5a6429adbbd00fe0c3fe3fbea02ac0bb" sha1="7d8b0cf63e49712fd245dbe003043d9b4502e099"/>
-		<rom name="Thunderhawk (Japan) (Demo) (Track 02).bin" size="38539872" crc="89ddd6fb" md5="779103049f7275531d49203c85f3929c" sha1="4ef9c78115f3e2710cd8a1bd08fdffe581bcec2b"/>
-		<rom name="Thunderhawk (Japan) (Demo) (Track 03).bin" size="40710768" crc="52b325f7" md5="86a25a9c6a816f15ffb107b7f6213aff" sha1="1ba32e5a2185efc0296f219bbc1533ebb8209335"/>
-	</game>
 	<game name="TimeCop (Europe) (Demo)" sha1="b4b0fe8a0850ba9224032634c5793edfa535d611" size="9602020" crc="51dba66d" fullsha1="631d53e5f1963773dc151ce7a1fdd673b24f5c29" dataSha1="f9825001b8576aa5acf9f6857ffb3a28728c0bab">
 		<category>Games</category>
 		<description>TimeCop (Europe) (Demo)</description>
@@ -5019,13 +4826,6 @@
 		<rom name="Ultraverse Prime (USA) (Track 15).bin" size="25914336" crc="04991312" md5="8f92634e3df4e8eed0140310cb662433" sha1="01b289347eb7ebb0591aae7e737cdfdbbb2d3f69"/>
 		<rom name="Ultraverse Prime (USA) (Track 16).bin" size="12018720" crc="f85fed3a" md5="9aa717e59a00ccfabc51932818c72754" sha1="d646765f0fe58804f0f44df1be3a659c45745347"/>
 	</game>
-	<game name="Urusei Yatsura - Dear My Friends (Japan) (Demo)" sha1="5c464470b1e95f35353509fc12cbde42ad81cbee" size="18402286" crc="2349694f" fullsha1="7a96e2445094a93d14934ab454585d4077ecc3ca" dataSha1="63385864164a425999e6bdcf90254e221245b90b">
-		<category>Games</category>
-		<description>Urusei Yatsura - Dear My Friends (Japan) (Demo)</description>
-		<rom name="Urusei Yatsura - Dear My Friends (Japan) (Demo) (Track 01).bin" size="6077568" crc="85d1c811" md5="1b77f6ccfec1cc86301cb748255cb89c" sha1="17d863cf93c19b4ada757456125d07a2f3b9a446"/>
-		<rom name="Urusei Yatsura - Dear My Friends (Japan) (Demo) (Track 02).bin" size="21080976" crc="afd6bbbf" md5="386b8b03b7256b829f7278614b3d80a2" sha1="09013e45dfc22ef9891bd93d64e1e5e85d8e32a0"/>
-		<rom name="Urusei Yatsura - Dear My Friends (Japan) (Demo) (Track 03).bin" size="6787872" crc="d9245b59" md5="52cd1b24db925204bb286c7ae1cd4a7a" sha1="c7c21c68bc773be60fdecb79b6474ecd8b89ff2a"/>
-	</game>
 	<game name="WWF - Rage in the Cage (Europe)" sha1="f03f90e610dbd866752a4c8994660f1d94b6ba0c" size="68650715" crc="01ac1931" fullsha1="cef2954e0912f00ecf73a504a8d7539bf1f9c913" dataSha1="df30331f5ef699ca7256cd7e613a9035eadd3978">
 		<category>Games</category>
 		<description>WWF - Rage in the Cage (Europe)</description>
@@ -5044,18 +4844,6 @@
 		<rom name="Warau Salesman (Japan) (Track 01).bin" size="353251584" crc="4175b830" md5="a849844819bda782314cade7469408e8" sha1="f8386ae9882e7c317a943a4f26edf90c4ccabb14"/>
 		<rom name="Warau Salesman (Japan) (Track 02).bin" size="1531152" crc="3681d7ba" md5="ec250fae02f71bf9b33ce8f4ba144816" sha1="7a20b9633a0ab03fc7e9a1447caeda106b12618e"/>
 		<rom name="Warau Salesman (Japan) (Track 03).bin" size="1526448" crc="aeb5c7df" md5="65cb4205a6e3c26c049a8a29b06930de" sha1="a1dd26118b903c227883031d9a02f09ff0206cda"/>
-	</game>
-	<game name="What is X'Eye Multi Entertainment System (USA)" sha1="7d652f4dfcd55fd4dc66cbd1a47b32480e2f40b9" size="52772783" crc="f7a18104" fullsha1="926143f74d8bad9cda401bbf651051396e96aa54" dataSha1="ac6e5aa820bdf3f01ef78c1796b51d31742b0e3e">
-		<category>Games</category>
-		<description>What is X'Eye Multi Entertainment System (USA)</description>
-		<rom name="What is X'Eye Multi Entertainment System (USA) (Track 01).bin" size="49316736" crc="7def0d97" md5="b69e5ab1f3c1a7d245f0b3271a068d5f" sha1="41d4eb1ba16433b214eee48500d8919b1023d471"/>
-		<rom name="What is X'Eye Multi Entertainment System (USA) (Track 02).bin" size="6738480" crc="4865c4cf" md5="9378f4314a13898c16b941bd9df767ed" sha1="089f0ae203d0c1508e00675930fe003b122b7586"/>
-		<rom name="What is X'Eye Multi Entertainment System (USA) (Track 03).bin" size="9904272" crc="2435b213" md5="529bf0f97a3acdc56691b57784dba28a" sha1="88a34d7cae7332508fcf5ccdb2b03a5dd1b94d44"/>
-		<rom name="What is X'Eye Multi Entertainment System (USA) (Track 04).bin" size="12712560" crc="3cafa2e8" md5="72d113d09b95575164d17af0c58a5c2f" sha1="492eb90b17504b7dfc9ed25bccc67d07b88f94a0"/>
-		<rom name="What is X'Eye Multi Entertainment System (USA) (Track 05).bin" size="11400144" crc="6ee4f4be" md5="3d607ded7e1f8504a7d9165cebad5af5" sha1="47eab4062acf6de7467936616e4954038a6d4852"/>
-		<rom name="What is X'Eye Multi Entertainment System (USA) (Track 06).bin" size="16426368" crc="03e0c09d" md5="15e1ea3c556ceadecbeac9f3a7cfacd3" sha1="de8fb4c92b14e786dbee24cd844294b65a9a360c"/>
-		<rom name="What is X'Eye Multi Entertainment System (USA) (Track 07).bin" size="24832416" crc="4abb85d7" md5="5990e136e792c4afd69e350965192158" sha1="21b68fe1d63ff9febb4ba141b61bf4d1f8b47462"/>
-		<rom name="What is X'Eye Multi Entertainment System (USA) (Track 08).bin" size="6733776" crc="5576161c" md5="b5e7f064844a43d329aaaf221098707d" sha1="5e1b125e6e272680afadedfdeb39639eaecaa060"/>
 	</game>
 	<game name="Wild Woody (USA)" sha1="5ab94cce705ace87c4f726e38d98c163b49b81d3" size="314278708" crc="85b786de" fullsha1="4585c10d5c0b70a517a981978419b90dcdc32994" dataSha1="838edc35e63ff57321653e5f897550a6fb600579">
 		<category>Games</category>
@@ -5130,45 +4918,6 @@
 		<rom name="Wonder Dog (USA) (RE) (Track 20).bin" size="6343344" crc="d72f0125" md5="973e7f6f32607ff7e0d5dd5692f5de2f" sha1="36a25033113c8f92ee6cc3b36256ca19b9d22bff"/>
 		<rom name="Wonder Dog (USA) (RE) (Track 21).bin" size="59258640" crc="55a8c342" md5="382746e36407cb85ca24d2634230ba7c" sha1="22499a2672c085b1632362e27398499745e47e1f"/>
 	</game>
-	<game name="WonderMega Collection (Japan) (Rev 2)" sha1="447ccc6f4b2a1e6100e0204a6a4c4211ae474aa2" size="322930463" crc="0eba379a" fullsha1="968f935a26ed155318382bccf86218a7da5c065b" dataSha1="c5876b5ccc5f2ec5e24c96f6ccef3bc57d658919">
-		<category>Games</category>
-		<description>WonderMega Collection (Japan) (Rev 2)</description>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 01).bin" size="67032000" crc="45fdc758" md5="65d7c6e8652c1f16a9ba89778ac230df" sha1="a46fded5443bedf88dbd4c0f99b358f9dffe11e7"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 02).bin" size="41103552" crc="4dfccbd1" md5="f615bc15483479141b886a86f8c8b0f7" sha1="cb8fb3a53bec940552137910a1bd6ea42340a8cf"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 03).bin" size="53978400" crc="2fef586a" md5="4b68b7c51b36e945d4555fb7a3199236" sha1="37b1fbad78cd3642dc44abc71d251341be7a047c"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 04).bin" size="50274000" crc="d1302737" md5="7e294d5f25b0f3efed4f8bea75774cbe" sha1="ebadc9e35a770f46e3663ab91065948c9d5f4830"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 05).bin" size="44100000" crc="43d25389" md5="c0ef82921e548cc513a306023cd9e037" sha1="5cca580f24666d3b7f7027e0d7e38742c407afa0"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 06).bin" size="16981440" crc="0a87a971" md5="111942ea1528e1eacaae562dff7da2d0" sha1="2e1c1476f183d10b5aa88ab7d11e0afb6526d91f"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 07).bin" size="10372320" crc="a78f862a" md5="b99d676f0159ba81543bdad6eee79aa7" sha1="21e025b14b809e38e3d23722846e90ea51972cfb"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 08).bin" size="17068464" crc="b055c714" md5="c0eca56e64d94d5f9a3309b2943909ea" sha1="26c4432e6a1e8fdad9f5dbef80ff690167b78bc8"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 09).bin" size="12634944" crc="e2234b67" md5="e8d9b1950edb61715271edab6dcbe8b4" sha1="aedd810e3942385abd593d1e167e26f2ed99ea49"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 10).bin" size="20290704" crc="4a0f521b" md5="90f3b8b4d07a68eb4e8804487012219a" sha1="ce3bcc78c6e6398158344988745d4cff77cc66d6"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 11).bin" size="15612576" crc="fe87ea56" md5="9843f9eea26e93cddb9d59a5e516f8ed" sha1="16ed4699c720e560826c9a0acd6bdee31d4f5baf"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 12).bin" size="11538912" crc="1b7cac73" md5="4c30413f0363d606ee0c9abfd33c3ba7" sha1="843f92156054ddd1209a0c8e45afd6f7a38f97e2"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 13).bin" size="11513040" crc="2688ac43" md5="dace41be0a6ac21e84402013b54cd5ee" sha1="556e531dca4d649603077bb26894e44d3546f636"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 14).bin" size="15419712" crc="4845e480" md5="e868a7c4360fa8e9be1ac2d46f2c19fa" sha1="5be7d53266294003e01e0d0e4b70232f8c9e5b85"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 15).bin" size="12310368" crc="ec5673c0" md5="8e5847c7e8f991c5ca0fd3d9cd24a07b" sha1="144549c08c37d64b694f06671b70ed54a5c10762"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 16).bin" size="23233056" crc="0f93eb7d" md5="b69cf64ed4e2e15d7035d87a4d8f657e" sha1="debdf483dd451f2e18077691d8f1bfa39b91f047"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 17).bin" size="22715616" crc="67851c47" md5="5119bef3779196ca9902ca73a52b599d" sha1="27893902d57ff4f90b34e40955a9e0fbb7bb3e58"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 18).bin" size="8676528" crc="e00850f4" md5="a59f8febe68f7ed11b66bd58c8ab4d82" sha1="5b02bc1c17e4999933cc31628beae1480c0cbf78"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 19).bin" size="19406352" crc="f61f2ec8" md5="39976e4a86bf4756a1af861311e675a4" sha1="445d892686c29ff491aa8eb0aaa64a310cd0e5db"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 20).bin" size="14177856" crc="a6cc0a6c" md5="0140d7124eae8c2a38b312261c6d329d" sha1="4d9f290d91633b47359cece8bf5d391789a20e8f"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 21).bin" size="12350352" crc="855bbd39" md5="c1cef9708d55a1d3388c02d14ac96fbf" sha1="f29f4fd0e46209ddf7fa8861f85b04f2e0f92bb5"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 22).bin" size="13307616" crc="a9c9cfb8" md5="206c5d70dea3a7f71118da81d247b262" sha1="cd6adb587c8a3f8ae99c37ef498ff759d324b81d"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 23).bin" size="16400496" crc="22c61e2a" md5="5c59202517dc56b4cdc2c2589c6463e7" sha1="79763e169ba682655cf99f0392c64223ec5fffcc"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 24).bin" size="6505632" crc="01f7b9bd" md5="418f56fbef1832b337b449db5e88decf" sha1="df217afaa105d4d73deda45bfe662246175d6e71"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 25).bin" size="18987696" crc="eb170a21" md5="db74544927e5a3c09e0d322a243286aa" sha1="02e909934db03f9f7a5d3099a8a39c9507dede00"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 26).bin" size="5047392" crc="ff978679" md5="0bff1b614baf965d44c4911a8e14e82b" sha1="5f5bb6556faf31b61d1d8175300dd7b486ba6af8"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 27).bin" size="9732576" crc="ec68257e" md5="d046518bb35fde707e768f1760b63d6a" sha1="3aeb8ce2a8fcb3f88fc33acee5a2f70cea825bad"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 28).bin" size="10941504" crc="94d58ebd" md5="dd3e1391cf00ec68d563231c3d221c42" sha1="c522978038a2c63fc694dab0ac08f0101192a091"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 29).bin" size="6009360" crc="5d1b2db2" md5="2a24aa5f9642da91fba263375b211e49" sha1="eda0ad9555bb9aebca60221a586480bdb11dc230"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 30).bin" size="7321776" crc="a087de5f" md5="208db5e9765e42b7870830c391c07294" sha1="2add2392cb31589a7393bc8500efd00c76164d20"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 31).bin" size="3944304" crc="853af7cd" md5="7e4f4ebf698e32943eb882128d8df6e7" sha1="5036e45720a3a438b0bfb8deacbe332933e29d90"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 32).bin" size="3756144" crc="dd717c44" md5="147ed3e0eaa5c138f2615107dea02df5" sha1="ea6f3a4713ccf88a962c75f5e9f931fd29aadf00"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 33).bin" size="3203424" crc="4f8838eb" md5="b0be9fbe295c39e2217b3e5c644727b9" sha1="13fe2f7b9586bda31fbae2307e221472c9bc8f7a"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 34).bin" size="5738880" crc="92ee9a3c" md5="15b169628a42685fbbe2d37dc3beff69" sha1="315de603ee74a698d3aad1308332b8169d3b1b85"/>
-		<rom name="WonderMega Collection (Japan) (Rev 2) (Track 35).bin" size="3154032" crc="b70def8c" md5="5936215e09af306ccdc2d0e066735a0d" sha1="5bca493c2841b393a4829d68c730098b0900d682"/>
-	</game>
 	<game name="World Cup USA '94 (Europe)" sha1="8d45f38a76f68f8d76926eedb0e50a2258f3c2cb" size="384022570" crc="8dbe1244" fullsha1="d40f0a5bc00df76e239b44b28393204dc5f0c6cd" dataSha1="cd3602b830640b0b4b4c8631fa6c1e0d32d0e3b6">
 		<category>Games</category>
 		<description>World Cup USA '94 (Europe)</description>
@@ -5208,11 +4957,5 @@
 		<description>Yumemi Mystery Mansion (Europe) (Made in Japan)</description>
 		<rom name="Yumemi Mystery Mansion (Europe) (Made in Japan) (Track 01).bin" size="605141376" crc="75e317e6" md5="4b70ddbeb5a0b5181843a9879689a528" sha1="77956a0620c691aa986b73e482cf0f763dae6f0e"/>
 		<rom name="Yumemi Mystery Mansion (Europe) (Made in Japan) (Track 02).bin" size="7190064" crc="1d6aa9a6" md5="671cdd8789032ac9a22744682cb07146" sha1="b2a2eaf5762a4765c493760e6a647e21067cbee2"/>
-	</game>
-	<game name="Yumemi Yakata no Monogatari (Japan) (Demo)" sha1="3005b3301588b97d0ce737b9b8a2961cd7d5d7ba" size="231127334" crc="28346b17" fullsha1="b7ac1185ea75ec042e8be9e1bdce091bfb0b906b" dataSha1="c15c71155e1bdd54bd3b0b5d11cdbf1e1bd2e60f">
-		<category>Games</category>
-		<description>Yumemi Yakata no Monogatari (Japan) (Demo)</description>
-		<rom name="Yumemi Yakata no Monogatari (Japan) (Demo) (Track 01).bin" size="625389744" crc="7ed0b9bc" md5="9695f8d6a87c5c4857687772aa863803" sha1="1b37325b80a192aac4eeb451450080a4bab061b7"/>
-		<rom name="Yumemi Yakata no Monogatari (Japan) (Demo) (Track 02).bin" size="7190064" crc="1d6aa9a6" md5="671cdd8789032ac9a22744682cb07146" sha1="b2a2eaf5762a4765c493760e6a647e21067cbee2"/>
 	</game>
 </datafile>

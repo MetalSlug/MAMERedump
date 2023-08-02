@@ -4,8 +4,8 @@
 	<header>
 		<name>pcecd</name>
 		<description>pcecd</description>
-		<version>0.250</version>
-		<date>2022-12-21</date>
+		<version>0.257</version>
+		<date>2023-08-02</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -4164,34 +4164,6 @@
 		<rom name="formation soccer '95 - della serie a (acd, scd)(jpn) (Track 29).bin" size="15963024" crc="bf06acd3" md5="c601371fabbdd715c0e44c3f8d08162a" sha1="ea28ee199d544d99ff69806abf21b03db7ebcead"/>
 		<rom name="formation soccer '95 - della serie a (acd, scd)(jpn) (Track 30).bin" size="15972432" crc="30478955" md5="0e349a3ac1521e2282524c29a47e3fb9" sha1="b863008b3bdc5775a25dace422d5f2b133c27afc"/>
 		<rom name="formation soccer '95 - della serie a (acd, scd)(jpn) (Track 31).bin" size="15955968" crc="a658d37b" md5="2ab97759a14810f5c85b9f1d36f6d74a" sha1="6d14ab65e86120f74533fe39ca0b39e1d537db79"/>
-	</game>
-	<game name="fssoldr\fantasy star soldier [prototype] (scd)(usa)" sha1="7b075994a776eba8a16ce7751c7ca9829fda5b9c" size="401883995" crc="bafcdf59" fullsha1="b35d11e0de73fd19138864beb70414bc5f3bbac3" dataSha1="877aedf7f2f056402804d1fa2c48c18247fb1441">
-		<category>Games</category>
-		<description>fssoldr\fantasy star soldier [prototype] (scd)(usa)</description>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 01).bin" size="7077168" crc="cb7e025d" md5="248ccd2da05ab35d821ae9f1639aebd9" sha1="4d80853cda2d0649e35f72105679692d34ca63b5"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 02).bin" size="5023872" crc="acd00f60" md5="d6f19bc8f9fce477fcc25c649f8f42c1" sha1="4ad65e682802f5bfa6b2852b821a0a1f56d2c2a9"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 03).bin" size="51579360" crc="8d718746" md5="a9ca8d997bd473775d08f799fb110542" sha1="b4697d774fa17aa4807708f3d699270becfb2b6d"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 04).bin" size="7133616" crc="0b043a6d" md5="ca372aabf1b1b9fb3a04137fe99daac6" sha1="0bd4d00eed90c99da1938aca698b90dc5ce410d5"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 05).bin" size="31272192" crc="15a52a98" md5="e39c34916c273c03ca2e31c65c87d774" sha1="c45e279eceae125d8fa954c3a99fd59e8d38c57e"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 06).bin" size="31773168" crc="213648fb" md5="8f60c2b27df55608b045c07d901b7040" sha1="29ca7d7fff88a4da34ac4b1e95a8cb828ec88968"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 07).bin" size="32354112" crc="37b8ce64" md5="b45b8ff652d07b418afdcec18b238823" sha1="a3ef137119f7ca6853d0fc8b32fafff792683627"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 08).bin" size="32088336" crc="46478a3e" md5="2fbe3632fc5247e1e94f4d6ab96ea0ee" sha1="83ef7aafcf32f2400cc77a720b98ede8454b52a5"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 09).bin" size="31178112" crc="fa1a1007" md5="2ac8ee62bc6c032597dccf4bedbdd8ff" sha1="4d9377626fcb07bff5d10f8e40202240069a634d"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 10).bin" size="31756704" crc="31de034f" md5="368460591978e83ffc3548195d89e855" sha1="88c93d722d038567a294afedd127d67c70c8fe74"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 11).bin" size="31918992" crc="6536dd39" md5="98f028150eef9e8276ad493105ff006b" sha1="cabcfa9650219c567e00d52977d412b93999e0d6"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 12).bin" size="31989552" crc="1b03873c" md5="4df76ccbc943c60b4891c77d560abdd4" sha1="d51f7e419fd86d4cf30cacd5494680517974a0f2"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 13).bin" size="31744944" crc="cadae51a" md5="1df46ac016034052d8f18b7c31afc254" sha1="3d08436f8155d86e9de34e0516206c7ea059989f"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 14).bin" size="31690848" crc="08bd0942" md5="27ebae3987ffb77a3aadf5d07838b7e9" sha1="af08b795ab510fd282213b1755ef2e2dd3a10c72"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 15).bin" size="31690848" crc="2a6701b1" md5="3cbddd6953cca495829c6f59680909cd" sha1="35b46daa9df8d22ac55731b5c959b8d0e2749ca0"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 16).bin" size="31937808" crc="05ee3d17" md5="1841d94ec454d984268236d1ff27575e" sha1="419f7cb0179f6226e4bfece6ffa823bfab4322f0"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 17).bin" size="15407952" crc="460dd383" md5="446e3da912e1b72c947fa25699a9e3a5" sha1="af2939b225eff4ed0f9a91c48c3515dc3d838091"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 18).bin" size="21273840" crc="f74fbef4" md5="bac2fbaeb46bfdb4e43329ab80e836f5" sha1="2ab1b8d2fec33e0e5ba9f40e85180ea47deec1dc"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 19).bin" size="53110512" crc="8f7998e4" md5="aa73eca4a2908b8e9d44cea54b43f684" sha1="4b17ef4d2f80e91685484b0b34d45e4b1aea5e62"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 20).bin" size="21276192" crc="001c94ab" md5="3f3f436066b35fce77de5eeac596e606" sha1="56a375b44164ac15268f9692e6c8d28e31b5d133"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 21).bin" size="52755360" crc="f4452640" md5="0cba81de50231b3f23c8a5c324a038fe" sha1="88cd84bf88d69040ca4d87880753dce8854cc640"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 22).bin" size="14366016" crc="0f46596b" md5="5cdfd965523060d3bf92a95e911c9de8" sha1="f411c5fb5c0f56efb3b1682cd0a0f5a252c2f529"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 23).bin" size="17767008" crc="92545590" md5="5fb61b124a521691cd3b018939befa08" sha1="71007c8b2160368607151f8c16eeda12f455b0c8"/>
-		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 24).bin" size="4673424" crc="d647701c" md5="de8e4f105029f736ee4e4683d5f34812" sha1="af629b01fb721a89dbbde8276e024c531a4a08c6"/>
 	</game>
 	<game name="fstreet\fighting street (cd)(jpn)" sha1="dd8b0dba34889fc4c62124e657e38fd42c8173c4" size="255293073" crc="7bf0d7da" fullsha1="5cba0b94b697dc9f9f457a1feb098fd1ecbeb0de" dataSha1="5d03d6fbe61467c4d9a8ba75ac40c700dca189bc">
 		<category>Games</category>
@@ -12991,6 +12963,34 @@
 		<rom name="star mobile (cd)(jpn) (Track 12).bin" size="34158096" crc="d0ff38b1" md5="c24edbc3b3b88704ed6987599ea71cb6" sha1="005815ed1be4c12da171ae4aeb2ef7f4f1825209"/>
 		<rom name="star mobile (cd)(jpn) (Track 13).bin" size="33779424" crc="b85c40b5" md5="1a8c13a836827f064e59f3720f221936" sha1="2ca5cab5e7db11d624485dec0dfdc6da98463df3"/>
 		<rom name="star mobile (cd)(jpn) (Track 14).bin" size="751616" crc="104eb413" md5="f6ef624da2c93f4265a39592546c6bc4" sha1="390e4d222c14fab7d681d734de52ca468e176dd5"/>
+	</game>
+	<game name="starparo\fantasy star soldier [prototype] (scd)(usa)" sha1="7b075994a776eba8a16ce7751c7ca9829fda5b9c" size="401883995" crc="bafcdf59" fullsha1="b35d11e0de73fd19138864beb70414bc5f3bbac3" dataSha1="877aedf7f2f056402804d1fa2c48c18247fb1441">
+		<category>Games</category>
+		<description>starparo\fantasy star soldier [prototype] (scd)(usa)</description>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 01).bin" size="7077168" crc="cb7e025d" md5="248ccd2da05ab35d821ae9f1639aebd9" sha1="4d80853cda2d0649e35f72105679692d34ca63b5"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 02).bin" size="5023872" crc="acd00f60" md5="d6f19bc8f9fce477fcc25c649f8f42c1" sha1="4ad65e682802f5bfa6b2852b821a0a1f56d2c2a9"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 03).bin" size="51579360" crc="8d718746" md5="a9ca8d997bd473775d08f799fb110542" sha1="b4697d774fa17aa4807708f3d699270becfb2b6d"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 04).bin" size="7133616" crc="0b043a6d" md5="ca372aabf1b1b9fb3a04137fe99daac6" sha1="0bd4d00eed90c99da1938aca698b90dc5ce410d5"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 05).bin" size="31272192" crc="15a52a98" md5="e39c34916c273c03ca2e31c65c87d774" sha1="c45e279eceae125d8fa954c3a99fd59e8d38c57e"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 06).bin" size="31773168" crc="213648fb" md5="8f60c2b27df55608b045c07d901b7040" sha1="29ca7d7fff88a4da34ac4b1e95a8cb828ec88968"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 07).bin" size="32354112" crc="37b8ce64" md5="b45b8ff652d07b418afdcec18b238823" sha1="a3ef137119f7ca6853d0fc8b32fafff792683627"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 08).bin" size="32088336" crc="46478a3e" md5="2fbe3632fc5247e1e94f4d6ab96ea0ee" sha1="83ef7aafcf32f2400cc77a720b98ede8454b52a5"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 09).bin" size="31178112" crc="fa1a1007" md5="2ac8ee62bc6c032597dccf4bedbdd8ff" sha1="4d9377626fcb07bff5d10f8e40202240069a634d"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 10).bin" size="31756704" crc="31de034f" md5="368460591978e83ffc3548195d89e855" sha1="88c93d722d038567a294afedd127d67c70c8fe74"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 11).bin" size="31918992" crc="6536dd39" md5="98f028150eef9e8276ad493105ff006b" sha1="cabcfa9650219c567e00d52977d412b93999e0d6"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 12).bin" size="31989552" crc="1b03873c" md5="4df76ccbc943c60b4891c77d560abdd4" sha1="d51f7e419fd86d4cf30cacd5494680517974a0f2"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 13).bin" size="31744944" crc="cadae51a" md5="1df46ac016034052d8f18b7c31afc254" sha1="3d08436f8155d86e9de34e0516206c7ea059989f"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 14).bin" size="31690848" crc="08bd0942" md5="27ebae3987ffb77a3aadf5d07838b7e9" sha1="af08b795ab510fd282213b1755ef2e2dd3a10c72"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 15).bin" size="31690848" crc="2a6701b1" md5="3cbddd6953cca495829c6f59680909cd" sha1="35b46daa9df8d22ac55731b5c959b8d0e2749ca0"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 16).bin" size="31937808" crc="05ee3d17" md5="1841d94ec454d984268236d1ff27575e" sha1="419f7cb0179f6226e4bfece6ffa823bfab4322f0"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 17).bin" size="15407952" crc="460dd383" md5="446e3da912e1b72c947fa25699a9e3a5" sha1="af2939b225eff4ed0f9a91c48c3515dc3d838091"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 18).bin" size="21273840" crc="f74fbef4" md5="bac2fbaeb46bfdb4e43329ab80e836f5" sha1="2ab1b8d2fec33e0e5ba9f40e85180ea47deec1dc"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 19).bin" size="53110512" crc="8f7998e4" md5="aa73eca4a2908b8e9d44cea54b43f684" sha1="4b17ef4d2f80e91685484b0b34d45e4b1aea5e62"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 20).bin" size="21276192" crc="001c94ab" md5="3f3f436066b35fce77de5eeac596e606" sha1="56a375b44164ac15268f9692e6c8d28e31b5d133"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 21).bin" size="52755360" crc="f4452640" md5="0cba81de50231b3f23c8a5c324a038fe" sha1="88cd84bf88d69040ca4d87880753dce8854cc640"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 22).bin" size="14366016" crc="0f46596b" md5="5cdfd965523060d3bf92a95e911c9de8" sha1="f411c5fb5c0f56efb3b1682cd0a0f5a252c2f529"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 23).bin" size="17767008" crc="92545590" md5="5fb61b124a521691cd3b018939befa08" sha1="71007c8b2160368607151f8c16eeda12f455b0c8"/>
+		<rom name="fantasy star soldier [prototype] (scd)(usa) (Track 24).bin" size="4673424" crc="d647701c" md5="de8e4f105029f736ee4e4683d5f34812" sha1="af629b01fb721a89dbbde8276e024c531a4a08c6"/>
 	</game>
 	<game name="starparo\star parodia (scd)(jpn)" sha1="d74eaa5869e2ed5f9196fe34c0f5956b01ba0607" size="399541240" crc="9716be34" fullsha1="afcc8269fd2aba58084453249f747fd368307ce6" dataSha1="0bbf873f7f62be0de54c3a97eaa5e05e4f8c33ba">
 		<category>Games</category>

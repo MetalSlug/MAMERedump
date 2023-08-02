@@ -4,8 +4,8 @@
 	<header>
 		<name>Sega - Dreamcast - Redump 2021-12-29</name>
 		<description>Sega - Dreamcast - Redump 2021-12-29</description>
-		<version>0.250</version>
-		<date>2022-12-21</date>
+		<version>0.257</version>
+		<date>2023-08-02</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -1592,12 +1592,12 @@
 		<rom name="D2 - D no Shokutaku 2 (Japan) (Disc 4) (Track 02).bin" size="2878848" crc="d3430230" md5="2a5e6d8fc990f3002e0c14427b079707" sha1="74233ba79541eac76cb74c49b3fc7e79611a399f"/>
 		<rom name="D2 - D no Shokutaku 2 (Japan) (Disc 4) (Track 03).bin" size="1185760800" crc="f0d42295" md5="6004523cfa0c47e5304675e500f51878" sha1="35759e29377163665419dc606671ecd42d43c005"/>
 	</game>
-	<game name="D2 - Original Sound Track (Japan)" sha1="9eddf512787876b0cc842cf21d2adc7734af70ab" size="400828666" crc="e32e6a88" fullsha1="0fed245aea2e9d05801b0f4754f90e8c9b4be26a" dataSha1="92a881a01bfd828348e7334a9341524a85893a85">
+	<game name="D2 - Original Sound Track (Japan) (Disc 2) (MilCD)" sha1="9eddf512787876b0cc842cf21d2adc7734af70ab" size="400828666" crc="e32e6a88" fullsha1="0fed245aea2e9d05801b0f4754f90e8c9b4be26a" dataSha1="92a881a01bfd828348e7334a9341524a85893a85">
 		<category>Games</category>
-		<description>D2 - Original Sound Track (Japan)</description>
-		<rom name="D2 - Original Sound Track (Japan) (Track 01).bin" size="76409424" crc="5659ddc1" md5="342c768d50a5a56f3566def1d4e3ed00" sha1="ed910d99f60958e6621f8d0469af89f9cdb39833"/>
-		<rom name="D2 - Original Sound Track (Japan) (Track 02).bin" size="40501440" crc="fc0ba605" md5="d4cb2a467230f65063e49cb2f1dcbb46" sha1="63773d7173b945c672fd88c883fdcbe156d80dae"/>
-		<rom name="D2 - Original Sound Track (Japan) (Track 03).bin" size="573175344" crc="e61fd962" md5="6c699e52ca76d9301af4dac14af2c3aa" sha1="8e52131e18d969db0d806f9ebb327e5d6adbce36"/>
+		<description>D2 - Original Sound Track (Japan) (Disc 2) (MilCD)</description>
+		<rom name="D2 - Original Sound Track (Japan) (Disc 2) (MilCD) (Track 01).bin" size="76409424" crc="5659ddc1" md5="342c768d50a5a56f3566def1d4e3ed00" sha1="ed910d99f60958e6621f8d0469af89f9cdb39833"/>
+		<rom name="D2 - Original Sound Track (Japan) (Disc 2) (MilCD) (Track 02).bin" size="40501440" crc="fc0ba605" md5="d4cb2a467230f65063e49cb2f1dcbb46" sha1="63773d7173b945c672fd88c883fdcbe156d80dae"/>
+		<rom name="D2 - Original Sound Track (Japan) (Disc 2) (MilCD) (Track 03).bin" size="573175344" crc="e61fd962" md5="6c699e52ca76d9301af4dac14af2c3aa" sha1="8e52131e18d969db0d806f9ebb327e5d6adbce36"/>
 	</game>
 	<game name="D2 Shock (Japan)" sha1="164ab882b75acb1e58988f7fcfbc0994787750a2" size="393025327" crc="9bbad6b5" fullsha1="100fb6fdb3192dbf01052d2402c08366c0fe5967" dataSha1="9f7e60f0c65bc7ce90a42bb9cd641e2db265e83a">
 		<category>Games</category>
@@ -3054,27 +3054,27 @@
 		<rom name="Dux (Europe) (Unl) (Track 17).bin" size="10739232" crc="54b9b689" md5="10f09ece468a1489c15fa9067ab5d17c" sha1="c7bccda30d5e7a1e3e007ddec2ebcc93d30d1655"/>
 		<rom name="Dux (Europe) (Unl) (Track 18).bin" size="30063264" crc="9a4546f0" md5="99573125e8ac4b9c2f64385d98613fa8" sha1="d50dba99ad1ef2410b90a67f8e289e3fadcbb86c"/>
 	</game>
-	<game name="Dux Version 1.5 (Europe) (Unl) (Limited Edition)" sha1="26fd9990a769dd95ffee2faae34c53fed2383b8d" size="245662217" crc="14264443" fullsha1="77d1a23c5149b0ae923a18d028aae176e84a8ce1" dataSha1="76e0447d0f38930de490f3984022b249c5274a28">
+	<game name="Dux Version 1.5 (Europe) (Unl)" sha1="26fd9990a769dd95ffee2faae34c53fed2383b8d" size="245662217" crc="14264443" fullsha1="77d1a23c5149b0ae923a18d028aae176e84a8ce1" dataSha1="76e0447d0f38930de490f3984022b249c5274a28">
 		<category>Games</category>
-		<description>Dux Version 1.5 (Europe) (Unl) (Limited Edition)</description>
-		<rom name="Dux Version 1.5 (Europe) (Unl) (Limited Edition) (Track 01).bin" size="41484576" crc="eba18e7c" md5="625de2120646803273674b3029f79b98" sha1="3a2ebddff8df082c409787686cd64789464b7947"/>
-		<rom name="Dux Version 1.5 (Europe) (Unl) (Limited Edition) (Track 02).bin" size="25443936" crc="a23131a2" md5="033d4da86c3d1720929ead8254f7ff4d" sha1="dd1bab0cefe0f85a018a7cf6062e736394c7cd13"/>
-		<rom name="Dux Version 1.5 (Europe) (Unl) (Limited Edition) (Track 03).bin" size="39871104" crc="eb3845e0" md5="1d5eae082061e008f66e8142e46b7662" sha1="e3a56e6e593d781a5ba4b6fef46e95b73403851b"/>
-		<rom name="Dux Version 1.5 (Europe) (Unl) (Limited Edition) (Track 04).bin" size="25443936" crc="a23131a2" md5="033d4da86c3d1720929ead8254f7ff4d" sha1="dd1bab0cefe0f85a018a7cf6062e736394c7cd13"/>
-		<rom name="Dux Version 1.5 (Europe) (Unl) (Limited Edition) (Track 05).bin" size="30338448" crc="05021d7e" md5="4f3c688e4d8a0dd28735889b791ef269" sha1="049703808b4f585ac9890f71ee9cb2ef02a05e6b"/>
-		<rom name="Dux Version 1.5 (Europe) (Unl) (Limited Edition) (Track 06).bin" size="25443936" crc="a23131a2" md5="033d4da86c3d1720929ead8254f7ff4d" sha1="dd1bab0cefe0f85a018a7cf6062e736394c7cd13"/>
-		<rom name="Dux Version 1.5 (Europe) (Unl) (Limited Edition) (Track 07).bin" size="39600624" crc="1b436e65" md5="7bd69bb1ca64ee6c7c338173ec216597" sha1="badf45b8c8c3ccd34c9706d1c24e612909bf7fee"/>
-		<rom name="Dux Version 1.5 (Europe) (Unl) (Limited Edition) (Track 08).bin" size="25443936" crc="a23131a2" md5="033d4da86c3d1720929ead8254f7ff4d" sha1="dd1bab0cefe0f85a018a7cf6062e736394c7cd13"/>
-		<rom name="Dux Version 1.5 (Europe) (Unl) (Limited Edition) (Track 09).bin" size="39871104" crc="4be46ebd" md5="8bc423d5b4c3e23dc7546f50fb9ff92a" sha1="270b11c73009202e6bdd68e03fd7cfe5a3d96a16"/>
-		<rom name="Dux Version 1.5 (Europe) (Unl) (Limited Edition) (Track 10).bin" size="25443936" crc="a23131a2" md5="033d4da86c3d1720929ead8254f7ff4d" sha1="dd1bab0cefe0f85a018a7cf6062e736394c7cd13"/>
-		<rom name="Dux Version 1.5 (Europe) (Unl) (Limited Edition) (Track 11).bin" size="27217344" crc="5e898f75" md5="4df7b26d350c70e7758d327577018178" sha1="87fa49c1a2abebfe7118e3749825a6f92c34ac53"/>
-		<rom name="Dux Version 1.5 (Europe) (Unl) (Limited Edition) (Track 12).bin" size="25443936" crc="a23131a2" md5="033d4da86c3d1720929ead8254f7ff4d" sha1="dd1bab0cefe0f85a018a7cf6062e736394c7cd13"/>
-		<rom name="Dux Version 1.5 (Europe) (Unl) (Limited Edition) (Track 13).bin" size="22129968" crc="698a1b74" md5="2973c410f4b118942d1646c89aa19121" sha1="af6622b033df15aff0f217a87fdadacd2e70d283"/>
-		<rom name="Dux Version 1.5 (Europe) (Unl) (Limited Edition) (Track 14).bin" size="17649408" crc="f85c9ef1" md5="35bb96efe74284c599ec52c1ec6e07fb" sha1="deecfdaff32878f2a7544c7a2f6d7d33c3a62061"/>
-		<rom name="Dux Version 1.5 (Europe) (Unl) (Limited Edition) (Track 15).bin" size="46005120" crc="11d4ca86" md5="517c5dc43fcd450c4434aa0c831900a6" sha1="dd6d181c514bb6025ac76645734e3cb71abd62f7"/>
-		<rom name="Dux Version 1.5 (Europe) (Unl) (Limited Edition) (Track 16).bin" size="1985088" crc="31a63cbe" md5="f3310ac5669d1efba626de029b79e246" sha1="9ca8c024bac035ea384b6db95895a6661c03993b"/>
-		<rom name="Dux Version 1.5 (Europe) (Unl) (Limited Edition) (Track 17).bin" size="26758704" crc="e6409ffa" md5="4e0189d5396d68349c8d2ac5eee16038" sha1="2b81d2ddc7692b1334ca2c76e7abb3d266f28f60"/>
-		<rom name="Dux Version 1.5 (Europe) (Unl) (Limited Edition) (Track 18).bin" size="27546624" crc="98ccfb93" md5="cb1a03b58ea08f0a7958be6483578ae0" sha1="5c16b7899e4d3a9f704031ece609edd64cae326e"/>
+		<description>Dux Version 1.5 (Europe) (Unl)</description>
+		<rom name="Dux Version 1.5 (Europe) (Unl) (Track 01).bin" size="41484576" crc="eba18e7c" md5="625de2120646803273674b3029f79b98" sha1="3a2ebddff8df082c409787686cd64789464b7947"/>
+		<rom name="Dux Version 1.5 (Europe) (Unl) (Track 02).bin" size="25443936" crc="a23131a2" md5="033d4da86c3d1720929ead8254f7ff4d" sha1="dd1bab0cefe0f85a018a7cf6062e736394c7cd13"/>
+		<rom name="Dux Version 1.5 (Europe) (Unl) (Track 03).bin" size="39871104" crc="eb3845e0" md5="1d5eae082061e008f66e8142e46b7662" sha1="e3a56e6e593d781a5ba4b6fef46e95b73403851b"/>
+		<rom name="Dux Version 1.5 (Europe) (Unl) (Track 04).bin" size="25443936" crc="a23131a2" md5="033d4da86c3d1720929ead8254f7ff4d" sha1="dd1bab0cefe0f85a018a7cf6062e736394c7cd13"/>
+		<rom name="Dux Version 1.5 (Europe) (Unl) (Track 05).bin" size="30338448" crc="05021d7e" md5="4f3c688e4d8a0dd28735889b791ef269" sha1="049703808b4f585ac9890f71ee9cb2ef02a05e6b"/>
+		<rom name="Dux Version 1.5 (Europe) (Unl) (Track 06).bin" size="25443936" crc="a23131a2" md5="033d4da86c3d1720929ead8254f7ff4d" sha1="dd1bab0cefe0f85a018a7cf6062e736394c7cd13"/>
+		<rom name="Dux Version 1.5 (Europe) (Unl) (Track 07).bin" size="39600624" crc="1b436e65" md5="7bd69bb1ca64ee6c7c338173ec216597" sha1="badf45b8c8c3ccd34c9706d1c24e612909bf7fee"/>
+		<rom name="Dux Version 1.5 (Europe) (Unl) (Track 08).bin" size="25443936" crc="a23131a2" md5="033d4da86c3d1720929ead8254f7ff4d" sha1="dd1bab0cefe0f85a018a7cf6062e736394c7cd13"/>
+		<rom name="Dux Version 1.5 (Europe) (Unl) (Track 09).bin" size="39871104" crc="4be46ebd" md5="8bc423d5b4c3e23dc7546f50fb9ff92a" sha1="270b11c73009202e6bdd68e03fd7cfe5a3d96a16"/>
+		<rom name="Dux Version 1.5 (Europe) (Unl) (Track 10).bin" size="25443936" crc="a23131a2" md5="033d4da86c3d1720929ead8254f7ff4d" sha1="dd1bab0cefe0f85a018a7cf6062e736394c7cd13"/>
+		<rom name="Dux Version 1.5 (Europe) (Unl) (Track 11).bin" size="27217344" crc="5e898f75" md5="4df7b26d350c70e7758d327577018178" sha1="87fa49c1a2abebfe7118e3749825a6f92c34ac53"/>
+		<rom name="Dux Version 1.5 (Europe) (Unl) (Track 12).bin" size="25443936" crc="a23131a2" md5="033d4da86c3d1720929ead8254f7ff4d" sha1="dd1bab0cefe0f85a018a7cf6062e736394c7cd13"/>
+		<rom name="Dux Version 1.5 (Europe) (Unl) (Track 13).bin" size="22129968" crc="698a1b74" md5="2973c410f4b118942d1646c89aa19121" sha1="af6622b033df15aff0f217a87fdadacd2e70d283"/>
+		<rom name="Dux Version 1.5 (Europe) (Unl) (Track 14).bin" size="17649408" crc="f85c9ef1" md5="35bb96efe74284c599ec52c1ec6e07fb" sha1="deecfdaff32878f2a7544c7a2f6d7d33c3a62061"/>
+		<rom name="Dux Version 1.5 (Europe) (Unl) (Track 15).bin" size="46005120" crc="11d4ca86" md5="517c5dc43fcd450c4434aa0c831900a6" sha1="dd6d181c514bb6025ac76645734e3cb71abd62f7"/>
+		<rom name="Dux Version 1.5 (Europe) (Unl) (Track 16).bin" size="1985088" crc="31a63cbe" md5="f3310ac5669d1efba626de029b79e246" sha1="9ca8c024bac035ea384b6db95895a6661c03993b"/>
+		<rom name="Dux Version 1.5 (Europe) (Unl) (Track 17).bin" size="26758704" crc="e6409ffa" md5="4e0189d5396d68349c8d2ac5eee16038" sha1="2b81d2ddc7692b1334ca2c76e7abb3d266f28f60"/>
+		<rom name="Dux Version 1.5 (Europe) (Unl) (Track 18).bin" size="27546624" crc="98ccfb93" md5="cb1a03b58ea08f0a7958be6483578ae0" sha1="5c16b7899e4d3a9f704031ece609edd64cae326e"/>
 	</game>
 	<game name="Dux Version 1.5 (USA, Japan) (Unl) (Rerelease)" sha1="9444bb38097032d195b05c28a2412a3948e4f4e4" size="245781622" crc="96aad103" fullsha1="ed6485acd70875bf0bf8e63114916f3b302ee002" dataSha1="81fe08392358218ded4d848c68c304938bee424f">
 		<category>Games</category>
@@ -8890,14 +8890,14 @@
 		<rom name="Pro Yakyuu Team o Tsukurou! &amp; Asobou! (Japan) (Track 04).bin" size="43446144" crc="1b022aa2" md5="df399c6f6c7ecd701261582bba553017" sha1="2b0b5de827645af5ab31e8f787a22598eb9f3017"/>
 		<rom name="Pro Yakyuu Team o Tsukurou! &amp; Asobou! (Japan) (Track 05).bin" size="1234800" crc="70c01788" md5="6208624983819a58603afa5b098fbeb2" sha1="fa49b6999047cea65cf916a80e71e91fdb038d3a"/>
 	</game>
-	<game name="Pro Yakyuu Team o Tsukurou! (Japan)" sha1="465c86127ca495b3af7b54ec9bf23bb7a12ba297" size="400779115" crc="c1a6c877" fullsha1="f27ac38db8aab79a706de1cc2333c63bb544f54b" dataSha1="fa7a60989158139e8a6fe27ca48190054caa40de">
+	<game name="Pro Yakyuu Team o Tsukurou! (Japan) (Rev B)" sha1="465c86127ca495b3af7b54ec9bf23bb7a12ba297" size="400779115" crc="c1a6c877" fullsha1="f27ac38db8aab79a706de1cc2333c63bb544f54b" dataSha1="fa7a60989158139e8a6fe27ca48190054caa40de">
 		<category>Games</category>
-		<description>Pro Yakyuu Team o Tsukurou! (Japan)</description>
-		<rom name="Pro Yakyuu Team o Tsukurou! (Japan) (Track 01).bin" size="1467648" crc="02957f3b" md5="70a354540dada3c24040fb5aa05fd66f" sha1="7d9929701637807acedd090c2cbc926cd273f335"/>
-		<rom name="Pro Yakyuu Team o Tsukurou! (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
-		<rom name="Pro Yakyuu Team o Tsukurou! (Japan) (Track 03).bin" size="363548640" crc="2e76483a" md5="d78483046b89fdd434bfc577cd14625c" sha1="9525eb7868d52d3dd8743c61d29e3e9eb61abfee"/>
-		<rom name="Pro Yakyuu Team o Tsukurou! (Japan) (Track 04).bin" size="43476720" crc="cfec9d64" md5="5733211569f95d8f786b3352f621d8a1" sha1="32f1b884af6690584d32fc03528b40aec98c8fcd"/>
-		<rom name="Pro Yakyuu Team o Tsukurou! (Japan) (Track 05).bin" size="778735440" crc="a13ffab7" md5="1edc5b25f7e8a7530b13daf24aa10b94" sha1="597206c660caf958b0c47b0c275cb9c1015af5e5"/>
+		<description>Pro Yakyuu Team o Tsukurou! (Japan) (Rev B)</description>
+		<rom name="Pro Yakyuu Team o Tsukurou! (Japan) (Rev B) (Track 01).bin" size="1467648" crc="02957f3b" md5="70a354540dada3c24040fb5aa05fd66f" sha1="7d9929701637807acedd090c2cbc926cd273f335"/>
+		<rom name="Pro Yakyuu Team o Tsukurou! (Japan) (Rev B) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
+		<rom name="Pro Yakyuu Team o Tsukurou! (Japan) (Rev B) (Track 03).bin" size="363548640" crc="2e76483a" md5="d78483046b89fdd434bfc577cd14625c" sha1="9525eb7868d52d3dd8743c61d29e3e9eb61abfee"/>
+		<rom name="Pro Yakyuu Team o Tsukurou! (Japan) (Rev B) (Track 04).bin" size="43476720" crc="cfec9d64" md5="5733211569f95d8f786b3352f621d8a1" sha1="32f1b884af6690584d32fc03528b40aec98c8fcd"/>
+		<rom name="Pro Yakyuu Team o Tsukurou! (Japan) (Rev B) (Track 05).bin" size="778735440" crc="a13ffab7" md5="1edc5b25f7e8a7530b13daf24aa10b94" sha1="597206c660caf958b0c47b0c275cb9c1015af5e5"/>
 	</game>
 	<game name="Pro Yakyuu Team o Tsukurou! (Japan) (Rev E)" sha1="03348b9fae3e9400b89712033d812b417fe55e3f" size="401273522" crc="ed8bfa02" fullsha1="a9066b6d84f648ef8341c457e00dac2b5a90fa42" dataSha1="ed7324345aa9dc8a49ce75863d44731e012f8632">
 		<category>Games</category>
@@ -8971,12 +8971,12 @@
 		<rom name="Puyo Puyo Da! Featuring Ellena System (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Puyo Puyo Da! Featuring Ellena System (Japan) (Track 03).bin" size="1185760800" crc="9810778b" md5="f2a9e02ccce2ab6a6f7badedf03ba1e3" sha1="037a0fcc50f939834a5691ee23a065a81a467828"/>
 	</game>
-	<game name="Puyo Puyo Fever (Japan)" sha1="bf9eae5ce6521da1bdce4abaf85253c2b3a9c2c0" size="168734612" crc="228d1f11" fullsha1="465d5b6bb6760d2a7effa8e9770b6b1197681618" dataSha1="2c377840aa020287583cc80f2dfd01c4c3a75d27">
+	<game name="Puyo Puyo Fever (Japan) (En,Ja)" sha1="bf9eae5ce6521da1bdce4abaf85253c2b3a9c2c0" size="168734612" crc="228d1f11" fullsha1="465d5b6bb6760d2a7effa8e9770b6b1197681618" dataSha1="2c377840aa020287583cc80f2dfd01c4c3a75d27">
 		<category>Games</category>
-		<description>Puyo Puyo Fever (Japan)</description>
-		<rom name="Puyo Puyo Fever (Japan) (Track 01).bin" size="705600" crc="4bb1d467" md5="c6074287821611cbb03ac5b0f8f50d9e" sha1="9c7fe6471e37528edaec2b1522b805e84e590478"/>
-		<rom name="Puyo Puyo Fever (Japan) (Track 02).bin" size="2302608" crc="a9684d33" md5="3a23931b29da109b04737c79cbcc18fc" sha1="1312a9ce85a306e731945dc0e97a047b2a7c6187"/>
-		<rom name="Puyo Puyo Fever (Japan) (Track 03).bin" size="1185760800" crc="7695ba97" md5="9e724ab04b54ba59a5b45fcacb9ca6f2" sha1="b196d44031ec1a591c541ef370c981b79f773c59"/>
+		<description>Puyo Puyo Fever (Japan) (En,Ja)</description>
+		<rom name="Puyo Puyo Fever (Japan) (En,Ja) (Track 01).bin" size="705600" crc="4bb1d467" md5="c6074287821611cbb03ac5b0f8f50d9e" sha1="9c7fe6471e37528edaec2b1522b805e84e590478"/>
+		<rom name="Puyo Puyo Fever (Japan) (En,Ja) (Track 02).bin" size="2302608" crc="a9684d33" md5="3a23931b29da109b04737c79cbcc18fc" sha1="1312a9ce85a306e731945dc0e97a047b2a7c6187"/>
+		<rom name="Puyo Puyo Fever (Japan) (En,Ja) (Track 03).bin" size="1185760800" crc="7695ba97" md5="9e724ab04b54ba59a5b45fcacb9ca6f2" sha1="b196d44031ec1a591c541ef370c981b79f773c59"/>
 	</game>
 	<game name="Puyo Puyoon (Japan)" sha1="406c60e279c7f0f0cb3bd250bd21f6c3ad8e63ed" size="573203854" crc="39a51682" fullsha1="b830e556b2515f0dc1c616b97df0433a20a78e1b" dataSha1="38b450ecd978d72265036b522e59e0aeed9a048c">
 		<category>Games</category>
@@ -14880,42 +14880,42 @@
 		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Track 32).bin" size="1119552" crc="e58addb8" md5="bfe8c72716b2212b7e90d28ae8097aab" sha1="98ef9cd45064c96b4a8d8f9a6baa6542d05439ca"/>
 		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Track 33).bin" size="13199424" crc="7a6113aa" md5="1bafb09ec1149fa8812b5303f6a19e06" sha1="94b666a8208d3cb8e2a287b6460de6e39e192ea6"/>
 	</game>
-	<game name="Wind and Water - Puzzle Battles (Europe) (Unl)" sha1="ebe80716e66469980c5776c0dd98c582930027fe" size="295343162" crc="3d5938e5" fullsha1="6b25647b8303ca5b3b3000d8236cca6b017591f1" dataSha1="8c8efd15bcd93c64427eda049d0455687fad236b">
+	<game name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease)" sha1="ebe80716e66469980c5776c0dd98c582930027fe" size="295343162" crc="3d5938e5" fullsha1="6b25647b8303ca5b3b3000d8236cca6b017591f1" dataSha1="8c8efd15bcd93c64427eda049d0455687fad236b">
 		<category>Games</category>
-		<description>Wind and Water - Puzzle Battles (Europe) (Unl)</description>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 01).bin" size="1940400" crc="81930138" md5="746dcd50a03a283a1384d3396d2b263d" sha1="c5bcc8161ea7498e52e5343e15c04fe47117d4ab"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 02).bin" size="3767904" crc="1dd87e07" md5="310d178b5106cfdb1d48a179f4149484" sha1="60450efabb5c992da97cc9faccad8386524310b8"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 03).bin" size="10593408" crc="d4e4d9cc" md5="25d1812667314e27dc04da44996d77ba" sha1="994f91e612a612ab7ff96302ecfec99aba408fa4"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 04).bin" size="13611024" crc="e725b5fc" md5="7e0395d54ee1e8f2d88128042ca566f5" sha1="10ab82118334c155f0be4e076b599cb4fa0504d6"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 05).bin" size="9563232" crc="efe83b83" md5="6fa1c8db0ad72e55e94ff8b1d9f50988" sha1="e614de55cf68390838d5a3dd611d9c743866574f"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 06).bin" size="2316720" crc="9a093806" md5="e21ae66c35bbac52b983f52c90b9c16f" sha1="1a497eb8e0f911998f5b9433f49112a8bd26c5e4"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 07).bin" size="13618080" crc="9ae92360" md5="98c2d4998c71c65244d75a7a6b026a2f" sha1="58eb1a748f3a25507d5396fb82b4701deeabae24"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 08).bin" size="12898368" crc="da9c09ea" md5="8eb3372e4f2615a1afb3d0d8cca8c747" sha1="00596b9a4a1c82be07a53b11ded60c3021df7148"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 09).bin" size="15382080" crc="a648a744" md5="c92aaad1ab1bf1b2034c23365dd6173a" sha1="1a3d212dccca2d2be94bb3a33629e257e790a803"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 10).bin" size="23999808" crc="8398b688" md5="4bce95c8d37aa42cc01612a9921038a6" sha1="a9a4b56c2ffd3b3278f612138fe44a084a17ce2f"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 11).bin" size="48404160" crc="8a3bf522" md5="a3941945abff49fcf4866ee7e3f4fcd0" sha1="8d37d91ec491a3704f8472b0daf73396e399d9b2"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 12).bin" size="58642416" crc="3cbec0de" md5="3b5efdac4417263e7dabaa0ed58fdb9a" sha1="19116663c02e4e09e692173688c261884e3cc656"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 13).bin" size="5854128" crc="03a3daa6" md5="8431c0692d9d1b6757c4ea048133dfdf" sha1="a02aca85325b4dbefacf0fbeca29040f829fb223"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 14).bin" size="21419664" crc="198fab37" md5="417d203eb6f42923dbfbedc4a23b5050" sha1="78a91adcdfb0116b383f134489d2bedbe9b7f2df"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 15).bin" size="13006560" crc="06c454a0" md5="f9b197b866490e6f1c5803c1ec94d16e" sha1="e34887e6da091e6280a968c8cd988bf8aac8bcc5"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 16).bin" size="3883152" crc="c2ae6400" md5="f4d4748d94faea38ae7f6aea52756322" sha1="85812de1317bb520d8d8373dabfcd5d8687bb88d"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 17).bin" size="25427472" crc="2f3b842e" md5="68d265079a7c49b4a6e9192b92cdcbc1" sha1="272c4069b013ef6f6bc3a3b22ee74271167915e2"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 18).bin" size="5237904" crc="6e3d8890" md5="b2410af690e383d0f96b74497ce66338" sha1="ef3785424bc58c6f9d06d0bd6d516424ad91ebe3"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 19).bin" size="28694400" crc="87ce5e39" md5="11fc306e5ef2ef24908de27057102de5" sha1="f949a52350fa2f8346538df036292d0f7c148760"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 20).bin" size="7307664" crc="5eeb4e97" md5="0cd19df3198e558978a2b008ca9b483b" sha1="d310975e53f398ec9cc9ac17d23cc95b37f77cc2"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 21).bin" size="30942912" crc="0364c039" md5="283c7b40c5f3e6fa8f814b74afe01d5b" sha1="1f655f24154a42e5f7f475033b10a51f9ea8eca5"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 22).bin" size="12402096" crc="92a0cac4" md5="29fb85668ad1d9e40ad9d3d7c9b61766" sha1="f7fe6e4cd66514af3f5b4fe134d603d8fbabb82e"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 23).bin" size="15377376" crc="0b5bf3e3" md5="ca4e5d60292de4a7f10a880cbc46871b" sha1="fcbe18a54444014cf12ee07931f6bac6b0439d71"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 24).bin" size="24768912" crc="86cdf231" md5="4b0ae1e15088693c19426c32cf9cfe35" sha1="14413d74fa95228b6776bad97672c2e463f2eaea"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 25).bin" size="5887056" crc="7665cb04" md5="760afc2ffe3f5da26da32406a5a628fc" sha1="9b4a774d2d58dcf6c065386d55f428c2218e7e06"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 26).bin" size="46915344" crc="6b0e4e5f" md5="8463404ac7fcdf44273263dbf4a21769" sha1="f1b3a952a767fca773ef446c7900b35976db4013"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 27).bin" size="22080576" crc="699226cd" md5="80483581326c0cbd4a5cae5a6c23b14f" sha1="ad830a69e182ee4404d353badd9b049db5e4d1a1"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 28).bin" size="17414208" crc="3af3db06" md5="40ee8f6d2b0dc2cb2ac26eb0f62c1e42" sha1="b629ac4a556bf153c07a551a3381f39df23a7d03"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 29).bin" size="15316224" crc="04aff5fd" md5="11e4ba4b3a91e99222c0194248328d1c" sha1="34a36cf5b76d67c4ce5e2532b42efbfd4885400b"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 30).bin" size="52710672" crc="1ac8b6f6" md5="054f4c144cee9a101b7b292a47aae42a" sha1="6715e2404dcdc21e58ec1201874bf0a966cf3ade"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 31).bin" size="3770256" crc="b0f41562" md5="52f23b5f00950396267b021a0b3fb7e1" sha1="e6ed0d5f1c06d8f3a77f3885d21d2dca5ea12d54"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 32).bin" size="771456" crc="8f3b3092" md5="729a27b2926333c8ec99e1abae529b80" sha1="9bf8ecfa22687937b884a55b1dee58cbf241e6d3"/>
-		<rom name="Wind and Water - Puzzle Battles (Europe) (Unl) (Track 33).bin" size="13208832" crc="643b39c9" md5="f4b8c6b15bbf7d053a8eb3b3666b95f7" sha1="e6f60f95ed9d98a2a1b15dc8e43b60faf37dfd0c"/>
+		<description>Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease)</description>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 01).bin" size="1940400" crc="81930138" md5="746dcd50a03a283a1384d3396d2b263d" sha1="c5bcc8161ea7498e52e5343e15c04fe47117d4ab"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 02).bin" size="3767904" crc="1dd87e07" md5="310d178b5106cfdb1d48a179f4149484" sha1="60450efabb5c992da97cc9faccad8386524310b8"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 03).bin" size="10593408" crc="d4e4d9cc" md5="25d1812667314e27dc04da44996d77ba" sha1="994f91e612a612ab7ff96302ecfec99aba408fa4"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 04).bin" size="13611024" crc="e725b5fc" md5="7e0395d54ee1e8f2d88128042ca566f5" sha1="10ab82118334c155f0be4e076b599cb4fa0504d6"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 05).bin" size="9563232" crc="efe83b83" md5="6fa1c8db0ad72e55e94ff8b1d9f50988" sha1="e614de55cf68390838d5a3dd611d9c743866574f"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 06).bin" size="2316720" crc="9a093806" md5="e21ae66c35bbac52b983f52c90b9c16f" sha1="1a497eb8e0f911998f5b9433f49112a8bd26c5e4"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 07).bin" size="13618080" crc="9ae92360" md5="98c2d4998c71c65244d75a7a6b026a2f" sha1="58eb1a748f3a25507d5396fb82b4701deeabae24"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 08).bin" size="12898368" crc="da9c09ea" md5="8eb3372e4f2615a1afb3d0d8cca8c747" sha1="00596b9a4a1c82be07a53b11ded60c3021df7148"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 09).bin" size="15382080" crc="a648a744" md5="c92aaad1ab1bf1b2034c23365dd6173a" sha1="1a3d212dccca2d2be94bb3a33629e257e790a803"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 10).bin" size="23999808" crc="8398b688" md5="4bce95c8d37aa42cc01612a9921038a6" sha1="a9a4b56c2ffd3b3278f612138fe44a084a17ce2f"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 11).bin" size="48404160" crc="8a3bf522" md5="a3941945abff49fcf4866ee7e3f4fcd0" sha1="8d37d91ec491a3704f8472b0daf73396e399d9b2"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 12).bin" size="58642416" crc="3cbec0de" md5="3b5efdac4417263e7dabaa0ed58fdb9a" sha1="19116663c02e4e09e692173688c261884e3cc656"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 13).bin" size="5854128" crc="03a3daa6" md5="8431c0692d9d1b6757c4ea048133dfdf" sha1="a02aca85325b4dbefacf0fbeca29040f829fb223"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 14).bin" size="21419664" crc="198fab37" md5="417d203eb6f42923dbfbedc4a23b5050" sha1="78a91adcdfb0116b383f134489d2bedbe9b7f2df"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 15).bin" size="13006560" crc="06c454a0" md5="f9b197b866490e6f1c5803c1ec94d16e" sha1="e34887e6da091e6280a968c8cd988bf8aac8bcc5"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 16).bin" size="3883152" crc="c2ae6400" md5="f4d4748d94faea38ae7f6aea52756322" sha1="85812de1317bb520d8d8373dabfcd5d8687bb88d"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 17).bin" size="25427472" crc="2f3b842e" md5="68d265079a7c49b4a6e9192b92cdcbc1" sha1="272c4069b013ef6f6bc3a3b22ee74271167915e2"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 18).bin" size="5237904" crc="6e3d8890" md5="b2410af690e383d0f96b74497ce66338" sha1="ef3785424bc58c6f9d06d0bd6d516424ad91ebe3"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 19).bin" size="28694400" crc="87ce5e39" md5="11fc306e5ef2ef24908de27057102de5" sha1="f949a52350fa2f8346538df036292d0f7c148760"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 20).bin" size="7307664" crc="5eeb4e97" md5="0cd19df3198e558978a2b008ca9b483b" sha1="d310975e53f398ec9cc9ac17d23cc95b37f77cc2"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 21).bin" size="30942912" crc="0364c039" md5="283c7b40c5f3e6fa8f814b74afe01d5b" sha1="1f655f24154a42e5f7f475033b10a51f9ea8eca5"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 22).bin" size="12402096" crc="92a0cac4" md5="29fb85668ad1d9e40ad9d3d7c9b61766" sha1="f7fe6e4cd66514af3f5b4fe134d603d8fbabb82e"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 23).bin" size="15377376" crc="0b5bf3e3" md5="ca4e5d60292de4a7f10a880cbc46871b" sha1="fcbe18a54444014cf12ee07931f6bac6b0439d71"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 24).bin" size="24768912" crc="86cdf231" md5="4b0ae1e15088693c19426c32cf9cfe35" sha1="14413d74fa95228b6776bad97672c2e463f2eaea"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 25).bin" size="5887056" crc="7665cb04" md5="760afc2ffe3f5da26da32406a5a628fc" sha1="9b4a774d2d58dcf6c065386d55f428c2218e7e06"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 26).bin" size="46915344" crc="6b0e4e5f" md5="8463404ac7fcdf44273263dbf4a21769" sha1="f1b3a952a767fca773ef446c7900b35976db4013"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 27).bin" size="22080576" crc="699226cd" md5="80483581326c0cbd4a5cae5a6c23b14f" sha1="ad830a69e182ee4404d353badd9b049db5e4d1a1"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 28).bin" size="17414208" crc="3af3db06" md5="40ee8f6d2b0dc2cb2ac26eb0f62c1e42" sha1="b629ac4a556bf153c07a551a3381f39df23a7d03"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 29).bin" size="15316224" crc="04aff5fd" md5="11e4ba4b3a91e99222c0194248328d1c" sha1="34a36cf5b76d67c4ce5e2532b42efbfd4885400b"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 30).bin" size="52710672" crc="1ac8b6f6" md5="054f4c144cee9a101b7b292a47aae42a" sha1="6715e2404dcdc21e58ec1201874bf0a966cf3ade"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 31).bin" size="3770256" crc="b0f41562" md5="52f23b5f00950396267b021a0b3fb7e1" sha1="e6ed0d5f1c06d8f3a77f3885d21d2dca5ea12d54"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 32).bin" size="771456" crc="8f3b3092" md5="729a27b2926333c8ec99e1abae529b80" sha1="9bf8ecfa22687937b884a55b1dee58cbf241e6d3"/>
+		<rom name="Wind and Water - Puzzle Battles (Europe) (En,Ja) (Unl) (Rerelease) (Track 33).bin" size="13208832" crc="643b39c9" md5="f4b8c6b15bbf7d053a8eb3b3666b95f7" sha1="e6f60f95ed9d98a2a1b15dc8e43b60faf37dfd0c"/>
 	</game>
 	<game name="Winning Post 4 - Program 2000 (Japan)" sha1="5f7c04ea36e816ee97b470f4dea14641c5f74da5" size="192530045" crc="89a8a00f" fullsha1="6aba0ad7b5df5ac5cbce088007d5fe51faec9c03" dataSha1="d2aa43861ad8b14d2fad46a21a698a5e54440e2e">
 		<category>Games</category>
@@ -15046,30 +15046,30 @@
 		<rom name="Worms World Party (USA) (En,Fr,De,Es,It,Nl,Sv,Da) (Track 17).bin" size="58908192" crc="f4448cf0" md5="ed14e2ea925f420a434a02cc7874fc72" sha1="6af9a5e7dda0f68a85a6d633052b3fc34df36e9d"/>
 		<rom name="Worms World Party (USA) (En,Fr,De,Es,It,Nl,Sv,Da) (Track 18).bin" size="415043328" crc="2c12ca5e" md5="b91c3cbffad08b95cb10d2d1f9ee8254" sha1="6a5ee87581e5fc614e193f29f4267be81697151f"/>
 	</game>
-	<game name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl)" sha1="d17c754ea89c7c1a233d3d55ba15f01d79944621" size="387332617" crc="0804100c" fullsha1="ef8805f98bb8b5e08d19a7b384f9600fe0f879dd" dataSha1="2fb569b33307145debe61e46e751dc93fc65dc46">
+	<game name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl)" sha1="d17c754ea89c7c1a233d3d55ba15f01d79944621" size="387332617" crc="0804100c" fullsha1="ef8805f98bb8b5e08d19a7b384f9600fe0f879dd" dataSha1="2fb569b33307145debe61e46e751dc93fc65dc46">
 		<category>Games</category>
-		<description>Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl)</description>
-		<rom name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 01).bin" size="966672" crc="b020bbf8" md5="10ce2d56ec9c63ee403dd259a6dd8d3f" sha1="9cde5967fb2e5e8a34e98f2028f0fe7300b06fb3"/>
-		<rom name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 02).bin" size="41653920" crc="72b5e4a5" md5="48a6b35f4f1951c35d6af27990b4af97" sha1="3a26db37a15ced1b86ca929d6dfd60f1e2633962"/>
-		<rom name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 03).bin" size="48070176" crc="9894c96f" md5="5a6d68e1c6c67cd767f216da5ae8dcc6" sha1="d446a7e313192d0d3b3dd824278dab5a1df56e67"/>
-		<rom name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 04).bin" size="47804400" crc="6f19911f" md5="a68fd281261b70c58ee973560c280a1d" sha1="3f080dfbe89eb7458633040994a1b1d3313979dc"/>
-		<rom name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 05).bin" size="49260288" crc="0af57307" md5="4a79c614d8b422c7fa2b900c055fb929" sha1="ca0d156d8fd26f1888c78ea2e5d1d65aea6bee85"/>
-		<rom name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 06).bin" size="45445344" crc="c2421b69" md5="900a0f89ac61b2f9bd42598faa5e2009" sha1="cc590335ba04c6714ebef5821c10ef51ad4c1e5c"/>
-		<rom name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 07).bin" size="48157200" crc="c4d6ed23" md5="2ea5cd267179ccabcd88f052b8a6f0cc" sha1="d0e8c75dc98496590fce472e8620e0eb6ddd2303"/>
-		<rom name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 08).bin" size="51259488" crc="db5e54a1" md5="46e8ebd0a8eaafef564310d821acf552" sha1="0fbc22f395e893a73c5cbfc0f5b7a413f3723fb1"/>
-		<rom name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 09).bin" size="22546272" crc="2531c53d" md5="5a23918b0734057565d6cadafdc95efc" sha1="18b39480184fc5641a128b4fff5dd2a069519fa1"/>
-		<rom name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 10).bin" size="21257376" crc="ed503ca9" md5="8af4c060c3fecf1e17aa39dc001c786c" sha1="98983734a24101344e9dec542357e0a212e92f34"/>
-		<rom name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 11).bin" size="24917088" crc="762c500a" md5="1751de3c9c2773d34af87424c74e90ec" sha1="42842abb0c4cfec47f5ebd790301235249387fb3"/>
-		<rom name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 12).bin" size="26857488" crc="39e92269" md5="ed38826c2cd90261111016213bcbfb09" sha1="1c447203075ab51281c7d6710e4c8c314757a5dc"/>
-		<rom name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 13).bin" size="23990400" crc="99275d58" md5="0397ab8c530a19d22b7a0ed4b73915bd" sha1="c1f79389b676f2d4a008cae592446a4f3cfe498d"/>
-		<rom name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 14).bin" size="25999008" crc="03cd695b" md5="5b98f444c1c277a66b40d6980494cfec" sha1="29ca8b68c3af35377101dffcb53baaba50df0b60"/>
-		<rom name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 15).bin" size="21520800" crc="8cde62ee" md5="21a31f86cfbc42cef675322a6de90a67" sha1="daf9eb602ac9d1940c0e304d95cd59e6d55badc5"/>
-		<rom name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 16).bin" size="2469600" crc="77c3aa74" md5="c294fd164207ca89bb6aa0a1303d5f1e" sha1="172af2ff64f1cbe2535fa1b84c99338a121e8f88"/>
-		<rom name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 17).bin" size="5988192" crc="842a6979" md5="4f11f69a440ff610359a358ac2d61ec3" sha1="67cfb800a6bdd0cf245f65091cf817446537f330"/>
-		<rom name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 18).bin" size="22139376" crc="0de02582" md5="91348adcdcc414f74ae943f94392ab83" sha1="ef109c21c061d6a5013f83bdf7fd487217db8b80"/>
-		<rom name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 19).bin" size="1632288" crc="557fc9fb" md5="04ea4e3fadd89fda3d3cec637cfe1157" sha1="5776eaa8ee241a14216bfe8efe3e5c3316410086"/>
-		<rom name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 20).bin" size="7173600" crc="46ba44e2" md5="e0ee665a8886eeae6d35804a33104217" sha1="b853ecce7afbb648a831cd0fa8c12b012bcf89ec"/>
-		<rom name="Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 21).bin" size="11324880" crc="53a24f83" md5="09f1d92b23422f4b08037f4442242342" sha1="83627208bcc21ccd0eb3cdc3ea37f1edeb92f8e8"/>
+		<description>Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl)</description>
+		<rom name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 01).bin" size="966672" crc="b020bbf8" md5="10ce2d56ec9c63ee403dd259a6dd8d3f" sha1="9cde5967fb2e5e8a34e98f2028f0fe7300b06fb3"/>
+		<rom name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 02).bin" size="41653920" crc="72b5e4a5" md5="48a6b35f4f1951c35d6af27990b4af97" sha1="3a26db37a15ced1b86ca929d6dfd60f1e2633962"/>
+		<rom name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 03).bin" size="48070176" crc="9894c96f" md5="5a6d68e1c6c67cd767f216da5ae8dcc6" sha1="d446a7e313192d0d3b3dd824278dab5a1df56e67"/>
+		<rom name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 04).bin" size="47804400" crc="6f19911f" md5="a68fd281261b70c58ee973560c280a1d" sha1="3f080dfbe89eb7458633040994a1b1d3313979dc"/>
+		<rom name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 05).bin" size="49260288" crc="0af57307" md5="4a79c614d8b422c7fa2b900c055fb929" sha1="ca0d156d8fd26f1888c78ea2e5d1d65aea6bee85"/>
+		<rom name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 06).bin" size="45445344" crc="c2421b69" md5="900a0f89ac61b2f9bd42598faa5e2009" sha1="cc590335ba04c6714ebef5821c10ef51ad4c1e5c"/>
+		<rom name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 07).bin" size="48157200" crc="c4d6ed23" md5="2ea5cd267179ccabcd88f052b8a6f0cc" sha1="d0e8c75dc98496590fce472e8620e0eb6ddd2303"/>
+		<rom name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 08).bin" size="51259488" crc="db5e54a1" md5="46e8ebd0a8eaafef564310d821acf552" sha1="0fbc22f395e893a73c5cbfc0f5b7a413f3723fb1"/>
+		<rom name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 09).bin" size="22546272" crc="2531c53d" md5="5a23918b0734057565d6cadafdc95efc" sha1="18b39480184fc5641a128b4fff5dd2a069519fa1"/>
+		<rom name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 10).bin" size="21257376" crc="ed503ca9" md5="8af4c060c3fecf1e17aa39dc001c786c" sha1="98983734a24101344e9dec542357e0a212e92f34"/>
+		<rom name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 11).bin" size="24917088" crc="762c500a" md5="1751de3c9c2773d34af87424c74e90ec" sha1="42842abb0c4cfec47f5ebd790301235249387fb3"/>
+		<rom name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 12).bin" size="26857488" crc="39e92269" md5="ed38826c2cd90261111016213bcbfb09" sha1="1c447203075ab51281c7d6710e4c8c314757a5dc"/>
+		<rom name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 13).bin" size="23990400" crc="99275d58" md5="0397ab8c530a19d22b7a0ed4b73915bd" sha1="c1f79389b676f2d4a008cae592446a4f3cfe498d"/>
+		<rom name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 14).bin" size="25999008" crc="03cd695b" md5="5b98f444c1c277a66b40d6980494cfec" sha1="29ca8b68c3af35377101dffcb53baaba50df0b60"/>
+		<rom name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 15).bin" size="21520800" crc="8cde62ee" md5="21a31f86cfbc42cef675322a6de90a67" sha1="daf9eb602ac9d1940c0e304d95cd59e6d55badc5"/>
+		<rom name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 16).bin" size="2469600" crc="77c3aa74" md5="c294fd164207ca89bb6aa0a1303d5f1e" sha1="172af2ff64f1cbe2535fa1b84c99338a121e8f88"/>
+		<rom name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 17).bin" size="5988192" crc="842a6979" md5="4f11f69a440ff610359a358ac2d61ec3" sha1="67cfb800a6bdd0cf245f65091cf817446537f330"/>
+		<rom name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 18).bin" size="22139376" crc="0de02582" md5="91348adcdcc414f74ae943f94392ab83" sha1="ef109c21c061d6a5013f83bdf7fd487217db8b80"/>
+		<rom name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 19).bin" size="1632288" crc="557fc9fb" md5="04ea4e3fadd89fda3d3cec637cfe1157" sha1="5776eaa8ee241a14216bfe8efe3e5c3316410086"/>
+		<rom name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 20).bin" size="7173600" crc="46ba44e2" md5="e0ee665a8886eeae6d35804a33104217" sha1="b853ecce7afbb648a831cd0fa8c12b012bcf89ec"/>
+		<rom name="Xeno Crisis (USA, Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl) (Track 21).bin" size="11324880" crc="53a24f83" md5="09f1d92b23422f4b08037f4442242342" sha1="83627208bcc21ccd0eb3cdc3ea37f1edeb92f8e8"/>
 	</game>
 	<game name="Xploder DC (UK) (Demo) (Unl)" sha1="f4cae2e710f3ab98583c23b8a8e9400d6a687e5e" size="981507" crc="eb94a689" fullsha1="53b0e8652f854a6693fd3402be7da6d2a8a18313" dataSha1="7c1997b3b46b21e49cb11dd909f2ce4dcee82edc">
 		<category>Games</category>

@@ -4,8 +4,8 @@
 	<header>
 		<name>fmtowns_cd</name>
 		<description>fmtowns_cd</description>
-		<version>0.250</version>
-		<date>2022-12-21</date>
+		<version>0.257</version>
+		<date>2023-08-02</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -107,6 +107,22 @@
 		<rom name="4d driving (japan) (Track 10).bin" size="3880800" crc="51495c72" md5="dd715fcfbd08ab52c905060a8e19884e" sha1="f1abbb56be59706954064e48359cc315389d1651"/>
 		<rom name="4d driving (japan) (Track 11).bin" size="11113200" crc="4e016552" md5="da1513af52f3bc3baacae8aefcf10e79" sha1="98bba39ce1f8fd3f19c7a769ddc33499cdabe41a"/>
 		<rom name="4d driving (japan) (Track 12).bin" size="7585200" crc="149d9feb" md5="e5d9dd07a9ac68574e732b444802f903" sha1="c9009f4273b6ba575807042d82939146e822eed1"/>
+	</game>
+	<game name="4ddrivin\4d driving (japan) (fm towns marty rerelease)" sha1="4f7be0e66b43cc14287d7f75b97885cbc133ae07" size="40686047" crc="f4e5d7f5" fullsha1="fa4dc65e57a643b3b717454515318a3552a88f39" dataSha1="c7ae836baff8a0cea4c7c7058f23d0feb2b4c05e">
+		<category>Games</category>
+		<description>4ddrivin\4d driving (japan) (fm towns marty rerelease)</description>
+		<rom name="4d driving (japan) (fm towns marty rerelease) (Track 01).bin" size="10231200" crc="1e390b90" md5="69d1c32dd06487851fc415365721bbad" sha1="cf375b85c09afb8d3104f0417fc46f7975febd28"/>
+		<rom name="4d driving (japan) (fm towns marty rerelease) (Track 02).bin" size="8643600" crc="ab5f071b" md5="c309c3031f528a5e9140498c3747bed4" sha1="3f2dbd7e0ec41dadd6e374065eb2df1cc01a0bc7"/>
+		<rom name="4d driving (japan) (fm towns marty rerelease) (Track 03).bin" size="4762800" crc="f1b9040f" md5="272829a6d7b6b58a4d9d2f7cc56dc71d" sha1="33930f5755172ac37f192c0dac50ede38f3a3117"/>
+		<rom name="4d driving (japan) (fm towns marty rerelease) (Track 04).bin" size="7938000" crc="5af6f044" md5="54e81d631750af194ef83c9f5ea06a08" sha1="5729c270b493d74ef24eef51aaa66eb2242931f4"/>
+		<rom name="4d driving (japan) (fm towns marty rerelease) (Track 05).bin" size="7232400" crc="5d877a88" md5="ff79e5f66dee116fe42a203d4a9575d4" sha1="7e6b2783c25521c59e3da7e706a36cd972c81271"/>
+		<rom name="4d driving (japan) (fm towns marty rerelease) (Track 06).bin" size="7938000" crc="37541ef0" md5="f9fa5d090466c4697c41ebfe91c862f3" sha1="6f93d7add53d6ee7a66e55d59b6b87cd7043af52"/>
+		<rom name="4d driving (japan) (fm towns marty rerelease) (Track 07).bin" size="6526800" crc="440e0a71" md5="cfaada556c46479a0da289068dd8a6e4" sha1="0aa104dd90c71d856eff36c9dfe92ee3b13dffa4"/>
+		<rom name="4d driving (japan) (fm towns marty rerelease) (Track 08).bin" size="7938000" crc="e30827c1" md5="f479711afd75f2ac2b86f804559a67d1" sha1="eada05052c104fb96340d1114f17a90c906f243c"/>
+		<rom name="4d driving (japan) (fm towns marty rerelease) (Track 09).bin" size="1587600" crc="e0ea7260" md5="47f37da61e6a998b6ca2678bf2528ba9" sha1="301c09953eb42e9766d8c5b62b85b8a738782db8"/>
+		<rom name="4d driving (japan) (fm towns marty rerelease) (Track 10).bin" size="3880800" crc="6abdbae0" md5="0cd6042be92913e3c1b093b88e4b422a" sha1="bd6003b1595c10b8167f19970af556b552479275"/>
+		<rom name="4d driving (japan) (fm towns marty rerelease) (Track 11).bin" size="11113200" crc="881174cd" md5="e7a2fa2597a37b776db518fb3de0693c" sha1="97ffa1ac92c65802d40437217a2d8153a26bd0e6"/>
+		<rom name="4d driving (japan) (fm towns marty rerelease) (Track 12).bin" size="7585200" crc="4dd0b5a3" md5="54c5e2389accde66e13d04c89efcdf81" sha1="f81d02f3e788b112fc75b11d69ce975bc3bf0c90"/>
 	</game>
 	<game name="4dtennis\4d tennis (japan)" sha1="11f04d252484ae3e9a56e2bd85c572d81141a1f9" size="30441032" crc="bd492090" fullsha1="1ddcaee84631b1f5ace7dd60d8b4c7415ed4d789" dataSha1="7c2bb9934053c31379973a110ce3721faa0dd6f1">
 		<category>Games</category>
@@ -2505,6 +2521,23 @@
 		<rom name="doki doki disk cd-ban vol. 1 (japan) (Track 10).bin" size="126862176" crc="a753e69b" md5="a9e8f913c0ae6d0346fbd988ada7ac23" sha1="9c29ed4e038f8df9e2dea4132b4e55f2afa669e0"/>
 		<rom name="doki doki disk cd-ban vol. 1 (japan) (Track 11).bin" size="102972912" crc="150cbcb7" md5="1a0c4030bacb17bd11f290a27adfe9bd" sha1="06c4d2e16204bc24e3c05557585bc576486f1262"/>
 	</game>
+	<game name="dokidok2\doki doki disk cd-ban vol. 2 (japan)" sha1="ef6e9fd3ba7504a6fe13cdead0789bd4c3507a1c" size="58691713" crc="f9de16ba" fullsha1="7f724424639975dcbc6aa7e003862bf74ce4f199" dataSha1="17b077f2f47542210a215a61a27933e8666e952e">
+		<category>Games</category>
+		<description>dokidok2\doki doki disk cd-ban vol. 2 (japan)</description>
+		<rom name="doki doki disk cd-ban vol. 2 (japan) (Track 01).bin" size="14568288" crc="48c72b16" md5="383648939251787f454063dff6e8f24a" sha1="c8348182dec2be426914437d510a276cad25ca59"/>
+		<rom name="doki doki disk cd-ban vol. 2 (japan) (Track 02).bin" size="14779968" crc="5609cadb" md5="37ccc34a7df69acee907bfd760b2fa55" sha1="91118ad71a004ccc4a153746e37e526aafaf15f7"/>
+		<rom name="doki doki disk cd-ban vol. 2 (japan) (Track 03).bin" size="13726272" crc="66911235" md5="42e680474d5685019492eb675bd0cb29" sha1="d30afa8c34ad0302cd447f08db65203aac4f1c0d"/>
+		<rom name="doki doki disk cd-ban vol. 2 (japan) (Track 04).bin" size="9132816" crc="a61b2083" md5="d0cc51a2f2dc333c54926988efce4503" sha1="22eda086491881a770be22e006e6894781ac4e39"/>
+		<rom name="doki doki disk cd-ban vol. 2 (japan) (Track 05).bin" size="9765504" crc="e626f8df" md5="fa623596b51a5e736e36090950e82fac" sha1="c6e0acba72316425cb9a5839b1da6f965c3bb516"/>
+		<rom name="doki doki disk cd-ban vol. 2 (japan) (Track 06).bin" size="13030080" crc="c7d623b5" md5="cd7f54b43dfe808951dcb5032fc5a4f9" sha1="37c9ee416e255eecce380297dcc19eacd8bc304b"/>
+		<rom name="doki doki disk cd-ban vol. 2 (japan) (Track 07).bin" size="18263280" crc="f66ebbc0" md5="01e428cdba1bedf5a3482dd75fe8d0f7" sha1="2d1c4c2c59fc55f0ea1629d1c5faefc1e08eb058"/>
+		<rom name="doki doki disk cd-ban vol. 2 (japan) (Track 08).bin" size="15706656" crc="ef261e0e" md5="8a7176f2e3c5e10fa19546c9cef94114" sha1="64e5bcc6a025f92020a373ee54f1c5bcf2af1219"/>
+	</game>
+	<game name="dokidok3\doki doki disk cd-ban vol. 3 (japan)" sha1="cb655ec41abd25c42c4dcef7be513c1a2ad14981" size="346756344" crc="80c68870" fullsha1="b69090b18762165bc2f4a90623900a87abb3b35b" dataSha1="90244913734a4d57b41d34a00b2dbbd3dad1d8ea">
+		<category>Games</category>
+		<description>dokidok3\doki doki disk cd-ban vol. 3 (japan)</description>
+		<rom name="doki doki disk cd-ban vol. 3 (japan) (Track 01).bin" size="567871584" crc="608f3a81" md5="59e19fd082774aa58b3c5c55ccfaf2ed" sha1="f2da2948f916c0beaa6e0e25b4a230757c82b5e0"/>
+	</game>
 	<game name="dokivact\doki doki vacation - kirameku kisetsu no naka de (japan)" sha1="5f54b0c2c8ccdcaf1a43e3d114fb0c6363fe959c" size="277443343" crc="7cb0aa47" fullsha1="d6d454e713b10c3f8ab8076a4fde4ededfc2cdbf" dataSha1="4fb234fd8c3b867ae94b37d5c9eaa2dea635250c">
 		<category>Games</category>
 		<description>dokivact\doki doki vacation - kirameku kisetsu no naka de (japan)</description>
@@ -4032,6 +4065,20 @@
 		<rom name="fm towns super technology demo 1993 (japan) (Track 09).bin" size="14994000" crc="46ed0ef1" md5="5365aefe3309ee98be11653cc2d1597c" sha1="3b9e43901febd596339ac0a47b424b69a2eb0d72"/>
 		<rom name="fm towns super technology demo 1993 (japan) (Track 10).bin" size="75852000" crc="829fc199" md5="756a0012944bf798b1babbab5a4c2f28" sha1="74f12802bd27f9ebe732042f4d035aa713677543"/>
 	</game>
+	<game name="fmtstdem\fm towns super technology demo 1993 (japan) (hibaihin)" sha1="2efc63b909267d1f3204a5a83abfbf12dce88a92" size="173839701" crc="0fba5307" fullsha1="97be055f8df22d433faf088a3ae27d465097057c" dataSha1="ed7a91efc728f828b8c91e1942098cd2297a108a">
+		<category>Games</category>
+		<description>fmtstdem\fm towns super technology demo 1993 (japan) (hibaihin)</description>
+		<rom name="fm towns super technology demo 1993 (japan) (hibaihin) (Track 01).bin" size="249782400" crc="f38e305f" md5="5129715322d74c789ca9b7df70ba68ff" sha1="fd61c4a161477811e970421f2d5d3d94e309c45f"/>
+		<rom name="fm towns super technology demo 1993 (japan) (hibaihin) (Track 02).bin" size="1237152" crc="0ecfb684" md5="b7543cfbdf56cf0e0c684be7eacbbe32" sha1="a3b988b06aa284f4b707a92e8dd8b768e3d7e097"/>
+		<rom name="fm towns super technology demo 1993 (japan) (hibaihin) (Track 03).bin" size="1764000" crc="e7887563" md5="3078714f29b09408fbf800f7a2ce03d0" sha1="923937048d6b3fe908cbe4115a099a3b7a195d0b"/>
+		<rom name="fm towns super technology demo 1993 (japan) (hibaihin) (Track 04).bin" size="37220400" crc="5e0dbea7" md5="c98d960049e44607ea9215a919ccf07b" sha1="bbf0062aeadff4b037b405cf75afab237b3c1be2"/>
+		<rom name="fm towns super technology demo 1993 (japan) (hibaihin) (Track 05).bin" size="10231200" crc="20e9edc0" md5="aaa929feb75052dfaa49a49a848fcdcd" sha1="0b67150bfbb44a70049560c957f2c8f62e14a1b5"/>
+		<rom name="fm towns super technology demo 1993 (japan) (hibaihin) (Track 06).bin" size="25225200" crc="c2f2d7e4" md5="73f65ccf0d5792e18b3c98fc81f7891b" sha1="462fbd4895a6b5979fcd790781e2105f67eb27b0"/>
+		<rom name="fm towns super technology demo 1993 (japan) (hibaihin) (Track 07).bin" size="10584000" crc="3eb77f9e" md5="9eff1de6dbd09dea5cf1259e53af66f3" sha1="d0933ce25ea10cf0c6a1140c20abcc11634f97cc"/>
+		<rom name="fm towns super technology demo 1993 (japan) (hibaihin) (Track 08).bin" size="2646000" crc="532e15b5" md5="4e86cae4588d7d5174da330ea0dbe5a0" sha1="9d214a27b9fe0d5d07540ef682797790ac0e171e"/>
+		<rom name="fm towns super technology demo 1993 (japan) (hibaihin) (Track 09).bin" size="14994000" crc="5d29156b" md5="35c1ed13ad87a316e1d11090dea131a7" sha1="886e7fc4bb1b667313ace60439dc0b19e370fd94"/>
+		<rom name="fm towns super technology demo 1993 (japan) (hibaihin) (Track 10).bin" size="75852000" crc="34785a10" md5="117adb8cde802a2932837eb090c19518" sha1="e41e60dca4707cb417334d24d398d85d727cd634"/>
+	</game>
 	<game name="fmtstdem\fm towns super technology demo 1993 (japan) (rev a)" sha1="3e44f8fece4fb8366ab02066aeefeadcfcc340c4" size="175048099" crc="ced69c84" fullsha1="9cb4e58f89bc5f65ff27790a71dc197454bfccb0" dataSha1="5faa39333d6d9db9b2d26626fbc0af7c340a622d">
 		<category>Games</category>
 		<description>fmtstdem\fm towns super technology demo 1993 (japan) (rev a)</description>
@@ -4552,6 +4599,12 @@
 		<category>Games</category>
 		<description>ginga3sp\ginga eiyuu densetsu iii sp (japan)</description>
 		<rom name="ginga eiyuu densetsu iii sp (japan) (Track 01).bin" size="11830560" crc="c48bb3ab" md5="85cca9444cb5c0284544b0561b80d3b5" sha1="afb6dd9762aa849f13393f0f488a61198b71bf7b"/>
+	</game>
+	<game name="gingaod1\nhk special - ginga uchuu odyssey vol. 1 - tabidachi waga taiyoukei (japan)" sha1="2ad9c3d04431f5af133303113e0518bd2f5d2552" size="182603682" crc="2fe0966f" fullsha1="93f1ba6fe8419f7d7a45fe94776c39def396dfd9" dataSha1="a94658afc1737b4ea2f8b6c204607ecb798b5898">
+		<category>Games</category>
+		<description>gingaod1\nhk special - ginga uchuu odyssey vol. 1 - tabidachi waga taiyoukei (japan)</description>
+		<rom name="nhk special - ginga uchuu odyssey vol. 1 - tabidachi waga taiyoukei (japan) (Track 01).bin" size="104958000" crc="406c1014" md5="bd14d2fcba2f51501943bda8c815016f" sha1="c59792722f910b107dc71586de4035c58e627a7f"/>
+		<rom name="nhk special - ginga uchuu odyssey vol. 1 - tabidachi waga taiyoukei (japan) (Track 02).bin" size="407484000" crc="7eccede9" md5="581132ccf6ab237507418342b31d7468" sha1="db103fef8a2709bccb6c887c55c4d5d3e4a3f865"/>
 	</game>
 	<game name="gingaod2\nhk special - ginga uchuu odyssey vol. 2 - choushinsei bakuhatsu (japan)" sha1="d5f6d89d3e299d65615b118abb500f2ae1cbb37b" size="212129139" crc="6735a8c1" fullsha1="d59248d8aea3611c11bf1be77ecb445f96425617" dataSha1="ca5ec2f81fa7f57eed5e2a36fba033ab007c44af">
 		<category>Games</category>
@@ -5372,6 +5425,11 @@
 		<category>Games</category>
 		<description>hoshisun\hoshi no suna monogatari (japan)</description>
 		<rom name="hoshi no suna monogatari (japan) (Track 01).bin" size="20815200" crc="51b4e369" md5="c2a2ff5e4d89b5d0469af6414b5a7583" sha1="7c8848e59c813d8b4a47b884a468130026e5b680"/>
+	</game>
+	<game name="hstudio\homestudio v1.1 l10 (japan)" sha1="fd966660628a24066e4b0c608ee7a9b726095841" size="8839808" crc="078da71b" fullsha1="338e4a26aaae5fc330a2e90efda23cfe1fd0ab53" dataSha1="665368226ef08a5e20f27f3a259466a8433a89e4">
+		<category>Games</category>
+		<description>hstudio\homestudio v1.1 l10 (japan)</description>
+		<rom name="homestudio v1.1 l10 (japan) (Track 01).bin" size="41983200" crc="4836df39" md5="bf8c838db67cce6bd580d058251a7149" sha1="1ff6e17b1dd6b1391f60fb4707bb626db4a8b001"/>
 	</game>
 	<game name="hstudio\homestudio v1.2l10 (japan)" sha1="5d0c18bab0736ccb7adabbc0e254178a34fcef11" size="12776018" crc="e31a9e0f" fullsha1="2248f1e971cd4f96f40b57cd6659af2fe64d531d" dataSha1="7b54f76a771b52ee34e33b2fb8b03f3285184001">
 		<category>Games</category>
@@ -7999,6 +8057,17 @@
 		<rom name="taiken shiyou marty channel (japan) (Track 11).bin" size="33339600" crc="4708305e" md5="25364f25ee8c486a02e2bfa1e819c959" sha1="51f2c748119371fcd881bb5f5f40df46f08bcc9d"/>
 		<rom name="taiken shiyou marty channel (japan) (Track 12).bin" size="2822400" crc="914895af" md5="778c2f88c09c891ccd468bd9b73230e5" sha1="dbc172e071c1a07832f32ccf631b48732b55f788"/>
 	</game>
+	<game name="martydemo\fm towns marty tentou auto demo '93 natsu (japan)" sha1="6eb2b045f034ad1dde360bcc9a5f037b63c86dd8" size="19775992" crc="a81cae79" fullsha1="0088a64464bf16103ad42cd6729828591bd84306" dataSha1="139f0d294399ebc3a5d50d530d4c24d98d6a07a7">
+		<category>Games</category>
+		<description>martydemo\fm towns marty tentou auto demo '93 natsu (japan)</description>
+		<rom name="fm towns marty tentou auto demo '93 natsu (japan) (Track 01).bin" size="36227856" crc="03695aab" md5="50b60f8ab0f289ef046a6657c75ac3b1" sha1="8c0ad554deeb2164db5d7865d5a69cfc9dbed799"/>
+		<rom name="fm towns marty tentou auto demo '93 natsu (japan) (Track 02).bin" size="1674624" crc="41707720" md5="ee7e197b2f7efcd457662589cf5f8651" sha1="ebce5abab94017a8cadc0895a1ff6e63177c6bdc"/>
+		<rom name="fm towns marty tentou auto demo '93 natsu (japan) (Track 03).bin" size="2022720" crc="41f5714c" md5="03ea3fb00136aa6fc95efb24f76cb4b2" sha1="815105b8dc8bef106b70a8fb131750ea98bcbed7"/>
+		<rom name="fm towns marty tentou auto demo '93 natsu (japan) (Track 04).bin" size="2018016" crc="686c8368" md5="57f3b00b93c1c416c62c1973da157e09" sha1="4ab2cd93447f0dd8d71622f4e9ab1d8ef91810b7"/>
+		<rom name="fm towns marty tentou auto demo '93 natsu (japan) (Track 05).bin" size="2168544" crc="d99a2a3d" md5="b8240332fb16ba0b610dba785ee5e6df" sha1="a3be4828b491f1443dc304359a912edfb0cc5786"/>
+		<rom name="fm towns marty tentou auto demo '93 natsu (japan) (Track 06).bin" size="5503680" crc="2ef9e988" md5="25f378eff9ee3d7130c6c276067c2097" sha1="c2636fbd120fe9b40ded9f02417ea25e31710b5d"/>
+		<rom name="fm towns marty tentou auto demo '93 natsu (japan) (Track 07).bin" size="7808640" crc="8ed24187" md5="c9a5dce3a09cf85e0134259f9479759d" sha1="cb10463072c786bb5157bd25cb53d8e07a7451ea"/>
+	</game>
 	<game name="marueic1\maruanki eitango - chuugaku 1-nensei (japan) (rev a)" sha1="0ba409cafd84199d261c5fab805a97615d2ee32c" size="148285075" crc="51ae2533" fullsha1="cc6df07e7e1dd1c589ac4c9be48462437bf50954" dataSha1="5f23a6b65e1b08a7e2455291ec0f94d5983da850">
 		<category>Games</category>
 		<description>marueic1\maruanki eitango - chuugaku 1-nensei (japan) (rev a)</description>
@@ -8228,6 +8297,35 @@
 		<rom name="microcosm (japan) (rev a) (Track 07).bin" size="21344400" crc="39f5000d" md5="06f6bcaee361ee0fc1e2069113f429aa" sha1="b325cbf35a4836f10611263789ae5bd15ce3f3a5"/>
 		<rom name="microcosm (japan) (rev a) (Track 08).bin" size="22050000" crc="dbc0604c" md5="9d9b6f81ed45a410c54f3963461e4966" sha1="f90f56e8a85dd30a2a9187454663c743c1977b54"/>
 		<rom name="microcosm (japan) (rev a) (Track 09).bin" size="23990400" crc="6f79fe5f" md5="d744b2328fd8b8d4b935d207e6e7c284" sha1="b3a5eb09a24385c1ab26869b635aff7f8f9db2fe"/>
+	</game>
+	<game name="medicco\medicco to asobou - kazu katachi ryou (japan)" sha1="1764472f9fd3f18e4907ddf4c1daedb05e4e83ba" size="134952065" crc="147a3942" fullsha1="5ddfa986849fdc457e147c7f88d85f79299e271a" dataSha1="c9b2bffe48a6bdc18a3b2b8e8c7257e56324a0f1">
+		<category>Games</category>
+		<description>medicco\medicco to asobou - kazu katachi ryou (japan)</description>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 01).bin" size="20817552" crc="6384e3cb" md5="32b1988ac1c4a1137eee784b37ccc185" sha1="0ff7f862ee234501488f0afef447f70f8ebe1cb0"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 02).bin" size="8464848" crc="c1bc3474" md5="788e7913c2200963da2168ba94dfaeac" sha1="84660ee1cf827898fb4dd22e6a705997700a6119"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 03).bin" size="16581600" crc="833ecbbe" md5="eb2c54c483aee7b25e07816c700700bb" sha1="25489f26b5db14e305549972a4c6fe3e6b291151"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 04).bin" size="12348000" crc="262436e5" md5="f8c81848c7c95726f1c449c1de4253e3" sha1="e2adf0357bfdeffa89a47b45debf5c4e505957ac"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 05).bin" size="2646000" crc="b5633f99" md5="c563c8f8b1a0934e81e2466af4bc382f" sha1="b0cd60acd9fd40be5944eaa2cdd9c9cd5561c6f0"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 06).bin" size="3528000" crc="062d29e8" md5="8175e719bef1659f72edcd8d9ba5d4c1" sha1="1010c48141e846fcc6de5402836670e8d4ea03cc"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 07).bin" size="8467200" crc="b756e62b" md5="c251ca17d3be9d08329c3b8effda2ea0" sha1="82af836e0e1fda5819a0bda93d2e6c6a3d27c532"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 08).bin" size="9172800" crc="c1671dec" md5="e9775b3cffb06208f375147c2ac4902d" sha1="245a88e5d5e93f748fe70cd8d98ec0a5e2809450"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 09).bin" size="3880800" crc="5d204ba5" md5="b6494e67997e9812dc9b8a89dac93ab3" sha1="3d7aa704268a6e6edf174af5ab3775732bbcacf5"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 10).bin" size="4233600" crc="ade29a64" md5="d832367c3ecc673cb69928310925268e" sha1="257f17728937d16e8ec60f148d81abc34577621a"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 11).bin" size="4057200" crc="6eec86c1" md5="ec3d59719f8021569afa363ec1898aa0" sha1="c5c0220e32bcefc62565a1b3afad27dfcd90fe50"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 12).bin" size="7173600" crc="a7210624" md5="4c736c12ec50f80dec1981520c12cdd7" sha1="ad7a2e887a5451acda3d1f4ba3ce33d35d0f6e98"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 13).bin" size="8937600" crc="4be3813e" md5="c1b264fe3fc048270b7c020c9dbb7344" sha1="ea3cad1c822c580f95afd6cc474e8e7f160d8b8e"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 14).bin" size="3292800" crc="3146d649" md5="6a1d8ab2c7121f5f8a565874c0762e11" sha1="5888c613239edd41db510d2faac6f3c346bb0d2b"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 15).bin" size="11642400" crc="e74a9827" md5="979298a796fd9754e90348a3345e181e" sha1="7fc7cfa54e88abe8c435cf7e2297f02900580b4c"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 16).bin" size="16758000" crc="a823a977" md5="cd3ba181b25314cf0ba0e32885c6ae4d" sha1="48973804ec1ad34e73776b851dc41a4ae3ae7d37"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 17).bin" size="18522000" crc="d70ee066" md5="189847062c91a564f5ad1ba89087784e" sha1="445bf4c93ca98b2e4874c439efae35f867efb654"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 18).bin" size="22050000" crc="f1d3c2ce" md5="6b30dba4771c0e57eef239cb97b3a03c" sha1="1af88084dfbbe568b2b84a010375223402524afd"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 19).bin" size="17992800" crc="26c25e12" md5="06a3dfd5604dbbdb4ffb2620fdc77bf7" sha1="6fc3eadd381ef3d70886ef2e7d2b46c94f2f536c"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 20).bin" size="13406400" crc="f8f79cbc" md5="3f15f2e6ef9c4dcbc83271e646d2f185" sha1="9b31029bc807627b2a859bf3d78405d76a203230"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 21).bin" size="13406400" crc="00ace9b2" md5="ace51dabb3f7ccc016c9da205b83ac97" sha1="7f5c76fd3851f399a70b14b6af15ebcb35065cf9"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 22).bin" size="21344400" crc="4be4592f" md5="3974b22920b4935497188abdab804665" sha1="9a78cfd013c1bd656df9f88301c4d4e22acd584b"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 23).bin" size="14288400" crc="7500a5e0" md5="cc4d8d5b092e8134167680f8f1a5fef0" sha1="8b672b6f9c6611abd5097ed89bc7d7f6317e6612"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 24).bin" size="22579200" crc="a7251670" md5="14caecb1f249e342d9e301c768259d70" sha1="152f0112f1c9c9c3443232d719d4a3815f1a1642"/>
+		<rom name="medicco to asobou - kazu katachi ryou (japan) (Track 25).bin" size="25754400" crc="8c1ea776" md5="2c7a81b1dd5ee6c87e01689746e55833" sha1="a7ccdcd1f799573b8282a20f429ab61149bc8b47"/>
 	</game>
 	<game name="megalo\mega lo mania (japan)" sha1="64f141ec71a791dceb26477db4f162f12c44b337" size="1763745" crc="ef34c45f" fullsha1="f5d7373adb8f6f66a6037cd8c7a7e71f3e964b26" dataSha1="d782d688b15b92f82b486c559e667a5b62b91f4f">
 		<category>Games</category>
@@ -8916,24 +9014,29 @@
 		<description>moritas2\morita shougi ii (japan)</description>
 		<rom name="morita shougi ii (japan) (Track 01).bin" size="4939200" crc="22405a0c" md5="529aec9a4a142009936d43e45af57670" sha1="4d4ee55323057d6615811efe9639c98a805e578c"/>
 	</game>
-	<game name="mparadox\mad paradox" sha1="afa0cdf51b1199d3def161b73aacaeba88861562" size="253092299" crc="9e4cfd68" fullsha1="da8146ef3fcffb9e8679b3f64bb80efc48785e80" dataSha1="f9acce467332f61bcc158d6652c5680df935c094">
+	<game name="mparadox\mad-paradox (japan)" sha1="0d3fe1cf7f82501db6462a3459f2ac3dd10f2a59" size="253122098" crc="df3f5e58" fullsha1="71f14435b9b91a85fa069c4d7343bdd603e2ee16" dataSha1="c9326f6caa5a0cda4364e31b2fa9980281d4ab00">
 		<category>Games</category>
-		<description>mparadox\mad paradox</description>
-		<rom name="mad paradox (Track 01).bin" size="10584000" crc="67a601b3" md5="b8b51ea295ad8cd85069879be7cb932a" sha1="d970cb2ce876b657817fc18eedfcf02145ce536a"/>
-		<rom name="mad paradox (Track 02).bin" size="20815200" crc="fa5736ff" md5="a3e47f8b4bfbc96246c7998567fd7a30" sha1="f400d428ad1b17d301259d5a0c211a003fe7290b"/>
-		<rom name="mad paradox (Track 03).bin" size="21697200" crc="9afe90c9" md5="6dc3f68424b33f17484ec5569363070b" sha1="216bf5df5a25de6c17ecc5b8ff652bc7a9a2c8f1"/>
-		<rom name="mad paradox (Track 04).bin" size="32986800" crc="26848baf" md5="09bd09f238a9659be6809c6968bd21e7" sha1="1c4a952fe3b1c76f0c44f5f49c98e0db2359b7c3"/>
-		<rom name="mad paradox (Track 05).bin" size="25930800" crc="2f8478e9" md5="9a029ce68fb1b205455d5454559ee973" sha1="4924b3accbfee6d598b4f1d0db9f4830d3594169"/>
-		<rom name="mad paradox (Track 06).bin" size="24343200" crc="6746890b" md5="109ff23caa7db29d6b613814729c4a63" sha1="c0947bffe802a80bfca4f0975c42ab90083b1c28"/>
-		<rom name="mad paradox (Track 07).bin" size="29635200" crc="5e804e48" md5="0b96e0198a1241363c614277810ec03f" sha1="0da30133d55648459a5d27e4ce600a28bae11dae"/>
-		<rom name="mad paradox (Track 08).bin" size="32457600" crc="bbb8c999" md5="98466e4dca72f0bb4db494df767e2e96" sha1="dd3fadbb55000b3e2627827c5fd73880b4cf56b3"/>
-		<rom name="mad paradox (Track 09).bin" size="31575600" crc="b311b778" md5="32a7d4ce8b0a103bad71f133d40198f5" sha1="49eee835dd45e5645e04dad6de70c1c193dd431c"/>
-		<rom name="mad paradox (Track 10).bin" size="26107200" crc="e05ef813" md5="acb52a39280f8e96c4fb18906fdb201e" sha1="1b2318340c8f5efa424ce5fd721f96ee87360967"/>
-		<rom name="mad paradox (Track 11).bin" size="19051200" crc="07acc761" md5="3db840d00c8db3b8cf457b9341430ec5" sha1="a9e69b7f140d686789ab2f535b97a80056e3331e"/>
-		<rom name="mad paradox (Track 12).bin" size="34398000" crc="12017e0e" md5="2706146cd40e4ec042a850e413e0f6ba" sha1="d755d017211e2cdf843b0aa6dc4c01b069722c64"/>
-		<rom name="mad paradox (Track 13).bin" size="46040400" crc="e60a9397" md5="23e6a431bb7843eb29a4795622b4bbef" sha1="5aac06eea2ee79709a04b0e6c1b4428c2c3c6afb"/>
-		<rom name="mad paradox (Track 14).bin" size="38808000" crc="0f6575fa" md5="d70d7f88a4d5fab4cf19652285252a10" sha1="bcdbb5be53e841b9fa2192a670a7f8067ed98057"/>
-		<rom name="mad paradox (Track 15).bin" size="38455200" crc="f997bdc2" md5="b4836a4bda63262c28ed9e045df4a6b8" sha1="1c37aced354c1c23fe59d989f69558c29b175e8a"/>
+		<description>mparadox\mad-paradox (japan)</description>
+		<rom name="mad-paradox (japan) (Track 01).bin" size="10231200" crc="2447c4ad" md5="053be83cf26db1c57b4934b1ca47f04d" sha1="9af243d162319b3bdc024687d13fe90777a1160d"/>
+		<rom name="mad-paradox (japan) (Track 02).bin" size="20991600" crc="3db6f1da" md5="0a449fb7f4b583ec09339ca357e6b4bd" sha1="6e69310f5c49068001f44641a488c50809bd1611"/>
+		<rom name="mad-paradox (japan) (Track 03).bin" size="21697200" crc="eaf3d7fa" md5="aa548c40cba096c331e8ef3c20a4659f" sha1="17c778ec6fa2daeea98aea900dad046be7766cc1"/>
+		<rom name="mad-paradox (japan) (Track 04).bin" size="32986800" crc="047f148b" md5="cf35f5e08da230717131819edd26fb20" sha1="41313ceb4f473584f2b5df5e07079b60db44ae3f"/>
+		<rom name="mad-paradox (japan) (Track 05).bin" size="25930800" crc="d7d2257a" md5="28be98c6aa8ed05d68beca1e9f7cefd7" sha1="c1fda4e237f7d6597a9335ebdb235ace1ec696cd"/>
+		<rom name="mad-paradox (japan) (Track 06).bin" size="24343200" crc="d89ba44f" md5="b04c9638750d7ebbba95401ac41f46d3" sha1="dc06302886a4180dc6d0764417278df115e20245"/>
+		<rom name="mad-paradox (japan) (Track 07).bin" size="29635200" crc="66325ac4" md5="2d1b5ae6a696ba91b0b0115b071f1ab9" sha1="a2b5d6b5a5399d1d593aeaff3e893bd89914215f"/>
+		<rom name="mad-paradox (japan) (Track 08).bin" size="32457600" crc="5b059dc3" md5="5577ba2d9b867f76e2eef13b4afb04c1" sha1="496114ba158f14a84712224ff3ab31548dd8ea62"/>
+		<rom name="mad-paradox (japan) (Track 09).bin" size="31575600" crc="41f0e035" md5="72340ccf02594a3a6b68b48cb4ab75f8" sha1="ca731d4c7897c5a2d1c6dc4298f66289813c3ced"/>
+		<rom name="mad-paradox (japan) (Track 10).bin" size="26107200" crc="4616f292" md5="ef7a334ab427731e9b18a33851819d9a" sha1="80b977b1c93d4e2f84c357786c7d5592909efa9a"/>
+		<rom name="mad-paradox (japan) (Track 11).bin" size="19051200" crc="74637eb8" md5="63d775e5637a9c575ead387610a8e606" sha1="b61c5ab1f90773e8be2adea71f1a1efa3e7b8323"/>
+		<rom name="mad-paradox (japan) (Track 12).bin" size="34398000" crc="ac7fdbbe" md5="4ce395da85559f1113951e0813b31726" sha1="5f396cdacb0bfa04ce9fce918ac7f6568db2005e"/>
+		<rom name="mad-paradox (japan) (Track 13).bin" size="46040400" crc="a395cd23" md5="b7bad720a1c0ca8fbd9c5822d60a028b" sha1="b9ec544343edb3419fae1c489aadca777854ffd9"/>
+		<rom name="mad-paradox (japan) (Track 14).bin" size="38808000" crc="49437506" md5="ab5974f81160f38652174d829cb008a7" sha1="d3aa1f26d0786379a6d4063cf2d8a9f20fa11b8e"/>
+		<rom name="mad-paradox (japan) (Track 15).bin" size="38631600" crc="9c1ab721" md5="9931433dca6fb926bf8a0c0e2eabb57b" sha1="4175603e77030aed19a7f5c48371edd55db45db4"/>
+	</game>
+	<game name="mplanet\monster planet 2255 (japan)" sha1="2f43b254bb8cebdbfe951063eaf1f871144efc0a" size="3714012" crc="1692786f" fullsha1="51373149edb963869f40d65c5a80235caf8b170a" dataSha1="ba60d20771c047b772fdc2f16487abfd02709f37">
+		<category>Games</category>
+		<description>mplanet\monster planet 2255 (japan)</description>
+		<rom name="monster planet 2255 (japan) (Track 01).bin" size="105487200" crc="3135652f" md5="286d87d4a615e09a8a9825d8e43725ef" sha1="e4022b0e94c48ccfa23afbe591b5bf255b82cd31"/>
 	</game>
 	<game name="msdet1\ms. detective file 1 - iwami ginzan satsujin jiken (japan) (disc 1)" sha1="e8aec51b22fc47bc9798b61aca6c3ad8c96cf565" size="188872252" crc="ca94b2f2" fullsha1="03832ac67feccbffbcbff33728aa654065fbb549" dataSha1="932944d275c98539189f159ca4c9f093d60e301d">
 		<category>Games</category>
@@ -11288,6 +11391,11 @@
 		<rom name="toudou ryuunosuke tantei nikki - ougon no rashinban - shouyoumaru san francisco kouro satsujin jiken (japan) (Track 21).bin" size="7549920" crc="fe6ed6ce" md5="6443da490009e6cd9a938ee140065946" sha1="bd274960d0e8161114e9b8a1db9826e9edf07e2a"/>
 		<rom name="toudou ryuunosuke tantei nikki - ougon no rashinban - shouyoumaru san francisco kouro satsujin jiken (japan) (Track 22).bin" size="24030384" crc="90804a71" md5="eaff6d3566fdeecf3dc17b0a753708f3" sha1="9d45a1599ad0f2968c32013886fdfa30545d0e5a"/>
 	</game>
+	<game name="pack13k\pack 13000 free soft &amp; shareware (japan) (disc 4)" sha1="6f721397179db88556249a2da02f6ed047ac6a06" size="478598345" crc="27af41db" fullsha1="8dfb747d1b6f22fe779507c493c07ad3846f4e26" dataSha1="4bcab29c70c2e879125fc491a5670126ee6e11ec">
+		<category>Games</category>
+		<description>pack13k\pack 13000 free soft &amp; shareware (japan) (disc 4)</description>
+		<rom name="pack 13000 free soft &amp; shareware (japan) (disc 4) (Track 01).bin" size="680200752" crc="3f6f315b" md5="ea49ead5407583006f434deaf0f312ab" sha1="4141ad74052022cbacf899133695747a4adb6d5e"/>
+	</game>
 	<game name="paipai\moeru asoko no paipai yuugi - fukkatsu mahjong oukoku (japan)" sha1="6d82209f5e0b2ec85c759c529c8b8871cab66c76" size="271633113" crc="423d7071" fullsha1="8bad4fec2ff8330c76dd48a8af276477b59075cb" dataSha1="7dd0abdb8b4a5f8d8fb6e5942c2cdba5e85db2bc">
 		<category>Games</category>
 		<description>paipai\moeru asoko no paipai yuugi - fukkatsu mahjong oukoku (japan)</description>
@@ -11677,12 +11785,12 @@
 		<rom name="pro student g (japan) (rerelease) (Track 20).bin" size="8996400" crc="3bc95efd" md5="d037da8d40c0fad81762d86eb10fc860" sha1="cbe9f1be6fd040c05b8837af4beaf2f201a34ba5"/>
 		<rom name="pro student g (japan) (rerelease) (Track 21).bin" size="9878400" crc="cbd9495f" md5="f0fd01e8fa6e9f93ba4058a98e620db0" sha1="916d94dfe84edc954d6a1a6b40051ba534bef120"/>
 	</game>
-	<game name="provvdnz\provvidenza" sha1="c8bd1cc5034fdc5c2e72053e87e00bcdb99d6f15" size="23770166" crc="eaeca08f" fullsha1="a104b48ade5fbe34b324f0c7f3a3fa0de7b482fc" dataSha1="aac54dcb5841bbb82e26b7fe19c69e4b9e2704c6">
+	<game name="provvdnz\provvidenza (japan)" sha1="a2f2b677e2f8077d1830786f36cd347a6399334b" size="23765981" crc="b864c055" fullsha1="b6dfc03cdf118e01bb33e43c5344c2f8294a106b" dataSha1="7dcbe11e1e77278f20bea0d63fde870e45c3c67d">
 		<category>Games</category>
-		<description>provvdnz\provvidenza</description>
-		<rom name="provvidenza (Track 01).bin" size="20902224" crc="6a03a148" md5="6144e5abbded439b14ea233f5ca17d27" sha1="37016b7c929e4840d9fecaa6f1b6b22a3f1e5b0e"/>
-		<rom name="provvidenza (Track 02).bin" size="22125264" crc="f92e24dc" md5="2ff2dbff157b2cdf12bd4a2dce51ff67" sha1="111c20f85d1aa6705d8c6b86b0683c4af7ed2b40"/>
-		<rom name="provvidenza (Track 03).bin" size="21534912" crc="d3a67779" md5="aaf3db7779fcbb56d41beaad4052b07f" sha1="cfb7e0f06c6570557c7900e70e617e5cf1e2d8bb"/>
+		<description>provvdnz\provvidenza (japan)</description>
+		<rom name="provvidenza (japan) (Track 01).bin" size="20815200" crc="dd512cf1" md5="77aae60795e146a7aeaa83b125997551" sha1="7e0071cee789e9de42b3ed6a02318af81bde9f05"/>
+		<rom name="provvidenza (japan) (Track 02).bin" size="21803040" crc="fa90ec55" md5="a11424098abd99e01e4ceccaccd36f63" sha1="fd2febd10f329802f2e53274be96175a41cc737f"/>
+		<rom name="provvidenza (japan) (Track 03).bin" size="21944160" crc="4f6aad52" md5="70ffab93fd365ba47079b694c5ebd5c0" sha1="d7014f4b7ac00c5adcfeb84a6a055b65f8e96f18"/>
 	</game>
 	<game name="prvslave\yayoi umino presents private slave (japan)" sha1="f5eb357befc23c3321d19117140113b0554cc510" size="362820327" crc="ce3b9d6a" fullsha1="6cf0659a07836231ad4652bd2fcbcb1425a6b718" dataSha1="b0e290ab9f925755e7e48ea12bb0fc9460d05ff8">
 		<category>Games</category>
@@ -11762,6 +11870,19 @@
 		<rom name="psychic detective series vol. 2 - memories (japan) (demo) (Track 16).bin" size="54295920" crc="56b59927" md5="c96f611c052f09eb18c9422e53e1a851" sha1="6231347976335ddd6d61b898acd9ee9c1862157e"/>
 		<rom name="psychic detective series vol. 2 - memories (japan) (demo) (Track 17).bin" size="6550320" crc="e3bdf902" md5="90694ed2e8171088e82ff17a245ae747" sha1="54dc453b2e539caf9fa1e69acf3b04b206e3754e"/>
 		<rom name="psychic detective series vol. 2 - memories (japan) (demo) (Track 18).bin" size="4233600" crc="4580866a" md5="33c14305c3e0b28b0d18613feeaeb3f7" sha1="aaefaba5020efb03452df764e2897d0f278e3151"/>
+	</game>
+	<game name="psydet2r\psychic detective series vol. 2 - memories (japan) (dccs)" sha1="46af188a8cbf4f63c50895619cb57f331e4c2f82" size="191732930" crc="e52fc6bf" fullsha1="3275b87415f0e72ce72a248ef3a9b0a3aaefdd1a" dataSha1="737ec31dab01803964a052407aebf725fffe9fe3">
+		<category>Games</category>
+		<description>psydet2r\psychic detective series vol. 2 - memories (japan) (dccs)</description>
+		<rom name="psychic detective series vol. 2 - memories (japan) (dccs) (Track 01).bin" size="154408800" crc="06cc6b63" md5="1232b6f9683e9d142580348ca632e1ec" sha1="3fd6918ce160c2d71ad6f0c3b12cd2bbafdd2ae0"/>
+		<rom name="psychic detective series vol. 2 - memories (japan) (dccs) (Track 02).bin" size="59606736" crc="bf88d997" md5="421ebb432572d1a82c5c0f901d05645f" sha1="95ced84ebb70039c1d60cb0dcde5bcb21452dc72"/>
+		<rom name="psychic detective series vol. 2 - memories (japan) (dccs) (Track 03).bin" size="17957520" crc="edb6daec" md5="d0b8e7a3f9ddf566554e7fc927bbefa9" sha1="caa2aaef7e75387af788d99a98843a33c4d0e78e"/>
+		<rom name="psychic detective series vol. 2 - memories (japan) (dccs) (Track 04).bin" size="20777568" crc="5d495539" md5="8d743ff8332acdad5bf692c6196c3cad" sha1="664c50d425c896628ee0f11794c42b8ffef6b7d9"/>
+		<rom name="psychic detective series vol. 2 - memories (japan) (dccs) (Track 05).bin" size="11400144" crc="9c01fed1" md5="095616ff0937b234383a750a378a498f" sha1="be51217750f6e8b0740e6c2b2fce808bab9a8d7a"/>
+		<rom name="psychic detective series vol. 2 - memories (japan) (dccs) (Track 06).bin" size="14387184" crc="c452db38" md5="fc0c45b75606673f6392e3fc10a79a9c" sha1="c37f7a5cd86d8ec4277ccc7642c5821990600799"/>
+		<rom name="psychic detective series vol. 2 - memories (japan) (dccs) (Track 07).bin" size="12733728" crc="7c71e12f" md5="c9240db0c7bb192faddb0d1a02d1b71b" sha1="a9643b99815a482c5ceab0a86212ac0a1746a79b"/>
+		<rom name="psychic detective series vol. 2 - memories (japan) (dccs) (Track 08).bin" size="15306816" crc="955da58b" md5="aecc725d3d73739aa3e6af713c1ce6ff" sha1="7529962c13bde82640df4e10098092f795d254ac"/>
+		<rom name="psychic detective series vol. 2 - memories (japan) (dccs) (Track 09).bin" size="49850640" crc="a97077a9" md5="3214b2bbe272bb5f29a7f45d4777b0ef" sha1="a6a5876182bd52b6c571a84486557a7e1501e2f9"/>
 	</game>
 	<game name="psydet3\psychic detective series vol. 3 - aya (japan)" sha1="a20ddee517cb748f70512eb938d9bbe74b34d3c5" size="147668727" crc="5cec7258" fullsha1="6ea38cb8467c53eae8bef0382d974a58d514fac3" dataSha1="b5b6752766779074fe83f4fcb63a3450877887c2">
 		<category>Games</category>
@@ -15351,6 +15472,46 @@
 		<rom name="xenon - mugen no shitai (japan) (Track 01).bin" size="222828480" crc="328985ab" md5="68cf6b8fd1ee657027f944713754ed20" sha1="deec6b0b6a2b88c272af44e3e56997aa594778ad"/>
 		<rom name="xenon - mugen no shitai (japan) (Track 02).bin" size="62483232" crc="9cfce024" md5="91437873f169ae864a507f61aff48d04" sha1="188386a84ed4df0b4aee592b66340af170a4f05d"/>
 		<rom name="xenon - mugen no shitai (japan) (Track 03).bin" size="41625696" crc="3c876a34" md5="3498d37417fd8cb6f9d0f3bd1b68d854" sha1="6b4930389820c1cb45999fe85466540240c31fad"/>
+	</game>
+	<game name="yachtman\yacht man, the (japan)" sha1="af42a5740d74873113614592036847a0af437756" size="133216537" crc="3e8a37a0" fullsha1="c70e8267ad28617595616182a0ca6d7d8bc02242" dataSha1="3d09d84e569274626a214eea4d093ba230ad0d6b">
+		<category>Games</category>
+		<description>yachtman\yacht man, the (japan)</description>
+		<rom name="yacht man, the (japan) (Track 01).bin" size="10231200" crc="f0502459" md5="b91930c89b7b0549a281fd25e2b3e7db" sha1="9461aaa0422ce1e1e7268aa240a964c5188408b7"/>
+		<rom name="yacht man, the (japan) (Track 02).bin" size="1411200" crc="2c942711" md5="731fc27fee7031a517a4c859df07ffa4" sha1="fb69c7d459c1aa42c8cd0899a49417557f20aaaf"/>
+		<rom name="yacht man, the (japan) (Track 03).bin" size="1587600" crc="f6c8d28c" md5="48cca7ebe880b1cc88b74fc2d952c394" sha1="04d6a37fde37208e2a8a17a3a3a467dea8653f71"/>
+		<rom name="yacht man, the (japan) (Track 04).bin" size="2116800" crc="ecdc1ffa" md5="6e8327638a710e37a324d303e0632eed" sha1="b5b044720623179873a94a0c98c232c390beefa7"/>
+		<rom name="yacht man, the (japan) (Track 05).bin" size="2293200" crc="7e88b46f" md5="84919e5f08e5c8de33a6f81603eb9e32" sha1="dfe94ad26a122f159a52aac5e4d46860fe9999aa"/>
+		<rom name="yacht man, the (japan) (Track 06).bin" size="1940400" crc="16142d67" md5="aa6ac6457fdae54de8957440d3249b51" sha1="207cbab25cfcbb030008607605315db332dced5f"/>
+		<rom name="yacht man, the (japan) (Track 07).bin" size="2293200" crc="a5100db3" md5="c1d48bdbbc7248194dbdc9651d44d230" sha1="27822d047933d7fccdb817b8571ddc170ce5c3b7"/>
+		<rom name="yacht man, the (japan) (Track 08).bin" size="2293200" crc="a648fbf0" md5="225e32f8ff8518a5852c0f19cabf4827" sha1="a2c3e028d148043a37078d428065e0c4d4859c07"/>
+		<rom name="yacht man, the (japan) (Track 09).bin" size="2116800" crc="4e17daa7" md5="795e8cbbcea56045cf2b9f648bce35ee" sha1="88d0395d4e63eed2e73ba64691100859553c4754"/>
+		<rom name="yacht man, the (japan) (Track 10).bin" size="2822400" crc="09747c77" md5="91d0f37f6896942ecad9225cfc4fe15d" sha1="f21613cd868132ba2cfcb651d3d2bb00975c94a1"/>
+		<rom name="yacht man, the (japan) (Track 11).bin" size="2116800" crc="8ee23daf" md5="7fa78d4b53b57ccfcd18e7266142632d" sha1="6f63699c3d97d7232b64965863de9aa910c20831"/>
+		<rom name="yacht man, the (japan) (Track 12).bin" size="1587600" crc="62932679" md5="84826e4b17961938bdac6a8ce2735f51" sha1="c35b60bef0750bedfa39879baff405b47c6939f8"/>
+		<rom name="yacht man, the (japan) (Track 13).bin" size="1058400" crc="4237c39d" md5="2865a0696b7440286726f1076ca047f1" sha1="fa9f303a8c9fe389f1b86fee74d318b863de7a9d"/>
+		<rom name="yacht man, the (japan) (Track 14).bin" size="2646000" crc="02916ab5" md5="b8bba22a1b14c8973466a1d62b127b25" sha1="fa602954f2a1c3a9fdfc772d6d488f0562710478"/>
+		<rom name="yacht man, the (japan) (Track 15).bin" size="1940400" crc="6db6be59" md5="24f335ff93b7ff375e2cffda4714f66c" sha1="a7091675552bd793b688a8d8c584d3be088ef77e"/>
+		<rom name="yacht man, the (japan) (Track 16).bin" size="1587600" crc="b2c78d13" md5="b8c92bdc220d48af14a27ed4688f739a" sha1="a175405cc86c8f89b37c04ae69eacb0c96cbe1bf"/>
+		<rom name="yacht man, the (japan) (Track 17).bin" size="2469600" crc="84deb4de" md5="b02f5ba871401a42b5645f9037858791" sha1="c9cbb178ede6ef7a1d97d0d4a57f8f31e5154cbd"/>
+		<rom name="yacht man, the (japan) (Track 18).bin" size="1587600" crc="ca9dad41" md5="9c63b1ef9ee3d1bccd10776ef6c7404e" sha1="8f5949b022b3c2a2a6c4d51272922e16ce1a9ac6"/>
+		<rom name="yacht man, the (japan) (Track 19).bin" size="1764000" crc="a2a4a5e8" md5="69bc93b5118c68b5603677d4781067a2" sha1="b2b4f42b3575ee9db580056075bc8f8ac5b761fa"/>
+		<rom name="yacht man, the (japan) (Track 20).bin" size="1587600" crc="ca093c7b" md5="89496a118cfd9e96eae7645feb0f276b" sha1="f440f14be8be483f7c9cab3d37b621e92fc462a7"/>
+		<rom name="yacht man, the (japan) (Track 21).bin" size="2822400" crc="b4b1cb25" md5="42d1b3773674b766e241eef47b10965b" sha1="47aacd088a06c272c855387b1a72a3ef571e419c"/>
+		<rom name="yacht man, the (japan) (Track 22).bin" size="1940400" crc="cb22b1a7" md5="c3ec3d2b23acf5b15912bbbcf5831909" sha1="3428d7ac3073d45a6011c693f8760f2948ab749c"/>
+		<rom name="yacht man, the (japan) (Track 23).bin" size="1764000" crc="7d53a1ca" md5="43596e1947046db1acd0056320575ece" sha1="13cbc85fce9b030df82d0cf48501d469e80067f3"/>
+		<rom name="yacht man, the (japan) (Track 24).bin" size="9349200" crc="f49058d6" md5="3bf73caca71f514f44f90229b4bdae73" sha1="6c4a40c9fb3ee93aaab539a0dddc45f9c15890cc"/>
+		<rom name="yacht man, the (japan) (Track 25).bin" size="10231200" crc="2f0ff433" md5="ea05f42de70a759d13cc6e3c3dec2e3e" sha1="316089bfaf756df30709b2a5c2614f69fa2107c0"/>
+		<rom name="yacht man, the (japan) (Track 26).bin" size="4586400" crc="5ff5ed78" md5="d33e396942fac25e0e83cb6994933f95" sha1="9e5770bc31c505eba3d2e983a3baa2e7265eb33e"/>
+		<rom name="yacht man, the (japan) (Track 27).bin" size="29635200" crc="e158fba3" md5="4127388766c548b58653690eb36231ff" sha1="913a98452168ffb61924e49bdd53d9218a37cd65"/>
+		<rom name="yacht man, the (japan) (Track 28).bin" size="7056000" crc="6090e6d7" md5="f085a28bcd073ddb3818b4066027c02a" sha1="92483580f104880299121e57f5a325eb05de9800"/>
+		<rom name="yacht man, the (japan) (Track 29).bin" size="15699600" crc="a917e093" md5="be2f5ce4a87154453e6d52a01116c1c0" sha1="a6cfa339e09e8dd6719ec313ced697d359b24c98"/>
+		<rom name="yacht man, the (japan) (Track 30).bin" size="24519600" crc="4a7f35b8" md5="cdde1895757628162aed34b21bc6ef1c" sha1="023b3a7633bd8bb763f9fcbe264c223887ca713f"/>
+		<rom name="yacht man, the (japan) (Track 31).bin" size="31222800" crc="8740bf2a" md5="d4857cb2e5968319731b2ab48fb1a59b" sha1="728ab1bd66eb0c4e73bae026e0af3615a6ac0ab4"/>
+		<rom name="yacht man, the (japan) (Track 32).bin" size="21697200" crc="c5f62cb9" md5="e7e81c3adfd5ced06d7dc05ef5afbd32" sha1="94dbd081f716734a58e922588d9405c5a2019889"/>
+		<rom name="yacht man, the (japan) (Track 33).bin" size="24343200" crc="6e96fe00" md5="21853ce5060b1d37923d3fa9ce506caa" sha1="c42e5e9e72da514ee6f738375a06bbf7e4a99b35"/>
+		<rom name="yacht man, the (japan) (Track 34).bin" size="20109600" crc="791b0ec6" md5="33d077cba50442098b9cbce62ce404a2" sha1="69b44b2b14dd9aca4d8804c0a3397fd35165e0db"/>
+		<rom name="yacht man, the (japan) (Track 35).bin" size="13582800" crc="bd1828bc" md5="bcd7bbbb5678a2a6c458c37a282c01be" sha1="d03f4533d385f8c87b8de83f56fa877154eaf73f"/>
+		<rom name="yacht man, the (japan) (Track 36).bin" size="4233600" crc="4580866a" md5="33c14305c3e0b28b0d18613feeaeb3f7" sha1="aaefaba5020efb03452df764e2897d0f278e3151"/>
 	</game>
 	<game name="yamachiz\persocom de tanoshimu - yama to chizu vol. 1 (japan)" sha1="533a26a2ac0501f7d4a1000066fa5cd185695b6f" size="193188888" crc="4863ca54" fullsha1="82f96c44f6fd81d141cfa511bf501bb8bbc84006" dataSha1="c4c5e0425f207c4499b397c98fed9fb2ab2096ac">
 		<category>Games</category>
