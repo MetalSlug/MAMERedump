@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+  <header>
+    <name>MAME Redump - Arcade - Namco - System 246 CHD</name>
+    <description>MAME Redump - Arcade - Namco - System 246 - Discs (9) (2023-04-11 17-33-16)</description>
+    <version>0.257</version>
+    <date>2023-08-18</date>
+    <author>MAME Redump</author>
+    <url>https://github.com/MetalSlug/MAMERedump</url>
+  </header>
+  <game name="MAME Redump - Arcade - Namco - System 246 CHD">
+    <description>MAME Redump - Arcade - Namco - System 246 - Discs (9) (2023-04-11 17-33-16)</description>
+    <rom name="Kidou Senshi Gundam - Gundam vs. Gundam (Japan) (NS256).chd" size="881714737" crc="0A59E5BE" sha1="A99660EF82C0B6211C1691A5061B46DF07FBB8BB" />
+    <rom name="Kidou Senshi Gundam Seed - Rengou vs. Z.A.F.T. (Japan).chd" size="562406149" crc="7274DCB4" sha1="FE1B63E09D2825A6006308AC7FC777667136086F" />
+    <rom name="Kidou Senshi Gundam Seed Destiny - Rengou vs. Z.A.F.T. II (Japan).chd" size="686398978" crc="FC5110E7" sha1="702BCC3F4E5D971B9FC4CE5764EA782F59224923" />
+    <rom name="Kidou Senshi Z Gundam - AEUG vs. Titans (Japan).chd" size="501650969" crc="D9D6675E" sha1="2E05CB12946A104A04FFA01F11CFF88CE2584639" />
+    <rom name="Kidou Senshi Z Gundam - AEUG vs. Titans DX (Japan).chd" size="725140391" crc="21A14998" sha1="0AF619241AB43327CF1D87383485A951B025CA2A" />
+    <rom name="Kinnikuman - Muscle Grand Prix 2 (Japan) (NS256).chd" size="869963106" crc="30D8D0FB" sha1="83FB4D0913B3FB91532AB2002BD7CB3730B3DE22" />
+    <rom name="Ridge Racer V - Arcade Battle (Japan) (Rev A).chd" size="187341034" crc="9DF0A482" sha1="2AA07F825DB0D02385AF2A182B4CDAC1A23E8931" />
+    <rom name="Soulcalibur II (Japan) (Rev D).chd" size="2531592573" crc="C2FD12FF" sha1="5EC5A8EB68A624E27B284F6EE0A12197C8A8AFD7" />
+    <rom name="Tekken 4 (Japan).chd" size="1584268697" crc="456D1EF4" sha1="107B9743BD812EDB7F7D68197EFEF6C88D742385" />
+  </game>
+</datafile>

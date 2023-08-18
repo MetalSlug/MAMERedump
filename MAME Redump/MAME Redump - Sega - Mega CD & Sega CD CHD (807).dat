@@ -1,0 +1,822 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+  <header>
+    <name>MAME Redump - Sega - Mega CD &amp; Sega CD CHD</name>
+    <description>MAME Redump - Sega - Mega CD &amp; Sega CD - Discs (542) (2023-07-22 03-27-17)</description>
+    <version>0.257</version>
+    <date>2023-08-18</date>
+    <author>MAME Redump</author>
+    <url>https://github.com/MetalSlug/MAMERedump</url>
+  </header>
+  <game name="MAME Redump - Sega - Mega CD &amp; Sega CD CHD">
+    <description>MAME Redump - Sega - Mega CD &amp; Sega CD - Discs (542) (2023-07-22 03-27-17)</description>
+    <rom name="3 Ninjas Kick Back (USA).chd" size="177334887" crc="B5F3F170" sha1="88D73FADD4BAE39D4FC5FAF05F2AC2C04EDA3830" />
+    <rom name="Adventures of Batman and Robin, The (Europe).chd" size="202510545" crc="EF51E3CE" sha1="7070059B35EE6B8744AD56D6F8C8D2A1E4F23336" />
+    <rom name="Adventures of Batman and Robin, The (USA).chd" size="206354116" crc="96368E6A" sha1="26280C83529293DD6DFD0449778CB131B3028E26" />
+    <rom name="Adventures of Willy Beamish, The (USA).chd" size="120893683" crc="EDCBECD6" sha1="7201373CAB5E9B78398F3501FC8B62F7D5549AF8" />
+    <rom name="Adventures of Willy Beamish, The (USA) (Alt).chd" size="120887257" crc="47C14F2E" sha1="A61C5B81CA77A0EE52BDE0EFFC7566907F426D22" />
+    <rom name="After Armageddon Gaiden - Majuu Toushouden Eclipse (Japan).chd" size="326208001" crc="B104188D" sha1="D4D5F75EAF0A3EAA3CFE068125812A0DC93E739E" />
+    <rom name="After Burner III (Europe).chd" size="210674024" crc="FA4A3AE4" sha1="6F132E61E1400AEF0140AF5A3061AFCE6916D365" />
+    <rom name="After Burner III (Japan).chd" size="285823707" crc="2966E564" sha1="791FF212CB29CBCAEE219CD3C254FA76DE27C41D" />
+    <rom name="After Burner III (USA).chd" size="210638096" crc="F78DFE97" sha1="A311132F13C2A26FB2E8474D70EA9A6A67EF70BC" />
+    <rom name="AH3 - Thunderstrike (USA).chd" size="269594174" crc="13F81E2E" sha1="A8BC3BA1EA5F8815B5079C2041ACF0BC3848590C" />
+    <rom name="Aisle Lord (Japan).chd" size="136441916" crc="A87F355F" sha1="1720706F505C52152D927075D5DF368D47D888EA" />
+    <rom name="Alshark (Japan).chd" size="308243729" crc="DBC104A9" sha1="7E45BF571B43401305590EFACFEBEBEDC00450C4" />
+    <rom name="Amazing Spider-Man vs. The Kingpin, The (Europe).chd" size="310238340" crc="C0263B04" sha1="BC4C83C1E9C606CC873C49BF0A024A6611A72D54" />
+    <rom name="Amazing Spider-Man vs. The Kingpin, The (USA).chd" size="310359536" crc="724655E9" sha1="194B4ABE553B7C7E866EC9B06ACD21F0FE43D2C8" />
+    <rom name="Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1).chd" size="310410471" crc="4954E1B6" sha1="22483939DF6B29C58241A9868D0170FC88717013" />
+    <rom name="Android Assault - The Revenge of Bari-Arm (USA).chd" size="225551051" crc="EFB47AF2" sha1="4164644731D0631C58D6BAACF77145FA3E31EB48" />
+    <rom name="Annett Futatabi (Japan).chd" size="358260552" crc="208E6AF4" sha1="27A41D124186653AA70327DE0D1F1BBE2E0133E4" />
+    <rom name="Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).chd" size="299674599" crc="FB7519CD" sha1="E8DCFA9C40A286AE9D5C07C033D6DDA5F38D0F1C" />
+    <rom name="A-Rank Thunder - Tanjou-hen (Japan).chd" size="228723272" crc="135BE6BA" sha1="615BF41BB410CB2F0FB4ED42F08266543FAC93A3" />
+    <rom name="Arcus I, II, III (Japan).chd" size="261515186" crc="A49C375D" sha1="E3F365570BEFB49B7117ACB99BDD91A750B5302E" />
+    <rom name="Arslan Senki (Japan).chd" size="218217793" crc="3B8B98CF" sha1="3B1ED5C143440292DE71A797EF31D01EA1562CA7" />
+    <rom name="AX-101 (Japan).chd" size="247732825" crc="34C0BD4F" sha1="5051B7B78388F998187B0E0836DEF716A39534A5" />
+    <rom name="A-X-101 (USA) (RE).chd" size="253841826" crc="5725023B" sha1="2A104939A424F7892E3393F6625521F9765DBD49" />
+    <rom name="Bakuden - The Unbalanced Zone (Japan).chd" size="164893862" crc="7B6966FC" sha1="0740BAB80C9A509559D14E75916B413A04DC7772" />
+    <rom name="Bari-Arm (Japan).chd" size="239466615" crc="F7F4A188" sha1="9A5EFF8150E7A477161FF565AE1244D35C2425BF" />
+    <rom name="Batman Returns (Europe).chd" size="323105461" crc="00463E40" sha1="B9EF3CCDF7F6109BFD991A84CD98E7203DEB3524" />
+    <rom name="Batman Returns (Europe) (Alt).chd" size="323105561" crc="5B111E72" sha1="18AED9D097AD7EC3E3C6AF54A9D1C2E42B34076C" />
+    <rom name="Batman Returns (USA).chd" size="311068890" crc="3503E743" sha1="1367AD9BA5A856D640AEC48CBAD89F6DCBDB4C33" />
+    <rom name="Batman Returns (USA) (Alt).chd" size="311060786" crc="3C53ED5E" sha1="0BA16FA907B8C55A33B0E356BA3C513287933A97" />
+    <rom name="Battle Fantasy (Japan) (Rev A).chd" size="316622143" crc="B1AE2022" sha1="903FFCB47D33960389F0D849A0D0BFC328C4085C" />
+    <rom name="Battle Frenzy (USA) (Unl).chd" size="334200763" crc="D1F32C31" sha1="E39E0344F60178A0255E7D321C5B39E1E4F36B37" />
+    <rom name="Battlecorps (Europe) (Demo).chd" size="42143536" crc="DA479516" sha1="81054FE1F3A5DD61FD3F82067CB78886DC776428" />
+    <rom name="Battlecorps (Europe) (En,Fr,De,Es).chd" size="306365283" crc="5AAD03CC" sha1="240E2F16A39229DE2C8AD8B9620BC8006895DC22" />
+    <rom name="Battlecorps (Japan).chd" size="297733632" crc="EAF7F1A3" sha1="E8427B90646776A22ED73ECDB748570999841CAB" />
+    <rom name="Battlecorps (USA).chd" size="302258321" crc="758E17D0" sha1="E6C0595E083E517AE476CDFC2C100BDD334AEE40" />
+    <rom name="BattleTech - Gray Death Legion (USA) (Unl).chd" size="42930454" crc="03DA1545" sha1="843AEC957C742F1E1B81189C32608EA9486FE471" />
+    <rom name="BC Racers (Europe) (Demo) (Green Disc).chd" size="26309618" crc="B37B3ED9" sha1="BE0BCDC0C7B698B4A42C74E94100139B50AF49AC" />
+    <rom name="BC Racers (Europe) (Demo) (Yellow Disc).chd" size="17350130" crc="7FE1111A" sha1="F2A2D444A549CEAFEEEB48414EC5D38EE54B45B8" />
+    <rom name="BC Racers (Europe) (En,Fr,De).chd" size="218327249" crc="0DDCE39C" sha1="6D3D6E5997299A2969A39583461265CAE9F7EABE" />
+    <rom name="BC Racers (USA).chd" size="211206440" crc="DF9D29E0" sha1="2792B420E363D5420FFE45231BE054C6926C28FB" />
+    <rom name="Beast II (Europe).chd" size="208441751" crc="389B2EB3" sha1="BC34B577E343A0A1F5B1A30A6C56D37C7E8DC49D" />
+    <rom name="Beast II (Europe) (Demo).chd" size="194182121" crc="6C54B714" sha1="24D0BB05C1F52957C9945D5E1037EBF4F3BF0C5F" />
+    <rom name="Bill Walsh College Football (Europe).chd" size="148177365" crc="76EEB165" sha1="433372A3B04DB4FA8E6CE023EA6F5F90978D1191" />
+    <rom name="Bill Walsh College Football (USA).chd" size="148172005" crc="7882D172" sha1="48F2F5D513E9F58A0026373D46975BE4C48397F3" />
+    <rom name="Black Hole Assault (Japan).chd" size="339422076" crc="CCD6E3F7" sha1="6DFAFD6E3F3EA22222A5EEDB6F2A1D50AED55BC4" />
+    <rom name="Blackhole Assault (Europe).chd" size="353361935" crc="6311446E" sha1="E790CDE3EEC35E2DBA2E3E653B428DBA1D388A7A" />
+    <rom name="Blackhole Assault (USA).chd" size="331164850" crc="E6F9F6EE" sha1="A85B6C5E727D3619F2498240AAC5D8C16D7CD541" />
+    <rom name="Blackhole Assault (USA) (Alt).chd" size="331182606" crc="A31529A9" sha1="7F86582BBF1BB267EFA7F5A53558C0A6ECB94290" />
+    <rom name="Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es).chd" size="334218931" crc="E26F9D93" sha1="64896C7C13F35E4BF96CC1DC4C5FA6226783E251" />
+    <rom name="Bouncers (USA).chd" size="164592845" crc="91A137A5" sha1="6D74911A3698F305FD6CB9F127E5AFE6998C9A57" />
+    <rom name="Bram Stoker's Dracula (USA).chd" size="288034274" crc="BC1A68F5" sha1="4510EDD5467305BBEAD47A5EA661D95C96AA94BC" />
+    <rom name="Bram Stoker's Dracula (USA) (Alt 1).chd" size="278360168" crc="C4231FCC" sha1="6DA6E308BA8E37201B957654D452163CB5EB416C" />
+    <rom name="Bram Stoker's Dracula (USA) (Alt 2).chd" size="288032792" crc="0BA48C8C" sha1="731FE29F24389F9109412F88F1A247E23AB4A959" />
+    <rom name="Bram Stoker's Dracula (USA) (Version 2.0).chd" size="278156219" crc="C1F7A27E" sha1="E73BDB8B3C8678A290CDC091B4C90C3FC6C824B9" />
+    <rom name="Brutal - Paws of Fury (Europe) (En,Fr,De).chd" size="194478827" crc="77D279E0" sha1="5B9B90E20BDDFAE2601887035BC6E114C435DA18" />
+    <rom name="Brutal - Paws of Fury (USA).chd" size="194414246" crc="E1C6A2AC" sha1="E8E02FA5792F903604A73DA3D30ED9FC1CD1AE9B" />
+    <rom name="Bug Blasters - The Exterminators (USA) (Unl) (Rerelease).chd" size="428888123" crc="E5996B48" sha1="8898F7803525E87956EC5C1CD8E222BB5969A726" />
+    <rom name="Burai - Yatsudama no Yuushi Densetsu (Japan).chd" size="158659704" crc="4BF663D1" sha1="1B7D9635C2432EB5BF0AC1CDD06FFA06908A18CD" />
+    <rom name="Burning Fists - Force Striker (USA) (Unl).chd" size="318336145" crc="E53718EF" sha1="9ED034E13AF34F68D285C05F0B492B405C891CD0" />
+    <rom name="Cadillacs and Dinosaurs - The Second Cataclysm (USA, Brazil) (RE).chd" size="448200432" crc="5E6CADB6" sha1="D8A51BB54048F5CD702A0F2D8EC035BBF8B2EC62" />
+    <rom name="Captain Tsubasa (Japan).chd" size="69545850" crc="E58D3AFC" sha1="9C7BDF8EA8E4140667E2293142B86F2BD70DEE7A" />
+    <rom name="CD Sonic the Hedgehog (Japan) (Beta 1).chd" size="73360064" crc="83B0E0F4" sha1="51F3569AFB51A5384022431C9188B4399F3421E8" />
+    <rom name="CD Sonic the Hedgehog (Japan) (Beta 2).chd" size="307504440" crc="FACC9302" sha1="2864064EE4BE57EC9390341D146455C56F62566B" />
+    <rom name="CD Sonic the Hedgehog (Japan) (Beta 3).chd" size="326066909" crc="2406DE9C" sha1="F28ABF5E3B39D52D100181BCCEDDFD44E7AE66EE" />
+    <rom name="Championship Soccer '94 (USA).chd" size="131916645" crc="50DCFF98" sha1="1AFAE651636E396A4AB73D6F3F82BB5871844BCA" />
+    <rom name="Chuck Rock (Europe).chd" size="184313731" crc="F72CC5F4" sha1="D06A24DA0623A08147E2360A572F369BC6B6DF39" />
+    <rom name="Chuck Rock (USA).chd" size="184226594" crc="5E4BA0D7" sha1="750E64C6DA261108F4AFDBB1B254FDEFFB8E4E38" />
+    <rom name="Chuck Rock II - Son of Chuck (Europe).chd" size="241570124" crc="E4F7073C" sha1="08001E6054D607CD25A9F34E07C5CC7D26A706F7" />
+    <rom name="Chuck Rock II - Son of Chuck (USA).chd" size="241242457" crc="EE9BCCED" sha1="F4BFD2A39269819ECC1A3B226A3794893AA8149E" />
+    <rom name="Citizen X (USA) (Unl).chd" size="158231793" crc="7D3314B2" sha1="B4E5F35E32A681C9C3BCEB0CC291AB55A934104F" />
+    <rom name="Cliffhanger (USA).chd" size="195961717" crc="94875A78" sha1="34B4A779A7F8E376CAB305EF94597C7803D7E3DD" />
+    <rom name="Cobra Command (Europe).chd" size="60030143" crc="222A846E" sha1="C28AF74EC51411D1518060D4D7CA79649C7C74DA" />
+    <rom name="Cobra Command (USA).chd" size="60033143" crc="AAFE59EF" sha1="A2287A7AD3A4639B54CB59A212AE9E64316E809D" />
+    <rom name="Colors of Modern Rock, The (USA).chd" size="112393683" crc="AA3A571C" sha1="E6321B9CE377B26E208065FB515FE1BC737D59BF" />
+    <rom name="Compton's Interactive Encyclopedia (USA) (Version 2.00S).chd" size="94958141" crc="D68B6A22" sha1="2835DD8D5AD4FAABCCF75C1A73E3516FFE77E59B" />
+    <rom name="Compton's Interactive Encyclopedia (USA) (Version 2.01R).chd" size="183460550" crc="DA090370" sha1="6DDC6B192447E3695B79FB00E9F1B7245470E3E7" />
+    <rom name="Compton's Interactive Encyclopedia (USA) (Version 2.01S).chd" size="92466736" crc="6F7C92A7" sha1="CC7C0C6BD43A842A4010A6C21608DFDC26583A7A" />
+    <rom name="Compton's Interactive Encyclopedia (USA) (Version 2.10) (RE2).chd" size="183441366" crc="EEB01C7C" sha1="03299097E444A68D224696A4B0F0ABEEC82FF4A6" />
+    <rom name="Corpse Killer (Europe).chd" size="434583267" crc="22EFE5C8" sha1="7D9FF5AF8E43600E438B8CF7596AA5171BB34D57" />
+    <rom name="Corpse Killer (Europe) (Mega-CD 32X).chd" size="472870601" crc="EE9858C0" sha1="0893747C69F6BD167314FE94F18C6180C54DC66D" />
+    <rom name="Corpse Killer (USA).chd" size="434498757" crc="F5378966" sha1="7DED1983D40763F6087EED886DCA396CA05B4B95" />
+    <rom name="Corpse Killer (USA) (Sega CD 32X).chd" size="472982156" crc="FA18FA1F" sha1="5ECB5F0BEA1A1333496732F55BEA34A3F7C75950" />
+    <rom name="Cosmic Fantasy Stories (Japan).chd" size="224311790" crc="5628AC0A" sha1="9D72F13EB6C4A2925E1BFC3E50ACBE43F3477840" />
+    <rom name="Crime Patrol (USA).chd" size="190244785" crc="5365CF1C" sha1="D2E7999CA451F7E3D042EDDD8C945D0C1DF4E935" />
+    <rom name="Cyborg 009 (Japan).chd" size="256434115" crc="6E58E680" sha1="1CCFB424F15FC8CEFAD02BBC94F266E979B08D8D" />
+    <rom name="Daihoushinden (Japan).chd" size="125881603" crc="31C35DD8" sha1="255D6BE62A4A040E311D28F2BB3DDC3538CD6421" />
+    <rom name="Dark Wizard - Yomigaerishi Yami no Madoushi (Japan).chd" size="198513206" crc="F73EC2D7" sha1="25C3F586D5DEB2D0D5DC901C7B5A09C6E5C828BB" />
+    <rom name="Dark Wizard (USA).chd" size="189673597" crc="051466D4" sha1="799AE6236AE1E6F749685A34A142678471CD39FA" />
+    <rom name="Death Bringer (Japan).chd" size="67868076" crc="5DEFF211" sha1="379307AEF6EB4A0A37C29671301B68E043219244" />
+    <rom name="Demolition Man (USA).chd" size="226573982" crc="B01DE51C" sha1="265A2863FE4B1366FE9E1290253326DECE02DFBC" />
+    <rom name="Dennin Aleste - Nobunaga and His Ninja Force (Japan).chd" size="363765913" crc="174DC55D" sha1="F623052C48D367FD4089DD43054AB9F03804D3C6" />
+    <rom name="Detonator Orgun (Japan).chd" size="112130862" crc="05921C10" sha1="5795D98E5A3A44312B75D376393B8C72081E295C" />
+    <rom name="Devastator (Japan).chd" size="282955661" crc="43ACA350" sha1="C16343B62AA9C6F8A0E18EC2B91892B728575AA6" />
+    <rom name="Double Switch (Europe).chd" size="433264879" crc="D7EE9E4C" sha1="1A4FC2E736AD3165D7EF82A4F71C1D7AD61316DC" />
+    <rom name="Double Switch (Japan).chd" size="428767698" crc="21663404" sha1="428160A828CF88064C59A9EA0BC326DA57843804" />
+    <rom name="Double Switch (USA).chd" size="433306704" crc="C516815C" sha1="1304990A2630BF123EE04F26FC83A413A366387B" />
+    <rom name="Dracula Unleashed (Europe) (Disc 1) (Made in E.U.).chd" size="324230796" crc="78EB7C5B" sha1="FF06933B89BC25B15AC2B61384E8672FE48FA7B4" />
+    <rom name="Dracula Unleashed (Europe) (Disc 1) (Made in Japan).chd" size="324230800" crc="A1C9B0D4" sha1="0B6927CE90C77715B9AF6C3C8976B736C9795877" />
+    <rom name="Dracula Unleashed (Europe) (Disc 2) (Made in E.U.).chd" size="362724892" crc="E8DA9E72" sha1="75DE1299CAAC8B3D9657F84EE96A036394116B47" />
+    <rom name="Dracula Unleashed (Europe) (Disc 2) (Made in Japan).chd" size="362724896" crc="6E98F1A9" sha1="E938625B7A1DEB97D1690CDC11FCFCAE71BA0F9C" />
+    <rom name="Dracula Unleashed (USA) (Disc 1).chd" size="324230652" crc="5341756C" sha1="1C16173E72C49B440BF50D6EB94A0706347F4353" />
+    <rom name="Dracula Unleashed (USA) (Disc 2).chd" size="362724761" crc="A7C1F7F7" sha1="F5F00A68C26FCE20A7DB547305961B77D2B0815B" />
+    <rom name="Dragon's Lair (Europe).chd" size="150272024" crc="531D16CC" sha1="9E7AA360D992825EBCE6BE1F5AE065B5472F05EB" />
+    <rom name="Dragon's Lair (Japan) (En,Ja,Fr,De,It).chd" size="150785531" crc="1589D8F6" sha1="3341AC39D8B97D07D854D108F04A5BB76D8F726D" />
+    <rom name="Dragon's Lair (USA).chd" size="97582401" crc="42B6733D" sha1="66EC1FBA5D21CB0E790CD71044E08DE7714BCB53" />
+    <rom name="Dragon's Lair (USA) (Demo).chd" size="5286915" crc="9831DCFF" sha1="DA8FB1F9E4E63C491D6A748BB1EC0A14DB3C2C00" />
+    <rom name="Dune (Europe) (En,Fr,De,Es,It,Ar).chd" size="199900621" crc="3DD61660" sha1="15A8B8D857F37BF6D783C2E736F87944897AB8AD" />
+    <rom name="Dune (USA).chd" size="199840735" crc="A3ED50BD" sha1="56200D0B18BFB590520D6CE612BEFF3CDDCDB142" />
+    <rom name="Dungeon Explorer (Europe).chd" size="283178542" crc="ACAB2D25" sha1="4B3F8256EF2D90F996CC7EE14E89AF1A8F4EBFBB" />
+    <rom name="Dungeon Explorer (USA).chd" size="283189700" crc="F56C40DB" sha1="8956CBF92BB50A25573E0A14E9FC5A14C8B0EC07" />
+    <rom name="Dungeon Master II - Skullkeep (Europe).chd" size="94169128" crc="EB8D4569" sha1="3AD71E81195FCA1D47F259F66E65FEEFED15AF0C" />
+    <rom name="Dungeon Master II - Skullkeep (Japan).chd" size="86325617" crc="C24D81B4" sha1="F0F2A3757CE4D603FF71C21E16623A519AA5E48E" />
+    <rom name="Dungeon Master II - Skullkeep (USA) (RE3).chd" size="94168565" crc="0F3D4C00" sha1="50FD06F43D4E703A15E3E8A8B0BD006AB3CB52FD" />
+    <rom name="Dynamic Country Club (Japan).chd" size="118931655" crc="49FD6666" sha1="D7803DFE99422C5EFF2AAFD38E39F70BA2571147" />
+    <rom name="Earnest Evans (Japan).chd" size="386566478" crc="4924D9E0" sha1="61AF73E8897664114AEE33FA5149E6568E5654F8" />
+    <rom name="Earthworm Jim - Special Edition (Europe).chd" size="216771054" crc="B9401E7E" sha1="13860BB0C6595A4572A954F946F35393D78FF7F1" />
+    <rom name="Earthworm Jim - Special Edition (USA) (RE).chd" size="209047515" crc="4CA1FACA" sha1="C53F1C0FDDC282E1562E7275C382135A1BCE16B5" />
+    <rom name="Ecco - The Tides of Time (Europe) (En,Fr,De,Es).chd" size="401338948" crc="A4968026" sha1="BAC819DB43675F2DE293944E92B509043F1A15CA" />
+    <rom name="Ecco - The Tides of Time (USA).chd" size="401325430" crc="E5CDD531" sha1="328219EA358006BC1093F3F0922630732E5D2006" />
+    <rom name="Ecco - The Tides of Time (USA) (Alt).chd" size="389960304" crc="7186F74A" sha1="8A7F8E5AD51281F30FE0B8B9B6284ACAE38F74B4" />
+    <rom name="Ecco the Dolphin (Australia).chd" size="284231995" crc="A557688E" sha1="446F3B91E41B594CA8B00E63361EEECB3AD9B09C" />
+    <rom name="Ecco the Dolphin (Europe).chd" size="308556770" crc="29D822FE" sha1="C0C743E030B6E0CB26E4F84FDA1A0A7AE2995FCB" />
+    <rom name="Ecco the Dolphin (Europe) (Rerelease).chd" size="284219933" crc="1F7A51B7" sha1="48124A77A509DAE77157557F69C468D28E3E1CD5" />
+    <rom name="Ecco the Dolphin (USA).chd" size="320494793" crc="923D43A4" sha1="61A8FB127858B2C754351A39C5DB421326ABD8A6" />
+    <rom name="Ecco the Dolphin CD (Japan) (Disc 1) (Ecco the Dolphin).chd" size="295389529" crc="3CEA5BDE" sha1="6CFC01C457D5002060DFF6816FA79FE1B1E5872B" />
+    <rom name="Ecco the Dolphin CD (Japan) (Disc 2) (Ecco the Dolphin II).chd" size="390424442" crc="5640E2D7" sha1="13D13C19D4BC01C417BD678E72FDC8756848B7F3" />
+    <rom name="Egawa Suguru no Super League CD (Japan).chd" size="52003118" crc="3DFE98F1" sha1="7EB816C77EB9A4B5E9E54108C91A8CFF97931F8F" />
+    <rom name="ESPN Baseball Tonight (Europe).chd" size="139441117" crc="F8F643E1" sha1="F3CB23D32F5FECE76B3B873D77AA65952F495DE2" />
+    <rom name="ESPN Baseball Tonight (USA).chd" size="139442183" crc="06CCD284" sha1="726CEA9FF3F51BD6828F311EF35C685D146393DE" />
+    <rom name="ESPN National Hockey Night (USA).chd" size="221444528" crc="A1E99375" sha1="8BE33B0E36B4E501ABA461EB30B116DE07133B19" />
+    <rom name="ESPN NBA Hangtime '95 (USA).chd" size="264891783" crc="CC9FFCEF" sha1="77DF52AB2E1CC49BF7965700213FE3769D7018F1" />
+    <rom name="ESPN Sunday Night NFL (USA).chd" size="178678865" crc="74EBCBEC" sha1="C298CB7257ADFCA78DCBEED5A7CB1F6DF3049DB6" />
+    <rom name="Eternal Champions - Challenge from the Dark Side (Europe).chd" size="278570967" crc="07A74B14" sha1="0FA64962A02B0695727EF3868974C8A368F43D3C" />
+    <rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta).chd" size="278566965" crc="C79DB19B" sha1="6D8DF89705B1E67FC2610B90392A7B5594389F74" />
+    <rom name="Eternal Champions - Challenge from the Dark Side (USA).chd" size="278529336" crc="0659437F" sha1="656B85911B9BE08EBE8CD0F83CC38900DA1539A9" />
+    <rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta).chd" size="278555649" crc="505C8D1E" sha1="A8D05EB9234EB016179277013025B6D5E7C420DB" />
+    <rom name="Eternal Champions - Challenge from the Dark Side (USA) (RE).chd" size="278524726" crc="5166E061" sha1="7A8BE6823A22D4A30790F28FE51F5CCED8A2D332" />
+    <rom name="Eye of the Beholder (Europe).chd" size="231460874" crc="9DB93BC7" sha1="500599ABBC58CFA751772D50E36EE1B2A307CF29" />
+    <rom name="Eye of the Beholder (Japan).chd" size="231586543" crc="875B09B0" sha1="8B80A637F84ABB155519845AF381BDA510DC8AE3" />
+    <rom name="Eye of the Beholder (USA).chd" size="231468168" crc="787C64C7" sha1="0493315659FF97CAEB9C3193349D132D2D07B8D1" />
+    <rom name="F1 Circus CD (Japan).chd" size="260214463" crc="A54D7A0D" sha1="E13F8F2938BD5FA4F578814E6BFA6A5F43644096" />
+    <rom name="Fahrenheit (Europe).chd" size="393953538" crc="647DA338" sha1="2A1FB51182D7FA4B2C7C50B25AA462D75E7E1355" />
+    <rom name="Fahrenheit (France).chd" size="366595339" crc="3C766D8E" sha1="6AD0BD9B09E4E421C1AC4798A9890367D0F51AC1" />
+    <rom name="Fahrenheit (Japan).chd" size="378209631" crc="310E18DF" sha1="8D1377C006DA140D09EDE2381669610A814C528A" />
+    <rom name="Fahrenheit (USA) (Disc 1) (Key Disc) (Sega CD).chd" size="393883094" crc="53B508BC" sha1="D22D7538DCE57E87239CBA95A3855B77F05F7553" />
+    <rom name="Fahrenheit (USA) (Disc 2) (32X CD).chd" size="387942644" crc="762F8222" sha1="B7DE929B6A8E5519FD296E8EA352AFFF23BAEFF0" />
+    <rom name="Fatal Fury Special (Europe).chd" size="315785219" crc="A62627E6" sha1="884B58997939371467FE0180A977035E8DB9143F" />
+    <rom name="Fatal Fury Special (Europe) (Beta).chd" size="312725058" crc="DB008114" sha1="FED0AF9E9888D8B137C56010B127E1891EA73E27" />
+    <rom name="Fatal Fury Special (Europe) (Demo).chd" size="50302459" crc="F37486F0" sha1="2C2E70523948CDA12AE1AEE7E711320F6E497D80" />
+    <rom name="Fatal Fury Special (USA).chd" size="317775276" crc="3C4B4441" sha1="4D6B4D4BBC88A8250B1165F081F9F1EAC7039637" />
+    <rom name="FIFA International Soccer - Championship Edition (Europe) (Demo).chd" size="109585131" crc="EFB92FBD" sha1="53E90DE343848F2660A0B57135B375F44696F66C" />
+    <rom name="FIFA International Soccer - Championship Edition (Europe) (Demo) (Alt).chd" size="109585176" crc="9DEEC64A" sha1="A96D66E309064B87E693320FA1FE9B236EB01A20" />
+    <rom name="FIFA International Soccer - Championship Edition (Europe) (En,Fr,De,Es).chd" size="317292863" crc="7CD84614" sha1="C5C4635A45D225FC8D258996F981BD38EDCE6528" />
+    <rom name="FIFA International Soccer (USA).chd" size="317275721" crc="41EEB9B5" sha1="61D93E02B56E7A115C6A2E7CCF82BBEFF38CA83A" />
+    <rom name="Final Fight CD (Europe).chd" size="268536214" crc="83911554" sha1="F2C0300FF85E1C2F0C3DB12B1EEFE7B52AD00E93" />
+    <rom name="Final Fight CD (Japan).chd" size="277033031" crc="48A9D8B3" sha1="7BE096EFF573AE1A1BE83BA697D5986B1D3D0EB4" />
+    <rom name="Final Fight CD (Japan) (Rev A).chd" size="265771718" crc="BDB630F3" sha1="2B57DDBE191467B2BB36DE8B4EB0A303FAD8874E" />
+    <rom name="Final Fight CD (USA).chd" size="257497635" crc="16B1D661" sha1="A8411FFF814D9702931FF85C2339C41C34F2B455" />
+    <rom name="Final Fight CD (USA) (Alt 1).chd" size="268538755" crc="48181012" sha1="C36088A5CE931B44880F739C92982745A8E5AB5E" />
+    <rom name="Final Fight CD (USA) (Alt 2).chd" size="257508383" crc="489586C8" sha1="7D1867EE9535034E6B6320EDB297D4490AC7724F" />
+    <rom name="Flashback - The Quest for Identity (USA).chd" size="275457823" crc="9757E05C" sha1="34256C0E324FE44019C006C89C32C2AE7DE5932C" />
+    <rom name="Flashback (Europe) (Demo).chd" size="59439077" crc="3DEDB8F1" sha1="DB9EB198B37A9FF7619DC49C68D23E65B6E218D3" />
+    <rom name="Flink (Europe).chd" size="293454429" crc="0C940169" sha1="7ACDC8B29604EBD968086EA7024BD2B1C3502252" />
+    <rom name="Flink (USA).chd" size="293455729" crc="86E393A9" sha1="D3398ABF7B285F42A3D97D6F505FACFF17171B75" />
+    <rom name="Formula One World Championship - Beyond the Limit (Europe).chd" size="402533628" crc="EC442B6A" sha1="C9F251507AC4CEA6A22872E34514F86AE84E9B63" />
+    <rom name="Formula One World Championship - Beyond the Limit (USA).chd" size="402628998" crc="A169F11E" sha1="333C4CECB158620D48F77A40E790D19160C16E66" />
+    <rom name="Fresh Cleaner (Japan).chd" size="32361956" crc="E57BD6CE" sha1="BA0A79389B2B91B4E7990AA166951F0990725FF3" />
+    <rom name="Game no Kandume Vol. 1 (Japan).chd" size="220996994" crc="623937E8" sha1="DB86AD8096460D1AB7AC970B9F9CC52DDD85F5A6" />
+    <rom name="Game no Kandume Vol. 2 (Japan).chd" size="258124467" crc="14A9205E" sha1="BE65C360FF86A0136336B0D5D9F0EE9CA3545F30" />
+    <rom name="Garou Densetsu Special (Japan).chd" size="330001820" crc="75D4E80C" sha1="06B45EFA49AA448E9CDFD3E8545F1829D2D80353" />
+    <rom name="Gen'ei Toshi - Illusion City (Japan).chd" size="199744372" crc="41C8859A" sha1="8AE8715849205A9C0CE5D2605DC2D7E5DD43DED2" />
+    <rom name="Ground Zero Texas (Europe) (Disc 1).chd" size="288252105" crc="3527E076" sha1="99D7F96F33A43A702244566BC4A760556CC2B539" />
+    <rom name="Ground Zero Texas (Europe) (Disc 2).chd" size="279483758" crc="410B2E46" sha1="482B2848680109940D759EB95332F868C49F9F61" />
+    <rom name="Ground Zero Texas (USA) (Disc 1).chd" size="287426465" crc="8F5AD5AD" sha1="AF8F962AF149221DC6B97C0C199806C47DB8B9EE" />
+    <rom name="Ground Zero Texas (USA) (Disc 2).chd" size="278425538" crc="9F5E0096" sha1="96ACB58E3FB353DF1677BF8E5A278FFA0BEFCDDA" />
+    <rom name="Ground Zero Texas (USA) (Disc 2) (Alt).chd" size="278424229" crc="75016E80" sha1="A8477B634B146AF4457CCC2F1D7E914462EF4CDC" />
+    <rom name="Gyuwambler Jiko Chuushinha 2 - Gekitou! Tokyo Mahjongland-hen (Japan).chd" size="311511652" crc="13419EA1" sha1="4F349DF1533F6D25D2AB2A0ABE074F531690DF08" />
+    <rom name="Heart of the Alien - Out of This World Parts I and II (USA) (RE).chd" size="198083854" crc="7B95A297" sha1="EFA2E7BBAA76C14EC6B13F22E162E8F9C2DE34CE" />
+    <rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan).chd" size="425813662" crc="43A330C2" sha1="C861077AF2489685FB053CBDAD9B6F103ADCE5E8" />
+    <rom name="Heavenly Symphony - Formula One World Championship 1993 (Japan) (Demo).chd" size="405612189" crc="BCDBCC0A" sha1="8FAF28972FB8B7A3C7BB1B99819798B1177151E6" />
+    <rom name="Heavy Nova (Japan).chd" size="302810073" crc="325E4369" sha1="C6814B7D04C50D3CA65D02A55706EEC2E7EC08C2" />
+    <rom name="Heimdall (Japan).chd" size="122866389" crc="7FE1C6A5" sha1="BFD26F2066127589CA84DB0B7AFA4C232C40B1A6" />
+    <rom name="Heimdall (USA).chd" size="105652118" crc="7D58EA3E" sha1="52F816F015B3AEB329374D7655D869C696CF7F4E" />
+    <rom name="Hook (Europe).chd" size="169027806" crc="2620DAA9" sha1="C466A6E31BD51D81524D7153DE7A17FB035FCDC9" />
+    <rom name="Hook (USA).chd" size="169056256" crc="FD6A863A" sha1="B6C70232FEA4699994378FB403AA1AF220F7CAED" />
+    <rom name="Hook (USA) (Alt).chd" size="169066574" crc="6CE6628F" sha1="F18EDD6989D55CE704799BD7041135E3E0287FC8" />
+    <rom name="IIIrd World War, The (Japan).chd" size="180794037" crc="6CF99DBD" sha1="BE4539FD02C180377113617EEFA8EF4C8C1F40DE" />
+    <rom name="Iron Helix (USA).chd" size="252535269" crc="463897F6" sha1="264498960F5EE839F4ACFDC62885F8ECACB38556" />
+    <rom name="Ishii Hisaichi no Daiseikai (Japan).chd" size="1863934" crc="03B00472" sha1="1ADFDAF7462B4BD8BEF531D14C3D9EABA6D5022F" />
+    <rom name="Jaguar XJ220 (Europe) (En,Ja).chd" size="278078220" crc="9F23E9B3" sha1="ED4D818ABCAF9DA4E1F1CABC5ED296655A11617E" />
+    <rom name="Jaguar XJ220 (Japan) (En,Ja).chd" size="278077203" crc="531EA77D" sha1="64A3402538588DE606AF16144056F45815946987" />
+    <rom name="Jaguar XJ220 (USA).chd" size="266866710" crc="B16AAB80" sha1="B06DE53AD00833161A59875550B82F65429CA2CE" />
+    <rom name="Jangou World Cup (Japan).chd" size="283831343" crc="FF03ED5A" sha1="AC045CBD43E6A4DC770F88994AC5ECFC0BC9629C" />
+    <rom name="Jeopardy! (USA).chd" size="63094989" crc="98435410" sha1="87AB09F3038F92AAA50544781CC0120F0F5355E7" />
+    <rom name="Joe Montana's NFL Football (USA).chd" size="142262352" crc="812AE0F4" sha1="8563AE5AD2B41E6C0DE8570CF87D37B768EA8D95" />
+    <rom name="Jurassic Park (Europe).chd" size="247604739" crc="A34C7533" sha1="74E865F6C66A9CAF0EA117C871CA9B7636730EF1" />
+    <rom name="Jurassic Park (Europe) (Rerelease).chd" size="261618522" crc="2BBA16E8" sha1="03A308BE4117EAD1CA5C98F8A4D33DA2729AC8EC" />
+    <rom name="Jurassic Park (France).chd" size="250108548" crc="F5909339" sha1="EB41DD9533FD8EA5A2C7B3259E9270DE6BC28BEF" />
+    <rom name="Jurassic Park (Germany).chd" size="250331483" crc="5BB34600" sha1="1F165DE79870709B67042365DD538A8484882F4A" />
+    <rom name="Jurassic Park (Japan).chd" size="251971378" crc="80989E33" sha1="096BCC8D8B9AB83BC8955890F48928CDB38AD9EC" />
+    <rom name="Jurassic Park (Spain).chd" size="250506018" crc="259BCC95" sha1="C3B4F2675785E42A0BD1F96C566A2FB1E180B6CB" />
+    <rom name="Jurassic Park (USA) (RE).chd" size="261620214" crc="8BF7B221" sha1="FEE7497ED90DA1FF16E07344FDA0C33C93D17DFA" />
+    <rom name="Kamen Rider ZO (Japan).chd" size="198295516" crc="F0C0E4DE" sha1="AE0D2AB96DBF8CE012621D9F148FF7550284F65A" />
+    <rom name="Keio Flying Squadron (Europe).chd" size="328018475" crc="D0C8B919" sha1="6A8009CF330F43B48F2EEEEC73AD3790050F898C" />
+    <rom name="Keio Flying Squadron (Europe) (Demo).chd" size="328020574" crc="344F115A" sha1="1DF92898A0EF89975A122FC52DA786683AAEBC77" />
+    <rom name="Keio Flying Squadron (USA).chd" size="328022161" crc="1F59A713" sha1="1890658C2CFA1D11B6D50AAEC7DF398927805C5E" />
+    <rom name="Keiou Yuugekitai (Japan).chd" size="361218886" crc="FAE2BB3E" sha1="24B359DB19D19F67A695895BF6BC36F490D68721" />
+    <rom name="Keiou Yuugekitai (Japan) (Demo).chd" size="179060209" crc="1B678006" sha1="023E64EB3BBEFA7F085C5C41B3977C7A9BEFE9AA" />
+    <rom name="Kids on Site (Europe) (RE-1).chd" size="349997360" crc="18690736" sha1="EBF3A44066217A910E90E5A07ADA4E7A4386CC06" />
+    <rom name="Kids on Site (USA).chd" size="349997065" crc="50BC34AD" sha1="76A0A609BD73E637AD46EDEAF0F9335F7357312E" />
+    <rom name="Lawnmower Man, The (Europe).chd" size="196633941" crc="AA7D0847" sha1="2E26FCBB595652FB27ADF07D6B9074CB68C4D599" />
+    <rom name="Lawnmower Man, The (Europe) (Demo).chd" size="28820485" crc="A0D7B52B" sha1="1CF55265442E2350151C471BBAFFFA944B1DBB29" />
+    <rom name="Lawnmower Man, The (USA).chd" size="196637702" crc="1ACDCBEE" sha1="E3DA7D3EE2BC7C20D9BE8DEF2617E16D704E3316" />
+    <rom name="Lethal Enforcers (Europe).chd" size="410099561" crc="229F6D89" sha1="7D1B5B273EB954502B9FB0DE76A0C030D0D740D2" />
+    <rom name="Lethal Enforcers (Japan).chd" size="410098263" crc="41975367" sha1="6A05826F6676B15089F0993D4E65657980175702" />
+    <rom name="Lethal Enforcers (USA).chd" size="410113555" crc="E0D72738" sha1="9AC99929F8C0A9ECB039E7454AB6B46ECCB8875A" />
+    <rom name="Lethal Enforcers (USA) (Alt).chd" size="410085789" crc="AE181F89" sha1="A57A4907009FBDC4E46157AB6477E018DEDD5C14" />
+    <rom name="Lethal Enforcers II - Gun Fighters (Europe).chd" size="390819314" crc="6FDFB9A6" sha1="580B9794D18535C732D61D7228381CBB1C93EA54" />
+    <rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta).chd" size="366443867" crc="4BE9A827" sha1="4836CF0B316E7B95063DDE52E28D6691A71876F9" />
+    <rom name="Lethal Enforcers II - Gun Fighters (Europe) (Demo).chd" size="185897170" crc="75803C1C" sha1="1E1A76B1F7D102B178EB731DF9BFA8FC7B6B6DDE" />
+    <rom name="Lethal Enforcers II - Gun Fighters (USA).chd" size="366443849" crc="6B1440C3" sha1="478F02FA9DDB35E0EA28FD6959DB1542D1040736" />
+    <rom name="Lethal Enforcers II - The Western (Japan).chd" size="366442795" crc="5FAEAE44" sha1="23EF075110C29D8B181E04D69923BE48753E0BCB" />
+    <rom name="Links - The Challenge of Golf (USA).chd" size="192858849" crc="B5A85FDA" sha1="31B73D33EF4EA2D6D7230E346A4E0C8E4B8AB83F" />
+    <rom name="Links - The Challenge of Golf (USA) (RE).chd" size="190033843" crc="DBBCC51A" sha1="6AF1E9DD17EE929FFE7495B01274B9AB8F186773" />
+    <rom name="Loadstar - The Legend of Tully Bodine (USA, Brazil).chd" size="426634836" crc="591E395F" sha1="75EC75725960686B0DA42635603FD8BA5174C6D1" />
+    <rom name="Lords of Thunder (Europe).chd" size="369870049" crc="08045545" sha1="2FC7639509A0E02834841E39824163D38A682746" />
+    <rom name="Lords of Thunder (USA).chd" size="369861344" crc="F1DEF3F8" sha1="F0B0769E69646E720D5279987E72F8B1091EFF87" />
+    <rom name="Lunar - Eternal Blue (Japan).chd" size="170367855" crc="B50CD2A9" sha1="A6726C01FC5EDA351A699634101907D5A0E4A778" />
+    <rom name="Lunar - Eternal Blue (Japan) (Demo).chd" size="11880352" crc="9279960D" sha1="C4AC0FD189558B05F342E8CC8970F0DDBC0DD9F3" />
+    <rom name="Lunar - Eternal Blue (Japan) (Rev A).chd" size="167118799" crc="5C3C3065" sha1="B3ADBCC8F982CF51355EC9D4F57FA84FFFF19374" />
+    <rom name="Lunar - Eternal Blue (USA) (RE).chd" size="205609211" crc="B750876F" sha1="E07A999A4149D405326B8630DFEE6F2E2DCE4759" />
+    <rom name="Lunar - The Silver Star (Japan).chd" size="254132255" crc="35F40581" sha1="D0482A8E06DFA2B735E154DB9F0D0F3F4A9AFB42" />
+    <rom name="Lunar - The Silver Star (USA).chd" size="249173363" crc="F32A0875" sha1="FAC1459F954DBA7224CA4E3127067C379DB73DF3" />
+    <rom name="Lunar - The Silver Star (USA) (RE).chd" size="249174323" crc="2FA1E948" sha1="578F20A98FF6172EB1B9C74E038B5D61741BE671" />
+    <rom name="Mad Dog II - The Lost Gold (USA).chd" size="188280599" crc="DBD45B44" sha1="B35CBEE17836734D7DF5BDFCB5BDFF20C19196F3" />
+    <rom name="Mad Dog McCree (USA).chd" size="112807287" crc="8F35F790" sha1="54559E66B52AD6FC37BE628037660D6FAA1A34B1" />
+    <rom name="Mahou no Shoujo - Silky Lip (Japan).chd" size="192038200" crc="4A010A0E" sha1="CC00870FFA4468D30B9E727DADA5270CC9FF86EC" />
+    <rom name="Make My Video - INXS (Europe).chd" size="314124642" crc="69CC8D33" sha1="A34FE22144D0222A0355E686A5FF27EF6336F2D0" />
+    <rom name="Make My Video - INXS (USA).chd" size="311453595" crc="163B471F" sha1="921B884C2C62B39318FA2F3B5769F2E6C547D23A" />
+    <rom name="Make My Video - INXS (USA) (Beta).chd" size="301725747" crc="7CE847E3" sha1="065FB86838D4A3DEDDE6669D92479445B4D7C050" />
+    <rom name="Make My Video - Kris Kross (Europe).chd" size="245225372" crc="CE3176C2" sha1="CA8C6442137F767B183AFFC2EA93948374F6E557" />
+    <rom name="Make My Video - Kris Kross (USA).chd" size="244411055" crc="8BF37B26" sha1="9844BAC34EB575BCF95D706641632BBA142DBF36" />
+    <rom name="Make My Video - Marky Mark and the Funky Bunch (USA).chd" size="345562867" crc="B6102E73" sha1="5390EF3FD3FE55B0B47E5E968893BE1555107084" />
+    <rom name="Make My Video - Marky Mark and the Funky Bunch (USA) (Beta).chd" size="345553280" crc="5BF3C08A" sha1="C43115AF500E6986C1D8CCA28464C10CA9A75680" />
+    <rom name="Mansion of Hidden Souls (USA).chd" size="213937208" crc="D62A80F0" sha1="DAB8811685767DDFAAFF1379AC098DAC87A03CC4" />
+    <rom name="Marko (USA) (Unl).chd" size="183587133" crc="4B7CEDD1" sha1="D41C6D08BBF45B5086EA43E3FABF902D910A8338" />
+    <rom name="Marko's Magic Football (Europe) (En,Fr,De,Es).chd" size="170084796" crc="FCE76D97" sha1="F2AA8666DF281AD21FCA03E18668798737E77CAA" />
+    <rom name="Mary Shelley's Frankenstein (USA).chd" size="159656140" crc="A703FC53" sha1="4C857A038758841AE19540FA769AECD6234878A6" />
+    <rom name="Masked Rider, The - Kamen Rider ZO (USA).chd" size="192703121" crc="1FAC617C" sha1="85F5C3C15BF39F602C1A6C7376FB1D14AF684B60" />
+    <rom name="Mega Schwarzschild (Japan).chd" size="285747785" crc="6F08C8FA" sha1="E7E695C3CF7978ADD64565BEDFB493F6EAD942CA" />
+    <rom name="MegaRace (USA).chd" size="364577106" crc="4F15E5C9" sha1="74C84ABB02CB8A13E214A2AD0A6905AE4C652B5D" />
+    <rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).chd" size="247538733" crc="8BDD5438" sha1="A4DFF6EEA3234F4C06E8B95AB91BDFF5AA2368DC" />
+    <rom name="Mickey Mania (Europe).chd" size="265300879" crc="C2BED18E" sha1="DC24EBADA7C06423135A27029907E80C21F82790" />
+    <rom name="Mickey Mania (Europe) (Demo) (Mega Power, Sega Pro).chd" size="247546457" crc="5E47B5AF" sha1="63A27C2132DEC5C6FEF1C02954CC3FDF983FA12D" />
+    <rom name="Mickey Mania (Europe) (Demo) (Mega Sega).chd" size="247527269" crc="EE043B34" sha1="ECF89446F2BDCCAF2290FFCBD400BE4D181CFC48" />
+    <rom name="Microcosm (Europe).chd" size="296756284" crc="FDE77C99" sha1="6C8CD18D6886290C258A98DB698915AF71C7721F" />
+    <rom name="Microcosm (Europe) (Alt).chd" size="296758735" crc="255A6371" sha1="9B06F07A56A3A7DD77A62F6555D9686A90131154" />
+    <rom name="Microcosm (Japan).chd" size="302582784" crc="E43146FD" sha1="73AD9AE7C54466EF164343DBC178561FC60A1FEC" />
+    <rom name="Microcosm (Japan) (Demo).chd" size="296390883" crc="396749C5" sha1="E71C0777F0C5452EFF0041901335A5A63E9096BE" />
+    <rom name="Microcosm (USA).chd" size="296754448" crc="1694BB74" sha1="A9E5D553F02BE7844E9E7835CC21FC6273EC730E" />
+    <rom name="Midnight Raiders (Europe).chd" size="369202362" crc="5EC3D791" sha1="44136C6839E225CBD1142966B5CC0EB80B955459" />
+    <rom name="Midnight Raiders (USA).chd" size="369202424" crc="3103E5C4" sha1="AFF0255FD132870335806E7152364924C0BB5023" />
+    <rom name="Might and Magic III - Isles of Terra (Japan).chd" size="313629194" crc="09741766" sha1="1312583313B84B9CC7E71FF7DCAD4172F47F12C4" />
+    <rom name="Mighty Mighty Missile (USA) (Unl).chd" size="220914339" crc="06BBB212" sha1="83C0C08D0A4B134AFB9A40449B7D687276662265" />
+    <rom name="Mighty Morphin Power Rangers (Europe).chd" size="316624157" crc="2CF6053D" sha1="467FED9DDDD84A25E71769E5337BBA734D41F8D3" />
+    <rom name="Mighty Morphin Power Rangers (USA).chd" size="316623575" crc="4F825D82" sha1="9241CFF1ECC78A2BC1A1450D0FF2D6504697B09E" />
+    <rom name="Mortal Kombat (Europe).chd" size="224920644" crc="885D98C3" sha1="2F8967702612176A1377AAAC4B35105C43853AEA" />
+    <rom name="Mortal Kombat (USA).chd" size="224931772" crc="BDC67072" sha1="6C69F67C746565A68E4AA625944F4878DACCEF0A" />
+    <rom name="Mortal Kombat Kanzenban (Japan).chd" size="202146700" crc="0FC12B74" sha1="2F228D05C042DE2A0434DDAE675284E4D5136AAA" />
+    <rom name="My Paint (USA).chd" size="220663664" crc="0A7E6532" sha1="60524063D2448E52D8887F265BB7FDD68148B09B" />
+    <rom name="NBA Jam (Europe).chd" size="248426686" crc="219D4A12" sha1="4D964809449C1E9A92E323790EDD74834FFDE34F" />
+    <rom name="NBA Jam (Japan).chd" size="236524278" crc="C10D2586" sha1="D5304685935343EEC6A878B17E07CE30DDE81B23" />
+    <rom name="NBA Jam (USA).chd" size="236486077" crc="DF2DBAEE" sha1="10086D57A4D3284E370572133D2CBA5ECFDC95E4" />
+    <rom name="NFL Football Trivia Challenge (USA).chd" size="248381683" crc="82CBDB8C" sha1="C1B0D22AF9DEFD7AE97EA4EAA212ED9EDA4D4FA7" />
+    <rom name="NFL's Greatest - San Francisco vs. Dallas 1978-1993 (USA).chd" size="290919687" crc="C7BE7583" sha1="C9CD53785B7F14792A6AAEC47C68F9ACA136C9C1" />
+    <rom name="NHL '94 (USA).chd" size="234391470" crc="0FF14276" sha1="5451745BE47B3097494A89C5412ADF7843A6D829" />
+    <rom name="NHL Hockey '94 (Europe).chd" size="227452506" crc="54F63F59" sha1="CD4669F37DEA15DAC4D1F0F3E927AD4A368EFE71" />
+    <rom name="Night Striker (Japan, Korea).chd" size="293916393" crc="3E26C14B" sha1="48A6B2830B7D8C826D0D1FCD33D324AD7E333B2C" />
+    <rom name="Night Trap (Europe) (Disc 1).chd" size="277845288" crc="4F903F50" sha1="FC0650770507F57054CE4A9231BCC2E168BAAD7A" />
+    <rom name="Night Trap (Europe) (Disc 1) (Mega-CD 32X).chd" size="419740720" crc="D6A22198" sha1="A609E16EFB83DECCB95C3199D4AFB2A92158C11A" />
+    <rom name="Night Trap (Europe) (Disc 2).chd" size="233621263" crc="559F4C46" sha1="A8E8281E26FDF3A9B1C7F39A36E7CF14FF877261" />
+    <rom name="Night Trap (Europe) (Disc 2) (Mega-CD 32X).chd" size="349600986" crc="799609DA" sha1="9385FE9B6B29CE9E095128F744A442C70FE54099" />
+    <rom name="Night Trap (France) (Disc 1).chd" size="277555277" crc="E1A92106" sha1="D9B19B34A11CD0918CD1B46A8506D58A8351C584" />
+    <rom name="Night Trap (France) (Disc 2).chd" size="233247830" crc="352F9331" sha1="126344CD6237561152718EAC1544842527C54FAF" />
+    <rom name="Night Trap (Japan) (Demo).chd" size="279045115" crc="1A93CFA0" sha1="7539205CDFDC975051FC716F56767E4C226D57D3" />
+    <rom name="Night Trap (Japan) (Disc 1).chd" size="278689837" crc="8D9F3753" sha1="FC00C79B6AE701A0B693BED43C932DA2A7B94403" />
+    <rom name="Night Trap (Japan) (Disc 2).chd" size="235243083" crc="C5BFF749" sha1="390F93CE2AFBD5767E3ACB3448734633E6F670B6" />
+    <rom name="Night Trap (USA) (Disc 1).chd" size="277012905" crc="E023E054" sha1="7B71AAD4E4764EF615844CC130B433762887C659" />
+    <rom name="Night Trap (USA) (Disc 1) (Alt).chd" size="277009885" crc="596BCF60" sha1="B86DFB9472B3EF0D8A6F812AEE7ECCCEAF280FCD" />
+    <rom name="Night Trap (USA) (Disc 1) (Rerelease).chd" size="275942908" crc="9B36E9D8" sha1="041CC985647D92FCF354F6F9F709F2EB1251281A" />
+    <rom name="Night Trap (USA) (Disc 1) (Rerelease) (Alt).chd" size="275942925" crc="49602107" sha1="6D44676727A8F7CAC73DF3B1EDBAF451E4F5EFF4" />
+    <rom name="Night Trap (USA) (Disc 1) (Sega CD 32X) (RE-1).chd" size="419864988" crc="8122BDF2" sha1="C3306FB0690F68A35A9DD3CB20FDA0B192357344" />
+    <rom name="Night Trap (USA) (Disc 2).chd" size="232781097" crc="F0FC5812" sha1="21CB22B0020720113CEBCBDF1330C06435F3771B" />
+    <rom name="Night Trap (USA) (Disc 2) (Rerelease).chd" size="233574566" crc="9CA4F29D" sha1="6B6AAE44A4822F1C17EB2D45E95E90BC5B480590" />
+    <rom name="Night Trap (USA) (Disc 2) (Rerelease) (Alt).chd" size="233574501" crc="416FF8E1" sha1="9435F845F384BA6541211A5C8D75892E5BB4F166" />
+    <rom name="Night Trap (USA) (Disc 2) (Sega CD 32X) (RE-1).chd" size="349732225" crc="9E79D993" sha1="1D860454779F3308BBF812851D641C921DA0DA5E" />
+    <rom name="Ninja Warriors, The (Japan).chd" size="286529373" crc="35364D83" sha1="AFE54A9903770370A373E2D08269F4961AC34C33" />
+    <rom name="Nobunaga no Yabou - Haouden (Japan).chd" size="214121370" crc="E1821174" sha1="543F00B783DF075E1A7815686D94616990898DF7" />
+    <rom name="Nostalgia 1907 - In North Atlantic Sea (Japan).chd" size="86480365" crc="F29A423F" sha1="A47D99BBD5E85283D20E119490A8D88A2A16FFAF" />
+    <rom name="Note! Color Mechanica (USA) (Unl).chd" size="392838800" crc="8430F5F7" sha1="75188004099CE91057C623EF86EE0AF3F01AE9B1" />
+    <rom name="Note! Color Mechanica (USA) (Unl) (Alt).chd" size="392837639" crc="7AE5E6A1" sha1="8C32428E1DF4D6F750CDCCF7FE745817DAFBAC77" />
+    <rom name="Novastorm (Europe).chd" size="281577848" crc="54F94F50" sha1="B94A35D772524B10BF682BD38450BCA0725995FA" />
+    <rom name="Novastorm (Europe) (Demo).chd" size="265415283" crc="F437886E" sha1="A170740F1128353147E784DB7A0FFBC20F46682F" />
+    <rom name="Novastorm (USA).chd" size="281939763" crc="376AA5AF" sha1="4C794CDB133A54A7D1D5A02029D3FEE2378657F9" />
+    <rom name="Panic! (USA) (RE).chd" size="221172221" crc="3E4D9CC2" sha1="25D8F37BAE749850BB653932BB0A18443370B203" />
+    <rom name="Pier Solar and the Great Architects - The Definitive Original Soundtrack (Europe) (Disc 4) (Enhanced Soundtrack Disc).chd" size="522978205" crc="F0B96658" sha1="B9452C88814B08669DC44575EF32EF58F89CD7C7" />
+    <rom name="Pier Solar and the Great Architects Enhanced Soundtrack Disc (USA).chd" size="346941041" crc="A18725AB" sha1="588CCA1D1852585C4F06E419DF00BF6D78EEA03D" />
+    <rom name="Pitfall - The Mayan Adventure (Europe).chd" size="259841886" crc="A6C27BFB" sha1="0DB618C391F7565D04CD2B77095256FEF60C533B" />
+    <rom name="Pitfall - The Mayan Adventure (Europe) (Demo).chd" size="74799320" crc="F98A11CC" sha1="527A318D050DF40E2766940B135E8E13ED811DBA" />
+    <rom name="Pitfall - The Mayan Adventure (USA).chd" size="259857010" crc="23B8F732" sha1="67414B53253CF4B0A379538AE659933BCB5CFDF5" />
+    <rom name="Popful Mail (USA) (RE).chd" size="211848898" crc="B689E7C4" sha1="D88F315C02E3ED5A3708E06020C023B3E70309CD" />
+    <rom name="PopfulMail (Japan).chd" size="141339373" crc="80CEDE8A" sha1="AD87E69D092662165FC6BCCE90E2D30EEEB91049" />
+    <rom name="PopfulMail (Japan) (Demo).chd" size="139849131" crc="8C34FE91" sha1="C9B291EBCAA657CC7B46BC7ECEE8659804E53AD4" />
+    <rom name="Power Factory (Europe).chd" size="265476031" crc="E6CBCB01" sha1="E5A3A7E2D7919EE07DE34B158224C76DC662745C" />
+    <rom name="Power Factory (USA).chd" size="264660987" crc="28A601F0" sha1="1AA4CAFF83A5C94D248838AA8E0110F06376CE05" />
+    <rom name="Power Monger (USA).chd" size="152989795" crc="89CA4FEE" sha1="1BE109BE001CB5B31AB6A9AE84B63F8841400EED" />
+    <rom name="PowerMonger (Europe).chd" size="152986414" crc="C75BA1C5" sha1="6312215DC73F8B649F7A41D93E85E2CD2B21653B" />
+    <rom name="Prince of Persia (Europe).chd" size="178871124" crc="CEBD27ED" sha1="938288C9AFEBE80094C9D093BE48F701109657FA" />
+    <rom name="Prince of Persia (Japan).chd" size="184803429" crc="85A5604F" sha1="D9C58727FB8409FB92C4046B4DB186B9ADFA1028" />
+    <rom name="Prince of Persia (USA).chd" size="178874742" crc="9D861EB2" sha1="02515DFD81C1D2AFB4D9F362DE67E82DBFC985BA" />
+    <rom name="Prize Fighter (Europe) (Disc 1).chd" size="272310963" crc="ED0D0CBA" sha1="10462E40DF1F9C9F5C4C73213CACC14A35009E64" />
+    <rom name="Prize Fighter (Europe) (Disc 2).chd" size="316223291" crc="16D4ACB9" sha1="BBEF920E752823429E3118909CCD3D4C61FDF3DC" />
+    <rom name="Prize Fighter (Japan) (Disc 1).chd" size="263988263" crc="57D69BFE" sha1="11151D69605534D4DDA57E778059E5B2833F515D" />
+    <rom name="Prize Fighter (Japan) (Disc 2).chd" size="308843492" crc="3F04F87B" sha1="876098FC8CDBAFB24276CA4DFF855A26825F452E" />
+    <rom name="Prize Fighter (USA) (Disc 1).chd" size="272306818" crc="A970FA71" sha1="302EAA39C907DA274102B24F25D808DDD3D31484" />
+    <rom name="Prize Fighter (USA) (Disc 1) (Alt).chd" size="272300351" crc="887323A3" sha1="175389A311EAFFA91D65E3FA17D83F110CD8D16D" />
+    <rom name="Prize Fighter (USA) (Disc 2).chd" size="309629669" crc="F420AC84" sha1="FF6A2464C15FF36982DA7AED4E46B1B5C5E38BBF" />
+    <rom name="Pro Yakyuu Super League CD (Japan).chd" size="78746560" crc="EB235B72" sha1="9E3BD830484BA63C27F7E7172129F096B779B868" />
+    <rom name="Psychic Detective Series Vol. 3 - Aya (Japan).chd" size="123101485" crc="D60DE25F" sha1="FEB38B0CC2FF03D198867AAD94C9272DC3BF9AC3" />
+    <rom name="Psychic Detective Series Vol. 3 - Aya (Japan) (Demo).chd" size="4245515" crc="803D1650" sha1="0F0396499FB0A279B48D09E8C19C26C2972156BC" />
+    <rom name="Psychic Detective Series Vol. 4 - Orgel (Japan).chd" size="143192730" crc="92C8EEA2" sha1="DA36DEBF8F5BD41C0B84BE926DDB30CF3BA19F15" />
+    <rom name="Psygnosis Christmas Sampler (Europe).chd" size="196033052" crc="C71BEDDE" sha1="6C9C5056E683BA43406A7A849E46F5B083BEE5AE" />
+    <rom name="Psygnosis Christmas Sampler (Europe) (Alt).chd" size="196038670" crc="52267BE3" sha1="F37B1163AEAB1608343976C76254EF247125C4E8" />
+    <rom name="Puggsy (Europe).chd" size="282297991" crc="FBEC309D" sha1="1F2511218586B2805168401174F600EC982864C1" />
+    <rom name="Puggsy (USA).chd" size="299617238" crc="C39642FF" sha1="4D90BA5B9A3DC6FBE882B9433261804D021F570C" />
+    <rom name="Quiz Scramble Special (Japan) (Rev B).chd" size="80446914" crc="05755B0E" sha1="7C60277B6F3891B1B1852186EB845A63D1193968" />
+    <rom name="Quiz Tonosama no Yabou (Japan).chd" size="119640576" crc="F2F749CC" sha1="BAB4E83C7668DF299ABDED425FDBE88BEED8BE01" />
+    <rom name="Racing Aces (USA).chd" size="158062967" crc="C5B1AFB2" sha1="A31E5031F2180CAD3E003015B51426C23FF1C287" />
+    <rom name="Radical Rex (USA).chd" size="179118203" crc="FEEF4127" sha1="55990C1FFF4B1E819B685D9906FAB643D2F163C4" />
+    <rom name="Ranma 1-2 - Byakuranaika (Japan).chd" size="239812118" crc="5286497E" sha1="80F3A04FA80D4E5B78C569FB0538EAA1DAE26F84" />
+    <rom name="RDF - Global Conflict (USA).chd" size="192446409" crc="D8C7D000" sha1="EE8FE33B5B266BCD4B5A6208F3971AFCFCD89D1E" />
+    <rom name="Record of Lodoss War (Japan).chd" size="203594423" crc="A4C1C427" sha1="6680FCB7170055F1E57EFA87345041E710A6404A" />
+    <rom name="Record of Lodoss War (Japan) (Demo).chd" size="81007550" crc="D23AC9D2" sha1="AB10E9E15612C7DDB6D4E4BDB3F7319F45E4BACE" />
+    <rom name="Revenge of the Ninja (USA).chd" size="141956368" crc="8EC06DCB" sha1="45130C42A77E939709F9893CC65E0F879D8E2F65" />
+    <rom name="Revengers of Vengeance (USA).chd" size="314225428" crc="3426523E" sha1="B3AB740EEFCE352B99CCFAFF2FD4B8BFB2D5D07B" />
+    <rom name="Rise of the Dragon - A Blade Hunter Mystery (Japan).chd" size="118789579" crc="500073D9" sha1="38A6C6D4A006DD998EC126BACBD682531E99383E" />
+    <rom name="Rise of the Dragon (USA).chd" size="102693214" crc="937AF75B" sha1="A6675536BBCFE2F9A1A370CD2532D8FD49A020F1" />
+    <rom name="Rise of the Dragon (USA) (Rerelease) (RE).chd" size="102593122" crc="0D682CF5" sha1="099371680C267E9565B0B9BC1981B3735CA20488" />
+    <rom name="Road Avenger (Europe).chd" size="144320870" crc="13CF5CE0" sha1="48573E6022F1E99AF1D520D7EA815AEB842EB4DA" />
+    <rom name="Road Avenger (USA).chd" size="144288517" crc="E9103FE0" sha1="6B6C6B9DEBBE4588A9C9351C565D23F9811203D1" />
+    <rom name="Road Blaster FX (Japan).chd" size="144316932" crc="FEDFD30C" sha1="88FC22C973577A9EB7CD36ADC77E6C338FB03089" />
+    <rom name="Road Rash (USA).chd" size="344640154" crc="68A935C0" sha1="DE286619787AF20B4E3106D0D91F5E7E4EE57E18" />
+    <rom name="Robo Aleste (Europe).chd" size="334864733" crc="13B1AE20" sha1="89BFCD13E5053665E927D53BC3C7FBD9D9214D50" />
+    <rom name="Robo Aleste (USA).chd" size="334661128" crc="9A66EA5F" sha1="8E690684FE7287BD6D51CB81C2FA8ABAFDAA831C" />
+    <rom name="Samurai Shodown (Europe).chd" size="255187812" crc="61B61A8F" sha1="EEAC5D1CFD907E5A517C8174271EF858A11CDF1B" />
+    <rom name="Samurai Shodown (Europe) (Demo).chd" size="376519815" crc="0F1818C5" sha1="2AFF80EFCD514E50B90F2987447FD1B50B65A825" />
+    <rom name="Samurai Shodown (USA) (RE).chd" size="255183776" crc="67E94948" sha1="F56E0C919D10A0D24E2DCE9C7118E49F6DC07FB1" />
+    <rom name="San Diego Zoo Presents... The Animals!, The (Europe).chd" size="316619699" crc="69CEDF39" sha1="BD7B0CBD45E106C2947AD82579C3C6C8D3297E6A" />
+    <rom name="San Diego Zoo Presents... The Animals!, The (USA).chd" size="316841513" crc="10B19BEA" sha1="5B252D65FC344BF0E726032B5F740F0F9A1B7C3C" />
+    <rom name="Sangokushi III (Japan).chd" size="354327376" crc="B4A77B3E" sha1="843C17A4365208D35C991627EEE5F909A803A8DA" />
+    <rom name="Secret of Monkey Island, The (Japan).chd" size="203366408" crc="6D8FED19" sha1="64B856A2737EC87CA382285E18BA2BF85C1729A4" />
+    <rom name="Secret of Monkey Island, The (USA) (Limited Run Games).chd" size="199724506" crc="FA8842B2" sha1="3AFDBEA0CEDEE68D066496AC74B7035334FC892F" />
+    <rom name="Secret of Monkey Island, The (USA) (RE).chd" size="199735899" crc="9EEEEB08" sha1="3087D546F20276A2CCF3D2E35153DB7027B25A9D" />
+    <rom name="Sega CD Demo (Japan) (Proto).chd" size="21798250" crc="40231044" sha1="9A70A87D84D3093D1ED47192DC321E87C648072A" />
+    <rom name="Sega Classic Arcade Collection - Limited Edition (Japan).chd" size="88307842" crc="8FB96F1D" sha1="4A32A91D0C961CCD8B21F47613C7937784103B54" />
+    <rom name="Sega Classics Arcade Collection - Limited Edition (Europe) (Rev A).chd" size="84138352" crc="8ED82458" sha1="42003F896F860A0227F6D9A6C4C81F15E45BD862" />
+    <rom name="Sega Classics Arcade Collection - Limited Edition (Europe) (Rev A) (Alt).chd" size="79780955" crc="2473DF3F" sha1="45831117299D5065C6A73428475AABA3BC91EC6F" />
+    <rom name="Sega Classics Arcade Collection (USA) (4-in-1) (RE).chd" size="84032858" crc="4A704106" sha1="300E8A410C0A1118C81C89BDEE705618D6F847A7" />
+    <rom name="Sega Classics Arcade Collection (USA) (4-in-1) (RE2).chd" size="79782417" crc="2D54C28F" sha1="BA4D79E0C6C568D86E3170F03F7AB2F0A0322F7F" />
+    <rom name="Sega Classics Arcade Collection (USA) (5-in-1).chd" size="79780937" crc="B8315DC7" sha1="3B06C62256258C8DB5065740C108656B20F78AB1" />
+    <rom name="Seima Densetsu 3x3 Eyes (Japan, Korea).chd" size="235564150" crc="B83F1FBE" sha1="60172AAB6BF388FB1BDBEF1CD2EE90CC1FEE3F03" />
+    <rom name="Seirei Shinseiki - Fhey Area (Japan).chd" size="355519510" crc="B0E86220" sha1="AB753260121C4FDF3EAD8236841E38DE72D4F279" />
+    <rom name="Sengoku Denshou (Japan).chd" size="167809272" crc="F4550E97" sha1="B1969913368097C7C8F0D1BDFFEC28B6B89F3C62" />
+    <rom name="Sensible Soccer (Europe).chd" size="115689372" crc="E4248C36" sha1="5CDA9CD6343EC07DBA6AAEAC7065D06C257F7A30" />
+    <rom name="Sensible Soccer (Europe) (Demo).chd" size="131322157" crc="B4B98267" sha1="931BE0E9AB740552406EB501D86E955DE9069A29" />
+    <rom name="Sewer Shark (Europe).chd" size="260168785" crc="ABF3F9C6" sha1="C90EB0A332109576B518C4519E2B00B2B2C2F38E" />
+    <rom name="Sewer Shark (USA).chd" size="259827743" crc="8028D426" sha1="AE2221825EC34CF33EC3AEF3F26643E16794905F" />
+    <rom name="Sewer Shark (USA) (Not for Resale).chd" size="260161376" crc="C01DEA23" sha1="C665AC992EAFD9452A0AF382E082E4157C58E874" />
+    <rom name="Sewer Shark (USA) (Not for Resale) (Alt 1).chd" size="260132938" crc="AD44B785" sha1="D312A976D7F7BC9C074B27053356114AA34E7AAD" />
+    <rom name="Sewer Shark (USA) (Not for Resale) (Alt 2).chd" size="260159644" crc="7DFDC2EB" sha1="2C9A978F23681B65B5872BDBB07B6EE21946C3F9" />
+    <rom name="Sewer Shark (USA) (Rev 1).chd" size="259827803" crc="CF0D0EC3" sha1="068A166DD03E42DFB7115DF87BC388D8D3AECC2F" />
+    <rom name="Shadow of the Beast II - Juushin no Jubaku (Japan).chd" size="270190308" crc="3C793797" sha1="994C937BF2C849F5F764C082758D33C4CBB2BD79" />
+    <rom name="Shadow of the Beast II (USA).chd" size="189999741" crc="2DE85957" sha1="0207BB500373019B39CEE6068957B7041785ACB6" />
+    <rom name="Shadowrun (Japan).chd" size="165395299" crc="820CF785" sha1="0F665AECBF14597616637773C14EC47E89D4B92A" />
+    <rom name="Sherlock Holmes - Consulting Detective (Europe).chd" size="321552320" crc="558B86BA" sha1="CBA0741F522E115646C94607C032BEF42D0CF69C" />
+    <rom name="Sherlock Holmes - Consulting Detective (USA).chd" size="323032770" crc="3E1FF898" sha1="069D7B4EE1770A54F8A9A783EE57485960E24657" />
+    <rom name="Sherlock Holmes - Consulting Detective Vol. II (Europe) (Disc 1).chd" size="250970022" crc="ACC28917" sha1="70B6D562B3D730291AD40D6577DABEB245D52910" />
+    <rom name="Sherlock Holmes - Consulting Detective Vol. II (Europe) (Disc 2).chd" size="151364663" crc="47B93254" sha1="40E82700CCB93F936BE1CC7F4AB192B3C216E5B0" />
+    <rom name="Sherlock Holmes - Consulting Detective Vol. II (USA) (Disc 1).chd" size="251016028" crc="BBCBC621" sha1="C89A97A45960DC637E97E7677412BF630C1C592F" />
+    <rom name="Sherlock Holmes - Consulting Detective Vol. II (USA) (Disc 2).chd" size="151411101" crc="FCD886ED" sha1="8B9DD9C225C6F9090583F996F372ABCDA335564E" />
+    <rom name="Shin Megami Tensei (Japan).chd" size="226727104" crc="8EB89EC7" sha1="AF35557DDF0211276195FDCA85C8D92A39D9391B" />
+    <rom name="Shining Force CD (Europe).chd" size="243737259" crc="6FFE7D95" sha1="9F8DFD2769129CD7B41847623FB5664166A8E0EB" />
+    <rom name="Shining Force CD (Japan).chd" size="261658107" crc="5F2BA97A" sha1="81CE1B4AEB35D0CAE5F512234FA4A62D655436DD" />
+    <rom name="Shining Force CD (USA) (3R).chd" size="260518173" crc="C3AC1E61" sha1="6AD9C24285340AADE5CC752C4199FD19D0C34FC1" />
+    <rom name="Shining Force CD (USA) (5R, 6R).chd" size="260518286" crc="7C46A2ED" sha1="BA78A80AC58419C6EC3740A5709FDDAAE8F94E6D" />
+    <rom name="Silpheed (Europe).chd" size="240774864" crc="D2AC18CB" sha1="029A99BF20B0E9EF46A29CE30DB035CD983EADE6" />
+    <rom name="Silpheed (Japan).chd" size="242561671" crc="F1039585" sha1="10A670B2495C62AD58E0227725DDB6429FDA0638" />
+    <rom name="Silpheed (Japan) (Demo).chd" size="182232035" crc="F2CF2C67" sha1="CECF7E528A3E8DE80BDDCF7F984ED42FF6439376" />
+    <rom name="Silpheed (Japan) (Demo) (Fixed Dump).chd" size="115431564" crc="84FD04AF" sha1="7997512575FD256B429F003699A9FD4EEEDE76E8" />
+    <rom name="Silpheed (USA).chd" size="242583031" crc="FC7C7F83" sha1="EDAE1B9865C6DAE99203F7F09F656B619BBCA271" />
+    <rom name="SimEarth (Japan).chd" size="126038301" crc="2AE80DE5" sha1="779D3A85F0B82B33C50F120A0D9EE033897F1F8C" />
+    <rom name="Sing!! Sega Game Music Presented by B. B. Queens (Japan).chd" size="274134770" crc="3C3D523F" sha1="773182AC03C1ECC526FB5EE40CF8E2CFF77C5DBB" />
+    <rom name="Slam City with Scottie Pippen (Europe) (Disc 1) (Fingers).chd" size="418419034" crc="49E40DEA" sha1="7EBE011BE418BCEC810EC276252C3EAD0A0E54A1" />
+    <rom name="Slam City with Scottie Pippen (Europe) (Disc 1) (Fingers) (Demo).chd" size="333339700" crc="D39CDA6C" sha1="D8F3B84AD5546C99ECB7653990C9233F58BDA96D" />
+    <rom name="Slam City with Scottie Pippen (Europe) (Disc 1) (Fingers) (Mega-CD 32X).chd" size="453903113" crc="549B8A31" sha1="D1931901DBF48247DAA9DD24FB4336EE6420EFC9" />
+    <rom name="Slam City with Scottie Pippen (Europe) (Disc 2) (Juice).chd" size="406287798" crc="C16022D4" sha1="F157F1698BB2A0B677999D0C6E1C53C143E64387" />
+    <rom name="Slam City with Scottie Pippen (Europe) (Disc 2) (Juice) (Mega-CD 32X).chd" size="443107642" crc="15BFDBCF" sha1="AE692AC824C43A05D4EF8F8260D57C6260E8217A" />
+    <rom name="Slam City with Scottie Pippen (Europe) (Disc 3) (Mad Dog).chd" size="402890615" crc="648BB3D3" sha1="68CA636ED4B03499AA04763FE6BDA0A14CEC46A7" />
+    <rom name="Slam City with Scottie Pippen (Europe) (Disc 3) (Mad Dog) (Mega-CD 32X).chd" size="444224985" crc="45A6DCBD" sha1="599FB9EF904949EF70E5AE555F28F1EB6D4E7313" />
+    <rom name="Slam City with Scottie Pippen (Europe) (Disc 4) (Smash).chd" size="384269495" crc="1575F786" sha1="65569A09C493DA19FDC06DEB4B30FEAD714A20F7" />
+    <rom name="Slam City with Scottie Pippen (Europe) (Disc 4) (Smash) (Mega-CD 32X).chd" size="419989077" crc="4DBABD4B" sha1="CEDDB7A227FD28CBA12097CA622C2C030FF96C69" />
+    <rom name="Slam City with Scottie Pippen (USA) (Disc 1) (Fingers).chd" size="417384431" crc="FFCB35F2" sha1="26D260877A4AE981627329FA98323EA352416978" />
+    <rom name="Slam City with Scottie Pippen (USA) (Disc 1) (Fingers) (Sega CD 32X).chd" size="453902812" crc="E296EE50" sha1="FF74091E80A7E7292F410AD090C595156D12A886" />
+    <rom name="Slam City with Scottie Pippen (USA) (Disc 2) (Juice) (Sega CD 32X).chd" size="443107340" crc="A14F4339" sha1="A71A4E0521BA0F6E5E4162328E7791F5211CB09D" />
+    <rom name="Slam City with Scottie Pippen (USA) (Disc 3) (Mad Dog).chd" size="402879886" crc="1BBF1E50" sha1="99134651887B800C49ECFD5070FF0E11A838A582" />
+    <rom name="Slam City with Scottie Pippen (USA) (Disc 3) (Mad Dog) (Sega CD 32X).chd" size="444224733" crc="89F0D805" sha1="8BA3A3E2DDB86C36B1BED86A22267F7FD9F7D244" />
+    <rom name="Slam City with Scottie Pippen (USA) (Disc 4) (Smash) (RE-1).chd" size="384267467" crc="7A127659" sha1="4879ADC79D6E8CDA094FC77BD411F2F80E0BD978" />
+    <rom name="Slam City with Scottie Pippen (USA) (Disc 4) (Smash) (Sega CD 32X).chd" size="419988822" crc="585C9ACD" sha1="E86693EA069B966CC5F24F2C0B69CD46C7B3D82E" />
+    <rom name="Slam City with Scottie Pippen (USA, Brazil) (Disc 1) (Fingers) (RE-1).chd" size="417386724" crc="C553F409" sha1="058D2E4AA1994D36C60AB7FF10959AE445E4D0F7" />
+    <rom name="Slam City with Scottie Pippen (USA, Brazil) (Disc 2) (Juice) (RE-1).chd" size="405250607" crc="A76EE763" sha1="0EC6F134FE88AFA9A506DA82157AB27BCB57ABB8" />
+    <rom name="Slam City with Scottie Pippen (USA, Brazil) (Disc 3) (Mad Dog) (RE-1).chd" size="402882174" crc="60C84C00" sha1="CE347E1BCD4B4C0230E20125C0022AB6D81BE6EC" />
+    <rom name="Slam City with Scottie Pippen (USA, Brazil) (Disc 4) (Smash).chd" size="384265485" crc="7B5F397C" sha1="5A6A3F6A5D5F72BAEC76C0A60D7428FF6C8CAD0D" />
+    <rom name="Smurfs, The (Europe) (En,Fr,De,Es,It).chd" size="180880987" crc="DA87390E" sha1="EE20918FBE341D3250AA0704E241F8E75597302F" />
+    <rom name="Snatcher (Europe).chd" size="335406964" crc="535D1CA3" sha1="A1AA07BC8FD65B08C29EA05EBDD9E6D010D6F151" />
+    <rom name="Snatcher (Europe) (Beta).chd" size="335406781" crc="CAC2DF95" sha1="470481769282050D44F99931D87F8EC7ED41BAE0" />
+    <rom name="Snatcher (USA).chd" size="335408500" crc="D14202CB" sha1="FDDD2417741E5F0229638EFC8351653082731CFC" />
+    <rom name="Software Toolworks' Star Wars Chess, The (Europe).chd" size="106458098" crc="DEADF7F4" sha1="5648F45B438CFC5EA9A1B5F54404E38D75DFC414" />
+    <rom name="Software Toolworks' Star Wars Chess, The (USA).chd" size="106453415" crc="B90E25E9" sha1="A537CAC9F2E35572C1E9209819A435EAB363F941" />
+    <rom name="Software Toolworks' Star Wars Chess, The (USA) (Alt).chd" size="106453361" crc="A4553598" sha1="1D569E0B2EB0DDB4553D280309C6C87AEF8E6203" />
+    <rom name="Sol-Feace (Europe).chd" size="319029807" crc="1CA920FA" sha1="7902640A048B0115AC31B4714601EF16698FC252" />
+    <rom name="Sol-Feace (Europe) (Alt).chd" size="310309177" crc="98631DA6" sha1="A8259EAA72258195EE8AC794A89EEA59D40FBD23" />
+    <rom name="Sol-Feace (Japan).chd" size="365508970" crc="4EB51E05" sha1="6A5978CA6277664E55DE1DC5D53818951E50DE99" />
+    <rom name="Sol-Feace (USA) (RE).chd" size="307324130" crc="30A87292" sha1="E3495868B624AA7BA958E2BBAEA223DDC5B7FA12" />
+    <rom name="Sol-Feace (USA) (RE2).chd" size="307318782" crc="C9816DE5" sha1="A98B398B62A633F343C388301C48AA7AC9579A1D" />
+    <rom name="Sonic CD (Europe).chd" size="354462360" crc="B75A3072" sha1="AFBBD340DF3E293DCC35B9E00372DBCC3601D8A6" />
+    <rom name="Sonic CD (Europe) (Beta 1).chd" size="338830031" crc="C1AA2030" sha1="9087565255102451E90E6DFE2FB5790DFA32BD1F" />
+    <rom name="Sonic CD (Europe) (Beta 2).chd" size="338837640" crc="23075101" sha1="5E82014A390D5E940BCCA05C15AF931BA5C4DF1D" />
+    <rom name="Sonic CD (USA).chd" size="337290690" crc="2F2A1903" sha1="FEA85B63F06678B842D0872E63D6F9D5DBF1D593" />
+    <rom name="Sonic CD (USA) (Alt).chd" size="337290690" crc="A1A4ECC8" sha1="F8FFC510128CB28BB839F8DB6C82DED70AC7B207" />
+    <rom name="Sonic CD (USA) (Beta).chd" size="333761642" crc="24954C80" sha1="6EE6B4B2378964B27958D84C58747612F6B2F085" />
+    <rom name="Sonic CD (USA) (RE125).chd" size="337290620" crc="4D63D343" sha1="0FBD04E33A28D90910AF197C8F47EDFDBACFF8E5" />
+    <rom name="Sonic CD (USA) (RE125) (Alt).chd" size="337290618" crc="9226EE62" sha1="536786B201CF9B29B677897123BE7F3A708C3ED1" />
+    <rom name="Sonic MegaMix (USA) (Unl).chd" size="8131772" crc="102158C6" sha1="84259F6CDE6F4E4E3407108F93B2180BF66A1713" />
+    <rom name="Sonic the Hedgehog CD (Japan).chd" size="354613462" crc="625DD1AD" sha1="9685ABB2AA965EE0D45317362FF5AE27E8C54106" />
+    <rom name="Sonic the Hedgehog CD (Japan) (Beta 1).chd" size="339919283" crc="1453DBBA" sha1="037F3528420B26B1DD4B81691F3A3DE872319F7C" />
+    <rom name="Sonic the Hedgehog CD (Japan) (Beta 2).chd" size="338837424" crc="F6544C68" sha1="246318F1EF37C2C6E0D641E4956311494ABC4094" />
+    <rom name="Sonic the Hedgehog CD (Japan) (Demo).chd" size="338850067" crc="7EB5D7BF" sha1="32D5D933A7A1363F94D1761FD4FFD5D3BE8B3FD6" />
+    <rom name="SoulStar &amp; Battlecorps (Europe) (Demo).chd" size="98279771" crc="BA81B768" sha1="D97C7CB67A7CB033DC2CD5F53F9ACBC45A2F46BA" />
+    <rom name="SoulStar (Europe) (Demo).chd" size="59082252" crc="F9D2E6CB" sha1="E5E968EBCD42B585D16BDA744356EEA9CCAA9299" />
+    <rom name="SoulStar (Europe) (En,Fr,De).chd" size="359350616" crc="D64B3508" sha1="0642AD4878A01066215DE12294BA1EB30FA70E37" />
+    <rom name="SoulStar (Japan).chd" size="334177653" crc="241D34D8" sha1="AF9D7A8926FD3AD0A751E45C4DCF52F2DDD3B5DE" />
+    <rom name="SoulStar (USA).chd" size="345170855" crc="168C2BE8" sha1="B38D6C1E78C28913C426DDAD07567808CC8C3342" />
+    <rom name="Space Ace (USA).chd" size="161837659" crc="ABF25620" sha1="3226DD4D768D56EB8C72C646B8265717E8DA3B08" />
+    <rom name="Space Ace (USA) (Demo).chd" size="3430643" crc="24D7BC27" sha1="FC9C61C743FDE2FB79549B426A20954A6A1D39BF" />
+    <rom name="Space Adventure, The - Cobra - The Legendary Bandit (Europe).chd" size="116258185" crc="9BC69455" sha1="6E0B8EA7A2A92885A538E1C56184290F898446D2" />
+    <rom name="Space Adventure, The - Cobra - The Legendary Bandit (USA).chd" size="113787267" crc="524A7207" sha1="262B9C9BAF4D9AECAD9DC15E6C817FB4247836CF" />
+    <rom name="Star Wars - Rebel Assault (Europe).chd" size="206753576" crc="97126FA0" sha1="5CA84447CDE24405E95562E0140559C41256000A" />
+    <rom name="Star Wars - Rebel Assault (Europe) (Demo) (Mega Power).chd" size="44012423" crc="31B88612" sha1="708A0B34FFEBAAD2125809DC6A81DAED5841D685" />
+    <rom name="Star Wars - Rebel Assault (Europe) (Demo) (Sega Pro).chd" size="41352850" crc="565ADF21" sha1="48BE7A64598962620A8326C6DE37876604CE8C5C" />
+    <rom name="Star Wars - Rebel Assault (Japan).chd" size="206758424" crc="4F4A8D74" sha1="4293462EA2B29C3AF96A4E8F79387D74E7F8698C" />
+    <rom name="Star Wars - Rebel Assault (USA).chd" size="206763644" crc="7E2E8155" sha1="E83B32D09CC6B10408D471F48DFFC43EE8F17714" />
+    <rom name="Star Wars - Rebel Assault (USA) (Limited Run Games).chd" size="203884219" crc="5CD8A0E4" sha1="53E6D81F4F067CF6F532639AD039B4AD5D8770B0" />
+    <rom name="Starblade (Europe).chd" size="119369329" crc="41639D0B" sha1="82AA4E86539F9C98D1016473E1A139597AEB7E9F" />
+    <rom name="Starblade (Japan).chd" size="117510254" crc="1A52B29F" sha1="4D051BD52BC2F9D967CDA6D5A4F338911DFF546B" />
+    <rom name="Starblade (USA).chd" size="117512292" crc="DEAE3FA7" sha1="D692F1219AF1B0470BDF8BCA1B73CD8764EFD6FE" />
+    <rom name="Stellar-Fire (USA).chd" size="272150956" crc="CF42B4F7" sha1="F8E22CF76EC0421D15DFA7D5654EA39E410C6071" />
+    <rom name="Super Strike Trilogy (USA) (Unl).chd" size="208619297" crc="28172CA9" sha1="03F49A5AB05345F29F3CD70DEE9B384D6BE673DB" />
+    <rom name="Supreme Warrior (Europe) (Disc 1).chd" size="349004018" crc="D96CAF6F" sha1="BEDADD276534353E5F8AAC71CC1DC8CA3B9BE610" />
+    <rom name="Supreme Warrior (Europe) (Disc 1) (Mega-CD 32X).chd" size="370523394" crc="32AD6B52" sha1="73EDE38EC0D50A98773A717BAA81BE8839B21179" />
+    <rom name="Supreme Warrior (Europe) (Disc 2).chd" size="340435839" crc="1592224E" sha1="7310AF8F022E5847AFFE535DBC270CAC26119DDB" />
+    <rom name="Supreme Warrior (Europe) (Disc 2) (Mega-CD 32X).chd" size="365583875" crc="DFA1583D" sha1="43464A239EFAC5DF2C09F7FE316EF8C09ACD87E1" />
+    <rom name="Supreme Warrior (USA) (Disc 1) (Fire &amp; Earth).chd" size="349071319" crc="20F3D5AA" sha1="7AD4EC4D9A160F54DF717CE76024D85B84132618" />
+    <rom name="Supreme Warrior (USA) (Disc 1) (Fire &amp; Earth) (Alt).chd" size="349078207" crc="8DAB2064" sha1="833D734C906004C060B0458E9ADF8D9D2007B999" />
+    <rom name="Supreme Warrior (USA) (Disc 1) (Fire &amp; Earth) (Sega CD 32X).chd" size="370523405" crc="061983C7" sha1="24EABAA0C6FFE645983648B3EABAF7FB895142FD" />
+    <rom name="Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu).chd" size="340579785" crc="CD3A2D0A" sha1="B2B95B30E875BDDD6A67F6D2FE6A82963DC243FA" />
+    <rom name="Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu) (Sega CD 32X).chd" size="365583701" crc="DBD74CD0" sha1="6C68BDC1026AE0E3BC409C910C026ABD24570FA8" />
+    <rom name="Surgical Strike (Brazil) (Sega CD 32X).chd" size="348897841" crc="4D25B871" sha1="46D5A284A5C3C3C7599A586F7A58ACA37A549366" />
+    <rom name="Surgical Strike (Europe).chd" size="324535879" crc="5F7561DC" sha1="854D622C2B89BD2A107932FB37DBDAA837907B88" />
+    <rom name="Surgical Strike (Japan).chd" size="325840643" crc="19F9F01C" sha1="AB1537B2A9E3A4621E886D3D0C1134D66FD45EC9" />
+    <rom name="Surgical Strike (USA).chd" size="324542351" crc="8ECBB37F" sha1="BB74C21B5F4195302985397348D34B32A87BC3C2" />
+    <rom name="Surgical Strike (USA) (Alt).chd" size="324537885" crc="89CF4050" sha1="143A3EDBAD6A4D8E1DE2498D55BEF74D8D3B7C7C" />
+    <rom name="Switch (Japan).chd" size="232314825" crc="77F806CE" sha1="7457F2AF4320E23E4EF6A6D0EA9E4E14D6E7740B" />
+    <rom name="Syndicate (Europe).chd" size="175443297" crc="0ED8F09A" sha1="B8F9048B0089A575D75AFBA56E7AB25D9CC09C71" />
+    <rom name="Tenbu Mega CD Special (Japan).chd" size="264690489" crc="BC6D498D" sha1="B0678EA06A6466E48308D3A5EC251C12A96702BA" />
+    <rom name="Tenkafubu - Eiyuutachi no Houkou (Japan).chd" size="282135181" crc="D6D48AD2" sha1="9B292C533AFF789B90A2260CDD4043BB508CC301" />
+    <rom name="Terminator, The (Europe).chd" size="254165283" crc="4FC25CFA" sha1="A921CD6E67E10A9111FAD2D2A85547EA2C4CF478" />
+    <rom name="Terminator, The (USA).chd" size="252308679" crc="B8FE556B" sha1="6838F12997410EBA7F20FB9164DF9977AF99BA67" />
+    <rom name="Theme Park (Europe).chd" size="42809853" crc="04C87E67" sha1="E21374625563088C23FE5AB420C1AB2C1F88F9D5" />
+    <rom name="Third World War (USA).chd" size="224477136" crc="F7357780" sha1="628D4A39A3BA229E3F0DF5FF26954F43CC81FB15" />
+    <rom name="Thunder Storm FX (Japan).chd" size="63449475" crc="461EA94A" sha1="A4A90B2AF77CA49DAC4F81618004FF0F8B8F4772" />
+    <rom name="Thunderhawk (Europe) (Demo).chd" size="71196173" crc="3A7808A3" sha1="BFDB21E91222A4EE1DA0224B13ADE1A19981333F" />
+    <rom name="Thunderhawk (Europe) (Demo) (Mega Power, Sega Pro).chd" size="65334008" crc="D31965F1" sha1="7C32E674CCC96704C911CF818C90D381B45B62B6" />
+    <rom name="Thunderhawk (Europe) (En,Fr,De,Es) (RE).chd" size="269581534" crc="67929D85" sha1="999B13CD94C85B6B01D3F3C2FB0F1B3D98CAE198" />
+    <rom name="Thunderhawk (Japan).chd" size="252669854" crc="93537EE1" sha1="A19B77B295975E52D6679546085A9311CBBB44D8" />
+    <rom name="Thunderhawk (Japan) (Demo).chd" size="62582905" crc="8FBEB43A" sha1="E225DD4F89F361CDB7ABB14CA725A0ACD3835017" />
+    <rom name="Time Gal (Europe).chd" size="64921307" crc="1C67D300" sha1="C04FC116AC9A3C5F236F72555E70546D38A2151D" />
+    <rom name="Time Gal (Japan).chd" size="69524823" crc="877CCCCB" sha1="23D3B8708FCDE689F75B16D37A66636744EC6B79" />
+    <rom name="Time Gal (USA).chd" size="64920652" crc="0180E273" sha1="D24F6734306F94D7993BEE5033C0FF97FB551C32" />
+    <rom name="TimeCop (Europe) (Demo).chd" size="9602020" crc="51DBA66D" sha1="B4B0FE8A0850BA9224032634C5793EDFA535D611" />
+    <rom name="Tomcat Alley (Australia).chd" size="395016089" crc="EC3E76D7" sha1="3CFD748CDDD0CAFEA9A44EB20EC226F27DB81D6A" />
+    <rom name="Tomcat Alley (Europe).chd" size="395044737" crc="3A376512" sha1="0235F9957A8716FE368B3781A3C6493E97BCFE88" />
+    <rom name="Tomcat Alley (France).chd" size="364560801" crc="4FD3166D" sha1="2793D61BF5C31E5A668EBCBEAB8641F78C9FF237" />
+    <rom name="Tomcat Alley (Germany).chd" size="364529690" crc="4A3992E2" sha1="D3DDD01207CDB794E47C3F3941A0A1858B2D450F" />
+    <rom name="Tomcat Alley (Japan).chd" size="363803285" crc="CF63B37D" sha1="A044D421DF99A5B2F133E6056668C2669EF82965" />
+    <rom name="Tomcat Alley (Spain).chd" size="364263394" crc="D1C2107D" sha1="98FD98E20FEC26C5639E4AA77F408434FCDE26EC" />
+    <rom name="Tomcat Alley (USA).chd" size="395607803" crc="0E5BD08E" sha1="35B17131A4327FB2D3631BFA38DF143B7BFD7F5A" />
+    <rom name="Tomcat Alley (USA) (Alt).chd" size="395015738" crc="E4E5E33B" sha1="6B90E0D116D203F853B045BB1C08A35C1EE24125" />
+    <rom name="Trivial Pursuit (USA).chd" size="236776351" crc="203A84A3" sha1="ED7F7BE02743A43CFDF41AC8E6491D648B9588D1" />
+    <rom name="Ultraverse Prime (USA).chd" size="265786637" crc="5CF2D73B" sha1="0578DD3067A5E42A645024E472BACE475682805B" />
+    <rom name="Urusei Yatsura - Dear My Friends (Japan).chd" size="140186877" crc="2672DF7B" sha1="1ABC67092FEAB4FA87EFEAD1B62AED82C1962A1D" />
+    <rom name="Urusei Yatsura - Dear My Friends (Japan) (Demo).chd" size="18412195" crc="96F76B95" sha1="A7B77D91DDC02AEFF0BE4667DEACBA2637EB100C" />
+    <rom name="Vay - Ryuusei no Yoroi (Japan).chd" size="206921661" crc="905DB1AB" sha1="1E02403A690212A5DBECDF53516508E05512696C" />
+    <rom name="Vay (USA).chd" size="233822133" crc="1D64D9C1" sha1="A14FDFB739B1899CDF32894275C0F80A727228ED" />
+    <rom name="Wakusei Woodstock - Funky Horror Band (Japan).chd" size="122428814" crc="34C9153C" sha1="61C4AD5ED36927E926F017F799D87C69E7ADBA91" />
+    <rom name="Warau Salesman (Japan).chd" size="75968668" crc="97D6D9DF" sha1="8A9B27834C64D41D2A32D891233532D652ED175D" />
+    <rom name="What is X'Eye Multi Entertainment System (USA).chd" size="52774077" crc="7B4279B5" sha1="CB8191C080BF3036361A2634C8E8485D8D6B30A5" />
+    <rom name="Wheel of Fortune (USA).chd" size="78569415" crc="C4F53CC4" sha1="095005C4F70D379977E5EC4C3850EE9AC6EDD571" />
+    <rom name="Who Shot Johnny Rock (USA).chd" size="169218129" crc="D01D89EF" sha1="AE8AED420A8868D9DCFA1DFA354532AD43560EC6" />
+    <rom name="Wild Woody (USA).chd" size="314278708" crc="85B786DE" sha1="5AB94CCE705ACE87C4F726E38D98C163B49B81D3" />
+    <rom name="Wing Commander (Japan).chd" size="219920694" crc="5EDA3701" sha1="598F5FA35373D406318BD53A3267CA9E3F0279F1" />
+    <rom name="Wing Commander (USA).chd" size="218111677" crc="70E0FC38" sha1="FC59B767617A4B97A6295BBDBFA266AAFB9D40D3" />
+    <rom name="Winning Post (Japan).chd" size="65111779" crc="5F6BD0D7" sha1="920DD7FF2B8A0E23187F24B80A1FFC1E96960D72" />
+    <rom name="WireHead (USA).chd" size="412091027" crc="4F5DDDC2" sha1="330DC4ECAB74AEBB00A087CB321351145EDC2D5F" />
+    <rom name="Wolfchild (Europe).chd" size="239545312" crc="1D397980" sha1="33D490D9CAAC0F631114A7DD8B009CB82DE0E961" />
+    <rom name="Wolfchild (Japan).chd" size="239544316" crc="4B103D1D" sha1="727D4F9D399A0E02EE470C004D8468F27E7FE744" />
+    <rom name="Wolfchild (USA).chd" size="233178354" crc="7A03A068" sha1="D27B99BD224127A507E2387590FCD016962D67DE" />
+    <rom name="Wonder Dog (Europe).chd" size="308374911" crc="53700E60" sha1="95FF7D497FDDC7CA4AA7F4F9ECAD82A170CF4597" />
+    <rom name="Wonder Dog (Japan).chd" size="324829170" crc="3A575847" sha1="F8F250164AC79DA89F0CC0C24FDA6D160EAD7EFC" />
+    <rom name="Wonder Dog (USA) (RE).chd" size="308382414" crc="68DC1D50" sha1="7EC6565C929A9665D7465349E8E0D8BDC9204DF3" />
+    <rom name="WonderMega Collection (Japan) (Rev 2).chd" size="323036494" crc="245C9B4F" sha1="1DCB169BE3D70F618F468CCABD31875AAC870C6C" />
+    <rom name="World Cup USA '94 (Europe).chd" size="384022570" crc="8DBE1244" sha1="8D45F38A76F68F8D76926EEDB0E50A2258F3C2CB" />
+    <rom name="World Cup USA '94 (USA).chd" size="384063123" crc="8927B520" sha1="8149C1EBA3EEA4C3866BEDEAD5C5CC34749880B0" />
+    <rom name="WWF - Rage in the Cage (Europe).chd" size="68650715" crc="01AC1931" sha1="F03F90E610DBD866752A4C8994660F1D94B6BA0C" />
+    <rom name="WWF - Rage in the Cage (USA).chd" size="68708194" crc="96F9C6EB" sha1="9249813CD9BD3837E03E1322EFE346D9168BE110" />
+    <rom name="WWF Mania Tour - WWF - Rage in the Cage (Japan).chd" size="68652702" crc="F5BA24B9" sha1="AFF0AF330B49FEBC1690F0249C987C9D0C2D6AF6" />
+    <rom name="Yumemi Mystery Mansion (Australia).chd" size="213440019" crc="2CEEA59D" sha1="ACBCB91C4EA409D664F23FA13B1535B2ADBE72C8" />
+    <rom name="Yumemi Mystery Mansion (Europe) (Made in EU).chd" size="213444540" crc="63873B82" sha1="9A39DA842082B181FE919D7A9FCB6F6D69036BF9" />
+    <rom name="Yumemi Mystery Mansion (Europe) (Made in Japan).chd" size="213445770" crc="5BA5E9C0" sha1="4E4403439B3EB05639747F99A4E3524074F7683E" />
+    <rom name="Yumemi Yakata no Monogatari (Japan).chd" size="231549408" crc="9B052772" sha1="2B83EDA780A1BDC32133B1B0EA0D3796C4951907" />
+    <rom name="Yumemi Yakata no Monogatari (Japan) (Demo).chd" size="231321942" crc="3328E633" sha1="7069A80B234B6F006A7DECA0BA3A607EE70B8FB5" />
+    <rom name="Yumimi Mix (Japan).chd" size="123355870" crc="53D98865" sha1="0FA9B8A2C658DCA2A26ACA0238FF5D7A2FDCB054" />
+    <rom name="3rdww\iiird world war, the (1993)(micronet)(ntsc)(jp).chd" size="193136874" crc="D8876B0B" sha1="64B0BE45116E2303B3E8AA76C13E1753DC406E3F" />
+    <rom name="3rdww\the third world war (usa).chd" size="242975603" crc="1CA19D8B" sha1="787BE2654A60CF4A04D9A9537236B4F8DA4140F2" />
+    <rom name="aburner3\after burner iii (1993)(sega)(pal).chd" size="222077121" crc="364F45CA" sha1="DC5F30D80B016F3045C18D4480C6EB7AB8FE2D62" />
+    <rom name="advbatr\adventures of batman and robin, the (1995)(sega)(pal).chd" size="205822730" crc="2C1304B4" sha1="70EF25065303C4BAF673D8B9A80B4DD67A9DB1C2" />
+    <rom name="afterarm\after armageddon gaiden - majuu toushouden eclipse (1994)(sega)(ntsc)(jp).chd" size="340471788" crc="B4615D1A" sha1="84EE9FDBD3622C673A945C485EC19DF1B8C354B1" />
+    <rom name="aislelrd\aisle lord (1992)(wolf team)(ntsc)(jp).chd" size="133475618" crc="3C35CF80" sha1="F15435420C6A183AA81C4735C5A39CF88786111A" />
+    <rom name="alshark\alshark (1993)(polydor k.k.)(ntsc)(jp).chd" size="333343847" crc="EEFF47D6" sha1="7166B8855DD460CB15596F716E47BA96B0F80CBF" />
+    <rom name="anettfut\anett futatabi (1993)(wolf team)(ntsc)(jp)(en).chd" size="375870087" crc="821E9C8E" sha1="8F56A1E947F3B52CED29BD1C3BFC7628C7C214D7" />
+    <rom name="animals\san diego zoo presents the animals, the - a multimedia experience (1994)(mindscape)(pal).chd" size="304793443" crc="526645AE" sha1="11605D26B54C240C2939F8271510FECA72113FF1" />
+    <rom name="animals\the san diego zoo presents... the animals (usa).chd" size="304937674" crc="5BE32B3D" sha1="A5F6085A2FCC160196090C258A0E82409CCC95B3" />
+    <rom name="arank\a-rank thunder tanjouhen (1993)(riot)(ntsc)(jp).chd" size="241105701" crc="A77CBD70" sha1="FDA594ECED28E011DF95991213B5B4D83439FEAF" />
+    <rom name="arcus123\arcus i-ii-iii (1993)(wolf team)(ntsc)(jp).chd" size="264062733" crc="7CD91F6F" sha1="BD0F1A8F65D9571C14ECDC65B71726FD759CC7B1" />
+    <rom name="arslan\arislan senki - the heroic legend of arslan (1993)(sega)(ntsc)(jp).chd" size="233489907" crc="B8B62E9D" sha1="00455AD446E97204CDC5BB0A833C3E5FFC6C0ED9" />
+    <rom name="bakuden\baku-den - the unbalanced zone (1994)(sony)(ntsc)(jp).chd" size="168602848" crc="4593433A" sha1="89ACC0C4073B0BD73A36F9258AC9C0DD07B5E4A1" />
+    <rom name="bariarm\bari-arm (usa).chd" size="224765689" crc="720FC605" sha1="30DE0D9BEB9FA3859A84C86F507396D0AF4CD089" />
+    <rom name="batlfant\battle fantasy (1994)(micronet)(ntsc)(jp).chd" size="343175135" crc="B8F900B9" sha1="1EF672DAF4C00B8C99EBB73DA91AAB4A27A12588" />
+    <rom name="batlfrnz\battle frenzy (usa, prototype).chd" size="334163911" crc="6A31A58C" sha1="101BA4BE14D62C790A7CEB2C7E6E53CC252A870B" />
+    <rom name="bcracers\bc racers (demo) (1994)(core)(pal)[mega power - issue 18].chd" size="18404347" crc="23AC4D97" sha1="F88F4E999B67FC3EB16BE11C640D0BA144E70190" />
+    <rom name="bcracers\bc racers (demo) (1994)(core)(pal)[sega pro cd - issue 41].chd" size="27741794" crc="25E4F9ED" sha1="B5D030B3C557E45B61EEDCDDAE89C63B3B8D9AF2" />
+    <rom name="billwlsh\bill walsh college football (1993)(ea sports)(pal).chd" size="153706807" crc="A85FB033" sha1="ACA482118FE172D1905A007A44B4FF141B7027ED" />
+    <rom name="billwlsh\bill walsh college football (usa).chd" size="154051384" crc="197C440A" sha1="66196575FD23AC098814995E444F883FA6F7738A" />
+    <rom name="blackh\blackhole assault (usa, alt).chd" size="353073607" crc="6518B372" sha1="78AF83711939CBE6FDEC57B58785F5FD35DBF4D1" />
+    <rom name="blackh\blackhole assault (usa, prototype 19920210).chd" size="352445248" crc="697ECFE5" sha1="4E157BE13FEF4E8F36F3E4C0C2652045F92520CA" />
+    <rom name="blckhole\black hole assault (1992)(micronet)(ntsc)(jp).chd" size="361635114" crc="897D40AD" sha1="8CA92A3AFDB7963488892A195152EFB66BB1BE89" />
+    <rom name="bloodsht\bloodshot (1995)(acclaim)(pal)(m4)[aka battle frenzy].chd" size="350176857" crc="CEEEF94F" sha1="BCC31553A8794F1D5BAFC3CBAF265D5936CF8CEB" />
+    <rom name="brutal\brutal - paws of fury (1994)(gametek)(pal)(m3).chd" size="205795425" crc="956E67D2" sha1="8B87B47C22548ED5477F6957F152A2FD648157C7" />
+    <rom name="brutal\brutal - paws of fury (usa).chd" size="206107489" crc="DD27B90F" sha1="D80FBBEAA91CA1DC18EB6247FF8CFF389E96B409" />
+    <rom name="btlcorps\battlecorps - 3d mechanical battle simulator (1994)(victor)(ntsc)(jp).chd" size="303151416" crc="9CE1444B" sha1="F6FDB24B9B19E690E3495503A2F352C0E3E68A46" />
+    <rom name="btlcorps\battlecorps (demo) (1994)(core)(pal)[mega power - issue 11, sega pro cd - issue 50].chd" size="43980695" crc="73016C97" sha1="CC3F06022C8A0B321B9FC6FBB3A1AE8199B425D9" />
+    <rom name="btlcorps\battlecorps and soulstar (demo) (1994)(core)(pal)[mega power - issue 14].chd" size="102880118" crc="CC6C562A" sha1="186806D75431375EC3B111F8A5BCE39B6B0F172A" />
+    <rom name="bugblastse\the exterminators - special edition (usa, prototype).chd" size="426054470" crc="329F54EA" sha1="8CAFBC7EA54AC6A6AA975292A994C1647661891D" />
+    <rom name="bugblastse\the exterminators (usa, prototype).chd" size="426055067" crc="F7DBDCE1" sha1="911C625F336A7B64B41A89372FE6650E096502AB" />
+    <rom name="ccmusic\c+c music factory (usa).chd" size="262629775" crc="52440DF9" sha1="6657ECE1FAD5F51D749D2BB326BE2B9D2051433D" />
+    <rom name="ccmusic\power factory featuring c+c music factory (1993)(sony imagesoft)(pal).chd" size="263476877" crc="CE206585" sha1="C29FC9610792583C4BC003B357EB4330FB6D3F54" />
+    <rom name="chuckrck\chuck rock (1993)(sony imagesoft)(pal).chd" size="191966335" crc="00F8B9BC" sha1="8552517CAEECADF34DB246AC8284BDBC385FF6A1" />
+    <rom name="chukrck2\chuck rock ii - son of chuck (1993)(core)(pal).chd" size="248853739" crc="F93053AC" sha1="BF511F7A549FB403C8EC3769BEF1C586FDE68C3E" />
+    <rom name="citizenx\citizen x.chd" size="151952591" crc="B4C2CDF2" sha1="111B7910B14FD663B9CB0D372D8EDB04BFABD32D" />
+    <rom name="cobracom\cobra command (1993)(sega)(pal)[mk-4402p-00032 2].chd" size="57640134" crc="6505D05F" sha1="3DA8CED40338D4811F1500E7E89E7D69C4273892" />
+    <rom name="cobracom\cobra command (1993)(sega)(pal)[mk-4402p-00032-r1m].chd" size="57640756" crc="5D880BDF" sha1="D0A111A060C141A12FAD871D50D8870588F26ADF" />
+    <rom name="comptons\compton's interactive encyclopedia v2.10 (usa).chd" size="182117437" crc="E2985383" sha1="8314B99452A11AD884C21380E15EF378E432FAC4" />
+    <rom name="corpse\corpse killer (usa).chd" size="430166595" crc="E93E1037" sha1="D324A5414220BF54898769AF3A0FE2462D35E50C" />
+    <rom name="ctsuba\captain tsubasa (1994)(tecmo)(ntsc)(jp).chd" size="66041492" crc="4BCBAA84" sha1="09A33BAA4F47191EA31AF0CD35A70E7D7C1CDDC9" />
+    <rom name="daihoush\daihoushinden (1995)(victor)(ntsc)(jp).chd" size="122222276" crc="7D705FD7" sha1="A0E764F2FB761CC3133B7516C18DDE86A2309090" />
+    <rom name="darkwiz\dark wizard - yomigaeri shiyami no madoushi (1993)(sega)(ntsc)(jp).chd" size="189352121" crc="8FDD1BE0" sha1="351966AA38524D1876F8B957439082EC5F42E579" />
+    <rom name="dblswtch\double switch (1994)(sega)(pal).chd" size="431293665" crc="152A4151" sha1="B826F8E91D7082514EF7FE2B529C699127A888DB" />
+    <rom name="dblswtch\double switch (1995)(sega)(ntsc)(jp).chd" size="426779237" crc="0017D7F4" sha1="D0385999E2BF0D575E2E094E3449FF223442235F" />
+    <rom name="deathbrn\death bringer - himerata monshou - the knight of darkness (1992)(riot)(ntsc)(jp).chd" size="72881386" crc="95A8B630" sha1="6E9287958FBF8D0ED5492C573E358571C4D76E1A" />
+    <rom name="dino2\cadillacs and dinosaurs - the second cataclysm (bra).chd" size="443028441" crc="1CC36926" sha1="13D1F61BBF0B22A6FB6308140E53FFA4F0A305D3" />
+    <rom name="dino2\cadillacs and dinosaurs - the second cataclysm (usa).chd" size="443027850" crc="2559D3C8" sha1="52991CFA9F3C63A45E11B926D65AA68E75E859F5" />
+    <rom name="dlair\dragon's lair (1994)(sega)(pal)(m4).chd" size="142827075" crc="4F543E34" sha1="3B9C0A6E417335B3D6633791DA3C99504C8BD0E8" />
+    <rom name="dlair\dragon's lair (usa, demo).chd" size="5216896" crc="5D47B0A5" sha1="50474B9973A4E05661C1BE2075FBC7429B3B32F8" />
+    <rom name="dmaster2\dungeon master ii - skullkeep (usa).chd" size="98396279" crc="D90DADCE" sha1="0020087E153489FC683F1E404D1318609BD355E9" />
+    <rom name="dmaster2\dungeon master ii - skullkeep v1.0 (1994)(jvc)(pal).chd" size="98401276" crc="9A9E2CCA" sha1="625D8F608B5A5F73F1163D3CA23DAEAD52DF4927" />
+    <rom name="dmaster2\dungeon master ii - skullkeep v1.0 (1994)(victor)(ntsc)(jp).chd" size="90494306" crc="27311618" sha1="B37CBE92AC7917E00D984C6CF90EDFD416790861" />
+    <rom name="dune\dune (usa).chd" size="191458729" crc="291548B1" sha1="47E19F42F7740013D4A22EF7396199B4B22C7808" />
+    <rom name="dungexpl\dungeon explorer (1994)(hudson)(pal).chd" size="297931680" crc="AC81F57F" sha1="0CB0E286A11AD1F07B8471F01B53DC0A98ADC91D" />
+    <rom name="ecco\ecco the dolphin (1993)(sega)(pal)[i-2647 a].chd" size="307661171" crc="2569827C" sha1="2C1A8C07FC46C5730B8DD04FEAA2B7846F61E5F9" />
+    <rom name="ecco\ecco the dolphin (1993)(sega)(pal)[mk-4408p-00135 1].chd" size="307663249" crc="DA6C8204" sha1="4DCAC162DC3714C4AA716FA2C7AE5347F24178ED" />
+    <rom name="ecco\ecco the dolphin cd (1995)(sega)(ntsc)(jp)(disc 1 of 2)[ecco the dolphin].chd" size="319611668" crc="60B8238C" sha1="A4D4B47B4D4F70D0C5679E04BFA7F56CF3BC2B49" />
+    <rom name="ecco2\ecco the dolphin cd (1995)(sega)(ntsc)(jp)(disc 2 of 2)[ecco the dolphin ii].chd" size="400708948" crc="8FD91935" sha1="29C39340482AFC2E157CC229469B0EF0F5E03D68" />
+    <rom name="espnhn\espn national hockey night (usa).chd" size="227211709" crc="4DF54F4D" sha1="FFBAD7DBA0E3637865E5FB9D98F648C00F92DAEC" />
+    <rom name="eternalc\eternal champions - challenge from the dark side (1995)(sega)(pal).chd" size="291309626" crc="06C86033" sha1="586D30DE8707B5743EBD0910631FE924B2A2CC25" />
+    <rom name="eyebehol\eye of the beholder (1994)(pony canyon)(ntsc)(jp).chd" size="247837806" crc="B20C24FF" sha1="0529955523281670B1C1E45A8E81A8D68C006296" />
+    <rom name="eyebehol\eye of the beholder (1994)(sega)(pal).chd" size="247641109" crc="E359E4F1" sha1="665AD80BF3E086459A9BF124A967BE784F5C0CEB" />
+    <rom name="f1btl\formula one world championship - beyond the limit (1994)(sega sports)(pal).chd" size="420622272" crc="DF628B52" sha1="28DA134FA639153CA59A2150C9EEB7C4CA0B9258" />
+    <rom name="fahrenhe\fahrenheit (1995)(sega)(ntsc)(jp).chd" size="376120132" crc="0E4BA846" sha1="911CF9E3873296BCE59E0B7144D4C19785D0E104" />
+    <rom name="fahrenhe\fahrenheit (1995)(sega)(pal)(fr).chd" size="364534212" crc="6074988C" sha1="093477E432C1DEF6F441702F953145232C59DBEC" />
+    <rom name="fatfursp\fatal fury special (1995)(jvc)(pal).chd" size="332627723" crc="8755DFCB" sha1="3935C837913E11A2AF7FDA4401A84609BFC3A5D9" />
+    <rom name="fatfursp\fatal fury special (demo) (1995)(jvc)(pal)[sega pro cd - issue 46].chd" size="52067407" crc="10A144A4" sha1="ED5887AFF0E8A2493940D09342DD417ADFE51AC3" />
+    <rom name="fatfursp\fatal fury special (usa, prototype).chd" size="339030500" crc="D054A018" sha1="1E09B0161647CDF6064A7AB0490662773BE9F012" />
+    <rom name="fheyarea\seirei shinseiki - fhey area (1992)(wolf team)(ntsc)(jp)[t-32034p-00009-r1k].chd" size="355234454" crc="23159765" sha1="58E5B3829B8C86A330CC60573BB03755FE81B446" />
+    <rom name="fheyarea\seirei shinseiki - fhey area (1992)(wolf team)(ntsc)(jp)[t-32034p-00009-r2k].chd" size="355236053" crc="35C4CBBE" sha1="CBD4871314046CAD8276C5D2584FA07F66C2A634" />
+    <rom name="fifa\fifa international soccer - ce (demo) (1994)(ea sports)(pal)(m4)[mega power - issue 13].chd" size="115362376" crc="58D9EF6F" sha1="F8C4389174EE7CFEAD980BBF52415A29891D31BC" />
+    <rom name="fifa\fifa international soccer - ce (demo) (1994)(ea sports)(pal)(m4)[sega pro cd - issue 43].chd" size="115360673" crc="74FD00EF" sha1="2C957A2CEBA619BD343A2785F1B04AF05540629C" />
+    <rom name="fifa\fifa international soccer - championship edition (1994)(ea sports)(pal)(m4).chd" size="334475333" crc="2DAC3C41" sha1="C8FFA07B4A98B57FE57D17005351AEDCC2E3CBDE" />
+    <rom name="flashb\flashback - the quest for identity (usa).chd" size="286789713" crc="34A0968C" sha1="9E5421C58720B5C9548660C232007487838135FF" />
+    <rom name="flashbd\flashback - the quest for identity (demo) (1994)(u.s. gold)(pal)[sega pro cd - issue 42].chd" size="62582663" crc="700B1E7E" sha1="F4144C59012057A8785ACA77255BC2DDC218A808" />
+    <rom name="flink\flink (1994)(psygnosis - sony electronic publishing)(pal)(m5).chd" size="309919118" crc="D6571A3C" sha1="F8DD01ED43EAC46FE07B0D0BD2CBBE7EAF32D4CE" />
+    <rom name="frcestrk\force striker (usa, prototype).chd" size="315621983" crc="992869F1" sha1="F43EA129F0217BB3E2F94D0A99877D8020C3DBC5" />
+    <rom name="frog\frog feast (usa).chd" size="24702899" crc="FBCDDA07" sha1="F009E5D42358303DA3D5D749475BB3A96BDD2B19" />
+    <rom name="frog\frog feast (usa, demo).chd" size="14275" crc="BAB25D4A" sha1="C1A046D8DC75554EDE611959649C7ABF50E3F457" />
+    <rom name="genchohi\aoki ookami to shiroki mejika - genchou hishi (1993)(koei)(ntsc)(jp).chd" size="320178108" crc="B2DD24C9" sha1="5386ABF1489F7493AC80C3C3A5AE1C29D37D7FC8" />
+    <rom name="graydeth\battletech - gray death legion (usa, prototype).chd" size="41557623" crc="F4716ECC" sha1="3B9D30333BF8CC4ED59BE825F0723556971F7F45" />
+    <rom name="gztexas\ground zero texas (usa, alt) (disc 1).chd" size="283226571" crc="26A8B146" sha1="D18D3F714709C50D40A159F6B87CD10E889860A3" />
+    <rom name="gztexas\ground zero texas (usa, alt) (disc 2).chd" size="268006150" crc="2FF72ACA" sha1="1409ADA97E97CBAC138B9353430ED942A0B58C67" />
+    <rom name="holmes2\sherlock holmes - consulting detective vol. ii v1.0 (1993)(sega)(pal)(disc 1 of 2).chd" size="249107760" crc="815DD1B2" sha1="A9915B8D59F9CB36880EB09F1A620459FA6123C0" />
+    <rom name="holmes2\sherlock holmes - consulting detective vol. ii v1.0 (1993)(sega)(pal)(disc 2 of 2).chd" size="150232584" crc="0B0B8EDA" sha1="65928811F731A40D44A7D3F42EDC0979DC7672D9" />
+    <rom name="hook\hook (1993)(sony imagesoft)(pal).chd" size="176723297" crc="6E9A8090" sha1="5C39006BBCB8EC93F1A682ADA1E7E731347D0BC1" />
+    <rom name="hook\hook (usa, alt).chd" size="176749857" crc="F9815A52" sha1="7524283834B15967F473B6753EA93E537ADBFE4D" />
+    <rom name="hothits\hot hits - adventurous new music sampler (usa).chd" size="252657278" crc="A8FA1D8F" sha1="E36D512749F4583C75109AD5FB9ECF44431B85EC" />
+    <rom name="illcity\denei toshi - illusion city (1993)(micro cabin)(ntsc)(jp)[t-51014p-00066-r2m].chd" size="212158574" crc="14564ED2" sha1="9693104FC957491F5EF6F517209DE088F2577165" />
+    <rom name="inxs\inxs (1993)(sega)(pal).chd" size="311063888" crc="BD6BB70B" sha1="2335157799A89DF0F5969CD2FA8D4351054B2A59" />
+    <rom name="inxs\inxs (usa).chd" size="308322634" crc="4D4E367C" sha1="914DA54191354F661E65A4B7B4C2D91EC2E138E8" />
+    <rom name="ishiihis\ishii hisaichi no daisekai (1994)(sega)(ntsc)(jp).chd" size="1786412" crc="C657B534" sha1="FBB886741D48946DB04A486B75CE502B7EAFE538" />
+    <rom name="jagxj220\jaguar xj220 (usa).chd" size="278022623" crc="50073159" sha1="ABC6D0ED132C346DA5D211D7591B831AE65EE560" />
+    <rom name="johnnymn\johnny mnemonic (usa, prototype) (disc 1).chd" size="495308366" crc="DE926C2D" sha1="5BF920C157095DB641357EEC4E3D5EB33FC0E4DA" />
+    <rom name="johnnymn\johnny mnemonic (usa, prototype) (disc 2).chd" size="233589184" crc="202538C6" sha1="9C3E597A26E60BFEE06E6E4319B4654D67F5C2F7" />
+    <rom name="jpark\jurassic park (1992)(sega)(ntsc)(jp).chd" size="264995861" crc="43D20C01" sha1="185DAEE299359B2A016BAC60E5E7084C0715F4F5" />
+    <rom name="jpark\jurassic park (1994)(sega)(pal)(de).chd" size="263338912" crc="F349FD89" sha1="C51980B6686F84FED9436F2F3A1946CED629BA0A" />
+    <rom name="jpark\jurassic park (usa, prototype).chd" size="108147947" crc="AC77CB20" sha1="FF877C65F1ED3581D5E4939E36CF18F493FBFFE6" />
+    <rom name="kamenrzo\the masked rider - kamen rider zo (usa).chd" size="190819700" crc="CA422E63" sha1="B65868095D0C6AE0DF1B84054F3617506FAA15F5" />
+    <rom name="karaoke\karaoke - jvc cd+g karaoke - top hit sampler (usa).chd" size="165882525" crc="7E6D9033" sha1="E1C45B259CDED7B709ADC7C7A82353C1EFFC5BC2" />
+    <rom name="keio\keio flying squadron (1994)(jvc)(pal).chd" size="344022402" crc="74B40AF5" sha1="537010D3E3CC3EF7337426FAD08C943531905473" />
+    <rom name="keio\keio flying squadron (demo) (1994)(jvc)(pal)[sega pro cd - issue 03].chd" size="344032084" crc="0DAEC602" sha1="E4062B3B91E4DCD940F1111CF4DF573CBBC7581A" />
+    <rom name="kidssite\kids on site (1994)(digital pictures)(pal).chd" size="346010348" crc="AF20CAE6" sha1="2886FFDF67DF396E8D5DB630EC5288D5B5B4F966" />
+    <rom name="kriskros\kris kross (1993)(sony imagesoft)(pal).chd" size="243957424" crc="5FF23874" sha1="9149ABD248918DD8519E2384034F07D11124B0C9" />
+    <rom name="kriskros\kris kross (usa).chd" size="243104551" crc="20692516" sha1="11D67EA35ECB0DA7B022835148EC96C2921825FD" />
+    <rom name="lawnmowr\lawnmower man, the (demo) (1994)(time warner interactive)(pal)[mega power - issue 16].chd" size="28825326" crc="704BC2E5" sha1="D20F046FB88EDE571B55D001513928B8297EB196" />
+    <rom name="lawnmowr\the lawnmower man (usa).chd" size="194214883" crc="2808163B" sha1="4801808EFF645DCDA2818009BDE1AB11418BA4E7" />
+    <rom name="le2\lethal enforcers ii - gun fighters (demo) (1994)(konami)(pal)[mega power - issue 19].chd" size="197972780" crc="E9E16994" sha1="AEC7587E6B5BC86C17D65AEFD4469CFC262C0F49" />
+    <rom name="le2\lethal enforcers ii - the western (1994)(konami)(ntsc)(jp)(en).chd" size="388648858" crc="317938FB" sha1="FFD0F385B02BA89B1ED01AA7EFAF9EF231A42E39" />
+    <rom name="lethalen\lethal enforcers (1993)(konami)(ntsc)(jp)(en).chd" size="425140819" crc="FD037720" sha1="62E25B553E319ED6BF5ABDDA8F50AFF40D529BDE" />
+    <rom name="lethalen\lethal enforcers (1993)(konami)(pal).chd" size="425138939" crc="762D450F" sha1="1B04E4D68579A58B23AA146C6D193A6D45F932E1" />
+    <rom name="lethalen\lethal enforcers (usa).chd" size="426446746" crc="B28124DB" sha1="8F04CB8F6CF5BF0C16FEA63EADE98893F2A2BC37" />
+    <rom name="links\links - the challenge of golf (usa).chd" size="61595848" crc="40012E54" sha1="DBEDDEB7D71EE64CB65D749605A3A1C4A62594FD" />
+    <rom name="links\links - the challenge of golf (usa, alt).chd" size="66101575" crc="521E3310" sha1="C8000DFB82351988FB9CE0E66F58D6EEBF581B6A" />
+    <rom name="lodoss\lodoss tou senki - eiyuu sensou - record of lodoss war (demo) (1994)(sega)(ntsc)(jp).chd" size="83866601" crc="B414645C" sha1="FE97A6A1D10F769019681ECF3807155E655864FC" />
+    <rom name="lordthun\lords of thunder (1995)(virgin)(pal).chd" size="394996590" crc="A2223621" sha1="EF2F372CC296F870C0E31FF74A78E14F9F8DD0D0" />
+    <rom name="lunar\lunar - the silver star (1992)(game arts)(ntsc)(jp)[t-45014p-00017-r1m].chd" size="253926847" crc="39EF05AD" sha1="74BF45E215D75132D8416D98D063D459E19BB3B2" />
+    <rom name="lunar\lunar - the silver star (1992)(game arts)(ntsc)(jp)[t-45014p-00017-r2m].chd" size="253927047" crc="36883CDF" sha1="0889BF2345901AE1B8871FE48FFDF3DB9A9EDC6F" />
+    <rom name="lunar\lunar - the silver star (usa).chd" size="262110590" crc="1A860765" sha1="6802FFFE936C87CA92BCFA76A9A66F2BBD07CDF7" />
+    <rom name="lunar2\lunar - eternal blue - premium cd (1994)(game arts)(jp)[lunar - eternal blue, t-45074][cd-audio].chd" size="96884537" crc="80DDB083" sha1="2E8B18AD6FED6892C0EB034E99FDF05DE8295A57" />
+    <rom name="lunar2\lunar - eternal blue (1994)(game arts)(ntsc)(jp)[t-45074p-00271a-r1m].chd" size="167658857" crc="E8B4AD1D" sha1="BCDCD53A9309454B05F4E3640E5C07959F00034E" />
+    <rom name="lunar2\lunar - eternal blue (1994)(game arts)(ntsc)(jp)[t-45074p-00271-r1m].chd" size="167658222" crc="95983AE2" sha1="2FB088F5A64FEE65E7DF7EC50F0E24F017B87339" />
+    <rom name="marko\marko (usa, prototype).chd" size="183522307" crc="9FE2DEFA" sha1="F1CF6DEEB88F8AE795CA3F17CD517BB39A939B18" />
+    <rom name="marko\marko's magic football (1994)(domark)(pal)(m4).chd" size="178178426" crc="8D8F41C2" sha1="C27A1B48FAD5DD98CDBCBF57CF945600589A71C2" />
+    <rom name="marky\marky mark and the funky bunch (usa).chd" size="341620030" crc="E5BAFEE9" sha1="B3872644988ED980CFE1570772A3B6904BF3FBED" />
+    <rom name="megarace\megarace (usa).chd" size="361781578" crc="C8A94AF3" sha1="40E8D036B0BC0139D7D135202701F179A3D878AC" />
+    <rom name="megaschw\mega schwarzschild (1993)(sega)(ntsc)(jp).chd" size="307821709" crc="88C63A76" sha1="C47FD3AE78649A676A21F07BF623709A20B14EC1" />
+    <rom name="microcos\microcosm (1993)(psygnosis)(pal)[t-113015-50 14].chd" size="300659657" crc="D2BBC6F4" sha1="2A80CFE8268B232E434D6C49EC4E6560AF62523F" />
+    <rom name="microcos\microcosm (1993)(psygnosis)(pal)[t-113015-50 24].chd" size="300659763" crc="A709CE3D" sha1="B6EF4968F7E3BB3A0CA46DA5746EFDC4A9649454" />
+    <rom name="midnight\midnight raiders (1995)(sega)(pal).chd" size="368870341" crc="F468D8B8" sha1="FE9AD40A47C7AF15A58890B159E7BCA05C569641" />
+    <rom name="mightmg3\might and magic iii - isles of terra (1993)(cri)(ntsc)(jp).chd" size="335211779" crc="3A384977" sha1="1EFF8C7315020996C6EBB618ABC108579C87B6F6" />
+    <rom name="mk\mortal kombat (1994)(acclaim)(ntsc)(jp)(en).chd" size="224712877" crc="05BD605C" sha1="0E9F85C86927869D309648825AE0557739FC0B51" />
+    <rom name="mmania\mickey mania (demo) (1994)(disney software - sony imagesoft)(pal)[megasega].chd" size="265199010" crc="5AF3E3F6" sha1="8441A6044156BBFD6431410A3337506D1FC0EDD3" />
+    <rom name="mmania\mickey mania (demo) (1994)(pal)[mega power - issue 17, sega pro cd - issue 40].chd" size="265208779" crc="06600E4B" sha1="DE3B71EA41383F25F314CE5FF91A0822C13209B2" />
+    <rom name="mmm\mighty mighty missile (usa).chd" size="220812398" crc="A1C0E0C1" sha1="2A6E70A5A7646782BCA644CC9A6E982573B75857" />
+    <rom name="mmpr\mighty morphin power rangers (1994)(sega)(pal).chd" size="314638150" crc="69450B95" sha1="18366AD5CA0AD546600A041E814FB0839ADA7721" />
+    <rom name="monkey\secret of monkey island, the - monkey island yurei - kaizoku oosoudou (1993)(victor)(ntsc)(jp).chd" size="214192293" crc="84CBDFAD" sha1="DB6ED3B20DC89F8179F8C87238E0705CF649FDE6" />
+    <rom name="mypaint\my paint (usa).chd" size="215450198" crc="09CCA274" sha1="AB9F71C5BC3D464B2E2EEB8420534448E69C509E" />
+    <rom name="mystmans\yumemi mystery mansion (1994)(sega)(pal).chd" size="203450098" crc="3D4D3C1F" sha1="533F9A18D030977A1DDA7A869CEB6AB24C939B7E" />
+    <rom name="nbajam\nba jam (1993)(acclaim)(ntsc)(jp)(en).chd" size="248209214" crc="02DA3446" sha1="60F4C2373764A242388924CF585F3D425857F805" />
+    <rom name="nhl94\nhl hockey '94 (1994)(ea sports)(pal).chd" size="233613681" crc="A9A3DA53" sha1="C0ED4C50B61DF36DCEEBEB72A64BB45E40BFE1F1" />
+    <rom name="ninjawar\ninjawarriors, the (1993)(taito)(ntsc)(jp)(en).chd" size="308480637" crc="7A942906" sha1="941B3905A2AFCB5658A7D6C5DE58D44B1C212AFE" />
+    <rom name="nobuhao\nobunaga no yabou - haouden (1994)(koei)(ntsc)(jp).chd" size="225921282" crc="EF653D9E" sha1="0F630E510AA039632D6372D1EE71B6FA9EC4A1ED" />
+    <rom name="nost1907\nostalgia 1907 in north atlantic sea - original sound track ver. 2 (1991)(takeru)(jp)[cd-audio].chd" size="255993729" crc="35EAAAA9" sha1="476D6172F15753F54AEAD1B10F672D228D2345AC" />
+    <rom name="novastm\novastorm (1994)(psygnosis - sony electronic publishing)(pal).chd" size="271556602" crc="12B27D8A" sha1="0A316516C899FC39017E293141CE58FE41AA05C5" />
+    <rom name="novastm\novastorm (demo) (1994)(psygnosis - sony electronic publishing)(pal)[sega pro cd - issue 02].chd" size="254613255" crc="FEB73691" sha1="F880DAAA4CADB2BE48ADFB99078DFFAA2271C808" />
+    <rom name="novastm\novastorm (usa).chd" size="271913829" crc="18C84E39" sha1="341F6E26567395FDC971369000FEAE5BEFD165D0" />
+    <rom name="ntrap\night trap (1993)(sega)(pal)(fr)(disc 1 of 2).chd" size="274504164" crc="7C31D1E1" sha1="B23FB2FEEAA582B446BAE551CC36E2CCD53DB4AA" />
+    <rom name="ntrap\night trap (1993)(sega)(pal)(fr)(disc 2 of 2).chd" size="230505207" crc="B7C5F4E2" sha1="FB3CE989934F3EE98E346D6AC11C6CC133B41B4B" />
+    <rom name="ntrap\night trap (1995)(digital pictures)(pal)(disc 1 of 2)[32x].chd" size="416468010" crc="E4101860" sha1="5B22F9C8C4C94697C141EC2A88E6CDD27C1EA01E" />
+    <rom name="ntrap\night trap (1995)(digital pictures)(pal)(disc 2 of 2)[32x].chd" size="346353414" crc="836B2A51" sha1="C6E60CD67A575D57883FA48812433358FB7FE3FC" />
+    <rom name="pennsmok\penn and teller's smoke and mirrors (usa, prototype) (disc 1).chd" size="300094934" crc="47133126" sha1="5F94489E0A47F659080C89205FE2CFCE4785D043" />
+    <rom name="pennsmok\penn and teller's smoke and mirrors (usa, prototype) (disc 2).chd" size="124140639" crc="A7054D96" sha1="A92676E9E1B4849C8AA9FA59E1FBF1E9F1ADB378" />
+    <rom name="pitfall\pitfall - the mayan adventure (1994)(activision)(pal).chd" size="280475978" crc="A6464F95" sha1="3633B7F8A0D24FC533591390C8CFFC9B49A52D1C" />
+    <rom name="pitfall\pitfall - the mayan adventure (demo) (1994)(activision)(pal)[sega pro cd - issue 41].chd" size="81825759" crc="A1CCDF6E" sha1="7A00654931C99B381200F77E4C24995B7BCC51F1" />
+    <rom name="pitfall\pitfall - the mayan adventure (usa).chd" size="281286938" crc="35BD57ED" sha1="13C455841217A3EA83DD78FF78EDA11F46F91824" />
+    <rom name="pmonger\powermonger (1994)(bullfrog - electronic arts)(pal).chd" size="161572957" crc="716405FD" sha1="3E7A5629A78E6C201D4AC4382DA5405B358001BE" />
+    <rom name="pmonger\powermonger (usa).chd" size="161580560" crc="1BE6B664" sha1="D212280BC3114BFD3996764FD6B23B0755D62934" />
+    <rom name="prime\ultraverse prime (usa).chd" size="272101816" crc="FBDF8369" sha1="CF9F398C16EE44C05F5B38CEC9C8106D8E66209F" />
+    <rom name="prizefig\prize fighter (1993)(sega)(ntsc)(jp)(disc 1 of 2).chd" size="262716401" crc="B9E3E880" sha1="24586FFF14B562B0DEEBFE67F8F71C5DC6A320A4" />
+    <rom name="prizefig\prize fighter (1993)(sega)(ntsc)(jp)(disc 2 of 2).chd" size="307348287" crc="AD0AF97A" sha1="5C78AB8D74E2B14BC3986022916201A59E183654" />
+    <rom name="prizefig\prize fighter (1993)(sega)(pal)(disc 1 of 2).chd" size="271011057" crc="B93227CC" sha1="8273503317BF7D096BC7D40DB843563909329022" />
+    <rom name="prizefig\prize fighter (1993)(sega)(pal)(disc 2 of 2).chd" size="314684910" crc="E43F52E4" sha1="A4F31C55869D72BA7858563E34A3DE247304C3F7" />
+    <rom name="prizefig\prize fighter (usa) (disc 2).chd" size="308122361" crc="7FADDAC7" sha1="133FD50057D394C39FEE57276FEBFB876A60A107" />
+    <rom name="psychic3\psychic detective series vol.3 - aya (1993)(data west)(ntsc)(jp).chd" size="130970870" crc="EEAF2B6A" sha1="50A8582E418D9580641E7739FE865AFF82401F80" />
+    <rom name="psychic4\psychic detective series vol.4 - orgel (1993)(data west)(ntsc)(jp).chd" size="148897490" crc="649DA63D" sha1="0D2FCE1507E41476C1745893079224A5CC027CBF" />
+    <rom name="psygnosd\microcosm, puggsy and wiz 'n' liz (demo) (1994)(psygnosis)(pal)[mega power - issue 06].chd" size="204763088" crc="4C9D8C9D" sha1="E5E173638F9529D5125A8A301C12B9B62F92F859" />
+    <rom name="puggsy\puggsy (1993)(psygnosis)(pal).chd" size="299190147" crc="E83A3F5E" sha1="E10881C3F19A95D766D39CB5ABD7F49B2DB8BE52" />
+    <rom name="quizss\quiz scramble special (1992)(sega)(ntsc)(jp)[g-6003p-00014b-r1m].chd" size="80345707" crc="EA75541A" sha1="BC99594FB7C9B78393CF047C45B4863CD3DF7B31" />
+    <rom name="quizss\quiz scramble special (1992)(sega)(ntsc)(jp)[g-6003p-00014b-r2m].chd" size="80337300" crc="B78B7CF7" sha1="21CBF1A767303050F21F8B01F0BD37F2CE89C245" />
+    <rom name="radrex\radical rex (usa).chd" size="186002543" crc="61E06208" sha1="C76F149BF882075E91B5C7238FA589D3D94C33A9" />
+    <rom name="ragecage\wwf rage in the cage (1993)(arena)(pal).chd" size="67566998" crc="676A269B" sha1="534C0C5300A2DCE0259782513CAD790DF77A0105" />
+    <rom name="rbfx\road blaster fx (1992)(wolf team)(ntsc)(jp)(en).chd" size="141224644" crc="B31FBFA5" sha1="ED1B37352871A92F2B362228E593962D428D0934" />
+    <rom name="roadrash\road rash (usa).chd" size="342422298" crc="54687C01" sha1="52726E4461E3D551149B1C1E3FEC6C65EE830BF0" />
+    <rom name="roadrash\road rash (usa, prototype, beta 3 - 19950211).chd" size="344642349" crc="33789687" sha1="D8011ECFC377F716AE4BC146988B4C790A213B15" />
+    <rom name="roboales\robo aleste (1993)(sega)(pal).chd" size="357367757" crc="F53F672B" sha1="1FEBC8F7022C60FEB6ECB79D7362476C7AA9E74C" />
+    <rom name="rockpint\rock paintings (usa).chd" size="263567602" crc="E68D5067" sha1="5AD9FD3EA4E6B0DB5610F737580EF58B52E43E2C" />
+    <rom name="salesman\warau salesman (1993)(sega)(ntsc)(jp).chd" size="74084488" crc="C7E312FD" sha1="ACA6A9C980F682348FFEA3F34280851ED769C064" />
+    <rom name="samsho\samurai shodown (1995)(jvc)(pal).chd" size="271282943" crc="96CF8302" sha1="DAEE700AFE78DDCB21817E98E6F49E9AF44715D4" />
+    <rom name="samsho\samurai shodown (demo) (1995)(jvc)(pal)[sega pro cd - issue 47].chd" size="408811430" crc="B6E9CE0A" sha1="07484B70C0043C0ACDAE2EB19A2E86C237CC0434" />
+    <rom name="samsho\samurai shodown (usa).chd" size="271285785" crc="A99EF8FC" sha1="CA66A779CF59921305B2FDAAE658193A84D775EF" />
+    <rom name="segaac\sega classic arcade collection - limited edition (1992)(sega)(ntsc)(jp)[compilation][r1m].chd" size="88169091" crc="4E2A24F4" sha1="5ADE2B4E4CF34B777D4BC3C500B11B27FA646A06" />
+    <rom name="segaac\sega classic arcade collection - limited edition (1992)(sega)(ntsc)(jp)[compilation][r2m].chd" size="88172271" crc="8EEE6708" sha1="4A77F68996A6DE133017D986871CCD9A8A6F81CA" />
+    <rom name="segaac\sega classics arcade collection - limited edition (1993)(sega)(pal)[compilation][610-5411p-00036a 2].chd" size="83997151" crc="72B2C058" sha1="FE0EE943D1EDD87BB52263B344FB7F24810628FC" />
+    <rom name="segaac4\sega classics arcade collection (usa, 4 in 1).chd" size="83997618" crc="07032750" sha1="59C240B8EA287F9395587CE7205F7A863E3AC822" />
+    <rom name="sengoku\sengoku denshou (1993)(sammy)(ntsc)(jp).chd" size="177380726" crc="197F876B" sha1="98900FA617141E78DD116BA2E36A05794CA101F6" />
+    <rom name="sensible\sensible soccer (1993)(sony imagesoft)(pal)(m4).chd" size="122787691" crc="E1F949DE" sha1="73D93066704B2F25412C18E376F55E8BA3A44F0A" />
+    <rom name="sensible\sensible soccer v1.08 (demo) (1993)(pal)(m4)[mega power - issue 12, sega pro cd - issue 44].chd" size="139772857" crc="DE6AF6E6" sha1="A35D888437D7919B8BACBCDE492C6E4D99194259" />
+    <rom name="shadowrn\shadowrun (1996)(compile)(ntsc)(jp).chd" size="155895787" crc="7246F26A" sha1="61812A93A7E9E59F9892289B6D6D2B5C91ED54AB" />
+    <rom name="shinfrce\shining force cd (1995)(sega)(pal).chd" size="259361095" crc="A80DB9AB" sha1="2D5DC75429DE44D457DD441304CEC5CF3FCF9928" />
+    <rom name="shinfrce\shining force cd (usa, prototype).chd" size="258154820" crc="5BFF533B" sha1="3D27A5C190C3CF92B47D901D85FAE6A5D85F779C" />
+    <rom name="silkylip\mahou no shoujo - silky lip (1992)(riot)(ntsc)(jp)[t-49024p-00016-r1m].chd" size="203596098" crc="B197F090" sha1="6BD392E982FFD82CBA111C045FB2F26348BE16FC" />
+    <rom name="silkylip\mahou no shoujo - silky lip (1992)(riot)(ntsc)(jp)[t-49024p-00016-r2m].chd" size="203595675" crc="0ADD7293" sha1="4A9557D6C8DC2EF8BD3FDC6A39E2DD34330751F1" />
+    <rom name="simearth\simearth (1993)(sega)(ntsc)(jp).chd" size="135918627" crc="3E5101C5" sha1="793400C663B2A8122EB7140834B565C091EDDB8E" />
+    <rom name="sing\singteddy (mp3-sourced).chd" size="287659801" crc="8C8B6828" sha1="09795960CA4A15E7C95879815B21D132FAB40479" />
+    <rom name="slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 1 of 4)[fingers].chd" size="383806494" crc="E44989FF" sha1="D33F48CD8665FA75D2C3715C464938711949D2EB" />
+    <rom name="slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 1 of 4)[fingers][32x].chd" size="424704524" crc="DEF25385" sha1="50DC1C9657464C7DA59157920404E6B2BCC01FB4" />
+    <rom name="slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 2 of 4)[juice].chd" size="376004232" crc="00700AFC" sha1="1027A534DEC79BC96903A4061602E24DD99CA7D5" />
+    <rom name="slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 2 of 4)[juice][32x].chd" size="406051320" crc="CC15A43F" sha1="F140979F262BA1D41D2667567D7E3AAAD46B86D4" />
+    <rom name="slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 3 of 4)[mad dog].chd" size="369663223" crc="4B65C1C5" sha1="401CFF7A070C138C87E8A1B2DD60B6A6AA5860F6" />
+    <rom name="slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 3 of 4)[mad dog][32x].chd" size="411336605" crc="D308541A" sha1="2F08A11E7D667C97FA8B39FE2EC6FD1D60CD4F7E" />
+    <rom name="slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 4 of 4)[smash].chd" size="362457702" crc="B2F95302" sha1="30971AD734FDAEDAFF6BABEC930A1EE1B0C8CA70" />
+    <rom name="slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 4 of 4)[smash][32x].chd" size="395233538" crc="5FA9826F" sha1="2873D206C015B68CC4837697FAE4765AEBB6DA98" />
+    <rom name="slamcity\slam city with scottie pippen (demo) (1994)(digital pictures)(pal)[fingers].chd" size="302400408" crc="F4124F2B" sha1="BCDB40BCB9523484A57042E6776E30739CC66D57" />
+    <rom name="slamcity\slam city with scottie pippen (usa) (disc 1).chd" size="383808693" crc="65C4603E" sha1="9FF15940926F300B9C696FA440BA55404DD4B073" />
+    <rom name="slamcity\slam city with scottie pippen (usa) (disc 2).chd" size="376004205" crc="690C435B" sha1="DC0CB638DE2C578B8BEAC6CFF3220C145250303F" />
+    <rom name="slamcity\slam city with scottie pippen (usa) (disc 3).chd" size="369658523" crc="7B11F068" sha1="6DC9B2A1899A048711708406E4851B34DF26F767" />
+    <rom name="slamcity\slam city with scottie pippen (usa) (disc 4).chd" size="362446216" crc="5FDC87A7" sha1="DF8A3A4F7DFDE7BD014040DEFBE43972FF552A27" />
+    <rom name="slamcity\slam city with scottie pippen (usa, 32x) (disc 1).chd" size="424704190" crc="30B932DC" sha1="436168CF7757F4EF8AD0FA1E1178B8FC3FA37973" />
+    <rom name="slamcity\slam city with scottie pippen (usa, 32x) (disc 2).chd" size="406051007" crc="EC460606" sha1="7D0AD06929E04D304916436E92232FC6278D0FA1" />
+    <rom name="slamcity\slam city with scottie pippen (usa, 32x) (disc 3).chd" size="411336431" crc="38FC11FB" sha1="8A55ED001381E700A6BF2530C535C39E96C347BA" />
+    <rom name="slamcity\slam city with scottie pippen (usa, 32x) (disc 4).chd" size="395233344" crc="284B6D08" sha1="DF4EBF72C4926D3BF57B886902A791252D28B194" />
+    <rom name="snatcher\snatcher (1994)(konami)(pal).chd" size="352907422" crc="00AF47DD" sha1="B736B65A0DCCF7DED27C6CE3C5ECBDF38945D9F5" />
+    <rom name="solfeace\sol-feace (1993)(sega)(pal)[mk-4130p-00033 2].chd" size="318977309" crc="44F0FB8F" sha1="2A7116B8961DFEF233C57D162198F4165FB7BE72" />
+    <rom name="solfeace\sol-feace (1993)(sega)(pal)[mk-4130p-00033-r1m].chd" size="318995221" crc="BDAF75DF" sha1="EF60C5C2B5E8EC409E4473A89AE088FDA5197DB7" />
+    <rom name="soniccd\cd sonic the hedgehog (usa, prototype 19930510).chd" size="304838076" crc="6CE07171" sha1="B7D4CB15323FA00456B5510B5641B068A05387A3" />
+    <rom name="soniccd\sonic cd (usa).chd" size="351068699" crc="006890F2" sha1="834B74B27B77E2F604392FD8F80E6BB5252DDEA3" />
+    <rom name="soniccd\sonic the hedgehog cd (usa, prototype 19930712).chd" size="355542923" crc="42D32748" sha1="E3E07DE5A0E1CD351D3C5A66BC18C3D0C1161CFE" />
+    <rom name="soniccd\sonic the hedgehog cd (usa, prototype 19930920).chd" size="354632968" crc="98AF5D3F" sha1="9565B0B42323258A96E6448F490F941D69326CC7" />
+    <rom name="soulstar\soulstar (1994)(victor)(ntsc)(jp)(en).chd" size="338844384" crc="3B2A1AA3" sha1="821D9864D3CC11452EF14CDB3F4C91C9592C90E2" />
+    <rom name="soulstar\soulstar (demo) (1994)(core)(pal)[mega power - issue 10, sega pro cd - issue 49].chd" size="61811410" crc="736DA4F4" sha1="F07387CB7CB45E68E46FEC15608950C5535C72C0" />
+    <rom name="spaceace\space ace (usa, demo).chd" size="3378692" crc="7A4F4369" sha1="22F0D9A580DA9A0BD3CFEB8756AB74B98C0B5C69" />
+    <rom name="spidking\amazing spider-man vs. the kingpin, the (europe).chd" size="320688050" crc="2171EF46" sha1="2D5410583E15E5E503ABDF2090053148E5E8D2EB" />
+    <rom name="starblad\starblade (1994)(sega)(pal).chd" size="116792824" crc="419D2A00" sha1="65DE3FC3286AC76CE53016B1725B363C029A0AB9" />
+    <rom name="starstrk\star strike (usa, prototype).chd" size="370408368" crc="42CB9CB1" sha1="6439CC7F1981D74AABCDDCBDF3D9203EE0616C61" />
+    <rom name="supremew\supreme warrior - ying heung (1994)(digital pictures)(pal)(disc 1 of 2)[fire and earth].chd" size="347554401" crc="7A52B619" sha1="4A27A80C08AFB08BA22B33452C3349E16395009B" />
+    <rom name="supremew\supreme warrior - ying heung (1994)(digital pictures)(pal)(disc 2 of 2)[wind and fang tu].chd" size="338987279" crc="1481A482" sha1="3C9541F3B2F8D3F282F32ABD5059CAB4E9D03390" />
+    <rom name="supremew\supreme warrior - ying heung (1995)(digital pictures)(pal)(en-zh)(disc 1 of 2)[fire and earth][32x].chd" size="368953847" crc="ABDCFA51" sha1="BCCCECF70B94F5C6F363C5187DA790DF47C9FC79" />
+    <rom name="supremew\supreme warrior - ying heung (1995)(digital pictures)(pal)(en-zh)(disc 2 of 2)[wind and fang tu][32x].chd" size="364002267" crc="5393BDDB" sha1="87782991EF4CD924DB4590EB775A2F48B90072FF" />
+    <rom name="supremew\supreme warrior (usa) (disc 1).chd" size="347620014" crc="08FF6158" sha1="822B895E3F9D564AC6C7A169A9DE2370769AB34B" />
+    <rom name="supremew\supreme warrior (usa) (disc 2).chd" size="339148344" crc="25F38F1D" sha1="3245AA918B6197651209E79653321B284F54A9E5" />
+    <rom name="supremew\supreme warrior (usa, 32x) (disc 1).chd" size="368954368" crc="4D5BDB7E" sha1="05ACE4C57C4E18D1BE49F702E9BE6981EBF3F878" />
+    <rom name="supremew\supreme warrior (usa, 32x) (disc 2).chd" size="364002722" crc="55CC7B05" sha1="2CD157A4DB945F0C0EC8DBD6A9257CA9AB460B6F" />
+    <rom name="surgical\surgical strike (1995)(sega)(pal).chd" size="322225934" crc="82B628E2" sha1="D0B4F3A66DB4E0A360F829E317EB6F8CBBA35919" />
+    <rom name="swchess\software toolworks' star wars chess, the (1994)(mindscape)(pal).chd" size="105485604" crc="4531EFF2" sha1="8F95BE8CBA3F7E2DE3F50D264F94A600B24C9832" />
+    <rom name="swra\star wars - rebel assault (demo) (1994)(jvc)(pal)[mega power - issue 15].chd" size="46772077" crc="AE49ACF0" sha1="4425C824D89BCD08A985D4CDEC228F16E8619610" />
+    <rom name="swra\star wars - rebel assault (demo) (1994)(jvc)(pal)[sega pro cd - issue 01].chd" size="44138246" crc="A428B79B" sha1="CA6295B935EAFE3E0A2BBA19EA1ACF709790ED8C" />
+    <rom name="syndicat\syndicate (1995)(domark)(pal)(m3).chd" size="190527519" crc="14B5EDE3" sha1="6A122AE8100401F3EE35993AA2C5B860FBA07A82" />
+    <rom name="syndicat\syndicate (usa, prototype).chd" size="3134933" crc="EC0E0461" sha1="FF715C17D6847C575B5D880864F9BD417EB7E55D" />
+    <rom name="tcataly\tomcat alley (1994)(sega)(ntsc)(jp).chd" size="356383370" crc="29AC63BE" sha1="E84B3AB99C246DBE75383A68CFC2B28B4247C544" />
+    <rom name="tcataly\tomcat alley (1994)(sega)(pal)(es).chd" size="354648311" crc="48EBD199" sha1="5F38AB25D6B94B4C580E828E95B2EFEEC25A430C" />
+    <rom name="tcataly\tomcat alley (1994)(sega)(pal)(fr).chd" size="354135071" crc="518480AE" sha1="172538C2812B94AB4C6F168F177FA484B2BECF17" />
+    <rom name="tcataly\tomcat alley (usa).chd" size="395663356" crc="AFB84071" sha1="F1EAFFB61B01972889C2E6739AB76028566DB251" />
+    <rom name="tenbu\tenbu mega cd special (1992)(wolf team)(jp)[tenbu mega cd special, t-32084][cd-audio].chd" size="50402170" crc="EFB3C33E" sha1="9BAFD75C93FA62831CC4BC7439AF6B7086FC7450" />
+    <rom name="termintr\terminator, the (1994)(virgin)(pal).chd" size="266577924" crc="38365E75" sha1="0A8002B72FA1F3A0C1B8BE78692AA96D48770E27" />
+    <rom name="thawk\thunderhawk (1993)(core)(pal)(m4)[segat115015re r4c].chd" size="267339055" crc="1ABDAB7F" sha1="C9A05E81F87AF08E8C33CF49FC47A05F9F6592A2" />
+    <rom name="thawk\thunderhawk (1993)(core)(pal)(m4)[segat115015re r5c].chd" size="267337142" crc="5D355A13" sha1="E7ADCB1CFACBE56FBBD7333E8C9DF56C2FD6DB45" />
+    <rom name="thawk\thunderhawk (demo) (1993)(core)(pal).chd" size="72492380" crc="C7C46AEB" sha1="3E9CC3B8D7245D81BFC977C2F3E81DA86D588096" />
+    <rom name="thawk\thunderhawk (demo) (1993)(core)(pal)(m4)[mega power - issue 04].chd" size="67073955" crc="96C2FA99" sha1="DD9D1F8BFA2448E27622CAC00FB49747ADE65F8D" />
+    <rom name="themeprk\theme park (1995)(domark)(pal)(m4).chd" size="45827946" crc="8B20D67C" sha1="E8AB797283A1D5E007720E49C0CB7FBF2CFDD1FA" />
+    <rom name="timecop\time cop (pal, beta, complete).chd" size="131101134" crc="6A0E274A" sha1="4EF062089B84F4B4FFB07E5D61B45D32CF0EE397" />
+    <rom name="timecop\time cop (usa, early prototype).chd" size="9533926" crc="A9D887A2" sha1="5B3B959B1DDC24EB0C802AD60341A9D585A03464" />
+    <rom name="timecop\timecop (demo) (1995)(jvc)(pal)[sega pro cd - issue 45].chd" size="9793236" crc="89F768FD" sha1="0FD39515363A386B00C4A360FB97919A0C1D3A0A" />
+    <rom name="timecop\timecop (early beta) (e).chd" size="9935434" crc="35377DC3" sha1="75F274EBBDB9CF27BFEB8A66DE90027498308268" />
+    <rom name="timecop\timecop (usa, prototype).chd" size="8377795" crc="557B9F0B" sha1="240C9A632AB70E1C227459877FA4F5EA1700BDEC" />
+    <rom name="trivial\trivial pursuit (usa).chd" size="234993141" crc="5FB4011C" sha1="959B59E1FF5302976665452D67C019B79C95D22F" />
+    <rom name="tstormfx\thunder storm fx (1992)(wolf team)(ntsc)(jp)(en)[t32064p-00022-r1m].chd" size="60295932" crc="505D2881" sha1="79A900F39F2AD2F7A0829B1042C869B0954F3F06" />
+    <rom name="tstormfx\thunder storm fx (1992)(wolf team)(ntsc)(jp)(en)[t32064p-00022-r2m].chd" size="60295888" crc="59C80E41" sha1="0EC2388E8E7FC8B7A3F06CCA60413F78CE7D2655" />
+    <rom name="virtvcr\virtual vcr - the colors of modern rock (usa).chd" size="111898602" crc="4CCFA79B" sha1="9F63375DFFBB09A5073BB3E74A5BF0BD31136DF8" />
+    <rom name="wcup94\world cup usa 94 (1994)(u.s. gold)(pal)(m8).chd" size="405336266" crc="9D8AF698" sha1="49856386AA049DBB1BA24C3B4D4A9D6978EE56D1" />
+    <rom name="wildwood\wild woody (usa).chd" size="322053749" crc="A4C4019E" sha1="89CFCD4593D357367BB44EB2126AF2D6A123E2A6" />
+    <rom name="wmcol\wondermegacol (mp3-sourced).chd" size="343198093" crc="26943D35" sha1="07675411B8BFB5673DEA19B7063C77909DB5C393" />
+    <rom name="wonderdg\wonder dog (1993)(sega)(pal).chd" size="328276940" crc="EEDDD0E9" sha1="1AF07C9E4C4FB5BD41623B73AF1DB748E2A1119F" />
+    <rom name="wonderdg\wonder dog (usa).chd" size="328277743" crc="6B8090C5" sha1="F94CDBA8E38D811DEEC0E7EEF041289C18E887C2" />
+  </game>
+</datafile>

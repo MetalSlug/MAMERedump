@@ -1,0 +1,277 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC " -//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sharp - X68000</name>
+		<description>Sharp - X68000</description>
+		<version>0.257</version>
+		<date>2023-08-02</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Ano, Subarashii o Mou Ichido (Japan)" sha1="7973db5ce7d9995899fb00275a89d599fa318f1e" size="335030359" crc="528d3178" fullsha1="c88584b9b2c2f6df27e59eb8f8e6cbae3bd631e0" dataSha1="7898f9ee76e5658222e34659e7fa13715d2fbc47">
+		<category>Games</category>
+		<description>Ano, Subarashii o Mou Ichido (Japan)</description>
+		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 01).bin" size="140404992" crc="7dbc04c6" md5="9effc1edfb6917553ca22b3f66e0c574" sha1="05e8c86571557ad6091178511bf390d672454d71"/>
+		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 02).bin" size="57010128" crc="3851a22f" md5="a16f1b51a2e454baf161f2807333615c" sha1="c09240fafe3ee2ed9b6d8af8cd980fc6974fca20"/>
+		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 03).bin" size="43090992" crc="5857c69f" md5="4d01d9b80f7ed346948ac8126e2490a4" sha1="39bda03f5090365655ace898d1317245d9c3b443"/>
+		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 04).bin" size="22061760" crc="d7422b0c" md5="d4131002e652fd1cade05d57690be977" sha1="586e63a7ffd05d002fa3071bf23e4fde961c0ae6"/>
+		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 05).bin" size="29404704" crc="69b0101f" md5="8bad3823d55914c7a85f7b3843ebd53b" sha1="d8f74d455e42952ddc953ab0111f2725fdbf841a"/>
+		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 06).bin" size="16193520" crc="1065d32c" md5="877caaeb724cff85ffe386aeaf125917" sha1="4c69380197e6a17f385425189baf2411ab056892"/>
+		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 07).bin" size="20060208" crc="48abe425" md5="77d797e695910ff5953189168e924e6d" sha1="4a7fb056c161fde40dc3498646ff09a15acd2acc"/>
+		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 08).bin" size="14754096" crc="fa8cd46f" md5="204eae0da7ff1755c6cb6f37837f1ba0" sha1="a4b61724de42e4aff603ece7bb4e6cc9b5516415"/>
+		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 09).bin" size="35432880" crc="66170e28" md5="ea5640a2f580297a26f6f659e48ee37e" sha1="355105a2872815127235f0df07cf2cb406d0b953"/>
+		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 10).bin" size="34252176" crc="35f24fe5" md5="a2c3879cb6ffbe8fe1d2e3d62084f220" sha1="0e676da207440b048c2cebc51491ccccbd843278"/>
+		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 11).bin" size="31314528" crc="602b8b20" md5="44e5868c16a2efbd64b55ae5710e7587" sha1="a195cb9a8563e2cc916878328900470f37087193"/>
+		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 12).bin" size="34386240" crc="b30f9748" md5="045e91084ddd30b2cfffd4ec5cba34bb" sha1="e9d26cd986b5f97c23f6be1683cd6a55cf2102c6"/>
+		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 13).bin" size="30543072" crc="6f4b8b6c" md5="87aadbb55aff96b3d6bace6a6a733ebc" sha1="a605b7cb8a07afe2ced578f7da544ed50d4d719b"/>
+		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 14).bin" size="34764912" crc="ed3f3d42" md5="c162d2696a232319a354c5b3231ecfbd" sha1="0185b8fcde8e6e490ba70a844fa55d4a54ca6d66"/>
+		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 15).bin" size="19853232" crc="62aaef2d" md5="68c836f35174b6dbff7bcb825130e7c5" sha1="af4c8b7b28070a97185285b69ebd0bcb32600991"/>
+		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 16).bin" size="27800640" crc="2d3c8c73" md5="2bf2ae571a4a1ce10fcd26cced518c93" sha1="1f03ada728e31ddd2bef04042772c0014e324332"/>
+		<rom name="Ano, Subarashii o Mou Ichido (Japan) (Track 17).bin" size="38314080" crc="ccd1f835" md5="68fe71d45a016c4eca2a6c44f4792e84" sha1="01eef1898446fcce4f0ad06cd190fb8f348077d9"/>
+	</game>
+	<game name="Gekikou Dennou Club Vol. 1 (Japan)" sha1="a3e7af052b2d27e40a72478c6143243890f9b596" size="261827160" crc="528dc83f" fullsha1="298c6f4019777c1bb5e2893921782a1a4eb8c1f5" dataSha1="e102d2de57800bb773fdaf9d77a3fab0ae414bb5">
+		<category>Games</category>
+		<description>Gekikou Dennou Club Vol. 1 (Japan)</description>
+		<rom name="Gekikou Dennou Club Vol. 1 (Japan) (Track 01).bin" size="379391712" crc="20935db1" md5="be0627a1cbc2a7ec604bb6ff9d71f567" sha1="e7f9cad0804c2372894a6ab7d373acd43255d294"/>
+		<rom name="Gekikou Dennou Club Vol. 1 (Japan) (Track 02).bin" size="43836576" crc="c51cd464" md5="b8956d196ea4f78d163806344142083e" sha1="8282da2142804af2d888601a8e20a35ec168b0e8"/>
+		<rom name="Gekikou Dennou Club Vol. 1 (Japan) (Track 03).bin" size="47409264" crc="a672caf3" md5="6371dd435fd7197b41729c67469264d6" sha1="7afce1b6c32785134fe1afaad1eb20db4f00702f"/>
+		<rom name="Gekikou Dennou Club Vol. 1 (Japan) (Track 04).bin" size="81889584" crc="8af2b804" md5="c7f6fb39d29e5b0daadd6128bcd2519e" sha1="4c2d9e45eeae85c69ae7f06f522801e5196c3339"/>
+		<rom name="Gekikou Dennou Club Vol. 1 (Japan) (Track 05).bin" size="36512448" crc="f860ecf4" md5="b79643744c2afda3544f92658cf786be" sha1="0d9231cc38d4799b312d006e95c5f311b7986aa3"/>
+		<rom name="Gekikou Dennou Club Vol. 1 (Japan) (Track 06).bin" size="44274048" crc="923cc2b2" md5="98319467e952c77e0349cd8281734ffe" sha1="b8302f2309fbdf1440d1ae2b94c0dd92bbe9dbdf"/>
+	</game>
+	<game name="Gekikou Dennou Club Vol. 2 (Japan)" sha1="3ba0d1a21c24d08399f4c1004b0204671e985f88" size="188875628" crc="1d971ae1" fullsha1="b0945d590b2683174042b8f7966e1a8e393f15fc" dataSha1="451cdf01280fd9608c8ec6650f71a4f289e0a1eb">
+		<category>Games</category>
+		<description>Gekikou Dennou Club Vol. 2 (Japan)</description>
+		<rom name="Gekikou Dennou Club Vol. 2 (Japan) (Track 01).bin" size="91422240" crc="0c250d90" md5="38ea95965a00800d3ceef432070b8691" sha1="2508864d23e84fb9fe5e78ea00606a9a63fdd80c"/>
+		<rom name="Gekikou Dennou Club Vol. 2 (Japan) (Track 02).bin" size="41470464" crc="f67d234b" md5="baa32efd3d76307782b9c07720bcb3ab" sha1="5b77314d3de853e3e211b1b2b8e7afe0cd1b3279"/>
+		<rom name="Gekikou Dennou Club Vol. 2 (Japan) (Track 03).bin" size="29990352" crc="20f126af" md5="f8d3e58e218ff3b6ce9a7acdcf86ebf5" sha1="d8dcac821ebdb3506dedc3fc31d1fb05d38ef499"/>
+		<rom name="Gekikou Dennou Club Vol. 2 (Japan) (Track 04).bin" size="45762864" crc="9769453b" md5="d7dd8b9bf033dfe610715f56dc308493" sha1="ae1ba3344e37bed1afdf4e414942e002e9b12a91"/>
+		<rom name="Gekikou Dennou Club Vol. 2 (Japan) (Track 05).bin" size="27661872" crc="7a735c14" md5="805dc20e8ae5635148cadce2f96984ec" sha1="45223c05d14ce616f00de06e5cd2d8881a03926c"/>
+		<rom name="Gekikou Dennou Club Vol. 2 (Japan) (Track 06).bin" size="1145424" crc="0c672209" md5="1ec1217e94f890d879d5d422e9584e9b" sha1="608c82445217b99b6ab56a970375b9c4c4aba436"/>
+		<rom name="Gekikou Dennou Club Vol. 2 (Japan) (Track 07).bin" size="12406800" crc="36704071" md5="6602c4351e8e0ce5a59e1b2fa0f815fc" sha1="7d861a0465a2f34235d9dc810265f8216d6bfdd5"/>
+		<rom name="Gekikou Dennou Club Vol. 2 (Japan) (Track 08).bin" size="11861136" crc="92c88330" md5="ca79980f54ab9ccbce4a1a09c93c1800" sha1="83afb257fe31bd642916067e311c1610b1705db9"/>
+		<rom name="Gekikou Dennou Club Vol. 2 (Japan) (Track 09).bin" size="11858784" crc="4ad98473" md5="0d92b237ca4943d995b774efbc142f6e" sha1="cc3ba74e2c0e0d13bbb3b1e3a8ecb8edf154507c"/>
+		<rom name="Gekikou Dennou Club Vol. 2 (Japan) (Track 10).bin" size="11814096" crc="6737474b" md5="fd109e88ec492ec7314c8ab8eed40520" sha1="33e2f1f349e09e37a6b78ddffac4bb297e896609"/>
+		<rom name="Gekikou Dennou Club Vol. 2 (Japan) (Track 11).bin" size="16529856" crc="e055d25f" md5="bd4d14b65c20cf858ac57c6c13af5372" sha1="05a0c748da1f7b6d12c267fb77193cb207932a51"/>
+		<rom name="Gekikou Dennou Club Vol. 2 (Japan) (Track 12).bin" size="16384032" crc="97f864c3" md5="a1ee0048cb1319945da6b7ddbbd59ede" sha1="1dfc631ef7d8c61e35279ff74d84b9f19a49acac"/>
+		<rom name="Gekikou Dennou Club Vol. 2 (Japan) (Track 13).bin" size="25218144" crc="ffbe611f" md5="29fef14d365e062c9da47920f00d9838" sha1="d1deee94039fdfc61ed00b6a1bd80a4d2a8563b7"/>
+		<rom name="Gekikou Dennou Club Vol. 2 (Japan) (Track 14).bin" size="25255776" crc="16b97f47" md5="7e60bfecfad21dbdd727eb69288fb76e" sha1="791341c98958d542c143ab08733ab7b1d8cac751"/>
+		<rom name="Gekikou Dennou Club Vol. 2 (Japan) (Track 15).bin" size="25366320" crc="90a0531a" md5="012cb7d5c1b6137d0a0678196d31a7cd" sha1="eedb97df0a666cddf07d438cac33669a2c77b524"/>
+	</game>
+	<game name="Gekikou Dennou Club Vol. 3 (Japan)" sha1="c4506139e3051802d5e899e5da583d322b4c0d1c" size="249759396" crc="b051317c" fullsha1="2f2c6acfcc1ab59fb3095444dd32951cad882728" dataSha1="3d053e6bd64a0a477f244f8e5227c089b2ccc1e7">
+		<category>Games</category>
+		<description>Gekikou Dennou Club Vol. 3 (Japan)</description>
+		<rom name="Gekikou Dennou Club Vol. 3 (Japan) (Track 01).bin" size="252273168" crc="91d4fcbf" md5="98cc3d3e8cff8b50fd8569a73e189dc5" sha1="7a0a0eacde1b987374572fc2c86f216baf104099"/>
+		<rom name="Gekikou Dennou Club Vol. 3 (Japan) (Track 02).bin" size="41987904" crc="842de1a9" md5="fb5a5c7ad9dce612862e9ed05089dfc8" sha1="d3706544cedf3ca50d55b34737b988636cb2dc5c"/>
+		<rom name="Gekikou Dennou Club Vol. 3 (Japan) (Track 03).bin" size="44518656" crc="17185d99" md5="c8d0d176efee150449720c6798e16b11" sha1="0a09f7f12976f63ab87032d249d20b4a4792beac"/>
+		<rom name="Gekikou Dennou Club Vol. 3 (Japan) (Track 04).bin" size="39647664" crc="6de36344" md5="d3b1d6623eb0a1bebcd2c4955dd086e7" sha1="8f61b30bce187746907bcf391cf81df6014ba57f"/>
+		<rom name="Gekikou Dennou Club Vol. 3 (Japan) (Track 05).bin" size="52237920" crc="011241a8" md5="d79a49bbea4adec8d09bc6c1b7e2c906" sha1="c09f7080acb262389f872d3ed55148e47d26c408"/>
+		<rom name="Gekikou Dennou Club Vol. 3 (Japan) (Track 06).bin" size="51134832" crc="08f7c1d5" md5="556483a7e07d1f71c8b016016005011a" sha1="18fef7f9a914df3c2818e0745d35c47976479df9"/>
+		<rom name="Gekikou Dennou Club Vol. 3 (Japan) (Track 07).bin" size="43227408" crc="ddbea288" md5="3019dc2d063d14164ad1bb80edcadcad" sha1="8c7f776518032183e611012d24316533d38765e0"/>
+	</game>
+	<game name="Gekikou Dennou Club Vol. 4 (Japan)" sha1="30a593470b985d598fd32f77508efc950b9b3d1b" size="405644579" crc="4a601e9e" fullsha1="1afc016035c60f18ab43451194b2a3758bfc6542" dataSha1="ba784e273e4ec96da7402e67b26966898f6e2804">
+		<category>Games</category>
+		<description>Gekikou Dennou Club Vol. 4 (Japan)</description>
+		<rom name="Gekikou Dennou Club Vol. 4 (Japan) (Track 01).bin" size="457017120" crc="a57800b6" md5="2c4ef3ce9737cf308cc7ee478816cbcd" sha1="b361080d6bcb15300d49c67da6603689d7ae4477"/>
+		<rom name="Gekikou Dennou Club Vol. 4 (Japan) (Track 02).bin" size="56692608" crc="c4ba0ca5" md5="9b65902475d937347d844909c7fa0a9a" sha1="0e19e1e387d59edf4db055fae4810123479e4848"/>
+		<rom name="Gekikou Dennou Club Vol. 4 (Japan) (Track 03).bin" size="47630352" crc="215fdb6c" md5="824fde5ee5478d17a29c3bf511498bca" sha1="5f45edf32578c1d9463d8ae9c17bdfe3ae149768"/>
+		<rom name="Gekikou Dennou Club Vol. 4 (Japan) (Track 04).bin" size="43881264" crc="5999db80" md5="4722fe49d84ed2036ffba0fccb58098d" sha1="69ff15966d0b87fa33009c39e3bb3fcc1c766bdc"/>
+		<rom name="Gekikou Dennou Club Vol. 4 (Japan) (Track 05).bin" size="30872352" crc="f3534080" md5="3f5bf9dc0b90f9127393825859890256" sha1="10775c43555f79988fe579b729cb9494ee11a8ea"/>
+		<rom name="Gekikou Dennou Club Vol. 4 (Japan) (Track 06).bin" size="52844736" crc="cb64185e" md5="aca19831186d7313cfbbe42378f74692" sha1="cbf4710d223609b5f60276bb79dcf3a66ad3cf15"/>
+		<rom name="Gekikou Dennou Club Vol. 4 (Japan) (Track 07).bin" size="44123520" crc="e1fb59c7" md5="89c750041c7f7187f45068d51fea985b" sha1="9cece27b1917762fe23ee8e54ea5dd8636f9e485"/>
+	</game>
+	<game name="Gekikou Dennou Club Vol. 5 (Japan)" sha1="8c36d476e6adefd0fcb479dcd5f3d2d380c7c052" size="332934361" crc="9038d724" fullsha1="72de7e6d6bec10a7843d9055c586ad95685b842e" dataSha1="d5c866df70a3beac692553c219773ed3860e6b09">
+		<category>Games</category>
+		<description>Gekikou Dennou Club Vol. 5 (Japan)</description>
+		<rom name="Gekikou Dennou Club Vol. 5 (Japan) (Track 01).bin" size="345694608" crc="f3317628" md5="8f8b41a4c172c03cdd67d7c4f79647f5" sha1="dfff1260f8a625a7ce5eddf8fd711c5e84769b9e"/>
+		<rom name="Gekikou Dennou Club Vol. 5 (Japan) (Track 02).bin" size="6611472" crc="9dc6bf0f" md5="8957d04c79cd60b6c0f09301caa9e1b7" sha1="f92df5db42fedaf58c12e1c93f491e196b47881b"/>
+		<rom name="Gekikou Dennou Club Vol. 5 (Japan) (Track 03).bin" size="60326448" crc="170d0aea" md5="790679d7de7eee27419c76e58a9908ce" sha1="9b5c4914c228d9252dfea7e02ec716b4447946e7"/>
+		<rom name="Gekikou Dennou Club Vol. 5 (Japan) (Track 04).bin" size="29632848" crc="39271743" md5="0e58b45cabafd4843486cac596172e8a" sha1="039e47b4346815e08eec2d5c292a6e04379576cf"/>
+		<rom name="Gekikou Dennou Club Vol. 5 (Japan) (Track 05).bin" size="48305376" crc="7a7abe57" md5="f3e7d16d394ca0b0d6a33d7bccca0ef3" sha1="617395d081bf2cd51c27ab6aa302975f5d18c548"/>
+		<rom name="Gekikou Dennou Club Vol. 5 (Japan) (Track 06).bin" size="29496432" crc="b49c619f" md5="54085d5f2c8fd3158c3a11de41b536e8" sha1="2e40e5db1f895c6a3d59a44a72df021a48b600e0"/>
+		<rom name="Gekikou Dennou Club Vol. 5 (Japan) (Track 07).bin" size="51252432" crc="2f0dc3f4" md5="65f19b115435143acb6cb3ad2d8b0e37" sha1="03f6cf05936f70ea6c2f3e41800a08a5221a57df"/>
+		<rom name="Gekikou Dennou Club Vol. 5 (Japan) (Track 08).bin" size="27099744" crc="3702aa63" md5="e929b309734a60ed73ce51b5b3ca6d76" sha1="2c13aaa74e9040421c217334ccd60a18a2047512"/>
+		<rom name="Gekikou Dennou Club Vol. 5 (Japan) (Track 09).bin" size="43213296" crc="96cb7826" md5="f204debf93b519647b87cd087146a330" sha1="aa3c4cbc55d336c04228ae12c9723c33fa4eefd0"/>
+		<rom name="Gekikou Dennou Club Vol. 5 (Japan) (Track 10).bin" size="18171552" crc="a45ed720" md5="b66c896cd884275347149ee505ecd9a3" sha1="7b5a27b93aa48e5ee049f0002db4e6918f2660a1"/>
+		<rom name="Gekikou Dennou Club Vol. 5 (Japan) (Track 11).bin" size="22685040" crc="4ced05a5" md5="4e17808a93ad4c02aafc9ef5a508456c" sha1="d5ac6fa6c2307d479fed2e65cba363f7fb7e337b"/>
+		<rom name="Gekikou Dennou Club Vol. 5 (Japan) (Track 12).bin" size="7538160" crc="040eed92" md5="5c8f6ec72464f215f7a1d646cf541abb" sha1="4edb33f523d204dbc1514090a011e788f395c356"/>
+	</game>
+	<game name="Gekikou Dennou Club Vol. 6 (Japan)" sha1="0b8fcd5dbc7e3062047ba7adbf6b96d34511e66f" size="309291641" crc="fb2bc457" fullsha1="ef4018fbaf3b72f9bb2222a7ed063b3972101ecb" dataSha1="28abecdef34fd3a7b2dd253f4b01c18115e3b632">
+		<category>Games</category>
+		<description>Gekikou Dennou Club Vol. 6 (Japan)</description>
+		<rom name="Gekikou Dennou Club Vol. 6 (Japan) (Track 01).bin" size="322835520" crc="9a752eaa" md5="4de10e8610b2f53e2ba74460b39dfb97" sha1="cb3d984575e5f9949c92a0c59fb0f6f719c6f983"/>
+		<rom name="Gekikou Dennou Club Vol. 6 (Japan) (Track 02).bin" size="52393152" crc="565c2434" md5="227abdfaaef539bca02b94b6fd15fcec" sha1="987c5e14770abcda81b577c3aee136b9b112a2e9"/>
+		<rom name="Gekikou Dennou Club Vol. 6 (Japan) (Track 03).bin" size="52303776" crc="4dcea029" md5="1bebd5bac513ef3757a341a64f5fea5d" sha1="19cba3eb3d42bbdf6105879806e83dab0af6ad11"/>
+		<rom name="Gekikou Dennou Club Vol. 6 (Japan) (Track 04).bin" size="88421088" crc="506830b2" md5="d3f51c7a38654482e00bda2599592ac6" sha1="cad89f962f4b68f8e45ac289f3bf1e1379836489"/>
+		<rom name="Gekikou Dennou Club Vol. 6 (Japan) (Track 05).bin" size="48599376" crc="fbd93d61" md5="bfe5d4e7368130734527cc245f8eb5d8" sha1="fb9e7d4eaba123c8201337c590e562f5aa5496ec"/>
+		<rom name="Gekikou Dennou Club Vol. 6 (Japan) (Track 06).bin" size="48606432" crc="17d64818" md5="766c072eaa5cfea9085eb6c3f3b3ea20" sha1="1dac5932eb82125e2fdfc87ef71460e213bba4bb"/>
+		<rom name="Gekikou Dennou Club Vol. 6 (Japan) (Track 07).bin" size="31752000" crc="f10454a6" md5="3cafe34da8c9de4a9b62beb7c34a6d28" sha1="29092b1d5065cb8d716079be41b7363c652990a3"/>
+	</game>
+	<game name="Gekikou Dennou Club Vol. 7 (Japan)" sha1="4a431a78ef25b4e6180ba4fc24186c8e342c1d46" size="198917842" crc="45d2920e" fullsha1="bcc222680759b0cd3816983c2d6426553f0e93ad" dataSha1="f47f29557dd4758e23125dd089ec4e5776b8ebec">
+		<category>Games</category>
+		<description>Gekikou Dennou Club Vol. 7 (Japan)</description>
+		<rom name="Gekikou Dennou Club Vol. 7 (Japan) (Track 01).bin" size="179506992" crc="35d609fc" md5="c677d1cdaa81d8e8619b2879a8d3af85" sha1="4e137bf0333911b8e3b84f7d19ca65ef96617000"/>
+		<rom name="Gekikou Dennou Club Vol. 7 (Japan) (Track 02).bin" size="51598176" crc="765260ae" md5="496e8e4e95b31e5056b03b7d730cd7c5" sha1="fc84d4fc4ace50180adc0fefa07621ed9c0b3a2c"/>
+		<rom name="Gekikou Dennou Club Vol. 7 (Japan) (Track 03).bin" size="48688752" crc="c73f67ea" md5="f98130942f074a9d252b1770d09bbb91" sha1="1c8f18dff096430c009e7a01d0e3b75c7de04d0d"/>
+		<rom name="Gekikou Dennou Club Vol. 7 (Japan) (Track 04).bin" size="56657328" crc="f2a611b8" md5="12cfcfa10da4c910dc5b6c3d9b6cb795" sha1="9c1d0677b6c6ee90151bdbf56becee17ceca1303"/>
+		<rom name="Gekikou Dennou Club Vol. 7 (Japan) (Track 05).bin" size="21280896" crc="772e1034" md5="c28bd924c2fb68c841c986bb6769ae34" sha1="d05e97304c5b0de7ae7fa8b598c723ae86c0f12a"/>
+		<rom name="Gekikou Dennou Club Vol. 7 (Japan) (Track 06).bin" size="21523152" crc="ed215b5f" md5="0b86b84626053910493c970958247870" sha1="179a194f45089d8c196c92b9db37750602daf209"/>
+		<rom name="Gekikou Dennou Club Vol. 7 (Japan) (Track 07).bin" size="24872400" crc="61c9d65a" md5="a9c350d7ae5d2a699c5b2031d7d86a61" sha1="fcebd1096a34120755b2f94138d6c23685223556"/>
+		<rom name="Gekikou Dennou Club Vol. 7 (Japan) (Track 08).bin" size="6978384" crc="804ef98d" md5="ed44c681d906b51a40f5cf8a4184bfbe" sha1="539d4381522ea78efce6601402fc05d24e9d999b"/>
+		<rom name="Gekikou Dennou Club Vol. 7 (Japan) (Track 09).bin" size="7691040" crc="92c50040" md5="afa552e0f0a82ec08dc4c2c413fdaa86" sha1="0610dc8066727026c4e38cead024685493fb9048"/>
+		<rom name="Gekikou Dennou Club Vol. 7 (Japan) (Track 10).bin" size="2399040" crc="762b5998" md5="5ba6efe97f341cebb6a7a860ef29bdac" sha1="5b69fd7f14ed58d44d9169799e9c5f28ba7be12c"/>
+	</game>
+	<game name="Gekkan Dennou Club - 2000.1 Vol. 140 (Japan)" sha1="ea5e94a98eb05409861e7ca4bdaf9d8aaa41de10" size="84232855" crc="e6963417" fullsha1="6488e5871d9ac1a162e17df573e9a76a8f3a96cc" dataSha1="993d259129e975ff63c4e476b0a50953cc641d22">
+		<category>Games</category>
+		<description>Gekkan Dennou Club - 2000.1 Vol. 140 (Japan)</description>
+		<rom name="Gekkan Dennou Club - 2000.1 Vol. 140 (Japan) (Track 01).bin" size="77162064" crc="69edc880" md5="b85526708de02b0866777015c919d972" sha1="5cd482d8c4d0fc0444d2dbcd91b6ddc42e05c2bd"/>
+		<rom name="Gekkan Dennou Club - 2000.1 Vol. 140 (Japan) (Track 02).bin" size="29868048" crc="d9495524" md5="3b92e297a54670a67e3caf20853ab0f0" sha1="d1ccebc71137dfda1d156c78202b906bd79e367e"/>
+		<rom name="Gekkan Dennou Club - 2000.1 Vol. 140 (Japan) (Track 03).bin" size="18037488" crc="8830c91a" md5="7e25414d2961ab681700040828b6cdd3" sha1="b22d0a53a10d0580c11d511f6b518899f2e4e42b"/>
+		<rom name="Gekkan Dennou Club - 2000.1 Vol. 140 (Japan) (Track 04).bin" size="8469552" crc="ead19420" md5="e2b1ec2430e8cdd5fcda5da6fa202850" sha1="c05672a27bdad4315d0654523c705e067bc33c37"/>
+		<rom name="Gekkan Dennou Club - 2000.1 Vol. 140 (Japan) (Track 05).bin" size="9671424" crc="f230466b" md5="8c10712ec86b2d8a8f6195ad476a0def" sha1="96bb38d338437c4a99e93bd92fecf5655376b63a"/>
+		<rom name="Gekkan Dennou Club - 2000.1 Vol. 140 (Japan) (Track 06).bin" size="7679280" crc="bab5b391" md5="e69f153c5b14147598d33b9bf9d425fd" sha1="a732a188a55ad0480b9eef008eb0afbd4271e9f9"/>
+		<rom name="Gekkan Dennou Club - 2000.1 Vol. 140 (Japan) (Track 07).bin" size="12783120" crc="de94f20c" md5="f794ca175e6379bfef2e7baaa7c9f40e" sha1="42abfde6a06120b66335c726b959f1ad76083ab8"/>
+	</game>
+	<game name="Gekkan Dennou Club - 2000.2 Vol. 141 (Japan)" sha1="1de3696e3eeefd8557f5eb5e1e69b1d699a009c1" size="26988520" crc="4ca72dff" fullsha1="dba38e83d090e1e0485ad3e2ee7bfe33da64aa00" dataSha1="b56007a3ae4dac8fe1754e3dbc5af086e7e54d9f">
+		<category>Games</category>
+		<description>Gekkan Dennou Club - 2000.2 Vol. 141 (Japan)</description>
+		<rom name="Gekkan Dennou Club - 2000.2 Vol. 141 (Japan) (Track 01).bin" size="51939216" crc="425f16ba" md5="c1cbee02311373051248739d0b975f69" sha1="e80373ea71231c0d06f1470583a43b86acfbbcc6"/>
+		<rom name="Gekkan Dennou Club - 2000.2 Vol. 141 (Japan) (Track 02).bin" size="8288448" crc="d28e7764" md5="8ffd2f6b489278649bba74e9279c0379" sha1="685ba5ae2b50932985a97e43c3e2ba686d17bfa2"/>
+		<rom name="Gekkan Dennou Club - 2000.2 Vol. 141 (Japan) (Track 03).bin" size="8076768" crc="8b44079b" md5="665e94b67ea6c7e1fb8983e01b4257bd" sha1="557f4ff906ef2b63cd9b6560f5c743f975a6f0fa"/>
+		<rom name="Gekkan Dennou Club - 2000.2 Vol. 141 (Japan) (Track 04).bin" size="8076768" crc="044e10e2" md5="bf8461bdb3d2e9c727412c84aa38538b" sha1="1d2629102d30c4060569420e921735f69a0caf21"/>
+		<rom name="Gekkan Dennou Club - 2000.2 Vol. 141 (Japan) (Track 05).bin" size="1676976" crc="df0799ea" md5="7174d4d5d45b25d8ee38a2c3024f83e1" sha1="fcb0e167c0192b748e3fecc5b8e22a2890230c1d"/>
+	</game>
+	<game name="Gekkan Dennou Club - 2000.3 Vol. 142 (Japan)" sha1="fec1aeee36709696e2e9f4469d223a3095469ce1" size="86195268" crc="40bc71f5" fullsha1="ee06d6c7f73cbfdcbde9f9bdeea49b01c6a386a3" dataSha1="8be76d6b0ffe520e1d358412f7c630beae3ff4c7">
+		<category>Games</category>
+		<description>Gekkan Dennou Club - 2000.3 Vol. 142 (Japan)</description>
+		<rom name="Gekkan Dennou Club - 2000.3 Vol. 142 (Japan) (Track 01).bin" size="70574112" crc="791b5bc6" md5="2f8fff9f334d45f5c7d68e40c98f8577" sha1="9ca2d6fa5168c588f6ba4aff6fdd42fcc2b9ae68"/>
+		<rom name="Gekkan Dennou Club - 2000.3 Vol. 142 (Japan) (Track 02).bin" size="37573200" crc="160ea139" md5="0d1867064cedfb4d5a026ec67a79db29" sha1="fd7afc33d3e08592dcbfd010a53e942f159e3c24"/>
+		<rom name="Gekkan Dennou Club - 2000.3 Vol. 142 (Japan) (Track 03).bin" size="37516752" crc="7d3a1ba2" md5="cf5fae12f8ea545c513a9fd19b77c608" sha1="adf11754755798e69862620e865e12023882724d"/>
+	</game>
+	<game name="Gekkan Dennou Club - 2000.4 Vol. 143 (Japan)" sha1="ae5f15d599bdd044369db615a17edd756524f12c" size="21654549" crc="516de4f3" fullsha1="d1078e2aca15b5c1ee179d5ae765e569e5c89257" dataSha1="b1b55a531078af4221af12b8cae0ab163f3d3427">
+		<category>Games</category>
+		<description>Gekkan Dennou Club - 2000.4 Vol. 143 (Japan)</description>
+		<rom name="Gekkan Dennou Club - 2000.4 Vol. 143 (Japan) (Track 01).bin" size="46440240" crc="338431e5" md5="174338e5985542889dd40ccd7fd126a4" sha1="4f01769e256aa47bc9187c828f28d6b5f18bdee3"/>
+	</game>
+	<game name="Gekkan Dennou Club - 2000.5 Vol. 144 (Japan)" sha1="69c428feccd7393bcce74dcabf165b88627bb909" size="121405023" crc="e7dc6b3b" fullsha1="7e180e9f9a6dc1f609f5810f69924e21ab79d63a" dataSha1="af22639c094e2a7990b6a2ca401e3bb900259d3a">
+		<category>Games</category>
+		<description>Gekkan Dennou Club - 2000.5 Vol. 144 (Japan)</description>
+		<rom name="Gekkan Dennou Club - 2000.5 Vol. 144 (Japan) (Track 01).bin" size="50953728" crc="8cd4e182" md5="96c22f5b148b8bc7d6a8dffb3ad830aa" sha1="43bea2ad6823e90ebbcc18d6dde0dcef46163f47"/>
+		<rom name="Gekkan Dennou Club - 2000.5 Vol. 144 (Japan) (Track 02).bin" size="46654272" crc="70bdf72e" md5="ade83f9476cc119b844ccb4a7377c6b9" sha1="10a67907281f5b5d4a304b85c8389bcb1cc5bfe2"/>
+		<rom name="Gekkan Dennou Club - 2000.5 Vol. 144 (Japan) (Track 03).bin" size="34974240" crc="7cb124a3" md5="d58e7f708c564999551deb8771bd43e9" sha1="0f44e36071cb3dd53d7b08dcf6407c2c27943dbb"/>
+		<rom name="Gekkan Dennou Club - 2000.5 Vol. 144 (Japan) (Track 04).bin" size="34974240" crc="fa17d172" md5="a71eebbb155c5fbef3b752dd4f89554d" sha1="97ed94f132647936b0ad05ee0bf2a64329227d76"/>
+		<rom name="Gekkan Dennou Club - 2000.5 Vol. 144 (Japan) (Track 05).bin" size="34971888" crc="ac3ba481" md5="62945e6030f2af08e7eb45aff263699c" sha1="d7fe44729da9f42cb21997d25ab765205584485e"/>
+		<rom name="Gekkan Dennou Club - 2000.5 Vol. 144 (Japan) (Track 06).bin" size="7039536" crc="a6503f32" md5="f5294f6618ff18c09a9cfc4c118441c2" sha1="5eda4ccd4d70c27312d5594d6c6b29484c93e9ca"/>
+		<rom name="Gekkan Dennou Club - 2000.5 Vol. 144 (Japan) (Track 07).bin" size="7039536" crc="7abfed92" md5="80e090790509a8b71406a83fb02d6821" sha1="e828a4dfd331cd45ba77d6eea1fe63375245c423"/>
+		<rom name="Gekkan Dennou Club - 2000.5 Vol. 144 (Japan) (Track 08).bin" size="7039536" crc="c4067387" md5="6c22bb77aae9c5b790ec66fe621f15c6" sha1="086591080b376c1cacf63d53df68c1e5743ff903"/>
+		<rom name="Gekkan Dennou Club - 2000.5 Vol. 144 (Japan) (Track 09).bin" size="7039536" crc="cf20a8c2" md5="c2a00a8ad6657389c7bc37254b59a069" sha1="3db7cfe9f3b815b9dda1ff5631090a5b035bbfec"/>
+	</game>
+	<game name="Gekkan Dennou Club - 2000.6 Vol. 145 (Japan)" sha1="bef154e33fc547c7ec649bee27e67d51fbd879aa" size="115595321" crc="3d91d442" fullsha1="cc035c6622dd59771741112f622731ef9a3d3d34" dataSha1="b23320a1368a5b7a3ea4799f51564342f5285848">
+		<category>Games</category>
+		<description>Gekkan Dennou Club - 2000.6 Vol. 145 (Japan)</description>
+		<rom name="Gekkan Dennou Club - 2000.6 Vol. 145 (Japan) (Track 01).bin" size="112938336" crc="c65f33ad" md5="990c29c83d253df81145e6bbf61b0391" sha1="a318b5bb743bc70eb3b6ab274a4f72cb234b6b04"/>
+		<rom name="Gekkan Dennou Club - 2000.6 Vol. 145 (Japan) (Track 02).bin" size="6355104" crc="4a65db68" md5="e34a7a3947f1958c47d0255295702862" sha1="e104c4bbe8394da3f1f79f6b2a8de3f2e0a6940f"/>
+		<rom name="Gekkan Dennou Club - 2000.6 Vol. 145 (Japan) (Track 03).bin" size="19761504" crc="1d2156b3" md5="c28429c69702dcfe59cd672eed60551a" sha1="89286e7753262519af9d39a6f744e3c743252e48"/>
+		<rom name="Gekkan Dennou Club - 2000.6 Vol. 145 (Japan) (Track 04).bin" size="21170352" crc="05771a67" md5="d6342facb615684c1f0b7f645f92b536" sha1="03df99b46b9e57cfd7966a62ab8bb69a3d02aed6"/>
+		<rom name="Gekkan Dennou Club - 2000.6 Vol. 145 (Japan) (Track 05).bin" size="17291904" crc="8f7ca8db" md5="c90a665f8906e1eade1a2785d7db3afe" sha1="7d396a79d8be139002d2ae41325f7355960c2ec5"/>
+		<rom name="Gekkan Dennou Club - 2000.6 Vol. 145 (Japan) (Track 06).bin" size="17291904" crc="4c410422" md5="1209a7af88f5b9ecfddc15dbdee2300f" sha1="62178f76c7b8473d4f74d6457bad85895e0da934"/>
+		<rom name="Gekkan Dennou Club - 2000.6 Vol. 145 (Japan) (Track 07).bin" size="33167904" crc="829f36a4" md5="4697632fb03f5b4dd738a530f1b21895" sha1="5b59537227c5970d80864d211cf84ef3c6c85979"/>
+		<rom name="Gekkan Dennou Club - 2000.6 Vol. 145 (Japan) (Track 08).bin" size="1058400" crc="052aa865" md5="a9d5f1eda13fee4222a276ffadb226f2" sha1="5d93eda72efaae0cf3edba09cdda90d3b55b3093"/>
+	</game>
+	<game name="Gekkan Dennou Club - 2000.7 Vol. 146 (Japan)" sha1="1e7dd04ecf8fabe8e5e43b20de1bb3e1d158908f" size="197051320" crc="d80e88b9" fullsha1="a82b0220b13b1ba96588a3cf2547233045f696be" dataSha1="25eadeb21703449895d2fa18f3fa6f05b14a55c4">
+		<category>Games</category>
+		<description>Gekkan Dennou Club - 2000.7 Vol. 146 (Japan)</description>
+		<rom name="Gekkan Dennou Club - 2000.7 Vol. 146 (Japan) (Track 01).bin" size="44102352" crc="36a41c09" md5="ba726bb3cac0f541bcd91c9ec42f4a7c" sha1="de6eb38d4ad5321bcad104609ce917285d5fb0d8"/>
+		<rom name="Gekkan Dennou Club - 2000.7 Vol. 146 (Japan) (Track 02).bin" size="59164560" crc="710941da" md5="d90579bd496dc6a484bd3d948720d602" sha1="24aaa4e3190d1a6ca4a62a516d57c00d55c82dd4"/>
+		<rom name="Gekkan Dennou Club - 2000.7 Vol. 146 (Japan) (Track 03).bin" size="77933520" crc="42ffb177" md5="bad4296f8f7a3221f5b60ee30a7eb49e" sha1="a0d2e0a6cddaa5eb70318dc5a18652a9a2a96c32"/>
+		<rom name="Gekkan Dennou Club - 2000.7 Vol. 146 (Japan) (Track 04).bin" size="45701712" crc="11d32609" md5="9a81295ccfd67aea41718028c23dc77a" sha1="9381a42e836e817823173d6b7538434726e75027"/>
+		<rom name="Gekkan Dennou Club - 2000.7 Vol. 146 (Japan) (Track 05).bin" size="45151344" crc="f2bc9641" md5="0519cb7ea33ce1e01bf3ad7ea5c0fef3" sha1="9c19acc3ba6d919088ebebe627c83ebaafa26562"/>
+		<rom name="Gekkan Dennou Club - 2000.7 Vol. 146 (Japan) (Track 06).bin" size="31124016" crc="dc11382b" md5="8e1ed084b6c7ae4d148b74794ceb8a61" sha1="63dca9a945f7110339d0058e68b7df70e0581482"/>
+		<rom name="Gekkan Dennou Club - 2000.7 Vol. 146 (Japan) (Track 07).bin" size="2848272" crc="92ecfdcf" md5="77ece44870c7d53199145840bec2dd0f" sha1="dee72178bb96d6949eb4f2b6d0c16a8c36076b55"/>
+		<rom name="Gekkan Dennou Club - 2000.7 Vol. 146 (Japan) (Track 08).bin" size="3386880" crc="bd31aa20" md5="8861cd4553040b6ca9c6ab0641cce01e" sha1="0f9a1ab27e852021c513f2416df3e18bce05d9fe"/>
+		<rom name="Gekkan Dennou Club - 2000.7 Vol. 146 (Japan) (Track 09).bin" size="5623632" crc="2b24c137" md5="cc9a9862986ca09a06ab6b1d9da37d64" sha1="69fcf52a2e2d1fc1e7e204470de220ff635a2371"/>
+	</game>
+	<game name="Gekkan Dennou Club - 2000.8 Vol. 147 (Japan)" sha1="c518d38eed101055134daaa93215e0cfaa2f643b" size="365426212" crc="a3cb905a" fullsha1="c1fd50341710d20eb13b8bf256c79c0413010200" dataSha1="aee9edc945627b7049027b6253f81b352e0de271">
+		<category>Games</category>
+		<description>Gekkan Dennou Club - 2000.8 Vol. 147 (Japan)</description>
+		<rom name="Gekkan Dennou Club - 2000.8 Vol. 147 (Japan) (Track 01).bin" size="230032656" crc="bbd9a1a6" md5="c1d795d7d3e0a144d954897a3d172947" sha1="a9247225a929ed5e3c8cc51f1dd66ce3b4607676"/>
+		<rom name="Gekkan Dennou Club - 2000.8 Vol. 147 (Japan) (Track 02).bin" size="53007024" crc="e205c9d2" md5="68956a3ab114dc4cb8bf77690aea9581" sha1="aefc95c0ad587d3cbab6392f99c1de2d2d399f96"/>
+		<rom name="Gekkan Dennou Club - 2000.8 Vol. 147 (Japan) (Track 03).bin" size="58999920" crc="5e4e1ece" md5="7797fb34fab413ff54aa8d9480b6906d" sha1="417cca9ba298cafd285480a8a5ba976a78a2f090"/>
+		<rom name="Gekkan Dennou Club - 2000.8 Vol. 147 (Japan) (Track 04).bin" size="72573312" crc="7b603ab0" md5="8482fef96bfa6e2a85af253578474676" sha1="7b25ff1ddfbdb4361fa12eedeae912f6f80f3fbb"/>
+		<rom name="Gekkan Dennou Club - 2000.8 Vol. 147 (Japan) (Track 05).bin" size="42303072" crc="e0f6ad47" md5="be232d9d95a170eba16ce6d004819015" sha1="e25f8b90962b74738657a71a189b2db9ae5a85ef"/>
+		<rom name="Gekkan Dennou Club - 2000.8 Vol. 147 (Japan) (Track 06).bin" size="50937264" crc="b7d91139" md5="8246ba39e7399f36b8f44d26129f71db" sha1="ad8acd1a56ffa72fec58b341538255a0a4c076c8"/>
+		<rom name="Gekkan Dennou Club - 2000.8 Vol. 147 (Japan) (Track 07).bin" size="62626704" crc="7b3bf6c1" md5="edb3357246b640381cbb7d3fcd53b047" sha1="a38ffff9e9bf6cb8af4362f6f2608c019cc3753a"/>
+		<rom name="Gekkan Dennou Club - 2000.8 Vol. 147 (Japan) (Track 08).bin" size="46499040" crc="4d752d63" md5="f249f45ab2d65682c8881171099d8055" sha1="85676e46b84e74f5b880901efe2c3fbc873315eb"/>
+		<rom name="Gekkan Dennou Club - 2000.8 Vol. 147 (Japan) (Track 09).bin" size="70564704" crc="b7cb1143" md5="ab73940a90256154a30a66be168bba23" sha1="5535ae59d60003c882b15accc9da8aaacde7f7fe"/>
+	</game>
+	<game name="Oh!X 1998 Spring Special CD-ROM (Japan) (Part 1)" sha1="c4a382f1cefd6bba7929a4c11fbb008e1079aa39" size="238947490" crc="e0fbc83b" fullsha1="af41b37a72f05277dd40a33a08c5ec9dd4e547f0" dataSha1="9e6314abed5ee5b1401bcc04fe5d890300a54f36">
+		<category>Games</category>
+		<description>Oh!X 1998 Spring Special CD-ROM (Japan) (Part 1)</description>
+		<rom name="Oh!X 1998 Spring Special CD-ROM (Japan) (Part 1) (Track 01).bin" size="485537472" crc="f00562e1" md5="7813b00e6561a621a6d342b715b57b9e" sha1="7f3f6c167cacfb573571ef3a814e8ef9dd88711e"/>
+		<rom name="Oh!X 1998 Spring Special CD-ROM (Japan) (Part 1) (Track 02).bin" size="51156000" crc="fde9b5e4" md5="6a6c9be8dd87c508203fd58643845d45" sha1="583dfd3a9a0b621af79e06f3d0c88decd28e3708"/>
+		<rom name="Oh!X 1998 Spring Special CD-ROM (Japan) (Part 1) (Track 03).bin" size="43944768" crc="553402c8" md5="5a4be7560e5f7dcbcb3e955eeb06f9b0" sha1="64801853b832fc17688687cc7ee54b480550c013"/>
+	</game>
+	<game name="Oh!X 1998 Spring Special CD-ROM (Japan) (Part 2) (Sampler Disc)" sha1="58ec689b86090bb24095c44ef5ac9a99bfad5d9b" size="359693117" crc="c9148813" fullsha1="b9df8cb54ab13fd390ca9345d84986aefd2483bf" dataSha1="d31e3eac9bc052bd4ab9adce2776c0ed8ca6ac05">
+		<category>Games</category>
+		<description>Oh!X 1998 Spring Special CD-ROM (Japan) (Part 2) (Sampler Disc)</description>
+		<rom name="Oh!X 1998 Spring Special CD-ROM (Japan) (Part 2) (Sampler Disc) (Track 01).bin" size="614909232" crc="c545ab9b" md5="8127462d9290a3adb5807536c6adb243" sha1="1707a290384be7c3cbf1d2fed18b0e98f081504d"/>
+	</game>
+	<game name="Oh!X 1999 Spring Special CD-ROM (Japan) (Part 1)" sha1="dc4ca1054a4bcff679b4919fe7daa28c3827d95d" size="320103795" crc="b7d6d17f" fullsha1="66af17c1b64a1570c040f94290513c611fbfed9c" dataSha1="107cee822139a613c052b4dd24a684587c871724">
+		<category>Games</category>
+		<description>Oh!X 1999 Spring Special CD-ROM (Japan) (Part 1)</description>
+		<rom name="Oh!X 1999 Spring Special CD-ROM (Japan) (Part 1) (Track 01).bin" size="699675312" crc="18b457d1" md5="060e6b3f458e9499b822273811888bb3" sha1="a43f9cb226f939a1815c330cd1fbafb8bceb5313"/>
+	</game>
+	<game name="Oh!X 1999 Spring Special CD-ROM (Japan) (Part 2) (Sampler Disc)" sha1="a94a5b494e751b3c70eddf8ae36f357744585c98" size="382413662" crc="14ad3e88" fullsha1="fa863940d3c551b4df9d2025982d540812057de1" dataSha1="1cc56b57874751057c3bf430a64ef6b14fa58c1c">
+		<category>Games</category>
+		<description>Oh!X 1999 Spring Special CD-ROM (Japan) (Part 2) (Sampler Disc)</description>
+		<rom name="Oh!X 1999 Spring Special CD-ROM (Japan) (Part 2) (Sampler Disc) (Track 01).bin" size="745765104" crc="6d8ffa8b" md5="023935c7215b5b1356a0d64779738127" sha1="0b0b5b3a7acd79309c862879f8e543a4318eca65"/>
+	</game>
+	<game name="Oh!X 1999 Summer Special CD-ROM (Japan)" sha1="32bed229f4b7f6d002221a17b573e57a3a966961" size="456104785" crc="6234b8fe" fullsha1="72682991d9de96285e073e5d11658e752d65c841" dataSha1="46d1decb9de7d95506815b955eae5e1922a93fc2">
+		<category>Games</category>
+		<description>Oh!X 1999 Summer Special CD-ROM (Japan)</description>
+		<rom name="Oh!X 1999 Summer Special CD-ROM (Japan) (Track 01).bin" size="721560672" crc="9426936d" md5="f980cc1199ae897a14d7b766a9617ff6" sha1="e8cf65d7e895095971934f3f972406da5239b69d"/>
+		<rom name="Oh!X 1999 Summer Special CD-ROM (Japan) (Track 02).bin" size="37368576" crc="e979fe49" md5="afff5fcd2357b42d18b97badc631ba54" sha1="f12c4a6fcb9c298a0444dd6cc281c78bbdce647c"/>
+	</game>
+	<game name="Oh!X 2000 Spring Special CD-ROM (Japan) (Part 1)" sha1="32c1cad6e3c6b9be8021aea8de708cc79def1a79" size="107604313" crc="6e1977f2" fullsha1="a0ed426f996ba7ad73912da44eeb04bb78a5de75" dataSha1="7a6ef29831cbc0bd960c54d311d99093a2606f00">
+		<category>Games</category>
+		<description>Oh!X 2000 Spring Special CD-ROM (Japan) (Part 1)</description>
+		<rom name="Oh!X 2000 Spring Special CD-ROM (Japan) (Part 1) (Track 01).bin" size="191876160" crc="d0f62421" md5="b77bbefbbea7f2c698b0d3117881569e" sha1="99944bb8870811b71b7571068df3a7c527487c01"/>
+	</game>
+	<game name="Oh!X 2000 Spring Special CD-ROM (Japan) (Part 2)" sha1="ce8c2841895cd6bb40fe06b3600e031564a01d30" size="264816116" crc="1e603a71" fullsha1="63e46930a3a5c7b5a62181646651fa9f6c400bf9" dataSha1="1a6d4508927159fbab3d2e6ad21eab2f21ba0377">
+		<category>Games</category>
+		<description>Oh!X 2000 Spring Special CD-ROM (Japan) (Part 2)</description>
+		<rom name="Oh!X 2000 Spring Special CD-ROM (Japan) (Part 2) (Track 01).bin" size="432768000" crc="724a23fa" md5="f70ae1fcfcae07497221c72227205211" sha1="33bce03873be3a65aaa2fa06b894572b66c637ff"/>
+	</game>
+	<game name="Oh!X 2001 Spring Special CD-ROM (Japan)" sha1="4a740aa9179fd4df6055f56ed51b1ec9dbf3232c" size="252495670" crc="448581db" fullsha1="51fd09fda820e5a0e738160d92dae1e3230243fc" dataSha1="594732b451109268049779269d5c479854815e15">
+		<category>Games</category>
+		<description>Oh!X 2001 Spring Special CD-ROM (Japan)</description>
+		<rom name="Oh!X 2001 Spring Special CD-ROM (Japan) (Track 01).bin" size="363075888" crc="7d7c59bf" md5="b06cf864507d7a194519d54d25925a47" sha1="32dcc5bd3806452ec51dbb11211b20c37e0afd3d"/>
+		<rom name="Oh!X 2001 Spring Special CD-ROM (Japan) (Track 02).bin" size="5800032" crc="4e9b3ccb" md5="901acb00f7bd042ee643834068cdf7a3" sha1="557565bf022a46b554cedebb18c5ec9f896ff9ce"/>
+	</game>
+	<game name="One-derful Theater (Japan)" sha1="32d5a4e5889888fbe8e2e1fe9529687aef6b7eab" size="270092150" crc="0fd58c53" fullsha1="43196499fb41c675698d48cc3d2017127dec27f3" dataSha1="c34558a6d6a87e1d7d2154fde7c787e405438614">
+		<category>Games</category>
+		<description>One-derful Theater (Japan)</description>
+		<rom name="One-derful Theater (Japan) (Track 01).bin" size="146927088" crc="40f78283" md5="aceb9446f3ec34c265b998b9ca16a5cb" sha1="83a317859c2b281bae6ea895c2cc023207146f50"/>
+		<rom name="One-derful Theater (Japan) (Track 02).bin" size="567311808" crc="8698b9d7" md5="101663bdc015250b5defbe2657797909" sha1="d9d6050edbea5e94797661a62382ac948f7b8e4f"/>
+	</game>
+	<game name="Ran2 1999 Deco (Japan)" sha1="5900506fd226a97cb25c0691ba68e78082c19b52" size="91346325" crc="b107440d" fullsha1="3272a14f682aa9299df766be830ba646695aabde" dataSha1="db88893c054a6d317b78c19e4e9268d0e4ff8539">
+		<category>Games</category>
+		<description>Ran2 1999 Deco (Japan)</description>
+		<rom name="Ran2 1999 Deco (Japan) (Track 01).bin" size="201829824" crc="956d0358" md5="d1c136a0ee2058edb0fde81520af1d11" sha1="7f77e243ecd85c4f834f11121fecfdb23f389212"/>
+	</game>
+	<game name="Sugoi Dennou Club (Japan)" sha1="265e08f25a58fb3b8ef468a4102aae5cf8c84947" size="441648445" crc="1a518b94" fullsha1="00ab65ab8600c3dbc464b40ce580129f00449045" dataSha1="365af7c2192bb382190744fe8c8163cc642586a6">
+		<category>Games</category>
+		<description>Sugoi Dennou Club (Japan)</description>
+		<rom name="Sugoi Dennou Club (Japan) (Track 01).bin" size="474880560" crc="8e067e18" md5="f02732c57f6b3ff5cb127b95017c07e6" sha1="1e760e6d16865c0c0ec8888c4cfdaa1f1e48ec4c"/>
+		<rom name="Sugoi Dennou Club (Japan) (Track 02).bin" size="47776176" crc="cf979084" md5="071e86ab526c67809a5eb7226b26dbbd" sha1="d1bfb0b4d33742219de79db3744b25add0447d24"/>
+		<rom name="Sugoi Dennou Club (Japan) (Track 03).bin" size="47933760" crc="2d8ee71f" md5="fd375fcc781dcb615cbd2ee22b2f3742" sha1="e6f5e4edde9f99d92637921989e3b5ee7468360e"/>
+		<rom name="Sugoi Dennou Club (Japan) (Track 04).bin" size="36072624" crc="51d425c3" md5="fea8929f6fcc69cefe1f6c67dcdd2404" sha1="bee8e2deed2a86d2cb64f26f54127569ee46b260"/>
+		<rom name="Sugoi Dennou Club (Japan) (Track 05).bin" size="35120064" crc="d99d3d15" md5="38ffee1f67b1e6edb8b65b46257c175f" sha1="39c4d845f1d46d96f178bc73efc11ec4699dd3d4"/>
+	</game>
+	<game name="Suteki na Dennou Club (Japan)" sha1="ee384898923091056ca11555c676974695aab827" size="39792859" crc="988f9bc9" fullsha1="3b44f1b1154e23dee57b8550c22b89fe98364d9c" dataSha1="08efdfe2479e61ac8aabf8ccb619d81af89e3874">
+		<category>Games</category>
+		<description>Suteki na Dennou Club (Japan)</description>
+		<rom name="Suteki na Dennou Club (Japan) (Track 01).bin" size="143072160" crc="354c09bf" md5="79cc299109081243ceed19e0f58f42b6" sha1="8b375f69b8b15cf3c4e185c91920364aa225d9c8"/>
+	</game>
+</datafile>
