@@ -32,138 +32,61 @@ MAME Software List CHDs (merged) / Additional Redump CHDs
 
 # Status and used sets
 
-Acorn - Archimedes (51)
-- Redump 2022-09-14 (51)
-- **No Match with MAME 0.257 Software List CHDs**
-
-Apple - Macintosh (188)
-- Redump 2022-07-23 (924)
-- **No Match with MAME 0.257 Software List CHDs**
-
-```
-Missing (739)
-```
-
-Commodore - Amiga CD (483)
-- Redump 2022-12-05 (486)
-- **No Match with MAME 0.257 Software List CHDs**
-
-```
-Missing (3)
-
-Amiga OS 4.0 Developer Pre-Release (USA)
-Astro Blox Revisited (Poland)
-ZGR3D (Poland)
-
-Redump MIA (3)
-http://wiki.redump.org/index.php?title=Commodore_-_Amiga_CD_MIA
-```
-
-Commodore - Amiga CD32 (206)
-- Redump 2022-10-28 (171)
-- MAME 0.257 Software List CHDs (merged) (cd32)
-
-Commodore - Amiga CDTV (148)
-- Redump 2022-09-08 (54)
-- MAME 0.257 Software List CHDs (merged) (cdtv)
-
-Fujitsu - FM-Towns (936)
-- Redump 2022-12-04 (893)
-- MAME 0.257 Software List CHDs (merged) (fmtowns_cd)
-
-IBM - PC compatible (511)
-- Redump 2022-12-14 (38631)
-- MAME 0.257 Software List CHDs (merged) (ibm5170_cdrom)
-
-```
-Missing (38432)
-```
-
-NEC - PC Engine CD & TurboGrafx CD (1033)
-- Redump 2022-11-11 (542)
-- MAME 0.257 Software List CHDs (merged) (pcecd)
-
-NEC - PC-98 series (292)
-- Redump 2022-11-18 (100)
-- MAME 0.257 Software List CHDs (merged) (pc98_cd)
-
-```
-Missing (1)
-
-Logicool Mouseware 8.2J (Japan) (En,Ja)
-
-Redump MIA (1)
-http://wiki.redump.org/index.php?title=NEC_-_PC-98_series_MIA
-```
-
-NEC - PC-FX & PC-FXGA (78)
-- Redump 2022-09-14 (78)
-- MAME 0.257 Software List CHDs (merged) (pcfx)
-
-Philips - CD-i (1950)
-- Redump 2022-09-22 (1804)
-- MAME 0.257 Software List CHDs (merged) (cdi)
-
-```
-Missing (1)
-
-Nobelia (USA, Europe) (Unl)
-
-Redump MIA (3)
-http://wiki.redump.org/index.php?title=Philips_-_CD-i_MIA
-```
-
-Sega - Dreamcast (2053)
-- Redump 2022-12-08 (1454)
-- MAME 0.257 Software List CHDs (merged) (dc)
-
-```
-Missing (1)
-
-Tough Guy (USA, Japan) (Unl)
-
-Redump MIA (1)
-http://wiki.redump.org/index.php?title=Sega_-_Dreamcast_MIA
-```
-
-Sega - Mega CD & Sega CD (806)
-- Redump 2022-11-20 (540)
-- MAME 0.257 Software List CHDs (merged) (megacd, megacdj, segacd)
-
-Sega - Saturn (4406)
-- Redump 2022-11-24 (2356)
-- MAME 0.257 Software List CHDs (merged) (saturn)
-
-SNK - Neo Geo CD (215)
-- Redump 2022-09-23 (111)
-- MAME 0.257 Software List CHDs (merged) (neocd)
-
-Sony - PlayStation (11480)
-- Redump 2022-12-14 (10681)
-- MAME 0.257 Software List CHDs (merged) (psx)
-
-```
-Missing (10)
-Arc the Lad III (Japan) (Demo 2)
-Ehrgeiz - God Bless the Ring (Japan) (Demo 2)
-Karat PS PS2-you Pro Action Replay CDX2 (Japan) (Unl)
-Kosodate Quiz My Angel (Japan) (Rev 1)
-Ninja Jajamaru-kun - Onigiri Ninpouchou (Japan) (Demo)
-Ore no Shikabane o Koete Yuke (Japan) (Demo)
-Oumagatoki (Japan) (Premium Fan Disc)
-R4 - Ridge Racer Type 4 (Korea)
-Thoroughbred Breeder - Sekai Seiha-hen (Japan) (Rev 1)
-Zero Divide (Japan) (Demo)
-
-Redump MIA (8)
-http://wiki.redump.org/index.php?title=Sony_-_PlayStation_MIA
-```
-
-Sony - PlayStation 2 (4145)
-- Redump 2022-12-15 (10681)
-- **No Match with MAME 0.257 Software List CHDs**
-
-```
-Missing (6902)
-Mostly Asia,Demos,older Versions 
-```
+|Redump												|Version   |MAME					|Have		|MIA		|
+|---------------------------------------------------|----------|------------------------|-----------|-----------|
+**Acorn - Archimedes**|2023-04-28||67|0|
+*Apple - Macintosh*|2023-08-08||185|883|
+Arcade - Konami - e-Amusement|2023-04-06||18|16|
+**Arcade - Konami - FireBeat**|2019-04-06||8|0|
+**Arcade - Konami - System 573**|2023-04-06||44|0|
+~~Arcade - Konami - System GV~~|2020-09-09||0|1|
+**Arcade - Namco - Sega - Nintendo - Triforce**|2021-02-04||22|0|
+**Arcade - Namco - System 246**|2023-04-11||9|0|
+Arcade - Sega - Chihiro|2021-01-08||17|1|
+Arcade - Sega - Lindbergh|2022-09-27||9|3|
+**Arcade - Sega - Naomi 2**|2020-12-19||7|0|
+**Arcade - Sega - Naomi**|2022-10-08||29|0|
+Arcade - Sega - RingEdge 2|2020-01-21||5|2|
+~~Arcade - Sega - RingEdge~~|2023-05-26||0|8|
+**Atari - Jaguar CD Interactive Multimedia System**|2023-06-01||24|0|
+**Bandai - Pippin**|2022-12-17|pippin|23|0|
+Bandai - Playdia Quick Interactive System|2022-07-06||37|1|
+Commodore - Amiga CD|2023-07-29||502|8|
+Commodore - Amiga CD32|2023-07-27|cd32|223|5|
+**Commodore - Amiga CDTV**|2023-07-29|cdtv|152|0|
+**Fujitsu - FM-Towns**|2023-08-08|fmtowns_cd|943|0|
+~~funworld - Photo Play~~|2020-01-21||0|3|
+*IBM - PC compatible*|2023-08-09|ibm5170_cdrom|514|42425|
+**Incredible Technologies - Eagle**|2023-04-07||7|0|
+**Mattel - Fisher-Price iXL**|2023-08-07||26|0|
+**Mattel - HyperScan**|2023-05-03||7|0|
+**Memorex - Visual Information System**|2022-08-04||71|0|
+~~Microsoft - Xbox 360~~|2023-08-04||0|3228|
+~~Microsoft - Xbox~~|2023-07-31||0|2586|
+**NEC - PC Engine CD & TurboGrafx CD**|2022-11-11|pcecd|1033|0|
+~~NEC - PC-88 series~~|2014-10-07||0|1|
+NEC - PC-98|2022-11-18|pc98_cd|292|1|
+**NEC - PC-FX**|2022-09-14|pcfx|78|0|
+~~Nintendo - GameCube~~|2023-07-31||0|1974|
+~~Nintendo - Wii~~|2023-08-08||0|3770|
+**Palm**|2023-05-12||113|0|
+~~Panasonic - 3DO Interactive Multiplayer~~|2023-07-26||0|632|
+Phillips - CD-I|2023-07-28|cdi|2080|25|
+*Photo CD*|2023-07-29||22|159|
+**PlayStation GameShark Updates**|2023-07-02||29|0|
+Pocket PC|2023-07-18||33|19|
+Sega - Dreamcast|2023-07-19|dc|2065|3|
+Sega - Mega-CD - Sega CD|2023-07-22|megacd, megacdj, segacd|807|1|
+**Sega - Prologue 21**|2021-10-04||30|0|
+**Sega - Saturn**|2023-07-09|saturn|4411|0|
+**Sharp - X68000**|2022-07-24||28|0|
+**SNK - Neo Geo CD**|2022-09-23|neocd|215|0|
+*Sony - PlayStation 2*|2023-08-08||4145|7046|
+~~Sony - PlayStation 3~~|2023-08-08||0|4322|
+~~Sony - PlayStation Portable~~|2023-08-08||0|2753|
+Sony - PlayStation|2023-08-08|psx|11517|15|
+**TAB-Austria - Quizard**|2023-04-23||14|0|
+Tomy - Kiss-Site|2023-07-31||26|1|
+VM Labs - NUON|2023-03-09||7|2|
+**VTech - V.Flash & V.Smile Pro**|2023-03-10|vsmile_cd|54|0|
+ZAPiT Games - Game Wave Family Entertainment System|2021-10-06||15|1|
