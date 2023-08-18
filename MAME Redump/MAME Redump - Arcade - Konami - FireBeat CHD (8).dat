@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+  <header>
+    <name>MAME Redump - Arcade - Konami - FireBeat CHD</name>
+    <description>MAME Redump - Arcade - Konami - FireBeat - Discs (8) (2019-04-06 16-58-55)</description>
+    <version>0.257</version>
+    <date>2023-08-18</date>
+    <author>MAME Redump</author>
+    <url>https://github.com/MetalSlug/MAMERedump</url>
+  </header>
+  <game name="MAME Redump - Arcade - Konami - FireBeat CHD">
+    <description>MAME Redump - Arcade - Konami - FireBeat - Discs (8) (2019-04-06 16-58-55)</description>
+    <rom name="Pop'n Music 4 (Japan) (Software Disk 1).chd" size="44846932" crc="DA9A04F2" sha1="B78EDC477C8CCAFE66395BEE7D6C8AF6C2B0D5C8" />
+    <rom name="Pop'n Music 4 (Japan) (Software Disk 2).chd" size="1878857237" crc="32EE7226" sha1="DE08446764A2C48ADC4F561E0A4642068036E98F" />
+    <rom name="Pop'n Music 5 (Japan) (Disc 1).chd" size="44638226" crc="9C69A03D" sha1="8325F91A4ED09827421960D6C6F4E1E2B7320528" />
+    <rom name="Pop'n Music 5 (Japan) (Disc 2).chd" size="1257019250" crc="D5441D7C" sha1="F012823313CB44BC7907F4CC978C1DF51D3B54B5" />
+    <rom name="Pop'n Music 6 (Japan) (Disc 1) (JAC).chd" size="53434223" crc="FCD0F5BF" sha1="7C2E6CB7215EDD08CF7C980350642D76E0767A8B" />
+    <rom name="Pop'n Music 6 (Japan) (Disc 2).chd" size="2154225993" crc="BAA2F81F" sha1="CC70E6F5B5D413547440E2757DE3D41206DF9252" />
+    <rom name="Pop'n Music 7 (Japan) (Disc 1) (JAB).chd" size="154537499" crc="6462C589" sha1="8C98BC2B1854ADA94C0FC617449405F887B3F871" />
+    <rom name="Pop'n Music 7 (Japan) (Disc 2).chd" size="2766666641" crc="3ACD5DA8" sha1="8EFAA7890F6B518BFBD5F99911D8587D03CD5CAC" />
+  </game>
+</datafile>

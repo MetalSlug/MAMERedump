@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC " -//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>NEC - PC-98 - Redump 2022-05-16</name>
+		<description>NEC - PC-98 - Redump 2022-05-16</description>
+		<version>0.257</version>
+		<date>2023-08-02</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Angel Night - Yamiyo o Kakeru Tenshi-tachi no Monogatari (Japan)" sha1="0213f5a7070e2996242ec3d226f70d1657281341" size="4839816" crc="64e5fae0" fullsha1="b3135fdbc486b3b203b512c811c2dfce1e79342d" dataSha1="5838410cf069959b107e450ce72f101ba9261aec">
+		<category>Games</category>
+		<description>Angel Night - Yamiyo o Kakeru Tenshi-tachi no Monogatari (Japan)</description>
+		<rom name="Angel Night - Yamiyo o Kakeru Tenshi-tachi no Monogatari (Japan) (Track 01).bin" size="8152032" crc="d26e1341" md5="fe1f553d04023a5847796a1f251878ea" sha1="6abfc80682c227e2a3b5261b3ca5866e03b2d900"/>
+	</game>
+	<game name="Ardor Aeternus - Wasureenu Honoo (Japan)" sha1="cbcc070ed0397cc8c4f5374a3170ead1268346e4" size="4830650" crc="e498f65d" fullsha1="ca814d4310b1aa35b743185e66e260d8d3b48a84" dataSha1="1ebaac2af1ca49f8597de4365c99c1fbfa876d03">
+		<category>Games</category>
+		<description>Ardor Aeternus - Wasureenu Honoo (Japan)</description>
+		<rom name="Ardor Aeternus - Wasureenu Honoo (Japan) (Track 01).bin" size="16266432" crc="c3e0e0e0" md5="c39301016c5f5c77e599cd7930fbc816" sha1="4edd9fc8419c59640997e2b6bfdaf95ef9506962"/>
+	</game>
+	<game name="Etemible - Tenjou Mukyuu (Japan)" sha1="879d89ad6966f291459d6e8cba96f134109fb4a7" size="9418874" crc="60f3b1aa" fullsha1="fc9cdcf7004d98675bc49f215491e09a5afd09bf" dataSha1="645689ff17c8415603626689edd922ec8b8f3ab6">
+		<category>Games</category>
+		<description>Etemible - Tenjou Mukyuu (Japan)</description>
+		<rom name="Etemible - Tenjou Mukyuu (Japan) (Track 01).bin" size="18768960" crc="51097752" md5="9c2947b8f37d201c77088b4506088791" sha1="c2fe89df9aad32706ce5dc7bb402a2988e9d4157"/>
+	</game>
+	<game name="Yatsu no Na wa Diamond - His Name Is Diamond (Japan)" sha1="0072f0ddd4203eeafcfc21c7c13819106b5d1060" size="7056892" crc="8a421ea7" fullsha1="d10845ef09aae32b77bb563c165fdb442bba9d9d" dataSha1="c55effd68505d578d837b90b9f0e3ac21e8f33e3">
+		<category>Games</category>
+		<description>Yatsu no Na wa Diamond - His Name Is Diamond (Japan)</description>
+		<rom name="Yatsu no Na wa Diamond - His Name Is Diamond (Japan) (Track 01).bin" size="52567200" crc="a32d6492" md5="747eb34b1bc84c39ed303decc5fa5001" sha1="bbf8c78e242454851dc9e94bab44d257445720ef"/>
+	</game>
+</datafile>

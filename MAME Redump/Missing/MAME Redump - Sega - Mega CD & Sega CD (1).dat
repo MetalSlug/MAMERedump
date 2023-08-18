@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+  <header>
+    <name>MAME Redump - Sega - Mega CD &amp; Sega CD</name>
+    <description>MAME Redump - Sega - Mega CD &amp; Sega CD - Discs (542) (2023-07-22 03-27-17)</description>
+    <version>0.257</version>
+    <date>2023-08-18</date>
+    <author>MAME Redump</author>
+    <url>https://github.com/MetalSlug/MAMERedump</url>
+  </header>
+  <game name="WireHead (Europe) (Beta)">
+    <description>WireHead (Europe) (Beta)</description>
+    <rom name="WireHead (Europe) (Beta).cue" size="218" crc="4479C1D8" md5="1DDC6A351CBC31499403F8438B80A880" sha1="17099F78A9F2E4024FD42ADD4DC0C73D8544A1A2" />
+    <rom name="WireHead (Europe) (Beta) (Track 1).bin" size="626991456" crc="08895D06" md5="9927FE4108CC562541C52BB27DFDC63A" sha1="46D2CC707718E1E8A9E25910CD3DC2645B733857" />
+    <rom name="WireHead (Europe) (Beta) (Track 2).bin" size="1632288" crc="FB30352A" md5="9479493ACCBDC93735BF3DE02E65FB06" sha1="0E03384F2742EAF5591AC7E8DE8540822295DF03" />
+  </game>
+</datafile>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+  <header>
+    <name>MAME Redump - Sega - Dreamcast</name>
+    <description>MAME Redump - Sega - Dreamcast - Discs (1468) (2023-07-19 17-46-06)</description>
+    <version>0.257</version>
+    <date>2023-08-18</date>
+    <author>MAME Redump</author>
+    <url>https://github.com/MetalSlug/MAMERedump</url>
+  </header>
+  <game name="Chicken Run (Japan) (Beta)">
+    <description>Chicken Run (Japan) (Beta)</description>
+    <rom name="Chicken Run (Japan) (Beta).cue" size="617" crc="BDCCE9E4" md5="7BCB8159A26853BDC4A835FBE3986C45" sha1="2AA1E5FB87D4DACE356FB6D241ABBF7727A89BF0" />
+    <rom name="Chicken Run (Japan) (Beta) (Track 1).bin" size="16151184" crc="B6E508D8" md5="191F860557BDC9DB8534FE5C8D7AC94D" sha1="AF96D4615103BBA11A090B72F8F995CB353D3C7F" />
+    <rom name="Chicken Run (Japan) (Beta) (Track 2).bin" size="14347200" crc="49E43706" md5="9CCA4624E62F04DC398AED22B5370A34" sha1="A34BDC73AC1E360B13D0592B501A388E0225E994" />
+    <rom name="Chicken Run (Japan) (Beta) (Track 3).bin" size="1154267520" crc="7A49D67A" md5="CF8829333724D25318F0F987CA2FE4B9" sha1="3705970C90E85AA56B8FB7158D02AF3BF5B63E61" />
+    <rom name="Chicken Run (Japan) (Beta) (Track 4).bin" size="13994400" crc="2D9C8342" md5="E2427674658E068C5CC4BDE0542E334B" sha1="1953372E0E2C90D4E92B1DC69A2426E439806262" />
+    <rom name="Chicken Run (Japan) (Beta) (Track 5).bin" size="17498880" crc="0063A7BA" md5="FF3F47622090A0703F7AB415A7137948" sha1="F07455C2E32EEBA207C45FFCD5BC792078C7F542" />
+  </game>
+  <game name="Dream Preview Vol. 1 (Japan)">
+    <description>Dream Preview Vol. 1 (Japan)</description>
+    <rom name="Dream Preview Vol. 1 (Japan).cue" size="378" crc="35345043" md5="AE70A0546318B480481AE766ECB48146" sha1="7B691AF9C7B59C48852242EABAE7B1EFD48B09A3" />
+    <rom name="Dream Preview Vol. 1 (Japan) (Track 1).bin" size="705600" crc="DDF41288" md5="25D9ADCEE32EACA58D086C75DD365828" sha1="EEC4B2E2CEBDA69E33C2EF0ADD8723BA83E2C576" />
+    <rom name="Dream Preview Vol. 1 (Japan) (Track 2).bin" size="2088576" crc="1859EA65" md5="652A31166A58B8F933E8A924E7C88780" sha1="0ECD537E42946F3E74C80C9FCB8D0BCCCCFC96F1" />
+    <rom name="Dream Preview Vol. 1 (Japan) (Track 3).bin" size="1185760800" crc="3A1C01DE" md5="AE86CB66817C25D4FA15FEAB8577C2D0" sha1="84B78160FA0DC93DD6EFF07E62772DFDADE78350" />
+  </game>
+  <game name="Tough Guy (USA, Japan) (Unl)">
+    <description>Tough Guy (USA, Japan) (Unl)</description>
+    <rom name="Tough Guy (USA, Japan) (Unl).cue" size="235" crc="01DD426D" md5="5534D890B367A7895372743B42E6C099" sha1="36C92012F6B857DBA0C94020B72B15EC907D17BB" />
+    <rom name="Tough Guy (USA, Japan) (Unl) (Track 1).bin" size="10633392" crc="EABD310B" md5="4AC084407ED499D1AB84509FE55BF096" sha1="77F7E7298B627C9E2B8D44F83BB3CF4EFC7054E6" />
+    <rom name="Tough Guy (USA, Japan) (Unl) (Track 2).bin" size="670390560" crc="C6AE014A" md5="77773BDE541498556FCB42B5CDA69CAF" sha1="2FC101E775DDD882AC7E4A335319A753B4379664" />
+  </game>
+</datafile>

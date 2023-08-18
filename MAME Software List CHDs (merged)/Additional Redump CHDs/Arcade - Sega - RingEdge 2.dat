@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC " -//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Arcade - Sega - RingEdge 2</name>
+		<description>Arcade - Sega - RingEdge 2</description>
+		<version>0.257</version>
+		<date>2023-08-02</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="ALL.Net P-ras Multi Version 2 (Japan)" sha1="5d34611f02e58680ec8b6d5d816a757cb532871b" size="505344938" crc="cb7f8df6" fullsha1="3ac3403c033ab8732ea9c906d84ca0afa20f3236" dataSha1="109052e9df85ddeb6c59f44fa6cdb3d26ae2d57e">
+		<category>Games</category>
+		<description>ALL.Net P-ras Multi Version 2 (Japan)</description>
+		<rom name="ALL.Net P-ras Multi Version 2 (Japan) (Track 01).bin" size="506986496" crc="a34c2b9f" md5="f414178734b0d61c2790cb56c49ef575" sha1="08b3b73d014d005c31e0e80f21a157086ca07118"/>
+	</game>
+	<game name="ALL.Net P-ras Multi Version 2 (Japan) (Rev A)" sha1="7b0d552b440fcc24375164220353d59a28966a3d" size="1005347705" crc="98a62a97" fullsha1="e6758f71ae705f7c3b67a875a3e733008a97a3e7" dataSha1="83dacdd7a68d9c0b1b60bfdea26430dbad3c7079">
+		<category>Games</category>
+		<description>ALL.Net P-ras Multi Version 2 (Japan) (Rev A)</description>
+		<rom name="ALL.Net P-ras Multi Version 2 (Japan) (Rev A) (Track 01).bin" size="1004601344" crc="b275a574" md5="13028d55a15b2118b04ae58153b0b557" sha1="3d665b55daa069b5aacb557fe922a300dd857ab3"/>
+	</game>
+	<game name="GeeSen Love. (Japan)" sha1="b2e0e59694c9e90a8cbbfd1c469ae1d7bdbddfd1" size="1181497474" crc="81ab6b25" fullsha1="faeebaf270da773eaebff1fe7ad3e286abe98625" dataSha1="4dac61a115e240b3cdd8182d03eaa521da8619c4">
+		<category>Games</category>
+		<description>GeeSen Love. (Japan)</description>
+		<rom name="GeeSen Love. (Japan) (Track 01).bin" size="1179058176" crc="d832eb00" md5="5a81b120f8264a3acb9f1dbc10d02864" sha1="355a241e80c39cb21f7922155668e4a96d41b2aa"/>
+	</game>
+	<game name="Guilty Gear XX Accent Core Plus R (Japan)" sha1="f4199bbc17fd8d80ac2c70b37e66cc84632b7610" size="1120316148" crc="20a186c4" fullsha1="4e55c97a46403211e11b2a07c3d35146d7e369fd" dataSha1="3296fb7f3481a79a4e3683695db8ba2153cfece2">
+		<category>Games</category>
+		<description>Guilty Gear XX Accent Core Plus R (Japan)</description>
+		<rom name="Guilty Gear XX Accent Core Plus R (Japan) (Track 01).bin" size="1118306304" crc="6453c548" md5="1dced127b402d7f57e0b1a818588e20b" sha1="0ef500c6186584c96d60f34c37ca924c5e103d13"/>
+	</game>
+	<game name="Under Night In-Birth (Japan)" sha1="c82e7e921d0d87700d3e46449c3cf3cafd7b5c73" size="2926202633" crc="a23b363b" fullsha1="f605e9732ae1302e4797e3f461488e3adcc29cc8" dataSha1="ca44757d80aca9b5568093712799958439622ddc">
+		<category>Games</category>
+		<description>Under Night In-Birth (Japan)</description>
+		<rom name="Under Night In-Birth (Japan) (Track 01).bin" size="2913402880" crc="83228abc" md5="962b794ca6e1ebd317733f131ad26b16" sha1="6b786c5ebd525084fd0fc14eb2c63f5875276538"/>
+	</game>
+</datafile>

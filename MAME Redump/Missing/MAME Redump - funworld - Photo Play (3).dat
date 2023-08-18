@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+  <header>
+    <name>MAME Redump - funworld - Photo Play</name>
+    <description>MAME Redump - funworld - Photo Play - Discs (3) (2020-01-21 18-23-57)</description>
+    <version>0.257</version>
+    <date>2023-08-18</date>
+    <author>MAME Redump</author>
+    <url>https://github.com/MetalSlug/MAMERedump</url>
+  </header>
+  <game name="Change Your Games. Update 2001 (Europe) (Disc 1)">
+    <description>Change Your Games. Update 2001 (Europe) (Disc 1)</description>
+    <rom name="Change Your Games. Update 2001 (Europe) (Disc 1).cue" size="114" crc="E203AB49" md5="7FB8DE577635DEE5A3889C381D6DA334" sha1="AD6BFA4715F230CC39B7F48937481EAAA790CB4B" />
+    <rom name="Change Your Games. Update 2001 (Europe) (Disc 1).bin" size="662826528" crc="E5CEFA54" md5="08DA900DC34E4CF136E87AE2FE5FB2EF" sha1="ED1E73F60BFB5B1608A3867F470941316E841A23" />
+  </game>
+  <game name="Change Your Games. Update 2001 (Europe) (Disc 2)">
+    <description>Change Your Games. Update 2001 (Europe) (Disc 2)</description>
+    <rom name="Change Your Games. Update 2001 (Europe) (Disc 2).cue" size="114" crc="E35E8D98" md5="0CC98CCFF6FD6B820DEEB051B76AF7FC" sha1="3EB7C589873A96DA3A7E311E338399722034EA2C" />
+    <rom name="Change Your Games. Update 2001 (Europe) (Disc 2).bin" size="743728272" crc="CADD4990" md5="B72630754821190AA312BFCFFFFC70A9" sha1="5248881684B861B87AD66C3EC4BDEAF2BFE88B61" />
+  </game>
+  <game name="Snake II (Europe)">
+    <description>Snake II (Europe)</description>
+    <rom name="Snake II (Europe).cue" size="83" crc="5650129B" md5="D38144C3972EFA5D43AA6DCFEDF21F0A" sha1="567F80B1DC31B76558BCE4C2F87D1AD831765D93" />
+    <rom name="Snake II (Europe).bin" size="632302272" crc="CE91B76C" md5="A6B8687411419350CB0AC2DC4550F799" sha1="16603595C6821B845F83A42354A5C428CCA44DAC" />
+  </game>
+</datafile>
