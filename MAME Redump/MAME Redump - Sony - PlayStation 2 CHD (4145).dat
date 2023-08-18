@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="Windows-1252"?>
+<?xml version="1.0"?>
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
   <header>
     <name>MAME Redump - Sony - PlayStation 2 CHD</name>
-    <description>MAME Redump - Sony - PlayStation 2 - Discs (11047) (2022-12-15 03-47-14)</description>
+    <description>MAME Redump - Sony - PlayStation 2 - Discs (11191) (2023-08-08 21-32-45)</description>
     <version>0.257</version>
-    <date>2023-08-02</date>
+    <date>2023-08-18</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
   </header>
   <game name="MAME Redump - Sony - PlayStation 2 CHD">
-    <description>MAME Redump - Sony - PlayStation 2 - Discs (11047) (2022-12-15 03-47-14)</description>
+    <description>MAME Redump - Sony - PlayStation 2 - Discs (11191) (2023-08-08 21-32-45)</description>
     <rom name="007 - Agent Under Fire (Europe) (En,Fr,De,Es,Nl,Sv).chd" size="3232884979" crc="A5D747C0" sha1="A2D3E218A1CB5B1661D73CB16E9AB6BE7245DB46" />
     <rom name="007 - Agent Under Fire (USA).chd" size="1390684864" crc="8D8E9B14" sha1="A746EEA329C1C4E5E585365C379D855D85FD0C51" />
     <rom name="007 - Everything or Nothing (Europe) (Fr,De).chd" size="2757404579" crc="FE9A2E1F" sha1="760433645BD1AEE43A3049476547E459007A1490" />
@@ -424,6 +424,7 @@
     <rom name="Bust-A-Bloc (Europe).chd" size="41031716" crc="67518F58" sha1="4D22EF72CFCC5CCA46BE2EB9FF1507C237B3E97D" />
     <rom name="Butt-Ugly Martians - Zoom or Doom! (Europe) (En,Fr,De,Es,It).chd" size="357354206" crc="A006EBD0" sha1="93761150754157D4F5FF3210F62294CBFDA4BF83" />
     <rom name="Butt-Ugly Martians - Zoom or Doom! (USA).chd" size="333287847" crc="6CCC2966" sha1="525CBA97113E99AAF0181D40EA2C92EE2EE7B832" />
+    <rom name="Buzz! Brain of the World (Europe) (En,No,Da).chd" size="2919047716" crc="74D6EBEA" sha1="8BFE06BC26DF5782017BF809802E765526942AA4" />
     <rom name="Buzz! Das grosse Quiz (Germany).chd" size="2277795573" crc="FAE944E5" sha1="5C04E7474E5A8E6C507EC0B6E1635510386DD789" />
     <rom name="Buzz! Das Mega-Quiz (Germany).chd" size="2433465030" crc="75AD5B8C" sha1="B71E4EDD5AEFC947E3AF64285E90C05E5CE9833F" />
     <rom name="Buzz! Das Sport-Quiz (Germany).chd" size="2336836910" crc="BFBDF02C" sha1="A1F6F797208EE399F950E2CEA3752879B46A6FDA" />
@@ -435,7 +436,6 @@
     <rom name="Buzz! Junior - Monster Rumble (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt).chd" size="2162196041" crc="91624C95" sha1="FEA44E391246A6EEC16F1EB23B0494A579D28DFC" />
     <rom name="Buzz! Junior - RoboJam (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt).chd" size="2031079090" crc="88A30F41" sha1="6CE3841F788724DB026DB007DE1D87C6C3221E0D" />
     <rom name="Buzz! Junior - RoboJam (USA) (En,Fr,Es).chd" size="1162145524" crc="0C35C9A2" sha1="08218AA69E8DE999960D7C0C33A0C7808B9DA4AD" />
-    <rom name="Buzz! Norgesmester (Europe) (En,No,Da).chd" size="2919047716" crc="74D6EBEA" sha1="8BFE06BC26DF5782017BF809802E765526942AA4" />
     <rom name="Buzz! The Hollywood Quiz (Europe) (Fr,De,It).chd" size="3629059422" crc="5249A0CD" sha1="E3FC3AF261A822F3DF22E1D8DE4538D25E82AAEA" />
     <rom name="Buzz! The Hollywood Quiz (USA).chd" size="2025104577" crc="09733687" sha1="B9E6BEB288E942724B84A5D3C70D018472AE06AA" />
     <rom name="Buzz! The Mega Quiz (USA).chd" size="2259766555" crc="58DA446A" sha1="9881A45988A8D4073F4EFE2D0006DD6A5784BF8A" />
@@ -940,7 +940,7 @@
     <rom name="Dragon Ball Z - Budokai 3 (USA) (Greatest Hits).chd" size="1707731884" crc="31326A6C" sha1="D9881B401AA5B7D92B1CC5D7FDEDF710BF792528" />
     <rom name="Dragon Ball Z - Budokai Tenkaichi (Europe, Australia) (En,Ja,Fr,De,Es,It).chd" size="2641245361" crc="2DCAFD38" sha1="7BDA6479AD409298734807DBE93757DF00B65F87" />
     <rom name="Dragon Ball Z - Budokai Tenkaichi (USA).chd" size="2420701668" crc="07A22F82" sha1="4B8DCB8600D4BDB6FDF3CC9EFC914647637172D8" />
-    <rom name="Dragon Ball Z - Budokai Tenkaichi 2 (Europe, Australia) (En,Ja,Fr,De,Es,It).chd" size="1792443206" crc="7BF1E630" sha1="78DFE3C073FD20FFD9C295C65A71E41C3D78931A" />
+    <rom name="Dragon Ball Z - Budokai Tenkaichi 2 (Europe, Australia) (En,Fr,De,Es,It).chd" size="1792443206" crc="7BF1E630" sha1="78DFE3C073FD20FFD9C295C65A71E41C3D78931A" />
     <rom name="Dragon Ball Z - Budokai Tenkaichi 2 (USA) (En,Ja).chd" size="1707729615" crc="CB608EB1" sha1="254E82C532847877F7D99F849E9293D0F9171B27" />
     <rom name="Dragon Ball Z - Budokai Tenkaichi 3 (Europe, Australia) (En,Fr,De,Es,It).chd" size="1954499875" crc="AA2971BE" sha1="9572BC6D524EE3CEB9B299FEB65D5D910BEA03BA" />
     <rom name="Dragon Ball Z - Budokai Tenkaichi 3 (USA) (En,Ja).chd" size="1853318227" crc="55F8B8A7" sha1="87883E52CE8DBC68925A9EB50EE01BC0FE505521" />
@@ -1331,7 +1331,7 @@
     <rom name="Frogger Beyond (Europe) (En,Fr,De,Es,It).chd" size="1225390136" crc="2AC4721A" sha1="0B8A55AFCAE2F785330E4929B68E8971B4D50386" />
     <rom name="Frogger's Adventures - The Rescue (USA).chd" size="752981863" crc="B0835D84" sha1="B3A876714FB511289DBA2183E437080473C46CDF" />
     <rom name="Front Mission 4 (USA).chd" size="1028103905" crc="2C6F47BE" sha1="B332B098F7D19A5E4737908A60B19E5ADADA16F6" />
-    <rom name="Fruit Fall (Europe).chd" size="25969145" crc="84C1B648" sha1="E970DE83456A2C4E5AA79A184F37E433EE9B631E" />
+    <rom name="Fruit Fall (Europe, Australia).chd" size="25969145" crc="84C1B648" sha1="E970DE83456A2C4E5AA79A184F37E433EE9B631E" />
     <rom name="Fruit Machine Mania (Europe) (En,Fr,De,Es,It,Nl).chd" size="61802519" crc="EBD58B27" sha1="E3B516700603FBE3C04C86389E4B421F50DDFF9F" />
     <rom name="Fugitive Hunter - War on Terror (USA).chd" size="3019825533" crc="04CC556D" sha1="5FE08F27287F26FA1C52ECD0DE3C554EF987B36E" />
     <rom name="Full Spectrum Warrior - Ten Hammers (Germany).chd" size="1976213665" crc="1A193D34" sha1="1A7103B0187DF9B9421642614D2A1B0651A5D96C" />
@@ -1643,7 +1643,7 @@
     <rom name="Hot Wheels - Stunt Track Challenge (USA).chd" size="676927126" crc="F7DA969B" sha1="735C8CD3FE56637063197EA941B07B33AA2744F6" />
     <rom name="Hot Wheels - Velocity X - Maximum Justice (Europe).chd" size="375818022" crc="607D17FB" sha1="BE69700D1165D07BE55C3ED79A22A3CDC4F4ADD9" />
     <rom name="Hot Wheels - Velocity X - Maximum Justice (USA).chd" size="386470216" crc="D5DE24CA" sha1="545CC2F3FDBCA29171924584A5F5FC737656BCBD" />
-    <rom name="Hot Wheels - World Race (Europe).chd" size="430737083" crc="821FDBE7" sha1="DFD834F38DA21A43FB37AF83148D82E37BB13AC1" />
+    <rom name="Hot Wheels - World Race (Europe, Australia).chd" size="430737083" crc="821FDBE7" sha1="DFD834F38DA21A43FB37AF83148D82E37BB13AC1" />
     <rom name="Hot Wheels - World Race (USA).chd" size="337943977" crc="5D7D4923" sha1="92D9F3F18370F946D9433164E1A24A40295211D3" />
     <rom name="HSX - HyperSonic.Xtreme (USA).chd" size="1370227343" crc="3D8799A9" sha1="0370FB479B3573F7CBD3C97E9F4F1DFB3044CD1B" />
     <rom name="Hugo - Bukkazoom! (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl).chd" size="229490212" crc="44E9CB7B" sha1="9DC5FC62FA2182CE6B94AA4A9FDB6AA8AE3F25DC" />
@@ -1806,7 +1806,7 @@
     <rom name="Kessen III (Germany).chd" size="149411623" crc="FEECF083" sha1="051789FD1653EC0C7F3C4B65944D6FECAF6E99C8" />
     <rom name="Kessen III (USA).chd" size="235171138" crc="FABAC63C" sha1="30AEB33CEA46D819F2762BFF07D11E5002C47BD4" />
     <rom name="Kiddies Party Pack (Europe) (En,Fr,De).chd" size="29205583" crc="6191C2FD" sha1="4CE3FBC324CC3A47833F9A91EF00228B85DCBBC2" />
-    <rom name="Kidz Sports Basketball (Europe).chd" size="29780832" crc="E8AA76EB" sha1="5FAB7107382ABE6C1A86CE91B6F16A90A98BF037" />
+    <rom name="Kidz Sports Basketball (Europe, Australia).chd" size="29780832" crc="E8AA76EB" sha1="5FAB7107382ABE6C1A86CE91B6F16A90A98BF037" />
     <rom name="Kidz Sports Ice Hockey (Europe).chd" size="31628567" crc="526BE096" sha1="41865FB84DA2E44538CCCECB71A7B00A3968982E" />
     <rom name="kill.switch (Europe) (En,Fr,De,Es,It).chd" size="2641581288" crc="E1CBE1BC" sha1="18EE630840387D3609EB2E1E38AF23BE84A2E117" />
     <rom name="kill.switch (USA).chd" size="1986271540" crc="7B8FF953" sha1="664771B5069B3A704454D781C7D7C737695FB9FD" />
@@ -1888,7 +1888,7 @@
     <rom name="Legaia 2 - Duel Saga (USA).chd" size="1425476492" crc="C58E5D6C" sha1="5B510B1D496881DE871AED28182FB735BE43AE15" />
     <rom name="Legend of Alon D'ar, The (USA).chd" size="339455329" crc="57E8FB9C" sha1="2A1D9A1F53D2E622AC75177C3541D59F318CF286" />
     <rom name="Legend of Camelot (Europe) (En,Fr,De).chd" size="229566052" crc="20D36DDB" sha1="E628D7BB13C42EC77439E7BAAC988F3D4F2988E1" />
-    <rom name="Legend of Hercules (Europe) (En,De).chd" size="493920289" crc="864A1E50" sha1="EF2F02C7D96E78D177FD094AB718D35483F0AE5F" />
+    <rom name="Legend of Herkules (Europe) (En,De).chd" size="493920289" crc="864A1E50" sha1="EF2F02C7D96E78D177FD094AB718D35483F0AE5F" />
     <rom name="Legend of Kay (Europe) (En,Fr,De,Es,It).chd" size="2626057329" crc="7F072236" sha1="6C51734082AAFC83EC3F0EDCB02590AAAC5E2DE0" />
     <rom name="Legend of Kay (USA).chd" size="2628566356" crc="56082933" sha1="0927AD9DB004D0CCA3436B49BCA36AA89173A4DD" />
     <rom name="Legend of Sayuki (Europe) (En,Fr,Es,It).chd" size="52385384" crc="FAB9DD4D" sha1="BB32CA8F14607429692633DABDC880F046473F18" />
@@ -1907,7 +1907,7 @@
     <rom name="Legends of Wrestling II (USA).chd" size="3747103458" crc="45EAEC7C" sha1="DB6247A9862E74147F988E055D99C397303F0FC1" />
     <rom name="Legion - The Legend of Excalibur (Europe) (En,Fr,De,Es,It).chd" size="2539560172" crc="31DFDD8C" sha1="4D318D1927C8638403B0695EDF14952F831CDA19" />
     <rom name="Legion - The Legend of Excalibur (USA).chd" size="1845189580" crc="EC54F19E" sha1="B6DDE27B50FCF6B92CA19FEAEF10899C1EA2FCA7" />
-    <rom name="LEGO Batman - The Videogame (Europe) (En,Fr,De,Es,It,Da).chd" size="1303088776" crc="82D9AB71" sha1="1A7FE1A27724EF34857AE21C4770D18BEC860B77" />
+    <rom name="LEGO Batman - The Videogame (Europe, Australia) (En,Fr,De,Es,It,Da).chd" size="1303088776" crc="82D9AB71" sha1="1A7FE1A27724EF34857AE21C4770D18BEC860B77" />
     <rom name="LEGO Batman - The Videogame (USA).chd" size="1303088715" crc="452314B5" sha1="FF8A518F5C2C765D70FFE07B951910EFFF8E08E2" />
     <rom name="LEGO Indiana Jones - The Original Adventures (Europe, Australia) (En,Fr,De,Es,It,Da).chd" size="1665136297" crc="3391F4C2" sha1="1D0CB4E0AEB0B25E4BA20C1071D772B72BBE1006" />
     <rom name="LEGO Indiana Jones - The Original Adventures (USA).chd" size="1665386141" crc="BBF45384" sha1="470CFB6C89913D6CD733F98D5CB7223A2D544329" />
@@ -2023,7 +2023,7 @@
     <rom name="Manhunt (USA).chd" size="2046244196" crc="E8345082" sha1="90A81F830E20886FC741C842D13168715CC16F67" />
     <rom name="Manhunt 2 (Europe) (En,Fr,De,Es,It).chd" size="2208785033" crc="34713031" sha1="FCCE83AC9F46B4FF361D877873082132999050F2" />
     <rom name="Manhunt 2 (USA).chd" size="2175236120" crc="13DA459C" sha1="1385E05AB0768F7A4A0C2AD3648D461EE49F4C4F" />
-    <rom name="Maniac Mole (Europe).chd" size="223409339" crc="9E360BE5" sha1="5A0DBB123BDB61B71B7D1A4149E641A0D9107B60" />
+    <rom name="Maniac Mole (Europe, Australia).chd" size="223409339" crc="9E360BE5" sha1="5A0DBB123BDB61B71B7D1A4149E641A0D9107B60" />
     <rom name="Marc Ecko's Getting Up - Contents Under Pressure (Europe) (En,Fr,De,Es,It).chd" size="2317598436" crc="2B72C3FD" sha1="9AE07C214EBCBA0421C217C698A3F6EE7AFE1ED5" />
     <rom name="Marc Ecko's Getting Up - Contents Under Pressure (USA).chd" size="1486214841" crc="EBD4AF7D" sha1="2038A5B14047A481861C32750AF5BF66A091C7A6" />
     <rom name="Margot's Word Brain (Europe) (En,Fr,De,Es,It).chd" size="27283714" crc="39F35E8F" sha1="CBE2FBC293371C3AAF50EE18782155ECFB311F6B" />
@@ -2107,7 +2107,7 @@
     <rom name="Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 3) (Existence) (Limited Edition).chd" size="161658827" crc="545B7A8E" sha1="26F0A05A6DFC432FC4C9EDA0C3A61B7E5D34677A" />
     <rom name="Metal Saga (USA).chd" size="972100174" crc="4943DB25" sha1="17B93D44B79576E07334C2909C7FFABCC81AB131" />
     <rom name="Metal Slug 3 (Europe) (En,Fr,De,Es,It).chd" size="1324188259" crc="DEDAD120" sha1="90C137EBC3102F7F92BFCB285E699D6FF2B4770B" />
-    <rom name="Metal Slug 4 (Europe).chd" size="72890058" crc="BBBBA33E" sha1="6F172A85E633F5F40BB808F865F124621A992AFE" />
+    <rom name="Metal Slug 4 (Europe, Australia).chd" size="72890058" crc="BBBBA33E" sha1="6F172A85E633F5F40BB808F865F124621A992AFE" />
     <rom name="Metal Slug 4 (USA).chd" size="81133655" crc="D1AC08D6" sha1="0AD709A4DF61BD84A82AAD16220B888CB8F2C35F" />
     <rom name="Metal Slug 5 (Europe, Australia).chd" size="117376802" crc="EEB8E4EA" sha1="F570C54CEEC2BE291F900B4ADFC9FE421C048F1A" />
     <rom name="Metal Slug 5 (USA).chd" size="125819560" crc="6BA3586A" sha1="25ABCB76933CFF170B1ABAC867C6B4E7E87EEC28" />
@@ -2134,14 +2134,14 @@
     <rom name="Midnight Club II (USA).chd" size="2585335679" crc="38DECC65" sha1="496FCBA6FCA673047252C996DD1B76947005F45B" />
     <rom name="Midway Arcade Treasures (Germany).chd" size="3390198804" crc="90954F79" sha1="E8027CF574D6A7950EFEFF4D8E08F4C9E6251254" />
     <rom name="Midway Arcade Treasures (USA).chd" size="3460317697" crc="7AE50E7F" sha1="0E3BBF885EEA774B1DE731B7C5041D5D6D5466E3" />
-    <rom name="Midway Arcade Treasures 2 (Europe).chd" size="2486772371" crc="AE723167" sha1="FA4EDFA88D945B150E93166AB0147FD81D66310E" />
+    <rom name="Midway Arcade Treasures 2 (Europe, Australia).chd" size="2486772371" crc="AE723167" sha1="FA4EDFA88D945B150E93166AB0147FD81D66310E" />
     <rom name="Midway Arcade Treasures 2 (USA).chd" size="2514580725" crc="A0E21ADC" sha1="C04D70C8738B4F668ACB12927D8698D836B6F1CC" />
     <rom name="Midway Arcade Treasures 3 (Europe, Australia).chd" size="1679240606" crc="E1FAB8E3" sha1="55E8FDA28518E71AECE8B5E8831EF4A2E166F6A0" />
     <rom name="Midway Arcade Treasures 3 (USA).chd" size="1688908828" crc="FDE77BFD" sha1="34EC7193D30957D59B8230A20CB993A1B6982DED" />
     <rom name="Mighty Mulan (Europe) (En,Fr,De).chd" size="309764621" crc="E9962FFC" sha1="D8C94176C1804687CEB841478AEE9B0FEB2875C5" />
     <rom name="Mike Tyson Heavyweight Boxing (Europe) (En,Fr,De,Es,It).chd" size="493649235" crc="E08FE508" sha1="9695C287FC30C86A4B0B62EE50F37FAF07C75D2C" />
     <rom name="Mike Tyson Heavyweight Boxing (USA) (En,Fr,Es).chd" size="492444820" crc="66C34492" sha1="FD6EF752D79703E86BB584F59BA24A4CCE409D83" />
-    <rom name="Millennium European Paintball Series, The - Championship Paintball 2009 (Europe).chd" size="1536746732" crc="CB0E2058" sha1="FBC9812BAF40B083DEF471C85FCC09CEA7D600DE" />
+    <rom name="Millennium European Paintball Series, The - Championship Paintball 2009 (Europe, Australia).chd" size="1536746732" crc="CB0E2058" sha1="FBC9812BAF40B083DEF471C85FCC09CEA7D600DE" />
     <rom name="Mini Desktop Racing (Europe).chd" size="49147881" crc="98B5AE3D" sha1="0620922D55CCB5170FBDBF123BCFF3014C6A393C" />
     <rom name="Minority Report - Everybody Runs (Germany).chd" size="1232252024" crc="7D70E956" sha1="FB57FFF3528F107ED21271897C9971C016F853F3" />
     <rom name="Minority Report - Everybody Runs (USA).chd" size="1269399209" crc="EF3BEE2A" sha1="EE690AA4EC63930D8D8F05C1B78977B2CF3F868E" />
@@ -2314,7 +2314,7 @@
     <rom name="Naruto Shippuden - Ultimate Ninja 4 (USA) (En,Fr).chd" size="3472663723" crc="76115E23" sha1="E99092C570B8873ECDE1C76DA0B0A99A9F5BBB63" />
     <rom name="Naruto Shippuden - Ultimate Ninja 5 (Europe) (En,Fr,De,Es,It).chd" size="1707647986" crc="87C62A1F" sha1="8D01579AC887E261FE7FA9E7DA11C939218C52FF" />
     <rom name="NASCAR - Dirt to Daytona (USA).chd" size="2695190545" crc="C34F9238" sha1="587EA92980085E20C79817C0480737F929158A7C" />
-    <rom name="NASCAR 06 - Total Team Control (Europe).chd" size="2979986935" crc="BB133408" sha1="AB394EB654AEF2912D6176DC8F6CF4E0D71FFE1B" />
+    <rom name="NASCAR 06 - Total Team Control (Europe, Australia).chd" size="2979986935" crc="BB133408" sha1="AB394EB654AEF2912D6176DC8F6CF4E0D71FFE1B" />
     <rom name="NASCAR 06 - Total Team Control (USA).chd" size="3200993526" crc="AAE76010" sha1="18280D0F8415E0C914CEFAEEA45E5BF621175A02" />
     <rom name="NASCAR 07 (Europe).chd" size="2203029970" crc="00B40D5C" sha1="79CFA13C9FB0D833F3CB3F455F9FC872F3DC84E6" />
     <rom name="NASCAR 07 (USA).chd" size="2331329969" crc="0297FC92" sha1="26103230167CF68278C3C8A10F2CED3ED183305A" />
@@ -2577,7 +2577,7 @@
     <rom name="NPPL Championship Paintball 2009 (USA).chd" size="1160680938" crc="F3B32B0F" sha1="F2281912BF1B6554B84C7CB2D0E8358AC19B7F7E" />
     <rom name="NRA Gun Club (USA).chd" size="246001168" crc="5F65AE42" sha1="6D0B6A6397C690104F75895E1A67C0F130AE2246" />
     <rom name="NYR - New York Race (Europe) (En,Fr,De,Es,It,Pt).chd" size="370733902" crc="5560E7DB" sha1="1045FFB56B6889106D07FACCCE44E740641B21BB" />
-    <rom name="Obliterate (Europe).chd" size="36556762" crc="D82C35B3" sha1="FEDA017324D3165BDAC2A10CA95D9FBF29C03A28" />
+    <rom name="Obliterate (Europe, Australia).chd" size="36556762" crc="D82C35B3" sha1="FEDA017324D3165BDAC2A10CA95D9FBF29C03A28" />
     <rom name="ObsCure - The Aftermath (USA) (En,Fr,Es).chd" size="1627849777" crc="86B3C8D9" sha1="927CE1AE4A2C76797C925D84A39F9E945FA0A9D4" />
     <rom name="ObsCure (Europe) (De,Es).chd" size="2144275545" crc="1C9CA693" sha1="190796A38F09203F736FFFE3144DAB7FFF77D0B2" />
     <rom name="ObsCure (USA) (En,Fr,Es).chd" size="2383288985" crc="46E0F484" sha1="0D2C1B9EC7F03057D923E9334A1F5748BC7EF7BF" />
@@ -2821,7 +2821,7 @@
     <rom name="Ratchet &amp; Clank - Size Matters (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Hr).chd" size="1594931744" crc="DA9E5251" sha1="EC532CA7F11F69888FF8AFDEA9F55ECDA11DDD60" />
     <rom name="Ratchet &amp; Clank - Size Matters (USA).chd" size="1441598959" crc="9013BDD5" sha1="2FE0510158BFDF321FAC2A9245886E55D1A55ECE" />
     <rom name="Ratchet &amp; Clank - Up Your Arsenal (USA) (En,Fr,Es).chd" size="3433150968" crc="22D7CB33" sha1="6159A26C4F6CF320877A5EAA8C5F1C459C005DE8" />
-    <rom name="Ratchet &amp; Clank (Europe) (En,Fr,De,Es,It) (v2.00).chd" size="3623461056" crc="0FF7D81E" sha1="38BD2BA1F100C5B29791DCA68162D24A25045692" />
+    <rom name="Ratchet &amp; Clank (Europe, Australia) (En,Fr,De,Es,It) (v2.00).chd" size="3623461056" crc="0FF7D81E" sha1="38BD2BA1F100C5B29791DCA68162D24A25045692" />
     <rom name="Ratchet &amp; Clank (USA) (En,Fr,De,Es,It).chd" size="3622802889" crc="967D9C82" sha1="7BDD9522DC0E78AF00EB0F3B4464F6EF5FDDFDEC" />
     <rom name="Ratchet &amp; Clank 2 (Europe, Australia) (En,Fr,De,Es,It).chd" size="2669952394" crc="B54A4A46" sha1="670E5EBD901E0B81497FD5B0B0A3BD34CDBD4668" />
     <rom name="Ratchet &amp; Clank 3 (Europe, Australia) (En,Fr,De,Es,It).chd" size="3484492617" crc="81FC8024" sha1="2AEEDB78B95858B710D3B1906D831C6CC8F00703" />
@@ -3034,7 +3034,7 @@
     <rom name="Samurai Warriors - Xtreme Legends (USA).chd" size="3573207620" crc="75A7CBB8" sha1="981AC4AF660654675F446FB70B50D4AF813188C3" />
     <rom name="Samurai Warriors (Germany).chd" size="2136871289" crc="75D8C6BA" sha1="F4ACC8967C3D5EE6844788E5DF702114D6B3A27A" />
     <rom name="Samurai Warriors (USA).chd" size="2220891962" crc="B50FD294" sha1="47E9C453FA7EF9D23B86DD62EBEF1C166F91279E" />
-    <rom name="Samurai Warriors 2 - Empires (Europe).chd" size="1513650231" crc="7E5DE10B" sha1="DF5544FAD64AB8090FB58B314CED3813E994FFF8" />
+    <rom name="Samurai Warriors 2 - Empires (Europe, Australia).chd" size="1513650231" crc="7E5DE10B" sha1="DF5544FAD64AB8090FB58B314CED3813E994FFF8" />
     <rom name="Samurai Warriors 2 - Empires (USA).chd" size="1617329240" crc="7DDEBDAF" sha1="75FFB03C19CEBFF4D491C1BB3E8B3C8D6AF6A57A" />
     <rom name="Samurai Warriors 2 - Xtreme Legends (Europe).chd" size="366040093" crc="B2A11D4D" sha1="BD7161BBE5FDB293DE54B3F2F0FA7D2800933CBC" />
     <rom name="Samurai Warriors 2 - Xtreme Legends (USA).chd" size="684630042" crc="F0539E8E" sha1="89D9F02C6B738E747C183D4FFA21FD323CF8DAA7" />
@@ -3410,7 +3410,7 @@
     <rom name="SpyHunter 2 (USA).chd" size="1462985704" crc="5ACD0421" sha1="84273872C6B0E32FEA6FE4F88A36DB0933772CF8" />
     <rom name="Spyro - A Hero's Tail (Europe, Australia) (En,Fr,De,Es,It,Nl).chd" size="837672415" crc="ADFD61E5" sha1="17470B3A56B36072BAB4D32F8F99A5C1135DF376" />
     <rom name="Spyro - A Hero's Tail (USA).chd" size="519460068" crc="9EBE6FD9" sha1="E6704F2204BC37E64E7989D3FB5FA323C1BD98CD" />
-    <rom name="Spyro - Enter the Dragonfly (Europe) (En,Fr,De,Es,It,Nl).chd" size="836721465" crc="0F5BBA29" sha1="9EC838F42FCD614DAD1DECDC1D89C8A8BE9972EF" />
+    <rom name="Spyro - Enter the Dragonfly (Europe, Australia) (En,Fr,De,Es,It,Nl).chd" size="836721465" crc="0F5BBA29" sha1="9EC838F42FCD614DAD1DECDC1D89C8A8BE9972EF" />
     <rom name="Spyro - Enter the Dragonfly (USA).chd" size="729629504" crc="45424F12" sha1="DA7C9216DD82425546350C803B61E467EA1EE64D" />
     <rom name="SpyToy (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).chd" size="853826696" crc="6E347CF0" sha1="91D4D9679A63D91AA48F4762D187160ED5454BD6" />
     <rom name="SRS - Street Racing Syndicate (Europe) (En,Fr,De,Es,It).chd" size="2242411551" crc="38EB8BFE" sha1="4CC3A8D6CBC422A58F84C62DBE4F59142DBDE600" />
@@ -3420,8 +3420,8 @@
     <rom name="SSX (USA).chd" size="480511749" crc="836727E9" sha1="D8513DF790454B54F1184F2971FEDCD49BBE8489" />
     <rom name="SSX 3 (Europe) (En,Fr,De,Es) (v2.00).chd" size="2566682799" crc="D7EC5DBD" sha1="D61E7FC1B1AF3B91BD738593938E8690025B59E5" />
     <rom name="SSX 3 (USA).chd" size="2092621586" crc="670436C6" sha1="8F2E49AA76743A55A3C373D4466E12D3A495E3BD" />
-    <rom name="SSX On Tour (Europe) (En,Fr,De,Es,Nl,Sv,No,Fi).chd" size="1284130224" crc="D7544683" sha1="A68FBFF0D6A25CFAE1CEFF4690FA454A4B7D061B" />
-    <rom name="SSX On Tour (USA).chd" size="1174844420" crc="8709177A" sha1="A4EBF37D917999AD303409C2B7DECD13FA7471AD" />
+    <rom name="SSX on Tour (Europe) (En,Fr,De,Es,Nl,Sv,No,Fi).chd" size="1284130224" crc="D7544683" sha1="A68FBFF0D6A25CFAE1CEFF4690FA454A4B7D061B" />
+    <rom name="SSX on Tour (USA).chd" size="1174844420" crc="8709177A" sha1="A4EBF37D917999AD303409C2B7DECD13FA7471AD" />
     <rom name="SSX Tricky (Europe) (En,Fr,De).chd" size="2494876936" crc="0C90D692" sha1="A400F0DD601532168A6C521463363FB30B542AFE" />
     <rom name="SSX Tricky (USA).chd" size="2477760194" crc="86663142" sha1="E98D5F2230503719629D78E3A34D9196CF836860" />
     <rom name="Stacked with Daniel Negreanu (USA).chd" size="950168552" crc="DB39C11B" sha1="E25F2057F82F5C5C0AF4AD996AD4C3BE404FD686" />
@@ -3929,7 +3929,7 @@
     <rom name="Warriors Orochi (USA).chd" size="1224006527" crc="986E1357" sha1="6FDFC580543EABA1F578D335B603ACBBD750EED9" />
     <rom name="Warriors Orochi 2 (Germany).chd" size="2302144621" crc="172A0DAA" sha1="1C460932A89C9AE369731B954B3A8720F189B384" />
     <rom name="Warriors Orochi 2 (USA).chd" size="2322495520" crc="C952D4F0" sha1="0AC3310C09A6876D7A6EB203272677FCC6A25E4D" />
-    <rom name="Warriors, The (Europe) (En,Fr,De,Es,It).chd" size="2812592235" crc="89C15355" sha1="FE77CBAAECEFD0DEDE68C7DD73F663AC3E4EBA4B" />
+    <rom name="Warriors, The (Europe, Australia) (En,Fr,De,Es,It).chd" size="2812592235" crc="89C15355" sha1="FE77CBAAECEFD0DEDE68C7DD73F663AC3E4EBA4B" />
     <rom name="Warriors, The (USA) (En,Fr,De,Es,It).chd" size="2838792083" crc="39A90772" sha1="CD3BC6046211448FA418A76B1DACA574AC29F964" />
     <rom name="Warship Gunner 2 (USA).chd" size="1350405562" crc="80F3A705" sha1="8F85E25C57B24405CEBDC75361822E72C47153E3" />
     <rom name="Water Horse, The - Legend of the Deep (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).chd" size="266371338" crc="B1C452AB" sha1="490CBF8FDB3AAE9F42E4EDF6293D6194220977F0" />
