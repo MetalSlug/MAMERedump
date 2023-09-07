@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+  <header>
+    <name>Arcade - Sega - Naomi 2</name>
+    <description>MAME Redump - Arcade - Sega - Naomi 2 - Discs (7) (2020-12-19 20-37-34)</description>
+    <version>0.257</version>
+    <date>2023-09-07</date>
+    <author>MAME Redump</author>
+    <url>https://github.com/MetalSlug/MAMERedump</url>
+  </header>
+  <game name="Arcade - Sega - Naomi 2">
+    <description>MAME Redump - Arcade - Sega - Naomi 2 - Discs (7) (2020-12-19 20-37-34)</description>
+    <rom name="Beach Spikers - Virtua Beach Volleyball (World) (En,Ja).chd" size="131358348" crc="4DC912E6" sha1="67D1117FE28ED6D3E635FE4F4E8A4E4B4923D7C9" />
+    <rom name="Initial D (World) (Rev A).chd" size="168885835" crc="949FDC21" sha1="AA60B336FCDA8AB1946750EEC38CE1D06769148E" />
+    <rom name="Initial D Arcade Stage (Japan) (Rev B).chd" size="170463179" crc="EC940FEC" sha1="87EC5278F0958FC4F9EB13C5066290233EF8DD8B" />
+    <rom name="Initial D Version 3 (World).chd" size="236944934" crc="291DEEAF" sha1="DAF4115CAA99D95A21C7AAF5B50CACF95131C744" />
+    <rom name="Initial D Version 3 for Cycraft (World) (Rev B).chd" size="237240353" crc="E9FE7B92" sha1="7E34451997E8657AF722CC22C3A342BD659291F9" />
+    <rom name="Virtua Fighter 4 Final Tuned (World) (Rev A).chd" size="424827206" crc="620FBFFE" sha1="C4145C73360E5ADA89056DA42C5B9006B2DAEB00" />
+    <rom name="Virtua Striker 3 (World) (En,Ja).chd" size="144595647" crc="97C0C989" sha1="4D4967C069A76149F0712BC982BFB11418AC795C" />
+  </game>
+</datafile>
