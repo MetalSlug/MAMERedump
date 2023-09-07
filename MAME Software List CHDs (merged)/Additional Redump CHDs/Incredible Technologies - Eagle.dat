@@ -4,8 +4,8 @@
 	<header>
 		<name>Incredible Technologies - Eagle</name>
 		<description>Incredible Technologies - Eagle</description>
-		<version>0.257</version>
-		<date>2023-08-02</date>
+		<version>0.258</version>
+		<date>2023-09-07</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -34,14 +34,14 @@
 		<description>Golden Tee Fore! 2005 (USA)</description>
 		<rom name="Golden Tee Fore! 2005 (USA) (Track 01).bin" size="673777440" crc="4e6d8c1d" md5="d30cd7e88bfebf6cb5e9cf3a3417599d" sha1="7b4a20fe54170ecfe3b58b99cdcb0089436d1435"/>
 	</game>
-	<game name="Golden Tee Fore! Complete (USA)" sha1="7d4a9a6d0893d4fa2fe5909578407d45b89b5893" size="466302130" crc="bfa82ee3" fullsha1="f201f872f9018cde0caf43a898344cdedf66cab0" dataSha1="cfa9eda3eaee1c4bafc97cb1fd5c72839a515104">
-		<category>Games</category>
-		<description>Golden Tee Fore! Complete (USA)</description>
-		<rom name="Golden Tee Fore! Complete (USA) (Track 01).bin" size="551689824" crc="7ccbff5e" md5="fbf58c8204772e784afb8c928e628fa9" sha1="ff25f45356b780bc8672c8c72fef99381e829772"/>
-	</game>
 	<game name="Golden Tee Fore! Complete (USA) (v6.00.01)" sha1="c277cb60e79349c75ec22a0b1767514459c8415f" size="466303575" crc="47b9ce51" fullsha1="616a323fd9b640cf945660c7469bcd4cec5d6166" dataSha1="2ee8824a972830587bf874b224fff21183bdef58">
 		<category>Games</category>
 		<description>Golden Tee Fore! Complete (USA) (v6.00.01)</description>
 		<rom name="Golden Tee Fore! Complete (USA) (v6.00.01) (Track 01).bin" size="551685120" crc="ff8c3f16" md5="45835742e489883b5e71067f872007cf" sha1="5670fadd344a4132a2fe94e93149c04a7fd29418"/>
+	</game>
+	<game name="Golden Tee Fore! Complete (USA) (v6.00.xx)" sha1="7d4a9a6d0893d4fa2fe5909578407d45b89b5893" size="466302130" crc="bfa82ee3" fullsha1="f201f872f9018cde0caf43a898344cdedf66cab0" dataSha1="cfa9eda3eaee1c4bafc97cb1fd5c72839a515104">
+		<category>Games</category>
+		<description>Golden Tee Fore! Complete (USA) (v6.00.xx)</description>
+		<rom name="Golden Tee Fore! Complete (USA) (v6.00.xx) (Track 01).bin" size="551689824" crc="7ccbff5e" md5="fbf58c8204772e784afb8c928e628fa9" sha1="ff25f45356b780bc8672c8c72fef99381e829772"/>
 	</game>
 </datafile>

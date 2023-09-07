@@ -2,10 +2,10 @@
 <!DOCTYPE datafile PUBLIC " -//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
-		<name>Phillips - CD-I - Redump</name>
-		<description>Phillips - CD-I - Redump</description>
-		<version>0.257</version>
-		<date>2023-08-02</date>
+		<name>Phillips - CD-I</name>
+		<description>Phillips - CD-I</description>
+		<version>0.258</version>
+		<date>2023-09-07</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -705,10 +705,10 @@
 		<description>Brockhues AG - Image (Germany)</description>
 		<rom name="Brockhues AG - Image (Germany) (Track 01).bin" size="89086704" crc="7fb1442e" md5="c0c3099b947df3c24fc20d59d48106be" sha1="0c87f42d7e14a89306b68a34f6dd2ef2e8bd0cf0"/>
 	</game>
-	<game name="Bryan Adams - Waking Up the Neighbours (Europe)" sha1="6c99ae56bc2ea0495027ac3b7f4c43e028327c6f" size="414724249" crc="14a9e6a9" fullsha1="d090408805898dce30b746cdf8c4a88f9b0ab8f7" dataSha1="7036ca43b34d2c557c16784642424e8e8456b7a2">
+	<game name="Bryan Adams - Waking Up the Neighbours (Europe) (Rev 1)" sha1="6c99ae56bc2ea0495027ac3b7f4c43e028327c6f" size="414724249" crc="14a9e6a9" fullsha1="d090408805898dce30b746cdf8c4a88f9b0ab8f7" dataSha1="7036ca43b34d2c557c16784642424e8e8456b7a2">
 		<category>Games</category>
-		<description>Bryan Adams - Waking Up the Neighbours (Europe)</description>
-		<rom name="Bryan Adams - Waking Up the Neighbours (Europe) (Track 01).bin" size="429534000" crc="c700783b" md5="596ce7df9d7624f33fcaa79fb122138e" sha1="e88385685088fe633bf1a498b83d0ed7081724dc"/>
+		<description>Bryan Adams - Waking Up the Neighbours (Europe) (Rev 1)</description>
+		<rom name="Bryan Adams - Waking Up the Neighbours (Europe) (Rev 1) (Track 01).bin" size="429534000" crc="c700783b" md5="596ce7df9d7624f33fcaa79fb122138e" sha1="e88385685088fe633bf1a498b83d0ed7081724dc"/>
 	</game>
 	<game name="Bryan Adams - Waking Up the Neighbours (USA)" sha1="44f3c1919510a4beb2531f8424eebc3d3f5da90d" size="383690250" crc="83e60bd6" fullsha1="76ebfbe064542c5dd9da6ca42f00e45e92a5057f" dataSha1="3674bb2893c7daff357fa997bbcffe54c5c5c6eb">
 		<category>Games</category>
@@ -2134,6 +2134,16 @@
 		<description>Caricature (Europe)</description>
 		<rom name="Caricature (Europe) (Track 01).bin" size="384034560" crc="89518b8b" md5="558182a9fb2aa797a9b537dfafbf4ff6" sha1="5008b3ef3b940e7fa9ddedfa1a9da23a1ae51097"/>
 	</game>
+	<game name="Caricature (UK)" sha1="d2f3ef50447b37dd9d9c0f32caccb0212764a829" size="137671278" crc="1754b413" fullsha1="dbd432edad15c975bbd3a4c717753ffe9f237867" dataSha1="91abe1726729a1516db8946ecc0a867ad8f2b94d">
+		<category>Games</category>
+		<description>Caricature (UK)</description>
+		<rom name="Caricature (UK) (Track 01).bin" size="384375600" crc="d84fc809" md5="3ab3e37410e516702e32b3be2965d2df" sha1="05ca3785f2dca93e04b672f76aa1235ee95c3a42"/>
+	</game>
+	<game name="Caricature (UK) (Alt)" sha1="0ec4d5becf3ad849b6ec663d4d5089966e0bead3" size="136890816" crc="4c0fee8a" fullsha1="a37a4aa0da75f8a67bd9c8ba7d7d0856229ee89d" dataSha1="7505b943066cfd375f84303f0e613c05da69befc">
+		<category>Games</category>
+		<description>Caricature (UK) (Alt)</description>
+		<rom name="Caricature (UK) (Alt) (Track 01).bin" size="384034560" crc="ea75a0b0" md5="d5d07a7608dab8869a8130e67e68371e" sha1="b472f3785f6f853e579f09b336075b8ea8dd1e2e"/>
+	</game>
 	<game name="Cartoon Jukebox (France)" sha1="8f047a94f32e2c606aa15dc7980ce559edd2f8f2" size="113934319" crc="254606bb" fullsha1="350d53f7d7e631d8f53a0ba19d15ceb99238b8fc" dataSha1="7a325b9ab5bf88b1458cbeeb48b466d67b6c1035">
 		<category>Games</category>
 		<description>Cartoon Jukebox (France)</description>
@@ -2209,21 +2219,21 @@
 		<description>Christmas Crisis (Europe) (Beta)</description>
 		<rom name="Christmas Crisis (Europe) (Beta) (Track 01).bin" size="79203600" crc="85374b9c" md5="9f2d022bf960238fb6ae55463ac9a71f" sha1="973acf90e6a5643b2b900ac712bffb6a7f576c76"/>
 	</game>
-	<game name="Christmas Songbook, A (Europe)" sha1="c90980d943e93462be56e56c32ba678f20704822" size="323665202" crc="da0492be" fullsha1="bc896b7f1a234370a0624b40f818592b39add07a" dataSha1="333e73efb652ff2bddf498995ef416b804d5ebc7">
+	<game name="Christmas Songbook, A ~ You Sing Christmas Favorites (Japan, Europe)" sha1="c90980d943e93462be56e56c32ba678f20704822" size="323665202" crc="da0492be" fullsha1="bc896b7f1a234370a0624b40f818592b39add07a" dataSha1="333e73efb652ff2bddf498995ef416b804d5ebc7">
 		<category>Games</category>
-		<description>Christmas Songbook, A (Europe)</description>
-		<rom name="Christmas Songbook, A (Europe) (Track 01).bin" size="390446112" crc="0b125526" md5="c5f1adb0badb49db8c6bc1b9775bcc56" sha1="da7f0b5c6388935fccfdc9046b56f843f8fb9549"/>
-		<rom name="Christmas Songbook, A (Europe) (Track 02).bin" size="28673232" crc="ec0e4104" md5="b8008ab9031676e34336967860a31954" sha1="bcc6d3ac500af64ca035dc9ffca0e357f1f85e46"/>
-		<rom name="Christmas Songbook, A (Europe) (Track 03).bin" size="34266288" crc="9bfc626f" md5="74b4dc57c982a59d19d56f5af340e414" sha1="708cb9e519d57d854123abcdbedc2e9ccafa12ab"/>
-		<rom name="Christmas Songbook, A (Europe) (Track 04).bin" size="25794384" crc="3619e4a6" md5="f2dc2f130896f2adfb508093d455d9fc" sha1="7f8e0959137e3afb74db8789f7c7d41aaf32b86d"/>
-		<rom name="Christmas Songbook, A (Europe) (Track 05).bin" size="33226704" crc="40e10898" md5="9a77b3f03a94d5aade96e55c38f8e576" sha1="be5f60d5f3d823463b5543fdbb6b01477335288f"/>
-		<rom name="Christmas Songbook, A (Europe) (Track 06).bin" size="26217744" crc="acd47328" md5="d538bcfafc99348e99c79a6d6a5e2dd2" sha1="d3489bf7671d7303132c29b89b08b37cc1bd1834"/>
-		<rom name="Christmas Songbook, A (Europe) (Track 07).bin" size="32742192" crc="b50aa687" md5="9aa9de03db936f67fe4abdac29d3d941" sha1="304af62e02a9232d707abbccd1c7b0790d0961cd"/>
-		<rom name="Christmas Songbook, A (Europe) (Track 08).bin" size="28964880" crc="00a563a3" md5="03c4da3c018ce2e5aee2f05a806a0683" sha1="a45993aa514a534e20f3334f1dbaf12c382790f7"/>
-		<rom name="Christmas Songbook, A (Europe) (Track 09).bin" size="36368976" crc="5ecdc77b" md5="52ed597d0355a78d39953439f97a7ce9" sha1="603407930080dc1efc7a55d037c00d3b09c01873"/>
-		<rom name="Christmas Songbook, A (Europe) (Track 10).bin" size="13754496" crc="4653b6b1" md5="6ddb3210bf04239628c733f7430fb868" sha1="dcdb04c20da517711006180de6bf0b9ba5d2652c"/>
-		<rom name="Christmas Songbook, A (Europe) (Track 11).bin" size="23472960" crc="3f8c89b4" md5="13df65c2124aa96cce92102141b2af83" sha1="701ec87a38e386151b9efc53b5ab5450e17e0e88"/>
-		<rom name="Christmas Songbook, A (Europe) (Track 12).bin" size="13622784" crc="80824971" md5="f5514586b9c2f62f45dba580df213ab2" sha1="a7ea2a3c779f8ed35adaf8ecf3ac7b3e2e079731"/>
+		<description>Christmas Songbook, A ~ You Sing Christmas Favorites (Japan, Europe)</description>
+		<rom name="Christmas Songbook, A ~ You Sing Christmas Favorites (Japan, Europe) (Track 01).bin" size="390446112" crc="0b125526" md5="c5f1adb0badb49db8c6bc1b9775bcc56" sha1="da7f0b5c6388935fccfdc9046b56f843f8fb9549"/>
+		<rom name="Christmas Songbook, A ~ You Sing Christmas Favorites (Japan, Europe) (Track 02).bin" size="28673232" crc="ec0e4104" md5="b8008ab9031676e34336967860a31954" sha1="bcc6d3ac500af64ca035dc9ffca0e357f1f85e46"/>
+		<rom name="Christmas Songbook, A ~ You Sing Christmas Favorites (Japan, Europe) (Track 03).bin" size="34266288" crc="9bfc626f" md5="74b4dc57c982a59d19d56f5af340e414" sha1="708cb9e519d57d854123abcdbedc2e9ccafa12ab"/>
+		<rom name="Christmas Songbook, A ~ You Sing Christmas Favorites (Japan, Europe) (Track 04).bin" size="25794384" crc="3619e4a6" md5="f2dc2f130896f2adfb508093d455d9fc" sha1="7f8e0959137e3afb74db8789f7c7d41aaf32b86d"/>
+		<rom name="Christmas Songbook, A ~ You Sing Christmas Favorites (Japan, Europe) (Track 05).bin" size="33226704" crc="40e10898" md5="9a77b3f03a94d5aade96e55c38f8e576" sha1="be5f60d5f3d823463b5543fdbb6b01477335288f"/>
+		<rom name="Christmas Songbook, A ~ You Sing Christmas Favorites (Japan, Europe) (Track 06).bin" size="26217744" crc="acd47328" md5="d538bcfafc99348e99c79a6d6a5e2dd2" sha1="d3489bf7671d7303132c29b89b08b37cc1bd1834"/>
+		<rom name="Christmas Songbook, A ~ You Sing Christmas Favorites (Japan, Europe) (Track 07).bin" size="32742192" crc="b50aa687" md5="9aa9de03db936f67fe4abdac29d3d941" sha1="304af62e02a9232d707abbccd1c7b0790d0961cd"/>
+		<rom name="Christmas Songbook, A ~ You Sing Christmas Favorites (Japan, Europe) (Track 08).bin" size="28964880" crc="00a563a3" md5="03c4da3c018ce2e5aee2f05a806a0683" sha1="a45993aa514a534e20f3334f1dbaf12c382790f7"/>
+		<rom name="Christmas Songbook, A ~ You Sing Christmas Favorites (Japan, Europe) (Track 09).bin" size="36368976" crc="5ecdc77b" md5="52ed597d0355a78d39953439f97a7ce9" sha1="603407930080dc1efc7a55d037c00d3b09c01873"/>
+		<rom name="Christmas Songbook, A ~ You Sing Christmas Favorites (Japan, Europe) (Track 10).bin" size="13754496" crc="4653b6b1" md5="6ddb3210bf04239628c733f7430fb868" sha1="dcdb04c20da517711006180de6bf0b9ba5d2652c"/>
+		<rom name="Christmas Songbook, A ~ You Sing Christmas Favorites (Japan, Europe) (Track 11).bin" size="23472960" crc="3f8c89b4" md5="13df65c2124aa96cce92102141b2af83" sha1="701ec87a38e386151b9efc53b5ab5450e17e0e88"/>
+		<rom name="Christmas Songbook, A ~ You Sing Christmas Favorites (Japan, Europe) (Track 12).bin" size="13622784" crc="80824971" md5="f5514586b9c2f62f45dba580df213ab2" sha1="a7ea2a3c779f8ed35adaf8ecf3ac7b3e2e079731"/>
 	</game>
 	<game name="Churchill Livingstone Tumours CD-i Programme (Europe) (Demo)" sha1="f09cd5dabe0016f94273d4542d2b77e272c29e14" size="32757891" crc="5c7d4afb" fullsha1="3b305f3b460976dc0be59428a54723d2eccf6d57" dataSha1="6b9f3b607f27bda11b737ef4a0d5ffc1012e17cc">
 		<category>Games</category>
@@ -2379,16 +2389,6 @@
 		<category>Games</category>
 		<description>Cream of Eric Clapton, The (USA) (Disc 2)</description>
 		<rom name="Cream of Eric Clapton, The (USA) (Disc 2) (Track 01).bin" size="320166000" crc="db948338" md5="ebe97a9a5a79ff6cd508d954042b286d" sha1="9221796fb667e1df62c663ec7549a64ac49cb702"/>
-	</game>
-	<game name="Create Your Own Caricature (UK)" sha1="d2f3ef50447b37dd9d9c0f32caccb0212764a829" size="137671278" crc="1754b413" fullsha1="dbd432edad15c975bbd3a4c717753ffe9f237867" dataSha1="91abe1726729a1516db8946ecc0a867ad8f2b94d">
-		<category>Games</category>
-		<description>Create Your Own Caricature (UK)</description>
-		<rom name="Create Your Own Caricature (UK) (Track 01).bin" size="384375600" crc="d84fc809" md5="3ab3e37410e516702e32b3be2965d2df" sha1="05ca3785f2dca93e04b672f76aa1235ee95c3a42"/>
-	</game>
-	<game name="Create Your Own Caricature (UK) (Alt)" sha1="0ec4d5becf3ad849b6ec663d4d5089966e0bead3" size="136890816" crc="4c0fee8a" fullsha1="a37a4aa0da75f8a67bd9c8ba7d7d0856229ee89d" dataSha1="7505b943066cfd375f84303f0e613c05da69befc">
-		<category>Games</category>
-		<description>Create Your Own Caricature (UK) (Alt)</description>
-		<rom name="Create Your Own Caricature (UK) (Alt) (Track 01).bin" size="384034560" crc="ea75a0b0" md5="d5d07a7608dab8869a8130e67e68371e" sha1="b472f3785f6f853e579f09b336075b8ea8dd1e2e"/>
 	</game>
 	<game name="Creation for the Imagination (USA)" sha1="7023cd666c73851f17c1db506844feb112942867" size="18332930" crc="7eb39f08" fullsha1="1b75be7bc9bfca21ebbdfd351f325570a51a7d68" dataSha1="54ce80d1123da3d9e2cf00e93bce42c463a2fa40">
 		<category>Games</category>
@@ -2852,11 +2852,6 @@
 		<category>Games</category>
 		<description>Effectief Communiceren I - School Version (Netherlands) (Beta)</description>
 		<rom name="Effectief Communiceren I - School Version (Netherlands) (Beta) (Track 01).bin" size="775976544" crc="2873251f" md5="e21a3b79ce2c423eaee5fdf87af234cd" sha1="a5d914c91214d66da78dc60581c00faaaeb462bc"/>
-	</game>
-	<game name="El Renacimiento de Florencia (Spain)" sha1="bdbb55b504023181dcb5bdab01fbf73fb1a4c5e4" size="228161036" crc="f98ddadc" fullsha1="02ebdc072bb0a4025af203d655aeaff5b953fa6d" dataSha1="de073577c255fe9a4906d6760000e7e83d31207a">
-		<category>Games</category>
-		<description>El Renacimiento de Florencia (Spain)</description>
-		<rom name="El Renacimiento de Florencia (Spain) (Track 01).bin" size="641378640" crc="2a3ff3de" md5="1ac9968a8f2d63a6257b4d405c452a88" sha1="6dca83a4db234c4aaec93ea4c872fbdf2aae3e5d"/>
 	</game>
 	<game name="Electronic Art Gallery - Funkausstellung Berlin 1991 (Germany)" sha1="2090fa80736062bec595f3cade0e79f295013165" size="3223156" crc="060ecab2" fullsha1="101ec04db98f09420edec0197d318c5474d9ef6f" dataSha1="824c61246f3c8f5065423a80127accf2a6e7f790">
 		<category>Games</category>
@@ -3497,11 +3492,6 @@
 		<category>Games</category>
 		<description>Great Art Series, The - Florence Renaissance - Renaissance of Florence, The (Japan)</description>
 		<rom name="Great Art Series, The - Florence Renaissance - Renaissance of Florence, The (Japan) (Track 01).bin" size="638826720" crc="c005c541" md5="52081b54454f22e1cb93917e24113cb3" sha1="80fc81ad56eb861967efc0b228ef68fbd9792c36"/>
-	</game>
-	<game name="Great Art Series, The - Taiyou o Karitoru Hito - Harvest of the Sun - Vincent van Gogh (Japan)" sha1="3ec29760e1983cc7cc680a53fc4b7508ca767054" size="164824650" crc="40e9728f" fullsha1="3af43e5fa2347cda88666a53b8f567eda31d21e8" dataSha1="64b3b8add0084bb9e1036057a24300a406e6b959">
-		<category>Games</category>
-		<description>Great Art Series, The - Taiyou o Karitoru Hito - Harvest of the Sun - Vincent van Gogh (Japan)</description>
-		<rom name="Great Art Series, The - Taiyou o Karitoru Hito - Harvest of the Sun - Vincent van Gogh (Japan) (Track 01).bin" size="634216800" crc="cb3fdccc" md5="d7729a762906b4f7172e01f849184c47" sha1="dab88ed31ceaff66ebc561afe867ee2bf712db6d"/>
 	</game>
 	<game name="Great British Golf (UK)" sha1="d8ee6bb96965fb8eca51ced0e391a2c4c98a6348" size="321410335" crc="30d54377" fullsha1="0a7b626d89ad069823e53cbb1792b2117786e378" dataSha1="2434ad733632bdb4cd3d0b9ca9a8dd901b3a3673">
 		<category>Games</category>
@@ -4250,10 +4240,10 @@
 		<description>Jigsaw - The Ultimate Electronic Puzzle (Europe)</description>
 		<rom name="Jigsaw - The Ultimate Electronic Puzzle (Europe) (Track 01).bin" size="320471760" crc="2296936f" md5="de83d65412361cb0c9ce565fa1c4dd24" sha1="fde923b2c30f348ff014dc08e18588f86cd19efe"/>
 	</game>
-	<game name="Jigsaw - The Ultimate Electronic Puzzle (Europe) (Rev 1)" sha1="ecf68bb3ce3adc61921671ab377464804b83e257" size="99049841" crc="c65ffe3b" fullsha1="76e48f5b11a75a6bedef5b5fe385814940f5b595" dataSha1="13316c4c6ea30216c39828b97e2d91a19f5f0c36">
+	<game name="Jigsaw - The Ultimate Electronic Puzzle (Japan, Europe)" sha1="ecf68bb3ce3adc61921671ab377464804b83e257" size="99049841" crc="c65ffe3b" fullsha1="76e48f5b11a75a6bedef5b5fe385814940f5b595" dataSha1="13316c4c6ea30216c39828b97e2d91a19f5f0c36">
 		<category>Games</category>
-		<description>Jigsaw - The Ultimate Electronic Puzzle (Europe) (Rev 1)</description>
-		<rom name="Jigsaw - The Ultimate Electronic Puzzle (Europe) (Rev 1) (Track 01).bin" size="320457648" crc="7ce0da1d" md5="e3f9ef5ea9ac07a05bafa1879881c3d8" sha1="f5ed334b5aafc1368a91a9dcbc914f2a3e455342"/>
+		<description>Jigsaw - The Ultimate Electronic Puzzle (Japan, Europe)</description>
+		<rom name="Jigsaw - The Ultimate Electronic Puzzle (Japan, Europe) (Track 01).bin" size="320457648" crc="7ce0da1d" md5="e3f9ef5ea9ac07a05bafa1879881c3d8" sha1="f5ed334b5aafc1368a91a9dcbc914f2a3e455342"/>
 	</game>
 	<game name="Jigsaw - The Ultimate Electronic Puzzle (USA)" sha1="4b990427b4a20b94ffab4075ef2d4fbb71cb81d9" size="99038266" crc="bcabcfcc" fullsha1="2ea09a664c0a9dde1fa6342beb2cb8c76b12060c" dataSha1="e9282a5feae71e191d1729457167ab80d0cee3f0">
 		<category>Games</category>
@@ -5211,10 +5201,10 @@
 		<description>Methode de Langues Multimedia, La - Je Parle l'Anglais - La Methode Junior (France)</description>
 		<rom name="Methode de Langues Multimedia, La - Je Parle l'Anglais - La Methode Junior (France) (Track 01).bin" size="100298688" crc="ac08d6de" md5="95524d8854098b3b92a68a257c0a72f9" sha1="5eda25bb274ab78a38a40a8ac93a6e5f2ab7fdc8"/>
 	</game>
-	<game name="MindQuest (Europe) (Beta)" sha1="7fab98845d8006c2868d326868c05cbf36bd431e" size="331785597" crc="d2bd1c1d" fullsha1="32ff249875d2c2b934aa2705304b1ca16063fed4" dataSha1="c6b5218f97cc90e840f15529c97789950674661c">
+	<game name="MindQuest (Europe) (Proto)" sha1="7fab98845d8006c2868d326868c05cbf36bd431e" size="331785597" crc="d2bd1c1d" fullsha1="32ff249875d2c2b934aa2705304b1ca16063fed4" dataSha1="c6b5218f97cc90e840f15529c97789950674661c">
 		<category>Games</category>
-		<description>MindQuest (Europe) (Beta)</description>
-		<rom name="MindQuest (Europe) (Beta) (Track 01).bin" size="704894400" crc="c98c2829" md5="bbbacf95ea816768efea7dcbe7e4e91e" sha1="d35f22c6babc3b7de9a7674cda547e0b8e419438"/>
+		<description>MindQuest (Europe) (Proto)</description>
+		<rom name="MindQuest (Europe) (Proto) (Track 01).bin" size="704894400" crc="c98c2829" md5="bbbacf95ea816768efea7dcbe7e4e91e" sha1="d35f22c6babc3b7de9a7674cda547e0b8e419438"/>
 	</game>
 	<game name="Mission on Music - June 1995 (Europe)" sha1="fdece89009e53b588f27300fc3e0bf9b0519c859" size="287105352" crc="a0f2435b" fullsha1="4f272d0643f50f4e0d7e50b78e97a90b4f5c4de6" dataSha1="9e4193ec69e27a63eb20849d464be8788b712983">
 		<category>Games</category>
@@ -5273,19 +5263,19 @@
 		<description>Moyens d'Aller Plus Loin, Les - Nouvelle Generation d'Imagerie Cardiovasculaire (France)</description>
 		<rom name="Moyens d'Aller Plus Loin, Les - Nouvelle Generation d'Imagerie Cardiovasculaire (France) (Track 01).bin" size="591998400" crc="dbbedd3b" md5="da879775743410500589940a0c1c75c1" sha1="194e1437e8aed87e79a6bf4592579d90bd3bfb3a"/>
 	</game>
-	<game name="Mozart - A Musical Biography (Germany)" sha1="9a3f774b99229be1757e8b22c996343cbcb34175" size="359423814" crc="bd9400dc" fullsha1="37991feaa71904ddd81f9de3420e9bf620fb6e94" dataSha1="d459858cda3eacade90228ba3f1e2219a06895c3">
+	<game name="Mozart - A Musical Biography (Europe)" sha1="9a3f774b99229be1757e8b22c996343cbcb34175" size="359423814" crc="bd9400dc" fullsha1="37991feaa71904ddd81f9de3420e9bf620fb6e94" dataSha1="d459858cda3eacade90228ba3f1e2219a06895c3">
 		<category>Games</category>
-		<description>Mozart - A Musical Biography (Germany)</description>
-		<rom name="Mozart - A Musical Biography (Germany) (Track 01).bin" size="248140704" crc="afbecd33" md5="d38a823e8de3d4d85b1ac8c6f79b6bb0" sha1="ba93aa8bf51fa1a057877a06788f604e1bfd6c48"/>
-		<rom name="Mozart - A Musical Biography (Germany) (Track 02).bin" size="40367376" crc="03295254" md5="7e8d41e3e4e3142fc12e90387d287302" sha1="9df483e43f4d91e089a85321105ebd30f445e5fc"/>
-		<rom name="Mozart - A Musical Biography (Germany) (Track 03).bin" size="29882160" crc="23043ff9" md5="c3b06acf4e449abfd37c86df87f61bc4" sha1="6e7c7b196c20753d6cfa9a505f56e37d68dfd01e"/>
-		<rom name="Mozart - A Musical Biography (Germany) (Track 04).bin" size="65707824" crc="f3eb09e9" md5="b60aff9ce5c0b82530de6f536cb807cd" sha1="79e6b084eaca65b39546705f2e11b61b858822d1"/>
-		<rom name="Mozart - A Musical Biography (Germany) (Track 05).bin" size="18275040" crc="b781983e" md5="1efe6f0b18da7e39277e6f419e92e83c" sha1="76fa1c8e41a632d682c69cf54ff7ba19c1391adb"/>
-		<rom name="Mozart - A Musical Biography (Germany) (Track 06).bin" size="101742816" crc="d9f81e46" md5="65c2d9c8339ab5058a5999a956c3ff28" sha1="8b83222e894b8be64aebea1731388bfcfb2c1936"/>
-		<rom name="Mozart - A Musical Biography (Germany) (Track 07).bin" size="69160560" crc="871be04c" md5="d87e58e936b2ea6744ebb2af8808900b" sha1="8640c4e67d71066c36543e2b62ce97f3430dc525"/>
-		<rom name="Mozart - A Musical Biography (Germany) (Track 08).bin" size="83907600" crc="8bac6703" md5="2ee999cec9cee61a3d61a7c2a9b718a7" sha1="8ca88e63c1ce24d34d8cf212d2a40d84501a521b"/>
-		<rom name="Mozart - A Musical Biography (Germany) (Track 09).bin" size="32598720" crc="c46e0de0" md5="67b99f3501a82f00266679b69a1717dc" sha1="bbd49da639bb16fe6f99f45a46d41a59750342fa"/>
-		<rom name="Mozart - A Musical Biography (Germany) (Track 10).bin" size="81830784" crc="17fc065c" md5="0d8201b8eaee836f92a8ac5a72dbba2c" sha1="6d0987050e3c5dc4e1e972b94330834e3018fe25"/>
+		<description>Mozart - A Musical Biography (Europe)</description>
+		<rom name="Mozart - A Musical Biography (Europe) (Track 01).bin" size="248140704" crc="afbecd33" md5="d38a823e8de3d4d85b1ac8c6f79b6bb0" sha1="ba93aa8bf51fa1a057877a06788f604e1bfd6c48"/>
+		<rom name="Mozart - A Musical Biography (Europe) (Track 02).bin" size="40367376" crc="03295254" md5="7e8d41e3e4e3142fc12e90387d287302" sha1="9df483e43f4d91e089a85321105ebd30f445e5fc"/>
+		<rom name="Mozart - A Musical Biography (Europe) (Track 03).bin" size="29882160" crc="23043ff9" md5="c3b06acf4e449abfd37c86df87f61bc4" sha1="6e7c7b196c20753d6cfa9a505f56e37d68dfd01e"/>
+		<rom name="Mozart - A Musical Biography (Europe) (Track 04).bin" size="65707824" crc="f3eb09e9" md5="b60aff9ce5c0b82530de6f536cb807cd" sha1="79e6b084eaca65b39546705f2e11b61b858822d1"/>
+		<rom name="Mozart - A Musical Biography (Europe) (Track 05).bin" size="18275040" crc="b781983e" md5="1efe6f0b18da7e39277e6f419e92e83c" sha1="76fa1c8e41a632d682c69cf54ff7ba19c1391adb"/>
+		<rom name="Mozart - A Musical Biography (Europe) (Track 06).bin" size="101742816" crc="d9f81e46" md5="65c2d9c8339ab5058a5999a956c3ff28" sha1="8b83222e894b8be64aebea1731388bfcfb2c1936"/>
+		<rom name="Mozart - A Musical Biography (Europe) (Track 07).bin" size="69160560" crc="871be04c" md5="d87e58e936b2ea6744ebb2af8808900b" sha1="8640c4e67d71066c36543e2b62ce97f3430dc525"/>
+		<rom name="Mozart - A Musical Biography (Europe) (Track 08).bin" size="83907600" crc="8bac6703" md5="2ee999cec9cee61a3d61a7c2a9b718a7" sha1="8ca88e63c1ce24d34d8cf212d2a40d84501a521b"/>
+		<rom name="Mozart - A Musical Biography (Europe) (Track 09).bin" size="32598720" crc="c46e0de0" md5="67b99f3501a82f00266679b69a1717dc" sha1="bbd49da639bb16fe6f99f45a46d41a59750342fa"/>
+		<rom name="Mozart - A Musical Biography (Europe) (Track 10).bin" size="81830784" crc="17fc065c" md5="0d8201b8eaee836f92a8ac5a72dbba2c" sha1="6d0987050e3c5dc4e1e972b94330834e3018fe25"/>
 	</game>
 	<game name="Mozart - A Musical Biography (USA)" sha1="eee80fc7c0a94c8d66b2f44387b0ca4ec968d033" size="359421518" crc="f292d15c" fullsha1="cbb71b061fa205fabbd34d0446d578d1919ed339" dataSha1="3095dbd5ff7666ee97a68b639261597ee4f3b2a6">
 		<category>Games</category>
@@ -5791,6 +5781,11 @@
 		<category>Games</category>
 		<description>Paint School I (Asia) (Zh,Ko)</description>
 		<rom name="Paint School I (Asia) (Zh,Ko) (Track 01).bin" size="343415520" crc="04cfd7bf" md5="36d87d4804f13eb7fb26a545cbccbdaf" sha1="e6a16355e3a825f2592ca2600ef05b27415f4aa2"/>
+	</game>
+	<game name="Paint School I (Europe) (En,Fr,De,Es,It,Nl)" sha1="f354f1618fb79d36efc34ceb3ad5bad61d8cb308" size="147249817" crc="aa975bfc" fullsha1="dc01e2e051c8c895496a285695efaac03f2895ac" dataSha1="83770d9c859edeb1c3772a584199a0ce75cc7823">
+		<category>Games</category>
+		<description>Paint School I (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Paint School I (Europe) (En,Fr,De,Es,It,Nl) (Track 01).bin" size="490902384" crc="723ec1c5" md5="4e755ddd2a4541eb86e03eb61277d667" sha1="0b8ed7cf3fe35ebfdbf82cdca927415e58fb02e3"/>
 	</game>
 	<game name="Paint School I (USA)" sha1="c70251673c55732692bc635c143128c115845fa6" size="92875492" crc="b2f34edc" fullsha1="7100df9ac8696295c6fd35e47697faad102cec9e" dataSha1="2078110552e13720748990f2e1f6b7d0123f88ec">
 		<category>Games</category>
@@ -6391,6 +6386,11 @@
 		<rom name="Rembrandt - His Art and the Music of His Era (USA) (Track 15).bin" size="18086880" crc="c77d53ac" md5="eed446e1c182ef0ac126869d5963b2fe" sha1="2cd9b87876774bacbcdf2ccaa496cbe7b5a07564"/>
 		<rom name="Rembrandt - His Art and the Music of His Era (USA) (Track 16).bin" size="27918240" crc="637007d0" md5="ee562ad81db2c7e77b08a04061b0ad31" sha1="9b1b482e0c8b7b2c5a4fa1a5eeae5138a9fca45a"/>
 	</game>
+	<game name="Renacimiento de Florencia, El (Spain)" sha1="bdbb55b504023181dcb5bdab01fbf73fb1a4c5e4" size="228161036" crc="f98ddadc" fullsha1="02ebdc072bb0a4025af203d655aeaff5b953fa6d" dataSha1="de073577c255fe9a4906d6760000e7e83d31207a">
+		<category>Games</category>
+		<description>Renacimiento de Florencia, El (Spain)</description>
+		<rom name="Renacimiento de Florencia, El (Spain) (Track 01).bin" size="641378640" crc="2a3ff3de" md5="1ac9968a8f2d63a6257b4d405c452a88" sha1="6dca83a4db234c4aaec93ea4c872fbdf2aae3e5d"/>
+	</game>
 	<game name="Renaissance by Aylesford Newsprint (UK)" sha1="146cedfb351805390eea78047758f9f4c351a30a" size="234988257" crc="ea409dc4" fullsha1="e3e0caf047ed18c9a61280cf7d79a3064107d1f2" dataSha1="f2a25550249013d8d897a746ccc7c17ac7c5b7b6">
 		<category>Games</category>
 		<description>Renaissance by Aylesford Newsprint (UK)</description>
@@ -6606,11 +6606,6 @@
 		<description>Scan &amp; Teach - Thema 7-12 - Klasse 3 (Germany)</description>
 		<rom name="Scan &amp; Teach - Thema 7-12 - Klasse 3 (Germany) (Track 01).bin" size="485979648" crc="1aa37004" md5="3a881106dcbcea9f7ac66b7c375c3984" sha1="bae178e72d9fd64b7aded91e451fdca613e5222f"/>
 	</game>
-	<game name="Schilderschool (Netherlands) (En,Fr,De,Es,It,Nl)" sha1="f354f1618fb79d36efc34ceb3ad5bad61d8cb308" size="147249817" crc="aa975bfc" fullsha1="dc01e2e051c8c895496a285695efaac03f2895ac" dataSha1="83770d9c859edeb1c3772a584199a0ce75cc7823">
-		<category>Games</category>
-		<description>Schilderschool (Netherlands) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Schilderschool (Netherlands) (En,Fr,De,Es,It,Nl) (Track 01).bin" size="490902384" crc="723ec1c5" md5="4e755ddd2a4541eb86e03eb61277d667" sha1="0b8ed7cf3fe35ebfdbf82cdca927415e58fb02e3"/>
-	</game>
 	<game name="Schtroumpfs, Les - Le Teleportaschtroumpf (France)" sha1="2e88e1e39610ad00a1b4c3a90c583097e82f76fe" size="150805360" crc="950ec87e" fullsha1="034ab1056c54263704468e6afd94d02333852606" dataSha1="82544032a0645ae819b7e5561b64d39e50635309">
 		<category>Games</category>
 		<description>Schtroumpfs, Les - Le Teleportaschtroumpf (France)</description>
@@ -6698,15 +6693,15 @@
 		<description>ShowMaster (USA) (Demo)</description>
 		<rom name="ShowMaster (USA) (Demo) (Track 01).bin" size="290377920" crc="ae3b6e22" md5="2567d26125ae47510226063b27f43dc7" sha1="03e38bb0deddd513b629ec528cac44fe332ea9a3"/>
 	</game>
-	<game name="Si Balla (Italy) (Beta)" sha1="d00fd38e8e4128516dafaa6729c2705dc99baf20" size="521009856" crc="d67c94ae" fullsha1="d3675d604f19f04e3f8c0817ce5c3209c59a1da9" dataSha1="804ea9dd9a98ef92c9ffdc24125ca419733390a1">
-		<category>Games</category>
-		<description>Si Balla (Italy) (Beta)</description>
-		<rom name="Si Balla (Italy) (Beta) (Track 01).bin" size="622692000" crc="9ffe027a" md5="b956b14a6d31d8c192c0c59f6eb1fe7f" sha1="8669b6b0bc201834cc5f6d011180ff60e34ebc19"/>
-	</game>
 	<game name="Si Balla! (Italy)" sha1="89f9bbaf1413d9ff828b76066fd20cad2838b703" size="523314560" crc="4c99a845" fullsha1="28009ff8ebbc5ad5034000c103b3662ae73122de" dataSha1="b3d7a00bc656685555539d505874fc7cb55dbffb">
 		<category>Games</category>
 		<description>Si Balla! (Italy)</description>
 		<rom name="Si Balla! (Italy) (Track 01).bin" size="622339200" crc="e5e42b43" md5="56b2d05183e93e035339b681a1a9798b" sha1="61e18b406820aaf44658c2e32ac5495830f4abc7"/>
+	</game>
+	<game name="Si Balla! (Italy) (Beta)" sha1="d00fd38e8e4128516dafaa6729c2705dc99baf20" size="521009856" crc="d67c94ae" fullsha1="d3675d604f19f04e3f8c0817ce5c3209c59a1da9" dataSha1="804ea9dd9a98ef92c9ffdc24125ca419733390a1">
+		<category>Games</category>
+		<description>Si Balla! (Italy) (Beta)</description>
+		<rom name="Si Balla! (Italy) (Beta) (Track 01).bin" size="622692000" crc="9ffe027a" md5="b956b14a6d31d8c192c0c59f6eb1fe7f" sha1="8669b6b0bc201834cc5f6d011180ff60e34ebc19"/>
 	</game>
 	<game name="Sieben Schritte zum Erfolg (Germany)" sha1="ea66176d0e58f8918a6af4cf244dc54a7901534e" size="222120817" crc="3949dce6" fullsha1="54c7e6ceef2e152bdef0d76c988aa50bc01c3ae6" dataSha1="e4c3a3ffc1cfcb0dc591ebd2f33fe8c9fd4f7557">
 		<category>Games</category>
@@ -7008,6 +7003,11 @@
 		<category>Games</category>
 		<description>TV Interactief - Site Seeing in Digitaal Eindhoven (Netherlands)</description>
 		<rom name="TV Interactief - Site Seeing in Digitaal Eindhoven (Netherlands) (Track 01).bin" size="779869104" crc="7039c7b3" md5="50ae591b01499d46365ad157cc93cf04" sha1="7f4da488ae2c5a0eca879bd073c2fe278669a654"/>
+	</game>
+	<game name="Taiyou o Karitoru Hito - Harvest of the Sun - Vincent van Gogh (Japan)" sha1="3ec29760e1983cc7cc680a53fc4b7508ca767054" size="164824650" crc="40e9728f" fullsha1="3af43e5fa2347cda88666a53b8f567eda31d21e8" dataSha1="64b3b8add0084bb9e1036057a24300a406e6b959">
+		<category>Games</category>
+		<description>Taiyou o Karitoru Hito - Harvest of the Sun - Vincent van Gogh (Japan)</description>
+		<rom name="Taiyou o Karitoru Hito - Harvest of the Sun - Vincent van Gogh (Japan) (Track 01).bin" size="634216800" crc="cb3fdccc" md5="d7729a762906b4f7172e01f849184c47" sha1="dab88ed31ceaff66ebc561afe867ee2bf712db6d"/>
 	</game>
 	<game name="Tandem Production (France)" sha1="4b0de99e823434fb5977a9f25ccaf04aaafa10d7" size="51535256" crc="366d69b8" fullsha1="4c8e1774e326a326628eb835f7a7aa0b3aba5df3" dataSha1="4487f5edaea0e59e619a60c5380e4873e57eb5fd">
 		<category>Games</category>

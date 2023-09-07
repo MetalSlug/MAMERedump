@@ -4,8 +4,8 @@
 	<header>
 		<name>ZAPiT Games - Game Wave Family Entertainment System</name>
 		<description>ZAPiT Games - Game Wave Family Entertainment System</description>
-		<version>0.257</version>
-		<date>2023-08-02</date>
+		<version>0.258</version>
+		<date>2023-09-07</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -48,6 +48,11 @@
 		<category>Games</category>
 		<description>Rewind (USA)</description>
 		<rom name="Rewind (USA) (Track 01).bin" size="4635021312" crc="d2fde421" md5="5cdaf29ba657c8c22c347f898a6e0c7f" sha1="542e7645b9caa8bf8aeaea98cf198c86b56e9f41"/>
+	</game>
+	<game name="Rewind (USA) (Rev 1)" sha1="cc72941a327aeada402658bfd96078883dbf5f25" size="4184828306" crc="5de6218b" fullsha1="2a7425f445522758ace5024273c2350c1a6415cc" dataSha1="6558cea650029a35ed4bd88ec8b70f6c79c256ed">
+		<category>Games</category>
+		<description>Rewind (USA) (Rev 1)</description>
+		<rom name="Rewind (USA) (Rev 1) (Track 01).bin" size="4385525760" crc="d3cf238e" md5="4d66666e58c42545a554855c94cf7728" sha1="15e57f95ef5aa7dece2d4f70bc6b9da3b14ad786"/>
 	</game>
 	<game name="Rewind 2005 (USA) (Disc A)" sha1="6049c3e8165921f5f1425d3265f0adc3f478dcd5" size="3356392463" crc="531590a4" fullsha1="d5804e7b7fa07e0bb0a5e877f1102b3d88a7a212" dataSha1="f01258a779b4f71584db9f72ecc6e6b590565ce2">
 		<category>Games</category>

@@ -4,8 +4,8 @@
 	<header>
 		<name>Pocket PC</name>
 		<description>Pocket PC</description>
-		<version>0.257</version>
-		<date>2023-08-02</date>
+		<version>0.258</version>
+		<date>2023-09-07</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -13,6 +13,11 @@
 		<category>Games</category>
 		<description>Best Pocket PC Games &amp; Utilities, The (Europe)</description>
 		<rom name="Best Pocket PC Games &amp; Utilities, The (Europe) (Track 01).bin" size="86814672" crc="b054205f" md5="0fac88797e967334daefd671dd36a245" sha1="54712eb214aba5c4489d13f1cf1886fa75315191"/>
+	</game>
+	<game name="Call of Duty 2 (USA)" sha1="00a943466b2df79e658f9e9e4ecb9bb7843e5f1a" size="71596380" crc="7218ac86" fullsha1="9ccf52b85b146ff80cd410471852b2cbbd9002f1" dataSha1="5d45d37b6a5989bc618c34c49bd446c64ee1f2ea">
+		<category>Games</category>
+		<description>Call of Duty 2 (USA)</description>
+		<rom name="Call of Duty 2 (USA) (Track 01).bin" size="82494048" crc="315131e5" md5="26852f24b2fa3631f435499b25202a93" sha1="43cfc421ec34eaf0de309ba5620286d5a1bc2db2"/>
 	</game>
 	<game name="Dragon's Breed - The Ancient Augury (UK)" sha1="b13f27b4faa1be70e0505b81886a482e4705eeaf" size="6558600" crc="76183387" fullsha1="427b6f93c61984ca39dde2cf6ca4c5ceab58798f" dataSha1="1c00195edcd9090f17995b392f73462dc7005516">
 		<category>Games</category>
@@ -24,10 +29,30 @@
 		<description>Empire of the Undead (USA)</description>
 		<rom name="Empire of the Undead (USA) (Track 01).bin" size="20086080" crc="a3e8b738" md5="de51056553af09d49f4470c2109a7f80" sha1="576e40a2a635169370c9e732c40e06b5a01b546d"/>
 	</game>
+	<game name="EverQuest for the Pocket PC (USA)" sha1="197be9ea4052812563f12bcb94099899d15305c0" size="10783179" crc="c32af1dd" fullsha1="f721c6aa23bc8deb9a024d364a7387295c6905c1" dataSha1="301f463d46892ff7df4ae26bccde47355ef12211">
+		<category>Games</category>
+		<description>EverQuest for the Pocket PC (USA)</description>
+		<rom name="EverQuest for the Pocket PC (USA) (Track 01).bin" size="14580048" crc="06433ccb" md5="f6eb9f03fbcd3691766a0c4ff2f8cb57" sha1="6581118ac793e4b991fe6213ae57608d7b2c3f7f"/>
+	</game>
+	<game name="G-Pod (Germany)" sha1="9ced340a3b79e0538b573c7049f3bf620fdeeb37" size="2615520" crc="502138c6" fullsha1="b93fb321858dadfd76e4d2f35c6fee99a3d0820d" dataSha1="4cbb3abbc1ad06d02a602d69c8c4f5cbd5f46349">
+		<category>Games</category>
+		<description>G-Pod (Germany)</description>
+		<rom name="G-Pod (Germany) (Track 01).bin" size="3826704" crc="e39e3b33" md5="c7c51ad4cc478a4d1afc2f9e654f3f5d" sha1="0e4350271f4b2967c7a4ae317f61277bcfa5e9c5"/>
+	</game>
+	<game name="G-Prime (Germany)" sha1="b62ad51d35c77dc15ab4c671143fa734f68ebdad" size="3967027" crc="bf7b65b8" fullsha1="098f389d8886c137319d7bb0a00eff190a622686" dataSha1="75e8e6d50465eb9c6dc55d549948c1345574084d">
+		<category>Games</category>
+		<description>G-Prime (Germany)</description>
+		<rom name="G-Prime (Germany) (Track 01).bin" size="4948608" crc="cc6addff" md5="f6430cfaa66728ea6eb138b21ed008bc" sha1="c8492b2bc59d818461e595c8a91e6a841264c219"/>
+	</game>
 	<game name="Graduate Chess (Europe) (En,Fr,De)" sha1="82f6a00b978830c8c6cfc4129a04661947551f0d" size="2862519" crc="6c774373" fullsha1="dcd57f81c722fdca2fface9788e65accb2221e9e" dataSha1="71e97dfa7ceb81c8afb1f0d5ea82a95e27c8f394">
 		<category>Games</category>
 		<description>Graduate Chess (Europe) (En,Fr,De)</description>
 		<rom name="Graduate Chess (Europe) (En,Fr,De) (Track 01).bin" size="5371968" crc="84cabce5" md5="1472c99660652a7706fd9c9a4d3f2cb3" sha1="cbebea91dc00a2453ef30e05b300d08e2df8d702"/>
+	</game>
+	<game name="HP Jornada 520 Series CD-ROM (USA) (En,Fr,De)" sha1="f33febdf19833c94b2b9b4a0cc7fb9dfb72970ae" size="143161872" crc="e4f6a966" fullsha1="c588ee35b5b65ae46761dbc73b938f430f28c497" dataSha1="1f4c057ec302516408a71888e5977c91a7f82b62">
+		<category>Games</category>
+		<description>HP Jornada 520 Series CD-ROM (USA) (En,Fr,De)</description>
+		<rom name="HP Jornada 520 Series CD-ROM (USA) (En,Fr,De) (Track 01).bin" size="182294112" crc="a17828ab" md5="b3a652b66305bcde2501e08d3f7114a2" sha1="86ea51f1904664ca2679f1d63a0e3ce8b9ab7936"/>
 	</game>
 	<game name="Links - Pocket PC Edition (USA)" sha1="429dfc980694970707f972c5c9ecbdbed0c00e87" size="52418699" crc="aa70e6e5" fullsha1="bd12e47cbdbac0eb3e6dff18e413ada9809b6f26" dataSha1="9b152541595ea3325c93064f269bf315ad46c172">
 		<category>Games</category>
@@ -44,10 +69,20 @@
 		<description>Metalion (USA)</description>
 		<rom name="Metalion (USA) (Track 01).bin" size="33113808" crc="87c782e3" md5="505eeddc73673c679c55cc23c26ddce5" sha1="8ffb00a7e6d5505324d2d92d2344abf666926927"/>
 	</game>
+	<game name="Microsoft ActiveSync 3.1 (USA)" sha1="18d9f173c6fb92d3a67d16be6ed9f1066115a24b" size="428809103" crc="e13f7d00" fullsha1="dc961b0fabd3da46d7588b0cd1e8959289bb3770" dataSha1="b6a25d8576427af1cebae2fd87c59b74c2a110fb">
+		<category>Games</category>
+		<description>Microsoft ActiveSync 3.1 (USA)</description>
+		<rom name="Microsoft ActiveSync 3.1 (USA) (Track 01).bin" size="685789104" crc="9e0d2037" md5="df525e785566e7eb8d517586d426157c" sha1="dd1dabad048082490c900920261da140d1285333"/>
+	</game>
 	<game name="Microsoft Entertainment PocketPak (USA)" sha1="4176b492d2d1c37fd3766a1f1c672002ed7bf24f" size="3109045" crc="438a32c9" fullsha1="05692a182f33780d881fe81dc6536a001ff7d1af" dataSha1="c26c5156661e33f93079e3372d46dcb505b04055">
 		<category>Games</category>
 		<description>Microsoft Entertainment PocketPak (USA)</description>
 		<rom name="Microsoft Entertainment PocketPak (USA) (Track 01).bin" size="4290048" crc="1ae5d940" md5="2ba865242576076c8213d3c5166983cc" sha1="073b183f16eb4aa7e3a06c78569364c5bb5f90cb"/>
+	</game>
+	<game name="Microsoft Expedia Streets 98 (USA)" sha1="06ed0ec1955096095c1619e73141aa90f232bf7d" size="535513441" crc="4a0b5ec2" fullsha1="b27b03d1beb6867c96f34b850f382f4735690d3a" dataSha1="6ae1f2ba862060decadc65057e93d192db136de5">
+		<category>Games</category>
+		<description>Microsoft Expedia Streets 98 (USA)</description>
+		<rom name="Microsoft Expedia Streets 98 (USA) (Track 01).bin" size="737297904" crc="c52267f3" md5="a58b4daea8121db7cce06d7e4923296c" sha1="6ea06405d28fbd2402031e80c12f7004181cc645"/>
 	</game>
 	<game name="Midway Classics - Marble Madness (USA)" sha1="d89ab869da5bc07247f3e40399a2a38e16270001" size="7411884" crc="3a6d115a" fullsha1="9896b035cec481c3a39cc9a5937df45042519406" dataSha1="a7eebd65bd08dd86648eb5cb0990d676606c4791">
 		<category>Games</category>
@@ -94,6 +129,11 @@
 		<description>Pocket Mahjong (Japan)</description>
 		<rom name="Pocket Mahjong (Japan) (Track 01).bin" size="3201072" crc="5a155966" md5="5b850844a7c10757a0ebab7dfa363fb8" sha1="5a669563094200cca353d892b30da762dbc62a7f"/>
 	</game>
+	<game name="Pocket PC Software Pack (Germany)" sha1="cb450e2267a372c3102fb36d9b88ed558bea92e5" size="302512067" crc="13834941" fullsha1="a6f4ae969ff47c292c7539b79b66491783203e8c" dataSha1="a2e963280c4ede0fad012020ed25c3c247377bb9">
+		<category>Games</category>
+		<description>Pocket PC Software Pack (Germany)</description>
+		<rom name="Pocket PC Software Pack (Germany) (Track 01).bin" size="452513040" crc="651a3778" md5="2f5bb69de28b5e8d8dc701f342cbf153" sha1="05bbf40b89f9b1c105def207850e6342f353b4c9"/>
+	</game>
 	<game name="Pocket PC StarterPak for Dummies (USA)" sha1="bfba2cbfc3be0d79b5a4d72dfbb3c7ab914e16e4" size="124689590" crc="0c54224e" fullsha1="43cd6c59956513fc2409b165107effd8ff59be9d" dataSha1="fe9b99173f1dcb4dd84cfc342cf7bbfbffd7d38d">
 		<category>Games</category>
 		<description>Pocket PC StarterPak for Dummies (USA)</description>
@@ -104,6 +144,11 @@
 		<description>Pocket Picture Viewer (Japan)</description>
 		<rom name="Pocket Picture Viewer (Japan) (Track 01).bin" size="2674224" crc="b4b9d129" md5="f2beafaf7f5f61fd0478a5daaa996137" sha1="1a45eb1150f6ba84dc923cf9a63e3c9c386a71e3"/>
 	</game>
+	<game name="Pocket Shougi (Japan)" sha1="099c5d01705741794e2c06f23207a0dc74da7379" size="1141914" crc="4993e603" fullsha1="58c086ce7f82a1b3025c4a19d29c85c1a65b326e" dataSha1="617f66e08bbde266f793961453d3e4d58407279e">
+		<category>Games</category>
+		<description>Pocket Shougi (Japan)</description>
+		<rom name="Pocket Shougi (Japan) (Track 01).bin" size="3916080" crc="bd59a5be" md5="49136a1bd5fc859a0f7c4bd079297887" sha1="f2bc7eaf50f3bacdd33c3540018d0aa5f65bcb6d"/>
+	</game>
 	<game name="Pocket Slide Show (Japan)" sha1="906ed5c67cff0903539f9670cdb9c67a14aa0878" size="670262" crc="fcb8a5f5" fullsha1="e9a9fb932d394b0dc636280eaeb34f5ca28701f8" dataSha1="da0c085ab00f3bcf1dd590c39655bf9fe0c49dd8">
 		<category>Games</category>
 		<description>Pocket Slide Show (Japan)</description>
@@ -113,6 +158,11 @@
 		<category>Games</category>
 		<description>Pocket Zipper (Japan)</description>
 		<rom name="Pocket Zipper (Japan) (Track 01).bin" size="1154832" crc="24089f95" md5="4c1d401fea0a1a609719189bb16dc53f" sha1="608c3c63cf96e09a75267cfe74bfa0ea6ec879fe"/>
+	</game>
+	<game name="Rayman (Japan) (En,Ja)" sha1="4886a76c179349534a8a546d82646e4389c07cdb" size="69682450" crc="fc04b21c" fullsha1="5f6ec4ca14f757a23695ddd03f2e02ff72774669" dataSha1="b8d6c7a29972ee95c12e548d1e3e371b5b0dd759">
+		<category>Games</category>
+		<description>Rayman (Japan) (En,Ja)</description>
+		<rom name="Rayman (Japan) (En,Ja) (Track 01).bin" size="84521472" crc="6cc94a16" md5="98b622794320cf04a4bd3c1b5796eb20" sha1="57771eade360873bf86ac87345717327fe6d6537"/>
 	</game>
 	<game name="RocketElite (USA) (En,Fr,De)" sha1="a6e8c5597ed15391ea6a6a6b8165a1bbd5c96875" size="44742193" crc="c40d1ec2" fullsha1="da8fede63c9193490fb7bb5e0b4f070324cd08dc" dataSha1="824816af09c644b3dfafbfddb3b7c3decf5e4e09">
 		<category>Games</category>
@@ -143,6 +193,46 @@
 		<category>Games</category>
 		<description>Socket Low Power SDIO WLAN (USA)</description>
 		<rom name="Socket Low Power SDIO WLAN (USA) (Track 01).bin" size="53776128" crc="127a39d8" md5="d6798ad193873876635b151e2eb6648f" sha1="bbdf6d602eba1c350f6c1d4eff4b81bd63f00439"/>
+	</game>
+	<game name="TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 1)" sha1="b2ccf9cb621c21c8dcb894bb032602b9a65c9572" size="532788365" crc="db66533c" fullsha1="45fa4ee8c266a75b53688fc7105970b0f6e6fd45" dataSha1="f530225988c3c5382dfdc4620ecf4cfda0908a29">
+		<category>Games</category>
+		<description>TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 1)</description>
+		<rom name="TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 1) (Track 01).bin" size="636947472" crc="3b80e50a" md5="f5b892888c58fed7286cf2d8e25f1019" sha1="7835097067693f347035ab4fe4677896de1de6cc"/>
+	</game>
+	<game name="TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 2)" sha1="567248e4db59a99ab123014483f59a31e0bef7c0" size="579895741" crc="61eee545" fullsha1="e18f0009fa81b38d3f9f50c3075c255e830f8f1c" dataSha1="9e13c6fe0781cfd1abc27559f7f150cd8a6170c8">
+		<category>Games</category>
+		<description>TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 2)</description>
+		<rom name="TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 2) (Track 01).bin" size="700253904" crc="c5e799d7" md5="a708521f4ad0d18f5123673a26840e2e" sha1="e2936288c3aa1157061b0dcd94ad1b379157f4a4"/>
+	</game>
+	<game name="TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 3)" sha1="da0801d14077aeccb3e31b531a9153d22535e6db" size="634598844" crc="5354c463" fullsha1="a9d612121ec949dbb1d6f9282c9a0c1a389535dc" dataSha1="3e27426b82d1c1bd18db9736fa396f04e2777819">
+		<category>Games</category>
+		<description>TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 3)</description>
+		<rom name="TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 3) (Track 01).bin" size="753538464" crc="e67db227" md5="972b197f54275c6cc7c6596e05cbcd27" sha1="ba904ba348fda20d513b2727b6df23c156949c40"/>
+	</game>
+	<game name="TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 4)" sha1="f492a0b11fffce86c642180453c2779657dc6493" size="522230063" crc="0d1afe77" fullsha1="44a4a67a52148e3bdf39da61cbf74c8c25f52050" dataSha1="cd21cfc8cb7924fe25b30ade29c1b8d030a41e28">
+		<category>Games</category>
+		<description>TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 4)</description>
+		<rom name="TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 4) (Track 01).bin" size="623790384" crc="d0de04c0" md5="2060dfd91df075ed03d5fab7521c4071" sha1="134affe39b6a86243f138aa98bc9f37ad61fc13c"/>
+	</game>
+	<game name="TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 5)" sha1="0a9855983fd933a6b317673d8b9060a1b27ca358" size="548628001" crc="29b77865" fullsha1="7fd1e4fac8a81b66ae39d156d89496622cd239a0" dataSha1="cb75f9fffc7d6b76918dd924499150d46fd3209f">
+		<category>Games</category>
+		<description>TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 5)</description>
+		<rom name="TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 5) (Track 01).bin" size="653928912" crc="bb422039" md5="bc16ba13a8fc43c4522a3889e1c54b25" sha1="3bed58bbf3e169ec2f46419802f26389fbba2b4d"/>
+	</game>
+	<game name="TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 6)" sha1="b4a85b7439ef4fce683eb453942a4e02c9d5eb3b" size="686577086" crc="f90abcd0" fullsha1="ca8fcf1779e54694c1b047e49c68030ce33da24a" dataSha1="f41f749bb94405b1e5c0735ccae6053c85306443">
+		<category>Games</category>
+		<description>TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 6)</description>
+		<rom name="TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 6) (Track 01).bin" size="831424944" crc="be48901e" md5="d27b915000f42f6558a7781538916760" sha1="67b83fb724767ae591e00dfe890102787dca0a6a"/>
+	</game>
+	<game name="TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 7)" sha1="3392cc0204f3582b41df07802fa501c105a4aa2a" size="646081177" crc="ff430de3" fullsha1="dce8e118c7b9e41862494fc4e138f51730bba290" dataSha1="a66ed92f385a5fb1989ec66367da73806f1efe26">
+		<category>Games</category>
+		<description>TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 7)</description>
+		<rom name="TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 7) (Track 01).bin" size="780748752" crc="34fdb834" md5="7e8ea93ca1c54edf7a328056e8ebdb36" sha1="0315c4846a1d4a08f6a89de5b0c6b8866d3e2b56"/>
+	</game>
+	<game name="TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 8)" sha1="75368c8f64f2af247bd0073f7f6531addf0d4cf3" size="620106008" crc="0ab79bef" fullsha1="3063596a92320f716c399fb454eac50bca2bfacb" dataSha1="98cd4f8a928e1ce7b8d25d47ec11cd3624839723">
+		<category>Games</category>
+		<description>TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 8)</description>
+		<rom name="TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 8) (Track 01).bin" size="739090128" crc="84b9dd56" md5="1fbacf3596bda8026ccbeeaf1e6663e7" sha1="ef2adcbc8cc1847605223e5301c23e7480e58196"/>
 	</game>
 	<game name="Tomb Raider for Pocket PC (USA)" sha1="4370e20eb4379388c1c9fd67de060ce2108e7705" size="75239095" crc="d97c108d" fullsha1="3871624dac809a8f4f8196277a1fd31511d2313f" dataSha1="e7d4dc5dd14097257e1f7ebba613e7202cd286b5">
 		<category>Games</category>

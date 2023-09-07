@@ -4,11 +4,20 @@
 	<header>
 		<name>Tomy - Kiss-Site</name>
 		<description>Tomy - Kiss-Site</description>
-		<version>0.257</version>
-		<date>2023-08-02</date>
+		<version>0.258</version>
+		<date>2023-09-07</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
+	<game name="Anime Karaoke Series - Pocket Monsters 1 (Japan)" sha1="7859c0dfe50373efc893db5f22f6f428388a5baf" size="107096942" crc="1e0f4ca1" fullsha1="c282269e073f627c0f1540886b3965ce149e9f38" dataSha1="2ca7669636d91717126af8f8093e2abf82648b27">
+		<category>Games</category>
+		<description>Anime Karaoke Series - Pocket Monsters 1 (Japan)</description>
+		<rom name="Anime Karaoke Series - Pocket Monsters 1 (Japan) (Track 01).bin" size="729120" crc="257a9ed1" md5="0c038fd341c6f83501dfb17401c3996e" sha1="e77085a3c013da3eeb5c3a11643a22b146b6dcb2"/>
+		<rom name="Anime Karaoke Series - Pocket Monsters 1 (Japan) (Track 02).bin" size="1549968" crc="97e0b156" md5="2857cd9003301b362920a0b0a5c66fec" sha1="13c0fb11607ae7806a57a534b8ecde4b648ca564"/>
+		<rom name="Anime Karaoke Series - Pocket Monsters 1 (Japan) (Track 03).bin" size="57718080" crc="7dae44c2" md5="e775f62d48fcc1716cb8a24a23a61a7d" sha1="1c158a1727ead4fe5c1a11395dd60286caaa986c"/>
+		<rom name="Anime Karaoke Series - Pocket Monsters 1 (Japan) (Track 04).bin" size="37441488" crc="3b74f264" md5="77271c78b146972bb706cea7724f7256" sha1="f21d4b6aea62b571a0c6014c6d6ce2fb1f890146"/>
+		<rom name="Anime Karaoke Series - Pocket Monsters 1 (Japan) (Track 05).bin" size="16520448" crc="e64f8138" md5="fcb9e57a6f985b3247071a2062bcfa8a" sha1="810cc433d07e8147d0a33c616a3d73438aba136c"/>
+	</game>
 	<game name="Dance Karaoke Series 01 - Mickey Mouse March - Eurobeat Version &amp; White Love (Japan)" sha1="aea05e4ea36d129d9712f4bbbd179f21f42d098b" size="104483877" crc="a8598143" fullsha1="a0cf1cdb25f515814e8f774542ffba2e19a25372" dataSha1="ed3f83ad030d86739c99b416f67a779599e2158e">
 		<category>Games</category>
 		<description>Dance Karaoke Series 01 - Mickey Mouse March - Eurobeat Version &amp; White Love (Japan)</description>
@@ -177,13 +186,13 @@
 		<rom name="Dance Karaoke Series 23 - Please Smile Again &amp; Treasure (Japan) (Track 03).bin" size="51739296" crc="13e6d021" md5="98961a06f691f74e30a5b3583c5614f9" sha1="95fa6e2297ee01c05307de4128add0ca1433f65b"/>
 		<rom name="Dance Karaoke Series 23 - Please Smile Again &amp; Treasure (Japan) (Track 04).bin" size="52851792" crc="e95e5e69" md5="7b9afa678bf6429ac8e01df009c8a6bb" sha1="d35734a5548d89c90ffdc0682a6dcbf9a0b97e31"/>
 	</game>
-	<game name="Dance Karaoke Series 24 - Koi wa Suriru, Shock, Suspense &amp; Love is Energy! (Japan)" sha1="445e432464dff6cd6a382ac5a6a0d1684ac44d67" size="91077478" crc="d7943d5b" fullsha1="8ba796343933105cd965f670307c70f4115e6214" dataSha1="c519a0d6a3b16ad6bf2d500301b635b9c4fa0144">
+	<game name="Dance Karaoke Series 24 - Koi wa Thrill, Shock, Suspense &amp; Love is Energy! (Japan)" sha1="445e432464dff6cd6a382ac5a6a0d1684ac44d67" size="91077478" crc="d7943d5b" fullsha1="8ba796343933105cd965f670307c70f4115e6214" dataSha1="c519a0d6a3b16ad6bf2d500301b635b9c4fa0144">
 		<category>Games</category>
-		<description>Dance Karaoke Series 24 - Koi wa Suriru, Shock, Suspense &amp; Love is Energy! (Japan)</description>
-		<rom name="Dance Karaoke Series 24 - Koi wa Suriru, Shock, Suspense &amp; Love is Energy! (Japan) (Track 01).bin" size="729120" crc="248526d8" md5="0a9218d496a5f7f813a7a2500fd97cca" sha1="ad6ca7541890edafe1043602c2c88f52a63e4b2c"/>
-		<rom name="Dance Karaoke Series 24 - Koi wa Suriru, Shock, Suspense &amp; Love is Energy! (Japan) (Track 02).bin" size="2495472" crc="adcf8ab8" md5="cfcf73bb1641ed5dc9447027b8de357e" sha1="1a81881ab1fe486e7705436dc9b12ab95714f5be"/>
-		<rom name="Dance Karaoke Series 24 - Koi wa Suriru, Shock, Suspense &amp; Love is Energy! (Japan) (Track 03).bin" size="52804752" crc="41a135b6" md5="9e7b8e83367c04c87cee7e4140b4917d" sha1="e284f4246cf9f4bc0fb16d66ed64151f371b7727"/>
-		<rom name="Dance Karaoke Series 24 - Koi wa Suriru, Shock, Suspense &amp; Love is Energy! (Japan) (Track 04).bin" size="44057664" crc="69ce262c" md5="adf604e053d333daf88c340b3fc4131b" sha1="feeecd10a536e0cd8f1e9adc42510fcec7114055"/>
+		<description>Dance Karaoke Series 24 - Koi wa Thrill, Shock, Suspense &amp; Love is Energy! (Japan)</description>
+		<rom name="Dance Karaoke Series 24 - Koi wa Thrill, Shock, Suspense &amp; Love is Energy! (Japan) (Track 01).bin" size="729120" crc="248526d8" md5="0a9218d496a5f7f813a7a2500fd97cca" sha1="ad6ca7541890edafe1043602c2c88f52a63e4b2c"/>
+		<rom name="Dance Karaoke Series 24 - Koi wa Thrill, Shock, Suspense &amp; Love is Energy! (Japan) (Track 02).bin" size="2495472" crc="adcf8ab8" md5="cfcf73bb1641ed5dc9447027b8de357e" sha1="1a81881ab1fe486e7705436dc9b12ab95714f5be"/>
+		<rom name="Dance Karaoke Series 24 - Koi wa Thrill, Shock, Suspense &amp; Love is Energy! (Japan) (Track 03).bin" size="52804752" crc="41a135b6" md5="9e7b8e83367c04c87cee7e4140b4917d" sha1="e284f4246cf9f4bc0fb16d66ed64151f371b7727"/>
+		<rom name="Dance Karaoke Series 24 - Koi wa Thrill, Shock, Suspense &amp; Love is Energy! (Japan) (Track 04).bin" size="44057664" crc="69ce262c" md5="adf604e053d333daf88c340b3fc4131b" sha1="feeecd10a536e0cd8f1e9adc42510fcec7114055"/>
 	</game>
 	<game name="Dance Karaoke Series 25 - Renai Revolution 21 &amp; S.O.S (Japan)" sha1="da1a8378942af8cce21e42d727377d2ee6d94820" size="77080549" crc="fb816289" fullsha1="0f8a3cf18e01318058d502b756a6b9fe50998479" dataSha1="14724f8a9767859821421daa991d13f5c8c2f25f">
 		<category>Games</category>
@@ -207,14 +216,14 @@
 		<rom name="Movie Karaoke Series - Best Selection - Ballade 1 (Japan) (Track 09).bin" size="60921504" crc="bf2cd223" md5="ab117ec662c80f24ee2c6bd97f49e9ff" sha1="d8fee9628c1ef264232413c85acefd87aa737796"/>
 		<rom name="Movie Karaoke Series - Best Selection - Ballade 1 (Japan) (Track 10).bin" size="67803456" crc="cbce0979" md5="93307830d0dd6a57ca56006e7996b50c" sha1="ad2113a452c0c8d3605f8199787621de497fc99d"/>
 	</game>
-	<game name="Oha Star Series 01 - Zou Nanba Ra - Zonapara (Japan)" sha1="1951cc77fb7fb7289617e63cae1d63ef3a259330" size="79083199" crc="a61cac4c" fullsha1="777f838335441b121c80861d7d8aaa79bc4049dc" dataSha1="cd8ccd3847bda1155bfdf772270443dea6940e26">
+	<game name="Oha Star Series 01 - Zonapara (Japan)" sha1="1951cc77fb7fb7289617e63cae1d63ef3a259330" size="79083199" crc="a61cac4c" fullsha1="777f838335441b121c80861d7d8aaa79bc4049dc" dataSha1="cd8ccd3847bda1155bfdf772270443dea6940e26">
 		<category>Games</category>
-		<description>Oha Star Series 01 - Zou Nanba Ra - Zonapara (Japan)</description>
-		<rom name="Oha Star Series 01 - Zou Nanba Ra - Zonapara (Japan) (Track 01).bin" size="729120" crc="8a79ed8c" md5="b9e9c1240146c98bf9029ff233e0f73d" sha1="766d551e1c4fceda1d846172aa05b5e05f742e9a"/>
-		<rom name="Oha Star Series 01 - Zou Nanba Ra - Zonapara (Japan) (Track 02).bin" size="2356704" crc="6793ca16" md5="52279a62a72fb186e4ab16a1291a4ba9" sha1="8d4a80519cba79b46c1a693afc1b3d2002b65029"/>
-		<rom name="Oha Star Series 01 - Zou Nanba Ra - Zonapara (Japan) (Track 03).bin" size="18166848" crc="3c7b16e0" md5="fa5c2ae757e9368f29886d126cc92c92" sha1="ae93f8a8215977da77cb3a905e48faf0ed55e483"/>
-		<rom name="Oha Star Series 01 - Zou Nanba Ra - Zonapara (Japan) (Track 04).bin" size="46506096" crc="ec768e8a" md5="d1ab1f1d37e63b145a7581d19d5ac929" sha1="00f01b16ad6835e8f25289d2f68d32311992aa9c"/>
-		<rom name="Oha Star Series 01 - Zou Nanba Ra - Zonapara (Japan) (Track 05).bin" size="19566288" crc="8b5576f7" md5="64320126d80619ef2098e4b92b1a4041" sha1="26eb591f79315a1e2cfa2c494fc6d49b432aa284"/>
+		<description>Oha Star Series 01 - Zonapara (Japan)</description>
+		<rom name="Oha Star Series 01 - Zonapara (Japan) (Track 01).bin" size="729120" crc="8a79ed8c" md5="b9e9c1240146c98bf9029ff233e0f73d" sha1="766d551e1c4fceda1d846172aa05b5e05f742e9a"/>
+		<rom name="Oha Star Series 01 - Zonapara (Japan) (Track 02).bin" size="2356704" crc="6793ca16" md5="52279a62a72fb186e4ab16a1291a4ba9" sha1="8d4a80519cba79b46c1a693afc1b3d2002b65029"/>
+		<rom name="Oha Star Series 01 - Zonapara (Japan) (Track 03).bin" size="18166848" crc="3c7b16e0" md5="fa5c2ae757e9368f29886d126cc92c92" sha1="ae93f8a8215977da77cb3a905e48faf0ed55e483"/>
+		<rom name="Oha Star Series 01 - Zonapara (Japan) (Track 04).bin" size="46506096" crc="ec768e8a" md5="d1ab1f1d37e63b145a7581d19d5ac929" sha1="00f01b16ad6835e8f25289d2f68d32311992aa9c"/>
+		<rom name="Oha Star Series 01 - Zonapara (Japan) (Track 05).bin" size="19566288" crc="8b5576f7" md5="64320126d80619ef2098e4b92b1a4041" sha1="26eb591f79315a1e2cfa2c494fc6d49b432aa284"/>
 	</game>
 	<game name="Oha Star Series 02 - Oha Ska! (Japan)" sha1="69a8f7df9bf5a04f054089cb074e3fe9a19e29a4" size="82741452" crc="27088161" fullsha1="ddbb3a2626e5b7cff3b2b2d3371c81d5b311c4aa" dataSha1="a324e8280f98a2685bbf6b67d1b3151f0fc981e4">
 		<category>Games</category>
