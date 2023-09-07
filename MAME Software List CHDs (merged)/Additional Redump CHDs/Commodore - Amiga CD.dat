@@ -2,10 +2,10 @@
 <!DOCTYPE datafile PUBLIC " -//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
-		<name>Commodore - Amiga CD - Redump</name>
-		<description>Commodore - Amiga CD - Redump</description>
-		<version>0.257</version>
-		<date>2023-08-02</date>
+		<name>Commodore - Amiga CD</name>
+		<description>Commodore - Amiga CD</description>
+		<version>0.258</version>
+		<date>2023-09-07</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -2037,6 +2037,16 @@
 		<rom name="Foundation (Europe) (En,De) (Track 04).bin" size="94522176" crc="76c0d317" md5="c581777978d16f25a6690f6f777e0687" sha1="586b1838eb9545f1cac7c6271c8e687828a7670e"/>
 		<rom name="Foundation (Europe) (En,De) (Track 05).bin" size="12606720" crc="957b147f" md5="46d5aefc75ce9da9262c666c8dba5058" sha1="f4340042d2d57da6a64f73f2da0e13e4ada5943d"/>
 		<rom name="Foundation (Europe) (En,De) (Track 06).bin" size="62871312" crc="43868649" md5="c97899de9a928cc7176ec8366872c570" sha1="0fadacae73075ef7149690eca0b29629898e71fc"/>
+	</game>
+	<game name="Foundation Gold (Europe) (En,Fr,De,Es,It,Nl,Sv,Da,Fi,Cs,Sk)" sha1="20bb3fc914a9cb2533a784fb3316da794c622658" size="286514133" crc="0cfe2a9f" fullsha1="2bc4d49d18e3c6abb558bf29e22d10bb06dfdc70" dataSha1="fbc0596313c6a8589101e4101234b838ac35fd7e">
+		<category>Games</category>
+		<description>Foundation Gold (Europe) (En,Fr,De,Es,It,Nl,Sv,Da,Fi,Cs,Sk)</description>
+		<rom name="Foundation Gold (Europe) (En,Fr,De,Es,It,Nl,Sv,Da,Fi,Cs,Sk) (Track 01).bin" size="150782016" crc="6fd3b715" md5="d129df165b18a40683881c66832ce2ef" sha1="4dee545e44c34c0a8728628a410a2fb1d71de07e"/>
+		<rom name="Foundation Gold (Europe) (En,Fr,De,Es,It,Nl,Sv,Da,Fi,Cs,Sk) (Track 02).bin" size="90577872" crc="4a0b8589" md5="d2ee3d40cbaff3ed5250f8e40f6084af" sha1="4a0777c56efef4fa9e1ec75f91df405f8418fce3"/>
+		<rom name="Foundation Gold (Europe) (En,Fr,De,Es,It,Nl,Sv,Da,Fi,Cs,Sk) (Track 03).bin" size="79761024" crc="c3d95774" md5="e551ab3cfbd7090aac084198611d535e" sha1="6775f36ea5d452edf3ed8baff8366086a554d2b4"/>
+		<rom name="Foundation Gold (Europe) (En,Fr,De,Es,It,Nl,Sv,Da,Fi,Cs,Sk) (Track 04).bin" size="94870272" crc="5e2b6153" md5="f43aa1e9d137bb15e8d8355dfd1ed75e" sha1="94b55d04a0991665dbefa7a26993bb25ad9ca20f"/>
+		<rom name="Foundation Gold (Europe) (En,Fr,De,Es,It,Nl,Sv,Da,Fi,Cs,Sk) (Track 05).bin" size="12954816" crc="f20f50b9" md5="008edbbe6cbe2b40c24be9d665de7aa5" sha1="1e744d69c581f689f7ea9a55b93c97d229976d18"/>
+		<rom name="Foundation Gold (Europe) (En,Fr,De,Es,It,Nl,Sv,Da,Fi,Cs,Sk) (Track 06).bin" size="62843088" crc="5d25b074" md5="501dfd41ae2a40b9db6f2f0933cb669c" sha1="04dc6be3abfe0107bd196b1f5adbcd615dafc8e3"/>
 	</game>
 	<game name="French Storm - Volume 1 (France)" sha1="b3c2abb43561b98f639dbb44523a6ceacf5da6ac" size="461572936" crc="73a385ab" fullsha1="73d1da0b4ebdb4636ee16de99857c3936958cfd7" dataSha1="a395bc2b49aab7fb8c1ee30ac210c49d7996e843">
 		<category>Games</category>

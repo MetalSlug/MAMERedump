@@ -4,8 +4,8 @@
 	<header>
 		<name>ibm5170_cdrom</name>
 		<description>ibm5170_cdrom</description>
-		<version>0.257</version>
-		<date>2023-08-02</date>
+		<version>0.258</version>
+		<date>2023-09-07</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -1188,6 +1188,16 @@
 		<category>Games</category>
 		<description>discdeep\discoveries of the deep (1996)(softkey)</description>
 		<rom name="discoveries of the deep (1996)(softkey) (Track 01).bin" size="42106880" crc="bc4d86f1" md5="35710d12c62321f9bba5878e81be9642" sha1="ad87f8cf235984b114089a240f2931a0e488ab56"/>
+	</game>
+	<game name="div103b\div_games_studio_fr" sha1="5e7c01a785f6155c69aedd0bff458919002f745e" size="47070202" crc="7175b2f0" fullsha1="cc3f10a85ca645ab2bf55f4864383cb78c493c98" dataSha1="40c36c183bb7e0f2e3d08b5ccfe266e8a586b134">
+		<category>Games</category>
+		<description>div103b\div_games_studio_fr</description>
+		<rom name="div_games_studio_fr (Track 01).bin" size="162263040" crc="37ec6ab3" md5="2a89f9c1899fc3000491bee65e18140a" sha1="f4d26f2644b67b3c6002f06614e59e7139353bce"/>
+	</game>
+	<game name="div103b\divgamestudio" sha1="9ea3a996856197f941bb0bd35f9761094a6e51de" size="21793431" crc="030a1a60" fullsha1="8fe4e601ca118bca1e45e61adcbbc9f49daa371e" dataSha1="f56c105db6f774babc31af79dd5823c2d6f3b7f3">
+		<category>Games</category>
+		<description>div103b\divgamestudio</description>
+		<rom name="divgamestudio (Track 01).bin" size="66394112" crc="2423bdeb" md5="832c154f2385b05f0c4a602e6d063897" sha1="76074b4471afd495cfb753b9f94fd1f3b4f4d5a0"/>
 	</game>
 	<game name="dobupanic\bpanic" sha1="3a90680108ccafc7e352992faed58eb816c3c51a" size="20783661" crc="4bcc02a8" fullsha1="141b67f93b4d96be7c064d3603a5b961ed56f23b" dataSha1="53d25921c32fa087079306e9535d76088937d752">
 		<category>Games</category>

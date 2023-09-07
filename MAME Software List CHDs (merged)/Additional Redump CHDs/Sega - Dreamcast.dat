@@ -2,10 +2,10 @@
 <!DOCTYPE datafile PUBLIC " -//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
-		<name>Sega - Dreamcast - Redump</name>
-		<description>Sega - Dreamcast - Redump</description>
-		<version>0.257</version>
-		<date>2023-08-02</date>
+		<name>Sega - Dreamcast</name>
+		<description>Sega - Dreamcast</description>
+		<version>0.258</version>
+		<date>2023-09-07</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -13917,6 +13917,12 @@
 		<rom name="Totsugeki! Teketeke!! Toy Ranger (Japan) (En,Ja,Fr,Es) (Track 13).bin" size="41185872" crc="46a0f56d" md5="e5413740850125b48d63f4faed217beb" sha1="def9568bf71cfac56e1b53fa44a505def227c0f1"/>
 		<rom name="Totsugeki! Teketeke!! Toy Ranger (Japan) (En,Ja,Fr,Es) (Track 14).bin" size="7399392" crc="3399d5a8" md5="1dc7d0ceddcfc3107d71f49cf9e5ca17" sha1="d529ff8e6caf24171424c5d65fbea6197f395f84"/>
 		<rom name="Totsugeki! Teketeke!! Toy Ranger (Japan) (En,Ja,Fr,Es) (Track 15).bin" size="477750000" crc="270085c3" md5="77138cda581e8a027d188970438bcfef" sha1="30bf2e8cc5c03732082f219c75acd1bfbac142f3"/>
+	</game>
+	<game name="Tough Guy (USA, Japan) (Unl)" sha1="14405530b24159e3ad236f2fbe1737f9ae4ca8c4" size="21868745" crc="e6c629fe" fullsha1="d097b71e391c625f2680c5196b084c6aa52043f9" dataSha1="acef9b7240643c161cd05aec244282fdb074f988">
+		<category>Games</category>
+		<description>Tough Guy (USA, Japan) (Unl)</description>
+		<rom name="Tough Guy (USA, Japan) (Unl) (Track 01).bin" size="10633392" crc="eabd310b" md5="4ac084407ed499d1ab84509fe55bf096" sha1="77f7e7298b627c9e2b8d44f83bb3cf4efc7054e6"/>
+		<rom name="Tough Guy (USA, Japan) (Unl) (Track 02).bin" size="670390560" crc="c6ae014a" md5="77773bde541498556fcb42b5cda69caf" sha1="2fc101e775ddd882ac7e4a335319a753b4379664"/>
 	</game>
 	<game name="Toy Commander (Europe) (En,Fr,De,Es)" sha1="4872dc5e4f95f9db35b476a186fe21091adb7387" size="563324073" crc="8a9d074f" fullsha1="972dc7f08604719af3ee3e6b714beb624392d967" dataSha1="ea71137b1c20079491899c9b6751103f783582d1">
 		<category>Games</category>

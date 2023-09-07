@@ -2,10 +2,10 @@
 <!DOCTYPE datafile PUBLIC " -//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
-		<name>Commodore - Amiga CD32 - Redump</name>
-		<description>Commodore - Amiga CD32 - Redump</description>
-		<version>0.257</version>
-		<date>2023-08-02</date>
+		<name>Commodore - Amiga CD32</name>
+		<description>Commodore - Amiga CD32</description>
+		<version>0.258</version>
+		<date>2023-09-07</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -311,6 +311,16 @@
 		<category>Games</category>
 		<description>Deep Core (Europe) (v1.00)</description>
 		<rom name="Deep Core (Europe) (v1.00) (Track 01).bin" size="6150480" crc="9ddb1d63" md5="9d89f166b73664e4dbb629b786fb1620" sha1="525baa34d8782ca68da027950abf8446e78033fa"/>
+	</game>
+	<game name="Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 2.0 (Europe)" sha1="8b8f3334abe5f376ce4eb414aac4df39c46e6bc8" size="391619216" crc="86b3c9a4" fullsha1="f79778b5bc17e70610bdf6fe1de64554c88b9d80" dataSha1="5621ad94907f80fa3676558482cbb7ed1788ba27">
+		<category>Games</category>
+		<description>Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 2.0 (Europe)</description>
+		<rom name="Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 2.0 (Europe) (Track 01).bin" size="515393760" crc="7120a9e6" md5="cc58111ff7c5333446114a2a6f75552b" sha1="155bbcda15125eff447a1524e070afe043c70899"/>
+		<rom name="Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 2.0 (Europe) (Track 02).bin" size="43987104" crc="4b6b92af" md5="7e9cd9ae6c948fd1c6e0ac9dc2ad31d4" sha1="61eeaf31563556c0f7f2ff5e0de3e082e4169224"/>
+		<rom name="Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 2.0 (Europe) (Track 03).bin" size="21379680" crc="398be711" md5="d1411f90872532dd241cfe99d5f052c8" sha1="786dcbdac6dd375088708febebaa4aa659568a19"/>
+		<rom name="Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 2.0 (Europe) (Track 04).bin" size="41378736" crc="67ffc6b7" md5="80bf516261ba9e0559827e94ac74ce15" sha1="efd50f25300143770468c0bad9f57379ffcd1a1d"/>
+		<rom name="Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 2.0 (Europe) (Track 05).bin" size="13145328" crc="78e32471" md5="2537e7f567c3af0a29279bf8dcb92b48" sha1="b7e7b599afc8dbb13c0f06c535cbc256a26608db"/>
+		<rom name="Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 2.0 (Europe) (Track 06).bin" size="13227648" crc="bc7c8938" md5="ae61659ea69688fe7372ea399238ee4a" sha1="8dc36d9fbd3f07bd568aa097e206ffe162f655fa"/>
 	</game>
 	<game name="Dennis (Europe)" sha1="2c0a6ef3d3c82ab35f628062994e6a3584724cd9" size="121572142" crc="64756523" fullsha1="81efa230b92b0bbf7ec36d0f2002af144d3d8571" dataSha1="b2b107e0d6e185fb380405fe154fc70bba69495f">
 		<category>Games</category>
@@ -1051,6 +1061,18 @@
 		<rom name="Sensible Soccer - European Champions (Europe) (En,Fr,De,It) (Track 20).bin" size="4120704" crc="ab92e67a" md5="1b7f7c7133da2cb178b439806d2ecaf4" sha1="4acf19cb8ba309164015be42fcb6ef833919a9d8"/>
 		<rom name="Sensible Soccer - European Champions (Europe) (En,Fr,De,It) (Track 21).bin" size="8787072" crc="05cc4cda" md5="201f5a02688deec138a9402a746b4a2d" sha1="d6a06550327379224aa0171afb1ba50116765a98"/>
 		<rom name="Sensible Soccer - European Champions (Europe) (En,Fr,De,It) (Track 22).bin" size="6228096" crc="949340c8" md5="e29c46a1cfb49214c80eccbb08453262" sha1="2f8d9b7b36cd304044b8bf52f775e4db0206bf7e"/>
+	</game>
+	<game name="Sleepwalker (Europe)" sha1="c846ec2df82f4ea7bc5693758c589f2ad4aeefa7" size="217022339" crc="dce2af6a" fullsha1="1974d8d84b365be4f82cb1c58fc0c1907c860683" dataSha1="0774a72a45dda6c619404126acb83aaecf215426">
+		<category>Games</category>
+		<description>Sleepwalker (Europe)</description>
+		<rom name="Sleepwalker (Europe) (Track 01).bin" size="66992016" crc="2a418843" md5="d023bf60456b1c115090c9693db9e9db" sha1="f0abc1caaca523f5aacc1db3d7313357c7671e1b"/>
+		<rom name="Sleepwalker (Europe) (Track 02).bin" size="53919600" crc="1280f596" md5="31cd7c8fc43c7547b455e82e8c0141b3" sha1="ccabd9a09d74e365ed2781b283c89ba19761a212"/>
+		<rom name="Sleepwalker (Europe) (Track 03).bin" size="51137184" crc="dd5659ba" md5="7623b1156457f0efbf0ff04981332c0b" sha1="d0e3be8f2b23284162ddf4878a17d5b34fc61a4b"/>
+		<rom name="Sleepwalker (Europe) (Track 04).bin" size="49822416" crc="2815e26e" md5="17a5209fefd8f6e67867e40161291b6c" sha1="8b5a66cb58e9fbc8574c24b6904477fded3e063b"/>
+		<rom name="Sleepwalker (Europe) (Track 05).bin" size="48745200" crc="c8e08b28" md5="af52fd3378ed9ae9ff6359dddee969c0" sha1="2af5b53b4cdd6530d02cd68fc1b869e7e928a860"/>
+		<rom name="Sleepwalker (Europe) (Track 06).bin" size="50713824" crc="4bac413f" md5="a0dfdcf4715e718ea325077833e37b24" sha1="3e884b93062cfad76058fea73259c63e6da8c6a9"/>
+		<rom name="Sleepwalker (Europe) (Track 07).bin" size="46188576" crc="f399849c" md5="0b28b605e868dd24e0e2f59d3e5cd5d0" sha1="d6b2b767a8b7cf91bd06ba509f2d78cefab23217"/>
+		<rom name="Sleepwalker (Europe) (Track 08).bin" size="14029680" crc="d66ca015" md5="8d4012854ff0442400ebae72b0ec0045" sha1="d2a4db16aee285b7b8169cf57f4ae6ab400503e7"/>
 	</game>
 	<game name="Soccer Kid (Europe) (En,Fr,De,Es,It)" sha1="fc1d1a5c6c75a47917eb6946d9baeec20eefcc72" size="441847621" crc="fc159c84" fullsha1="6ad84b77fabae132abf1d47084347e2f174b4f68" dataSha1="f2aa10c08f7d9d0639e4fb003f4c44e213d98c1c">
 		<category>Games</category>

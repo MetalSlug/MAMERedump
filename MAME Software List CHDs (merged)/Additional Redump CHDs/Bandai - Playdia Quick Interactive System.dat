@@ -4,8 +4,8 @@
 	<header>
 		<name>Bandai - Playdia Quick Interactive System</name>
 		<description>Bandai - Playdia Quick Interactive System</description>
-		<version>0.257</version>
-		<date>2023-08-02</date>
+		<version>0.258</version>
+		<date>2023-09-07</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -92,12 +92,6 @@
 		<rom name="Ie Naki Ko - Suzu no Sentaku (Japan) (Track 01).bin" size="9878400" crc="6e73e3a3" md5="c6fe2111b20c921e1e116a1b4c889d55" sha1="14141762e10cfd63b56021653c07040c7a185d6d"/>
 		<rom name="Ie Naki Ko - Suzu no Sentaku (Japan) (Track 02).bin" size="756720720" crc="38e36136" md5="146560d0a4fae1f7f8af805a96ac555d" sha1="4768ae74ac9ca729ef95fe427c69a7450e6849b5"/>
 	</game>
-	<game name="Kero Kero Keroppi - Uki Uki Party Land (Japan)" sha1="9c27b85156f023858b793ffb0b8fc571b970fb88" size="616397524" crc="d0c10452" fullsha1="e983a40f2b45bcf0913807b06dece194c3a1a3f5" dataSha1="fbc37e43e5b3f24cc3a10aee7528e6ff0bb28a10">
-		<category>Games</category>
-		<description>Kero Kero Keroppi - Uki Uki Party Land (Japan)</description>
-		<rom name="Kero Kero Keroppi - Uki Uki Party Land (Japan) (Track 01).bin" size="9878400" crc="9cbec8b5" md5="7637aef9cbcc91775310971bc47c26ad" sha1="03d2048f88e1eeebb2cc71d3935f235f2c990542"/>
-		<rom name="Kero Kero Keroppi - Uki Uki Party Land (Japan) (Track 02).bin" size="772549680" crc="7e5fa6cb" md5="3a9f2615c1a2b5de3831fb1425535570" sha1="020aa03f4a3dd20b287cf8a8f00f14d86f3e237a"/>
-	</game>
 	<game name="Kero Kero Keroppi - Uki Uki Party Land!! (Japan)" sha1="9c27b85156f023858b793ffb0b8fc571b970fb88" size="616397524" crc="d0c10452" fullsha1="e983a40f2b45bcf0913807b06dece194c3a1a3f5" dataSha1="fbc37e43e5b3f24cc3a10aee7528e6ff0bb28a10">
 		<category>Games</category>
 		<description>Kero Kero Keroppi - Uki Uki Party Land!! (Japan)</description>
@@ -110,12 +104,6 @@
 		<rom name="Mari-nee no Heya (Japan) (Track 01).bin" size="9878400" crc="e5fe54be" md5="e020c6cec294ecd0e02ad7729daf0e86" sha1="7d8b42557dd0b1e8c54bf5f1d6fff78284ab5c03"/>
 		<rom name="Mari-nee no Heya (Japan) (Track 02).bin" size="194134080" crc="b44192a1" md5="c5b60d679e8c900e7211967640af22ac" sha1="74a638700660740024a5aaf7fd711fa8fdfb7fe7"/>
 	</game>
-	<game name="Mari-nee no Heya (Japan) (Bundled with [QIS] Elements Voice Series - Mariko Kouda - Welcome to the Marikotown!)" sha1="5c8552b97f7db467a82ce20cbd7ac7e6ebb6d39a" size="164565247" crc="5a886e30" fullsha1="a3e00341ddee238af808cd7b7fa69c4c422f2fe9" dataSha1="6bf0441c2abb57b672f9df90a92b9fac8f393feb">
-		<category>Games</category>
-		<description>Mari-nee no Heya (Japan) (Bundled with [QIS] Elements Voice Series - Mariko Kouda - Welcome to the Marikotown!)</description>
-		<rom name="Mari-nee no Heya (Japan) (Bundled with [QIS] Elements Voice Series - Mariko Kouda - Welcome to the Marikotown!) (Track 01).bin" size="9878400" crc="e5fe54be" md5="e020c6cec294ecd0e02ad7729daf0e86" sha1="7d8b42557dd0b1e8c54bf5f1d6fff78284ab5c03"/>
-		<rom name="Mari-nee no Heya (Japan) (Bundled with [QIS] Elements Voice Series - Mariko Kouda - Welcome to the Marikotown!) (Track 02).bin" size="194134080" crc="b44192a1" md5="c5b60d679e8c900e7211967640af22ac" sha1="74a638700660740024a5aaf7fd711fa8fdfb7fe7"/>
-	</game>
 	<game name="Newton Museum - Kyoryu Nendaiki Kohen (Japan)" sha1="e60717b080abb89f20e2d8bbf3467ac6c82a3f6d" size="502142188" crc="bc10dbaa" fullsha1="f207e3576e67eb936134d61ed65c8f7a90a04ba8" dataSha1="3dffa1f0b3404ca0143183210bf9f423ae3b952b">
 		<category>Games</category>
 		<description>Newton Museum - Kyoryu Nendaiki Kohen (Japan)</description>
@@ -127,12 +115,6 @@
 		<description>Newton Museum - Kyoryu Nendaiki Zenpen (Japan)</description>
 		<rom name="Newton Museum - Kyoryu Nendaiki Zenpen (Japan) (Track 01).bin" size="9878400" crc="21657d5a" md5="a7fc60a2c9cd7ecbded2002ab2dd2e22" sha1="420b7e284c41a9458e04b005ea7a474921243299"/>
 		<rom name="Newton Museum - Kyoryu Nendaiki Zenpen (Japan) (Track 02).bin" size="762377280" crc="389967f4" md5="44d367feff60a2aec901584e3c21d661" sha1="89720fedcd4b225dd162a3a230fa798021944d0f"/>
-	</game>
-	<game name="Nintama Rantarou - Hajimete Oboeru Chishiki-hen (Japan)" sha1="a7470152ff3a8628cbdf5eb8686f17dfc912ae4f" size="605900321" crc="f3a09b25" fullsha1="f831b0cc6dda6913b7e016ccb85e57cbf305d66d" dataSha1="a3417e337a2a2d4c378332a940db860b97ff420d">
-		<category>Games</category>
-		<description>Nintama Rantarou - Hajimete Oboeru Chishiki-hen (Japan)</description>
-		<rom name="Nintama Rantarou - Hajimete Oboeru Chishiki-hen (Japan) (Track 01).bin" size="9878400" crc="4b2ab8a4" md5="6d8a6944aafbc41ce43d795bbf7bb0e0" sha1="95dda81ef95a2161c44ff8c3ec537510b90c699d"/>
-		<rom name="Nintama Rantarou - Hajimete Oboeru Chishiki-hen (Japan) (Track 02).bin" size="759225600" crc="7622177c" md5="0ac68192e92c101ae1406b678412f02b" sha1="71e4b471a07afbffa20a6c15d651f2d6bb03e898"/>
 	</game>
 	<game name="Norimono Banzai!! Densha Daishuugou!! (Japan)" sha1="ae8346cb4c0d1f94d6417698e622529cde85bf5d" size="440497412" crc="27faf433" fullsha1="c9e6d535a87f96ed47505ab397e92006c4fa91b7" dataSha1="96e1ca5a97319e9e552c88cff366786542e21c25">
 		<category>Games</category>
