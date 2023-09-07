@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+  <header>
+    <name>VM Labs - NUON</name>
+    <description>MAME Redump - VM Labs - NUON - Discs (9) (2023-03-09 17-17-27)</description>
+    <version>0.257</version>
+    <date>2023-09-07</date>
+    <author>MAME Redump</author>
+    <url>https://github.com/MetalSlug/MAMERedump</url>
+  </header>
+  <game name="VM Labs - NUON">
+    <description>MAME Redump - VM Labs - NUON - Discs (9) (2023-03-09 17-17-27)</description>
+    <rom name="Ballistic (USA, Europe).chd" size="104976478" crc="83784DFD" sha1="886D4392095CF6CE72CDCF6904391CC07D4B4D10" />
+    <rom name="Freefall 3050 A.D. (USA, Europe).chd" size="944896166" crc="FE17D992" sha1="F4E881742F424D6D19BA48D141A8F5C79153BFA5" />
+    <rom name="Iron Soldier 3 (USA).chd" size="1410167826" crc="3807A7D2" sha1="B69D95A7A9B773ED53699CD8E77D1500C7B6FB99" />
+    <rom name="Merlin Racing (USA, Europe).chd" size="400332850" crc="028C7B06" sha1="21F4D8EAA85E2CF9781A0ED585C024A2538C4604" />
+    <rom name="Next Tetris, The (USA).chd" size="2482028005" crc="AEBB3985" sha1="B6B90111DEB65736727B67B9685977917ADED06B" />
+    <rom name="Space Invaders XL (USA).chd" size="249097071" crc="61CB47F7" sha1="4F73D87667D03F4BF83A194EE9A06B246B1AC30D" />
+    <rom name="Tempest 3000 (USA, Europe).chd" size="582716916" crc="77AC0FD6" sha1="3551104FA1BBD346699F3F58E84C6B0A2E1DEEB2" />
+  </game>
+</datafile>

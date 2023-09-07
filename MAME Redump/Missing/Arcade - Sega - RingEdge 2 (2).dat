@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+  <header>
+    <name>Arcade - Sega - RingEdge 2</name>
+    <description>MAME Redump - Arcade - Sega - RingEdge 2 - Discs (7) (2020-01-21 02-01-20)</description>
+    <version>0.257</version>
+    <date>2023-09-07</date>
+    <author>MAME Redump</author>
+    <url>https://github.com/MetalSlug/MAMERedump</url>
+  </header>
+  <game name="Code of Joker (Japan) (Rev C)">
+    <description>Code of Joker (Japan) (Rev C)</description>
+    <rom name="Code of Joker (Japan) (Rev C).iso" size="7298547712" crc="A48B8F7A" md5="D0A26F0DC4533CA60411F7960010FC78" sha1="E0DE5F59073565D8F34130ED0737C10EC6E5F2EC" />
+  </game>
+  <game name="Code of Joker (No. 2) (Japan) (Rev F)">
+    <description>Code of Joker (No. 2) (Japan) (Rev F)</description>
+    <rom name="Code of Joker (No. 2) (Japan) (Rev F).iso" size="4140040192" crc="C41CA3DD" md5="44C4D517B2155FFFAC0E04FA9093D0D6" sha1="A34C3B5F736685EBAB3FD110426309B1846725D0" />
+  </game>
+</datafile>
