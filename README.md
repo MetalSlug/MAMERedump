@@ -77,7 +77,7 @@ Phillips - CD-I|2023-07-28|2080|25|588 GB|cdi|135 GB
 **PlayStation GameShark Updates**|2023-07-02|29|0|507 MB||
 Pocket PC|2023-07-18|51|1|7 GB||
 Sega - Dreamcast|2023-07-19|2066|2|830 GB|dc|72 GB
-Sega - Mega-CD - Sega CD|2023-07-22|807|1|186 GB|megacd, megacdj, segacd|12 GB
+Sega - Mega-CD - Sega CD|2023-07-22|807|1|186 GB|megacd, megacdj, segacd|62 GB
 **Sega - Prologue 21**|2021-10-04|30|0|17 GB||
 **Sega - Saturn**|2023-07-09|4411|0|1 TB|saturn|131 GB
 **Sharp - X68000**|2022-07-24|28|0|6 GB||
@@ -92,5 +92,3 @@ VM Labs - NUON|2023-03-09|7|2|6 GB|nuon|6 GB
 **VTech - V.Flash & V.Smile Pro**|2023-03-10|54|0|9 GB|vsmile_cd|4 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2021-10-06|16|0|49 GB||
 Total||36644|63316|20 TB||1 TB
-
-
