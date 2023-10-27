@@ -4,7 +4,7 @@
 	<header>
 		<name>ibm5170_cdrom</name>
 		<description>ibm5170_cdrom</description>
-		<version>0.258</version>
+		<version>0.260</version>
 		<date>2023-09-07</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -692,6 +692,11 @@
 		<description>bermusynd\bermuda syndrome (1995)(bmg interactive entertainment)(de)</description>
 		<rom name="bermuda syndrome (1995)(bmg interactive entertainment)(de) (Track 01).bin" size="332109824" crc="5c515d4e" md5="df76e0f62a2e70340d8641c8eadf2346" sha1="f080f2950cbefc29971923fdae23c5d4d31f4be3"/>
 	</game>
+	<game name="bestof2\best_of_the_best_vol_2" sha1="f4455f85472e0253e80e00cc0d45191afad2a2c4" size="45136237" crc="a5a5b096" fullsha1="4e698516d0a6676c25c3d3fa26b65fe0ce20f52b" dataSha1="db14dc529d72b102fc03a7b8fd0344f06809d957">
+		<category>Games</category>
+		<description>bestof2\best_of_the_best_vol_2</description>
+		<rom name="best_of_the_best_vol_2 (Track 01).bin" size="86368256" crc="98642220" md5="32923e3609cb6d53f2c2c34f551c9696" sha1="12e1aa33ebae012244d778d4fde83a37de76363a"/>
+	</game>
 	<game name="bfchess\bobby fischer teaches chess (1996)(interplay)(en-fr)" sha1="2f8f743eae211c38ff8e77e331f4435b69dc9eb7" size="49422451" crc="acb7528c" fullsha1="2c178eaaf9a21fdf2847b37fdaa5ad2d8fbddafb" dataSha1="fbef19b1cdf4fcb53cfda3e64d09ff4f701fc032">
 		<category>Games</category>
 		<description>bfchess\bobby fischer teaches chess (1996)(interplay)(en-fr)</description>
@@ -731,6 +736,21 @@
 		<category>Games</category>
 		<description>bladerun\blade runner (1997)(virgin)(disc 4 of 4)</description>
 		<rom name="blade runner (1997)(virgin)(disc 4 of 4) (Track 01).bin" size="580835328" crc="f0617aad" md5="1cdab72d1c749dc3f432bc3dcb7ff490" sha1="389818a46111f130388245777245d03eaa056e5d"/>
+	</game>
+	<game name="blindnes\blindness_cd1_[pc_ita]" sha1="930e05276e5112ce28710b85104c4d511debde64" size="616622962" crc="3124b990" fullsha1="21804a294e2555c699b32cd0a8c191c430ad1323" dataSha1="9f64e8ad4ff9c65a142cfb4700c7cae93baf3964">
+		<category>Games</category>
+		<description>blindnes\blindness_cd1_[pc_ita]</description>
+		<rom name="blindness_cd1_[pc_ita] (Track 01).bin" size="779544528" crc="ada1adf1" md5="02840741c6b89fe2f14b806f73115332" sha1="75285b6064816676c43c38aab7fd2c2920a68f0f"/>
+	</game>
+	<game name="blindnes\blindness_cd2_[pc_ita]" sha1="f6a8196db4bd108bd4658ab94591d36094c78a4f" size="608275297" crc="270589e7" fullsha1="d44027d0ab4ba20efe1bdd843576b73dbca9666e" dataSha1="16ee3f821a4f1a345cf276f0057d8311993726bb">
+		<category>Games</category>
+		<description>blindnes\blindness_cd2_[pc_ita]</description>
+		<rom name="blindness_cd2_[pc_ita] (Track 01).bin" size="751593360" crc="90b9eec8" md5="6feb7468aefce273c41161625f78ef47" sha1="cb3f78539fbee5f00c755a8dd61f19d85a85c1ec"/>
+	</game>
+	<game name="blindnes\blindness_cd3_[pc_ita]" sha1="fe730e96f3d8c799340f2610628bbaa00e77a1e1" size="622387694" crc="b618f390" fullsha1="198059bc026de5fb246783f249b756f2969c2a77" dataSha1="87d007933431378047428c50ca80ae99076030ba">
+		<category>Games</category>
+		<description>blindnes\blindness_cd3_[pc_ita]</description>
+		<rom name="blindness_cd3_[pc_ita] (Track 01).bin" size="767831568" crc="3080c961" md5="b4f8b7f9ac9db7805208f3e5efca4944" sha1="ae4bdd2ae20045a4a3fad431ea00d215eea8cf9a"/>
 	</game>
 	<game name="bloodbwl\blood bowl (1995)(microleague)" sha1="5f9f0ddfd4daadec0c3cfb2bd4665befe866400e" size="23736015" crc="187427b9" fullsha1="d961b1455a71ee318367f6f6d030d5742656ddb6" dataSha1="f4a1ab9f56fcf85b5ca0ffbbcffd913aefddd4c2">
 		<category>Games</category>
@@ -1545,6 +1565,11 @@
 		<description>heavybarrelcd\heavybarrel_cd</description>
 		<rom name="heavybarrel_cd (Track 01).bin" size="1239040" crc="a9510dc8" md5="509c3dd2d30fb24d483c8285aea15c60" sha1="609d186b01197d971d0c1a20dc8954f79dac80d9"/>
 	</game>
+	<game name="heromm1\heroes_of_might_and_magic_(usa)" sha1="eaf7398a99e2c529be9e661d91cec5666712171d" size="363334348" crc="c1f3352a" fullsha1="e8734799184c2114944e5ee62e3609f64a131b35" dataSha1="fa033f16bac61a4b2590572bc9d6cabfbfe74abe">
+		<category>Games</category>
+		<description>heromm1\heroes_of_might_and_magic_(usa)</description>
+		<rom name="heroes_of_might_and_magic_(usa) (Track 01).bin" size="551882688" crc="910a4497" md5="3b8ac0ce84f0b1b0603205c1624d51f0" sha1="6e36fcfbf4c3370fe5a04166449ecc2141454540"/>
+	</game>
 	<game name="hocuspoc\Hocus Pocus (Europe)" sha1="73438f2704454644a735db7000a673320528b888" size="1374567" crc="003a69c3" fullsha1="bfd4f851c81965448daf9e2087723c50ec8a7ed8" dataSha1="1a72fdcc5eb335f62bd14df92ebccf58f08a5211">
 		<category>Games</category>
 		<description>hocuspoc\Hocus Pocus (Europe)</description>
@@ -1950,6 +1975,11 @@
 		<category>Games</category>
 		<description>managerd\bundesliga manager professional (1996)(software 2000)(de)[budget]</description>
 		<rom name="bundesliga manager professional (1996)(software 2000)(de)[budget] (Track 01).bin" size="3469312" crc="5d76cc59" md5="df7b0434b9025579dc38392b1e9d4201" sha1="6b02202a174242c48d4f246be2ff483336e6a7f3"/>
+	</game>
+	<game name="mgamil1\matroxmil1" sha1="8f8efb970924f80b005d8581d6225a4299d9741a" size="105382917" crc="ebdf806d" fullsha1="f3d826066dafb3e9eb3a0a7f5eaabc97642dd714" dataSha1="d3baf85d2a20f77c60fe96db6aa4f3de0098a391">
+		<category>Games</category>
+		<description>mgamil1\matroxmil1</description>
+		<rom name="matroxmil1 (Track 01).bin" size="165652480" crc="1eb839c1" md5="c977797bb434ca99baded6ed9edb2a7b" sha1="f0c1b44dc84c563c8c64cd8ce1caf8851c05d70f"/>
 	</game>
 	<game name="monkeymd\Monkey Island Madness (USA)" sha1="7a2276bb32d7172f6b2037249c5259155c1e0617" size="296337134" crc="c8b5099d" fullsha1="2749dffef8844ef0edffb206a7d127b9fe3d34fb" dataSha1="0a009a4658b59282ba223e97e519d76d15695ca6">
 		<category>Games</category>

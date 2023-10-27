@@ -4,7 +4,7 @@
 	<header>
 		<name>Commodore - Amiga CD32</name>
 		<description>Commodore - Amiga CD32</description>
-		<version>0.258</version>
+		<version>0.260</version>
 		<date>2023-09-07</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -287,6 +287,34 @@
 		<rom name="Chaos Engine, The (Europe) (Spectacular Voyage) (Track 12).bin" size="44311680" crc="b6a2c275" md5="711b4b006427c2e2ea82ad8dc5ebe805" sha1="35a2e7fb019b036ffed5baff477134a575ba0f97"/>
 		<rom name="Chaos Engine, The (Europe) (Spectacular Voyage) (Track 13).bin" size="44462208" crc="1d5c1ae4" md5="8480b6ed806f9610e1226b94f72822f8" sha1="3eb84b18e55eb40414a0f5ccba8dfe73db307496"/>
 		<rom name="Chaos Engine, The (Europe) (Spectacular Voyage) (Track 14).bin" size="36408960" crc="597624e5" md5="97e12bbfbee19886dc2d7400b5fefe62" sha1="4be6f1c186d04db3b7d1d782668893fd1b25748b"/>
+	</game>
+	<game name="Clou!, Der (Germany)" sha1="bd254722ff8b7884e475d96b5e4832d92b078ddc" size="141964613" crc="8bf80a3f" fullsha1="c69b986edd65a2b3bd02aa1fba45309b5fbb6d93" dataSha1="80a715202f5ee5fc7121c4dc2ef5acb1a4bb17a2">
+		<category>Games</category>
+		<description>Clou!, Der (Germany)</description>
+		<rom name="Clou!, Der (Germany) (Track 01).bin" size="20815200" crc="531b9029" md5="76be514ca85f02b1353d16626f044c0f" sha1="46a97793e540eab1738afcd6efd020a68247bb0d"/>
+		<rom name="Clou!, Der (Germany) (Track 02).bin" size="342291264" crc="98e36920" md5="13d7a303e5b04a72b51fa634023740ce" sha1="0a7b62fc5646898dc1d29c4d703ace8d3687701e"/>
+		<rom name="Clou!, Der (Germany) (Track 03).bin" size="2711856" crc="a94aa293" md5="7d8bc312cada1f7bb236cb534b7d5519" sha1="a8840093d60d74cbad5087ca439c0d767acb5b3a"/>
+		<rom name="Clou!, Der (Germany) (Track 04).bin" size="2598960" crc="fcb0a7b0" md5="e597e8312d8019944e72d926427532bf" sha1="4239712c1798ecb774bfc2f3238d140debbe28be"/>
+		<rom name="Clou!, Der (Germany) (Track 05).bin" size="2086224" crc="fe1fdd19" md5="73399a0dce2fc9c99d2d1dd6c21f7859" sha1="3db61c5154b863bf74292abb64760174d6846140"/>
+		<rom name="Clou!, Der (Germany) (Track 06).bin" size="2029776" crc="154c0ff8" md5="2646684f927935bc04285da68461764b" sha1="9a92a716f967826cbefae22d91bcc6e5b7720d83"/>
+		<rom name="Clou!, Der (Germany) (Track 07).bin" size="1886304" crc="bd83a96c" md5="6ebca4bc633b45f7af94f1ccd14e2a30" sha1="957a029a33f622997130f01b096720b17e0fec89"/>
+		<rom name="Clou!, Der (Germany) (Track 08).bin" size="3793776" crc="b40cb53e" md5="eb2f2820d3e15e342cdd7f53d6584ac2" sha1="8676daa9db8176e120dbbb12d062a1ba0cdcb672"/>
+		<rom name="Clou!, Der (Germany) (Track 09).bin" size="2215584" crc="da512211" md5="7ab6acc829a0e40a1985dfb363ed720c" sha1="e15f1bd91978caa8c123f7a1590149f53133f6bd"/>
+		<rom name="Clou!, Der (Germany) (Track 10).bin" size="2140320" crc="0e577de2" md5="b169b0a80b9302ad64a2a1a3069848c9" sha1="680c472cc73f41d1c668c4aea5591ab8394c362f"/>
+		<rom name="Clou!, Der (Germany) (Track 11).bin" size="2476656" crc="7f4546d0" md5="5ae7060d6b623405669bdff3d46fd7f2" sha1="3d08abb90811b34831850c7bc87fc1980e883a8f"/>
+		<rom name="Clou!, Der (Germany) (Track 12).bin" size="3939600" crc="9334889b" md5="3c8e4c0cd5359aba767f1e965a6db955" sha1="aa256a1692e8cc781b5f5630b8eca4836d71b84d"/>
+		<rom name="Clou!, Der (Germany) (Track 13).bin" size="1545264" crc="6c23ceb0" md5="2a93154a973b7114205df39e50d35b45" sha1="c422725dd961cb67787bfccdd140dac96b81e8c8"/>
+		<rom name="Clou!, Der (Germany) (Track 14).bin" size="3010560" crc="047aaf59" md5="81d4abac8b93fa9ce24aa5ac373411a6" sha1="02bf32883be96242b62d8c0a7bf715a66bf69071"/>
+		<rom name="Clou!, Der (Germany) (Track 15).bin" size="2010960" crc="e02d9123" md5="a0c8a01d76aefd16bdfb964af60b9e84" sha1="3e2374a22ebb513cc4fa50229568f861f0458cc3"/>
+		<rom name="Clou!, Der (Germany) (Track 16).bin" size="2140320" crc="10b20ec1" md5="2adfedcabf53ff7b2652349c23451ace" sha1="74bedfb63c79b5124051c9bddf31b7e92378e907"/>
+		<rom name="Clou!, Der (Germany) (Track 17).bin" size="2312016" crc="126fab33" md5="173ed5b7a5d6490c59e46a367a3a8554" sha1="351f18693ef552199dec1e240a77dc6aaaf09382"/>
+		<rom name="Clou!, Der (Germany) (Track 18).bin" size="2145024" crc="37aed7de" md5="5ace82f361b6301e0baded77b39761fb" sha1="efb021f424d53bccdd8832f01c7db1ab6c66ad5f"/>
+		<rom name="Clou!, Der (Germany) (Track 19).bin" size="3081120" crc="8c6d5d0b" md5="7db325a31149f64eea0bf20d559efc3b" sha1="afa23b209f4afe89b202484916d604c02aa9c8d2"/>
+		<rom name="Clou!, Der (Germany) (Track 20).bin" size="2575440" crc="177eee37" md5="581d82de9183ef9635099dd5dbf7db6c" sha1="ee3618d7d82e3743e10271e898e5e578f94edab5"/>
+		<rom name="Clou!, Der (Germany) (Track 21).bin" size="2046240" crc="e685ed2d" md5="d06770c3c1da71249e0ea4b012134e15" sha1="a56aae306136047d26b19f44cff1980b0b2be6c9"/>
+		<rom name="Clou!, Der (Germany) (Track 22).bin" size="2328480" crc="d5eb5f5e" md5="838147301133a57295735e5720c5a80c" sha1="6ac0bce7d9e515bc218f0de54609f0754b2cda4f"/>
+		<rom name="Clou!, Der (Germany) (Track 23).bin" size="4280640" crc="44983aac" md5="0aaaf106654513142b53b640a993dcfe" sha1="0f9b9110f3b32ae2b7cd25429e15958f118bd465"/>
+		<rom name="Clou!, Der (Germany) (Track 24).bin" size="2676576" crc="ab444917" md5="4ae26daf1386b47f3eb819fb0fb64dae" sha1="0ae8ee704178a51879e911509c7bbf3ef47d8211"/>
 	</game>
 	<game name="Communicator (Germany) (En,De)" sha1="add42db4ec543f50128eb055bc259839abe2a374" size="1580767" crc="fb60ee6d" fullsha1="9bbda0147470247d147d85e28189133e1f899588" dataSha1="cb19cc6a1993ed718f17543d7d65b244f65fd763">
 		<category>Games</category>
@@ -1127,6 +1155,19 @@
 		<rom name="Speedball 2 (Europe) (Track 18).bin" size="3368064" crc="883ee7ec" md5="ad422a5fa0168a0cfd0946ecb742ac52" sha1="9fb71e24ea65df4bf281dc08de8a5fa27a5070fc"/>
 		<rom name="Speedball 2 (Europe) (Track 19).bin" size="18943008" crc="aaac36d3" md5="0b267b3c6dbbe86870291291cb974fec" sha1="790d08e354e1ebcda264c63d421387f76a9cd120"/>
 	</game>
+	<game name="Striker (Europe)" sha1="4b0e5abb94e2bf4aae92e5a035342fabbe86213c" size="125610086" crc="62f48098" fullsha1="0f66bb7c36f8ace02657c5c2d171773b3b8d0de2" dataSha1="f09d38ead4e721248215dc760941cddac0001e8d">
+		<category>Games</category>
+		<description>Striker (Europe)</description>
+		<rom name="Striker (Europe) (Track 01).bin" size="91680960" crc="fd0803e5" md5="be2a83de5520e16d519308ad59c01848" sha1="853fb348672e74cf725617f4a71db9fa596d7cf1"/>
+		<rom name="Striker (Europe) (Track 02).bin" size="22932000" crc="1e220565" md5="a80017a09b25aad60f2534d0ee09f898" sha1="ee7ad0a1f6bb1517c4e4c2d6b4b9958c28657965"/>
+		<rom name="Striker (Europe) (Track 03).bin" size="22579200" crc="b27dbf53" md5="ce6dc91fc4aa0a3e554d48b20af5bc91" sha1="7b82d31b4d1bfec4ebc2d80949f3018cf48bbbea"/>
+		<rom name="Striker (Europe) (Track 04).bin" size="22579200" crc="240ab5e9" md5="c1367aae0bbae9413563d87ab9783f56" sha1="8561b7209935d0143bfa380c71168184cd4ef0d4"/>
+		<rom name="Striker (Europe) (Track 05).bin" size="22579200" crc="d651a132" md5="a3bf805ef77cf14f97732edff54a7776" sha1="02a6892a8ffb1d1b8a5387b8ed6da835f280e9b1"/>
+		<rom name="Striker (Europe) (Track 06).bin" size="39901680" crc="7de9ced8" md5="972be1c2c985169f34f782aacbbe8d39" sha1="1e72428ffd09c1178ed80c8346e11fbb4bd55503"/>
+		<rom name="Striker (Europe) (Track 07).bin" size="22579200" crc="92697ce2" md5="46022064a9d1a460f2c762a8dab6b2aa" sha1="618db924de77545706fb364aecf648b591c13b34"/>
+		<rom name="Striker (Europe) (Track 08).bin" size="23802240" crc="c8b1deea" md5="7074919c753cd714cbbe3b32f805869c" sha1="7832427c3846c0f59cf504ac1115a03775d2f6c9"/>
+		<rom name="Striker (Europe) (Track 09).bin" size="26154240" crc="a467e8b1" md5="2da11e1078b771c86037a7ca8ade917a" sha1="abae551a88c1cd06bb33073de4012e0121529c74"/>
+	</game>
 	<game name="Super Methane Bros. (Europe) (Alt)" sha1="5cf71846a8485c816b79ac04f9dd89513371b029" size="264217518" crc="0f73f1b4" fullsha1="68e2e1972057db6278dd7ffee7cec89a84620123" dataSha1="ec1b2c1c70d45ceaed72a6b5398b410391512c99">
 		<category>Games</category>
 		<description>Super Methane Bros. (Europe) (Alt)</description>
@@ -1233,6 +1274,12 @@
 		<rom name="Universe (Europe) (En,Fr,De,It) (Track 22).bin" size="2690688" crc="33fbf350" md5="1a22b3cdf5e9a7a6e11050b98c1988aa" sha1="4e43a2b001424e3129b04b74abf6f336f122ac3f"/>
 		<rom name="Universe (Europe) (En,Fr,De,It) (Track 23).bin" size="10442880" crc="15008959" md5="4dedcf2f56c1d78339829fa0d0dcc8c5" sha1="7dcca694690e23c54a1f67364791f0926b237982"/>
 		<rom name="Universe (Europe) (En,Fr,De,It) (Track 24).bin" size="1989792" crc="4fb1bbbb" md5="72277c0cc8c9702194a55dc62defa0fa" sha1="561190daa323b55d38f83472a05dbd5232b3ac98"/>
+	</game>
+	<game name="Whale's Voyage (Germany)" sha1="3bfbd304921b6b1e0865b1c30e0a87f45c829cd9" size="35194707" crc="c5c9a3a6" fullsha1="9f5e543f88df88013fe7ec0911e4d62f313ae991" dataSha1="e7c7e497f8416c0335caa83f7ff740867077e555">
+		<category>Games</category>
+		<description>Whale's Voyage (Germany)</description>
+		<rom name="Whale's Voyage (Germany) (Track 01).bin" size="11491872" crc="9e7b29d8" md5="2c5ca7479bd25a06383c07f275d14fdc" sha1="b4a6a001e97dbca9cbbed933ab9f6e1f18f36c65"/>
+		<rom name="Whale's Voyage (Germany) (Track 02).bin" size="46245024" crc="f14031ce" md5="318d600b27347490bf803b0da7ffbd9e" sha1="5dc63b152111b3105678c7b060c7094a34b4021a"/>
 	</game>
 	<game name="Zool 2 (Europe) (Alt)" sha1="9a3d497f1de054d3995ac797220bb38ccfcafffb" size="205566439" crc="25364a9d" fullsha1="fe989437990acf578b240bee33b0108ab800f74a" dataSha1="cb0098cdd73edbaa6dcce2ca64ce304f70f694d4">
 		<category>Games</category>

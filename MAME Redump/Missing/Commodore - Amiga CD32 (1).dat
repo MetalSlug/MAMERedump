@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+  <header>
+    <name>Commodore - Amiga CD32</name>
+    <description>MAME Redump - Commodore - Amiga CD32 - Discs (194) (2023-09-20 19-23-05)</description>
+    <version>0.260</version>
+    <date>2023-10-27</date>
+    <author>MAME Redump</author>
+    <url>https://github.com/MetalSlug/MAMERedump</url>
+  </header>
+  <game name="Clockwiser (Europe)">
+    <description>Clockwiser (Europe)</description>
+    <rom name="Clockwiser (Europe).cue" size="1578" crc="077FCC4D" md5="60C1188A332C182D637DB31ED852AE0D" sha1="53544F632D6087AFEE171B7C88ADE11D989036E6" />
+    <rom name="Clockwiser (Europe) (Track 01).bin" size="2566032" crc="49F00288" md5="39DFB837EB83B7BA50955758A3ECEF72" sha1="B9504655F38AF2201450F88A4D1F12AC1A55F8A8" />
+    <rom name="Clockwiser (Europe) (Track 02).bin" size="14533008" crc="CFA98FF3" md5="3917CBD3B8FBBD27A17F4B65E611DA91" sha1="2C78144E45319FA1EFD9CB0B7A2BFC26A0AE59EB" />
+    <rom name="Clockwiser (Europe) (Track 03).bin" size="36710016" crc="4922050C" md5="FAB3BA456D77D2F7438AFC34245A548A" sha1="6A1E4EDD9ED03ADB3A499CD2A09458E588F05471" />
+    <rom name="Clockwiser (Europe) (Track 04).bin" size="20302464" crc="B96AEBBE" md5="74C3DE821FBED8CFBC1FE3A68ABFF097" sha1="D75CE15377F63E8E7FCC6D58E2C538ACFA803A58" />
+    <rom name="Clockwiser (Europe) (Track 05).bin" size="57934464" crc="D7391E5C" md5="EA6E58E1FC5943AEFE7C14A8AAF9CA90" sha1="C2975143AA2A76D92D7EA7A369C14236884A2B26" />
+    <rom name="Clockwiser (Europe) (Track 06).bin" size="27226752" crc="E91CB5E3" md5="97A9F121C959865241B471BD5F8E76F0" sha1="1369F883CBB3C044F3DF797E58CD2BA26C3E5DD1" />
+    <rom name="Clockwiser (Europe) (Track 07).bin" size="34828416" crc="35398963" md5="A3AE1687893C4FD755A0EC695DAC3254" sha1="4102792A875DE7B5397C969D6E2E00A38C5341C7" />
+    <rom name="Clockwiser (Europe) (Track 08).bin" size="36710016" crc="033DCBDD" md5="2C0FD38F1E048B051ABD87BC2A5AF0A6" sha1="C2D583D5AC287514072F0999E2A14DD98B66F0E3" />
+    <rom name="Clockwiser (Europe) (Track 09).bin" size="32645760" crc="D85F0034" md5="FA6E191B7654059EE5D3EBB2AFB6E575" sha1="F0A516B515AD27FBC298C4184A8D3BA8FD45FBC5" />
+    <rom name="Clockwiser (Europe) (Track 10).bin" size="32118912" crc="6247FA96" md5="A4B9F2F664E73D5CCC97277EC17ACF8E" sha1="71387D01982E8CBFC718459060992F3B13BAE259" />
+    <rom name="Clockwiser (Europe) (Track 11).bin" size="31592064" crc="C6395A32" md5="42292DFFE303CC8B502A0B832098B3FB" sha1="41033C98DF44EB8F97F8F72D4286405BA98C35DB" />
+    <rom name="Clockwiser (Europe) (Track 12).bin" size="29860992" crc="90BC0C9B" md5="397DC88A21CFEC723C6570ADBF6910D4" sha1="0FD78D5731ABF4D34AC7D82C1DE2EEAC56EBE9F3" />
+    <rom name="Clockwiser (Europe) (Track 13).bin" size="30237312" crc="CAFC5C70" md5="8F73534AF5EAEAA5AE54931E4814B270" sha1="488A46A8ADF438C1F6D8302D0C88E158788C29C1" />
+    <rom name="Clockwiser (Europe) (Track 14).bin" size="1634640" crc="66BF267A" md5="7FF621DB247647C05D55998390134442" sha1="70DF54FF8A71D0062D5E3EB88C4EFA8214BFF64B" />
+  </game>
+</datafile>
