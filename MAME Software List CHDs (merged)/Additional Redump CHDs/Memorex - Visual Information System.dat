@@ -4,7 +4,7 @@
 	<header>
 		<name>Memorex - Visual Information System</name>
 		<description>Memorex - Visual Information System</description>
-		<version>0.258</version>
+		<version>0.260</version>
 		<date>2023-09-07</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -397,6 +397,11 @@
 		<category>Games</category>
 		<description>Title Sampler (USA)</description>
 		<rom name="Title Sampler (USA) (Track 01).bin" size="64122576" crc="36b14611" md5="c1e48a95d0bfe17d733e2540dee9ee44" sha1="8f55bc5b71ce9634e3114daff9b4c26f1a720540"/>
+	</game>
+	<game name="Title Sampler (USA) (Alt)" sha1="9498100e9775e7d9f7a2c6d7d3c16e0260c134dd" size="36146738" crc="fb8a98cb" fullsha1="b64d0bd8a2287ef6f1f48608afb4ab1aca2d0513" dataSha1="a3f701617a6cd4657af21607109f9cae93534d88">
+		<category>Games</category>
+		<description>Title Sampler (USA) (Alt)</description>
+		<rom name="Title Sampler (USA) (Alt) (Track 01).bin" size="63769776" crc="ede2a757" md5="e86188d29f30a491fd792c4328b881f8" sha1="4686e8b890e483fc8f31ef97ffa1f71d4f46204b"/>
 	</game>
 	<game name="Video Movie Guide 1993 (USA)" sha1="c61d08da70f3d8655694a3509d66d00b1660ca32" size="109440656" crc="db57efcf" fullsha1="12a9aaf504dc1b3575df3133882fae17c04e5f92" dataSha1="3945695820e853398117962c8cc47be272c92f09">
 		<category>Games</category>

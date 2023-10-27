@@ -4,7 +4,7 @@
 	<header>
 		<name>Palm</name>
 		<description>Palm</description>
-		<version>0.258</version>
+		<version>0.260</version>
 		<date>2023-09-07</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -23,6 +23,16 @@
 		<category>Games</category>
 		<description>100 Great Games for Palm OS Handhelds Vol. 3 (Canada)</description>
 		<rom name="100 Great Games for Palm OS Handhelds Vol. 3 (Canada) (Track 01).bin" size="62490288" crc="1b820ca6" md5="4ac1d7be95de3acb60212b05101a0fc2" sha1="b8e84dd9aa09037392f61d1b7a750599fa0e68ba"/>
+	</game>
+	<game name="100 Great Games for the Palm Computing Platform (Canada) (1999)" sha1="9263090333350a0f897f25a5fefa1026be462338" size="16785628" crc="bec201b2" fullsha1="bb28a74bfb3e38bf9bf1c3d5b33136bde33cc574" dataSha1="3221758190c4630d4597589fedb6fbd3dbdf2cdd">
+		<category>Games</category>
+		<description>100 Great Games for the Palm Computing Platform (Canada) (1999)</description>
+		<rom name="100 Great Games for the Palm Computing Platform (Canada) (1999) (Track 01).bin" size="36837024" crc="6e921611" md5="828491b007d5060acd87db751599599b" sha1="50f0a04cfacbba16c55f50379d8987b830679636"/>
+	</game>
+	<game name="100 Great Games for the Palm Computing Platform (Canada) (2000)" sha1="f792308ad7e6a946dcab5d1e378ab7e76efa0385" size="25862020" crc="3e463574" fullsha1="ec3bb9fa6a0f24e4ad9726e9717f3be7a0e2e45d" dataSha1="6ecc341b32b938084b7548dc2682f89f841bd3d7">
+		<category>Games</category>
+		<description>100 Great Games for the Palm Computing Platform (Canada) (2000)</description>
+		<rom name="100 Great Games for the Palm Computing Platform (Canada) (2000) (Track 01).bin" size="55429584" crc="523a62d9" md5="561a7fc03b5797c5c23fa5fc9a6a62cc" sha1="a56ebe9fbeb66f94c08abfd36f439a45a4f1cd3a"/>
 	</game>
 	<game name="100+ Applications for PDA (Europe)" sha1="642b8bc562e555ec14a8655d20d44a7dfd24d122" size="279733482" crc="2ce7ebea" fullsha1="259a2a560f25d1e78bf1dbd4c460df945e835a0e" dataSha1="014f6228b4aa6e289198c39d88e9f74b169d199d">
 		<category>Games</category>
@@ -169,6 +179,11 @@
 		<description>DaDa Palm Game Series - World War 2 (Japan)</description>
 		<rom name="DaDa Palm Game Series - World War 2 (Japan) (Track 01).bin" size="2018016" crc="67f978af" md5="6725ff1930932c6b228a08cc652df1c5" sha1="a5a775edfc7e8f348b9a5b9a015efe72291980cf"/>
 	</game>
+	<game name="Daisenryaku for Palm (Japan)" sha1="7fa66b6352e44ce2a8a803334b8a1e1d29a46144" size="1798438" crc="7546665f" fullsha1="7f37f79c6e3929b74e2e177ca01687f4eaa33b70" dataSha1="1bb78f328a2de428c0fc6f2349ff1268535860ba">
+		<category>Games</category>
+		<description>Daisenryaku for Palm (Japan)</description>
+		<rom name="Daisenryaku for Palm (Japan) (Track 01).bin" size="8431920" crc="146312c2" md5="3e9a14cece68ff3d88b12da3b08a9ffc" sha1="89603bb819f9b92d6384e1688e76b94e799c471c"/>
+	</game>
 	<game name="Dilbert Productivity Pack for Palm Computing Organizers (USA)" sha1="98a1e4539b6ffbbbe9471dc999501a34c9935bd9" size="30143746" crc="3737f29b" fullsha1="f8c501fde27b99653b95ae167994dae895c9fd7f" dataSha1="cd1d9ef233e07d1c9de723c28b31259d237bfb55">
 		<category>Games</category>
 		<description>Dilbert Productivity Pack for Palm Computing Organizers (USA)</description>
@@ -274,6 +289,11 @@
 		<description>ODN Palm Power Pack (Japan)</description>
 		<rom name="ODN Palm Power Pack (Japan) (Track 01).bin" size="17555328" crc="d4b0da92" md5="2e883bf1f131f670aac76aeb29079bae" sha1="834ccccf1bff4685e52ec91aaa3404e62dce87ba"/>
 	</game>
+	<game name="Oh-chan no Oekaki Logic for Palm (Japan)" sha1="0806901a3bfc3a185472666cfcb4db9a83a3841a" size="1649408" crc="eb62ec11" fullsha1="52ee088c4ba3315b6971f5581911ce5be4083191" dataSha1="2147696d17829b632a2eb4a2a4dcca799c1aa108">
+		<category>Games</category>
+		<description>Oh-chan no Oekaki Logic for Palm (Japan)</description>
+		<rom name="Oh-chan no Oekaki Logic for Palm (Japan) (Track 01).bin" size="6886656" crc="fdb46f7e" md5="88086119871d5867df8443bd8e10babe" sha1="b4c0c395794299265419cbe65cfda7c38b286c10"/>
+	</game>
 	<game name="Okigaru Igo Taikyoku (Japan)" sha1="053494397e0c0f849c5fdac48c7c4e7ca4a777cd" size="1133829" crc="1b24db23" fullsha1="f4615c280886bdeb9c0614c5a9a12218dd0f14ef" dataSha1="2764d3284094b0d3389f5774487e15d8e52751de">
 		<category>Games</category>
 		<description>Okigaru Igo Taikyoku (Japan)</description>
@@ -288,6 +308,11 @@
 		<category>Games</category>
 		<description>OnHand Sports Games &amp; Sega Swirl Lite (USA)</description>
 		<rom name="OnHand Sports Games &amp; Sega Swirl Lite (USA) (Track 01).bin" size="2615424" crc="e05145d5" md5="556da3fe67bc09e902679a9bf0252b5a" sha1="d74de41f264a986479161e8894499555f5b9747e"/>
+	</game>
+	<game name="Oxford Handbook of Clinical Medicine for PDAs - Seventh Edition (UK)" sha1="70b774e77041574a50325a91f2086f47a0235580" size="100945167" crc="dbac8195" fullsha1="dafd61944aaaf0ebc4b55ed1927458c81bf06cb2" dataSha1="c7541328c69c140b13a581ed739db90adbe1083e">
+		<category>Games</category>
+		<description>Oxford Handbook of Clinical Medicine for PDAs - Seventh Edition (UK)</description>
+		<rom name="Oxford Handbook of Clinical Medicine for PDAs - Seventh Edition (UK) (Track 01).bin" size="118691328" crc="7f1156a5" md5="a28be495c23717640220f6685625b9c6" sha1="e74b4b9b34659fd60155461646a9b1653057713e"/>
 	</game>
 	<game name="PDA Essentials &amp; GPS Advisor - Issue 43 (UK)" sha1="a1659ae9419f486214c1be66f90b83cf6f2e4f96" size="652972017" crc="e4e57d1e" fullsha1="7d1613bf7cae1353baaf8b9aa14e501c06eca736" dataSha1="c26696a5653a30aaf3fb2fb367acbbf440710ce0">
 		<category>Games</category>
@@ -323,6 +348,11 @@
 		<category>Games</category>
 		<description>PDA Power Training (USA)</description>
 		<rom name="PDA Power Training (USA) (Track 01).bin" size="676867968" crc="59653a7b" md5="2336959b931d1fae0864a81812ffc195" sha1="6f755bb0daf5e182f51be0de67976e0cdf233880"/>
+	</game>
+	<game name="Palm Billiard (Japan)" sha1="6302410ee8658dc02bfad628dc5f1d39e4c9ae9a" size="444317" crc="5b5586ed" fullsha1="d50d3274330112c29560290a8739772c088cf71e" dataSha1="c48c6f081758f2e8522b236c34a6c4217f9a0923">
+		<category>Games</category>
+		<description>Palm Billiard (Japan)</description>
+		<rom name="Palm Billiard (Japan) (Track 01).bin" size="1432368" crc="cc98307f" md5="e7aee63118c67b6672b82b7143d974fd" sha1="3df0411331039785383aba7ccbd7dce2940f6b1f"/>
 	</game>
 	<game name="Palm Games 2003 - Professional Edition (USA)" sha1="0b146aec8ccba3f90c27bec479813d712470a78d" size="113230433" crc="38e28d5f" fullsha1="b43b9254f811a01a489346401cf24e8b02797870" dataSha1="986bcd4e0a9d6773aa7dd698e856a6d437c1f285">
 		<category>Games</category>
@@ -493,6 +523,11 @@
 		<category>Games</category>
 		<description>SwiftWare (USA)</description>
 		<rom name="SwiftWare (USA) (Track 01).bin" size="730166640" crc="60c70c6f" md5="0ee4bf2b90ebf73f3d3c379303953883" sha1="93ee32e6980235c6e122b4e1929e19ae070be550"/>
+	</game>
+	<game name="Tap Step Music (Japan)" sha1="b5a5f12b3c13a2777c3b9e93832874195866f46a" size="1879339" crc="a604dc3a" fullsha1="ca436d92debc33a03d7605ce523dc3c6a5a2b245" dataSha1="a2d86d16be92e33a895ae6f8c6fd4699bef52ce7">
+		<category>Games</category>
+		<description>Tap Step Music (Japan)</description>
+		<rom name="Tap Step Music (Japan) (Track 01).bin" size="4308864" crc="d90a42ac" md5="42fc13ef9c821860fb710575e0e2a4a1" sha1="926939f25d44f8c8b73d3816921e3b9860295e29"/>
 	</game>
 	<game name="Tetris Classic Game Pak (USA) (Rerelease) (20030722)" sha1="e2fc241d69f8b3cde235bf28d956edc9037cf630" size="48080138" crc="e56e1f71" fullsha1="62344acd4cb6e954556958a4958da189101acf52" dataSha1="168218ffe66326b874ec5775615ab38030ad2a03">
 		<category>Games</category>

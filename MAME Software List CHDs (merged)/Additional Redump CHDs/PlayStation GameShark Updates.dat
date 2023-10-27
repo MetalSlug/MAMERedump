@@ -4,7 +4,7 @@
 	<header>
 		<name>PlayStation GameShark Updates</name>
 		<description>PlayStation GameShark Updates</description>
-		<version>0.258</version>
+		<version>0.260</version>
 		<date>2023-09-07</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -642,40 +642,75 @@
 		<rom name="Action Replay Higi Code CD Vol. 9 (Japan) (Track 49).bin" size="6900768" crc="51b1dbf8" md5="7dcfbbef792b76f4ff2e395e65c04e03" sha1="b953c41f9d13e8729c113c9b387d7f601b1d5bff"/>
 		<rom name="Action Replay Higi Code CD Vol. 9 (Japan) (Track 50).bin" size="6604416" crc="f9bc4d68" md5="c4df54e9889ed3c414c88cbd5e70a49e" sha1="20f315fea1f138deb2d7bcdf73ce9aa072741bed"/>
 	</game>
-	<game name="Cheat Factory (Europe)" sha1="acb7da12cca307764f6710e9916c3d8519a8e66d" size="14224429" crc="ab90aed9" fullsha1="263276d39112d4849f5c69e6c062f35da7b7ddbb" dataSha1="db3da60cb72786ee42b728f42adef1abe6cd5ea9">
+	<game name="Cheat Factory (Europe) (19305)" sha1="acb7da12cca307764f6710e9916c3d8519a8e66d" size="14224429" crc="ab90aed9" fullsha1="263276d39112d4849f5c69e6c062f35da7b7ddbb" dataSha1="db3da60cb72786ee42b728f42adef1abe6cd5ea9">
 		<category>Games</category>
-		<description>Cheat Factory (Europe)</description>
-		<rom name="Cheat Factory (Europe) (Track 01).bin" size="1185408" crc="72e7be43" md5="0e8031ce45a0d382082f2c406c2b541d" sha1="00f7f2367d40db941e9cc72a790e885cc713afab"/>
-		<rom name="Cheat Factory (Europe) (Track 02).bin" size="6061104" crc="103bfcd2" md5="973b5250abb9026190c8c806cef45f87" sha1="83dac9b804e788f1630e66615527db95566b8368"/>
-		<rom name="Cheat Factory (Europe) (Track 03).bin" size="8027376" crc="2e446541" md5="c3c54f5218d7512b3c0da520d6f0b2c2" sha1="df0b266cd1cd4b1955cdf3e78be869a6e63199fc"/>
-		<rom name="Cheat Factory (Europe) (Track 04).bin" size="8029728" crc="c285c999" md5="fb155626625001bddb28537f1cf1c584" sha1="3cef3baf14804c5a172953b2c15cb51896eec8ba"/>
-		<rom name="Cheat Factory (Europe) (Track 05).bin" size="1143072" crc="211a0c4f" md5="d65d5ea893c62fa27ba60bca58593178" sha1="4e0cbab01ce333ca6f779d5ad279c6acf7505109"/>
-		<rom name="Cheat Factory (Europe) (Track 06).bin" size="1145424" crc="d09c35b6" md5="c4dea22daab76ff5ab2cb29e620c46af" sha1="1b527c810c6f32ac3a62eb30e6390f0d7f0504ba"/>
-		<rom name="Cheat Factory (Europe) (Track 07).bin" size="1145424" crc="495c52d6" md5="05e6ba24b537015057d145e085471626" sha1="aebe59bdcb5cb81ea0fb4407abc30fb5ff2c5551"/>
-		<rom name="Cheat Factory (Europe) (Track 08).bin" size="7895664" crc="de0439ec" md5="4d4b168178ab23ef76c52e61b5df44ea" sha1="2be6e1813b967f2c0b083d287499f847b33fd868"/>
-		<rom name="Cheat Factory (Europe) (Track 09).bin" size="7898016" crc="bfee5c91" md5="3dbd0f167748fcf3ba53fda05444c518" sha1="669c9f5649d0000f2e3bd359bde7154a036a013e"/>
-		<rom name="Cheat Factory (Europe) (Track 10).bin" size="7893312" crc="3943ebca" md5="db0ae1feac474c2f9ca84a409f016490" sha1="53709b9800527b93dea75d99cff8aea3a8bc78f4"/>
-		<rom name="Cheat Factory (Europe) (Track 11).bin" size="7895664" crc="96933cfb" md5="466341de617b43844a6bcd9c2ef1a715" sha1="d268b06395302f35aa8c5089400e6b46306577d8"/>
-		<rom name="Cheat Factory (Europe) (Track 12).bin" size="7895664" crc="64d24dde" md5="210a4715bcfea3919710f8813005a8a7" sha1="3fb54effccbf41cc6f4ec29a0fea168d6df18d56"/>
-		<rom name="Cheat Factory (Europe) (Track 13).bin" size="7895664" crc="00604d9e" md5="b499daeaae9caa9393c2e673877ce306" sha1="f5f50bb801d7d56c1b18a65baa09c845839a936b"/>
-		<rom name="Cheat Factory (Europe) (Track 14).bin" size="7898016" crc="0cc8e1d2" md5="924ac2aae6e493e91e9de8ccffe262b6" sha1="af8ebd36bc75ff024d83c5b03fb2c9871fd47b1d"/>
-		<rom name="Cheat Factory (Europe) (Track 15).bin" size="7893312" crc="d6a698c5" md5="5490453c839e004683256af80e8ad472" sha1="bdff175867582587e8b2c3c3de5bd911c4ae0d6e"/>
-		<rom name="Cheat Factory (Europe) (Track 16).bin" size="7895664" crc="95d58ae3" md5="2f903e9a67020c828dc30f4e9ca6d3f6" sha1="7ea9b38d783f248fefe20184a095edf152aeacbf"/>
-		<rom name="Cheat Factory (Europe) (Track 17).bin" size="7895664" crc="71a60bf1" md5="e5f408b747b55ab8727fd63b62032d52" sha1="b176b9d0572e3256e4b864e09fc6d7d87d34a05f"/>
-		<rom name="Cheat Factory (Europe) (Track 18).bin" size="7898016" crc="2da1ad42" md5="2c57994930b3c9a6c10a8ed71f8d7d65" sha1="60dbf5f4aa1890ec835b4cb9691f1624a1a91bc0"/>
-		<rom name="Cheat Factory (Europe) (Track 19).bin" size="7893312" crc="180d99c0" md5="5e9f10234470f6ca45659cb6f599fd82" sha1="696ac45327633af03ea2406871ffee4509e0acc0"/>
-		<rom name="Cheat Factory (Europe) (Track 20).bin" size="8944656" crc="5f68099a" md5="2356316664c19bbaa1fccfc981fae5eb" sha1="44ca7bdb12747b00cb18ead10c40a034dcb4bad7"/>
-		<rom name="Cheat Factory (Europe) (Track 21).bin" size="8747088" crc="a15f4a7e" md5="56c24e3a211d0af7a8f916dd4ffc8ef2" sha1="f40b6523f5352a83f160bd9b164a8428f659bedd"/>
-		<rom name="Cheat Factory (Europe) (Track 22).bin" size="8420160" crc="27d72a8c" md5="cf0ab9fc94511746d820c3afdbc8a87e" sha1="f7eba826471fd1d8ed77ca92f937972fb5967591"/>
-		<rom name="Cheat Factory (Europe) (Track 23).bin" size="1145424" crc="89b1b9df" md5="9715de5bc13652692403f97282f8e966" sha1="29347a7e0786c727f1f16f414012bd353d1dfb92"/>
-		<rom name="Cheat Factory (Europe) (Track 24).bin" size="2521344" crc="c4f2506e" md5="9546ac8fc793f218ddbcce358330c293" sha1="1a5fd337029180a0cd1ff0918d521ee882bed999"/>
-		<rom name="Cheat Factory (Europe) (Track 25).bin" size="7437024" crc="6577cdda" md5="276275945c1828cf97bc363350d0680b" sha1="5d939602dc953ea2ab41440b0935e2b70089aa78"/>
-		<rom name="Cheat Factory (Europe) (Track 26).bin" size="9598512" crc="dfce3698" md5="da4c6f9ff280d3de9eae9ab7299ae056" sha1="470126a4b1fb7a7e576d88649e8ff35b8c249bc5"/>
-		<rom name="Cheat Factory (Europe) (Track 27).bin" size="7895664" crc="c8fd60f7" md5="54ac54b2afe80ac485a3624c62be4ca7" sha1="681ad8164a0da434461b7c70ec45a1c967ec3fbe"/>
-		<rom name="Cheat Factory (Europe) (Track 28).bin" size="7895664" crc="68a3112e" md5="dc623b2b4bea1cb7310167148ea129a0" sha1="ea7ad33efd4184c8a402cd8a808262072b8cc0a7"/>
-		<rom name="Cheat Factory (Europe) (Track 29).bin" size="7898016" crc="8eb88a38" md5="6e49c35e7384b239b03b1a145fe3c49f" sha1="351d5bd7e73f671921100025748215b6af32a662"/>
-		<rom name="Cheat Factory (Europe) (Track 30).bin" size="4946256" crc="1d5c8da8" md5="7b3d1b6b34b279d92521fd7d2214e3e2" sha1="6cb7832c85f27050b384c138237ddcbe6f6c6afc"/>
-		<rom name="Cheat Factory (Europe) (Track 31).bin" size="2387280" crc="ac3afee3" md5="d742fe0dc705b432f3eb7ff8dc35956e" sha1="5fa9499bd7d75051337a8acd1201d10d665287e2"/>
+		<description>Cheat Factory (Europe) (19305)</description>
+		<rom name="Cheat Factory (Europe) (19305) (Track 01).bin" size="1185408" crc="72e7be43" md5="0e8031ce45a0d382082f2c406c2b541d" sha1="00f7f2367d40db941e9cc72a790e885cc713afab"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 02).bin" size="6061104" crc="103bfcd2" md5="973b5250abb9026190c8c806cef45f87" sha1="83dac9b804e788f1630e66615527db95566b8368"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 03).bin" size="8027376" crc="2e446541" md5="c3c54f5218d7512b3c0da520d6f0b2c2" sha1="df0b266cd1cd4b1955cdf3e78be869a6e63199fc"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 04).bin" size="8029728" crc="c285c999" md5="fb155626625001bddb28537f1cf1c584" sha1="3cef3baf14804c5a172953b2c15cb51896eec8ba"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 05).bin" size="1143072" crc="211a0c4f" md5="d65d5ea893c62fa27ba60bca58593178" sha1="4e0cbab01ce333ca6f779d5ad279c6acf7505109"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 06).bin" size="1145424" crc="d09c35b6" md5="c4dea22daab76ff5ab2cb29e620c46af" sha1="1b527c810c6f32ac3a62eb30e6390f0d7f0504ba"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 07).bin" size="1145424" crc="495c52d6" md5="05e6ba24b537015057d145e085471626" sha1="aebe59bdcb5cb81ea0fb4407abc30fb5ff2c5551"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 08).bin" size="7895664" crc="de0439ec" md5="4d4b168178ab23ef76c52e61b5df44ea" sha1="2be6e1813b967f2c0b083d287499f847b33fd868"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 09).bin" size="7898016" crc="bfee5c91" md5="3dbd0f167748fcf3ba53fda05444c518" sha1="669c9f5649d0000f2e3bd359bde7154a036a013e"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 10).bin" size="7893312" crc="3943ebca" md5="db0ae1feac474c2f9ca84a409f016490" sha1="53709b9800527b93dea75d99cff8aea3a8bc78f4"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 11).bin" size="7895664" crc="96933cfb" md5="466341de617b43844a6bcd9c2ef1a715" sha1="d268b06395302f35aa8c5089400e6b46306577d8"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 12).bin" size="7895664" crc="64d24dde" md5="210a4715bcfea3919710f8813005a8a7" sha1="3fb54effccbf41cc6f4ec29a0fea168d6df18d56"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 13).bin" size="7895664" crc="00604d9e" md5="b499daeaae9caa9393c2e673877ce306" sha1="f5f50bb801d7d56c1b18a65baa09c845839a936b"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 14).bin" size="7898016" crc="0cc8e1d2" md5="924ac2aae6e493e91e9de8ccffe262b6" sha1="af8ebd36bc75ff024d83c5b03fb2c9871fd47b1d"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 15).bin" size="7893312" crc="d6a698c5" md5="5490453c839e004683256af80e8ad472" sha1="bdff175867582587e8b2c3c3de5bd911c4ae0d6e"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 16).bin" size="7895664" crc="95d58ae3" md5="2f903e9a67020c828dc30f4e9ca6d3f6" sha1="7ea9b38d783f248fefe20184a095edf152aeacbf"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 17).bin" size="7895664" crc="71a60bf1" md5="e5f408b747b55ab8727fd63b62032d52" sha1="b176b9d0572e3256e4b864e09fc6d7d87d34a05f"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 18).bin" size="7898016" crc="2da1ad42" md5="2c57994930b3c9a6c10a8ed71f8d7d65" sha1="60dbf5f4aa1890ec835b4cb9691f1624a1a91bc0"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 19).bin" size="7893312" crc="180d99c0" md5="5e9f10234470f6ca45659cb6f599fd82" sha1="696ac45327633af03ea2406871ffee4509e0acc0"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 20).bin" size="8944656" crc="5f68099a" md5="2356316664c19bbaa1fccfc981fae5eb" sha1="44ca7bdb12747b00cb18ead10c40a034dcb4bad7"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 21).bin" size="8747088" crc="a15f4a7e" md5="56c24e3a211d0af7a8f916dd4ffc8ef2" sha1="f40b6523f5352a83f160bd9b164a8428f659bedd"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 22).bin" size="8420160" crc="27d72a8c" md5="cf0ab9fc94511746d820c3afdbc8a87e" sha1="f7eba826471fd1d8ed77ca92f937972fb5967591"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 23).bin" size="1145424" crc="89b1b9df" md5="9715de5bc13652692403f97282f8e966" sha1="29347a7e0786c727f1f16f414012bd353d1dfb92"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 24).bin" size="2521344" crc="c4f2506e" md5="9546ac8fc793f218ddbcce358330c293" sha1="1a5fd337029180a0cd1ff0918d521ee882bed999"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 25).bin" size="7437024" crc="6577cdda" md5="276275945c1828cf97bc363350d0680b" sha1="5d939602dc953ea2ab41440b0935e2b70089aa78"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 26).bin" size="9598512" crc="dfce3698" md5="da4c6f9ff280d3de9eae9ab7299ae056" sha1="470126a4b1fb7a7e576d88649e8ff35b8c249bc5"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 27).bin" size="7895664" crc="c8fd60f7" md5="54ac54b2afe80ac485a3624c62be4ca7" sha1="681ad8164a0da434461b7c70ec45a1c967ec3fbe"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 28).bin" size="7895664" crc="68a3112e" md5="dc623b2b4bea1cb7310167148ea129a0" sha1="ea7ad33efd4184c8a402cd8a808262072b8cc0a7"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 29).bin" size="7898016" crc="8eb88a38" md5="6e49c35e7384b239b03b1a145fe3c49f" sha1="351d5bd7e73f671921100025748215b6af32a662"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 30).bin" size="4946256" crc="1d5c8da8" md5="7b3d1b6b34b279d92521fd7d2214e3e2" sha1="6cb7832c85f27050b384c138237ddcbe6f6c6afc"/>
+		<rom name="Cheat Factory (Europe) (19305) (Track 31).bin" size="2387280" crc="ac3afee3" md5="d742fe0dc705b432f3eb7ff8dc35956e" sha1="5fa9499bd7d75051337a8acd1201d10d665287e2"/>
+	</game>
+	<game name="Cheat Factory (Europe) (19317)" sha1="eab823f5c4ef587da3868af58c8c03cbb524da29" size="14223755" crc="d0707c7f" fullsha1="f0d26ae7ee424166686b0220e65f4e67ad0e1993" dataSha1="d274eebf171dd14453d6e21745d0c1e523122466">
+		<category>Games</category>
+		<description>Cheat Factory (Europe) (19317)</description>
+		<rom name="Cheat Factory (Europe) (19317) (Track 01).bin" size="1185408" crc="72e7be43" md5="0e8031ce45a0d382082f2c406c2b541d" sha1="00f7f2367d40db941e9cc72a790e885cc713afab"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 02).bin" size="6061104" crc="103bfcd2" md5="973b5250abb9026190c8c806cef45f87" sha1="83dac9b804e788f1630e66615527db95566b8368"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 03).bin" size="8027376" crc="2e446541" md5="c3c54f5218d7512b3c0da520d6f0b2c2" sha1="df0b266cd1cd4b1955cdf3e78be869a6e63199fc"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 04).bin" size="8029728" crc="c285c999" md5="fb155626625001bddb28537f1cf1c584" sha1="3cef3baf14804c5a172953b2c15cb51896eec8ba"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 05).bin" size="1143072" crc="211a0c4f" md5="d65d5ea893c62fa27ba60bca58593178" sha1="4e0cbab01ce333ca6f779d5ad279c6acf7505109"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 06).bin" size="1145424" crc="d09c35b6" md5="c4dea22daab76ff5ab2cb29e620c46af" sha1="1b527c810c6f32ac3a62eb30e6390f0d7f0504ba"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 07).bin" size="1145424" crc="495c52d6" md5="05e6ba24b537015057d145e085471626" sha1="aebe59bdcb5cb81ea0fb4407abc30fb5ff2c5551"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 08).bin" size="7895664" crc="de0439ec" md5="4d4b168178ab23ef76c52e61b5df44ea" sha1="2be6e1813b967f2c0b083d287499f847b33fd868"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 09).bin" size="7895664" crc="b1f5dfde" md5="dad5800cdf2cda4b5801196f5e4f19d3" sha1="8b012a1eae60db251f8acd23b69b9b040b38e637"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 10).bin" size="7895664" crc="bf8a1d1a" md5="20c622642f2f5abafcb54f0e20a05ffc" sha1="ca635934fffa9e9863ddfed1855f0a8d41b24d64"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 11).bin" size="7895664" crc="96933cfb" md5="466341de617b43844a6bcd9c2ef1a715" sha1="d268b06395302f35aa8c5089400e6b46306577d8"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 12).bin" size="7895664" crc="64d24dde" md5="210a4715bcfea3919710f8813005a8a7" sha1="3fb54effccbf41cc6f4ec29a0fea168d6df18d56"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 13).bin" size="7895664" crc="00604d9e" md5="b499daeaae9caa9393c2e673877ce306" sha1="f5f50bb801d7d56c1b18a65baa09c845839a936b"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 14).bin" size="7898016" crc="0cc8e1d2" md5="924ac2aae6e493e91e9de8ccffe262b6" sha1="af8ebd36bc75ff024d83c5b03fb2c9871fd47b1d"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 15).bin" size="7893312" crc="d6a698c5" md5="5490453c839e004683256af80e8ad472" sha1="bdff175867582587e8b2c3c3de5bd911c4ae0d6e"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 16).bin" size="7895664" crc="95d58ae3" md5="2f903e9a67020c828dc30f4e9ca6d3f6" sha1="7ea9b38d783f248fefe20184a095edf152aeacbf"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 17).bin" size="7895664" crc="71a60bf1" md5="e5f408b747b55ab8727fd63b62032d52" sha1="b176b9d0572e3256e4b864e09fc6d7d87d34a05f"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 18).bin" size="7898016" crc="2da1ad42" md5="2c57994930b3c9a6c10a8ed71f8d7d65" sha1="60dbf5f4aa1890ec835b4cb9691f1624a1a91bc0"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 19).bin" size="7893312" crc="180d99c0" md5="5e9f10234470f6ca45659cb6f599fd82" sha1="696ac45327633af03ea2406871ffee4509e0acc0"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 20).bin" size="8944656" crc="5f68099a" md5="2356316664c19bbaa1fccfc981fae5eb" sha1="44ca7bdb12747b00cb18ead10c40a034dcb4bad7"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 21).bin" size="8747088" crc="a15f4a7e" md5="56c24e3a211d0af7a8f916dd4ffc8ef2" sha1="f40b6523f5352a83f160bd9b164a8428f659bedd"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 22).bin" size="8420160" crc="27d72a8c" md5="cf0ab9fc94511746d820c3afdbc8a87e" sha1="f7eba826471fd1d8ed77ca92f937972fb5967591"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 23).bin" size="1145424" crc="89b1b9df" md5="9715de5bc13652692403f97282f8e966" sha1="29347a7e0786c727f1f16f414012bd353d1dfb92"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 24).bin" size="2523696" crc="85bbd4a9" md5="ac479a7911ca3f5b1cfd328e8bc4d13e" sha1="b50c83bde7c1e399d884fbab9824116497e249ef"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 25).bin" size="7434672" crc="76335944" md5="8008f6dc0ad704d7e221ede5ea093396" sha1="1d9a3b2ce7f492cfc386bbbe1bb0e6f11020e026"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 26).bin" size="9598512" crc="dfce3698" md5="da4c6f9ff280d3de9eae9ab7299ae056" sha1="470126a4b1fb7a7e576d88649e8ff35b8c249bc5"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 27).bin" size="7895664" crc="c8fd60f7" md5="54ac54b2afe80ac485a3624c62be4ca7" sha1="681ad8164a0da434461b7c70ec45a1c967ec3fbe"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 28).bin" size="7895664" crc="68a3112e" md5="dc623b2b4bea1cb7310167148ea129a0" sha1="ea7ad33efd4184c8a402cd8a808262072b8cc0a7"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 29).bin" size="7895664" crc="e4f70a85" md5="51957ac6c7a45b861b61518232dddf21" sha1="be29137002af2a3e6ab789b1c877c0a449e499ec"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 30).bin" size="4948608" crc="1222a84b" md5="bc6c069d7e0bf69d61447057a927644e" sha1="eb904acd6af265e5aa85cc82bf1a86b28fff3b20"/>
+		<rom name="Cheat Factory (Europe) (19317) (Track 31).bin" size="2387280" crc="ac3afee3" md5="d742fe0dc705b432f3eb7ff8dc35956e" sha1="5fa9499bd7d75051337a8acd1201d10d665287e2"/>
 	</game>
 	<game name="Game Champion - Game Save Download CD for Tekken 3 (Europe)" sha1="1a660b3edd4d3a890017222ba2420be29fa9eb09" size="10647450" crc="c42bd684" fullsha1="457b4f36f1bc2416e0e756bc61ee3ffbe40a3927" dataSha1="dedfb940ecbf3e2f68fe5b180c1f8a96732430f0">
 		<category>Games</category>
@@ -1166,6 +1201,60 @@
 		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Track 46).bin" size="8443680" crc="6cb8a95f" md5="3482d6f706ab016cb58cae195aad37de" sha1="c496a3f0f00a511c48ae6d3b557fcd7790b24bab"/>
 		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Track 47).bin" size="8500128" crc="72a6aeac" md5="26850538f1ad2996663ef380e9894c7a" sha1="e8a6d510795e6fa8b310d9ba71fac4d98fe93b09"/>
 		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Track 48).bin" size="8443680" crc="01e79ced" md5="f05f87f438970b54bae0ee6b8c3ee9b8" sha1="ee3d6bda2637458d61c0a3f9100032f3d5da08ec"/>
+	</game>
+	<game name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2)" sha1="ce46049df8f5bde1e97c2cff8a687f1fe29d735c" size="24447121" crc="edb7088a" fullsha1="ba770ad19d3297be00d6878856fab7ecef8c655c" dataSha1="88a581cb379b955330272c8be3810262437c1c68">
+		<category>Games</category>
+		<description>GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2)</description>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 01).bin" size="1187760" crc="da38b349" md5="6cd2d90d69ebc5c026e8410a5bdb2300" sha1="52bcca2d06341573e9f4414db2030e1d0a29b9b6"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 02).bin" size="4285344" crc="9d5bdd2b" md5="944e67617d85e6d32cb3e3da336bcda1" sha1="2a31a1cf4f4cb8719cfd1a476c4e026b841457ba"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 03).bin" size="4823952" crc="68b9e05d" md5="73802231cabba9a3f6a76a03fe25ad6a" sha1="152ec757beed45dc3425f59653e5ddf597ea90ec"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 04).bin" size="4823952" crc="98aa1962" md5="33005b0398fcbc05e565e0d5bc22e437" sha1="90ce55e164fa2af7011b50bf316edf1558b484ae"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 05).bin" size="4111296" crc="5f0cfff0" md5="e4b266b067f7aaffa3d9c112004c182f" sha1="a37764576c235c09b52dda5f190557124722c2c3"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 06).bin" size="3506832" crc="46ef97eb" md5="8865ee0035d493c4ae58b647d81f2f17" sha1="6cb50d0da8203e553b177d3563f629acda9ee27a"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 07).bin" size="3504480" crc="e84d472b" md5="7f56048ece721d7b92acc98e04b28a95" sha1="105c73a89b94535c9b8d17706fd02eea71a42422"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 08).bin" size="7253568" crc="6982b544" md5="4ac8176fac683abd8e14769b9adfd6b4" sha1="ed98e5596ea768c6c34320e7e16ba1be7f335506"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 09).bin" size="7258272" crc="54a8c43e" md5="791e410d60f2c9c882639f728d7b51b5" sha1="9ab1860672f90a8d3e4500f1a57fe9bb9e169e10"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 10).bin" size="7253568" crc="0de03846" md5="c58595ba721b8a30586ccf0300b5cda8" sha1="09e32e423b6a0b01cb586fb4963f104ad870df58"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 11).bin" size="7258272" crc="28660d08" md5="fd0cc9cbe713d10a727638aae004e4e6" sha1="ca418a48112a283cd3cd1e81d17dd544cabc68ca"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 12).bin" size="7253568" crc="0c9961e2" md5="2a213b40bc054179f5666a9ea95faab2" sha1="c2612f59be11a919035571ea3a36f418ad58609d"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 13).bin" size="7258272" crc="de130b5f" md5="9c1deba483ebde3f5297873d7810f221" sha1="cf9e79c6cf007e0faa357d04ec5ec16170582933"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 14).bin" size="7255920" crc="2c110840" md5="6bb8ec355caeefbd1d5e6626e77ca812" sha1="709538d42e505a45ec942ce5cfb0f49aadb0996c"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 15).bin" size="7255920" crc="d161a26e" md5="71936e3c7062e88c034fb3e0b2b6cb53" sha1="e8c5c1d8592afdb10e7f6703f1f1597ad0d6cca1"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 16).bin" size="7253568" crc="c760b532" md5="32d89a4a03105ecde22fef5efc31a4ac" sha1="991d91e67badab859ea181cd3e55c759e93d64e8"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 17).bin" size="7258272" crc="85f8e397" md5="cc5195823a9c3ebebe54d1286a9c4e28" sha1="f86784486b3823bba38ce8d97721bc7dd32c4473"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 18).bin" size="7253568" crc="4061f0c4" md5="227c088893ecb6bb963171bc9d54f99c" sha1="4a197bfe2dbba81123362f77d4851e719d9f44e3"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 19).bin" size="7258272" crc="7bbfb28e" md5="05008f81b7a5a90ecc84204173af5daf" sha1="0aeb5bd76893b418e7c1b1bf5dc2d202c061620d"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 20).bin" size="8563632" crc="908ab4d4" md5="7bb023acc5ca4230e6f58209e05bc918" sha1="6521a8717d52f1f3d086c4e2016db0fd93fcff63"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 21).bin" size="7373520" crc="4802f4e2" md5="1a4e76794970fc6d503639f2024d6665" sha1="f30b15cc49a1bd0bc6bd6f125cda2382a47a1e38"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 22).bin" size="7672224" crc="176b5b3b" md5="2b2bbec3b6530d656f975da5c28a2019" sha1="93d205450cbd8eb68cb21d2baea2883b52a40803"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 23).bin" size="3516240" crc="72f9474e" md5="42500b68ce21162f160f08ca2f89b400" sha1="2a740c565bb689fdd3069345c4c7ec2bb20c872b"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 24).bin" size="3876096" crc="75da85ad" md5="cbe2fa8f71753528ddeb86f326ef9da3" sha1="b549c44cabb32e097b22e87bab3e1ab959c25196"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 25).bin" size="4348848" crc="55af7d1c" md5="32cf358a32ddaa575eb7910b30e4bd12" sha1="9958a7f594801459cc9bcfbad3c2e0347e22e4f6"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 26).bin" size="4228896" crc="05faed26" md5="74186fb5b01c17733ddadc0aaa446b8c" sha1="4d5b6416886d1485da2f757b742d25faf772771d"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 27).bin" size="7253568" crc="96086ad7" md5="c7ff45d15a283aa973db5288f29e0c1d" sha1="7e88b9c5a70de157f8d2b121788de26678bae727"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 28).bin" size="7258272" crc="0fc11560" md5="62f662e9e367cc15174b76da46931ef7" sha1="5cc32fa05ecafdb43f2ac2fa4318f6bf883ad15b"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 29).bin" size="7253568" crc="6414a07d" md5="f18e71e5f2e909de61e50ce14b2fb1af" sha1="72361afe4850558882060b922681f8b86028c19a"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 30).bin" size="4407648" crc="8ad498b0" md5="388a68ff2dd39bde8b0304ab794eb74f" sha1="bfe4cb77cf7df2f98f36e36e70a15f89b117210a"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 31).bin" size="3504480" crc="30141b91" md5="535deb6e77ac6b39de3e0f0eabcf5954" sha1="6f7ad408bbd90ad759d96fcdb0fe293d679035fa"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 32).bin" size="7140672" crc="79b7c6d6" md5="65c2c2e41ba9e3c5c6a9451c8c63b1ad" sha1="eac9c6083f189a41c21eec1dfc89e1cc1fc0ca6e"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 33).bin" size="3504480" crc="3c2d429f" md5="c9b1328c93d0633e3122023af13212e2" sha1="2087872b4f27f8315424fe34a407f11c317c24cc"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 34).bin" size="8441328" crc="e10617d4" md5="e39675c46761e3067e13e7654bffe929" sha1="3b70a8dea5131a54948e89bf202c65f2a462ff15"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 35).bin" size="8502480" crc="d9c1265e" md5="fc048ec18d6bf677cbdcc4c5cf8e5c0b" sha1="5d1fb35ee807e6a68a5bb2a95466defa1a0f5e7c"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 36).bin" size="8443680" crc="0ba43efa" md5="4dca1d0590b337e39516c606e25a0dbd" sha1="b83bc62ca09e1932ae20958149f64c446981f68e"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 37).bin" size="8443680" crc="7d88ac27" md5="9f7e8e1374c9636af7276129dca39e81" sha1="5806c6a3207cf5050397b9287d108086af8e7561"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 38).bin" size="8504832" crc="1364b718" md5="fcd98abea4bbc3c976d0073fe619ae03" sha1="db78f1e3aae92e6bfd98aa32709cd8b3c98d9087"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 39).bin" size="8441328" crc="ecff32dd" md5="13a68f63121df91d50e830c8bb5bf5f8" sha1="80781cdcbf8fb57d7d10f2d4e764ee75362af7aa"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 40).bin" size="8446032" crc="3c661cc0" md5="bebba00eb872ce8d1664948ae5839c76" sha1="abfe9b87dd05c6f83b4b6c7585c3591390a513e9"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 41).bin" size="8502480" crc="3fea0722" md5="f3035b29249a950067e9e066e7012607" sha1="3a76196f103ac6a06a27c4964d1a58d1a1db1217"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 42).bin" size="8441328" crc="367a59e7" md5="8d554736e3e328990a4ce8e1622a3073" sha1="42f7a80cc441972cada5b14c9fe8790af44164bd"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 43).bin" size="8446032" crc="dffeca04" md5="aa04323e622b50dea2856464ae1b4e73" sha1="bf407ad374ff6c7856b568ebf7fde02877380c1b"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 44).bin" size="8500128" crc="45995f29" md5="174f0c8dc52c2f47ee833a2b63f8265d" sha1="f24f29d8cfffd55d54be3a93dcf1a72ad3c050dd"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 45).bin" size="8443680" crc="70b36a78" md5="0337d9e6788915a593672ed3af884a01" sha1="58f4f8195754e77971cccf2c749f297f37c59369"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 46).bin" size="8443680" crc="95071d86" md5="0122411fb87435a02fe0407a0cb620eb" sha1="a6f8862718060a43d941897fb94c411ae4dd1181"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 47).bin" size="8504832" crc="063a86aa" md5="0831fb934f7f0c9d6381aad9e8c823be" sha1="26b3c8ab3dc1c3b0948a3bacdfbcbbf443a82a28"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 48).bin" size="8441328" crc="f35762c9" md5="e445ba08f72b8e3987bab36d7d59cea1" sha1="f188596cd822fe50d152ba0737515db771115a3b"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 49).bin" size="6900768" crc="207298e0" md5="f0c5fde7c4523e7c53bb2af593e74f5f" sha1="6a5a7aa816270e6d35d3599fcb569678e2bd1e86"/>
+		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt 2) (Track 50).bin" size="6604416" crc="b42ae769" md5="203dc0e540c8a7457fe24c861058e401" sha1="27293f2d34d98dead37254eb51a3db51a17d7c18"/>
 	</game>
 	<game name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt)" sha1="95c9e0db2fe30f7b4ca6dfc532c5da43d9ba52c0" size="24445128" crc="8bb70e8c" fullsha1="27289019c3c8f08fb717323f6bb0bcf45d67b329" dataSha1="acdf55b650e11c5055bf2a7ea609e7e478058d72">
 		<category>Games</category>

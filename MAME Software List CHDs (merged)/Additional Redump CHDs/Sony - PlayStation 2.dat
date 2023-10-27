@@ -4,7 +4,7 @@
 	<header>
 		<name>Sony - PlayStation 2</name>
 		<description>Sony - PlayStation 2</description>
-		<version>0.258</version>
+		<version>0.260</version>
 		<date>2023-09-07</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -109,17 +109,12 @@
 		<description>2002 FIFA World Cup (USA) (En,Es)</description>
 		<rom name="2002 FIFA World Cup (USA) (En,Es) (Track 01).bin" size="3134062592" crc="9C44852D" md5="C331045E92C20E2A865525A8E22D92B6" sha1="0B34470F49A313F6FDB9F166A84456F8A60CC33F"/>
 	</game>
-	<game name="21 Card Games (Europe)" sha1="8d5323f2b774699fbcf205263fda733192e146cf" size="40149003" crc="cfc19130" fullsha1="d8a456731219ef7e15d230444c8ea812a014da7c" dataSha1="83f790eeb758bc44769781567398af3854243970">
-		<category>Games</category>
-		<description>21 Card Games (Europe)</description>
-		<rom name="21 Card Games (Europe) (Track 01).bin" size="61149648" crc="b9f41c34" md5="ef5cf69b894e3412b4ccaa6b9c39d79f" sha1="e5912cd7d8d62f9f7ed3e762fecab9218ee8683b"/>
-	</game>
 	<game name="21 Card Games (Europe, Australia)" sha1="8D5323F2B774699FBCF205263FDA733192E146CF" size="40149003" crc="CFC19130" fullsha1="d8a456731219ef7e15d230444c8ea812a014da7c" dataSha1="83f790eeb758bc44769781567398af3854243970">
 		<category>Games</category>
 		<description>21 Card Games (Europe, Australia)</description>
 		<rom name="21 Card Games (Europe, Australia) (Track 01).bin" size="61149648" crc="B9F41C34" md5="EF5CF69B894E3412B4CCAA6B9C39D79F" sha1="E5912CD7D8D62F9F7ED3E762FECAB9218EE8683B"/>
 	</game>
-	<game name="24 - The Game (Europe, Australia) (En,Fr,De,Es,It,Nl,Pl,Cs,Hu) (v2.00)" sha1="d52f7e01061712bc3a32907583633b7e4cf9c860" size="4435057836" crc="31c1ded8" fullsha1="82ef6734aa2121c1cc7768329262b3c3c6995806" dataSha1="4db2edb826a30c23e3851b2963b68e435c1dd32a">
+	<game name="24 - The Game (Europe, Australia) (En,Fr,De,Es,It,Nl,Pl,Cs,Hu) (v2.00)" sha1="D52F7E01061712BC3A32907583633B7E4CF9C860" size="4435057836" crc="31C1DED8" fullsha1="82ef6734aa2121c1cc7768329262b3c3c6995806" dataSha1="4db2edb826a30c23e3851b2963b68e435c1dd32a">
 		<category>Games</category>
 		<description>24 - The Game (Europe, Australia) (En,Fr,De,Es,It,Nl,Pl,Cs,Hu) (v2.00)</description>
 		<rom name="24 - The Game (Europe, Australia) (En,Fr,De,Es,It,Nl,Pl,Cs,Hu) (v2.00) (Track 01).bin" size="6219333632" crc="A3840759" md5="75DA8914131DD39581C4104C8D00C9D1" sha1="BC86C4C6735F2AE908E6BDC8A4EB74FFCF97F266"/>
@@ -154,12 +149,7 @@
 		<description>4x4 Evo 2 (Europe) (En,Fr,De)</description>
 		<rom name="4x4 Evo 2 (Europe) (En,Fr,De) (Track 01).bin" size="576207072" crc="E26C91D2" md5="3B23A916C032BEC7A38C15E20C85FDF5" sha1="2FE9BD82ED80C1F759A974382ABD5FDB0B7AF61F"/>
 	</game>
-	<game name="4x4 Evolution (Europe) (En,Fr,De)" sha1="7d684dded10b478e1753e6265c83a0bc7192c0d8" size="358679851" crc="81654daf" fullsha1="d6f37ccd8284be351221a42a5c598ec3409af09e" dataSha1="3ce689ef664fa5c957e95ef8d0acbb9bdc920671">
-		<category>Games</category>
-		<description>4x4 Evolution (Europe) (En,Fr,De)</description>
-		<rom name="4x4 Evolution (Europe) (En,Fr,De) (Track 01).bin" size="557050032" crc="a6be93cd" md5="0fafff0dc6f97aa25e16f25d3beb45bb" sha1="4d6c1bdd9530ac16b58e975b0acd71459ef27d2b"/>
-	</game>
-	<game name="50 Cent - Bulletproof (Europe)" sha1="b6b9b6ee55fe56e4b9fc3b0eaf9a6bffacb7af56" size="5759357493" crc="903810bb" fullsha1="c281945328282e547238e0b4f7398dfcda02d3f9" dataSha1="4001580ae8ce94147d953134d270750e6028bcf5">
+	<game name="50 Cent - Bulletproof (Europe)" sha1="B6B9B6EE55FE56E4B9FC3B0EAF9A6BFFACB7AF56" size="5759357493" crc="903810BB" fullsha1="c281945328282e547238e0b4f7398dfcda02d3f9" dataSha1="4001580ae8ce94147d953134d270750e6028bcf5">
 		<category>Games</category>
 		<description>50 Cent - Bulletproof (Europe)</description>
 		<rom name="50 Cent - Bulletproof (Europe) (Track 01).bin" size="6390677504" crc="E9D70013" md5="21E0E1B761D136B93D0C14F507B8A9B1" sha1="03F543AE64BCA1894835753C10B478F01476F47B"/>
@@ -314,12 +304,12 @@
 		<description>ATV Offroad Fury 3 (USA)</description>
 		<rom name="ATV Offroad Fury 3 (USA) (Track 01).bin" size="4410015744" crc="215D7064" md5="2A24992030F06FCABCDE036A6A2193EE" sha1="5BAB685C4C27C0D10E34F1AD6143A30508041FA5"/>
 	</game>
-	<game name="ATV Offroad Fury 4 (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru,El)" sha1="ee01f0316583b5e75cbbae0f848634901b848129" size="5133320042" crc="ea300604" fullsha1="7d837d01ff068c7a9b870ba37ebc6100bfd929b0" dataSha1="3be9a25a9c364d5aef4556474db16f0e22036240">
+	<game name="ATV Offroad Fury 4 (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru,El)" sha1="EE01F0316583B5E75CBBAE0F848634901B848129" size="5133320042" crc="EA300604" fullsha1="7d837d01ff068c7a9b870ba37ebc6100bfd929b0" dataSha1="3be9a25a9c364d5aef4556474db16f0e22036240">
 		<category>Games</category>
 		<description>ATV Offroad Fury 4 (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru,El)</description>
 		<rom name="ATV Offroad Fury 4 (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru,El) (Track 01).bin" size="8039792640" crc="9EEDB39C" md5="14569A415532791AE779872CE59F1142" sha1="6688A322E6CF16472E3A7E8C93F0ACE64FF416A4"/>
 	</game>
-	<game name="ATV Offroad Fury 4 (USA)" sha1="8445598af85261b940a4283ce4c1ec359730aa7a" size="5015338340" crc="2bf01f17" fullsha1="14fdc2c166bb812b5b8b85ad1d23d550f60fd555" dataSha1="fc340d9f040bf421071bf926d09016db149a6c31">
+	<game name="ATV Offroad Fury 4 (USA)" sha1="8445598AF85261B940A4283CE4C1EC359730AA7A" size="5015338340" crc="2BF01F17" fullsha1="14fdc2c166bb812b5b8b85ad1d23d550f60fd555" dataSha1="fc340d9f040bf421071bf926d09016db149a6c31">
 		<category>Games</category>
 		<description>ATV Offroad Fury 4 (USA)</description>
 		<rom name="ATV Offroad Fury 4 (USA) (Track 01).bin" size="7903084544" crc="98AF3840" md5="BBC38EB9D5D702624993ADD72FE479B6" sha1="60ADC4E491E1B5337FA0C9DD0CD878FA7BD8FEF5"/>
@@ -379,11 +369,6 @@
 		<description>Action Girlz Racing (Europe)</description>
 		<rom name="Action Girlz Racing (Europe) (Track 01).bin" size="101808672" crc="0DE916B9" md5="79039E638F4F8516048D810FD3549C88" sha1="70FAFA2E932F527034DBBE825EBC0478572F2281"/>
 	</game>
-	<game name="Action Man A.T.O.M. - Alpha Teens on Machines (Europe) (En,Fr,De,Es,It,Nl,No,Da,Fi)" sha1="fb55055efbdfd9ee56429cf3772497e4a40f2ecb" size="89871147" crc="4e3a1452" fullsha1="dfda5d40944a275602524cb69ed08bd46ad345e4" dataSha1="888b09578d5018e4fca87d59509f9887ef8592e3">
-		<category>Games</category>
-		<description>Action Man A.T.O.M. - Alpha Teens on Machines (Europe) (En,Fr,De,Es,It,Nl,No,Da,Fi)</description>
-		<rom name="Action Man A.T.O.M. - Alpha Teens on Machines (Europe) (En,Fr,De,Es,It,Nl,No,Da,Fi) (Track 01).bin" size="229510512" crc="67d158e3" md5="4fdb81f003e7a68f8c73cea50e307957" sha1="f8505c6be8e558cd9970d6120795b9abb26d14b5"/>
-	</game>
 	<game name="Action Man A.T.O.M. - Alpha Teens on Machines (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" sha1="FB55055EFBDFD9EE56429CF3772497E4A40F2ECB" size="89871147" crc="4E3A1452" fullsha1="dfda5d40944a275602524cb69ed08bd46ad345e4" dataSha1="888b09578d5018e4fca87d59509f9887ef8592e3">
 		<category>Games</category>
 		<description>Action Man A.T.O.M. - Alpha Teens on Machines (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
@@ -414,7 +399,7 @@
 		<description>Adventures of Darwin, The (USA)</description>
 		<rom name="Adventures of Darwin, The (USA) (Track 01).bin" size="168553728" crc="6C200031" md5="A60CCD1B7B1C717B68E2489AD9E1EA4B" sha1="E9579D110A36DD894302E6018BBD0B5917F0546D"/>
 	</game>
-	<game name="Aeon Flux (Europe) (En,Fr,De,Es)" sha1="9020d341f8082dcbeee7a342d4eb30d5201b2007" size="4781350699" crc="a6057c9f" fullsha1="7bc2e3802965a392f48a2bdb7de9a7b1e072ecbe" dataSha1="ab4be2951286fb21879f830dfd06b80bd160fc6d">
+	<game name="Aeon Flux (Europe) (En,Fr,De,Es)" sha1="9020D341F8082DCBEEE7A342D4EB30D5201B2007" size="4781350699" crc="A6057C9F" fullsha1="7bc2e3802965a392f48a2bdb7de9a7b1e072ecbe" dataSha1="ab4be2951286fb21879f830dfd06b80bd160fc6d">
 		<category>Games</category>
 		<description>Aeon Flux (Europe) (En,Fr,De,Es)</description>
 		<rom name="Aeon Flux (Europe) (En,Fr,De,Es) (Track 01).bin" size="5898207232" crc="FD39EBA2" md5="ABBBFBB842F6125213644E4438973C90" sha1="DEC99EF2A0126B3753D25B20A23903CE9D1371A9"/>
@@ -574,11 +559,6 @@
 		<description>Aliens in the Attic (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Aliens in the Attic (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="1763311616" crc="80B24393" md5="1C631DCFFD8E20E934FF362EDB40801A" sha1="B39697A7FD8C65CD7FE7175B1E9609EE49C0077A"/>
 	</game>
-	<game name="All Star Fighters (Europe)" sha1="4b75456f52368db194bbbdafc00f3b57e206f541" size="208663907" crc="cd38d15b" fullsha1="801981691139fd3f44cf81724305cf4709902c39" dataSha1="70985d718bdb056750fc29d935f2cdd19fad394d">
-		<category>Games</category>
-		<description>All Star Fighters (Europe)</description>
-		<rom name="All Star Fighters (Europe) (Track 01).bin" size="281000496" crc="606843ca" md5="c707470fc67cb8363ea5c1efe75dda07" sha1="c3613dfb8bf140bf7066269307bf019277ae58c8"/>
-	</game>
 	<game name="All-Star Baseball 2002 (Europe)" sha1="F6591FCC7B14A431DADFA367A962EC8078FBEA53" size="417967572" crc="DCBCB3DA" fullsha1="714c767bf0d854f13e07b2160bf2d3d825090531" dataSha1="77bfabc80f35c4e4f7ad75960fac9b7fcb354087">
 		<category>Games</category>
 		<description>All-Star Baseball 2002 (Europe)</description>
@@ -653,11 +633,6 @@
 		<category>Games</category>
 		<description>Alpine Skiing 2005 (Germany) (En,De)</description>
 		<rom name="Alpine Skiing 2005 (Germany) (En,De) (Track 01).bin" size="233210208" crc="F1A6AE75" md5="F31BABDA233378B528BA2B89420859D0" sha1="9544AF3D551E1A3E7DF709AF562BB10FE34E7765"/>
-	</game>
-	<game name="Alpine Skiing 2006 featuring Bode Miller (Europe) (En,De)" sha1="173867fe7362d7a6499dc85f3d442dd8c443fa04" size="238275955" crc="ebb04cb4" fullsha1="e53a6fda6e80372726fbcd9b335cfb51acb3680a" dataSha1="a260864f98c00a51fed7337e0bb2bc876154022f">
-		<category>Games</category>
-		<description>Alpine Skiing 2006 featuring Bode Miller (Europe) (En,De)</description>
-		<rom name="Alpine Skiing 2006 featuring Bode Miller (Europe) (En,De) (Track 01).bin" size="314311872" crc="23dbb2b2" md5="f77ce67acb73cc7b1c8e2d866178aca0" sha1="a3f8f6d24a4b7c90df597a5175a3ba9bfef159fd"/>
 	</game>
 	<game name="Alpine Skiing 2006 featuring Bode Miller (Germany) (En,De)" sha1="173867FE7362D7A6499DC85F3D442DD8C443FA04" size="238275955" crc="EBB04CB4" fullsha1="e53a6fda6e80372726fbcd9b335cfb51acb3680a" dataSha1="a260864f98c00a51fed7337e0bb2bc876154022f">
 		<category>Games</category>
@@ -853,11 +828,6 @@
 		<category>Games</category>
 		<description>Arcade Action - 30 Games (Europe)</description>
 		<rom name="Arcade Action - 30 Games (Europe) (Track 01).bin" size="374617152" crc="7C780649" md5="69FBD085FEC2AB00D694E8FA1D84032B" sha1="A1B867C45A6BCC8301AB1E9F68ED7C6C8D46E1E0"/>
-	</game>
-	<game name="Arcade Action - 30 Games (Europe) (En,Fr,De,Es,It)" sha1="ab5e49ec947831753748ad9688ef88e80d24b0f8" size="205809726" crc="565b5a1c" fullsha1="41436bb78020b735638c1f99b07cb331472d8643" dataSha1="28d61b2c7ca222d4322e6c0012ffd3dde11b6c19">
-		<category>Games</category>
-		<description>Arcade Action - 30 Games (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Arcade Action - 30 Games (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="374617152" crc="7c780649" md5="69fbd085fec2ab00d694e8fa1d84032b" sha1="a1b867c45a6bcc8301ab1e9f68ed7c6c8d46e1e0"/>
 	</game>
 	<game name="Arcade Classics Volume 1 (Europe)" sha1="63036E3529697AA24BCB0BA19C89FB8FF8301399" size="131608274" crc="832B9BAE" fullsha1="ae7e5336d3bbfe2f2477b2ac239d36517e8259d1" dataSha1="c44bdfc62e62dbcb3cfb755e652a8263c36df1ca">
 		<category>Games</category>
@@ -1093,11 +1063,6 @@
 		<category>Games</category>
 		<description>Asterix at the Olympic Games (Europe) (En,De,Es,It,Nl)</description>
 		<rom name="Asterix at the Olympic Games (Europe) (En,De,Es,It,Nl) (Track 01).bin" size="2334195712" crc="C02A4267" md5="0712B15FE6A83AE21DF8D1016A704068" sha1="FF85B043C155BAE5DD659F08028FE9E604ADBAD5"/>
-	</game>
-	<game name="Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It)" sha1="4b89457e5158afd9ab9ce613f182530daa6a55d9" size="2032996378" crc="da0347e7" fullsha1="15b0904e63c3df0f80cb3a598800477fc0c8dca6" dataSha1="fdd7cbe5e57d432e72e827ce26ea794b4671dbf3">
-		<category>Games</category>
-		<description>Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="2334195712" crc="c02a4267" md5="0712b15fe6a83ae21df8d1016a704068" sha1="ff85b043c155bae5dd659f08028fe9e604adbad5"/>
 	</game>
 	<game name="Astro Boy (Europe) (En,Fr,De,Es,It)" sha1="18776F36102FC4385D791E5FBBCBB2D7F0394A80" size="2437887709" crc="6AFB039E" fullsha1="a2e3a911fb3431e7010b5b76024535f57475c7ec" dataSha1="6509f52bcbd33f1aa6e33a7f1547b54f7627febf">
 		<category>Games</category>
@@ -1974,7 +1939,7 @@
 		<description>Brian Lara International Cricket 2007 (Europe)</description>
 		<rom name="Brian Lara International Cricket 2007 (Europe) (Track 01).bin" size="3373367296" crc="DC466B24" md5="5A932D52B1D133E67FB32778E1E69CBE" sha1="D0A2381B1E9FA03037596BAEAAB2995555461FBF"/>
 	</game>
-	<game name="Britney's Dance Beat (Europe) (En,Fr,De)" sha1="b2a4923869396467e641fd8c6b3d153fc4f51609" size="4363074428" crc="3df45c09" fullsha1="a9e9137fd02205fce3af900fbaf24849fb2337dd" dataSha1="eca4bf7fa40c3d50e5573eb0cc488749442b1b67">
+	<game name="Britney's Dance Beat (Europe) (En,Fr,De)" sha1="B2A4923869396467E641FD8C6B3D153FC4F51609" size="4363074428" crc="3DF45C09" fullsha1="a9e9137fd02205fce3af900fbaf24849fb2337dd" dataSha1="eca4bf7fa40c3d50e5573eb0cc488749442b1b67">
 		<category>Games</category>
 		<description>Britney's Dance Beat (Europe) (En,Fr,De)</description>
 		<rom name="Britney's Dance Beat (Europe) (En,Fr,De) (Track 01).bin" size="4521820160" crc="9166FC7B" md5="A7A8050A93E1594CBBFEFB9002306FB1" sha1="104D8CEED19EB48F07F07A54B0EE82BA1F114AA9"/>
@@ -2084,11 +2049,6 @@
 		<description>Burnout Dominator (USA)</description>
 		<rom name="Burnout Dominator (USA) (Track 01).bin" size="4218617856" crc="B86C5F50" md5="0BA329D070CD6179DF80B4197DF6B17E" sha1="6EB7358C00FE6FC0D1141E5E58A20680A6CFC1C0"/>
 	</game>
-	<game name="Burnout Revenge (Europe) (En,Fr,De)" sha1="017099a3a91377dfa660876ac321464868a59e96" size="2123835309" crc="d22c3f68" fullsha1="5131758a8732b93e1ee92f01dd8e6729ebc73f51" dataSha1="cf8ccfec54161edba29f69ab2944219ae4cbf7f1">
-		<category>Games</category>
-		<description>Burnout Revenge (Europe) (En,Fr,De)</description>
-		<rom name="Burnout Revenge (Europe) (En,Fr,De) (Track 01).bin" size="3979935744" crc="310fb6a5" md5="6add8b05a0f26eb7ca36d6396cf8827b" sha1="b7734018042b9280e0de1f16721e4bc88ffe23be"/>
-	</game>
 	<game name="Burnout Revenge (Europe, Australia) (En,Fr,De)" sha1="017099A3A91377DFA660876AC321464868A59E96" size="2123835309" crc="D22C3F68" fullsha1="5131758a8732b93e1ee92f01dd8e6729ebc73f51" dataSha1="cf8ccfec54161edba29f69ab2944219ae4cbf7f1">
 		<category>Games</category>
 		<description>Burnout Revenge (Europe, Australia) (En,Fr,De)</description>
@@ -2113,6 +2073,11 @@
 		<category>Games</category>
 		<description>Butt-Ugly Martians - Zoom or Doom! (USA)</description>
 		<rom name="Butt-Ugly Martians - Zoom or Doom! (USA) (Track 01).bin" size="571787664" crc="2B94EBA9" md5="F23B05CA637CA3DA3289784991AD57E8" sha1="1298AC8301305DCF7A77C5213AFA4C7AE3BB11E2"/>
+	</game>
+	<game name="Buzz! Brain of the World (Europe) (En,No,Da)" sha1="8BFE06BC26DF5782017BF809802E765526942AA4" size="2919047716" crc="74D6EBEA" fullsha1="1e7f254de0638cd9ada755118f9c9708d7a74192" dataSha1="30c0a617f8f4b2a49d65a2bf6324a709184eec4c">
+		<category>Games</category>
+		<description>Buzz! Brain of the World (Europe) (En,No,Da)</description>
+		<rom name="Buzz! Brain of the World (Europe) (En,No,Da) (Track 01).bin" size="4652105728" crc="17D4C59F" md5="D66A98A0FC25BBCA391238CB565507C3" sha1="0B29CB3C804C907757373A51E5C21BD2CB4A1CA6"/>
 	</game>
 	<game name="Buzz! Das Mega-Quiz (Germany)" sha1="B71E4EDD5AEFC947E3AF64285E90C05E5CE9833F" size="2433465030" crc="75AD5B8C" fullsha1="be6d57072f4f87956f2e8c305cb4b375e8bcbf40" dataSha1="3db23be4a229201bb11efe4531c1aaead1a309a1">
 		<category>Games</category>
@@ -2168,11 +2133,6 @@
 		<category>Games</category>
 		<description>Buzz! Junior - RoboJam (USA) (En,Fr,Es)</description>
 		<rom name="Buzz! Junior - RoboJam (USA) (En,Fr,Es) (Track 01).bin" size="1842380800" crc="463B3F6E" md5="CBE47E7EE819921AFEA1DF8715AEB99D" sha1="CBCD636D45334D1A48F8C357DB6C442161E819C0"/>
-	</game>
-	<game name="Buzz! Norgesmester (Europe) (En,No,Da)" sha1="8BFE06BC26DF5782017BF809802E765526942AA4" size="2919047716" crc="74D6EBEA" fullsha1="1e7f254de0638cd9ada755118f9c9708d7a74192" dataSha1="30c0a617f8f4b2a49d65a2bf6324a709184eec4c">
-		<category>Games</category>
-		<description>Buzz! Norgesmester (Europe) (En,No,Da)</description>
-		<rom name="Buzz! Norgesmester (Europe) (En,No,Da) (Track 01).bin" size="4652105728" crc="17D4C59F" md5="D66A98A0FC25BBCA391238CB565507C3" sha1="0B29CB3C804C907757373A51E5C21BD2CB4A1CA6"/>
 	</game>
 	<game name="Buzz! The Hollywood Quiz (Europe) (Fr,De,It)" sha1="E3FC3AF261A822F3DF22E1D8DE4538D25E82AAEA" size="3629059422" crc="5249A0CD" fullsha1="6cb71077cb53b51fe4a3b17b94ba579de7dc7639" dataSha1="424b3555a25faafa2751a12a504da2c11c742137">
 		<category>Games</category>
@@ -2409,20 +2369,10 @@
 		<description>Capcom Classics Collection (Europe)</description>
 		<rom name="Capcom Classics Collection (Europe) (Track 01).bin" size="3007709184" crc="34C4A350" md5="970BD430D7D3E262F8ADD3653F891152" sha1="9E231C4BE626E521BFC6FCA93AA951A77693CFFF"/>
 	</game>
-	<game name="Capcom Classics Collection Vol. 1 (Europe)" sha1="074635d8116b43f1b623fbf1be7115ca344e147f" size="2472938297" crc="b3063095" fullsha1="e8b2b933ddc2595e0efc3c6b8825e24b26e75dfa" dataSha1="c710eb4d77c0f1ec344fa575171a3d7ab6b1765b">
-		<category>Games</category>
-		<description>Capcom Classics Collection Vol. 1 (Europe)</description>
-		<rom name="Capcom Classics Collection Vol. 1 (Europe) (Track 01).bin" size="3007709184" crc="34c4a350" md5="970bd430d7d3e262f8add3653f891152" sha1="9e231c4be626e521bfc6fca93aa951a77693cfff"/>
-	</game>
 	<game name="Capcom Classics Collection Vol. 1 (USA)" sha1="6666130D2F1FFE7B55F0A2C1F008023D9E36A180" size="2528771438" crc="B6687880" fullsha1="c3367803147574d4a98d0f705d99f337ec297cd6" dataSha1="e8029d69c2c2a0f62cfdb9d2c43c85c58a7a61dd">
 		<category>Games</category>
 		<description>Capcom Classics Collection Vol. 1 (USA)</description>
 		<rom name="Capcom Classics Collection Vol. 1 (USA) (Track 01).bin" size="3069411328" crc="DF1D83F2" md5="140C3BBC8E7BE00602C3322F9591D0B6" sha1="986D1EE8C96A261EF737A57892ACF9CB0C6E1E21"/>
-	</game>
-	<game name="Capcom Classics Collection Vol. 2 (Europe)" sha1="6324cd7a50de194bf31a2a03821e27966c6aad33" size="2656338681" crc="305c8900" fullsha1="3bcc9ee87f71fef93b16afb0646685cda8052006" dataSha1="d0263cdea9b7a09b6f2f8d1f9962bf1ba25cd43d">
-		<category>Games</category>
-		<description>Capcom Classics Collection Vol. 2 (Europe)</description>
-		<rom name="Capcom Classics Collection Vol. 2 (Europe) (Track 01).bin" size="3231645696" crc="592c3a88" md5="eece009408699d83c9b1914cabf4406b" sha1="017a7b38e8feebf6ea761b83269bc759cbadd83e"/>
 	</game>
 	<game name="Capcom Classics Collection Vol. 2 (Europe, Australia)" sha1="6324CD7A50DE194BF31A2A03821E27966C6AAD33" size="2656338681" crc="305C8900" fullsha1="3bcc9ee87f71fef93b16afb0646685cda8052006" dataSha1="d0263cdea9b7a09b6f2f8d1f9962bf1ba25cd43d">
 		<category>Games</category>
@@ -2594,11 +2544,6 @@
 		<description>Cel Damage Overdrive (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Cel Damage Overdrive (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="391417488" crc="A0573E06" md5="70BDC8C6B23733E8C2838AC3A169C28F" sha1="16116FC881432B5ECCB0E09A9BF8A369B8B48371"/>
 	</game>
-	<game name="Centre Court - Hard Hitter (Europe) (En,Fr,De)" sha1="446af5ba65431f80bb9aa5fab45844d67a142504" size="259769540" crc="9566686e" fullsha1="46eed6dcd5898cdde3bf07b319760e77684e4381" dataSha1="950189784578b291421b8dadc8d0c69c0e9cf54d">
-		<category>Games</category>
-		<description>Centre Court - Hard Hitter (Europe) (En,Fr,De)</description>
-		<rom name="Centre Court - Hard Hitter (Europe) (En,Fr,De) (Track 01).bin" size="512594880" crc="b7bfe430" md5="8e386eca33f0096310feb92369d8b08f" sha1="260becd92d44be81ef79cba015f05afd8bb143c4"/>
-	</game>
 	<game name="Centre Court - Hard Hitter (Europe, Australia) (En,Fr,De)" sha1="446AF5BA65431F80BB9AA5FAB45844D67A142504" size="259769540" crc="9566686E" fullsha1="46eed6dcd5898cdde3bf07b319760e77684e4381" dataSha1="950189784578b291421b8dadc8d0c69c0e9cf54d">
 		<category>Games</category>
 		<description>Centre Court - Hard Hitter (Europe, Australia) (En,Fr,De)</description>
@@ -2619,12 +2564,12 @@
 		<description>Champions - Return to Arms (USA) (v2.00)</description>
 		<rom name="Champions - Return to Arms (USA) (v2.00) (Track 01).bin" size="4293984256" crc="EC74B7B0" md5="886C884B18F4CCC301907D2C11D98DD1" sha1="9ECD092EEFBAC8776B3981606AAD1166F4BAC227"/>
 	</game>
-	<game name="Champions of Norrath (Europe) (En,Fr,De)" sha1="3ad1f9133f907be8b504ae4af4f8ee4c4792752a" size="6901886365" crc="5b1a75c5" fullsha1="ea997f6f40afe02ee885382611b402353de33fae" dataSha1="7339a48e970fea586f067e375739df1a4dfc0ac3">
+	<game name="Champions of Norrath (Europe) (En,Fr,De)" sha1="3AD1F9133F907BE8B504AE4AF4F8EE4C4792752A" size="6901886365" crc="5B1A75C5" fullsha1="ea997f6f40afe02ee885382611b402353de33fae" dataSha1="7339a48e970fea586f067e375739df1a4dfc0ac3">
 		<category>Games</category>
 		<description>Champions of Norrath (Europe) (En,Fr,De)</description>
 		<rom name="Champions of Norrath (Europe) (En,Fr,De) (Track 01).bin" size="8522956800" crc="0B36C29A" md5="F1BB48CFC23B293B341BAABF9FD3B83C" sha1="F6A96C4853C0997A3E150CAEF20B22AA5114326D"/>
 	</game>
-	<game name="Champions of Norrath (USA)" sha1="3a9d9d132cf2b78052e650cd0fb3e5f06cf7b201" size="6779746763" crc="ecdc3a59" fullsha1="42e5c7158ffdd162c33f50af9bdd8c443fdeba4e" dataSha1="734e4c9c69038a87bbdee9aa4cac50d4328ce825">
+	<game name="Champions of Norrath (USA)" sha1="3A9D9D132CF2B78052E650CD0FB3E5F06CF7B201" size="6779746763" crc="ECDC3A59" fullsha1="42e5c7158ffdd162c33f50af9bdd8c443fdeba4e" dataSha1="734e4c9c69038a87bbdee9aa4cac50d4328ce825">
 		<category>Games</category>
 		<description>Champions of Norrath (USA)</description>
 		<rom name="Champions of Norrath (USA) (Track 01).bin" size="8319303680" crc="21CF5560" md5="35C9FEB77A5D0927286938C83FF71A3D" sha1="F0B5CA74E7D54915304431F0B2B7DCE58EA70A0D"/>
@@ -2764,11 +2709,6 @@
 		<description>City Crisis (USA)</description>
 		<rom name="City Crisis (USA) (Track 01).bin" size="631337952" crc="24A05C45" md5="37FB9D61245DA7B9CBB3F4B5150AA1A1" sha1="C3CF1A92101429EBE6AE32CF471FD8E8BF75168E"/>
 	</game>
-	<game name="City Soccer Challenge (Europe)" sha1="c38164239ec89b4aff55f5198d7541799ebe07c4" size="41604626" crc="726722fc" fullsha1="144e571c78f1693afd485a2db3e1fbff421eece4" dataSha1="e8a77e3b74d2b293e4ab52169f43477508df94c5">
-		<category>Games</category>
-		<description>City Soccer Challenge (Europe)</description>
-		<rom name="City Soccer Challenge (Europe) (Track 01).bin" size="104177136" crc="2d2923a9" md5="f785bd5af72ea48030b98cde8273e1d8" sha1="4c85009bf58da239582ab9cac068ae752fb0ab71"/>
-	</game>
 	<game name="City Soccer Challenge (Europe, Australia)" sha1="C38164239EC89B4AFF55F5198D7541799EBE07C4" size="41604626" crc="726722FC" fullsha1="144e571c78f1693afd485a2db3e1fbff421eece4" dataSha1="e8a77e3b74d2b293e4ab52169f43477508df94c5">
 		<category>Games</category>
 		<description>City Soccer Challenge (Europe, Australia)</description>
@@ -2783,11 +2723,6 @@
 		<category>Games</category>
 		<description>Clever Kids - Dino Land (Europe) (En,Fr,De,Es,It,Pt)</description>
 		<rom name="Clever Kids - Dino Land (Europe) (En,Fr,De,Es,It,Pt) (Track 01).bin" size="39835824" crc="124CA95C" md5="C6A5F1A9CB3CA4ED5B75C00BE400D19A" sha1="3BD04844DAA370244445A03CB892344531205E45"/>
-	</game>
-	<game name="Clever Kids - Pony World (Europe) (En,Fr,De,Es,It,Pt)" sha1="565f9f1f65864280f186b4edfe3658f866948402" size="40524985" crc="ad76f922" fullsha1="6237a8e15e6e9604abcfa96e103b7a9edd919218" dataSha1="362a7882b631704e92a9136f34718ae29c4b5551">
-		<category>Games</category>
-		<description>Clever Kids - Pony World (Europe) (En,Fr,De,Es,It,Pt)</description>
-		<rom name="Clever Kids - Pony World (Europe) (En,Fr,De,Es,It,Pt) (Track 01).bin" size="48719328" crc="3367607a" md5="bbae51e8fef46719ab75e06bc2aab08e" sha1="fd78002d5d37983aed51336be05d9360034c5f8e"/>
 	</game>
 	<game name="Clever Kids - Pony World (Europe, Australia) (En,Fr,De,Es,It,Pt)" sha1="565F9F1F65864280F186B4EDFE3658F866948402" size="40524985" crc="AD76F922" fullsha1="6237a8e15e6e9604abcfa96e103b7a9edd919218" dataSha1="362a7882b631704e92a9136f34718ae29c4b5551">
 		<category>Games</category>
@@ -3279,11 +3214,6 @@
 		<description>Crash 'n' Burn (USA)</description>
 		<rom name="Crash 'n' Burn (USA) (Track 01).bin" size="1809776640" crc="EF004301" md5="C4AEA35CF296B09A1B05AC7D9F0EF3C3" sha1="D957C23C4297B9093D25F0DDA2C70B1D40917AAE"/>
 	</game>
-	<game name="Crash - Mind Over Mutant (Europe) (En,Fr,De,Es,It,Nl)" sha1="a574e3f5495062f47983ee2548873056cb187bad" size="2361718276" crc="d3f66894" fullsha1="49fc20aee974d729f9fdb4aaa1e4338ba2322144" dataSha1="f92d32b59335917bd3cde18bcb8347103f80a613">
-		<category>Games</category>
-		<description>Crash - Mind Over Mutant (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Crash - Mind Over Mutant (Europe) (En,Fr,De,Es,It,Nl) (Track 01).bin" size="3201105920" crc="4dcd57b5" md5="1de5d75d7928ed60931e2ff859e886d0" sha1="257eb5396b98f0f94d077674c0279e21a9e23442"/>
-	</game>
 	<game name="Crash - Mind over Mutant (Europe, Australia) (En,Fr,De,Es,It,Nl)" sha1="A574E3F5495062F47983EE2548873056CB187BAD" size="2361718276" crc="D3F66894" fullsha1="49fc20aee974d729f9fdb4aaa1e4338ba2322144" dataSha1="f92d32b59335917bd3cde18bcb8347103f80a613">
 		<category>Games</category>
 		<description>Crash - Mind over Mutant (Europe, Australia) (En,Fr,De,Es,It,Nl)</description>
@@ -3379,11 +3309,6 @@
 		<description>Crazy Frog Racer 2 (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Crazy Frog Racer 2 (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="532810320" crc="A4BA90BA" md5="6284B82CE71EAF61695EF95A17081A4E" sha1="219ECA5F810A86A8467461DCF4548CFC954390E8"/>
 	</game>
-	<game name="Crazy Golf (Europe)" sha1="7a61b491548d80882ce1d40f3cadeaec52e382d2" size="67236525" crc="f5f92ec3" fullsha1="337bfe5d370202d496192993c1b2927f064e9076" dataSha1="e8f27d49a93157cc7af2e5c95eb089ad1b9778a0">
-		<category>Games</category>
-		<description>Crazy Golf (Europe)</description>
-		<rom name="Crazy Golf (Europe) (Track 01).bin" size="188465760" crc="b52828df" md5="b96099e052e3ca7af5ba254c0a6cb81c" sha1="94370c8ade75ef59906cfa1131b7d576fb0b6bc2"/>
-	</game>
 	<game name="Crazy Golf (Europe, Australia)" sha1="7A61B491548D80882CE1D40F3CADEAEC52E382D2" size="67236525" crc="F5F92EC3" fullsha1="337bfe5d370202d496192993c1b2927f064e9076" dataSha1="e8f27d49a93157cc7af2e5c95eb089ad1b9778a0">
 		<category>Games</category>
 		<description>Crazy Golf (Europe, Australia)</description>
@@ -3393,11 +3318,6 @@
 		<category>Games</category>
 		<description>Crazy Golf - World Tour (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Crazy Golf - World Tour (Europe) (En,Fr,De,Es,It,Nl) (Track 01).bin" size="167702304" crc="46B6A253" md5="406C08B4EABB749807846FBE12A0839D" sha1="D15D95A0680EA76292C2C31B1587EFED930D9F64"/>
-	</game>
-	<game name="Crazy Taxi (Europe) (En,Fr,De,Es)" sha1="77521df48f39610713c945e68181eeeb4a5876bb" size="73397160" crc="c13ac023" fullsha1="8fb6c5ce69806d751af0aa35741be3c9452469aa" dataSha1="057693a2447597e0b821258453d1a39dd659e82f">
-		<category>Games</category>
-		<description>Crazy Taxi (Europe) (En,Fr,De,Es)</description>
-		<rom name="Crazy Taxi (Europe) (En,Fr,De,Es) (Track 01).bin" size="750130416" crc="97b82619" md5="4868478b38d6e760b8a99e6402c5febc" sha1="d3a9fcfd0c29d248b3d20302651efc47989eab6d"/>
 	</game>
 	<game name="Crazy Taxi (Europe, Australia) (En,Fr,De,Es)" sha1="77521DF48F39610713C945E68181EEEB4A5876BB" size="73397160" crc="C13AC023" fullsha1="8fb6c5ce69806d751af0aa35741be3c9452469aa" dataSha1="057693a2447597e0b821258453d1a39dd659e82f">
 		<category>Games</category>
@@ -3494,11 +3414,6 @@
 		<description>Cue Academy - Snooker, Pool, Billiards (Europe)</description>
 		<rom name="Cue Academy - Snooker, Pool, Billiards (Europe) (Track 01).bin" size="176000160" crc="7421ED8C" md5="586FA0E568B86D441C2FCE6462A2259B" sha1="5FAF01C2B92D748DA40A082FE74A0200F5B80951"/>
 	</game>
-	<game name="Cue Academy - Snooker, Pool, Billiards (Europe) (En,Fr,De,Es,It)" sha1="3ce15aac644f35cd79e3265d6f23c74d74f3f895" size="113901270" crc="4a732df3" fullsha1="d7d65130b123c7da7453a77f784963dd2832fa99" dataSha1="8be1cfc3862fb4f50110038297718343a2818678">
-		<category>Games</category>
-		<description>Cue Academy - Snooker, Pool, Billiards (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Cue Academy - Snooker, Pool, Billiards (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="176000160" crc="7421ed8c" md5="586fa0e568b86d441c2fce6462a2259b" sha1="5faf01c2b92d748da40a082fe74a0200f5b80951"/>
-	</game>
 	<game name="Culdcept (USA)" sha1="3E6BFB641BDFD870D8EEE92B740EFB1A9221EBFE" size="957213842" crc="BC1F4BE7" fullsha1="01c30d0ff73a6a9490e8bebe056ee6e9bc15632b" dataSha1="5d1f5995d30d33455e825acad1489c04ccbae07b">
 		<category>Games</category>
 		<description>Culdcept (USA)</description>
@@ -3548,11 +3463,6 @@
 		<category>Games</category>
 		<description>Cyclone Circus (Europe) (En,Fr,De,Es)</description>
 		<rom name="Cyclone Circus (Europe) (En,Fr,De,Es) (Track 01).bin" size="1984790528" crc="4BA92286" md5="2FBA8D55AAF94D20EDDE888780185A1A" sha1="D451ED43549663C3AD760A88AB4C2A7040E834AC"/>
-	</game>
-	<game name="D-Unit Drift Racing (Europe)" sha1="d2bfde0a31758f08ad12451f3623c2190583f759" size="121097595" crc="56e54781" fullsha1="784a794c52482824434fc493d17b8718486bec2b" dataSha1="1a76c42897e3b931b5849dcf2fd5b5745f50cf94">
-		<category>Games</category>
-		<description>D-Unit Drift Racing (Europe)</description>
-		<rom name="D-Unit Drift Racing (Europe) (Track 01).bin" size="235566912" crc="2d8f8056" md5="4f7efa48b6a5df255dd39f376c8d7e1f" sha1="5ac8e47fe139fd2fe2548abf99bc10e7745ede3f"/>
 	</game>
 	<game name="D-Unit Drift Racing (Europe, Australia)" sha1="D2BFDE0A31758F08AD12451F3623C2190583F759" size="121097595" crc="56E54781" fullsha1="784a794c52482824434fc493d17b8718486bec2b" dataSha1="1a76c42897e3b931b5849dcf2fd5b5745f50cf94">
 		<category>Games</category>
@@ -4074,20 +3984,10 @@
 		<description>Devil May Cry 2 (Europe) (En,Fr,De,Es,It) (Disc 1)</description>
 		<rom name="Devil May Cry 2 (Europe) (En,Fr,De,Es,It) (Disc 1) (Track 01).bin" size="4698767360" crc="A797EE5D" md5="78D99499EFD94525A9516AFF947FB21C" sha1="DFB6B172A126A0429D7DFB5DD6DA3823A4311A30"/>
 	</game>
-	<game name="Devil May Cry 2 (Europe) (En,Fr,De,Es,It) (Disc 1) (Dante Disc)" sha1="d2d553748d0ae6de45bb982be944302c02dea45a" size="1224734871" crc="fe67c262" fullsha1="32e461685426fae75239c19b0bd9df75cbb6da87" dataSha1="d4c7595dc2093623cca6554102ebc7c70e1c2884">
-		<category>Games</category>
-		<description>Devil May Cry 2 (Europe) (En,Fr,De,Es,It) (Disc 1) (Dante Disc)</description>
-		<rom name="Devil May Cry 2 (Europe) (En,Fr,De,Es,It) (Disc 1) (Dante Disc) (Track 01).bin" size="4698767360" crc="a797ee5d" md5="78d99499efd94525a9516aff947fb21c" sha1="dfb6b172a126a0429d7dfb5dd6da3823a4311a30"/>
-	</game>
 	<game name="Devil May Cry 2 (Europe) (En,Fr,De,Es,It) (Disc 2)" sha1="2F1B01F00BF61A33768131D382FF8B69A64A8B61" size="1224665981" crc="DFF95EBD" fullsha1="9be4164e09b5accbeeb13cc392c5b7def26d8bdc" dataSha1="e1b636bf35f6575962745b9d37f7f52177e51046">
 		<category>Games</category>
 		<description>Devil May Cry 2 (Europe) (En,Fr,De,Es,It) (Disc 2)</description>
 		<rom name="Devil May Cry 2 (Europe) (En,Fr,De,Es,It) (Disc 2) (Track 01).bin" size="4698767360" crc="80EC1300" md5="BB661CD89D3FB72B927861BA5F8E8EA6" sha1="AB96C7689330DA057C0E040049EF1E418D94AED4"/>
-	</game>
-	<game name="Devil May Cry 2 (Europe) (En,Fr,De,Es,It) (Disc 2) (Lucia Disc)" sha1="2f1b01f00bf61a33768131d382ff8b69a64a8b61" size="1224665981" crc="dff95ebd" fullsha1="9be4164e09b5accbeeb13cc392c5b7def26d8bdc" dataSha1="e1b636bf35f6575962745b9d37f7f52177e51046">
-		<category>Games</category>
-		<description>Devil May Cry 2 (Europe) (En,Fr,De,Es,It) (Disc 2) (Lucia Disc)</description>
-		<rom name="Devil May Cry 2 (Europe) (En,Fr,De,Es,It) (Disc 2) (Lucia Disc) (Track 01).bin" size="4698767360" crc="80ec1300" md5="bb661cd89d3fb72b927861ba5f8e8ea6" sha1="ab96c7689330da057c0e040049ef1e418d94aed4"/>
 	</game>
 	<game name="Devil May Cry 2 (USA) (Disc 1)" sha1="CDE1C0C987FCFD3AFC4DA383AD7BB2E8A22F4C26" size="1161308924" crc="E203CD68" fullsha1="e9b349350264d1f894cf130a3ddf853ea561c954" dataSha1="71678e4f7486820ea16034ec433d85da8e4a0736">
 		<category>Games</category>
@@ -4118,11 +4018,6 @@
 		<category>Games</category>
 		<description>Devil May Cry 3 - Dante's Awakening (USA) (En,Ja,Ko)</description>
 		<rom name="Devil May Cry 3 - Dante's Awakening (USA) (En,Ja,Ko) (Track 01).bin" size="3865706496" crc="57FE4C7A" md5="04D74BFECCB7A15CA1C7826BDA07F54A" sha1="0EB1E437CC30B6E89BFFE01708585587C3DEF7FC"/>
-	</game>
-	<game name="Devil May Cry 3 - Dante's Awakening - Special Edition (Europe) (En,Fr,De,Es,It)" sha1="a8bacb22c8d750712b183cf12c3e81a89ee42c7d" size="3428044901" crc="485c4397" fullsha1="24be63d3120c1316408a848740ac44a9d3a4936a" dataSha1="b3747eaf56f137b6e7dc81fba0909920d8da93c9">
-		<category>Games</category>
-		<description>Devil May Cry 3 - Dante's Awakening - Special Edition (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Devil May Cry 3 - Dante's Awakening - Special Edition (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="4499308544" crc="29554142" md5="df371ed5fc5468c4ccf3e4a8ca3d02bf" sha1="e73e771d0aa4e5d1c5f59cc24d51925320f0ae9a"/>
 	</game>
 	<game name="Diabolik - The Original Sin (Europe) (En,Fr,De,Es,It,Nl)" sha1="C23FA94F7E8EB471FE7F54D590BE4542F52A9DB0" size="2957565793" crc="E87D1913" fullsha1="3a7c75b5e0bfbec7975f879d3afb5f7a296f11cc" dataSha1="b5b23f28450eba86b589dc9e31841509a6de2a2e">
 		<category>Games</category>
@@ -4799,10 +4694,10 @@
 		<description>Dragon Ball Z - Budokai Tenkaichi (USA)</description>
 		<rom name="Dragon Ball Z - Budokai Tenkaichi (USA) (Track 01).bin" size="3480190976" crc="6B4EF8BD" md5="23EC8EF03DFEA87BE2D3DD85F36D8E6A" sha1="F470D67A62FA55F60AA1B61E7B7D1633C3A363A9"/>
 	</game>
-	<game name="Dragon Ball Z - Budokai Tenkaichi 2 (Europe, Australia) (En,Ja,Fr,De,Es,It)" sha1="78DFE3C073FD20FFD9C295C65A71E41C3D78931A" size="1792443206" crc="7BF1E630" fullsha1="f63857092acef5e1fc175620d6c36795eef7c0cd" dataSha1="10fee71f3c261a3a7b51096ce75e438052710d27">
+	<game name="Dragon Ball Z - Budokai Tenkaichi 2 (Europe, Australia) (En,Fr,De,Es,It)" sha1="78DFE3C073FD20FFD9C295C65A71E41C3D78931A" size="1792443206" crc="7BF1E630" fullsha1="f63857092acef5e1fc175620d6c36795eef7c0cd" dataSha1="10fee71f3c261a3a7b51096ce75e438052710d27">
 		<category>Games</category>
-		<description>Dragon Ball Z - Budokai Tenkaichi 2 (Europe, Australia) (En,Ja,Fr,De,Es,It)</description>
-		<rom name="Dragon Ball Z - Budokai Tenkaichi 2 (Europe, Australia) (En,Ja,Fr,De,Es,It) (Track 01).bin" size="3148382208" crc="41555E59" md5="4AD81F911E368136D9A609D9BAFF3105" sha1="FFFE7DB6A8752AFC9F496132474F22BCF3ACC154"/>
+		<description>Dragon Ball Z - Budokai Tenkaichi 2 (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Dragon Ball Z - Budokai Tenkaichi 2 (Europe, Australia) (En,Fr,De,Es,It) (Track 01).bin" size="3148382208" crc="41555E59" md5="4AD81F911E368136D9A609D9BAFF3105" sha1="FFFE7DB6A8752AFC9F496132474F22BCF3ACC154"/>
 	</game>
 	<game name="Dragon Ball Z - Budokai Tenkaichi 2 (USA) (En,Ja)" sha1="254E82C532847877F7D99F849E9293D0F9171B27" size="1707729615" crc="CB608EB1" fullsha1="37725fe00137fdee14ba29cb5a0b04ef51c14a8b" dataSha1="5600279a5b8f1b3e940dc0b0f4012e1519e54f95">
 		<category>Games</category>
@@ -4929,11 +4824,6 @@
 		<description>DreamWorks Kung Fu Panda (USA)</description>
 		<rom name="DreamWorks Kung Fu Panda (USA) (Track 01).bin" size="4179656704" crc="D24DA8E8" md5="FF18E14B5C32D7C76B627138892B0FBC" sha1="22E9402555BBBDA4209FFF487EA3931A68213848"/>
 	</game>
-	<game name="DreamWorks Madagascar (Europe)" sha1="fb88bb116c0c436e4e86be69e80f343e15a5a2ed" size="477900148" crc="41f5bf55" fullsha1="99157c6b4100dd79279eb1f3fdf1a1196f495d1e" dataSha1="0e8e0216696e59cc16f9e6fd48529df19f82ea64">
-		<category>Games</category>
-		<description>DreamWorks Madagascar (Europe)</description>
-		<rom name="DreamWorks Madagascar (Europe) (Track 01).bin" size="614817504" crc="5f2df6bd" md5="9f11e62a5fac297d171bf38a1c6ee047" sha1="1090d7c5cb4d4547de8b48cc42f598e5d724b824"/>
-	</game>
 	<game name="DreamWorks Madagascar (Europe) (Fr,De)" sha1="32B0342AFA3D2F00BCC1BFFE0ED464D4EA822281" size="563690441" crc="A5FA24EE" fullsha1="b6971b0d3d203bad4276121d2570c039225e6b6e" dataSha1="bb7ea83aa61c056736be95fae28fc17459fc1df7">
 		<category>Games</category>
 		<description>DreamWorks Madagascar (Europe) (Fr,De)</description>
@@ -5043,11 +4933,6 @@
 		<category>Games</category>
 		<description>DreamWorks Shrek's Carnival Craze - Party Games (USA)</description>
 		<rom name="DreamWorks Shrek's Carnival Craze - Party Games (USA) (Track 01).bin" size="2587492352" crc="D8456478" md5="67E921015BE59ECF35CF5F36F1E227D0" sha1="94E7B62970B6537D3CF6A3023031EBD3150E945D"/>
-	</game>
-	<game name="Driv3r (Europe, Australia) (En,Fr,De,Es,It)" sha1="ef1be4517a1643a617d4398c64a1d07205e3bfad" size="3520021510" crc="506e9f2f" fullsha1="e3f98c76ca05e75bd07d8139f841d621a984a861" dataSha1="98912b30490a260c0fcf9b235f0393014f26d9e4">
-		<category>Games</category>
-		<description>Driv3r (Europe, Australia) (En,Fr,De,Es,It)</description>
-		<rom name="Driv3r (Europe, Australia) (En,Fr,De,Es,It) (Track 01).bin" size="4278321152" crc="81db9dce" md5="b3931f802633dcf0bb5a29348fa91143" sha1="178b5bd57586a83d2927237075c4f896e99c752c"/>
 	</game>
 	<game name="Driv3r (Europe, Australia) (En,Fr,De,It)" sha1="EF1BE4517A1643A617D4398C64A1D07205E3BFAD" size="3520021510" crc="506E9F2F" fullsha1="e3f98c76ca05e75bd07d8139f841d621a984a861" dataSha1="98912b30490a260c0fcf9b235f0393014f26d9e4">
 		<category>Games</category>
@@ -5277,7 +5162,7 @@
 		<description>Dynasty Warriors 5 - Xtreme Legends (USA)</description>
 		<rom name="Dynasty Warriors 5 - Xtreme Legends (USA) (Track 01).bin" size="4383670272" crc="3A0965FB" md5="3717D1003BA4886E4CD67583B815CC64" sha1="93EC170D4DFFC4228BB5D5ED127249EB7B4D0416"/>
 	</game>
-	<game name="Dynasty Warriors 6 (USA)" sha1="8694dcb38a4a3a96ac5e0193e551fa9997cf44d9" size="7078705886" crc="072f4119" fullsha1="4fa4ef12bd35044ca31c5c8a398d62cbdd559ae1" dataSha1="1d9b9aa374228378831c460f3eaf44d1a216378e">
+	<game name="Dynasty Warriors 6 (USA)" sha1="8694DCB38A4A3A96AC5E0193E551FA9997CF44D9" size="7078705886" crc="072F4119" fullsha1="4fa4ef12bd35044ca31c5c8a398d62cbdd559ae1" dataSha1="1d9b9aa374228378831c460f3eaf44d1a216378e">
 		<category>Games</category>
 		<description>Dynasty Warriors 6 (USA)</description>
 		<rom name="Dynasty Warriors 6 (USA) (Track 01).bin" size="7679967232" crc="D7AC892F" md5="E01CF15AF84C3A1EFB42A06A64AD6436" sha1="11598F05116D28E725AB9B0139834E296F801529"/>
@@ -5767,7 +5652,7 @@
 		<description>EyeToy - Kinetic (USA)</description>
 		<rom name="EyeToy - Kinetic (USA) (Track 01).bin" size="4249550848" crc="BA22F93E" md5="C3EE61FD8CAF71FEA6FECDCDF63F0EC3" sha1="FF80A59521DD36EF315DAC37291366704F47DA01"/>
 	</game>
-	<game name="EyeToy - Kinetic Combat (Europe, Australia) (En,Fr,De,Es,It,Pt,No)" sha1="ece2e5c2cd9751d45c9a5f1af781b3d6f5148d3b" size="4310611495" crc="64fd5be8" fullsha1="7ca2286114b1693a822939a01448dce5c666a242" dataSha1="e5b651dfb3989cdf95f5369636903f4fd86d89ba">
+	<game name="EyeToy - Kinetic Combat (Europe, Australia) (En,Fr,De,Es,It,Pt,No)" sha1="ECE2E5C2CD9751D45C9A5F1AF781B3D6F5148D3B" size="4310611495" crc="64FD5BE8" fullsha1="7ca2286114b1693a822939a01448dce5c666a242" dataSha1="e5b651dfb3989cdf95f5369636903f4fd86d89ba">
 		<category>Games</category>
 		<description>EyeToy - Kinetic Combat (Europe, Australia) (En,Fr,De,Es,It,Pt,No)</description>
 		<rom name="EyeToy - Kinetic Combat (Europe, Australia) (En,Fr,De,Es,It,Pt,No) (Track 01).bin" size="4690739200" crc="69727403" md5="3DC5F76FE7E3B5BB43864188C1D87DBE" sha1="41DD7B329B00C8009B3EB31F19A3385E7A201773"/>
@@ -5827,11 +5712,6 @@
 		<description>EyeToy Play - PomPom Party (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs)</description>
 		<rom name="EyeToy Play - PomPom Party (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs) (Track 01).bin" size="4668162048" crc="0E195B7A" md5="CC0109219C11838BE058CFB649A6C91F" sha1="119954FA575B45489ECB3889F3AF4CE5BBB3254D"/>
 	</game>
-	<game name="F1 2001 (Europe) (En,Fr,De)" sha1="4b320055572329a44cf83ac451bdbe08c9124add" size="452004965" crc="0cbb4501" fullsha1="f82025f1a94dbd83584b404abe7f5e8af45b49c9" dataSha1="ad945838cbcbeab16efbf642e842b1c45eafcb7a">
-		<category>Games</category>
-		<description>F1 2001 (Europe) (En,Fr,De)</description>
-		<rom name="F1 2001 (Europe) (En,Fr,De) (Track 01).bin" size="594903120" crc="aef6b6e3" md5="165487f29226eb111727193b6999f73c" sha1="e959f1194d92cda422158dec3dea36ca4c160084"/>
-	</game>
 	<game name="F1 2001 (Europe) (En,Fr,De,Nl)" sha1="4B320055572329A44CF83AC451BDBE08C9124ADD" size="452004965" crc="0CBB4501" fullsha1="f82025f1a94dbd83584b404abe7f5e8af45b49c9" dataSha1="ad945838cbcbeab16efbf642e842b1c45eafcb7a">
 		<category>Games</category>
 		<description>F1 2001 (Europe) (En,Fr,De,Nl)</description>
@@ -5842,11 +5722,6 @@
 		<description>F1 2001 (USA) (En,Fr,Es)</description>
 		<rom name="F1 2001 (USA) (En,Fr,Es) (Track 01).bin" size="598259424" crc="C79242CC" md5="7B2560A5981584DF0BEB948A4B8298FE" sha1="6363FCF65686FA5BE2DAAB6BA670738A20FF8027"/>
 	</game>
-	<game name="F1 2002 (Europe) (En,Fr,De,Es,It,Fi)" sha1="096f08f5c4148b1653f07591d1b87c9a11d86157" size="335244251" crc="ca175638" fullsha1="25eaf03d30bcda3ff25b14ba24e4ee533c28adda" dataSha1="5babe59bc8a3861ed433759985fed935bf03a1fe">
-		<category>Games</category>
-		<description>F1 2002 (Europe) (En,Fr,De,Es,It,Fi)</description>
-		<rom name="F1 2002 (Europe) (En,Fr,De,Es,It,Fi) (Track 01).bin" size="418806528" crc="dad963be" md5="570fd269f7f20676ce5c97f37ad7478f" sha1="0ea87bd8c91dfe8550af70b4d3e0ef8e168cf246"/>
-	</game>
 	<game name="F1 2002 (Europe) (En,Fr,De,Nl)" sha1="096F08F5C4148B1653F07591D1B87C9A11D86157" size="335244251" crc="CA175638" fullsha1="25eaf03d30bcda3ff25b14ba24e4ee533c28adda" dataSha1="5babe59bc8a3861ed433759985fed935bf03a1fe">
 		<category>Games</category>
 		<description>F1 2002 (Europe) (En,Fr,De,Nl)</description>
@@ -5856,11 +5731,6 @@
 		<category>Games</category>
 		<description>F1 2002 (USA) (En,Fr,De)</description>
 		<rom name="F1 2002 (USA) (En,Fr,De) (Track 01).bin" size="394729104" crc="F789CC09" md5="7B5243AF611E35578D4305A8CC01E9CE" sha1="AAF70AB1F74B1579E970802AF461C68CD6546D57"/>
-	</game>
-	<game name="F1 Career Challenge (Europe) (En,Fr,De,It)" sha1="1e450713e1991c18edf6ebb76bfdd9f9aa25e86a" size="353562746" crc="fb7d656a" fullsha1="b123e755ae9a0938479151419f0bae3461f3096a" dataSha1="3ced75f389ad0de71fe5c3083ac25023446cd8e7">
-		<category>Games</category>
-		<description>F1 Career Challenge (Europe) (En,Fr,De,It)</description>
-		<rom name="F1 Career Challenge (Europe) (En,Fr,De,It) (Track 01).bin" size="495373536" crc="467a5e33" md5="a6a2303c032bf58e33377083b085c841" sha1="363b1d56b20f6ea830df8d5dd901f550c7ed6148"/>
 	</game>
 	<game name="F1 Career Challenge (Europe, Australia) (En,Fr,De,It)" sha1="1E450713E1991C18EDF6EBB76BFDD9F9AA25E86A" size="353562746" crc="FB7D656A" fullsha1="b123e755ae9a0938479151419f0bae3461f3096a" dataSha1="3ced75f389ad0de71fe5c3083ac25023446cd8e7">
 		<category>Games</category>
@@ -5992,11 +5862,6 @@
 		<description>FIFA Soccer 09 (USA)</description>
 		<rom name="FIFA Soccer 09 (USA) (Track 01).bin" size="4698734592" crc="1DE7D0A1" md5="E77BFB95B28FC6B9C163221807D30CE0" sha1="F64F71044B1555DE7E3A98A90C28B502502A7FA0"/>
 	</game>
-	<game name="FIFA Soccer 10 (USA)" sha1="a4a1bbd07efe58cbfce300d1f3b9a22a4b8775ef" size="2822794196" crc="4c6327af" fullsha1="e7dab235144b3653ee9e3aae3543c6c247b409f1" dataSha1="454d97601b388fefd7d7681b6d3da712f72cbdd4">
-		<category>Games</category>
-		<description>FIFA Soccer 10 (USA)</description>
-		<rom name="FIFA Soccer 10 (USA) (Track 01).bin" size="4698734592" crc="70b598ff" md5="208893f33f79ec53c8a80fd08dd003d0" sha1="58cb172bf014c3df950cf0a394f7ef13c55dc381"/>
-	</game>
 	<game name="FIFA Soccer 10 (USA) (En,Fr,Es)" sha1="A4A1BBD07EFE58CBFCE300D1F3B9A22A4B8775EF" size="2822794196" crc="4C6327AF" fullsha1="e7dab235144b3653ee9e3aae3543c6c247b409f1" dataSha1="454d97601b388fefd7d7681b6d3da712f72cbdd4">
 		<category>Games</category>
 		<description>FIFA Soccer 10 (USA) (En,Fr,Es)</description>
@@ -6112,11 +5977,6 @@
 		<description>Family Board Games (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Family Board Games (Europe) (En,Fr,De,Es,It,Nl) (Track 01).bin" size="89343072" crc="2332F3C6" md5="4638E4919ACBA59E90CE592D2CCB3FED" sha1="F9C2B1CE58BF788A8A9362FC50E62BBFE531A1F6"/>
 	</game>
-	<game name="Family Boardgames (Europe) (En,Fr,De,Es,It,Nl)" sha1="30de03eaf35759b40d48057093f8c4657f42ee7c" size="42755581" crc="2f7fb2a3" fullsha1="d6868da3558dd756b006b4ded1304370a5fade52" dataSha1="a2caab4b136b5aeabedfa962e1d6b32e34cd06b8">
-		<category>Games</category>
-		<description>Family Boardgames (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Family Boardgames (Europe) (En,Fr,De,Es,It,Nl) (Track 01).bin" size="89343072" crc="2332f3c6" md5="4638e4919acba59e90ce592d2ccb3fed" sha1="f9c2b1ce58bf788a8a9362fc50e62bbfe531a1f6"/>
-	</game>
 	<game name="Family Feud (USA)" sha1="6CFF848395CE4F7E91503B3FE76596FCC5F2ED49" size="243393771" crc="3307FAF1" fullsha1="aca5f1c4e852fef75f3d24022f0aa6c6a5254e58" dataSha1="9c9a81ce72ec3840c8229678b5b935aea8e61328">
 		<category>Games</category>
 		<description>Family Feud (USA)</description>
@@ -6186,11 +6046,6 @@
 		<category>Games</category>
 		<description>Fatal Frame III - The Tormented (USA)</description>
 		<rom name="Fatal Frame III - The Tormented (USA) (Track 01).bin" size="3111354368" crc="756AB4BF" md5="9B92E727019341045CAFCEF2EAE3F192" sha1="624DD8FA38BACF24328EDD357718A114EEB858BB"/>
-	</game>
-	<game name="Fatal Fury - Battle Archives Volume 1 (Europe)" sha1="135b65b09d77c20279fa5a9edf610537f927eed7" size="1779519147" crc="83f5e69d" fullsha1="b77560b95f27f85051faeb904272e86c2747f544" dataSha1="c3226051eb635e38abfa164ab203e85296842e6f">
-		<category>Games</category>
-		<description>Fatal Fury - Battle Archives Volume 1 (Europe)</description>
-		<rom name="Fatal Fury - Battle Archives Volume 1 (Europe) (Track 01).bin" size="2228453376" crc="fb6db5fe" md5="1c20f00fc5c414add7df3e2818c7bf70" sha1="6fa279fc20dcb6a39234344183e0575dfd578dbb"/>
 	</game>
 	<game name="Fatal Fury - Battle Archives Volume 1 (Europe, Australia)" sha1="135B65B09D77C20279FA5A9EDF610537F927EED7" size="1779519147" crc="83F5E69D" fullsha1="b77560b95f27f85051faeb904272e86c2747f544" dataSha1="c3226051eb635e38abfa164ab203e85296842e6f">
 		<category>Games</category>
@@ -6492,11 +6347,6 @@
 		<description>Flucht von Monkey Island (Germany)</description>
 		<rom name="Flucht von Monkey Island (Germany) (Track 01).bin" size="1753513984" crc="54940393" md5="4034FDE6BFA01A49A9DF362CAA5D6B0D" sha1="2B1A9C2F1C6DF1AECDF2BA1B364FB847A70CA501"/>
 	</game>
-	<game name="Football Generation (Europe) (En,Fr,De,Es,It)" sha1="4253226e83487226c784f5b1e8256c61d95b8d22" size="348847698" crc="3f700446" fullsha1="b0ba652c85b8913c3f533bacced804faa65d0426" dataSha1="5676b6c8b338312aaf181667ce69dc563ea96946">
-		<category>Games</category>
-		<description>Football Generation (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Football Generation (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="554615712" crc="c47e13b0" md5="8c5901995e11f63108bd17ab7b3465b7" sha1="e9903e6ba0ae7744a327acaeeb48b7a7eb62ce5e"/>
-	</game>
 	<game name="Football Generation (Europe) (En,Fr,De,Es,It) (v1.04)" sha1="4253226E83487226C784F5B1E8256C61D95B8D22" size="348847698" crc="3F700446" fullsha1="b0ba652c85b8913c3f533bacced804faa65d0426" dataSha1="5676b6c8b338312aaf181667ce69dc563ea96946">
 		<category>Games</category>
 		<description>Football Generation (Europe) (En,Fr,De,Es,It) (v1.04)</description>
@@ -6517,7 +6367,7 @@
 		<description>Forbidden Siren (Germany)</description>
 		<rom name="Forbidden Siren (Germany) (Track 01).bin" size="4649517056" crc="F944535C" md5="733C579229100FF25FE1170CDF33D27E" sha1="983A48CCCFB9E7327712AAFC4E0062582BE519C5"/>
 	</game>
-	<game name="Forbidden Siren 2 (Europe) (En,Fr,De,Es,It)" sha1="9472d130437218142c7e88aa2e4a042a35d93fbc" size="4497438040" crc="9a7cefe5" fullsha1="917f214a3a7bfbd1acda940fee7c4e1e1d4f2bba" dataSha1="3126377e7db28f3e594f527518e65adf4eba0f45">
+	<game name="Forbidden Siren 2 (Europe) (En,Fr,De,Es,It)" sha1="9472D130437218142C7E88AA2E4A042A35D93FBC" size="4497438040" crc="9A7CEFE5" fullsha1="917f214a3a7bfbd1acda940fee7c4e1e1d4f2bba" dataSha1="3126377e7db28f3e594f527518e65adf4eba0f45">
 		<category>Games</category>
 		<description>Forbidden Siren 2 (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Forbidden Siren 2 (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="5844074496" crc="730E498F" md5="7806835609B22CE0E45C2BB5E5548504" sha1="4C174C37D6B392157D4BE5EAF7170908DFC7AB54"/>
@@ -6551,11 +6401,6 @@
 		<category>Games</category>
 		<description>Ford Racing 2 (USA)</description>
 		<rom name="Ford Racing 2 (USA) (Track 01).bin" size="715692432" crc="61FE29A9" md5="C15CA2A02B2FEF56E2C8721C492640CD" sha1="F77662AA355B53ED2926F2A7E440F090808ECA17"/>
-	</game>
-	<game name="Ford Racing 3 (Europe) (En,Fr,De,Es,It)" sha1="ed1b32dee6981ef80c49defa69f49189f8bde374" size="330944096" crc="5607c865" fullsha1="23fcefb58e80b27d90c1a863bbf61cd0033e32f6" dataSha1="bd3611c2e4244a20602820e54b4bf02bb294d978">
-		<category>Games</category>
-		<description>Ford Racing 3 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Ford Racing 3 (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="726998496" crc="fbea65a3" md5="2d5329ac43802723f2fcdac85b38ecfc" sha1="5b64209fd80dcccce508215ce879765b1c489b08"/>
 	</game>
 	<game name="Ford Racing 3 (Europe, Australia) (En,Fr,De,Es,It)" sha1="ED1B32DEE6981EF80C49DEFA69F49189F8BDE374" size="330944096" crc="5607C865" fullsha1="23fcefb58e80b27d90c1a863bbf61cd0033e32f6" dataSha1="bd3611c2e4244a20602820e54b4bf02bb294d978">
 		<category>Games</category>
@@ -6601,11 +6446,6 @@
 		<category>Games</category>
 		<description>Formula Challenge (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Formula Challenge (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="141882048" crc="8E31D409" md5="CE85C3DB5E2562ABACA5F90641CB40BB" sha1="9E5D8B346B945CEBE1F08C25EE5F852D4ACFAD76"/>
-	</game>
-	<game name="Formula One 04 (Europe) (En,Fr,De,Es,It,Fi) (v2.02)" sha1="d316910bd382ccb0843031e60321e7e98b152d18" size="1430762380" crc="cc2feb3f" fullsha1="126fbebce5cec3823749ccdf56c03db3d26c3183" dataSha1="a21f6ccff26c998c07211e8aa785aa0b455a808e">
-		<category>Games</category>
-		<description>Formula One 04 (Europe) (En,Fr,De,Es,It,Fi) (v2.02)</description>
-		<rom name="Formula One 04 (Europe) (En,Fr,De,Es,It,Fi) (v2.02) (Track 01).bin" size="1763147776" crc="b60c1a79" md5="e5c03ca08f68c5994ea4404f3635a0b7" sha1="eea1606158f9af556b2b78e07ff1863d9ebccc9f"/>
 	</game>
 	<game name="Formula One 04 (Europe, Australia) (En,Fr,De,Es,It,Fi) (v2.02)" sha1="D316910BD382CCB0843031E60321E7E98B152D18" size="1430762380" crc="CC2FEB3F" fullsha1="126fbebce5cec3823749ccdf56c03db3d26c3183" dataSha1="a21f6ccff26c998c07211e8aa785aa0b455a808e">
 		<category>Games</category>
@@ -6772,10 +6612,10 @@
 		<description>Front Mission 4 (USA)</description>
 		<rom name="Front Mission 4 (USA) (Track 01).bin" size="2023227392" crc="D8DEFA68" md5="2CE492A906939C893D7F301D3E267E06" sha1="9FC768BBF975DD88E072CDB54BBE27C8CACF9BFC"/>
 	</game>
-	<game name="Fruit Fall (Europe)" sha1="E970DE83456A2C4E5AA79A184F37E433EE9B631E" size="25969145" crc="84C1B648" fullsha1="5b53c251af508ac5506ae336acb67f9a11f3fa7a" dataSha1="10adb9174e0f5d527da88b6216f2e7110bfa8977">
+	<game name="Fruit Fall (Europe, Australia)" sha1="E970DE83456A2C4E5AA79A184F37E433EE9B631E" size="25969145" crc="84C1B648" fullsha1="5b53c251af508ac5506ae336acb67f9a11f3fa7a" dataSha1="10adb9174e0f5d527da88b6216f2e7110bfa8977">
 		<category>Games</category>
-		<description>Fruit Fall (Europe)</description>
-		<rom name="Fruit Fall (Europe) (Track 01).bin" size="59326848" crc="BFD8AB37" md5="61A735F3FDC08BE9E8BE459C254C7F95" sha1="CE5A882AEC0B0B1760F08E145DF543DF790B4291"/>
+		<description>Fruit Fall (Europe, Australia)</description>
+		<rom name="Fruit Fall (Europe, Australia) (Track 01).bin" size="59326848" crc="BFD8AB37" md5="61A735F3FDC08BE9E8BE459C254C7F95" sha1="CE5A882AEC0B0B1760F08E145DF543DF790B4291"/>
 	</game>
 	<game name="Fruit Machine Mania (Europe) (En,Fr,De,Es,It,Nl)" sha1="E3B516700603FBE3C04C86389E4B421F50DDFF9F" size="61802519" crc="EBD58B27" fullsha1="baa384b94cd1c22a2b93d382a700555a1f737caf" dataSha1="0fe237a0f176a178f791766a5385ba1060ecee68">
 		<category>Games</category>
@@ -6896,11 +6736,6 @@
 		<category>Games</category>
 		<description>GT Racers (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="GT Racers (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="307027728" crc="73A39F93" md5="7B75ED0DE4AB9BC3BB412A96C7048171" sha1="30C4A26141DC72CB7047898E2E4D6D9418C7BDB9"/>
-	</game>
-	<game name="GT-R 400 (Europe)" sha1="90d9cdbe298451a377aa7385d8299c1280e2283a" size="44045948" crc="e2321b11" fullsha1="316a3efee52530dba33b5513f1560eb84a912fbc" dataSha1="71a8f267a455c9549800d1bd5f8a0249518c47b0">
-		<category>Games</category>
-		<description>GT-R 400 (Europe)</description>
-		<rom name="GT-R 400 (Europe) (Track 01).bin" size="133642992" crc="701269fb" md5="2e668119ae91efbb83b36221465ba171" sha1="c4a562f0fe1c343d532051562b149542ba5fa73d"/>
 	</game>
 	<game name="GT-R 400 (Europe, Australia)" sha1="90D9CDBE298451A377AA7385D8299C1280E2283A" size="44045948" crc="E2321B11" fullsha1="316a3efee52530dba33b5513f1560eb84a912fbc" dataSha1="71a8f267a455c9549800d1bd5f8a0249518c47b0">
 		<category>Games</category>
@@ -7057,7 +6892,7 @@
 		<description>Gene Troopers (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Gene Troopers (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="1959395328" crc="08A1F022" md5="4EB363242540BCABDD4561402B6E5352" sha1="DCD22B4C60E6D78A902CAC77ECB518B3297B6585"/>
 	</game>
-	<game name="Genji (Europe, Australia) (En,Ja,Fr,De,Es,It)" sha1="a7ee673ecf02bbace6bc6441d3797e4bdb317f4f" size="6502493683" crc="5d1494d5" fullsha1="d5e23e435e3723141ddb2346e239610d516156ed" dataSha1="0a1e1ea1c8b49619016caa8cfb63262909b439da">
+	<game name="Genji (Europe, Australia) (En,Ja,Fr,De,Es,It)" sha1="A7EE673ECF02BBACE6BC6441D3797E4BDB317F4F" size="6502493683" crc="5D1494D5" fullsha1="d5e23e435e3723141ddb2346e239610d516156ed" dataSha1="0a1e1ea1c8b49619016caa8cfb63262909b439da">
 		<category>Games</category>
 		<description>Genji (Europe, Australia) (En,Ja,Fr,De,Es,It)</description>
 		<rom name="Genji (Europe, Australia) (En,Ja,Fr,De,Es,It) (Track 01).bin" size="7868055552" crc="A0E449F8" md5="D4EAEAC5952A01D58941084065A8493D" sha1="AA0E52BF94FD41FE9F094FC82148F031FFED3AC8"/>
@@ -7182,11 +7017,6 @@
 		<description>GigaWing Generations (Europe)</description>
 		<rom name="GigaWing Generations (Europe) (Track 01).bin" size="735178752" crc="E980DF9C" md5="8A1A7B55132AD33EED90A10408DF64FF" sha1="8BC12E5442A96CE4D790683D7C5D56E1588C4BD8"/>
 	</game>
-	<game name="Girl Zone (Europe)" sha1="e0dc45ed0868c1cd3f3cec0fa6c4627f8b084de6" size="132837799" crc="8226ec97" fullsha1="f5627d50bcbcbb93101c14edef4653b2866f4e76" dataSha1="51d83c93580b76ac37a19edaea058e4f75ab6ae1">
-		<category>Games</category>
-		<description>Girl Zone (Europe)</description>
-		<rom name="Girl Zone (Europe) (Track 01).bin" size="247663248" crc="b9c80b8a" md5="040c766618c5641be2636baa796956d1" sha1="5203a54e3317ac42586660e92b075c32c0330b3e"/>
-	</game>
 	<game name="Girl Zone (Europe, Australia)" sha1="E0DC45ED0868C1CD3F3CEC0FA6C4627F8B084DE6" size="132837799" crc="8226EC97" fullsha1="f5627d50bcbcbb93101c14edef4653b2866f4e76" dataSha1="51d83c93580b76ac37a19edaea058e4f75ab6ae1">
 		<category>Games</category>
 		<description>Girl Zone (Europe, Australia)</description>
@@ -7287,22 +7117,22 @@
 		<description>God Hand (USA)</description>
 		<rom name="God Hand (USA) (Track 01).bin" size="1567686656" crc="07220AD2" md5="EDFE683B6973FE45CBD75E30664F2A70" sha1="2215FB65A9AE391741950970BD88B79CA87D9D05"/>
 	</game>
-	<game name="God of War (Europe, Australia) (En,Fr,De,Es,It)" sha1="2952002e981a92b572c3816f4c88eee1115c4352" size="6598202475" crc="5b623712" fullsha1="32ab02364032ab984ead82dfbf8c03c0104671fd" dataSha1="2caca11a7b063b9009da3e381288117f0de4c8d5">
+	<game name="God of War (Europe, Australia) (En,Fr,De,Es,It)" sha1="2952002E981A92B572C3816F4C88EEE1115C4352" size="6598202475" crc="5B623712" fullsha1="32ab02364032ab984ead82dfbf8c03c0104671fd" dataSha1="2caca11a7b063b9009da3e381288117f0de4c8d5">
 		<category>Games</category>
 		<description>God of War (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<rom name="God of War (Europe, Australia) (En,Fr,De,Es,It) (Track 01).bin" size="8018624512" crc="A567869C" md5="6B8B8DD72F50B7264F7418B641591C11" sha1="594611974693F011E38D42CB78CBDD0762E9E2F8"/>
 	</game>
-	<game name="God of War (USA)" sha1="c3a79ff95781e11384f17a5b79bb32e2d39bb6c0" size="7285191143" crc="1857cebb" fullsha1="9fc037180f19cb5a08a10a40879f067f7e6e35c2" dataSha1="e3726e93a673525760c84318891ee78fa60f2652">
+	<game name="God of War (USA)" sha1="C3A79FF95781E11384F17A5B79BB32E2D39BB6C0" size="7285191143" crc="1857CEBB" fullsha1="9fc037180f19cb5a08a10a40879f067f7e6e35c2" dataSha1="e3726e93a673525760c84318891ee78fa60f2652">
 		<category>Games</category>
 		<description>God of War (USA)</description>
 		<rom name="God of War (USA) (Track 01).bin" size="8522792960" crc="587635E4" md5="7DD68E0F5964ABCF8282FC4E1AD41400" sha1="8DABDFD1FBDA148F253D590F86839A03553410C3"/>
 	</game>
-	<game name="God of War II (Europe, Australia) (En,Fr,De,Es,It,Ru)" sha1="e2d08442e04405644d1412d9d2226ef0e3a9b822" size="6335554798" crc="b6d333a6" fullsha1="64c55923d96062b566875bc60d8c843573fdf9c1" dataSha1="1ecc8fd977d6438129795e076858181f912297be">
+	<game name="God of War II (Europe, Australia) (En,Fr,De,Es,It,Ru)" sha1="E2D08442E04405644D1412D9D2226EF0E3A9B822" size="6335554798" crc="B6D333A6" fullsha1="64c55923d96062b566875bc60d8c843573fdf9c1" dataSha1="1ecc8fd977d6438129795e076858181f912297be">
 		<category>Games</category>
 		<description>God of War II (Europe, Australia) (En,Fr,De,Es,It,Ru)</description>
 		<rom name="God of War II (Europe, Australia) (En,Fr,De,Es,It,Ru) (Track 01).bin" size="8383463424" crc="E685FCE4" md5="0CB4033A4596D7A65E5EEBDDA068534B" sha1="26D7BDFB655420CDA13A74A6138E3201C7CAC536"/>
 	</game>
-	<game name="God of War II (USA)" sha1="970e9ceb74fd35c50b6a55c9e23423049fd54299" size="6629534322" crc="08c55471" fullsha1="3a6c37632ed3999a5565604dbd0cbc248a8a2f4d" dataSha1="fb1914cfd0dc8e75828738c386cc5ce409b956eb">
+	<game name="God of War II (USA)" sha1="970E9CEB74FD35C50B6A55C9E23423049FD54299" size="6629534322" crc="08C55471" fullsha1="3a6c37632ed3999a5565604dbd0cbc248a8a2f4d" dataSha1="fb1914cfd0dc8e75828738c386cc5ce409b956eb">
 		<category>Games</category>
 		<description>God of War II (USA)</description>
 		<rom name="God of War II (USA) (Track 01).bin" size="8533671936" crc="E271930D" md5="46FA5DFA94BA6259F37001BFCDB95A6A" sha1="1DCB9ADDE645D06BB2B4747070664BFDD51BB287"/>
@@ -7407,12 +7237,12 @@
 		<description>Gran Turismo 3 - A-Spec (USA) (v1.10)</description>
 		<rom name="Gran Turismo 3 - A-Spec (USA) (v1.10) (Track 01).bin" size="3878649856" crc="1D364F0A" md5="05E47EA6AEE8DA89289C5567C742DB8D" sha1="8130FA32F4D873A104D2B64F92DEF14D6EA596AC"/>
 	</game>
-	<game name="Gran Turismo 4 (Europe, Australia) (En,Fr,De,Es,It)" sha1="92e97903de0e3697df9fc1002cad2e66f3ce1fe7" size="4959026703" crc="ba7ae958" fullsha1="2d25a7f809770149c0ae972e671aabb3d656bf2b" dataSha1="54de9f2a2b0a20422548e715f2594db4713168a8">
+	<game name="Gran Turismo 4 (Europe, Australia) (En,Fr,De,Es,It)" sha1="92E97903DE0E3697DF9FC1002CAD2E66F3CE1FE7" size="4959026703" crc="BA7AE958" fullsha1="2d25a7f809770149c0ae972e671aabb3d656bf2b" dataSha1="54de9f2a2b0a20422548e715f2594db4713168a8">
 		<category>Games</category>
 		<description>Gran Turismo 4 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<rom name="Gran Turismo 4 (Europe, Australia) (En,Fr,De,Es,It) (Track 01).bin" size="5660540928" crc="E1CA4D84" md5="5B504676595DEA8B32CB675993285FCA" sha1="C9C7B8477B585D7F841FA204BA903BEF08E083A3"/>
 	</game>
-	<game name="Gran Turismo 4 (USA) (v2.00)" sha1="f9865e94ddf58764401d45ad914657371f87117b" size="4631203895" crc="454db70d" fullsha1="beb15275cd0a45719e0ec47ebecb158db5416368" dataSha1="6d461c1630cfd96c09751b9d76a90ab685761136">
+	<game name="Gran Turismo 4 (USA) (v2.00)" sha1="F9865E94DDF58764401D45AD914657371F87117B" size="4631203895" crc="454DB70D" fullsha1="beb15275cd0a45719e0ec47ebecb158db5416368" dataSha1="6d461c1630cfd96c09751b9d76a90ab685761136">
 		<category>Games</category>
 		<description>Gran Turismo 4 (USA) (v2.00)</description>
 		<rom name="Gran Turismo 4 (USA) (v2.00) (Track 01).bin" size="5314478080" crc="831F9F84" md5="6E03AF5873C30E418021553A8832CA42" sha1="7DA11CC5C18D5ED4A7E882C6D1168D3AFA6940C3"/>
@@ -7451,11 +7281,6 @@
 		<category>Games</category>
 		<description>Grand Theft Auto - Liberty City Stories (USA)</description>
 		<rom name="Grand Theft Auto - Liberty City Stories (USA) (Track 01).bin" size="4010016768" crc="30784522" md5="2D0CD1F12841DE894A9A668F7C8FD5D3" sha1="F690B24E4F6F7CFCB642F9FAAA1E05D2BA6A3A3A"/>
-	</game>
-	<game name="Grand Theft Auto - San Andreas (Germany) (En,De)" sha1="ed1e11a1c4beec198a484d2f71c54b8bee8e2019" size="2709915561" crc="fa43e1b6" fullsha1="e62456ca2d5864131580efd6ce3c8c68277ecfe8" dataSha1="dc5aa41786643db394ab92b36b10365c11974301">
-		<category>Games</category>
-		<description>Grand Theft Auto - San Andreas (Germany) (En,De)</description>
-		<rom name="Grand Theft Auto - San Andreas (Germany) (En,De) (Track 01).bin" size="4517888000" crc="218461e5" md5="ce993270c3842e4cd1074929f31dc354" sha1="4663a491e361ea09d6159635defcfa9eb5ce4988"/>
 	</game>
 	<game name="Grand Theft Auto - San Andreas (Germany) (En,De) (v2.01)" sha1="ED1E11A1C4BEEC198A484D2F71C54B8BEE8E2019" size="2709915561" crc="FA43E1B6" fullsha1="e62456ca2d5864131580efd6ce3c8c68277ecfe8" dataSha1="dc5aa41786643db394ab92b36b10365c11974301">
 		<category>Games</category>
@@ -7592,11 +7417,6 @@
 		<description>GrimGrimoire (USA) (En,Ja)</description>
 		<rom name="GrimGrimoire (USA) (En,Ja) (Track 01).bin" size="1404174336" crc="9911EC99" md5="16BB9C884C4D12720BA5503AE3C45B1A" sha1="EEB90E67C3777140BD485DCBDA4DFEF059B3F85E"/>
 	</game>
-	<game name="Grooverider (Europe) (En,Fr,De,Es,It)" sha1="f24b6e8515f333f567c222b4f0c9956264073e32" size="136991428" crc="98944875" fullsha1="2094cfbe835d426877ea2d358f0837a0644e7660" dataSha1="9367758a123789b28a99023ff35571719ab4e9bb">
-		<category>Games</category>
-		<description>Grooverider (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Grooverider (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="571246704" crc="8945cb04" md5="cffd09e4ff72d7b1e6fd2c9e3bac6706" sha1="f548fe15bbed99b9637245e9d0afca8877dbbc64"/>
-	</game>
 	<game name="Grooverider (Europe, Australia) (En,Fr,De,Es,It)" sha1="F24B6E8515F333F567C222B4F0C9956264073E32" size="136991428" crc="98944875" fullsha1="2094cfbe835d426877ea2d358f0837a0644e7660" dataSha1="9367758a123789b28a99023ff35571719ab4e9bb">
 		<category>Games</category>
 		<description>Grooverider (Europe, Australia) (En,Fr,De,Es,It)</description>
@@ -7707,12 +7527,12 @@
 		<description>Guitar Hero - Greatest Hits (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<rom name="Guitar Hero - Greatest Hits (Europe, Australia) (En,Fr,De,Es,It) (Track 01).bin" size="4622057472" crc="CF4BA583" md5="218800958EB856CD4B7DB9B32AF67970" sha1="66653FD1CAEFCA9402A5B23505D0F01C1E7C59E3"/>
 	</game>
-	<game name="Guitar Hero - Metallica (Europe, Australia) (En,Fr,De,Es,It)" sha1="c384d2adfb8e78d619a4e09734b3ded93736e122" size="4557750227" crc="5e703c8f" fullsha1="bff9696234a21cd083f05a2f2bec4d2302657057" dataSha1="3a0f7d4e4f80b25da73dcfa2481212bc25198e23">
+	<game name="Guitar Hero - Metallica (Europe, Australia) (En,Fr,De,Es,It)" sha1="C384D2ADFB8E78D619A4E09734B3DED93736E122" size="4557750227" crc="5E703C8F" fullsha1="bff9696234a21cd083f05a2f2bec4d2302657057" dataSha1="3a0f7d4e4f80b25da73dcfa2481212bc25198e23">
 		<category>Games</category>
 		<description>Guitar Hero - Metallica (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<rom name="Guitar Hero - Metallica (Europe, Australia) (En,Fr,De,Es,It) (Track 01).bin" size="8539766784" crc="61FF98B7" md5="1296A15FA77BDEAE00CC378C0BD3A3F9" sha1="ACE970626D2AE4C38EC8B7AE21928E277BC004F0"/>
 	</game>
-	<game name="Guitar Hero - Metallica (USA)" sha1="d67c5377b7ad8f751569e0b5f9feaf17581443ce" size="4557752218" crc="eff2cfaa" fullsha1="cf7f9a0c2ccc7155077b26102bf88af7f8a3c5ef" dataSha1="3bbcf6a73f8886a1aef25ce4e436a639ae2ce8f0">
+	<game name="Guitar Hero - Metallica (USA)" sha1="D67C5377B7AD8F751569E0B5F9FEAF17581443CE" size="4557752218" crc="EFF2CFAA" fullsha1="cf7f9a0c2ccc7155077b26102bf88af7f8a3c5ef" dataSha1="3bbcf6a73f8886a1aef25ce4e436a639ae2ce8f0">
 		<category>Games</category>
 		<description>Guitar Hero - Metallica (USA)</description>
 		<rom name="Guitar Hero - Metallica (USA) (Track 01).bin" size="8539766784" crc="6806BE67" md5="2E7FCEE5A1333B72EEF8A18C7A673E9F" sha1="D7F6DADD0B3D8A004EFFE482BC987029140E8055"/>
@@ -7726,11 +7546,6 @@
 		<category>Games</category>
 		<description>Guitar Hero - Smash Hits (USA)</description>
 		<rom name="Guitar Hero - Smash Hits (USA) (Track 01).bin" size="4619436032" crc="BCF63223" md5="C9B347AD0C174C1F9F911934F9D34606" sha1="C8DEB6A41BD486DE76844428802916ABE4B6F080"/>
-	</game>
-	<game name="Guitar Hero - Van Halen (USA)" sha1="f94d508a2bc8baa913c22624d88ed5561ae1f86c" size="2552973979" crc="e763707d" fullsha1="064e9301e20f5b6c4dba7fa84f1889fbae026b9f" dataSha1="9fcd443a7efdbb20aa3b3620ce2317d93b06f4a1">
-		<category>Games</category>
-		<description>Guitar Hero - Van Halen (USA)</description>
-		<rom name="Guitar Hero - Van Halen (USA) (Track 01).bin" size="8535900160" crc="b613bf41" md5="34b646591adf88b5041b545b2fdde60e" sha1="f4f702c91d306ec0a61075c79111a9b990553cf5"/>
 	</game>
 	<game name="Guitar Hero - Van Halen (USA) (En,Fr)" sha1="F94D508A2BC8BAA913C22624D88ED5561AE1F86C" size="2552973979" crc="E763707D" fullsha1="064e9301e20f5b6c4dba7fa84f1889fbae026b9f" dataSha1="9fcd443a7efdbb20aa3b3620ce2317d93b06f4a1">
 		<category>Games</category>
@@ -7772,12 +7587,12 @@
 		<description>Guitar Hero III - Legends of Rock (USA)</description>
 		<rom name="Guitar Hero III - Legends of Rock (USA) (Track 01).bin" size="4334649344" crc="0A0FE713" md5="8885121810376D7C21845B7805FA8084" sha1="3EE6046C69719139EAF301F46BF8C17F0BA7E7FF"/>
 	</game>
-	<game name="Guitar Hero World Tour (Europe, Australia) (En,Fr,De,Es,It)" sha1="c975f48925eee0fe5fffc81f9d9100220080983b" size="5101536826" crc="2791d04d" fullsha1="6d6cf2e2fa0a490c66ba6f8dc5e003e35c86e8df" dataSha1="a25c955c38c1997758391b8e129bba934a7bed02">
+	<game name="Guitar Hero World Tour (Europe, Australia) (En,Fr,De,Es,It)" sha1="C975F48925EEE0FE5FFFC81F9D9100220080983B" size="5101536826" crc="2791D04D" fullsha1="6d6cf2e2fa0a490c66ba6f8dc5e003e35c86e8df" dataSha1="a25c955c38c1997758391b8e129bba934a7bed02">
 		<category>Games</category>
 		<description>Guitar Hero World Tour (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<rom name="Guitar Hero World Tour (Europe, Australia) (En,Fr,De,Es,It) (Track 01).bin" size="8536424448" crc="46FE56D3" md5="93A932B954396A2AE02A4E6A1D0D21A9" sha1="44C36998570DBC2ED4B3CD2D6BA8DD0FE22E40E0"/>
 	</game>
-	<game name="Guitar Hero World Tour (USA) (En,Fr)" sha1="c38cb4105971173f8cc86be0b68d353d1d99ba24" size="5101217935" crc="7477baf4" fullsha1="fcb71ca7bbca5fa893a7fbaa806e1aaa06b3f3ac" dataSha1="ae38e36c35df8d102c74c9d086e4b2657c8414d9">
+	<game name="Guitar Hero World Tour (USA) (En,Fr)" sha1="C38CB4105971173F8CC86BE0B68D353D1D99BA24" size="5101217935" crc="7477BAF4" fullsha1="fcb71ca7bbca5fa893a7fbaa806e1aaa06b3f3ac" dataSha1="ae38e36c35df8d102c74c9d086e4b2657c8414d9">
 		<category>Games</category>
 		<description>Guitar Hero World Tour (USA) (En,Fr)</description>
 		<rom name="Guitar Hero World Tour (USA) (En,Fr) (Track 01).bin" size="8536424448" crc="C6E3F676" md5="55B62F8212F6519FB5977DB21FC20F22" sha1="CDFCC88C1DA710B4FCA6BC67FCB6E76703A65021"/>
@@ -7842,7 +7657,7 @@
 		<description>Gungriffon Blaze (USA)</description>
 		<rom name="Gungriffon Blaze (USA) (Track 01).bin" size="484051008" crc="0FDD7FDC" md5="0B6BBC7F140C890FB764EFA81D693108" sha1="A8EFA49B3F0E40D89387E5A0E6E46BBF4571E8E7"/>
 	</game>
-	<game name="Guy Game, The (USA)" sha1="7853f04453f0f81e5226be64fbdcf52c83939185" size="7676691974" crc="fc41c981" fullsha1="80e3da34251c116e1d865263555a8db052a8b7b4" dataSha1="665327711a67f208e42130c4c555319d6edc2b7a">
+	<game name="Guy Game, The (USA)" sha1="7853F04453F0F81E5226BE64FBDCF52C83939185" size="7676691974" crc="FC41C981" fullsha1="80e3da34251c116e1d865263555a8db052a8b7b4" dataSha1="665327711a67f208e42130c4c555319d6edc2b7a">
 		<category>Games</category>
 		<description>Guy Game, The (USA)</description>
 		<rom name="Guy Game, The (USA) (Track 01).bin" size="8113094656" crc="32156CEE" md5="B8B2EFDD1E2C082880867326DBCFA1C8" sha1="4D7320C1E4DD0DD91BC9336EB4EA8A0AB419BAAC"/>
@@ -8362,10 +8177,10 @@
 		<description>Hot Wheels - Velocity X - Maximum Justice (USA)</description>
 		<rom name="Hot Wheels - Velocity X - Maximum Justice (USA) (Track 01).bin" size="1674903552" crc="6B14E621" md5="13F775A1CC027C5E79D0F3A4127BD581" sha1="E51EE91522EBC45889A6232796C7AE1C6B924703"/>
 	</game>
-	<game name="Hot Wheels - World Race (Europe)" sha1="DFD834F38DA21A43FB37AF83148D82E37BB13AC1" size="430737083" crc="821FDBE7" fullsha1="881f2d3d78dc01bc97673b4b5848523d96e83691" dataSha1="e10eb535f25349ee947b9a49ad867103c806ed8e">
+	<game name="Hot Wheels - World Race (Europe, Australia)" sha1="DFD834F38DA21A43FB37AF83148D82E37BB13AC1" size="430737083" crc="821FDBE7" fullsha1="881f2d3d78dc01bc97673b4b5848523d96e83691" dataSha1="e10eb535f25349ee947b9a49ad867103c806ed8e">
 		<category>Games</category>
-		<description>Hot Wheels - World Race (Europe)</description>
-		<rom name="Hot Wheels - World Race (Europe) (Track 01).bin" size="569786112" crc="7E94B1E1" md5="D4BD8E79E0E58A2A47CB4C3D8F0CE66D" sha1="9F7A05EB530460EEB0EFE40E3B21CF2CB35A3989"/>
+		<description>Hot Wheels - World Race (Europe, Australia)</description>
+		<rom name="Hot Wheels - World Race (Europe, Australia) (Track 01).bin" size="569786112" crc="7E94B1E1" md5="D4BD8E79E0E58A2A47CB4C3D8F0CE66D" sha1="9F7A05EB530460EEB0EFE40E3B21CF2CB35A3989"/>
 	</game>
 	<game name="Hot Wheels - World Race (USA)" sha1="92D9F3F18370F946D9433164E1A24A40295211D3" size="337943977" crc="5D7D4923" fullsha1="d10db795c0dff60c72e95340e0e573c58049f7e9" dataSha1="a1b1f43863baeb9ca2feaf99e40879fad49285fc">
 		<category>Games</category>
@@ -8902,11 +8717,6 @@
 		<description>Jet X2O (USA)</description>
 		<rom name="Jet X2O (USA) (Track 01).bin" size="1242660864" crc="988A51B2" md5="D83666234931D224E27F6001CB572FDA" sha1="57D401195BF20036AA09C72E008B3D1B1073BFAB"/>
 	</game>
-	<game name="Jetix - Puzzle Buzzle (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" sha1="8ef254c17969a9035477b18493c0ae6ae0dee255" size="22505292" crc="b60c5d9e" fullsha1="2bcef6e83349bd43cbe3321995f86240e8948c82" dataSha1="5d14dd309e6d81c179f56399f586992d96c87c25">
-		<category>Games</category>
-		<description>Jetix - Puzzle Buzzle (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
-		<rom name="Jetix - Puzzle Buzzle (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Track 01).bin" size="68631360" crc="4a3b9ee4" md5="25db00387840425d5b448c1fc9eb437c" sha1="37033fc7eaee0bf05cdd7e87f0ab7eaa44733b8f"/>
-	</game>
 	<game name="Jetix Puzzle Buzzle (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" sha1="8EF254C17969A9035477B18493C0AE6AE0DEE255" size="22505292" crc="B60C5D9E" fullsha1="2bcef6e83349bd43cbe3321995f86240e8948c82" dataSha1="5d14dd309e6d81c179f56399f586992d96c87c25">
 		<category>Games</category>
 		<description>Jetix Puzzle Buzzle (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
@@ -9167,12 +8977,12 @@
 		<description>Kessen II (USA)</description>
 		<rom name="Kessen II (USA) (Track 01).bin" size="4373020672" crc="ED746B76" md5="46470562A1015BB123E45A9F0148E4C7" sha1="5E90DB4309B289E4CA24197167D34AF28D2BF21D"/>
 	</game>
-	<game name="Kessen III (Germany)" sha1="051789fd1653ec0c7f3c4b65944d6fecaf6e99c8" size="4444378919" crc="feecf083" fullsha1="16864dd97540e2700d4fafacd3096aa9c4eadcc7" dataSha1="74bb0f959fa807e539be23d97451755714165abd">
+	<game name="Kessen III (Germany)" sha1="051789FD1653EC0C7F3C4B65944D6FECAF6E99C8" size="4444378919" crc="FEECF083" fullsha1="16864dd97540e2700d4fafacd3096aa9c4eadcc7" dataSha1="74bb0f959fa807e539be23d97451755714165abd">
 		<category>Games</category>
 		<description>Kessen III (Germany)</description>
 		<rom name="Kessen III (Germany) (Track 01).bin" size="5493948416" crc="6728E2FD" md5="7940C3C17AA174A74105D5BC86E3D9A6" sha1="E3D8B054089B567A666796BEAA058DCA92672CF2"/>
 	</game>
-	<game name="Kessen III (USA)" sha1="30aeb33cea46d819f2762bff07d11e5002c47bd4" size="4530138434" crc="fabac63c" fullsha1="e57e6be0d2f168a82f65b2147845cecd046c8826" dataSha1="193cfe481f1567ef79bf07e38e407b200cc043fb">
+	<game name="Kessen III (USA)" sha1="30AEB33CEA46D819F2762BFF07D11E5002C47BD4" size="4530138434" crc="FABAC63C" fullsha1="e57e6be0d2f168a82f65b2147845cecd046c8826" dataSha1="193cfe481f1567ef79bf07e38e407b200cc043fb">
 		<category>Games</category>
 		<description>Kessen III (USA)</description>
 		<rom name="Kessen III (USA) (Track 01).bin" size="8509325312" crc="61DE88DD" md5="A20473DA62F771B68CB6CE4C9ECE3AFE" sha1="8B4957649A85E2517DE3D5285C73A69F24267757"/>
@@ -9182,10 +8992,10 @@
 		<description>Kiddies Party Pack (Europe) (En,Fr,De)</description>
 		<rom name="Kiddies Party Pack (Europe) (En,Fr,De) (Track 01).bin" size="148935696" crc="40AEE36E" md5="51AB64AFA98A8521C6C701116446FB22" sha1="6595D59295FDE67638C58F7A1F9081909F9BA49B"/>
 	</game>
-	<game name="Kidz Sports Basketball (Europe)" sha1="5FAB7107382ABE6C1A86CE91B6F16A90A98BF037" size="29780832" crc="E8AA76EB" fullsha1="5aa3391fb847cb505e065fba67da528ac0c34eb3" dataSha1="fa84e073906775f251e6db3940e518455427f08d">
+	<game name="Kidz Sports Basketball (Europe, Australia)" sha1="5FAB7107382ABE6C1A86CE91B6F16A90A98BF037" size="29780832" crc="E8AA76EB" fullsha1="5aa3391fb847cb505e065fba67da528ac0c34eb3" dataSha1="fa84e073906775f251e6db3940e518455427f08d">
 		<category>Games</category>
-		<description>Kidz Sports Basketball (Europe)</description>
-		<rom name="Kidz Sports Basketball (Europe) (Track 01).bin" size="70842240" crc="25458996" md5="CDE0EF5F087A62230B406A11AB0B85A9" sha1="D7CF03651F38C6DC434375171D1F41D95D98E591"/>
+		<description>Kidz Sports Basketball (Europe, Australia)</description>
+		<rom name="Kidz Sports Basketball (Europe, Australia) (Track 01).bin" size="70842240" crc="25458996" md5="CDE0EF5F087A62230B406A11AB0B85A9" sha1="D7CF03651F38C6DC434375171D1F41D95D98E591"/>
 	</game>
 	<game name="Kidz Sports Ice Hockey (Europe)" sha1="41865FB84DA2E44538CCCECB71A7B00A3968982E" size="31628567" crc="526BE096" fullsha1="2580a1dd7c518053d5562c6909894131529715ac" dataSha1="2ae62d5dbb4103081a534e03ff80f2b2a3c86a4f">
 		<category>Games</category>
@@ -9301,11 +9111,6 @@
 		<category>Games</category>
 		<description>King of Fighters, The - Maximum Impact (Europe) (En,Ja)</description>
 		<rom name="King of Fighters, The - Maximum Impact (Europe) (En,Ja) (Track 01).bin" size="1247772672" crc="96C3EE1B" md5="F07F99045F5B3FD238E67C956D746338" sha1="52ACDEAFABE74689C2777E61B74E0088A9010943"/>
-	</game>
-	<game name="King of Fighters, The - Maximum Impact 2 (Europe) (En,Fr,De,Es,It)" sha1="41e8c68ad1aebcda2295536bd22ce3bad5369c3b" size="1876990786" crc="fe910957" fullsha1="c6d0360cc45f42a7f226e1fd05ec8ee0272b1fe9" dataSha1="cc869e34f2000c636a65ea2aea4ae9a159fbca94">
-		<category>Games</category>
-		<description>King of Fighters, The - Maximum Impact 2 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="King of Fighters, The - Maximum Impact 2 (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="2146205696" crc="135a80e7" md5="2b21f552bbc11d918adbd7d9ec15b4e7" sha1="d37cd427a316da600bb8c016672b559df9cfb6cb"/>
 	</game>
 	<game name="King of Fighters, The - Maximum Impact 2 (Europe, Australia) (En,Fr,De,Es,It)" sha1="41E8C68AD1AEBCDA2295536BD22CE3BAD5369C3B" size="1876990786" crc="FE910957" fullsha1="c6d0360cc45f42a7f226e1fd05ec8ee0272b1fe9" dataSha1="cc869e34f2000c636a65ea2aea4ae9a159fbca94">
 		<category>Games</category>
@@ -9472,10 +9277,10 @@
 		<description>L.A. Rush (USA)</description>
 		<rom name="L.A. Rush (USA) (Track 01).bin" size="4085874688" crc="C783B04A" md5="FBF0C90134FA846F2A04616E2F02848D" sha1="C03968B225F0B9CDE83ED118468EB3EBD961F227"/>
 	</game>
-	<game name="LEGO Batman - The Videogame (Europe) (En,Fr,De,Es,It,Da)" sha1="1A7FE1A27724EF34857AE21C4770D18BEC860B77" size="1303088776" crc="82D9AB71" fullsha1="149adfb0a9211c21bf598e6341be74e2df6cc713" dataSha1="99539d98a17ea4fa14d0212856189f4d6583a2ce">
+	<game name="LEGO Batman - The Videogame (Europe, Australia) (En,Fr,De,Es,It,Da)" sha1="1A7FE1A27724EF34857AE21C4770D18BEC860B77" size="1303088776" crc="82D9AB71" fullsha1="149adfb0a9211c21bf598e6341be74e2df6cc713" dataSha1="99539d98a17ea4fa14d0212856189f4d6583a2ce">
 		<category>Games</category>
-		<description>LEGO Batman - The Videogame (Europe) (En,Fr,De,Es,It,Da)</description>
-		<rom name="LEGO Batman - The Videogame (Europe) (En,Fr,De,Es,It,Da) (Track 01).bin" size="2152562688" crc="CEAE3FED" md5="94AAEFD297771F2B3E9B4DBAC63499CF" sha1="F89FFD42F01668ADEA5C9BB53628476BD91C2081"/>
+		<description>LEGO Batman - The Videogame (Europe, Australia) (En,Fr,De,Es,It,Da)</description>
+		<rom name="LEGO Batman - The Videogame (Europe, Australia) (En,Fr,De,Es,It,Da) (Track 01).bin" size="2152562688" crc="CEAE3FED" md5="94AAEFD297771F2B3E9B4DBAC63499CF" sha1="F89FFD42F01668ADEA5C9BB53628476BD91C2081"/>
 	</game>
 	<game name="LEGO Batman - The Videogame (USA)" sha1="FF8A518F5C2C765D70FFE07B951910EFFF8E08E2" size="1303088715" crc="452314B5" fullsha1="e50f1741a0071387a5978e397f3e4076d1fc6bdc" dataSha1="49c28b730d4ac2fd16ed329d24a559dd07500fab">
 		<category>Games</category>
@@ -9546,16 +9351,6 @@
 		<category>Games</category>
 		<description>LMA Manager 2007 (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="LMA Manager 2007 (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="3416686592" crc="002E43B8" md5="C17B822EFC593C159AEFF71ABCC267B8" sha1="2874AAE010BD40846E12AECB5EE4CB88D12A4C1C"/>
-	</game>
-	<game name="La Pucelle - Tactics (Europe)" sha1="4a92006003559897054f6a05dfe5e58a59120e99" size="327613187" crc="e6bab1aa" fullsha1="d7c49f11ba6fad1e914e6487ed331ca3aabca2b8" dataSha1="c08302d8a553b66d92ac11e5de35471eb43238cb">
-		<category>Games</category>
-		<description>La Pucelle - Tactics (Europe)</description>
-		<rom name="La Pucelle - Tactics (Europe) (Track 01).bin" size="581082768" crc="b4c3171a" md5="3f6a3bf2279dbeecfcbc97c5e05a9ac8" sha1="d640fc4f8b2bb496064cd93e2188e36b6200f2fa"/>
-	</game>
-	<game name="La Pucelle - Tactics (USA)" sha1="7c7ded0f730b4304c13e55db292bd3a97fbf7a2c" size="481933933" crc="a10ed003" fullsha1="5ca6693554b89ea0da4aa139cad33f6580255a31" dataSha1="aa1646d8e51ae5530c807707a978fcc12f4b18ea">
-		<category>Games</category>
-		<description>La Pucelle - Tactics (USA)</description>
-		<rom name="La Pucelle - Tactics (USA) (Track 01).bin" size="1229914112" crc="713e6c51" md5="6d5a6b069a8f702a32c0ab8704a4561c" sha1="25881689847fab08bb871fb7a840fe968f25c870"/>
 	</game>
 	<game name="Lake Masters EX (Europe) (En,Fr,De)" sha1="4E909C48B9C065A45991885C7887E5FEF0334A4B" size="54096721" crc="F3EEA39F" fullsha1="5f4abca611a397f1b2a6dd1388463435ee420ad5" dataSha1="f08fef4c87031ce0581b86af334c5a90f466637a">
 		<category>Games</category>
@@ -9667,10 +9462,10 @@
 		<description>Legend of Camelot (Europe) (En,Fr,De)</description>
 		<rom name="Legend of Camelot (Europe) (En,Fr,De) (Track 01).bin" size="524597136" crc="8F8B2C16" md5="2F5CE0E46BCEFF19D58C46EA2BC807C8" sha1="49203E64574DF626F6B1DEEADCFC0EE0139F5B26"/>
 	</game>
-	<game name="Legend of Hercules (Europe) (En,De)" sha1="EF2F02C7D96E78D177FD094AB718D35483F0AE5F" size="493920289" crc="864A1E50" fullsha1="1bfe4004f19991d20a2fddbf4a95dec4891a6af4" dataSha1="4c64a8951a3a43305b8171bc43d3d0e067761de7">
+	<game name="Legend of Herkules (Europe) (En,De)" sha1="EF2F02C7D96E78D177FD094AB718D35483F0AE5F" size="493920289" crc="864A1E50" fullsha1="1bfe4004f19991d20a2fddbf4a95dec4891a6af4" dataSha1="4c64a8951a3a43305b8171bc43d3d0e067761de7">
 		<category>Games</category>
-		<description>Legend of Hercules (Europe) (En,De)</description>
-		<rom name="Legend of Hercules (Europe) (En,De) (Track 01).bin" size="628666080" crc="39C45AE0" md5="AE4D4856434C750CB3FBB144148E2A59" sha1="DA27C9A7FE06A10A3DAD53E62EA34043D02A37A1"/>
+		<description>Legend of Herkules (Europe) (En,De)</description>
+		<rom name="Legend of Herkules (Europe) (En,De) (Track 01).bin" size="628666080" crc="39C45AE0" md5="AE4D4856434C750CB3FBB144148E2A59" sha1="DA27C9A7FE06A10A3DAD53E62EA34043D02A37A1"/>
 	</game>
 	<game name="Legend of Kay (Europe) (En,Fr,De,Es,It)" sha1="6C51734082AAFC83EC3F0EDCB02590AAAC5E2DE0" size="2626057329" crc="7F072236" fullsha1="d66bc47228a09a2a8e20951474a320ca67372606" dataSha1="4178407983061434da3ce8b043bc0f4b7e6b0814">
 		<category>Games</category>
@@ -9837,11 +9632,6 @@
 		<description>Living World Racing (Europe)</description>
 		<rom name="Living World Racing (Europe) (Track 01).bin" size="165863040" crc="3505B2B8" md5="D3CBDF61A153A283315C268AB8A4378A" sha1="58D6A40D3EEA7D519ED2309BDED0F724AEFB5397"/>
 	</game>
-	<game name="London Cab Challenge (Europe)" sha1="f26006d5a1d07570a023308c949d4ff87bfd674d" size="57002032" crc="5f1b4d54" fullsha1="f9c29f3cd9f874e92188bb157bb2c46d2621d31c" dataSha1="f6e50e41c0dbea2611aa3376249a03707a56c4f9">
-		<category>Games</category>
-		<description>London Cab Challenge (Europe)</description>
-		<rom name="London Cab Challenge (Europe) (Track 01).bin" size="98579376" crc="9e194533" md5="aa38c805f3b1bd62f5631788c41e344a" sha1="ea9f84ef6d1c3eac972e0420009840567fb42649"/>
-	</game>
 	<game name="London Cab Challenge (Europe, Australia)" sha1="F26006D5A1D07570A023308C949D4FF87BFD674D" size="57002032" crc="5F1B4D54" fullsha1="f9c29f3cd9f874e92188bb157bb2c46d2621d31c" dataSha1="f6e50e41c0dbea2611aa3376249a03707a56c4f9">
 		<category>Games</category>
 		<description>London Cab Challenge (Europe, Australia)</description>
@@ -9856,11 +9646,6 @@
 		<category>Games</category>
 		<description>London Racer - Police Madness (Europe) (En,Fr,De)</description>
 		<rom name="London Racer - Police Madness (Europe) (En,Fr,De) (Track 01).bin" size="613695600" crc="7240393C" md5="327EE0BA1BA16657B4DD9F23A9F47A9D" sha1="A065C990D6250A4DF94D066D234887CF965566E1"/>
-	</game>
-	<game name="London Racer - World Challenge (Europe) (En,Fr,De,Nl)" sha1="f91c75c545622a42bae531781351b975e5ff6464" size="150430631" crc="603b8347" fullsha1="0f393342c31ddf9600b752cff077adb630daff74" dataSha1="2291247f03800fb57d8307a8987412077aef8f8d">
-		<category>Games</category>
-		<description>London Racer - World Challenge (Europe) (En,Fr,De,Nl)</description>
-		<rom name="London Racer - World Challenge (Europe) (En,Fr,De,Nl) (Track 01).bin" size="678878928" crc="6806610f" md5="8f87447c70b681b70947f11cc1bc2fa8" sha1="af8a94c6d2ec9bb8502317f1b07e27720e6d2e54"/>
 	</game>
 	<game name="London Racer II (Europe)" sha1="667462BFDFD6ECD1470B2FD8B23AE3C2BA6E3CC3" size="201284356" crc="AC2890BC" fullsha1="0075574568dabdcc4aadf18ab05a5686a2b4ecd3" dataSha1="c56c751bb0497dfe4b56ff2f7ec9c121ecbac3dd">
 		<category>Games</category>
@@ -10347,11 +10132,6 @@
 		<description>Madden NFL 2001 (USA)</description>
 		<rom name="Madden NFL 2001 (USA) (Track 01).bin" size="639214800" crc="7495F375" md5="553B0A1A7DBDDEC9660FC79F14EF1678" sha1="61D4A8D70B344C3E61BC2DD8873277EFA3256BF9"/>
 	</game>
-	<game name="Madden NFL 2002 (Europe)" sha1="b253693811f58e23164a6151cba7a2277a57d830" size="528890512" crc="939db144" fullsha1="eb2c94b5f09703e55ffa1a4189920574aaba5009" dataSha1="3de9be271a5bb9abc78623b5a73b0ba101933e40">
-		<category>Games</category>
-		<description>Madden NFL 2002 (Europe)</description>
-		<rom name="Madden NFL 2002 (Europe) (Track 01).bin" size="681113328" crc="9b0e2481" md5="a598044f1f2f3f9fe2f732019e4811ae" sha1="215dbb0ee71af437c799249aae70817145b0734d"/>
-	</game>
 	<game name="Madden NFL 2002 (Europe, Australia)" sha1="B253693811F58E23164A6151CBA7A2277A57D830" size="528890512" crc="939DB144" fullsha1="eb2c94b5f09703e55ffa1a4189920574aaba5009" dataSha1="3de9be271a5bb9abc78623b5a73b0ba101933e40">
 		<category>Games</category>
 		<description>Madden NFL 2002 (Europe, Australia)</description>
@@ -10392,7 +10172,7 @@
 		<description>Madden NFL 2005 (USA)</description>
 		<rom name="Madden NFL 2005 (USA) (Track 01).bin" size="3621158912" crc="7304045B" md5="0B02F99330D8AF9D9D0395668B07A32B" sha1="0779D47B0A236108DC2FA6B5FE89EDE1FBA7646A"/>
 	</game>
-	<game name="Madden NFL 2005 (USA) (Collector's Edition)" sha1="d7a7588b1fbd5f3465521129f8a23fada41537b3" size="6401707968" crc="f235e92e" fullsha1="6ccad75de25619d4230f6400b38cf368e10fdab7" dataSha1="b12be2793bc3f5385ae39c25842f07e95f2189be">
+	<game name="Madden NFL 2005 (USA) (Collector's Edition)" sha1="D7A7588B1FBD5F3465521129F8A23FADA41537B3" size="6401707968" crc="F235E92E" fullsha1="6ccad75de25619d4230f6400b38cf368e10fdab7" dataSha1="b12be2793bc3f5385ae39c25842f07e95f2189be">
 		<category>Games</category>
 		<description>Madden NFL 2005 (USA) (Collector's Edition)</description>
 		<rom name="Madden NFL 2005 (USA) (Collector's Edition) (Track 01).bin" size="6950977536" crc="F36DD42B" md5="D5712D5404E3FF7920CEE1F83B256D5E" sha1="111A4681CF504552E4FE7B2177835832F848E1ED"/>
@@ -10537,10 +10317,10 @@
 		<description>Manhunt 2 (USA)</description>
 		<rom name="Manhunt 2 (USA) (Track 01).bin" size="2657058816" crc="8F57C95B" md5="EDB70F8FB513588DF559E3B117B31F91" sha1="C5C1C775831FE8614189BEE80064E4FC324E9EC1"/>
 	</game>
-	<game name="Maniac Mole (Europe)" sha1="5A0DBB123BDB61B71B7D1A4149E641A0D9107B60" size="223409339" crc="9E360BE5" fullsha1="cee15dc519d66b41cbd57ded45a15367fde2b055" dataSha1="b1c9b543bf27ad601ac8fab961952269979e6149">
+	<game name="Maniac Mole (Europe, Australia)" sha1="5A0DBB123BDB61B71B7D1A4149E641A0D9107B60" size="223409339" crc="9E360BE5" fullsha1="cee15dc519d66b41cbd57ded45a15367fde2b055" dataSha1="b1c9b543bf27ad601ac8fab961952269979e6149">
 		<category>Games</category>
-		<description>Maniac Mole (Europe)</description>
-		<rom name="Maniac Mole (Europe) (Track 01).bin" size="453983040" crc="6077FFD4" md5="F9A02A068576D5D655312E2808D00C87" sha1="C6320563F3DD5AC58EB3A382868A2F03772B3C3C"/>
+		<description>Maniac Mole (Europe, Australia)</description>
+		<rom name="Maniac Mole (Europe, Australia) (Track 01).bin" size="453983040" crc="6077FFD4" md5="F9A02A068576D5D655312E2808D00C87" sha1="C6320563F3DD5AC58EB3A382868A2F03772B3C3C"/>
 	</game>
 	<game name="Marc Ecko's Getting Up - Contents Under Pressure (Europe) (En,Fr,De,Es,It)" sha1="9AE07C214EBCBA0421C217C698A3F6EE7AFE1ED5" size="2317598436" crc="2B72C3FD" fullsha1="aaab8b2a0928270c55a6d50a88507f2e2b14e3a4" dataSha1="d296339a073e5008311e74fbc666973ac3f00105">
 		<category>Games</category>
@@ -10626,11 +10406,6 @@
 		<category>Games</category>
 		<description>Marvel vs. Capcom 2 - New Age of Heroes (USA)</description>
 		<rom name="Marvel vs. Capcom 2 - New Age of Heroes (USA) (Track 01).bin" size="239673504" crc="10D5CE3A" md5="E0FFF6985CDB81AB26E9F88F4F012078" sha1="3445DDF09B57BF5B2D493E75E21FF0CD9CAA2759"/>
-	</game>
-	<game name="Mary-Kate and Ashley - Sweet 16 (Europe)" sha1="5671087eed9d89f353c6d8a32cd0a30fc9d3d425" size="371720946" crc="4bf41cb6" fullsha1="5cfdd1ec594cf147b8eaae756b0d7f019d4c2aa6" dataSha1="90e7dff7317a51fd6773428f551118522b6ed697">
-		<category>Games</category>
-		<description>Mary-Kate and Ashley - Sweet 16 (Europe)</description>
-		<rom name="Mary-Kate and Ashley - Sweet 16 (Europe) (Track 01).bin" size="748220592" crc="7a474a4a" md5="84366d613b29c714d3d208777de57f6a" sha1="79f1f120ef715612f5074ee29c4757e2e552b7f6"/>
 	</game>
 	<game name="Mary-Kate and Ashley - Sweet 16 - Licensed to Drive (Europe)" sha1="5671087EED9D89F353C6D8A32CD0A30FC9D3D425" size="371720946" crc="4BF41CB6" fullsha1="5cfdd1ec594cf147b8eaae756b0d7f019d4c2aa6" dataSha1="90e7dff7317a51fd6773428f551118522b6ed697">
 		<category>Games</category>
@@ -10897,12 +10672,12 @@
 		<description>Metal Gear Solid 2 - Sons of Liberty (USA)</description>
 		<rom name="Metal Gear Solid 2 - Sons of Liberty (USA) (Track 01).bin" size="4620910592" crc="576E3D2C" md5="9F4A571B5BD78BCBA19B2A4E8F8D7359" sha1="F5EA9C94B0B1429E3608BFFEAD48193C206F778C"/>
 	</game>
-	<game name="Metal Gear Solid 2 - Substance (Europe) (En,Fr,De,Es,It)" sha1="3dfeb92e7f734cde862ab557f9bace6dd11374e1" size="4373672143" crc="aca69a87" fullsha1="6a1faf177de584eb8d846658fdf4f9a95da9c9fa" dataSha1="aba3f0e62273d9bbfc63b8744f138db3840c79ea">
+	<game name="Metal Gear Solid 2 - Substance (Europe) (En,Fr,De,Es,It)" sha1="3DFEB92E7F734CDE862AB557F9BACE6DD11374E1" size="4373672143" crc="ACA69A87" fullsha1="6a1faf177de584eb8d846658fdf4f9a95da9c9fa" dataSha1="aba3f0e62273d9bbfc63b8744f138db3840c79ea">
 		<category>Games</category>
 		<description>Metal Gear Solid 2 - Substance (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Metal Gear Solid 2 - Substance (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="6313803776" crc="0333ED63" md5="1E3F915CDA12DB631973281121A02106" sha1="351AE032E28D80EDE1B2788822A147AAD52ED46C"/>
 	</game>
-	<game name="Metal Gear Solid 2 - Substance (USA)" sha1="36809c2d10d7dd268d2713e23b69f39de9b6b612" size="4410047336" crc="2884a911" fullsha1="5a69cb8b2d0354d80651ba4bfa7c859722994a70" dataSha1="54919d35d7a1a5dec1f2ca4590f9473b7dd2bb19">
+	<game name="Metal Gear Solid 2 - Substance (USA)" sha1="36809C2D10D7DD268D2713E23B69F39DE9B6B612" size="4410047336" crc="2884A911" fullsha1="5a69cb8b2d0354d80651ba4bfa7c859722994a70" dataSha1="54919d35d7a1a5dec1f2ca4590f9473b7dd2bb19">
 		<category>Games</category>
 		<description>Metal Gear Solid 2 - Substance (USA)</description>
 		<rom name="Metal Gear Solid 2 - Substance (USA) (Track 01).bin" size="6436749312" crc="574B821F" md5="18E455D228247F84AFD5E6454A75CB6F" sha1="0F86E6141D8C352F04CB78CEA196B46B3A0D45CB"/>
@@ -10937,12 +10712,7 @@
 		<description>Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 2) (Persistence)</description>
 		<rom name="Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 2) (Persistence) (Track 01).bin" size="2999189504" crc="2B3CA116" md5="F318387986BFFB397504D90C43AABC28" sha1="BD03A22C2248F70A53D1EE7C475C1238B427A96A"/>
 	</game>
-	<game name="Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 2) (Subsistence)" sha1="bc1dad71a3a35af561e965df3188597ece4d63d7" size="2393787393" crc="77a7aaa4" fullsha1="216e88eaf99ed5829c7ad532924434c38b1da481" dataSha1="94e6553977646158250fdc37c95d6755b0458da4">
-		<category>Games</category>
-		<description>Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 2) (Subsistence)</description>
-		<rom name="Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 2) (Subsistence) (Track 01).bin" size="2999189504" crc="2b3ca116" md5="f318387986bffb397504d90c43aabc28" sha1="bd03a22c2248f70a53d1ee7c475c1238b427a96a"/>
-	</game>
-	<game name="Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 3) (Existence) (Limited Edition)" sha1="26f0a05a6dfc432fc4c9eda0c3a61b7e5d34677a" size="4456626123" crc="545b7a8e" fullsha1="8c5af648f7779635579fac6734e5d71941ab2a15" dataSha1="991f9c54b3325405a228b411b7016d7e391ab636">
+	<game name="Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 3) (Existence) (Limited Edition)" sha1="26F0A05A6DFC432FC4C9EDA0C3A61B7E5D34677A" size="4456626123" crc="545B7A8E" fullsha1="8c5af648f7779635579fac6734e5d71941ab2a15" dataSha1="991f9c54b3325405a228b411b7016d7e391ab636">
 		<category>Games</category>
 		<description>Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 3) (Existence) (Limited Edition)</description>
 		<rom name="Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 3) (Existence) (Limited Edition) (Track 01).bin" size="4644503552" crc="A2367886" md5="4D8FAA55031311527787CA2274B7BC9E" sha1="18EAC6E8FBD5AF5EAFE35E11E1AEE9BA44E0C6E9"/>
@@ -10957,30 +10727,15 @@
 		<description>Metal Slug 3 (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Metal Slug 3 (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="1679687680" crc="ECC9D5F7" md5="9BB62496C49707E3E9F8F22992765ED0" sha1="1B82FE38569B0962FD1648F3D83436C374877384"/>
 	</game>
-	<game name="Metal Slug 4 &amp; 5 (USA) (Disc 1) (Metal Slug 4)" sha1="0ad709a4df61bd84a82aad16220b888cb8f2c35f" size="81133655" crc="d1ac08d6" fullsha1="39add900f93c596ff99fa6c8ecade7077d215dc4" dataSha1="00ac655c16531a839df4ee9ef68a5ee8a05d0f07">
+	<game name="Metal Slug 4 (Europe, Australia)" sha1="6F172A85E633F5F40BB808F865F124621A992AFE" size="72890058" crc="BBBBA33E" fullsha1="3c45a94a19c1c532b36faf9be2cd7d9ac6abc387" dataSha1="ad2c11ab7c3c6fd2cec67e91a9559ff70295d42d">
 		<category>Games</category>
-		<description>Metal Slug 4 &amp; 5 (USA) (Disc 1) (Metal Slug 4)</description>
-		<rom name="Metal Slug 4 &amp; 5 (USA) (Disc 1) (Metal Slug 4) (Track 01).bin" size="2216198144" crc="a76f4e1e" md5="9bb64a9a1691f598236633a9b091fea6" sha1="45515f0eedb4be663ed5b36109b373cdb8ba88b4"/>
-	</game>
-	<game name="Metal Slug 4 &amp; 5 (USA) (Disc 2) (Metal Slug 5)" sha1="25abcb76933cff170b1abac867c6b4e7e87eec28" size="125819560" crc="6ba3586a" fullsha1="744d0b70b9efe6d0298b0b5d6175e000bf51df71" dataSha1="399c0b8210f24e22129e20aaf91edd61ffe7f7a3">
-		<category>Games</category>
-		<description>Metal Slug 4 &amp; 5 (USA) (Disc 2) (Metal Slug 5)</description>
-		<rom name="Metal Slug 4 &amp; 5 (USA) (Disc 2) (Metal Slug 5) (Track 01).bin" size="2247688192" crc="70f8bb69" md5="06f1390d7e909e11c4dfeda31e0dfc22" sha1="e52297037e9812306a024b99bafbea8540f2adf4"/>
-	</game>
-	<game name="Metal Slug 4 (Europe)" sha1="6F172A85E633F5F40BB808F865F124621A992AFE" size="72890058" crc="BBBBA33E" fullsha1="3c45a94a19c1c532b36faf9be2cd7d9ac6abc387" dataSha1="ad2c11ab7c3c6fd2cec67e91a9559ff70295d42d">
-		<category>Games</category>
-		<description>Metal Slug 4 (Europe)</description>
-		<rom name="Metal Slug 4 (Europe) (Track 01).bin" size="137883648" crc="59B981CA" md5="2DD599E3F621108B6B950E14BA931D5B" sha1="6DC5443732992D7BAFF6153D6863A22D330AD5B7"/>
+		<description>Metal Slug 4 (Europe, Australia)</description>
+		<rom name="Metal Slug 4 (Europe, Australia) (Track 01).bin" size="137883648" crc="59B981CA" md5="2DD599E3F621108B6B950E14BA931D5B" sha1="6DC5443732992D7BAFF6153D6863A22D330AD5B7"/>
 	</game>
 	<game name="Metal Slug 4 (USA)" sha1="0AD709A4DF61BD84A82AAD16220B888CB8F2C35F" size="81133655" crc="D1AC08D6" fullsha1="39add900f93c596ff99fa6c8ecade7077d215dc4" dataSha1="00ac655c16531a839df4ee9ef68a5ee8a05d0f07">
 		<category>Games</category>
 		<description>Metal Slug 4 (USA)</description>
 		<rom name="Metal Slug 4 (USA) (Track 01).bin" size="2216198144" crc="A76F4E1E" md5="9BB64A9A1691F598236633A9B091FEA6" sha1="45515F0EEDB4BE663ED5B36109B373CDB8BA88B4"/>
-	</game>
-	<game name="Metal Slug 5 (Europe)" sha1="f570c54ceec2be291f900b4adfc9fe421c048f1a" size="117376802" crc="eeb8e4ea" fullsha1="b7986b376fa501bea77180fee20162ae48a55bd1" dataSha1="2f3824dd7c52972e7027103a0e142a44522f9781">
-		<category>Games</category>
-		<description>Metal Slug 5 (Europe)</description>
-		<rom name="Metal Slug 5 (Europe) (Track 01).bin" size="178547376" crc="8fa4d74f" md5="38b769666ac35074933af93431ef9233" sha1="aaa39636619d78aa4aeb1166bf11504f2cca249c"/>
 	</game>
 	<game name="Metal Slug 5 (Europe, Australia)" sha1="F570C54CEEC2BE291F900B4ADFC9FE421C048F1A" size="117376802" crc="EEB8E4EA" fullsha1="b7986b376fa501bea77180fee20162ae48a55bd1" dataSha1="2f3824dd7c52972e7027103a0e142a44522f9781">
 		<category>Games</category>
@@ -11107,10 +10862,10 @@
 		<description>Midway Arcade Treasures (USA)</description>
 		<rom name="Midway Arcade Treasures (USA) (Track 01).bin" size="4539940864" crc="369E611D" md5="F3A92C6ABC4DCA7C41F796A6A2A8A341" sha1="B1CFC790413DD0E219D2555156BE80E6CE516810"/>
 	</game>
-	<game name="Midway Arcade Treasures 2 (Europe)" sha1="FA4EDFA88D945B150E93166AB0147FD81D66310E" size="2486772371" crc="AE723167" fullsha1="3d7403845e96d474bbb0d13d6e9dc3525773f279" dataSha1="e985e4518242653e18a0d177ff6f5e08ca4c8f5a">
+	<game name="Midway Arcade Treasures 2 (Europe, Australia)" sha1="FA4EDFA88D945B150E93166AB0147FD81D66310E" size="2486772371" crc="AE723167" fullsha1="3d7403845e96d474bbb0d13d6e9dc3525773f279" dataSha1="e985e4518242653e18a0d177ff6f5e08ca4c8f5a">
 		<category>Games</category>
-		<description>Midway Arcade Treasures 2 (Europe)</description>
-		<rom name="Midway Arcade Treasures 2 (Europe) (Track 01).bin" size="2747236352" crc="FF0E2F07" md5="48EE81E6AF42FE79B04ECC788A3C5863" sha1="CA06EECA6DF3658D6153FE6C27EF0825E3468AA8"/>
+		<description>Midway Arcade Treasures 2 (Europe, Australia)</description>
+		<rom name="Midway Arcade Treasures 2 (Europe, Australia) (Track 01).bin" size="2747236352" crc="FF0E2F07" md5="48EE81E6AF42FE79B04ECC788A3C5863" sha1="CA06EECA6DF3658D6153FE6C27EF0825E3468AA8"/>
 	</game>
 	<game name="Midway Arcade Treasures 2 (USA)" sha1="C04D70C8738B4F668ACB12927D8698D836B6F1CC" size="2514580725" crc="A0E21ADC" fullsha1="34f2fccda4e0920aff5a4b3bbce2cf7d277f340a" dataSha1="9ae76c2052ee4331af9840d6c89b2fb4eb86dc9d">
 		<category>Games</category>
@@ -11142,10 +10897,10 @@
 		<description>Mike Tyson Heavyweight Boxing (USA) (En,Fr,Es)</description>
 		<rom name="Mike Tyson Heavyweight Boxing (USA) (En,Fr,Es) (Track 01).bin" size="921731072" crc="2DA089AB" md5="7CA4DD060DD74A7556B8B7D9050A1E6A" sha1="B5019C6BD457E02F973BB7FA1F889337D068001E"/>
 	</game>
-	<game name="Millennium European Paintball Series, The - Championship Paintball 2009 (Europe)" sha1="FBC9812BAF40B083DEF471C85FCC09CEA7D600DE" size="1536746732" crc="CB0E2058" fullsha1="695935e5c1fb8e1e3e08adaa0a6ac039add2906e" dataSha1="829d7eeccc3f5f0a799cf3ca8d46fc920c1cef1e">
+	<game name="Millennium European Paintball Series, The - Championship Paintball 2009 (Europe, Australia)" sha1="FBC9812BAF40B083DEF471C85FCC09CEA7D600DE" size="1536746732" crc="CB0E2058" fullsha1="695935e5c1fb8e1e3e08adaa0a6ac039add2906e" dataSha1="829d7eeccc3f5f0a799cf3ca8d46fc920c1cef1e">
 		<category>Games</category>
-		<description>Millennium European Paintball Series, The - Championship Paintball 2009 (Europe)</description>
-		<rom name="Millennium European Paintball Series, The - Championship Paintball 2009 (Europe) (Track 01).bin" size="4450779136" crc="B8C7C71D" md5="DAE558BDA4B78D9F6953EB2EA62A9266" sha1="D7683B7589266779253A44888C1AEA1F92DB1FE3"/>
+		<description>Millennium European Paintball Series, The - Championship Paintball 2009 (Europe, Australia)</description>
+		<rom name="Millennium European Paintball Series, The - Championship Paintball 2009 (Europe, Australia) (Track 01).bin" size="4450779136" crc="B8C7C71D" md5="DAE558BDA4B78D9F6953EB2EA62A9266" sha1="D7683B7589266779253A44888C1AEA1F92DB1FE3"/>
 	</game>
 	<game name="Mini Desktop Racing (Europe)" sha1="0620922D55CCB5170FBDBF123BCFF3014C6A393C" size="49147881" crc="98B5AE3D" fullsha1="7c2392ddc7fa0cfe7d9612977a4090b07596482f" dataSha1="920d3462b8b4432ad7745806e2c63c9e9913cfe8">
 		<category>Games</category>
@@ -11392,11 +11147,6 @@
 		<description>Mortal Kombat - Armageddon (USA) (Premium Edition)</description>
 		<rom name="Mortal Kombat - Armageddon (USA) (Premium Edition) (Track 01).bin" size="4366794752" crc="3BC09E82" md5="FB3D7388662B6552600BBE25751C8425" sha1="03CE661461D5212F49EAC8EF68B807E8D09FA546"/>
 	</game>
-	<game name="Mortal Kombat - Armageddon - Premium Edition (USA)" sha1="dbfbf883a1b33d5d7b273a11f034f1d98532d024" size="2683533908" crc="d05ad959" fullsha1="b06960d24b895f0e55189002cd359222cbd9abc2" dataSha1="26c84f60e2fc2238f74815660fd3a887747f4d40">
-		<category>Games</category>
-		<description>Mortal Kombat - Armageddon - Premium Edition (USA)</description>
-		<rom name="Mortal Kombat - Armageddon - Premium Edition (USA) (Track 01).bin" size="4366794752" crc="3bc09e82" md5="fb3d7388662b6552600bbe25751c8425" sha1="03ce661461d5212f49eac8ef68b807e8d09fa546"/>
-	</game>
 	<game name="Mortal Kombat - Deadly Alliance (Germany) (En,Fr,De,Es,It)" sha1="0A7F7C5D87F6501DF36948F855E5F83E329CF3F1" size="2897634591" crc="DE514B63" fullsha1="8a438670ce082c9d2545c8e4fde8fdbc7368a810" dataSha1="6803d25ec5cbde12a578e8085080cc8efcc007bf">
 		<category>Games</category>
 		<description>Mortal Kombat - Deadly Alliance (Germany) (En,Fr,De,Es,It)</description>
@@ -11421,11 +11171,6 @@
 		<category>Games</category>
 		<description>Mortal Kombat - Deception (USA) (Premium Pack Bonus Disc)</description>
 		<rom name="Mortal Kombat - Deception (USA) (Premium Pack Bonus Disc) (Track 01).bin" size="1866792960" crc="CCFDEDC2" md5="6C5DAD0670625C6A54C6C97C91F35311" sha1="389550609C970BF5BA75176A41C87071995AEB78"/>
-	</game>
-	<game name="Mortal Kombat - Deception - Premium Pack Bonus Disc (USA)" sha1="f386da6069a05ac878f56c7bb0691cc0a7b6bd97" size="1836719391" crc="faf3b438" fullsha1="b71f678f6ea757c40578997c1d8523125149b4fa" dataSha1="5583071ff21d41b9b7c2a96f70781582c5df2474">
-		<category>Games</category>
-		<description>Mortal Kombat - Deception - Premium Pack Bonus Disc (USA)</description>
-		<rom name="Mortal Kombat - Deception - Premium Pack Bonus Disc (USA) (Track 01).bin" size="1866792960" crc="ccfdedc2" md5="6c5dad0670625c6a54c6c97c91f35311" sha1="389550609c970bf5ba75176a41c87071995aeb78"/>
 	</game>
 	<game name="Mortal Kombat - Shaolin Monks (Germany) (En,De)" sha1="91422B365ADA3BD965AB070CE1CDF500DB804AB0" size="2062583159" crc="F129BD97" fullsha1="5c725fd0fbae2ad1829f982c7f3858c737131446" dataSha1="d5227108b37fa8b6a74b349515c67b808a168773">
 		<category>Games</category>
@@ -11537,11 +11282,6 @@
 		<description>Mountain Bike Adrenaline (USA)</description>
 		<rom name="Mountain Bike Adrenaline (USA) (Track 01).bin" size="507493392" crc="41CFB68C" md5="4A3459C6117A10B04414044D799E5C46" sha1="0246AD24A11485B4496CD853BF2DC7D8799AED4A"/>
 	</game>
-	<game name="Mountain Bike Adrenaline featuring Salomon (Europe) (En,Fr,De,Es,It)" sha1="cfffe444d8e2225668ad274fa9d32034392a6258" size="275973682" crc="64a1d3a2" fullsha1="74bbaf0708fd8c0f0c646f58d2c9bbfc0b0d7e9e" dataSha1="1170d86e261f67379314363ef6268f1d0c400c5b">
-		<category>Games</category>
-		<description>Mountain Bike Adrenaline featuring Salomon (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Mountain Bike Adrenaline featuring Salomon (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="429588096" crc="2a3ff1e1" md5="53918ec8e41791772066bb13207b1fc2" sha1="b87bf2437e647d0130a0f42ca4c59dbe94e04bb1"/>
-	</game>
 	<game name="Mountain Bike Adrenaline featuring Salomon (Europe, Australia) (En,Fr,De,Es,It)" sha1="CFFFE444D8E2225668AD274FA9D32034392A6258" size="275973682" crc="64A1D3A2" fullsha1="74bbaf0708fd8c0f0c646f58d2c9bbfc0b0d7e9e" dataSha1="1170d86e261f67379314363ef6268f1d0c400c5b">
 		<category>Games</category>
 		<description>Mountain Bike Adrenaline featuring Salomon (Europe, Australia) (En,Fr,De,Es,It)</description>
@@ -11642,11 +11382,6 @@
 		<description>Myst III - Exile (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Myst III - Exile (Europe) (En,Fr,De,Es,It,Nl) (Track 01).bin" size="3684990976" crc="A53CBCE7" md5="5F6599482234EAA0FF1BA6810ADF5BCA" sha1="FDF58A4785E62466FC2E8F34F4E6660C9E30F9B2"/>
 	</game>
-	<game name="Myst III - Exile (USA)" sha1="42f4f86089f9966905e96b1ad6d75f599f4831eb" size="3353066630" crc="b43cfe20" fullsha1="0c628e5b09405ae555cbf3688eaab0f1a872516b" dataSha1="e9aa916069ce08de63f1dfa5049fb22d9ad7724e">
-		<category>Games</category>
-		<description>Myst III - Exile (USA)</description>
-		<rom name="Myst III - Exile (USA) (Track 01).bin" size="3852926976" crc="31142485" md5="e71abe6db3a1695416c95d73604bfe5b" sha1="c26ee4f75561e925bb0d828cb319225b7bf53657"/>
-	</game>
 	<game name="Myst III - Exile (USA) (En,Fr,Es)" sha1="42F4F86089F9966905E96B1AD6D75F599F4831EB" size="3353066630" crc="B43CFE20" fullsha1="0c628e5b09405ae555cbf3688eaab0f1a872516b" dataSha1="e9aa916069ce08de63f1dfa5049fb22d9ad7724e">
 		<category>Games</category>
 		<description>Myst III - Exile (USA) (En,Fr,Es)</description>
@@ -11682,25 +11417,15 @@
 		<description>Myth Makers - Trixie in Toyland (Europe)</description>
 		<rom name="Myth Makers - Trixie in Toyland (Europe) (Track 01).bin" size="85330560" crc="B443CF19" md5="ECFC58A2324B35D69363C0AA8C711D2B" sha1="6ACC28B6E995EC3B046E7E8EA86BB1FBACBF36B5"/>
 	</game>
-	<game name="Myth Makers Orbs of Doom (Europe)" sha1="e91d0d83123217559361f79f9591bd9f7d672423" size="52525751" crc="59b96a75" fullsha1="5cbbd52b23aa81e2431aa6d9dc75a91eb8e31a8b" dataSha1="b0c80717c3987c4155b2178ff3314ba815a0eda9">
-		<category>Games</category>
-		<description>Myth Makers Orbs of Doom (Europe)</description>
-		<rom name="Myth Makers Orbs of Doom (Europe) (Track 01).bin" size="110146512" crc="205d1a66" md5="2ee5a05b24a92d45be72489e6770556e" sha1="f07834ec36dbbcb93223a72e7fed00b854b7bdee"/>
-	</game>
-	<game name="Myth Makers Super Kart GP (Europe)" sha1="652df87663fabe9efc19ee1adb458e6b0d48bc5b" size="60457784" crc="df11d6a7" fullsha1="7047955d5840476c9b5c3bb85892969acb105025" dataSha1="c31297d7447f64443933f782ebe01af4188fa9bf">
-		<category>Games</category>
-		<description>Myth Makers Super Kart GP (Europe)</description>
-		<rom name="Myth Makers Super Kart GP (Europe) (Track 01).bin" size="687607200" crc="4a42b110" md5="22bfea3700d23bca7bc87f24a9255e41" sha1="0618eef4fa9990ba210aa7f5bfbe287129a19932"/>
-	</game>
 	<game name="NASCAR - Dirt to Daytona (USA)" sha1="587EA92980085E20C79817C0480737F929158A7C" size="2695190545" crc="C34F9238" fullsha1="88026ab8a85ac9251fbf7ac9a1e7aab1347561bb" dataSha1="83be3f7f27f4521c68ae464644f5aad91585d5cb">
 		<category>Games</category>
 		<description>NASCAR - Dirt to Daytona (USA)</description>
 		<rom name="NASCAR - Dirt to Daytona (USA) (Track 01).bin" size="2930802688" crc="EA66E26C" md5="0C1391C150DDF3DCB97D1B79026DBC3C" sha1="5C7600D15A9E569143EC8CD4B64D8DCDF55E65D9"/>
 	</game>
-	<game name="NASCAR 06 - Total Team Control (Europe)" sha1="AB394EB654AEF2912D6176DC8F6CF4E0D71FFE1B" size="2979986935" crc="BB133408" fullsha1="b50eb56ca818221aebaaeb54ba62ed10d382af75" dataSha1="8c8dec8cfa1481c7b39ba7396652e2f438b9817e">
+	<game name="NASCAR 06 - Total Team Control (Europe, Australia)" sha1="AB394EB654AEF2912D6176DC8F6CF4E0D71FFE1B" size="2979986935" crc="BB133408" fullsha1="b50eb56ca818221aebaaeb54ba62ed10d382af75" dataSha1="8c8dec8cfa1481c7b39ba7396652e2f438b9817e">
 		<category>Games</category>
-		<description>NASCAR 06 - Total Team Control (Europe)</description>
-		<rom name="NASCAR 06 - Total Team Control (Europe) (Track 01).bin" size="3226763264" crc="857EADB1" md5="EC973A4F57F3CB5F54629B852E3BF553" sha1="96CB82C6D3DA17C3575A93BF1F7F676542F566F8"/>
+		<description>NASCAR 06 - Total Team Control (Europe, Australia)</description>
+		<rom name="NASCAR 06 - Total Team Control (Europe, Australia) (Track 01).bin" size="3226763264" crc="857EADB1" md5="EC973A4F57F3CB5F54629B852E3BF553" sha1="96CB82C6D3DA17C3575A93BF1F7F676542F566F8"/>
 	</game>
 	<game name="NASCAR 06 - Total Team Control (USA)" sha1="18280D0F8415E0C914CEFAEEA45E5BF621175A02" size="3200993526" crc="AAE76010" fullsha1="10ea73c206ca18bb1de0ecd2d67a1e0f2dc1e97a" dataSha1="c77e3f16d7c1d49c44a6245592a221e180b50d8a">
 		<category>Games</category>
@@ -12402,11 +12127,6 @@
 		<description>NHL 2K6 (USA)</description>
 		<rom name="NHL 2K6 (USA) (Track 01).bin" size="4030431232" crc="43DB4D98" md5="C570ED4ACF7D1B6E6D0DBAC3B4E3B40B" sha1="69B44CCEBCB8B753CE4AF5C3D36ABE93A8FB2A67"/>
 	</game>
-	<game name="NHL 2K7 (Europe) (En,Fr,De,Es,It)" sha1="b0184caf470b4934648b55df44a0baafa850fa40" size="2692874195" crc="834128a9" fullsha1="0a95513349a014a6356c031ea2ce2ec29c3676e8" dataSha1="a814801ea53da2962d5a93b0ebb820ed928c0b3b">
-		<category>Games</category>
-		<description>NHL 2K7 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="NHL 2K7 (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="3543334912" crc="82e67b2a" md5="53657b17836e781025a21ca14bd0dec7" sha1="0ee8d56c527c51b9fb6afef56c6410d265ef07d4"/>
-	</game>
 	<game name="NHL 2K7 (Europe, Australia) (En,Fr,De,Es,It)" sha1="B0184CAF470B4934648B55DF44A0BAAFA850FA40" size="2692874195" crc="834128A9" fullsha1="0a95513349a014a6356c031ea2ce2ec29c3676e8" dataSha1="a814801ea53da2962d5a93b0ebb820ed928c0b3b">
 		<category>Games</category>
 		<description>NHL 2K7 (Europe, Australia) (En,Fr,De,Es,It)</description>
@@ -12416,11 +12136,6 @@
 		<category>Games</category>
 		<description>NHL 2K7 (USA)</description>
 		<rom name="NHL 2K7 (USA) (Track 01).bin" size="3508699136" crc="B7FBE416" md5="3638C074826FB1AFD127785FDC9A20CE" sha1="BDF9EB6C5B4C85B39825F7790CA23E85CFF82407"/>
-	</game>
-	<game name="NHL 2K8 (Europe) (En,Fr,De,Es,It)" sha1="5cab078f6b9c6cdfa46fae0957f5774326f837ab" size="2958780330" crc="ea1b42d4" fullsha1="d625d3c4fba27d98f6076f15f789ab95674ab1b4" dataSha1="b8641d7198eabba7948b767a458250212b40b2ae">
-		<category>Games</category>
-		<description>NHL 2K8 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="NHL 2K8 (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="3849322496" crc="e93d28b7" md5="a25e3bc03cae4d849ba978160e4c9493" sha1="5c05472392f015ffec435aaf41c928c6a2e35861"/>
 	</game>
 	<game name="NHL 2K8 (Europe, Australia) (En,Fr,De,Es,It)" sha1="5CAB078F6B9C6CDFA46FAE0957F5774326F837AB" size="2958780330" crc="EA1B42D4" fullsha1="d625d3c4fba27d98f6076f15f789ab95674ab1b4" dataSha1="b8641d7198eabba7948b767a458250212b40b2ae">
 		<category>Games</category>
@@ -13117,10 +12832,10 @@
 		<description>Noddy and the Magic Book (Europe) (En,Fr,Pt,No,Da)</description>
 		<rom name="Noddy and the Magic Book (Europe) (En,Fr,Pt,No,Da) (Track 01).bin" size="2456879104" crc="8CF817A7" md5="C49ED17C6BB4A7B73A622017CDD4A532" sha1="CC3F642E94BD97E9C8F8DA7F011CD1DEFD8B7A5E"/>
 	</game>
-	<game name="Obliterate (Europe)" sha1="FEDA017324D3165BDAC2A10CA95D9FBF29C03A28" size="36556762" crc="D82C35B3" fullsha1="e5dad17413ca4e695bf9ce074d68c3d44b05514f" dataSha1="f05a26e40bfc034c3cbf34c1c0e53fda5dc8cb74">
+	<game name="Obliterate (Europe, Australia)" sha1="FEDA017324D3165BDAC2A10CA95D9FBF29C03A28" size="36556762" crc="D82C35B3" fullsha1="e5dad17413ca4e695bf9ce074d68c3d44b05514f" dataSha1="f05a26e40bfc034c3cbf34c1c0e53fda5dc8cb74">
 		<category>Games</category>
-		<description>Obliterate (Europe)</description>
-		<rom name="Obliterate (Europe) (Track 01).bin" size="109189248" crc="3FC9F4DF" md5="CD628146EA9FBEDA1341AE37ADA709C1" sha1="FD6FEADF9CBA63529051A6C4F75A636E3EEC1DC1"/>
+		<description>Obliterate (Europe, Australia)</description>
+		<rom name="Obliterate (Europe, Australia) (Track 01).bin" size="109189248" crc="3FC9F4DF" md5="CD628146EA9FBEDA1341AE37ADA709C1" sha1="FD6FEADF9CBA63529051A6C4F75A636E3EEC1DC1"/>
 	</game>
 	<game name="ObsCure (Europe) (De,Es)" sha1="190796A38F09203F736FFFE3144DAB7FFF77D0B2" size="2144275545" crc="1C9CA693" fullsha1="93a0993bdbb274ea8967f4b24c5b2e7ab84f7452" dataSha1="3aa0fab5795ffd0cac8478194187d040db32df79">
 		<category>Games</category>
@@ -14448,10 +14163,10 @@
 		<description>Rapala Pro Fishing (USA)</description>
 		<rom name="Rapala Pro Fishing (USA) (Track 01).bin" size="4429250560" crc="94DC62ED" md5="7ED5755B8F9FB2907370A7BEF11B27BD" sha1="DCC648601F3482B1AAEAFCD6CEA0CCDBFB5438FF"/>
 	</game>
-	<game name="Ratchet &amp; Clank (Europe) (En,Fr,De,Es,It) (v2.00)" sha1="38BD2BA1F100C5B29791DCA68162D24A25045692" size="3623461056" crc="0FF7D81E" fullsha1="aa80b7940dee6651d73aaf9aed2f4964d49b9726" dataSha1="a8bc750faa029484d1dd899d4b60365632a364eb">
+	<game name="Ratchet &amp; Clank (Europe, Australia) (En,Fr,De,Es,It) (v2.00)" sha1="38BD2BA1F100C5B29791DCA68162D24A25045692" size="3623461056" crc="0FF7D81E" fullsha1="aa80b7940dee6651d73aaf9aed2f4964d49b9726" dataSha1="a8bc750faa029484d1dd899d4b60365632a364eb">
 		<category>Games</category>
-		<description>Ratchet &amp; Clank (Europe) (En,Fr,De,Es,It) (v2.00)</description>
-		<rom name="Ratchet &amp; Clank (Europe) (En,Fr,De,Es,It) (v2.00) (Track 01).bin" size="4214784000" crc="E417C4B2" md5="32B8347B2BB80CD30D30BA0601EBB0EE" sha1="EF304C641C7CD426BA492707DDA5974679BEFBC0"/>
+		<description>Ratchet &amp; Clank (Europe, Australia) (En,Fr,De,Es,It) (v2.00)</description>
+		<rom name="Ratchet &amp; Clank (Europe, Australia) (En,Fr,De,Es,It) (v2.00) (Track 01).bin" size="4214784000" crc="E417C4B2" md5="32B8347B2BB80CD30D30BA0601EBB0EE" sha1="EF304C641C7CD426BA492707DDA5974679BEFBC0"/>
 	</game>
 	<game name="Ratchet &amp; Clank (USA) (En,Fr,De,Es,It)" sha1="7BDD9522DC0E78AF00EB0F3B4464F6EF5FDDFDEC" size="3622802889" crc="967D9C82" fullsha1="1a75deae4a5da3574c513294a605ea596437c8ed" dataSha1="0b83ba5cda05c37fadc682b9ff358f810715b5b0">
 		<category>Games</category>
@@ -14662,11 +14377,6 @@
 		<category>Games</category>
 		<description>Red Faction II (USA)</description>
 		<rom name="Red Faction II (USA) (Track 01).bin" size="2228486144" crc="9130D191" md5="0CA7AA78A63C998DC35CF8539F1B6B65" sha1="F40B0247EC16306FEDDDE0BC5B80F761E0A211D3"/>
-	</game>
-	<game name="Red Ninja - End of Honor (Germany)" sha1="6030c3d40e5b6afe7e26c2d20b1b646d20b0f54c" size="1701015578" crc="42ef01b8" fullsha1="228a510d5c10b4afce78429f344e27bb74747a9e" dataSha1="689d59a08bd1e9b089064cad0d7e5faf299e6b49">
-		<category>Games</category>
-		<description>Red Ninja - End of Honor (Germany)</description>
-		<rom name="Red Ninja - End of Honor (Germany) (Track 01).bin" size="3291873280" crc="8434ee17" md5="37dcf23d6d5796aaa6679a4e2e324b9d" sha1="e30e1ba9f2de95f18822d685905de98b83fda6b3"/>
 	</game>
 	<game name="Red Ninja - End of Honor (USA)" sha1="38E3E573DBED801B035FB126FFDC5208E4621249" size="1858953204" crc="50CE4113" fullsha1="081eceed5e8043ff9308f54440b9105577363d64" dataSha1="fe47403ff331d4c75e61efd924c87e05d5911f4e">
 		<category>Games</category>
@@ -14993,12 +14703,12 @@
 		<description>Robots (USA)</description>
 		<rom name="Robots (USA) (Track 01).bin" size="2647588864" crc="4E7B96F3" md5="F15D820715230B243C37FEA55615C5C1" sha1="248D822CED18A73E34970CCD3000E2A7F4E16261"/>
 	</game>
-	<game name="Rock Band (Europe, Australia) (En,Fr,De,Es,It)" sha1="6448ed541cf078c4a520360f24b61dd1465534bb" size="8165656106" crc="87510360" fullsha1="d702cdeca23357b059322f818f06b669b424993d" dataSha1="aef13165e2a6e8ddf323a6252714b8270b178677">
+	<game name="Rock Band (Europe, Australia) (En,Fr,De,Es,It)" sha1="6448ED541CF078C4A520360F24B61DD1465534BB" size="8165656106" crc="87510360" fullsha1="d702cdeca23357b059322f818f06b669b424993d" dataSha1="aef13165e2a6e8ddf323a6252714b8270b178677">
 		<category>Games</category>
 		<description>Rock Band (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<rom name="Rock Band (Europe, Australia) (En,Fr,De,Es,It) (Track 01).bin" size="8262713344" crc="1E549FAA" md5="BAA0C750CD811B881211674A0AA9126E" sha1="28E6FF2C19E9ADCD9B08053C481C2D8EB2B25FF8"/>
 	</game>
-	<game name="Rock Band (USA)" sha1="4f461d9cf384ae68d1a652a8c713c72333a0cc8e" size="7960810548" crc="b30cb7e6" fullsha1="eb078eeedcb0aa89e85fc1cc82b57980e92a72c4" dataSha1="49ee8ffda03aeb9e16fa218b38fe507e1f8f5123">
+	<game name="Rock Band (USA)" sha1="4F461D9CF384AE68D1A652A8C713C72333A0CC8E" size="7960810548" crc="B30CB7E6" fullsha1="eb078eeedcb0aa89e85fc1cc82b57980e92a72c4" dataSha1="49ee8ffda03aeb9e16fa218b38fe507e1f8f5123">
 		<category>Games</category>
 		<description>Rock Band (USA)</description>
 		<rom name="Rock Band (USA) (Track 01).bin" size="8206123008" crc="904694E5" md5="48E8783F82C78D61BF43E792CA94DE08" sha1="5EBC46F3AE24EA45186BC6F41D1410DFE8D3DE58"/>
@@ -15033,12 +14743,12 @@
 		<description>Rock Band - Track Pack Volume 2 (USA)</description>
 		<rom name="Rock Band - Track Pack Volume 2 (USA) (Track 01).bin" size="3317858304" crc="9269BA2C" md5="5E91DBC9D39D12B20CB94E27AE589650" sha1="24C0B0BC130FF01D6B3CDAA0AED3C739EEDA6ECD"/>
 	</game>
-	<game name="Rock Band 2 (Europe) (En,Fr,De,Es,It)" sha1="5beaf6021a85aafe799c30205f9daf2eac5c6fb2" size="8127213133" crc="d835616d" fullsha1="3c80831cb2849edf0a3d46ae9ac00d471bed8ff5" dataSha1="fc8ce21838cdaecc000b4a457c7be24f19945464">
+	<game name="Rock Band 2 (Europe) (En,Fr,De,Es,It)" sha1="5BEAF6021A85AAFE799C30205F9DAF2EAC5C6FB2" size="8127213133" crc="D835616D" fullsha1="3c80831cb2849edf0a3d46ae9ac00d471bed8ff5" dataSha1="fc8ce21838cdaecc000b4a457c7be24f19945464">
 		<category>Games</category>
 		<description>Rock Band 2 (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Rock Band 2 (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="8268709888" crc="FDB16E1D" md5="156510A01AB3B42C450A583286672063" sha1="89E215F2B93B45122D62C926F835718F793411DD"/>
 	</game>
-	<game name="Rock Band 2 (USA)" sha1="d11c9a5517b3df5b49fccff47357c8348c444834" size="8123481836" crc="9f80581b" fullsha1="dfef6fa36f5edf5096bba0b37e69142403f2b996" dataSha1="d9e6a0b02e760d609fd163ecbbff362d39f950e8">
+	<game name="Rock Band 2 (USA)" sha1="D11C9A5517B3DF5B49FCCFF47357C8348C444834" size="8123481836" crc="9F80581B" fullsha1="dfef6fa36f5edf5096bba0b37e69142403f2b996" dataSha1="d9e6a0b02e760d609fd163ecbbff362d39f950e8">
 		<category>Games</category>
 		<description>Rock Band 2 (USA)</description>
 		<rom name="Rock Band 2 (USA) (Track 01).bin" size="8244756480" crc="EDC17DCC" md5="2EC32BBD5B4A4DB42A3A1080BD139537" sha1="7936FA94B6A3347198AE1543D0B382DDBF45A201"/>
@@ -15073,12 +14783,12 @@
 		<description>Rocky Legends (USA)</description>
 		<rom name="Rocky Legends (USA) (Track 01).bin" size="2345205760" crc="87ACFABB" md5="05369BFF0E31049E52137931AAABAE6E" sha1="7724E1428E702257C1FC9FA37E0C0F8EB9149CF1"/>
 	</game>
-	<game name="Rogue Galaxy (Europe) (En,Fr,De,Es,It)" sha1="b2ef4a363decb20445d6ab7ebba269ca1df39d54" size="6113459147" crc="259a3159" fullsha1="9dd158ffcb33aa1c7fcce62ce04563030ed4ef06" dataSha1="69c9ce082c103240a777f89836db956d7ce2ce5d">
+	<game name="Rogue Galaxy (Europe) (En,Fr,De,Es,It)" sha1="B2EF4A363DECB20445D6AB7EBBA269CA1DF39D54" size="6113459147" crc="259A3159" fullsha1="9dd158ffcb33aa1c7fcce62ce04563030ed4ef06" dataSha1="69c9ce082c103240a777f89836db956d7ce2ce5d">
 		<category>Games</category>
 		<description>Rogue Galaxy (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Rogue Galaxy (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="8483405824" crc="A074413A" md5="04026810C28900A0036D06C5B617A4A1" sha1="284A216CF14D2AC51797C15246BD1A72F9EC09EF"/>
 	</game>
-	<game name="Rogue Galaxy (USA)" sha1="53204fc0194ccb21510feb7e1e06e7eec39f147d" size="4346769958" crc="d4d538ed" fullsha1="11eb93c69bef0468c530b82fd00e2bab8a4c21be" dataSha1="a37551023fd0be8484e202ca0729a5b9f572542f">
+	<game name="Rogue Galaxy (USA)" sha1="53204FC0194CCB21510FEB7E1E06E7EEC39F147D" size="4346769958" crc="D4D538ED" fullsha1="11eb93c69bef0468c530b82fd00e2bab8a4c21be" dataSha1="a37551023fd0be8484e202ca0729a5b9f572542f">
 		<category>Games</category>
 		<description>Rogue Galaxy (USA)</description>
 		<rom name="Rogue Galaxy (USA) (Track 01).bin" size="6967721984" crc="044F1164" md5="86170FF39C8E02C82BC043C9FE42BAAF" sha1="87377E721BE58E8B6A5A7501721563500D237DF7"/>
@@ -15518,12 +15228,12 @@
 		<description>Saint Seiya - The Sanctuary (Europe) (En,Ja,Fr,De,Es,It)</description>
 		<rom name="Saint Seiya - The Sanctuary (Europe) (En,Ja,Fr,De,Es,It) (Track 01).bin" size="1743847424" crc="FBD339FB" md5="156C714B7FD2828B1EBE411C65226874" sha1="919BAF4E53ED2838181D1EE9DE88BE9EF51EE8E7"/>
 	</game>
-	<game name="Sakura Wars - So Long, My Love (USA) (Disc 1) (English Voice Over)" sha1="67416dd8b6e37b377090731ba42943efcedd2ebf" size="5106674967" crc="1f92adc5" fullsha1="51f6d864633bd19251ae2b21bb8c45171a6242fe" dataSha1="ca8c78c435807b1ce0f8fe0ddd16dc98ee6e29c3">
+	<game name="Sakura Wars - So Long, My Love (USA) (Disc 1) (English Voice Over)" sha1="67416DD8B6E37B377090731BA42943EFCEDD2EBF" size="5106674967" crc="1F92ADC5" fullsha1="51f6d864633bd19251ae2b21bb8c45171a6242fe" dataSha1="ca8c78c435807b1ce0f8fe0ddd16dc98ee6e29c3">
 		<category>Games</category>
 		<description>Sakura Wars - So Long, My Love (USA) (Disc 1) (English Voice Over)</description>
 		<rom name="Sakura Wars - So Long, My Love (USA) (Disc 1) (English Voice Over) (Track 01).bin" size="7702773760" crc="8C68B2FA" md5="740DA626E4EE741A3A0DF26B672E52B9" sha1="DB24ACBB4DA3D8A6828D76B4BF7B4F4C21956FA8"/>
 	</game>
-	<game name="Sakura Wars - So Long, My Love (USA) (Disc 2) (Japanese Voice Over)" sha1="0c5a62af07bed8bcf15e57ccf0bb61c6ac8669a0" size="5194028700" crc="43e0f47c" fullsha1="21f4cd3500389beeac02dd8a2aa2c9a61531ad66" dataSha1="45e6593afe5f4267fbb00748643d5790b584dd64">
+	<game name="Sakura Wars - So Long, My Love (USA) (Disc 2) (Japanese Voice Over)" sha1="0C5A62AF07BED8BCF15E57CCF0BB61C6AC8669A0" size="5194028700" crc="43E0F47C" fullsha1="21f4cd3500389beeac02dd8a2aa2c9a61531ad66" dataSha1="45e6593afe5f4267fbb00748643d5790b584dd64">
 		<category>Games</category>
 		<description>Sakura Wars - So Long, My Love (USA) (Disc 2) (Japanese Voice Over)</description>
 		<rom name="Sakura Wars - So Long, My Love (USA) (Disc 2) (Japanese Voice Over) (Track 01).bin" size="7702380544" crc="0EECB56F" md5="638FF43B4BED5B891FB7CC9BD531E581" sha1="504783F85FDCFB2A36F55069205182CC5FC21514"/>
@@ -15603,22 +15313,22 @@
 		<description>Samurai Warriors 2 (USA)</description>
 		<rom name="Samurai Warriors 2 (USA) (Track 01).bin" size="4580737024" crc="7E3DA984" md5="36E0917AD5E5EEA576940BFDFCE0707A" sha1="28796131FFD8EB41803F7410309A5B9228B9AF46"/>
 	</game>
-	<game name="Samurai Warriors 2 - Empires (Europe)" sha1="DF5544FAD64AB8090FB58B314CED3813E994FFF8" size="1513650231" crc="7E5DE10B" fullsha1="ae6edcc0eb8c228ed7e4b41667c021db36975bf5" dataSha1="e674472ebff12960b05027419a43b209910388ca">
+	<game name="Samurai Warriors 2 - Empires (Europe, Australia)" sha1="DF5544FAD64AB8090FB58B314CED3813E994FFF8" size="1513650231" crc="7E5DE10B" fullsha1="ae6edcc0eb8c228ed7e4b41667c021db36975bf5" dataSha1="e674472ebff12960b05027419a43b209910388ca">
 		<category>Games</category>
-		<description>Samurai Warriors 2 - Empires (Europe)</description>
-		<rom name="Samurai Warriors 2 - Empires (Europe) (Track 01).bin" size="2283438080" crc="92795049" md5="487E1F8EA43E4E1F929D579B0A66BAA3" sha1="AB3A9A74B848B20C507C5268CBB9F02903C5845E"/>
+		<description>Samurai Warriors 2 - Empires (Europe, Australia)</description>
+		<rom name="Samurai Warriors 2 - Empires (Europe, Australia) (Track 01).bin" size="2283438080" crc="92795049" md5="487E1F8EA43E4E1F929D579B0A66BAA3" sha1="AB3A9A74B848B20C507C5268CBB9F02903C5845E"/>
 	</game>
 	<game name="Samurai Warriors 2 - Empires (USA)" sha1="75FFB03C19CEBFF4D491C1BB3E8B3C8D6AF6A57A" size="1617329240" crc="7DDEBDAF" fullsha1="c74bbc62bddf0cf09a181be6ce05d2586ba6b8ab" dataSha1="ee7fc4bd5eb29fa0d4f87818dfc211a7e7e5b7bd">
 		<category>Games</category>
 		<description>Samurai Warriors 2 - Empires (USA)</description>
 		<rom name="Samurai Warriors 2 - Empires (USA) (Track 01).bin" size="2391769088" crc="1F4FA766" md5="AD1D04CB1D80FEC87A4866193F8D2ECE" sha1="F158AC3558612F3E5CF11A8135DFD61B1B79D96F"/>
 	</game>
-	<game name="Samurai Warriors 2 - Xtreme Legends (Europe)" sha1="bd7161bbe5fdb293de54b3f2f0fa7d2800933cbc" size="4661007389" crc="b2a11d4d" fullsha1="d59bd1d1395af287034e60f9c26a245133701b27" dataSha1="74625a63ca75c8f317906cb8566451662cdcbe20">
+	<game name="Samurai Warriors 2 - Xtreme Legends (Europe)" sha1="BD7161BBE5FDB293DE54B3F2F0FA7D2800933CBC" size="4661007389" crc="B2A11D4D" fullsha1="d59bd1d1395af287034e60f9c26a245133701b27" dataSha1="74625a63ca75c8f317906cb8566451662cdcbe20">
 		<category>Games</category>
 		<description>Samurai Warriors 2 - Xtreme Legends (Europe)</description>
 		<rom name="Samurai Warriors 2 - Xtreme Legends (Europe) (Track 01).bin" size="8026357760" crc="740F21D5" md5="7BF99B23C0C45FFEE5FB3813EFFD8D52" sha1="6745119CA338EC708B679CE44CF6314A00845787"/>
 	</game>
-	<game name="Samurai Warriors 2 - Xtreme Legends (USA)" sha1="89d9f02c6b738e747c183d4ffa21fd323cf8daa7" size="4979597338" crc="f0539e8e" fullsha1="bd3397adbbfdb2ba7d5c2a3b68a58d9983917cab" dataSha1="e60f9a52839bcb220dd2c3ed4ee17235cf2fabd9">
+	<game name="Samurai Warriors 2 - Xtreme Legends (USA)" sha1="89D9F02C6B738E747C183D4FFA21FD323CF8DAA7" size="4979597338" crc="F0539E8E" fullsha1="bd3397adbbfdb2ba7d5c2a3b68a58d9983917cab" dataSha1="e60f9a52839bcb220dd2c3ed4ee17235cf2fabd9">
 		<category>Games</category>
 		<description>Samurai Warriors 2 - Xtreme Legends (USA)</description>
 		<rom name="Samurai Warriors 2 - Xtreme Legends (USA) (Track 01).bin" size="8293089280" crc="11FB9DB1" md5="B48342FE3951AA79ABA61F6CAE161EF6" sha1="CCE4CDA5F586E502B14CF614D6CA1543594AC5FB"/>
@@ -15843,11 +15553,6 @@
 		<description>Sega Bass Fishing Duel (USA)</description>
 		<rom name="Sega Bass Fishing Duel (USA) (Track 01).bin" size="536227776" crc="D0620F05" md5="8A7CA580DEE4CF3F037C73D838890435" sha1="A67B82DD00C09DFD7EC68ECD44B08E4D85D6240C"/>
 	</game>
-	<game name="Sega Classics Collection (Europe)" sha1="90b26d130f146dc39b5a2f81892c4dd75b4388db" size="631784999" crc="edc3a6ec" fullsha1="612c8b9f1d147a33a13e52d34d4a38a0ccd7a38e" dataSha1="e4ebf69fad6c9db9393cd9553935b8126f7d1b30">
-		<category>Games</category>
-		<description>Sega Classics Collection (Europe)</description>
-		<rom name="Sega Classics Collection (Europe) (Track 01).bin" size="3062824960" crc="5b8628d4" md5="ce9b67dde87a5e95a1094c1ecc50ae6f" sha1="95141145106b7a354c318b797276dfe53b999dae"/>
-	</game>
 	<game name="Sega Classics Collection (Europe, Australia)" sha1="90B26D130F146DC39B5A2F81892C4DD75B4388DB" size="631784999" crc="EDC3A6EC" fullsha1="612c8b9f1d147a33a13e52d34d4a38a0ccd7a38e" dataSha1="e4ebf69fad6c9db9393cd9553935b8126f7d1b30">
 		<category>Games</category>
 		<description>Sega Classics Collection (Europe, Australia)</description>
@@ -15998,12 +15703,12 @@
 		<description>Shadow of Memories (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Shadow of Memories (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="4311580672" crc="B1A4D3DF" md5="9AF6B01C6D67BE9570766663C4FAB018" sha1="C560BD92D1DE18D1BC19DF1A6075107054D3E2F4"/>
 	</game>
-	<game name="Shadow of Rome (Europe, Australia) (En,Fr,De,Es,It)" sha1="0bfdd460e627daeea71cb1cd31b1ee5f1592b80e" size="4432202539" crc="ca50b2e8" fullsha1="aa3325302a15ff6da4a2a971a4569226f412ccbd" dataSha1="3e24da28a11314102efbd0b05a43d638dfa9b9b9">
+	<game name="Shadow of Rome (Europe, Australia) (En,Fr,De,Es,It)" sha1="0BFDD460E627DAEEA71CB1CD31B1EE5F1592B80E" size="4432202539" crc="CA50B2E8" fullsha1="aa3325302a15ff6da4a2a971a4569226f412ccbd" dataSha1="3e24da28a11314102efbd0b05a43d638dfa9b9b9">
 		<category>Games</category>
 		<description>Shadow of Rome (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<rom name="Shadow of Rome (Europe, Australia) (En,Fr,De,Es,It) (Track 01).bin" size="4693753856" crc="CE8BA181" md5="3E416C99111823920AD9A01DA8D220C6" sha1="FD9E175B604E41D298D2B9996DEDC44B31E18C3F"/>
 	</game>
-	<game name="Shadow of Rome (USA)" sha1="74ad7570f032a7e4a957ffa5675d67922742b11e" size="4431003697" crc="002ffc18" fullsha1="237cbf8416f08c682112683b13843669d0df650b" dataSha1="e731276a13b0685e8724abc5834152f6bc41ad59">
+	<game name="Shadow of Rome (USA)" sha1="74AD7570F032A7E4A957FFA5675D67922742B11E" size="4431003697" crc="002FFC18" fullsha1="237cbf8416f08c682112683b13843669d0df650b" dataSha1="e731276a13b0685e8724abc5834152f6bc41ad59">
 		<category>Games</category>
 		<description>Shadow of Rome (USA)</description>
 		<rom name="Shadow of Rome (USA) (Track 01).bin" size="4694016000" crc="E8729F49" md5="C094753730EC3DED623A53F061BA1C01" sha1="8A4C66A6BBC814D6C7EDB31F9568072C837902BD"/>
@@ -16022,11 +15727,6 @@
 		<category>Games</category>
 		<description>Shadow of the Colossus (USA)</description>
 		<rom name="Shadow of the Colossus (USA) (Track 01).bin" size="2693955584" crc="2ED81371" md5="6D4A7A9D9C139A9D93DB37538BA6D984" sha1="BD5DCB38BC1A08B261ACCD1B53894EE4E934788F"/>
-	</game>
-	<game name="Shadow the Hedgehog (Europe) (En,Fr,De,Es,It)" sha1="dde6987ddbdca89ddafcdbe73840c391957f0794" size="1781420061" crc="33e4937b" fullsha1="ad2640054a70a2d38cc7288703a8254d834b38f2" dataSha1="2c3b17592cab54258d5bb3fb4f721fdae4f139ef">
-		<category>Games</category>
-		<description>Shadow the Hedgehog (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Shadow the Hedgehog (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="2159050752" crc="8be50ae9" md5="f95ea9eb021181b888229df60ba8effd" sha1="808e393ccdb08751799ab5d5d51cb4ec3a3bccf3"/>
 	</game>
 	<game name="Shadow the Hedgehog (Europe, Australia) (En,Fr,De,Es,It)" sha1="DDE6987DDBDCA89DDAFCDBE73840C391957F0794" size="1781420061" crc="33E4937B" fullsha1="ad2640054a70a2d38cc7288703a8254d834b38f2" dataSha1="2c3b17592cab54258d5bb3fb4f721fdae4f139ef">
 		<category>Games</category>
@@ -16288,11 +15988,6 @@
 		<description>Silent Hill 2 (Europe) (En,Ja,Fr,De,Es,It)</description>
 		<rom name="Silent Hill 2 (Europe) (En,Ja,Fr,De,Es,It) (Track 01).bin" size="3628826624" crc="4F7A610D" md5="7BB226626AB6D4704032375CA5A1847A" sha1="924409DE4DC4CABD4A978FAE7DE94159E57A1C8D"/>
 	</game>
-	<game name="Silent Hill 2 (USA) (En,Ja)" sha1="3398090619a1e42457c5027bed9a5ee6ac369977" size="2182793668" crc="107cd6df" fullsha1="b3cf60a5543a88b0d576b8fb703a7f7fb7788c83" dataSha1="3f917ce8393ce6a4ee5adef68c200d7c9db412c0">
-		<category>Games</category>
-		<description>Silent Hill 2 (USA) (En,Ja)</description>
-		<rom name="Silent Hill 2 (USA) (En,Ja) (Track 01).bin" size="4641193984" crc="e09c1169" md5="e75426ec244c65b92bf9e4aedbbddd01" sha1="f7fcb40d8c79a6ac622299069a4dc2900c74b200"/>
-	</game>
 	<game name="Silent Hill 2 (USA) (En,Ja) (v1.20)" sha1="F1A930D2AC17865762CC1146633FBC04E213ADD6" size="2182793440" crc="48AE3CCC" fullsha1="b3cf60a5543a88b0d576b8fb703a7f7fb7788c83" dataSha1="3f917ce8393ce6a4ee5adef68c200d7c9db412c0">
 		<category>Games</category>
 		<description>Silent Hill 2 (USA) (En,Ja) (v1.20)</description>
@@ -16312,11 +16007,6 @@
 		<category>Games</category>
 		<description>Silent Hill 3 (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Silent Hill 3 (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="3586785280" crc="121F94A6" md5="3914C8A0CF593276A55C22DB090650B5" sha1="AECD86C7B15446E5061AFB9EA58E3D04F3A2649A"/>
-	</game>
-	<game name="Silent Hill 3 (USA)" sha1="16e93d141f64e23e29ccd74d01f589687c94dbd9" size="2194295563" crc="4b6ca25c" fullsha1="6039bf552531793f1bdaa21c5d6755ccd2125dc9" dataSha1="0b2bc4f76f45b8fa1f1d5a70cfcdce28c30c7051">
-		<category>Games</category>
-		<description>Silent Hill 3 (USA)</description>
-		<rom name="Silent Hill 3 (USA) (Track 01).bin" size="3584229376" crc="4f5f29e7" md5="a7ab10fbcf20e4aa2f8f6d7c026d6630" sha1="0f7b0d5d75fe34ddf72e26aae1b4f5e7891282b0"/>
 	</game>
 	<game name="Silent Hill 3 (USA) (En,Ja,Fr,De,Es,It,Ko)" sha1="16E93D141F64E23E29CCD74D01F589687C94DBD9" size="2194295563" crc="4B6CA25C" fullsha1="6039bf552531793f1bdaa21c5d6755ccd2125dc9" dataSha1="0b2bc4f76f45b8fa1f1d5a70cfcdce28c30c7051">
 		<category>Games</category>
@@ -16363,11 +16053,6 @@
 		<description>Silent Scope (USA)</description>
 		<rom name="Silent Scope (USA) (Track 01).bin" size="266340480" crc="B379DD8A" md5="2C1739DC9A7CEA8ECFEB514AC0621BDE" sha1="4A690834908144F25358BC4D7AE1D3D2B76913C3"/>
 	</game>
-	<game name="Silent Scope 2 - Dark Silhouette (USA)" sha1="26d06a132ff50365228e00784f91c9b8789eeb3d" size="100644879" crc="9c3d47ae" fullsha1="fa03b09a03c4a18f7da96db205960d2e6b2e7b87" dataSha1="d31aaf0f2e69d67837510eb1b3c034f62cb1dd00">
-		<category>Games</category>
-		<description>Silent Scope 2 - Dark Silhouette (USA)</description>
-		<rom name="Silent Scope 2 - Dark Silhouette (USA) (Track 01).bin" size="177444288" crc="76144b7e" md5="4e570908627db2a201fe8ee199a3f9ee" sha1="82caa0871bddcc7657c0015da6433f8c68da1f3f"/>
-	</game>
 	<game name="Silent Scope 2 - Dark Silhouette (USA) (En,Ja,Es)" sha1="26D06A132FF50365228E00784F91C9B8789EEB3D" size="100644879" crc="9C3D47AE" fullsha1="fa03b09a03c4a18f7da96db205960d2e6b2e7b87" dataSha1="d31aaf0f2e69d67837510eb1b3c034f62cb1dd00">
 		<category>Games</category>
 		<description>Silent Scope 2 - Dark Silhouette (USA) (En,Ja,Es)</description>
@@ -16403,11 +16088,6 @@
 		<description>Simple 2000 Series Vol. 37 - The Shooting - Double Shienryuu (Japan)</description>
 		<rom name="Simple 2000 Series Vol. 37 - The Shooting - Double Shienryuu (Japan) (Track 01).bin" size="647112816" crc="DC93665C" md5="859B5C5375EFC61F53908ED5C359080F" sha1="94E0B2B2A26DB4A579BF7D2805C123E335C24E60"/>
 	</game>
-	<game name="Simpsons - Skateboarding, The (Germany)" sha1="f3e0bcb03bc5ae76ee0264f944f7cc75dde9d60f" size="528108676" crc="31eb42d7" fullsha1="6b0c224911db14d342c9fb8d39d156ca0fd2aa5a" dataSha1="2ccf36d4e70d3d26bdb6b7d3ce481182257431a6">
-		<category>Games</category>
-		<description>Simpsons - Skateboarding, The (Germany)</description>
-		<rom name="Simpsons - Skateboarding, The (Germany) (Track 01).bin" size="743250816" crc="601f275b" md5="fdca1fd720f69d065faf8dc32b9710bc" sha1="21a40a44ee538557e9aad9306ebd148cad4f5259"/>
-	</game>
 	<game name="Simpsons Game, The (USA)" sha1="74CA497194FBD51C500309DDB71E43D2E82BF196" size="3130073796" crc="05BB2B1D" fullsha1="e1fa8fda4aef13779140c755da3046f4d3806a97" dataSha1="552259ae6a86559b07813220325b1ed403527479">
 		<category>Games</category>
 		<description>Simpsons Game, The (USA)</description>
@@ -16433,11 +16113,6 @@
 		<description>Simpsons, Die - Das Spiel (Germany)</description>
 		<rom name="Simpsons, Die - Das Spiel (Germany) (Track 01).bin" size="3784310784" crc="A657B280" md5="F7DF55D0AB190772AFD05E58E6401D26" sha1="A3D28E07E8B3BFEA220715170BD5D5C4DF4F3528"/>
 	</game>
-	<game name="Simpsons, The - Hit &amp; Run (Europe) (En,Fr,De,Es)" sha1="a7d54ab52e4afe6f4c79a9b1bd8c97bf80af43f0" size="1275473133" crc="f5820078" fullsha1="086240e84ed15305818a90a89c4ce47b3887ddb1" dataSha1="d62d55d58d68dd271a66de03531eac32cae445e9">
-		<category>Games</category>
-		<description>Simpsons, The - Hit &amp; Run (Europe) (En,Fr,De,Es)</description>
-		<rom name="Simpsons, The - Hit &amp; Run (Europe) (En,Fr,De,Es) (Track 01).bin" size="1650065408" crc="cd58a50e" md5="120303830f950cd456c3c8f034550991" sha1="22f43c60087e28580709cafa55e8c28ccbbce0e9"/>
-	</game>
 	<game name="Simpsons, The - Hit &amp; Run (Europe, Australia) (En,Fr,De,Es)" sha1="A7D54AB52E4AFE6F4C79A9B1BD8C97BF80AF43F0" size="1275473133" crc="F5820078" fullsha1="086240e84ed15305818a90a89c4ce47b3887ddb1" dataSha1="d62d55d58d68dd271a66de03531eac32cae445e9">
 		<category>Games</category>
 		<description>Simpsons, The - Hit &amp; Run (Europe, Australia) (En,Fr,De,Es)</description>
@@ -16457,11 +16132,6 @@
 		<category>Games</category>
 		<description>Simpsons, The - Road Rage (USA)</description>
 		<rom name="Simpsons, The - Road Rage (USA) (Track 01).bin" size="2494562304" crc="DE43FF26" md5="3124936D0C16F323C4C1838603B784D1" sha1="44F865B5D9FE6A3063BD1A961EF93C6C4193D7F8"/>
-	</game>
-	<game name="Simpsons, The - Skateboarding (Europe)" sha1="2c0545d38115e35a1b95b9fe948c1e9f750eba54" size="523111180" crc="d1126f1a" fullsha1="e31db25b67c3a28411773fa5df0ec2255ed7aaef" dataSha1="0b60be2895b72bd774b9c5c6ace661b96255e0c2">
-		<category>Games</category>
-		<description>Simpsons, The - Skateboarding (Europe)</description>
-		<rom name="Simpsons, The - Skateboarding (Europe) (Track 01).bin" size="735867888" crc="2900f230" md5="8af2c9ff767804441ee6200ca4284c00" sha1="a29069c6ffe87e6733b42f40f7fa3de1cd1e91d0"/>
 	</game>
 	<game name="Sims 2, The (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" sha1="E752BD37E98A546AD483ABC25C17391F1C759A23" size="933965217" crc="26FFF5DE" fullsha1="ebf0958bb5ba6c8665b11e6e0d12075c4238be59" dataSha1="64d0077812de2d9c8904682f5737a3a47c3872fe">
 		<category>Games</category>
@@ -16578,7 +16248,7 @@
 		<description>SingStar Best of Disney (Germany)</description>
 		<rom name="SingStar Best of Disney (Germany) (Track 01).bin" size="1940684800" crc="71465642" md5="CAD0F18D8A35D38BF89999CC64993272" sha1="D0D237837F4D4D89EC8CD11FA7C84369EA0AAA43"/>
 	</game>
-	<game name="SingStar Bollywood (Europe)" sha1="f9d14417efe301759f0f0c219efa8f350d038128" size="5527601965" crc="1494d871" fullsha1="bba169d45d0c72c879fe9b2a4db6a8ed2ad9e2f0" dataSha1="296cff292c45901342ee517328e4b68f2cdb0fb8">
+	<game name="SingStar Bollywood (Europe)" sha1="F9D14417EFE301759F0F0C219EFA8F350D038128" size="5527601965" crc="1494D871" fullsha1="bba169d45d0c72c879fe9b2a4db6a8ed2ad9e2f0" dataSha1="296cff292c45901342ee517328e4b68f2cdb0fb8">
 		<category>Games</category>
 		<description>SingStar Bollywood (Europe)</description>
 		<rom name="SingStar Bollywood (Europe) (Track 01).bin" size="6362234880" crc="6FE0FFD0" md5="8E5D65A4237B661D8781AB8B3609F2B6" sha1="A52B8C12B4506AB26710B9309086001EDAC26E24"/>
@@ -17088,20 +16758,10 @@
 		<description>Soulcalibur II (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Soulcalibur II (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="4348575744" crc="1136A195" md5="0B474052584B451C755CC6D423FB5EF0" sha1="7E6DCABA4BD2DDC21BB918630DCDD259E1A721F4"/>
 	</game>
-	<game name="Soulcalibur II (Europe) (En,Ja,Fr,De,Es,It)" sha1="25fada435312825de0a60323d330cb63583f5067" size="750882011" crc="2a34775a" fullsha1="3b2681b5511e941c4e3f8d67040e1b468a24cef5" dataSha1="c4df5f84e66a3ee1851f9c6f24705011edd99f32">
-		<category>Games</category>
-		<description>Soulcalibur II (Europe) (En,Ja,Fr,De,Es,It)</description>
-		<rom name="Soulcalibur II (Europe) (En,Ja,Fr,De,Es,It) (Track 01).bin" size="4348575744" crc="1136a195" md5="0b474052584b451c755cc6d423fb5ef0" sha1="7e6dcaba4bd2ddc21bb918630dcdd259e1a721f4"/>
-	</game>
 	<game name="Soulcalibur II (USA)" sha1="8C10471AC58A2ABF544D6CC715373D723B817CCE" size="751183090" crc="FFC3E73A" fullsha1="3e77c2b6eafd8eb2e6c47b93a68a0c69d9bdfac2" dataSha1="f6e9546479d56a80600161891145445fc24ff7e9">
 		<category>Games</category>
 		<description>Soulcalibur II (USA)</description>
 		<rom name="Soulcalibur II (USA) (Track 01).bin" size="4343595008" crc="69F10765" md5="A303FBEF9858A5049F5C3414008C6B61" sha1="198C629715C4AD056CD90F7916D8BB04F0CEBCE5"/>
-	</game>
-	<game name="Soulcalibur III (Europe) (En,Ja,Fr,De,Es,It)" sha1="6dd348cc0b88a57bd147483f6d56bb6dff1608c0" size="2068306368" crc="b1fe85f5" fullsha1="48968b5218be647cfad5c4696be66cc4fe364b79" dataSha1="dca1e02508e5fd7922bf9ebcc30602b34a840173">
-		<category>Games</category>
-		<description>Soulcalibur III (Europe) (En,Ja,Fr,De,Es,It)</description>
-		<rom name="Soulcalibur III (Europe) (En,Ja,Fr,De,Es,It) (Track 01).bin" size="4388782080" crc="3a3be120" md5="e9e440f55e9207c5bd8a28e20a083b42" sha1="830843feb3b5204eb3604ccadee1ebac9f0eb6a1"/>
 	</game>
 	<game name="Soulcalibur III (Europe, Australia) (En,Fr,De,Es,It) (v2.00)" sha1="6DD348CC0B88A57BD147483F6D56BB6DFF1608C0" size="2068306368" crc="B1FE85F5" fullsha1="48968b5218be647cfad5c4696be66cc4fe364b79" dataSha1="dca1e02508e5fd7922bf9ebcc30602b34a840173">
 		<category>Games</category>
@@ -17408,11 +17068,6 @@
 		<description>SpyHunter 2 (USA)</description>
 		<rom name="SpyHunter 2 (USA) (Track 01).bin" size="1739554816" crc="B39968EC" md5="3DAC23FBF0BDC8062FCA9CD5CCA74CFF" sha1="40F26737EEC5C8BA02A21FDB61EED3592975EA8A"/>
 	</game>
-	<game name="SpyToy (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)" sha1="91d4d9679a63d91aa48f4762d187160ed5454bd6" size="853826696" crc="6e347cf0" fullsha1="5ac1beadbcb6f7071756b6ff5cb69409c1e11e84" dataSha1="1de7d45393946ad1e3a1dddb47a4c854f0c1e895">
-		<category>Games</category>
-		<description>SpyToy (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)</description>
-		<rom name="SpyToy (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (Track 01).bin" size="1308491776" crc="697020aa" md5="711bbbd93c148fc314d8da4bf1c0d584" sha1="bda3a8d6743a63ffb077672166d952433821fd35"/>
-	</game>
 	<game name="SpyToy (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)" sha1="91D4D9679A63D91AA48F4762D187160ED5454BD6" size="853826696" crc="6E347CF0" fullsha1="5ac1beadbcb6f7071756b6ff5cb69409c1e11e84" dataSha1="1de7d45393946ad1e3a1dddb47a4c854f0c1e895">
 		<category>Games</category>
 		<description>SpyToy (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)</description>
@@ -17428,10 +17083,10 @@
 		<description>Spyro - A Hero's Tail (USA)</description>
 		<rom name="Spyro - A Hero's Tail (USA) (Track 01).bin" size="1254522880" crc="226C75DD" md5="4A8320B24738334127B29DE343C534AE" sha1="A220B28EB38FF1A2969453B029E9CDDC2FEE685B"/>
 	</game>
-	<game name="Spyro - Enter the Dragonfly (Europe) (En,Fr,De,Es,It,Nl)" sha1="9EC838F42FCD614DAD1DECDC1D89C8A8BE9972EF" size="836721465" crc="0F5BBA29" fullsha1="c0d23058a99100bac59884e445ae42085b00d46d" dataSha1="8ad6a50318fdf8310305a562efdac950ae900e68">
+	<game name="Spyro - Enter the Dragonfly (Europe, Australia) (En,Fr,De,Es,It,Nl)" sha1="9EC838F42FCD614DAD1DECDC1D89C8A8BE9972EF" size="836721465" crc="0F5BBA29" fullsha1="c0d23058a99100bac59884e445ae42085b00d46d" dataSha1="8ad6a50318fdf8310305a562efdac950ae900e68">
 		<category>Games</category>
-		<description>Spyro - Enter the Dragonfly (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Spyro - Enter the Dragonfly (Europe) (En,Fr,De,Es,It,Nl) (Track 01).bin" size="1672380416" crc="6C3AAFD5" md5="0F4E5E229EEC0F1BEED9BBF51CA80C9E" sha1="56272478F18C5338D2D971D89D4C2CD2493CC140"/>
+		<description>Spyro - Enter the Dragonfly (Europe, Australia) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Spyro - Enter the Dragonfly (Europe, Australia) (En,Fr,De,Es,It,Nl) (Track 01).bin" size="1672380416" crc="6C3AAFD5" md5="0F4E5E229EEC0F1BEED9BBF51CA80C9E" sha1="56272478F18C5338D2D971D89D4C2CD2493CC140"/>
 	</game>
 	<game name="Spyro - Enter the Dragonfly (USA)" sha1="DA7C9216DD82425546350C803B61E467EA1EE64D" size="729629504" crc="45424F12" fullsha1="f5d9f1528804c065322c4cfadd6068015a18ec58" dataSha1="f6b875b1a9d17b6faa9e84a16db1aa762eae5aae">
 		<category>Games</category>
@@ -17627,11 +17282,6 @@
 		<category>Games</category>
 		<description>Star Wars - The Force Unleashed (Europe) (Fr,De,Es,It)</description>
 		<rom name="Star Wars - The Force Unleashed (Europe) (Fr,De,Es,It) (Track 01).bin" size="3778543616" crc="0146AD44" md5="0B2FB229373BE6ADD1376FB1EC938A99" sha1="30BF108E69C4939DB9166DD5FDD494A690D0EE9F"/>
-	</game>
-	<game name="Star Wars - The Force Unleashed (USA)" sha1="a4de39a5006a968aca18c055814044d81558d9a0" size="1237657894" crc="e7811a98" fullsha1="f7e80781b88fd74e2398fc3c81299ed8c0759946" dataSha1="a8843c6124bd8c149acdd871a4b989a7d0ae3ac9">
-		<category>Games</category>
-		<description>Star Wars - The Force Unleashed (USA)</description>
-		<rom name="Star Wars - The Force Unleashed (USA) (Track 01).bin" size="3778478080" crc="d26ed695" md5="8c2bad08ccf9a7db1ac1c37f08ed845a" sha1="15b6baa583bbe5e63d857991e3ac67df32b6094d"/>
 	</game>
 	<game name="Star Wars - The Force Unleashed (USA) (En,Fr)" sha1="A4DE39A5006A968ACA18C055814044D81558D9A0" size="1237657894" crc="E7811A98" fullsha1="f7e80781b88fd74e2398fc3c81299ed8c0759946" dataSha1="a8843c6124bd8c149acdd871a4b989a7d0ae3ac9">
 		<category>Games</category>
@@ -18653,16 +18303,6 @@
 		<description>Thunder Force VI (Japan) (En,Ja)</description>
 		<rom name="Thunder Force VI (Japan) (En,Ja) (Track 01).bin" size="1902477312" crc="FEE1E6E9" md5="8D33CC516AB8A364444A1AF86AFBBC9F" sha1="E86E9D958A7954E18FD01350B21CBCB752708C2F"/>
 	</game>
-	<game name="Thunder Strike - Operation Phoenix (USA) (v1.00)" sha1="3e5b9319f80f66446656a91a0228d2fb7287fbc8" size="572889704" crc="e48b9c9e" fullsha1="cbc845aaa730959bb673339d4314ebc71915117a" dataSha1="c6944a8dffcfc0ea4fc8d41246cef5e51db0ea52">
-		<category>Games</category>
-		<description>Thunder Strike - Operation Phoenix (USA) (v1.00)</description>
-		<rom name="Thunder Strike - Operation Phoenix (USA) (v1.00) (Track 01).bin" size="1065877504" crc="3ed95826" md5="5e641cda83051934efce271a03e0a773" sha1="aafa4305a09196ee37be70e8400cc631fd5f4956"/>
-	</game>
-	<game name="Thunder Strike - Operation Phoenix (USA) (v2.00)" sha1="d8d6fdd8a61f0720e03d659a8f39d07923c8b8bf" size="572399077" crc="95af0dd5" fullsha1="c149abb2d57ab7cec5289198981986fe164cb450" dataSha1="1a6a03ec63d75405b16b689b9767fd186c89a2df">
-		<category>Games</category>
-		<description>Thunder Strike - Operation Phoenix (USA) (v2.00)</description>
-		<rom name="Thunder Strike - Operation Phoenix (USA) (v2.00) (Track 01).bin" size="1074003968" crc="86559f44" md5="1637b255fd6b7f9d018c7d8a585613a7" sha1="045068b0802c7fa3e0b394059dd6bfc55fc7bf5e"/>
-	</game>
 	<game name="Thunderbirds (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)" sha1="4302BC825A0F4BA5C42015883FE0D45881F0B736" size="35206864" crc="1D5ED4B5" fullsha1="3cd41c02010dee6c3dbf5b81b0270132671f3892" dataSha1="8787ac7e9483527a4b3b4e7fb37abcbc5732bd49">
 		<category>Games</category>
 		<description>Thunderbirds (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)</description>
@@ -19013,11 +18653,6 @@
 		<description>Tomb Raider - Underworld (USA) (En,Fr,Es)</description>
 		<rom name="Tomb Raider - Underworld (USA) (En,Fr,Es) (Track 01).bin" size="3184066560" crc="FD1FD6A7" md5="B56C184E4F9DC5E5CCD02F56034C786B" sha1="286225D907C1002AA642B8E37B2C51203F6DFDAF"/>
 	</game>
-	<game name="Tony Hawk's American Wasteland (USA)" sha1="9801838c7ef4713a3e2aea03ca099eb8abbfa2e9" size="2841889839" crc="193947a6" fullsha1="fd37a8a6cc474a4a729da1c5d4eeea3d3a04136d" dataSha1="21d02d16eb231b37e875464d8b987b4af9e41753">
-		<category>Games</category>
-		<description>Tony Hawk's American Wasteland (USA)</description>
-		<rom name="Tony Hawk's American Wasteland (USA) (Track 01).bin" size="4022337536" crc="539df148" md5="6a18f83c07e1b1ca25910dd18a6a99a3" sha1="cbbc999eed550b53d2ea3bc41ee1bc176090b1d1"/>
-	</game>
 	<game name="Tony Hawk's American Wasteland (USA) (Collector's Edition)" sha1="9801838C7EF4713A3E2AEA03CA099EB8ABBFA2E9" size="2841889839" crc="193947A6" fullsha1="fd37a8a6cc474a4a729da1c5d4eeea3d3a04136d" dataSha1="21d02d16eb231b37e875464d8b987b4af9e41753">
 		<category>Games</category>
 		<description>Tony Hawk's American Wasteland (USA) (Collector's Edition)</description>
@@ -19052,11 +18687,6 @@
 		<category>Games</category>
 		<description>Tony Hawk's Pro Skater 4 (Germany)</description>
 		<rom name="Tony Hawk's Pro Skater 4 (Germany) (Track 01).bin" size="3306487808" crc="6FA842C0" md5="3220E035F90BFD9F14F816B7D28EEFE5" sha1="C41918287F9694D4BD05FD4A062AFC50863FD653"/>
-	</game>
-	<game name="Tony Hawk's Pro Skater 4 (USA)" sha1="8a041aadcb68ea4226d27946e4a3fc884db26db1" size="2938384046" crc="19d394e1" fullsha1="381bc1857b6bde27f1058dd0b0542b0bc2527a6f" dataSha1="e2ec23077e5dff7acde12b6610f8162c340ae63a">
-		<category>Games</category>
-		<description>Tony Hawk's Pro Skater 4 (USA)</description>
-		<rom name="Tony Hawk's Pro Skater 4 (USA) (Track 01).bin" size="3392929792" crc="ed240a59" md5="300e8fa26d8980fedfeb5698cdf4013b" sha1="9fa96bb82c62d447df844ccfcec2e6d52749f8fc"/>
 	</game>
 	<game name="Tony Hawk's Pro Skater 4 (USA) (v1.02)" sha1="8A041AADCB68EA4226D27946E4A3FC884DB26DB1" size="2938384046" crc="19D394E1" fullsha1="381bc1857b6bde27f1058dd0b0542b0bc2527a6f" dataSha1="e2ec23077e5dff7acde12b6610f8162c340ae63a">
 		<category>Games</category>
@@ -19142,11 +18772,6 @@
 		<category>Games</category>
 		<description>Top Spin (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<rom name="Top Spin (Europe, Australia) (En,Fr,De,Es,It) (Track 01).bin" size="4074536960" crc="72AB66B6" md5="011149917F8AE41A3433DEF8B3C89780" sha1="18E2294E72589BA7FDFA1E2D9FC8FB49516AE518"/>
-	</game>
-	<game name="Top Spin (USA)" sha1="585ea21b664e9083ed078c8e6b179683625ac521" size="1291962792" crc="31d91bd0" fullsha1="b04ca6ca3e46c95632ca04978cbb101a3a01d43a" dataSha1="837405da918fa9ed85fd945ad0405e72aa56d5b0">
-		<category>Games</category>
-		<description>Top Spin (USA)</description>
-		<rom name="Top Spin (USA) (Track 01).bin" size="3906568192" crc="bca43b9f" md5="38b60b7c717fb5ab6ae5ca3e82b20055" sha1="c8481529e581769446fd36345408929d21ca5f9f"/>
 	</game>
 	<game name="Top Spin (USA) (En,Fr)" sha1="585EA21B664E9083ED078C8E6B179683625AC521" size="1291962792" crc="31D91BD0" fullsha1="b04ca6ca3e46c95632ca04978cbb101a3a01d43a" dataSha1="837405da918fa9ed85fd945ad0405e72aa56d5b0">
 		<category>Games</category>
@@ -19242,11 +18867,6 @@
 		<category>Games</category>
 		<description>Tourist Trophy - The Real Riding Simulator (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Tourist Trophy - The Real Riding Simulator (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="3173777408" crc="34A627A8" md5="49D8E434F48E753E903B617CCA6F6D30" sha1="AEE48A50B2A56F82A33D7410C268340BF8F85D24"/>
-	</game>
-	<game name="Tourist Trophy - The Real Riding Simulator (USA)" sha1="e1a0354e1478eb1c6e0109e7149660af3db2b184" size="2593049595" crc="e30a5944" fullsha1="a3aa7d63b0972f50b05cf6b8ad2e6e5c17118e17" dataSha1="5a79d32d1044cdf5fe2cd9a9844844d840b3d4cd">
-		<category>Games</category>
-		<description>Tourist Trophy - The Real Riding Simulator (USA)</description>
-		<rom name="Tourist Trophy - The Real Riding Simulator (USA) (Track 01).bin" size="3004628992" crc="fda49a53" md5="4113ca5d3681e4d04eb7b77d48d7190b" sha1="fc773f4d93213744780e58af922ae75a503d5cfa"/>
 	</game>
 	<game name="Toy Golf Extreme (Europe) (En,Fr,De,Es,It)" sha1="5659C0F24054CB4B01832BA766FB4C91B97364EB" size="19148605" crc="579C40CE" fullsha1="bbd0916eade58e6d5fced3e9359a6b2955cf914d" dataSha1="87bb13a19eb0bee5016f3cf09cadc5f42db58a98">
 		<category>Games</category>
@@ -19798,11 +19418,6 @@
 		<description>Virtua Cop - Elite Edition (Europe)</description>
 		<rom name="Virtua Cop - Elite Edition (Europe) (Track 01).bin" size="385090608" crc="3809D708" md5="CD4DF8AA6002B69EF0348B268103CD28" sha1="87FFD3A726571074F7E4B62BBFE6ABF9080B4D4C"/>
 	</game>
-	<game name="Virtua Cop - Elite Edition (Europe) (En,Fr,De,Es,It)" sha1="3a2ee2f38c83fd067cddd31402bb88903e5bf731" size="153178795" crc="886dbcf0" fullsha1="41aacf51a2f8931ee62ec6f1d2f054b56ecfcf40" dataSha1="9d273b8b37662458b4d104bc9ecada4072da77c8">
-		<category>Games</category>
-		<description>Virtua Cop - Elite Edition (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Virtua Cop - Elite Edition (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="385090608" crc="3809d708" md5="cd4df8aa6002b69ef0348b268103cd28" sha1="87ffd3a726571074f7e4b62bbfe6abf9080b4d4c"/>
-	</game>
 	<game name="Virtua Fighter - 10th Anniversary Edition (Europe) (En,Fr,De,Es,It)" sha1="892CF5E136AB137050B9C64EA806D5ED3BF232D2" size="270188004" crc="8EC44D60" fullsha1="4d544f8223df2596d04022cdd51fe807ea21a736" dataSha1="f9f3e65bd5f798ca95c57ecb732d7389fb85a699">
 		<category>Games</category>
 		<description>Virtua Fighter - 10th Anniversary Edition (Europe) (En,Fr,De,Es,It)</description>
@@ -19838,11 +19453,6 @@
 		<description>Virtua Quest (USA)</description>
 		<rom name="Virtua Quest (USA) (Track 01).bin" size="1654194176" crc="1561E78F" md5="0A5632844E77F5C3F5F29BB405E02885" sha1="0D3DD17BB324369204A074F39EC12889CCD490E0"/>
 	</game>
-	<game name="Virtua Tennis 2 (Europe) (En,Fr,De,Es)" sha1="817bee6a1c9605c9ff9b256ef089302e68a714d1" size="177443094" crc="fdc6c235" fullsha1="c9c0892923c26e68791faa8adfe6cd33dacef7e0" dataSha1="abe095c4aca252bffccdc1ba8ea5f5b8c2407cba">
-		<category>Games</category>
-		<description>Virtua Tennis 2 (Europe) (En,Fr,De,Es)</description>
-		<rom name="Virtua Tennis 2 (Europe) (En,Fr,De,Es) (Track 01).bin" size="420617568" crc="19a4d402" md5="74a31eda1d75cbba28a23a6770fdc102" sha1="b8c4ee2685843264795545937181f93ffd4a523d"/>
-	</game>
 	<game name="Virtua Tennis 2 - Sega Professional Tennis (Europe) (En,Fr,De,Es)" sha1="817BEE6A1C9605C9FF9B256EF089302E68A714D1" size="177443094" crc="FDC6C235" fullsha1="c9c0892923c26e68791faa8adfe6cd33dacef7e0" dataSha1="abe095c4aca252bffccdc1ba8ea5f5b8c2407cba">
 		<category>Games</category>
 		<description>Virtua Tennis 2 - Sega Professional Tennis (Europe) (En,Fr,De,Es)</description>
@@ -19867,11 +19477,6 @@
 		<category>Games</category>
 		<description>WM Nationalspieler (Germany)</description>
 		<rom name="WM Nationalspieler (Germany) (Track 01).bin" size="230606544" crc="C906F675" md5="3AD59F2028B2D5604FE8FA2A233F6C06" sha1="6F7328E16FCEB6F37DDE335F1EDE24B5D99C8843"/>
-	</game>
-	<game name="WRC - Rally Evolved (Europe) (En,Fr,De,Es,It,Pt,No,Fi) (v2.00)" sha1="f5af8017902b5eab2fe09d46f0518e9ce9ec26c8" size="3449508000" crc="e210bac3" fullsha1="b38b0c3ebc8fc1ed744ba7cc9b56051ba09fc852" dataSha1="ac7c6954f4e5a1242e61667a0ef147210bd7f763">
-		<category>Games</category>
-		<description>WRC - Rally Evolved (Europe) (En,Fr,De,Es,It,Pt,No,Fi) (v2.00)</description>
-		<rom name="WRC - Rally Evolved (Europe) (En,Fr,De,Es,It,Pt,No,Fi) (v2.00) (Track 01).bin" size="3691479040" crc="c711ad65" md5="ea2c948b508aa4eff466772af4de7d25" sha1="0de0fc4c4e13ba278f070170fa663d42edd2835c"/>
 	</game>
 	<game name="WRC - Rally Evolved (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi) (v2.00)" sha1="F5AF8017902B5EAB2FE09D46F0518E9CE9EC26C8" size="3449508000" crc="E210BAC3" fullsha1="b38b0c3ebc8fc1ed744ba7cc9b56051ba09fc852" dataSha1="ac7c6954f4e5a1242e61667a0ef147210bd7f763">
 		<category>Games</category>
@@ -20068,11 +19673,6 @@
 		<description>Wacky Races - Mad Motors (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v2.00)</description>
 		<rom name="Wacky Races - Mad Motors (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v2.00) (Track 01).bin" size="58642416" crc="B4E6686D" md5="D1BE085A83B761D7AF891A52EBB88552" sha1="4D426A9B04E5B4B448A8E6471618349574EA19A8"/>
 	</game>
-	<game name="Wacky Races Starring Dastardly &amp; Muttley (Europe) (En,Fr,De,Es,It)" sha1="7b6115863894c4e52bfe7883eb6b1f415c236f22" size="410359668" crc="07f3c920" fullsha1="2531b6c78031f82d8bc502d4e698f1304679e704" dataSha1="c547afdc3aeaa2f9434055c8d7c8b70cf2816b9e">
-		<category>Games</category>
-		<description>Wacky Races Starring Dastardly &amp; Muttley (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Wacky Races Starring Dastardly &amp; Muttley (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="711188352" crc="7ccd09a4" md5="7a0a82e1b28128a06362e3295d4c4cad" sha1="afbe182fa3cd7eb9180836aa72ac05689e4ec44f"/>
-	</game>
 	<game name="Wacky Races Starring Dastardly &amp; Muttley (Europe) (En,Fr,De,Es,It,Nl)" sha1="7B6115863894C4E52BFE7883EB6B1F415C236F22" size="410359668" crc="07F3C920" fullsha1="2531b6c78031f82d8bc502d4e698f1304679e704" dataSha1="c547afdc3aeaa2f9434055c8d7c8b70cf2816b9e">
 		<category>Games</category>
 		<description>Wacky Races Starring Dastardly &amp; Muttley (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -20083,12 +19683,12 @@
 		<description>Wacky Zoo GP (Europe)</description>
 		<rom name="Wacky Zoo GP (Europe) (Track 01).bin" size="79784544" crc="B9359AC5" md5="185AAD3478AD395ACA4A6FC88662B832" sha1="89FC1D8D20221CC81F16125FBE99F0FC4DBEBC20"/>
 	</game>
-	<game name="Wakeboarding Unleashed featuring Shaun Murray (Europe)" sha1="e550ad392b4dac11fedbef084b696a897e8064bf" size="4386508122" crc="e8cf3927" fullsha1="11c1c6c4a2ca854b872840f4dedea73c71d90125" dataSha1="9cb62ecfeafe68564f1d206c34ef2ac9d47af2bc">
+	<game name="Wakeboarding Unleashed featuring Shaun Murray (Europe)" sha1="E550AD392B4DAC11FEDBEF084B696A897E8064BF" size="4386508122" crc="E8CF3927" fullsha1="11c1c6c4a2ca854b872840f4dedea73c71d90125" dataSha1="9cb62ecfeafe68564f1d206c34ef2ac9d47af2bc">
 		<category>Games</category>
 		<description>Wakeboarding Unleashed featuring Shaun Murray (Europe)</description>
 		<rom name="Wakeboarding Unleashed featuring Shaun Murray (Europe) (Track 01).bin" size="4479811584" crc="A45A90A5" md5="B1C28EE5F02FDD86DE1B5C226129F320" sha1="2C9F5013F412D72A89C715A4F70E154E01A1F020"/>
 	</game>
-	<game name="Wakeboarding Unleashed featuring Shaun Murray (USA)" sha1="d1e8dbecbb102839690959fad461d73346e495a5" size="4414155361" crc="bb5a0ead" fullsha1="9e4651eed95fb41997283371de5da7102a80f013" dataSha1="be4a51c3e7fe333b244e84d42cce9911939fe7e6">
+	<game name="Wakeboarding Unleashed featuring Shaun Murray (USA)" sha1="D1E8DBECBB102839690959FAD461D73346E495A5" size="4414155361" crc="BB5A0EAD" fullsha1="9e4651eed95fb41997283371de5da7102a80f013" dataSha1="be4a51c3e7fe333b244e84d42cce9911939fe7e6">
 		<category>Games</category>
 		<description>Wakeboarding Unleashed featuring Shaun Murray (USA)</description>
 		<rom name="Wakeboarding Unleashed featuring Shaun Murray (USA) (Track 01).bin" size="4505731072" crc="D1179E50" md5="691343FF34919E25BD81002D088F18E3" sha1="663981BF4C24EB13AFFBBE5D235B9EB62FC6727D"/>
@@ -20193,10 +19793,10 @@
 		<description>Warriors of Might and Magic (USA)</description>
 		<rom name="Warriors of Might and Magic (USA) (Track 01).bin" size="1155563520" crc="73337EED" md5="D678ED93B1CA54A80D166F562DAF46F7" sha1="CAA31C47D9D5EF0699F5B323F260D7D1FFB30D03"/>
 	</game>
-	<game name="Warriors, The (Europe) (En,Fr,De,Es,It)" sha1="FE77CBAAECEFD0DEDE68C7DD73F663AC3E4EBA4B" size="2812592235" crc="89C15355" fullsha1="d1f17aa4d8b723efc71c1c507ca72069cd58aec2" dataSha1="69f9889650f0abde7831cbae08da168a0962b491">
+	<game name="Warriors, The (Europe, Australia) (En,Fr,De,Es,It)" sha1="FE77CBAAECEFD0DEDE68C7DD73F663AC3E4EBA4B" size="2812592235" crc="89C15355" fullsha1="d1f17aa4d8b723efc71c1c507ca72069cd58aec2" dataSha1="69f9889650f0abde7831cbae08da168a0962b491">
 		<category>Games</category>
-		<description>Warriors, The (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Warriors, The (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="4269178880" crc="585AA195" md5="3F615D263E010C1979EE26DDBA7B1E3E" sha1="9AFCC0A7509A4013A78958A804BC21B6820DB946"/>
+		<description>Warriors, The (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Warriors, The (Europe, Australia) (En,Fr,De,Es,It) (Track 01).bin" size="4269178880" crc="585AA195" md5="3F615D263E010C1979EE26DDBA7B1E3E" sha1="9AFCC0A7509A4013A78958A804BC21B6820DB946"/>
 	</game>
 	<game name="Warriors, The (USA) (En,Fr,De,Es,It)" sha1="CD3BC6046211448FA418A76B1DACA574AC29F964" size="2838792083" crc="39A90772" fullsha1="043f581b01a329553f4ac668119e80798a3b678b" dataSha1="dbbaa8dda0b3000b9acf54ebc9119f9849e51d1c">
 		<category>Games</category>
@@ -20308,7 +19908,7 @@
 		<description>Whiteout (USA)</description>
 		<rom name="Whiteout (USA) (Track 01).bin" size="485314032" crc="1D62D9BA" md5="420BD9432C2970E0FBB9B508E73EA78C" sha1="68CA502879ED1AB774C671AFC260F166FFA8AA80"/>
 	</game>
-	<game name="Wild Arms - Alter Code - F (USA)" sha1="6d79de15c0e62649dea4e267b9546eb368111b02" size="6381726498" crc="52d0a6c8" fullsha1="1c1ce8f8c2a52913a58692c86235f5c29300931f" dataSha1="10a5825cb0d1b95433ca1ca882d1e24d2d77db4d">
+	<game name="Wild Arms - Alter Code - F (USA)" sha1="6D79DE15C0E62649DEA4E267B9546EB368111B02" size="6381726498" crc="52D0A6C8" fullsha1="1c1ce8f8c2a52913a58692c86235f5c29300931f" dataSha1="10a5825cb0d1b95433ca1ca882d1e24d2d77db4d">
 		<category>Games</category>
 		<description>Wild Arms - Alter Code - F (USA)</description>
 		<rom name="Wild Arms - Alter Code - F (USA) (Track 01).bin" size="8289943552" crc="C70ECA4D" md5="5F6ADDCE3C0AD231FD2AD410ED7DDCB9" sha1="060F0E437B4E5A63C78A59C242227327D0A4EBA8"/>
@@ -20723,11 +20323,6 @@
 		<description>Worms Blast (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Worms Blast (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="432391680" crc="3A4E6CA2" md5="A7FA48AEC9054097BF5CBEF21D2A216A" sha1="9A0AFF1EBA42D0B7A8BEEDFA8B092F2B2E320C64"/>
 	</game>
-	<game name="Worms Forts - Under Siege (Europe) (En,Fr,De,Es,It)" sha1="d71e1da8587e5e22f57a5e4c1e5910154485e9e4" size="331924264" crc="5a33cbd3" fullsha1="0f86edf6d81fea3e707b55c6851082228af32365" dataSha1="c3b6ba15ca109bd65689859610e402e7d50d1721">
-		<category>Games</category>
-		<description>Worms Forts - Under Siege (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Worms Forts - Under Siege (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="466196976" crc="7ea62411" md5="ecc69149257b54253a5b586bdbfd7490" sha1="7b4f7ed7c76dc54810f82a26e92f1466931db1c3"/>
-	</game>
 	<game name="Worms Forts - Under Siege (Europe, Australia) (En,Fr,De,Es,It)" sha1="D71E1DA8587E5E22F57A5E4C1E5910154485E9E4" size="331924264" crc="5A33CBD3" fullsha1="0f86edf6d81fea3e707b55c6851082228af32365" dataSha1="c3b6ba15ca109bd65689859610e402e7d50d1721">
 		<category>Games</category>
 		<description>Worms Forts - Under Siege (Europe, Australia) (En,Fr,De,Es,It)</description>
@@ -20858,11 +20453,6 @@
 		<description>X2 - Wolverine's Revenge (USA)</description>
 		<rom name="X2 - Wolverine's Revenge (USA) (Track 01).bin" size="1805090816" crc="6552A781" md5="4706CE073ED6FF1D31E1BF182FF2CFFE" sha1="AB956D3D5791A60E2049C77AEDCB36645E551355"/>
 	</game>
-	<game name="XG3 - Extreme-G Racing (Europe) (En,Fr,De,Es) (v2.00)" sha1="89bb1b7aeacaf7eccd638eeaab6c4ae23be29fd0" size="450835388" crc="000ee3f6" fullsha1="41fdbc4176ad55cc802254a319a1087eb4de6017" dataSha1="373f7c1128565b28cf63c15ffb60a8cb9659d5e3">
-		<category>Games</category>
-		<description>XG3 - Extreme-G Racing (Europe) (En,Fr,De,Es) (v2.00)</description>
-		<rom name="XG3 - Extreme-G Racing (Europe) (En,Fr,De,Es) (v2.00) (Track 01).bin" size="603977136" crc="446a6447" md5="d9d0655a355a1987cc0b55c3c6eaf744" sha1="17dbd8aaca2a343dc8594b9fcfa4e18996f7a074"/>
-	</game>
 	<game name="XGIII - Extreme G Racing (Europe) (En,Fr,De,Es) (v2.00)" sha1="89BB1B7AEACAF7ECCD638EEAAB6C4AE23BE29FD0" size="450835388" crc="000EE3F6" fullsha1="41fdbc4176ad55cc802254a319a1087eb4de6017" dataSha1="373f7c1128565b28cf63c15ffb60a8cb9659d5e3">
 		<category>Games</category>
 		<description>XGIII - Extreme G Racing (Europe) (En,Fr,De,Es) (v2.00)</description>
@@ -20888,11 +20478,6 @@
 		<description>XII Stag (Europe)</description>
 		<rom name="XII Stag (Europe) (Track 01).bin" size="640964688" crc="58FD9E98" md5="A08C070796C1C16B86DC802A5DA44AE9" sha1="3595287EA63400C190C3F1C969186C160B79E283"/>
 	</game>
-	<game name="XIII (Europe) (En,Fr,De,Es,It)" sha1="eb30b68d94e59fe244afd293f6716ae404ee7579" size="2010909703" crc="00ac0c1c" fullsha1="9af5711f989d64f6e54012193b14effaf42da6c9" dataSha1="b6759e1a73054880d7a28035e6bf8a1950cbb416">
-		<category>Games</category>
-		<description>XIII (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="XIII (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="2713092096" crc="693cfab7" md5="4b0668b930a3f3b8c40101ddbbea6d57" sha1="9ace69ba7f15ba281012ababd82edc5d3eaaab0e"/>
-	</game>
 	<game name="XIII (Europe, Australia) (En,Fr,De,Es,It)" sha1="EB30B68D94E59FE244AFD293F6716AE404EE7579" size="2010909703" crc="00AC0C1C" fullsha1="9af5711f989d64f6e54012193b14effaf42da6c9" dataSha1="b6759e1a73054880d7a28035e6bf8a1950cbb416">
 		<category>Games</category>
 		<description>XIII (Europe, Australia) (En,Fr,De,Es,It)</description>
@@ -20913,7 +20498,7 @@
 		<description>Xena - Warrior Princess (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Xena - Warrior Princess (Europe) (En,Fr,De,Es,It,Nl) (Track 01).bin" size="242599392" crc="AEFA089C" md5="120051A6BA0B09D717C9FFE3996C50DA" sha1="C1992277A4EE54C078AEAC42FAEC0A786954EEE1"/>
 	</game>
-	<game name="Xenosaga Episode I - Der Wille zur Macht (USA)" sha1="16865deda7d1e1c6be216655b44dc98413a9ed8e" size="7442992502" crc="6b9f3b1e" fullsha1="cec993a9dff8ff9837b915f8440588907a6f39c2" dataSha1="987d8c996540eab9459f1588d5d20a18b77e37b9">
+	<game name="Xenosaga Episode I - Der Wille zur Macht (USA)" sha1="16865DEDA7D1E1C6BE216655B44DC98413A9ED8E" size="7442992502" crc="6B9F3B1E" fullsha1="cec993a9dff8ff9837b915f8440588907a6f39c2" dataSha1="987d8c996540eab9459f1588d5d20a18b77e37b9">
 		<category>Games</category>
 		<description>Xenosaga Episode I - Der Wille zur Macht (USA)</description>
 		<rom name="Xenosaga Episode I - Der Wille zur Macht (USA) (Track 01).bin" size="8468299776" crc="3D9843E9" md5="542ECB80B46C710664D3C9EB1547692E" sha1="A332B6FC32BE58A20751049A2D78EF8A6EF83B2A"/>
@@ -20978,12 +20563,12 @@
 		<description>Yakuza (USA)</description>
 		<rom name="Yakuza (USA) (Track 01).bin" size="4390912000" crc="294BABBD" md5="251059E4D54FB61369E1139B5D4D5E6C" sha1="54697FDB616C7D30327BFC62BE3F193EAE466F94"/>
 	</game>
-	<game name="Yakuza 2 (Europe)" sha1="db2edcb2e1ad23f728614dc9cee07c658e41101d" size="6048970863" crc="eb411d14" fullsha1="c83158ecd4bc4e89680120da03b2daf965b6c2da" dataSha1="9eaf858e2db7c752e492e382700b0210c82ffc7b">
+	<game name="Yakuza 2 (Europe)" sha1="DB2EDCB2E1AD23F728614DC9CEE07C658E41101D" size="6048970863" crc="EB411D14" fullsha1="c83158ecd4bc4e89680120da03b2daf965b6c2da" dataSha1="9eaf858e2db7c752e492e382700b0210c82ffc7b">
 		<category>Games</category>
 		<description>Yakuza 2 (Europe)</description>
 		<rom name="Yakuza 2 (Europe) (Track 01).bin" size="8288305152" crc="93CB056C" md5="777CD2F7073E7E233199215CAF36F45B" sha1="EBDE673B5848403592AFD56065DD339C90F903F5"/>
 	</game>
-	<game name="Yakuza 2 (USA)" sha1="e1abead7331199fcbc93e1097dabe494c4195ff9" size="6034228549" crc="4f805c22" fullsha1="98077c27d6fbf6349bce38c05d22ca8383cb802e" dataSha1="37c1013a567ff337eb7b4a549a6c13b2c6682d08">
+	<game name="Yakuza 2 (USA)" sha1="E1ABEAD7331199FCBC93E1097DABE494C4195FF9" size="6034228549" crc="4F805C22" fullsha1="98077c27d6fbf6349bce38c05d22ca8383cb802e" dataSha1="37c1013a567ff337eb7b4a549a6c13b2c6682d08">
 		<category>Games</category>
 		<description>Yakuza 2 (USA)</description>
 		<rom name="Yakuza 2 (USA) (Track 01).bin" size="8288305152" crc="0EDA9DF2" md5="0C463653E86AB8A9BBD64C2991A44032" sha1="139A1AEB2C8065CDBE22BD04DDD4B4E771EF1179"/>

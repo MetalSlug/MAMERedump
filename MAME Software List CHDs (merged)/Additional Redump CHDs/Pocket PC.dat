@@ -4,7 +4,7 @@
 	<header>
 		<name>Pocket PC</name>
 		<description>Pocket PC</description>
-		<version>0.258</version>
+		<version>0.260</version>
 		<date>2023-09-07</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -109,6 +109,11 @@
 		<description>Pocket CT-ART (Russia) (En,Fr,De,Es,It,Ru)</description>
 		<rom name="Pocket CT-ART (Russia) (En,Fr,De,Es,It,Ru) (Track 01).bin" size="432591600" crc="3c63380c" md5="b6330cf6781448d3c84422f466dc90da" sha1="5676c6fc9376ac5d85df48f5ec021b8b4664d8f8"/>
 	</game>
+	<game name="Pocket Chess (Japan)" sha1="bfa4eae9401682d338af25eac0c1bbc80ce334c0" size="765807" crc="afe0f2c3" fullsha1="e550d038ffb33ff7a00d1d5a332f1aa17cc1d0d2" dataSha1="b5bbaa9e1ea3765dfbf9a44b8614e1e043cad24c">
+		<category>Games</category>
+		<description>Pocket Chess (Japan)</description>
+		<rom name="Pocket Chess (Japan) (Track 01).bin" size="2998800" crc="9d72cd6a" md5="2b8f01b34a9ffeae1970a8cc5fd7a8d9" sha1="38c244da2e2e0ffb94f793ac59d7017b2420a298"/>
+	</game>
 	<game name="Pocket Flash Format (Japan)" sha1="e52a98f7db2bbef1a96c2a1eca3e27cdd07e01d4" size="332665" crc="c1d47a71" fullsha1="755fdaa1439363a8f2e482f986344050b03b1ffa" dataSha1="8951cc8fa2e5c91e9823dcc5dcee3c57683cf252">
 		<category>Games</category>
 		<description>Pocket Flash Format (Japan)</description>
@@ -158,6 +163,11 @@
 		<category>Games</category>
 		<description>Pocket Zipper (Japan)</description>
 		<rom name="Pocket Zipper (Japan) (Track 01).bin" size="1154832" crc="24089f95" md5="4c1d401fea0a1a609719189bb16dc53f" sha1="608c3c63cf96e09a75267cfe74bfa0ea6ec879fe"/>
+	</game>
+	<game name="Pow Wow - Animalcraft (Japan)" sha1="0d63ee095b6cf24ff7b2b6eb2071d915c10112c0" size="14599427" crc="fa2f9715" fullsha1="650815395430b9ad15eb10aa30c0269171c3c63e" dataSha1="c4d5db908d8fc7560fc68d7fe57af8c40b5b3aec">
+		<category>Games</category>
+		<description>Pow Wow - Animalcraft (Japan)</description>
+		<rom name="Pow Wow - Animalcraft (Japan) (Track 01).bin" size="17287200" crc="be14e6c8" md5="af4c418c7dcb0e66ab54ee99452fdd66" sha1="9b2f431dfbe2200b096163d26ccf6d8163a4f9db"/>
 	</game>
 	<game name="Rayman (Japan) (En,Ja)" sha1="4886a76c179349534a8a546d82646e4389c07cdb" size="69682450" crc="fc04b21c" fullsha1="5f6ec4ca14f757a23695ddd03f2e02ff72774669" dataSha1="b8d6c7a29972ee95c12e548d1e3e371b5b0dd759">
 		<category>Games</category>

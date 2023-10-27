@@ -4,7 +4,7 @@
 	<header>
 		<name>Commodore - Amiga CD</name>
 		<description>Commodore - Amiga CD</description>
-		<version>0.258</version>
+		<version>0.260</version>
 		<date>2023-09-07</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -38,6 +38,28 @@
 		<category>Games</category>
 		<description>A-News Numero 3 (France)</description>
 		<rom name="A-News Numero 3 (France) (Track 01).bin" size="544899600" crc="0bca8806" md5="8b77f233106afdd30e51f842c7859734" sha1="f07d937e956294f873c87ff51040b2bcf708acf3"/>
+	</game>
+	<game name="Amiga CD! Magazine No. 1 (Europe)" sha1="d9b4f4e717f3953b26e14142fc84ce9468c74f68" size="143364663" crc="69c5c0e1" fullsha1="4a96b628deda383a2279a2edf2098e41352e05f7" dataSha1="dd8dcbd9b2102102631d8531876ac78dd0aa7d9d">
+		<category>Games</category>
+		<description>Amiga CD! Magazine No. 1 (Europe)</description>
+		<rom name="Amiga CD! Magazine No. 1 (Europe) (Track 01).bin" size="364630560" crc="7fcfae4d" md5="6a4cd37d489bc7db4671fbd406a3c537" sha1="919e6d25081c1a8c61e782ac6efb6cb0cc347dec"/>
+		<rom name="Amiga CD! Magazine No. 1 (Europe) (Track 02).bin" size="24493728" crc="9b4f9ecb" md5="3c54006bfa810faeb1cffa1ff31d3612" sha1="2dfb7869d18d43bd7d77160c4626a696133fd752"/>
+		<rom name="Amiga CD! Magazine No. 1 (Europe) (Track 03).bin" size="25646208" crc="7a40a6cb" md5="c10ea227ac6f395d538870d2299736cc" sha1="42b11e26fe7911931689c0fc64d6dfc96de0e57f"/>
+		<rom name="Amiga CD! Magazine No. 1 (Europe) (Track 04).bin" size="28581504" crc="0ea70b85" md5="b47ce0f7317479a4370c31e24912a1ef" sha1="a93dfa6c924ba67fd268774bd3d9f3e038ed5667"/>
+		<rom name="Amiga CD! Magazine No. 1 (Europe) (Track 05).bin" size="41978496" crc="f3fdc2c4" md5="2d43fc50a097f59f105c653102ac5b25" sha1="b6cd35e6cda3bf96b3743e1d238d0d066cbcd59e"/>
+	</game>
+	<game name="Amiga CD! Magazine No. 2 (Europe)" sha1="b92d4789b50f1a36a521f8d19b265406e3f788a9" size="274842663" crc="4a9208cb" fullsha1="a7410701c598d173f029e0d495de7f2d2217b145" dataSha1="3a5b5e126f8823ac0827cabbe2b71c89d58e9e8b">
+		<category>Games</category>
+		<description>Amiga CD! Magazine No. 2 (Europe)</description>
+		<rom name="Amiga CD! Magazine No. 2 (Europe) (Track 01).bin" size="324606576" crc="e9590b0c" md5="a1fb0050ec3f4fdf8a1e3d90ec21abe9" sha1="e78c5eced2020034c08b0b911228ffa77239a69e"/>
+		<rom name="Amiga CD! Magazine No. 2 (Europe) (Track 02).bin" size="30488976" crc="4c274872" md5="36f87abd91f2867d2096b58409d6ab99" sha1="272dc0f03afe5c50c5d4b80dc5b291a4a28efc74"/>
+		<rom name="Amiga CD! Magazine No. 2 (Europe) (Track 03).bin" size="40527312" crc="acb2a1e6" md5="31612c9aa7eccd54a5ce166228a70e74" sha1="1837995ec71ee574f3b979dc198b72e6322a8066"/>
+		<rom name="Amiga CD! Magazine No. 2 (Europe) (Track 04).bin" size="21981792" crc="a32e5f28" md5="f87374a2dafabec23c018eefbae5ccd9" sha1="a358031fd524b09dc79bf3c53861acabcdb7f815"/>
+		<rom name="Amiga CD! Magazine No. 2 (Europe) (Track 05).bin" size="2869440" crc="0672d467" md5="3084c451babfb8a4e792f415151a6ede" sha1="95506ff9c540b6a17d4388a6e3de8da4a4befb5e"/>
+		<rom name="Amiga CD! Magazine No. 2 (Europe) (Track 06).bin" size="29235360" crc="f2f8c0d7" md5="4dcfe0c76ff35156eb32308c06ecd4e5" sha1="effd2bd974dabcd281268d15afd954110cd389a3"/>
+		<rom name="Amiga CD! Magazine No. 2 (Europe) (Track 07).bin" size="45833424" crc="047cff0b" md5="cce5ab9f4311ff88c76cc1f13e3d1c8d" sha1="db0e1c698eea1192d0dd7f9bc92b6dc41d0a8161"/>
+		<rom name="Amiga CD! Magazine No. 2 (Europe) (Track 08).bin" size="2869440" crc="0aa719bb" md5="001b9565da58f7cd27c30aac6430fc87" sha1="b7fae25c2515b2af17580872e013d12b92c94b4d"/>
+		<rom name="Amiga CD! Magazine No. 2 (Europe) (Track 09).bin" size="5555424" crc="f272eedf" md5="435455bf3f77b188703f905a8e9fee2a" sha1="21ea8534355246cd9ae054bdf3dbe008711ffa99"/>
 	</game>
 	<game name="Amiga CD! Magazine No. 3 (Europe)" sha1="9d6ed9199cd9b942fd071957ade3ab22f856f9c5" size="332622164" crc="dbd474fc" fullsha1="d8776c162c4c7af29fddcd3bc3479d6eba613912" dataSha1="c8231c230353f75bf9a0983e2a43728fe837036f">
 		<category>Games</category>
@@ -2147,6 +2169,19 @@
 		<category>Games</category>
 		<description>Geek Gadgets Version 2 (Europe)</description>
 		<rom name="Geek Gadgets Version 2 (Europe) (Track 01).bin" size="719904864" crc="cca4743c" md5="eb866740520a057f1551c6e404c83d6b" sha1="63d876eabe25c53d5b16c8f33ebb16f1c981dc71"/>
+	</game>
+	<game name="Genetic Species (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Hr,Sk,Sr)" sha1="d438ad49b4088da9b066ae79091d6d481edb6c1c" size="314969599" crc="7228a5dd" fullsha1="9dba21dedf895b18bb53086a37b77b11053480a8" dataSha1="a297e3a9f13f9578db316bde92cf6d430eb1043b">
+		<category>Games</category>
+		<description>Genetic Species (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Hr,Sk,Sr)</description>
+		<rom name="Genetic Species (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Hr,Sk,Sr) (Track 01).bin" size="358550640" crc="fce2f5ab" md5="5b809b1d458818fd3511c4aeff36fe99" sha1="e2576e6af002dec9a0cda8b90c0aa48424e07ae6"/>
+		<rom name="Genetic Species (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Hr,Sk,Sr) (Track 02).bin" size="43095696" crc="077bddf2" md5="bf480c74451b6e13f7a8652e50b3049c" sha1="5aaf00258d8cb5c438ee917f3ec4daeae913b93c"/>
+		<rom name="Genetic Species (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Hr,Sk,Sr) (Track 03).bin" size="54427632" crc="507376b8" md5="1f75109d5cb52cb4ffbc2b1057fc356b" sha1="9c23603d52ade78df64c80dc14886246bb98b775"/>
+		<rom name="Genetic Species (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Hr,Sk,Sr) (Track 04).bin" size="45452400" crc="d4c09d62" md5="b6b728b16a831f0cfa281f500085b9a5" sha1="b577528f78c842a231240ff1cfd84d40b7fe3d64"/>
+		<rom name="Genetic Species (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Hr,Sk,Sr) (Track 05).bin" size="52484880" crc="b39a5367" md5="d54ebff0288c32bccc1656e1450c734e" sha1="a54d142d3dd61ec92ce3fd77163e73c9cb7ec711"/>
+		<rom name="Genetic Species (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Hr,Sk,Sr) (Track 06).bin" size="73742256" crc="6015ec04" md5="a58cb6f75697389e57efa9f64f2eb6ff" sha1="0c20898d0830ea131b5db42a0c5a262ac2b53882"/>
+		<rom name="Genetic Species (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Hr,Sk,Sr) (Track 07).bin" size="18900672" crc="18a48a32" md5="fc7561001d84d94326b3c9130d98971a" sha1="78acce9ae554861fbe55cdddd91b232b72d39b03"/>
+		<rom name="Genetic Species (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Hr,Sk,Sr) (Track 08).bin" size="13712160" crc="d0d009f3" md5="99a83a154b4ec28cf05796d3774bebad" sha1="7f0a277d90b2736b84556f291175aa7c8baaca48"/>
+		<rom name="Genetic Species (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Hr,Sk,Sr) (Track 09).bin" size="13676880" crc="bed70fa9" md5="129242e73270fd14fb449d0d15471a9f" sha1="90f1093966b69ec81d5004c272291a8f89cdecf0"/>
 	</game>
 	<game name="GigaPD - Deutsche Edition 2 fuer Amiga + Mac (Germany)" sha1="1c44fd5e20f4ab438b5f95f4e7238ed31cec4575" size="327060958" crc="8d3f0d63" fullsha1="eebdc44ac29ad2da2791ce75a746175a93e9f66d" dataSha1="55e1d3e0c01722e0464aec33087ae0f919552fb6">
 		<category>Games</category>

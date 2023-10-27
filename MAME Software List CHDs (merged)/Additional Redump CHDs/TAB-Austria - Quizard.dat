@@ -4,7 +4,7 @@
 	<header>
 		<name>TAB-Austria - Quizard</name>
 		<description>TAB-Austria - Quizard</description>
-		<version>0.258</version>
+		<version>0.260</version>
 		<date>2023-09-07</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -23,6 +23,11 @@
 		<category>Games</category>
 		<description>Quizard (Austria) (v1.8)</description>
 		<rom name="Quizard (Austria) (v1.8) (Track 01).bin" size="176581104" crc="7addb46d" md5="f9adfa3a7a097479826ab714a56135de" sha1="8b326ab7f6cd4e1067219e5eacb5b8c9174e75b3"/>
+	</game>
+	<game name="Quizard (France) (French Edition)" sha1="803f7b9e62f481ddb1564b0617af0f88ed0cca00" size="64899154" crc="aab82b32" fullsha1="cbefddf1b07f3f19fc4701033862e0d5fe6c120c" dataSha1="e4da46c92fe60076b89d081dd8dd6caeab3aee9a">
+		<category>Games</category>
+		<description>Quizard (France) (French Edition)</description>
+		<rom name="Quizard (France) (French Edition) (Track 01).bin" size="180461904" crc="a2ecdc04" md5="abcd39581d1d317b937f607284163299" sha1="91a0bd485c04af5a808b303bf13838da8e022dcd"/>
 	</game>
 	<game name="Quizard 2 (Austria) (v2.2)" sha1="8e16e751639db4585f9885142b194e1c1a156c55" size="40880514" crc="65880d74" fullsha1="ed27e2a314a1e7eee05afab9a3ecc57727ac788e" dataSha1="a1a0974b4f8f9438fe5bf3a88c42cc0b2540d44c">
 		<category>Games</category>

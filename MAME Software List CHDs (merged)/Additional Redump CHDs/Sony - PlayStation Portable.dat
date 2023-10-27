@@ -4,7 +4,7 @@
 	<header>
 		<name>Sony - PlayStation Portable</name>
 		<description>Sony - PlayStation Portable</description>
-		<version>0.258</version>
+		<version>0.260</version>
 		<date>2023-09-07</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -964,10 +964,10 @@
 		<description>FIFA 10 (Germany)</description>
 		<rom name="FIFA 10 (Germany) (Track 01).bin" size="1458864128" crc="5e94bd8e" md5="a256b5a4df1d63d202cb4fadf0a5324d" sha1="412934ff2549d7042475d5ede4456abb98cc8155"/>
 	</game>
-	<game name="FIFA 11 (Germany)" sha1="f8d3f49ca21984dedbcc47fb8d73455d3cdb0663" size="969852554" crc="d27017e9" fullsha1="b56679ce4afa6c64a789f993631209f381ec7ed9" dataSha1="66b0e5326e2617cf1c731bfe8713909e8d088f67">
+	<game name="FIFA 11 (Germany) (v1.00)" sha1="f8d3f49ca21984dedbcc47fb8d73455d3cdb0663" size="969852554" crc="d27017e9" fullsha1="b56679ce4afa6c64a789f993631209f381ec7ed9" dataSha1="66b0e5326e2617cf1c731bfe8713909e8d088f67">
 		<category>Games</category>
-		<description>FIFA 11 (Germany)</description>
-		<rom name="FIFA 11 (Germany) (Track 01).bin" size="1458405376" crc="36073b2e" md5="798c6a3657dcd558ebdc03a78d973969" sha1="7a8ba9b9bf94e8887ec6a8fb18c7300968e9a97f"/>
+		<description>FIFA 11 (Germany) (v1.00)</description>
+		<rom name="FIFA 11 (Germany) (v1.00) (Track 01).bin" size="1458405376" crc="36073b2e" md5="798c6a3657dcd558ebdc03a78d973969" sha1="7a8ba9b9bf94e8887ec6a8fb18c7300968e9a97f"/>
 	</game>
 	<game name="FIFA 12 (Germany)" sha1="b47606cd795a6c6c4b7e022007961093bfc5341e" size="972944462" crc="3bdfd9b2" fullsha1="2e6915e02c5f6960c775082e52d9fa9e193c2a37" dataSha1="d3504330e5130e9ba6fd040fddd66b6d3749d694">
 		<category>Games</category>
@@ -1709,10 +1709,10 @@
 		<description>LittleBigPlanet (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
 		<rom name="LittleBigPlanet (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru) (Track 01).bin" size="1506934784" crc="b77301e8" md5="33ce16bc053d2a9934b3975911af04b4" sha1="2612f179e99449f66b86987508678bbce211485a"/>
 	</game>
-	<game name="LocoRoco (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru)" sha1="166f49ce86605f3d66352e78a90ca515042c8539" size="596351440" crc="27c3a5ff" fullsha1="cd4d2152b58ebd3ad26c39fd807a3ae98a83dc8c" dataSha1="e7180329bf77b6961f542c2e0256d618fa95f056">
+	<game name="LocoRoco (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru)" sha1="166f49ce86605f3d66352e78a90ca515042c8539" size="596351440" crc="27c3a5ff" fullsha1="cd4d2152b58ebd3ad26c39fd807a3ae98a83dc8c" dataSha1="e7180329bf77b6961f542c2e0256d618fa95f056">
 		<category>Games</category>
-		<description>LocoRoco (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru)</description>
-		<rom name="LocoRoco (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru) (Track 01).bin" size="727023616" crc="33d54b2d" md5="9cc876ca3624aea6377855094db84a28" sha1="8fcef1a91c6fa729f9ad4bbb4caf13a97e576148"/>
+		<description>LocoRoco (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru)</description>
+		<rom name="LocoRoco (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru) (Track 01).bin" size="727023616" crc="33d54b2d" md5="9cc876ca3624aea6377855094db84a28" sha1="8fcef1a91c6fa729f9ad4bbb4caf13a97e576148"/>
 	</game>
 	<game name="LocoRoco 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru)" sha1="d9f47c5ef0c42fe6a85cf2f65368bc8dbb7938be" size="1574421828" crc="9e5db8a7" fullsha1="c751161363304c1564c56b01c2156c0395efd974" dataSha1="07ce50be23e91fd96812f3e853ecf6cb3d64eccb">
 		<category>Games</category>
@@ -1809,10 +1809,10 @@
 		<description>MVP Baseball (USA)</description>
 		<rom name="MVP Baseball (USA) (Track 01).bin" size="1421705216" crc="47a5a82d" md5="28f9fcff3fa37886e76f4f198d8b9a8f" sha1="6be44fdaed38e88db5f609cf50230b4edd08e516"/>
 	</game>
-	<game name="MX vs. ATV On the Edge (Europe)" sha1="77c6fe5109e2d944c47c4021efdc06d06957bb8f" size="428090591" crc="9cb58cda" fullsha1="239a0628fadc959f0165b3bf295ed4ca1c4c96c4" dataSha1="d76a69991c9f2339092dbd1da2c35aa96daa6761">
+	<game name="MX vs. ATV - On the Edge (Europe)" sha1="77c6fe5109e2d944c47c4021efdc06d06957bb8f" size="428090591" crc="9cb58cda" fullsha1="239a0628fadc959f0165b3bf295ed4ca1c4c96c4" dataSha1="d76a69991c9f2339092dbd1da2c35aa96daa6761">
 		<category>Games</category>
-		<description>MX vs. ATV On the Edge (Europe)</description>
-		<rom name="MX vs. ATV On the Edge (Europe) (Track 01).bin" size="837910528" crc="534babbc" md5="154498439d4c1e380aad070b2c809561" sha1="9b8318510a6190600793ea380fa170939d98f132"/>
+		<description>MX vs. ATV - On the Edge (Europe)</description>
+		<rom name="MX vs. ATV - On the Edge (Europe) (Track 01).bin" size="837910528" crc="534babbc" md5="154498439d4c1e380aad070b2c809561" sha1="9b8318510a6190600793ea380fa170939d98f132"/>
 	</game>
 	<game name="MX vs. ATV Reflex (Europe) (En,Fr,De,Es,It)" sha1="856e42c12efd8881b3993c5a73f387cd2838ff0a" size="258540838" crc="b4c8eee9" fullsha1="b0964dcdc20aa2873d35699c5ca7cdd06f355b2b" dataSha1="456227f0057d300c7ddd627b2cc0bef442fb35d1">
 		<category>Games</category>
@@ -1994,10 +1994,10 @@
 		<description>Metal Gear Ac!d (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Metal Gear Ac!d (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="324534272" crc="b5a65b76" md5="f690e5a274eac6d061b5941e72990ec0" sha1="2d2e5604297ac922f4a117952315ea91348af174"/>
 	</game>
-	<game name="Metal Gear Ac!d 2 (Europe) (En,Fr,De,Es,It)" sha1="0a4973f3d115efb89e1d1c43caaa5a7032ffa301" size="852450487" crc="fdf99715" fullsha1="70cf43892d11760cafd840aeb700f8c48993e731" dataSha1="5b31c165cce8b0376b98043c7a7075bd78e27c8b">
+	<game name="Metal Gear Ac!d^2 (Europe) (En,Fr,De,Es,It)" sha1="0a4973f3d115efb89e1d1c43caaa5a7032ffa301" size="852450487" crc="fdf99715" fullsha1="70cf43892d11760cafd840aeb700f8c48993e731" dataSha1="5b31c165cce8b0376b98043c7a7075bd78e27c8b">
 		<category>Games</category>
-		<description>Metal Gear Ac!d 2 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Metal Gear Ac!d 2 (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="917340160" crc="324b1018" md5="f43c903c00242896563c5b84de0d4e55" sha1="443e21fe55607252cc59c2a80e94f524876af24f"/>
+		<description>Metal Gear Ac!d^2 (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Metal Gear Ac!d^2 (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="917340160" crc="324b1018" md5="f43c903c00242896563c5b84de0d4e55" sha1="443e21fe55607252cc59c2a80e94f524876af24f"/>
 	</game>
 	<game name="Metal Gear Solid - Digital Graphic Novel (Europe) (En,Fr,De,Es,It)" sha1="0f04df75fb8f177d9e431f1d3408b2c552ee3e53" size="1130339723" crc="251c952c" fullsha1="33e968c5598dc634a17892bc2b8d5b06e15f9b7c" dataSha1="9ce24f9edb36223b85f055a73ea6877dd02ad4c4">
 		<category>Games</category>
@@ -2724,10 +2724,10 @@
 		<description>Rapala Trophies (USA)</description>
 		<rom name="Rapala Trophies (USA) (Track 01).bin" size="521371648" crc="353b2d62" md5="b8a3b81f82c5b1810b225c47049db18c" sha1="3d5a68c5e75fc937c324ca0c4194cda48e15d2cb"/>
 	</game>
-	<game name="Ratchet &amp; Clank - Size Matters (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)" sha1="b92a02e7549ec331d7bfe28270f98f8f0b2f76e1" size="796912160" crc="e8dca0ef" fullsha1="1739287bb605ce86cbe02268811ff3c7d2c34e54" dataSha1="8b9bdc2bb812e6a06e73f1a112d7ec635f08b963">
+	<game name="Ratchet &amp; Clank - Size Matters (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)" sha1="b92a02e7549ec331d7bfe28270f98f8f0b2f76e1" size="796912160" crc="e8dca0ef" fullsha1="1739287bb605ce86cbe02268811ff3c7d2c34e54" dataSha1="8b9bdc2bb812e6a06e73f1a112d7ec635f08b963">
 		<category>Games</category>
-		<description>Ratchet &amp; Clank - Size Matters (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)</description>
-		<rom name="Ratchet &amp; Clank - Size Matters (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (Track 01).bin" size="993394688" crc="8981e31f" md5="e38e81601aca2fbc5bdc030d9f2b9dfb" sha1="48799b08d0219d13aa86c6388da5e910fd30ca92"/>
+		<description>Ratchet &amp; Clank - Size Matters (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)</description>
+		<rom name="Ratchet &amp; Clank - Size Matters (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (Track 01).bin" size="993394688" crc="8981e31f" md5="e38e81601aca2fbc5bdc030d9f2b9dfb" sha1="48799b08d0219d13aa86c6388da5e910fd30ca92"/>
 	</game>
 	<game name="Real Madrid - The Game (Europe) (En,Fr,Es,It,Pt)" sha1="f40324115a2b6852d91c9d65cf537a77fc49e506" size="202018882" crc="22b1cc09" fullsha1="0d250c44602285b699620a77bfce16ec26de943e" dataSha1="22a4d7ebd2949d1f30e99c11dac6540616d7fb6d">
 		<category>Games</category>
