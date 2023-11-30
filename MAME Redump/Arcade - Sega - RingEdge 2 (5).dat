@@ -4,17 +4,29 @@
   <header>
     <name>Arcade - Sega - RingEdge 2</name>
     <description>MAME Redump - Arcade - Sega - RingEdge 2 - Discs (7) (2020-01-21 02-01-20)</description>
-    <version>0.260</version>
-    <date>2023-10-27</date>
+    <version>0.261</version>
+    <date>2023-11-30</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
   </header>
-  <game name="Arcade - Sega - RingEdge 2">
-    <description>MAME Redump - Arcade - Sega - RingEdge 2 - Discs (7) (2020-01-21 02-01-20)</description>
+  <game name="ALL.Net P-ras Multi Version 2 (Japan)">
+    <description>ALL.Net P-ras Multi Version 2 (Japan)</description>
     <rom name="ALL.Net P-ras Multi Version 2 (Japan).chd" size="505344938" crc="CB7F8DF6" sha1="5D34611F02E58680EC8B6D5D816A757CB532871B" />
+  </game>
+  <game name="ALL.Net P-ras Multi Version 2 (Japan) (Rev A)">
+    <description>ALL.Net P-ras Multi Version 2 (Japan) (Rev A)</description>
     <rom name="ALL.Net P-ras Multi Version 2 (Japan) (Rev A).chd" size="1005347705" crc="98A62A97" sha1="7B0D552B440FCC24375164220353D59A28966A3D" />
+  </game>
+  <game name="GeeSen Love. (Japan)">
+    <description>GeeSen Love. (Japan)</description>
     <rom name="GeeSen Love. (Japan).chd" size="1181497474" crc="81AB6B25" sha1="B2E0E59694C9E90A8CBBFD1C469AE1D7BDBDDFD1" />
+  </game>
+  <game name="Guilty Gear XX Accent Core Plus R (Japan)">
+    <description>Guilty Gear XX Accent Core Plus R (Japan)</description>
     <rom name="Guilty Gear XX Accent Core Plus R (Japan).chd" size="1120316148" crc="20A186C4" sha1="F4199BBC17FD8D80AC2C70B37E66CC84632B7610" />
+  </game>
+  <game name="Under Night In-Birth (Japan)">
+    <description>Under Night In-Birth (Japan)</description>
     <rom name="Under Night In-Birth (Japan).chd" size="2926202633" crc="A23B363B" sha1="C82E7E921D0D87700D3E46449C3CF3CAFD7B5C73" />
   </game>
 </datafile>

@@ -4,14 +4,17 @@
   <header>
     <name>Arcade - Sega - RingEdge</name>
     <description>MAME Redump - Arcade - Sega - RingEdge - Discs (8) (2023-05-26 16-57-08)</description>
-    <version>0.260</version>
-    <date>2023-10-27</date>
+    <version>0.261</version>
+    <date>2023-11-30</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
   </header>
-  <game name="Arcade - Sega - RingEdge">
-    <description>MAME Redump - Arcade - Sega - RingEdge - Discs (8) (2023-05-26 16-57-08)</description>
+  <game name="Melty Blood Actress Again Current Code (Japan) (Rev D)">
+    <description>Melty Blood Actress Again Current Code (Japan) (Rev D)</description>
     <rom name="Melty Blood Actress Again Current Code (Japan) (Rev D).chd" size="2253208759" crc="1A91E982" sha1="5775CC202A0FCD55602E6314FA6C4C66CD192158" />
+  </game>
+  <game name="Puyo Puyo!! Quest Arcade (Japan) (Rev G)">
+    <description>Puyo Puyo!! Quest Arcade (Japan) (Rev G)</description>
     <rom name="Puyo Puyo!! Quest Arcade (Japan) (Rev G).chd" size="4050659344" crc="0210F6F7" sha1="4367AA62E2E8CDAC61F508246245DBBC9CC8C4FD" />
   </game>
 </datafile>

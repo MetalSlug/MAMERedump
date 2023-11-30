@@ -4,19 +4,37 @@
   <header>
     <name>Mattel - HyperScan</name>
     <description>MAME Redump - Mattel - HyperScan - Discs (7) (2023-05-03 20-42-26)</description>
-    <version>0.260</version>
-    <date>2023-10-27</date>
+    <version>0.261</version>
+    <date>2023-11-30</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
   </header>
-  <game name="Mattel - HyperScan">
-    <description>MAME Redump - Mattel - HyperScan - Discs (7) (2023-05-03 20-42-26)</description>
+  <game name="Ben 10 (USA) (USE1)">
+    <description>Ben 10 (USA) (USE1)</description>
     <rom name="Ben 10 (USA) (USE1).chd" size="71000641" crc="17A5F64E" sha1="E997AEDBBBC3CD1665B26C87B91225FBB9DE3673" />
+  </game>
+  <game name="Ben 10 (USA) (USE2)">
+    <description>Ben 10 (USA) (USE2)</description>
     <rom name="Ben 10 (USA) (USE2).chd" size="70997242" crc="5ADA2530" sha1="6623AC8CE30033D70297DAC5B02AC0EAA72A3920" />
+  </game>
+  <game name="IWL - Interstellar Wrestling League (USA) (USE1)">
+    <description>IWL - Interstellar Wrestling League (USA) (USE1)</description>
     <rom name="IWL - Interstellar Wrestling League (USA) (USE1).chd" size="35400459" crc="B9EEB0E3" sha1="2AFCDFB216D4FFF28AD9F11E5693512648B01638" />
+  </game>
+  <game name="IWL - Interstellar Wrestling League (USA) (USE2)">
+    <description>IWL - Interstellar Wrestling League (USA) (USE2)</description>
     <rom name="IWL - Interstellar Wrestling League (USA) (USE2).chd" size="35400462" crc="AD4AF52E" sha1="6B68C7CF21EB1DD90B592D36342D33E73DF91948" />
+  </game>
+  <game name="Marvel Heroes (USA) (USE2)">
+    <description>Marvel Heroes (USA) (USE2)</description>
     <rom name="Marvel Heroes (USA) (USE2).chd" size="58545735" crc="05FE90F8" sha1="582D6749D0EA0250C44F9B92EF0462B9DEA15594" />
+  </game>
+  <game name="Spider-Man (USA)">
+    <description>Spider-Man (USA)</description>
     <rom name="Spider-Man (USA).chd" size="28974622" crc="8DD21831" sha1="D331387A7D682A9B836B845996176DC55B9E1170" />
+  </game>
+  <game name="X-Men (USA) (USE2)">
+    <description>X-Men (USA) (USE2)</description>
     <rom name="X-Men (USA) (USE2).chd" size="114506504" crc="828B8EF6" sha1="ECC1429D4EB3EC629890E2B5018E546B8D7343EC" />
   </game>
 </datafile>

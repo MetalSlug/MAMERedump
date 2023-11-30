@@ -4,8 +4,8 @@
 	<header>
 		<name>ibm5170_cdrom</name>
 		<description>ibm5170_cdrom</description>
-		<version>0.260</version>
-		<date>2023-09-07</date>
+		<version>0.261</version>
+		<date>2023-11-30</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -48,6 +48,11 @@
 		<category>Games</category>
 		<description>5plus1_10\Blues Brothers, The (Europe)</description>
 		<rom name="Blues Brothers, The (Europe) (Track 01).bin" size="8979936" crc="346e8d8f" md5="40287ddd50695e4fb4eb1f55ceea6f53" sha1="3b775aedf36fcbc33b6a04159d2c4887ec3d611d"/>
+	</game>
+	<game name="5plus1_12\Ghostbusters II (Europe)" sha1="99e505657c2085fa74f25a9fd5fcdc9664279b74" size="3373896" crc="a8763b73" fullsha1="2518504af2cf720997401d967e67f75ffbd1bf49" dataSha1="9f91010bedd980f7f4b4f863683e588446728f81">
+		<category>Games</category>
+		<description>5plus1_12\Ghostbusters II (Europe)</description>
+		<rom name="Ghostbusters II (Europe) (Track 01).bin" size="8319024" crc="425f552f" md5="f3bc81e5f3ad7f1eb9309b747df5c714" sha1="20a9f1c1bec8097018e4ce4c288cccaf794a3049"/>
 	</game>
 	<game name="5plus1_25\TV Sports Football (Europe)" sha1="d3daead368aa8b83f23b07c68b230269282ccefc" size="2801366" crc="df789bb4" fullsha1="4765a2400d6e480a5656a7889331002ee7e910a6" dataSha1="2474107bc9c9c0cd6cb534b70f22e930a2171d02">
 		<category>Games</category>
@@ -917,6 +922,16 @@
 		<description>castledb\castle of dr. brain (1996)(sierra)</description>
 		<rom name="castle of dr. brain (1996)(sierra) (Track 01).bin" size="147724288" crc="38eb48e5" md5="2685d56e4b44f8634802e5600b363812" sha1="0eae2a089aca69acabc2ed95ea8aaaee484f2812"/>
 	</game>
+	<game name="cctmboy\Cool Croc Twins, The - Magic Boy (Europe)" sha1="f06cb7e67976069a65fc49353081a9d809cb3c6f" size="5552866" crc="be9868f0" fullsha1="e512584714ef77db7286a5db89164498184d6f09" dataSha1="adcedcab4e06d1898fa8258c57f2720b959da40c">
+		<category>Games</category>
+		<description>cctmboy\Cool Croc Twins, The - Magic Boy (Europe)</description>
+		<rom name="Cool Croc Twins, The - Magic Boy (Europe) (Track 01).bin" size="7251216" crc="3aa0cc4f" md5="61df16b842962890ce31cb5c80018cdd" sha1="d600e83f4c53cf9a8388245eddfb5dbf0168c76f"/>
+	</game>
+	<game name="cctmboy_a\Cool Croc Twins, The - Magic Boy (Netherlands)" sha1="756140c866f02e6bdc80789c468d535e19f6f7f1" size="5555739" crc="1365022e" fullsha1="fc20fc4bbc733a9f54046b70fde3b274206fd9c3" dataSha1="362d277d0ea15f467782c3901f5724b09f560cf7">
+		<category>Games</category>
+		<description>cctmboy_a\Cool Croc Twins, The - Magic Boy (Netherlands)</description>
+		<rom name="Cool Croc Twins, The - Magic Boy (Netherlands) (Track 01).bin" size="7604016" crc="e87a37a3" md5="4a65a474c6ebb43c2f1894b49f4faf06" sha1="505f1f877d45c01dd1e8ab543008038f6c5c1258"/>
+	</game>
 	<game name="cdraw6\corel_draw_6_cd1" sha1="a4ec0b522db6e2c28c2329ba471f70fffedc3c72" size="302028574" crc="d0cba752" fullsha1="db1f485ff98d9e80bd3c0d4b61945c7f6290ae1f" dataSha1="1917748fa2553b835d9e574a4550dd7c509132fc">
 		<category>Games</category>
 		<description>cdraw6\corel_draw_6_cd1</description>
@@ -1166,6 +1181,21 @@
 		<description>darker\darker (1995)(psygnosis)</description>
 		<rom name="darker (1995)(psygnosis) (Track 01).bin" size="6252544" crc="2a287335" md5="e36c70ef2401cdd9f80e6ed2ed568b6a" sha1="4b3491143c2aca839e20e921f696edf760310b85"/>
 	</game>
+	<game name="darkseed\Darkseed (USA)" sha1="c4a0e45d14494867faeac60cc92ad08f713c45b7" size="15267816" crc="53045076" fullsha1="761707a1f8a0818749c94e84b1accd3eda174f08" dataSha1="8fd4605274695f4f69de93877c38253537fe289f">
+		<category>Games</category>
+		<description>darkseed\Darkseed (USA)</description>
+		<rom name="Darkseed (USA) (Track 01).bin" size="37683744" crc="a39e19e0" md5="7f058c545fc2f5d022343e29ab72148e" sha1="415515e8d4084a1ca7aeef83d8190e5fc679089a"/>
+	</game>
+	<game name="darkseed_a\Darkseed (USA) (Alt)" sha1="894aee59821a7ee5f124b82cb9ba7a3e71240c6d" size="15275655" crc="5b6d77f8" fullsha1="49398734d9bc3dac0ee78db53d143513b0f3575c" dataSha1="a217e1a9773a09a9489ff44365e9315b8e90cb5b">
+		<category>Games</category>
+		<description>darkseed_a\Darkseed (USA) (Alt)</description>
+		<rom name="Darkseed (USA) (Alt) (Track 01).bin" size="38036544" crc="a896d980" md5="5b03840099449b17fce4c49b852de71a" sha1="408b9b53d2aa117735c4f0dbcbbf60ac95d7ab10"/>
+	</game>
+	<game name="darkseed_de\Darkseed (Germany) (En,De)" sha1="60a2cfc56124c7b2b892574002721a893f43101e" size="33876590" crc="176c3f1b" fullsha1="e6046c44e9ae77da4897b75ffb6bbec0771ea379" dataSha1="d3a8a0aabe47c9625c3a03c82a542a7efaf95e46">
+		<category>Games</category>
+		<description>darkseed_de\Darkseed (Germany) (En,De)</description>
+		<rom name="Darkseed (Germany) (En,De) (Track 01).bin" size="76228320" crc="fc3edbff" md5="6022bcc85baae4055cfa5508b494eaa7" sha1="27b68fda248136d5827c77ba7954812ce9283473"/>
+	</game>
 	<game name="dd2\dd2_pc" sha1="57ec3bab68cce597df8498b79167f27b0842bd55" size="453189515" crc="700b5aac" fullsha1="934d21c1172848110c3198463f5a5261175263a3" dataSha1="b3262a05fc0c5e945ca04ec322681cae1c3fde0d">
 		<category>Games</category>
 		<description>dd2\dd2_pc</description>
@@ -1224,6 +1254,11 @@
 		<description>dobupanic\bpanic</description>
 		<rom name="bpanic (Track 01).bin" size="31349808" crc="582ccba8" md5="bc27f40737e92038019f7ea5b5c49940" sha1="f178953dc496e2a2b799e8c4ad0e7a047acd14ac"/>
 	</game>
+	<game name="dogfight\Dogfight - 80 Years of Aerial Warfare (Europe)" sha1="d59bc797b1cfaaddd89e719666eaa666f9e68b71" size="3556922" crc="322400d8" fullsha1="87f2957a121653bc226060e8c6de8c80fc1bad16" dataSha1="4141fae500c1e9b84b2fd65ec70049af51f51735">
+		<category>Games</category>
+		<description>dogfight\Dogfight - 80 Years of Aerial Warfare (Europe)</description>
+		<rom name="Dogfight - 80 Years of Aerial Warfare (Europe) (Track 01).bin" size="10231200" crc="5784c562" md5="e6e2d754fe2f01c4bf6af94fe46d2d78" sha1="475f7955b3d273e3b8fd42ebc6a1c46f0a433ae7"/>
+	</game>
 	<game name="doom2j\doom2j" sha1="94270b30fc5428d53be8686c8830bac69d31e851" size="45673429" crc="b4899711" fullsha1="61dd4c9a81d4d354a14533dcbd257a5bcffd22c6" dataSha1="b26bdb4d11280b1e37ec8678e555a0d50289df04">
 		<category>Games</category>
 		<description>doom2j\doom2j</description>
@@ -1248,6 +1283,26 @@
 		<category>Games</category>
 		<description>duke3d\3d_realms_-_duke_nukem_3d_(shareware_version)</description>
 		<rom name="3d_realms_-_duke_nukem_3d_(shareware_version) (Track 01).bin" size="28667904" crc="bf44033a" md5="f0cdddaa3bcfcd62b52b7706662a41f4" sha1="6d637364b37f7de477ef1fb9c1e1d558aedf7d9b"/>
+	</game>
+	<game name="dune2\Dune II - Battle for Arrakis (Netherlands) (En,Fr,De) (Hit Squad)" sha1="c590ae6a73dfe4d9c38c2a5d3525fa7cacdb3ac0" size="13252423" crc="736e5ab4" fullsha1="8ca2656244198deba3e774d82ffbbf9aa853920e" dataSha1="2b86a65347b794fec62e420ec3220c61bbf30a2e">
+		<category>Games</category>
+		<description>dune2\Dune II - Battle for Arrakis (Netherlands) (En,Fr,De) (Hit Squad)</description>
+		<rom name="Dune II - Battle for Arrakis (Netherlands) (En,Fr,De) (Hit Squad) (Track 01).bin" size="23635248" crc="1347151e" md5="6bf93370059c7a7118e01b7e9c42bd01" sha1="d2476a24849949dd50cb1dfd7a83d20c1fed4659"/>
+	</game>
+	<game name="dune2_de\Dune II - Battle for Arrakis (Germany) (Rerelease)" sha1="3c468a85f6918ca31a45131b537066c4e713601d" size="34219630" crc="b6b1df91" fullsha1="366197c98170ffe209e2aed6c8de7c1e8231ec03" dataSha1="1602312899d2bcf6b060c455f3fe736095595e88">
+		<category>Games</category>
+		<description>dune2_de\Dune II - Battle for Arrakis (Germany) (Rerelease)</description>
+		<rom name="Dune II - Battle for Arrakis (Germany) (Rerelease) (Track 01).bin" size="44346960" crc="0b95afdd" md5="47f92f70c287a5c765b7ad6ef7af7df7" sha1="79d393784e50f06a49f25aaa9014f4a81c208047"/>
+	</game>
+	<game name="dune2_us\Dune II - The Building of a Dynasty (USA)" sha1="876dce4f0b30bb95bedd4f77567f72cda55dc1f6" size="4935778" crc="f3b13966" fullsha1="268bfa28d63d512ae4483ed979895f7d9da784e2" dataSha1="8a3aee225917516a86412615447c8d5902619284">
+		<category>Games</category>
+		<description>dune2_us\Dune II - The Building of a Dynasty (USA)</description>
+		<rom name="Dune II - The Building of a Dynasty (USA) (Track 01).bin" size="11223744" crc="11a655ac" md5="9e37f60219eb3d4b093906163a423f9f" sha1="533a0c6a5555210dd10f8b0666a4e5f8afa8f1e8"/>
+	</game>
+	<game name="dune\Dune (Europe) (En,Fr,De,Es,It)" sha1="49e88f0dc013252ef3236bafa2414d530898833f" size="217074721" crc="32b46d82" fullsha1="50a206ea2b13252a8f24c6b34104640a1c58312a" dataSha1="0e3dc4226ae84de4039c18ad59ad8b9e29ef0198">
+		<category>Games</category>
+		<description>dune\Dune (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Dune (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="457581600" crc="bf86536e" md5="50fdcd72f9f858be26cc7f10dc7674b8" sha1="7877944b99bb0ae884f2c5ed89f3b50f30e0109a"/>
 	</game>
 	<game name="dungkrem\dungeons of kremlin (1995)(newcom)(en-ru)" sha1="13e30b95435acaaebdd85f611bf2eb15f8ab6f5b" size="2737382" crc="c949546a" fullsha1="39f7a573cd92b3992e5d298c37c307f8060cd2a1" dataSha1="0463a34a3be27dd9a24d2aa9a6b41a110cb5df51">
 		<category>Games</category>
@@ -1717,6 +1772,57 @@
 		<description>jazz\Jazz Jackrabbit (Europe) (v1.3)</description>
 		<rom name="Jazz Jackrabbit (Europe) (v1.3) (Track 01).bin" size="35515200" crc="e18f2c8c" md5="4ed66ba1971e383e6a94222597b4c337" sha1="b85532eac09143d4f5d4eee44d4570f8c9766bc4"/>
 	</game>
+	<game name="jpark\Jurassic Park (Europe) (En,Fr,De,Es,It)" sha1="88f6e6b5414dcce3dbfbbf9014132747770e79fc" size="196200825" crc="1d5fa486" fullsha1="b6dce0797a9f4e1865edbdb19cdd9bf51fe8cad4" dataSha1="74d18f35261dd84a32224060235022ef3a2212a8">
+		<category>Games</category>
+		<description>jpark\Jurassic Park (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Jurassic Park (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="15876000" crc="b1a3d93e" md5="822a11f7c67076bf00a88a6bb6b8efc0" sha1="326d78a34e163bcd31da24fdd3dc4d74ae5ec779"/>
+		<rom name="Jurassic Park (Europe) (En,Fr,De,Es,It) (Track 02).bin" size="41493984" crc="38b29a22" md5="b4b23bdabb11b6052689f72741c3593e" sha1="f41ce2bff7fd1430c4a9e2273bd171b889e75b34"/>
+		<rom name="Jurassic Park (Europe) (En,Fr,De,Es,It) (Track 03).bin" size="44170560" crc="76a99b22" md5="28eea12a26e1f38cea3fef475b05ec0c" sha1="e00febf6de0d18c2f468d3af5eed1c43b5a666f7"/>
+		<rom name="Jurassic Park (Europe) (En,Fr,De,Es,It) (Track 04).bin" size="26311824" crc="23ebf7dc" md5="e59f2d8e52e58b42aad0f1f60857b8e5" sha1="08cfb9f0f13a0ab44ea795b305c7ec0e91b07d66"/>
+		<rom name="Jurassic Park (Europe) (En,Fr,De,Es,It) (Track 05).bin" size="23461200" crc="71e48b2e" md5="13406b3b533c83dafcdc6f78e225da1c" sha1="3609fe4379cc548595cd18d66582a36952f4738e"/>
+		<rom name="Jurassic Park (Europe) (En,Fr,De,Es,It) (Track 06).bin" size="16414608" crc="0d9fc2f4" md5="91f5a6095a6f61a7c696a54239eaa98f" sha1="9116de45fad4611ba464783548024b04bf3e4dbf"/>
+		<rom name="Jurassic Park (Europe) (En,Fr,De,Es,It) (Track 07).bin" size="27802992" crc="6fe4cb41" md5="8139649dba34c519ce9cb165ae3ccd3c" sha1="741dbdcb025eecb67c14075c75e9677a3df73453"/>
+		<rom name="Jurassic Park (Europe) (En,Fr,De,Es,It) (Track 08).bin" size="41515152" crc="a4dbb1c3" md5="7dc096b07f7765440fdd6a827a010467" sha1="af932ce4b39f1488a039ba20f3b7bf584b3529c0"/>
+		<rom name="Jurassic Park (Europe) (En,Fr,De,Es,It) (Track 09).bin" size="28736736" crc="ae8088c9" md5="b9c0dd97abf289a73f7df5ec401f12cb" sha1="75fb4d17712180fc8509b11154a3f3fb094d5e7f"/>
+		<rom name="Jurassic Park (Europe) (En,Fr,De,Es,It) (Track 10).bin" size="26998608" crc="f8534a71" md5="28cd67a3a1964642a02d78fa790548ee" sha1="8f40768bca937f3dceb6624fe46335d995d581f3"/>
+		<rom name="Jurassic Park (Europe) (En,Fr,De,Es,It) (Track 11).bin" size="5847072" crc="e411f6cb" md5="2bdf44e9ff94b61de644a7a04ae1bad5" sha1="8f8afe5e982725f245cf56cbf8225e7dc9682ee5"/>
+		<rom name="Jurassic Park (Europe) (En,Fr,De,Es,It) (Track 12).bin" size="33682992" crc="5732fc84" md5="a682815688cfcbf46f9334afd181917a" sha1="2d86f060dc4da13e9b71a9b35310c08645b1c865"/>
+		<rom name="Jurassic Park (Europe) (En,Fr,De,Es,It) (Track 13).bin" size="5844720" crc="0eb712f9" md5="b6127848cb68dcf64cc8ac20489f8fc2" sha1="877e9d60b1faf109f4610cf27dbe3e1eac80996c"/>
+	</game>
+	<game name="jpark_de\Jurassic Park (Germany) (En,Fr,De,Es,It) (Hit Squad, Soft Price)" sha1="48743ef5d4052b4747bec1efeb95befa3d1ce244" size="171227878" crc="a88782ac" fullsha1="3a00bd27bb408772b5a8395c784f1034217bc70e" dataSha1="272b82d1194f1cc0d29b9f5c5226334e6f56d5cf">
+		<category>Games</category>
+		<description>jpark_de\Jurassic Park (Germany) (En,Fr,De,Es,It) (Hit Squad, Soft Price)</description>
+		<rom name="Jurassic Park (Germany) (En,Fr,De,Es,It) (Hit Squad, Soft Price) (Track 01).bin" size="15880704" crc="ba97aec6" md5="261c2ad703e8e4a3b2dd52364a42b979" sha1="d412f571df03b2e59d7ed0693d02e55c15f9f727"/>
+		<rom name="Jurassic Park (Germany) (En,Fr,De,Es,It) (Hit Squad, Soft Price) (Track 02).bin" size="41256432" crc="045fa1d8" md5="b9d79ed7385747a4e9e1eba0298bc7f9" sha1="811fc62e7a211853589593bd6dd8cf360815b519"/>
+		<rom name="Jurassic Park (Germany) (En,Fr,De,Es,It) (Hit Squad, Soft Price) (Track 03).bin" size="43998864" crc="bbeb0a99" md5="7323d3c5110e029b0b23d9fba3ec8e85" sha1="588f3cc14975fd7ded5ee43d034330388023fcf1"/>
+		<rom name="Jurassic Park (Germany) (En,Fr,De,Es,It) (Hit Squad, Soft Price) (Track 04).bin" size="25679136" crc="7f17770b" md5="176426aaeb390c41540e12fec7d7b015" sha1="6a57b5d1665d24edf8376ea675ac4a51760dce78"/>
+		<rom name="Jurassic Park (Germany) (En,Fr,De,Es,It) (Hit Squad, Soft Price) (Track 05).bin" size="23098992" crc="9e8d9ca1" md5="79303c888e2a2e358f01f80aa4f3e9ad" sha1="6251d33a6dc34644757128bde80ca2c5c73ca581"/>
+		<rom name="Jurassic Park (Germany) (En,Fr,De,Es,It) (Hit Squad, Soft Price) (Track 06).bin" size="16612176" crc="fa0e2a5c" md5="a0b507149509a51970fb4633f2a359a3" sha1="9e66aa12b4baa67d911f27b8f083d69e4ef0056e"/>
+		<rom name="Jurassic Park (Germany) (En,Fr,De,Es,It) (Hit Squad, Soft Price) (Track 07).bin" size="27123264" crc="0d45dde4" md5="e47837ef9d263b89146e2ccbd9e7f707" sha1="c72d2123dd2c2fd38f10e5387811debcc4e22067"/>
+		<rom name="Jurassic Park (Germany) (En,Fr,De,Es,It) (Hit Squad, Soft Price) (Track 08).bin" size="40993008" crc="4dabe487" md5="df542650d5a9f4b54e22762142132c98" sha1="f1896e6c4943ab267728d5b691e54e068b11873f"/>
+		<rom name="Jurassic Park (Germany) (En,Fr,De,Es,It) (Hit Squad, Soft Price) (Track 09).bin" size="28419216" crc="e5356944" md5="9c00f02343c60082b6a47b9c881dd06d" sha1="13fb8eace336fc96c4f9c067dfb33ccabd812401"/>
+		<rom name="Jurassic Park (Germany) (En,Fr,De,Es,It) (Hit Squad, Soft Price) (Track 10).bin" size="26422368" crc="ccb7d2ce" md5="cb0abde269fd6a4ee47560eced185fdd" sha1="48da0a4b14b9e9dbd0de4507fba5f4869f557bb9"/>
+		<rom name="Jurassic Park (Germany) (En,Fr,De,Es,It) (Hit Squad, Soft Price) (Track 11).bin" size="5292000" crc="c2525155" md5="b6c24929830caa2044c7cd00644f2f54" sha1="18d86b46d43a550dfbf473570f93b4c0a65e7504"/>
+		<rom name="Jurassic Park (Germany) (En,Fr,De,Es,It) (Hit Squad, Soft Price) (Track 12).bin" size="50466864" crc="a59453c3" md5="3f4344a885b7fc67934147d6757f0007" sha1="27a0ea8ee777e7ede65fc747e255af9a530856ed"/>
+		<rom name="Jurassic Park (Germany) (En,Fr,De,Es,It) (Hit Squad, Soft Price) (Track 13).bin" size="5289648" crc="09dd3c76" md5="0f624dabf86f7850c8e99c2cf63edfbc" sha1="db1d9c89070c9b48eded6a91b72b6177fab70287"/>
+	</game>
+	<game name="jpark_us\Jurassic Park (USA) (En,Fr,De,Es,It)" sha1="8ecad59b3bcd6f64f0a41d9942265a394f932f15" size="173391337" crc="8912deac" fullsha1="c7f28dabc4de837d363296d92a5b6ef0e4060baa" dataSha1="a2d73714fef3f16a13868886c9e202b9e5f28994">
+		<category>Games</category>
+		<description>jpark_us\Jurassic Park (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Jurassic Park (USA) (En,Fr,De,Es,It) (Track 01).bin" size="16045344" crc="5d6dcc7c" md5="4a396cc30f8de66017366c0cd6d1e1d6" sha1="67ec9b1910ae76107849dacb6be07a61429220a0"/>
+		<rom name="Jurassic Park (USA) (En,Fr,De,Es,It) (Track 02).bin" size="41609232" crc="52ec6df6" md5="09497c56bd7366b9072eb5fa4b3d7428" sha1="adb045827d92588127beef95e1c4368f68dcf735"/>
+		<rom name="Jurassic Park (USA) (En,Fr,De,Es,It) (Track 03).bin" size="43998864" crc="539081f2" md5="63756a06bada13545483eb5582cd7e99" sha1="5de5065a1fd98b2e6597ebc20e5195bde424d475"/>
+		<rom name="Jurassic Park (USA) (En,Fr,De,Es,It) (Track 04).bin" size="25679136" crc="53a09a63" md5="94f9b459ca8b7cb87eff7860769b2861" sha1="44b805c30dffc7f235971a84a3f11aea9fcf13ab"/>
+		<rom name="Jurassic Park (USA) (En,Fr,De,Es,It) (Track 05).bin" size="23098992" crc="bb6a1e7e" md5="c065efe8bc8549f41852d9b38f016bd0" sha1="a123f127fb14c13533122bd217ba8ba689f58097"/>
+		<rom name="Jurassic Park (USA) (En,Fr,De,Es,It) (Track 06).bin" size="16612176" crc="54e2c35d" md5="fd73643306bc8d8fd09117ee114c1f46" sha1="c181ee441e0280742e7acbf705363e32d6291f9f"/>
+		<rom name="Jurassic Park (USA) (En,Fr,De,Es,It) (Track 07).bin" size="27123264" crc="980444f4" md5="9c9ca0e42faa3fe228bc38af278877ae" sha1="a7b56056a11840a414b37d603010bce34fdc9ae7"/>
+		<rom name="Jurassic Park (USA) (En,Fr,De,Es,It) (Track 08).bin" size="40993008" crc="dc16ddc0" md5="eb98f17e875cc8f00b1fd3fcf5fdd13d" sha1="e0a4d7d10ec2772e05dcb338a3609846084a2e25"/>
+		<rom name="Jurassic Park (USA) (En,Fr,De,Es,It) (Track 09).bin" size="28419216" crc="21fabbb5" md5="9435034d46b9825efc9cd953e323db3c" sha1="4f0caf58c30dce777a161485ca8a1b9fa26c6045"/>
+		<rom name="Jurassic Park (USA) (En,Fr,De,Es,It) (Track 10).bin" size="26422368" crc="664e6459" md5="a40f23f5302e5af2f947aed821c4cb8e" sha1="8b6e4816a777f979811bae3549b03487e36c6d02"/>
+		<rom name="Jurassic Park (USA) (En,Fr,De,Es,It) (Track 11).bin" size="5292000" crc="a12a1d9b" md5="400631c050acaed7397ac45ad05801f5" sha1="16990cc1872f822614e6053483e6c7d3e6bd35d0"/>
+		<rom name="Jurassic Park (USA) (En,Fr,De,Es,It) (Track 12).bin" size="50466864" crc="fd24f3ab" md5="67fcc95cceaf6851c60494f1d20664f9" sha1="a6fdf109bb31bf60175a677a8c7c15f2fd2102ec"/>
+		<rom name="Jurassic Park (USA) (En,Fr,De,Es,It) (Track 13).bin" size="5292000" crc="92a65df7" md5="33965cae81c370b546c3dcc5dd70ec5a" sha1="92df115438d40e3c19a2ee35dede2e2ad0606389"/>
+	</game>
 	<game name="karnovcd\karnov_cd" sha1="16fa4b70bd88ac951c132a72d7b9f67c06851c18" size="228235" crc="b08f17f4" fullsha1="6fb90bf33a608b855b917c8dfe94c900b10c47a9" dataSha1="8a165b181484524ebd8a3473f733dd2ec37a521d">
 		<category>Games</category>
 		<description>karnovcd\karnov_cd</description>
@@ -1842,6 +1948,16 @@
 		<rom name="ku2impact (Track 22).bin" size="41700960" crc="a8d5a276" md5="f69db42356e869523c839debe52e6015" sha1="a0425aeb237aeaf027a5bb55ed443fc48153b0dc"/>
 		<rom name="ku2impact (Track 23).bin" size="1658160" crc="e721c60b" md5="c3202d540b45524ff46fd76449309e8e" sha1="3893cd8f6d026b87bb9de4e78e6f487648c0d1c7"/>
 		<rom name="ku2impact (Track 24).bin" size="21946512" crc="da7f5dfc" md5="3bd965e5e2bc4b18d20e7ec571ccfe7e" sha1="5545f35c18677173e81939d011978c6fe33b6f1f"/>
+	</game>
+	<game name="kyrandia2\Legend of Kyrandia, The - Book Two - The Hand of Fate (UK) (Sold Out Software)" sha1="b8fffe18740a0431873216035a85f507b85cadee" size="123861995" crc="8eef064c" fullsha1="49ab1512d8b3b5ffa2e8c3c0d7d08e5b5e7ccaa9" dataSha1="54c56f34621ede8e7a7bc4f6eb7bd18a8b107a92">
+		<category>Games</category>
+		<description>kyrandia2\Legend of Kyrandia, The - Book Two - The Hand of Fate (UK) (Sold Out Software)</description>
+		<rom name="Legend of Kyrandia, The - Book Two - The Hand of Fate (UK) (Sold Out Software) (Track 01).bin" size="258496560" crc="98ce5104" md5="a54067849ae8b06c0543090b88619b6d" sha1="3f9d314775bf52f2b7173748f217d042263ba8e9"/>
+	</game>
+	<game name="kyrandia3\Legend of Kyrandia, The - Book Three (Japan, Europe) (En,Fr,De)" sha1="eb76419212c1fb76d78a04771c6792a7aff58dc9" size="457098358" crc="2c400989" fullsha1="7662e5760c116f091ef3ec3579362fb7de847ec2" dataSha1="5bc87cdfd46641bbf0ea707da977a645e3d3431c">
+		<category>Games</category>
+		<description>kyrandia3\Legend of Kyrandia, The - Book Three (Japan, Europe) (En,Fr,De)</description>
+		<rom name="Legend of Kyrandia, The - Book Three (Japan, Europe) (En,Fr,De) (Track 01).bin" size="686080752" crc="2a671eb7" md5="4cd6d449d0b4e1a92a3270a54d6696e6" sha1="6f3345505fdad4d053fe18a54d8bc7811b08f01c"/>
 	</game>
 	<game name="kyrandia\Legend of Kyrandia, The - Book One (Asia) (En,Fr,De)" sha1="de643cc037707222eeb57fd8467409ffd1a90f3b" size="251768632" crc="b947564d" fullsha1="882c5955baf18918984fb210708a122854ad3b9a" dataSha1="45aaf49c917ce1f544a6617804bf97bd7c5acf74">
 		<category>Games</category>
@@ -2169,6 +2285,11 @@
 		<category>Games</category>
 		<description>paulymou\pmouse</description>
 		<rom name="pmouse (Track 01).bin" size="149991744" crc="2d6e8355" md5="7bf09c6e96402ef62c48264291d6148c" sha1="8749b9e2433ce708ec1fbb238603279147305859"/>
+	</game>
+	<game name="pawsfury\Brutal - Paws of Fury (Europe)" sha1="74abc842e62f9e4644d1f2fbcef611b6a0432c7c" size="3149303" crc="b9512803" fullsha1="34a8c163fd76fda26d1735191bbfcb0de0307926" dataSha1="a12e689e0ef07032a051398ab0204bca3e28c5bb">
+		<category>Games</category>
+		<description>pawsfury\Brutal - Paws of Fury (Europe)</description>
+		<rom name="Brutal - Paws of Fury (Europe) (Track 01).bin" size="4148928" crc="e4aee56a" md5="1b551092f6a7d1878c3a5053709530a9" sha1="a76f9f09db479caeb92403e68e31c26d03005224"/>
 	</game>
 	<game name="pcdos2k\pcdos2k" sha1="58ead0a52f53b129f3a9e265a7f5d91ac36e0396" size="23794199" crc="e42e08e0" fullsha1="ae69e305e82f24d908296ba9f45a1321a1c9dd58" dataSha1="64ef41183acb6d5251e8edd7d553f3d4b3bdddcd">
 		<category>Games</category>
@@ -2544,6 +2665,23 @@
 		<description>ssuite_os2\ssuiteos2</description>
 		<rom name="ssuiteos2 (Track 01).bin" size="196530176" crc="9d5a274a" md5="35c218587e199f3b58bd3a8956c7f770" sha1="639378e7ee3b9bd1905af082449192597f07b3a2"/>
 	</game>
+	<game name="starcont\Star Control (Europe)" sha1="1b8c9c83ec4d2f4d1fca724c838517b318822550" size="622970" crc="5089efe5" fullsha1="a15424a254499303cbeee11566eccc4f9471d34c" dataSha1="5cb69de07ba4c4857e723d3275255eaddf3f3cd3">
+		<category>Games</category>
+		<description>starcont\Star Control (Europe)</description>
+		<rom name="Star Control (Europe) (Track 01).bin" size="1284192" crc="037f7092" md5="84cf7a0f2ae2bc79ae3108163fe6a1ce" sha1="e35d6025f699af91f3919e8f50e477a47625c965"/>
+	</game>
+	<game name="stellar7\Stellar 7 (USA)" sha1="2947b4e914247938c76ce041bde1dac94192d1a2" size="157025996" crc="3c1c52d1" fullsha1="8277fbdf1ea4cbf42bb95bbc9f8beaa7685ee0bd" dataSha1="317d0c252592c7038db61fa1d2e338afb2580513">
+		<category>Games</category>
+		<description>stellar7\Stellar 7 (USA)</description>
+		<rom name="Stellar 7 (USA) (Track 01).bin" size="23320080" crc="3d4511c1" md5="16e2a12bc81040fafda1129280f0623e" sha1="98b4d488e816c7f5e3c3f40dd26834ca7aad821a"/>
+		<rom name="Stellar 7 (USA) (Track 02).bin" size="237093360" crc="847737dd" md5="1e07701ce577e36bfcb7c34cd85c29b8" sha1="0fd6bbf9e0e8b5be81798abf5599bc8d383d04be"/>
+	</game>
+	<game name="stellar7a\Stellar 7 (USA) (Alt)" sha1="ada43cfc4821d682dab414026f34057094cbb293" size="157023895" crc="0ac85cd6" fullsha1="6f19b85267ef39ba9a032cc4a36701b6943ff967" dataSha1="584caed99a63de37b1a97188289e2bd8b159bc39">
+		<category>Games</category>
+		<description>stellar7a\Stellar 7 (USA) (Alt)</description>
+		<rom name="Stellar 7 (USA) (Alt) (Track 01).bin" size="23320080" crc="3d4511c1" md5="16e2a12bc81040fafda1129280f0623e" sha1="98b4d488e816c7f5e3c3f40dd26834ca7aad821a"/>
+		<rom name="Stellar 7 (USA) (Alt) (Track 02).bin" size="237093360" crc="e9542aef" md5="cf2195fc71f65cb7e6a8c9f3d9c12aab" sha1="4e3008563b849842ffac23c68c9ba86763bcaa5d"/>
+	</game>
 	<game name="stg\stg" sha1="6dfa0792d045136db4437600651ccebe0abca08a" size="426189031" crc="f83bf413" fullsha1="553a04c67860c49d2c5fa1da983c4bc3ab5267fd" dataSha1="0aae44dc8d4b6abe4175cca73239e2499a8f9c13">
 		<category>Games</category>
 		<description>stg\stg</description>
@@ -2615,6 +2753,11 @@
 		<category>Games</category>
 		<description>thedig\Dig, The (USA) (Alt)</description>
 		<rom name="Dig, The (USA) (Alt) (Track 01).bin" size="761203632" crc="7a6762e5" md5="7daa93356fabedd0f52d3de044be7c65" sha1="a5a98e2a2111aef6023a6e3d6a062d989c7f22c6"/>
+	</game>
+	<game name="thedig_jp\Dig, The (Japan)" sha1="105039476a6fcc841f1b0a8519a27db40281ead6" size="517321896" crc="2c814404" fullsha1="0930e3f659a57797e81b8c4c4b3cce44948f7a8f" dataSha1="9b4207b80b01fbba4581b136a03c816fc59b9cc2">
+		<category>Games</category>
+		<description>thedig_jp\Dig, The (Japan)</description>
+		<rom name="Dig, The (Japan) (Track 01).bin" size="778196832" crc="550c8138" md5="85a1e4d60e04e6828c98aafc5f27c32f" sha1="3b3f8c72d86e380142299a91218139f32b34a682"/>
 	</game>
 	<game name="tplay98\ea-tripleplay98-win95" sha1="96a1e746b46b0d2edd6251ee0815ce3c125b7127" size="485763221" crc="6f3123a7" fullsha1="304492fab8e65add0ae3516633fcbd4ed7755902" dataSha1="be04c984df606af3d51b7ca5e8133b2b3b69256f">
 		<category>Games</category>
