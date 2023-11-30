@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+  <header>
+    <name>VM Labs - NUON</name>
+    <description>MAME Redump - VM Labs - NUON - Discs (9) (2023-10-21 01-06-36)</description>
+    <version>0.261</version>
+    <date>2023-11-30</date>
+    <author>MAME Redump</author>
+    <url>https://github.com/MetalSlug/MAMERedump</url>
+  </header>
+  <game name="Ballistic (USA, Europe)">
+    <description>Ballistic (USA, Europe)</description>
+    <rom name="Ballistic (USA, Europe).chd" size="96134628" crc="DB35F3F3" sha1="B6EDF6F0F387F23C5A979D3679A0D329F71EAADD" />
+  </game>
+  <game name="Freefall 3050 A.D. (USA, Europe)">
+    <description>Freefall 3050 A.D. (USA, Europe)</description>
+    <rom name="Freefall 3050 A.D. (USA, Europe).chd" size="853549421" crc="444730E3" sha1="76785B1B9BDB2F5824FBBA6ED27F1517005488F0" />
+  </game>
+  <game name="Iron Soldier 3 (USA)">
+    <description>Iron Soldier 3 (USA)</description>
+    <rom name="Iron Soldier 3 (USA).chd" size="1360132479" crc="866CB7D1" sha1="D5EEB39E237F016FB10AC7A160EC4E8A372AFAD2" />
+  </game>
+  <game name="Merlin Racing (USA, Europe)">
+    <description>Merlin Racing (USA, Europe)</description>
+    <rom name="Merlin Racing (USA, Europe).chd" size="400332850" crc="028C7B06" sha1="21F4D8EAA85E2CF9781A0ED585C024A2538C4604" />
+  </game>
+  <game name="Next Tetris, The (USA)">
+    <description>Next Tetris, The (USA)</description>
+    <rom name="Next Tetris, The (USA).chd" size="2377810275" crc="318EC5B6" sha1="97CEB8F1C8E6CA3F8B62381655BDB7F1A00D7079" />
+  </game>
+  <game name="Space Invaders XL (USA)">
+    <description>Space Invaders XL (USA)</description>
+    <rom name="Space Invaders XL (USA).chd" size="215827632" crc="2E4ED4AB" sha1="0D96DE95DE69C49638C1F54093878E1A401EFE04" />
+  </game>
+  <game name="Tempest 3000 (USA, Europe)">
+    <description>Tempest 3000 (USA, Europe)</description>
+    <rom name="Tempest 3000 (USA, Europe).chd" size="512177503" crc="A472C2FD" sha1="59CCBB1D15FE4E52B5F0E1EF7A91D13FA4186B08" />
+  </game>
+  <game name="jm3\jjangguneun monmallyeo 3 - doraon jjanggu (korea)">
+    <description>jm3\jjangguneun monmallyeo 3 - doraon jjanggu (korea)</description>
+    <rom name="jm3\jjangguneun monmallyeo 3 - doraon jjanggu (korea).chd" size="118953656" crc="4DCDA58A" sha1="36D3EAFFA59B4D61F2ABEDDE04515401DC4BE5B8" />
+  </game>
+</datafile>

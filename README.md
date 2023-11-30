@@ -1,7 +1,7 @@
-# MAME Redump 0.260
+# MAME Redump 0.261
 
-The aim of the MAME Redump project is to convert the redump sets into formats that are low on disk space, such as the chd format. Gamecube and Wii sets have been converted to Nkit format.
-All MAME CHDs (if available) should be also merged or included.
+The aim of the MAME Redump project is to convert the redump sets into formats that are low on disk space, such as the chd format. Gamecube and Wii sets have been converted to NKit2 RVZ format (zstd-19-128k).
+All MAME CHDs are prioritized merged or included.
 
 This project uses the track information stored in the MAME CHD files. Gamecube and Wii Games are only matched by name for now.
 The program to read out this information or to merge the sets are not yet public because they are still in a very early stage.
@@ -57,7 +57,7 @@ Commodore - Amiga CD32|2023-09-20|228|1|26 GB|cd32|9 GB
 **Commodore - Amiga CDTV**|2023-07-29|152|0|19 GB|cdtv|7 GB
 **Fujitsu - FM-Towns**|2023-10-24|948|0|140 GB|fmtowns_cd|132 GB
 ~~funworld - Photo Play~~|2020-01-21|0|3|||
-*IBM - PC compatible*|2023-10-25|601|43755|158 GB|ibm5170_cdrom|18 GB
+*IBM - PC compatible*|2023-10-25|622|43734|160 GB|ibm5170_cdrom|20 GB
 **Incredible Technologies - Eagle**|2023-04-07|7|0|3 GB||
 **Mattel - Fisher-Price iXL**|2023-08-07|26|0|2 GB||
 **Mattel - HyperScan**|2023-05-03|7|0|396 MB||
@@ -68,8 +68,8 @@ NEC - PC Engine CD & TurboGrafx CD|2023-10-17|1033|2|232 GB|pcecd|
 **NEC - PC-88 series**|2014-10-07|1|0|288 MB|pc8801_cdrom|288 MB
 NEC - PC-98 series|2023-10-24|299|1|48 GB|pc98_cd|12 GB
 **NEC - PC-FX**|2022-09-14|78|0|30 GB|pcfx|5 GB
-Nintendo - GameCube|2023-10-24|1975|9|2 TB||
-Nintendo - Wii|2023-10-24|3609|161|6 TB||
+Nintendo - GameCube|2023-10-24|1982|2|1 TB||
+**Nintendo - Wii**|2023-10-24|3770|0|6 TB||
 Palm|2023-10-09|120|2|11 GB||
 ~~Panasonic - 3DO Interactive Multiplayer~~|2023-10-17|0|637|||
 Philips - CD-i|2023-10-24|2128|15|600 GB|cdi|136 GB
@@ -88,7 +88,7 @@ Sega - Mega-CD - Sega CD|2023-09-20|807|1|186 GB|megacd, megacdj, segacd|62 GB
 Sony - PlayStation|2023-10-24|11543|14|3 TB|psx|552 GB
 **TAB-Austria - Quizard**|2023-09-13|15|0|4 GB||
 **Tomy - Kiss-Site**|2023-07-31|27|0|3 GB||
-VM Labs - NUON|2023-10-21|7|2|6 GB|nuon|6 GB
+VM Labs - NUON|2023-10-21|8|2|6 GB|nuon|5 GB
 **VTech - V.Flash & V.Smile Pro**|2023-09-22|58|0|10 GB|vsmile_cd|4 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2021-10-06|16|0|49 GB||
-Total||36767|64746|20 TB||1 TB
+Total||36957|64557|20 TB||1 TB

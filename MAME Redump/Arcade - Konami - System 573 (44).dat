@@ -4,56 +4,185 @@
   <header>
     <name>Arcade - Konami - System 573</name>
     <description>MAME Redump - Arcade - Konami - System 573 - Discs (44) (2023-04-06 17-39-09)</description>
-    <version>0.260</version>
-    <date>2023-10-27</date>
+    <version>0.261</version>
+    <date>2023-11-30</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
   </header>
-  <game name="Arcade - Konami - System 573">
-    <description>MAME Redump - Arcade - Konami - System 573 - Discs (44) (2023-04-06 17-39-09)</description>
+  <game name="Bass Angler (Japan)">
+    <description>Bass Angler (Japan)</description>
     <rom name="Bass Angler (Japan).chd" size="22042181" crc="C3F9DE57" sha1="D55F50FD73192EC8E970F913D5583C8051A36C8F" />
+  </game>
+  <game name="Dance Dance Revolution - Internet Ranking Kit (Japan)">
+    <description>Dance Dance Revolution - Internet Ranking Kit (Japan)</description>
     <rom name="Dance Dance Revolution - Internet Ranking Kit (Japan).chd" size="215693797" crc="2D5C2E66" sha1="BA987F5854367E1AB74C3104DCAFB7A471F4E0B8" />
+  </game>
+  <game name="Dance Dance Revolution 3rd Mix - Ver. Korea 2 (Korea)">
+    <description>Dance Dance Revolution 3rd Mix - Ver. Korea 2 (Korea)</description>
     <rom name="Dance Dance Revolution 3rd Mix - Ver. Korea 2 (Korea).chd" size="170557725" crc="28396C6D" sha1="E8FCEA0C214635A065EC0B000BDA3BB18464323D" />
+  </game>
+  <game name="Dance Dance Revolution 3rd Mix (Asia)">
+    <description>Dance Dance Revolution 3rd Mix (Asia)</description>
     <rom name="Dance Dance Revolution 3rd Mix (Asia).chd" size="137856080" crc="3E450F15" sha1="46F6CF350F0D30932FB29D2C4418F79F07392BBC" />
+  </game>
+  <game name="Dance Dance Revolution 3rd Mix (Japan)">
+    <description>Dance Dance Revolution 3rd Mix (Japan)</description>
     <rom name="Dance Dance Revolution 3rd Mix (Japan).chd" size="150901724" crc="1DED102E" sha1="3234FB821A3EE70348CAD067558EEDA2D547F9C8" />
+  </game>
+  <game name="Dance Dance Revolution 3rd Mix Plus (Japan)">
+    <description>Dance Dance Revolution 3rd Mix Plus (Japan)</description>
     <rom name="Dance Dance Revolution 3rd Mix Plus (Japan).chd" size="181882009" crc="D84D62DC" sha1="B8C8964683E93472FE4CF72808176CCE0F36BAE2" />
+  </game>
+  <game name="Dance Dance Revolution Club Kit - Dance Dance Revolution 2nd Mix-you (Japan)">
+    <description>Dance Dance Revolution Club Kit - Dance Dance Revolution 2nd Mix-you (Japan)</description>
     <rom name="Dance Dance Revolution Club Kit - Dance Dance Revolution 2nd Mix-you (Japan).chd" size="12728769" crc="C92BF053" sha1="04D1ABA4693CF1DE19348F710CE3632F691D8B15" />
+  </game>
+  <game name="Dance Dance Revolution Solo - Bass Mix (Japan)">
+    <description>Dance Dance Revolution Solo - Bass Mix (Japan)</description>
     <rom name="Dance Dance Revolution Solo - Bass Mix (Japan).chd" size="83819125" crc="E926591B" sha1="C4C3D4E473C6EC45AD0880C93B63013C894DD3FA" />
+  </game>
+  <game name="Dancing Stage featuring True Kiss Destination (Japan)">
+    <description>Dancing Stage featuring True Kiss Destination (Japan)</description>
     <rom name="Dancing Stage featuring True Kiss Destination (Japan).chd" size="176611136" crc="ED02CB47" sha1="A0AB7D43EDC958542337CED015DE33640AC454B3" />
+  </game>
+  <game name="Dark Horse Legend (Japan)">
+    <description>Dark Horse Legend (Japan)</description>
     <rom name="Dark Horse Legend (Japan).chd" size="165889832" crc="31F8B907" sha1="FC66522652035E3F341549FBDB2552A027E8F355" />
+  </game>
+  <game name="DrumMania (Japan)">
+    <description>DrumMania (Japan)</description>
     <rom name="DrumMania (Japan).chd" size="12058225" crc="D85ED0E7" sha1="27BA4D353E196C1C76A0B11F8F266CBC7C4B6839" />
+  </game>
+  <game name="DrumMania 10th Mix (Japan) (Application Disc)">
+    <description>DrumMania 10th Mix (Japan) (Application Disc)</description>
     <rom name="DrumMania 10th Mix (Japan) (Application Disc).chd" size="312020579" crc="F465D5D9" sha1="AC6E7435DC95049E8E10C96BE8D583EE81C43A0F" />
+  </game>
+  <game name="DrumMania 10th Mix (Japan) (e-Amusement Disc)">
+    <description>DrumMania 10th Mix (Japan) (e-Amusement Disc)</description>
     <rom name="DrumMania 10th Mix (Japan) (e-Amusement Disc).chd" size="392387548" crc="037C50B0" sha1="997ED107F37646E24D7317490B8E860D6EF3725E" />
+  </game>
+  <game name="DrumMania 10th Mix (Japan) (MultiSession Disc)">
+    <description>DrumMania 10th Mix (Japan) (MultiSession Disc)</description>
     <rom name="DrumMania 10th Mix (Japan) (MultiSession Disc).chd" size="635505519" crc="514750EC" sha1="A5A48339E084DDE9EF7FCA812AAAE3D8B4342742" />
+  </game>
+  <game name="DrumMania 2nd Mix (Japan)">
+    <description>DrumMania 2nd Mix (Japan)</description>
     <rom name="DrumMania 2nd Mix (Japan).chd" size="181649841" crc="8A7B85B8" sha1="2342D7BCEE209C99B00136A29371399EE000E263" />
+  </game>
+  <game name="DrumMania 6th Mix (Japan)">
+    <description>DrumMania 6th Mix (Japan)</description>
     <rom name="DrumMania 6th Mix (Japan).chd" size="246105564" crc="9948E796" sha1="3A1BA87CAE897A86A1F81F31155B9EBDE60E3D4E" />
+  </game>
+  <game name="DrumMania 6th Mix (Japan) (MultiSession)">
+    <description>DrumMania 6th Mix (Japan) (MultiSession)</description>
     <rom name="DrumMania 6th Mix (Japan) (MultiSession).chd" size="290862621" crc="C4B92EEE" sha1="449E9A4A4065C2BD3D34FF73E3936901747BEB4D" />
+  </game>
+  <game name="DrumMania 8th Mix (Japan)">
+    <description>DrumMania 8th Mix (Japan)</description>
     <rom name="DrumMania 8th Mix (Japan).chd" size="307440188" crc="E8DAE4C9" sha1="FAE00C042CC717EE89AEF8A95FF28AD92B5AC90F" />
+  </game>
+  <game name="DrumMania 8th Mix (Japan) (MultiSession)">
+    <description>DrumMania 8th Mix (Japan) (MultiSession)</description>
     <rom name="DrumMania 8th Mix (Japan) (MultiSession).chd" size="374646719" crc="00515BA9" sha1="6B49B54DCCCCA598745E734D2066E61FE82F3D56" />
+  </game>
+  <game name="DrumMania 9th Mix (Japan) (e-Amusement Disc)">
+    <description>DrumMania 9th Mix (Japan) (e-Amusement Disc)</description>
     <rom name="DrumMania 9th Mix (Japan) (e-Amusement Disc).chd" size="195664498" crc="52319937" sha1="D76F6BFFDBC5432FE52A6F295EEBD050F8F7C452" />
+  </game>
+  <game name="DrumMania 9th Mix (Japan) (Game Disc)">
+    <description>DrumMania 9th Mix (Japan) (Game Disc)</description>
     <rom name="DrumMania 9th Mix (Japan) (Game Disc).chd" size="303151926" crc="28F02D7D" sha1="D7F57DBA45D76764CE8DE692D5E4636A8F1011C2" />
+  </game>
+  <game name="DrumMania 9th Mix (Japan) (MultiSession Disc)">
+    <description>DrumMania 9th Mix (Japan) (MultiSession Disc)</description>
     <rom name="DrumMania 9th Mix (Japan) (MultiSession Disc).chd" size="493448470" crc="8DAB4FB2" sha1="51266C8BB6C8B0C6ED29C2C87F15010305336AB6" />
+  </game>
+  <game name="DrumMania 9th Mix (Japan) (Update Disc)">
+    <description>DrumMania 9th Mix (Japan) (Update Disc)</description>
     <rom name="DrumMania 9th Mix (Japan) (Update Disc).chd" size="5106486" crc="5F9036E2" sha1="8F64F2C76FED13AD13D991B2A65E8670158EA641" />
+  </game>
+  <game name="Fisherman's Bait - A Bass Challenge (USA) (UAA)">
+    <description>Fisherman's Bait - A Bass Challenge (USA) (UAA)</description>
     <rom name="Fisherman's Bait - A Bass Challenge (USA) (UAA).chd" size="22010904" crc="6B031BCC" sha1="BE742971282127D4AE987DE93F1405E7C938EA55" />
+  </game>
+  <game name="Fisherman's Bait - A Bass Challenge (USA) (UAB)">
+    <description>Fisherman's Bait - A Bass Challenge (USA) (UAB)</description>
     <rom name="Fisherman's Bait - A Bass Challenge (USA) (UAB).chd" size="22014545" crc="58774A80" sha1="868BEBC8430F45A9416F7CB23BD4775A50675499" />
+  </game>
+  <game name="Fisherman's Bait - Marlin Challenge (World)">
+    <description>Fisherman's Bait - Marlin Challenge (World)</description>
     <rom name="Fisherman's Bait - Marlin Challenge (World).chd" size="9167580" crc="85AECDC8" sha1="A5FDD14064E40C065C078C7D5ABC46A8A12CB16C" />
+  </game>
+  <game name="GuitarFreaks (World)">
+    <description>GuitarFreaks (World)</description>
     <rom name="GuitarFreaks (World).chd" size="461951318" crc="5B0AF23C" sha1="52A82C8B06EBA60AE51047466943E9D9FF9D5A91" />
+  </game>
+  <game name="GuitarFreaks 10th Mix (Japan) (e-Amusement Disc)">
+    <description>GuitarFreaks 10th Mix (Japan) (e-Amusement Disc)</description>
     <rom name="GuitarFreaks 10th Mix (Japan) (e-Amusement Disc).chd" size="171592514" crc="AD321C21" sha1="05683754FA5DB5361319B39B826BAE737F316B6A" />
+  </game>
+  <game name="GuitarFreaks 2nd Mix (Japan)">
+    <description>GuitarFreaks 2nd Mix (Japan)</description>
     <rom name="GuitarFreaks 2nd Mix (Japan).chd" size="19075853" crc="8E478CED" sha1="720B904F9E2EA8FF6347C4A3319D51F227558C85" />
+  </game>
+  <game name="GuitarFreaks 3rd Mix (Japan)">
+    <description>GuitarFreaks 3rd Mix (Japan)</description>
     <rom name="GuitarFreaks 3rd Mix (Japan).chd" size="231628567" crc="8D924E50" sha1="A97AE0B75D41A1D34D77CE99DFFC713361DF7C7C" />
+  </game>
+  <game name="GuitarFreaks 4th Mix (Japan)">
+    <description>GuitarFreaks 4th Mix (Japan)</description>
     <rom name="GuitarFreaks 4th Mix (Japan).chd" size="354732182" crc="EF591873" sha1="C16D8CFE5EC3F28F86302D4B8B9C7B210081754C" />
+  </game>
+  <game name="GuitarFreaks 5th Mix (Japan)">
+    <description>GuitarFreaks 5th Mix (Japan)</description>
     <rom name="GuitarFreaks 5th Mix (Japan).chd" size="503311029" crc="4A09C964" sha1="F6187E996DCD2D731C9A6C770F8BB7BC5C2204AC" />
+  </game>
+  <game name="GuitarFreaks 8th Mix - Power-Up Ver. (Japan)">
+    <description>GuitarFreaks 8th Mix - Power-Up Ver. (Japan)</description>
     <rom name="GuitarFreaks 8th Mix - Power-Up Ver. (Japan).chd" size="518040737" crc="613CFBE8" sha1="E4F001C7CE16C2F02BB466BFEDDD68A0EFB16876" />
+  </game>
+  <game name="GuitarFreaks 9th Mix (Japan)">
+    <description>GuitarFreaks 9th Mix (Japan)</description>
     <rom name="GuitarFreaks 9th Mix (Japan).chd" size="524192221" crc="10EE1F63" sha1="B8508792479BAAE9C305A9B6004F4CAD9CFA4A47" />
+  </game>
+  <game name="GuitarFreaks Link Kit 1 (Japan) (Memory Card Taiou)">
+    <description>GuitarFreaks Link Kit 1 (Japan) (Memory Card Taiou)</description>
     <rom name="GuitarFreaks Link Kit 1 (Japan) (Memory Card Taiou).chd" size="492829990" crc="0DB90E27" sha1="08F28524FE4FA90DB34EDE470CC319A5EB1461AB" />
+  </game>
+  <game name="GX700 Series CD-ROM Drive Updater (World)">
+    <description>GX700 Series CD-ROM Drive Updater (World)</description>
     <rom name="GX700 Series CD-ROM Drive Updater (World).chd" size="85897" crc="9E7A394C" sha1="ACF7960F499EE6D3156BA9E3943B919E1466B978" />
+  </game>
+  <game name="GX700 Series CD-ROM Drive Updater 2.0 (World)">
+    <description>GX700 Series CD-ROM Drive Updater 2.0 (World)</description>
     <rom name="GX700 Series CD-ROM Drive Updater 2.0 (World).chd" size="87318" crc="909F4162" sha1="597CABE9C80E7E72B2AF1215580BBC6940115AC7" />
+  </game>
+  <game name="Hyper Bishi Bashi Champ (World)">
+    <description>Hyper Bishi Bashi Champ (World)</description>
     <rom name="Hyper Bishi Bashi Champ (World).chd" size="15964274" crc="69677A08" sha1="6AFA5DC13099E1D4864CEB388FB8025A69089E28" />
+  </game>
+  <game name="Jikkyou Powerful Pro Yakyuu EX (Japan)">
+    <description>Jikkyou Powerful Pro Yakyuu EX (Japan)</description>
     <rom name="Jikkyou Powerful Pro Yakyuu EX (Japan).chd" size="14552253" crc="2D496685" sha1="C80B743DF48B022318A2EB8516EB19C76A760425" />
+  </game>
+  <game name="Jikkyou Powerful Pro Yakyuu EX '98 (Japan)">
+    <description>Jikkyou Powerful Pro Yakyuu EX '98 (Japan)</description>
     <rom name="Jikkyou Powerful Pro Yakyuu EX '98 (Japan).chd" size="15223836" crc="1012B954" sha1="5A1CF4D2C4F122353460B3C0598D3F2907C2B696" />
+  </game>
+  <game name="Mambo a Go Go (Japan)">
+    <description>Mambo a Go Go (Japan)</description>
     <rom name="Mambo a Go Go (Japan).chd" size="167646608" crc="539B08CA" sha1="12CAB2DA76BDBC9C47B7596C52C6021B3A45169E" />
+  </game>
+  <game name="Punch Mania - Hokuto no Ken 2 - Gekitou Shura no Kuni-hen (Japan)">
+    <description>Punch Mania - Hokuto no Ken 2 - Gekitou Shura no Kuni-hen (Japan)</description>
     <rom name="Punch Mania - Hokuto no Ken 2 - Gekitou Shura no Kuni-hen (Japan).chd" size="98566024" crc="5DE80534" sha1="6EABCC321F4616D2B47D3C16252211AD43F540FB" />
+  </game>
+  <game name="Salaryman Champ - Tatakau Salaryman (Japan)">
+    <description>Salaryman Champ - Tatakau Salaryman (Japan)</description>
     <rom name="Salaryman Champ - Tatakau Salaryman (Japan).chd" size="6254391" crc="DD6F638C" sha1="C49E8A9BFD80B6CB2DA39F97E732F26A1D026C91" />
+  </game>
+  <game name="Session Power Up Kit for DrumMania 2nd Mix &amp; PercussionFreaks 2nd Mix (Japan, Asia)">
+    <description>Session Power Up Kit for DrumMania 2nd Mix &amp; PercussionFreaks 2nd Mix (Japan, Asia)</description>
     <rom name="Session Power Up Kit for DrumMania 2nd Mix &amp; PercussionFreaks 2nd Mix (Japan, Asia).chd" size="94427" crc="991D5896" sha1="943503FC9FBEFD5019DBCE94D234E7EAE6505E39" />
   </game>
 </datafile>
