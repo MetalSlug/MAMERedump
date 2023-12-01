@@ -6,7 +6,7 @@ All MAME CHDs are prioritized merged or included.
 This project uses the track information stored in the MAME CHD files. Gamecube and Wii Games are only matched by name for now.
 The program to read out this information or to merge the sets are not yet public because they are still in a very early stage.
 
-# Attention / Disclaimber
+# Attention / Disclaimer
 
 - Use this at your own risk
 - Backup your files before using any of the files provided here
