@@ -5,29 +5,10 @@
     <name>NEC - PC Engine CD &amp; TurboGrafx CD</name>
     <description>MAME Redump - NEC - PC Engine CD &amp; TurboGrafx CD - Discs (543) (2023-10-17 12-57-04)</description>
     <version>0.261</version>
-    <date>2023-11-30</date>
+    <date>2023-12-04</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
   </header>
-  <game name="Jessie Jaeger in Cleopatra's Curse (World) (Unl)">
-    <description>Jessie Jaeger in Cleopatra's Curse (World) (Unl)</description>
-    <rom name="Jessie Jaeger in Cleopatra's Curse (World) (Unl).cue" size="1851" crc="17DFE61A" md5="E00C82B52303DCDCB35BC33CFE4134C4" sha1="6367A535DD507CF7E2E408FDF0E68E5C26516B6A" />
-    <rom name="Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Track 01).bin" size="910224" crc="ECD234B8" md5="6D76D1791A86A50EB78644C12736ECCD" sha1="80BAF55BE618F17A73FAC830B64D3D2C23D631CD" />
-    <rom name="Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Track 02).bin" size="3370416" crc="F917F093" md5="30E85E7F9A7BC31935B34D7DDC20B6CD" sha1="1D999569B014BC5D44BBC54937BF778E1BCE66A6" />
-    <rom name="Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Track 03).bin" size="34520304" crc="D6DDB667" md5="B13D5F9F3B91CAE45D60AB58DC9BE82C" sha1="1C09E86B34212C87AC8B60B050166716B5D187AA" />
-    <rom name="Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Track 04).bin" size="38669232" crc="B24FD4F5" md5="02FC1BBCD3195FA3AAB025B70A93ACF5" sha1="7E53E8039020790203EE8787BEA410FFBC271E60" />
-    <rom name="Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Track 05).bin" size="34275696" crc="DDE9B347" md5="A2460103C475E27FA6DF92AD1B9D48C8" sha1="92837C876481A317F2FFB09173EBBF2E7A7A568A" />
-    <rom name="Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Track 06).bin" size="33443088" crc="180D59D4" md5="7BFE71FD5E53856A10DFEF4D96B09F43" sha1="9FD3E8879E37CEAAD07BC219B7ECF6E23EF8E4EA" />
-    <rom name="Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Track 07).bin" size="34061664" crc="C19E3E3D" md5="76E52CFA83D6181ED6403A39305737C2" sha1="1A5EB369B44905A728E966EFFA7B6F709FFA3627" />
-    <rom name="Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Track 08).bin" size="38010672" crc="170AD6B6" md5="F1B614D03194C571A27F1D7D96DD2FD1" sha1="2052DF430AD0618FADC08EFEDE0372DD3BF13D8B" />
-    <rom name="Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Track 09).bin" size="40955376" crc="55194680" md5="92860C5FF71838A9B1CF57F2F3EF409D" sha1="4E379B51DCAD60015ABCBB21949D1FCF76440B8A" />
-    <rom name="Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Track 10).bin" size="39007920" crc="5CFFEB67" md5="9270A882A35B34B2B3FAF25DF0748897" sha1="1920C4457FAC969855E9CB25CB3937AC6D2F15C0" />
-    <rom name="Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Track 11).bin" size="45694656" crc="67023E47" md5="BAA60812EFFC0599C24EF45BDAAF0000" sha1="004D47041559237F0D1D0ABC65514BD89530025E" />
-    <rom name="Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Track 12).bin" size="6148128" crc="43451F2C" md5="5463A1CB8FA0EBB7DFCA060598A73DCE" sha1="98D024F2534DBB52D454BE95FF9D0AEBE554A1A6" />
-    <rom name="Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Track 13).bin" size="30933504" crc="B9C55C8C" md5="0B7FF09FC786D11FF4A58A3227C5C771" sha1="834D2E32CFCE1FAB36CF2E3FCB38235B5C0644C1" />
-    <rom name="Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Track 14).bin" size="2443728" crc="09CD217F" md5="D401EE911A337AF41E4912769113B238" sha1="B17AE5E8AA7530FA530CE668D6B5965092902624" />
-    <rom name="Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Track 15).bin" size="42354816" crc="30D7CE04" md5="783640B2EC296DB61A2E0EB933DAB8FA" sha1="AA322DA0E0CF9EB23D4092F5985DD2E47AB031B0" />
-  </game>
   <game name="Ys Book I &amp; II (USA) (Alt)">
     <description>Ys Book I &amp; II (USA) (Alt)</description>
     <rom name="Ys Book I &amp; II (USA) (Alt).cue" size="4288" crc="25FE8E46" md5="C105C7231249CA3BFB182BAA3BFDDAED" sha1="EA54E92D3A01CF77E10DF7425E78AAD87AD4A24B" />
