@@ -4,8 +4,8 @@
 	<header>
 		<name>Tomy - Kiss-Site</name>
 		<description>Tomy - Kiss-Site</description>
-		<version>0.260</version>
-		<date>2023-09-07</date>
+		<version>0.262</version>
+		<date>2023-11-30</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -18,6 +18,28 @@
 		<rom name="Anime Karaoke Series - Pocket Monsters 1 (Japan) (Track 04).bin" size="37441488" crc="3b74f264" md5="77271c78b146972bb706cea7724f7256" sha1="f21d4b6aea62b571a0c6014c6d6ce2fb1f890146"/>
 		<rom name="Anime Karaoke Series - Pocket Monsters 1 (Japan) (Track 05).bin" size="16520448" crc="e64f8138" md5="fcb9e57a6f985b3247071a2062bcfa8a" sha1="810cc433d07e8147d0a33c616a3d73438aba136c"/>
 	</game>
+	<game name="Dance Karaoke Series - Best Selection (Japan)" sha1="800b8eab9aa069c95606a7d0a6d5955d2090955a" size="434359719" crc="c33c6766" fullsha1="0fb3bc12d868ad0022c242894bfa2dd2ae0de363" dataSha1="41c48e26be8f43895016095990329af1c4cbd927">
+		<category>Games</category>
+		<description>Dance Karaoke Series - Best Selection (Japan)</description>
+		<rom name="Dance Karaoke Series - Best Selection (Japan) (Track 01).bin" size="729120" crc="d9a9e191" md5="ca62276a4376841f9989dce00db9171d" sha1="4961fc595792bc8928a4085de4f3ff24ddc8615a"/>
+		<rom name="Dance Karaoke Series - Best Selection (Japan) (Track 02).bin" size="2528400" crc="f1d54e01" md5="5e0df4cdc8fb32a9bda1412df04fba0d" sha1="950094171f39fc9161cdfee5a261377817511cbd"/>
+		<rom name="Dance Karaoke Series - Best Selection (Japan) (Track 03).bin" size="52103856" crc="1392b5da" md5="d9759d0f5e79c3d75bf7b2a72dc79288" sha1="a65c3ea885141df2b5c71f34cfb8a9faf6c34bf2"/>
+		<rom name="Dance Karaoke Series - Best Selection (Japan) (Track 04).bin" size="8742384" crc="0b1aacc3" md5="9fbc841661da402e8f59871d8360abe8" sha1="a689e346d7dc40f96d10f2adf4d987cc28c74d4b"/>
+		<rom name="Dance Karaoke Series - Best Selection (Japan) (Track 05).bin" size="50843184" crc="76c30845" md5="5c268f0d9075cbe8cc428c5d6c49162f" sha1="b7c7d5db596c49528e43a676701048ee258cd462"/>
+		<rom name="Dance Karaoke Series - Best Selection (Japan) (Track 06).bin" size="6926640" crc="77245416" md5="e705b4edc3e61da9adaf5a65718be6da" sha1="4f9253d93e59933aea9f53f400959f30b1c86d2c"/>
+		<rom name="Dance Karaoke Series - Best Selection (Japan) (Track 07).bin" size="46188576" crc="367bd15e" md5="d0a99ce733948d36cee31ffd7280d809" sha1="5c05af1691479043e20b978c3b127813b174051f"/>
+		<rom name="Dance Karaoke Series - Best Selection (Japan) (Track 08).bin" size="18077472" crc="a6747d8e" md5="8089f2277e8180efe34ba6e43a62a174" sha1="4ae6d56a31e2f4ea2053f550544c70d80df54673"/>
+		<rom name="Dance Karaoke Series - Best Selection (Japan) (Track 09).bin" size="52070928" crc="83dec49c" md5="488e9e64ac04a455fed1da2103fa5ebb" sha1="156b8c670f86653e1ac939fb5b8695da414a41d7"/>
+		<rom name="Dance Karaoke Series - Best Selection (Japan) (Track 10).bin" size="13277040" crc="6cee0e79" md5="b08a1ba98bc0e1ce21914dde61568680" sha1="476269fb3975d50f0c0dd81861cacc73e54a8ec4"/>
+		<rom name="Dance Karaoke Series - Best Selection (Japan) (Track 11).bin" size="47707968" crc="5703c81b" md5="6f9ff31b0611dee7ef4dd7a98d389ad2" sha1="1b0951840b6d3b3ced8cea03571f8c651b5ed49e"/>
+		<rom name="Dance Karaoke Series - Best Selection (Japan) (Track 12).bin" size="9332736" crc="632ca7e0" md5="362ddf483cc6db1db46bc8238e8e8db4" sha1="27c2e92af27288d2f8ba8336f9636a7639edf840"/>
+		<rom name="Dance Karaoke Series - Best Selection (Japan) (Track 13).bin" size="33280800" crc="2c87c8f4" md5="59f11a17b77b29df05b3096aef95c95b" sha1="c5cc007608436b1a7a544c4de8549dc6790b4e53"/>
+		<rom name="Dance Karaoke Series - Best Selection (Japan) (Track 14).bin" size="17677632" crc="8efb4473" md5="0f35cc2e8db2df3c304ca7a83384d773" sha1="ff40a3bd2beb6284f06ed0db2148fae410dbfb15"/>
+		<rom name="Dance Karaoke Series - Best Selection (Japan) (Track 15).bin" size="51569952" crc="19ed8357" md5="623e6340794aacaab0452ef165309cb7" sha1="e586d50f9f3bb1ae17504748e4e904310c9b63d6"/>
+		<rom name="Dance Karaoke Series - Best Selection (Japan) (Track 16).bin" size="12780768" crc="4c3594f4" md5="68ae9b41c4f999323861b315b4bee964" sha1="bae4e3686f64a9be7bdbc3ffb847c91af144c7b8"/>
+		<rom name="Dance Karaoke Series - Best Selection (Japan) (Track 17).bin" size="43683696" crc="284ebec5" md5="22e2e4dc1aa3b22882984b965ea79bdc" sha1="de7ad0018b2563ea4fe163de8e52b8d245f7fcf0"/>
+		<rom name="Dance Karaoke Series - Best Selection (Japan) (Track 18).bin" size="9450336" crc="58261b6a" md5="bee04ab6003b89775ea9042555527ae4" sha1="0c5e9eb6c4877d8b84b54ac84348c1dc6f389ca6"/>
+	</game>
 	<game name="Dance Karaoke Series 01 - Mickey Mouse March - Eurobeat Version &amp; White Love (Japan)" sha1="aea05e4ea36d129d9712f4bbbd179f21f42d098b" size="104483877" crc="a8598143" fullsha1="a0cf1cdb25f515814e8f774542ffba2e19a25372" dataSha1="ed3f83ad030d86739c99b416f67a779599e2158e">
 		<category>Games</category>
 		<description>Dance Karaoke Series 01 - Mickey Mouse March - Eurobeat Version &amp; White Love (Japan)</description>
@@ -25,6 +47,14 @@
 		<rom name="Dance Karaoke Series 01 - Mickey Mouse March - Eurobeat Version &amp; White Love (Japan) (Track 02).bin" size="2495472" crc="adcf8ab8" md5="cfcf73bb1641ed5dc9447027b8de357e" sha1="1a81881ab1fe486e7705436dc9b12ab95714f5be"/>
 		<rom name="Dance Karaoke Series 01 - Mickey Mouse March - Eurobeat Version &amp; White Love (Japan) (Track 03).bin" size="46120368" crc="aaa64bd8" md5="57485242da268fef0e21601b59950b7f" sha1="9b25f6309c90e3c28fc192883aedfcc38a5e8496"/>
 		<rom name="Dance Karaoke Series 01 - Mickey Mouse March - Eurobeat Version &amp; White Love (Japan) (Track 04).bin" size="61189632" crc="359513fb" md5="ed4ce2aac9e57b4f8e986b712a29cc4a" sha1="f5b12aa80a8a35190ce5b01910d227d1043727e8"/>
+	</game>
+	<game name="Dance Karaoke Series 02 - LOVE Machine &amp; Goldfinger '99 (Japan)" sha1="c487f209262f25b729f087c07b39c0470410e61e" size="97020462" crc="c447e911" fullsha1="7547f626537c1daf1e4f4351092092ba685c9e8e" dataSha1="1c8bebe4e5821ea68427ec46436d2369f819ceaa">
+		<category>Games</category>
+		<description>Dance Karaoke Series 02 - LOVE Machine &amp; Goldfinger '99 (Japan)</description>
+		<rom name="Dance Karaoke Series 02 - LOVE Machine &amp; Goldfinger '99 (Japan) (Track 01).bin" size="729120" crc="de18f08c" md5="eb0e600a258b8bba85fffd66acfcd448" sha1="72a30ae36f0f4646d10c80f94ff61901536cc178"/>
+		<rom name="Dance Karaoke Series 02 - LOVE Machine &amp; Goldfinger '99 (Japan) (Track 02).bin" size="2495472" crc="adcf8ab8" md5="cfcf73bb1641ed5dc9447027b8de357e" sha1="1a81881ab1fe486e7705436dc9b12ab95714f5be"/>
+		<rom name="Dance Karaoke Series 02 - LOVE Machine &amp; Goldfinger '99 (Japan) (Track 03).bin" size="55062672" crc="7892a121" md5="7dc4c0ec6aff7323741c516d4d965646" sha1="bd33e6c76c1cab57488f49f15ffbd41389d14ba1"/>
+		<rom name="Dance Karaoke Series 02 - LOVE Machine &amp; Goldfinger '99 (Japan) (Track 04).bin" size="44843232" crc="d9bba5ca" md5="8a080609bb895bcaa532bb5d6399d7fc" sha1="ab9d5e4db8137181dc0c6d837febcbd6c99bd4fc"/>
 	</game>
 	<game name="Dance Karaoke Series 03 - Happy Summer Wedding &amp; Nanda Kanda (Japan)" sha1="5593b0aa6522f454b0359909e515fc25a5e71fc3" size="86629179" crc="081479cd" fullsha1="a79a08c0d26cf8010ddd9c9d37ba1e2de3d45426" dataSha1="9d98c86665cc8cb9f1bc79e7e4b3a81cadb3ca25">
 		<category>Games</category>
@@ -169,6 +199,14 @@
 		<rom name="Dance Karaoke Series 20 - Love 2000 &amp; Seishun Jidai 1.2.3! (Japan) (Track 02).bin" size="2495472" crc="adcf8ab8" md5="cfcf73bb1641ed5dc9447027b8de357e" sha1="1a81881ab1fe486e7705436dc9b12ab95714f5be"/>
 		<rom name="Dance Karaoke Series 20 - Love 2000 &amp; Seishun Jidai 1.2.3! (Japan) (Track 03).bin" size="54905088" crc="6bfa55be" md5="7f2c421cb724cf9fc380092abc1941b4" sha1="37dbb88ab42d91cd5fcfb6fd10e3850e54fcdf51"/>
 		<rom name="Dance Karaoke Series 20 - Love 2000 &amp; Seishun Jidai 1.2.3! (Japan) (Track 04).bin" size="57729840" crc="37b90d51" md5="4fc2c6d64255b4434feeda5f7f003ea5" sha1="937540ddd999a5df894907be08e11d9e204a2ea5"/>
+	</game>
+	<game name="Dance Karaoke Series 21 - I Wish &amp; Luv Is Magic (Japan)" sha1="90676aacdd03195492fa8f2400a164d985e5a584" size="93943901" crc="2aa86c58" fullsha1="b2a853bc96952035f4095338282a8fe33abb8bfa" dataSha1="6a6d5136df97bd9b06830c60c9732ba26d080c16">
+		<category>Games</category>
+		<description>Dance Karaoke Series 21 - I Wish &amp; Luv Is Magic (Japan)</description>
+		<rom name="Dance Karaoke Series 21 - I Wish &amp; Luv Is Magic (Japan) (Track 01).bin" size="729120" crc="2e0a2411" md5="cde3c3b66c1524c920618bac7b35440b" sha1="c3a45d5e0d705a5e16c910e9934963f3ed51f5a3"/>
+		<rom name="Dance Karaoke Series 21 - I Wish &amp; Luv Is Magic (Japan) (Track 02).bin" size="2495472" crc="adcf8ab8" md5="cfcf73bb1641ed5dc9447027b8de357e" sha1="1a81881ab1fe486e7705436dc9b12ab95714f5be"/>
+		<rom name="Dance Karaoke Series 21 - I Wish &amp; Luv Is Magic (Japan) (Track 03).bin" size="51381792" crc="b1bbdacf" md5="93814eee356583006682c05c71612a4e" sha1="437fe992b1118c697e54c46b10ae2ec0ccbfa6ce"/>
+		<rom name="Dance Karaoke Series 21 - I Wish &amp; Luv Is Magic (Japan) (Track 04).bin" size="47324592" crc="14cab326" md5="be0aed3355751195288108f503aa357f" sha1="831bc6180b73c6f1c063474658bb8431d4f29a80"/>
 	</game>
 	<game name="Dance Karaoke Series 22 - Barashoku no Hibi &amp; Ginga no Chikai (Japan)" sha1="ac3b94b5c82bcc1a63fe78a20207a119dc9dae45" size="89955935" crc="8a33aeed" fullsha1="081096002cda684476d8b86fc369fb2d37699002" dataSha1="e3eb20874d6ffbfcbf77c3fa7b5b4960cf778a64">
 		<category>Games</category>

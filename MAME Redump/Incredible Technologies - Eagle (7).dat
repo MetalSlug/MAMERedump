@@ -4,37 +4,37 @@
   <header>
     <name>Incredible Technologies - Eagle</name>
     <description>MAME Redump - Incredible Technologies - Eagle - Discs (7) (2023-04-07 23-42-32)</description>
-    <version>0.261</version>
-    <date>2023-11-30</date>
+    <version>0.262</version>
+    <date>2024-02-07</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
   </header>
-  <game name="Golden Tee Fore! 2002 (USA)">
+  <machine name="Golden Tee Fore! 2002 (USA)">
     <description>Golden Tee Fore! 2002 (USA)</description>
-    <rom name="Golden Tee Fore! 2002 (USA).chd" size="318468519" crc="983D0620" sha1="954828184D753C7CE484CA1F1FBF94169AB10B95" />
-  </game>
-  <game name="Golden Tee Fore! 2003 (USA) (v3.00.04)">
+    <disk name="Golden Tee Fore! 2002 (USA).chd" sha1="525ccfd713fa7de4c8ba7770cd0086726f0132cd" />
+  </machine>
+  <machine name="Golden Tee Fore! 2003 (USA) (v3.00.04)">
     <description>Golden Tee Fore! 2003 (USA) (v3.00.04)</description>
-    <rom name="Golden Tee Fore! 2003 (USA) (v3.00.04).chd" size="283017982" crc="2323BC8F" sha1="908075711D6577BB4F9FF231982E00796DCEBB64" />
-  </game>
-  <game name="Golden Tee Fore! 2004 (USA)">
+    <disk name="Golden Tee Fore! 2003 (USA) (v3.00.04).chd" sha1="29f5a04c15a9f6ccd49de2752545370077b2b4b8" />
+  </machine>
+  <machine name="Golden Tee Fore! 2004 (USA)">
     <description>Golden Tee Fore! 2004 (USA)</description>
-    <rom name="Golden Tee Fore! 2004 (USA).chd" size="620275736" crc="0A2CAF43" sha1="8CF052B6335546A6F5413FC0ABA7EE80828D52A4" />
-  </game>
-  <game name="Golden Tee Fore! 2004 Extra (USA)">
+    <disk name="Golden Tee Fore! 2004 (USA).chd" sha1="ceb65c40a34bcceed282fd9bfd79aa3a25e267dc" />
+  </machine>
+  <machine name="Golden Tee Fore! 2004 Extra (USA)">
     <description>Golden Tee Fore! 2004 Extra (USA)</description>
-    <rom name="Golden Tee Fore! 2004 Extra (USA).chd" size="61369640" crc="3CE99B7E" sha1="FAD145ECBF9E00B2BCB587F5E1B6BCA5FDFAEAC8" />
-  </game>
-  <game name="Golden Tee Fore! 2005 (USA)">
+    <disk name="Golden Tee Fore! 2004 Extra (USA).chd" sha1="e70320172dbcf1af4b8ef6d56d06b3e180b3b034" />
+  </machine>
+  <machine name="Golden Tee Fore! 2005 (USA)">
     <description>Golden Tee Fore! 2005 (USA)</description>
-    <rom name="Golden Tee Fore! 2005 (USA).chd" size="573135323" crc="ABED2A23" sha1="3743E81925EE697797D3B5317FF8E9964BC691D1" />
-  </game>
-  <game name="Golden Tee Fore! Complete (USA) (v6.00.01)">
+    <disk name="Golden Tee Fore! 2005 (USA).chd" sha1="6b92b048c89e4f75ad12892becb283b6a6533127" />
+  </machine>
+  <machine name="Golden Tee Fore! Complete (USA) (v6.00.01)">
     <description>Golden Tee Fore! Complete (USA) (v6.00.01)</description>
-    <rom name="Golden Tee Fore! Complete (USA) (v6.00.01).chd" size="466303575" crc="47B9CE51" sha1="C277CB60E79349C75EC22A0B1767514459C8415F" />
-  </game>
-  <game name="Golden Tee Fore! Complete (USA) (v6.00.xx)">
+    <disk name="Golden Tee Fore! Complete (USA) (v6.00.01).chd" sha1="616a323fd9b640cf945660c7469bcd4cec5d6166" />
+  </machine>
+  <machine name="Golden Tee Fore! Complete (USA) (v6.00.xx)">
     <description>Golden Tee Fore! Complete (USA) (v6.00.xx)</description>
-    <rom name="Golden Tee Fore! Complete (USA) (v6.00.xx).chd" size="466302130" crc="BFA82EE3" sha1="7D4A9A6D0893D4FA2FE5909578407D45B89B5893" />
-  </game>
+    <disk name="Golden Tee Fore! Complete (USA) (v6.00.xx).chd" sha1="f201f872f9018cde0caf43a898344cdedf66cab0" />
+  </machine>
 </datafile>

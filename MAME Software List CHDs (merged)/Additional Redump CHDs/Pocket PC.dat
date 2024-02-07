@@ -4,8 +4,8 @@
 	<header>
 		<name>Pocket PC</name>
 		<description>Pocket PC</description>
-		<version>0.260</version>
-		<date>2023-09-07</date>
+		<version>0.262</version>
+		<date>2023-11-30</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -169,6 +169,11 @@
 		<description>Pow Wow - Animalcraft (Japan)</description>
 		<rom name="Pow Wow - Animalcraft (Japan) (Track 01).bin" size="17287200" crc="be14e6c8" md5="af4c418c7dcb0e66ab54ee99452fdd66" sha1="9b2f431dfbe2200b096163d26ccf6d8163a4f9db"/>
 	</game>
+	<game name="PowerBuyer 6.5 (Japan)" sha1="52c871db11f5922756f7dc31e169da73441a72bb" size="364752262" crc="034d4d4a" fullsha1="1a34dc87726e6e5ab4c0e8ca7ddc50b95a7b71cc" dataSha1="3bcb2ea85edbe02af1f51f50ed5b07381f137e48">
+		<category>Games</category>
+		<description>PowerBuyer 6.5 (Japan)</description>
+		<rom name="PowerBuyer 6.5 (Japan) (Track 01).bin" size="444415104" crc="c33b0f77" md5="3cb94eaf41f2df014642bfe6ba13d761" sha1="7ece22e12bd0442fdd0191bfe065a868d6ed9507"/>
+	</game>
 	<game name="Rayman (Japan) (En,Ja)" sha1="4886a76c179349534a8a546d82646e4389c07cdb" size="69682450" crc="fc04b21c" fullsha1="5f6ec4ca14f757a23695ddd03f2e02ff72774669" dataSha1="b8d6c7a29972ee95c12e548d1e3e371b5b0dd759">
 		<category>Games</category>
 		<description>Rayman (Japan) (En,Ja)</description>
@@ -203,6 +208,11 @@
 		<category>Games</category>
 		<description>Socket Low Power SDIO WLAN (USA)</description>
 		<rom name="Socket Low Power SDIO WLAN (USA) (Track 01).bin" size="53776128" crc="127a39d8" md5="d6798ad193873876635b151e2eb6648f" sha1="bbdf6d602eba1c350f6c1d4eff4b81bd63f00439"/>
+	</game>
+	<game name="TOEIC Test no Tame no Pocket PC Soft (Japan) (En,Ja)" sha1="12fb1f7b84e98654144cecac70aaf9573b45a697" size="86484992" crc="b0666887" fullsha1="7503422f9e561cfcc73aeee6b034b0d6f9757f13" dataSha1="e7f92100dd5710312aedca05710f27f3c4b644fb">
+		<category>Games</category>
+		<description>TOEIC Test no Tame no Pocket PC Soft (Japan) (En,Ja)</description>
+		<rom name="TOEIC Test no Tame no Pocket PC Soft (Japan) (En,Ja) (Track 01).bin" size="99188544" crc="bba897a7" md5="477befcabd723ee1ad2e76c1ce2dc659" sha1="02cd6cd60abd0d838412f533fb1a3d98ca1d067d"/>
 	</game>
 	<game name="TomTom Navigator 2 - Maps of Western Europe (Europe) (En,Fr,De,Es,It,Nl) (Disc 1)" sha1="b2ccf9cb621c21c8dcb894bb032602b9a65c9572" size="532788365" crc="db66533c" fullsha1="45fa4ee8c266a75b53688fc7105970b0f6e6fd45" dataSha1="f530225988c3c5382dfdc4620ecf4cfda0908a29">
 		<category>Games</category>
@@ -258,6 +268,11 @@
 		<category>Games</category>
 		<description>Ultima Underworld - The Stygian Abyss (USA)</description>
 		<rom name="Ultima Underworld - The Stygian Abyss (USA) (Track 01).bin" size="18853632" crc="a3bc74a4" md5="e35eb00afac158fc5f27379e04ff3860" sha1="6e7f7e1750eb449f691509c8b4a4409b25aa8825"/>
+	</game>
+	<game name="Vegas Casino - Vol. 1 &amp; 2 (Canada)" sha1="6f026efa504c2c7edeac91ad98c33dbbc797c9a7" size="11232777" crc="12553864" fullsha1="cb29648debe83d70a071d3664092875302a9f451" dataSha1="dd19efe4438166fa84fd949300520ecaba2554d3">
+		<category>Games</category>
+		<description>Vegas Casino - Vol. 1 &amp; 2 (Canada)</description>
+		<rom name="Vegas Casino - Vol. 1 &amp; 2 (Canada) (Track 01).bin" size="32920944" crc="39cc7f3a" md5="bde87f5cdc1aefc0db5e483405325dc2" sha1="e87d74ae226ddf6e56306c90e8dda89a3d696feb"/>
 	</game>
 	<game name="Windows Media Play Pack for Pocket PC (USA)" sha1="fdfa1a5c1987ab4645234168555ef13404c6a37f" size="599362809" crc="24929d39" fullsha1="03f684aa629f0dea59a79a76ba9758d9edf3f9ca" dataSha1="3304a5e5393e19d127fc61600903b630fc8d8b66">
 		<category>Games</category>

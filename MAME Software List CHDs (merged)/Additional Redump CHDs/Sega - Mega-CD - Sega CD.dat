@@ -4,8 +4,8 @@
 	<header>
 		<name>Sega - Mega-CD - Sega CD</name>
 		<description>Sega - Mega-CD - Sega CD</description>
-		<version>0.260</version>
-		<date>2023-09-07</date>
+		<version>0.262</version>
+		<date>2023-11-30</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -913,91 +913,91 @@
 		<rom name="Burning Fists - Force Striker (USA) (Unl) (Track 12).bin" size="13164144" crc="72b863fb" md5="253db3d9176ae7aaa50f5ece7c6f4557" sha1="56ebb454b86995a44e634891b63d06d5119aec1b"/>
 		<rom name="Burning Fists - Force Striker (USA) (Unl) (Track 13).bin" size="17308368" crc="1f216294" md5="bfd2887572ee702149eb85d4744ba0b1" sha1="52545762fbd4bc241433a0ad224c5bf1ea501797"/>
 	</game>
-	<game name="CD Sonic The Hedgehog (Japan) (Beta 1)" sha1="51f3569afb51a5384022431c9188b4399f3421e8" size="73360064" crc="83b0e0f4" fullsha1="3920605932dd2dbdfe647bc50ec5dc15898d8328" dataSha1="56445cedf2503025d98c9bd5499dc92f60be972e">
+	<game name="CD Sonic the Hedgehog (Japan) (Beta) (1992-12-04)" sha1="51f3569afb51a5384022431c9188b4399f3421e8" size="73360064" crc="83b0e0f4" fullsha1="3920605932dd2dbdfe647bc50ec5dc15898d8328" dataSha1="56445cedf2503025d98c9bd5499dc92f60be972e">
 		<category>Games</category>
-		<description>CD Sonic The Hedgehog (Japan) (Beta 1)</description>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 1) (Track 01).bin" size="18823056" crc="cf84e58c" md5="76193536b059c14f1d652d7e4d9ddebc" sha1="c5e5cf0d8ffe2d6004b38fd57c011935de159bc4"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 1) (Track 02).bin" size="19084128" crc="98d5d1bc" md5="115e9dab10a852f0429a4dfb41eb0421" sha1="1ca7b6a3d647cb0aca1acf8d0a7da3bb0a47704a"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 1) (Track 03).bin" size="17571792" crc="f1e3b7cd" md5="932496535779663bc2177c11cb53f875" sha1="47f31c40851d5c77c8e3c7fb4b39640874e2801d"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 1) (Track 04).bin" size="16339344" crc="4f8a0e31" md5="1cd3115aca02725146a9a2ecb00fefc1" sha1="bdddf4231cf0d407b17b7515442b3094df8e39aa"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 1) (Track 05).bin" size="14236656" crc="5c71e247" md5="4103ca87ae4bb39df5dbe00a5fbbdf95" sha1="f008418a584f6212f3f33c71969e91116016fed7"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 1) (Track 06).bin" size="14829360" crc="6b7bf876" md5="288484e471b0ab3386e076e1c730ee6e" sha1="3594c716ed834ba889cb8e26532ac29b711e80c4"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 1) (Track 07).bin" size="17621184" crc="2949f83a" md5="8bd52023baad6fd5590ccf21c573f4cd" sha1="d5da0a756f6e821ad4296bf8c6440ddf433c7536"/>
+		<description>CD Sonic the Hedgehog (Japan) (Beta) (1992-12-04)</description>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1992-12-04) (Track 01).bin" size="18823056" crc="cf84e58c" md5="76193536b059c14f1d652d7e4d9ddebc" sha1="c5e5cf0d8ffe2d6004b38fd57c011935de159bc4"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1992-12-04) (Track 02).bin" size="19084128" crc="98d5d1bc" md5="115e9dab10a852f0429a4dfb41eb0421" sha1="1ca7b6a3d647cb0aca1acf8d0a7da3bb0a47704a"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1992-12-04) (Track 03).bin" size="17571792" crc="f1e3b7cd" md5="932496535779663bc2177c11cb53f875" sha1="47f31c40851d5c77c8e3c7fb4b39640874e2801d"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1992-12-04) (Track 04).bin" size="16339344" crc="4f8a0e31" md5="1cd3115aca02725146a9a2ecb00fefc1" sha1="bdddf4231cf0d407b17b7515442b3094df8e39aa"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1992-12-04) (Track 05).bin" size="14236656" crc="5c71e247" md5="4103ca87ae4bb39df5dbe00a5fbbdf95" sha1="f008418a584f6212f3f33c71969e91116016fed7"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1992-12-04) (Track 06).bin" size="14829360" crc="6b7bf876" md5="288484e471b0ab3386e076e1c730ee6e" sha1="3594c716ed834ba889cb8e26532ac29b711e80c4"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1992-12-04) (Track 07).bin" size="17621184" crc="2949f83a" md5="8bd52023baad6fd5590ccf21c573f4cd" sha1="d5da0a756f6e821ad4296bf8c6440ddf433c7536"/>
 	</game>
-	<game name="CD Sonic The Hedgehog (Japan) (Beta 2)" sha1="2864064ee4be57ec9390341d146455c56f62566b" size="307504440" crc="facc9302" fullsha1="f3808aca53fadb67cee568887cce3637da65533e" dataSha1="34f407279df35e4c5e006633c42362f2ac0ab0ce">
+	<game name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13)" sha1="2864064ee4be57ec9390341d146455c56f62566b" size="307504440" crc="facc9302" fullsha1="f3808aca53fadb67cee568887cce3637da65533e" dataSha1="34f407279df35e4c5e006633c42362f2ac0ab0ce">
 		<category>Games</category>
-		<description>CD Sonic The Hedgehog (Japan) (Beta 2)</description>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 01).bin" size="37961280" crc="40b85901" md5="3d775f0d48853cebb0154b94294b579c" sha1="84780d900d494b505463ccd980860947efca62bd"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 02).bin" size="19084128" crc="98d5d1bc" md5="115e9dab10a852f0429a4dfb41eb0421" sha1="1ca7b6a3d647cb0aca1acf8d0a7da3bb0a47704a"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 03).bin" size="14236656" crc="85e89286" md5="bc1a17131018dd272a67894671fdd1e0" sha1="0dd5c546c79fe2cd1e4730aa74098f7d74a5ff77"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 04).bin" size="14829360" crc="6af2298f" md5="7de050961c0484fa6b4b290364b24025" sha1="e8f9cdff8ee7020e5c563f4fbe0f12ea2277b7c4"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 05).bin" size="17571792" crc="97670ddf" md5="dec5a9e91c3104e2d82a280d2b4162fb" sha1="84a0f0b8e2e1f6be880b771b29dbc541e841b20f"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 06).bin" size="13984992" crc="d5c1e4dd" md5="8fc922591dec965fa3abfecc2ef721e8" sha1="99a2343c42b5d5c90e3d49b0c55f80193eb7d887"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 07).bin" size="14342496" crc="e15bb237" md5="b78ae10194d2e1b265d2e4f3c4e83de6" sha1="5dec28e2c8c1a84eb878ad2e3613a6138679ebbb"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 08).bin" size="20283648" crc="d74aa048" md5="e0f3881749ddc3bf3ff23701e119c032" sha1="8e09b54bc72cc287f8a3f08aa9af966be581abb9"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 09).bin" size="14046144" crc="da11d529" md5="1ded845631119fca6fbc78058c96b25f" sha1="710e89d675dafb406f2a85473beef0e0ee66f263"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 10).bin" size="13655712" crc="9a3de93b" md5="1eb811752a579e5950efcb5a4dd6531a" sha1="8cc28846e4f5732127af17e2ee074a72bec45327"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 11).bin" size="18021024" crc="97229f94" md5="6bd32015eccf85a4a31240a0eb5e6e71" sha1="fe02819f7a244bcae03135c7fc84fc3e64aa025b"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 12).bin" size="13573392" crc="0888312f" md5="8f8e3a3ea5ae084554b70bc23140f602" sha1="e8d046513bdf3ce738f7073a3973959823ab03f6"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 13).bin" size="11414256" crc="53e5b872" md5="1151e9cb4987fb95811a60f58d84a39f" sha1="c1d04cd935c9ba285bbaf4d3c4a127ba0f29d4bf"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 14).bin" size="16231152" crc="cd68fb07" md5="33c41d132ab7bdbda67a9c7dc90a081e" sha1="122d3b228f4b9d9b3604e80a07f92a1b9f4b3027"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 15).bin" size="10934448" crc="a9d99e2f" md5="316ddca18a49b1d78bfa41217d45d3c8" sha1="b013beb9d5bfae894961d6f0f101f406e649ed3a"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 16).bin" size="14048496" crc="ddf3c797" md5="7a9de5d2a8e5775c7a4a2be2d8ef063e" sha1="2b8707bd70231e089e04fcdf0b187e2eb3050bf6"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 17).bin" size="20142528" crc="de137f2c" md5="24be4ad87d4b77e4f731a1ba967e1378" sha1="4cbc581891855436220dc5cc98efb26cdbbaabaf"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 18).bin" size="12886608" crc="7b4a2d37" md5="c2e017c878b45f3333afdd10436e8ff6" sha1="5b696ae1ca880fefb44a67e5b79423574384c207"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 19).bin" size="11783520" crc="acc82d34" md5="81228f7e072be8ea2231edfe1fe81d1a" sha1="ea98ff8655498db34162112d39337e0b2bebb054"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 20).bin" size="14944608" crc="a8d531d5" md5="d6013625a0cce433f7968e72299ffd81" sha1="67057e420d83a2aab62bfadb4c9008f2ab204687"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 21).bin" size="11607120" crc="7ccae527" md5="1572555ffde513f131a52f70c67d4a1b" sha1="8ff2767180d9ac0648a891235b6dea464e37aeb1"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 22).bin" size="12816048" crc="bae3f1b7" md5="5a34579f0afeb8a2bc9f5116be03ac85" sha1="345ccc1c302a8114ba6feb6a4c1030ea001c0803"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 23).bin" size="14093184" crc="4215c5ad" md5="1673296df60cb6222d8aa11b0539b9bd" sha1="cd3e8efb20b087798b36cca22035c8fdf1f02596"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 24).bin" size="14662368" crc="e36e5e99" md5="58efeccd23181e2ff0dd11b24c047753" sha1="450df2bb42f68ce15ad7f3b073524de255f1fb88"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 25).bin" size="7135968" crc="a36f7c47" md5="bc374096a49935fbc378fa17c69728b1" sha1="7302742d0244e3815065b9b4261ee2527cfa6246"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 26).bin" size="7135968" crc="a36f7c47" md5="bc374096a49935fbc378fa17c69728b1" sha1="7302742d0244e3815065b9b4261ee2527cfa6246"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 27).bin" size="1589952" crc="817829d1" md5="b3063cdeceddc56303bd30b149a1ae17" sha1="8d1abfe59dcdd2859910b79a4ced08232b893c16"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 28).bin" size="4108944" crc="5e23e592" md5="11c54716c6712ee6997d84d8db367d80" sha1="07b1821da2c2ac31ba7f334fab6d5262a0074eef"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 29).bin" size="4021920" crc="ee90dc0e" md5="c8445bb5a2d67562cfd8deab29a85721" sha1="810131ec8b198087a485d324bd0a7c61c0b72275"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 30).bin" size="2161488" crc="0fef05b0" md5="698aa43eeec25093c51512aa692e56d2" sha1="97fb75fb91316f1f038352e1b3cef3808e64e2ed"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 31).bin" size="47938464" crc="22a19002" md5="018a108771979fa4a5472496c6c71046" sha1="a6ff445d234a89cd8d6127decb0bd257da5baaa8"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 2) (Track 32).bin" size="21875952" crc="490b1304" md5="bfc5a7c538064f98708387b97a5620f8" sha1="4ef74b785a59ff0dac9cd903ca7df5e50211b42e"/>
+		<description>CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13)</description>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 01).bin" size="37961280" crc="40b85901" md5="3d775f0d48853cebb0154b94294b579c" sha1="84780d900d494b505463ccd980860947efca62bd"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 02).bin" size="19084128" crc="98d5d1bc" md5="115e9dab10a852f0429a4dfb41eb0421" sha1="1ca7b6a3d647cb0aca1acf8d0a7da3bb0a47704a"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 03).bin" size="14236656" crc="85e89286" md5="bc1a17131018dd272a67894671fdd1e0" sha1="0dd5c546c79fe2cd1e4730aa74098f7d74a5ff77"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 04).bin" size="14829360" crc="6af2298f" md5="7de050961c0484fa6b4b290364b24025" sha1="e8f9cdff8ee7020e5c563f4fbe0f12ea2277b7c4"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 05).bin" size="17571792" crc="97670ddf" md5="dec5a9e91c3104e2d82a280d2b4162fb" sha1="84a0f0b8e2e1f6be880b771b29dbc541e841b20f"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 06).bin" size="13984992" crc="d5c1e4dd" md5="8fc922591dec965fa3abfecc2ef721e8" sha1="99a2343c42b5d5c90e3d49b0c55f80193eb7d887"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 07).bin" size="14342496" crc="e15bb237" md5="b78ae10194d2e1b265d2e4f3c4e83de6" sha1="5dec28e2c8c1a84eb878ad2e3613a6138679ebbb"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 08).bin" size="20283648" crc="d74aa048" md5="e0f3881749ddc3bf3ff23701e119c032" sha1="8e09b54bc72cc287f8a3f08aa9af966be581abb9"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 09).bin" size="14046144" crc="da11d529" md5="1ded845631119fca6fbc78058c96b25f" sha1="710e89d675dafb406f2a85473beef0e0ee66f263"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 10).bin" size="13655712" crc="9a3de93b" md5="1eb811752a579e5950efcb5a4dd6531a" sha1="8cc28846e4f5732127af17e2ee074a72bec45327"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 11).bin" size="18021024" crc="97229f94" md5="6bd32015eccf85a4a31240a0eb5e6e71" sha1="fe02819f7a244bcae03135c7fc84fc3e64aa025b"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 12).bin" size="13573392" crc="0888312f" md5="8f8e3a3ea5ae084554b70bc23140f602" sha1="e8d046513bdf3ce738f7073a3973959823ab03f6"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 13).bin" size="11414256" crc="53e5b872" md5="1151e9cb4987fb95811a60f58d84a39f" sha1="c1d04cd935c9ba285bbaf4d3c4a127ba0f29d4bf"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 14).bin" size="16231152" crc="cd68fb07" md5="33c41d132ab7bdbda67a9c7dc90a081e" sha1="122d3b228f4b9d9b3604e80a07f92a1b9f4b3027"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 15).bin" size="10934448" crc="a9d99e2f" md5="316ddca18a49b1d78bfa41217d45d3c8" sha1="b013beb9d5bfae894961d6f0f101f406e649ed3a"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 16).bin" size="14048496" crc="ddf3c797" md5="7a9de5d2a8e5775c7a4a2be2d8ef063e" sha1="2b8707bd70231e089e04fcdf0b187e2eb3050bf6"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 17).bin" size="20142528" crc="de137f2c" md5="24be4ad87d4b77e4f731a1ba967e1378" sha1="4cbc581891855436220dc5cc98efb26cdbbaabaf"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 18).bin" size="12886608" crc="7b4a2d37" md5="c2e017c878b45f3333afdd10436e8ff6" sha1="5b696ae1ca880fefb44a67e5b79423574384c207"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 19).bin" size="11783520" crc="acc82d34" md5="81228f7e072be8ea2231edfe1fe81d1a" sha1="ea98ff8655498db34162112d39337e0b2bebb054"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 20).bin" size="14944608" crc="a8d531d5" md5="d6013625a0cce433f7968e72299ffd81" sha1="67057e420d83a2aab62bfadb4c9008f2ab204687"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 21).bin" size="11607120" crc="7ccae527" md5="1572555ffde513f131a52f70c67d4a1b" sha1="8ff2767180d9ac0648a891235b6dea464e37aeb1"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 22).bin" size="12816048" crc="bae3f1b7" md5="5a34579f0afeb8a2bc9f5116be03ac85" sha1="345ccc1c302a8114ba6feb6a4c1030ea001c0803"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 23).bin" size="14093184" crc="4215c5ad" md5="1673296df60cb6222d8aa11b0539b9bd" sha1="cd3e8efb20b087798b36cca22035c8fdf1f02596"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 24).bin" size="14662368" crc="e36e5e99" md5="58efeccd23181e2ff0dd11b24c047753" sha1="450df2bb42f68ce15ad7f3b073524de255f1fb88"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 25).bin" size="7135968" crc="a36f7c47" md5="bc374096a49935fbc378fa17c69728b1" sha1="7302742d0244e3815065b9b4261ee2527cfa6246"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 26).bin" size="7135968" crc="a36f7c47" md5="bc374096a49935fbc378fa17c69728b1" sha1="7302742d0244e3815065b9b4261ee2527cfa6246"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 27).bin" size="1589952" crc="817829d1" md5="b3063cdeceddc56303bd30b149a1ae17" sha1="8d1abfe59dcdd2859910b79a4ced08232b893c16"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 28).bin" size="4108944" crc="5e23e592" md5="11c54716c6712ee6997d84d8db367d80" sha1="07b1821da2c2ac31ba7f334fab6d5262a0074eef"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 29).bin" size="4021920" crc="ee90dc0e" md5="c8445bb5a2d67562cfd8deab29a85721" sha1="810131ec8b198087a485d324bd0a7c61c0b72275"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 30).bin" size="2161488" crc="0fef05b0" md5="698aa43eeec25093c51512aa692e56d2" sha1="97fb75fb91316f1f038352e1b3cef3808e64e2ed"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 31).bin" size="47938464" crc="22a19002" md5="018a108771979fa4a5472496c6c71046" sha1="a6ff445d234a89cd8d6127decb0bd257da5baaa8"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-05-13) (Track 32).bin" size="21875952" crc="490b1304" md5="bfc5a7c538064f98708387b97a5620f8" sha1="4ef74b785a59ff0dac9cd903ca7df5e50211b42e"/>
 	</game>
-	<game name="CD Sonic The Hedgehog (Japan) (Beta 3)" sha1="f28abf5e3b39d52d100181bcceddfd44e7ae66ee" size="326066909" crc="2406de9c" fullsha1="288736675e8ca0a891754720415918efee33d6e4" dataSha1="34de4064e66ebde61aa5c997e5842e1f632ca193">
+	<game name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21)" sha1="f28abf5e3b39d52d100181bcceddfd44e7ae66ee" size="326066909" crc="2406de9c" fullsha1="288736675e8ca0a891754720415918efee33d6e4" dataSha1="34de4064e66ebde61aa5c997e5842e1f632ca193">
 		<category>Games</category>
-		<description>CD Sonic The Hedgehog (Japan) (Beta 3)</description>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 01).bin" size="45087840" crc="d73dfce7" md5="f3ba4b9f4209d7a43889994ad0ebaaf0" sha1="ae79da208cb545de616a7fe1e0af610a13062aa8"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 02).bin" size="19077072" crc="d4e6ee66" md5="22e6f0c7bf5f39b42ad6163b6ce8c888" sha1="aa724b00f864f495982dc27f0f2455ba7e38f0ee"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 03).bin" size="14231952" crc="80ff9f34" md5="7d1b2106e4bd175614bf5aa62c403fe3" sha1="3bb368eec991c64bb2e8f9c036a8db280974018a"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 04).bin" size="14827008" crc="d014c187" md5="5334eda7d665f15a66559be2490e1e68" sha1="62f093d827d245d576d739f0bf704e08ef7753c0"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 05).bin" size="17567088" crc="c2b16a57" md5="6fa8602006dbcb90e23496f14ede927f" sha1="ed72f4275770f863cf5068c63bce8b65ec58e98c"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 06).bin" size="13980288" crc="9b70dedd" md5="1a189b68995416b40309a4fa0d8a35bc" sha1="849e32d919e71d47d57cb7a2d761fda32847430b"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 07).bin" size="14342496" crc="7cc9d387" md5="9137ee72204ef0d87179c378e6d04885" sha1="fa441812d5de25f07b87a4a2dcd18c217d15f3af"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 08).bin" size="20278944" crc="31cca42f" md5="d647771e4c8937cdffc5d4bd4c943c3f" sha1="51cbc5371e8c11a22866d15dd9e6ab6e85da6282"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 09).bin" size="14041440" crc="f4f0c3aa" md5="7438ee901cd454dffab1d53bd1d09555" sha1="5be23a907e97a126daf88d36ba8e7a19873b212d"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 10).bin" size="13653360" crc="c584079d" md5="55e7b7b64ae638430a74c3366671d9a5" sha1="ed1d77334f5e54ab570ddd0758ed761f78519414"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 11).bin" size="18016320" crc="d14887bd" md5="f4c583971b06f4d6b6cb128f7edcccf4" sha1="86a699c79e08e7ec662be4af4264965e0d41372a"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 12).bin" size="13573392" crc="1090eea5" md5="9afff73cb7a92b4d1d4752a29d144662" sha1="8b8aa54c54bf0263d99891bd73baee221655c81e"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 13).bin" size="11411904" crc="6a5e0a37" md5="d49bf01119b10ce1f9f4c72213e40ab4" sha1="985a7ed310b8e4952b945338c9e46e73e3675b5d"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 14).bin" size="16231152" crc="a4efcb04" md5="441b65e6a334adf90de74b74bf4e87cf" sha1="36cf22ac90a260997b1a7fa156943a6c68d06428"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 15).bin" size="10932096" crc="56bf14f1" md5="415627a68c6286b0d22591bb198c1a8e" sha1="005d1ad955f2996ce0e26c3f9164f34672e18274"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 16).bin" size="14048496" crc="6622825b" md5="3b53e1a46df66a77daab36e27c209df3" sha1="edd540106a3bc65f2580562719f29637c2b99793"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 17).bin" size="20137824" crc="4ae266e6" md5="d4cc3ae1f86fa9cb8205cda269544193" sha1="be2f54ffdaaccd95f7dad315ac00ebc9501e480f"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 18).bin" size="12881904" crc="fb65765f" md5="d99742b1d02ea547384660cc9ea33fed" sha1="04542da0f150c62eee1db466a6a9411b99c3be3a"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 19).bin" size="11783520" crc="1875e226" md5="baaa9e028fb1eb646a043291eb63eed5" sha1="b81c7c8efe16c0fef582fe96a1f3f134a95bbadf"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 20).bin" size="14942256" crc="88d2025b" md5="cc77a74f5c3a4f8aa9e0944de24f0d75" sha1="1ca970b93361fe5cd987a5351787998788aae826"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 21).bin" size="11607120" crc="910fb80d" md5="da07a11eb91588f1324d3b91837eb0cb" sha1="f7825b1f0b4de5f83ad69edb73cea4218a54fff0"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 22).bin" size="12816048" crc="2e57de19" md5="e28622c8b08e3121bf9db7d058b722f8" sha1="f21e77b4cfe0d216c66ec7dbf0964d53eeaae90c"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 23).bin" size="14088480" crc="aea7dbd5" md5="09a09d40ed226feb85ed120f1e3850cb" sha1="1e742397f10bd8ed75058a5ab2677c167da977d5"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 24).bin" size="14657664" crc="0a423715" md5="28415c6e1fd85832cee97897a2246aa5" sha1="14971aa4f61253f826f2eaa9de9b3d2ddec2a2f4"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 25).bin" size="7135968" crc="a36f7c47" md5="bc374096a49935fbc378fa17c69728b1" sha1="7302742d0244e3815065b9b4261ee2527cfa6246"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 26).bin" size="7135968" crc="a36f7c47" md5="bc374096a49935fbc378fa17c69728b1" sha1="7302742d0244e3815065b9b4261ee2527cfa6246"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 27).bin" size="1458240" crc="60dd234b" md5="391ee4c5002402abb19b48aa32d546b8" sha1="95ed37193ea8bdd2a44d6fa2c8a0c0d37c904826"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 28).bin" size="4050144" crc="f7533e29" md5="7e8f5d68bb3b59ab3aead525a671dd57" sha1="34fc0cda39631a06020734bab87aed9b0f2fbdf9"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 29).bin" size="3869040" crc="7f26f575" md5="29a993cfcc665232b952a3c3a192bcae" sha1="01a020f47403349608802b634a7d4c5d5e26cdd2"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 30).bin" size="2008608" crc="1fcc9f96" md5="e50a322d806bb975867d0f6f58af0899" sha1="130485f3b32252a76dd7a34d4039fcd56c6ad3ed"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 31).bin" size="21513744" crc="82081334" md5="f37fa9304baf50000713505adc12105e" sha1="f0e48f21f8d0735569d2ffe581dcb0dee4f0ee12"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 32).bin" size="21873600" crc="c12652d5" md5="c8dc6d7fde6afe38a9e4670f57cf9a29" sha1="a3aea548a7920d0fdecc66e8f63405dec653a751"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 33).bin" size="1091328" crc="25235866" md5="253da274e647822b0ea50ba784bb10fa" sha1="ddf0f669fcab537cc2c46010d030ea6b3f7f0298"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 34).bin" size="16214688" crc="421c17ed" md5="d76cfc6efd29a29d612e1a9acbab8160" sha1="7b3bc326e4e9c6b873815bbe944d8a01ee53d57b"/>
-		<rom name="CD Sonic The Hedgehog (Japan) (Beta 3) (Track 35).bin" size="32107152" crc="596128c2" md5="4ee14141bb14e3d101f72b17f95ab2b0" sha1="d36327d4c4eddf048f2ad9d55990c5332d86827f"/>
+		<description>CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21)</description>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 01).bin" size="45087840" crc="d73dfce7" md5="f3ba4b9f4209d7a43889994ad0ebaaf0" sha1="ae79da208cb545de616a7fe1e0af610a13062aa8"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 02).bin" size="19077072" crc="d4e6ee66" md5="22e6f0c7bf5f39b42ad6163b6ce8c888" sha1="aa724b00f864f495982dc27f0f2455ba7e38f0ee"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 03).bin" size="14231952" crc="80ff9f34" md5="7d1b2106e4bd175614bf5aa62c403fe3" sha1="3bb368eec991c64bb2e8f9c036a8db280974018a"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 04).bin" size="14827008" crc="d014c187" md5="5334eda7d665f15a66559be2490e1e68" sha1="62f093d827d245d576d739f0bf704e08ef7753c0"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 05).bin" size="17567088" crc="c2b16a57" md5="6fa8602006dbcb90e23496f14ede927f" sha1="ed72f4275770f863cf5068c63bce8b65ec58e98c"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 06).bin" size="13980288" crc="9b70dedd" md5="1a189b68995416b40309a4fa0d8a35bc" sha1="849e32d919e71d47d57cb7a2d761fda32847430b"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 07).bin" size="14342496" crc="7cc9d387" md5="9137ee72204ef0d87179c378e6d04885" sha1="fa441812d5de25f07b87a4a2dcd18c217d15f3af"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 08).bin" size="20278944" crc="31cca42f" md5="d647771e4c8937cdffc5d4bd4c943c3f" sha1="51cbc5371e8c11a22866d15dd9e6ab6e85da6282"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 09).bin" size="14041440" crc="f4f0c3aa" md5="7438ee901cd454dffab1d53bd1d09555" sha1="5be23a907e97a126daf88d36ba8e7a19873b212d"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 10).bin" size="13653360" crc="c584079d" md5="55e7b7b64ae638430a74c3366671d9a5" sha1="ed1d77334f5e54ab570ddd0758ed761f78519414"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 11).bin" size="18016320" crc="d14887bd" md5="f4c583971b06f4d6b6cb128f7edcccf4" sha1="86a699c79e08e7ec662be4af4264965e0d41372a"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 12).bin" size="13573392" crc="1090eea5" md5="9afff73cb7a92b4d1d4752a29d144662" sha1="8b8aa54c54bf0263d99891bd73baee221655c81e"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 13).bin" size="11411904" crc="6a5e0a37" md5="d49bf01119b10ce1f9f4c72213e40ab4" sha1="985a7ed310b8e4952b945338c9e46e73e3675b5d"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 14).bin" size="16231152" crc="a4efcb04" md5="441b65e6a334adf90de74b74bf4e87cf" sha1="36cf22ac90a260997b1a7fa156943a6c68d06428"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 15).bin" size="10932096" crc="56bf14f1" md5="415627a68c6286b0d22591bb198c1a8e" sha1="005d1ad955f2996ce0e26c3f9164f34672e18274"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 16).bin" size="14048496" crc="6622825b" md5="3b53e1a46df66a77daab36e27c209df3" sha1="edd540106a3bc65f2580562719f29637c2b99793"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 17).bin" size="20137824" crc="4ae266e6" md5="d4cc3ae1f86fa9cb8205cda269544193" sha1="be2f54ffdaaccd95f7dad315ac00ebc9501e480f"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 18).bin" size="12881904" crc="fb65765f" md5="d99742b1d02ea547384660cc9ea33fed" sha1="04542da0f150c62eee1db466a6a9411b99c3be3a"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 19).bin" size="11783520" crc="1875e226" md5="baaa9e028fb1eb646a043291eb63eed5" sha1="b81c7c8efe16c0fef582fe96a1f3f134a95bbadf"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 20).bin" size="14942256" crc="88d2025b" md5="cc77a74f5c3a4f8aa9e0944de24f0d75" sha1="1ca970b93361fe5cd987a5351787998788aae826"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 21).bin" size="11607120" crc="910fb80d" md5="da07a11eb91588f1324d3b91837eb0cb" sha1="f7825b1f0b4de5f83ad69edb73cea4218a54fff0"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 22).bin" size="12816048" crc="2e57de19" md5="e28622c8b08e3121bf9db7d058b722f8" sha1="f21e77b4cfe0d216c66ec7dbf0964d53eeaae90c"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 23).bin" size="14088480" crc="aea7dbd5" md5="09a09d40ed226feb85ed120f1e3850cb" sha1="1e742397f10bd8ed75058a5ab2677c167da977d5"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 24).bin" size="14657664" crc="0a423715" md5="28415c6e1fd85832cee97897a2246aa5" sha1="14971aa4f61253f826f2eaa9de9b3d2ddec2a2f4"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 25).bin" size="7135968" crc="a36f7c47" md5="bc374096a49935fbc378fa17c69728b1" sha1="7302742d0244e3815065b9b4261ee2527cfa6246"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 26).bin" size="7135968" crc="a36f7c47" md5="bc374096a49935fbc378fa17c69728b1" sha1="7302742d0244e3815065b9b4261ee2527cfa6246"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 27).bin" size="1458240" crc="60dd234b" md5="391ee4c5002402abb19b48aa32d546b8" sha1="95ed37193ea8bdd2a44d6fa2c8a0c0d37c904826"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 28).bin" size="4050144" crc="f7533e29" md5="7e8f5d68bb3b59ab3aead525a671dd57" sha1="34fc0cda39631a06020734bab87aed9b0f2fbdf9"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 29).bin" size="3869040" crc="7f26f575" md5="29a993cfcc665232b952a3c3a192bcae" sha1="01a020f47403349608802b634a7d4c5d5e26cdd2"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 30).bin" size="2008608" crc="1fcc9f96" md5="e50a322d806bb975867d0f6f58af0899" sha1="130485f3b32252a76dd7a34d4039fcd56c6ad3ed"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 31).bin" size="21513744" crc="82081334" md5="f37fa9304baf50000713505adc12105e" sha1="f0e48f21f8d0735569d2ffe581dcb0dee4f0ee12"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 32).bin" size="21873600" crc="c12652d5" md5="c8dc6d7fde6afe38a9e4670f57cf9a29" sha1="a3aea548a7920d0fdecc66e8f63405dec653a751"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 33).bin" size="1091328" crc="25235866" md5="253da274e647822b0ea50ba784bb10fa" sha1="ddf0f669fcab537cc2c46010d030ea6b3f7f0298"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 34).bin" size="16214688" crc="421c17ed" md5="d76cfc6efd29a29d612e1a9acbab8160" sha1="7b3bc326e4e9c6b873815bbe944d8a01ee53d57b"/>
+		<rom name="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21) (Track 35).bin" size="32107152" crc="596128c2" md5="4ee14141bb14e3d101f72b17f95ab2b0" sha1="d36327d4c4eddf048f2ad9d55990c5332d86827f"/>
 	</game>
 	<game name="Cadillacs and Dinosaurs - The Second Cataclysm (USA, Brazil) (RE)" sha1="d8a51bb54048f5cd702a0f2d8ec035bbf8b2ec62" size="448200432" crc="5e6cadb6" fullsha1="5358dffa22c46fa7ee2b01021f07b528a107e1db" dataSha1="48cc35d5ea21273321d7b068f36ed44577afc8f8">
 		<category>Games</category>
@@ -1323,51 +1323,51 @@
 		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Track 18).bin" size="24159744" crc="f6e63930" md5="eca22696d54b3b694a8752e6c2740cab" sha1="a2bee1545b44f78b6c4f07b08c2569ab4d450e3c"/>
 		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Track 19).bin" size="19436928" crc="cc78c57c" md5="0da693688312109c014b4d68b0c3f238" sha1="fd117eadf04fe5f6fec16d05851fc9c19c9cf7f3"/>
 	</game>
-	<game name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta)" sha1="6d8df89705b1e67fc2610b90392a7b5594389f74" size="278566965" crc="c79db19b" fullsha1="2e7d459c24d4adf08096d23e27634bd0bf9ed10b" dataSha1="a5202f33374cfb1906e22c4643c6cf02678959b2">
+	<game name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09)" sha1="6d8df89705b1e67fc2610b90392a7b5594389f74" size="278566965" crc="c79db19b" fullsha1="2e7d459c24d4adf08096d23e27634bd0bf9ed10b" dataSha1="a5202f33374cfb1906e22c4643c6cf02678959b2">
 		<category>Games</category>
-		<description>Eternal Champions - Challenge from the Dark Side (Europe) (Beta)</description>
-		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (Track 01).bin" size="155643600" crc="a397d061" md5="84f5d203b2aa642eba4b61afb4e31e21" sha1="d064e3119326cfb61beeb131d4641a4767a6ba25"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (Track 02).bin" size="19796784" crc="2acec69e" md5="4551120fb6ddaf4e40ec203e343373da" sha1="98c685619101e3cd21ac1a50227576bdf75f051f"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (Track 03).bin" size="15796032" crc="d64e7c69" md5="4e9123ddf1636921e6f7520831494aaf" sha1="776e67a76cbad91fa201821c4dc7cd2e8a7817d1"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (Track 04).bin" size="18982992" crc="b1ce7f79" md5="c04be8535a04dda9aaf3ee76b2822e87" sha1="5a7acf43c158d8b8a6294238f407bb3b4d150a70"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (Track 05).bin" size="19312272" crc="983a1c93" md5="c77cc69c7d601e08458c90a25cd6fd44" sha1="b03d02a9a3c17431136ff11a0664887789a0dc5c"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (Track 06).bin" size="19406352" crc="b1e3167d" md5="81500b6d62fc6d8be86b18858e0ca136" sha1="80b752ce3b007b50ab48957c8bb122f03a805530"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (Track 07).bin" size="19396944" crc="6ab82a29" md5="82b88513168347e0b8167fb7e20fbf10" sha1="7d9ab8efa6561cafc761fc2adb472b4dce77396b"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (Track 08).bin" size="19392240" crc="8cf886dc" md5="5e42665457d157d2c0a8685a693fda88" sha1="2d5902f2a24bfe5b46081e6aa6f6434588278e3b"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (Track 09).bin" size="19361664" crc="bcea3610" md5="3a2861d4fb64f614aadcca05fb355a05" sha1="771ae938e8a398d65cdc4049095dbc83abd779fc"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (Track 10).bin" size="19180560" crc="0736a728" md5="184d22de7fe7f7e01a9d8bd7612162d9" sha1="83c804958fb2bce27c9c25ccc553d5c79cf13298"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (Track 11).bin" size="18752496" crc="b95e92d4" md5="7090ebbc96dbc66c861edb691b81d61f" sha1="2a5b1dc8f4f6af8dd63c6c87b3833287eb6e3eeb"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (Track 12).bin" size="20166048" crc="819bcb68" md5="6b4eec83a6b4da47da198d93fb4be228" sha1="54e849c84696952bf9179b1b9c4431c249b8cf0e"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (Track 13).bin" size="19627440" crc="85309f93" md5="578b9b2701e091bc2b0a69f0ded07cea" sha1="8cf35a19c04ad5bf324aab528f9caaefa5c63964"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (Track 14).bin" size="18082176" crc="6866a5d3" md5="027a005d78fb0bcd1786e1491703acec" sha1="e8969eef34ea2ad41c3ae1e07c1a833f08ee2985"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (Track 15).bin" size="21078624" crc="c466e1e6" md5="11cbbbe1cdf8690abb67e61c613ef192" sha1="6d465876d7ab0ecc2876ed9098225edda89c3193"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (Track 16).bin" size="19474560" crc="50c8a97d" md5="e531b34bc4b378df85cd2acefc85b71e" sha1="dfbd237e274056f8f55b179fb8440a48c5e27af6"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (Track 17).bin" size="19086480" crc="ab587bba" md5="84016b9c7d5416e68668ca2c4f38ab33" sha1="2f9010a8436f03a889ffdfc0b350b57bd21714c1"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (Track 18).bin" size="24159744" crc="5d4992ba" md5="070da20b9b751ef59575fa9487fb76c7" sha1="429e5bca618aafb67c5a3b9ef9d06e07ae010406"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (Track 19).bin" size="19436928" crc="3e1d12af" md5="29d41563a88a0c9f9c4517d510876ace" sha1="8f3f9560e196b2d7899eaee804da9a6b203bbd6f"/>
+		<description>Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09)</description>
+		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09) (Track 01).bin" size="155643600" crc="a397d061" md5="84f5d203b2aa642eba4b61afb4e31e21" sha1="d064e3119326cfb61beeb131d4641a4767a6ba25"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09) (Track 02).bin" size="19796784" crc="2acec69e" md5="4551120fb6ddaf4e40ec203e343373da" sha1="98c685619101e3cd21ac1a50227576bdf75f051f"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09) (Track 03).bin" size="15796032" crc="d64e7c69" md5="4e9123ddf1636921e6f7520831494aaf" sha1="776e67a76cbad91fa201821c4dc7cd2e8a7817d1"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09) (Track 04).bin" size="18982992" crc="b1ce7f79" md5="c04be8535a04dda9aaf3ee76b2822e87" sha1="5a7acf43c158d8b8a6294238f407bb3b4d150a70"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09) (Track 05).bin" size="19312272" crc="983a1c93" md5="c77cc69c7d601e08458c90a25cd6fd44" sha1="b03d02a9a3c17431136ff11a0664887789a0dc5c"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09) (Track 06).bin" size="19406352" crc="b1e3167d" md5="81500b6d62fc6d8be86b18858e0ca136" sha1="80b752ce3b007b50ab48957c8bb122f03a805530"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09) (Track 07).bin" size="19396944" crc="6ab82a29" md5="82b88513168347e0b8167fb7e20fbf10" sha1="7d9ab8efa6561cafc761fc2adb472b4dce77396b"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09) (Track 08).bin" size="19392240" crc="8cf886dc" md5="5e42665457d157d2c0a8685a693fda88" sha1="2d5902f2a24bfe5b46081e6aa6f6434588278e3b"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09) (Track 09).bin" size="19361664" crc="bcea3610" md5="3a2861d4fb64f614aadcca05fb355a05" sha1="771ae938e8a398d65cdc4049095dbc83abd779fc"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09) (Track 10).bin" size="19180560" crc="0736a728" md5="184d22de7fe7f7e01a9d8bd7612162d9" sha1="83c804958fb2bce27c9c25ccc553d5c79cf13298"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09) (Track 11).bin" size="18752496" crc="b95e92d4" md5="7090ebbc96dbc66c861edb691b81d61f" sha1="2a5b1dc8f4f6af8dd63c6c87b3833287eb6e3eeb"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09) (Track 12).bin" size="20166048" crc="819bcb68" md5="6b4eec83a6b4da47da198d93fb4be228" sha1="54e849c84696952bf9179b1b9c4431c249b8cf0e"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09) (Track 13).bin" size="19627440" crc="85309f93" md5="578b9b2701e091bc2b0a69f0ded07cea" sha1="8cf35a19c04ad5bf324aab528f9caaefa5c63964"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09) (Track 14).bin" size="18082176" crc="6866a5d3" md5="027a005d78fb0bcd1786e1491703acec" sha1="e8969eef34ea2ad41c3ae1e07c1a833f08ee2985"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09) (Track 15).bin" size="21078624" crc="c466e1e6" md5="11cbbbe1cdf8690abb67e61c613ef192" sha1="6d465876d7ab0ecc2876ed9098225edda89c3193"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09) (Track 16).bin" size="19474560" crc="50c8a97d" md5="e531b34bc4b378df85cd2acefc85b71e" sha1="dfbd237e274056f8f55b179fb8440a48c5e27af6"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09) (Track 17).bin" size="19086480" crc="ab587bba" md5="84016b9c7d5416e68668ca2c4f38ab33" sha1="2f9010a8436f03a889ffdfc0b350b57bd21714c1"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09) (Track 18).bin" size="24159744" crc="5d4992ba" md5="070da20b9b751ef59575fa9487fb76c7" sha1="429e5bca618aafb67c5a3b9ef9d06e07ae010406"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (Europe) (Beta) (1995-06-09) (Track 19).bin" size="19436928" crc="3e1d12af" md5="29d41563a88a0c9f9c4517d510876ace" sha1="8f3f9560e196b2d7899eaee804da9a6b203bbd6f"/>
 	</game>
-	<game name="Eternal Champions - Challenge from the Dark Side (USA) (Beta)" sha1="a8d05eb9234eb016179277013025b6d5e7c420db" size="278555649" crc="505c8d1e" fullsha1="cda771c50db44ff9f55e8d64ceb8eb0e88dc51ce" dataSha1="66417f1a8a91a3f122cec4fd65805cb5b4f7fdbf">
+	<game name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11)" sha1="a8d05eb9234eb016179277013025b6d5e7c420db" size="278555649" crc="505c8d1e" fullsha1="cda771c50db44ff9f55e8d64ceb8eb0e88dc51ce" dataSha1="66417f1a8a91a3f122cec4fd65805cb5b4f7fdbf">
 		<category>Games</category>
-		<description>Eternal Champions - Challenge from the Dark Side (USA) (Beta)</description>
-		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (Track 01).bin" size="155641248" crc="5fd53235" md5="dc2f45cfb0d77d49e442611ed3a86af5" sha1="261809c666e5d91626a222f252caa383c50cecb9"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (Track 02).bin" size="19796784" crc="2acec69e" md5="4551120fb6ddaf4e40ec203e343373da" sha1="98c685619101e3cd21ac1a50227576bdf75f051f"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (Track 03).bin" size="15796032" crc="d64e7c69" md5="4e9123ddf1636921e6f7520831494aaf" sha1="776e67a76cbad91fa201821c4dc7cd2e8a7817d1"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (Track 04).bin" size="18982992" crc="b1ce7f79" md5="c04be8535a04dda9aaf3ee76b2822e87" sha1="5a7acf43c158d8b8a6294238f407bb3b4d150a70"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (Track 05).bin" size="19312272" crc="983a1c93" md5="c77cc69c7d601e08458c90a25cd6fd44" sha1="b03d02a9a3c17431136ff11a0664887789a0dc5c"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (Track 06).bin" size="19406352" crc="b1e3167d" md5="81500b6d62fc6d8be86b18858e0ca136" sha1="80b752ce3b007b50ab48957c8bb122f03a805530"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (Track 07).bin" size="19396944" crc="6ab82a29" md5="82b88513168347e0b8167fb7e20fbf10" sha1="7d9ab8efa6561cafc761fc2adb472b4dce77396b"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (Track 08).bin" size="19392240" crc="8cf886dc" md5="5e42665457d157d2c0a8685a693fda88" sha1="2d5902f2a24bfe5b46081e6aa6f6434588278e3b"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (Track 09).bin" size="19361664" crc="bcea3610" md5="3a2861d4fb64f614aadcca05fb355a05" sha1="771ae938e8a398d65cdc4049095dbc83abd779fc"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (Track 10).bin" size="19180560" crc="0736a728" md5="184d22de7fe7f7e01a9d8bd7612162d9" sha1="83c804958fb2bce27c9c25ccc553d5c79cf13298"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (Track 11).bin" size="18752496" crc="b95e92d4" md5="7090ebbc96dbc66c861edb691b81d61f" sha1="2a5b1dc8f4f6af8dd63c6c87b3833287eb6e3eeb"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (Track 12).bin" size="20166048" crc="819bcb68" md5="6b4eec83a6b4da47da198d93fb4be228" sha1="54e849c84696952bf9179b1b9c4431c249b8cf0e"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (Track 13).bin" size="19627440" crc="85309f93" md5="578b9b2701e091bc2b0a69f0ded07cea" sha1="8cf35a19c04ad5bf324aab528f9caaefa5c63964"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (Track 14).bin" size="18082176" crc="6866a5d3" md5="027a005d78fb0bcd1786e1491703acec" sha1="e8969eef34ea2ad41c3ae1e07c1a833f08ee2985"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (Track 15).bin" size="21078624" crc="c466e1e6" md5="11cbbbe1cdf8690abb67e61c613ef192" sha1="6d465876d7ab0ecc2876ed9098225edda89c3193"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (Track 16).bin" size="19474560" crc="50c8a97d" md5="e531b34bc4b378df85cd2acefc85b71e" sha1="dfbd237e274056f8f55b179fb8440a48c5e27af6"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (Track 17).bin" size="19086480" crc="ab587bba" md5="84016b9c7d5416e68668ca2c4f38ab33" sha1="2f9010a8436f03a889ffdfc0b350b57bd21714c1"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (Track 18).bin" size="24159744" crc="5d4992ba" md5="070da20b9b751ef59575fa9487fb76c7" sha1="429e5bca618aafb67c5a3b9ef9d06e07ae010406"/>
-		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (Track 19).bin" size="19436928" crc="3e1d12af" md5="29d41563a88a0c9f9c4517d510876ace" sha1="8f3f9560e196b2d7899eaee804da9a6b203bbd6f"/>
+		<description>Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11)</description>
+		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11) (Track 01).bin" size="155641248" crc="5fd53235" md5="dc2f45cfb0d77d49e442611ed3a86af5" sha1="261809c666e5d91626a222f252caa383c50cecb9"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11) (Track 02).bin" size="19796784" crc="2acec69e" md5="4551120fb6ddaf4e40ec203e343373da" sha1="98c685619101e3cd21ac1a50227576bdf75f051f"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11) (Track 03).bin" size="15796032" crc="d64e7c69" md5="4e9123ddf1636921e6f7520831494aaf" sha1="776e67a76cbad91fa201821c4dc7cd2e8a7817d1"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11) (Track 04).bin" size="18982992" crc="b1ce7f79" md5="c04be8535a04dda9aaf3ee76b2822e87" sha1="5a7acf43c158d8b8a6294238f407bb3b4d150a70"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11) (Track 05).bin" size="19312272" crc="983a1c93" md5="c77cc69c7d601e08458c90a25cd6fd44" sha1="b03d02a9a3c17431136ff11a0664887789a0dc5c"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11) (Track 06).bin" size="19406352" crc="b1e3167d" md5="81500b6d62fc6d8be86b18858e0ca136" sha1="80b752ce3b007b50ab48957c8bb122f03a805530"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11) (Track 07).bin" size="19396944" crc="6ab82a29" md5="82b88513168347e0b8167fb7e20fbf10" sha1="7d9ab8efa6561cafc761fc2adb472b4dce77396b"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11) (Track 08).bin" size="19392240" crc="8cf886dc" md5="5e42665457d157d2c0a8685a693fda88" sha1="2d5902f2a24bfe5b46081e6aa6f6434588278e3b"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11) (Track 09).bin" size="19361664" crc="bcea3610" md5="3a2861d4fb64f614aadcca05fb355a05" sha1="771ae938e8a398d65cdc4049095dbc83abd779fc"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11) (Track 10).bin" size="19180560" crc="0736a728" md5="184d22de7fe7f7e01a9d8bd7612162d9" sha1="83c804958fb2bce27c9c25ccc553d5c79cf13298"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11) (Track 11).bin" size="18752496" crc="b95e92d4" md5="7090ebbc96dbc66c861edb691b81d61f" sha1="2a5b1dc8f4f6af8dd63c6c87b3833287eb6e3eeb"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11) (Track 12).bin" size="20166048" crc="819bcb68" md5="6b4eec83a6b4da47da198d93fb4be228" sha1="54e849c84696952bf9179b1b9c4431c249b8cf0e"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11) (Track 13).bin" size="19627440" crc="85309f93" md5="578b9b2701e091bc2b0a69f0ded07cea" sha1="8cf35a19c04ad5bf324aab528f9caaefa5c63964"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11) (Track 14).bin" size="18082176" crc="6866a5d3" md5="027a005d78fb0bcd1786e1491703acec" sha1="e8969eef34ea2ad41c3ae1e07c1a833f08ee2985"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11) (Track 15).bin" size="21078624" crc="c466e1e6" md5="11cbbbe1cdf8690abb67e61c613ef192" sha1="6d465876d7ab0ecc2876ed9098225edda89c3193"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11) (Track 16).bin" size="19474560" crc="50c8a97d" md5="e531b34bc4b378df85cd2acefc85b71e" sha1="dfbd237e274056f8f55b179fb8440a48c5e27af6"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11) (Track 17).bin" size="19086480" crc="ab587bba" md5="84016b9c7d5416e68668ca2c4f38ab33" sha1="2f9010a8436f03a889ffdfc0b350b57bd21714c1"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11) (Track 18).bin" size="24159744" crc="5d4992ba" md5="070da20b9b751ef59575fa9487fb76c7" sha1="429e5bca618aafb67c5a3b9ef9d06e07ae010406"/>
+		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (Beta) (1995-05-11) (Track 19).bin" size="19436928" crc="3e1d12af" md5="29d41563a88a0c9f9c4517d510876ace" sha1="8f3f9560e196b2d7899eaee804da9a6b203bbd6f"/>
 	</game>
 	<game name="Eye of the Beholder (Europe)" sha1="500599abbc58cfa751772d50e36ee1b2a307cf29" size="231460874" crc="9db93bc7" fullsha1="5f32fb6a0d69ee850186305ac3d09f7716d1c9e7" dataSha1="ffebd3c9d5cee13deaad19addeab5fe1b81efb5e">
 		<category>Games</category>
@@ -1629,47 +1629,47 @@
 		<rom name="Fatal Fury Special (Europe) (Track 37).bin" size="3720864" crc="645d9277" md5="77d3ca1f615808ed8aa1b1e50eebd186" sha1="390ef2e466e05188143c94ae285c1523e6818759"/>
 		<rom name="Fatal Fury Special (Europe) (Track 38).bin" size="2036832" crc="8e904ab3" md5="ef1d874bfd397aed56a2f3b3b81f0d08" sha1="ac9764b7dee14dfd996da2fa99bcda648ce3c953"/>
 	</game>
-	<game name="Fatal Fury Special (Europe) (Beta)" sha1="fed0af9e9888d8b137c56010b127e1891ea73e27" size="312725058" crc="db008114" fullsha1="6fef29e44939a11ddd0a9cdcbef652c169190d0b" dataSha1="238be0d524e25f4b2b31327c4e082e5ce27318e7">
+	<game name="Fatal Fury Special (Europe) (Beta) (1995-02-23)" sha1="fed0af9e9888d8b137c56010b127e1891ea73e27" size="312725058" crc="db008114" fullsha1="6fef29e44939a11ddd0a9cdcbef652c169190d0b" dataSha1="238be0d524e25f4b2b31327c4e082e5ce27318e7">
 		<category>Games</category>
-		<description>Fatal Fury Special (Europe) (Beta)</description>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 01).bin" size="15845424" crc="d6dad22d" md5="5ef0f3075f13f0a77ee0785ff3b899db" sha1="66c5a0caf0b1bf856c4423ef75d727bb2d683a2b"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 02).bin" size="2900016" crc="d6f72075" md5="d99f0703802e215f733113123240710b" sha1="38d43eba5c600c27932bfcf49786df9bbe2caf2a"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 03).bin" size="5880000" crc="0c3b346c" md5="614b343f829950bd34412d231d3a3a1c" sha1="1bccc5181b19f07f6f5615e1152fea877a02076f"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 04).bin" size="6595008" crc="7ca98390" md5="bee1f71b9b1c0f810e593a8a57b764ef" sha1="3b9c38494b94b72ad0a19a031213e314a82a24e9"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 05).bin" size="4214784" crc="04e8d0d3" md5="7080d8b39b77074c62f6b4cb5d291888" sha1="69f2095471a2a9ac836d2a9ce8eb79e6f798cc1f"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 06).bin" size="7674576" crc="91b8ba42" md5="55beb0ae6cae6d9d36c181cfd79c5a30" sha1="335231655ed77397a699fcb9117063d915889142"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 07).bin" size="19935552" crc="ac49a747" md5="11eefda6bb3abc362338e313b32d7550" sha1="3efc9a57142150919d18a24d51be92ebde3f81d0"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 08).bin" size="21699552" crc="1fa5364d" md5="e630e2fda9f9dd1d787c720f17a492f3" sha1="04a9d95c8fa00224c3551dbcd657475f7114ea6b"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 09).bin" size="20728176" crc="47a9280c" md5="98c040531947a2b6068a2eb6b0639948" sha1="229d062ca36dea66b30ea44a68adbcc6e9a61550"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 10).bin" size="25580352" crc="efc14027" md5="644d0f58b2fa4d30d47266ea11cd24d4" sha1="7a114a1c85b90a5de9c5604d59ea639d884556bc"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 11).bin" size="18877152" crc="5bbe0a75" md5="3faebcea13d0461c40b56f077a02a4ff" sha1="59bde70f00f51e862d3fbfa99d9a18b020a8adb1"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 12).bin" size="26462352" crc="91635096" md5="28e9495880ef225382f2ba74f4c74d21" sha1="4eba89f1686b2e431fa10ddfd284715dc4350606"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 13).bin" size="26638752" crc="f41e23f5" md5="37b05aeb2c6a7347abc315588d51924e" sha1="dc3b9f3fe9e3c5d1e42007fb6a2bf58e148527e8"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 14).bin" size="31048752" crc="08c62595" md5="7c427a153236f53039af4ca2f0469957" sha1="eeccd74df00b570105aab71b216c40870941ec4f"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 15).bin" size="20198976" crc="d47c6cfa" md5="30a84191f3f31c5b8fd31691d9053167" sha1="cbebf76de1d666ad88b58f76a823f24d82e8c662"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 16).bin" size="47893776" crc="93d42ec6" md5="61a31c6972e9853a018e1d98a734e85f" sha1="5fbadf959c0ae406306f08679cac7220e134157d"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 17).bin" size="27607776" crc="2299a625" md5="6b7cdc4bf6e205f853e86fc936fd97f3" sha1="b3d7af5898ffb9a525db0db71061cc6c444fb4ac"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 18).bin" size="17729376" crc="a6f1e278" md5="eeae167b51ebb7039c7ccfa4bf6f79b2" sha1="29e6468c43bb2f87a953a13771612f84e22ccd75"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 19).bin" size="23992752" crc="24dabe88" md5="9255855c13679f06d73a67f20d8eba66" sha1="bdb66e293721be75b9bbe0ce7025edf22632c1cc"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 20).bin" size="29018976" crc="2dd6b82f" md5="2ae6e6f96bcb81551860f6b783b43082" sha1="a84b643ee978ed7ac0a67964dfe3e63765ca2e7a"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 21).bin" size="21523152" crc="9e9e7ed5" md5="a405e2a075d116e8b863fdda53018ba3" sha1="76664799f6d3b00acd5596a3afcada5452ef04dd"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 22).bin" size="36869952" crc="d55a5fe3" md5="32e0c0635788c7819fc82a2a8d9866b6" sha1="d392e1c35eb22a6501df68590d5d398247bdb2e2"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 23).bin" size="3720864" crc="0821ada6" md5="e79732ab93579c0a5efaae0a9e82d760" sha1="f0bc470ebf22ed3ffe2154d6b7701d3fe4315f13"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 24).bin" size="3720864" crc="eb3e702b" md5="5062c47b68ddde3bdb268415cf0d7b7c" sha1="9c5eefa29601c77a00ae47582df1c145a804e95b"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 25).bin" size="3720864" crc="6983b02d" md5="58bfe62441bb23fd7f385fcb415c6684" sha1="3ca879e389d0a0f1cc4b03de84c10aa988e45bd4"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 26).bin" size="3720864" crc="7c40fb95" md5="19e81551b700977a3c33717887f9bd67" sha1="01261045188df6ef2efd7579d2288ac4d91f1a4d"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 27).bin" size="3720864" crc="3eb0fc47" md5="af467ff2a2423796a02d50c4c7b4c12f" sha1="daf6cf853c54ea3af57b1eecfef1de95b4826d63"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 28).bin" size="3720864" crc="dce49ace" md5="eda2f58146a4feb2facd74bc11db4e80" sha1="854cbd92a05a524b432549efbb8730ba250cafce"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 29).bin" size="3720864" crc="cc090316" md5="572048ea6f7407c400c18a59ecab3a83" sha1="fd7cb64a4375b0230f077cbd5d2f5455b9e31d2b"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 30).bin" size="3720864" crc="99a4c4d6" md5="1fcb16145ab488ef00f0b62f8caa9aaf" sha1="5a10e0388a08f9e5e4fce88515307cddabc52c5a"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 31).bin" size="3720864" crc="ce2cb071" md5="c65f6959f747dfab62c211812b5254ed" sha1="4df720dbf057700ec81d4a3d41741008d83d969c"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 32).bin" size="3720864" crc="30ffd6a4" md5="ab8352c181dcdb89e32fc9894dec7fe0" sha1="0d060a8a53e87c941c8e97337ab00f25a020b5bb"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 33).bin" size="3720864" crc="881ee93c" md5="1d1fed6c10d36d0e8c68c02253c4af2d" sha1="97b351a266b2c455342e40be53fab97cc2bea7af"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 34).bin" size="3720864" crc="7711532a" md5="12320a22b01d9901641274ec524e9946" sha1="d4844cf58b74ac807d94ffe6fdf54a9f74076cf3"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 35).bin" size="3720864" crc="6bfa9588" md5="e075772ffbbc5203d900de83360c84e8" sha1="0dbd0bbba7ef4b0442ecc5a505e3afa6ee256007"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 36).bin" size="3720864" crc="ebd80c1b" md5="3f5e0ffb66fff63781775f689e606781" sha1="376b73833fec3b8efb68613297735235eed5f2f3"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 37).bin" size="3720864" crc="89454528" md5="3b3a7072334bb5756401e45c7679916e" sha1="6f48036e499ed71205c2866e838d60ff3c867196"/>
-		<rom name="Fatal Fury Special (Europe) (Beta) (Track 38).bin" size="2036832" crc="792bc85e" md5="1c330a18a81d35da093336ae844eae6d" sha1="06b82232705801f4951a7f7fcd1ed2755cca1d40"/>
+		<description>Fatal Fury Special (Europe) (Beta) (1995-02-23)</description>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 01).bin" size="15845424" crc="d6dad22d" md5="5ef0f3075f13f0a77ee0785ff3b899db" sha1="66c5a0caf0b1bf856c4423ef75d727bb2d683a2b"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 02).bin" size="2900016" crc="d6f72075" md5="d99f0703802e215f733113123240710b" sha1="38d43eba5c600c27932bfcf49786df9bbe2caf2a"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 03).bin" size="5880000" crc="0c3b346c" md5="614b343f829950bd34412d231d3a3a1c" sha1="1bccc5181b19f07f6f5615e1152fea877a02076f"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 04).bin" size="6595008" crc="7ca98390" md5="bee1f71b9b1c0f810e593a8a57b764ef" sha1="3b9c38494b94b72ad0a19a031213e314a82a24e9"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 05).bin" size="4214784" crc="04e8d0d3" md5="7080d8b39b77074c62f6b4cb5d291888" sha1="69f2095471a2a9ac836d2a9ce8eb79e6f798cc1f"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 06).bin" size="7674576" crc="91b8ba42" md5="55beb0ae6cae6d9d36c181cfd79c5a30" sha1="335231655ed77397a699fcb9117063d915889142"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 07).bin" size="19935552" crc="ac49a747" md5="11eefda6bb3abc362338e313b32d7550" sha1="3efc9a57142150919d18a24d51be92ebde3f81d0"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 08).bin" size="21699552" crc="1fa5364d" md5="e630e2fda9f9dd1d787c720f17a492f3" sha1="04a9d95c8fa00224c3551dbcd657475f7114ea6b"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 09).bin" size="20728176" crc="47a9280c" md5="98c040531947a2b6068a2eb6b0639948" sha1="229d062ca36dea66b30ea44a68adbcc6e9a61550"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 10).bin" size="25580352" crc="efc14027" md5="644d0f58b2fa4d30d47266ea11cd24d4" sha1="7a114a1c85b90a5de9c5604d59ea639d884556bc"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 11).bin" size="18877152" crc="5bbe0a75" md5="3faebcea13d0461c40b56f077a02a4ff" sha1="59bde70f00f51e862d3fbfa99d9a18b020a8adb1"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 12).bin" size="26462352" crc="91635096" md5="28e9495880ef225382f2ba74f4c74d21" sha1="4eba89f1686b2e431fa10ddfd284715dc4350606"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 13).bin" size="26638752" crc="f41e23f5" md5="37b05aeb2c6a7347abc315588d51924e" sha1="dc3b9f3fe9e3c5d1e42007fb6a2bf58e148527e8"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 14).bin" size="31048752" crc="08c62595" md5="7c427a153236f53039af4ca2f0469957" sha1="eeccd74df00b570105aab71b216c40870941ec4f"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 15).bin" size="20198976" crc="d47c6cfa" md5="30a84191f3f31c5b8fd31691d9053167" sha1="cbebf76de1d666ad88b58f76a823f24d82e8c662"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 16).bin" size="47893776" crc="93d42ec6" md5="61a31c6972e9853a018e1d98a734e85f" sha1="5fbadf959c0ae406306f08679cac7220e134157d"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 17).bin" size="27607776" crc="2299a625" md5="6b7cdc4bf6e205f853e86fc936fd97f3" sha1="b3d7af5898ffb9a525db0db71061cc6c444fb4ac"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 18).bin" size="17729376" crc="a6f1e278" md5="eeae167b51ebb7039c7ccfa4bf6f79b2" sha1="29e6468c43bb2f87a953a13771612f84e22ccd75"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 19).bin" size="23992752" crc="24dabe88" md5="9255855c13679f06d73a67f20d8eba66" sha1="bdb66e293721be75b9bbe0ce7025edf22632c1cc"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 20).bin" size="29018976" crc="2dd6b82f" md5="2ae6e6f96bcb81551860f6b783b43082" sha1="a84b643ee978ed7ac0a67964dfe3e63765ca2e7a"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 21).bin" size="21523152" crc="9e9e7ed5" md5="a405e2a075d116e8b863fdda53018ba3" sha1="76664799f6d3b00acd5596a3afcada5452ef04dd"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 22).bin" size="36869952" crc="d55a5fe3" md5="32e0c0635788c7819fc82a2a8d9866b6" sha1="d392e1c35eb22a6501df68590d5d398247bdb2e2"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 23).bin" size="3720864" crc="0821ada6" md5="e79732ab93579c0a5efaae0a9e82d760" sha1="f0bc470ebf22ed3ffe2154d6b7701d3fe4315f13"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 24).bin" size="3720864" crc="eb3e702b" md5="5062c47b68ddde3bdb268415cf0d7b7c" sha1="9c5eefa29601c77a00ae47582df1c145a804e95b"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 25).bin" size="3720864" crc="6983b02d" md5="58bfe62441bb23fd7f385fcb415c6684" sha1="3ca879e389d0a0f1cc4b03de84c10aa988e45bd4"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 26).bin" size="3720864" crc="7c40fb95" md5="19e81551b700977a3c33717887f9bd67" sha1="01261045188df6ef2efd7579d2288ac4d91f1a4d"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 27).bin" size="3720864" crc="3eb0fc47" md5="af467ff2a2423796a02d50c4c7b4c12f" sha1="daf6cf853c54ea3af57b1eecfef1de95b4826d63"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 28).bin" size="3720864" crc="dce49ace" md5="eda2f58146a4feb2facd74bc11db4e80" sha1="854cbd92a05a524b432549efbb8730ba250cafce"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 29).bin" size="3720864" crc="cc090316" md5="572048ea6f7407c400c18a59ecab3a83" sha1="fd7cb64a4375b0230f077cbd5d2f5455b9e31d2b"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 30).bin" size="3720864" crc="99a4c4d6" md5="1fcb16145ab488ef00f0b62f8caa9aaf" sha1="5a10e0388a08f9e5e4fce88515307cddabc52c5a"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 31).bin" size="3720864" crc="ce2cb071" md5="c65f6959f747dfab62c211812b5254ed" sha1="4df720dbf057700ec81d4a3d41741008d83d969c"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 32).bin" size="3720864" crc="30ffd6a4" md5="ab8352c181dcdb89e32fc9894dec7fe0" sha1="0d060a8a53e87c941c8e97337ab00f25a020b5bb"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 33).bin" size="3720864" crc="881ee93c" md5="1d1fed6c10d36d0e8c68c02253c4af2d" sha1="97b351a266b2c455342e40be53fab97cc2bea7af"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 34).bin" size="3720864" crc="7711532a" md5="12320a22b01d9901641274ec524e9946" sha1="d4844cf58b74ac807d94ffe6fdf54a9f74076cf3"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 35).bin" size="3720864" crc="6bfa9588" md5="e075772ffbbc5203d900de83360c84e8" sha1="0dbd0bbba7ef4b0442ecc5a505e3afa6ee256007"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 36).bin" size="3720864" crc="ebd80c1b" md5="3f5e0ffb66fff63781775f689e606781" sha1="376b73833fec3b8efb68613297735235eed5f2f3"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 37).bin" size="3720864" crc="89454528" md5="3b3a7072334bb5756401e45c7679916e" sha1="6f48036e499ed71205c2866e838d60ff3c867196"/>
+		<rom name="Fatal Fury Special (Europe) (Beta) (1995-02-23) (Track 38).bin" size="2036832" crc="792bc85e" md5="1c330a18a81d35da093336ae844eae6d" sha1="06b82232705801f4951a7f7fcd1ed2755cca1d40"/>
 	</game>
 	<game name="Fatal Fury Special (Europe) (Demo)" sha1="2c2e70523948cda12ae1aee7e711320f6e497d80" size="50302459" crc="f37486f0" fullsha1="da02f0e4e9b4eb74ffa803a7fba30135c10b6d65" dataSha1="b08ceca1aa4bf61ac656b67a952ae8cc343fa949">
 		<category>Games</category>
@@ -2357,32 +2357,32 @@
 		<rom name="Lethal Enforcers (USA) (Track 22).bin" size="22666224" crc="c79e25c1" md5="d859ce55028522188afeea13a0e93687" sha1="d61a38979223c0bcb681d8c2044bf4dfb87e0b45"/>
 		<rom name="Lethal Enforcers (USA) (Track 23).bin" size="37516752" crc="2f22456c" md5="c1675791f61573a183b094dab77a2299" sha1="46607f42d78939bf75afbc858be72a5161acc454"/>
 	</game>
-	<game name="Lethal Enforcers II - Gun Fighters (Europe) (Beta)" sha1="4836cf0b316e7b95063dde52e28d6691a71876f9" size="366443867" crc="4be9a827" fullsha1="72ed2480b3a9a071e495c0467ffbefb1f075c4bb" dataSha1="c01fd2f01a1e3532eba46463da2d7c03b21bcbac">
+	<game name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23)" sha1="4836cf0b316e7b95063dde52e28d6691a71876f9" size="366443867" crc="4be9a827" fullsha1="72ed2480b3a9a071e495c0467ffbefb1f075c4bb" dataSha1="c01fd2f01a1e3532eba46463da2d7c03b21bcbac">
 		<category>Games</category>
-		<description>Lethal Enforcers II - Gun Fighters (Europe) (Beta)</description>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 01).bin" size="14845824" crc="f1e65ac0" md5="f28f9c84e8245c792886e155c030ea6f" sha1="df80e3e2ca2c49b65b7fd637773490b192bb2fa2"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 02).bin" size="43697808" crc="b93c5d38" md5="c4e1e9ec5b903e0e78de978d35996a20" sha1="bbb852eb4d7438367dda8d94dcfc7ae1262448ed"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 03).bin" size="36042048" crc="5a5f097a" md5="c5b01cb993cfe5587bb4b76270f8b1fc" sha1="cfb3f4da2397f507315a63522311641710a62805"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 04).bin" size="24474912" crc="0c36241b" md5="16a4095986605ead8a5e9a82373c3abe" sha1="a13c8daa4e92e9478ee8dd9f4270579295730aa1"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 05).bin" size="37991856" crc="85d840db" md5="17538b0061aae0792093a27af42bce19" sha1="a3ece35342393b5e7fdc3cb3d587d74329d3814b"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 06).bin" size="28837872" crc="da4a7324" md5="c7623d22eb36af19b8cec5c20af66a5e" sha1="4f9837ca6c883ecea94224e5081016c89271220f"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 07).bin" size="27017424" crc="cc03c878" md5="722e8bef70a3d77e3d8ede5e8e2fcbb5" sha1="d6887a7a6e1c1130f3d4be9dfcfa3705732649f3"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 08).bin" size="51675792" crc="2f8877dc" md5="5d9cfd8845c8c0fda92c566e95f3bd2b" sha1="851c161d77db141809c0ac800927f140af392831"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 09).bin" size="25606224" crc="f71bda56" md5="e2a5295e4a326a67268454e7b64f0052" sha1="6e7d485b2fe9b3c0fef74f0f6cc25f3295bf8519"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 10).bin" size="27885312" crc="f81ec1bd" md5="3e806f26859411f29067f943818ea708" sha1="446f41fa3774a71c3813a87d024a67e707243ca7"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 11).bin" size="62257440" crc="94a04309" md5="a2671819ea089bd18145cbe83c670f9d" sha1="37521f378e069c898fe7c08cce3305bccf9365f0"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 12).bin" size="28922544" crc="58d90f1d" md5="e224c90fcdff7bb77a6d80e9ff74189e" sha1="bac69d469f9f324b72ba78e39fe6574bb9d6ffa9"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 13).bin" size="55655376" crc="335fc5e1" md5="0686557c60bb6a34b2cb5e8764f0f1b8" sha1="658a7efe9d8134a98037736ea1507199ac6c432d"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 14).bin" size="1331232" crc="cad9d5a1" md5="026deab9bb7e76a06d60d2a7c3e056b5" sha1="eedcbd0910c1f60e518f8c5d55debbf60492d0ad"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 15).bin" size="1166592" crc="5c525831" md5="7e01360a78feebfe30f0c47ee11213f9" sha1="1d2465aa16c46e23b4b22fae6bb33f7242904522"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 16).bin" size="1164240" crc="ebc20c1c" md5="4a01ea53074d67cb6e7d2b9fda76e359" sha1="0aa866b6458ebba08d41735bb0948c76fd5048cf"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 17).bin" size="32335296" crc="a07d7cec" md5="6ac4cfff754c68c380274ee4cc1054f6" sha1="828fccfb6b6a133a36a957ff2e25becbf2dff53d"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 18).bin" size="44612736" crc="d0ef571b" md5="a58c2953104ef8abd42eb1ce205329a5" sha1="3a6bdaa30280ba7931bd8f84df632f00695689dd"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 19).bin" size="1437072" crc="6d65ec2d" md5="8180638a5058adfa35e6af3d18756be4" sha1="bea4d66e940c927aaae5b2926c9f51b816fbdff2"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 20).bin" size="18552576" crc="2cf83dfb" md5="749fb00631fdaf829ae531e0fdb3f9df" sha1="edf0fe55d7d880640346182ba11cb3d4778b9c18"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 21).bin" size="5957616" crc="15f7e470" md5="e4804341367ae858663282dc45b9b006" sha1="cf538d98e461557bf199242a7f7ee28b82ffc684"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 22).bin" size="5569536" crc="231dae7f" md5="5d1b5225e07ce1fbe83bdd4a88a2699d" sha1="1497d0df025d819557f624eb1a9f16123ad300dc"/>
-		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (Track 23).bin" size="6507984" crc="3bf0c6dd" md5="35e70423720b4ab77e178bdad48375fd" sha1="ac77b2867bf35e4190fac087c8952f73b1c91abf"/>
+		<description>Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23)</description>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 01).bin" size="14845824" crc="f1e65ac0" md5="f28f9c84e8245c792886e155c030ea6f" sha1="df80e3e2ca2c49b65b7fd637773490b192bb2fa2"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 02).bin" size="43697808" crc="b93c5d38" md5="c4e1e9ec5b903e0e78de978d35996a20" sha1="bbb852eb4d7438367dda8d94dcfc7ae1262448ed"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 03).bin" size="36042048" crc="5a5f097a" md5="c5b01cb993cfe5587bb4b76270f8b1fc" sha1="cfb3f4da2397f507315a63522311641710a62805"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 04).bin" size="24474912" crc="0c36241b" md5="16a4095986605ead8a5e9a82373c3abe" sha1="a13c8daa4e92e9478ee8dd9f4270579295730aa1"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 05).bin" size="37991856" crc="85d840db" md5="17538b0061aae0792093a27af42bce19" sha1="a3ece35342393b5e7fdc3cb3d587d74329d3814b"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 06).bin" size="28837872" crc="da4a7324" md5="c7623d22eb36af19b8cec5c20af66a5e" sha1="4f9837ca6c883ecea94224e5081016c89271220f"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 07).bin" size="27017424" crc="cc03c878" md5="722e8bef70a3d77e3d8ede5e8e2fcbb5" sha1="d6887a7a6e1c1130f3d4be9dfcfa3705732649f3"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 08).bin" size="51675792" crc="2f8877dc" md5="5d9cfd8845c8c0fda92c566e95f3bd2b" sha1="851c161d77db141809c0ac800927f140af392831"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 09).bin" size="25606224" crc="f71bda56" md5="e2a5295e4a326a67268454e7b64f0052" sha1="6e7d485b2fe9b3c0fef74f0f6cc25f3295bf8519"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 10).bin" size="27885312" crc="f81ec1bd" md5="3e806f26859411f29067f943818ea708" sha1="446f41fa3774a71c3813a87d024a67e707243ca7"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 11).bin" size="62257440" crc="94a04309" md5="a2671819ea089bd18145cbe83c670f9d" sha1="37521f378e069c898fe7c08cce3305bccf9365f0"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 12).bin" size="28922544" crc="58d90f1d" md5="e224c90fcdff7bb77a6d80e9ff74189e" sha1="bac69d469f9f324b72ba78e39fe6574bb9d6ffa9"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 13).bin" size="55655376" crc="335fc5e1" md5="0686557c60bb6a34b2cb5e8764f0f1b8" sha1="658a7efe9d8134a98037736ea1507199ac6c432d"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 14).bin" size="1331232" crc="cad9d5a1" md5="026deab9bb7e76a06d60d2a7c3e056b5" sha1="eedcbd0910c1f60e518f8c5d55debbf60492d0ad"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 15).bin" size="1166592" crc="5c525831" md5="7e01360a78feebfe30f0c47ee11213f9" sha1="1d2465aa16c46e23b4b22fae6bb33f7242904522"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 16).bin" size="1164240" crc="ebc20c1c" md5="4a01ea53074d67cb6e7d2b9fda76e359" sha1="0aa866b6458ebba08d41735bb0948c76fd5048cf"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 17).bin" size="32335296" crc="a07d7cec" md5="6ac4cfff754c68c380274ee4cc1054f6" sha1="828fccfb6b6a133a36a957ff2e25becbf2dff53d"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 18).bin" size="44612736" crc="d0ef571b" md5="a58c2953104ef8abd42eb1ce205329a5" sha1="3a6bdaa30280ba7931bd8f84df632f00695689dd"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 19).bin" size="1437072" crc="6d65ec2d" md5="8180638a5058adfa35e6af3d18756be4" sha1="bea4d66e940c927aaae5b2926c9f51b816fbdff2"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 20).bin" size="18552576" crc="2cf83dfb" md5="749fb00631fdaf829ae531e0fdb3f9df" sha1="edf0fe55d7d880640346182ba11cb3d4778b9c18"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 21).bin" size="5957616" crc="15f7e470" md5="e4804341367ae858663282dc45b9b006" sha1="cf538d98e461557bf199242a7f7ee28b82ffc684"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 22).bin" size="5569536" crc="231dae7f" md5="5d1b5225e07ce1fbe83bdd4a88a2699d" sha1="1497d0df025d819557f624eb1a9f16123ad300dc"/>
+		<rom name="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23) (Track 23).bin" size="6507984" crc="3bf0c6dd" md5="35e70423720b4ab77e178bdad48375fd" sha1="ac77b2867bf35e4190fac087c8952f73b1c91abf"/>
 	</game>
 	<game name="Lethal Enforcers II - Gun Fighters (Europe) (Demo)" sha1="1e1a76b1f7d102b178eb731df9bfa8fc7b6b6dde" size="185897170" crc="75803c1c" fullsha1="b7a555fa57290f100ba4bb757d2a6b94931eb704" dataSha1="7f936cdfe3f763629a50bb126b06036c65034c61">
 		<category>Games</category>
@@ -2638,10 +2638,10 @@
 		<rom name="Make My Video - INXS (USA) (Track 01).bin" size="504426384" crc="e020878e" md5="b95b4a287dcefa59bd20331cd97f286c" sha1="24ce6fd419ff3f3bd7c760bdd7192231136332be"/>
 		<rom name="Make My Video - INXS (USA) (Track 02).bin" size="1881600" crc="45e5e714" md5="91ad7f63c348e0f85b0c37d8a780d7be" sha1="cb8393b327df248a43aaa9101c98faefa01c24b5"/>
 	</game>
-	<game name="Make My Video - INXS (USA) (Beta)" sha1="065fb86838d4a3dedde6669d92479445b4d7c050" size="301725747" crc="7ce847e3" fullsha1="2bf89089b4fe2bea8a5b832cb30e2e3d2bbc14a5" dataSha1="e5e5bad6095ffafc0f286ddbb65b4097d63671c8">
+	<game name="Make My Video - INXS (USA) (Beta) (1992-12-15)" sha1="065fb86838d4a3dedde6669d92479445b4d7c050" size="301725747" crc="7ce847e3" fullsha1="2bf89089b4fe2bea8a5b832cb30e2e3d2bbc14a5" dataSha1="e5e5bad6095ffafc0f286ddbb65b4097d63671c8">
 		<category>Games</category>
-		<description>Make My Video - INXS (USA) (Beta)</description>
-		<rom name="Make My Video - INXS (USA) (Beta) (Track 01).bin" size="496229664" crc="7bd45922" md5="7d6519bf02d40158fa2e1674d0eeee9f" sha1="ba08ee24a54486867a659ac01bafafcedff8bb33"/>
+		<description>Make My Video - INXS (USA) (Beta) (1992-12-15)</description>
+		<rom name="Make My Video - INXS (USA) (Beta) (1992-12-15) (Track 01).bin" size="496229664" crc="7bd45922" md5="7d6519bf02d40158fa2e1674d0eeee9f" sha1="ba08ee24a54486867a659ac01bafafcedff8bb33"/>
 	</game>
 	<game name="Make My Video - Kris Kross (Europe)" sha1="ca8c6442137f767b183affc2ea93948374f6e557" size="245225372" crc="ce3176c2" fullsha1="98e1959ceea67a5872b4457989b26b24a044691d" dataSha1="9c21066ee52da1a7f3e5c4de47429ed1a4677aee">
 		<category>Games</category>
@@ -2659,10 +2659,10 @@
 		<description>Make My Video - Marky Mark and the Funky Bunch (USA)</description>
 		<rom name="Make My Video - Marky Mark and the Funky Bunch (USA) (Track 01).bin" size="553554960" crc="5055be2b" md5="60c841a44be6a0c406fa08be03d44494" sha1="a00ac37db6a1a81879e2baea004753c8e2fa3059"/>
 	</game>
-	<game name="Make My Video - Marky Mark and the Funky Bunch (USA) (Beta)" sha1="c43115af500e6986c1d8cca28464c10ca9a75680" size="345553280" crc="5bf3c08a" fullsha1="2d0de9bbb9ff59a1b310c88eadd667e765e192e4" dataSha1="90955485ad26d381da2bcb21e1f17d088103383d">
+	<game name="Make My Video - Marky Mark and the Funky Bunch (USA) (Beta) (1992-12-11)" sha1="c43115af500e6986c1d8cca28464c10ca9a75680" size="345553280" crc="5bf3c08a" fullsha1="2d0de9bbb9ff59a1b310c88eadd667e765e192e4" dataSha1="90955485ad26d381da2bcb21e1f17d088103383d">
 		<category>Games</category>
-		<description>Make My Video - Marky Mark and the Funky Bunch (USA) (Beta)</description>
-		<rom name="Make My Video - Marky Mark and the Funky Bunch (USA) (Beta) (Track 01).bin" size="553202160" crc="fd3654f5" md5="2a4df388e18fdd701ad9bd4366b48874" sha1="6d366f90184c7c0c0b4135dfc199eaec39e90e39"/>
+		<description>Make My Video - Marky Mark and the Funky Bunch (USA) (Beta) (1992-12-11)</description>
+		<rom name="Make My Video - Marky Mark and the Funky Bunch (USA) (Beta) (1992-12-11) (Track 01).bin" size="553202160" crc="fd3654f5" md5="2a4df388e18fdd701ad9bd4366b48874" sha1="6d366f90184c7c0c0b4135dfc199eaec39e90e39"/>
 	</game>
 	<game name="Marko (USA) (Unl)" sha1="d41c6d08bbf45b5086ea43e3fabf902d910a8338" size="183587133" crc="4b7cedd1" fullsha1="349615c9f833d8986c4af7eafe7dac338e1ab37d" dataSha1="dd2b1859382b99f7152ad13f49cf4e27a3d2d613">
 		<category>Games</category>
@@ -3624,16 +3624,16 @@
 		<rom name="Secret of Monkey Island, The (USA) (Limited Run Games) (Track 26).bin" size="11176704" crc="9b3d3e03" md5="0010673ffeef69e65083b964dd9fb44b" sha1="28ffc8c7c48cf6134f72d1c64b733d929eb84aae"/>
 		<rom name="Secret of Monkey Island, The (USA) (Limited Run Games) (Track 27).bin" size="10252368" crc="86b9300e" md5="b82553f0ad3230da3a12235d530810dc" sha1="c0c65b5d338db8080ee11b347cb22dda7ca66316"/>
 	</game>
-	<game name="Sega CD Demo (Japan) (Proto)" sha1="9a70a87d84d3093d1ed47192dc321e87c648072a" size="21798250" crc="40231044" fullsha1="4002ab1a63af93a15405ed90ff3bd45d3a20fb2f" dataSha1="227997bf53ef4a8df4b9f88dabe3ea3f1693eef4">
+	<game name="Sega CD Demo (Japan) (Proto) (1992-05-29)" sha1="9a70a87d84d3093d1ed47192dc321e87c648072a" size="21798250" crc="40231044" fullsha1="4002ab1a63af93a15405ed90ff3bd45d3a20fb2f" dataSha1="227997bf53ef4a8df4b9f88dabe3ea3f1693eef4">
 		<category>Games</category>
-		<description>Sega CD Demo (Japan) (Proto)</description>
-		<rom name="Sega CD Demo (Japan) (Proto) (Track 01).bin" size="36658272" crc="871d72b8" md5="84c3703cecf18f1236f2326da4c9903c" sha1="c1f148ec5b4b98021a956674a95a4cd48ef6dd15"/>
-		<rom name="Sega CD Demo (Japan) (Proto) (Track 02).bin" size="7801584" crc="4f9f16ea" md5="06e0507df9a97e0980c2ca8c4c5eb2e2" sha1="85cc2b90af6fd08b1a1fae718e12d05525b0b2f2"/>
-		<rom name="Sega CD Demo (Japan) (Proto) (Track 03).bin" size="6430368" crc="38286e97" md5="df519fc10be6c0a5838ee1c729273eec" sha1="f7c35cd5c7b5b805c2181c08c820857502e30325"/>
-		<rom name="Sega CD Demo (Japan) (Proto) (Track 04).bin" size="4638144" crc="1a49e2eb" md5="e0da6f98bc8f423e69c214c394b86997" sha1="115fe5beb90de3c13cfb4cfef6c8fa4fbe891ab1"/>
-		<rom name="Sega CD Demo (Japan) (Proto) (Track 05).bin" size="12538512" crc="6390f443" md5="3e551e68dbeef9717a129e5f962466ee" sha1="ba50373c831f171efbdebf9f95a984cefacf70d7"/>
-		<rom name="Sega CD Demo (Japan) (Proto) (Track 06).bin" size="11844672" crc="1dc9a3d7" md5="abbae4574ff3e509583121ca4c6663a9" sha1="a0ca1f4b71df3f2835559d3869694150f6f1e147"/>
-		<rom name="Sega CD Demo (Japan) (Proto) (Track 07).bin" size="8154384" crc="06c49a19" md5="3c23bc985b0fdd5aa5d41df09d385c3f" sha1="e6ef51ecba0a5b2aefd56d0a95869e46b13056a6"/>
+		<description>Sega CD Demo (Japan) (Proto) (1992-05-29)</description>
+		<rom name="Sega CD Demo (Japan) (Proto) (1992-05-29) (Track 01).bin" size="36658272" crc="871d72b8" md5="84c3703cecf18f1236f2326da4c9903c" sha1="c1f148ec5b4b98021a956674a95a4cd48ef6dd15"/>
+		<rom name="Sega CD Demo (Japan) (Proto) (1992-05-29) (Track 02).bin" size="7801584" crc="4f9f16ea" md5="06e0507df9a97e0980c2ca8c4c5eb2e2" sha1="85cc2b90af6fd08b1a1fae718e12d05525b0b2f2"/>
+		<rom name="Sega CD Demo (Japan) (Proto) (1992-05-29) (Track 03).bin" size="6430368" crc="38286e97" md5="df519fc10be6c0a5838ee1c729273eec" sha1="f7c35cd5c7b5b805c2181c08c820857502e30325"/>
+		<rom name="Sega CD Demo (Japan) (Proto) (1992-05-29) (Track 04).bin" size="4638144" crc="1a49e2eb" md5="e0da6f98bc8f423e69c214c394b86997" sha1="115fe5beb90de3c13cfb4cfef6c8fa4fbe891ab1"/>
+		<rom name="Sega CD Demo (Japan) (Proto) (1992-05-29) (Track 05).bin" size="12538512" crc="6390f443" md5="3e551e68dbeef9717a129e5f962466ee" sha1="ba50373c831f171efbdebf9f95a984cefacf70d7"/>
+		<rom name="Sega CD Demo (Japan) (Proto) (1992-05-29) (Track 06).bin" size="11844672" crc="1dc9a3d7" md5="abbae4574ff3e509583121ca4c6663a9" sha1="a0ca1f4b71df3f2835559d3869694150f6f1e147"/>
+		<rom name="Sega CD Demo (Japan) (Proto) (1992-05-29) (Track 07).bin" size="8154384" crc="06c49a19" md5="3c23bc985b0fdd5aa5d41df09d385c3f" sha1="e6ef51ecba0a5b2aefd56d0a95869e46b13056a6"/>
 	</game>
 	<game name="Sega Classics Arcade Collection (USA) (4-in-1) (RE2)" sha1="ba4d79e0c6c568d86e3170f03f7ab2f0a0322f7f" size="79782417" crc="2d54c28f" fullsha1="d37de64e85e79383448e89d5bbcf6552d61e9b88" dataSha1="cd70c3022376fbf2e8f2755ce6b0f84700859e83">
 		<category>Games</category>
@@ -4108,30 +4108,30 @@
 		<rom name="Snatcher (Europe) (Track 20).bin" size="5844720" crc="b5341397" md5="006364d3667b62b2371a85a2dca67ed5" sha1="5d9fa0f6b1f5e3611df29159cb9d7ce132ae6fb1"/>
 		<rom name="Snatcher (Europe) (Track 21).bin" size="73805760" crc="cde0a9e4" md5="f22950f393f8d0829a556ff5685a4ce9" sha1="6144d301e257da0709dddaf7df9ad510006a015e"/>
 	</game>
-	<game name="Snatcher (Europe) (Beta)" sha1="470481769282050d44f99931d87f8ec7ed41bae0" size="335406781" crc="cac2df95" fullsha1="6ed7458b427ebfd5b61bce5b7e87f1351e9c8201" dataSha1="2eb769e98dc63169a1c2b0e64812d95610a47efb">
+	<game name="Snatcher (Europe) (Beta) (1994-10-07)" sha1="470481769282050d44f99931d87f8ec7ed41bae0" size="335406781" crc="cac2df95" fullsha1="6ed7458b427ebfd5b61bce5b7e87f1351e9c8201" dataSha1="2eb769e98dc63169a1c2b0e64812d95610a47efb">
 		<category>Games</category>
-		<description>Snatcher (Europe) (Beta)</description>
-		<rom name="Snatcher (Europe) (Beta) (Track 01).bin" size="131744928" crc="b6f1932e" md5="44b57d67b3e216e77d6357abb3e4627f" sha1="606dc65dba04fd95097d0cfc8fed22de7122d786"/>
-		<rom name="Snatcher (Europe) (Beta) (Track 02).bin" size="1164240" crc="d00f54c4" md5="cc325c2484ff41e7d4b0e9060894146b" sha1="ac73d5629875586db0a5d776a13beef377d9a854"/>
-		<rom name="Snatcher (Europe) (Beta) (Track 03).bin" size="23802240" crc="40a49fba" md5="786b30a8b252a61fc91bbabcf4685edb" sha1="43f02ad9d970492426732bfede4c76a0cbf202a2"/>
-		<rom name="Snatcher (Europe) (Beta) (Track 04).bin" size="48345360" crc="e6043e39" md5="6230808a2c1f340f8415cdc49326e155" sha1="ce50b9dad31f960905c5c8d105051b65d45bcada"/>
-		<rom name="Snatcher (Europe) (Beta) (Track 05).bin" size="3716160" crc="c32e9ebe" md5="80ef48d3a8cd6d6d8cf7db175656571a" sha1="9e1374fc524759ba8ceccebad4047e136852fcd4"/>
-		<rom name="Snatcher (Europe) (Beta) (Track 06).bin" size="12740784" crc="a7705e57" md5="03be927bbc866c3158a5a7af03634505" sha1="0310fe11504dc05388a5e025ae1ca0af4fe0e0d6"/>
-		<rom name="Snatcher (Europe) (Beta) (Track 07).bin" size="29404704" crc="fccd71c5" md5="e4d03194b32eca0edb65b92f1f5299a7" sha1="8a124916025294432adee4dd75baf9082d5d7f7b"/>
-		<rom name="Snatcher (Europe) (Beta) (Track 08).bin" size="37843680" crc="2b5cf3d5" md5="749bea144eb88ee76cd19fc93a89adbb" sha1="4d7411ec40205baf5c294f7e16813de8eb493f4b"/>
-		<rom name="Snatcher (Europe) (Beta) (Track 09).bin" size="15412656" crc="afe3dcbf" md5="091c2fe24eee2cc5969a5fd0a4775c10" sha1="697295e985cefec143a2981734d3f93066f16dc7"/>
-		<rom name="Snatcher (Europe) (Beta) (Track 10).bin" size="22769712" crc="9832f63e" md5="f275214198e76b425f76b825fb870dc5" sha1="a27713205d8fac230e54c51cfd773762eb4b5d23"/>
-		<rom name="Snatcher (Europe) (Beta) (Track 11).bin" size="19164096" crc="4150d5c5" md5="7cac1aca396c2b7891d4f86652c1b51e" sha1="00e8f43bf89470b7cbd596c93ef57dcb198d6223"/>
-		<rom name="Snatcher (Europe) (Beta) (Track 12).bin" size="47576256" crc="d6bb6cba" md5="533669bf6b1b22bce349e31d1328be18" sha1="17664b3ab873cb71c158f9df4d28b77fc6620138"/>
-		<rom name="Snatcher (Europe) (Beta) (Track 13).bin" size="20278944" crc="477d9244" md5="f30b732535691c71494c4ab54c375cd3" sha1="a8d0eb4929d5560e631500734e0b309dbc2d5bd9"/>
-		<rom name="Snatcher (Europe) (Beta) (Track 14).bin" size="14445984" crc="749b2596" md5="1af1918aa779911eca30a92ca28bdc05" sha1="ee02d2d226d1a668b11f9b73daaf713212e0492b"/>
-		<rom name="Snatcher (Europe) (Beta) (Track 15).bin" size="13778016" crc="a8562533" md5="48c5cfedac8956afde3e5fb4965deeb2" sha1="644ec8b9ed2e35f00fc40bda24f39f442f72a4e2"/>
-		<rom name="Snatcher (Europe) (Beta) (Track 16).bin" size="3027024" crc="71af88c7" md5="774de00f0effe67e1d2079efbdfc13b5" sha1="1bc854049cbd19f5c5c91eff71731c8a5f844f29"/>
-		<rom name="Snatcher (Europe) (Beta) (Track 17).bin" size="17461248" crc="562edc62" md5="44e8f8cf01786be03858961bdb103c73" sha1="49802ef9c3a3e18dd8e9853e45c8b13069f0a538"/>
-		<rom name="Snatcher (Europe) (Beta) (Track 18).bin" size="8314320" crc="f0a265b6" md5="6a83142465025eb01057686d903893ad" sha1="f0c798e93f582e18209d47631f2e84da2bf008cf"/>
-		<rom name="Snatcher (Europe) (Beta) (Track 19).bin" size="74551344" crc="97dca941" md5="4dc8d5aa81c4a76a951cc92d2e845bfd" sha1="768066f720bd2a57a060097b4bc8c9a19c5d2dab"/>
-		<rom name="Snatcher (Europe) (Beta) (Track 20).bin" size="5844720" crc="b5341397" md5="006364d3667b62b2371a85a2dca67ed5" sha1="5d9fa0f6b1f5e3611df29159cb9d7ce132ae6fb1"/>
-		<rom name="Snatcher (Europe) (Beta) (Track 21).bin" size="73805760" crc="cde0a9e4" md5="f22950f393f8d0829a556ff5685a4ce9" sha1="6144d301e257da0709dddaf7df9ad510006a015e"/>
+		<description>Snatcher (Europe) (Beta) (1994-10-07)</description>
+		<rom name="Snatcher (Europe) (Beta) (1994-10-07) (Track 01).bin" size="131744928" crc="b6f1932e" md5="44b57d67b3e216e77d6357abb3e4627f" sha1="606dc65dba04fd95097d0cfc8fed22de7122d786"/>
+		<rom name="Snatcher (Europe) (Beta) (1994-10-07) (Track 02).bin" size="1164240" crc="d00f54c4" md5="cc325c2484ff41e7d4b0e9060894146b" sha1="ac73d5629875586db0a5d776a13beef377d9a854"/>
+		<rom name="Snatcher (Europe) (Beta) (1994-10-07) (Track 03).bin" size="23802240" crc="40a49fba" md5="786b30a8b252a61fc91bbabcf4685edb" sha1="43f02ad9d970492426732bfede4c76a0cbf202a2"/>
+		<rom name="Snatcher (Europe) (Beta) (1994-10-07) (Track 04).bin" size="48345360" crc="e6043e39" md5="6230808a2c1f340f8415cdc49326e155" sha1="ce50b9dad31f960905c5c8d105051b65d45bcada"/>
+		<rom name="Snatcher (Europe) (Beta) (1994-10-07) (Track 05).bin" size="3716160" crc="c32e9ebe" md5="80ef48d3a8cd6d6d8cf7db175656571a" sha1="9e1374fc524759ba8ceccebad4047e136852fcd4"/>
+		<rom name="Snatcher (Europe) (Beta) (1994-10-07) (Track 06).bin" size="12740784" crc="a7705e57" md5="03be927bbc866c3158a5a7af03634505" sha1="0310fe11504dc05388a5e025ae1ca0af4fe0e0d6"/>
+		<rom name="Snatcher (Europe) (Beta) (1994-10-07) (Track 07).bin" size="29404704" crc="fccd71c5" md5="e4d03194b32eca0edb65b92f1f5299a7" sha1="8a124916025294432adee4dd75baf9082d5d7f7b"/>
+		<rom name="Snatcher (Europe) (Beta) (1994-10-07) (Track 08).bin" size="37843680" crc="2b5cf3d5" md5="749bea144eb88ee76cd19fc93a89adbb" sha1="4d7411ec40205baf5c294f7e16813de8eb493f4b"/>
+		<rom name="Snatcher (Europe) (Beta) (1994-10-07) (Track 09).bin" size="15412656" crc="afe3dcbf" md5="091c2fe24eee2cc5969a5fd0a4775c10" sha1="697295e985cefec143a2981734d3f93066f16dc7"/>
+		<rom name="Snatcher (Europe) (Beta) (1994-10-07) (Track 10).bin" size="22769712" crc="9832f63e" md5="f275214198e76b425f76b825fb870dc5" sha1="a27713205d8fac230e54c51cfd773762eb4b5d23"/>
+		<rom name="Snatcher (Europe) (Beta) (1994-10-07) (Track 11).bin" size="19164096" crc="4150d5c5" md5="7cac1aca396c2b7891d4f86652c1b51e" sha1="00e8f43bf89470b7cbd596c93ef57dcb198d6223"/>
+		<rom name="Snatcher (Europe) (Beta) (1994-10-07) (Track 12).bin" size="47576256" crc="d6bb6cba" md5="533669bf6b1b22bce349e31d1328be18" sha1="17664b3ab873cb71c158f9df4d28b77fc6620138"/>
+		<rom name="Snatcher (Europe) (Beta) (1994-10-07) (Track 13).bin" size="20278944" crc="477d9244" md5="f30b732535691c71494c4ab54c375cd3" sha1="a8d0eb4929d5560e631500734e0b309dbc2d5bd9"/>
+		<rom name="Snatcher (Europe) (Beta) (1994-10-07) (Track 14).bin" size="14445984" crc="749b2596" md5="1af1918aa779911eca30a92ca28bdc05" sha1="ee02d2d226d1a668b11f9b73daaf713212e0492b"/>
+		<rom name="Snatcher (Europe) (Beta) (1994-10-07) (Track 15).bin" size="13778016" crc="a8562533" md5="48c5cfedac8956afde3e5fb4965deeb2" sha1="644ec8b9ed2e35f00fc40bda24f39f442f72a4e2"/>
+		<rom name="Snatcher (Europe) (Beta) (1994-10-07) (Track 16).bin" size="3027024" crc="71af88c7" md5="774de00f0effe67e1d2079efbdfc13b5" sha1="1bc854049cbd19f5c5c91eff71731c8a5f844f29"/>
+		<rom name="Snatcher (Europe) (Beta) (1994-10-07) (Track 17).bin" size="17461248" crc="562edc62" md5="44e8f8cf01786be03858961bdb103c73" sha1="49802ef9c3a3e18dd8e9853e45c8b13069f0a538"/>
+		<rom name="Snatcher (Europe) (Beta) (1994-10-07) (Track 18).bin" size="8314320" crc="f0a265b6" md5="6a83142465025eb01057686d903893ad" sha1="f0c798e93f582e18209d47631f2e84da2bf008cf"/>
+		<rom name="Snatcher (Europe) (Beta) (1994-10-07) (Track 19).bin" size="74551344" crc="97dca941" md5="4dc8d5aa81c4a76a951cc92d2e845bfd" sha1="768066f720bd2a57a060097b4bc8c9a19c5d2dab"/>
+		<rom name="Snatcher (Europe) (Beta) (1994-10-07) (Track 20).bin" size="5844720" crc="b5341397" md5="006364d3667b62b2371a85a2dca67ed5" sha1="5d9fa0f6b1f5e3611df29159cb9d7ce132ae6fb1"/>
+		<rom name="Snatcher (Europe) (Beta) (1994-10-07) (Track 21).bin" size="73805760" crc="cde0a9e4" md5="f22950f393f8d0829a556ff5685a4ce9" sha1="6144d301e257da0709dddaf7df9ad510006a015e"/>
 	</game>
 	<game name="Software Toolworks' Star Wars Chess, The (Europe)" sha1="5648f45b438cfc5ea9a1b5f54404e38d75dfc414" size="106458098" crc="deadf7f4" fullsha1="93ebe62f508412df0dd801a0c7f665fe54e8998b" dataSha1="d6aa69bb0966045a51659d137fbfeadbffb8f501">
 		<category>Games</category>
@@ -4189,83 +4189,83 @@
 		<rom name="Sol-Feace (USA) (RE) (Track 17).bin" size="17148432" crc="6a45d032" md5="941361d31fe737631b36f071c934498e" sha1="c5d5118875b3cfdb1ef16e7b2d335a7f11a22d5c"/>
 		<rom name="Sol-Feace (USA) (RE) (Track 18).bin" size="23696400" crc="6bac6608" md5="5e74d5843f7ae7cef2710a13639f9d23" sha1="3c88f83c059cdba1bb21ca0d7da52be9b96d2700"/>
 	</game>
-	<game name="Sonic CD (Europe) (Beta 1)" sha1="9087565255102451e90e6dfe2fb5790dfa32bd1f" size="338830031" crc="c1aa2030" fullsha1="d284cbaec9d5405c272023b55616aac1049f1bad" dataSha1="558710e0096fefddb8161e0d89c4a3bb78715394">
+	<game name="Sonic CD (Europe) (Beta) (1993-08-06)" sha1="9087565255102451e90e6dfe2fb5790dfa32bd1f" size="338830031" crc="c1aa2030" fullsha1="d284cbaec9d5405c272023b55616aac1049f1bad" dataSha1="558710e0096fefddb8161e0d89c4a3bb78715394">
 		<category>Games</category>
-		<description>Sonic CD (Europe) (Beta 1)</description>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 01).bin" size="129592848" crc="0b16e68c" md5="a6f67fd00d8ac423a34fc1453a97f0d5" sha1="4a16084f5f3abc8a7a28a4d08dc878488f9b890e"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 02).bin" size="1091328" crc="25235866" md5="253da274e647822b0ea50ba784bb10fa" sha1="ddf0f669fcab537cc2c46010d030ea6b3f7f0298"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 03).bin" size="19077072" crc="427d0e42" md5="c23a77f3d7e8f82460341525d934cb83" sha1="8cd2b16c6b62b2d1d67ca5c0bbc64a7577a6a491"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 04).bin" size="14231952" crc="909fd938" md5="83413ae11265567d19eb19a09fe32613" sha1="992b78a2a17913efefb89b498145f73d7bf9b4d6"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 05).bin" size="14827008" crc="cb1ba8f7" md5="25eff90e2e76a7d474d7ceab27869497" sha1="8650689234556ed8c93623086f0461a5e70ac399"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 06).bin" size="17567088" crc="9b9e07be" md5="5c77c6d089088232823dd4ac14540641" sha1="2290332cebd593da9ae7ffe9256bd83e66c6ad5d"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 07).bin" size="13980288" crc="4c5a2aa6" md5="8a8f561d0e007d0fece1356ef1884f65" sha1="0c77dd177a81340956ea313d62bef5ee7bd0a7f9"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 08).bin" size="14342496" crc="8d9d6cfa" md5="cc8dc7dbb132beccbc347117a635faa5" sha1="2e6cc472d4bf0996cc136c56232d34f6354f2c28"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 09).bin" size="20278944" crc="91eeed6f" md5="51ff0600bd14f1c2e34ccf4f81ad12d3" sha1="8eb9e264f7e4300370a6cd5eaaebd8cff2b66a61"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 10).bin" size="14041440" crc="0357b4a3" md5="851a477fad0dc38c6210dab5a6ac3005" sha1="572d48a8ba0ce9df29e9173987a8b236160e3a49"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 11).bin" size="13653360" crc="06eb8834" md5="55f1a2055a672e5f4ccb10d54b162e25" sha1="72874c40fcbe740181efa74eb5ae9ae6ecbe82ac"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 12).bin" size="18016320" crc="180bfd36" md5="77bfbfaea618d2b0852495daa25377fc" sha1="8972fff651657a63f8f6b777af037e838f272269"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 13).bin" size="13573392" crc="76c2e0bd" md5="091b64ea1bfb319b51772160d7685d73" sha1="791426cd2db30c2f5601ac5cc480f09fcc1930ec"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 14).bin" size="11411904" crc="5b69adc6" md5="10a1d958d2544588962b62cb84c9f3ea" sha1="701987e29777c66bd248e5d4cc1e21080a4dc70f"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 15).bin" size="16231152" crc="0df01398" md5="ef0d444848db2a53638f338757295b8d" sha1="8cb07a68212bf7de765a9b7a770f09257368999b"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 16).bin" size="10932096" crc="223ae281" md5="16dca38bb2c1b69d6e18f06e57a557ca" sha1="8806d44d1c572886c50675638dae4ea198fc7057"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 17).bin" size="14048496" crc="9a39b10a" md5="034c7625df07ff643b98be8def67b8fa" sha1="89e9bff31d39e5c3ad27b97c57bf703ac2fb6ef4"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 18).bin" size="20137824" crc="965afdaf" md5="c9796b8a2af2a3d47473dac2e1f5b3b6" sha1="7cbdedd4b7c8f12958f8eb753f4508483485140b"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 19).bin" size="12881904" crc="7fed2bb2" md5="00b3d7d122256d3c9e0a2d545aa302af" sha1="747b941fccca3eb0757e5a234e5ddf3934688ca7"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 20).bin" size="11783520" crc="a6229c37" md5="680e0de926ac6dbaa43f12a00a536e4e" sha1="69e9f85064eabbedf9fd526b2899b5972ea6075f"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 21).bin" size="14942256" crc="f85a35c7" md5="0708e0536392fc63fa46361972af81e4" sha1="5ea113584247b3a796e2c4f4d093dc57927167bb"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 22).bin" size="11607120" crc="2ca77414" md5="a516fdc2366813592f0318c9e863c915" sha1="c72f164f152ae006a4dcacb8aabbf32d23b1e9a6"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 23).bin" size="12816048" crc="1ff8bddc" md5="232325c40f0ed75da78a5467345f4551" sha1="bf928d0ba0a6f27c9f069b295f4e2b5514de9edf"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 24).bin" size="14088480" crc="e5ab097c" md5="1a6ba44bbcf347306fb3823901b76d65" sha1="a406ee659ce724206ef4247e183fc7196378ada0"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 25).bin" size="14657664" crc="303cf58f" md5="79f618bb50588d86f513115382a1ff17" sha1="dc4aa4635cdb70f467537f5f646497cc2facfb3b"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 26).bin" size="5296704" crc="b07660f5" md5="9364cb4351b2e924795ddb5a481ae9e9" sha1="0af8f223cded6a722b9179ee9ce6ad40c04a4c38"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 27).bin" size="5296704" crc="b07660f5" md5="9364cb4351b2e924795ddb5a481ae9e9" sha1="0af8f223cded6a722b9179ee9ce6ad40c04a4c38"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 28).bin" size="1458240" crc="60dd234b" md5="391ee4c5002402abb19b48aa32d546b8" sha1="95ed37193ea8bdd2a44d6fa2c8a0c0d37c904826"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 29).bin" size="3988992" crc="16079a8c" md5="2df80ab4e56df390e516388f5c2c95fe" sha1="bbcc2e5cd0d1b3c99f32b6971f6a1b1e17cbb291"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 30).bin" size="3869040" crc="7f26f575" md5="29a993cfcc665232b952a3c3a192bcae" sha1="01a020f47403349608802b634a7d4c5d5e26cdd2"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 31).bin" size="2008608" crc="1fcc9f96" md5="e50a322d806bb975867d0f6f58af0899" sha1="130485f3b32252a76dd7a34d4039fcd56c6ad3ed"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 32).bin" size="21513744" crc="82081334" md5="f37fa9304baf50000713505adc12105e" sha1="f0e48f21f8d0735569d2ffe581dcb0dee4f0ee12"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 33).bin" size="21873600" crc="c12652d5" md5="c8dc6d7fde6afe38a9e4670f57cf9a29" sha1="a3aea548a7920d0fdecc66e8f63405dec653a751"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 34).bin" size="16214688" crc="421c17ed" md5="d76cfc6efd29a29d612e1a9acbab8160" sha1="7b3bc326e4e9c6b873815bbe944d8a01ee53d57b"/>
-		<rom name="Sonic CD (Europe) (Beta 1) (Track 35).bin" size="32107152" crc="596128c2" md5="4ee14141bb14e3d101f72b17f95ab2b0" sha1="d36327d4c4eddf048f2ad9d55990c5332d86827f"/>
+		<description>Sonic CD (Europe) (Beta) (1993-08-06)</description>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 01).bin" size="129592848" crc="0b16e68c" md5="a6f67fd00d8ac423a34fc1453a97f0d5" sha1="4a16084f5f3abc8a7a28a4d08dc878488f9b890e"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 02).bin" size="1091328" crc="25235866" md5="253da274e647822b0ea50ba784bb10fa" sha1="ddf0f669fcab537cc2c46010d030ea6b3f7f0298"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 03).bin" size="19077072" crc="427d0e42" md5="c23a77f3d7e8f82460341525d934cb83" sha1="8cd2b16c6b62b2d1d67ca5c0bbc64a7577a6a491"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 04).bin" size="14231952" crc="909fd938" md5="83413ae11265567d19eb19a09fe32613" sha1="992b78a2a17913efefb89b498145f73d7bf9b4d6"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 05).bin" size="14827008" crc="cb1ba8f7" md5="25eff90e2e76a7d474d7ceab27869497" sha1="8650689234556ed8c93623086f0461a5e70ac399"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 06).bin" size="17567088" crc="9b9e07be" md5="5c77c6d089088232823dd4ac14540641" sha1="2290332cebd593da9ae7ffe9256bd83e66c6ad5d"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 07).bin" size="13980288" crc="4c5a2aa6" md5="8a8f561d0e007d0fece1356ef1884f65" sha1="0c77dd177a81340956ea313d62bef5ee7bd0a7f9"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 08).bin" size="14342496" crc="8d9d6cfa" md5="cc8dc7dbb132beccbc347117a635faa5" sha1="2e6cc472d4bf0996cc136c56232d34f6354f2c28"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 09).bin" size="20278944" crc="91eeed6f" md5="51ff0600bd14f1c2e34ccf4f81ad12d3" sha1="8eb9e264f7e4300370a6cd5eaaebd8cff2b66a61"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 10).bin" size="14041440" crc="0357b4a3" md5="851a477fad0dc38c6210dab5a6ac3005" sha1="572d48a8ba0ce9df29e9173987a8b236160e3a49"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 11).bin" size="13653360" crc="06eb8834" md5="55f1a2055a672e5f4ccb10d54b162e25" sha1="72874c40fcbe740181efa74eb5ae9ae6ecbe82ac"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 12).bin" size="18016320" crc="180bfd36" md5="77bfbfaea618d2b0852495daa25377fc" sha1="8972fff651657a63f8f6b777af037e838f272269"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 13).bin" size="13573392" crc="76c2e0bd" md5="091b64ea1bfb319b51772160d7685d73" sha1="791426cd2db30c2f5601ac5cc480f09fcc1930ec"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 14).bin" size="11411904" crc="5b69adc6" md5="10a1d958d2544588962b62cb84c9f3ea" sha1="701987e29777c66bd248e5d4cc1e21080a4dc70f"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 15).bin" size="16231152" crc="0df01398" md5="ef0d444848db2a53638f338757295b8d" sha1="8cb07a68212bf7de765a9b7a770f09257368999b"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 16).bin" size="10932096" crc="223ae281" md5="16dca38bb2c1b69d6e18f06e57a557ca" sha1="8806d44d1c572886c50675638dae4ea198fc7057"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 17).bin" size="14048496" crc="9a39b10a" md5="034c7625df07ff643b98be8def67b8fa" sha1="89e9bff31d39e5c3ad27b97c57bf703ac2fb6ef4"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 18).bin" size="20137824" crc="965afdaf" md5="c9796b8a2af2a3d47473dac2e1f5b3b6" sha1="7cbdedd4b7c8f12958f8eb753f4508483485140b"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 19).bin" size="12881904" crc="7fed2bb2" md5="00b3d7d122256d3c9e0a2d545aa302af" sha1="747b941fccca3eb0757e5a234e5ddf3934688ca7"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 20).bin" size="11783520" crc="a6229c37" md5="680e0de926ac6dbaa43f12a00a536e4e" sha1="69e9f85064eabbedf9fd526b2899b5972ea6075f"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 21).bin" size="14942256" crc="f85a35c7" md5="0708e0536392fc63fa46361972af81e4" sha1="5ea113584247b3a796e2c4f4d093dc57927167bb"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 22).bin" size="11607120" crc="2ca77414" md5="a516fdc2366813592f0318c9e863c915" sha1="c72f164f152ae006a4dcacb8aabbf32d23b1e9a6"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 23).bin" size="12816048" crc="1ff8bddc" md5="232325c40f0ed75da78a5467345f4551" sha1="bf928d0ba0a6f27c9f069b295f4e2b5514de9edf"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 24).bin" size="14088480" crc="e5ab097c" md5="1a6ba44bbcf347306fb3823901b76d65" sha1="a406ee659ce724206ef4247e183fc7196378ada0"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 25).bin" size="14657664" crc="303cf58f" md5="79f618bb50588d86f513115382a1ff17" sha1="dc4aa4635cdb70f467537f5f646497cc2facfb3b"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 26).bin" size="5296704" crc="b07660f5" md5="9364cb4351b2e924795ddb5a481ae9e9" sha1="0af8f223cded6a722b9179ee9ce6ad40c04a4c38"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 27).bin" size="5296704" crc="b07660f5" md5="9364cb4351b2e924795ddb5a481ae9e9" sha1="0af8f223cded6a722b9179ee9ce6ad40c04a4c38"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 28).bin" size="1458240" crc="60dd234b" md5="391ee4c5002402abb19b48aa32d546b8" sha1="95ed37193ea8bdd2a44d6fa2c8a0c0d37c904826"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 29).bin" size="3988992" crc="16079a8c" md5="2df80ab4e56df390e516388f5c2c95fe" sha1="bbcc2e5cd0d1b3c99f32b6971f6a1b1e17cbb291"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 30).bin" size="3869040" crc="7f26f575" md5="29a993cfcc665232b952a3c3a192bcae" sha1="01a020f47403349608802b634a7d4c5d5e26cdd2"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 31).bin" size="2008608" crc="1fcc9f96" md5="e50a322d806bb975867d0f6f58af0899" sha1="130485f3b32252a76dd7a34d4039fcd56c6ad3ed"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 32).bin" size="21513744" crc="82081334" md5="f37fa9304baf50000713505adc12105e" sha1="f0e48f21f8d0735569d2ffe581dcb0dee4f0ee12"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 33).bin" size="21873600" crc="c12652d5" md5="c8dc6d7fde6afe38a9e4670f57cf9a29" sha1="a3aea548a7920d0fdecc66e8f63405dec653a751"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 34).bin" size="16214688" crc="421c17ed" md5="d76cfc6efd29a29d612e1a9acbab8160" sha1="7b3bc326e4e9c6b873815bbe944d8a01ee53d57b"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-06) (Track 35).bin" size="32107152" crc="596128c2" md5="4ee14141bb14e3d101f72b17f95ab2b0" sha1="d36327d4c4eddf048f2ad9d55990c5332d86827f"/>
 	</game>
-	<game name="Sonic CD (Europe) (Beta 2)" sha1="5e82014a390d5e940bcca05c15af931ba5c4df1d" size="338837640" crc="23075101" fullsha1="fc4a0f47d109a7dfa534381141e1d01ec21c5fbb" dataSha1="427002e72330931eaa16377c3fb9f87efee7b0b7">
+	<game name="Sonic CD (Europe) (Beta) (1993-08-19)" sha1="5e82014a390d5e940bcca05c15af931ba5c4df1d" size="338837640" crc="23075101" fullsha1="fc4a0f47d109a7dfa534381141e1d01ec21c5fbb" dataSha1="427002e72330931eaa16377c3fb9f87efee7b0b7">
 		<category>Games</category>
-		<description>Sonic CD (Europe) (Beta 2)</description>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 01).bin" size="129590496" crc="1ea52615" md5="bc5c971e11fc1162b6df54f3eb7ab6f5" sha1="3aa2e6a69eb392ecdc48e11cb517011d4457b0d6"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 02).bin" size="1091328" crc="25235866" md5="253da274e647822b0ea50ba784bb10fa" sha1="ddf0f669fcab537cc2c46010d030ea6b3f7f0298"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 03).bin" size="19077072" crc="427d0e42" md5="c23a77f3d7e8f82460341525d934cb83" sha1="8cd2b16c6b62b2d1d67ca5c0bbc64a7577a6a491"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 04).bin" size="14231952" crc="909fd938" md5="83413ae11265567d19eb19a09fe32613" sha1="992b78a2a17913efefb89b498145f73d7bf9b4d6"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 05).bin" size="14827008" crc="cb1ba8f7" md5="25eff90e2e76a7d474d7ceab27869497" sha1="8650689234556ed8c93623086f0461a5e70ac399"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 06).bin" size="17567088" crc="9b9e07be" md5="5c77c6d089088232823dd4ac14540641" sha1="2290332cebd593da9ae7ffe9256bd83e66c6ad5d"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 07).bin" size="13980288" crc="4c5a2aa6" md5="8a8f561d0e007d0fece1356ef1884f65" sha1="0c77dd177a81340956ea313d62bef5ee7bd0a7f9"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 08).bin" size="14342496" crc="8d9d6cfa" md5="cc8dc7dbb132beccbc347117a635faa5" sha1="2e6cc472d4bf0996cc136c56232d34f6354f2c28"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 09).bin" size="20278944" crc="91eeed6f" md5="51ff0600bd14f1c2e34ccf4f81ad12d3" sha1="8eb9e264f7e4300370a6cd5eaaebd8cff2b66a61"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 10).bin" size="14041440" crc="0357b4a3" md5="851a477fad0dc38c6210dab5a6ac3005" sha1="572d48a8ba0ce9df29e9173987a8b236160e3a49"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 11).bin" size="13653360" crc="06eb8834" md5="55f1a2055a672e5f4ccb10d54b162e25" sha1="72874c40fcbe740181efa74eb5ae9ae6ecbe82ac"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 12).bin" size="18016320" crc="180bfd36" md5="77bfbfaea618d2b0852495daa25377fc" sha1="8972fff651657a63f8f6b777af037e838f272269"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 13).bin" size="13573392" crc="76c2e0bd" md5="091b64ea1bfb319b51772160d7685d73" sha1="791426cd2db30c2f5601ac5cc480f09fcc1930ec"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 14).bin" size="11411904" crc="5b69adc6" md5="10a1d958d2544588962b62cb84c9f3ea" sha1="701987e29777c66bd248e5d4cc1e21080a4dc70f"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 15).bin" size="16231152" crc="0df01398" md5="ef0d444848db2a53638f338757295b8d" sha1="8cb07a68212bf7de765a9b7a770f09257368999b"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 16).bin" size="10932096" crc="223ae281" md5="16dca38bb2c1b69d6e18f06e57a557ca" sha1="8806d44d1c572886c50675638dae4ea198fc7057"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 17).bin" size="14048496" crc="9a39b10a" md5="034c7625df07ff643b98be8def67b8fa" sha1="89e9bff31d39e5c3ad27b97c57bf703ac2fb6ef4"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 18).bin" size="20137824" crc="965afdaf" md5="c9796b8a2af2a3d47473dac2e1f5b3b6" sha1="7cbdedd4b7c8f12958f8eb753f4508483485140b"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 19).bin" size="12881904" crc="7fed2bb2" md5="00b3d7d122256d3c9e0a2d545aa302af" sha1="747b941fccca3eb0757e5a234e5ddf3934688ca7"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 20).bin" size="11783520" crc="a6229c37" md5="680e0de926ac6dbaa43f12a00a536e4e" sha1="69e9f85064eabbedf9fd526b2899b5972ea6075f"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 21).bin" size="14942256" crc="f85a35c7" md5="0708e0536392fc63fa46361972af81e4" sha1="5ea113584247b3a796e2c4f4d093dc57927167bb"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 22).bin" size="11607120" crc="2ca77414" md5="a516fdc2366813592f0318c9e863c915" sha1="c72f164f152ae006a4dcacb8aabbf32d23b1e9a6"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 23).bin" size="12816048" crc="1ff8bddc" md5="232325c40f0ed75da78a5467345f4551" sha1="bf928d0ba0a6f27c9f069b295f4e2b5514de9edf"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 24).bin" size="14088480" crc="e5ab097c" md5="1a6ba44bbcf347306fb3823901b76d65" sha1="a406ee659ce724206ef4247e183fc7196378ada0"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 25).bin" size="14657664" crc="303cf58f" md5="79f618bb50588d86f513115382a1ff17" sha1="dc4aa4635cdb70f467537f5f646497cc2facfb3b"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 26).bin" size="5296704" crc="b07660f5" md5="9364cb4351b2e924795ddb5a481ae9e9" sha1="0af8f223cded6a722b9179ee9ce6ad40c04a4c38"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 27).bin" size="5296704" crc="b07660f5" md5="9364cb4351b2e924795ddb5a481ae9e9" sha1="0af8f223cded6a722b9179ee9ce6ad40c04a4c38"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 28).bin" size="1458240" crc="60dd234b" md5="391ee4c5002402abb19b48aa32d546b8" sha1="95ed37193ea8bdd2a44d6fa2c8a0c0d37c904826"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 29).bin" size="3988992" crc="16079a8c" md5="2df80ab4e56df390e516388f5c2c95fe" sha1="bbcc2e5cd0d1b3c99f32b6971f6a1b1e17cbb291"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 30).bin" size="3869040" crc="7f26f575" md5="29a993cfcc665232b952a3c3a192bcae" sha1="01a020f47403349608802b634a7d4c5d5e26cdd2"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 31).bin" size="2008608" crc="1fcc9f96" md5="e50a322d806bb975867d0f6f58af0899" sha1="130485f3b32252a76dd7a34d4039fcd56c6ad3ed"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 32).bin" size="21513744" crc="82081334" md5="f37fa9304baf50000713505adc12105e" sha1="f0e48f21f8d0735569d2ffe581dcb0dee4f0ee12"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 33).bin" size="21873600" crc="c12652d5" md5="c8dc6d7fde6afe38a9e4670f57cf9a29" sha1="a3aea548a7920d0fdecc66e8f63405dec653a751"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 34).bin" size="16214688" crc="421c17ed" md5="d76cfc6efd29a29d612e1a9acbab8160" sha1="7b3bc326e4e9c6b873815bbe944d8a01ee53d57b"/>
-		<rom name="Sonic CD (Europe) (Beta 2) (Track 35).bin" size="32107152" crc="596128c2" md5="4ee14141bb14e3d101f72b17f95ab2b0" sha1="d36327d4c4eddf048f2ad9d55990c5332d86827f"/>
+		<description>Sonic CD (Europe) (Beta) (1993-08-19)</description>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 01).bin" size="129590496" crc="1ea52615" md5="bc5c971e11fc1162b6df54f3eb7ab6f5" sha1="3aa2e6a69eb392ecdc48e11cb517011d4457b0d6"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 02).bin" size="1091328" crc="25235866" md5="253da274e647822b0ea50ba784bb10fa" sha1="ddf0f669fcab537cc2c46010d030ea6b3f7f0298"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 03).bin" size="19077072" crc="427d0e42" md5="c23a77f3d7e8f82460341525d934cb83" sha1="8cd2b16c6b62b2d1d67ca5c0bbc64a7577a6a491"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 04).bin" size="14231952" crc="909fd938" md5="83413ae11265567d19eb19a09fe32613" sha1="992b78a2a17913efefb89b498145f73d7bf9b4d6"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 05).bin" size="14827008" crc="cb1ba8f7" md5="25eff90e2e76a7d474d7ceab27869497" sha1="8650689234556ed8c93623086f0461a5e70ac399"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 06).bin" size="17567088" crc="9b9e07be" md5="5c77c6d089088232823dd4ac14540641" sha1="2290332cebd593da9ae7ffe9256bd83e66c6ad5d"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 07).bin" size="13980288" crc="4c5a2aa6" md5="8a8f561d0e007d0fece1356ef1884f65" sha1="0c77dd177a81340956ea313d62bef5ee7bd0a7f9"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 08).bin" size="14342496" crc="8d9d6cfa" md5="cc8dc7dbb132beccbc347117a635faa5" sha1="2e6cc472d4bf0996cc136c56232d34f6354f2c28"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 09).bin" size="20278944" crc="91eeed6f" md5="51ff0600bd14f1c2e34ccf4f81ad12d3" sha1="8eb9e264f7e4300370a6cd5eaaebd8cff2b66a61"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 10).bin" size="14041440" crc="0357b4a3" md5="851a477fad0dc38c6210dab5a6ac3005" sha1="572d48a8ba0ce9df29e9173987a8b236160e3a49"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 11).bin" size="13653360" crc="06eb8834" md5="55f1a2055a672e5f4ccb10d54b162e25" sha1="72874c40fcbe740181efa74eb5ae9ae6ecbe82ac"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 12).bin" size="18016320" crc="180bfd36" md5="77bfbfaea618d2b0852495daa25377fc" sha1="8972fff651657a63f8f6b777af037e838f272269"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 13).bin" size="13573392" crc="76c2e0bd" md5="091b64ea1bfb319b51772160d7685d73" sha1="791426cd2db30c2f5601ac5cc480f09fcc1930ec"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 14).bin" size="11411904" crc="5b69adc6" md5="10a1d958d2544588962b62cb84c9f3ea" sha1="701987e29777c66bd248e5d4cc1e21080a4dc70f"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 15).bin" size="16231152" crc="0df01398" md5="ef0d444848db2a53638f338757295b8d" sha1="8cb07a68212bf7de765a9b7a770f09257368999b"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 16).bin" size="10932096" crc="223ae281" md5="16dca38bb2c1b69d6e18f06e57a557ca" sha1="8806d44d1c572886c50675638dae4ea198fc7057"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 17).bin" size="14048496" crc="9a39b10a" md5="034c7625df07ff643b98be8def67b8fa" sha1="89e9bff31d39e5c3ad27b97c57bf703ac2fb6ef4"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 18).bin" size="20137824" crc="965afdaf" md5="c9796b8a2af2a3d47473dac2e1f5b3b6" sha1="7cbdedd4b7c8f12958f8eb753f4508483485140b"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 19).bin" size="12881904" crc="7fed2bb2" md5="00b3d7d122256d3c9e0a2d545aa302af" sha1="747b941fccca3eb0757e5a234e5ddf3934688ca7"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 20).bin" size="11783520" crc="a6229c37" md5="680e0de926ac6dbaa43f12a00a536e4e" sha1="69e9f85064eabbedf9fd526b2899b5972ea6075f"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 21).bin" size="14942256" crc="f85a35c7" md5="0708e0536392fc63fa46361972af81e4" sha1="5ea113584247b3a796e2c4f4d093dc57927167bb"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 22).bin" size="11607120" crc="2ca77414" md5="a516fdc2366813592f0318c9e863c915" sha1="c72f164f152ae006a4dcacb8aabbf32d23b1e9a6"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 23).bin" size="12816048" crc="1ff8bddc" md5="232325c40f0ed75da78a5467345f4551" sha1="bf928d0ba0a6f27c9f069b295f4e2b5514de9edf"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 24).bin" size="14088480" crc="e5ab097c" md5="1a6ba44bbcf347306fb3823901b76d65" sha1="a406ee659ce724206ef4247e183fc7196378ada0"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 25).bin" size="14657664" crc="303cf58f" md5="79f618bb50588d86f513115382a1ff17" sha1="dc4aa4635cdb70f467537f5f646497cc2facfb3b"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 26).bin" size="5296704" crc="b07660f5" md5="9364cb4351b2e924795ddb5a481ae9e9" sha1="0af8f223cded6a722b9179ee9ce6ad40c04a4c38"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 27).bin" size="5296704" crc="b07660f5" md5="9364cb4351b2e924795ddb5a481ae9e9" sha1="0af8f223cded6a722b9179ee9ce6ad40c04a4c38"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 28).bin" size="1458240" crc="60dd234b" md5="391ee4c5002402abb19b48aa32d546b8" sha1="95ed37193ea8bdd2a44d6fa2c8a0c0d37c904826"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 29).bin" size="3988992" crc="16079a8c" md5="2df80ab4e56df390e516388f5c2c95fe" sha1="bbcc2e5cd0d1b3c99f32b6971f6a1b1e17cbb291"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 30).bin" size="3869040" crc="7f26f575" md5="29a993cfcc665232b952a3c3a192bcae" sha1="01a020f47403349608802b634a7d4c5d5e26cdd2"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 31).bin" size="2008608" crc="1fcc9f96" md5="e50a322d806bb975867d0f6f58af0899" sha1="130485f3b32252a76dd7a34d4039fcd56c6ad3ed"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 32).bin" size="21513744" crc="82081334" md5="f37fa9304baf50000713505adc12105e" sha1="f0e48f21f8d0735569d2ffe581dcb0dee4f0ee12"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 33).bin" size="21873600" crc="c12652d5" md5="c8dc6d7fde6afe38a9e4670f57cf9a29" sha1="a3aea548a7920d0fdecc66e8f63405dec653a751"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 34).bin" size="16214688" crc="421c17ed" md5="d76cfc6efd29a29d612e1a9acbab8160" sha1="7b3bc326e4e9c6b873815bbe944d8a01ee53d57b"/>
+		<rom name="Sonic CD (Europe) (Beta) (1993-08-19) (Track 35).bin" size="32107152" crc="596128c2" md5="4ee14141bb14e3d101f72b17f95ab2b0" sha1="d36327d4c4eddf048f2ad9d55990c5332d86827f"/>
 	</game>
 	<game name="Sonic CD (USA)" sha1="fea85b63f06678b842d0872e63d6f9d5dbf1d593" size="337290690" crc="2f2a1903" fullsha1="50ac97e3220f0c81f5585716fb0f2aa622e6602b" dataSha1="8bcf26f53545dcd560ac9fd8db91766b977f1efd">
 		<category>Games</category>
@@ -4345,127 +4345,127 @@
 		<rom name="Sonic CD (USA) (Alt) (Track 34).bin" size="16405200" crc="393386fd" md5="d798e31b863cf5e31ef6e1b242aabe86" sha1="b52aa2b587cd4682e95a56e087cd15e215afa316"/>
 		<rom name="Sonic CD (USA) (Alt) (Track 35).bin" size="31940160" crc="9cebd39d" md5="dcfce720b4e4cb2236cc54537eb551c5" sha1="f3113ef9547a9242fc93bd6654adeb860f22dc27"/>
 	</game>
-	<game name="Sonic CD (USA) (Beta)" sha1="6ee6b4b2378964b27958d84c58747612f6b2f085" size="333761642" crc="24954c80" fullsha1="5d551565b82fc5e9d86639b0c50f5d3ad6a264eb" dataSha1="d20476e5cb832d049be79d0b97c394f733a30ab9">
+	<game name="Sonic CD (USA) (Beta) (1993-10-12)" sha1="6ee6b4b2378964b27958d84c58747612f6b2f085" size="333761642" crc="24954c80" fullsha1="5d551565b82fc5e9d86639b0c50f5d3ad6a264eb" dataSha1="d20476e5cb832d049be79d0b97c394f733a30ab9">
 		<category>Games</category>
-		<description>Sonic CD (USA) (Beta)</description>
-		<rom name="Sonic CD (USA) (Beta) (Track 01).bin" size="139381872" crc="a6184e05" md5="ed96420538f989e94480f810d5f90685" sha1="3c316af52cc9ee8c30976a1cdb66339545dda3bd"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 02).bin" size="1091328" crc="25235866" md5="253da274e647822b0ea50ba784bb10fa" sha1="ddf0f669fcab537cc2c46010d030ea6b3f7f0298"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 03).bin" size="19613328" crc="95b56ff2" md5="d308aedb874e3d1128601716fd9a59eb" sha1="99021d448ea24579774a208ecc89c9e234251355"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 04).bin" size="14471856" crc="9596c858" md5="36488d42bd88651d030a3726ae8438f0" sha1="351c357c64c6154aecb294ab10a682129d3ae4cc"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 05).bin" size="15193920" crc="dd5b4a12" md5="b4ce562be53929d0ca5a312f63224b52" sha1="bc17b3525feec2aa4182ca47aa9b33d6e123d5e9"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 06).bin" size="17828160" crc="84cdcb09" md5="ebf995c5795f3b4fcc39eebf48eed8e2" sha1="c52af58f0fba84ae14043a70ed780e3a139bbea9"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 07).bin" size="14300160" crc="da492afe" md5="7dc11ada8a0cb09b2468ee0e3a0ba4e6" sha1="cf61e1285a46c32741e863e1bb7fca3ba82a4d97"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 08).bin" size="14643552" crc="060abec3" md5="9d1fe3f6fd2b6c8e96a5df5df66a03d0" sha1="cbd0c8824bfa2cb89bf3c10b8304b6507c3fc214"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 09).bin" size="20490624" crc="4ee7f4ac" md5="516a5a27b89fcd1d6ba15b154bfc8749" sha1="42e962560f7b79526608a61cd6a718a0b1f3d190"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 10).bin" size="14293104" crc="c53c25e1" md5="c6f6bf21b27858b161b69fcc757e5e66" sha1="5b13480293e021f75d90b0e10c609540dba7da4c"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 11).bin" size="13945008" crc="8331bffb" md5="42ad3a9bbbfd16cd5c425df525ddd7b1" sha1="233d9149e3d5eab4a1788f02036a4dd26cf4b662"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 12).bin" size="18355008" crc="7e86ff56" md5="7ab4c2a1582a3da6179ccd69c630f9a5" sha1="c1e0f17f3375511551272ceead2fca15b49f422b"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 13).bin" size="14013216" crc="0d4c8fe2" md5="bd0f85bc4a0d39249cd929f7c2040e56" sha1="f8d18e8f26766e48aebcd4a374f3d5fabcd86c9a"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 14).bin" size="11670624" crc="048cca38" md5="098290b4e83ccec566d4e41576e34377" sha1="059bf6724b06fa7fc217367afae81c4f35fc57d0"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 15).bin" size="16412256" crc="a9c84203" md5="7bf96d1f0852496ce862b75aa7f12cd6" sha1="7cca93ac5dfe9bcb0e6cabdff01ed102a63e0a10"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 16).bin" size="11136720" crc="02509e7d" md5="91d57c94a2f6f7bb8ef7914a6b514929" sha1="4764019f8d7e99ed9419000653d7d761cb59692b"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 17).bin" size="14302512" crc="ae8d6f66" md5="913e1241e41cda0bae2b9dd7b27eb2eb" sha1="3ab6c944bb04d27a61b6d722d8ecd75dbcfb8522"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 18).bin" size="20485920" crc="3bda218e" md5="f7ecd93d5d2421e4f861d92893f3c4a0" sha1="778abcb3b2d18f025d9a2005f86c52d63f6b838b"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 19).bin" size="13077120" crc="a2880ca8" md5="ff09f9f05338616da58cf827606b5fef" sha1="3399cac7294d7d228740a5b82dc7f6070a1759a8"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 20).bin" size="12009312" crc="d4f43de2" md5="a8ae66a2de3d3796560200a50d8bf79b" sha1="81564bc1118afc7ebc67a88d2cadb9ccd7b1b6c6"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 21).bin" size="15186864" crc="cfcfb58c" md5="1d1fc4bb6aee9481c8b4e92630a9414e" sha1="76a643bc4c8bf5adc5c7b5fe3e27e4207eab2b99"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 22).bin" size="11835264" crc="b2b7a147" md5="d30d92ba1870aa254101274aecde4bf3" sha1="7b1d1891513d1734c353ff5d2b1f66e1f7b69335"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 23).bin" size="13067712" crc="a763e4a3" md5="9050338e8b517c90a6c5ca07e79be94d" sha1="22e3e828ef8ccb7b93cfc349ca9ede64f187dab1"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 24).bin" size="14297808" crc="5be126a5" md5="6a93671c7286c01bbad131a3f23d0bdc" sha1="8bd1a63940d1fa9f6c80808a138d754b9dda09da"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 25).bin" size="14996352" crc="bc571e62" md5="84e2821f47c10ddc7b4f731d70a14dd0" sha1="16ad70911ec3d7404a70d142721fd97cb551572e"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 26).bin" size="5470752" crc="ff0f89ff" md5="7f69419b70260956761403730dc81d70" sha1="a701571355dfea136b09782de2e18b1b4458319a"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 27).bin" size="5470752" crc="ff0f89ff" md5="7f69419b70260956761403730dc81d70" sha1="a701571355dfea136b09782de2e18b1b4458319a"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 28).bin" size="1846320" crc="26c43f90" md5="e1377f9cbcd3c2cc75731fec69fe0665" sha1="e039d42fd374285bce4c972e7f3c484bfc604b24"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 29).bin" size="4235952" crc="1736dfb9" md5="c48eb64e63f351ed8c7f5163065ff3e2" sha1="9861672d14890d88357889e85a95900380396a80"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 30).bin" size="4146576" crc="2062d174" md5="7c4a91e52057c5eb2eff54642a222070" sha1="eb67600fd9274c046571d8c9a3291730e733255f"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 31).bin" size="2295552" crc="5c6cabb7" md5="94f8d5b1d5179b5f9b011817023e7896" sha1="8aab036e35e904b2c0041fa75ac96726348db70b"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 32).bin" size="21720720" crc="ea02fb52" md5="cce356cf67f14bd702c7c25dce4296be" sha1="021e6d22476ccf1ae112e3bfb83851d341538d31"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 33).bin" size="22071168" crc="a2288429" md5="f278a27c3c762d5591a97f0acf7909f2" sha1="91b2a0f494af86caa05d3b8412aa7547decb62e4"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 34).bin" size="16409904" crc="b5cda0fd" md5="c592eeb9d3ad3a3a09901b7c19a30f6f" sha1="0c9ade5608589eec04f0973f7c308dc67ba042a9"/>
-		<rom name="Sonic CD (USA) (Beta) (Track 35).bin" size="31933104" crc="66ca9df1" md5="11032b91d05f98f97550b1652407c30a" sha1="05ee4f8f7e9b18981b3ddf993f6c812b9d87d3ab"/>
+		<description>Sonic CD (USA) (Beta) (1993-10-12)</description>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 01).bin" size="139381872" crc="a6184e05" md5="ed96420538f989e94480f810d5f90685" sha1="3c316af52cc9ee8c30976a1cdb66339545dda3bd"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 02).bin" size="1091328" crc="25235866" md5="253da274e647822b0ea50ba784bb10fa" sha1="ddf0f669fcab537cc2c46010d030ea6b3f7f0298"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 03).bin" size="19613328" crc="95b56ff2" md5="d308aedb874e3d1128601716fd9a59eb" sha1="99021d448ea24579774a208ecc89c9e234251355"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 04).bin" size="14471856" crc="9596c858" md5="36488d42bd88651d030a3726ae8438f0" sha1="351c357c64c6154aecb294ab10a682129d3ae4cc"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 05).bin" size="15193920" crc="dd5b4a12" md5="b4ce562be53929d0ca5a312f63224b52" sha1="bc17b3525feec2aa4182ca47aa9b33d6e123d5e9"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 06).bin" size="17828160" crc="84cdcb09" md5="ebf995c5795f3b4fcc39eebf48eed8e2" sha1="c52af58f0fba84ae14043a70ed780e3a139bbea9"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 07).bin" size="14300160" crc="da492afe" md5="7dc11ada8a0cb09b2468ee0e3a0ba4e6" sha1="cf61e1285a46c32741e863e1bb7fca3ba82a4d97"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 08).bin" size="14643552" crc="060abec3" md5="9d1fe3f6fd2b6c8e96a5df5df66a03d0" sha1="cbd0c8824bfa2cb89bf3c10b8304b6507c3fc214"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 09).bin" size="20490624" crc="4ee7f4ac" md5="516a5a27b89fcd1d6ba15b154bfc8749" sha1="42e962560f7b79526608a61cd6a718a0b1f3d190"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 10).bin" size="14293104" crc="c53c25e1" md5="c6f6bf21b27858b161b69fcc757e5e66" sha1="5b13480293e021f75d90b0e10c609540dba7da4c"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 11).bin" size="13945008" crc="8331bffb" md5="42ad3a9bbbfd16cd5c425df525ddd7b1" sha1="233d9149e3d5eab4a1788f02036a4dd26cf4b662"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 12).bin" size="18355008" crc="7e86ff56" md5="7ab4c2a1582a3da6179ccd69c630f9a5" sha1="c1e0f17f3375511551272ceead2fca15b49f422b"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 13).bin" size="14013216" crc="0d4c8fe2" md5="bd0f85bc4a0d39249cd929f7c2040e56" sha1="f8d18e8f26766e48aebcd4a374f3d5fabcd86c9a"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 14).bin" size="11670624" crc="048cca38" md5="098290b4e83ccec566d4e41576e34377" sha1="059bf6724b06fa7fc217367afae81c4f35fc57d0"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 15).bin" size="16412256" crc="a9c84203" md5="7bf96d1f0852496ce862b75aa7f12cd6" sha1="7cca93ac5dfe9bcb0e6cabdff01ed102a63e0a10"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 16).bin" size="11136720" crc="02509e7d" md5="91d57c94a2f6f7bb8ef7914a6b514929" sha1="4764019f8d7e99ed9419000653d7d761cb59692b"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 17).bin" size="14302512" crc="ae8d6f66" md5="913e1241e41cda0bae2b9dd7b27eb2eb" sha1="3ab6c944bb04d27a61b6d722d8ecd75dbcfb8522"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 18).bin" size="20485920" crc="3bda218e" md5="f7ecd93d5d2421e4f861d92893f3c4a0" sha1="778abcb3b2d18f025d9a2005f86c52d63f6b838b"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 19).bin" size="13077120" crc="a2880ca8" md5="ff09f9f05338616da58cf827606b5fef" sha1="3399cac7294d7d228740a5b82dc7f6070a1759a8"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 20).bin" size="12009312" crc="d4f43de2" md5="a8ae66a2de3d3796560200a50d8bf79b" sha1="81564bc1118afc7ebc67a88d2cadb9ccd7b1b6c6"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 21).bin" size="15186864" crc="cfcfb58c" md5="1d1fc4bb6aee9481c8b4e92630a9414e" sha1="76a643bc4c8bf5adc5c7b5fe3e27e4207eab2b99"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 22).bin" size="11835264" crc="b2b7a147" md5="d30d92ba1870aa254101274aecde4bf3" sha1="7b1d1891513d1734c353ff5d2b1f66e1f7b69335"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 23).bin" size="13067712" crc="a763e4a3" md5="9050338e8b517c90a6c5ca07e79be94d" sha1="22e3e828ef8ccb7b93cfc349ca9ede64f187dab1"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 24).bin" size="14297808" crc="5be126a5" md5="6a93671c7286c01bbad131a3f23d0bdc" sha1="8bd1a63940d1fa9f6c80808a138d754b9dda09da"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 25).bin" size="14996352" crc="bc571e62" md5="84e2821f47c10ddc7b4f731d70a14dd0" sha1="16ad70911ec3d7404a70d142721fd97cb551572e"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 26).bin" size="5470752" crc="ff0f89ff" md5="7f69419b70260956761403730dc81d70" sha1="a701571355dfea136b09782de2e18b1b4458319a"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 27).bin" size="5470752" crc="ff0f89ff" md5="7f69419b70260956761403730dc81d70" sha1="a701571355dfea136b09782de2e18b1b4458319a"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 28).bin" size="1846320" crc="26c43f90" md5="e1377f9cbcd3c2cc75731fec69fe0665" sha1="e039d42fd374285bce4c972e7f3c484bfc604b24"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 29).bin" size="4235952" crc="1736dfb9" md5="c48eb64e63f351ed8c7f5163065ff3e2" sha1="9861672d14890d88357889e85a95900380396a80"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 30).bin" size="4146576" crc="2062d174" md5="7c4a91e52057c5eb2eff54642a222070" sha1="eb67600fd9274c046571d8c9a3291730e733255f"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 31).bin" size="2295552" crc="5c6cabb7" md5="94f8d5b1d5179b5f9b011817023e7896" sha1="8aab036e35e904b2c0041fa75ac96726348db70b"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 32).bin" size="21720720" crc="ea02fb52" md5="cce356cf67f14bd702c7c25dce4296be" sha1="021e6d22476ccf1ae112e3bfb83851d341538d31"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 33).bin" size="22071168" crc="a2288429" md5="f278a27c3c762d5591a97f0acf7909f2" sha1="91b2a0f494af86caa05d3b8412aa7547decb62e4"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 34).bin" size="16409904" crc="b5cda0fd" md5="c592eeb9d3ad3a3a09901b7c19a30f6f" sha1="0c9ade5608589eec04f0973f7c308dc67ba042a9"/>
+		<rom name="Sonic CD (USA) (Beta) (1993-10-12) (Track 35).bin" size="31933104" crc="66ca9df1" md5="11032b91d05f98f97550b1652407c30a" sha1="05ee4f8f7e9b18981b3ddf993f6c812b9d87d3ab"/>
 	</game>
 	<game name="Sonic MegaMix (USA) (Unl)" sha1="84259f6cde6f4e4e3407108f93b2180bf66a1713" size="8131772" crc="102158c6" fullsha1="8871799da800b02643e40b3afbf7e749aa32cc48" dataSha1="2b1eae918d6d59d540742b29f5120eaae3035807">
 		<category>Games</category>
 		<description>Sonic MegaMix (USA) (Unl)</description>
 		<rom name="Sonic MegaMix (USA) (Unl) (Track 01).bin" size="16946160" crc="227348ac" md5="58863ba94a5484f25e73e2d0c6696d56" sha1="b5137e3ca9a4e3fb0d4c052a5d0bd48b76714a80"/>
 	</game>
-	<game name="Sonic The Hedgehog CD (Japan) (Beta 1)" sha1="037f3528420b26b1dd4b81691f3a3de872319f7c" size="339919283" crc="1453dbba" fullsha1="7e4ba8d0c14ea401e6c920b1bb079a73fefb51bb" dataSha1="b8af7afc28066b7c7cac32ee6471c55480a44b65">
+	<game name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12)" sha1="037f3528420b26b1dd4b81691f3a3de872319f7c" size="339919283" crc="1453dbba" fullsha1="7e4ba8d0c14ea401e6c920b1bb079a73fefb51bb" dataSha1="b8af7afc28066b7c7cac32ee6471c55480a44b65">
 		<category>Games</category>
-		<description>Sonic The Hedgehog CD (Japan) (Beta 1)</description>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 01).bin" size="112058688" crc="3c0a7e22" md5="fa0525775812bcbd0491264869dcd8cc" sha1="5f3588caa54ac804a81d8b89d94ad8825087696b"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 02).bin" size="19077072" crc="d4e6ee66" md5="22e6f0c7bf5f39b42ad6163b6ce8c888" sha1="aa724b00f864f495982dc27f0f2455ba7e38f0ee"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 03).bin" size="14231952" crc="80ff9f34" md5="7d1b2106e4bd175614bf5aa62c403fe3" sha1="3bb368eec991c64bb2e8f9c036a8db280974018a"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 04).bin" size="14827008" crc="d014c187" md5="5334eda7d665f15a66559be2490e1e68" sha1="62f093d827d245d576d739f0bf704e08ef7753c0"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 05).bin" size="17567088" crc="c2b16a57" md5="6fa8602006dbcb90e23496f14ede927f" sha1="ed72f4275770f863cf5068c63bce8b65ec58e98c"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 06).bin" size="13980288" crc="9b70dedd" md5="1a189b68995416b40309a4fa0d8a35bc" sha1="849e32d919e71d47d57cb7a2d761fda32847430b"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 07).bin" size="14342496" crc="7cc9d387" md5="9137ee72204ef0d87179c378e6d04885" sha1="fa441812d5de25f07b87a4a2dcd18c217d15f3af"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 08).bin" size="20278944" crc="31cca42f" md5="d647771e4c8937cdffc5d4bd4c943c3f" sha1="51cbc5371e8c11a22866d15dd9e6ab6e85da6282"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 09).bin" size="14041440" crc="f4f0c3aa" md5="7438ee901cd454dffab1d53bd1d09555" sha1="5be23a907e97a126daf88d36ba8e7a19873b212d"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 10).bin" size="13653360" crc="c584079d" md5="55e7b7b64ae638430a74c3366671d9a5" sha1="ed1d77334f5e54ab570ddd0758ed761f78519414"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 11).bin" size="18016320" crc="d14887bd" md5="f4c583971b06f4d6b6cb128f7edcccf4" sha1="86a699c79e08e7ec662be4af4264965e0d41372a"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 12).bin" size="13573392" crc="1090eea5" md5="9afff73cb7a92b4d1d4752a29d144662" sha1="8b8aa54c54bf0263d99891bd73baee221655c81e"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 13).bin" size="11411904" crc="6a5e0a37" md5="d49bf01119b10ce1f9f4c72213e40ab4" sha1="985a7ed310b8e4952b945338c9e46e73e3675b5d"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 14).bin" size="16231152" crc="a4efcb04" md5="441b65e6a334adf90de74b74bf4e87cf" sha1="36cf22ac90a260997b1a7fa156943a6c68d06428"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 15).bin" size="10932096" crc="56bf14f1" md5="415627a68c6286b0d22591bb198c1a8e" sha1="005d1ad955f2996ce0e26c3f9164f34672e18274"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 16).bin" size="14048496" crc="6622825b" md5="3b53e1a46df66a77daab36e27c209df3" sha1="edd540106a3bc65f2580562719f29637c2b99793"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 17).bin" size="20137824" crc="4ae266e6" md5="d4cc3ae1f86fa9cb8205cda269544193" sha1="be2f54ffdaaccd95f7dad315ac00ebc9501e480f"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 18).bin" size="12881904" crc="fb65765f" md5="d99742b1d02ea547384660cc9ea33fed" sha1="04542da0f150c62eee1db466a6a9411b99c3be3a"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 19).bin" size="11783520" crc="1875e226" md5="baaa9e028fb1eb646a043291eb63eed5" sha1="b81c7c8efe16c0fef582fe96a1f3f134a95bbadf"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 20).bin" size="14942256" crc="88d2025b" md5="cc77a74f5c3a4f8aa9e0944de24f0d75" sha1="1ca970b93361fe5cd987a5351787998788aae826"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 21).bin" size="11607120" crc="910fb80d" md5="da07a11eb91588f1324d3b91837eb0cb" sha1="f7825b1f0b4de5f83ad69edb73cea4218a54fff0"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 22).bin" size="12816048" crc="2e57de19" md5="e28622c8b08e3121bf9db7d058b722f8" sha1="f21e77b4cfe0d216c66ec7dbf0964d53eeaae90c"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 23).bin" size="14088480" crc="aea7dbd5" md5="09a09d40ed226feb85ed120f1e3850cb" sha1="1e742397f10bd8ed75058a5ab2677c167da977d5"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 24).bin" size="14657664" crc="0a423715" md5="28415c6e1fd85832cee97897a2246aa5" sha1="14971aa4f61253f826f2eaa9de9b3d2ddec2a2f4"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 25).bin" size="7135968" crc="a36f7c47" md5="bc374096a49935fbc378fa17c69728b1" sha1="7302742d0244e3815065b9b4261ee2527cfa6246"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 26).bin" size="7135968" crc="a36f7c47" md5="bc374096a49935fbc378fa17c69728b1" sha1="7302742d0244e3815065b9b4261ee2527cfa6246"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 27).bin" size="1458240" crc="60dd234b" md5="391ee4c5002402abb19b48aa32d546b8" sha1="95ed37193ea8bdd2a44d6fa2c8a0c0d37c904826"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 28).bin" size="3996048" crc="0c877d2a" md5="5dcc2ec003645b523138751d14ce7437" sha1="a7b194d7579a46b46026705c3cd6c10eb09ced7b"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 29).bin" size="3869040" crc="7f26f575" md5="29a993cfcc665232b952a3c3a192bcae" sha1="01a020f47403349608802b634a7d4c5d5e26cdd2"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 30).bin" size="2008608" crc="1fcc9f96" md5="e50a322d806bb975867d0f6f58af0899" sha1="130485f3b32252a76dd7a34d4039fcd56c6ad3ed"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 31).bin" size="21513744" crc="82081334" md5="f37fa9304baf50000713505adc12105e" sha1="f0e48f21f8d0735569d2ffe581dcb0dee4f0ee12"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 32).bin" size="21873600" crc="c12652d5" md5="c8dc6d7fde6afe38a9e4670f57cf9a29" sha1="a3aea548a7920d0fdecc66e8f63405dec653a751"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 33).bin" size="1091328" crc="25235866" md5="253da274e647822b0ea50ba784bb10fa" sha1="ddf0f669fcab537cc2c46010d030ea6b3f7f0298"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 34).bin" size="16214688" crc="421c17ed" md5="d76cfc6efd29a29d612e1a9acbab8160" sha1="7b3bc326e4e9c6b873815bbe944d8a01ee53d57b"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 1) (Track 35).bin" size="32107152" crc="596128c2" md5="4ee14141bb14e3d101f72b17f95ab2b0" sha1="d36327d4c4eddf048f2ad9d55990c5332d86827f"/>
+		<description>Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12)</description>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 01).bin" size="112058688" crc="3c0a7e22" md5="fa0525775812bcbd0491264869dcd8cc" sha1="5f3588caa54ac804a81d8b89d94ad8825087696b"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 02).bin" size="19077072" crc="d4e6ee66" md5="22e6f0c7bf5f39b42ad6163b6ce8c888" sha1="aa724b00f864f495982dc27f0f2455ba7e38f0ee"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 03).bin" size="14231952" crc="80ff9f34" md5="7d1b2106e4bd175614bf5aa62c403fe3" sha1="3bb368eec991c64bb2e8f9c036a8db280974018a"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 04).bin" size="14827008" crc="d014c187" md5="5334eda7d665f15a66559be2490e1e68" sha1="62f093d827d245d576d739f0bf704e08ef7753c0"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 05).bin" size="17567088" crc="c2b16a57" md5="6fa8602006dbcb90e23496f14ede927f" sha1="ed72f4275770f863cf5068c63bce8b65ec58e98c"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 06).bin" size="13980288" crc="9b70dedd" md5="1a189b68995416b40309a4fa0d8a35bc" sha1="849e32d919e71d47d57cb7a2d761fda32847430b"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 07).bin" size="14342496" crc="7cc9d387" md5="9137ee72204ef0d87179c378e6d04885" sha1="fa441812d5de25f07b87a4a2dcd18c217d15f3af"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 08).bin" size="20278944" crc="31cca42f" md5="d647771e4c8937cdffc5d4bd4c943c3f" sha1="51cbc5371e8c11a22866d15dd9e6ab6e85da6282"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 09).bin" size="14041440" crc="f4f0c3aa" md5="7438ee901cd454dffab1d53bd1d09555" sha1="5be23a907e97a126daf88d36ba8e7a19873b212d"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 10).bin" size="13653360" crc="c584079d" md5="55e7b7b64ae638430a74c3366671d9a5" sha1="ed1d77334f5e54ab570ddd0758ed761f78519414"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 11).bin" size="18016320" crc="d14887bd" md5="f4c583971b06f4d6b6cb128f7edcccf4" sha1="86a699c79e08e7ec662be4af4264965e0d41372a"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 12).bin" size="13573392" crc="1090eea5" md5="9afff73cb7a92b4d1d4752a29d144662" sha1="8b8aa54c54bf0263d99891bd73baee221655c81e"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 13).bin" size="11411904" crc="6a5e0a37" md5="d49bf01119b10ce1f9f4c72213e40ab4" sha1="985a7ed310b8e4952b945338c9e46e73e3675b5d"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 14).bin" size="16231152" crc="a4efcb04" md5="441b65e6a334adf90de74b74bf4e87cf" sha1="36cf22ac90a260997b1a7fa156943a6c68d06428"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 15).bin" size="10932096" crc="56bf14f1" md5="415627a68c6286b0d22591bb198c1a8e" sha1="005d1ad955f2996ce0e26c3f9164f34672e18274"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 16).bin" size="14048496" crc="6622825b" md5="3b53e1a46df66a77daab36e27c209df3" sha1="edd540106a3bc65f2580562719f29637c2b99793"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 17).bin" size="20137824" crc="4ae266e6" md5="d4cc3ae1f86fa9cb8205cda269544193" sha1="be2f54ffdaaccd95f7dad315ac00ebc9501e480f"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 18).bin" size="12881904" crc="fb65765f" md5="d99742b1d02ea547384660cc9ea33fed" sha1="04542da0f150c62eee1db466a6a9411b99c3be3a"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 19).bin" size="11783520" crc="1875e226" md5="baaa9e028fb1eb646a043291eb63eed5" sha1="b81c7c8efe16c0fef582fe96a1f3f134a95bbadf"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 20).bin" size="14942256" crc="88d2025b" md5="cc77a74f5c3a4f8aa9e0944de24f0d75" sha1="1ca970b93361fe5cd987a5351787998788aae826"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 21).bin" size="11607120" crc="910fb80d" md5="da07a11eb91588f1324d3b91837eb0cb" sha1="f7825b1f0b4de5f83ad69edb73cea4218a54fff0"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 22).bin" size="12816048" crc="2e57de19" md5="e28622c8b08e3121bf9db7d058b722f8" sha1="f21e77b4cfe0d216c66ec7dbf0964d53eeaae90c"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 23).bin" size="14088480" crc="aea7dbd5" md5="09a09d40ed226feb85ed120f1e3850cb" sha1="1e742397f10bd8ed75058a5ab2677c167da977d5"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 24).bin" size="14657664" crc="0a423715" md5="28415c6e1fd85832cee97897a2246aa5" sha1="14971aa4f61253f826f2eaa9de9b3d2ddec2a2f4"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 25).bin" size="7135968" crc="a36f7c47" md5="bc374096a49935fbc378fa17c69728b1" sha1="7302742d0244e3815065b9b4261ee2527cfa6246"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 26).bin" size="7135968" crc="a36f7c47" md5="bc374096a49935fbc378fa17c69728b1" sha1="7302742d0244e3815065b9b4261ee2527cfa6246"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 27).bin" size="1458240" crc="60dd234b" md5="391ee4c5002402abb19b48aa32d546b8" sha1="95ed37193ea8bdd2a44d6fa2c8a0c0d37c904826"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 28).bin" size="3996048" crc="0c877d2a" md5="5dcc2ec003645b523138751d14ce7437" sha1="a7b194d7579a46b46026705c3cd6c10eb09ced7b"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 29).bin" size="3869040" crc="7f26f575" md5="29a993cfcc665232b952a3c3a192bcae" sha1="01a020f47403349608802b634a7d4c5d5e26cdd2"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 30).bin" size="2008608" crc="1fcc9f96" md5="e50a322d806bb975867d0f6f58af0899" sha1="130485f3b32252a76dd7a34d4039fcd56c6ad3ed"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 31).bin" size="21513744" crc="82081334" md5="f37fa9304baf50000713505adc12105e" sha1="f0e48f21f8d0735569d2ffe581dcb0dee4f0ee12"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 32).bin" size="21873600" crc="c12652d5" md5="c8dc6d7fde6afe38a9e4670f57cf9a29" sha1="a3aea548a7920d0fdecc66e8f63405dec653a751"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 33).bin" size="1091328" crc="25235866" md5="253da274e647822b0ea50ba784bb10fa" sha1="ddf0f669fcab537cc2c46010d030ea6b3f7f0298"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 34).bin" size="16214688" crc="421c17ed" md5="d76cfc6efd29a29d612e1a9acbab8160" sha1="7b3bc326e4e9c6b873815bbe944d8a01ee53d57b"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12) (Track 35).bin" size="32107152" crc="596128c2" md5="4ee14141bb14e3d101f72b17f95ab2b0" sha1="d36327d4c4eddf048f2ad9d55990c5332d86827f"/>
 	</game>
-	<game name="Sonic The Hedgehog CD (Japan) (Beta 2)" sha1="246318f1ef37c2c6e0d641e4956311494abc4094" size="338837424" crc="f6544c68" fullsha1="acaeb667eeb5225dec4b0b647faa7bb033d3e1d5" dataSha1="4ab9eecaa0f195d8c79acf2a96ad8b45be259e32">
+	<game name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01)" sha1="246318f1ef37c2c6e0d641e4956311494abc4094" size="338837424" crc="f6544c68" fullsha1="acaeb667eeb5225dec4b0b647faa7bb033d3e1d5" dataSha1="4ab9eecaa0f195d8c79acf2a96ad8b45be259e32">
 		<category>Games</category>
-		<description>Sonic The Hedgehog CD (Japan) (Beta 2)</description>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 01).bin" size="129595200" crc="38c37028" md5="7edb240e8b02b47122c01698b51ac18a" sha1="575ebbc6a920e32cd59ae4852712e71b6a4cb1e8"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 02).bin" size="1091328" crc="25235866" md5="253da274e647822b0ea50ba784bb10fa" sha1="ddf0f669fcab537cc2c46010d030ea6b3f7f0298"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 03).bin" size="19077072" crc="427d0e42" md5="c23a77f3d7e8f82460341525d934cb83" sha1="8cd2b16c6b62b2d1d67ca5c0bbc64a7577a6a491"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 04).bin" size="14231952" crc="909fd938" md5="83413ae11265567d19eb19a09fe32613" sha1="992b78a2a17913efefb89b498145f73d7bf9b4d6"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 05).bin" size="14827008" crc="cb1ba8f7" md5="25eff90e2e76a7d474d7ceab27869497" sha1="8650689234556ed8c93623086f0461a5e70ac399"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 06).bin" size="17567088" crc="9b9e07be" md5="5c77c6d089088232823dd4ac14540641" sha1="2290332cebd593da9ae7ffe9256bd83e66c6ad5d"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 07).bin" size="13980288" crc="4c5a2aa6" md5="8a8f561d0e007d0fece1356ef1884f65" sha1="0c77dd177a81340956ea313d62bef5ee7bd0a7f9"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 08).bin" size="14342496" crc="8d9d6cfa" md5="cc8dc7dbb132beccbc347117a635faa5" sha1="2e6cc472d4bf0996cc136c56232d34f6354f2c28"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 09).bin" size="20278944" crc="91eeed6f" md5="51ff0600bd14f1c2e34ccf4f81ad12d3" sha1="8eb9e264f7e4300370a6cd5eaaebd8cff2b66a61"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 10).bin" size="14041440" crc="0357b4a3" md5="851a477fad0dc38c6210dab5a6ac3005" sha1="572d48a8ba0ce9df29e9173987a8b236160e3a49"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 11).bin" size="13653360" crc="06eb8834" md5="55f1a2055a672e5f4ccb10d54b162e25" sha1="72874c40fcbe740181efa74eb5ae9ae6ecbe82ac"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 12).bin" size="18016320" crc="180bfd36" md5="77bfbfaea618d2b0852495daa25377fc" sha1="8972fff651657a63f8f6b777af037e838f272269"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 13).bin" size="13573392" crc="76c2e0bd" md5="091b64ea1bfb319b51772160d7685d73" sha1="791426cd2db30c2f5601ac5cc480f09fcc1930ec"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 14).bin" size="11411904" crc="5b69adc6" md5="10a1d958d2544588962b62cb84c9f3ea" sha1="701987e29777c66bd248e5d4cc1e21080a4dc70f"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 15).bin" size="16231152" crc="0df01398" md5="ef0d444848db2a53638f338757295b8d" sha1="8cb07a68212bf7de765a9b7a770f09257368999b"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 16).bin" size="10932096" crc="223ae281" md5="16dca38bb2c1b69d6e18f06e57a557ca" sha1="8806d44d1c572886c50675638dae4ea198fc7057"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 17).bin" size="14048496" crc="9a39b10a" md5="034c7625df07ff643b98be8def67b8fa" sha1="89e9bff31d39e5c3ad27b97c57bf703ac2fb6ef4"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 18).bin" size="20137824" crc="965afdaf" md5="c9796b8a2af2a3d47473dac2e1f5b3b6" sha1="7cbdedd4b7c8f12958f8eb753f4508483485140b"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 19).bin" size="12881904" crc="7fed2bb2" md5="00b3d7d122256d3c9e0a2d545aa302af" sha1="747b941fccca3eb0757e5a234e5ddf3934688ca7"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 20).bin" size="11783520" crc="a6229c37" md5="680e0de926ac6dbaa43f12a00a536e4e" sha1="69e9f85064eabbedf9fd526b2899b5972ea6075f"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 21).bin" size="14942256" crc="f85a35c7" md5="0708e0536392fc63fa46361972af81e4" sha1="5ea113584247b3a796e2c4f4d093dc57927167bb"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 22).bin" size="11607120" crc="2ca77414" md5="a516fdc2366813592f0318c9e863c915" sha1="c72f164f152ae006a4dcacb8aabbf32d23b1e9a6"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 23).bin" size="12816048" crc="1ff8bddc" md5="232325c40f0ed75da78a5467345f4551" sha1="bf928d0ba0a6f27c9f069b295f4e2b5514de9edf"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 24).bin" size="14088480" crc="e5ab097c" md5="1a6ba44bbcf347306fb3823901b76d65" sha1="a406ee659ce724206ef4247e183fc7196378ada0"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 25).bin" size="14657664" crc="303cf58f" md5="79f618bb50588d86f513115382a1ff17" sha1="dc4aa4635cdb70f467537f5f646497cc2facfb3b"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 26).bin" size="5296704" crc="b07660f5" md5="9364cb4351b2e924795ddb5a481ae9e9" sha1="0af8f223cded6a722b9179ee9ce6ad40c04a4c38"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 27).bin" size="5296704" crc="b07660f5" md5="9364cb4351b2e924795ddb5a481ae9e9" sha1="0af8f223cded6a722b9179ee9ce6ad40c04a4c38"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 28).bin" size="1458240" crc="60dd234b" md5="391ee4c5002402abb19b48aa32d546b8" sha1="95ed37193ea8bdd2a44d6fa2c8a0c0d37c904826"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 29).bin" size="3988992" crc="16079a8c" md5="2df80ab4e56df390e516388f5c2c95fe" sha1="bbcc2e5cd0d1b3c99f32b6971f6a1b1e17cbb291"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 30).bin" size="3869040" crc="7f26f575" md5="29a993cfcc665232b952a3c3a192bcae" sha1="01a020f47403349608802b634a7d4c5d5e26cdd2"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 31).bin" size="2008608" crc="1fcc9f96" md5="e50a322d806bb975867d0f6f58af0899" sha1="130485f3b32252a76dd7a34d4039fcd56c6ad3ed"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 32).bin" size="21513744" crc="82081334" md5="f37fa9304baf50000713505adc12105e" sha1="f0e48f21f8d0735569d2ffe581dcb0dee4f0ee12"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 33).bin" size="21873600" crc="c12652d5" md5="c8dc6d7fde6afe38a9e4670f57cf9a29" sha1="a3aea548a7920d0fdecc66e8f63405dec653a751"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 34).bin" size="16214688" crc="421c17ed" md5="d76cfc6efd29a29d612e1a9acbab8160" sha1="7b3bc326e4e9c6b873815bbe944d8a01ee53d57b"/>
-		<rom name="Sonic The Hedgehog CD (Japan) (Beta 2) (Track 35).bin" size="32107152" crc="596128c2" md5="4ee14141bb14e3d101f72b17f95ab2b0" sha1="d36327d4c4eddf048f2ad9d55990c5332d86827f"/>
+		<description>Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01)</description>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 01).bin" size="129595200" crc="38c37028" md5="7edb240e8b02b47122c01698b51ac18a" sha1="575ebbc6a920e32cd59ae4852712e71b6a4cb1e8"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 02).bin" size="1091328" crc="25235866" md5="253da274e647822b0ea50ba784bb10fa" sha1="ddf0f669fcab537cc2c46010d030ea6b3f7f0298"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 03).bin" size="19077072" crc="427d0e42" md5="c23a77f3d7e8f82460341525d934cb83" sha1="8cd2b16c6b62b2d1d67ca5c0bbc64a7577a6a491"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 04).bin" size="14231952" crc="909fd938" md5="83413ae11265567d19eb19a09fe32613" sha1="992b78a2a17913efefb89b498145f73d7bf9b4d6"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 05).bin" size="14827008" crc="cb1ba8f7" md5="25eff90e2e76a7d474d7ceab27869497" sha1="8650689234556ed8c93623086f0461a5e70ac399"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 06).bin" size="17567088" crc="9b9e07be" md5="5c77c6d089088232823dd4ac14540641" sha1="2290332cebd593da9ae7ffe9256bd83e66c6ad5d"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 07).bin" size="13980288" crc="4c5a2aa6" md5="8a8f561d0e007d0fece1356ef1884f65" sha1="0c77dd177a81340956ea313d62bef5ee7bd0a7f9"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 08).bin" size="14342496" crc="8d9d6cfa" md5="cc8dc7dbb132beccbc347117a635faa5" sha1="2e6cc472d4bf0996cc136c56232d34f6354f2c28"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 09).bin" size="20278944" crc="91eeed6f" md5="51ff0600bd14f1c2e34ccf4f81ad12d3" sha1="8eb9e264f7e4300370a6cd5eaaebd8cff2b66a61"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 10).bin" size="14041440" crc="0357b4a3" md5="851a477fad0dc38c6210dab5a6ac3005" sha1="572d48a8ba0ce9df29e9173987a8b236160e3a49"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 11).bin" size="13653360" crc="06eb8834" md5="55f1a2055a672e5f4ccb10d54b162e25" sha1="72874c40fcbe740181efa74eb5ae9ae6ecbe82ac"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 12).bin" size="18016320" crc="180bfd36" md5="77bfbfaea618d2b0852495daa25377fc" sha1="8972fff651657a63f8f6b777af037e838f272269"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 13).bin" size="13573392" crc="76c2e0bd" md5="091b64ea1bfb319b51772160d7685d73" sha1="791426cd2db30c2f5601ac5cc480f09fcc1930ec"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 14).bin" size="11411904" crc="5b69adc6" md5="10a1d958d2544588962b62cb84c9f3ea" sha1="701987e29777c66bd248e5d4cc1e21080a4dc70f"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 15).bin" size="16231152" crc="0df01398" md5="ef0d444848db2a53638f338757295b8d" sha1="8cb07a68212bf7de765a9b7a770f09257368999b"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 16).bin" size="10932096" crc="223ae281" md5="16dca38bb2c1b69d6e18f06e57a557ca" sha1="8806d44d1c572886c50675638dae4ea198fc7057"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 17).bin" size="14048496" crc="9a39b10a" md5="034c7625df07ff643b98be8def67b8fa" sha1="89e9bff31d39e5c3ad27b97c57bf703ac2fb6ef4"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 18).bin" size="20137824" crc="965afdaf" md5="c9796b8a2af2a3d47473dac2e1f5b3b6" sha1="7cbdedd4b7c8f12958f8eb753f4508483485140b"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 19).bin" size="12881904" crc="7fed2bb2" md5="00b3d7d122256d3c9e0a2d545aa302af" sha1="747b941fccca3eb0757e5a234e5ddf3934688ca7"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 20).bin" size="11783520" crc="a6229c37" md5="680e0de926ac6dbaa43f12a00a536e4e" sha1="69e9f85064eabbedf9fd526b2899b5972ea6075f"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 21).bin" size="14942256" crc="f85a35c7" md5="0708e0536392fc63fa46361972af81e4" sha1="5ea113584247b3a796e2c4f4d093dc57927167bb"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 22).bin" size="11607120" crc="2ca77414" md5="a516fdc2366813592f0318c9e863c915" sha1="c72f164f152ae006a4dcacb8aabbf32d23b1e9a6"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 23).bin" size="12816048" crc="1ff8bddc" md5="232325c40f0ed75da78a5467345f4551" sha1="bf928d0ba0a6f27c9f069b295f4e2b5514de9edf"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 24).bin" size="14088480" crc="e5ab097c" md5="1a6ba44bbcf347306fb3823901b76d65" sha1="a406ee659ce724206ef4247e183fc7196378ada0"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 25).bin" size="14657664" crc="303cf58f" md5="79f618bb50588d86f513115382a1ff17" sha1="dc4aa4635cdb70f467537f5f646497cc2facfb3b"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 26).bin" size="5296704" crc="b07660f5" md5="9364cb4351b2e924795ddb5a481ae9e9" sha1="0af8f223cded6a722b9179ee9ce6ad40c04a4c38"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 27).bin" size="5296704" crc="b07660f5" md5="9364cb4351b2e924795ddb5a481ae9e9" sha1="0af8f223cded6a722b9179ee9ce6ad40c04a4c38"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 28).bin" size="1458240" crc="60dd234b" md5="391ee4c5002402abb19b48aa32d546b8" sha1="95ed37193ea8bdd2a44d6fa2c8a0c0d37c904826"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 29).bin" size="3988992" crc="16079a8c" md5="2df80ab4e56df390e516388f5c2c95fe" sha1="bbcc2e5cd0d1b3c99f32b6971f6a1b1e17cbb291"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 30).bin" size="3869040" crc="7f26f575" md5="29a993cfcc665232b952a3c3a192bcae" sha1="01a020f47403349608802b634a7d4c5d5e26cdd2"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 31).bin" size="2008608" crc="1fcc9f96" md5="e50a322d806bb975867d0f6f58af0899" sha1="130485f3b32252a76dd7a34d4039fcd56c6ad3ed"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 32).bin" size="21513744" crc="82081334" md5="f37fa9304baf50000713505adc12105e" sha1="f0e48f21f8d0735569d2ffe581dcb0dee4f0ee12"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 33).bin" size="21873600" crc="c12652d5" md5="c8dc6d7fde6afe38a9e4670f57cf9a29" sha1="a3aea548a7920d0fdecc66e8f63405dec653a751"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 34).bin" size="16214688" crc="421c17ed" md5="d76cfc6efd29a29d612e1a9acbab8160" sha1="7b3bc326e4e9c6b873815bbe944d8a01ee53d57b"/>
+		<rom name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01) (Track 35).bin" size="32107152" crc="596128c2" md5="4ee14141bb14e3d101f72b17f95ab2b0" sha1="d36327d4c4eddf048f2ad9d55990c5332d86827f"/>
 	</game>
 	<game name="SoulStar &amp; Battlecorps (Europe) (Demo)" sha1="d97c7cb67a7cb033dc2cd5f53f9acbc45a2f46ba" size="98279771" crc="ba81b768" fullsha1="0feac28af9090aeed3bc4d7c119652ded1a3e26c" dataSha1="55df429f9c71143ed631870141a7c262142c106e">
 		<category>Games</category>
