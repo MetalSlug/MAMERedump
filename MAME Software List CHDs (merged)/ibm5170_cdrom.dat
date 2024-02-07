@@ -4,7 +4,7 @@
 	<header>
 		<name>ibm5170_cdrom</name>
 		<description>ibm5170_cdrom</description>
-		<version>0.261</version>
+		<version>0.262</version>
 		<date>2023-11-30</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -1391,6 +1391,16 @@
 		<description>escdlrum\escape from delirium (1997)(magicom multimedia)</description>
 		<rom name="escape from delirium (1997)(magicom multimedia) (Track 01).bin" size="10719232" crc="1f7d8e60" md5="794ba5d1447a4b464f2ec37cc1331a12" sha1="cc327975ccb73dd4bae645d6d304769d65dea096"/>
 	</game>
+	<game name="ezscsi401a\ezscsi_401" sha1="f8b5acc3afbbf06c0d6b5a8ec13d25be0e15031c" size="324143038" crc="83aa4a9a" fullsha1="c090b80f703d89c257c6d32b2fca693f25903442" dataSha1="f514f89512761b92ed69eb951430e6027687a33b">
+		<category>Games</category>
+		<description>ezscsi401a\ezscsi_401</description>
+		<rom name="ezscsi_401 (Track 01).bin" size="438716208" crc="8af6e859" md5="089d585aae342eeaf3135c3842e1bfea" sha1="43a6229f531f35f678e33849d844ad55252f16f8"/>
+	</game>
+	<game name="ezscsi50dx\ezscsi_50dx" sha1="894db979b81adc295de99393a039aa58c8a377f9" size="328764256" crc="ad5e5302" fullsha1="309f0b310812ecab2b242cd5df4e3dd19c7e7745" dataSha1="0cf88be01bff8bb6836eb67d392ccf78713a38b6">
+		<category>Games</category>
+		<description>ezscsi50dx\ezscsi_50dx</description>
+		<rom name="ezscsi_50dx (Track 01).bin" size="389019648" crc="62605854" md5="783e2c367a743ad4c105eb462a6a8af6" sha1="4613d627b917846165fe7558abb6670bc8c238f2"/>
+	</game>
 	<game name="f1gp\Formula One Grand Prix (Netherlands) (Crucial)" sha1="48b45c56758e6dafacc075e0148916a34606a972" size="48567150" crc="7aae588a" fullsha1="03b22b58db9eb73171cd4ed3f342ddc2303aad1b" dataSha1="6883fca3f2c6771f623845ac6a4b74f8b7ca372f">
 		<category>Games</category>
 		<description>f1gp\Formula One Grand Prix (Netherlands) (Crucial)</description>
@@ -2381,6 +2391,11 @@
 		<description>ppersiale\Prince of Persia Collection - Limited Edition (USA)</description>
 		<rom name="Prince of Persia Collection - Limited Edition (USA) (Track 01).bin" size="723065952" crc="8030340e" md5="7f185559f694140312bc84fba0558d9a" sha1="1625c3d448f432afb06ff96b334278f2b930f942"/>
 	</game>
+	<game name="primrage\timewarnerinteractive-primalrage-msdos-eng" sha1="d614bd222e2507f381103010332d927cf0185230" size="56072202" crc="8b4afb8f" fullsha1="c3e4c2d2ceebe80975d61c6761542dc180031520" dataSha1="c6b20fd6d29542340f1d3d86f44a1ba474e3eb31">
+		<category>Games</category>
+		<description>primrage\timewarnerinteractive-primalrage-msdos-eng</description>
+		<rom name="timewarnerinteractive-primalrage-msdos-eng (Track 01).bin" size="109111296" crc="30de55be" md5="831a0e07f85a8045dad5aa020721a19b" sha1="f393f2fea6a4ba7541aa1480882acb15bfb9d25f"/>
+	</game>
 	<game name="prinmak2\princess_maker_2_(win31)" sha1="9a45b381e74e3a717d8724d0a5d5f543b08901a3" size="146852422" crc="9dd0fc03" fullsha1="5f7d1af8f9f4c9841893c50c48d765d66a84013d" dataSha1="aff01df00e66ad504f4af946c1da5d80148ad4e3">
 		<category>Games</category>
 		<description>prinmak2\princess_maker_2_(win31)</description>
@@ -2529,6 +2544,11 @@
 		<category>Games</category>
 		<description>roadrashi\roadrash</description>
 		<rom name="roadrash (Track 01).bin" size="594870192" crc="d152f6eb" md5="c3db334eddcb21b5daf958fe4a6c547a" sha1="fb47926584239998a00057859a7d0c7adfcd674a"/>
+	</game>
+	<game name="s3drv21\s3drv21" sha1="8ccce8fa648a957c506764fbb62de39970173cb4" size="144818742" crc="e475c541" fullsha1="78a64306e1b9ffb29eb9a50d1a3a010ebc2365e3" dataSha1="59cc95fb6eedb7ad992a16e9490f4bf45f4ff412">
+		<category>Games</category>
+		<description>s3drv21\s3drv21</description>
+		<rom name="s3drv21 (Track 01).bin" size="264736416" crc="d30e0378" md5="bdfa8dddf22a2ff12e1ff59bb6d35c26" sha1="d7856f05418e5ccc751982e1d5efc51af9cba298"/>
 	</game>
 	<game name="sasuberi\sarusuberi" sha1="fd147245ad699ef1ff6a07b92ac19043127d281e" size="72089434" crc="58512703" fullsha1="44b9dac3e60169b45a774a2e3f1986275309c4df" dataSha1="abdf338b6c41cc973b11a937d090bea087e7f784">
 		<category>Games</category>

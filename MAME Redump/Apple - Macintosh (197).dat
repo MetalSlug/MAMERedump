@@ -3,798 +3,798 @@
 <datafile>
   <header>
     <name>Apple - Macintosh</name>
-    <description>MAME Redump - Apple - Macintosh - Discs (1087) (2023-10-24 10-09-18)</description>
-    <version>0.261</version>
-    <date>2023-11-30</date>
+    <description>MAME Redump - Apple - Macintosh - Discs (1112) (2024-01-29 09-41-19)</description>
+    <version>0.262</version>
+    <date>2024-02-07</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
   </header>
-  <game name="11th Hour, The (USA) (Disc 1)">
+  <machine name="11th Hour, The (USA) (Disc 1)">
     <description>11th Hour, The (USA) (Disc 1)</description>
-    <rom name="11th Hour, The (USA) (Disc 1).chd" size="419702816" crc="19604DB2" sha1="57DDBCC76B9C8B0D5FA604A85DECA5BBEC8DE9F2" />
-  </game>
-  <game name="11th Hour, The (USA) (Disc 2)">
+    <disk name="11th Hour, The (USA) (Disc 1).chd" sha1="a3dca451d4d97f2cabdf9e0ea125a771d6f8cd15" />
+  </machine>
+  <machine name="11th Hour, The (USA) (Disc 2)">
     <description>11th Hour, The (USA) (Disc 2)</description>
-    <rom name="11th Hour, The (USA) (Disc 2).chd" size="537670226" crc="D3A2930B" sha1="37E3768B656A3B89EA3ACA9856395EEC175B9E47" />
-  </game>
-  <game name="11th Hour, The (USA) (Disc 3)">
+    <disk name="11th Hour, The (USA) (Disc 2).chd" sha1="5ab162bfe944dd87ba24261c14a2ca35f548d90d" />
+  </machine>
+  <machine name="11th Hour, The (USA) (Disc 3)">
     <description>11th Hour, The (USA) (Disc 3)</description>
-    <rom name="11th Hour, The (USA) (Disc 3).chd" size="483299633" crc="DE43D08E" sha1="F012731BE2022E930E5C789D1271B8E617A20ED4" />
-  </game>
-  <game name="11th Hour, The (USA) (Disc 4)">
+    <disk name="11th Hour, The (USA) (Disc 3).chd" sha1="fac70feebd6ac05632d27917394638c503ffef87" />
+  </machine>
+  <machine name="11th Hour, The (USA) (Disc 4)">
     <description>11th Hour, The (USA) (Disc 4)</description>
-    <rom name="11th Hour, The (USA) (Disc 4).chd" size="520765961" crc="2D15A916" sha1="5C5EDA49F19DB0B7FB7D52279D877E124574B470" />
-  </game>
-  <game name="3-D Ultra Pinball (Europe)">
+    <disk name="11th Hour, The (USA) (Disc 4).chd" sha1="799227fc0824fdf008a721877e1c1dd511aa6c72" />
+  </machine>
+  <machine name="3-D Ultra Pinball (Europe)">
     <description>3-D Ultra Pinball (Europe)</description>
-    <rom name="3-D Ultra Pinball (Europe).chd" size="39458505" crc="1ECB75FD" sha1="A83CE0338FF2956BC6AA77F1BBC8F65855F72AF1" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 1) (Music &amp; Sound Effects)">
+    <disk name="3-D Ultra Pinball (Europe).chd" sha1="715d6ee2f8d1952f358b7af55cc64370244fc350" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 1) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 1) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 1) (Music &amp; Sound Effects).chd" size="382729308" crc="930AF40D" sha1="B7BBF7978CEEA840EEB4C0688CFFD9F72ED0FE26" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 10) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 1) (Music &amp; Sound Effects).chd" sha1="b4fdb9a4b540c027c7d4b58757fa8743d87a0ad2" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 10) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 10) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 10) (Music &amp; Sound Effects).chd" size="396715427" crc="B6735401" sha1="A925339B5A722DF592D54F5F82CF97758B38B06C" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 11) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 10) (Music &amp; Sound Effects).chd" sha1="00298090747efacf0ea4b9bf90b6705e1cb472d3" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 11) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 11) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 11) (Music &amp; Sound Effects).chd" size="311364525" crc="8A1FF39E" sha1="990777462312020FF191E687D1AAEFA8B42C460D" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 12) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 11) (Music &amp; Sound Effects).chd" sha1="7b8f3b59ef56ff2518e62d1720b90222b07effdc" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 12) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 12) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 12) (Music &amp; Sound Effects).chd" size="391168178" crc="C26D3516" sha1="DB554D7C6559B4B0484FC6D1E48A6D5A93961A4D" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 13) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 12) (Music &amp; Sound Effects).chd" sha1="f6df6471fe4430f3895dbc15be819fea7e81bee3" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 13) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 13) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 13) (Music &amp; Sound Effects).chd" size="489368935" crc="69790312" sha1="AF482199B817C19C55FF9F0AFA06D22872AB83DD" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 14) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 13) (Music &amp; Sound Effects).chd" sha1="33d8a65046c52f121b4bb8dbc1caf59920c2f5ae" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 14) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 14) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 14) (Music &amp; Sound Effects).chd" size="477860037" crc="5DCA20B2" sha1="7DD841D8EEABB004B2EAC6307B70F895707A023D" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 15) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 14) (Music &amp; Sound Effects).chd" sha1="c4bed153e107f0bad27b847b857dda2504ac8fd7" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 15) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 15) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 15) (Music &amp; Sound Effects).chd" size="460099814" crc="4C5B3CB4" sha1="61E775916DB78F73BECA8B042DCA6586D2F0B47A" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 16) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 15) (Music &amp; Sound Effects).chd" sha1="7b9831ab2b77ae6a8ad17c2011849fb78ce48baa" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 16) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 16) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 16) (Music &amp; Sound Effects).chd" size="496303764" crc="75C0FF02" sha1="D2A19F780E4DD2C94C018172C5C7A379B093A06E" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 17) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 16) (Music &amp; Sound Effects).chd" sha1="9533eba2cd3522f80fab584267e1afd2d3b48cdb" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 17) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 17) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 17) (Music &amp; Sound Effects).chd" size="328877714" crc="6F0D8093" sha1="C529E73977A1E2CA78C968897B6CED5DFB3A992A" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 18) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 17) (Music &amp; Sound Effects).chd" sha1="7b53ec46f669ce3b99371caf272db1be13a90e2b" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 18) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 18) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 18) (Music &amp; Sound Effects).chd" size="489234355" crc="B61DFFF9" sha1="F293B18CD15C0C85665F7A9B73B3CDCEBBEB8796" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 19) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 18) (Music &amp; Sound Effects).chd" sha1="cbbb7f2201719cb4fdfd1f212dc89fedbd81d5ae" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 19) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 19) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 19) (Music &amp; Sound Effects).chd" size="477023536" crc="0444ECAB" sha1="34D2851F99709E630FE8091441D5A37DAC82903D" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 2) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 19) (Music &amp; Sound Effects).chd" sha1="33690ee7041a6d8ab27cb4dd6b10b0fcf99fc24f" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 2) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 2) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 2) (Music &amp; Sound Effects).chd" size="415936719" crc="C8165008" sha1="3AE953AF4AF83EFB18676F2BD463E1EFE82F8B30" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 20) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 2) (Music &amp; Sound Effects).chd" sha1="b9172b0b1dc89b8c19e4f1e46a1ecf477c26e08a" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 20) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 20) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 20) (Music &amp; Sound Effects).chd" size="338834155" crc="9B61769E" sha1="EC08E027F0E68C0A06F476A3760984086575A2D1" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 21) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 20) (Music &amp; Sound Effects).chd" sha1="b8b68fb54bc63398ed578eac63f95ac8f25eca02" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 21) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 21) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 21) (Music &amp; Sound Effects).chd" size="474348606" crc="A1A35DBE" sha1="0A5C0CB59254A441DB2A5576E415C4AF55A1F906" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 22) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 21) (Music &amp; Sound Effects).chd" sha1="eaecf3dfdbd1063a42c499c9a500ab74d350b014" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 22) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 22) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 22) (Music &amp; Sound Effects).chd" size="502901345" crc="B29B7C4E" sha1="2C5BAFF07B52CED391E58E8488EB550FADBBEA5E" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 23) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 22) (Music &amp; Sound Effects).chd" sha1="89db75c3d727dbb03fd444394411481bc73e7f30" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 23) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 23) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 23) (Music &amp; Sound Effects).chd" size="514156415" crc="8BB1A593" sha1="68F7554645A6941ED6F193DCE1BBDF242BAE8CF9" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 24) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 23) (Music &amp; Sound Effects).chd" sha1="045c832d51bc07832fd95e9bd0d8a74aeaabc32e" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 24) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 24) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 24) (Music &amp; Sound Effects).chd" size="488813720" crc="00221FE8" sha1="E7CE08BB74773283D5A5D180A4A8F16492F87497" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 25) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 24) (Music &amp; Sound Effects).chd" sha1="d163436e7e2be01aae09eb91b4e2365ea183b7ca" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 25) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 25) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 25) (Music &amp; Sound Effects).chd" size="534541344" crc="56AEC286" sha1="A1FAF6DD6CD60B3464EC6E16AAA69309E56B455E" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 26) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 25) (Music &amp; Sound Effects).chd" sha1="d7353f7dc317d3a36808f7b7c26aa1ba0bdab0cc" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 26) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 26) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 26) (Music &amp; Sound Effects).chd" size="504537241" crc="FB9B3E64" sha1="CC4A32221F651BA2664B8DCD1DA11C0DC5C1F5E2" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 27) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 26) (Music &amp; Sound Effects).chd" sha1="16809a170ad005852e5f2649515cf7743c187641" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 27) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 27) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 27) (Music &amp; Sound Effects).chd" size="515267746" crc="B5F2D9A9" sha1="D4382244D96A9D0A87FDB590EB1F5DB016D37FBE" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 28) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 27) (Music &amp; Sound Effects).chd" sha1="2329c52da0d304f7d45096727a0067692d3a98a2" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 28) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 28) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 28) (Music &amp; Sound Effects).chd" size="490930607" crc="2F0BA3B5" sha1="C5F7DAB489E5286AFD2998FA00D19C7200692BDE" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 29) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 28) (Music &amp; Sound Effects).chd" sha1="6f731520dbd386a1d10b05b4732d0509823b7078" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 29) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 29) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 29) (Music &amp; Sound Effects).chd" size="511823352" crc="0654F542" sha1="6351F59A211056719BCCF4A4AEEBBF7E48764986" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 3) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 29) (Music &amp; Sound Effects).chd" sha1="04f1cfc38171890fbd3db51609490bdbc79f4360" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 3) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 3) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 3) (Music &amp; Sound Effects).chd" size="429038298" crc="1A18621B" sha1="5556E0EC9FA1C4D79A5A6AFDECF8B92D02388EA6" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 30) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 3) (Music &amp; Sound Effects).chd" sha1="e8cc32b5ac8ea6896833aaf0f52c279543ce4f35" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 30) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 30) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 30) (Music &amp; Sound Effects).chd" size="491126671" crc="51149AC6" sha1="582C0D34F2C73CCEA0A1FE5C956F56E69C01051F" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 31) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 30) (Music &amp; Sound Effects).chd" sha1="c8df40eb83d2af552d43d4a08d03c389e25015e5" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 31) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 31) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 31) (Music &amp; Sound Effects).chd" size="524336923" crc="CF9E61F7" sha1="436C0A4A91EFC6A0734F1EF30FA2282B849D1DA4" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 32) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 31) (Music &amp; Sound Effects).chd" sha1="57559cad719c1b522a54c2736c3ff83abf9bcf54" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 32) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 32) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 32) (Music &amp; Sound Effects).chd" size="506965589" crc="5692541A" sha1="171393E91797B304BE4EE50AA6A0AB7B0C2DDB1A" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 33) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 32) (Music &amp; Sound Effects).chd" sha1="a8280306c4046a989d89c589fe2c284993e24446" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 33) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 33) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 33) (Music &amp; Sound Effects).chd" size="505529311" crc="FE373D76" sha1="6A6F0A81D0D3BBB6EB4811B966CBCB9EC12F19A5" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 34) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 33) (Music &amp; Sound Effects).chd" sha1="adb7f90d4b9d9c48144de6c7f8efb138f727aef3" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 34) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 34) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 34) (Music &amp; Sound Effects).chd" size="300599700" crc="36EEA51F" sha1="97088E96D1DAE8CBC70808F7F4F1962E13919B2E" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 35) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 34) (Music &amp; Sound Effects).chd" sha1="833bdbfe5f777d9c6f64c5c9c8407ee970e5bf17" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 35) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 35) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 35) (Music &amp; Sound Effects).chd" size="259180834" crc="9FAA8E00" sha1="AE7438C46C3201428A7E739C934417768497C70F" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 36) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 35) (Music &amp; Sound Effects).chd" sha1="2d930ba6f4a588cf374774c9232b7bc22f590ac9" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 36) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 36) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 36) (Music &amp; Sound Effects).chd" size="300871396" crc="26764E4E" sha1="094EDEA8971E6E0ED3ACD1B7E0C7E4DD1D540AF5" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 37) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 36) (Music &amp; Sound Effects).chd" sha1="ca86bef460c60ed320a0929895609ca5077848b6" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 37) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 37) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 37) (Music &amp; Sound Effects).chd" size="296431459" crc="C1CF89F2" sha1="669D35AE8CF317F07E92F33D02D8EF2DA2BE9DFA" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 38) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 37) (Music &amp; Sound Effects).chd" sha1="31e82c8d8dbf84e3158127d089c1ca13ef4ec993" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 38) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 38) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 38) (Music &amp; Sound Effects).chd" size="339910767" crc="1B505D75" sha1="FC1E9D54A0CC798107CAC64176A7CEBB84D61F94" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 39) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 38) (Music &amp; Sound Effects).chd" sha1="3a947cdc25994bd7f8ddfe636691c336f0d36c8e" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 39) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 39) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 39) (Music &amp; Sound Effects).chd" size="381509990" crc="00DFC0E8" sha1="94F2411FAD201B0E34519635E516A1C3078F4669" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 4) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 39) (Music &amp; Sound Effects).chd" sha1="c051d6b8d23e11f3bc5623c70691ff901f240910" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 4) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 4) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 4) (Music &amp; Sound Effects).chd" size="435950926" crc="14BA18B3" sha1="2B1EF580669FED3072621A6A5DD1645BFA500392" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 40) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 4) (Music &amp; Sound Effects).chd" sha1="470833e9b38d653a0ad81e1dd34d944b5d2a6e56" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 40) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 40) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 40) (Music &amp; Sound Effects).chd" size="353691254" crc="9F0F4668" sha1="9B21FCB7D3E64C19EE87178590CF8A83DDDF7285" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 41) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 40) (Music &amp; Sound Effects).chd" sha1="ec6c12fae99ef63af955b862b250db2553fe05cb" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 41) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 41) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 41) (Music &amp; Sound Effects).chd" size="359143610" crc="616F5425" sha1="78D957F8B69960BADF1CBD53D068D0556F7CD85F" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 42) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 41) (Music &amp; Sound Effects).chd" sha1="a28c408201dacab1eae0d32b589a0baad8612265" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 42) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 42) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 42) (Music &amp; Sound Effects).chd" size="361443484" crc="DA6CF68C" sha1="C0D24C46A140D7F9FAA0B2162408F79B21396A0C" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 43) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 42) (Music &amp; Sound Effects).chd" sha1="3d4456dfdc6f93c8c1c5f3a94d71eab661edd9b2" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 43) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 43) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 43) (Music &amp; Sound Effects).chd" size="360799583" crc="C3CCA6C5" sha1="94FADFA50A87B59A47D7936EC52D468B543356C7" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 44) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 43) (Music &amp; Sound Effects).chd" sha1="b8d93498ab71108c3951943d96ea5567af36911f" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 44) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 44) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 44) (Music &amp; Sound Effects).chd" size="365389816" crc="89E6DDD2" sha1="B4C028CF5AE024477C868832E970A112C7E32E10" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 45) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 44) (Music &amp; Sound Effects).chd" sha1="4e5052c6a401e0fe68ec160ec0766a29e501fe3d" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 45) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 45) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 45) (Music &amp; Sound Effects).chd" size="400829998" crc="06B6EA48" sha1="69C68B40E1B1C5A98279163C26710BDA5DD61CA3" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 46) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 45) (Music &amp; Sound Effects).chd" sha1="ed680de7cbceced94d5a74184708d32b803cb2b1" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 46) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 46) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 46) (Music &amp; Sound Effects).chd" size="369164007" crc="22871F0A" sha1="439F6C6CEF1054F8B672A85C66C110297535794A" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 47) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 46) (Music &amp; Sound Effects).chd" sha1="97eac36d3f896ff9d853c0b7d9401c60999347ce" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 47) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 47) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 47) (Music &amp; Sound Effects).chd" size="346587138" crc="27C965A2" sha1="2AA5B6DD74878A86B0A4792388C01A93E7EDEAC7" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 48) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 47) (Music &amp; Sound Effects).chd" sha1="0480d9120dbdbe199b4ae5426241beb5d3961b48" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 48) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 48) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 48) (Music &amp; Sound Effects).chd" size="364800419" crc="445C00E5" sha1="3691AE727C77146841A982D7E306283B26DA6769" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 49) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 48) (Music &amp; Sound Effects).chd" sha1="e531bc84d7f67bb5c9039e37ac86bd07903c2854" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 49) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 49) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 49) (Music &amp; Sound Effects).chd" size="339569569" crc="7FAEDC28" sha1="7974778C5D11F0FB3C65E1F0242504A598531E1B" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 5) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 49) (Music &amp; Sound Effects).chd" sha1="3b1ae2f3d9890cbcc3e58494872755da113492d8" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 5) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 5) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 5) (Music &amp; Sound Effects).chd" size="489276285" crc="F6419E40" sha1="527917D24FFFA2DA3E3D1EBBA7B87F83BC94643E" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 50) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 5) (Music &amp; Sound Effects).chd" sha1="17b7e9d75bea2e55ff3764fe3dac5f21f432a33e" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 50) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 50) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 50) (Music &amp; Sound Effects).chd" size="371044853" crc="493397CE" sha1="93B20F330ED2D72A71ED0F723413BF0D588D865C" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 6) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 50) (Music &amp; Sound Effects).chd" sha1="cb3d60eeb21f9d970544c2257ad70387b1dffc8c" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 6) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 6) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 6) (Music &amp; Sound Effects).chd" size="436078621" crc="46517BC6" sha1="B94747892EFE537986ADBBF51155498BA5DE1948" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 7) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 6) (Music &amp; Sound Effects).chd" sha1="c9d956668e544e30505d2e5a8ae269f06ca325f6" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 7) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 7) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 7) (Music &amp; Sound Effects).chd" size="433980150" crc="4004EE7B" sha1="58C756F5F76097B97DB8DB7DB3BB8078B0E29706" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 8) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 7) (Music &amp; Sound Effects).chd" sha1="62ebedab751167007884f1ff1779f01403a286d9" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 8) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 8) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 8) (Music &amp; Sound Effects).chd" size="481712510" crc="51F15EE5" sha1="63C4371DFD8BD1BC3D19616CE43540C654B9EE32" />
-  </game>
-  <game name="3DO Content Library, The (USA) (Disc 9) (Music &amp; Sound Effects)">
+    <disk name="3DO Content Library, The (USA) (Disc 8) (Music &amp; Sound Effects).chd" sha1="bc8633d4a67195e6d20044010169ad8ae674b497" />
+  </machine>
+  <machine name="3DO Content Library, The (USA) (Disc 9) (Music &amp; Sound Effects)">
     <description>3DO Content Library, The (USA) (Disc 9) (Music &amp; Sound Effects)</description>
-    <rom name="3DO Content Library, The (USA) (Disc 9) (Music &amp; Sound Effects).chd" size="486761499" crc="7DBA067C" sha1="CE0F35FC7837B46B16FDFBB657B8E764E5C8AB88" />
-  </game>
-  <game name="A-10 Cuba! (USA)">
+    <disk name="3DO Content Library, The (USA) (Disc 9) (Music &amp; Sound Effects).chd" sha1="020c5dc9fdd880aa8763fe7d8a67646db29f4528" />
+  </machine>
+  <machine name="A-10 Cuba! (USA)">
     <description>A-10 Cuba! (USA)</description>
-    <rom name="A-10 Cuba! (USA).chd" size="77715811" crc="8CEF9263" sha1="CB5C932F5581BC25162491DA3EA8C58AD58AD8A5" />
-  </game>
-  <game name="Abuse for Macintosh (USA)">
+    <disk name="A-10 Cuba! (USA).chd" sha1="89f629cdbbf40bfbb24ab605504bd1c13c93dd8e" />
+  </machine>
+  <machine name="Abuse for Macintosh (USA)">
     <description>Abuse for Macintosh (USA)</description>
-    <rom name="Abuse for Macintosh (USA).chd" size="42866034" crc="5FD475FA" sha1="EE2D5B5F9135DD22880524B08243F88BBFC25860" />
-  </game>
-  <game name="Age of Empires (USA)">
+    <disk name="Abuse for Macintosh (USA).chd" sha1="8eb0d482c763b670ba41d4f7d7a98dba991db796" />
+  </machine>
+  <machine name="Age of Empires (USA)">
     <description>Age of Empires (USA)</description>
-    <rom name="Age of Empires (USA).chd" size="236176718" crc="A655A5E3" sha1="5EFA76A2227EF2821FB4E41E86E170985700310C" />
-  </game>
-  <game name="Age of Empires II - Gold Edition (USA)">
+    <disk name="Age of Empires (USA).chd" sha1="83b7c407051e06b49b2683c09964118728dee747" />
+  </machine>
+  <machine name="Age of Empires II - Gold Edition (USA)">
     <description>Age of Empires II - Gold Edition (USA)</description>
-    <rom name="Age of Empires II - Gold Edition (USA).chd" size="452215787" crc="9E1522A8" sha1="DFA3E1A97F2A7DB3707B4E1884BABC12708CA1E7" />
-  </game>
-  <game name="Alex-World (Japan) (Disc 1)">
+    <disk name="Age of Empires II - Gold Edition (USA).chd" sha1="d50ca9a84efcaf3f3273fafbe99953f8d7496d64" />
+  </machine>
+  <machine name="Alex-World (Japan) (Disc 1)">
     <description>Alex-World (Japan) (Disc 1)</description>
-    <rom name="Alex-World (Japan) (Disc 1).chd" size="345158684" crc="A7F92B35" sha1="5CFF5C9898743D4F13DAA896396C4294207B4840" />
-  </game>
-  <game name="Alex-World (Japan) (Disc 2)">
+    <disk name="Alex-World (Japan) (Disc 1).chd" sha1="3c4773629ed61ce58feb474bb0cfff7daa792991" />
+  </machine>
+  <machine name="Alex-World (Japan) (Disc 2)">
     <description>Alex-World (Japan) (Disc 2)</description>
-    <rom name="Alex-World (Japan) (Disc 2).chd" size="356272812" crc="D2F915F1" sha1="CC47FD92EE27DB23011C56825243F549DFADC7D2" />
-  </game>
-  <game name="Alone in the Dark (France) (Covermount)">
+    <disk name="Alex-World (Japan) (Disc 2).chd" sha1="bfe6b754d0f1d2f21570c76d454fa03a378a5f29" />
+  </machine>
+  <machine name="Alone in the Dark (France) (Covermount)">
     <description>Alone in the Dark (France) (Covermount)</description>
-    <rom name="Alone in the Dark (France) (Covermount).chd" size="73816362" crc="F3AF58F5" sha1="CC5C9A06925F7B02E06103FAC3B9ECDDB0A21B15" />
-  </game>
-  <game name="Battlefield 1942 - Secret Weapons of WWII (Expansion Pack) (USA)">
+    <disk name="Alone in the Dark (France) (Covermount).chd" sha1="2001167b4e50eeaf1004e7471936aca3d0b69f9d" />
+  </machine>
+  <machine name="Battlefield 1942 - Secret Weapons of WWII (Expansion Pack) (USA)">
     <description>Battlefield 1942 - Secret Weapons of WWII (Expansion Pack) (USA)</description>
-    <rom name="Battlefield 1942 - Secret Weapons of WWII (Expansion Pack) (USA).chd" size="597570168" crc="E0B6D39E" sha1="0B09463753FBC01D029B6F277D7615BAE4F85E03" />
-  </game>
-  <game name="Bedlam (USA) (En,Fr,De,Es,It,Nl)">
+    <disk name="Battlefield 1942 - Secret Weapons of WWII (Expansion Pack) (USA).chd" sha1="e649ad8aeeab2ad748a1bd9deebf806071cc25c9" />
+  </machine>
+  <machine name="Bedlam (USA) (En,Fr,De,Es,It,Nl)">
     <description>Bedlam (USA) (En,Fr,De,Es,It,Nl)</description>
-    <rom name="Bedlam (USA) (En,Fr,De,Es,It,Nl).chd" size="236930486" crc="DA9E5CFB" sha1="2C8C3FA12CC15C025927597A4A769B7245FF6FC2" />
-  </game>
-  <game name="Berlin im Untergrund - Eine Interaktive Zeitreise unter den Potsdamer Platz (Germany)">
+    <disk name="Bedlam (USA) (En,Fr,De,Es,It,Nl).chd" sha1="3494dc9792b2d1604666beeada29ec8948ee7922" />
+  </machine>
+  <machine name="Berlin im Untergrund - Eine Interaktive Zeitreise unter den Potsdamer Platz (Germany)">
     <description>Berlin im Untergrund - Eine Interaktive Zeitreise unter den Potsdamer Platz (Germany)</description>
-    <rom name="Berlin im Untergrund - Eine Interaktive Zeitreise unter den Potsdamer Platz (Germany).chd" size="473585560" crc="F1522375" sha1="70B9D45420090900089F9083255CF4E4ACCCA8BA" />
-  </game>
-  <game name="Busy World of Richard Scarry, The - Busytown (USA)">
+    <disk name="Berlin im Untergrund - Eine Interaktive Zeitreise unter den Potsdamer Platz (Germany).chd" sha1="c81ef492cae0b12f4f8abd5015bae0e6716144db" />
+  </machine>
+  <machine name="Busy World of Richard Scarry, The - Busytown (USA)">
     <description>Busy World of Richard Scarry, The - Busytown (USA)</description>
-    <rom name="Busy World of Richard Scarry, The - Busytown (USA).chd" size="236529939" crc="8FC5CAC5" sha1="081D0CFE4E3558F9E91D5A6D409BBFB560F0408C" />
-  </game>
-  <game name="Caesar II (Europe)">
+    <disk name="Busy World of Richard Scarry, The - Busytown (USA).chd" sha1="162e8cb3ecdd08e1a2d3b1cdc3d97a5c987b15e6" />
+  </machine>
+  <machine name="Caesar II (Europe)">
     <description>Caesar II (Europe)</description>
-    <rom name="Caesar II (Europe).chd" size="307604262" crc="9548AEDD" sha1="CD2BD773F1B1A4DB285910DDAAC8DB14A5FEE6CA" />
-  </game>
-  <game name="Carmageddon II - Carpocalypse Now (Europe)">
+    <disk name="Caesar II (Europe).chd" sha1="627b809552db07deff15c28f07e8bd5291a0f2c1" />
+  </machine>
+  <machine name="Carmageddon II - Carpocalypse Now (Europe)">
     <description>Carmageddon II - Carpocalypse Now (Europe)</description>
-    <rom name="Carmageddon II - Carpocalypse Now (Europe).chd" size="390856687" crc="C4FB987F" sha1="2B4F0615507A01FB820E7DBB0559540B6C57B451" />
-  </game>
-  <game name="Cat in the Hat, The (USA)">
+    <disk name="Carmageddon II - Carpocalypse Now (Europe).chd" sha1="af8bf45ce9e30072a103bf0659147729c443e8b3" />
+  </machine>
+  <machine name="Cat in the Hat, The (USA)">
     <description>Cat in the Hat, The (USA)</description>
-    <rom name="Cat in the Hat, The (USA).chd" size="356344206" crc="033551F3" sha1="046A9A7D6D9EBDFBC04A9866B22616EB4D29A978" />
-  </game>
-  <game name="Centipede (USA)">
+    <disk name="Cat in the Hat, The (USA).chd" sha1="2b49ea97c32b1f29c687ce4028e78bd7a4b5ec71" />
+  </machine>
+  <machine name="Centipede (USA)">
     <description>Centipede (USA)</description>
-    <rom name="Centipede (USA).chd" size="460808274" crc="94795457" sha1="E30E334182470B46C1DCE6FAD49714A5C3FA9D89" />
-  </game>
-  <game name="Chu-Teng (Japan)">
+    <disk name="Centipede (USA).chd" sha1="ca1bc423cc3d8d91935b2ab7bd7c2cc6df99fc41" />
+  </machine>
+  <machine name="Chu-Teng (Japan)">
     <description>Chu-Teng (Japan)</description>
-    <rom name="Chu-Teng (Japan).chd" size="285445420" crc="A3EC1FEC" sha1="33BA5A59F1AE497100CAA6A7F4B0E72E7EC52A77" />
-  </game>
-  <game name="Command &amp; Conquer (USA) (Disc 1)">
+    <disk name="Chu-Teng (Japan).chd" sha1="46dfc03e700276ad51902f8d8190cec229bcb7cb" />
+  </machine>
+  <machine name="Command &amp; Conquer (USA) (Disc 1)">
     <description>Command &amp; Conquer (USA) (Disc 1)</description>
-    <rom name="Command &amp; Conquer (USA) (Disc 1).chd" size="551314579" crc="D5112667" sha1="799D61AF67832201A94DDFBB28D372B5F1005B4E" />
-  </game>
-  <game name="Command &amp; Conquer (USA) (Disc 2)">
+    <disk name="Command &amp; Conquer (USA) (Disc 1).chd" sha1="9cd999d623058e9b8ed52a50e6152a34e43ab200" />
+  </machine>
+  <machine name="Command &amp; Conquer (USA) (Disc 2)">
     <description>Command &amp; Conquer (USA) (Disc 2)</description>
-    <rom name="Command &amp; Conquer (USA) (Disc 2).chd" size="443433198" crc="586D6583" sha1="D8647FED3C007629DE546066581D41D0C90D9109" />
-  </game>
-  <game name="Cookie's Bustle - Nazo no Bombo World (Japan)">
+    <disk name="Command &amp; Conquer (USA) (Disc 2).chd" sha1="17185a0946a405a7de10724c67dcec09bedfab7e" />
+  </machine>
+  <machine name="Cookie's Bustle - Nazo no Bombo World (Japan)">
     <description>Cookie's Bustle - Nazo no Bombo World (Japan)</description>
-    <rom name="Cookie's Bustle - Nazo no Bombo World (Japan).chd" size="427145358" crc="5AA5A8E4" sha1="0AF38D90302F90615A424E76548801453161B94D" />
-  </game>
-  <game name="Crescent Satsujin Jiken - Reporter Saotome Kyouko (Japan)">
+    <disk name="Cookie's Bustle - Nazo no Bombo World (Japan).chd" sha1="92c024075dd1f4a152b6d8c2dc44b2f80cbea89e" />
+  </machine>
+  <machine name="Crescent Satsujin Jiken - Reporter Saotome Kyouko (Japan)">
     <description>Crescent Satsujin Jiken - Reporter Saotome Kyouko (Japan)</description>
-    <rom name="Crescent Satsujin Jiken - Reporter Saotome Kyouko (Japan).chd" size="443841207" crc="D0C60A32" sha1="2F02555DD7C1B9DE57E12A9A033F2CAE651FF2E1" />
-  </game>
-  <game name="Crystal Caliburn (USA)">
+    <disk name="Crescent Satsujin Jiken - Reporter Saotome Kyouko (Japan).chd" sha1="8dbaaa4e7962ba5ba0fd14b80449ee488f00acb2" />
+  </machine>
+  <machine name="Crystal Caliburn (USA)">
     <description>Crystal Caliburn (USA)</description>
-    <rom name="Crystal Caliburn (USA).chd" size="21546817" crc="9BCE04F5" sha1="98CA11915B626708AF75B35D0A49530BEADBB319" />
-  </game>
-  <game name="Daedalus Encounter, The (UK) (Disc 1)">
+    <disk name="Crystal Caliburn (USA).chd" sha1="d31263311be107572dfbba3d0c5fef38ce26542d" />
+  </machine>
+  <machine name="Daedalus Encounter, The (UK) (Disc 1)">
     <description>Daedalus Encounter, The (UK) (Disc 1)</description>
-    <rom name="Daedalus Encounter, The (UK) (Disc 1).chd" size="485020742" crc="5815EC0C" sha1="3689F85D0119B2FB74B33872601F3D3068BC696E" />
-  </game>
-  <game name="Daedalus Encounter, The (UK) (Disc 2)">
+    <disk name="Daedalus Encounter, The (UK) (Disc 1).chd" sha1="5bad8165d4867eb0f28775ddc1ca2924f3bce697" />
+  </machine>
+  <machine name="Daedalus Encounter, The (UK) (Disc 2)">
     <description>Daedalus Encounter, The (UK) (Disc 2)</description>
-    <rom name="Daedalus Encounter, The (UK) (Disc 2).chd" size="522101267" crc="75EB425D" sha1="AE91003E5E2329A1F78E2851B84559E33ECF88E4" />
-  </game>
-  <game name="Daisenryaku V DX (Japan)">
+    <disk name="Daedalus Encounter, The (UK) (Disc 2).chd" sha1="cd6755b98a9cbe1e6f49bd0702f7fbea95c97f3a" />
+  </machine>
+  <machine name="Daisenryaku V DX (Japan)">
     <description>Daisenryaku V DX (Japan)</description>
-    <rom name="Daisenryaku V DX (Japan).chd" size="132834246" crc="44E774C4" sha1="2BEAB69CA7226F03E0AFAB3FA81B743454D34331" />
-  </game>
-  <game name="Descent - Lunar Base 1 (USA)">
+    <disk name="Daisenryaku V DX (Japan).chd" sha1="45af8b9398b511cb558c6c69926ac8326d47798a" />
+  </machine>
+  <machine name="Descent - Lunar Base 1 (USA)">
     <description>Descent - Lunar Base 1 (USA)</description>
-    <rom name="Descent - Lunar Base 1 (USA).chd" size="12024495" crc="8889F001" sha1="E292E780818730AB357AF710079F1AA80A982425" />
-  </game>
-  <game name="Deus Ex (USA)">
+    <disk name="Descent - Lunar Base 1 (USA).chd" sha1="dab66f22abede4cc05b06a4d29785f80fcde2699" />
+  </machine>
+  <machine name="Deus Ex (USA)">
     <description>Deus Ex (USA)</description>
-    <rom name="Deus Ex (USA).chd" size="416092214" crc="F4E44D68" sha1="69E6F92CA5895AD1A86040214941ADD806E93EC9" />
-  </game>
-  <game name="Doom II (USA, Europe)">
+    <disk name="Deus Ex (USA).chd" sha1="e19f1cdeaf57855e7b8afcb8d7347ff60eb866d0" />
+  </machine>
+  <machine name="Doom II (USA, Europe)">
     <description>Doom II (USA, Europe)</description>
-    <rom name="Doom II (USA, Europe).chd" size="25755039" crc="A896EB8D" sha1="6C8E86CE3F6C8172D8720020BBCC4962C4CA078F" />
-  </game>
-  <game name="Driver - You Are the Wheelman (USA)">
+    <disk name="Doom II (USA, Europe).chd" sha1="35484a2e17c8e031658625e42e44fbea0e3a52ef" />
+  </machine>
+  <machine name="Driver - You Are the Wheelman (USA)">
     <description>Driver - You Are the Wheelman (USA)</description>
-    <rom name="Driver - You Are the Wheelman (USA).chd" size="480865496" crc="3AB6A35B" sha1="A0DA91F3B0E6DABE740D46AA3FDB318B903E36B8" />
-  </game>
-  <game name="Duke Nukem 3D - Atomic Edition (Europe)">
+    <disk name="Driver - You Are the Wheelman (USA).chd" sha1="61967393ba56d4a8aa9befedf811f7f7311a6ad2" />
+  </machine>
+  <machine name="Duke Nukem 3D - Atomic Edition (Europe)">
     <description>Duke Nukem 3D - Atomic Edition (Europe)</description>
-    <rom name="Duke Nukem 3D - Atomic Edition (Europe).chd" size="410087320" crc="77E0DC6F" sha1="A3A66EFD9F5353D9E300671C388D1050A7A1AED7" />
-  </game>
-  <game name="Dungeon Master II - The Legend of Skullkeep - The First Chapter (USA)">
+    <disk name="Duke Nukem 3D - Atomic Edition (Europe).chd" sha1="52a1583dda73d415cd8a485ae10bda7aedee1ac5" />
+  </machine>
+  <machine name="Dungeon Master II - The Legend of Skullkeep - The First Chapter (USA)">
     <description>Dungeon Master II - The Legend of Skullkeep - The First Chapter (USA)</description>
-    <rom name="Dungeon Master II - The Legend of Skullkeep - The First Chapter (USA).chd" size="7419076" crc="39D79DD0" sha1="3A7F59419E4DF22C281E95A1FF4EFC19595E0C53" />
-  </game>
-  <game name="Dungeon Master II - The Legend of Skullkeep (USA)">
+    <disk name="Dungeon Master II - The Legend of Skullkeep - The First Chapter (USA).chd" sha1="e6b105d9ee9eba63a71684d825ee584667050d6b" />
+  </machine>
+  <machine name="Dungeon Master II - The Legend of Skullkeep (USA)">
     <description>Dungeon Master II - The Legend of Skullkeep (USA)</description>
-    <rom name="Dungeon Master II - The Legend of Skullkeep (USA).chd" size="448793835" crc="FE8161C5" sha1="BADBFCF4BDC093A358F3E3A33BE9B5B57550D54B" />
-  </game>
-  <game name="Eastern Mind - The Lost Souls of Tong Nou (USA)">
+    <disk name="Dungeon Master II - The Legend of Skullkeep (USA).chd" sha1="14ebe60eacf16c763781e555393da77ce487bb83" />
+  </machine>
+  <machine name="Eastern Mind - The Lost Souls of Tong Nou (USA)">
     <description>Eastern Mind - The Lost Souls of Tong Nou (USA)</description>
-    <rom name="Eastern Mind - The Lost Souls of Tong Nou (USA).chd" size="443639339" crc="39942125" sha1="896557A61993D9E36272FC8BAC387EED2BB2117E" />
-  </game>
-  <game name="Fly! (Europe) (Disc 1)">
+    <disk name="Eastern Mind - The Lost Souls of Tong Nou (USA).chd" sha1="ff9eee62210be4cbdf320b973bb0d2cd6205a541" />
+  </machine>
+  <machine name="Fly! (Europe) (Disc 1)">
     <description>Fly! (Europe) (Disc 1)</description>
-    <rom name="Fly! (Europe) (Disc 1).chd" size="221006418" crc="55750CFE" sha1="AFA259405FB910F619BB6FC8BAB8B37A780AFA75" />
-  </game>
-  <game name="Fly! (Europe) (Disc 2)">
+    <disk name="Fly! (Europe) (Disc 1).chd" sha1="6bf0853b69f43ca48cdab98e1865d141315a1de6" />
+  </machine>
+  <machine name="Fly! (Europe) (Disc 2)">
     <description>Fly! (Europe) (Disc 2)</description>
-    <rom name="Fly! (Europe) (Disc 2).chd" size="522420832" crc="2DDC0855" sha1="E457F8EB0066679D06A30C61A61B261314D810D9" />
-  </game>
-  <game name="Fly! (Europe) (Disc 3)">
+    <disk name="Fly! (Europe) (Disc 2).chd" sha1="547a4fea76e492ef7d82135c8b68095948c4eac7" />
+  </machine>
+  <machine name="Fly! (Europe) (Disc 3)">
     <description>Fly! (Europe) (Disc 3)</description>
-    <rom name="Fly! (Europe) (Disc 3).chd" size="317164612" crc="21B5E250" sha1="3A42274913C4A7803687A7E00A17756A78275592" />
-  </game>
-  <game name="Frankenstein - Through the Eyes of the Monster - The Awakening (USA)">
+    <disk name="Fly! (Europe) (Disc 3).chd" sha1="4ae0d1002bbdf3ec43df2ad6801ffcdb7e98e8b1" />
+  </machine>
+  <machine name="Frankenstein - Through the Eyes of the Monster - The Awakening (USA)">
     <description>Frankenstein - Through the Eyes of the Monster - The Awakening (USA)</description>
-    <rom name="Frankenstein - Through the Eyes of the Monster - The Awakening (USA).chd" size="74559332" crc="8AA70A7F" sha1="987372E940EA26656C6ECB9D15E1918EC6572675" />
-  </game>
-  <game name="Giants - Citizen Kabuto (USA) (Disc 1)">
+    <disk name="Frankenstein - Through the Eyes of the Monster - The Awakening (USA).chd" sha1="998fc167762c881de20484d982d1720e8f2d1c43" />
+  </machine>
+  <machine name="Giants - Citizen Kabuto (USA) (Disc 1)">
     <description>Giants - Citizen Kabuto (USA) (Disc 1)</description>
-    <rom name="Giants - Citizen Kabuto (USA) (Disc 1).chd" size="612459208" crc="E7341D21" sha1="93360903CDC18E2CE893AB05708A93A76A4DDB39" />
-  </game>
-  <game name="Giants - Citizen Kabuto (USA) (Disc 2)">
+    <disk name="Giants - Citizen Kabuto (USA) (Disc 1).chd" sha1="fde8262774bf20e7f7c3088c020ef7113724b17e" />
+  </machine>
+  <machine name="Giants - Citizen Kabuto (USA) (Disc 2)">
     <description>Giants - Citizen Kabuto (USA) (Disc 2)</description>
-    <rom name="Giants - Citizen Kabuto (USA) (Disc 2).chd" size="557021837" crc="467BDCB9" sha1="CF105EE88406099E607EB3054B3F662372824822" />
-  </game>
-  <game name="Ginga Eiyuu Densetsu V (Japan)">
+    <disk name="Giants - Citizen Kabuto (USA) (Disc 2).chd" sha1="bb1db2d704782745972b681ff1df2c213e615a23" />
+  </machine>
+  <machine name="Ginga Eiyuu Densetsu V (Japan)">
     <description>Ginga Eiyuu Densetsu V (Japan)</description>
-    <rom name="Ginga Eiyuu Densetsu V (Japan).chd" size="343031253" crc="4D3CA85C" sha1="AADE00AF2E339F5A75B4F7BBAA3E3A305F98F86A" />
-  </game>
-  <game name="Green Eggs and Ham (USA)">
+    <disk name="Ginga Eiyuu Densetsu V (Japan).chd" sha1="89405aa4cb017deab9461c2906cc53f19ac1fce2" />
+  </machine>
+  <machine name="Green Eggs and Ham (USA)">
     <description>Green Eggs and Ham (USA)</description>
-    <rom name="Green Eggs and Ham (USA).chd" size="241846186" crc="40970393" sha1="271D2BD3CFB454C9DB8ECCB794040785B195AFB5" />
-  </game>
-  <game name="Halo - Combat Evolved (USA)">
+    <disk name="Green Eggs and Ham (USA).chd" sha1="ba3617e55853e699622792f52b63341a1fdb2fce" />
+  </machine>
+  <machine name="Halo - Combat Evolved (USA)">
     <description>Halo - Combat Evolved (USA)</description>
-    <rom name="Halo - Combat Evolved (USA).chd" size="705231134" crc="14696D78" sha1="234B4C91AF9C905B16BB2098DDD8F28CA0115AE9" />
-  </game>
-  <game name="Harry Potter and the Sorcerer's Stone (USA)">
+    <disk name="Halo - Combat Evolved (USA).chd" sha1="1d17de2003f9522f4ceb7d3fdf416b783782d620" />
+  </machine>
+  <machine name="Harry Potter and the Sorcerer's Stone (USA)">
     <description>Harry Potter and the Sorcerer's Stone (USA)</description>
-    <rom name="Harry Potter and the Sorcerer's Stone (USA).chd" size="388953356" crc="99DCF988" sha1="AEAA417E019D222374A308DE215A72536D227178" />
-  </game>
-  <game name="id Anthology (USA) (Disc 4) (Mac)">
+    <disk name="Harry Potter and the Sorcerer's Stone (USA).chd" sha1="ce57b14b76b308e63410a95dd1dcfcb8924bc880" />
+  </machine>
+  <machine name="id Anthology (USA) (Disc 4) (Mac)">
     <description>id Anthology (USA) (Disc 4) (Mac)</description>
-    <rom name="id Anthology (USA) (Disc 4) (Mac).chd" size="189109239" crc="504FAB90" sha1="A05FE766EF2FB31637D53AFBC3B079E50F2B9873" />
-  </game>
-  <game name="Indiana Jones and the Fate of Atlantis (USA)">
+    <disk name="id Anthology (USA) (Disc 4) (Mac).chd" sha1="98197dc9f444eb06f3ccf8e3b319beba50897aa3" />
+  </machine>
+  <machine name="Indiana Jones and the Fate of Atlantis (USA)">
     <description>Indiana Jones and the Fate of Atlantis (USA)</description>
-    <rom name="Indiana Jones and the Fate of Atlantis (USA).chd" size="160479805" crc="4E3FEB6D" sha1="C50A12CADD778E01E744FBE54D0959FA7723F92E" />
-  </game>
-  <game name="Ishido - The Way of Stones (USA)">
+    <disk name="Indiana Jones and the Fate of Atlantis (USA).chd" sha1="6c88e92ce76d2bd20228fc0acc91c77e92659110" />
+  </machine>
+  <machine name="Ishido - The Way of Stones (USA)">
     <description>Ishido - The Way of Stones (USA)</description>
-    <rom name="Ishido - The Way of Stones (USA).chd" size="7438404" crc="86C067DF" sha1="6068842D5D5C0782C88923986F47E66B6C59D36C" />
-  </game>
-  <game name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)">
+    <disk name="Ishido - The Way of Stones (USA).chd" sha1="137d30db3886dcefc1ca7fb435e9749299862ef8" />
+  </machine>
+  <machine name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)">
     <description>J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)</description>
-    <rom name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 1).chd" size="438635545" crc="3F7100AA" sha1="C07B45DEC268902CA8C7F783CC425276CBF3B89C" />
-  </game>
-  <game name="Jazz Jackrabbit 2 (USA)">
+    <disk name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 1).chd" sha1="8725f4df6e1f13dc01f659ae10ce34fb4fb96912" />
+  </machine>
+  <machine name="Jazz Jackrabbit 2 (USA)">
     <description>Jazz Jackrabbit 2 (USA)</description>
-    <rom name="Jazz Jackrabbit 2 (USA).chd" size="345710937" crc="FB3C520C" sha1="E3FB428301B16BC7A1523DA88FA90CFC9DC6DB51" />
-  </game>
-  <game name="Karma - Curse of the 12 Caves (France) (Covermount)">
+    <disk name="Jazz Jackrabbit 2 (USA).chd" sha1="07f75868a89eca62618e4145ee3d8a88ebe4764c" />
+  </machine>
+  <machine name="Karma - Curse of the 12 Caves (France) (Covermount)">
     <description>Karma - Curse of the 12 Caves (France) (Covermount)</description>
-    <rom name="Karma - Curse of the 12 Caves (France) (Covermount).chd" size="286691019" crc="AF520FEA" sha1="BD6FFDCEC119AED3814C8AFE680BFAB41F1617D7" />
-  </game>
-  <game name="Kid Pix Deluxe 3X (USA)">
+    <disk name="Karma - Curse of the 12 Caves (France) (Covermount).chd" sha1="7cbed3fd19e89552cee32a4cf6568bbd748c0aac" />
+  </machine>
+  <machine name="Kid Pix Deluxe 3X (USA)">
     <description>Kid Pix Deluxe 3X (USA)</description>
-    <rom name="Kid Pix Deluxe 3X (USA).chd" size="281049456" crc="A47B57AF" sha1="8460F1A2BD535B250BB699028172B52FBEA3E2CA" />
-  </game>
-  <game name="Lara Croft Tomb Raider - The Angel of Darkness (USA) (Disc 1)">
+    <disk name="Kid Pix Deluxe 3X (USA).chd" sha1="0ff909e8be92b517f17813043011a5d45715693c" />
+  </machine>
+  <machine name="Lara Croft Tomb Raider - The Angel of Darkness (USA) (Disc 1)">
     <description>Lara Croft Tomb Raider - The Angel of Darkness (USA) (Disc 1)</description>
-    <rom name="Lara Croft Tomb Raider - The Angel of Darkness (USA) (Disc 1).chd" size="709774947" crc="5A0FBE7E" sha1="D273DEBB8A96A64025F0ADF7DAA166598AFADB97" />
-  </game>
-  <game name="Lara Croft Tomb Raider - The Angel of Darkness (USA) (Disc 2)">
+    <disk name="Lara Croft Tomb Raider - The Angel of Darkness (USA) (Disc 1).chd" sha1="1af3c10f1150594135afcb3e1f2d1f35c95d07ba" />
+  </machine>
+  <machine name="Lara Croft Tomb Raider - The Angel of Darkness (USA) (Disc 2)">
     <description>Lara Croft Tomb Raider - The Angel of Darkness (USA) (Disc 2)</description>
-    <rom name="Lara Croft Tomb Raider - The Angel of Darkness (USA) (Disc 2).chd" size="712633814" crc="7DF166B2" sha1="437B22EC571E57711825CBA8B979E84151944AA4" />
-  </game>
-  <game name="Learn to Play Chess with Fritz &amp; Chesster 2 - Chess in the Black Castle (USA)">
+    <disk name="Lara Croft Tomb Raider - The Angel of Darkness (USA) (Disc 2).chd" sha1="52349a06be49011b65ee13d1b2cdc7aebae3aaf8" />
+  </machine>
+  <machine name="Learn to Play Chess with Fritz &amp; Chesster 2 - Chess in the Black Castle (USA)">
     <description>Learn to Play Chess with Fritz &amp; Chesster 2 - Chess in the Black Castle (USA)</description>
-    <rom name="Learn to Play Chess with Fritz &amp; Chesster 2 - Chess in the Black Castle (USA).chd" size="444622491" crc="BD4DBBF7" sha1="0DAFC727054022BA94AA5A2ADD5D73DD7337ADD8" />
-  </game>
-  <game name="Legend of Kyrandia, The - Book Three (USA)">
+    <disk name="Learn to Play Chess with Fritz &amp; Chesster 2 - Chess in the Black Castle (USA).chd" sha1="ae0b596c0d1bb4900e779292fbb867820da314ab" />
+  </machine>
+  <machine name="Legend of Kyrandia, The - Book Three (USA)">
     <description>Legend of Kyrandia, The - Book Three (USA)</description>
-    <rom name="Legend of Kyrandia, The - Book Three (USA).chd" size="414436718" crc="9CD944AC" sha1="A0F614048A35711CB1552B5C95A4F665795CE52E" />
-  </game>
-  <game name="Legend of Kyrandia, The (USA)">
+    <disk name="Legend of Kyrandia, The - Book Three (USA).chd" sha1="f9bc053855bde2fd3e47f5d0219d36f2093a6951" />
+  </machine>
+  <machine name="Legend of Kyrandia, The (USA)">
     <description>Legend of Kyrandia, The (USA)</description>
-    <rom name="Legend of Kyrandia, The (USA).chd" size="19157584" crc="BC396535" sha1="5F3D1E3C2057A19218D24F1B9C2EB07CA33F7508" />
-  </game>
-  <game name="Links Championship Edition (USA) (Disc 1)">
+    <disk name="Legend of Kyrandia, The (USA).chd" sha1="a18fabfaa37405e797ed5c16157eeb8418bd8435" />
+  </machine>
+  <machine name="Links Championship Edition (USA) (Disc 1)">
     <description>Links Championship Edition (USA) (Disc 1)</description>
-    <rom name="Links Championship Edition (USA) (Disc 1).chd" size="575362999" crc="5E4862E2" sha1="F12124F79253425FC775CD0A4D0A21BCF224222D" />
-  </game>
-  <game name="Links Championship Edition (USA) (Disc 2)">
+    <disk name="Links Championship Edition (USA) (Disc 1).chd" sha1="7f3a4fcade2831943d8a00bdd248dc0b8518785e" />
+  </machine>
+  <machine name="Links Championship Edition (USA) (Disc 2)">
     <description>Links Championship Edition (USA) (Disc 2)</description>
-    <rom name="Links Championship Edition (USA) (Disc 2).chd" size="430084579" crc="B47681F2" sha1="BF162B1BA7011D76A074F0E7DF62694799599F6C" />
-  </game>
-  <game name="Links Championship Edition (USA) (Disc 3)">
+    <disk name="Links Championship Edition (USA) (Disc 2).chd" sha1="2b9d1bd6b8e690d35ac31aca3a6aae663451370f" />
+  </machine>
+  <machine name="Links Championship Edition (USA) (Disc 3)">
     <description>Links Championship Edition (USA) (Disc 3)</description>
-    <rom name="Links Championship Edition (USA) (Disc 3).chd" size="463795268" crc="0E09DF4C" sha1="F01894DB3586D28CB26BE45BE7ED9F4C80448E58" />
-  </game>
-  <game name="Links Championship Edition (USA) (Disc 4)">
+    <disk name="Links Championship Edition (USA) (Disc 3).chd" sha1="a0371ab1317ec8eda8d6180b8b764203a51dafaf" />
+  </machine>
+  <machine name="Links Championship Edition (USA) (Disc 4)">
     <description>Links Championship Edition (USA) (Disc 4)</description>
-    <rom name="Links Championship Edition (USA) (Disc 4).chd" size="607858092" crc="80304919" sha1="9B4A12D350CFD322CDB63527B420559FE7CD7791" />
-  </game>
-  <game name="Links LS (USA) (Disc 1)">
+    <disk name="Links Championship Edition (USA) (Disc 4).chd" sha1="50c1ff907dba34a6070a293df343c81fb71fb826" />
+  </machine>
+  <machine name="Links LS (USA) (Disc 1)">
     <description>Links LS (USA) (Disc 1)</description>
-    <rom name="Links LS (USA) (Disc 1).chd" size="505491369" crc="DE9FB12A" sha1="2B9FD7ED5342CEEB20A45B4C9760E0DF43A1E94A" />
-  </game>
-  <game name="Links Pro CD (USA)">
+    <disk name="Links LS (USA) (Disc 1).chd" sha1="f4a358a50a7f57047a2cacdbdcf0252bdfc7173a" />
+  </machine>
+  <machine name="Links Pro CD (USA)">
     <description>Links Pro CD (USA)</description>
-    <rom name="Links Pro CD (USA).chd" size="227733776" crc="A4561CFE" sha1="0D25DDD5F8A12CABF6B6A65BCC64984C72758F2F" />
-  </game>
-  <game name="Lunicus (Japan)">
+    <disk name="Links Pro CD (USA).chd" sha1="0c8bb4f37d24a55423571a7a565749758728b90c" />
+  </machine>
+  <machine name="Lunicus (Japan)">
     <description>Lunicus (Japan)</description>
-    <rom name="Lunicus (Japan).chd" size="214441868" crc="60EA4A83" sha1="03241CBE0A6A45A19E1BBC59794686E91C1EA09F" />
-  </game>
-  <game name="MacAddict - The Disc 79 - March 2003 (USA)">
+    <disk name="Lunicus (Japan).chd" sha1="493e9883ac9b3ac2f5febdfe8871a4f99b5f4296" />
+  </machine>
+  <machine name="MacAddict - The Disc 79 - March 2003 (USA)">
     <description>MacAddict - The Disc 79 - March 2003 (USA)</description>
-    <rom name="MacAddict - The Disc 79 - March 2003 (USA).chd" size="649493140" crc="D4FAFC7A" sha1="C34C99C2801D6F5D760781FAFCC9A9A51B74E340" />
-  </game>
-  <game name="MacAddict - The Disc 80 - April 2003 (USA)">
+    <disk name="MacAddict - The Disc 79 - March 2003 (USA).chd" sha1="9da6b9e84653a6d6fbfbb498dffdc0f710c12388" />
+  </machine>
+  <machine name="MacAddict - The Disc 80 - April 2003 (USA)">
     <description>MacAddict - The Disc 80 - April 2003 (USA)</description>
-    <rom name="MacAddict - The Disc 80 - April 2003 (USA).chd" size="619954928" crc="AE62A87E" sha1="0F299A2AAA6C3B9C8AC4D594C7288C6C9BC519DE" />
-  </game>
-  <game name="MacAddict - The Disc 81 - May 2003 (USA)">
+    <disk name="MacAddict - The Disc 80 - April 2003 (USA).chd" sha1="2bfce6d950b00ad399d0f247d3769d94c017a878" />
+  </machine>
+  <machine name="MacAddict - The Disc 81 - May 2003 (USA)">
     <description>MacAddict - The Disc 81 - May 2003 (USA)</description>
-    <rom name="MacAddict - The Disc 81 - May 2003 (USA).chd" size="576609294" crc="3F301FF2" sha1="302D3FB99E044DE4DFBE72B258825BF76BC58081" />
-  </game>
-  <game name="MacAddict - The Disc 84 - August 2003 (USA)">
+    <disk name="MacAddict - The Disc 81 - May 2003 (USA).chd" sha1="ccaaba52d271197d7bf678094d35bc3065f13d5d" />
+  </machine>
+  <machine name="MacAddict - The Disc 84 - August 2003 (USA)">
     <description>MacAddict - The Disc 84 - August 2003 (USA)</description>
-    <rom name="MacAddict - The Disc 84 - August 2003 (USA).chd" size="625999738" crc="F2E0D869" sha1="C611B69F776F5E2F4AAC2981F60A0B9512F0FBFC" />
-  </game>
-  <game name="MacAddict - The Disc 85 - September 2003 (USA)">
+    <disk name="MacAddict - The Disc 84 - August 2003 (USA).chd" sha1="c16c853ad9082012282b68628059fcef436ef90d" />
+  </machine>
+  <machine name="MacAddict - The Disc 85 - September 2003 (USA)">
     <description>MacAddict - The Disc 85 - September 2003 (USA)</description>
-    <rom name="MacAddict - The Disc 85 - September 2003 (USA).chd" size="589537920" crc="1714D6BB" sha1="42EA5A42D6953F2B891051B208675D9907D3522B" />
-  </game>
-  <game name="MacWorld - 20th Anniversary - February 2004 (USA)">
+    <disk name="MacAddict - The Disc 85 - September 2003 (USA).chd" sha1="ca507b5afee8f265f42c3b71f727a2e11ef79286" />
+  </machine>
+  <machine name="MacWorld - 20th Anniversary - February 2004 (USA)">
     <description>MacWorld - 20th Anniversary - February 2004 (USA)</description>
-    <rom name="MacWorld - 20th Anniversary - February 2004 (USA).chd" size="641263421" crc="B1766DA1" sha1="42F7CC34FF6E8C9767F26430F533A95FCFD0B790" />
-  </game>
-  <game name="Marathon (USA) (Rerelease)">
+    <disk name="MacWorld - 20th Anniversary - February 2004 (USA).chd" sha1="939b7d33174fbb6764c8f56a658bc463732a42c0" />
+  </machine>
+  <machine name="Marathon (USA) (Rerelease)">
     <description>Marathon (USA) (Rerelease)</description>
-    <rom name="Marathon (USA) (Rerelease).chd" size="116835364" crc="08BEC7C1" sha1="2E489CF7A30530F5DD0B82CE60E28AC41E7B94C0" />
-  </game>
-  <game name="Marathon 2 - Durandal (USA)">
+    <disk name="Marathon (USA) (Rerelease).chd" sha1="08e7771f56cabea53f09c98b1973f1b6e8718d3c" />
+  </machine>
+  <machine name="Marathon 2 - Durandal (USA)">
     <description>Marathon 2 - Durandal (USA)</description>
-    <rom name="Marathon 2 - Durandal (USA).chd" size="70028543" crc="9982C6B4" sha1="112EA68F7EC7448DE39D09D4EB4295F41EFADDBD" />
-  </game>
-  <game name="Mario Is Missing! CD-ROM Deluxe (USA)">
+    <disk name="Marathon 2 - Durandal (USA).chd" sha1="b4b1fe90c6fd216fbce2459398e3ba22cdfbb5d4" />
+  </machine>
+  <machine name="Mario Is Missing! CD-ROM Deluxe (USA)">
     <description>Mario Is Missing! CD-ROM Deluxe (USA)</description>
-    <rom name="Mario Is Missing! CD-ROM Deluxe (USA).chd" size="366586559" crc="ED7BA07A" sha1="70EFD9CCE1D93D27A49387166DADCC5D46132226" />
-  </game>
-  <game name="Mario Teaches Typing (USA)">
+    <disk name="Mario Is Missing! CD-ROM Deluxe (USA).chd" sha1="9c79cd74e9fd79c16dcdce4ae59a45b425fff7c3" />
+  </machine>
+  <machine name="Mario Teaches Typing (USA)">
     <description>Mario Teaches Typing (USA)</description>
-    <rom name="Mario Teaches Typing (USA).chd" size="404935035" crc="5CABC003" sha1="FD439FC74B7AD144988B8E924B0EBEB2A3304A82" />
-  </game>
-  <game name="MDK (Europe)">
+    <disk name="Mario Teaches Typing (USA).chd" sha1="a7317b67d6281d7f1ae6e838358c25e819e05226" />
+  </machine>
+  <machine name="MDK (Europe)">
     <description>MDK (Europe)</description>
-    <rom name="MDK (Europe).chd" size="143649665" crc="CE40C8CE" sha1="E9DCA4A52C2CAA322C319747A6286EFF158EF5D0" />
-  </game>
-  <game name="Medal of Honor - Allied Assault - Spearhead (USA)">
+    <disk name="MDK (Europe).chd" sha1="cd03f1aada8c7a6a9ac5e8300e3bd9483e5d3a36" />
+  </machine>
+  <machine name="Medal of Honor - Allied Assault - Spearhead (USA)">
     <description>Medal of Honor - Allied Assault - Spearhead (USA)</description>
-    <rom name="Medal of Honor - Allied Assault - Spearhead (USA).chd" size="664211489" crc="2C1C98E6" sha1="C8616F1CAD0F15AFF2089956F5D32E54F311BDF6" />
-  </game>
-  <game name="Medal of Honor - Allied Assault (USA) (Disc 1)">
+    <disk name="Medal of Honor - Allied Assault - Spearhead (USA).chd" sha1="49c9146906b30bb67191f07aad8593cb7b444804" />
+  </machine>
+  <machine name="Medal of Honor - Allied Assault (USA) (Disc 1)">
     <description>Medal of Honor - Allied Assault (USA) (Disc 1)</description>
-    <rom name="Medal of Honor - Allied Assault (USA) (Disc 1).chd" size="585538751" crc="7C33F6FD" sha1="7BC925407861A47D9F6798467898470B29E7A371" />
-  </game>
-  <game name="Medal of Honor - Allied Assault (USA) (Disc 2)">
+    <disk name="Medal of Honor - Allied Assault (USA) (Disc 1).chd" sha1="bad0d523607edc127e4008efec146825db1d9d7a" />
+  </machine>
+  <machine name="Medal of Honor - Allied Assault (USA) (Disc 2)">
     <description>Medal of Honor - Allied Assault (USA) (Disc 2)</description>
-    <rom name="Medal of Honor - Allied Assault (USA) (Disc 2).chd" size="676567351" crc="B026AF91" sha1="0A5DC03F3F805C896D73C93FF2F61E32593A4451" />
-  </game>
-  <game name="Meshitsukai 2 (Japan)">
+    <disk name="Medal of Honor - Allied Assault (USA) (Disc 2).chd" sha1="28f5e276952fbbfb68a233095bdc35ed9051787f" />
+  </machine>
+  <machine name="Meshitsukai 2 (Japan)">
     <description>Meshitsukai 2 (Japan)</description>
-    <rom name="Meshitsukai 2 (Japan).chd" size="511314887" crc="55E4D3CF" sha1="61CE60B539DAEEFD48880511DB2D7DCFEB0BBC5D" />
-  </game>
-  <game name="Metal Gear Solid (Australia) (Artwork Vol. 1)">
+    <disk name="Meshitsukai 2 (Japan).chd" sha1="ec1d753c9196c8b6df79656b3f0bd9800c4decc9" />
+  </machine>
+  <machine name="Metal Gear Solid (Australia) (Artwork Vol. 1)">
     <description>Metal Gear Solid (Australia) (Artwork Vol. 1)</description>
-    <rom name="Metal Gear Solid (Australia) (Artwork Vol. 1).chd" size="453129079" crc="CE7C42FD" sha1="D087BCC0D0BBD2CD9DC3FC0384B0D0EA0BAE89FE" />
-  </game>
-  <game name="Metal Gear Solid (Australia) (Artwork Vol. 2)">
+    <disk name="Metal Gear Solid (Australia) (Artwork Vol. 1).chd" sha1="9c525d1c037070a60d7840eb468c3af583b95e11" />
+  </machine>
+  <machine name="Metal Gear Solid (Australia) (Artwork Vol. 2)">
     <description>Metal Gear Solid (Australia) (Artwork Vol. 2)</description>
-    <rom name="Metal Gear Solid (Australia) (Artwork Vol. 2).chd" size="344678436" crc="B1315735" sha1="FAA76BD3C7BFD8749A1EC1BCA527E783FDB63ED2" />
-  </game>
-  <game name="Monopoly Casino (USA)">
+    <disk name="Metal Gear Solid (Australia) (Artwork Vol. 2).chd" sha1="97f44d018a51d56ecfda710f95f41bc67532d9fa" />
+  </machine>
+  <machine name="Monopoly Casino (USA)">
     <description>Monopoly Casino (USA)</description>
-    <rom name="Monopoly Casino (USA).chd" size="496379873" crc="0C6DA471" sha1="BBD300700F1C1C377C1359FBC1F698FBB6F74E4A" />
-  </game>
-  <game name="Myst (Europe) (Rerelease)">
+    <disk name="Monopoly Casino (USA).chd" sha1="dd7e4932cd03633befeb9dd8a0422b3e320d0085" />
+  </machine>
+  <machine name="Myst (Europe) (Rerelease)">
     <description>Myst (Europe) (Rerelease)</description>
-    <rom name="Myst (Europe) (Rerelease).chd" size="402015315" crc="4B6B4C59" sha1="6EE753F827037B3420212D2E261D524524A563F8" />
-  </game>
-  <game name="Myst (USA)">
+    <disk name="Myst (Europe) (Rerelease).chd" sha1="d444138aa7ee73a7399bd04779e8cf46e2f3c10c" />
+  </machine>
+  <machine name="Myst (USA)">
     <description>Myst (USA)</description>
-    <rom name="Myst (USA).chd" size="402020250" crc="A301439C" sha1="D02BD6FE2894EC1C82FC4B8241399E02B373BA98" />
-  </game>
-  <game name="Myst (USA) (Rerelease)">
+    <disk name="Myst (USA).chd" sha1="1f825b8419212ec0e3ae22db4dd90c7bd4bdc37a" />
+  </machine>
+  <machine name="Myst (USA) (Rerelease)">
     <description>Myst (USA) (Rerelease)</description>
-    <rom name="Myst (USA) (Rerelease).chd" size="405128266" crc="3966BA04" sha1="43834FB8A46E0E4FF5F2B285B82950DFFF45D30C" />
-  </game>
-  <game name="Night Trap (USA) (Disc 1)">
+    <disk name="Myst (USA) (Rerelease).chd" sha1="7e1d64e5bd029393035486970a51637630cee9b2" />
+  </machine>
+  <machine name="Night Trap (USA) (Disc 1)">
     <description>Night Trap (USA) (Disc 1)</description>
-    <rom name="Night Trap (USA) (Disc 1).chd" size="334953435" crc="E6CD09C3" sha1="968292E5922723467434E1848722B38E6E5AC1A4" />
-  </game>
-  <game name="Night Trap (USA) (Disc 2)">
+    <disk name="Night Trap (USA) (Disc 1).chd" sha1="5623e021c1a1afdae587cce4c83a17dc76253b3a" />
+  </machine>
+  <machine name="Night Trap (USA) (Disc 2)">
     <description>Night Trap (USA) (Disc 2)</description>
-    <rom name="Night Trap (USA) (Disc 2).chd" size="327175818" crc="05C43290" sha1="0FCE195907F2DB5EC23F50CA2E081BCA2D2ADBF1" />
-  </game>
-  <game name="Postal (Europe) (Postal Manual)">
+    <disk name="Night Trap (USA) (Disc 2).chd" sha1="44b3f02be390a415ae8f7b3021add9f24416ebf2" />
+  </machine>
+  <machine name="Postal (Europe) (Postal Manual)">
     <description>Postal (Europe) (Postal Manual)</description>
-    <rom name="Postal (Europe) (Postal Manual).chd" size="639517" crc="C9BCB102" sha1="6E2BE03611191B2C44FCF9C8A8DB058D048C8E07" />
-  </game>
-  <game name="Puyo Puyo Fever (Japan)">
+    <disk name="Postal (Europe) (Postal Manual).chd" sha1="24eeded66f95bab5c7b0cb3eca9de858184a13f9" />
+  </machine>
+  <machine name="Puyo Puyo Fever (Japan)">
     <description>Puyo Puyo Fever (Japan)</description>
-    <rom name="Puyo Puyo Fever (Japan).chd" size="400060240" crc="5C8E3C0F" sha1="91B5432C1C43ADD33C75FBAD28B26BFA4365D21E" />
-  </game>
-  <game name="Puyo Puyo for Macintosh (Japan)">
+    <disk name="Puyo Puyo Fever (Japan).chd" sha1="ed4d88ce6e73ef31ee0559f3d0940b32a03bc1ee" />
+  </machine>
+  <machine name="Puyo Puyo for Macintosh (Japan)">
     <description>Puyo Puyo for Macintosh (Japan)</description>
-    <rom name="Puyo Puyo for Macintosh (Japan).chd" size="47523127" crc="509054BF" sha1="6B16BEAD5D75173FB1BDDC67C7FE40B1C9224691" />
-  </game>
-  <game name="Quake (USA)">
+    <disk name="Puyo Puyo for Macintosh (Japan).chd" sha1="cf9351ac63dbff454c7be4abcecc743417cee162" />
+  </machine>
+  <machine name="Quake (USA)">
     <description>Quake (USA)</description>
-    <rom name="Quake (USA).chd" size="306431410" crc="0D546BB9" sha1="78A5E680FCC2F2D21B4B964AFDB23545EF47D73A" />
-  </game>
-  <game name="Railroad Tycoon 3 (USA) (Disc 1) (Install)">
+    <disk name="Quake (USA).chd" sha1="0534144a19bf9c487bab10c2ff1b14922b94a7d1" />
+  </machine>
+  <machine name="Railroad Tycoon 3 (USA) (Disc 1) (Install)">
     <description>Railroad Tycoon 3 (USA) (Disc 1) (Install)</description>
-    <rom name="Railroad Tycoon 3 (USA) (Disc 1) (Install).chd" size="534715988" crc="77402EA5" sha1="C980942832F406263AA934C9E1AEF3320A2AC696" />
-  </game>
-  <game name="Railroad Tycoon 3 (USA) (Disc 2) (Play)">
+    <disk name="Railroad Tycoon 3 (USA) (Disc 1) (Install).chd" sha1="a80536404ab86fbce2fbdb8fbf1ce5f058c990a1" />
+  </machine>
+  <machine name="Railroad Tycoon 3 (USA) (Disc 2) (Play)">
     <description>Railroad Tycoon 3 (USA) (Disc 2) (Play)</description>
-    <rom name="Railroad Tycoon 3 (USA) (Disc 2) (Play).chd" size="534482199" crc="CF26BC5E" sha1="D98E10988AF068C381063576D922E57226170456" />
-  </game>
-  <game name="Railroad Tycoon II (USA)">
+    <disk name="Railroad Tycoon 3 (USA) (Disc 2) (Play).chd" sha1="142f51dda5bc0ab80b087a0114138638bd16487c" />
+  </machine>
+  <machine name="Railroad Tycoon II (USA)">
     <description>Railroad Tycoon II (USA)</description>
-    <rom name="Railroad Tycoon II (USA).chd" size="455461277" crc="CC66B746" sha1="EC1FDA1235605CC538CE7886EA9C4C7623AB6486" />
-  </game>
-  <game name="Rayman 3 - Hoodlum Havoc (USA) (En,Fr,De,Es,It) (Disc 1)">
+    <disk name="Railroad Tycoon II (USA).chd" sha1="6a1d23911bcde1528044d91ddbcd7ef6ed0b6896" />
+  </machine>
+  <machine name="Rayman 3 - Hoodlum Havoc (USA) (En,Fr,De,Es,It) (Disc 1)">
     <description>Rayman 3 - Hoodlum Havoc (USA) (En,Fr,De,Es,It) (Disc 1)</description>
-    <rom name="Rayman 3 - Hoodlum Havoc (USA) (En,Fr,De,Es,It) (Disc 1).chd" size="539584849" crc="E4770CAA" sha1="AB142976602988A7384C85FB943BF4AB099847DD" />
-  </game>
-  <game name="Rayman 3 - Hoodlum Havoc (USA) (En,Fr,De,Es,It) (Disc 3)">
+    <disk name="Rayman 3 - Hoodlum Havoc (USA) (En,Fr,De,Es,It) (Disc 1).chd" sha1="6c3494b2127d8ab55e6d0bc6f23c3388edae3d4f" />
+  </machine>
+  <machine name="Rayman 3 - Hoodlum Havoc (USA) (En,Fr,De,Es,It) (Disc 3)">
     <description>Rayman 3 - Hoodlum Havoc (USA) (En,Fr,De,Es,It) (Disc 3)</description>
-    <rom name="Rayman 3 - Hoodlum Havoc (USA) (En,Fr,De,Es,It) (Disc 3).chd" size="620990363" crc="2F5BEAE8" sha1="7F43B2342C1759F1B0EA3E446A3FCA78B5BE4208" />
-  </game>
-  <game name="Rayman 3 - Hoodlum Havoc (USA, Europe) (En,Fr,De,Es,It) (Disc 2)">
+    <disk name="Rayman 3 - Hoodlum Havoc (USA) (En,Fr,De,Es,It) (Disc 3).chd" sha1="81cb228788e4d068b5d51d7aa8a09ff7ea0b4561" />
+  </machine>
+  <machine name="Rayman 3 - Hoodlum Havoc (USA, Europe) (En,Fr,De,Es,It) (Disc 2)">
     <description>Rayman 3 - Hoodlum Havoc (USA, Europe) (En,Fr,De,Es,It) (Disc 2)</description>
-    <rom name="Rayman 3 - Hoodlum Havoc (USA, Europe) (En,Fr,De,Es,It) (Disc 2).chd" size="506814002" crc="6E7231A5" sha1="B91A88BBB58625D03A7EC30654F8DF67E07BCE94" />
-  </game>
-  <game name="Rise of Nations - Gold Edition (USA)">
+    <disk name="Rayman 3 - Hoodlum Havoc (USA, Europe) (En,Fr,De,Es,It) (Disc 2).chd" sha1="8d523ce86ed19251ddc7718316885a3466f6e29c" />
+  </machine>
+  <machine name="Rise of Nations - Gold Edition (USA)">
     <description>Rise of Nations - Gold Edition (USA)</description>
-    <rom name="Rise of Nations - Gold Edition (USA).chd" size="708507192" crc="2F552350" sha1="05893112C94D1850B1502E4FB2CCD28BB7D6C434" />
-  </game>
-  <game name="Saikyou Kareshi - Dynamic Darling (Japan)">
+    <disk name="Rise of Nations - Gold Edition (USA).chd" sha1="84f581f2854b2ab415af7f99961ed33b985af2c6" />
+  </machine>
+  <machine name="Saikyou Kareshi - Dynamic Darling (Japan)">
     <description>Saikyou Kareshi - Dynamic Darling (Japan)</description>
-    <rom name="Saikyou Kareshi - Dynamic Darling (Japan).chd" size="274419463" crc="A827D54D" sha1="DB8D86D36FF6EE175F66F30CC4BBEB0EE8F8C93E" />
-  </game>
-  <game name="Shanghai - Double Pack (USA)">
+    <disk name="Saikyou Kareshi - Dynamic Darling (Japan).chd" sha1="95f96323fcefb8e14388de7c8f446b9b6b5e2ec6" />
+  </machine>
+  <machine name="Shanghai - Double Pack (USA)">
     <description>Shanghai - Double Pack (USA)</description>
-    <rom name="Shanghai - Double Pack (USA).chd" size="442504520" crc="BD480EC0" sha1="816041A3C3B071DC2EC67577EC9AE712A8BF9C5E" />
-  </game>
-  <game name="Sid Meier's Civilization II (USA)">
+    <disk name="Shanghai - Double Pack (USA).chd" sha1="83dae873d152b78fa27c572998f1f49df914374e" />
+  </machine>
+  <machine name="Sid Meier's Civilization II (USA)">
     <description>Sid Meier's Civilization II (USA)</description>
-    <rom name="Sid Meier's Civilization II (USA).chd" size="411879366" crc="EB682BA9" sha1="0AAF52B9C9D8CB30380387E163A11DCE08CE4231" />
-  </game>
-  <game name="SimCity 2000 - CD Collection (USA)">
+    <disk name="Sid Meier's Civilization II (USA).chd" sha1="b5f6418c3809bb838f99365ad2b917ebf8507345" />
+  </machine>
+  <machine name="SimCity 2000 - CD Collection (USA)">
     <description>SimCity 2000 - CD Collection (USA)</description>
-    <rom name="SimCity 2000 - CD Collection (USA).chd" size="5763767" crc="0E2B266D" sha1="5F0536A2A9AD6EB20592EABF9B418C2BCB3F2DA8" />
-  </game>
-  <game name="Sotsugyou - Graduation (Japan)">
+    <disk name="SimCity 2000 - CD Collection (USA).chd" sha1="29680d7524d8af2a2ec58e5896efbe5daaa15a7d" />
+  </machine>
+  <machine name="Sotsugyou - Graduation (Japan)">
     <description>Sotsugyou - Graduation (Japan)</description>
-    <rom name="Sotsugyou - Graduation (Japan).chd" size="71921675" crc="DB1F2F8C" sha1="B171992A56B17FE5820678950F64C003B122FAD5" />
-  </game>
-  <game name="Space Quest 6 - Roger Wilco in the Spinal Frontier (France)">
+    <disk name="Sotsugyou - Graduation (Japan).chd" sha1="7e1f49a534ea5d5e0ec11907bcbf97944d3beb22" />
+  </machine>
+  <machine name="Space Quest 6 - Roger Wilco in the Spinal Frontier (France)">
     <description>Space Quest 6 - Roger Wilco in the Spinal Frontier (France)</description>
-    <rom name="Space Quest 6 - Roger Wilco in the Spinal Frontier (France).chd" size="325019498" crc="19CFE275" sha1="F491F49B7C044ABA9650EE403AD8B02D275E8C50" />
-  </game>
-  <game name="Star Fighter (USA)">
+    <disk name="Space Quest 6 - Roger Wilco in the Spinal Frontier (France).chd" sha1="314fe305c9b06919dc0ee2d1c38d10cbe8cc4010" />
+  </machine>
+  <machine name="Star Fighter (USA)">
     <description>Star Fighter (USA)</description>
-    <rom name="Star Fighter (USA).chd" size="356377542" crc="6090E43B" sha1="D69FEBBDAC8816A05FD7895854DA7885E09764B7" />
-  </game>
-  <game name="Star Trek - Elite Force II (USA) (Disc 1)">
+    <disk name="Star Fighter (USA).chd" sha1="a56b5b357a840cf9befc76e9f98a6c9a179f9784" />
+  </machine>
+  <machine name="Star Trek - Elite Force II (USA) (Disc 1)">
     <description>Star Trek - Elite Force II (USA) (Disc 1)</description>
-    <rom name="Star Trek - Elite Force II (USA) (Disc 1).chd" size="675454449" crc="D204D1E3" sha1="E35FB646BD6DB4F9ECAE2E8161B874DA86D1135E" />
-  </game>
-  <game name="Star Trek - Elite Force II (USA) (Disc 2)">
+    <disk name="Star Trek - Elite Force II (USA) (Disc 1).chd" sha1="84a8cdabcebe0989775132c5185f0ff3813d1d6d" />
+  </machine>
+  <machine name="Star Trek - Elite Force II (USA) (Disc 2)">
     <description>Star Trek - Elite Force II (USA) (Disc 2)</description>
-    <rom name="Star Trek - Elite Force II (USA) (Disc 2).chd" size="434289555" crc="17130688" sha1="7703B032C286FB7D1C4CCAAA1EF51047CAA94BD2" />
-  </game>
-  <game name="Star Trek - Starfleet Academy (USA) (Disc 1)">
+    <disk name="Star Trek - Elite Force II (USA) (Disc 2).chd" sha1="569a70f35f5628004ff3400c98994089b2f805ca" />
+  </machine>
+  <machine name="Star Trek - Starfleet Academy (USA) (Disc 1)">
     <description>Star Trek - Starfleet Academy (USA) (Disc 1)</description>
-    <rom name="Star Trek - Starfleet Academy (USA) (Disc 1).chd" size="500209036" crc="E615E807" sha1="B1B716FBE0B6FBFAC0D720B0D24F3F929AA0EF75" />
-  </game>
-  <game name="Star Trek - The Next Generation - Klingon Honor Guard (USA) (Install Disk)">
+    <disk name="Star Trek - Starfleet Academy (USA) (Disc 1).chd" sha1="2b5b90daa0a4e998bd0182e9a12ec7d967a662dc" />
+  </machine>
+  <machine name="Star Trek - The Next Generation - Klingon Honor Guard (USA) (Install Disk)">
     <description>Star Trek - The Next Generation - Klingon Honor Guard (USA) (Install Disk)</description>
-    <rom name="Star Trek - The Next Generation - Klingon Honor Guard (USA) (Install Disk).chd" size="165281791" crc="BF12904D" sha1="A3A1184473AD015C8D34A36AC05CB72D704B4774" />
-  </game>
-  <game name="Star Trek - Voyager - Elite Force (USA)">
+    <disk name="Star Trek - The Next Generation - Klingon Honor Guard (USA) (Install Disk).chd" sha1="439a8c17daf767b24cb9654b5585877b98586ec2" />
+  </machine>
+  <machine name="Star Trek - Voyager - Elite Force (USA)">
     <description>Star Trek - Voyager - Elite Force (USA)</description>
-    <rom name="Star Trek - Voyager - Elite Force (USA).chd" size="645623704" crc="ADBB1EE2" sha1="C97718B34EDA4294121D948721E186DAA9081670" />
-  </game>
-  <game name="Star Wars - Dark Forces (USA)">
+    <disk name="Star Trek - Voyager - Elite Force (USA).chd" sha1="82501932c0cf61ea503ebb3123ad8af7fbcc1144" />
+  </machine>
+  <machine name="Star Wars - Dark Forces (USA)">
     <description>Star Wars - Dark Forces (USA)</description>
-    <rom name="Star Wars - Dark Forces (USA).chd" size="119257040" crc="82644482" sha1="4543AB11B5456A85B110F9CEA3026152BFE173A0" />
-  </game>
-  <game name="Star Wars - Jedi Knight - Jedi Academy (USA) (Disc 1)">
+    <disk name="Star Wars - Dark Forces (USA).chd" sha1="232bb79b98640deab6c4a431a6d055320352b241" />
+  </machine>
+  <machine name="Star Wars - Jedi Knight - Jedi Academy (USA) (Disc 1)">
     <description>Star Wars - Jedi Knight - Jedi Academy (USA) (Disc 1)</description>
-    <rom name="Star Wars - Jedi Knight - Jedi Academy (USA) (Disc 1).chd" size="670040372" crc="D43A2EF1" sha1="AB42D1FD884F254897AB2AA765F91CF441812EB1" />
-  </game>
-  <game name="Star Wars - Jedi Knight - Jedi Academy (USA) (Disc 2)">
+    <disk name="Star Wars - Jedi Knight - Jedi Academy (USA) (Disc 1).chd" sha1="3472458044b70c4c94733e63c975aec1c89572bb" />
+  </machine>
+  <machine name="Star Wars - Jedi Knight - Jedi Academy (USA) (Disc 2)">
     <description>Star Wars - Jedi Knight - Jedi Academy (USA) (Disc 2)</description>
-    <rom name="Star Wars - Jedi Knight - Jedi Academy (USA) (Disc 2).chd" size="568469457" crc="7CC2BE3E" sha1="6F2F840C9075C61BBD8301F1A0C32D6F6C7341F4" />
-  </game>
-  <game name="Star Wars - Rebel Assault II - The Hidden Empire (USA) (Disc 1)">
+    <disk name="Star Wars - Jedi Knight - Jedi Academy (USA) (Disc 2).chd" sha1="88480874c6aa3f78329b0f26c0a43c34e71ff50c" />
+  </machine>
+  <machine name="Star Wars - Rebel Assault II - The Hidden Empire (USA) (Disc 1)">
     <description>Star Wars - Rebel Assault II - The Hidden Empire (USA) (Disc 1)</description>
-    <rom name="Star Wars - Rebel Assault II - The Hidden Empire (USA) (Disc 1).chd" size="352903047" crc="7CAE0A2B" sha1="A7EAA2CCF0630BE98AA3A4EAA13D64E7DA67EE8B" />
-  </game>
-  <game name="Star Wars - TIE Fighter - Collector's CD-ROM (USA)">
+    <disk name="Star Wars - Rebel Assault II - The Hidden Empire (USA) (Disc 1).chd" sha1="1347ee8a2e2e1b88d066e3831986f6d8fb9da9f1" />
+  </machine>
+  <machine name="Star Wars - TIE Fighter - Collector's CD-ROM (USA)">
     <description>Star Wars - TIE Fighter - Collector's CD-ROM (USA)</description>
-    <rom name="Star Wars - TIE Fighter - Collector's CD-ROM (USA).chd" size="325486272" crc="38553670" sha1="737A7645650711C2AFB96A34933C62BE548E1B6C" />
-  </game>
-  <game name="Tomb Raider - The Last Revelation (USA)">
+    <disk name="Star Wars - TIE Fighter - Collector's CD-ROM (USA).chd" sha1="8dc1844c53db1886afd843084d0b25557a4b0a3b" />
+  </machine>
+  <machine name="Tomb Raider - The Last Revelation (USA)">
     <description>Tomb Raider - The Last Revelation (USA)</description>
-    <rom name="Tomb Raider - The Last Revelation (USA).chd" size="575923261" crc="81725F90" sha1="ED14A32F8BF05154A2075C5D789F1CAEAAB67FAA" />
-  </game>
-  <game name="Tomb Raider II - Starring Lara Croft (USA)">
+    <disk name="Tomb Raider - The Last Revelation (USA).chd" sha1="3ea536dddfd92663e70abba5c04fcdfe82701e07" />
+  </machine>
+  <machine name="Tomb Raider II - Starring Lara Croft (USA)">
     <description>Tomb Raider II - Starring Lara Croft (USA)</description>
-    <rom name="Tomb Raider II - Starring Lara Croft (USA).chd" size="489262535" crc="C307C638" sha1="404F3E429D0AB5FDAD5003F9ED180E1BC68B64B5" />
-  </game>
-  <game name="Tong-Nou (Japan)">
+    <disk name="Tomb Raider II - Starring Lara Croft (USA).chd" sha1="19df94be93dfa655ef29f0f0c009f7eb217a2bbb" />
+  </machine>
+  <machine name="Tong-Nou (Japan)">
     <description>Tong-Nou (Japan)</description>
-    <rom name="Tong-Nou (Japan).chd" size="136722760" crc="4EE67A22" sha1="8EBB4F61B8FCC2628C2E46D05261E86B7341F855" />
-  </game>
-  <game name="Tony Hawk's Pro Skater 2 (USA)">
+    <disk name="Tong-Nou (Japan).chd" sha1="30ad00daf4f6bba23ece63e6d4c4f2dd8d2a6c2b" />
+  </machine>
+  <machine name="Tony Hawk's Pro Skater 2 (USA)">
     <description>Tony Hawk's Pro Skater 2 (USA)</description>
-    <rom name="Tony Hawk's Pro Skater 2 (USA).chd" size="502733475" crc="0A281848" sha1="2526D362628A104DD3445FCAF853C4CCBACA6E15" />
-  </game>
-  <game name="Total Annihilation - The Core Contingency &amp; Total Annihilation - Battle Tactics (USA)">
+    <disk name="Tony Hawk's Pro Skater 2 (USA).chd" sha1="e37b0bae361736c7fa05dca0fe3aaa0e07df30f7" />
+  </machine>
+  <machine name="Total Annihilation - The Core Contingency &amp; Total Annihilation - Battle Tactics (USA)">
     <description>Total Annihilation - The Core Contingency &amp; Total Annihilation - Battle Tactics (USA)</description>
-    <rom name="Total Annihilation - The Core Contingency &amp; Total Annihilation - Battle Tactics (USA).chd" size="497662298" crc="62373835" sha1="5CCF2F98F1998C91E01649F1C05975DC8BF2AF9E" />
-  </game>
-  <game name="Total Annihilation (USA) (Disc 1) (Install Disc)">
+    <disk name="Total Annihilation - The Core Contingency &amp; Total Annihilation - Battle Tactics (USA).chd" sha1="1a72fdeb5ef2aae89a1300d3f9f8cdc59d5c9928" />
+  </machine>
+  <machine name="Total Annihilation (USA) (Disc 1) (Install Disc)">
     <description>Total Annihilation (USA) (Disc 1) (Install Disc)</description>
-    <rom name="Total Annihilation (USA) (Disc 1) (Install Disc).chd" size="499191795" crc="8F531A2E" sha1="55DA7B617C6E9638A56A191E70824E6D71AA7982" />
-  </game>
-  <game name="Total Annihilation (USA) (Disc 2) (Game Disc)">
+    <disk name="Total Annihilation (USA) (Disc 1) (Install Disc).chd" sha1="39893bcecc5443416f2a7ac16517b4377e4cda06" />
+  </machine>
+  <machine name="Total Annihilation (USA) (Disc 2) (Game Disc)">
     <description>Total Annihilation (USA) (Disc 2) (Game Disc)</description>
-    <rom name="Total Annihilation (USA) (Disc 2) (Game Disc).chd" size="438016242" crc="B9EE1A43" sha1="FA68D6111BF44A4F40D30579FD9F623134C80AE4" />
-  </game>
-  <game name="Transmigration (Japan) (Disc 2) (Transcript)">
+    <disk name="Total Annihilation (USA) (Disc 2) (Game Disc).chd" sha1="bbb6ee26d8c3ed5319c9a361bb62df26bb98eaaa" />
+  </machine>
+  <machine name="Transmigration (Japan) (Disc 2) (Transcript)">
     <description>Transmigration (Japan) (Disc 2) (Transcript)</description>
-    <rom name="Transmigration (Japan) (Disc 2) (Transcript).chd" size="158934210" crc="927C692C" sha1="85D32BF2DB0FDE667C82C204EFF92DF504EC6837" />
-  </game>
-  <game name="Virtual Pool (USA)">
+    <disk name="Transmigration (Japan) (Disc 2) (Transcript).chd" sha1="4d5c3f5fe63a847a482f10f5e225536a1ca3797d" />
+  </machine>
+  <machine name="Virtual Pool (USA)">
     <description>Virtual Pool (USA)</description>
-    <rom name="Virtual Pool (USA).chd" size="471166206" crc="8679202A" sha1="13F6633EC5A69D7B4193E74F29E3A894337E0C5C" />
-  </game>
-  <game name="Virtual Pool 3D (USA)">
+    <disk name="Virtual Pool (USA).chd" sha1="ad5fe4c880b155b0f8d7052e8ec51e43b129204b" />
+  </machine>
+  <machine name="Virtual Pool 3D (USA)">
     <description>Virtual Pool 3D (USA)</description>
-    <rom name="Virtual Pool 3D (USA).chd" size="258409201" crc="71E74D6B" sha1="1981DB27D910539D00581EB81D271C84B756F646" />
-  </game>
-  <game name="Virtual Variety Show (Japan)">
+    <disk name="Virtual Pool 3D (USA).chd" sha1="729faa1cff47cfc7baefa028e679a71a359a8c21" />
+  </machine>
+  <machine name="Virtual Variety Show (Japan)">
     <description>Virtual Variety Show (Japan)</description>
-    <rom name="Virtual Variety Show (Japan).chd" size="158710346" crc="DE047D8B" sha1="32716E46AD7F79FAF4ECD5B3F52B08267088123B" />
-  </game>
-  <game name="Wacky Races (Japan)">
+    <disk name="Virtual Variety Show (Japan).chd" sha1="54ea82a3772bbee11df4f08e9782ac1c6ce34aa8" />
+  </machine>
+  <machine name="Wacky Races (Japan)">
     <description>Wacky Races (Japan)</description>
-    <rom name="Wacky Races (Japan).chd" size="402445459" crc="AAABBC49" sha1="4E858423AD5DAC2C9A9AE40510482D6DDFED343C" />
-  </game>
-  <game name="X2 - Wolverine's Revenge (USA) (Disc 1)">
+    <disk name="Wacky Races (Japan).chd" sha1="2f337cc144f50d5a1544b083b239d38bce89a057" />
+  </machine>
+  <machine name="X2 - Wolverine's Revenge (USA) (Disc 1)">
     <description>X2 - Wolverine's Revenge (USA) (Disc 1)</description>
-    <rom name="X2 - Wolverine's Revenge (USA) (Disc 1).chd" size="696664553" crc="BDFA7842" sha1="D74596700825280CF16AD993D50B20E8E5714176" />
-  </game>
-  <game name="X2 - Wolverine's Revenge (USA) (Disc 2)">
+    <disk name="X2 - Wolverine's Revenge (USA) (Disc 1).chd" sha1="9598712c71decb53a90a20cda6f884953d31fd40" />
+  </machine>
+  <machine name="X2 - Wolverine's Revenge (USA) (Disc 2)">
     <description>X2 - Wolverine's Revenge (USA) (Disc 2)</description>
-    <rom name="X2 - Wolverine's Revenge (USA) (Disc 2).chd" size="632073088" crc="BB253A39" sha1="DE21DEE0B6796C01AF8FBD2DBF147AD680D05CA6" />
-  </game>
-  <game name="XXX Vol. 1 (Japan)">
+    <disk name="X2 - Wolverine's Revenge (USA) (Disc 2).chd" sha1="39e7c5e3cdfa2279661e3946242a97bc52884c1f" />
+  </machine>
+  <machine name="XXX Vol. 1 (Japan)">
     <description>XXX Vol. 1 (Japan)</description>
-    <rom name="XXX Vol. 1 (Japan).chd" size="521261217" crc="141CC871" sha1="F3ABB684743DE7CEC0E8FAD8E85B839FD85F5004" />
-  </game>
-  <game name="Yoot Tower (USA)">
+    <disk name="XXX Vol. 1 (Japan).chd" sha1="1e013d60d7aae2ad1bda6d2bb4e7a7ff373ac1db" />
+  </machine>
+  <machine name="Yoot Tower (USA)">
     <description>Yoot Tower (USA)</description>
-    <rom name="Yoot Tower (USA).chd" size="64589846" crc="757BEE5B" sha1="C4E9695FB5A5B64C5F8C1DC9ED5FB10651DDC21B" />
-  </game>
-  <game name="Youkai Ningen Bem - Aratanaru Tamashii no Meikyuu (Japan) (Disc 1) (Game)">
+    <disk name="Yoot Tower (USA).chd" sha1="9c79fdae5fe1e81b10ded25e64101e064979a4f0" />
+  </machine>
+  <machine name="Youkai Ningen Bem - Aratanaru Tamashii no Meikyuu (Japan) (Disc 1) (Game)">
     <description>Youkai Ningen Bem - Aratanaru Tamashii no Meikyuu (Japan) (Disc 1) (Game)</description>
-    <rom name="Youkai Ningen Bem - Aratanaru Tamashii no Meikyuu (Japan) (Disc 1) (Game).chd" size="563468194" crc="F0902639" sha1="C69189305BE360E1042789A0A22E2DC2A6A7D580" />
-  </game>
-  <game name="Youkai Ningen Bem - Aratanaru Tamashii no Meikyuu (Japan) (Disc 2) (Data Base)">
+    <disk name="Youkai Ningen Bem - Aratanaru Tamashii no Meikyuu (Japan) (Disc 1) (Game).chd" sha1="ac854cba4fc638598aab4ee66e41bfdc89e98769" />
+  </machine>
+  <machine name="Youkai Ningen Bem - Aratanaru Tamashii no Meikyuu (Japan) (Disc 2) (Data Base)">
     <description>Youkai Ningen Bem - Aratanaru Tamashii no Meikyuu (Japan) (Disc 2) (Data Base)</description>
-    <rom name="Youkai Ningen Bem - Aratanaru Tamashii no Meikyuu (Japan) (Disc 2) (Data Base).chd" size="522437556" crc="B72C1358" sha1="AF43CA605C3878F3C8C3A8FDD9B06C7F16285A28" />
-  </game>
-  <game name="aplegrec\aplegrec">
+    <disk name="Youkai Ningen Bem - Aratanaru Tamashii no Meikyuu (Japan) (Disc 2) (Data Base).chd" sha1="f9e3369d608b119758694d6303eead90a2dcdb0a" />
+  </machine>
+  <machine name="aplegrec\aplegrec">
     <description>aplegrec\aplegrec</description>
-    <rom name="aplegrec\aplegrec.chd" size="605510276" crc="BE5FE990" sha1="7D0EA28D3B6713500549FC6FD98106235754151C" />
-  </game>
-  <game name="mac70a9\mac70a9">
+    <disk name="aplegrec\aplegrec.chd" sha1="888ceee315e0f11f9a5f1a0db527f296470c80ea" />
+  </machine>
+  <machine name="mac70a9\mac70a9">
     <description>mac70a9\mac70a9</description>
-    <rom name="mac70a9\mac70a9.chd" size="71516809" crc="BB141B01" sha1="D4064F8C11274B43FAD8CDB50E5B2B3E0C59B3AC" />
-  </game>
-  <game name="mac71\mac71">
+    <disk name="mac70a9\mac70a9.chd" sha1="b56813d7227e4844243bd1e0acec63c254f9daf3" />
+  </machine>
+  <machine name="mac71\mac71">
     <description>mac71\mac71</description>
-    <rom name="mac71\mac71.chd" size="37193456" crc="1C828169" sha1="5437E0B424D26546582521AB6D0EE431C2B47099" />
-  </game>
-  <game name="mac712p_q630\mac712p_q630">
+    <disk name="mac71\mac71.chd" sha1="2e7e36cd94b82d447b0481007080195d316a8c4c" />
+  </machine>
+  <machine name="mac712p_q630\mac712p_q630">
     <description>mac712p_q630\mac712p_q630</description>
-    <rom name="mac712p_q630\mac712p_q630.chd" size="87887719" crc="6FCD7EAF" sha1="4A2A3F32308F7B0A5964F399579D45A69BC155D0" />
-  </game>
-  <game name="mac75\mac75">
+    <disk name="mac712p_q630\mac712p_q630.chd" sha1="f367d20f76e8eb891dd5cdf14540f7cb2cc4516e" />
+  </machine>
+  <machine name="mac75\mac75">
     <description>mac75\mac75</description>
-    <rom name="mac75\mac75.chd" size="69291838" crc="E35706A4" sha1="FC82C031A6D53B20049F0C247C95913392B0EE37" />
-  </game>
-  <game name="mac753\mac753">
+    <disk name="mac75\mac75.chd" sha1="9cff3aac53454405e37cd880acc5d2bbd33e1de4" />
+  </machine>
+  <machine name="mac753\mac753">
     <description>mac753\mac753</description>
-    <rom name="mac753\mac753.chd" size="151376635" crc="E67E521B" sha1="1EC244108C8D9E5A2ADC7D0576EC5E1C510191F0" />
-  </game>
-  <game name="mac76\mac76">
+    <disk name="mac753\mac753.chd" sha1="67536c42db6c69491072a48a4a02f02e7956e644" />
+  </machine>
+  <machine name="mac76\mac76">
     <description>mac76\mac76</description>
-    <rom name="mac76\mac76.chd" size="140119895" crc="33269DE2" sha1="DAD0F85A5F98B8ED809763437DDEA265B5A85E1B" />
-  </game>
-  <game name="mac76_de\mac76_de">
+    <disk name="mac76\mac76.chd" sha1="dd400ae4776f9258dbebc2a5d06ce58e7a10d54f" />
+  </machine>
+  <machine name="mac76_de\mac76_de">
     <description>mac76_de\mac76_de</description>
-    <rom name="mac76_de\mac76_de.chd" size="107182789" crc="D7BF01F2" sha1="1C418A6DFAC18C6D862676B658AA11342F5A825A" />
-  </game>
-  <game name="mac761\mac761">
+    <disk name="mac76_de\mac76_de.chd" sha1="b5a0d5a826a130808c07473f78fe205d92eb3151" />
+  </machine>
+  <machine name="mac761\mac761">
     <description>mac761\mac761</description>
-    <rom name="mac761\mac761.chd" size="140121302" crc="8AFD0A18" sha1="A68657F5F749175EA810D10F80B9B892C01EC00E" />
-  </game>
-  <game name="mac80_jp\mac80_jp">
+    <disk name="mac761\mac761.chd" sha1="ce0c2c7810be05a033c80cdf36bae0e5a5b3d22a" />
+  </machine>
+  <machine name="mac80_jp\mac80_jp">
     <description>mac80_jp\mac80_jp</description>
-    <rom name="mac80_jp\mac80_jp.chd" size="226620639" crc="3D72CADE" sha1="85D18A94BB96B8170496B6758162A4F55F16DB1C" />
-  </game>
-  <game name="mac81\mac81">
+    <disk name="mac80_jp\mac80_jp.chd" sha1="a2702185e6ac03d068375554e7709405dc5e39fd" />
+  </machine>
+  <machine name="mac81\mac81">
     <description>mac81\mac81</description>
-    <rom name="mac81\mac81.chd" size="268845223" crc="D76D20D6" sha1="6EAE23C93FB8CAA6C5877B9FC0AC365A7A2BC885" />
-  </game>
-  <game name="pwrmaccd\pwrmaccd">
+    <disk name="mac81\mac81.chd" sha1="cd3d8a45c20b271c27f80d957559071f525759f7" />
+  </machine>
+  <machine name="pwrmaccd\pwrmaccd">
     <description>pwrmaccd\pwrmaccd</description>
-    <rom name="pwrmaccd\pwrmaccd.chd" size="196021248" crc="D701DB70" sha1="D7DC73DE60727C2F464BC8867221B50D164D86BC" />
-  </game>
+    <disk name="pwrmaccd\pwrmaccd.chd" sha1="8fd11f42298af430a4b7e3b056336f2e6eec5ce2" />
+  </machine>
 </datafile>

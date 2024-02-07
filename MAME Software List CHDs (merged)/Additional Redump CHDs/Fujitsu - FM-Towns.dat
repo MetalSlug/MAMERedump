@@ -4,15 +4,37 @@
 	<header>
 		<name>Fujitsu - FM-Towns</name>
 		<description>Fujitsu - FM-Towns</description>
-		<version>0.260</version>
-		<date>2023-09-07</date>
+		<version>0.262</version>
+		<date>2023-11-30</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
+	<game name="F-BASIC386 V2.1 L20 (Japan)" sha1="8445323578763c4c40c60533c4ff6cd221715739" size="207018825" crc="d500c5e5" fullsha1="75fc3656b6764d49ad00dd1f6a4fc356bf880136" dataSha1="aa92962193e78fb2dceb0ac45bc1248778f7041e">
+		<category>Games</category>
+		<description>F-BASIC386 V2.1 L20 (Japan)</description>
+		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 01).bin" size="263894400" crc="ecc88cb8" md5="8593cf831bf108da72f654646f7e1613" sha1="8b7bca2b4244985069c405a6322f2c72581566a4"/>
+		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 02).bin" size="41729184" crc="dfdf5c43" md5="c21c834af42d37e2af7779c53f954e4c" sha1="07c632f89506d3a543ea3fcbfa22a49bd43961ee"/>
+		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 03).bin" size="15059856" crc="cb66c765" md5="20b1c11c8e98465e691e0e43e77f9bd3" sha1="628f7b773a50a0b9b9011dc8602d8e12436da3fa"/>
+		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 04).bin" size="24166800" crc="bd9213bc" md5="c4aadd42a016097ff6ece28ba0ccc483" sha1="006c5fcd90adff06b677b98017c4a69ef464b6de"/>
+		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 05).bin" size="37330944" crc="5debd853" md5="94cce3cb254648c4d251166610c9b38d" sha1="23d9e5395780a406cfe3e20210d553d1cf0f7064"/>
+		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 06).bin" size="9085776" crc="5e39e97a" md5="7d88877cdd78be4eac8b3ad5ba059f9a" sha1="72c227ba97d353aefba2431ac8a93c3b4915bebd"/>
+		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 07).bin" size="5491920" crc="5500d74a" md5="e6d1ecfe0a1a53e67fd19f61a10b1b07" sha1="7274dbf63d2db90579f79f1fadb8a6a7977ae76d"/>
+		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 08).bin" size="5120304" crc="34a73d87" md5="4b8d70fbde0cddef627f92290ee4933e" sha1="2a1cc41bf6b7f528efd77e38b539ea3f5e305780"/>
+		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 09).bin" size="9478560" crc="547491a0" md5="1e07d5b2f26341e0666a1c88004b1f7b" sha1="acaa5f1933d0cd48f9270520092110d13ae3a80b"/>
+		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 10).bin" size="4793376" crc="e20371ea" md5="d515a3565dd3e41e26bdca51154b40f0" sha1="55af96c06a9dad5c0d77caa8eb8705d3f90cb945"/>
+		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 11).bin" size="16793280" crc="173b15bf" md5="7e3e071bce2f05d9a95639d8f90c7b9d" sha1="743c367f69136fb6e84c459dbce4d66cae7ca2ea"/>
+		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 12).bin" size="34720224" crc="b51a094d" md5="775427bbee9f2b0301db07d63053b51b" sha1="bd08476b38823cefc6aa5edcaa07c42ebc889fa5"/>
+		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 13).bin" size="20963376" crc="9e09fe32" md5="b521d45048e4b21584ae184a1b10c82a" sha1="2f63b84a1728104ebe2e2dae3b101c96b05a0279"/>
+	</game>
 	<game name="FM Series Software Taikenban CD-ROM (Japan)" sha1="fea420954113628f7b5c79f769a828a08e1b4a93" size="75864528" crc="1b9ca8f2" fullsha1="beab81856fab2b42b6b630e3ec4fcd8fc3c7b572" dataSha1="228e077004c9b4496b489d33e89d27166780b4c2">
 		<category>Games</category>
 		<description>FM Series Software Taikenban CD-ROM (Japan)</description>
 		<rom name="FM Series Software Taikenban CD-ROM (Japan) (Track 01).bin" size="137239200" crc="4a0964ce" md5="9f3c17fae966e80a2dafa1d763061fec" sha1="6bc8ee2cf1e2ee50cfd6a0df854ddd70a5372a44"/>
+	</game>
+	<game name="FM Towns Appli Jikkou Set (TownsGEAR, F-BASIC386) V2.1 L20 (Japan)" sha1="aa4e26f8e55ddfbcc74cbc15fb56c75407b390fd" size="13628950" crc="c541d322" fullsha1="e4d85937887ad605b1d4614db14308fc73deb6c3" dataSha1="c908bc1f20876796b4a548991276472104d9d395">
+		<category>Games</category>
+		<description>FM Towns Appli Jikkou Set (TownsGEAR, F-BASIC386) V2.1 L20 (Japan)</description>
+		<rom name="FM Towns Appli Jikkou Set (TownsGEAR, F-BASIC386) V2.1 L20 (Japan) (Track 01).bin" size="62269200" crc="8d197f34" md5="213f918e0cf95c6ff1b6a5f8151c218d" sha1="65b3fbb01677e9dbd839cf1091818d725cdd8d58"/>
 	</game>
 	<game name="FM Towns Marty Tentou Auto Demo '93 Natsu (Japan) (Fixed Dump)" sha1="6b1dc1ef8332e6a301dc77e6014c5274b93d2e24" size="18601057" crc="8fe3ebf8" fullsha1="2a42caf3d87bd8d42a961946f08690fa5ffd0e60" dataSha1="c0659b46fcdfca770bdc9a8dc297e4ddc6c7f472">
 		<category>Games</category>
@@ -25,10 +47,68 @@
 		<rom name="FM Towns Marty Tentou Auto Demo '93 Natsu (Japan) (Fixed Dump) (Track 06).bin" size="5503680" crc="2cb876d4" md5="0c1aaab4a986d56b7ab9164c73ae71ca" sha1="a2dd990d07da97f599a2011c32a5abb72845d327"/>
 		<rom name="FM Towns Marty Tentou Auto Demo '93 Natsu (Japan) (Fixed Dump) (Track 07).bin" size="7808640" crc="ec714b1a" md5="94d93415b0d03fd80acd6217f332dd49" sha1="687af04b5e87a3df802cd5d99292c5c9cde7855a"/>
 	</game>
+	<game name="Heike Monogatari (Joukan) (Japan) (Rerelease)" sha1="e99806398053162cf9b6fb15eb00ed122aa670be" size="234104741" crc="ab6d176d" fullsha1="a31831bcd17f24b70fd0d2c11502c425d8b88ee0" dataSha1="d53190ed5f6887858e9e4892a2e61254f81b8a76">
+		<category>Games</category>
+		<description>Heike Monogatari (Joukan) (Japan) (Rerelease)</description>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 01).bin" size="31399200" crc="d62218aa" md5="8f6c8c7de24e69d15997ac3d171e8899" sha1="44bdc084f430eeb1cf741b837fe6376a2bac9d3e"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 02).bin" size="12731376" crc="fb93789e" md5="169104aa129feba06e4e252edc1c3603" sha1="185c47423ebc06d92d68b9fc6c40ed7bfb231406"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 03).bin" size="23261280" crc="dae50a17" md5="ac5097b44b762926123724c5aadb02a5" sha1="307facf273b3f41143992cd57da3792721e74520"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 04).bin" size="24218544" crc="1a500ddb" md5="822cba65438760df8f0e221d4336e64f" sha1="f94d597934ec821a470954034f80fd83bfdc52b9"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 05).bin" size="31053456" crc="00877cef" md5="16d4cde2651808c1b0db3670f2c7d489" sha1="0f12b45ca5fd8d1fdfbf0c63b5165e9cdba817c2"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 06).bin" size="15318576" crc="e4deb330" md5="6f74eb4fc261b6ad3d2f81399c94f71b" sha1="956398afeb622fb426f7c55e57eb80b4610f7b3d"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 07).bin" size="31055808" crc="774ace82" md5="8abb28ababe15b48186f7e66ba41796f" sha1="b467e6244b9156d649ce5317611238b226a06541"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 08).bin" size="15163344" crc="ab156078" md5="7c7ef4515f08deaa0328d6295652b916" sha1="a36acc0f3fad761ae72421dfe0744123dcc2066a"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 09).bin" size="32982096" crc="3bfa3913" md5="67253ddcde127c17c0bd1956f23e2dda" sha1="80d84db44dd2ab400e9e646b3d1bab745fae648e"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 10).bin" size="24185616" crc="1c69d316" md5="c33d5c9e00df352f9e6f83de2f45cba6" sha1="89c2038e2d52d51e7dcaef158c20a448906f3172"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 11).bin" size="22054704" crc="486b1040" md5="eb832c00ffc660a1627fa24f879cc7fe" sha1="4c8356f708ebdffa210b4cbc9234a2dc8f100717"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 12).bin" size="22021776" crc="81ac17e1" md5="3979a553e89476faf48c73e2b4e4e74c" sha1="97f77001baab1b941e1462fdb31caa3e99c02423"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 13).bin" size="31062864" crc="8516386a" md5="099e73a19dc6d0c01e116d1164822e4b" sha1="86a70d21ea2d35fe5b95e8db1c52c4614c5f21dc"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 14).bin" size="26285952" crc="caec09ad" md5="8ba6d5b64e6d7e4c2903a328b246fd14" sha1="27066cee699c7839cf4e095b8cfc248d69061975"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 15).bin" size="8076768" crc="94dc1eff" md5="9f39fd7bf10085a5d1ba0b1c6a840959" sha1="aa734225df1aba1656b5c0475e584422ccb7beef"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 16).bin" size="22804992" crc="313d060e" md5="5cb43a09929b42299d26390a78768515" sha1="d45d89915e0d5894d0795f128d1d4817b2f2db64"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 17).bin" size="16346400" crc="6cc8b731" md5="787bd4b93df5acc3d5370f29e73f0121" sha1="e5296b929ec277fd570f366daebffd0b5113efac"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 18).bin" size="14998704" crc="461bb9dc" md5="364c6493b1cb8eeac247f613785d49fd" sha1="f1d44fa995fc302d762640c8035d255036faa141"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 19).bin" size="28623840" crc="2c09d61f" md5="735ba6342d5d680b90bbe5068416386d" sha1="dc352caafe3714191bfb752a7d4cb98addae8984"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 20).bin" size="20768160" crc="f66780d3" md5="82b23a8a78f2405f248d94634af3391b" sha1="0980d37ecc7d9a83566d3afcd1ffe92abe5862d1"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 21).bin" size="31406256" crc="0dee5725" md5="9213c4073c619d7f8a1c6f4555ff9746" sha1="c822cdac3b3cb5e8cf2dc1d714645f91d17dc164"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 22).bin" size="17484768" crc="89fe8942" md5="52c055f752ff7cdf360b5885f9261cdd" sha1="c265ab76897b7e5a1f8eebb25ad2849b6b14f9e0"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 23).bin" size="29461152" crc="774cd696" md5="feac41418c95da3c021d4148c55b6226" sha1="024b90ae2d3d7e76e75ec997f4a54db73010d4c6"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 24).bin" size="28906080" crc="e3f50c2e" md5="09886a2fb2fad2af431cd0f9e2798c22" sha1="151e6bea815f0c8de238f4697b9915c0bbc23b80"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 25).bin" size="25272240" crc="efa97112" md5="965cb42a7978aa6e7e2a7858627d8902" sha1="f8b5081cde87b31f921bd552872ae300daa1f0e2"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 26).bin" size="16593360" crc="231f8708" md5="4c381cf24107b652e12af3b35268d92d" sha1="175bc34f7aa9f5d3ee1febb3f34f074f4756a866"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 27).bin" size="16332288" crc="35c5e0e1" md5="38ca4e568563a1903f75aa4d207c4e79" sha1="78a70b07ad5428bcbb42ae1fc1b404acbcba8bab"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 28).bin" size="30183216" crc="ced9f03b" md5="d81feb8779784e724c0e9fcc0fe36d68" sha1="a8cedd14532afd9891b1ea2ab156ac99fa57adf2"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 29).bin" size="9377424" crc="87bb0247" md5="0f292d07009eb9926f558b4b08660831" sha1="8de25d3874e73acfea4d939ef3b93975a5019288"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 30).bin" size="14770560" crc="1d33b144" md5="27365fb2705bf4aa73b894cbf811d8fa" sha1="3f3881d6710d87d7385212f47abf01ccefb3fa4c"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 31).bin" size="4123056" crc="12edc8b4" md5="7ea86cc588a26a0766d414e26d1d67cc" sha1="ace2c3eb9822ccd2752c143f4039e4c7b56c8a14"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 32).bin" size="4186560" crc="4cb36324" md5="337a17332d74085c02e16d25fb9987a0" sha1="859373d49c4960906fdae02d6f77824993012c79"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 33).bin" size="4602864" crc="17183c7e" md5="cf4552190b60f9ed43cbfb1bc1516a1d" sha1="7f92986af50c3256e83438e1e6b62274ced786d3"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 34).bin" size="4217136" crc="6c7f299e" md5="7304e95067127c45d4e8e39e2e7f3397" sha1="132111f3ab4dd30d7db9629afde2e3d94ad137f9"/>
+		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 35).bin" size="4391184" crc="5cbdd965" md5="67bb6071871f297103f1fafeaf03b74d" sha1="2fcc743d6a75a9ce9a062cdd9a86057af7f29f40"/>
+	</game>
+	<game name="Heroes of the Lance (Japan) (En,Ja)" sha1="900a34bf7b027a1dff57ccbaa716ea593e61b4d5" size="1273648" crc="a9af1988" fullsha1="50bb7035f4c8e6160ba3338e1020a80ca7e2ab52" dataSha1="92790b3f286b75f6d84d8f4bbedc3260b25f6a75">
+		<category>Games</category>
+		<description>Heroes of the Lance (Japan) (En,Ja)</description>
+		<rom name="Heroes of the Lance (Japan) (En,Ja) (Track 01).bin" size="6698496" crc="b4fb7f62" md5="3e98f422a94ea81ccf0673a2c06e514d" sha1="ed9ed92f74bc78fc01aca78381027e5424f72e39"/>
+	</game>
 	<game name="Hiouden II (Japan)" sha1="8da2cf12bdbd1b459abd0a334952830a43a436a1" size="2097710" crc="62853896" fullsha1="21e2e0357897bce375d5791e1e585a0a74c927c3" dataSha1="af9c7e02ef3fc23bb9dc421ff4e8943c4a736889">
 		<category>Games</category>
 		<description>Hiouden II (Japan)</description>
 		<rom name="Hiouden II (Japan) (Track 01).bin" size="31399200" crc="46031c50" md5="0d5258477198c822179cf82cce15b669" sha1="ca0aa7d20ba52a9a8b2aee051763ef549a72eae1"/>
+	</game>
+	<game name="Hishouzame - Flying Shark (Japan)" sha1="3591325b6a0a4acb8783b9027d9e85d41667e2fb" size="196171011" crc="d42033fd" fullsha1="c56c61dfe9e0a3fff58b54aa2158363950235d31" dataSha1="dc55939b2d213b4ce4cdcc0da11eba4719faabf2">
+		<category>Games</category>
+		<description>Hishouzame - Flying Shark (Japan)</description>
+		<rom name="Hishouzame - Flying Shark (Japan) (Track 01).bin" size="10231200" crc="b4815477" md5="a2aa46e43b8a3536aae9ea8f9ec7b764" sha1="c439a005d9d4e97402eb063dfcd7e5a6c48ae8e6"/>
+		<rom name="Hishouzame - Flying Shark (Japan) (Track 02).bin" size="4885104" crc="f180754f" md5="ba1fb563e3ad8af4cb71e76b86e67e28" sha1="f871d783bfb75a5f9a98e2da9983a8e180829994"/>
+		<rom name="Hishouzame - Flying Shark (Japan) (Track 03).bin" size="53802000" crc="b39e8551" md5="68df619474358421d8ba987aeeac50f0" sha1="d1505743334744c4ae91f8a4510f07a97ac28616"/>
+		<rom name="Hishouzame - Flying Shark (Japan) (Track 04).bin" size="52049760" crc="1691df08" md5="6bdfd36db91c308f3947112d894e684f" sha1="6e44e6826b365c65bbc220130ff81faa72bbddab"/>
+		<rom name="Hishouzame - Flying Shark (Japan) (Track 05).bin" size="52825920" crc="2d154240" md5="c951142c9d4311fc834713dbdd66a931" sha1="9a553f00323e0666963c50795e094c5f7e178355"/>
+		<rom name="Hishouzame - Flying Shark (Japan) (Track 06).bin" size="56412720" crc="079283b0" md5="a9699c9a0348ef197aa912469902806a" sha1="e4523d5d230c3419d1e8bb6064101bf71c43dee2"/>
+		<rom name="Hishouzame - Flying Shark (Japan) (Track 07).bin" size="64879920" crc="9c49fd97" md5="a879cdfb6971f97be3f97c9bbf0527df" sha1="127736953c1751a83629fe646800e9338fb38a4b"/>
+		<rom name="Hishouzame - Flying Shark (Japan) (Track 08).bin" size="6844320" crc="08c2fdb8" md5="714000b64cd37a803e24d0ba465d7423" sha1="b441224496125affca217c610d61d554b0d4e93d"/>
+		<rom name="Hishouzame - Flying Shark (Japan) (Track 09).bin" size="3363360" crc="df844bd8" md5="446282105fb5712148c97a978ce1c2e5" sha1="e4f9b11ff457b55f194dfc540303607efb0a8a8c"/>
+		<rom name="Hishouzame - Flying Shark (Japan) (Track 10).bin" size="10654560" crc="64ccacb2" md5="f2b2e10dc5d003a3ec94149cfd86251a" sha1="04cdbf1224095d32b1ffa09c9199da835fd2c51b"/>
 	</game>
 	<game name="Legend of Kyrandia, The (Japan)" sha1="0e33a78ba9cac28815c4faabc534cb0315ece42b" size="258592806" crc="b3bf11bc" fullsha1="c5b8ccb2a80a2053c0cb1ae0b0546ba5a0fe6677" dataSha1="e47720904cb940bcff7d152dbd25f5b9826fc7bb">
 		<category>Games</category>
@@ -55,5 +135,21 @@
 		<rom name="Legend of Kyrandia, The (Japan) (Track 20).bin" size="14229600" crc="fd2fc7cc" md5="e7783fb4e41a917143c7e0a27130fee6" sha1="efdf399475a4e1fd330e5bf0c627d82a781942f7"/>
 		<rom name="Legend of Kyrandia, The (Japan) (Track 21).bin" size="12136320" crc="973875fa" md5="99a70cfdb2078f881bc25a723a4df93b" sha1="5e887dd49336fab522991343ee68b999fa7fc690"/>
 		<rom name="Legend of Kyrandia, The (Japan) (Track 22).bin" size="49904736" crc="f4fc1800" md5="35daaaa665b760436a3f60778c68a92e" sha1="3e14d6e4d3143f51dd4b20b29617748bf669ea48"/>
+	</game>
+	<game name="Tele Harmonium - City Lights (Japan)" sha1="1e3cf5be0a94506079c9de5dbf3e1006770a8846" size="161521769" crc="94650f69" fullsha1="ae8b4e8679febe5a9e99de5dcf7d502900dcb346" dataSha1="c9dd831bfa566e96ffb56b6cc03fbf7f8eb49ac9">
+		<category>Games</category>
+		<description>Tele Harmonium - City Lights (Japan)</description>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 01).bin" size="10231200" crc="e5cefd64" md5="390edb1c407a46f101bd785987a291a1" sha1="7ae3a9f94f2e23adede0c9173fadce6a95fd9321"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 02).bin" size="50575056" crc="a1c398fa" md5="1c4ba7b4d1824aa703e26dd6a90afbcd" sha1="3de64a4ded1eeca9d55a16b59706d7f72988fa0e"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 03).bin" size="29094240" crc="85c75ee4" md5="967f8c52975ee204c9df77e832c8fe39" sha1="9fde37a50da20ef1a962a24a97b7339ae1cd64ef"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 04).bin" size="33222000" crc="824a6279" md5="cb28bd116e518cf4a615607092084617" sha1="0798d9996e27e3f5b25be65aa9043a4b871539a8"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 05).bin" size="37761360" crc="6d2c59fa" md5="3090c00fccd20dd29f884ae32c631463" sha1="ec48bf15336c774d49178efd9c4823b65ba693b5"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 06).bin" size="43394400" crc="da32a788" md5="807bc71c62b23f930c3171afa9ec860e" sha1="b16f55cfffdf9321c11378a492b72caa6d5e77c3"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 07).bin" size="32046000" crc="51b2e580" md5="1bf8cacdfc4754f69879c3b912f51299" sha1="a24c31f5015ebb018a24f4fb7983f69fe8c7147c"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 08).bin" size="53926656" crc="5f8461e3" md5="624a4e05b2cbb0c502adeda71c6e52b2" sha1="3c589f5f5ac99f4f490c30dcab7cc82e7b01d20c"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 09).bin" size="21744240" crc="e946d38f" md5="cd09b263df3e3de0f40b5dea1d49ca15" sha1="a3e8d7ba061dda067f603145f54a516ce6c80274"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 10).bin" size="35785680" crc="4aeb528e" md5="e9973f86fe80451e73a5612626786b98" sha1="aa2856aa8dc2aa02b1b4e8607873185b9678e287"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 11).bin" size="36296064" crc="414b8972" md5="545ee2a112e8125af48a2b764e5071c3" sha1="98764d714d551d32a23832333e7488a2f8dbd36b"/>
+		<rom name="Tele Harmonium - City Lights (Japan) (Track 12).bin" size="39254880" crc="7b32c440" md5="a9b05b7c951844f061bc43a1abbb76c2" sha1="30ad958e87336546289b2ca054288a383490679d"/>
 	</game>
 </datafile>

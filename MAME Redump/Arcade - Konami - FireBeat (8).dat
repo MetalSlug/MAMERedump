@@ -4,41 +4,41 @@
   <header>
     <name>Arcade - Konami - FireBeat</name>
     <description>MAME Redump - Arcade - Konami - FireBeat - Discs (8) (2019-04-06 16-58-55)</description>
-    <version>0.261</version>
-    <date>2023-11-30</date>
+    <version>0.262</version>
+    <date>2024-02-07</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
   </header>
-  <game name="Pop'n Music 4 (Japan) (Software Disk 1)">
+  <machine name="Pop'n Music 4 (Japan) (Software Disk 1)">
     <description>Pop'n Music 4 (Japan) (Software Disk 1)</description>
-    <rom name="Pop'n Music 4 (Japan) (Software Disk 1).chd" size="44846932" crc="DA9A04F2" sha1="B78EDC477C8CCAFE66395BEE7D6C8AF6C2B0D5C8" />
-  </game>
-  <game name="Pop'n Music 4 (Japan) (Software Disk 2)">
+    <disk name="Pop'n Music 4 (Japan) (Software Disk 1).chd" sha1="6c3bdc2193a819aa002ce1d283f907c4897741b0" />
+  </machine>
+  <machine name="Pop'n Music 4 (Japan) (Software Disk 2)">
     <description>Pop'n Music 4 (Japan) (Software Disk 2)</description>
-    <rom name="Pop'n Music 4 (Japan) (Software Disk 2).chd" size="1878857237" crc="32EE7226" sha1="DE08446764A2C48ADC4F561E0A4642068036E98F" />
-  </game>
-  <game name="Pop'n Music 5 (Japan) (Disc 1)">
+    <disk name="Pop'n Music 4 (Japan) (Software Disk 2).chd" sha1="d635ae846cfc3cf74e0cc82b57576f651799332e" />
+  </machine>
+  <machine name="Pop'n Music 5 (Japan) (Disc 1)">
     <description>Pop'n Music 5 (Japan) (Disc 1)</description>
-    <rom name="Pop'n Music 5 (Japan) (Disc 1).chd" size="44638226" crc="9C69A03D" sha1="8325F91A4ED09827421960D6C6F4E1E2B7320528" />
-  </game>
-  <game name="Pop'n Music 5 (Japan) (Disc 2)">
+    <disk name="Pop'n Music 5 (Japan) (Disc 1).chd" sha1="cde89e58a012a79f9d1135cb222b3fc0464fb7df" />
+  </machine>
+  <machine name="Pop'n Music 5 (Japan) (Disc 2)">
     <description>Pop'n Music 5 (Japan) (Disc 2)</description>
-    <rom name="Pop'n Music 5 (Japan) (Disc 2).chd" size="1257019250" crc="D5441D7C" sha1="F012823313CB44BC7907F4CC978C1DF51D3B54B5" />
-  </game>
-  <game name="Pop'n Music 6 (Japan) (Disc 1) (JAC)">
+    <disk name="Pop'n Music 5 (Japan) (Disc 2).chd" sha1="4fb8ee8669a9b9d7d627e676fb982c032477ecf3" />
+  </machine>
+  <machine name="Pop'n Music 6 (Japan) (Disc 1) (JAC)">
     <description>Pop'n Music 6 (Japan) (Disc 1) (JAC)</description>
-    <rom name="Pop'n Music 6 (Japan) (Disc 1) (JAC).chd" size="53434223" crc="FCD0F5BF" sha1="7C2E6CB7215EDD08CF7C980350642D76E0767A8B" />
-  </game>
-  <game name="Pop'n Music 6 (Japan) (Disc 2)">
+    <disk name="Pop'n Music 6 (Japan) (Disc 1) (JAC).chd" sha1="039e45d14d886951925fcafd392d4b2c6bb3f1fd" />
+  </machine>
+  <machine name="Pop'n Music 6 (Japan) (Disc 2)">
     <description>Pop'n Music 6 (Japan) (Disc 2)</description>
-    <rom name="Pop'n Music 6 (Japan) (Disc 2).chd" size="2154225993" crc="BAA2F81F" sha1="CC70E6F5B5D413547440E2757DE3D41206DF9252" />
-  </game>
-  <game name="Pop'n Music 7 (Japan) (Disc 1) (JAB)">
+    <disk name="Pop'n Music 6 (Japan) (Disc 2).chd" sha1="930af52a69230c9d9aed0c11f98e76b19b20e821" />
+  </machine>
+  <machine name="Pop'n Music 7 (Japan) (Disc 1) (JAB)">
     <description>Pop'n Music 7 (Japan) (Disc 1) (JAB)</description>
-    <rom name="Pop'n Music 7 (Japan) (Disc 1) (JAB).chd" size="154537499" crc="6462C589" sha1="8C98BC2B1854ADA94C0FC617449405F887B3F871" />
-  </game>
-  <game name="Pop'n Music 7 (Japan) (Disc 2)">
+    <disk name="Pop'n Music 7 (Japan) (Disc 1) (JAB).chd" sha1="2f53bf5614b4261b7eca51df9be8c2cefa8fce0f" />
+  </machine>
+  <machine name="Pop'n Music 7 (Japan) (Disc 2)">
     <description>Pop'n Music 7 (Japan) (Disc 2)</description>
-    <rom name="Pop'n Music 7 (Japan) (Disc 2).chd" size="2766666641" crc="3ACD5DA8" sha1="8EFAA7890F6B518BFBD5F99911D8587D03CD5CAC" />
-  </game>
+    <disk name="Pop'n Music 7 (Japan) (Disc 2).chd" sha1="9ebf0b54b011c6645f88320fb54cde072e5ebb40" />
+  </machine>
 </datafile>

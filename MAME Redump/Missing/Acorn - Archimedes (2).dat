@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+  <header>
+    <name>Acorn - Archimedes</name>
+    <description>MAME Redump - Acorn - Archimedes - Discs (69) (2024-01-30 21-08-26)</description>
+    <version>0.262</version>
+    <date>2024-02-07</date>
+    <author>MAME Redump</author>
+    <url>https://github.com/MetalSlug/MAMERedump</url>
+  </header>
+  <game name="Acorn User CD 12 (UK)">
+    <description>Acorn User CD 12 (UK)</description>
+    <rom name="Acorn User CD 12 (UK).cue" size="87" crc="9AB9225B" md5="7C1511E39DDAC5F50C32261099185B58" sha1="1C2B6D02782A0567A7E1CFEADF3E47849A59F6C8" />
+    <rom name="Acorn User CD 12 (UK).bin" size="453611424" crc="00176613" md5="C9D7A8594647AE2CE46918B566B71829" sha1="644AE8E687F045B4A1AF0A6D23FF42135986AD2A" />
+  </game>
+  <game name="Acorn User CD 14 (UK)">
+    <description>Acorn User CD 14 (UK)</description>
+    <rom name="Acorn User CD 14 (UK).cue" size="87" crc="F5BDCA58" md5="94D10511041195294FF39E8181D138E7" sha1="1051356C6B2DEFAFEAAE3F48D10904749A93D494" />
+    <rom name="Acorn User CD 14 (UK).bin" size="639327696" crc="56685D26" md5="19196261564F778225A953FAC991C5C6" sha1="4E4A98CF61164A886AB8C268CB390B9E81EA2905" />
+  </game>
+</datafile>

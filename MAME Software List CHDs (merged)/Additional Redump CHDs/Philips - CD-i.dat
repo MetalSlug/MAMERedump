@@ -4,8 +4,8 @@
 	<header>
 		<name>Philips - CD-i</name>
 		<description>Philips - CD-i</description>
-		<version>0.260</version>
-		<date>2023-09-07</date>
+		<version>0.262</version>
+		<date>2023-11-30</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -71,10 +71,10 @@
 		<description>7th Guest, The (Germany) (Disc 1) (Das Spiel) (Rev 1)</description>
 		<rom name="7th Guest, The (Germany) (Disc 1) (Das Spiel) (Rev 1) (Track 01).bin" size="725182752" crc="483bc624" md5="03ff2d7bab3ddea710e8744ff37156ab" sha1="2f47bd97089bdcee48ccc1eb5d7fd83ac2633d39"/>
 	</game>
-	<game name="7th Guest, The (USA) (Beta)" sha1="988496ad286fc1539504cc606af496b832caf320" size="425018390" crc="b5037239" fullsha1="f12dad2592fe460c26d78ea8928fb431a1f113ae" dataSha1="db63f8dafff3cc518ed8853857c51cc073a1e5b4">
+	<game name="7th Guest, The (USA) (Beta) (1994-02-04)" sha1="988496ad286fc1539504cc606af496b832caf320" size="425018390" crc="b5037239" fullsha1="f12dad2592fe460c26d78ea8928fb431a1f113ae" dataSha1="db63f8dafff3cc518ed8853857c51cc073a1e5b4">
 		<category>Games</category>
-		<description>7th Guest, The (USA) (Beta)</description>
-		<rom name="7th Guest, The (USA) (Beta) (Track 01).bin" size="719363904" crc="63999d78" md5="429f7937ac0ef354cb45fd6955526bfc" sha1="8d346cb59a200fc1ef5cb278a7d08811fc2e9273"/>
+		<description>7th Guest, The (USA) (Beta) (1994-02-04)</description>
+		<rom name="7th Guest, The (USA) (Beta) (1994-02-04) (Track 01).bin" size="719363904" crc="63999d78" md5="429f7937ac0ef354cb45fd6955526bfc" sha1="8d346cb59a200fc1ef5cb278a7d08811fc2e9273"/>
 	</game>
 	<game name="7th Guest, The (USA) (Disc 1) (The Game)" sha1="bbcdf6403d88f03dd6d8efd58d6cad1b6371a060" size="432282163" crc="4870f393" fullsha1="895324104174d203dc7777515be326fb5a0bf517" dataSha1="451483a1e22c9abe02221f837d4b69e171de20e6">
 		<category>Games</category>
@@ -217,10 +217,10 @@
 		<description>Albero Azzurro, L' (Italy)</description>
 		<rom name="Albero Azzurro, L' (Italy) (Track 01).bin" size="567831600" crc="e7918f97" md5="7f3cc6ef4773f66d4f8fb4e129e6e2ef" sha1="385b18053829dd2a3afda94b79cde7b7b2b2c7e8"/>
 	</game>
-	<game name="Albero Azzurro, L' (Italy) (Beta)" sha1="993605deb0ef01b713de50a1bb139edb024e0e86" size="364983818" crc="f59d27d2" fullsha1="a1b212169c61d99176bf4fe32229194b5765b144" dataSha1="026e0c6a72b7347d8a05242b1da77b7972b664b3">
+	<game name="Albero Azzurro, L' (Italy) (Beta) (1994-08-05)" sha1="993605deb0ef01b713de50a1bb139edb024e0e86" size="364983818" crc="f59d27d2" fullsha1="a1b212169c61d99176bf4fe32229194b5765b144" dataSha1="026e0c6a72b7347d8a05242b1da77b7972b664b3">
 		<category>Games</category>
-		<description>Albero Azzurro, L' (Italy) (Beta)</description>
-		<rom name="Albero Azzurro, L' (Italy) (Beta) (Track 01).bin" size="562363200" crc="22c5229c" md5="c87edc202073e61ffea18745b47d28ca" sha1="148400bb7df6bba54512066663e7e2d68488381a"/>
+		<description>Albero Azzurro, L' (Italy) (Beta) (1994-08-05)</description>
+		<rom name="Albero Azzurro, L' (Italy) (Beta) (1994-08-05) (Track 01).bin" size="562363200" crc="22c5229c" md5="c87edc202073e61ffea18745b47d28ca" sha1="148400bb7df6bba54512066663e7e2d68488381a"/>
 	</game>
 	<game name="Aldosterone - Un Toxique Cardiovasculaire (France)" sha1="4ff812caf48e052ad0f9555331f18392162df9d8" size="444831902" crc="56ba41fd" fullsha1="81ec85ebf1c9cb2ac43a48491700109a1dd89f63" dataSha1="4b132125494b67939a595b839a91f43890c279e1">
 		<category>Games</category>
@@ -306,10 +306,10 @@
 		<description>Animal Communities (USA)</description>
 		<rom name="Animal Communities (USA) (Track 01).bin" size="204094800" crc="163faf03" md5="a07f066f98400b481c0d89bd5e4af902" sha1="d3d4fb901269584b071ebfe0e018b03c0bad69b4"/>
 	</game>
-	<game name="Anne Willan Presents the Food of France (USA) (Beta)" sha1="2a09a6b826d5797b36815960fc1addae535f43c1" size="166317284" crc="bf43f560" fullsha1="761fbab6475fd177ad9a34fa54cceca0e25593d7" dataSha1="66f7839f14effddee9c74520d22e04b91857d9f6">
+	<game name="Anne Willan Presents the Food of France (USA) (Beta) (1992-10-14)" sha1="2a09a6b826d5797b36815960fc1addae535f43c1" size="166317284" crc="bf43f560" fullsha1="761fbab6475fd177ad9a34fa54cceca0e25593d7" dataSha1="66f7839f14effddee9c74520d22e04b91857d9f6">
 		<category>Games</category>
-		<description>Anne Willan Presents the Food of France (USA) (Beta)</description>
-		<rom name="Anne Willan Presents the Food of France (USA) (Beta) (Track 01).bin" size="606463200" crc="48fe06b4" md5="2801547ffb6d02d7f198046bf846a379" sha1="b59003609b3291b65ff812f8b9bdc03a107c4cc9"/>
+		<description>Anne Willan Presents the Food of France (USA) (Beta) (1992-10-14)</description>
+		<rom name="Anne Willan Presents the Food of France (USA) (Beta) (1992-10-14) (Track 01).bin" size="606463200" crc="48fe06b4" md5="2801547ffb6d02d7f198046bf846a379" sha1="b59003609b3291b65ff812f8b9bdc03a107c4cc9"/>
 	</game>
 	<game name="Anniversary - Yuki Saito (Japan)" sha1="0762522fb7aabef504ab875296de0909857ff873" size="296402381" crc="17b3e869" fullsha1="6169b83f57503e4dbad472264b7b64b074953b90" dataSha1="2649c05590e067a68a33fc7d237238e5b3786731">
 		<category>Games</category>
@@ -411,15 +411,15 @@
 		<description>Asterix - O Desafio de Cesar (Portugal)</description>
 		<rom name="Asterix - O Desafio de Cesar (Portugal) (Track 01).bin" size="484923600" crc="d326a732" md5="565543f042ed3be400ad7f1d4a5f157f" sha1="5535758e41acfb103d13e005b6a9e4198cb5e30d"/>
 	</game>
-	<game name="Atlantis - The Last Resort (Europe) (Beta 1)" sha1="4e4a078f4c4ab8300d932770ccd085e2f041dbd3" size="40830587" crc="cbb63e97" fullsha1="64da55362a8bab991a6be97bd6e5171e48475f68" dataSha1="3e7ce3929b95557acb9e97cbc93caf7b0aac395d">
+	<game name="Atlantis - The Last Resort (Europe) (Beta) (1995-08-21)" sha1="4e4a078f4c4ab8300d932770ccd085e2f041dbd3" size="40830587" crc="cbb63e97" fullsha1="64da55362a8bab991a6be97bd6e5171e48475f68" dataSha1="3e7ce3929b95557acb9e97cbc93caf7b0aac395d">
 		<category>Games</category>
-		<description>Atlantis - The Last Resort (Europe) (Beta 1)</description>
-		<rom name="Atlantis - The Last Resort (Europe) (Beta 1) (Track 01).bin" size="88733904" crc="cba642b8" md5="77b63bb6384bfa47edd4319efa6fd7ca" sha1="f71b7432abcf5e70411d10f18e46a3bcdbf4bea3"/>
+		<description>Atlantis - The Last Resort (Europe) (Beta) (1995-08-21)</description>
+		<rom name="Atlantis - The Last Resort (Europe) (Beta) (1995-08-21) (Track 01).bin" size="88733904" crc="cba642b8" md5="77b63bb6384bfa47edd4319efa6fd7ca" sha1="f71b7432abcf5e70411d10f18e46a3bcdbf4bea3"/>
 	</game>
-	<game name="Atlantis - The Last Resort (Europe) (Beta 2)" sha1="f1202a6a21f1fc8edeca6c24ba89a15e2f7de4d0" size="201116581" crc="1a6f2044" fullsha1="a97452d9d07cfd9d3b3c3ab36b84a4a337bb40bf" dataSha1="4f87432e01fe49380c7c9667e840b97b199e0042">
+	<game name="Atlantis - The Last Resort (Europe) (Beta) (1996-09-18)" sha1="f1202a6a21f1fc8edeca6c24ba89a15e2f7de4d0" size="201116581" crc="1a6f2044" fullsha1="a97452d9d07cfd9d3b3c3ab36b84a4a337bb40bf" dataSha1="4f87432e01fe49380c7c9667e840b97b199e0042">
 		<category>Games</category>
-		<description>Atlantis - The Last Resort (Europe) (Beta 2)</description>
-		<rom name="Atlantis - The Last Resort (Europe) (Beta 2) (Track 01).bin" size="598353504" crc="0230752c" md5="86298c7122862411fe9c45b080ac0112" sha1="4532d8460f4c36cb181d9c19593e603ddecea631"/>
+		<description>Atlantis - The Last Resort (Europe) (Beta) (1996-09-18)</description>
+		<rom name="Atlantis - The Last Resort (Europe) (Beta) (1996-09-18) (Track 01).bin" size="598353504" crc="0230752c" md5="86298c7122862411fe9c45b080ac0112" sha1="4532d8460f4c36cb181d9c19593e603ddecea631"/>
 	</game>
 	<game name="Axel Springer Verlag AG - Bild am Sonntag (Germany)" sha1="408beee769070dcef8b164f3ecdbe6c067d56ece" size="185723911" crc="261a9829" fullsha1="7afcbd89e75ab7d811db0212617d1e4a73e3a763" dataSha1="d2a844d84e86216fbf979312573adc99672a4626">
 		<category>Games</category>
@@ -446,6 +446,11 @@
 		<category>Games</category>
 		<description>BMB Karaoke 71 (Japan)</description>
 		<rom name="BMB Karaoke 71 (Japan) (Track 01).bin" size="825199200" crc="b70a70c9" md5="7b8df866f0af5c5bfeb5e3931c239a6b" sha1="c973cca968da918de0cdd7408cd30cce931d0441"/>
+	</game>
+	<game name="BMP Puzzle (Germany)" sha1="ad899255b486b4a53579f483f08cce3b86d7966e" size="14825914" crc="75bc7b1c" fullsha1="1a22e4f884111597f17c6302d62b83624d992301" dataSha1="5d61dbf7c6e44e9c9da371c617a9334a16983bb3">
+		<category>Games</category>
+		<description>BMP Puzzle (Germany)</description>
+		<rom name="BMP Puzzle (Germany) (Track 01).bin" size="101434704" crc="f870dd0a" md5="be2bfed6fe714fa73d66cc41994d629e" sha1="9d9c48ce32ad5c44a0893da41ef13b9120ac13b4"/>
 	</game>
 	<game name="BMW Motorrad- und Fahrerausstattung - 1996 (Germany) (Disc 3)" sha1="52065484de0b3977f2e7af77ac8b4cd6b33f4ceb" size="122416602" crc="92d5c977" fullsha1="aa12c2faeccda868179eaa9b54c64c652b9ddbf6" dataSha1="1800d1deab5f4974129ee12402b853ec795a2abd">
 		<category>Games</category>
@@ -527,10 +532,10 @@
 		<description>Berenstain Bears, The - On Their Own (Europe)</description>
 		<rom name="Berenstain Bears, The - On Their Own (Europe) (Track 01).bin" size="658207200" crc="b56c0d97" md5="2a22d4e2b102b7a492e6d6c48d553c02" sha1="98f7e8d4717e5dd3b05f54f17fc5b523fab51d43"/>
 	</game>
-	<game name="Bertelsmann Universal Lexikon (Germany) (Beta)" sha1="6698ed87b37c1ec9242f1fe8cb0b3759717d8d35" size="331463379" crc="bfe7fe09" fullsha1="e6db3bef802d3506e6ff00dd688eaccd9b922719" dataSha1="b897aa4db1bcb398ed323b0e554f6ca22e8af253">
+	<game name="Bertelsmann Universal Lexikon (Germany) (Beta) (1994-11-14)" sha1="6698ed87b37c1ec9242f1fe8cb0b3759717d8d35" size="331463379" crc="bfe7fe09" fullsha1="e6db3bef802d3506e6ff00dd688eaccd9b922719" dataSha1="b897aa4db1bcb398ed323b0e554f6ca22e8af253">
 		<category>Games</category>
-		<description>Bertelsmann Universal Lexikon (Germany) (Beta)</description>
-		<rom name="Bertelsmann Universal Lexikon (Germany) (Beta) (Track 01).bin" size="494625600" crc="dca343eb" md5="595a05e928e155bbbade4e225f28e483" sha1="00de686ef69fc9c0af86a641f4d016a0121771cf"/>
+		<description>Bertelsmann Universal Lexikon (Germany) (Beta) (1994-11-14)</description>
+		<rom name="Bertelsmann Universal Lexikon (Germany) (Beta) (1994-11-14) (Track 01).bin" size="494625600" crc="dca343eb" md5="595a05e928e155bbbade4e225f28e483" sha1="00de686ef69fc9c0af86a641f4d016a0121771cf"/>
 	</game>
 	<game name="Bertelsmann Universal Lexikon (Germany) (En,De) (Demo)" sha1="616fef3746cde009e962ae863edc23237f205fd1" size="146409494" crc="77d52bcb" fullsha1="64ac234a22a323dca9aee3c44f09c9a0645dcb17" dataSha1="2357b7460264dca7fd5cff667841da526a9597f7">
 		<category>Games</category>
@@ -570,10 +575,10 @@
 		<description>Best of Draw 50 with Lee Ames, The (Europe)</description>
 		<rom name="Best of Draw 50 with Lee Ames, The (Europe) (Track 01).bin" size="426888000" crc="bd0516ed" md5="c59d900b84a12470b29d9b1c52e0b3f9" sha1="a5b3562034fd46e2eaeb4186b43b304a76404a6d"/>
 	</game>
-	<game name="Best of Draw 50 with Lee Ames, The (USA) (Beta)" sha1="5338c4d1aa9125569e3c49a57706b9077cced645" size="193384515" crc="c4445ee7" fullsha1="b9f217b52c08c597f71f3fa3dfebca863db20f99" dataSha1="eda3c3f7a1ad5273f2d4761d3398bd0add20ff99">
+	<game name="Best of Draw 50 with Lee Ames, The (USA) (Beta) (1992-12-16)" sha1="5338c4d1aa9125569e3c49a57706b9077cced645" size="193384515" crc="c4445ee7" fullsha1="b9f217b52c08c597f71f3fa3dfebca863db20f99" dataSha1="eda3c3f7a1ad5273f2d4761d3398bd0add20ff99">
 		<category>Games</category>
-		<description>Best of Draw 50 with Lee Ames, The (USA) (Beta)</description>
-		<rom name="Best of Draw 50 with Lee Ames, The (USA) (Beta) (Track 01).bin" size="427240800" crc="7f20b22b" md5="202c9697dbc8df823396ca5f2b8f78bb" sha1="311e207cb10feaa279b004ae24362f7a608442a8"/>
+		<description>Best of Draw 50 with Lee Ames, The (USA) (Beta) (1992-12-16)</description>
+		<rom name="Best of Draw 50 with Lee Ames, The (USA) (Beta) (1992-12-16) (Track 01).bin" size="427240800" crc="7f20b22b" md5="202c9697dbc8df823396ca5f2b8f78bb" sha1="311e207cb10feaa279b004ae24362f7a608442a8"/>
 	</game>
 	<game name="Best of Motives, The - Part One - Nobody Ever Tells Us (UK)" sha1="7fe092a9598a809f5c7827ccf5ee22306fbd598d" size="477532438" crc="459a44ed" fullsha1="d44ea3d90d461cf19e215eaa526ecae3ed5a278a" dataSha1="71c9dfc35df40d9777bdc653ffcc66d74c6db917">
 		<category>Games</category>
@@ -750,10 +755,10 @@
 		<description>Burn-Cycle (Italy) (Il Gioco)</description>
 		<rom name="Burn-Cycle (Italy) (Il Gioco) (Track 01).bin" size="740230848" crc="b1da9172" md5="3d3e6794ddb4bbb9eafd8c7d198bab8f" sha1="b43c1746d53dd5521acadbeccb71f5c30f7af0ce"/>
 	</game>
-	<game name="Burn-Cycle (USA) (Beta)" sha1="76dffea9cef99175e2e893554742381105f19451" size="460884037" crc="2c723ca5" fullsha1="cf20e674fbb4127fc4ad197428955049b59fa09f" dataSha1="9dbd12ac1242006353dea5d9d2a9581c32d8b26d">
+	<game name="Burn-Cycle (USA) (Beta) (1994-08-02)" sha1="76dffea9cef99175e2e893554742381105f19451" size="460884037" crc="2c723ca5" fullsha1="cf20e674fbb4127fc4ad197428955049b59fa09f" dataSha1="9dbd12ac1242006353dea5d9d2a9581c32d8b26d">
 		<category>Games</category>
-		<description>Burn-Cycle (USA) (Beta)</description>
-		<rom name="Burn-Cycle (USA) (Beta) (Track 01).bin" size="742056000" crc="eabfd1c5" md5="3c7f4d43de98fa19a611c89426055827" sha1="156907cc61b57ebba7680235988335facd84e2e2"/>
+		<description>Burn-Cycle (USA) (Beta) (1994-08-02)</description>
+		<rom name="Burn-Cycle (USA) (Beta) (1994-08-02) (Track 01).bin" size="742056000" crc="eabfd1c5" md5="3c7f4d43de98fa19a611c89426055827" sha1="156907cc61b57ebba7680235988335facd84e2e2"/>
 	</game>
 	<game name="C-ditabac - Faits et Mefaits du Tabac (France)" sha1="be175efa20f95c7c002210fdc871634583d0ff93" size="548784458" crc="b346c302" fullsha1="ffff606d22f6cd7238366a0585bf6b643c2b5eca" dataSha1="8afcf00d7c50b5619f5ea4a517deebe79942ffe4">
 		<category>Games</category>
@@ -1131,10 +1136,15 @@
 		<description>CD-i World ProSource 1.0 (UK)</description>
 		<rom name="CD-i World ProSource 1.0 (UK) (Track 01).bin" size="566768496" crc="a76b0ead" md5="30cd870bd8f3f487c9a0f0cb05e32346" sha1="7f3e524c617e2b50bb780e80880f0cc3d90e669d"/>
 	</game>
-	<game name="CD-i mit der Maus, Die - Auf dem Bauernhof (Germany) (Beta)" sha1="b42e7d3a4d444ace771bc1b087c753871bef12da" size="581622197" crc="4e0cf8a4" fullsha1="3aec94a5561889fd0f3b70ef67f37c058c2120ab" dataSha1="28804728294ca815bc0ee6b3bb90ab67e2f37d49">
+	<game name="CD-i mit der Maus, Die - Auf dem Bauernhof (Germany) (Beta) (1995-05-31)" sha1="b42e7d3a4d444ace771bc1b087c753871bef12da" size="581622197" crc="4e0cf8a4" fullsha1="3aec94a5561889fd0f3b70ef67f37c058c2120ab" dataSha1="28804728294ca815bc0ee6b3bb90ab67e2f37d49">
 		<category>Games</category>
-		<description>CD-i mit der Maus, Die - Auf dem Bauernhof (Germany) (Beta)</description>
-		<rom name="CD-i mit der Maus, Die - Auf dem Bauernhof (Germany) (Beta) (Track 01).bin" size="755521200" crc="c2af2d66" md5="9dc1fc6374a2ea119d9871c4e5aa7b45" sha1="9117f983fbfc6fb8a2496919b8732dcc4f88bbe6"/>
+		<description>CD-i mit der Maus, Die - Auf dem Bauernhof (Germany) (Beta) (1995-05-31)</description>
+		<rom name="CD-i mit der Maus, Die - Auf dem Bauernhof (Germany) (Beta) (1995-05-31) (Track 01).bin" size="755521200" crc="c2af2d66" md5="9dc1fc6374a2ea119d9871c4e5aa7b45" sha1="9117f983fbfc6fb8a2496919b8732dcc4f88bbe6"/>
+	</game>
+	<game name="CD-i mit der Maus, Die - Auf dem Bauernhof (Germany) (Beta) (1995-06-12)" sha1="36e5ed8d90cb0864eb38cfb4cd2c2603453f134c" size="568656958" crc="13568cdf" fullsha1="5d26ef65bfea1f3db679fa68f2c60764828dec50" dataSha1="468e71866ab4591f8547f619ded4678396aae3ba">
+		<category>Games</category>
+		<description>CD-i mit der Maus, Die - Auf dem Bauernhof (Germany) (Beta) (1995-06-12)</description>
+		<rom name="CD-i mit der Maus, Die - Auf dem Bauernhof (Germany) (Beta) (1995-06-12) (Track 01).bin" size="738939600" crc="1e4fc1b4" md5="a9ffbfbd61e4ab09953672090ca100ff" sha1="8fe4276d9c7266b7586f8846aa1db8b9d533f780"/>
 	</game>
 	<game name="CD-i voor Demonstratie van Breedbeeld TV (Netherlands)" sha1="7eed6a4889e92ea57ea804e5ff162112d1753103" size="537958765" crc="121ac09b" fullsha1="67a10a677e55d5134e7be05c9b7af7a4e6a26071" dataSha1="2a6ab2785220e3d9351dbe90bf32b8858567d950">
 		<category>Games</category>
@@ -1145,6 +1155,16 @@
 		<category>Games</category>
 		<description>CD-i voor Demonstratie van Breedbeeld TV (Netherlands) (Rev 1)</description>
 		<rom name="CD-i voor Demonstratie van Breedbeeld TV (Netherlands) (Rev 1) (Track 01).bin" size="602053200" crc="4312650b" md5="02e1bd1050b38cc70fa82fc870a8bde9" sha1="8e65fe74697863efe54e779d66a907e04d76a10f"/>
+	</game>
+	<game name="CD-i-Dent Patienteninformation Compact 4.0 (Germany) (Disc 1)" sha1="fab81de7c72f184080a5884d7e69befc440be427" size="457898883" crc="45af7a14" fullsha1="50edd925de5fc926aad4441b5841265e8e701226" dataSha1="46ef6057482d2aab305dba3609bbee1556f545ef">
+		<category>Games</category>
+		<description>CD-i-Dent Patienteninformation Compact 4.0 (Germany) (Disc 1)</description>
+		<rom name="CD-i-Dent Patienteninformation Compact 4.0 (Germany) (Disc 1) (Track 01).bin" size="593235552" crc="412ae4d0" md5="6bc7d9a846d893acd2957f3f6ea247db" sha1="e47971c2fa87bf3d048851f5e14a9cdceec48d64"/>
+	</game>
+	<game name="CD-i-Dent Patienteninformation Compact 4.0 (Germany) (Disc 2)" sha1="23f0cea685266b6931f6ca0a1c06f89fdde63168" size="466748386" crc="96e08e3f" fullsha1="26916fcbfca253f28d3fd14d31c0453494aa28a6" dataSha1="9d38c26e62e1b2aa21059b361d99b7252ae24358">
+		<category>Games</category>
+		<description>CD-i-Dent Patienteninformation Compact 4.0 (Germany) (Disc 2)</description>
+		<rom name="CD-i-Dent Patienteninformation Compact 4.0 (Germany) (Disc 2) (Track 01).bin" size="543175584" crc="9eac4437" md5="410ef8f0545ba73ea013337e963c3231" sha1="3d9126c465f5d37b0689a77b72c40666652ab504"/>
 	</game>
 	<game name="CDA - Ein Unternehmensportrait (Germany)" sha1="2cfb5c35f3c1f89c2f41295b9787012b9ed023a7" size="86221011" crc="514c93e6" fullsha1="af7d6310f6747b6fa4acf6dc60256326e083de93" dataSha1="4090911080a4e91d55e365317c8623095d0a64ac">
 		<category>Games</category>
@@ -2166,10 +2186,10 @@
 		<description>Caesars World of Boxing (France)</description>
 		<rom name="Caesars World of Boxing (France) (Track 01).bin" size="606801888" crc="d06cfa80" md5="aca30882883d6681edd2f25285893b34" sha1="89845c3b5c1802dc9071e6a3029a0a207e5ed713"/>
 	</game>
-	<game name="Caesars World of Boxing (USA) (Beta)" sha1="63ca73ce9d5b0e1ffd4903a803b8c19dfbb4ba24" size="513201664" crc="bf68e15c" fullsha1="7f692c7906f492045773091e23353c0484e6303b" dataSha1="29d23fbc3e6d5bca02b1ae7540c075cb95553cca">
+	<game name="Caesars World of Boxing (USA) (Beta) (1993-12-03)" sha1="63ca73ce9d5b0e1ffd4903a803b8c19dfbb4ba24" size="513201664" crc="bf68e15c" fullsha1="7f692c7906f492045773091e23353c0484e6303b" dataSha1="29d23fbc3e6d5bca02b1ae7540c075cb95553cca">
 		<category>Games</category>
-		<description>Caesars World of Boxing (USA) (Beta)</description>
-		<rom name="Caesars World of Boxing (USA) (Beta) (Track 01).bin" size="593233200" crc="c93c85de" md5="169ac250b2bfa25f0fb59fb1f9ebdd81" sha1="ad3fde412fd0c3705f33fd52fd27274a2fd96750"/>
+		<description>Caesars World of Boxing (USA) (Beta) (1993-12-03)</description>
+		<rom name="Caesars World of Boxing (USA) (Beta) (1993-12-03) (Track 01).bin" size="593233200" crc="c93c85de" md5="169ac250b2bfa25f0fb59fb1f9ebdd81" sha1="ad3fde412fd0c3705f33fd52fd27274a2fd96750"/>
 	</game>
 	<game name="Caesars World of Gambling (USA) (Rev 1)" sha1="b42b99572769a260022d9637840f5943925e51e8" size="98097891" crc="ab43483e" fullsha1="12129368d235ffe24dd059dca0fe8e7350e7cc2e" dataSha1="85380a208f9263df8891084e1f6e0b8386a21daf">
 		<category>Games</category>
@@ -2234,10 +2254,15 @@
 		<description>Cartoon Jukebox (Netherlands)</description>
 		<rom name="Cartoon Jukebox (Netherlands) (Track 01).bin" size="531434400" crc="625c5fe9" md5="635a4485363609d8fc00f24d66cac1bc" sha1="25afdf207edebf6f84c6d9c3d50e6dbd49af2fed"/>
 	</game>
-	<game name="Cartoon Jukebox (Netherlands) (Beta)" sha1="5feb6af63662a51fd16b12e063fc8e5815cdd73d" size="121171870" crc="9586716d" fullsha1="59461b7b3a8d46dc6aa2d53cd358ec168edf0759" dataSha1="fdd45d560d47dd0167a6764065a2835a610abeff">
+	<game name="Cartoon Jukebox (Netherlands) (Beta) (1992-07-23)" sha1="5feb6af63662a51fd16b12e063fc8e5815cdd73d" size="121171870" crc="9586716d" fullsha1="59461b7b3a8d46dc6aa2d53cd358ec168edf0759" dataSha1="fdd45d560d47dd0167a6764065a2835a610abeff">
 		<category>Games</category>
-		<description>Cartoon Jukebox (Netherlands) (Beta)</description>
-		<rom name="Cartoon Jukebox (Netherlands) (Beta) (Track 01).bin" size="531998880" crc="05cab77b" md5="62d9b9798c8e6bdf872071cf55cb8094" sha1="8eaa17557ad46e79f748bfcfa14b0e4b25286e3b"/>
+		<description>Cartoon Jukebox (Netherlands) (Beta) (1992-07-23)</description>
+		<rom name="Cartoon Jukebox (Netherlands) (Beta) (1992-07-23) (Track 01).bin" size="531998880" crc="05cab77b" md5="62d9b9798c8e6bdf872071cf55cb8094" sha1="8eaa17557ad46e79f748bfcfa14b0e4b25286e3b"/>
+	</game>
+	<game name="Cathedrales Gothiques d'Europe (France)" sha1="90b268db9d9376c94ca2a94a8fb732bdb4752843" size="488654065" crc="1b85022c" fullsha1="f37532b49f11396ab65d4641f7f8c82d73de9328" dataSha1="abf7d1d08de6f9f95bd79d644e19aa2ea89afd80">
+		<category>Games</category>
+		<description>Cathedrales Gothiques d'Europe (France)</description>
+		<rom name="Cathedrales Gothiques d'Europe (France) (Track 01).bin" size="673636320" crc="c4757e09" md5="9f22e64ca21d2c98bfa29bf580ae7655" sha1="e719857919ec8956065e6175858090fb7f0d8662"/>
 	</game>
 	<game name="Centurion - A Process of Change (Europe)" sha1="89dee00706c4548bc902d3af6be9b84fcf4d7377" size="567635588" crc="30aefa5f" fullsha1="498dbcfa3b616dd9408de2de873059e97de016b1" dataSha1="7fdde1a057525021cd78677d1209458292038dd6">
 		<category>Games</category>
@@ -2289,10 +2314,10 @@
 		<description>Child is Born, A (Europe) (Rev 1)</description>
 		<rom name="Child is Born, A (Europe) (Rev 1) (Track 01).bin" size="615400800" crc="60e11432" md5="a7b6735db22492428e71c62c3c7e87fc" sha1="af31625e698d4b5b924004c88f58b24a0680335b"/>
 	</game>
-	<game name="Christmas Crisis (Europe) (Beta)" sha1="f4a729d1df137480ee3c15006ce18b3719793b9d" size="26864060" crc="6f8f9232" fullsha1="017a50c0f04ae3480aff166acdc04fca1606f642" dataSha1="be0f7300c2401f4b8a7a7de5b14919d250c7c852">
+	<game name="Christmas Crisis (Europe) (Beta) (1995-09-25)" sha1="f4a729d1df137480ee3c15006ce18b3719793b9d" size="26864060" crc="6f8f9232" fullsha1="017a50c0f04ae3480aff166acdc04fca1606f642" dataSha1="be0f7300c2401f4b8a7a7de5b14919d250c7c852">
 		<category>Games</category>
-		<description>Christmas Crisis (Europe) (Beta)</description>
-		<rom name="Christmas Crisis (Europe) (Beta) (Track 01).bin" size="79203600" crc="85374b9c" md5="9f2d022bf960238fb6ae55463ac9a71f" sha1="973acf90e6a5643b2b900ac712bffb6a7f576c76"/>
+		<description>Christmas Crisis (Europe) (Beta) (1995-09-25)</description>
+		<rom name="Christmas Crisis (Europe) (Beta) (1995-09-25) (Track 01).bin" size="79203600" crc="85374b9c" md5="9f2d022bf960238fb6ae55463ac9a71f" sha1="973acf90e6a5643b2b900ac712bffb6a7f576c76"/>
 	</game>
 	<game name="Christmas Songbook, A ~ You Sing Christmas Favorites (Japan, Europe)" sha1="c90980d943e93462be56e56c32ba678f20704822" size="323665202" crc="da0492be" fullsha1="bc896b7f1a234370a0624b40f818592b39add07a" dataSha1="333e73efb652ff2bddf498995ef416b804d5ebc7">
 		<category>Games</category>
@@ -2330,20 +2355,20 @@
 		<description>Citta piu Felice del Mondo! di Richard Scarry, La (Italy)</description>
 		<rom name="Citta piu Felice del Mondo! di Richard Scarry, La (Italy) (Track 01).bin" size="246788304" crc="767d9baf" md5="e51edf467e3144ccfeaa2fd1ed4501d8" sha1="338ad39fce2907177fed94b6a2c930bd3624107c"/>
 	</game>
-	<game name="Classical Jukebox (USA) (Beta)" sha1="4cfbeee076a43b53636195c5451b2f79f3731005" size="392706170" crc="43226b92" fullsha1="dbf06760c8eff62058285351a387971f07a37f40" dataSha1="e669c35fe74d17f58bba505ecd1b7ba0c4d5a9c4">
+	<game name="Classical Jukebox (USA) (Beta) (1991-08-28)" sha1="4cfbeee076a43b53636195c5451b2f79f3731005" size="392706170" crc="43226b92" fullsha1="dbf06760c8eff62058285351a387971f07a37f40" dataSha1="e669c35fe74d17f58bba505ecd1b7ba0c4d5a9c4">
 		<category>Games</category>
-		<description>Classical Jukebox (USA) (Beta)</description>
-		<rom name="Classical Jukebox (USA) (Beta) (Track 01).bin" size="636898080" crc="89ddcf0a" md5="455d7064fd7a7be1579292978e0c39f7" sha1="8cc3b9d1a5ad30d6c8891d882d817f7e21579e02"/>
+		<description>Classical Jukebox (USA) (Beta) (1991-08-28)</description>
+		<rom name="Classical Jukebox (USA) (Beta) (1991-08-28) (Track 01).bin" size="636898080" crc="89ddcf0a" md5="455d7064fd7a7be1579292978e0c39f7" sha1="8cc3b9d1a5ad30d6c8891d882d817f7e21579e02"/>
 	</game>
 	<game name="Clue - The Mysteries Continue (USA)" sha1="043afd700c20d56c50e62d7f33e88141051a2436" size="568131526" crc="a0c3b1a9" fullsha1="033ba320dbcda5c9d14e4f6461172a14c9382995" dataSha1="9f03ed615be06a0c510f81256aa66ab789c6bdc0">
 		<category>Games</category>
 		<description>Clue - The Mysteries Continue (USA)</description>
 		<rom name="Clue - The Mysteries Continue (USA) (Track 01).bin" size="654267600" crc="119c152e" md5="47e0508381d9f5ba95f0738bfe1353a1" sha1="869bf6348ef70fc3fbe6ba11c96a3062eed2537e"/>
 	</game>
-	<game name="Cluedo - The Mystery Continues (Europe) (Beta)" sha1="328e7b41221231cb5819d6c965202877303c31cb" size="568775845" crc="8fab4cae" fullsha1="5e479adc3f637692f8d2b5e8345017454175b6b1" dataSha1="3aa377a5205ae2b5bce2bafd483bc412f3130076">
+	<game name="Cluedo - The Mystery Continues (Europe) (Beta) (1995-06-12)" sha1="328e7b41221231cb5819d6c965202877303c31cb" size="568775845" crc="8fab4cae" fullsha1="5e479adc3f637692f8d2b5e8345017454175b6b1" dataSha1="3aa377a5205ae2b5bce2bafd483bc412f3130076">
 		<category>Games</category>
-		<description>Cluedo - The Mystery Continues (Europe) (Beta)</description>
-		<rom name="Cluedo - The Mystery Continues (Europe) (Beta) (Track 01).bin" size="653385600" crc="3d14ad64" md5="d1fc7ac7efb809893251f5d6aa753371" sha1="35b8b920b2e8b35e537a4c8833fb62962a22e26e"/>
+		<description>Cluedo - The Mystery Continues (Europe) (Beta) (1995-06-12)</description>
+		<rom name="Cluedo - The Mystery Continues (Europe) (Beta) (1995-06-12) (Track 01).bin" size="653385600" crc="3d14ad64" md5="d1fc7ac7efb809893251f5d6aa753371" sha1="35b8b920b2e8b35e537a4c8833fb62962a22e26e"/>
 	</game>
 	<game name="Coach, The (UK)" sha1="04eb9c6b0d14a911002e3a63b7d6154c89e11c96" size="391495856" crc="c047da5c" fullsha1="81d8674fe54a30bdbc7ec590cfcf7e71250e99b6" dataSha1="b015c9dbb8f8ba06a65338c83ee6f56f3657c67c">
 		<category>Games</category>
@@ -2395,10 +2420,10 @@
 		<description>Concept of Clustering, The (Europe)</description>
 		<rom name="Concept of Clustering, The (Europe) (Track 01).bin" size="268128000" crc="c286daad" md5="2ccfc04a0281258c59efff2443e5f5ba" sha1="fd52cf433e18ee17a0cb72fb33bf40bd8fd871ac"/>
 	</game>
-	<game name="Concise Oxford Dictionary &amp; Oxford Thesaurus, The (Europe) (Beta)" sha1="e4856aaf46b3af42fc6aae43c1f449286a31dbef" size="450696793" crc="7a3c917c" fullsha1="e9bcacec17aeb223adf38624386c2508168b057c" dataSha1="2899fa0fcbe62705025848147ab130e738b90163">
+	<game name="Concise Oxford Dictionary &amp; Oxford Thesaurus, The (Europe) (Beta) (1994-09-20)" sha1="e4856aaf46b3af42fc6aae43c1f449286a31dbef" size="450696793" crc="7a3c917c" fullsha1="e9bcacec17aeb223adf38624386c2508168b057c" dataSha1="2899fa0fcbe62705025848147ab130e738b90163">
 		<category>Games</category>
-		<description>Concise Oxford Dictionary &amp; Oxford Thesaurus, The (Europe) (Beta)</description>
-		<rom name="Concise Oxford Dictionary &amp; Oxford Thesaurus, The (Europe) (Beta) (Track 01).bin" size="602582400" crc="89b72e7a" md5="efaa38b2f4affdb04cc66a9ac1771c04" sha1="41d0333c3f1412bd370143ad62d320838618c539"/>
+		<description>Concise Oxford Dictionary &amp; Oxford Thesaurus, The (Europe) (Beta) (1994-09-20)</description>
+		<rom name="Concise Oxford Dictionary &amp; Oxford Thesaurus, The (Europe) (Beta) (1994-09-20) (Track 01).bin" size="602582400" crc="89b72e7a" md5="efaa38b2f4affdb04cc66a9ac1771c04" sha1="41d0333c3f1412bd370143ad62d320838618c539"/>
 	</game>
 	<game name="Conduite dans des Conditions Difficiles, La (France)" sha1="cbff0a1d99c3fa78e4ca8e770b61bfba75a46832" size="576956454" crc="f9521541" fullsha1="63eb3856fde4b94d3c7a4047eeaf333ab7305f86" dataSha1="9caba98f0dd6a8e8dc71b6cb2b51ebce01b7a1fe">
 		<category>Games</category>
@@ -2663,10 +2688,10 @@
 		<description>Dictionnaire Hachette Multimedia (France) (1995) (Version Digital Video)</description>
 		<rom name="Dictionnaire Hachette Multimedia (France) (1995) (Version Digital Video) (Track 01).bin" size="780181920" crc="15296b91" md5="68af3de6ac89a4459299eb89edd1484f" sha1="a28d40517a2cf045e492491cb0023b29e59dc4dd"/>
 	</game>
-	<game name="Dictionnaire Hachette Multimedia (France) (Beta)" sha1="2560f350e16d6db13be96af6d2f7976c1c0d3863" size="421719971" crc="76779c13" fullsha1="c0f4b8b8ddf4b666d90a396c4adef873e56ee4c8" dataSha1="08918d04feada6dba45867569894aa056620bc3e">
+	<game name="Dictionnaire Hachette Multimedia (France) (Beta) (1993-12-10)" sha1="2560f350e16d6db13be96af6d2f7976c1c0d3863" size="421719971" crc="76779c13" fullsha1="c0f4b8b8ddf4b666d90a396c4adef873e56ee4c8" dataSha1="08918d04feada6dba45867569894aa056620bc3e">
 		<category>Games</category>
-		<description>Dictionnaire Hachette Multimedia (France) (Beta)</description>
-		<rom name="Dictionnaire Hachette Multimedia (France) (Beta) (Track 01).bin" size="720982080" crc="cbaec5be" md5="cd70688b1c52682bfc6bb0ddc1c7d029" sha1="ae399dc4e0e6b409ca99c27e1d1eda9f1da8ad6a"/>
+		<description>Dictionnaire Hachette Multimedia (France) (Beta) (1993-12-10)</description>
+		<rom name="Dictionnaire Hachette Multimedia (France) (Beta) (1993-12-10) (Track 01).bin" size="720982080" crc="cbaec5be" md5="cd70688b1c52682bfc6bb0ddc1c7d029" sha1="ae399dc4e0e6b409ca99c27e1d1eda9f1da8ad6a"/>
 	</game>
 	<game name="Dictionnaire Hachette Multimedia (France) (Demo)" sha1="018bc8ac896a4fafabab070437d792665ad1988f" size="17738720" crc="8ffe1575" fullsha1="5006f50c866afff2a08cf3537fb32adc2fd38874" dataSha1="66318089b8903ee0aeb864b0a3d4652d599a2ea1">
 		<category>Games</category>
@@ -2933,10 +2958,10 @@
 		<description>Ecolauto - No 5 - Tests Codoroute (France)</description>
 		<rom name="Ecolauto - No 5 - Tests Codoroute (France) (Track 01).bin" size="666620304" crc="52d7088f" md5="81e8995d37a0c40c875dcb70945a03cd" sha1="515aa1dfd1b671e8ccb9d68de04fff7ed62445cb"/>
 	</game>
-	<game name="Effectief Communiceren I - School Version (Netherlands) (Beta)" sha1="ec5605161bd1714f3df2b700ac75cd3ef34b1cfb" size="655860735" crc="c6335c5a" fullsha1="11c5875734bf004cb41b99f7184b1cf4bdfad836" dataSha1="95576cb2b66071a7be93af0d1d378d0deb68a960">
+	<game name="Effectief Communiceren I - School Version (Netherlands) (Beta) (1994-07-12)" sha1="ec5605161bd1714f3df2b700ac75cd3ef34b1cfb" size="655860735" crc="c6335c5a" fullsha1="11c5875734bf004cb41b99f7184b1cf4bdfad836" dataSha1="95576cb2b66071a7be93af0d1d378d0deb68a960">
 		<category>Games</category>
-		<description>Effectief Communiceren I - School Version (Netherlands) (Beta)</description>
-		<rom name="Effectief Communiceren I - School Version (Netherlands) (Beta) (Track 01).bin" size="775976544" crc="2873251f" md5="e21a3b79ce2c423eaee5fdf87af234cd" sha1="a5d914c91214d66da78dc60581c00faaaeb462bc"/>
+		<description>Effectief Communiceren I - School Version (Netherlands) (Beta) (1994-07-12)</description>
+		<rom name="Effectief Communiceren I - School Version (Netherlands) (Beta) (1994-07-12) (Track 01).bin" size="775976544" crc="2873251f" md5="e21a3b79ce2c423eaee5fdf87af234cd" sha1="a5d914c91214d66da78dc60581c00faaaeb462bc"/>
 	</game>
 	<game name="Electronic Art Gallery - Funkausstellung Berlin 1991 (Germany)" sha1="2090fa80736062bec595f3cade0e79f295013165" size="3223156" crc="060ecab2" fullsha1="101ec04db98f09420edec0197d318c5474d9ef6f" dataSha1="824c61246f3c8f5065423a80127accf2a6e7f790">
 		<category>Games</category>
@@ -3133,10 +3158,10 @@
 		<description>English Interactive (Korea) (Disc 9) (Units 25-27)</description>
 		<rom name="English Interactive (Korea) (Disc 9) (Units 25-27) (Track 01).bin" size="584065104" crc="b550fe37" md5="8d52b00e2ad2fbae9f96d31631e8f10b" sha1="c4c65b7ef95d65567a0818000e4b306970512a6d"/>
 	</game>
-	<game name="Enkhuizer Almanak 1997 (Netherlands) (Beta)" sha1="89c06d1c5c6f480f11431380f9468eb48b006fb5" size="122196450" crc="ba815046" fullsha1="6fd30f8ad39d7cf3bb925d1064570a58d6d242e9" dataSha1="44ea7c89096711c85f4f5295aca0d2470d0a62a1">
+	<game name="Enkhuizer Almanak 1997 (Netherlands) (Beta) (1996-10-14)" sha1="89c06d1c5c6f480f11431380f9468eb48b006fb5" size="122196450" crc="ba815046" fullsha1="6fd30f8ad39d7cf3bb925d1064570a58d6d242e9" dataSha1="44ea7c89096711c85f4f5295aca0d2470d0a62a1">
 		<category>Games</category>
-		<description>Enkhuizer Almanak 1997 (Netherlands) (Beta)</description>
-		<rom name="Enkhuizer Almanak 1997 (Netherlands) (Beta) (Track 01).bin" size="284008704" crc="03cb85a4" md5="c03abc658995a876f96594f1455f3fa7" sha1="5f838eecaa8eb55176c7224bea661454c2a9cb97"/>
+		<description>Enkhuizer Almanak 1997 (Netherlands) (Beta) (1996-10-14)</description>
+		<rom name="Enkhuizer Almanak 1997 (Netherlands) (Beta) (1996-10-14) (Track 01).bin" size="284008704" crc="03cb85a4" md5="c03abc658995a876f96594f1455f3fa7" sha1="5f838eecaa8eb55176c7224bea661454c2a9cb97"/>
 	</game>
 	<game name="Ennio Morricone - Vidi Aquam id est Benacum (Italy) (En,De,It)" sha1="45ac0c95734e26b959067cd3f5386d576ee6c1c4" size="393043196" crc="8840f40f" fullsha1="e4be342302dd146bd6b2c4a9f88bb4b42a8906a6" dataSha1="89098f136455e74ba74e140646e3f5912b6cd856">
 		<category>Games</category>
@@ -3145,15 +3170,15 @@
 		<rom name="Ennio Morricone - Vidi Aquam id est Benacum (Italy) (En,De,It) (Track 02).bin" size="113413440" crc="d2f3f82f" md5="27556a0884fc63a18e5c5e4c724fed62" sha1="00d78493fe78276b817336432d2a1368c102b803"/>
 		<rom name="Ennio Morricone - Vidi Aquam id est Benacum (Italy) (En,De,It) (Track 03).bin" size="66502800" crc="60ce146c" md5="5e19dfe6cc679de73f6f5111faff1d43" sha1="89646ccaef2c1c20b099a39b40d5dfad5f75eb06"/>
 	</game>
-	<game name="Escape from CyberCity (Europe) (Beta)" sha1="27fe39df750b0451e4ca3f42692515a9249fd775" size="113105875" crc="efad6d5e" fullsha1="daef51f0f51a159f453609a69dfb5984d9979cf1" dataSha1="5429aa9990bca79c0ca4429a2f0ce6b17ffe1c44">
+	<game name="Escape from CyberCity (Europe) (Beta) (1992-04-03)" sha1="27fe39df750b0451e4ca3f42692515a9249fd775" size="113105875" crc="efad6d5e" fullsha1="daef51f0f51a159f453609a69dfb5984d9979cf1" dataSha1="5429aa9990bca79c0ca4429a2f0ce6b17ffe1c44">
 		<category>Games</category>
-		<description>Escape from CyberCity (Europe) (Beta)</description>
-		<rom name="Escape from CyberCity (Europe) (Beta) (Track 01).bin" size="472164000" crc="12388e8a" md5="a7accdf0aef2cc72e91f58c946ef23f6" sha1="069811e47df374cac8904d2cdfe722736b491687"/>
+		<description>Escape from CyberCity (Europe) (Beta) (1992-04-03)</description>
+		<rom name="Escape from CyberCity (Europe) (Beta) (1992-04-03) (Track 01).bin" size="472164000" crc="12388e8a" md5="a7accdf0aef2cc72e91f58c946ef23f6" sha1="069811e47df374cac8904d2cdfe722736b491687"/>
 	</game>
-	<game name="Eureka - Gutenberg - L'Imprimerie et Ses Precurseurs (France) (Beta)" sha1="2ab9f268763a3fa7ff6427a4b88ea10633b453a4" size="60064690" crc="5951f5c9" fullsha1="32ebda12fb1d117e2403b298d0892a5813e122c5" dataSha1="b36b9959720e4e68e554cea1f24f1e5e20af046d">
+	<game name="Eureka - Gutenberg - L'Imprimerie et Ses Precurseurs (France) (Beta) (1996-05-22)" sha1="2ab9f268763a3fa7ff6427a4b88ea10633b453a4" size="60064690" crc="5951f5c9" fullsha1="32ebda12fb1d117e2403b298d0892a5813e122c5" dataSha1="b36b9959720e4e68e554cea1f24f1e5e20af046d">
 		<category>Games</category>
-		<description>Eureka - Gutenberg - L'Imprimerie et Ses Precurseurs (France) (Beta)</description>
-		<rom name="Eureka - Gutenberg - L'Imprimerie et Ses Precurseurs (France) (Beta) (Track 01).bin" size="115370304" crc="f86d5e51" md5="d9e9e82f844e6158b876c4041d4c398c" sha1="4535f23b0a96491f2343af9e2a68d91c49c9b9f5"/>
+		<description>Eureka - Gutenberg - L'Imprimerie et Ses Precurseurs (France) (Beta) (1996-05-22)</description>
+		<rom name="Eureka - Gutenberg - L'Imprimerie et Ses Precurseurs (France) (Beta) (1996-05-22) (Track 01).bin" size="115370304" crc="f86d5e51" md5="d9e9e82f844e6158b876c4041d4c398c" sha1="4535f23b0a96491f2343af9e2a68d91c49c9b9f5"/>
 	</game>
 	<game name="European CD-i Association, The - CD-i Presentation (Europe)" sha1="b370328b61af4b9cd2440c91c1afddf2f9493f86" size="25536315" crc="663db444" fullsha1="6f56bee866576f53f2f9b103b37365bc7c371366" dataSha1="75b8c5d5b8a8c1cc69e95760bdf7db223f81c907">
 		<category>Games</category>
@@ -3165,15 +3190,15 @@
 		<description>European School, The (Europe)</description>
 		<rom name="European School, The (Europe) (Track 01).bin" size="156831360" crc="c2736208" md5="616d1b29242410dce21c15bc72e432be" sha1="0dbdb89123ef258aff60c1d6a78115ec58fc33de"/>
 	</game>
-	<game name="Everything You Always Wanted to Ask John Hawkins (Netherlands) (Proto)" sha1="265ddf4e69c72ab0b4413cc8b10aeccd7c303514" size="175680167" crc="3e7f60fa" fullsha1="3f0f04ec15154d1d089a0e60a69f7c5ca0966295" dataSha1="bd7cd6948944e8c6e09ab4be6447127ea07f322c">
+	<game name="Everything You Always Wanted to Ask John Hawkins (Netherlands) (Proto) (1993-05-27)" sha1="265ddf4e69c72ab0b4413cc8b10aeccd7c303514" size="175680167" crc="3e7f60fa" fullsha1="3f0f04ec15154d1d089a0e60a69f7c5ca0966295" dataSha1="bd7cd6948944e8c6e09ab4be6447127ea07f322c">
 		<category>Games</category>
-		<description>Everything You Always Wanted to Ask John Hawkins (Netherlands) (Proto)</description>
-		<rom name="Everything You Always Wanted to Ask John Hawkins (Netherlands) (Proto) (Track 01).bin" size="200214000" crc="f6933ada" md5="5d031cda3350262c9f5706c0849ea83d" sha1="44a8bc63d1e20221e759ee4f62b4f7be803543dd"/>
+		<description>Everything You Always Wanted to Ask John Hawkins (Netherlands) (Proto) (1993-05-27)</description>
+		<rom name="Everything You Always Wanted to Ask John Hawkins (Netherlands) (Proto) (1993-05-27) (Track 01).bin" size="200214000" crc="f6933ada" md5="5d031cda3350262c9f5706c0849ea83d" sha1="44a8bc63d1e20221e759ee4f62b4f7be803543dd"/>
 	</game>
-	<game name="Everything You Always Wanted to Ask John Hawkins (Netherlands) (Proto) (Rev 1)" sha1="7d418eb5d7d5f8364dd93d981470744659408315" size="173783104" crc="d5a3e300" fullsha1="9dda38fdee1a305b0f1e48ab1348271ae03805ab" dataSha1="b59b1c94d6b5264f8c72eb0ab5e9731e4e5e1404">
+	<game name="Everything You Always Wanted to Ask John Hawkins (Netherlands) (Proto) (1993-05-28)" sha1="7d418eb5d7d5f8364dd93d981470744659408315" size="173783104" crc="d5a3e300" fullsha1="9dda38fdee1a305b0f1e48ab1348271ae03805ab" dataSha1="b59b1c94d6b5264f8c72eb0ab5e9731e4e5e1404">
 		<category>Games</category>
-		<description>Everything You Always Wanted to Ask John Hawkins (Netherlands) (Proto) (Rev 1)</description>
-		<rom name="Everything You Always Wanted to Ask John Hawkins (Netherlands) (Proto) (Rev 1) (Track 01).bin" size="184867200" crc="baaa8a27" md5="ac7104569103cfd1b7e525576be77286" sha1="6e6e03849a4b5126f6b7ca7bbc9b5a2a5cf1383f"/>
+		<description>Everything You Always Wanted to Ask John Hawkins (Netherlands) (Proto) (1993-05-28)</description>
+		<rom name="Everything You Always Wanted to Ask John Hawkins (Netherlands) (Proto) (1993-05-28) (Track 01).bin" size="184867200" crc="baaa8a27" md5="ac7104569103cfd1b7e525576be77286" sha1="6e6e03849a4b5126f6b7ca7bbc9b5a2a5cf1383f"/>
 	</game>
 	<game name="Everything You Ever Wanted to Know About CD-i (Europe)" sha1="1273d34cb7aa325476817e69ddfbaa628d3d98c5" size="401519932" crc="c82b4fb3" fullsha1="bc3ddceb6ff0188e85ab035b5d89edf67da35adb" dataSha1="8a1b4b2fd8e5ad5f57c7e28a98d3294e004032a4">
 		<category>Games</category>
@@ -3237,10 +3262,10 @@
 		<description>Face Kitchen (Europe) (Rev 1)</description>
 		<rom name="Face Kitchen (Europe) (Rev 1) (Track 01).bin" size="366037056" crc="8db75daa" md5="2e769b79382b41f9c8aebf0d1b6b4507" sha1="ddb63683fe8fdbc6480e61702d4a58d796cd98f2"/>
 	</game>
-	<game name="Face Kitchen (UK) (Beta)" sha1="1c6818ee9a7a5a600d0f5af35f1df9a85412fc1f" size="117639757" crc="414bbef8" fullsha1="f92b9d645b6284adbc29c10a4577aa7227f30d51" dataSha1="5def287e0c74adcaf768635a2e2420d5ae5fbda5">
+	<game name="Face Kitchen (UK) (Beta) (1992-10-26)" sha1="1c6818ee9a7a5a600d0f5af35f1df9a85412fc1f" size="117639757" crc="414bbef8" fullsha1="f92b9d645b6284adbc29c10a4577aa7227f30d51" dataSha1="5def287e0c74adcaf768635a2e2420d5ae5fbda5">
 		<category>Games</category>
-		<description>Face Kitchen (UK) (Beta)</description>
-		<rom name="Face Kitchen (UK) (Beta) (Track 01).bin" size="366041760" crc="37076458" md5="ef2cbc6f01c92b26ce766567f88f2189" sha1="30e8de18da07ba1fc003d98f4c2495435217b11f"/>
+		<description>Face Kitchen (UK) (Beta) (1992-10-26)</description>
+		<rom name="Face Kitchen (UK) (Beta) (1992-10-26) (Track 01).bin" size="366041760" crc="37076458" md5="ef2cbc6f01c92b26ce766567f88f2189" sha1="30e8de18da07ba1fc003d98f4c2495435217b11f"/>
 	</game>
 	<game name="Facom F96 (France)" sha1="47eedf319b4a34f66fb0f37be02aa619079cc9cf" size="375810741" crc="74eb7a71" fullsha1="8fa91e2fda0bdf59ce203454402b7e938ec6f34a" dataSha1="25afdd046ac5e212d8a51a00254fab86e99cbe00">
 		<category>Games</category>
@@ -3332,10 +3357,10 @@
 		<description>Family Games I (Europe)</description>
 		<rom name="Family Games I (Europe) (Track 01).bin" size="248371200" crc="7990d836" md5="89aaee2b3ce6ae38a79f26beb58d1b65" sha1="659c82be342fcdc8fb3907a6bd92db88bc2d2537"/>
 	</game>
-	<game name="Family Games II - Junkfood Jive (Europe) (Beta)" sha1="f6fb249c87ebd1f57b5b3cfb531877d884b3a920" size="106353235" crc="b434e85b" fullsha1="51cd3d2002e7ee81edb9457d238c41e5a70d1702" dataSha1="df186c7ff21f78ab719111ebdd03ebf34da5ade0">
+	<game name="Family Games II - Junkfood Jive (Europe) (Beta) (1995-06-12)" sha1="f6fb249c87ebd1f57b5b3cfb531877d884b3a920" size="106353235" crc="b434e85b" fullsha1="51cd3d2002e7ee81edb9457d238c41e5a70d1702" dataSha1="df186c7ff21f78ab719111ebdd03ebf34da5ade0">
 		<category>Games</category>
-		<description>Family Games II - Junkfood Jive (Europe) (Beta)</description>
-		<rom name="Family Games II - Junkfood Jive (Europe) (Beta) (Track 01).bin" size="397252800" crc="da87205d" md5="a6059afc11671fb1264b308fd15518e6" sha1="b10d4ba32daaebed8a25cbfb5f2ea2db27382b7a"/>
+		<description>Family Games II - Junkfood Jive (Europe) (Beta) (1995-06-12)</description>
+		<rom name="Family Games II - Junkfood Jive (Europe) (Beta) (1995-06-12) (Track 01).bin" size="397252800" crc="da87205d" md5="a6059afc11671fb1264b308fd15518e6" sha1="b10d4ba32daaebed8a25cbfb5f2ea2db27382b7a"/>
 	</game>
 	<game name="Fatal Attraction (Europe) (Disc 1)" sha1="8d8fe51482d7fa0193f0cc640bd7f4e981b380f3" size="555755103" crc="01a783e6" fullsha1="842acf68267097f3f22c5594874698f412a4c93c" dataSha1="8b5eb6adcbdf4a38bda2e7b923120bc7d3368b81">
 		<category>Games</category>
@@ -3357,10 +3382,10 @@
 		<description>Fatal Attraction (Netherlands) (Disc 2)</description>
 		<rom name="Fatal Attraction (Netherlands) (Disc 2) (Track 01).bin" size="608674080" crc="644171b1" md5="eed2e62e03ba8feb3c69508d0a174cb6" sha1="9fa13173dcf1ac2f6b477ac07fcfc67f436fb7ce"/>
 	</game>
-	<game name="Felix the Cat's Giant Electronic Comic Book (Europe) (Proto)" sha1="4a7774fd215f67ccb4f9afd9ee949fe4dc6ba071" size="196375401" crc="7e2e6d86" fullsha1="dfdc926de786de0dbbb78da2c5ad770eb1c1739e" dataSha1="4949420a2d1a6194ba19be60fdd4c1750b4513fe">
+	<game name="Felix the Cat's Giant Electronic Comic Book (Europe) (Proto) (1995-10-19)" sha1="4a7774fd215f67ccb4f9afd9ee949fe4dc6ba071" size="196375401" crc="7e2e6d86" fullsha1="dfdc926de786de0dbbb78da2c5ad770eb1c1739e" dataSha1="4949420a2d1a6194ba19be60fdd4c1750b4513fe">
 		<category>Games</category>
-		<description>Felix the Cat's Giant Electronic Comic Book (Europe) (Proto)</description>
-		<rom name="Felix the Cat's Giant Electronic Comic Book (Europe) (Proto) (Track 01).bin" size="609995904" crc="7082f42b" md5="a9c39cba7acc391c4f2eef0a3143c8b8" sha1="57ff84d96c7e13295a6e2b0ecb61a255d8a38940"/>
+		<description>Felix the Cat's Giant Electronic Comic Book (Europe) (Proto) (1995-10-19)</description>
+		<rom name="Felix the Cat's Giant Electronic Comic Book (Europe) (Proto) (1995-10-19) (Track 01).bin" size="609995904" crc="7082f42b" md5="a9c39cba7acc391c4f2eef0a3143c8b8" sha1="57ff84d96c7e13295a6e2b0ecb61a255d8a38940"/>
 	</game>
 	<game name="Felix the Cat's Giant Electronic Comic Book (USA, Europe) (Unl)" sha1="73f0e18efb415aecef8e3061a97dca21d549bbda" size="202285143" crc="22cea5f0" fullsha1="5017fb04e40b14d285fdcd5cd17c5ce36f7cf3f3" dataSha1="a1464c059b621809af00144160e1a098d79078f5">
 		<category>Games</category>
@@ -3407,20 +3432,20 @@
 		<description>Fischer Tennis - Collection 94-95 (Austria)</description>
 		<rom name="Fischer Tennis - Collection 94-95 (Austria) (Track 01).bin" size="532020048" crc="24ad4360" md5="7e6e8be3fe4daba57e742ea9011f60bd" sha1="0a401521277f2f8b3f40e9f92da958917664e5b2"/>
 	</game>
-	<game name="Flashback (Europe) (Beta)" sha1="289a525c43ff7c449763118b7053c392ee79a459" size="91859954" crc="144d2681" fullsha1="f2bfd8848c3fa449fa2ce1d633862604a7651aed" dataSha1="6824680249b15db797733aeeb0b44a0677658d05">
+	<game name="Flashback (Europe) (Beta) (1994-12-21)" sha1="289a525c43ff7c449763118b7053c392ee79a459" size="91859954" crc="144d2681" fullsha1="f2bfd8848c3fa449fa2ce1d633862604a7651aed" dataSha1="6824680249b15db797733aeeb0b44a0677658d05">
 		<category>Games</category>
-		<description>Flashback (Europe) (Beta)</description>
-		<rom name="Flashback (Europe) (Beta) (Track 01).bin" size="411717600" crc="5d8e906e" md5="7dcf73c654dcfcdc64be9677d981508e" sha1="db2df7965df0e9295a0e57d077ba74cd0ddb3566"/>
+		<description>Flashback (Europe) (Beta) (1994-12-21)</description>
+		<rom name="Flashback (Europe) (Beta) (1994-12-21) (Track 01).bin" size="411717600" crc="5d8e906e" md5="7dcf73c654dcfcdc64be9677d981508e" sha1="db2df7965df0e9295a0e57d077ba74cd0ddb3566"/>
 	</game>
 	<game name="Flashback (USA)" sha1="9ca4e24b4d020b2ce37f897588f72292cd2c633b" size="83518174" crc="7ca4dab5" fullsha1="63652a8604ae2246cf3a734615de1c8a79e470bd" dataSha1="f1cf125fb0223cc7e4d37cff6fa98afbafc673a5">
 		<category>Games</category>
 		<description>Flashback (USA)</description>
 		<rom name="Flashback (USA) (Track 01).bin" size="259837200" crc="8dafbb6f" md5="21fed9599beebe8f37b93ecf28b41521" sha1="7720478f3d2a9b80d4bb6ca1953bcc72612fbc71"/>
 	</game>
-	<game name="Flight - The Universal Dream (USA) (Proto)" sha1="113687f5daedfbe03fb6f389857d95e648993c4d" size="334717023" crc="6899b0c8" fullsha1="c9cef32a3c979a008c17dd4f2a9238d1a5a1c70b" dataSha1="d30354f2caf1439da84641cc36379d9457091450">
+	<game name="Flight - The Universal Dream (USA) (Proto) (1993-08-12)" sha1="113687f5daedfbe03fb6f389857d95e648993c4d" size="334717023" crc="6899b0c8" fullsha1="c9cef32a3c979a008c17dd4f2a9238d1a5a1c70b" dataSha1="d30354f2caf1439da84641cc36379d9457091450">
 		<category>Games</category>
-		<description>Flight - The Universal Dream (USA) (Proto)</description>
-		<rom name="Flight - The Universal Dream (USA) (Proto) (Track 01).bin" size="780111360" crc="deceb66e" md5="accbdcb0e1d6ed37c164a66831838d71" sha1="94c9fc8438ff103fd588ba10d733190ff4d1f798"/>
+		<description>Flight - The Universal Dream (USA) (Proto) (1993-08-12)</description>
+		<rom name="Flight - The Universal Dream (USA) (Proto) (1993-08-12) (Track 01).bin" size="780111360" crc="deceb66e" md5="accbdcb0e1d6ed37c164a66831838d71" sha1="94c9fc8438ff103fd588ba10d733190ff4d1f798"/>
 	</game>
 	<game name="Follow Your Dreams (Germany)" sha1="e824cbd0cb67d09de3cdd39dbe42528ce7117f1c" size="194131316" crc="5e2535dc" fullsha1="e891a83c1e1ec39a90c04c380ef11032b70c92a9" dataSha1="611b5822ead50525dc97e0f8d2054853df650888">
 		<category>Games</category>
@@ -3442,10 +3467,10 @@
 		<description>Football (Europe)</description>
 		<rom name="Football (Europe) (Track 01).bin" size="762753600" crc="03b16b15" md5="2f2c52b5242c6da1e64e087c4d61e401" sha1="b8113107b1d983ffc8da63eed8ad0d534741895e"/>
 	</game>
-	<game name="Football (Europe) (Beta)" sha1="b4761a0880f9e48729f07ab87f9f88632536dc4b" size="510558499" crc="247b785b" fullsha1="a5e6d44c61a8a9ed9cfecb583ab6c818061a1527" dataSha1="fa91d7272913cc0cb08325fe328f7ac221753888">
+	<game name="Football (Europe) (Beta) (1994-07-05)" sha1="b4761a0880f9e48729f07ab87f9f88632536dc4b" size="510558499" crc="247b785b" fullsha1="a5e6d44c61a8a9ed9cfecb583ab6c818061a1527" dataSha1="fa91d7272913cc0cb08325fe328f7ac221753888">
 		<category>Games</category>
-		<description>Football (Europe) (Beta)</description>
-		<rom name="Football (Europe) (Beta) (Track 01).bin" size="752346000" crc="0c80f52c" md5="186bc9c3db0357b6ea058cf21a6f633c" sha1="200bd30d74d560b04fe5e4eadba58ff25dbe9b87"/>
+		<description>Football (Europe) (Beta) (1994-07-05)</description>
+		<rom name="Football (Europe) (Beta) (1994-07-05) (Track 01).bin" size="752346000" crc="0c80f52c" md5="186bc9c3db0357b6ea058cf21a6f633c" sha1="200bd30d74d560b04fe5e4eadba58ff25dbe9b87"/>
 	</game>
 	<game name="Foqus (Sweden)" sha1="81da46c660a4e3967a24a42d91e8c381837f335c" size="70398596" crc="bfbf5a2c" fullsha1="5ce54cb203d1fa303ca217918334eaa95a58bee5" dataSha1="a5b821d6f2b2d991ae62b4e666de4be58b7b6e27">
 		<category>Games</category>
@@ -3668,10 +3693,10 @@
 		<description>Golf Tips (Europe) (En,Ja)</description>
 		<rom name="Golf Tips (Europe) (En,Ja) (Track 01).bin" size="417009600" crc="bcca225e" md5="543e6f1e7debd71893bf99d88c67c3ff" sha1="a6c580df0120f0087ad586cb91eaafed35b0dae1"/>
 	</game>
-	<game name="Golf Tips (Europe) (En,Ja) (Beta)" sha1="b5bbb4a12a0f8787ba3a1e0cfe11b436aea3545a" size="241216366" crc="332d5171" fullsha1="eda402d2f651bc8e95c43dc3253d8e9173d5a659" dataSha1="2f20d69447025f2e7d5e455ed0c5f4448c251c34">
+	<game name="Golf Tips (Europe) (En,Ja) (Beta) (1993-01-10)" sha1="b5bbb4a12a0f8787ba3a1e0cfe11b436aea3545a" size="241216366" crc="332d5171" fullsha1="eda402d2f651bc8e95c43dc3253d8e9173d5a659" dataSha1="2f20d69447025f2e7d5e455ed0c5f4448c251c34">
 		<category>Games</category>
-		<description>Golf Tips (Europe) (En,Ja) (Beta)</description>
-		<rom name="Golf Tips (Europe) (En,Ja) (Beta) (Track 01).bin" size="417538800" crc="a4065f44" md5="144c9653394215cbf7d5c3e4fa235d9f" sha1="4120611487f0bdd7e8c8bb050087c55cc96d4c24"/>
+		<description>Golf Tips (Europe) (En,Ja) (Beta) (1993-01-10)</description>
+		<rom name="Golf Tips (Europe) (En,Ja) (Beta) (1993-01-10) (Track 01).bin" size="417538800" crc="a4065f44" md5="144c9653394215cbf7d5c3e4fa235d9f" sha1="4120611487f0bdd7e8c8bb050087c55cc96d4c24"/>
 	</game>
 	<game name="Good Person to Do Business With, A (UK)" sha1="5ede77672b4c2632287202fc95d2ff2090e0c7fe" size="440898068" crc="f1586b4b" fullsha1="b2db5d91656d2f7fe7825a952268d619082e851c" dataSha1="fd864fdfe30656ed2aed48a5cae3cd098935f097">
 		<category>Games</category>
@@ -3728,10 +3753,10 @@
 		<description>Grundig - Das Car Audio-Programm 1995 (Germany)</description>
 		<rom name="Grundig - Das Car Audio-Programm 1995 (Germany) (Track 01).bin" size="130359600" crc="d091c560" md5="13967e37235ccb45733cfe991bf890ac" sha1="5d8842412b5d9998871f944f6195b05dd91bc0d8"/>
 	</game>
-	<game name="Guidare e Pilotare (Italy) (En,It) (Beta)" sha1="dd5b88e315c8ba5a1c71c02012a7b8ab61e55df5" size="502258683" crc="46a91197" fullsha1="bcd86dd133ace399a7f726f81b8403fead910fde" dataSha1="d8ceb230b2d44019898aa77177e3e9c755167838">
+	<game name="Guidare e Pilotare (Italy) (En,It) (Beta) (1996-06-03)" sha1="dd5b88e315c8ba5a1c71c02012a7b8ab61e55df5" size="502258683" crc="46a91197" fullsha1="bcd86dd133ace399a7f726f81b8403fead910fde" dataSha1="d8ceb230b2d44019898aa77177e3e9c755167838">
 		<category>Games</category>
-		<description>Guidare e Pilotare (Italy) (En,It) (Beta)</description>
-		<rom name="Guidare e Pilotare (Italy) (En,It) (Beta) (Track 01).bin" size="653390304" crc="6d5da24b" md5="fbd97e5bae5c6066fd1181269b41f6c6" sha1="4b8b2b679ed6c4582e79b4ba49545a0f533cdfb9"/>
+		<description>Guidare e Pilotare (Italy) (En,It) (Beta) (1996-06-03)</description>
+		<rom name="Guidare e Pilotare (Italy) (En,It) (Beta) (1996-06-03) (Track 01).bin" size="653390304" crc="6d5da24b" md5="fbd97e5bae5c6066fd1181269b41f6c6" sha1="4b8b2b679ed6c4582e79b4ba49545a0f533cdfb9"/>
 	</game>
 	<game name="Guide to Heavy Duty Pumps in the Construction Market (USA)" sha1="c4dc37372576ef35f06ae607a5c059b4d43bca4a" size="74856606" crc="bef59218" fullsha1="7e03ad6af6a59f27509e6afb889efb6e873a3462" dataSha1="5d669e8e5b57fbb3afd03cd825bfb8c5220ed908">
 		<category>Games</category>
@@ -3777,29 +3802,29 @@
 		<rom name="Head Crash - Cranium Error (Europe) (Track 09).bin" size="56977200" crc="b44ea4f0" md5="37f676fec89da0383720eb729ec13e15" sha1="e924634acd1192f68e29afa265c7d50c63abb0c5"/>
 		<rom name="Head Crash - Cranium Error (Europe) (Track 10).bin" size="66679200" crc="9bc2ea7b" md5="80e61bca434de85ab52ed877abf28c3e" sha1="b187c64f3dc9eaf75d308001aaf29a24c1fd359e"/>
 	</game>
-	<game name="Head Crash - Cranium Error (Europe) (Beta)" sha1="1e7f62436cb379e80d02efefe9ab5752ccd57e9a" size="325226573" crc="0fbcd638" fullsha1="d45adb280e4836ae67e5d4eddf98988c344c70ff" dataSha1="1e45c546f16b2f9996749bc9119a84cb78709a5d">
+	<game name="Head Crash - Cranium Error (Europe) (Beta) (1994-10-14)" sha1="1e7f62436cb379e80d02efefe9ab5752ccd57e9a" size="325226573" crc="0fbcd638" fullsha1="d45adb280e4836ae67e5d4eddf98988c344c70ff" dataSha1="1e45c546f16b2f9996749bc9119a84cb78709a5d">
 		<category>Games</category>
-		<description>Head Crash - Cranium Error (Europe) (Beta)</description>
-		<rom name="Head Crash - Cranium Error (Europe) (Beta) (Track 01).bin" size="55036800" crc="1169735a" md5="a460b9572b0d95fff614c089f85b5699" sha1="f905fbc1a037b9d222001fa5a6f9e18d9cb5bcc3"/>
-		<rom name="Head Crash - Cranium Error (Europe) (Beta) (Track 02).bin" size="45158400" crc="728b2ab3" md5="218c9a12f715499f6988e6d32c085624" sha1="8eaf2b1a78f42e7f5c1f855f282ecfa34a91f28a"/>
-		<rom name="Head Crash - Cranium Error (Europe) (Beta) (Track 03).bin" size="52567200" crc="de6602ef" md5="a1a70a84c1846adc40cf90a12ccb17f2" sha1="66abd80ca06c64c38b6109d169fd5912e2fe81eb"/>
-		<rom name="Head Crash - Cranium Error (Europe) (Beta) (Track 04).bin" size="48333600" crc="191391d4" md5="e9b900c215b2f6d1c02896a72bb070d6" sha1="3fd2f5232635f7b4f28df6a40ec4e46a75e767b8"/>
-		<rom name="Head Crash - Cranium Error (Europe) (Beta) (Track 05).bin" size="48510000" crc="9d3c4ea2" md5="39dd39d2ae64e54d185fb61c083b5636" sha1="ceb9f793ae0f55d9758ffd9f74a1a82e5d516e56"/>
-		<rom name="Head Crash - Cranium Error (Europe) (Beta) (Track 06).bin" size="54331200" crc="8ab66ee3" md5="4a4fb045f2bad0f2472cbe597c1eaee2" sha1="174feaffd4a6e874fa3f154da5f6668e8f92bd93"/>
-		<rom name="Head Crash - Cranium Error (Europe) (Beta) (Track 07).bin" size="47628000" crc="f39ca40e" md5="28828e5e331a3a832dccc870f0aaa51e" sha1="3550d65f4474ece0515a0858016015f6b7e7c8b2"/>
-		<rom name="Head Crash - Cranium Error (Europe) (Beta) (Track 08).bin" size="67561200" crc="bb4c609d" md5="1faf7e0ebdf8e21881bc14155ab4d8d0" sha1="a2f5ea2a44c8b1e45b5b340c8700afcdde95c75a"/>
-		<rom name="Head Crash - Cranium Error (Europe) (Beta) (Track 09).bin" size="56977200" crc="b44ea4f0" md5="37f676fec89da0383720eb729ec13e15" sha1="e924634acd1192f68e29afa265c7d50c63abb0c5"/>
-		<rom name="Head Crash - Cranium Error (Europe) (Beta) (Track 10).bin" size="66679200" crc="9bc2ea7b" md5="80e61bca434de85ab52ed877abf28c3e" sha1="b187c64f3dc9eaf75d308001aaf29a24c1fd359e"/>
+		<description>Head Crash - Cranium Error (Europe) (Beta) (1994-10-14)</description>
+		<rom name="Head Crash - Cranium Error (Europe) (Beta) (1994-10-14) (Track 01).bin" size="55036800" crc="1169735a" md5="a460b9572b0d95fff614c089f85b5699" sha1="f905fbc1a037b9d222001fa5a6f9e18d9cb5bcc3"/>
+		<rom name="Head Crash - Cranium Error (Europe) (Beta) (1994-10-14) (Track 02).bin" size="45158400" crc="728b2ab3" md5="218c9a12f715499f6988e6d32c085624" sha1="8eaf2b1a78f42e7f5c1f855f282ecfa34a91f28a"/>
+		<rom name="Head Crash - Cranium Error (Europe) (Beta) (1994-10-14) (Track 03).bin" size="52567200" crc="de6602ef" md5="a1a70a84c1846adc40cf90a12ccb17f2" sha1="66abd80ca06c64c38b6109d169fd5912e2fe81eb"/>
+		<rom name="Head Crash - Cranium Error (Europe) (Beta) (1994-10-14) (Track 04).bin" size="48333600" crc="191391d4" md5="e9b900c215b2f6d1c02896a72bb070d6" sha1="3fd2f5232635f7b4f28df6a40ec4e46a75e767b8"/>
+		<rom name="Head Crash - Cranium Error (Europe) (Beta) (1994-10-14) (Track 05).bin" size="48510000" crc="9d3c4ea2" md5="39dd39d2ae64e54d185fb61c083b5636" sha1="ceb9f793ae0f55d9758ffd9f74a1a82e5d516e56"/>
+		<rom name="Head Crash - Cranium Error (Europe) (Beta) (1994-10-14) (Track 06).bin" size="54331200" crc="8ab66ee3" md5="4a4fb045f2bad0f2472cbe597c1eaee2" sha1="174feaffd4a6e874fa3f154da5f6668e8f92bd93"/>
+		<rom name="Head Crash - Cranium Error (Europe) (Beta) (1994-10-14) (Track 07).bin" size="47628000" crc="f39ca40e" md5="28828e5e331a3a832dccc870f0aaa51e" sha1="3550d65f4474ece0515a0858016015f6b7e7c8b2"/>
+		<rom name="Head Crash - Cranium Error (Europe) (Beta) (1994-10-14) (Track 08).bin" size="67561200" crc="bb4c609d" md5="1faf7e0ebdf8e21881bc14155ab4d8d0" sha1="a2f5ea2a44c8b1e45b5b340c8700afcdde95c75a"/>
+		<rom name="Head Crash - Cranium Error (Europe) (Beta) (1994-10-14) (Track 09).bin" size="56977200" crc="b44ea4f0" md5="37f676fec89da0383720eb729ec13e15" sha1="e924634acd1192f68e29afa265c7d50c63abb0c5"/>
+		<rom name="Head Crash - Cranium Error (Europe) (Beta) (1994-10-14) (Track 10).bin" size="66679200" crc="9bc2ea7b" md5="80e61bca434de85ab52ed877abf28c3e" sha1="b187c64f3dc9eaf75d308001aaf29a24c1fd359e"/>
 	</game>
-	<game name="Hello U.S.A. (Europe) (Disc 1) (Hit the Road!) (Proto)" sha1="931f5938999f6ddcc33b851ba279e99d82821954" size="286921571" crc="c9f4516e" fullsha1="d1ef957caae6858772fd3c727d014d53611147a0" dataSha1="901aa48c7b753ebd95f9947f8d70ed760f0308b5">
+	<game name="Hello U.S.A. (Europe) (Disc 1) (Hit the Road!) (Proto) (1993-03-12)" sha1="931f5938999f6ddcc33b851ba279e99d82821954" size="286921571" crc="c9f4516e" fullsha1="d1ef957caae6858772fd3c727d014d53611147a0" dataSha1="901aa48c7b753ebd95f9947f8d70ed760f0308b5">
 		<category>Games</category>
-		<description>Hello U.S.A. (Europe) (Disc 1) (Hit the Road!) (Proto)</description>
-		<rom name="Hello U.S.A. (Europe) (Disc 1) (Hit the Road!) (Proto) (Track 01).bin" size="456177456" crc="80aad570" md5="269ed7a7354680390a9a80dd92388331" sha1="9b5218e10eb1a2aecea9a15dd1c3a8fa5301a411"/>
+		<description>Hello U.S.A. (Europe) (Disc 1) (Hit the Road!) (Proto) (1993-03-12)</description>
+		<rom name="Hello U.S.A. (Europe) (Disc 1) (Hit the Road!) (Proto) (1993-03-12) (Track 01).bin" size="456177456" crc="80aad570" md5="269ed7a7354680390a9a80dd92388331" sha1="9b5218e10eb1a2aecea9a15dd1c3a8fa5301a411"/>
 	</game>
-	<game name="Hello U.S.A. (Europe) (Disc 3) (The Heart of Country Music) (Proto)" sha1="d0ea6db23c53013a0bd7229f6bbf2cf954b11a77" size="256848124" crc="eceb2f81" fullsha1="e1bcda302b285f213ca7af8861583a8e12e88fc9" dataSha1="fb873ff33476205157109c3bc57da8f7b32ba116">
+	<game name="Hello U.S.A. (Europe) (Disc 3) (The Heart of Country Music) (Proto) (1993-03-15)" sha1="d0ea6db23c53013a0bd7229f6bbf2cf954b11a77" size="256848124" crc="eceb2f81" fullsha1="e1bcda302b285f213ca7af8861583a8e12e88fc9" dataSha1="fb873ff33476205157109c3bc57da8f7b32ba116">
 		<category>Games</category>
-		<description>Hello U.S.A. (Europe) (Disc 3) (The Heart of Country Music) (Proto)</description>
-		<rom name="Hello U.S.A. (Europe) (Disc 3) (The Heart of Country Music) (Proto) (Track 01).bin" size="425483856" crc="7397c596" md5="463d14c34e61646c9b4aac154ee27da8" sha1="47f8982611078bf6d4fc9ac10d323782bdd9c0d6"/>
+		<description>Hello U.S.A. (Europe) (Disc 3) (The Heart of Country Music) (Proto) (1993-03-15)</description>
+		<rom name="Hello U.S.A. (Europe) (Disc 3) (The Heart of Country Music) (Proto) (1993-03-15) (Track 01).bin" size="425483856" crc="7397c596" md5="463d14c34e61646c9b4aac154ee27da8" sha1="47f8982611078bf6d4fc9ac10d323782bdd9c0d6"/>
 	</game>
 	<game name="Historia de les Civilitzacions (Spain) (Disc 1) (Les Primeres Cultures)" sha1="533514b134e79fab6ccd594826f7df37a2116676" size="570621025" crc="b35d9b93" fullsha1="5a3b161a1540b6ecce6cbe23b925a6c2d8a8fafe" dataSha1="a5c98f7c1e03ad9502ca2bd2f3d197fae0c09cf2">
 		<category>Games</category>
@@ -3911,10 +3936,10 @@
 		<description>Holland op Zijn Mooist Vol. 1 (Netherlands) (En,Fr,De,Nl)</description>
 		<rom name="Holland op Zijn Mooist Vol. 1 (Netherlands) (En,Fr,De,Nl) (Track 01).bin" size="553371504" crc="071074ee" md5="c8d5626f383761c37dcf83c37c7fbd09" sha1="08af29baa10df784ffc2520157bfa1a74c9677f4"/>
 	</game>
-	<game name="Hondenliefde (Netherlands) (Beta)" sha1="82baf12f86f677772149533e861120141182ff2d" size="602533336" crc="e1c1ca1d" fullsha1="4d65922197156b7c5a1a41101fa4e4a6763d4553" dataSha1="e201ce601497130ca132df82dadcf35fac93d0f6">
+	<game name="Hondenliefde (Netherlands) (Beta) (1994-01-02)" sha1="82baf12f86f677772149533e861120141182ff2d" size="602533336" crc="e1c1ca1d" fullsha1="4d65922197156b7c5a1a41101fa4e4a6763d4553" dataSha1="e201ce601497130ca132df82dadcf35fac93d0f6">
 		<category>Games</category>
-		<description>Hondenliefde (Netherlands) (Beta)</description>
-		<rom name="Hondenliefde (Netherlands) (Beta) (Track 01).bin" size="738586800" crc="a59e811d" md5="4114db59d528c4add1dccf023da4c780" sha1="6352ce86be06fd6f67db757ec7841fba0d34625b"/>
+		<description>Hondenliefde (Netherlands) (Beta) (1994-01-02)</description>
+		<rom name="Hondenliefde (Netherlands) (Beta) (1994-01-02) (Track 01).bin" size="738586800" crc="a59e811d" md5="4114db59d528c4add1dccf023da4c780" sha1="6352ce86be06fd6f67db757ec7841fba0d34625b"/>
 	</game>
 	<game name="Horoscope - Seiyou Senseijutsu (Japan)" sha1="4c5beca37f3719d9129ea2d195ca4d971c9b5c54" size="158830756" crc="d5ccc28f" fullsha1="3f7cb9b762c115bb93950017275cdc1ffb9da041" dataSha1="c472a3bbd17b9ddfc810a1ab2bb4ea2c54a0a7e6">
 		<category>Games</category>
@@ -3950,10 +3975,10 @@
 		<description>How the Camel Got His Hump (USA) (En,Es)</description>
 		<rom name="How the Camel Got His Hump (USA) (En,Es) (Track 01).bin" size="512618400" crc="91bc369d" md5="9343f8054865d00cd1fa74d292248923" sha1="a0d09488bf97de8f387b3fb36a11b8fa4712ae26"/>
 	</game>
-	<game name="How the Rhinoceros Got His Skin (USA) (Beta)" sha1="e6ed3851120855429830ffd4273ee37c63d35421" size="94427321" crc="c2317197" fullsha1="a128392281b1446afbae027294ce972fd30306c2" dataSha1="c5583e0d8ea64bd06fec45e7dd3a77af6aca6783">
+	<game name="How the Rhinoceros Got His Skin (USA) (Beta) (1991-08-21)" sha1="e6ed3851120855429830ffd4273ee37c63d35421" size="94427321" crc="c2317197" fullsha1="a128392281b1446afbae027294ce972fd30306c2" dataSha1="c5583e0d8ea64bd06fec45e7dd3a77af6aca6783">
 		<category>Games</category>
-		<description>How the Rhinoceros Got His Skin (USA) (Beta)</description>
-		<rom name="How the Rhinoceros Got His Skin (USA) (Beta) (Track 01).bin" size="427417200" crc="0daa2ea1" md5="971b2c0e23efe9e2faf780b14ffe0705" sha1="c2e9b43ce8ffd9c29c1cd26bbdf602a797bbde08"/>
+		<description>How the Rhinoceros Got His Skin (USA) (Beta) (1991-08-21)</description>
+		<rom name="How the Rhinoceros Got His Skin (USA) (Beta) (1991-08-21) (Track 01).bin" size="427417200" crc="0daa2ea1" md5="971b2c0e23efe9e2faf780b14ffe0705" sha1="c2e9b43ce8ffd9c29c1cd26bbdf602a797bbde08"/>
 	</game>
 	<game name="How the Rhinoceros Got His Skin (USA) (En,Es)" sha1="e5634e915df03a98c708f4b7ec192196e5dc359c" size="139361915" crc="92545735" fullsha1="b6b2c3427cb1d88bbe0061db9735ac086409ffc6" dataSha1="c990e9bef55eb56af9c37289de8cc95a7b6db7c7">
 		<category>Games</category>
@@ -4041,10 +4066,10 @@
 		<description>In-Store Attractor Disc (Europe)</description>
 		<rom name="In-Store Attractor Disc (Europe) (Track 01).bin" size="33868800" crc="844d95b6" md5="4a760413e908d7d28154f94e43e9477f" sha1="0d547bd04aa037623b6ef092e876ce79b5ebbc90"/>
 	</game>
-	<game name="Inca (Europe) (Beta)" sha1="33d3dd672938e6ed9c5d20ffd6f8eb5672db783d" size="174098734" crc="17440c5f" fullsha1="6ee72e3fc68d6aa78dd37b667ef8f9a2fe9c1de5" dataSha1="2a044f107384844e0c2c4b1949097cf007a5f0cd">
+	<game name="Inca (Europe) (Beta) (1993-05-07)" sha1="33d3dd672938e6ed9c5d20ffd6f8eb5672db783d" size="174098734" crc="17440c5f" fullsha1="6ee72e3fc68d6aa78dd37b667ef8f9a2fe9c1de5" dataSha1="2a044f107384844e0c2c4b1949097cf007a5f0cd">
 		<category>Games</category>
-		<description>Inca (Europe) (Beta)</description>
-		<rom name="Inca (Europe) (Beta) (Track 01).bin" size="631599024" crc="1d764164" md5="4cdabaf75401e8641cf7f8af8322a996" sha1="7fada7f07e1fa00f07cbd783a4cfb839840edbc3"/>
+		<description>Inca (Europe) (Beta) (1993-05-07)</description>
+		<rom name="Inca (Europe) (Beta) (1993-05-07) (Track 01).bin" size="631599024" crc="1d764164" md5="4cdabaf75401e8641cf7f8af8322a996" sha1="7fada7f07e1fa00f07cbd783a4cfb839840edbc3"/>
 	</game>
 	<game name="Inca (USA)" sha1="c2293ce8574dd59a63cedb060cd842c3ef02cde9" size="178132094" crc="eac707e4" fullsha1="c7981deccbe14805c36c766e1a1fe2f99fdcb6b1" dataSha1="5cdd982a5a67177c18d26ed969a72350cb3c405f">
 		<category>Games</category>
@@ -4415,20 +4440,15 @@
 		<description>Jazz - Methode de Guitare (France)</description>
 		<rom name="Jazz - Methode de Guitare (France) (Track 01).bin" size="602135520" crc="f302cd49" md5="7f51b5d529a533f8990ec2b689200ea7" sha1="b7cf9641286f6baaac3a38f11b0f19681251421a"/>
 	</game>
-	<game name="Je Parle l'Anglais - Senior (France)" sha1="57c0d56f784534669195a37865d00dc78848037e" size="95966399" crc="b14c032f" fullsha1="b221e4a6ddcecf732b2c9bc124780092f102fbbf" dataSha1="835089a03d9258d09600daed7a690c6539c30e81">
+	<game name="Jeopardy! (USA) (Beta) (1994-07-22)" sha1="ab243d8d6f1aec78576ecd057041800b5b770ed6" size="174944470" crc="b67c21e8" fullsha1="666dfa879b82e265f9725c14f100b7da2c9154dc" dataSha1="4da9cc328e7e19bebd3da2f35cb3e373e7c0ca4d">
 		<category>Games</category>
-		<description>Je Parle l'Anglais - Senior (France)</description>
-		<rom name="Je Parle l'Anglais - Senior (France) (Track 01).bin" size="202994064" crc="db4ac966" md5="5d590876514ba9decd24d5b9f32e53d9" sha1="9ec0a4c63c77e9de4723e0054cb0488493651c56"/>
+		<description>Jeopardy! (USA) (Beta) (1994-07-22)</description>
+		<rom name="Jeopardy! (USA) (Beta) (1994-07-22) (Track 01).bin" size="416127600" crc="6ea4de76" md5="0fef81579ad6ea5b7b93c30c04937558" sha1="3312adfaff988211d59686da6d60bc9a98318088"/>
 	</game>
-	<game name="Jeopardy! (USA) (Beta 2)" sha1="d568b8c969f490d53d50631dd003b1e943016a31" size="180503383" crc="645e307c" fullsha1="65e1ab3c3b8013a05d07198d9e7bc77badcccecb" dataSha1="a2159640579dd4afca1d8cf41ac05b2b3a826374">
+	<game name="Jeopardy! (USA) (Beta) (1994-09-15)" sha1="d568b8c969f490d53d50631dd003b1e943016a31" size="180503383" crc="645e307c" fullsha1="65e1ab3c3b8013a05d07198d9e7bc77badcccecb" dataSha1="a2159640579dd4afca1d8cf41ac05b2b3a826374">
 		<category>Games</category>
-		<description>Jeopardy! (USA) (Beta 2)</description>
-		<rom name="Jeopardy! (USA) (Beta 2) (Track 01).bin" size="471870000" crc="741cfdb9" md5="8f2df68e69bf934d9aa5241d88e93871" sha1="e500995a3351527658696760adb0b7f9fd6b6c68"/>
-	</game>
-	<game name="Jeopardy! (USA) (Beta)" sha1="ab243d8d6f1aec78576ecd057041800b5b770ed6" size="174944470" crc="b67c21e8" fullsha1="666dfa879b82e265f9725c14f100b7da2c9154dc" dataSha1="4da9cc328e7e19bebd3da2f35cb3e373e7c0ca4d">
-		<category>Games</category>
-		<description>Jeopardy! (USA) (Beta)</description>
-		<rom name="Jeopardy! (USA) (Beta) (Track 01).bin" size="416127600" crc="6ea4de76" md5="0fef81579ad6ea5b7b93c30c04937558" sha1="3312adfaff988211d59686da6d60bc9a98318088"/>
+		<description>Jeopardy! (USA) (Beta) (1994-09-15)</description>
+		<rom name="Jeopardy! (USA) (Beta) (1994-09-15) (Track 01).bin" size="471870000" crc="741cfdb9" md5="8f2df68e69bf934d9aa5241d88e93871" sha1="e500995a3351527658696760adb0b7f9fd6b6c68"/>
 	</game>
 	<game name="Jeux de Guerre (France) (Disc 1)" sha1="d532526219ba4ce6b6e09763e14586c4d8f2ad44" size="507882488" crc="055e259a" fullsha1="e451331295a50320099a5f98815457c2b550abce" dataSha1="f54befb21989c7f5b2752789298e801f7e27c615">
 		<category>Games</category>
@@ -4455,10 +4475,10 @@
 		<description>Jigsaw - The Ultimate Electronic Puzzle (USA)</description>
 		<rom name="Jigsaw - The Ultimate Electronic Puzzle (USA) (Track 01).bin" size="320471760" crc="9ff8ddac" md5="3da5d00017e69e9ce4025cec22e17034" sha1="d7664528651ad7ca82dbdd05dce10adda914e4a4"/>
 	</game>
-	<game name="Joker's Wild! Jr., The (Europe) (Beta)" sha1="175ec361506133a92f2665dff8c3df3a0979e9a1" size="353561136" crc="159f3e98" fullsha1="93d252e3b0e2faae4e05dd174ba2d7ed9e1a0bd7" dataSha1="de544bb2f39f931fd87d5e2d912498bf5befc5fe">
+	<game name="Joker's Wild! Jr., The (Europe) (Beta) (1994-05-30)" sha1="175ec361506133a92f2665dff8c3df3a0979e9a1" size="353561136" crc="159f3e98" fullsha1="93d252e3b0e2faae4e05dd174ba2d7ed9e1a0bd7" dataSha1="de544bb2f39f931fd87d5e2d912498bf5befc5fe">
 		<category>Games</category>
-		<description>Joker's Wild! Jr., The (Europe) (Beta)</description>
-		<rom name="Joker's Wild! Jr., The (Europe) (Beta) (Track 01).bin" size="619516800" crc="8e56454b" md5="1fe163f9057f928fa949237d5522ce78" sha1="9b12037d14284c8d1d8a15fc5c98eea873d76799"/>
+		<description>Joker's Wild! Jr., The (Europe) (Beta) (1994-05-30)</description>
+		<rom name="Joker's Wild! Jr., The (Europe) (Beta) (1994-05-30) (Track 01).bin" size="619516800" crc="8e56454b" md5="1fe163f9057f928fa949237d5522ce78" sha1="9b12037d14284c8d1d8a15fc5c98eea873d76799"/>
 	</game>
 	<game name="Journal Interactif 94 et le Jeu des Stars de l'Info, Le (France) (Disque Bande Annonce)" sha1="a65f8f839052e448024300a10f6a3b56a8773975" size="52525229" crc="7dfaf368" fullsha1="e2246b5944f721e84ed402adb1fd6910e83f4413" dataSha1="d0030fc74d16e7f5dd1aaf244837b8cf4c1a3d55">
 		<category>Games</category>
@@ -4485,6 +4505,11 @@
 		<description>Karaoke - Noel Christmas Weihnachten Navidad (France) (En,Fr,De,Es)</description>
 		<rom name="Karaoke - Noel Christmas Weihnachten Navidad (France) (En,Fr,De,Es) (Track 01).bin" size="557071200" crc="30e35845" md5="d594b2bc922ce6cd8507134bc111b237" sha1="c95e4b323e9154f1a4694f958b16cff5574271a3"/>
 	</game>
+	<game name="Karaoke Collection N.1 (Italy)" sha1="bb38a53647d78a5a487f7cbec3420d64c8e11b07" size="166677973" crc="92bd85b7" fullsha1="5f335d7fc946482e5c1a811345e62da3630db4e4" dataSha1="0c9e7f644bc84d894992c0fa489bad62db8808d1">
+		<category>Games</category>
+		<description>Karaoke Collection N.1 (Italy)</description>
+		<rom name="Karaoke Collection N.1 (Italy) (Track 01).bin" size="407484000" crc="d4f84b29" md5="1a0cfe0137c5eb0b16e7c0043dc48858" sha1="dce9a967b2f67e185ab1e2a448577f0d1bc7f0e2"/>
+	</game>
 	<game name="Karaoke Collection N.15 (Italy)" sha1="1d725ee0b204dd36d4c111b2ea27be8ed84ce390" size="341713425" crc="2e77befe" fullsha1="395a0347e4f6b3214868f70448d755a717b1fd51" dataSha1="3466526424e579d16573c164465a9ce5be89fae4">
 		<category>Games</category>
 		<description>Karaoke Collection N.15 (Italy)</description>
@@ -4504,6 +4529,11 @@
 		<category>Games</category>
 		<description>Karaoke Collection N.2 (Italy)</description>
 		<rom name="Karaoke Collection N.2 (Italy) (Track 01).bin" size="443822400" crc="d98e3294" md5="cba4376f83b6a37042b1d06b656909d0" sha1="8d8ef32b17de62780f7145ad26a898615d787277"/>
+	</game>
+	<game name="Karaoke Collection N.3 (Italy)" sha1="eb11531637bc89998247650c41e55316bbc9d1e1" size="177712513" crc="9a7519c0" fullsha1="df29e3667555ec359affd5b0d6e8eaa0fa9826ea" dataSha1="305f2f4dde5e4cc838782a591be9187cd834ad9e">
+		<category>Games</category>
+		<description>Karaoke Collection N.3 (Italy)</description>
+		<rom name="Karaoke Collection N.3 (Italy) (Track 01).bin" size="434296800" crc="d147fc0a" md5="41ecc6acdaa164afdaaa5027d84a3cd5" sha1="a83269daed023e574c160e1d5a20ea1430af584c"/>
 	</game>
 	<game name="Karaoke Collection N.6 (Italy)" sha1="c356b42de7eb29056782b81710530c16de6a46a3" size="307339536" crc="153263e8" fullsha1="761251776d262f4ff73ce72bdc90ff6c9daafef3" dataSha1="c8fc416fa1ae812a1224b537b2010efeea4b0b11">
 		<category>Games</category>
@@ -4692,10 +4722,15 @@
 		<description>Keeping Customers Cool (UK) (Rev 1)</description>
 		<rom name="Keeping Customers Cool (UK) (Rev 1) (Track 01).bin" size="776870304" crc="af9cfb14" md5="c52a19793a6d080e910d01209231e8cb" sha1="3c4b23a71e6b9e7e7438cd106d3727fb85c83b83"/>
 	</game>
-	<game name="Kether (USA) (En,Fr) (Beta)" sha1="9a81c7678b10714d7d3fe0b10aa74a28d827c94e" size="139920160" crc="913d8e8d" fullsha1="e2677f06034bd82ed83c70b0420d1e80675999e1" dataSha1="c8eb06d099269152c0ba7ee9a895412f79fb154a">
+	<game name="Kether (Europe) (En,Fr) (Beta)" sha1="61f14bc55c78d11e77c326702c3deb8ffa2a5b70" size="140981363" crc="bc2625ff" fullsha1="24af1a00f1a90e03999b7b81e71ba797fcef8095" dataSha1="afdcdbaa2ac635d775ae95181d81375a61767398">
 		<category>Games</category>
-		<description>Kether (USA) (En,Fr) (Beta)</description>
-		<rom name="Kether (USA) (En,Fr) (Beta) (Track 01).bin" size="383493600" crc="9a74c16d" md5="b04a7c78dfe8efa91787612eefd63ffd" sha1="5435c5f28ecf62b22329b460c103fc4e051e281e"/>
+		<description>Kether (Europe) (En,Fr) (Beta)</description>
+		<rom name="Kether (Europe) (En,Fr) (Beta) (Track 01).bin" size="383493600" crc="4a383267" md5="2b6f5676b6b444a8c7815dcc0bf4db19" sha1="3d1a0b71384d5825787b8c7a59c5d68cd1445607"/>
+	</game>
+	<game name="Kether (USA) (En,Fr) (Beta) (1993-10-06)" sha1="9a81c7678b10714d7d3fe0b10aa74a28d827c94e" size="139920160" crc="913d8e8d" fullsha1="e2677f06034bd82ed83c70b0420d1e80675999e1" dataSha1="c8eb06d099269152c0ba7ee9a895412f79fb154a">
+		<category>Games</category>
+		<description>Kether (USA) (En,Fr) (Beta) (1993-10-06)</description>
+		<rom name="Kether (USA) (En,Fr) (Beta) (1993-10-06) (Track 01).bin" size="383493600" crc="9a74c16d" md5="b04a7c78dfe8efa91787612eefd63ffd" sha1="5435c5f28ecf62b22329b460c103fc4e051e281e"/>
 	</game>
 	<game name="Keyn Interactive, De (Belgium)" sha1="0b2e391d5a47390baefa0596b95564349599f2e9" size="90930028" crc="dfbd87d6" fullsha1="2b9c45c0e0664471e835aca35716d7925ece3cff" dataSha1="4c2931f3558ccb04fb93c13349129ac75296043a">
 		<category>Games</category>
@@ -4707,15 +4742,20 @@
 		<description>Kingdom - The Far Reaches (Europe)</description>
 		<rom name="Kingdom - The Far Reaches (Europe) (Track 01).bin" size="675517920" crc="6aeeb95f" md5="e56f26b54deaf012f0b4d999d074f476" sha1="744756348026d9bcc07f616a39895fae40eedc6e"/>
 	</game>
-	<game name="Kiss (Europe) (Beta)" sha1="99e2528b762c3405afc338c91ecdf6d4a2237251" size="310851772" crc="2cd66e5e" fullsha1="e0d564bd98dbf12b174752c4e2ff88be1915ed0f" dataSha1="74b9ee18e01f70e0e3a4e2fb0ded1f62a6291c2b">
+	<game name="Kiss (Europe) (Beta) (1994-05-30)" sha1="99e2528b762c3405afc338c91ecdf6d4a2237251" size="310851772" crc="2cd66e5e" fullsha1="e0d564bd98dbf12b174752c4e2ff88be1915ed0f" dataSha1="74b9ee18e01f70e0e3a4e2fb0ded1f62a6291c2b">
 		<category>Games</category>
-		<description>Kiss (Europe) (Beta)</description>
-		<rom name="Kiss (Europe) (Beta) (Track 01).bin" size="760989600" crc="bd2d1e4c" md5="17ad49308c7477aaeb1a177c7a05244c" sha1="e7e4b02977f513d37454d8fe6b361fb59b6bf412"/>
+		<description>Kiss (Europe) (Beta) (1994-05-30)</description>
+		<rom name="Kiss (Europe) (Beta) (1994-05-30) (Track 01).bin" size="760989600" crc="bd2d1e4c" md5="17ad49308c7477aaeb1a177c7a05244c" sha1="e7e4b02977f513d37454d8fe6b361fb59b6bf412"/>
 	</game>
 	<game name="Klantenservice (Belgium) (En,Es)" sha1="7c7236335b536a70bf977bfccea975ff7f249e16" size="326086116" crc="362ac5fa" fullsha1="7f6357128d43a4833ffed4e5419c4689bd68b4fd" dataSha1="118f1a4421f7454d7dd890037f58a902a36d48a3">
 		<category>Games</category>
 		<description>Klantenservice (Belgium) (En,Es)</description>
 		<rom name="Klantenservice (Belgium) (En,Es) (Track 01).bin" size="540842400" crc="06c78581" md5="42be93d4346c00d40955de844e3904b1" sha1="a01c3dea6809ddea6b67d4e997a6e479d62e8379"/>
+	</game>
+	<game name="Klik (Europe) (Unl)" sha1="eea17a16ae404f9a49dca2115bce7a463f01ff03" size="147763571" crc="2556be7b" fullsha1="d4cb0ba5b9b998544a2c00d0615e6df02b04fa03" dataSha1="e7fb7a19879522f8dc5e30225ff390a963571750">
+		<category>Games</category>
+		<description>Klik (Europe) (Unl)</description>
+		<rom name="Klik (Europe) (Unl) (Track 01).bin" size="632041200" crc="52a09369" md5="e63e5276c460877a24af34f582b56dc8" sha1="aa1b4ed5a6426a4cd4af300a62ef3dbc5b87f74f"/>
 	</game>
 	<game name="Know Now - Module 2 (Netherlands)" sha1="d9e87e76cd2e94d7d84ccc470e7d9a9b14eb26cd" size="393782491" crc="b292dd5d" fullsha1="3a9fea39365bd9f05ec49db001df4df4344186f1" dataSha1="f77bb827d851e37ef467686896849a995b4810be">
 		<category>Games</category>
@@ -4989,6 +5029,16 @@
 		<description>Lightning Stroke (Netherlands) (En,Fr,De,Es,Nl,Pt,Zh,Hi)</description>
 		<rom name="Lightning Stroke (Netherlands) (En,Fr,De,Es,Nl,Pt,Zh,Hi) (Track 01).bin" size="570832752" crc="746ce7a2" md5="0a35ad96dd8fe0a4313a4f366a626a31" sha1="6571fa377a6a18ca0b8513767bc8fa3899cbf585"/>
 	</game>
+	<game name="Linie 3 (Denmark) (Disc 1)" sha1="48708bcc79c991aea8f2fcb4b0602928fa8c22cf" size="678986708" crc="a708f800" fullsha1="6cfc6e2b902e33f5b5f1e1bb1197e30a7c11b206" dataSha1="4c2c15431826624be8d9214c6d4ad7ecea9162f6">
+		<category>Games</category>
+		<description>Linie 3 (Denmark) (Disc 1)</description>
+		<rom name="Linie 3 (Denmark) (Disc 1) (Track 01).bin" size="700841904" crc="3ed1e962" md5="9e74a532a695b56c7e08b9037fd8fcca" sha1="cd80c85d4c3bca34dcd0a5ef23176cef5357e485"/>
+	</game>
+	<game name="Linie 3 (Denmark) (Disc 2)" sha1="2482a6245800af443d1cabb4cc90bd89ef1897a8" size="620632542" crc="5a6089b5" fullsha1="cbd52740f5a971c20dccbdee184398c009f99099" dataSha1="385a70b42cd1ef5a25e5b76153197009d79ae50d">
+		<category>Games</category>
+		<description>Linie 3 (Denmark) (Disc 2)</description>
+		<rom name="Linie 3 (Denmark) (Disc 2) (Track 01).bin" size="642629904" crc="815a0f2e" md5="968e9bed498f59140bf9d64b5dac87bd" sha1="0a8bbf7e7e91bd37655de86609b1ff7a03dc0ed6"/>
+	</game>
 	<game name="Link - The Faces of Evil (Europe)" sha1="064c84c1bf5a8e354b22faf0a74a077b20ae4818" size="116977819" crc="2f444d4e" fullsha1="7dc33d2bbc10b41175625bef950104fa46794143" dataSha1="f000de90096089c09d3d63827ccce01de369bdea">
 		<category>Games</category>
 		<description>Link - The Faces of Evil (Europe)</description>
@@ -5101,10 +5151,10 @@
 		<description>Macchina delle Favole, La - Racconti di Magia (Italy)</description>
 		<rom name="Macchina delle Favole, La - Racconti di Magia (Italy) (Track 01).bin" size="205776480" crc="9828df7f" md5="76b8f62cfbd27e0e15283b34674bf1b2" sha1="f9c9b1d234d770e14eb96fba1054a119d31021c1"/>
 	</game>
-	<game name="Mad Dog II - The Lost Gold (Europe) (Beta)" sha1="8de6332c1d6993d2864f8d8297cf573a090a7543" size="299662175" crc="13479a62" fullsha1="12e389939578837f7fb49211892a6ddb5ecbb5e7" dataSha1="554f11c69b8ca2b3a406a9dcbb6fdd1ab9c31d41">
+	<game name="Mad Dog II - The Lost Gold (Europe) (Beta) (1995-10-18)" sha1="8de6332c1d6993d2864f8d8297cf573a090a7543" size="299662175" crc="13479a62" fullsha1="12e389939578837f7fb49211892a6ddb5ecbb5e7" dataSha1="554f11c69b8ca2b3a406a9dcbb6fdd1ab9c31d41">
 		<category>Games</category>
-		<description>Mad Dog II - The Lost Gold (Europe) (Beta)</description>
-		<rom name="Mad Dog II - The Lost Gold (Europe) (Beta) (Track 01).bin" size="345207744" crc="4d5ecea0" md5="3cc0476e420c6bd47a4567acd9b43001" sha1="63b35506bb3be22d8c9feac783c61083c8294818"/>
+		<description>Mad Dog II - The Lost Gold (Europe) (Beta) (1995-10-18)</description>
+		<rom name="Mad Dog II - The Lost Gold (Europe) (Beta) (1995-10-18) (Track 01).bin" size="345207744" crc="4d5ecea0" md5="3cc0476e420c6bd47a4567acd9b43001" sha1="63b35506bb3be22d8c9feac783c61083c8294818"/>
 	</game>
 	<game name="Mad Dog McCree (Europe) (Alt)" sha1="e31a8af8d352f5885ca7921b1b12be994b95d852" size="281715200" crc="a010d1f0" fullsha1="f26565e102fe7771a5b049ec94a4010a3ce9f502" dataSha1="8f7863fbf331027982010de5041c96f7785eda31">
 		<category>Games</category>
@@ -5131,10 +5181,10 @@
 		<description>Mad Dog McCree (Portugal)</description>
 		<rom name="Mad Dog McCree (Portugal) (Track 01).bin" size="464261280" crc="52b4e510" md5="1cf42faf80db04c05e297cc2f5045ff8" sha1="88022fcadf4e54657e7379dfd2c6ef1ff62b8ac6"/>
 	</game>
-	<game name="Mad Dog McCree (USA) (Beta)" sha1="8b45d0630b894b13473e8dbfce93ae616aa2169e" size="139434727" crc="4e70ba56" fullsha1="8fa0c373fafcc69a5c9f303265807cbb33eb73d0" dataSha1="28ac0d6605612525f6b546d30906a13df6373d6f">
+	<game name="Mad Dog McCree (USA) (Beta) (1993-12-09)" sha1="8b45d0630b894b13473e8dbfce93ae616aa2169e" size="139434727" crc="4e70ba56" fullsha1="8fa0c373fafcc69a5c9f303265807cbb33eb73d0" dataSha1="28ac0d6605612525f6b546d30906a13df6373d6f">
 		<category>Games</category>
-		<description>Mad Dog McCree (USA) (Beta)</description>
-		<rom name="Mad Dog McCree (USA) (Beta) (Track 01).bin" size="197003520" crc="ffa82719" md5="7093536a61cd8a373c43fa77a9c96986" sha1="29214fbfb23354563ba608829453092992e6a98b"/>
+		<description>Mad Dog McCree (USA) (Beta) (1993-12-09)</description>
+		<rom name="Mad Dog McCree (USA) (Beta) (1993-12-09) (Track 01).bin" size="197003520" crc="ffa82719" md5="7093536a61cd8a373c43fa77a9c96986" sha1="29214fbfb23354563ba608829453092992e6a98b"/>
 	</game>
 	<game name="Maestros Holandeses del Siglo XVII, Los (Spain)" sha1="6be0da4dffa9d841c40459b95b7410ba6fc3f0e8" size="306708674" crc="bdd28365" fullsha1="42f408684c3fb9297effe6dbc12012ec123d4de8" dataSha1="0fa5f2d2e60a4706bdc57d40c475b8c2688be6a5">
 		<category>Games</category>
@@ -5239,15 +5289,15 @@
 		<description>Max Magic (Europe)</description>
 		<rom name="Max Magic (Europe) (Track 01).bin" size="564889248" crc="6036cad4" md5="cf14ac6a5763bf6586030f6562661609" sha1="8c41b6658f3bed6d25eeb54862d48eaf87843bca"/>
 	</game>
-	<game name="Max Magic (Europe) (Beta)" sha1="8738ce03b367e573ebf7e8b932a5ef00e778824b" size="134170954" crc="affbabf7" fullsha1="def60d15482c6d822b9c2af610af01dbf7d11012" dataSha1="5b145eae30cfb12896d2b6845506ef0f25bc197f">
+	<game name="Max Magic (Europe) (Beta) (1994-08-18)" sha1="8738ce03b367e573ebf7e8b932a5ef00e778824b" size="134170954" crc="affbabf7" fullsha1="def60d15482c6d822b9c2af610af01dbf7d11012" dataSha1="5b145eae30cfb12896d2b6845506ef0f25bc197f">
 		<category>Games</category>
-		<description>Max Magic (Europe) (Beta)</description>
-		<rom name="Max Magic (Europe) (Beta) (Track 01).bin" size="564950400" crc="e095f817" md5="3f2b14291f3741eb54057e83af3e598c" sha1="174a11c780ee467f5f1b82cdcefea29ca75b0b54"/>
+		<description>Max Magic (Europe) (Beta) (1994-08-18)</description>
+		<rom name="Max Magic (Europe) (Beta) (1994-08-18) (Track 01).bin" size="564950400" crc="e095f817" md5="3f2b14291f3741eb54057e83af3e598c" sha1="174a11c780ee467f5f1b82cdcefea29ca75b0b54"/>
 	</game>
-	<game name="Max Magic (USA) (Beta)" sha1="48d76db3042eddbd4e7bd998e18f6415fa2dc8ba" size="133953573" crc="d821eca5" fullsha1="f79d6ad40acdb0eb2edb39532b6de337dd527f60" dataSha1="4b326cc5994823a079177e2937d5fe24b1838711">
+	<game name="Max Magic (USA) (Beta) (1994-08-24)" sha1="48d76db3042eddbd4e7bd998e18f6415fa2dc8ba" size="133953573" crc="d821eca5" fullsha1="f79d6ad40acdb0eb2edb39532b6de337dd527f60" dataSha1="4b326cc5994823a079177e2937d5fe24b1838711">
 		<category>Games</category>
-		<description>Max Magic (USA) (Beta)</description>
-		<rom name="Max Magic (USA) (Beta) (Track 01).bin" size="565242048" crc="b26e850e" md5="b1945005a26f560134a31db623f933c7" sha1="07103550fb3ac26cfcd7330e0d55f65cc85d4e2a"/>
+		<description>Max Magic (USA) (Beta) (1994-08-24)</description>
+		<rom name="Max Magic (USA) (Beta) (1994-08-24) (Track 01).bin" size="565242048" crc="b26e850e" md5="b1945005a26f560134a31db623f933c7" sha1="07103550fb3ac26cfcd7330e0d55f65cc85d4e2a"/>
 	</game>
 	<game name="McDonnell Douglas (Europe)" sha1="81590a28d544d6f37091eb667dda5e84ebacd846" size="549605608" crc="c0b2b889" fullsha1="a6aeec2510c271ce1a9196bfc41d6be6aa4522f1" dataSha1="515cbcb47e5ef4239ebb15d2f671be65e26f66d5">
 		<category>Games</category>
@@ -5306,10 +5356,10 @@
 		<description>Meetings, Bloody Meetings (UK)</description>
 		<rom name="Meetings, Bloody Meetings (UK) (Track 01).bin" size="655855200" crc="c0032923" md5="d1d3470c0af94af8a561f9f9ce2b4058" sha1="bfb09e94b7f6adb1554530f13d52ca1371955bf9"/>
 	</game>
-	<game name="Mega Maze (Europe) (Beta)" sha1="5446ebaae9237d8925207e70035ae91795978d43" size="18030403" crc="89ba3849" fullsha1="658d1d2565b56f098a876263875c2a6ff770f493" dataSha1="9ce8b432c1aa2d7e632106caf4e0380f3183c3c3">
+	<game name="Mega Maze (Europe) (Beta) (1993-10-21)" sha1="5446ebaae9237d8925207e70035ae91795978d43" size="18030403" crc="89ba3849" fullsha1="658d1d2565b56f098a876263875c2a6ff770f493" dataSha1="9ce8b432c1aa2d7e632106caf4e0380f3183c3c3">
 		<category>Games</category>
-		<description>Mega Maze (Europe) (Beta)</description>
-		<rom name="Mega Maze (Europe) (Beta) (Track 01).bin" size="89775840" crc="a0eb4a64" md5="cdc81f9f829831d9adddd7bac3ffd9f0" sha1="ce36a649930c3eb0c4990e6946ab340e355935cc"/>
+		<description>Mega Maze (Europe) (Beta) (1993-10-21)</description>
+		<rom name="Mega Maze (Europe) (Beta) (1993-10-21) (Track 01).bin" size="89775840" crc="a0eb4a64" md5="cdc81f9f829831d9adddd7bac3ffd9f0" sha1="ce36a649930c3eb0c4990e6946ab340e355935cc"/>
 	</game>
 	<game name="Mega Popclassics (Netherlands) (En,Nl)" sha1="d5fc6faae02d64e6505d3eff202f234199edbfee" size="420105389" crc="114e0b5c" fullsha1="abc2711b9f6dc4539a3dd44d2ac5497b42acaa01" dataSha1="0fff1851cb064ec970e6ae7fb5a629df0040b68e">
 		<category>Games</category>
@@ -5406,15 +5456,25 @@
 		<description>Merz + Co. GmbH &amp; Co. - Tetesept Erkaeltungsmedizin (Germany)</description>
 		<rom name="Merz + Co. GmbH &amp; Co. - Tetesept Erkaeltungsmedizin (Germany) (Track 01).bin" size="254197104" crc="621d91b0" md5="254d6d065e1c4fd5a3ee4e5bb94b3ab1" sha1="70b3de7d044e0be0482598071ae48a552544d285"/>
 	</game>
+	<game name="Methode de Langues Multimedia, La - Je Parle l'Allemand - La Methode Senior (France)" sha1="6beb9bcaad8acd1e0d320241487052c5df816222" size="94677340" crc="8230d387" fullsha1="e6821a5cdd6c24bf60dd3f0cc7d4f7df6acf08bd" dataSha1="274c742e9bf7bcaf303756c09e709e34246c4469">
+		<category>Games</category>
+		<description>Methode de Langues Multimedia, La - Je Parle l'Allemand - La Methode Senior (France)</description>
+		<rom name="Methode de Langues Multimedia, La - Je Parle l'Allemand - La Methode Senior (France) (Track 01).bin" size="196436688" crc="3f9d3c7b" md5="b7c8c51ff513aa6d069a4a01ec885eed" sha1="afc7cc00541f36e598f217df52d3f7f15320a067"/>
+	</game>
 	<game name="Methode de Langues Multimedia, La - Je Parle l'Anglais - La Methode Junior (France)" sha1="431c133e5437b621f96e0e39e4e742ee899a024c" size="49219392" crc="13e75754" fullsha1="f679ca942420cafd778c6aa8c8fea3f03b0323a9" dataSha1="061a90112e8b0a1ac48ea4e7330c67f45a522be2">
 		<category>Games</category>
 		<description>Methode de Langues Multimedia, La - Je Parle l'Anglais - La Methode Junior (France)</description>
 		<rom name="Methode de Langues Multimedia, La - Je Parle l'Anglais - La Methode Junior (France) (Track 01).bin" size="100298688" crc="ac08d6de" md5="95524d8854098b3b92a68a257c0a72f9" sha1="5eda25bb274ab78a38a40a8ac93a6e5f2ab7fdc8"/>
 	</game>
-	<game name="MindQuest (Europe) (Proto)" sha1="7fab98845d8006c2868d326868c05cbf36bd431e" size="331785597" crc="d2bd1c1d" fullsha1="32ff249875d2c2b934aa2705304b1ca16063fed4" dataSha1="c6b5218f97cc90e840f15529c97789950674661c">
+	<game name="Methode de Langues Multimedia, La - Je Parle l'Anglais - Senior (France)" sha1="57c0d56f784534669195a37865d00dc78848037e" size="95966399" crc="b14c032f" fullsha1="b221e4a6ddcecf732b2c9bc124780092f102fbbf" dataSha1="835089a03d9258d09600daed7a690c6539c30e81">
 		<category>Games</category>
-		<description>MindQuest (Europe) (Proto)</description>
-		<rom name="MindQuest (Europe) (Proto) (Track 01).bin" size="704894400" crc="c98c2829" md5="bbbacf95ea816768efea7dcbe7e4e91e" sha1="d35f22c6babc3b7de9a7674cda547e0b8e419438"/>
+		<description>Methode de Langues Multimedia, La - Je Parle l'Anglais - Senior (France)</description>
+		<rom name="Methode de Langues Multimedia, La - Je Parle l'Anglais - Senior (France) (Track 01).bin" size="202994064" crc="db4ac966" md5="5d590876514ba9decd24d5b9f32e53d9" sha1="9ec0a4c63c77e9de4723e0054cb0488493651c56"/>
+	</game>
+	<game name="MindQuest (Europe) (Proto) (1992-01-24)" sha1="7fab98845d8006c2868d326868c05cbf36bd431e" size="331785597" crc="d2bd1c1d" fullsha1="32ff249875d2c2b934aa2705304b1ca16063fed4" dataSha1="c6b5218f97cc90e840f15529c97789950674661c">
+		<category>Games</category>
+		<description>MindQuest (Europe) (Proto) (1992-01-24)</description>
+		<rom name="MindQuest (Europe) (Proto) (1992-01-24) (Track 01).bin" size="704894400" crc="c98c2829" md5="bbbacf95ea816768efea7dcbe7e4e91e" sha1="d35f22c6babc3b7de9a7674cda547e0b8e419438"/>
 	</game>
 	<game name="Mission on Music - June 1995 (Europe)" sha1="fdece89009e53b588f27300fc3e0bf9b0519c859" size="287105352" crc="a0f2435b" fullsha1="4f272d0643f50f4e0d7e50b78e97a90b4f5c4de6" dataSha1="9e4193ec69e27a63eb20849d464be8788b712983">
 		<category>Games</category>
@@ -5431,10 +5491,10 @@
 		<rom name="Money at Work (UK) (Track 01).bin" size="182578704" crc="34e481fa" md5="2e7c124563a3eb408422263675c11890" sha1="b2cdcf0c07d67afecdcd368cb81ec1aced95792c"/>
 		<rom name="Money at Work (UK) (Track 02).bin" size="370068384" crc="66e6bc0e" md5="5f13f94cfc055dfd36ce3874c6a7c8a8" sha1="90f3153f93cf600b5b59cd5478390413a6446e3d"/>
 	</game>
-	<game name="Monty Python's Invasion from the Planet Skyron (Europe) (Beta)" sha1="e80fffddc2834f71198dc8a62e09b90f1f47c984" size="326843166" crc="3556525a" fullsha1="7630c7a26e07b7c9e46af0ccb4224f8b3a6b149f" dataSha1="17b5693f9e8e2c053fa5bc4bd61d00574221bcd4">
+	<game name="Monty Python's Invasion from the Planet Skyron (Europe) (Beta) (1995-05-15)" sha1="e80fffddc2834f71198dc8a62e09b90f1f47c984" size="326843166" crc="3556525a" fullsha1="7630c7a26e07b7c9e46af0ccb4224f8b3a6b149f" dataSha1="17b5693f9e8e2c053fa5bc4bd61d00574221bcd4">
 		<category>Games</category>
-		<description>Monty Python's Invasion from the Planet Skyron (Europe) (Beta)</description>
-		<rom name="Monty Python's Invasion from the Planet Skyron (Europe) (Beta) (Track 01).bin" size="511388304" crc="34aadf9e" md5="829c603228c08f1f6e5d3da8a678dd9f" sha1="f57fcbbeb235b3ecd535dc60f60c6232c6c510ef"/>
+		<description>Monty Python's Invasion from the Planet Skyron (Europe) (Beta) (1995-05-15)</description>
+		<rom name="Monty Python's Invasion from the Planet Skyron (Europe) (Beta) (1995-05-15) (Track 01).bin" size="511388304" crc="34aadf9e" md5="829c603228c08f1f6e5d3da8a678dd9f" sha1="f57fcbbeb235b3ecd535dc60f60c6232c6c510ef"/>
 	</game>
 	<game name="More Dark Fables from Aesop (Europe)" sha1="9227816d0e42155ec25cd0a2214f93aad04bf90d" size="401658947" crc="96c1ada8" fullsha1="8bfb631d3be995aa7ec4558e137e611e29ebe0de" dataSha1="55687aee358480dd8ae433439af48b36e20842ee">
 		<category>Games</category>
@@ -5596,11 +5656,11 @@
 		<description>Muziek in Economie (Netherlands)</description>
 		<rom name="Muziek in Economie (Netherlands) (Track 01).bin" size="611226000" crc="eef466b1" md5="ec651c79df1a9c343688504c5314c654" sha1="2e63a6318f2ae7fead1d784da2237a8b64383bfb"/>
 	</game>
-	<game name="Muzzy (Europe) (Beta)" sha1="fb606efcb85ae51de0c8bf6b2cdf12d873b7eb72" size="656306132" crc="d273f714" fullsha1="db62a551a3ee45a68b90c4c290f7ae73a1243306" dataSha1="97e6e278cb57afd8834a138deeb1a0dee3fc72aa">
+	<game name="Muzzy (Europe) (Beta) (1994-07-14)" sha1="fb606efcb85ae51de0c8bf6b2cdf12d873b7eb72" size="656306132" crc="d273f714" fullsha1="db62a551a3ee45a68b90c4c290f7ae73a1243306" dataSha1="97e6e278cb57afd8834a138deeb1a0dee3fc72aa">
 		<category>Games</category>
-		<description>Muzzy (Europe) (Beta)</description>
-		<rom name="Muzzy (Europe) (Beta) (Track 01).bin" size="647388000" crc="2e3cec3f" md5="f697c2b0cb14d6821e0b12f3a5f83fbd" sha1="d9c0b7d9b5d14d6a672e1151600827c776b383cc"/>
-		<rom name="Muzzy (Europe) (Beta) (Track 02).bin" size="150116400" crc="2c532d35" md5="51ba0e3273b8f1a9face444b920ec6f3" sha1="8f12cf3d156e62d561195e5a6f0a634adafeffda"/>
+		<description>Muzzy (Europe) (Beta) (1994-07-14)</description>
+		<rom name="Muzzy (Europe) (Beta) (1994-07-14) (Track 01).bin" size="647388000" crc="2e3cec3f" md5="f697c2b0cb14d6821e0b12f3a5f83fbd" sha1="d9c0b7d9b5d14d6a672e1151600827c776b383cc"/>
+		<rom name="Muzzy (Europe) (Beta) (1994-07-14) (Track 02).bin" size="150116400" crc="2c532d35" md5="51ba0e3273b8f1a9face444b920ec6f3" sha1="8f12cf3d156e62d561195e5a6f0a634adafeffda"/>
 	</game>
 	<game name="Mystic Midway - Phantom Express (USA)" sha1="f7e3dc3f6154095e0b0660efa9a35e1d03c90241" size="174720854" crc="c36fcc65" fullsha1="c59e4e47acd70fdbe22c490f8e9802fe367dfd50" dataSha1="abe4b14d3be36c719c8b80ed24dd65931add31b2">
 		<category>Games</category>
@@ -5617,15 +5677,15 @@
 		<description>NFL Hall of Fame Football (USA)</description>
 		<rom name="NFL Hall of Fame Football (USA) (Track 01).bin" size="770868000" crc="34a93b85" md5="246ec55d6ff2f7e0e039634f80dfe99f" sha1="864c4390c46983262f853bdd0d4dde5b864871e9"/>
 	</game>
-	<game name="NFL Hall of Fame Football (USA) (Beta)" sha1="cd4b3a07a4f94132be12cd6819ab20ab4a3a54c5" size="648352144" crc="c2330810" fullsha1="8418155a2b8706605bd69500b826a8e14d75817e" dataSha1="02b6474734d0881fe1f238dd423a967032142ed0">
+	<game name="NFL Hall of Fame Football (USA) (Beta) (1994-09-14)" sha1="cd4b3a07a4f94132be12cd6819ab20ab4a3a54c5" size="648352144" crc="c2330810" fullsha1="8418155a2b8706605bd69500b826a8e14d75817e" dataSha1="02b6474734d0881fe1f238dd423a967032142ed0">
 		<category>Games</category>
-		<description>NFL Hall of Fame Football (USA) (Beta)</description>
-		<rom name="NFL Hall of Fame Football (USA) (Beta) (Track 01).bin" size="762753600" crc="be44641e" md5="5336f040c7f3e319d144b5a8130ee497" sha1="cd9018d4ea3e5483bef4230d7a9a7a2cd35cc0ca"/>
+		<description>NFL Hall of Fame Football (USA) (Beta) (1994-09-14)</description>
+		<rom name="NFL Hall of Fame Football (USA) (Beta) (1994-09-14) (Track 01).bin" size="762753600" crc="be44641e" md5="5336f040c7f3e319d144b5a8130ee497" sha1="cd9018d4ea3e5483bef4230d7a9a7a2cd35cc0ca"/>
 	</game>
-	<game name="NFL Instant Replay (Europe) (Beta)" sha1="8dc83bdb048eb9514f1c622e9415f2ae3c809151" size="640455239" crc="91242c17" fullsha1="0be64e154356483bbac7b20495ccb7b5a993db10" dataSha1="c91707bf566f9a4e74a0ac4efba21773e1969918">
+	<game name="NFL Instant Replay (Europe) (Beta) (1995-06-15)" sha1="8dc83bdb048eb9514f1c622e9415f2ae3c809151" size="640455239" crc="91242c17" fullsha1="0be64e154356483bbac7b20495ccb7b5a993db10" dataSha1="c91707bf566f9a4e74a0ac4efba21773e1969918">
 		<category>Games</category>
-		<description>NFL Instant Replay (Europe) (Beta)</description>
-		<rom name="NFL Instant Replay (Europe) (Beta) (Track 01).bin" size="735399840" crc="79f8236b" md5="fda7b9f6c6dc2bd7e1ef9435dc6a07ff" sha1="46ad7c84ccdcdbf04a28cb50eed51d858682d031"/>
+		<description>NFL Instant Replay (Europe) (Beta) (1995-06-15)</description>
+		<rom name="NFL Instant Replay (Europe) (Beta) (1995-06-15) (Track 01).bin" size="735399840" crc="79f8236b" md5="fda7b9f6c6dc2bd7e1ef9435dc6a07ff" sha1="46ad7c84ccdcdbf04a28cb50eed51d858682d031"/>
 	</game>
 	<game name="NFL Instant Replay (USA)" sha1="e4e060f9cb66577563e22822232c235089628ab3" size="640572746" crc="f42237b1" fullsha1="1708a8e53cc7f91b3db820d36f3cdf3b1b11d14c" dataSha1="ff87db2bd7779b0469b83a51f4c74b43f980c5ad">
 		<category>Games</category>
@@ -6160,10 +6220,10 @@
 		<description>Pecos Bill (USA)</description>
 		<rom name="Pecos Bill (USA) (Track 01).bin" size="573476400" crc="37ad7de5" md5="0805193cb29d00e50c38dfdf27671990" sha1="85cc2cd08b4febde474bac4e24c04106f617e042"/>
 	</game>
-	<game name="Pecos Bill (USA) (Beta)" sha1="b204908909b67b97636845ab58a0759331a817a8" size="155163813" crc="19505e26" fullsha1="dc7b2cee6dc0a5a2c04b9d5b84c72bdf2fe9e899" dataSha1="36b3865f43ca7adf614f42f5cd27f79b639cf3a4">
+	<game name="Pecos Bill (USA) (Beta) (1991-08-14)" sha1="b204908909b67b97636845ab58a0759331a817a8" size="155163813" crc="19505e26" fullsha1="dc7b2cee6dc0a5a2c04b9d5b84c72bdf2fe9e899" dataSha1="36b3865f43ca7adf614f42f5cd27f79b639cf3a4">
 		<category>Games</category>
-		<description>Pecos Bill (USA) (Beta)</description>
-		<rom name="Pecos Bill (USA) (Beta) (Track 01).bin" size="573829200" crc="46f4a371" md5="26abd5765efd0409facc7b5fc2e7f13e" sha1="92b96013cbc33ae5ed1604c78bac76719d0ce3b1"/>
+		<description>Pecos Bill (USA) (Beta) (1991-08-14)</description>
+		<rom name="Pecos Bill (USA) (Beta) (1991-08-14) (Track 01).bin" size="573829200" crc="46f4a371" md5="26abd5765efd0409facc7b5fc2e7f13e" sha1="92b96013cbc33ae5ed1604c78bac76719d0ce3b1"/>
 	</game>
 	<game name="Pegase (France)" sha1="b32874252365e39b5b5808e7af3e62ed8e4040a9" size="237096978" crc="68ada69f" fullsha1="a79215fa868635258fe6508074f77fa0ddd31dcc" dataSha1="19604a8dd28f323a6e6d1672c1be0742a7b78a6c">
 		<category>Games</category>
@@ -6496,10 +6556,10 @@
 		<description>Preparation a l'Examen du Permis de Chasser - Volume 2 - Connaissance des Especes (France)</description>
 		<rom name="Preparation a l'Examen du Permis de Chasser - Volume 2 - Connaissance des Especes (France) (Track 01).bin" size="748641600" crc="299c0986" md5="cf4d08836bbe16dc16b50d0c4335a820" sha1="2848581a7fcd27a3d459c816d70c84c791d835de"/>
 	</game>
-	<game name="Private Lesson Series - Jazz Guitar (USA) (Beta)" sha1="56cf161b338d8ac5dc6267c9d373288eef906134" size="306565313" crc="c73d1aba" fullsha1="e36b4aa438dca2477bd14ec9b3cbbdca5abe19cc" dataSha1="093ed0aff6f21e894e366d87b895998279eacdbd">
+	<game name="Private Lesson Series - Jazz Guitar (USA) (Beta) (1992-07-31)" sha1="56cf161b338d8ac5dc6267c9d373288eef906134" size="306565313" crc="c73d1aba" fullsha1="e36b4aa438dca2477bd14ec9b3cbbdca5abe19cc" dataSha1="093ed0aff6f21e894e366d87b895998279eacdbd">
 		<category>Games</category>
-		<description>Private Lesson Series - Jazz Guitar (USA) (Beta)</description>
-		<rom name="Private Lesson Series - Jazz Guitar (USA) (Beta) (Track 01).bin" size="610273440" crc="7b5d7122" md5="a90632d62121443eee3a7046ba97a59d" sha1="bc78be71cfafb1687ad6759b2f99e68e0653492a"/>
+		<description>Private Lesson Series - Jazz Guitar (USA) (Beta) (1992-07-31)</description>
+		<rom name="Private Lesson Series - Jazz Guitar (USA) (Beta) (1992-07-31) (Track 01).bin" size="610273440" crc="7b5d7122" md5="a90632d62121443eee3a7046ba97a59d" sha1="bc78be71cfafb1687ad6759b2f99e68e0653492a"/>
 	</game>
 	<game name="Private Lesson Series - Methode de Guitare Classique (France)" sha1="3fd54fdf6f9df9125feca729757e29c5ec1efa8b" size="262261778" crc="fb7d60a7" fullsha1="026fc98c45a6bbfbaac591f7e7604c96e1d88fca" dataSha1="40957d81f9dbbfd5071ad1cfa8aad1d4a8ee1686">
 		<category>Games</category>
@@ -6656,10 +6716,10 @@
 		<rom name="Revolution in Color, A (USA) (Track 05).bin" size="37467360" crc="153120bd" md5="68da86befc291dbc4c10898eefd5ee6b" sha1="a5ab407844f6664358101979b79d8d444b94a70c"/>
 		<rom name="Revolution in Color, A (USA) (Track 06).bin" size="87071040" crc="ce9f265f" md5="81f383251b5652d773422b4ce32055c4" sha1="99ea2be932a4f467d52674ad999ec1e2e218f85d"/>
 	</game>
-	<game name="Rhythm Maker (USA) (Beta)" sha1="b5cf3208a96bb115d0d5b6e44c8625beb038a288" size="18048524" crc="5957f64e" fullsha1="0254960151a60ab92504c3d81f660b345785a452" dataSha1="a0c948a29397a3acdc78ee8df97f16cb1f8fb317">
+	<game name="Rhythm Maker (USA) (Beta) (1993-03-09)" sha1="b5cf3208a96bb115d0d5b6e44c8625beb038a288" size="18048524" crc="5957f64e" fullsha1="0254960151a60ab92504c3d81f660b345785a452" dataSha1="a0c948a29397a3acdc78ee8df97f16cb1f8fb317">
 		<category>Games</category>
-		<description>Rhythm Maker (USA) (Beta)</description>
-		<rom name="Rhythm Maker (USA) (Beta) (Track 01).bin" size="49321440" crc="047238df" md5="ceb1fbad61d06633dfac50075b1489f7" sha1="208609f535f3f77da6106ef6383343f36fada3ec"/>
+		<description>Rhythm Maker (USA) (Beta) (1993-03-09)</description>
+		<rom name="Rhythm Maker (USA) (Beta) (1993-03-09) (Track 01).bin" size="49321440" crc="047238df" md5="ceb1fbad61d06633dfac50075b1489f7" sha1="208609f535f3f77da6106ef6383343f36fada3ec"/>
 	</game>
 	<game name="Richard Scarry - La Citta piu Indaffarata del Mondo! (Italy)" sha1="75636ab754f48a17e52908c0468d55ea01daec21" size="56865961" crc="529e607d" fullsha1="6e88e21907eec00340599c333cdfee71a8d73286" dataSha1="a64e9d41b5ca2e6d6fbaf32e9e968c70efc758a6">
 		<category>Games</category>
@@ -6686,10 +6746,10 @@
 		<description>Rise of the Robots (Europe) (Alt)</description>
 		<rom name="Rise of the Robots (Europe) (Alt) (Track 01).bin" size="306230400" crc="7565f8a7" md5="3b9c09668d96e49a2ab142e9d8a06b4b" sha1="644fbd0b365430659ba199fc4d3de1f6d966a0c8"/>
 	</game>
-	<game name="Rise of the Robots (Europe) (Beta)" sha1="a485b507a90501e6f18664fa4561b5405b33ef6b" size="113163451" crc="a08c944c" fullsha1="f5a281e3a613efd201c4a40feb2d60f39e39296e" dataSha1="8c651f88c022490c6046a3701bd7d68fe53a1c27">
+	<game name="Rise of the Robots (Europe) (Beta) (1995-08-24)" sha1="a485b507a90501e6f18664fa4561b5405b33ef6b" size="113163451" crc="a08c944c" fullsha1="f5a281e3a613efd201c4a40feb2d60f39e39296e" dataSha1="8c651f88c022490c6046a3701bd7d68fe53a1c27">
 		<category>Games</category>
-		<description>Rise of the Robots (Europe) (Beta)</description>
-		<rom name="Rise of the Robots (Europe) (Beta) (Track 01).bin" size="306230400" crc="56cc6c83" md5="0ff9a76e27191f8d1bb164c9f64484cc" sha1="8e080c7a2328becc87ed328425bab31249b6dde7"/>
+		<description>Rise of the Robots (Europe) (Beta) (1995-08-24)</description>
+		<rom name="Rise of the Robots (Europe) (Beta) (1995-08-24) (Track 01).bin" size="306230400" crc="56cc6c83" md5="0ff9a76e27191f8d1bb164c9f64484cc" sha1="8e080c7a2328becc87ed328425bab31249b6dde7"/>
 	</game>
 	<game name="Ritratto di Citta - Venezia (Italy)" sha1="4314d49c308c2da2fe06e32f105e0bfb97014983" size="312116621" crc="465cdd27" fullsha1="6602725a32438722c5064be2fb74c5d186e8d1ef" dataSha1="4de9d6c24d03becf6c7e5ed8320dfc123676c957">
 		<category>Games</category>
@@ -6811,10 +6871,10 @@
 		<description>Sandy's Circus Adventure (Europe)</description>
 		<rom name="Sandy's Circus Adventure (Europe) (Track 01).bin" size="489756960" crc="deae1d67" md5="754fc2f3d88d0da758ea0553ed1c4753" sha1="c444a026c8dfd9f8cb25b796c4c4370f997858ef"/>
 	</game>
-	<game name="Sargon Chess (USA) (Beta)" sha1="c17d7ef5b58b6d39ba714df6daf842856e097652" size="95526536" crc="f0642593" fullsha1="1555e5f725d8f803abecce198a19c25654e85036" dataSha1="336394ae0cf5b45f806377c7c22724257f1979e4">
+	<game name="Sargon Chess (USA) (Beta) (1991-10-01)" sha1="c17d7ef5b58b6d39ba714df6daf842856e097652" size="95526536" crc="f0642593" fullsha1="1555e5f725d8f803abecce198a19c25654e85036" dataSha1="336394ae0cf5b45f806377c7c22724257f1979e4">
 		<category>Games</category>
-		<description>Sargon Chess (USA) (Beta)</description>
-		<rom name="Sargon Chess (USA) (Beta) (Track 01).bin" size="396194400" crc="5724b80d" md5="994970519e487322f11c652c80ede394" sha1="a20967dbeb0a62003ec6f59aaf2123d3aff60e51"/>
+		<description>Sargon Chess (USA) (Beta) (1991-10-01)</description>
+		<rom name="Sargon Chess (USA) (Beta) (1991-10-01) (Track 01).bin" size="396194400" crc="5724b80d" md5="994970519e487322f11c652c80ede394" sha1="a20967dbeb0a62003ec6f59aaf2123d3aff60e51"/>
 	</game>
 	<game name="Say What You Want (UK)" sha1="3cdaf7f88110016083513362d82c5b528e56f2df" size="320937948" crc="2dc40d66" fullsha1="143f9d749f90a3f0feec0d8857fa6ac4093956fd" dataSha1="11182dc4b6f5907d2cf72b900d2dc4c56b178ae9">
 		<category>Games</category>
@@ -6853,10 +6913,10 @@
 		<description>Secret Mission (Europe) (Alt)</description>
 		<rom name="Secret Mission (Europe) (Alt) (Track 01).bin" size="636627600" crc="3f01f780" md5="56cf65dffa5490a5e9203d7c20f04c45" sha1="e08bf6ada38e02dc73d9929b309fde75c14bd4ab"/>
 	</game>
-	<game name="Secret Mission (Europe) (Beta)" sha1="0596e9613f574da2382f0bc51dc12e990cdae48c" size="157219417" crc="8e6b4692" fullsha1="793527031393cf5af02e671e641a4c9882a2aee0" dataSha1="fa67c9d2362b8f5f179fdcc552913f6d1de96d68">
+	<game name="Secret Mission (Europe) (Beta) (1995-04-24)" sha1="0596e9613f574da2382f0bc51dc12e990cdae48c" size="157219417" crc="8e6b4692" fullsha1="793527031393cf5af02e671e641a4c9882a2aee0" dataSha1="fa67c9d2362b8f5f179fdcc552913f6d1de96d68">
 		<category>Games</category>
-		<description>Secret Mission (Europe) (Beta)</description>
-		<rom name="Secret Mission (Europe) (Beta) (Track 01).bin" size="604875600" crc="cc0f215e" md5="ae334a8e6c994fd410c71881c25a4a3b" sha1="1fc7f9320cabb1bf84c52bc1fced1afeef8e19b9"/>
+		<description>Secret Mission (Europe) (Beta) (1995-04-24)</description>
+		<rom name="Secret Mission (Europe) (Beta) (1995-04-24) (Track 01).bin" size="604875600" crc="cc0f215e" md5="ae334a8e6c994fd410c71881c25a4a3b" sha1="1fc7f9320cabb1bf84c52bc1fced1afeef8e19b9"/>
 	</game>
 	<game name="Secret Mission (France)" sha1="20dcf67803ba12bbbdbd78018c5189a842fab9b0" size="164512247" crc="70011f76" fullsha1="a6a88de9aec89d69eff345cf1eceecb7b95df7a6" dataSha1="48b9a3d8e302e1f5466ff57131fdd1a8a79e09e2">
 		<category>Games</category>
@@ -6928,10 +6988,10 @@
 		<description>Si Balla! (Italy)</description>
 		<rom name="Si Balla! (Italy) (Track 01).bin" size="622339200" crc="e5e42b43" md5="56b2d05183e93e035339b681a1a9798b" sha1="61e18b406820aaf44658c2e32ac5495830f4abc7"/>
 	</game>
-	<game name="Si Balla! (Italy) (Beta)" sha1="d00fd38e8e4128516dafaa6729c2705dc99baf20" size="521009856" crc="d67c94ae" fullsha1="d3675d604f19f04e3f8c0817ce5c3209c59a1da9" dataSha1="804ea9dd9a98ef92c9ffdc24125ca419733390a1">
+	<game name="Si Balla! (Italy) (Beta) (1994-12-22)" sha1="d00fd38e8e4128516dafaa6729c2705dc99baf20" size="521009856" crc="d67c94ae" fullsha1="d3675d604f19f04e3f8c0817ce5c3209c59a1da9" dataSha1="804ea9dd9a98ef92c9ffdc24125ca419733390a1">
 		<category>Games</category>
-		<description>Si Balla! (Italy) (Beta)</description>
-		<rom name="Si Balla! (Italy) (Beta) (Track 01).bin" size="622692000" crc="9ffe027a" md5="b956b14a6d31d8c192c0c59f6eb1fe7f" sha1="8669b6b0bc201834cc5f6d011180ff60e34ebc19"/>
+		<description>Si Balla! (Italy) (Beta) (1994-12-22)</description>
+		<rom name="Si Balla! (Italy) (Beta) (1994-12-22) (Track 01).bin" size="622692000" crc="9ffe027a" md5="b956b14a6d31d8c192c0c59f6eb1fe7f" sha1="8669b6b0bc201834cc5f6d011180ff60e34ebc19"/>
 	</game>
 	<game name="Sieben Schritte zum Erfolg (Germany)" sha1="ea66176d0e58f8918a6af4cf244dc54a7901534e" size="222120817" crc="3949dce6" fullsha1="54c7e6ceef2e152bdef0d76c988aa50bc01c3ae6" dataSha1="e4c3a3ffc1cfcb0dc591ebd2f33fe8c9fd4f7557">
 		<category>Games</category>
@@ -6978,20 +7038,20 @@
 		<description>Smilde (Netherlands)</description>
 		<rom name="Smilde (Netherlands) (Track 01).bin" size="270425904" crc="005014d6" md5="b8e113eedca6db66e56c725442edb009" sha1="6280653f5d154f22c9f00b431c30ca6a123402c7"/>
 	</game>
-	<game name="Smithsonian Presents, The - Stamps - Windows on the World (France)" sha1="e8aa2e2ee974436218661381bed900e5832972d9" size="307821820" crc="97419b88" fullsha1="912c7da59b5ad44e1c69d7ef57eb383e266e88d9" dataSha1="decc0f8c10e6ada6a74a5f752979247ab598a56b">
+	<game name="Smithsonian Presents, The - Stamps - Windows on the World (Europe)" sha1="e8aa2e2ee974436218661381bed900e5832972d9" size="307821820" crc="97419b88" fullsha1="912c7da59b5ad44e1c69d7ef57eb383e266e88d9" dataSha1="decc0f8c10e6ada6a74a5f752979247ab598a56b">
 		<category>Games</category>
-		<description>Smithsonian Presents, The - Stamps - Windows on the World (France)</description>
-		<rom name="Smithsonian Presents, The - Stamps - Windows on the World (France) (Track 01).bin" size="622362720" crc="0d93b06b" md5="72fc29c461a076ceaeb7d0a841b77bb9" sha1="8b10ff8ad9aec268dfe0d55fa9190e78faf09a60"/>
+		<description>Smithsonian Presents, The - Stamps - Windows on the World (Europe)</description>
+		<rom name="Smithsonian Presents, The - Stamps - Windows on the World (Europe) (Track 01).bin" size="622362720" crc="0d93b06b" md5="72fc29c461a076ceaeb7d0a841b77bb9" sha1="8b10ff8ad9aec268dfe0d55fa9190e78faf09a60"/>
 	</game>
 	<game name="Solar Crusade (Europe)" sha1="43735fd192a940175c55ad0523fd04e7d8a4c997" size="471383458" crc="70bbd7d6" fullsha1="4f578847cb2e888ec71c596c5e1249d2f746c497" dataSha1="05f80faf1ce0f68814d40343ba83524b9b1e851d">
 		<category>Games</category>
 		<description>Solar Crusade (Europe)</description>
 		<rom name="Solar Crusade (Europe) (Track 01).bin" size="632575104" crc="a5c7156f" md5="a7093b9cd44b68da4dfe5c9f9e65054c" sha1="79be3bd71a5fe6b41ac2fe13f20e88ca13fdb0d0"/>
 	</game>
-	<game name="Solitaire (Europe) (Proto)" sha1="09a526c27be63043ecf43e5b48f0ec0665d2de4d" size="2696161" crc="10644e77" fullsha1="fef84db186d66c17bbf6b23aa4222e49e1f499cf" dataSha1="bf113de01fa8d7828201871c419c3c4f3321446e">
+	<game name="Solitaire (Europe) (Proto) (1997-12-15)" sha1="09a526c27be63043ecf43e5b48f0ec0665d2de4d" size="2696161" crc="10644e77" fullsha1="fef84db186d66c17bbf6b23aa4222e49e1f499cf" dataSha1="bf113de01fa8d7828201871c419c3c4f3321446e">
 		<category>Games</category>
-		<description>Solitaire (Europe) (Proto)</description>
-		<rom name="Solitaire (Europe) (Proto) (Track 01).bin" size="17291904" crc="39efcbdf" md5="c9316c62e7a405bee3c2b4b16389dc04" sha1="0ca74207cb8630a9f5543289b41ea9a119841245"/>
+		<description>Solitaire (Europe) (Proto) (1997-12-15)</description>
+		<rom name="Solitaire (Europe) (Proto) (1997-12-15) (Track 01).bin" size="17291904" crc="39efcbdf" md5="c9316c62e7a405bee3c2b4b16389dc04" sha1="0ca74207cb8630a9f5543289b41ea9a119841245"/>
 	</game>
 	<game name="Somewhere - Une Envie de Naturel (France)" sha1="762a714601e94b9be6f9417a83926cd94f0f62a7" size="158408552" crc="a73214a7" fullsha1="809190e02a61255d758917689c80e1b5eb397239" dataSha1="785b777c7a1c4719ab3cb5e829c3a230cd404bfc">
 		<category>Games</category>
@@ -7134,20 +7194,20 @@
 		<description>Stickybear Preschool (Europe)</description>
 		<rom name="Stickybear Preschool (Europe) (Track 01).bin" size="672140448" crc="d9583749" md5="82a0c3f7a120014ebabf72fad87cc790" sha1="117b7972bab9827cb88b7a3ddecb34909acd47f7"/>
 	</game>
-	<game name="Stickybear Preschool (Europe) (En,Es) (Beta)" sha1="c53d63b080b8931740244972f621e84f926c0548" size="92307184" crc="87e2c7a8" fullsha1="783a09c00fb9ddfd04daa11fa83a6274312450e1" dataSha1="22675c2c9c65492da684a055c8a63d93f50b51e8">
+	<game name="Stickybear Preschool (Europe) (En,Es) (Beta) (1994-09-26)" sha1="c53d63b080b8931740244972f621e84f926c0548" size="92307184" crc="87e2c7a8" fullsha1="783a09c00fb9ddfd04daa11fa83a6274312450e1" dataSha1="22675c2c9c65492da684a055c8a63d93f50b51e8">
 		<category>Games</category>
-		<description>Stickybear Preschool (Europe) (En,Es) (Beta)</description>
-		<rom name="Stickybear Preschool (Europe) (En,Es) (Beta) (Track 01).bin" size="672493248" crc="e899c964" md5="aaf6afe07c9b767d742059608e48d081" sha1="e6a2f06005ca7960c5c5cdc6e2bbd25cc9520930"/>
+		<description>Stickybear Preschool (Europe) (En,Es) (Beta) (1994-09-26)</description>
+		<rom name="Stickybear Preschool (Europe) (En,Es) (Beta) (1994-09-26) (Track 01).bin" size="672493248" crc="e899c964" md5="aaf6afe07c9b767d742059608e48d081" sha1="e6a2f06005ca7960c5c5cdc6e2bbd25cc9520930"/>
 	</game>
 	<game name="Stickybear Preschool (USA) (En,Es)" sha1="174fc4ed9b242f0942f6123fe9a88db289036807" size="92307986" crc="e2d49344" fullsha1="0bf05acec482975ef29d3d3156f810ec44f87aab" dataSha1="a95f18a3ea4635e71c57e0011ab145423e9f0d74">
 		<category>Games</category>
 		<description>Stickybear Preschool (USA) (En,Es)</description>
 		<rom name="Stickybear Preschool (USA) (En,Es) (Track 01).bin" size="672493248" crc="1502ebb4" md5="953c1218047617b4dd864e12d0c98079" sha1="0205936e470c877cc76d88d98c645e51b898284e"/>
 	</game>
-	<game name="Stickybear Preschool (USA) (En,Es) (Beta)" sha1="58b94c4926ef3723579fddcbf09a93b466b204cd" size="92308204" crc="2123308b" fullsha1="b329db66a418861bc6b7eb0d33d21c1fbaf25b44" dataSha1="451c16e49078505724b685ebac712347febb0876">
+	<game name="Stickybear Preschool (USA) (En,Es) (Beta) (1994-09-21)" sha1="58b94c4926ef3723579fddcbf09a93b466b204cd" size="92308204" crc="2123308b" fullsha1="b329db66a418861bc6b7eb0d33d21c1fbaf25b44" dataSha1="451c16e49078505724b685ebac712347febb0876">
 		<category>Games</category>
-		<description>Stickybear Preschool (USA) (En,Es) (Beta)</description>
-		<rom name="Stickybear Preschool (USA) (En,Es) (Beta) (Track 01).bin" size="672493248" crc="d48b1157" md5="a761e5fdded0ccbcd3a32f6ecd1e91d2" sha1="3ee5ffe738f12edc62551d5999d0964f9b2fb151"/>
+		<description>Stickybear Preschool (USA) (En,Es) (Beta) (1994-09-21)</description>
+		<rom name="Stickybear Preschool (USA) (En,Es) (Beta) (1994-09-21) (Track 01).bin" size="672493248" crc="d48b1157" md5="a761e5fdded0ccbcd3a32f6ecd1e91d2" sha1="3ee5ffe738f12edc62551d5999d0964f9b2fb151"/>
 	</game>
 	<game name="Stickybear Reading (USA) (En,Es)" sha1="39f1b959781cf5a4450ef7edd8ee5a3771287cdd" size="94352116" crc="6cb77ae1" fullsha1="11337a4b49ea2b926534071349983c761865afe5" dataSha1="a7df7b0e11cbf3893d89fe22cf2207c9b4690ae6">
 		<category>Games</category>
@@ -7199,10 +7259,10 @@
 		<description>Stunde der Patrioten, Die (Germany) (Disc 2)</description>
 		<rom name="Stunde der Patrioten, Die (Germany) (Disc 2) (Track 01).bin" size="617047200" crc="18f09657" md5="694b4aa271cacdcb32e3efb72c7f5f81" sha1="d3e88c5bde22ec872726a95391e52f9f398c8d4c"/>
 	</game>
-	<game name="Super Mario's Wacky Worlds (USA) (Proto)" sha1="5d7573086172eb692532c6dcdb26f34b67baf8c0" size="8003568" crc="62ddc5ea" fullsha1="721cb9368a9055c4c7bc15d8becb284b48a3bc67" dataSha1="96df93e51c4ff24ec367500cdbb4159f5b0c6850">
+	<game name="Super Mario's Wacky Worlds (USA) (Proto) (1993-03-03)" sha1="5d7573086172eb692532c6dcdb26f34b67baf8c0" size="8003568" crc="62ddc5ea" fullsha1="721cb9368a9055c4c7bc15d8becb284b48a3bc67" dataSha1="96df93e51c4ff24ec367500cdbb4159f5b0c6850">
 		<category>Games</category>
-		<description>Super Mario's Wacky Worlds (USA) (Proto)</description>
-		<rom name="Super Mario's Wacky Worlds (USA) (Proto) (Track 01).bin" size="128677920" crc="a14d4eec" md5="ad88a5c99db03a5067b032cf08fa6be7" sha1="f0362c2184f5443f820f4153b73cd6e4ddf873b4"/>
+		<description>Super Mario's Wacky Worlds (USA) (Proto) (1993-03-03)</description>
+		<rom name="Super Mario's Wacky Worlds (USA) (Proto) (1993-03-03) (Track 01).bin" size="128677920" crc="a14d4eec" md5="ad88a5c99db03a5067b032cf08fa6be7" sha1="f0362c2184f5443f820f4153b73cd6e4ddf873b4"/>
 	</game>
 	<game name="Super Stories - Mom is Going to Stop It (USA)" sha1="2df46bc3cb3fb2bdf3aad7d4f901475cabe03587" size="115284658" crc="91eecec4" fullsha1="048b0e0efcfcb1989f6214ce638c864924d63444" dataSha1="8107f4be2222655fe6d1a6d2cea23b2cdf6f9700">
 		<category>Games</category>
@@ -7214,10 +7274,10 @@
 		<description>Super Stories - My Favorite Things (USA)</description>
 		<rom name="Super Stories - My Favorite Things (USA) (Track 01).bin" size="652861104" crc="85387c30" md5="5a79d56fc2d68e655111a71d7d649cbc" sha1="252b4676d6c905c0b8810d5732774f94e0e958ac"/>
 	</game>
-	<game name="SuperTest (Europe) (De,It) (Beta)" sha1="caba1db450afac8e6e0f753d2368957ad304cf81" size="307814304" crc="5f9b70bd" fullsha1="6d77f885c2717c4f2616c678cac2e2bb9721d3fd" dataSha1="ca225b94186453025fe2665e323148d7b4c8cd24">
+	<game name="SuperTest (Europe) (De,It) (Beta) (1995-04-11)" sha1="caba1db450afac8e6e0f753d2368957ad304cf81" size="307814304" crc="5f9b70bd" fullsha1="6d77f885c2717c4f2616c678cac2e2bb9721d3fd" dataSha1="ca225b94186453025fe2665e323148d7b4c8cd24">
 		<category>Games</category>
-		<description>SuperTest (Europe) (De,It) (Beta)</description>
-		<rom name="SuperTest (Europe) (De,It) (Beta) (Track 01).bin" size="586882800" crc="85acdd5d" md5="924f65e1b82fa5204775d0db26fba291" sha1="021c4874de7cb27eca9b181e15b7a41f9d8594b3"/>
+		<description>SuperTest (Europe) (De,It) (Beta) (1995-04-11)</description>
+		<rom name="SuperTest (Europe) (De,It) (Beta) (1995-04-11) (Track 01).bin" size="586882800" crc="85acdd5d" md5="924f65e1b82fa5204775d0db26fba291" sha1="021c4874de7cb27eca9b181e15b7a41f9d8594b3"/>
 	</game>
 	<game name="Swiss Click (Switzerland)" sha1="077df43dfb51142be6d44cf61a5a30c00b3dab06" size="308778795" crc="b93e8b68" fullsha1="90eca9793041a9237f51be027cae8d155a3d4d57" dataSha1="2743eef8476a442e5fea18f5b023e57b352c238a">
 		<category>Games</category>
@@ -7229,10 +7289,10 @@
 		<description>Synthelabo - Cardio-Vasculaire Dausse 1995 - Cours de Perfectionnement en Imagerie Cardiaque (France)</description>
 		<rom name="Synthelabo - Cardio-Vasculaire Dausse 1995 - Cours de Perfectionnement en Imagerie Cardiaque (France) (Track 01).bin" size="300938400" crc="fd283171" md5="31b84977d913a6ab5dad3fe2de3e753d" sha1="bc5a9b68ed9bbd2158c391b492228adc6931990c"/>
 	</game>
-	<game name="TR-I - No World Order (USA) (Beta)" sha1="09994d54fb21307cba13e5c6d0e8bd243b16b0d5" size="627930750" crc="06710aba" fullsha1="58bd897ae077aac4c87de33f5764919ace52e92e" dataSha1="32216b788a97a1026fffc150bdf5d04e92f03c6d">
+	<game name="TR-I - No World Order (USA) (Beta) (1993-06-22)" sha1="09994d54fb21307cba13e5c6d0e8bd243b16b0d5" size="627930750" crc="06710aba" fullsha1="58bd897ae077aac4c87de33f5764919ace52e92e" dataSha1="32216b788a97a1026fffc150bdf5d04e92f03c6d">
 		<category>Games</category>
-		<description>TR-I - No World Order (USA) (Beta)</description>
-		<rom name="TR-I - No World Order (USA) (Beta) (Track 01).bin" size="750146880" crc="34888f31" md5="233dff7707cb95c7175669766f9c55d0" sha1="378ae43b6adadf2d5f6ba9a094f765fe8c155654"/>
+		<description>TR-I - No World Order (USA) (Beta) (1993-06-22)</description>
+		<rom name="TR-I - No World Order (USA) (Beta) (1993-06-22) (Track 01).bin" size="750146880" crc="34888f31" md5="233dff7707cb95c7175669766f9c55d0" sha1="378ae43b6adadf2d5f6ba9a094f765fe8c155654"/>
 	</game>
 	<game name="TV Interactief - Site Seeing in Digitaal Eindhoven (Netherlands)" sha1="1242c43f60631e8beadf64cc928cfa768668c896" size="630854773" crc="a3da3ecc" fullsha1="dab6573e46a6c639692bbe66c6ba9cfa4ce17510" dataSha1="ec87c1710ddfb019aa0479465be714908911a124">
 		<category>Games</category>
@@ -7262,10 +7322,10 @@
 		<description>Tangram (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt)</description>
 		<rom name="Tangram (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt) (Track 01).bin" size="671025600" crc="d2d6ebc1" md5="7785a754569ff74b67b71c1a9c36e742" sha1="d10e38bcdd0962b5e25f3c19dd206df783c3726d"/>
 	</game>
-	<game name="Tangram (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt) (Beta)" sha1="bec3deb7ca3b98e77aab4d0472d4a5f425668e05" size="158360822" crc="de3ea89c" fullsha1="9a51c73da178192c4b9acd108926bca340c5d1d6" dataSha1="6668f03c4b5b4666812fb2f1e00d6aae5e13cbd3">
+	<game name="Tangram (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt) (Beta) (1992-08-28)" sha1="bec3deb7ca3b98e77aab4d0472d4a5f425668e05" size="158360822" crc="de3ea89c" fullsha1="9a51c73da178192c4b9acd108926bca340c5d1d6" dataSha1="6668f03c4b5b4666812fb2f1e00d6aae5e13cbd3">
 		<category>Games</category>
-		<description>Tangram (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt) (Beta)</description>
-		<rom name="Tangram (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt) (Beta) (Track 01).bin" size="536608800" crc="979cc751" md5="fc91520bc630d571e6fa564ff3f39a5a" sha1="877650cdd4d85df308b79c7c64438930171fcade"/>
+		<description>Tangram (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt) (Beta) (1992-08-28)</description>
+		<rom name="Tangram (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt) (Beta) (1992-08-28) (Track 01).bin" size="536608800" crc="979cc751" md5="fc91520bc630d571e6fa564ff3f39a5a" sha1="877650cdd4d85df308b79c7c64438930171fcade"/>
 	</game>
 	<game name="Targeting for Performance (UK) (Disc 1)" sha1="b0e43d529ffa11edc1ca86c5f6414d879f4a7c83" size="433837837" crc="9ee74379" fullsha1="5e2de82b59c75091754b4fa8055fdb7916788b33" dataSha1="468abe7f7fab99c1fb081d4b66b2f1873a67c91d">
 		<category>Games</category>
@@ -7298,10 +7358,10 @@
 		<description>Tele CD-i Demonstrator (Europe)</description>
 		<rom name="Tele CD-i Demonstrator (Europe) (Track 01).bin" size="147823200" crc="7dad00c4" md5="18c569b0b4022db5f524e1ebc023fc34" sha1="9ce2a2048511a18b40d5774a107d5651d6ceb6d4"/>
 	</game>
-	<game name="Tele CD-i Demonstrator (Europe) (Beta)" sha1="87b2a609b79f8173904093f4f1ca48c1d8017873" size="53103170" crc="8d4feac1" fullsha1="4995a72721f65a2041491824ead8ee789f457b62" dataSha1="c8743abbf227d9f37a9435cb16052bcd215d466b">
+	<game name="Tele CD-i Demonstrator (Europe) (Beta) (1994-02-22)" sha1="87b2a609b79f8173904093f4f1ca48c1d8017873" size="53103170" crc="8d4feac1" fullsha1="4995a72721f65a2041491824ead8ee789f457b62" dataSha1="c8743abbf227d9f37a9435cb16052bcd215d466b">
 		<category>Games</category>
-		<description>Tele CD-i Demonstrator (Europe) (Beta)</description>
-		<rom name="Tele CD-i Demonstrator (Europe) (Beta) (Track 01).bin" size="100900800" crc="14b2afc2" md5="10fab6ac63cb7b2e476dd209c0cbc2eb" sha1="563776200efb5e0bc606c6e15263b65ad91ec604"/>
+		<description>Tele CD-i Demonstrator (Europe) (Beta) (1994-02-22)</description>
+		<rom name="Tele CD-i Demonstrator (Europe) (Beta) (1994-02-22) (Track 01).bin" size="100900800" crc="14b2afc2" md5="10fab6ac63cb7b2e476dd209c0cbc2eb" sha1="563776200efb5e0bc606c6e15263b65ad91ec604"/>
 	</game>
 	<game name="TeleApotheke - Winterprogramm 1995 (B) (Germany)" sha1="3ab46319441621adfa8804b80652bc4d2ead0a34" size="205799564" crc="8f2197ec" fullsha1="035361d8d1dc8533ca98fd543348e2466fca27a1" dataSha1="b8728f42975c494e6a221f961487dddffe41320d">
 		<category>Games</category>
@@ -7313,10 +7373,10 @@
 		<description>Tesoro dell'Isola dei Giochi, Il (Italy)</description>
 		<rom name="Tesoro dell'Isola dei Giochi, Il (Italy) (Track 01).bin" size="360914400" crc="18168b3e" md5="c1ba6b2f7012354c66a7fd970e81ff07" sha1="50c57badf1b9498474ab38f05dc4d68aa42f6d2e"/>
 	</game>
-	<game name="Tesoro dell'Isola dei Giochi, Il (Italy) (Beta)" sha1="3e5439d1c8fe3120a7af8250a6a2218327cf7979" size="141095013" crc="a7d6b250" fullsha1="672acbacd2f727b4eaca613db804a65f12bfebd0" dataSha1="d0574f97c0ccaa22bc0089ffb10bb3c60e2aad19">
+	<game name="Tesoro dell'Isola dei Giochi, Il (Italy) (Beta) (1994-12-02)" sha1="3e5439d1c8fe3120a7af8250a6a2218327cf7979" size="141095013" crc="a7d6b250" fullsha1="672acbacd2f727b4eaca613db804a65f12bfebd0" dataSha1="d0574f97c0ccaa22bc0089ffb10bb3c60e2aad19">
 		<category>Games</category>
-		<description>Tesoro dell'Isola dei Giochi, Il (Italy) (Beta)</description>
-		<rom name="Tesoro dell'Isola dei Giochi, Il (Italy) (Beta) (Track 01).bin" size="361267200" crc="ac19c05c" md5="8b1c14a431f37fd0b42c8911ca324ac9" sha1="0583f74ea4894dd5193de2adbdacfeffedf665d4"/>
+		<description>Tesoro dell'Isola dei Giochi, Il (Italy) (Beta) (1994-12-02)</description>
+		<rom name="Tesoro dell'Isola dei Giochi, Il (Italy) (Beta) (1994-12-02) (Track 01).bin" size="361267200" crc="ac19c05c" md5="8b1c14a431f37fd0b42c8911ca324ac9" sha1="0583f74ea4894dd5193de2adbdacfeffedf665d4"/>
 	</game>
 	<game name="Test Codoroute I (France)" sha1="b7b7565cac39c6f029f4ac78f2cc64d1d8970e63" size="254498032" crc="2ee33d23" fullsha1="1febbaf2b526da0a57dc82e7ed0268b537bdbe96" dataSha1="885b57b773382268845d9b7ee60ccce5f5210633">
 		<category>Games</category>
@@ -7333,25 +7393,25 @@
 		<description>Test Programados Mecanica (Spain)</description>
 		<rom name="Test Programados Mecanica (Spain) (Track 01).bin" size="221210304" crc="f033fbb0" md5="6d94e0fcbe2003b12fd0d64fd5310541" sha1="b60dc93c750b8794076ac084f3c68a3bf0a28c0e"/>
 	</game>
-	<game name="Test Reglamentacion Especifico C-C1 (Spain) (Proto)" sha1="8f680d6c47084c4aa39f770c05a7e2c63ae642f9" size="8045187" crc="5413d5d0" fullsha1="e9bfdb9765c30a99b1295d9719cf95c3bd8d3298" dataSha1="db386a0ca8ece8d15f363a2a8555444ac6dba155">
+	<game name="Test Reglamentacion Especifico C-C1 (Spain) (Proto) (1999-06-25)" sha1="8f680d6c47084c4aa39f770c05a7e2c63ae642f9" size="8045187" crc="5413d5d0" fullsha1="e9bfdb9765c30a99b1295d9719cf95c3bd8d3298" dataSha1="db386a0ca8ece8d15f363a2a8555444ac6dba155">
 		<category>Games</category>
-		<description>Test Reglamentacion Especifico C-C1 (Spain) (Proto)</description>
-		<rom name="Test Reglamentacion Especifico C-C1 (Spain) (Proto) (Track 01).bin" size="42869904" crc="13a55ef2" md5="88a00c0f792542ff929be4762f84cad1" sha1="bc3cb328c2a05a62d66dde5e0a932deb34c32262"/>
+		<description>Test Reglamentacion Especifico C-C1 (Spain) (Proto) (1999-06-25)</description>
+		<rom name="Test Reglamentacion Especifico C-C1 (Spain) (Proto) (1999-06-25) (Track 01).bin" size="42869904" crc="13a55ef2" md5="88a00c0f792542ff929be4762f84cad1" sha1="bc3cb328c2a05a62d66dde5e0a932deb34c32262"/>
 	</game>
-	<game name="Tetris (USA) (Beta)" sha1="f63be4244a019170cfb42e021c200826549d9d12" size="208893048" crc="1d3c824f" fullsha1="2d7d8e24c7e93d4799941a545a9d92cfc1e06ba1" dataSha1="cd568818b30527a5456da20615c4327c3a7bbbfd">
+	<game name="Tetris (USA) (Beta) (1992-07-02)" sha1="f63be4244a019170cfb42e021c200826549d9d12" size="208893048" crc="1d3c824f" fullsha1="2d7d8e24c7e93d4799941a545a9d92cfc1e06ba1" dataSha1="cd568818b30527a5456da20615c4327c3a7bbbfd">
 		<category>Games</category>
-		<description>Tetris (USA) (Beta)</description>
-		<rom name="Tetris (USA) (Beta) (Track 01).bin" size="365242080" crc="8e04abd2" md5="96729f6baaaa492225fabaebf375165a" sha1="1cae15c0a7c1b1b39d50e2ceb72a33c8a50832f2"/>
+		<description>Tetris (USA) (Beta) (1992-07-02)</description>
+		<rom name="Tetris (USA) (Beta) (1992-07-02) (Track 01).bin" size="365242080" crc="8e04abd2" md5="96729f6baaaa492225fabaebf375165a" sha1="1cae15c0a7c1b1b39d50e2ceb72a33c8a50832f2"/>
 	</game>
 	<game name="Thrombolyse dans Tous Ses Etats, La (France)" sha1="84bf5d168b34ef605370926f767656a2555fb733" size="207310215" crc="a56e8dd2" fullsha1="564809c4f7177b081ce677eb85290f4ead6f58b2" dataSha1="1cb563edde6febc1c58d2093d38404aa814aa22b">
 		<category>Games</category>
 		<description>Thrombolyse dans Tous Ses Etats, La (France)</description>
 		<rom name="Thrombolyse dans Tous Ses Etats, La (France) (Track 01).bin" size="373267104" crc="f18f6c43" md5="f09a1fcec6721b3ab5ed4a9e472d4699" sha1="9813d39f2e248b4929638027b71f8b87e6ab24ef"/>
 	</game>
-	<game name="TicTac (Europe) (Proto)" sha1="9f04d012f9e4c967ce4d9174264793f3b00b17b4" size="4025845" crc="3777c41a" fullsha1="d7f07a7a3051f6286448ff9edbbeed76d51709ba" dataSha1="2db64253f642f7b2d404ae6fd4f4daceac847f4b">
+	<game name="TicTac (Europe) (Proto) (1997-12-15)" sha1="9f04d012f9e4c967ce4d9174264793f3b00b17b4" size="4025845" crc="3777c41a" fullsha1="d7f07a7a3051f6286448ff9edbbeed76d51709ba" dataSha1="2db64253f642f7b2d404ae6fd4f4daceac847f4b">
 		<category>Games</category>
-		<description>TicTac (Europe) (Proto)</description>
-		<rom name="TicTac (Europe) (Proto) (Track 01).bin" size="10412304" crc="706c509e" md5="56a2d727ff39d199eb9b3775d38c5f04" sha1="d83415fba81d988f3ef43fb91a62cd8e2342c7be"/>
+		<description>TicTac (Europe) (Proto) (1997-12-15)</description>
+		<rom name="TicTac (Europe) (Proto) (1997-12-15) (Track 01).bin" size="10412304" crc="706c509e" md5="56a2d727ff39d199eb9b3775d38c5f04" sha1="d83415fba81d988f3ef43fb91a62cd8e2342c7be"/>
 	</game>
 	<game name="Tim &amp; Bear at the Harbour (UK)" sha1="d7ca9689c3f4cdb38bb34ac3802d1c63e7cff8a1" size="126970843" crc="7adb1f9c" fullsha1="12e251ad193a5f14bd07f08c3a00038dcc86f7ee" dataSha1="253e1c05b79e09924e9b834b49cbf360ca7db1f3">
 		<category>Games</category>
@@ -8121,10 +8181,10 @@
 		<description>Voyeur (USA) (Rev 1)</description>
 		<rom name="Voyeur (USA) (Rev 1) (Track 01).bin" size="787978800" crc="1a9ae006" md5="ae2ab2adb34b6e043425334f0ab4bb3c" sha1="4f52122fcbeb1ac921ce00d144dc93bb814809d1"/>
 	</game>
-	<game name="Wacky World of Miniature Golf with Eugene Levy, The (USA) (Beta)" sha1="61e97f8765b73a9681be82b4dbb51051a43a4b4d" size="163849005" crc="f976d1f1" fullsha1="e784ef30701a62171117c333087b83015571ced6" dataSha1="996ecfa329d7f5e75db622eaf54b60f55b9c8df2">
+	<game name="Wacky World of Miniature Golf with Eugene Levy, The (USA) (Beta) (1993-07-22)" sha1="61e97f8765b73a9681be82b4dbb51051a43a4b4d" size="163849005" crc="f976d1f1" fullsha1="e784ef30701a62171117c333087b83015571ced6" dataSha1="996ecfa329d7f5e75db622eaf54b60f55b9c8df2">
 		<category>Games</category>
-		<description>Wacky World of Miniature Golf with Eugene Levy, The (USA) (Beta)</description>
-		<rom name="Wacky World of Miniature Golf with Eugene Levy, The (USA) (Beta) (Track 01).bin" size="753957120" crc="1af52950" md5="56a92145333ddc88a430dcc3d579ca18" sha1="72a5badeab0387f5a703359df60f575ba770fee2"/>
+		<description>Wacky World of Miniature Golf with Eugene Levy, The (USA) (Beta) (1993-07-22)</description>
+		<rom name="Wacky World of Miniature Golf with Eugene Levy, The (USA) (Beta) (1993-07-22) (Track 01).bin" size="753957120" crc="1af52950" md5="56a92145333ddc88a430dcc3d579ca18" sha1="72a5badeab0387f5a703359df60f575ba770fee2"/>
 	</game>
 	<game name="Wall in Motion - Upper GI Motility Visualized as Never Before (Europe)" sha1="14385cb7d4b05b0f56dd0d4b27e329be152b0c62" size="230756557" crc="91964396" fullsha1="3282d242fb892c880b95621a8fd909c01640ec86" dataSha1="c3efff6ba5121839a15b754d0c8f0b7ccce8f5b1">
 		<category>Games</category>
@@ -8223,10 +8283,10 @@
 		<description>What is CD-i (Europe)</description>
 		<rom name="What is CD-i (Europe) (Track 01).bin" size="46040400" crc="b777d59a" md5="2ce11b0c6e4ed542dbc2f07492af0797" sha1="857754b08cdbd546a0dc1ad8be28eb258560b01c"/>
 	</game>
-	<game name="What's It Worth Auction Game, The (Europe) (Proto)" sha1="f1b09195d1f1f7c72793b719634a346925300f86" size="130530440" crc="571b92a2" fullsha1="78bf0d6216b97285baf83066fa9a280b3cc255cb" dataSha1="5e8d40d21dd4153cf0c287879bdf24d4647617d6">
+	<game name="What's It Worth Auction Game, The (Europe) (Proto) (1994-05-30)" sha1="f1b09195d1f1f7c72793b719634a346925300f86" size="130530440" crc="571b92a2" fullsha1="78bf0d6216b97285baf83066fa9a280b3cc255cb" dataSha1="5e8d40d21dd4153cf0c287879bdf24d4647617d6">
 		<category>Games</category>
-		<description>What's It Worth Auction Game, The (Europe) (Proto)</description>
-		<rom name="What's It Worth Auction Game, The (Europe) (Proto) (Track 01).bin" size="621104400" crc="1b47765b" md5="b44c8a08a2f4d5df0e07bdfdf4a30800" sha1="68f0849b6c49d8a0dc16efb4d1ac86d9bcb235af"/>
+		<description>What's It Worth Auction Game, The (Europe) (Proto) (1994-05-30)</description>
+		<rom name="What's It Worth Auction Game, The (Europe) (Proto) (1994-05-30) (Track 01).bin" size="621104400" crc="1b47765b" md5="b44c8a08a2f4d5df0e07bdfdf4a30800" sha1="68f0849b6c49d8a0dc16efb4d1ac86d9bcb235af"/>
 	</game>
 	<game name="What's That Bird Britain and Europe (Europe) (En,Fr,De,Es,It) (Rev 1)" sha1="85b610e9610813dbcd6073590b378f36b0f62096" size="416567490" crc="33cef19e" fullsha1="e647aa7c52c8b824c901caae4641ffdeeb0e9d29" dataSha1="24b023449db0ded0b24e2ae93615b9d07b1679bd">
 		<category>Games</category>
@@ -8238,10 +8298,10 @@
 		<description>What's That Bird Britain and Europe (Europe) (En,Fr,De,Es,It) (Rev 2)</description>
 		<rom name="What's That Bird Britain and Europe (Europe) (En,Fr,De,Es,It) (Rev 2) (Track 01).bin" size="723240000" crc="2cf6d36a" md5="333ededfc746b95c1e7d60ef275a46ff" sha1="798f63e125e3f70222c1198920d81336c2d4082b"/>
 	</game>
-	<game name="Who Shot Johnny Rock (Europe) (Beta)" sha1="757fb0ae23fdd7a544a230bcb3dfd8f99e02dce3" size="278445168" crc="893b8f5b" fullsha1="f243881504ce08826acb8481cb6c24b8f422b56d" dataSha1="f185c31ff984dc542f8fa2370a2fc81d0e16551e">
+	<game name="Who Shot Johnny Rock (Europe) (Beta) (1995-04-24)" sha1="757fb0ae23fdd7a544a230bcb3dfd8f99e02dce3" size="278445168" crc="893b8f5b" fullsha1="f243881504ce08826acb8481cb6c24b8f422b56d" dataSha1="f185c31ff984dc542f8fa2370a2fc81d0e16551e">
 		<category>Games</category>
-		<description>Who Shot Johnny Rock (Europe) (Beta)</description>
-		<rom name="Who Shot Johnny Rock (Europe) (Beta) (Track 01).bin" size="330197280" crc="c12c1799" md5="adad01d14302b8d568377922e654620a" sha1="f4a576ddd555dd35c999da29af54384179837e5d"/>
+		<description>Who Shot Johnny Rock (Europe) (Beta) (1995-04-24)</description>
+		<rom name="Who Shot Johnny Rock (Europe) (Beta) (1995-04-24) (Track 01).bin" size="330197280" crc="c12c1799" md5="adad01d14302b8d568377922e654620a" sha1="f4a576ddd555dd35c999da29af54384179837e5d"/>
 	</game>
 	<game name="Who Shot Johnny Rock (France)" sha1="1aecc55ccb849b06b5044a04a2d36a226fe4e287" size="297355038" crc="6fe5f9d3" fullsha1="8df8376b3c8a98cd2bb0539ab58c09553942cd15" dataSha1="8b3af101f035493dc7071830cf0824a7772ddc21">
 		<category>Games</category>
@@ -8316,10 +8376,10 @@
 		<rom name="Worlds of..., The (Europe) (Track 07).bin" size="52920000" crc="2826c0ca" md5="9c969eadb16bf08bca5226c78a052d2e" sha1="d98ea7e6ee349905352afe292c5a27c639c7c483"/>
 		<rom name="Worlds of..., The (Europe) (Track 08).bin" size="53449200" crc="870d9290" md5="d0ea0a9f39b35bd0c81dc2c7cd7d1ed6" sha1="0cea0737487a1dacfabca2e81144d63fd1a26e58"/>
 	</game>
-	<game name="Wuzzo Goes on Holiday (Europe) (Proto)" sha1="b8cc4b6425a1e1c0e8869dee66cd5c9769fa4d81" size="189567715" crc="39561e79" fullsha1="a30f827c7738b033586ec54fcfec35ba33aac5bf" dataSha1="72d29845c77c2dcbe9e95116fca5d76f680b1359">
+	<game name="Wuzzo Goes on Holiday (Europe) (Proto) (1994-02-23)" sha1="b8cc4b6425a1e1c0e8869dee66cd5c9769fa4d81" size="189567715" crc="39561e79" fullsha1="a30f827c7738b033586ec54fcfec35ba33aac5bf" dataSha1="72d29845c77c2dcbe9e95116fca5d76f680b1359">
 		<category>Games</category>
-		<description>Wuzzo Goes on Holiday (Europe) (Proto)</description>
-		<rom name="Wuzzo Goes on Holiday (Europe) (Proto) (Track 01).bin" size="619874304" crc="b83bef21" md5="1324a53ad84cb8f136d0027ebd973c1c" sha1="6637edad4dd14e64ee40e1235097772d9673f60e"/>
+		<description>Wuzzo Goes on Holiday (Europe) (Proto) (1994-02-23)</description>
+		<rom name="Wuzzo Goes on Holiday (Europe) (Proto) (1994-02-23) (Track 01).bin" size="619874304" crc="b83bef21" md5="1324a53ad84cb8f136d0027ebd973c1c" sha1="6637edad4dd14e64ee40e1235097772d9673f60e"/>
 	</game>
 	<game name="Y a-t-il un Flic Pour Sauver le President (France) (Disc 1)" sha1="a9475884920d7deac4ce0012eb542c2d4cf6c211" size="502943901" crc="04c50d87" fullsha1="682cf365c962a88e2393ec2ab6c2923585838544" dataSha1="c38b0845d4612793274f136526e5a28b0018c216">
 		<category>Games</category>

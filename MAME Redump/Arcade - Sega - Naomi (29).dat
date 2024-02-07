@@ -4,125 +4,125 @@
   <header>
     <name>Arcade - Sega - Naomi</name>
     <description>MAME Redump - Arcade - Sega - Naomi - Discs (29) (2022-10-08 10-36-35)</description>
-    <version>0.261</version>
-    <date>2023-11-30</date>
+    <version>0.262</version>
+    <date>2024-02-07</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
   </header>
-  <game name="Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan) (Rev A)">
+  <machine name="Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan) (Rev A)">
     <description>Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan) (Rev A)</description>
-    <rom name="Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan) (Rev A).chd" size="156727852" crc="9C56BC61" sha1="9ED43425517F3856D5DC6A3BAEA241B718B907E0" />
-  </game>
-  <game name="Chaos Field (Japan)">
+    <disk name="Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan) (Rev A).chd" sha1="3417b6fb603729147129daaad114630ebf93591e" />
+  </machine>
+  <machine name="Chaos Field (Japan)">
     <description>Chaos Field (Japan)</description>
-    <rom name="Chaos Field (Japan).chd" size="141485070" crc="1263E64B" sha1="A0A426D544059579B22A657684C514215C4D87B2" />
-  </game>
-  <game name="DIMM Firm Update (Japan) (Rev C)">
+    <disk name="Chaos Field (Japan).chd" sha1="3cb1da753c54e790e8733d333b8a5f7d2870c858" />
+  </machine>
+  <machine name="DIMM Firm Update (Japan) (Rev C)">
     <description>DIMM Firm Update (Japan) (Rev C)</description>
-    <rom name="DIMM Firm Update (Japan) (Rev C).chd" size="12612341" crc="8A569F59" sha1="3110122E85FA02D06C1C9292F6F553D9474C5549" />
-  </game>
-  <game name="Dynamic Golf ~ Virtua Golf (World) (En,Ja) (Rev A)">
+    <disk name="DIMM Firm Update (Japan) (Rev C).chd" sha1="0ec47bb7d1b63fea08e36f07fbb712b52f7c19fe" />
+  </machine>
+  <machine name="Dynamic Golf ~ Virtua Golf (World) (En,Ja) (Rev A)">
     <description>Dynamic Golf ~ Virtua Golf (World) (En,Ja) (Rev A)</description>
-    <rom name="Dynamic Golf ~ Virtua Golf (World) (En,Ja) (Rev A).chd" size="65678965" crc="969ADB79" sha1="79F0BBAEA4D3ADB15D976BC7F40344956EC07FB3" />
-  </game>
-  <game name="Guilty Gear XX - The Midnight Carnival (Japan)">
+    <disk name="Dynamic Golf ~ Virtua Golf (World) (En,Ja) (Rev A).chd" sha1="145957f58507e92e68ac2a1033302480ccd0d940" />
+  </machine>
+  <machine name="Guilty Gear XX - The Midnight Carnival (Japan)">
     <description>Guilty Gear XX - The Midnight Carnival (Japan)</description>
-    <rom name="Guilty Gear XX - The Midnight Carnival (Japan).chd" size="254076238" crc="B1C2E82B" sha1="6E5595503FA370BB82AC61A1AD1B08ED18C9BA45" />
-  </game>
-  <game name="Guilty Gear XX - The Midnight Carnival Reload (Japan)">
+    <disk name="Guilty Gear XX - The Midnight Carnival (Japan).chd" sha1="d0f6dd275dac90952089eee88ab2dbe21587a864" />
+  </machine>
+  <machine name="Guilty Gear XX - The Midnight Carnival Reload (Japan)">
     <description>Guilty Gear XX - The Midnight Carnival Reload (Japan)</description>
-    <rom name="Guilty Gear XX - The Midnight Carnival Reload (Japan).chd" size="258926180" crc="5A440676" sha1="702CD6341F0CE455A060D81D145B7A9579B3D3F6" />
-  </game>
-  <game name="Guilty Gear XX Accent Core (Japan)">
+    <disk name="Guilty Gear XX - The Midnight Carnival Reload (Japan).chd" sha1="77b18355a3555e0a557ac21af3c3da9556c2356c" />
+  </machine>
+  <machine name="Guilty Gear XX Accent Core (Japan)">
     <description>Guilty Gear XX Accent Core (Japan)</description>
-    <rom name="Guilty Gear XX Accent Core (Japan).chd" size="259257602" crc="F328B9AF" sha1="4FAC52F9796E7044D804F39497B632AAC6215AA1" />
-  </game>
-  <game name="Guilty Gear XX Slash - The Midnight Carnival (Japan) (Rev A)">
+    <disk name="Guilty Gear XX Accent Core (Japan).chd" sha1="4c490de4f7ac660a0aa7f467104dd3275290592a" />
+  </machine>
+  <machine name="Guilty Gear XX Slash - The Midnight Carnival (Japan) (Rev A)">
     <description>Guilty Gear XX Slash - The Midnight Carnival (Japan) (Rev A)</description>
-    <rom name="Guilty Gear XX Slash - The Midnight Carnival (Japan) (Rev A).chd" size="253484400" crc="B6216800" sha1="01A38D82F22BD294F1ACF730A03634FE54FAA076" />
-  </game>
-  <game name="Keyboard, La (Japan)">
+    <disk name="Guilty Gear XX Slash - The Midnight Carnival (Japan) (Rev A).chd" sha1="ace2acd8ac6fa1cd168d221c7e8b95d501fcbc9f" />
+  </machine>
+  <machine name="Keyboard, La (Japan)">
     <description>Keyboard, La (Japan)</description>
-    <rom name="Keyboard, La (Japan).chd" size="26954322" crc="4D63660F" sha1="5438025D880D01F0852B1AA627823F0DE4D9A45F" />
-  </game>
-  <game name="Kidou Senshi Gundam - Renpou vs. Zeon (World) (En,Ja)">
+    <disk name="Keyboard, La (Japan).chd" sha1="ab05a617979bb6a96888199da7a48bd2f2ffaf47" />
+  </machine>
+  <machine name="Kidou Senshi Gundam - Renpou vs. Zeon (World) (En,Ja)">
     <description>Kidou Senshi Gundam - Renpou vs. Zeon (World) (En,Ja)</description>
-    <rom name="Kidou Senshi Gundam - Renpou vs. Zeon (World) (En,Ja).chd" size="140875509" crc="E3A746E5" sha1="7452B6FF62690489EFFFB5A8E36C93543AF2B190" />
-  </game>
-  <game name="Kidou Senshi Gundam - Renpou vs. Zeon DX ~ Mobile Suit Gundam - The Earth Federation vs. The Principality of Zeon Deluxe (USA, Japan) (En,Ja)">
+    <disk name="Kidou Senshi Gundam - Renpou vs. Zeon (World) (En,Ja).chd" sha1="4fbc886cdcbaf21b3504caf3c9b818adf4da5bb3" />
+  </machine>
+  <machine name="Kidou Senshi Gundam - Renpou vs. Zeon DX ~ Mobile Suit Gundam - The Earth Federation vs. The Principality of Zeon Deluxe (USA, Japan) (En,Ja)">
     <description>Kidou Senshi Gundam - Renpou vs. Zeon DX ~ Mobile Suit Gundam - The Earth Federation vs. The Principality of Zeon Deluxe (USA, Japan) (En,Ja)</description>
-    <rom name="Kidou Senshi Gundam - Renpou vs. Zeon DX ~ Mobile Suit Gundam - The Earth Federation vs. The Principality of Zeon Deluxe (USA, Japan) (En,Ja).chd" size="172931928" crc="81ADB97C" sha1="02979CE7513348DD8382B3484E8969C8770F8B85" />
-  </game>
-  <game name="Maze of the Kings, The (World) (En,Ja)">
+    <disk name="Kidou Senshi Gundam - Renpou vs. Zeon DX ~ Mobile Suit Gundam - The Earth Federation vs. The Principality of Zeon Deluxe (USA, Japan) (En,Ja).chd" sha1="ce2b7804c67e2d332991f81f2019b0f04126659b" />
+  </machine>
+  <machine name="Maze of the Kings, The (World) (En,Ja)">
     <description>Maze of the Kings, The (World) (En,Ja)</description>
-    <rom name="Maze of the Kings, The (World) (En,Ja).chd" size="138392372" crc="A0F255AC" sha1="DFBC51F76EDBDC063774C4A5D7171533046B2250" />
-  </game>
-  <game name="Melty Blood - Act Cadenza (Japan) (Rev C)">
+    <disk name="Maze of the Kings, The (World) (En,Ja).chd" sha1="717f8bccdf04d59e3c329d0aa48fa58e363d552d" />
+  </machine>
+  <machine name="Melty Blood - Act Cadenza (Japan) (Rev C)">
     <description>Melty Blood - Act Cadenza (Japan) (Rev C)</description>
-    <rom name="Melty Blood - Act Cadenza (Japan) (Rev C).chd" size="217060917" crc="8D086417" sha1="986D19FD7412BBD944FD830EEDDD4C0391231BF7" />
-  </game>
-  <game name="Melty Blood - Act Cadenza Ver. B (Japan)">
+    <disk name="Melty Blood - Act Cadenza (Japan) (Rev C).chd" sha1="4b03890d9aa381f663ddf15592605058b91a31d2" />
+  </machine>
+  <machine name="Melty Blood - Act Cadenza Ver. B (Japan)">
     <description>Melty Blood - Act Cadenza Ver. B (Japan)</description>
-    <rom name="Melty Blood - Act Cadenza Ver. B (Japan).chd" size="198687046" crc="6BBB2D04" sha1="54A46AF6A928CA8689099CBB6CC045B3F213967C" />
-  </game>
-  <game name="Melty Blood - Act Cadenza Ver. B (Japan) (Rev A)">
+    <disk name="Melty Blood - Act Cadenza Ver. B (Japan).chd" sha1="a4c0ee2113d7ece6324b59ccbc4d4c47c36483f5" />
+  </machine>
+  <machine name="Melty Blood - Act Cadenza Ver. B (Japan) (Rev A)">
     <description>Melty Blood - Act Cadenza Ver. B (Japan) (Rev A)</description>
-    <rom name="Melty Blood - Act Cadenza Ver. B (Japan) (Rev A).chd" size="204451308" crc="0FF3E4FB" sha1="24DB1488525B0C92430601C2851E5BFFF1F20A7D" />
-  </game>
-  <game name="Monkey Ball (Japan)">
+    <disk name="Melty Blood - Act Cadenza Ver. B (Japan) (Rev A).chd" sha1="0400f1882adc96548c972f99ad390ff498538adf" />
+  </machine>
+  <machine name="Monkey Ball (Japan)">
     <description>Monkey Ball (Japan)</description>
-    <rom name="Monkey Ball (Japan).chd" size="77916934" crc="43313FB5" sha1="7F98086F2015A90AF21906F9A224D96999F29A66" />
-  </game>
-  <game name="NouKone Puzzle - Takoron (Japan)">
+    <disk name="Monkey Ball (Japan).chd" sha1="8fee405d5e9f6bbddedb68b3193f842ea9a3e51f" />
+  </machine>
+  <machine name="NouKone Puzzle - Takoron (Japan)">
     <description>NouKone Puzzle - Takoron (Japan)</description>
-    <rom name="NouKone Puzzle - Takoron (Japan).chd" size="46764756" crc="CA6F38DC" sha1="BB4AD243CF68382F481C4B29AD3AB0A0DE2BD00A" />
-  </game>
-  <game name="Power Smash - Sega Professional Tennis ~ Virtua Tennis - Sega Professional Tennis (World) (En,Ja)">
+    <disk name="NouKone Puzzle - Takoron (Japan).chd" sha1="8a44caaa0f2183d888e72c28e324da822417418f" />
+  </machine>
+  <machine name="Power Smash - Sega Professional Tennis ~ Virtua Tennis - Sega Professional Tennis (World) (En,Ja)">
     <description>Power Smash - Sega Professional Tennis ~ Virtua Tennis - Sega Professional Tennis (World) (En,Ja)</description>
-    <rom name="Power Smash - Sega Professional Tennis ~ Virtua Tennis - Sega Professional Tennis (World) (En,Ja).chd" size="46751436" crc="A0627342" sha1="A727BD09CA70D9295381B3757C1B95FB78E1106D" />
-  </game>
-  <game name="Puyo Pop Fever (World)">
+    <disk name="Power Smash - Sega Professional Tennis ~ Virtua Tennis - Sega Professional Tennis (World) (En,Ja).chd" sha1="118604eef00f85dba89994e9c00fbef625f62ac7" />
+  </machine>
+  <machine name="Puyo Pop Fever (World)">
     <description>Puyo Pop Fever (World)</description>
-    <rom name="Puyo Pop Fever (World).chd" size="149327885" crc="C3BD88FF" sha1="1DCC6BB82BFBA3422AC8840804F1B9231D0FCCA3" />
-  </game>
-  <game name="Puyo Puyo Fever (Japan)">
+    <disk name="Puyo Pop Fever (World).chd" sha1="60fcbbda13dc8a0074b45abcb0f26a0ff9ff5c40" />
+  </machine>
+  <machine name="Puyo Puyo Fever (Japan)">
     <description>Puyo Puyo Fever (Japan)</description>
-    <rom name="Puyo Puyo Fever (Japan).chd" size="147949456" crc="3F38B48A" sha1="0C434F5FFDD835D7C18C60BAE09AF69DC7BA38BB" />
-  </game>
-  <game name="Radirgy (Japan)">
+    <disk name="Puyo Puyo Fever (Japan).chd" sha1="2dfec51170c780368f98c6bbab80c374b8a3857f" />
+  </machine>
+  <machine name="Radirgy (Japan)">
     <description>Radirgy (Japan)</description>
-    <rom name="Radirgy (Japan).chd" size="130385564" crc="D3893CD6" sha1="26FF1F5039D1023FFF9D7B997DB007EB2A723B43" />
-  </game>
-  <game name="Shikigami no Shiro II (Japan)">
+    <disk name="Radirgy (Japan).chd" sha1="4c73d280e51dfae6620cebaee214eb91f89e1ab2" />
+  </machine>
+  <machine name="Shikigami no Shiro II (Japan)">
     <description>Shikigami no Shiro II (Japan)</description>
-    <rom name="Shikigami no Shiro II (Japan).chd" size="108236884" crc="312B590D" sha1="7E03B7BB135D5093E4786F0DE85B1AADCD22EBAF" />
-  </game>
-  <game name="Slashout (World) (En,Ja)">
+    <disk name="Shikigami no Shiro II (Japan).chd" sha1="1e0192fab609e3593ce2334b6ef5306d701900a7" />
+  </machine>
+  <machine name="Slashout (World) (En,Ja)">
     <description>Slashout (World) (En,Ja)</description>
-    <rom name="Slashout (World) (En,Ja).chd" size="135769264" crc="B5129D3D" sha1="44229FF76ED407B6435803488DF8191A1C6ADD0D" />
-  </game>
-  <game name="Sports Jam (Japan)">
+    <disk name="Slashout (World) (En,Ja).chd" sha1="232d386d7a7b7a1a5205bb78c288ff40068655c8" />
+  </machine>
+  <machine name="Sports Jam (Japan)">
     <description>Sports Jam (Japan)</description>
-    <rom name="Sports Jam (Japan).chd" size="122067563" crc="F7D60391" sha1="D2107F6A5ADE7566DB20DA66CCB0B23F079E3EF7" />
-  </game>
-  <game name="Street Fighter Zero 3 Upper (Japan)">
+    <disk name="Sports Jam (Japan).chd" sha1="8f034a72fa87154fbc96256e71cb4dbcc7f89224" />
+  </machine>
+  <machine name="Street Fighter Zero 3 Upper (Japan)">
     <description>Street Fighter Zero 3 Upper (Japan)</description>
-    <rom name="Street Fighter Zero 3 Upper (Japan).chd" size="109234868" crc="B75782B9" sha1="330B515D5608C952CD8B5174863BF1777B43ED86" />
-  </game>
-  <game name="Super Shanghai 2005 (Japan)">
+    <disk name="Street Fighter Zero 3 Upper (Japan).chd" sha1="48edc8bfc68b70354a7661a3a11fb6fb8414e34e" />
+  </machine>
+  <machine name="Super Shanghai 2005 (Japan)">
     <description>Super Shanghai 2005 (Japan)</description>
-    <rom name="Super Shanghai 2005 (Japan).chd" size="56851196" crc="A7E84439" sha1="FD09BF077E4F66CC687B405E1E1C3610A918B64C" />
-  </game>
-  <game name="Super Shanghai 2005 (Japan) (Rev A)">
+    <disk name="Super Shanghai 2005 (Japan).chd" sha1="458751f4fe60a5b0f928f46144bac386fb89f4f3" />
+  </machine>
+  <machine name="Super Shanghai 2005 (Japan) (Rev A)">
     <description>Super Shanghai 2005 (Japan) (Rev A)</description>
-    <rom name="Super Shanghai 2005 (Japan) (Rev A).chd" size="57834574" crc="AF482489" sha1="A15702C5C241460B6121E8DF6A1806DFD02E8A09" />
-  </game>
-  <game name="Tetris Kiwamemichi (Japan)">
+    <disk name="Super Shanghai 2005 (Japan) (Rev A).chd" sha1="713635b0fc230fcfe4aa3683dc87f8c8a58c0ac1" />
+  </machine>
+  <machine name="Tetris Kiwamemichi (Japan)">
     <description>Tetris Kiwamemichi (Japan)</description>
-    <rom name="Tetris Kiwamemichi (Japan).chd" size="56973890" crc="70386450" sha1="7B8842D13300807E295174C7CF020A98A88F900A" />
-  </game>
-  <game name="Virtua Athletics ~ Virtua Athlete (World)">
+    <disk name="Tetris Kiwamemichi (Japan).chd" sha1="853427923dbb286dce77e62ab9bd20e828709e83" />
+  </machine>
+  <machine name="Virtua Athletics ~ Virtua Athlete (World)">
     <description>Virtua Athletics ~ Virtua Athlete (World)</description>
-    <rom name="Virtua Athletics ~ Virtua Athlete (World).chd" size="82262337" crc="4C1882B4" sha1="C375FB964DBE1486CD97A1C589BC42B3DE605750" />
-  </game>
+    <disk name="Virtua Athletics ~ Virtua Athlete (World).chd" sha1="20a30c4cb8d05750ee4cf49e07b7611d805801e5" />
+  </machine>
 </datafile>

@@ -4,8 +4,8 @@
 	<header>
 		<name>IBM - PC compatible</name>
 		<description>IBM - PC compatible</description>
-		<version>0.260</version>
-		<date>2023-09-07</date>
+		<version>0.262</version>
+		<date>2023-11-30</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -13,6 +13,19 @@
 		<category>Games</category>
 		<description>$100,000 Pyramid, The (USA)</description>
 		<rom name="$100,000 Pyramid, The (USA) (Track 01).bin" size="379657488" crc="b05406e3" md5="a55427e0b2a31a460df60400aeb736ec" sha1="41fef0350106382002540083ff1f093a76f04a26"/>
+	</game>
+	<game name="7th Guest, The (USA) (Disc 1)" sha1="1215c14e2d691762d92fa2ff93d2b413bbbd52d6" size="566112454" crc="412df2ca" fullsha1="92fcd4411798f6b2826ec3207a30e28897ea15c4" dataSha1="45d8d18ac323c11a30a6a269cd226f78d675ff68">
+		<category>Games</category>
+		<description>7th Guest, The (USA) (Disc 1)</description>
+		<rom name="7th Guest, The (USA) (Disc 1) (Track 01).bin" size="706639584" crc="821351e1" md5="d3776283450e21c7f9cfb1ba9949c690" sha1="1016a58fc4c71cdb08ed00119a1583a09275da9a"/>
+		<rom name="7th Guest, The (USA) (Disc 1) (Track 02).bin" size="13058304" crc="87d192c7" md5="788b66cc533691ece719f16c67d6e532" sha1="b763f0d0cad1788258b116014ca64de1f786ff97"/>
+		<rom name="7th Guest, The (USA) (Disc 1) (Track 03).bin" size="1237152" crc="9e6f065c" md5="55ad34de60b998007e4cb191e1dd46c6" sha1="2e12927e04a3c68b5a09e68bf9a3e98fc98ec28f"/>
+	</game>
+	<game name="7th Guest, The (USA) (Disc 2)" sha1="8111c0a60fdca1a408f544a1ec2a1f398996b0e4" size="223999950" crc="b5190a5e" fullsha1="e874ad6d555fadc73224904c46a824884c34ff9f" dataSha1="133b158a4c8de3b507b3b27aa67367c78a6b2a8d">
+		<category>Games</category>
+		<description>7th Guest, The (USA) (Disc 2)</description>
+		<rom name="7th Guest, The (USA) (Disc 2) (Track 01).bin" size="115196256" crc="8d0c2db3" md5="47252427d0712c2a85a549b02fc40810" sha1="35e4144f9c25698aed29109fc51de1aaf4c1405b"/>
+		<rom name="7th Guest, The (USA) (Disc 2) (Track 02).bin" size="290384976" crc="123dfbfa" md5="1590255ccdc019b0e99f5f1125b131b9" sha1="e814d9faaa0645912db96d0c963b3f3c03487f53"/>
 	</game>
 	<game name="Aftershock for Quake (USA) (Deluxe Edition)" sha1="2de72ef90e9be0e77216af380abe894cd35825d5" size="13965874" crc="2313a12b" fullsha1="08ab330ac9281e41dadf42a03c720b5944d79172" dataSha1="baea1a6e5ca58e7b972a08fb324252291d3e162c">
 		<category>Games</category>
@@ -164,6 +177,21 @@
 		<category>Games</category>
 		<description>Blood II - The Chosen - The Nightmare Levels (USA)</description>
 		<rom name="Blood II - The Chosen - The Nightmare Levels (USA) (Track 01).bin" size="646771776" crc="08c91758" md5="b3bcb3232369cbf8a7598ae953474f9c" sha1="bb3e870fe6620d7c94929ba2d48dad9504143e44"/>
+	</game>
+	<game name="Buried in Time - Verschollen in der Zeit (Germany) (Disc 1)" sha1="52645a96e84780a53af6dc1996853b3003da99cd" size="186814760" crc="80b834f1" fullsha1="fab8636209d7a4d3a834abda7e8504b726b87ab4" dataSha1="1daeded1abfe5efa2aabef2c462dcb0b81ba0653">
+		<category>Games</category>
+		<description>Buried in Time - Verschollen in der Zeit (Germany) (Disc 1)</description>
+		<rom name="Buried in Time - Verschollen in der Zeit (Germany) (Disc 1) (Track 01).bin" size="306453840" crc="c6118bed" md5="ea5903df5400f17c01dcb4961ec716d9" sha1="82e9669b85f4a9cb5ec15d1661497ed249968a5e"/>
+	</game>
+	<game name="Buried in Time - Verschollen in der Zeit (Germany) (Disc 2)" sha1="acac3f63becb5130c0fd8bee2034114d05395e77" size="470615385" crc="b13f33b7" fullsha1="f1529cb6718245677206776ebf09ce29b87f14f1" dataSha1="d5b2170c8d2abd725143b89c6ddd8d77c24e19e0">
+		<category>Games</category>
+		<description>Buried in Time - Verschollen in der Zeit (Germany) (Disc 2)</description>
+		<rom name="Buried in Time - Verschollen in der Zeit (Germany) (Disc 2) (Track 01).bin" size="712068000" crc="1d0f48f9" md5="7d4293d456569380a58aa4535c669544" sha1="e91e41942d92e880275241cb8d2190ecdc401129"/>
+	</game>
+	<game name="Buried in Time - Verschollen in der Zeit (Germany) (Disc 3)" sha1="0dbc3abcce52a227f45e73ca4138f68bc53b9a40" size="481210953" crc="0dfc8761" fullsha1="19a0b22874a15fbcdcc9692d5a2893497110d5c1" dataSha1="880d501c2906f36a78bb9ba58e7bce95ee2fc2e0">
+		<category>Games</category>
+		<description>Buried in Time - Verschollen in der Zeit (Germany) (Disc 3)</description>
+		<rom name="Buried in Time - Verschollen in der Zeit (Germany) (Disc 3) (Track 01).bin" size="718020912" crc="fbcb1409" md5="de37f49cd702662cf7e2ff0b9a1a65ba" sha1="944a059a6e151bd424789c8f872ac0ccb70a96c0"/>
 	</game>
 	<game name="Carmageddon TDR 2000 - Nose Bleed Pack (Europe)" sha1="b6dd409e46d0b007e234474c1f56f5cad6d40ab1" size="202989908" crc="0c54f116" fullsha1="a6d8cc480e14b673e6a1a542e87cd39e6f5f80a1" dataSha1="861f45beb5a4655701664ade7e91cd6efb37e802">
 		<category>Games</category>
@@ -369,28 +397,28 @@
 		<description>Fable (Europe)</description>
 		<rom name="Fable (Europe) (Track 01).bin" size="428148672" crc="804a2754" md5="6b91ac72dff84d0bb4b112999f7dcd27" sha1="1e8f9f386d1406d7d40047ba86c4542cd1bc0b81"/>
 	</game>
-	<game name="Garfield - Caught in the Act (USA) (Rerelease) (19971024)" sha1="06ce4feb55ea5d246045c56b77469f044c45a0b7" size="208484590" crc="951d0b7f" fullsha1="2b1b2708714147a80107a3668def1039b34536c2" dataSha1="4c70ded0fdf9f7b516361f457883d40538d4ee7a">
+	<game name="Garfield - Caught in the Act (USA) (Rerelease) (1997-10-24)" sha1="06ce4feb55ea5d246045c56b77469f044c45a0b7" size="208484590" crc="951d0b7f" fullsha1="2b1b2708714147a80107a3668def1039b34536c2" dataSha1="4c70ded0fdf9f7b516361f457883d40538d4ee7a">
 		<category>Games</category>
-		<description>Garfield - Caught in the Act (USA) (Rerelease) (19971024)</description>
-		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (19971024) (Track 01).bin" size="49831824" crc="55ec7a8f" md5="6db0671d521b660d4b8e1ad83c920979" sha1="b9c908b6e835d84ec1db68af044bd9d9f379d4fa"/>
-		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (19971024) (Track 02).bin" size="15186864" crc="9e646e8a" md5="fd45e2b7c6f9fed93d27b949f9b9dccb" sha1="a0a37697c0b20a7f8eea737258cc2c45b888f6a7"/>
-		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (19971024) (Track 03).bin" size="22275792" crc="f0964b2e" md5="4f30ff06974dc68b5fcf02cb2aae60b6" sha1="9b2b2e7e957e0422e494295d72e070f41322e866"/>
-		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (19971024) (Track 04).bin" size="12898368" crc="70823015" md5="03f9f05994d860bdaa89173360f46bb5" sha1="a875a6e6e4adc49736b2346dafd7d9f1224c4979"/>
-		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (19971024) (Track 05).bin" size="19566288" crc="1811937d" md5="3d05bc84a78b9b111948d88dd601b931" sha1="03789ec3a3cd9dd1dadaf1fb69ea5e20c18744d5"/>
-		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (19971024) (Track 06).bin" size="10369968" crc="f249f999" md5="c22ac16b2aec4ae7f529b44c36d11b9a" sha1="cc65bab815ba6db9e67ff89f62577f5114be2e94"/>
-		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (19971024) (Track 07).bin" size="20163696" crc="a84a2fda" md5="b26cc0438551affc4fa728d4185c45ac" sha1="5fe3db7cb069577f91047aab91ad57e037341310"/>
-		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (19971024) (Track 08).bin" size="11000304" crc="5b7ddb59" md5="789ae5580715ce51e20505ffae9d8947" sha1="963da8c70a08170e04fd1d4dc0022d7e51923855"/>
-		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (19971024) (Track 09).bin" size="16275840" crc="88f9b518" md5="1f042b6cd0e8a2b6fd6e0367b7aca8a9" sha1="eebecbb1f80103c61e9224bb2caaa53e7759c60f"/>
-		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (19971024) (Track 10).bin" size="4899216" crc="8cb34680" md5="71291ec2dd748fdd427a7ca1bd612cb6" sha1="7027dd341e33757b6b21af89090ee1a0a0614a9e"/>
-		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (19971024) (Track 11).bin" size="17990448" crc="050c1a6c" md5="865cc54ff0e09d0acd1ec6ecb58e0939" sha1="cb81ace86f99471e02c813f0decd5dd4e2e5e632"/>
-		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (19971024) (Track 12).bin" size="27885312" crc="1b23936d" md5="bb43033f49d4d16c6e4211cd0a7b35ba" sha1="6304651416c5ccd63531129db213a0b1b3f8a50b"/>
-		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (19971024) (Track 13).bin" size="20144880" crc="3d283900" md5="8358465da5e293f02112164a3e595e32" sha1="1c286139d843e3bc11447b4b992529376e168839"/>
-		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (19971024) (Track 14).bin" size="24427872" crc="86504f1a" md5="f522dbedb994c2762c355ae3fd142dd2" sha1="0409551f94c377e381d5283e62b3ba2d978c9c1c"/>
-		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (19971024) (Track 15).bin" size="10922688" crc="8987f7f0" md5="df7a7bec87c9f026bf87269a762fcc7a" sha1="2be347e034ff1c256f1f9672e96afc8f601c06b6"/>
-		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (19971024) (Track 16).bin" size="15756048" crc="c2236f90" md5="63a93cbf0a6b9011edab1b73e9787226" sha1="4f70b398b362800a731a5790f6a5573094fcd6e7"/>
-		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (19971024) (Track 17).bin" size="1745184" crc="61a157da" md5="4db902db56a7dd3644d9537e276a13cb" sha1="23361b3fb560c383d7dc5f6b003119c4b6319a72"/>
-		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (19971024) (Track 18).bin" size="10612224" crc="a0ee359a" md5="74712e328d1eca15b9e7f1d246156ca8" sha1="6b121cb8e071a5cc2d2c79c1be0731811d5a0323"/>
-		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (19971024) (Track 19).bin" size="10250016" crc="4ea06e7f" md5="243a65a0dd83fc54589a3ac942b05fe2" sha1="66be5319ffe00f1d6a3441d530e5a5469c5f266c"/>
+		<description>Garfield - Caught in the Act (USA) (Rerelease) (1997-10-24)</description>
+		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (1997-10-24) (Track 01).bin" size="49831824" crc="55ec7a8f" md5="6db0671d521b660d4b8e1ad83c920979" sha1="b9c908b6e835d84ec1db68af044bd9d9f379d4fa"/>
+		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (1997-10-24) (Track 02).bin" size="15186864" crc="9e646e8a" md5="fd45e2b7c6f9fed93d27b949f9b9dccb" sha1="a0a37697c0b20a7f8eea737258cc2c45b888f6a7"/>
+		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (1997-10-24) (Track 03).bin" size="22275792" crc="f0964b2e" md5="4f30ff06974dc68b5fcf02cb2aae60b6" sha1="9b2b2e7e957e0422e494295d72e070f41322e866"/>
+		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (1997-10-24) (Track 04).bin" size="12898368" crc="70823015" md5="03f9f05994d860bdaa89173360f46bb5" sha1="a875a6e6e4adc49736b2346dafd7d9f1224c4979"/>
+		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (1997-10-24) (Track 05).bin" size="19566288" crc="1811937d" md5="3d05bc84a78b9b111948d88dd601b931" sha1="03789ec3a3cd9dd1dadaf1fb69ea5e20c18744d5"/>
+		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (1997-10-24) (Track 06).bin" size="10369968" crc="f249f999" md5="c22ac16b2aec4ae7f529b44c36d11b9a" sha1="cc65bab815ba6db9e67ff89f62577f5114be2e94"/>
+		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (1997-10-24) (Track 07).bin" size="20163696" crc="a84a2fda" md5="b26cc0438551affc4fa728d4185c45ac" sha1="5fe3db7cb069577f91047aab91ad57e037341310"/>
+		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (1997-10-24) (Track 08).bin" size="11000304" crc="5b7ddb59" md5="789ae5580715ce51e20505ffae9d8947" sha1="963da8c70a08170e04fd1d4dc0022d7e51923855"/>
+		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (1997-10-24) (Track 09).bin" size="16275840" crc="88f9b518" md5="1f042b6cd0e8a2b6fd6e0367b7aca8a9" sha1="eebecbb1f80103c61e9224bb2caaa53e7759c60f"/>
+		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (1997-10-24) (Track 10).bin" size="4899216" crc="8cb34680" md5="71291ec2dd748fdd427a7ca1bd612cb6" sha1="7027dd341e33757b6b21af89090ee1a0a0614a9e"/>
+		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (1997-10-24) (Track 11).bin" size="17990448" crc="050c1a6c" md5="865cc54ff0e09d0acd1ec6ecb58e0939" sha1="cb81ace86f99471e02c813f0decd5dd4e2e5e632"/>
+		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (1997-10-24) (Track 12).bin" size="27885312" crc="1b23936d" md5="bb43033f49d4d16c6e4211cd0a7b35ba" sha1="6304651416c5ccd63531129db213a0b1b3f8a50b"/>
+		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (1997-10-24) (Track 13).bin" size="20144880" crc="3d283900" md5="8358465da5e293f02112164a3e595e32" sha1="1c286139d843e3bc11447b4b992529376e168839"/>
+		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (1997-10-24) (Track 14).bin" size="24427872" crc="86504f1a" md5="f522dbedb994c2762c355ae3fd142dd2" sha1="0409551f94c377e381d5283e62b3ba2d978c9c1c"/>
+		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (1997-10-24) (Track 15).bin" size="10922688" crc="8987f7f0" md5="df7a7bec87c9f026bf87269a762fcc7a" sha1="2be347e034ff1c256f1f9672e96afc8f601c06b6"/>
+		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (1997-10-24) (Track 16).bin" size="15756048" crc="c2236f90" md5="63a93cbf0a6b9011edab1b73e9787226" sha1="4f70b398b362800a731a5790f6a5573094fcd6e7"/>
+		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (1997-10-24) (Track 17).bin" size="1745184" crc="61a157da" md5="4db902db56a7dd3644d9537e276a13cb" sha1="23361b3fb560c383d7dc5f6b003119c4b6319a72"/>
+		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (1997-10-24) (Track 18).bin" size="10612224" crc="a0ee359a" md5="74712e328d1eca15b9e7f1d246156ca8" sha1="6b121cb8e071a5cc2d2c79c1be0731811d5a0323"/>
+		<rom name="Garfield - Caught in the Act (USA) (Rerelease) (1997-10-24) (Track 19).bin" size="10250016" crc="4ea06e7f" md5="243a65a0dd83fc54589a3ac942b05fe2" sha1="66be5319ffe00f1d6a3441d530e5a5469c5f266c"/>
 	</game>
 	<game name="Gobliiins 4 (Europe) (En,Fr,De,Es,It)" sha1="3a6dbf352b343455ca40c53962376642523ab5a8" size="553292812" crc="eb8c9783" fullsha1="d915a374c8fea77c1b060a95e95037ec3aea356c" dataSha1="f1189e0b53657adde0de07289140d23bb080ad19">
 		<category>Games</category>
@@ -462,6 +490,11 @@
 		<description>Jazz Jackrabbit (USA) (Rerelease)</description>
 		<rom name="Jazz Jackrabbit (USA) (Rerelease) (Track 01).bin" size="66603936" crc="eb4ea23a" md5="d6e97ef537d0bb30af57630c6efac168" sha1="b430f2a6e63e4e93bb2db3ac54fd2f0c6d573336"/>
 	</game>
+	<game name="Journeyman Project, The (USA)" sha1="61dfb89005aa86140a6b68f43ea2f5f5288608b5" size="322961384" crc="b9f8b4b9" fullsha1="a217ea0664889aa31d61b29eb684edc4c2c87644" dataSha1="c5f37389fabcefca4b2add19dddf14ef38da2668">
+		<category>Games</category>
+		<description>Journeyman Project, The (USA)</description>
+		<rom name="Journeyman Project, The (USA) (Track 01).bin" size="633864000" crc="db1f2fab" md5="1c08206aa9dafa39f150fc5f49b91f8c" sha1="6de291e7859bd46148c92580e4eafef97aa15913"/>
+	</game>
 	<game name="Juggernaut (USA)" sha1="692ea749c755ddf5b8e0226f68fbc8e6f480738a" size="128371134" crc="9af1a0dd" fullsha1="47d396849507c514a220aa740b7b656b6744cfeb" dataSha1="420b06426adb9df201a20eacc43f6cfbac5a209c">
 		<category>Games</category>
 		<description>Juggernaut (USA)</description>
@@ -471,6 +504,11 @@
 		<category>Games</category>
 		<description>Juggernaut (USA) (Deluxe Edition)</description>
 		<rom name="Juggernaut (USA) (Deluxe Edition) (Track 01).bin" size="36321936" crc="6603b462" md5="8140a0ced4b309ba8c533b50c70d6195" sha1="0859a855f3a131fef31d35ec531870abd6ead540"/>
+	</game>
+	<game name="Legend of Kyrandia, The - Book Three - Malcolm's Revenge (China) (En,Fr,De,Zh)" sha1="fc51a3c1d24f338050e772be8d2ccae884c16858" size="457074525" crc="b951c499" fullsha1="29362bb189bd57f089ea8bb5ecf1165ec89f696e" dataSha1="4e3f91071c45f7258887a3246ce875c886e1f99a">
+		<category>Games</category>
+		<description>Legend of Kyrandia, The - Book Three - Malcolm's Revenge (China) (En,Fr,De,Zh)</description>
+		<rom name="Legend of Kyrandia, The - Book Three - Malcolm's Revenge (China) (En,Fr,De,Zh) (Track 01).bin" size="685871424" crc="7fcccec4" md5="3b370ecc64aa8af3ebc0e3b1c0946d3c" sha1="99035881b5b2248c0de5a56f013202bb8c69155f"/>
 	</game>
 	<game name="Lode Runner On-Line - The Mad Monks' Revenge (France) (En,Fr,De) (Rerelease)" sha1="2a474f982f03da4dc51cd2127005cba27761fa8a" size="97410478" crc="d3e0c073" fullsha1="cc5afb1fcda096c2467bd39f0378acdef4ae635f" dataSha1="de8be59085339665e3569c80ac2b795d7abd715e">
 		<category>Games</category>
@@ -561,20 +599,20 @@
 		<description>Q.E.D. II Level Creator for Quake II, Hexen II &amp; Quake (USA)</description>
 		<rom name="Q.E.D. II Level Creator for Quake II, Hexen II &amp; Quake (USA) (Track 01).bin" size="30580704" crc="5091fe79" md5="99e60c47e3c50f614be961b959a4f5ec" sha1="0db1e13e7f4439334824ef03bcfca8ea29126d6d"/>
 	</game>
-	<game name="Quake (USA) (Rerelease) (19980921)" sha1="345dc98798531e05383cc97ba1f511dc135a8818" size="313307865" crc="4cde2971" fullsha1="653d64723af6c2896f3974a74a841b74bcfcad84" dataSha1="2e9cebd7fea990162a0a8b70d9ee3207522db202">
+	<game name="Quake (USA) (Rerelease) (1998-09-21)" sha1="345dc98798531e05383cc97ba1f511dc135a8818" size="313307865" crc="4cde2971" fullsha1="653d64723af6c2896f3974a74a841b74bcfcad84" dataSha1="2e9cebd7fea990162a0a8b70d9ee3207522db202">
 		<category>Games</category>
-		<description>Quake (USA) (Rerelease) (19980921)</description>
-		<rom name="Quake (USA) (Rerelease) (19980921) (Track 01).bin" size="95154864" crc="eed8cdf5" md5="22dc28b0c3b91ca861e36e7f5caf4b75" sha1="97c53d8b3b45940008476f496c89894d071c047e"/>
-		<rom name="Quake (USA) (Rerelease) (19980921) (Track 02).bin" size="54613440" crc="b8bca15a" md5="bfe5874130fcb3a4d11d51238deefe36" sha1="8a856458828da44360696aac9a61485a61863269"/>
-		<rom name="Quake (USA) (Rerelease) (19980921) (Track 03).bin" size="25403952" crc="622f9b43" md5="d4a7e714c62e318b4b1d652276c180ad" sha1="9c38d7cdcde4fc75c38c5b5a3f14ff3065825b56"/>
-		<rom name="Quake (USA) (Rerelease) (19980921) (Track 04).bin" size="88242336" crc="adc45184" md5="450050096176aa66f273469f07118934" sha1="7128966c48faa0abb5706dd6cbaa189104a7e382"/>
-		<rom name="Quake (USA) (Rerelease) (19980921) (Track 05).bin" size="64451856" crc="d5d4d62d" md5="97c3c4b6eb9190710263f615c759eeb6" sha1="965c9debd6d1601bcd4d0f9c042a846a3dee41e4"/>
-		<rom name="Quake (USA) (Rerelease) (19980921) (Track 06).bin" size="78422736" crc="607f18aa" md5="bebb40e26d23fa76617586ec567041a9" sha1="43c36e6093b14770eb3809a1a8ddf1cffed54c39"/>
-		<rom name="Quake (USA) (Rerelease) (19980921) (Track 07).bin" size="91412832" crc="6134454b" md5="3d832ee7f399cf9bbe515d7a86062d3d" sha1="ea6449f0806179d592f8f6029e19442ee1b67c73"/>
-		<rom name="Quake (USA) (Rerelease) (19980921) (Track 08).bin" size="59253936" crc="684af090" md5="1b662973ec2c73eb55d57035e8702143" sha1="ef935e8b731d8d2319f51418921225cabf66bc94"/>
-		<rom name="Quake (USA) (Rerelease) (19980921) (Track 09).bin" size="68603136" crc="0bef23a3" md5="5709deeab2cf503322cce7a7fa62efc5" sha1="f2c07b79c8b283103245be1d4c450383983fdd6e"/>
-		<rom name="Quake (USA) (Rerelease) (19980921) (Track 10).bin" size="37493232" crc="fef9951a" md5="724ace8140191ff54173f1fefad6a10b" sha1="75762afc139a4a84e5336f7266a207792159dd94"/>
-		<rom name="Quake (USA) (Rerelease) (19980921) (Track 11).bin" size="55631856" crc="6f299181" md5="09701dd44e7bbc7a973cec257e68711a" sha1="774aedd61f6b60b182a2e544af7768291c82d6fb"/>
+		<description>Quake (USA) (Rerelease) (1998-09-21)</description>
+		<rom name="Quake (USA) (Rerelease) (1998-09-21) (Track 01).bin" size="95154864" crc="eed8cdf5" md5="22dc28b0c3b91ca861e36e7f5caf4b75" sha1="97c53d8b3b45940008476f496c89894d071c047e"/>
+		<rom name="Quake (USA) (Rerelease) (1998-09-21) (Track 02).bin" size="54613440" crc="b8bca15a" md5="bfe5874130fcb3a4d11d51238deefe36" sha1="8a856458828da44360696aac9a61485a61863269"/>
+		<rom name="Quake (USA) (Rerelease) (1998-09-21) (Track 03).bin" size="25403952" crc="622f9b43" md5="d4a7e714c62e318b4b1d652276c180ad" sha1="9c38d7cdcde4fc75c38c5b5a3f14ff3065825b56"/>
+		<rom name="Quake (USA) (Rerelease) (1998-09-21) (Track 04).bin" size="88242336" crc="adc45184" md5="450050096176aa66f273469f07118934" sha1="7128966c48faa0abb5706dd6cbaa189104a7e382"/>
+		<rom name="Quake (USA) (Rerelease) (1998-09-21) (Track 05).bin" size="64451856" crc="d5d4d62d" md5="97c3c4b6eb9190710263f615c759eeb6" sha1="965c9debd6d1601bcd4d0f9c042a846a3dee41e4"/>
+		<rom name="Quake (USA) (Rerelease) (1998-09-21) (Track 06).bin" size="78422736" crc="607f18aa" md5="bebb40e26d23fa76617586ec567041a9" sha1="43c36e6093b14770eb3809a1a8ddf1cffed54c39"/>
+		<rom name="Quake (USA) (Rerelease) (1998-09-21) (Track 07).bin" size="91412832" crc="6134454b" md5="3d832ee7f399cf9bbe515d7a86062d3d" sha1="ea6449f0806179d592f8f6029e19442ee1b67c73"/>
+		<rom name="Quake (USA) (Rerelease) (1998-09-21) (Track 08).bin" size="59253936" crc="684af090" md5="1b662973ec2c73eb55d57035e8702143" sha1="ef935e8b731d8d2319f51418921225cabf66bc94"/>
+		<rom name="Quake (USA) (Rerelease) (1998-09-21) (Track 09).bin" size="68603136" crc="0bef23a3" md5="5709deeab2cf503322cce7a7fa62efc5" sha1="f2c07b79c8b283103245be1d4c450383983fdd6e"/>
+		<rom name="Quake (USA) (Rerelease) (1998-09-21) (Track 10).bin" size="37493232" crc="fef9951a" md5="724ace8140191ff54173f1fefad6a10b" sha1="75762afc139a4a84e5336f7266a207792159dd94"/>
+		<rom name="Quake (USA) (Rerelease) (1998-09-21) (Track 11).bin" size="55631856" crc="6f299181" md5="09701dd44e7bbc7a973cec257e68711a" sha1="774aedd61f6b60b182a2e544af7768291c82d6fb"/>
 	</game>
 	<game name="Quake 4 (World) (Bonus DVD)" sha1="f36ecdcebdaab4db8eb9db949140b6e2df6ef2e3" size="1662678831" crc="612099ad" fullsha1="cdbfadd4e74161bf405381efd9ef7588a0ced072" dataSha1="66ecbdf2c5ede82a286f01866831deaaea197f61">
 		<category>Games</category>
@@ -586,35 +624,35 @@
 		<description>Quake 4 (World) (En,Fr,Es,It)</description>
 		<rom name="Quake 4 (World) (En,Fr,Es,It) (Track 01).bin" size="2900197376" crc="2e5b4a1c" md5="6b78693ea11c41c6043d680bfb127345" sha1="02894cd2c3457f8f7b2483edd18ddaab90e769ac"/>
 	</game>
-	<game name="Quake II (USA) (Rerelease) (19980825)" sha1="9fb8c95537afc0abca3120a9804731ba6ec8bfb3" size="432228233" crc="2fae2ad4" fullsha1="097774c2cf3782630d04a56eefe48b360103d83f" dataSha1="e6acb09b2d5dfa0099356be3f58ba0f19118398b">
+	<game name="Quake II (USA) (Rerelease) (1998-08-25)" sha1="9fb8c95537afc0abca3120a9804731ba6ec8bfb3" size="432228233" crc="2fae2ad4" fullsha1="097774c2cf3782630d04a56eefe48b360103d83f" dataSha1="e6acb09b2d5dfa0099356be3f58ba0f19118398b">
 		<category>Games</category>
-		<description>Quake II (USA) (Rerelease) (19980825)</description>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Track 01).bin" size="447547968" crc="09705b99" md5="83fbef3c2ed31f785636f8513fb5ff24" sha1="8fc984ec91ae9ba1f762d4afb417262cdac45380"/>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Track 02).bin" size="37004016" crc="e145a106" md5="fe0255fb99eb7bc8e321966e2a18582c" sha1="0ba4b0b6b07f7873ac7279f6c85751cd46950843"/>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Track 03).bin" size="24274992" crc="b3fc76e3" md5="3d08b9e56cbb0d611c42bf91152438d9" sha1="ee14d6bc5fe8e0def32c1d3906521b3e6294dbfc"/>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Track 04).bin" size="26819856" crc="e4a2505e" md5="49c89e6ac99bdaee09424128f9b44fe7" sha1="32ab4ad7a311d0bd2f65800604192e03a9aee2d5"/>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Track 05).bin" size="30234960" crc="ad30c223" md5="5faa778537d857ffa343e87ac4127352" sha1="84534c387c8da75ec68582ed96af7cfa81af66d4"/>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Track 06).bin" size="27309072" crc="e5978c25" md5="9e1b08dc0c6dbe3cddd4e23627864eef" sha1="6b8ad7ce7653929d333a8bd048f63778772a2bc6"/>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Track 07).bin" size="37940112" crc="59535e4b" md5="7b2a6051f12c16ef99fd7f1ff74c321b" sha1="dc09c735e73106b7f93f8b6442e2e4c59ee0018e"/>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Track 08).bin" size="32481120" crc="7336b4b6" md5="c8da07d5def9f3f7f081299813bb0ba1" sha1="cb08838c742d1b89828d001231955765ebfe2fe4"/>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Track 09).bin" size="27487824" crc="89cdec42" md5="f7ccd6e0fb28c37a4bf27e69f6a1dcd6" sha1="406acb44cbf98e0770cf4d8d3e903db5fc093e5f"/>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Track 10).bin" size="21163296" crc="36ee81fa" md5="f5902df891e7c753298efca00fe30d40" sha1="13da4c66cc580d82429b9bc39a62a1fcedcd1425"/>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Track 11).bin" size="21356160" crc="229e3c2e" md5="be8c7f377d15dcd376fc62467216fd73" sha1="e17c16d1f472fa036fcb89491d66ebcba52518bd"/>
+		<description>Quake II (USA) (Rerelease) (1998-08-25)</description>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Track 01).bin" size="447547968" crc="09705b99" md5="83fbef3c2ed31f785636f8513fb5ff24" sha1="8fc984ec91ae9ba1f762d4afb417262cdac45380"/>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Track 02).bin" size="37004016" crc="e145a106" md5="fe0255fb99eb7bc8e321966e2a18582c" sha1="0ba4b0b6b07f7873ac7279f6c85751cd46950843"/>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Track 03).bin" size="24274992" crc="b3fc76e3" md5="3d08b9e56cbb0d611c42bf91152438d9" sha1="ee14d6bc5fe8e0def32c1d3906521b3e6294dbfc"/>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Track 04).bin" size="26819856" crc="e4a2505e" md5="49c89e6ac99bdaee09424128f9b44fe7" sha1="32ab4ad7a311d0bd2f65800604192e03a9aee2d5"/>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Track 05).bin" size="30234960" crc="ad30c223" md5="5faa778537d857ffa343e87ac4127352" sha1="84534c387c8da75ec68582ed96af7cfa81af66d4"/>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Track 06).bin" size="27309072" crc="e5978c25" md5="9e1b08dc0c6dbe3cddd4e23627864eef" sha1="6b8ad7ce7653929d333a8bd048f63778772a2bc6"/>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Track 07).bin" size="37940112" crc="59535e4b" md5="7b2a6051f12c16ef99fd7f1ff74c321b" sha1="dc09c735e73106b7f93f8b6442e2e4c59ee0018e"/>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Track 08).bin" size="32481120" crc="7336b4b6" md5="c8da07d5def9f3f7f081299813bb0ba1" sha1="cb08838c742d1b89828d001231955765ebfe2fe4"/>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Track 09).bin" size="27487824" crc="89cdec42" md5="f7ccd6e0fb28c37a4bf27e69f6a1dcd6" sha1="406acb44cbf98e0770cf4d8d3e903db5fc093e5f"/>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Track 10).bin" size="21163296" crc="36ee81fa" md5="f5902df891e7c753298efca00fe30d40" sha1="13da4c66cc580d82429b9bc39a62a1fcedcd1425"/>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Track 11).bin" size="21356160" crc="229e3c2e" md5="be8c7f377d15dcd376fc62467216fd73" sha1="e17c16d1f472fa036fcb89491d66ebcba52518bd"/>
 	</game>
-	<game name="Quake II (USA) (Rerelease) (19980825) (Alt)" sha1="a4044b81270ef41c420bc554469797d7e286a35b" size="432229363" crc="32ecaef0" fullsha1="b6e354350fde9b42c5062adad98681869cdbfc83" dataSha1="bac3cf9d1f282ba36bea006d83cc1d843a43db7f">
+	<game name="Quake II (USA) (Rerelease) (1998-08-25) (Alt)" sha1="a4044b81270ef41c420bc554469797d7e286a35b" size="432229363" crc="32ecaef0" fullsha1="b6e354350fde9b42c5062adad98681869cdbfc83" dataSha1="bac3cf9d1f282ba36bea006d83cc1d843a43db7f">
 		<category>Games</category>
-		<description>Quake II (USA) (Rerelease) (19980825) (Alt)</description>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Alt) (Track 01).bin" size="447547968" crc="09705b99" md5="83fbef3c2ed31f785636f8513fb5ff24" sha1="8fc984ec91ae9ba1f762d4afb417262cdac45380"/>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Alt) (Track 02).bin" size="37004016" crc="03aa3d85" md5="5bf26b000f085ae37d0baef19f80ac90" sha1="f3dc7a47e0e895416f92e0af3910a5ee34c77ce8"/>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Alt) (Track 03).bin" size="24274992" crc="4802bead" md5="15b1c77b46506c46e812ba5d0b6be9bd" sha1="b4bfa757a8919ca8809e47a623a95948c63b5b68"/>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Alt) (Track 04).bin" size="26819856" crc="d98c0872" md5="82d88215801a63fd28749e59cefec3c2" sha1="41a688cf7ca3b4f80b8f247e8b2b52d019e1b28f"/>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Alt) (Track 05).bin" size="30234960" crc="b97c2249" md5="f55d38c4fb1106f9a7af79e3dbf03e40" sha1="12e0dfef03944dd4880a71ec8344a562e2bbedc4"/>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Alt) (Track 06).bin" size="27309072" crc="e391580d" md5="77773aec22f30a6be6c36c4af1dc4f96" sha1="fb02ea5519db838d8fe8886d30edadb33b89d75e"/>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Alt) (Track 07).bin" size="37940112" crc="ecd2c943" md5="f1c5dc412e0e82abe0e0bc44a2213a37" sha1="ccbe1d15ad126445538b31d5f620f255df1e68b2"/>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Alt) (Track 08).bin" size="32481120" crc="09e620bd" md5="c75b7d064eeb01317d4376f503ea6b8e" sha1="9636fec834281fbb3b48a71ead9deb00dd461ab9"/>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Alt) (Track 09).bin" size="27487824" crc="f5332198" md5="cdc3f86400770c346e788c342dbbe87b" sha1="b028c52b6dfb60d1fe58d691b7bcc21b898ee0a2"/>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Alt) (Track 10).bin" size="21163296" crc="2246997c" md5="ccb26690bfc51ed69aa42ed264068e54" sha1="cec45496b172f3c5a9d78f1780340fbffe1ec6fd"/>
-		<rom name="Quake II (USA) (Rerelease) (19980825) (Alt) (Track 11).bin" size="21356160" crc="350dc880" md5="3b8eaa61525cdcbdd6c06b7f3c2b36b6" sha1="dad53a1b403c3080f2883d43c78453f8546ce868"/>
+		<description>Quake II (USA) (Rerelease) (1998-08-25) (Alt)</description>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Alt) (Track 01).bin" size="447547968" crc="09705b99" md5="83fbef3c2ed31f785636f8513fb5ff24" sha1="8fc984ec91ae9ba1f762d4afb417262cdac45380"/>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Alt) (Track 02).bin" size="37004016" crc="03aa3d85" md5="5bf26b000f085ae37d0baef19f80ac90" sha1="f3dc7a47e0e895416f92e0af3910a5ee34c77ce8"/>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Alt) (Track 03).bin" size="24274992" crc="4802bead" md5="15b1c77b46506c46e812ba5d0b6be9bd" sha1="b4bfa757a8919ca8809e47a623a95948c63b5b68"/>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Alt) (Track 04).bin" size="26819856" crc="d98c0872" md5="82d88215801a63fd28749e59cefec3c2" sha1="41a688cf7ca3b4f80b8f247e8b2b52d019e1b28f"/>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Alt) (Track 05).bin" size="30234960" crc="b97c2249" md5="f55d38c4fb1106f9a7af79e3dbf03e40" sha1="12e0dfef03944dd4880a71ec8344a562e2bbedc4"/>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Alt) (Track 06).bin" size="27309072" crc="e391580d" md5="77773aec22f30a6be6c36c4af1dc4f96" sha1="fb02ea5519db838d8fe8886d30edadb33b89d75e"/>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Alt) (Track 07).bin" size="37940112" crc="ecd2c943" md5="f1c5dc412e0e82abe0e0bc44a2213a37" sha1="ccbe1d15ad126445538b31d5f620f255df1e68b2"/>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Alt) (Track 08).bin" size="32481120" crc="09e620bd" md5="c75b7d064eeb01317d4376f503ea6b8e" sha1="9636fec834281fbb3b48a71ead9deb00dd461ab9"/>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Alt) (Track 09).bin" size="27487824" crc="f5332198" md5="cdc3f86400770c346e788c342dbbe87b" sha1="b028c52b6dfb60d1fe58d691b7bcc21b898ee0a2"/>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Alt) (Track 10).bin" size="21163296" crc="2246997c" md5="ccb26690bfc51ed69aa42ed264068e54" sha1="cec45496b172f3c5a9d78f1780340fbffe1ec6fd"/>
+		<rom name="Quake II (USA) (Rerelease) (1998-08-25) (Alt) (Track 11).bin" size="21356160" crc="350dc880" md5="3b8eaa61525cdcbdd6c06b7f3c2b36b6" sha1="dad53a1b403c3080f2883d43c78453f8546ce868"/>
 	</game>
 	<game name="Quake II Mission Pack - Ground Zero (USA)" sha1="23a2e48299cddd601807579a343238ef5cb57b64" size="375575095" crc="e7e33c6b" fullsha1="7450db26c1b273bc49e2a080a82951dc5c150757" dataSha1="ec3277079762c198c0a43f7c404a0e9538156721">
 		<category>Games</category>
@@ -720,15 +758,15 @@
 		<rom name="Quake Mission Packs - No. 1 - Scourge of Armagon &amp; No. 2 - Dissolution of Eternity (USA) (Track 08).bin" size="33377232" crc="353db826" md5="fab50d9b20e8ee0595903bdb93bab769" sha1="9967f2404dc6b7632ddd73dd34123a46b1ee7eef"/>
 		<rom name="Quake Mission Packs - No. 1 - Scourge of Armagon &amp; No. 2 - Dissolution of Eternity (USA) (Track 09).bin" size="32457600" crc="eabab49d" md5="a7aa6b6fa43b1f828eef80516a29c5bc" sha1="36b3d6c5133e3a8b0747d57f05a59a693a23ff67"/>
 	</game>
-	<game name="Rayman 2 - The Great Escape (Europe, Australia) (En,Fr,De,Es,It) (20000322)" sha1="8280927c2b6f7209e677202d32ab6c8552ed2e38" size="567918458" crc="359daa29" fullsha1="39532a2c0955c45f7b45e9780b73da3d6d763fc3" dataSha1="4a2c9a8c3b76123d826819cf27dc59c6190503ed">
+	<game name="Rayman 2 - The Great Escape (Europe, Australia) (En,Fr,De,Es,It) (2000-03-22)" sha1="8280927c2b6f7209e677202d32ab6c8552ed2e38" size="567918458" crc="359daa29" fullsha1="39532a2c0955c45f7b45e9780b73da3d6d763fc3" dataSha1="4a2c9a8c3b76123d826819cf27dc59c6190503ed">
 		<category>Games</category>
-		<description>Rayman 2 - The Great Escape (Europe, Australia) (En,Fr,De,Es,It) (20000322)</description>
-		<rom name="Rayman 2 - The Great Escape (Europe, Australia) (En,Fr,De,Es,It) (20000322) (Track 01).bin" size="781974144" crc="e4c3f1f1" md5="cec73f63ffefd73d11e8f07c6804ab30" sha1="26e2c7c9b8df5f94fb5a444404333ebde2e6eda0"/>
+		<description>Rayman 2 - The Great Escape (Europe, Australia) (En,Fr,De,Es,It) (2000-03-22)</description>
+		<rom name="Rayman 2 - The Great Escape (Europe, Australia) (En,Fr,De,Es,It) (2000-03-22) (Track 01).bin" size="781974144" crc="e4c3f1f1" md5="cec73f63ffefd73d11e8f07c6804ab30" sha1="26e2c7c9b8df5f94fb5a444404333ebde2e6eda0"/>
 	</game>
-	<game name="Rayman 3 - Hoodlum Havoc (France) (En,Fr,De,Es,It) (Rerelease) (20050802)" sha1="252737c4aed299e2e496c940313e0eb42ff9b8d6" size="1428428857" crc="f28a3b05" fullsha1="81bdda2a86e00496aeecacf2bb3b73c054be53b7" dataSha1="03671d9df4cc62a7efc317ec916bf6c0e74dc089">
+	<game name="Rayman 3 - Hoodlum Havoc (France) (En,Fr,De,Es,It) (Rerelease) (2005-08-02)" sha1="252737c4aed299e2e496c940313e0eb42ff9b8d6" size="1428428857" crc="f28a3b05" fullsha1="81bdda2a86e00496aeecacf2bb3b73c054be53b7" dataSha1="03671d9df4cc62a7efc317ec916bf6c0e74dc089">
 		<category>Games</category>
-		<description>Rayman 3 - Hoodlum Havoc (France) (En,Fr,De,Es,It) (Rerelease) (20050802)</description>
-		<rom name="Rayman 3 - Hoodlum Havoc (France) (En,Fr,De,Es,It) (Rerelease) (20050802) (Track 01).bin" size="1835270144" crc="a1d92e60" md5="c51ef9f9c8a0fd965032cfc327fdcaa1" sha1="8e03c6bcd8ae5a60cd2d8a0edb5dd3c476c1ae7b"/>
+		<description>Rayman 3 - Hoodlum Havoc (France) (En,Fr,De,Es,It) (Rerelease) (2005-08-02)</description>
+		<rom name="Rayman 3 - Hoodlum Havoc (France) (En,Fr,De,Es,It) (Rerelease) (2005-08-02) (Track 01).bin" size="1835270144" crc="a1d92e60" md5="c51ef9f9c8a0fd965032cfc327fdcaa1" sha1="8e03c6bcd8ae5a60cd2d8a0edb5dd3c476c1ae7b"/>
 	</game>
 	<game name="Rayman M (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi) (Disc 1) (Rerelease)" sha1="75ff7180b94f068bdcc0c7597e967caf7129bdcf" size="411656686" crc="b0155657" fullsha1="1a01f44ce18e3ab0b8d235e8d163568eaf5158d3" dataSha1="cdb2f137f28151a24a26a66c0a4ae29ffac9d71f">
 		<category>Games</category>
@@ -756,10 +794,10 @@
 		<rom name="Rise of the Triad - The HUNT Begins (USA) (Track 01).bin" size="707952" crc="f490437a" md5="a95931cad851165c39229ed906ec59a4" sha1="9cec25047ac21abc4de064a74e0970bddb28782e"/>
 		<rom name="Rise of the Triad - The HUNT Begins (USA) (Track 02).bin" size="14594160" crc="84b3aabf" md5="1af057f38c8539f888348680ec06acb6" sha1="09223f0dd24a0ce5fac0659069e68beb96014cf0"/>
 	</game>
-	<game name="RollerCoaster World (Europe) (20020621)" sha1="79d7125286579c17c1767473a8dfe2e249b18e83" size="132743301" crc="b4b2420b" fullsha1="b11a1d57476aed9203c3e2c5811db6ee0359b6a5" dataSha1="a7021bc6a4503c8aa73051fb248eef06ae442e15">
+	<game name="RollerCoaster World (Europe) (2002-06-21)" sha1="79d7125286579c17c1767473a8dfe2e249b18e83" size="132743301" crc="b4b2420b" fullsha1="b11a1d57476aed9203c3e2c5811db6ee0359b6a5" dataSha1="a7021bc6a4503c8aa73051fb248eef06ae442e15">
 		<category>Games</category>
-		<description>RollerCoaster World (Europe) (20020621)</description>
-		<rom name="RollerCoaster World (Europe) (20020621) (Track 01).bin" size="151680480" crc="22ea06c7" md5="2b3f3c0a360387c1dc5dc1062a739382" sha1="f496aa97f1595088cd7dd04c9ed43a78026f2396"/>
+		<description>RollerCoaster World (Europe) (2002-06-21)</description>
+		<rom name="RollerCoaster World (Europe) (2002-06-21) (Track 01).bin" size="151680480" crc="22ea06c7" md5="2b3f3c0a360387c1dc5dc1062a739382" sha1="f496aa97f1595088cd7dd04c9ed43a78026f2396"/>
 	</game>
 	<game name="Screamer (Europe) (Rev 1)" sha1="31fb04ea3a7a4f7e712531d0f8c58dc32d594e51" size="283895219" crc="5df7bada" fullsha1="2cd9326d419f971876bfedcd6e1e9dbc41bf6545" dataSha1="0a31c00186d64d18f144b10e5ad17b11aec0bd29">
 		<category>Games</category>
@@ -943,21 +981,21 @@
 		<rom name="Sonic R (Europe) (Track 20).bin" size="1858080" crc="24f2a95d" md5="ebb60f3bc20f321d4047a3f4a03258f6" sha1="37be5e58dc62f0f9dde2cc7588458dc105b44e63"/>
 		<rom name="Sonic R (Europe) (Track 21).bin" size="900816" crc="8c823750" md5="3ce1dfabe3a7208bde92bdeedd3d1ed6" sha1="15c5efc48b2c56e39fa9cb2f5567d892147002d8"/>
 	</game>
-	<game name="Sonic Riders (Europe) (En,Ja,Fr,De,Es,It) (Rerelease) (20090708)" sha1="ef4ab0a58272097027558f0e3e7a233c29624310" size="1980988249" crc="1301ea40" fullsha1="7d3533a3e9d56e41fb4a43af9f0f281926015b69" dataSha1="452894f9bc975dff0dc0121498421d1533b3cf8c">
+	<game name="Sonic Riders (Europe) (En,Ja,Fr,De,Es,It) (Rerelease) (2009-07-08)" sha1="ef4ab0a58272097027558f0e3e7a233c29624310" size="1980988249" crc="1301ea40" fullsha1="7d3533a3e9d56e41fb4a43af9f0f281926015b69" dataSha1="452894f9bc975dff0dc0121498421d1533b3cf8c">
 		<category>Games</category>
-		<description>Sonic Riders (Europe) (En,Ja,Fr,De,Es,It) (Rerelease) (20090708)</description>
-		<rom name="Sonic Riders (Europe) (En,Ja,Fr,De,Es,It) (Rerelease) (20090708) (Track 01).bin" size="1978761216" crc="2de36d5f" md5="f4dad4abae0a322e49ec588826102375" sha1="44d612de1707f19c5337632dcaf47a096dfc51cc"/>
+		<description>Sonic Riders (Europe) (En,Ja,Fr,De,Es,It) (Rerelease) (2009-07-08)</description>
+		<rom name="Sonic Riders (Europe) (En,Ja,Fr,De,Es,It) (Rerelease) (2009-07-08) (Track 01).bin" size="1978761216" crc="2de36d5f" md5="f4dad4abae0a322e49ec588826102375" sha1="44d612de1707f19c5337632dcaf47a096dfc51cc"/>
 	</game>
 	<game name="Spear of Destiny (USA)" sha1="75b776523d7bfd304358b002fc1ead181deb5574" size="1587824" crc="20f540f3" fullsha1="0975063bf224df356e699a22adc4bc3e411be88e" dataSha1="0aa7cfc58a9d86b95b28e4f4f1dcf85fa14f36b4">
 		<category>Games</category>
 		<description>Spear of Destiny (USA)</description>
 		<rom name="Spear of Destiny (USA) (Track 01).bin" size="3996048" crc="355e2d86" md5="d77f9d48c086c004d0f0b67703cf62c5" sha1="4783f28fbfc2ce6d65ace48b70b05a133012ee6e"/>
 	</game>
-	<game name="Spear of Destiny (USA) (19950207)" sha1="c466d0ad096386049af1d11ac751cbd574650288" size="1592427" crc="ae3c334e" fullsha1="c2ded4c64f87082a26ade3edcd339410b3060011" dataSha1="91f3372af211b83ac23edd5f52845f2a454a018c">
+	<game name="Spear of Destiny (USA) (1995-02-07)" sha1="c466d0ad096386049af1d11ac751cbd574650288" size="1592427" crc="ae3c334e" fullsha1="c2ded4c64f87082a26ade3edcd339410b3060011" dataSha1="91f3372af211b83ac23edd5f52845f2a454a018c">
 		<category>Games</category>
-		<description>Spear of Destiny (USA) (19950207)</description>
-		<rom name="Spear of Destiny (USA) (19950207) (Track 01).bin" size="710304" crc="b221e545" md5="bf0346ab4869c9161d49234276816d3c" sha1="97c5b6a44c780cfdd3bb29fdd3e2ca1798dc2894"/>
-		<rom name="Spear of Destiny (USA) (19950207) (Track 02).bin" size="3977232" crc="1893a508" md5="a42e796c9397524fd4737a3ce1fcbf0c" sha1="47bb7d51d07f90206f2850f9471af4091f1f8f08"/>
+		<description>Spear of Destiny (USA) (1995-02-07)</description>
+		<rom name="Spear of Destiny (USA) (1995-02-07) (Track 01).bin" size="710304" crc="b221e545" md5="bf0346ab4869c9161d49234276816d3c" sha1="97c5b6a44c780cfdd3bb29fdd3e2ca1798dc2894"/>
+		<rom name="Spear of Destiny (USA) (1995-02-07) (Track 02).bin" size="3977232" crc="1893a508" md5="a42e796c9397524fd4737a3ce1fcbf0c" sha1="47bb7d51d07f90206f2850f9471af4091f1f8f08"/>
 	</game>
 	<game name="Spear of Destiny - Super CD Pack (USA)" sha1="1793d1daf6767d1520f96003e7130779a9caed20" size="3456451" crc="ee316c29" fullsha1="3c1f8c0d19f1f4a1ab185cd162b4d122fe1e8ac7" dataSha1="e644bb7affab17cf605f92eefe9464331d10ff7c">
 		<category>Games</category>
@@ -965,10 +1003,15 @@
 		<rom name="Spear of Destiny - Super CD Pack (USA) (Track 01).bin" size="710304" crc="1894ea42" md5="e45764c2ee321ced5ae0f90ed48a3ee6" sha1="1f75f4b1da1c9885316a1a212bd7c2a47fed9840"/>
 		<rom name="Spear of Destiny - Super CD Pack (USA) (Track 02).bin" size="9408000" crc="2f905bba" md5="e987976f0406a89edf0ffac96433b7eb" sha1="9aec8431a0a0388418b36d09bd7651d9eecae60b"/>
 	</game>
-	<game name="Star Wars - Dark Forces (USA) (Rerelease) (19980519)" sha1="14abefbfbbf43b2bf6f356e53be0bca6dc98c9a4" size="142150114" crc="155cdb23" fullsha1="cf4f51860127c9a7ce5d7b732121af0dae5d4bc1" dataSha1="2be26ed0ac9e47bf1908863dff3a5c36d76459e9">
+	<game name="Spider-Man - The Sinister Six (Germany)" sha1="ed23140416bd81284554c84510bdb381e6182fc3" size="307428491" crc="53972885" fullsha1="869e23088c1563eb04f548e2cc9e830ef124f34b" dataSha1="6716264dca695923341a49bcec342c9096ddca79">
 		<category>Games</category>
-		<description>Star Wars - Dark Forces (USA) (Rerelease) (19980519)</description>
-		<rom name="Star Wars - Dark Forces (USA) (Rerelease) (19980519) (Track 01).bin" size="309838368" crc="2d1f5613" md5="3b671b927fe2df046661698836d60216" sha1="1bd1efaa60ff540686c1cad12129af4ecabd7c47"/>
+		<description>Spider-Man - The Sinister Six (Germany)</description>
+		<rom name="Spider-Man - The Sinister Six (Germany) (Track 01).bin" size="362534928" crc="85a217ce" md5="dde769c4e05880a1852596c15d7f8b49" sha1="92cb4428b1f795cca2c5126ec090993817cecb21"/>
+	</game>
+	<game name="Star Wars - Dark Forces (USA) (Rerelease) (1998-05-19)" sha1="14abefbfbbf43b2bf6f356e53be0bca6dc98c9a4" size="142150114" crc="155cdb23" fullsha1="cf4f51860127c9a7ce5d7b732121af0dae5d4bc1" dataSha1="2be26ed0ac9e47bf1908863dff3a5c36d76459e9">
+		<category>Games</category>
+		<description>Star Wars - Dark Forces (USA) (Rerelease) (1998-05-19)</description>
+		<rom name="Star Wars - Dark Forces (USA) (Rerelease) (1998-05-19) (Track 01).bin" size="309838368" crc="2d1f5613" md5="3b671b927fe2df046661698836d60216" sha1="1bd1efaa60ff540686c1cad12129af4ecabd7c47"/>
 	</game>
 	<game name="Star Wars - Dark Forces (USA, Europe)" sha1="6326e8fbfff6e27cacb36a633aa9fe2a48df8faf" size="144788211" crc="1eeb0ce3" fullsha1="fafba24fd4cccddf5643cfb9b6fd4c1c22574a2b" dataSha1="15d473f5791ba210767cffcb239d909b3dc84e9a">
 		<category>Games</category>

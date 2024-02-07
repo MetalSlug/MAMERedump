@@ -4,15 +4,45 @@
 	<header>
 		<name>Commodore - Amiga CDTV</name>
 		<description>Commodore - Amiga CDTV</description>
-		<version>0.260</version>
-		<date>2023-09-07</date>
+		<version>0.262</version>
+		<date>2023-11-30</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
+	<game name="17 Bit - Collection for Amiga CDTV (Europe) (Disc B) (The Latest Batch)" sha1="ad360264e4ac823977e1a1c6e4cd01e0cb7a5fd3" size="404548090" crc="ec1a4f27" fullsha1="07975d301e9f80523fe81e2f79584f82148762dd" dataSha1="210878eb42377e676b079299136399f3eb6cd916">
+		<category>Games</category>
+		<description>17 Bit - Collection for Amiga CDTV (Europe) (Disc B) (The Latest Batch)</description>
+		<rom name="17 Bit - Collection for Amiga CDTV (Europe) (Disc B) (The Latest Batch) (Track 01).bin" size="520556400" crc="cf3523d2" md5="ddddd464ba83808d6a0e8c386e88013b" sha1="796abcd266f6f6366ed12fec264bdeb7851c3e55"/>
+	</game>
+	<game name="AMOS PD (UK)" sha1="aeee9de7545498d0a2396a2a692f81cf5d6a7545" size="299123284" crc="14097175" fullsha1="81b77ded4fe75a8d2ef0234707f80da58177509b" dataSha1="350a7d2fae8d1e45a783d807685b8a86632f4817">
+		<category>Games</category>
+		<description>AMOS PD (UK)</description>
+		<rom name="AMOS PD (UK) (Track 01).bin" size="681494352" crc="5d0eb96c" md5="e696fd1b3fce229c6d55197dc24b115c" sha1="c2dab466663a706590931a0e8afc92a60876ed75"/>
+	</game>
 	<game name="CD Remix Version II (Europe)" sha1="9f96770eeb5f7c2a37561782a384e6656b02abbc" size="9941634" crc="07fef5f3" fullsha1="1080455a511647c8d96a094fc679f60677b9cc36" dataSha1="d3feee0996218335c36bb8fb35a40b1ba33f1085">
 		<category>Games</category>
 		<description>CD Remix Version II (Europe)</description>
 		<rom name="CD Remix Version II (Europe) (Track 01).bin" size="69325200" crc="5b69da2d" md5="cb908fdfc8a2f85c33a5808e68993962" sha1="2712b4dd677dc87f76493f7fb382a9760600086d"/>
+	</game>
+	<game name="CDPD 1 (Europe)" sha1="483c5962f1dfd16d5766f2aa8d9a51a1e2f90e2f" size="275841259" crc="1eaf90fb" fullsha1="c5ce61d0400b373d5aba18e9df42d1d9763dbbc9" dataSha1="ac0ede13fbcdc19ba534aa0b3ba205c408825b7d">
+		<category>Games</category>
+		<description>CDPD 1 (Europe)</description>
+		<rom name="CDPD 1 (Europe) (Track 01).bin" size="719100480" crc="3a8b9c52" md5="48e3f0114fadbbbede435a914dcb2e2d" sha1="225aacb6444ac647e32a95181596aff874996137"/>
+	</game>
+	<game name="CDPD 1 (Europe) (CD32 Compatible)" sha1="d25d9e07d9870a574f29ccd92d8b0fc7b0104c64" size="280799425" crc="0634982b" fullsha1="b1030863295bdbc69c6031bae4338275c22e1000" dataSha1="6a81de6f1d0cdae8365d45f40c4070cd59ab6b0f">
+		<category>Games</category>
+		<description>CDPD 1 (Europe) (CD32 Compatible)</description>
+		<rom name="CDPD 1 (Europe) (CD32 Compatible) (Track 01).bin" size="735348096" crc="027037d7" md5="179890822e85c9990e50d0888370a73b" sha1="b7bfffba90db15f4effd1fd27bf5d302411353c5"/>
+	</game>
+	<game name="CDPD 2 (Europe)" sha1="3f7060bd31be46891fd33e84a54234920f34c589" size="274031968" crc="3bccda81" fullsha1="a5bea7abf4e5302b7afa761e700246b7ce7943d4" dataSha1="cd6bc2787eb8ee59488ee0be1499df6b37342f66">
+		<category>Games</category>
+		<description>CDPD 2 (Europe)</description>
+		<rom name="CDPD 2 (Europe) (Track 01).bin" size="635216400" crc="d042057b" md5="9aa3d776a31df428f5d507ff41d4c15f" sha1="c23883895864584040bcc03145c8f4a3fa77bb1b"/>
+	</game>
+	<game name="CDPD 3 (Europe)" sha1="c92d1179cc11abde6b92a0d637bdfc6e88de99dd" size="379763427" crc="7b788336" fullsha1="f9618916987ef0b4ba43bcd3eeb043386eded3ac" dataSha1="fbedd19c4addc4c468ee31dd0dfd2ab4e323ae52">
+		<category>Games</category>
+		<description>CDPD 3 (Europe)</description>
+		<rom name="CDPD 3 (Europe) (Track 01).bin" size="707131152" crc="a1a24c58" md5="8712be6e9745842a7c9ac72e6f4e8167" sha1="589860d5c9b97b4ee4ba14fab6ec29247da6e3d9"/>
 	</game>
 	<game name="Case of the Cautious Condor, The (Europe)" sha1="ee1651447b936a9ed93b527b5ba61bd51ae2cb98" size="61348810" crc="f5e2cf9f" fullsha1="3e32eae38ff8fd917dded7973ed8e973a2035f65" dataSha1="501f23d8c74b96ec815b16f7fb8b6621560632e3">
 		<category>Games</category>
@@ -56,10 +86,25 @@
 		<description>Demo II - Amiga Public Domain Collection (Europe)</description>
 		<rom name="Demo II - Amiga Public Domain Collection (Europe) (Track 01).bin" size="699623568" crc="44e2cb21" md5="13e934b8e8a3660431ae8cccedcecace" sha1="dd5cd17ba6b3aa81f23543803920fb348e760be6"/>
 	</game>
+	<game name="Games &amp; Goodies (UK)" sha1="5d0f431f5a11dc1319eaeae9b575b197424883e6" size="58633153" crc="ce2f8e63" fullsha1="3d382610ab12396dc425ab3968794cae77390b91" dataSha1="f4c8f99b57ab30801ab2f3bce47a75981ee58ada">
+		<category>Games</category>
+		<description>Games &amp; Goodies (UK)</description>
+		<rom name="Games &amp; Goodies (UK) (Track 01).bin" size="125420400" crc="aa9f8b83" md5="c13282e67847c48343e4c26d8a6eaf4c" sha1="4bdca5b99f720bdb38523064165e5bb83c926c85"/>
+	</game>
 	<game name="Insight Dinosaurs (Europe)" sha1="7eb9401d08f7febd92f55537f3115c3225e5bd60" size="466123910" crc="0d5a1051" fullsha1="ed0c93173d37b1597a30436d228ec7b2db5e4abb" dataSha1="4e3a4cd63f2f5a7e5aec6a06492e7bc0dcd6676b">
 		<category>Games</category>
 		<description>Insight Dinosaurs (Europe)</description>
 		<rom name="Insight Dinosaurs (Europe) (Track 01).bin" size="766940160" crc="67f592d9" md5="d35bdb5d6efa2b01b989aefe2cda044f" sha1="95da49ffa6f6cfe3933f447272ccb9a2bd6d2619"/>
+	</game>
+	<game name="Insight Technology (Europe)" sha1="467a44a7dd7aef5fb389213c67fec86310213701" size="368182715" crc="6269078f" fullsha1="7ef8e1034f3b4b2a1ea3892df797f50b7ff7fec0" dataSha1="2329eddfa9844fd1bf57feadd19d307e43ecbddd">
+		<category>Games</category>
+		<description>Insight Technology (Europe)</description>
+		<rom name="Insight Technology (Europe) (Track 01).bin" size="619220448" crc="2fe34b98" md5="fb92ea4c4ef4a6ab30ea3cf921f9f1fb" sha1="597d0f1112e7c95748676e657948b180eba9824d"/>
+	</game>
+	<game name="Now That's What I Call Games (UK)" sha1="8ea8bb07f72e48d1a62547f0bd0ba3a72bef7e5e" size="11948676" crc="c78c561b" fullsha1="93c983100b59b325cb0f01b2a5cb0e18689bff7e" dataSha1="b3560beba37d19ea8561ab78ba4616978fa23eed">
+		<category>Games</category>
+		<description>Now That's What I Call Games (UK)</description>
+		<rom name="Now That's What I Call Games (UK) (Track 01).bin" size="29341200" crc="1163b18a" md5="fe5e6378777bdbe397cb8d34a0d22e18" sha1="97b2532ff7fbf2cf6898fff06094c0330483a11e"/>
 	</game>
 	<game name="Prehistorik (Europe)" sha1="525601447cdd2d850ff14d60e92142246b7a3329" size="136819026" crc="b183f377" fullsha1="9202c820dc3511f4f6d999767b6019f4c6d8f993" dataSha1="9e11f803341c07720afcc1a5afd18f0b53b07f03">
 		<category>Games</category>

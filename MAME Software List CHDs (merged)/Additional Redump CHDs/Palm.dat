@@ -4,8 +4,8 @@
 	<header>
 		<name>Palm</name>
 		<description>Palm</description>
-		<version>0.260</version>
-		<date>2023-09-07</date>
+		<version>0.262</version>
+		<date>2023-11-30</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -383,6 +383,16 @@
 		<category>Games</category>
 		<description>Palm Tungsten E2 Software Installation CD (USA)</description>
 		<rom name="Palm Tungsten E2 Software Installation CD (USA) (Track 01).bin" size="408358944" crc="c07b6d47" md5="a089976ba276103b7a908dabc1aa878f" sha1="5c7939de8a54b6c198c7a55c7f3122378cd1c838"/>
+	</game>
+	<game name="Palm Tungsten T Software Installation (USA) (Disc 1) (Desktop Software)" sha1="92d02fa45625edd6262618726b8e9c632a8f60cd" size="57773005" crc="c686de8a" fullsha1="b9d7ee603e0ccb723721a1c9971f5a7ff2f12ede" dataSha1="75b845c9095d3b5fa6b2a1452ffdf9a26a8544ff">
+		<category>Games</category>
+		<description>Palm Tungsten T Software Installation (USA) (Disc 1) (Desktop Software)</description>
+		<rom name="Palm Tungsten T Software Installation (USA) (Disc 1) (Desktop Software) (Track 01).bin" size="78227520" crc="e48bccf8" md5="51615867d5ce7ed0c82977715e17293d" sha1="0855faa50bb4b65d67b21d72cef4cddd4e9ac6c6"/>
+	</game>
+	<game name="Palm Tungsten T Software Installation (USA) (Disc 2) (Software Essentials)" sha1="832dcdd567c9a1af4131b0e5215d7021382b7087" size="81350213" crc="c5c8b389" fullsha1="745f8d0ec9e3f1171c800413e59bf67497ecd45a" dataSha1="82b90373bb6c3dd0b05810657f08a182e9758370">
+		<category>Games</category>
+		<description>Palm Tungsten T Software Installation (USA) (Disc 2) (Software Essentials)</description>
+		<rom name="Palm Tungsten T Software Installation (USA) (Disc 2) (Software Essentials) (Track 01).bin" size="117407136" crc="970d34a8" md5="453a3a53612a3403c85a0cb7091082a1" sha1="f3c4921943a140d0b618c8109e378984aa32f2f6"/>
 	</game>
 	<game name="Palm Vx - Connected Organizer (USA)" sha1="7ca0785162e7e5adda6ce7a7aac7af7547c1a108" size="19964689" crc="9baa0c1f" fullsha1="8afe26f7d37442908ea02ef3a57d2cdff906f582" dataSha1="8bcdb54d8cf28d21434743611a4695ae2ea639bb">
 		<category>Games</category>

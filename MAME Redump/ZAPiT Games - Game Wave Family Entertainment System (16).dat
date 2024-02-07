@@ -4,73 +4,73 @@
   <header>
     <name>ZAPiT Games - Game Wave Family Entertainment System</name>
     <description>MAME Redump - ZAPiT Games - Game Wave Family Entertainment System - Discs (16) (2021-10-06 20-53-45)</description>
-    <version>0.261</version>
-    <date>2023-11-30</date>
+    <version>0.262</version>
+    <date>2024-02-07</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
   </header>
-  <game name="4 Degrees - The Arc of Trivia - Bible Edition (USA)">
+  <machine name="4 Degrees - The Arc of Trivia - Bible Edition (USA)">
     <description>4 Degrees - The Arc of Trivia - Bible Edition (USA)</description>
-    <rom name="4 Degrees - The Arc of Trivia - Bible Edition (USA).chd" size="4214535711" crc="1F996B56" sha1="82F70921CBCBF221859A86FF9CE12DBCCEFBB6F9" />
-  </game>
-  <game name="4 Degrees - The Arc of Trivia - Volume 1 (USA)">
+    <disk name="4 Degrees - The Arc of Trivia - Bible Edition (USA).chd" sha1="8fd543dbbe801a5e358b97191c8938acf978907c" />
+  </machine>
+  <machine name="4 Degrees - The Arc of Trivia - Volume 1 (USA)">
     <description>4 Degrees - The Arc of Trivia - Volume 1 (USA)</description>
-    <rom name="4 Degrees - The Arc of Trivia - Volume 1 (USA).chd" size="4286983008" crc="E046BF0C" sha1="961C92D4EEBC9711BB14AF09B9960A9CED557BC8" />
-  </game>
-  <game name="4 Degrees - The Arc of Trivia - Volume 2 (USA)">
+    <disk name="4 Degrees - The Arc of Trivia - Volume 1 (USA).chd" sha1="c6dc32f45e6d6a500a7963d51bd79eb3d362a8e4" />
+  </machine>
+  <machine name="4 Degrees - The Arc of Trivia - Volume 2 (USA)">
     <description>4 Degrees - The Arc of Trivia - Volume 2 (USA)</description>
-    <rom name="4 Degrees - The Arc of Trivia - Volume 2 (USA).chd" size="4152173580" crc="D966C04B" sha1="FFD6D6A1B4689A0120F367F2E0E4509324DF8D86" />
-  </game>
-  <game name="Click! (USA)">
+    <disk name="4 Degrees - The Arc of Trivia - Volume 2 (USA).chd" sha1="3470755e003df83645e2d62fda18f696e5f3ec3b" />
+  </machine>
+  <machine name="Click! (USA)">
     <description>Click! (USA)</description>
-    <rom name="Click! (USA).chd" size="3614694223" crc="45CEC360" sha1="A893CCA9386968987354AE961B6933624D0C97AE" />
-  </game>
-  <game name="Gemz (USA)">
+    <disk name="Click! (USA).chd" sha1="85d403fa9172d4e9975043bafce77e2fb14fe56a" />
+  </machine>
+  <machine name="Gemz (USA)">
     <description>Gemz (USA)</description>
-    <rom name="Gemz (USA).chd" size="2714943071" crc="325B1C2E" sha1="04F96BB466A9BD2F3485B23D7A093BC43AC82D6B" />
-  </game>
-  <game name="Letter Zap! (USA)">
+    <disk name="Gemz (USA).chd" sha1="be3dc18038376e931f704e0bfe7fd932a1fae01d" />
+  </machine>
+  <machine name="Letter Zap! (USA)">
     <description>Letter Zap! (USA)</description>
-    <rom name="Letter Zap! (USA).chd" size="3080586752" crc="8C5CCE1E" sha1="E15A3C8108395C18D59D26C9191472BA838EE0B8" />
-  </game>
-  <game name="Lock 5 (USA)">
+    <disk name="Letter Zap! (USA).chd" sha1="647c9bbbc67451bc0272a10e8ef299450a6e38c9" />
+  </machine>
+  <machine name="Lock 5 (USA)">
     <description>Lock 5 (USA)</description>
-    <rom name="Lock 5 (USA).chd" size="527937762" crc="3C97FF41" sha1="B19FEB353E90F6A5AFECB6C662C9634611130DFD" />
-  </game>
-  <game name="Rewind (USA)">
+    <disk name="Lock 5 (USA).chd" sha1="0e7522bcb9cd1175d9bb1a8108df24a31799b7a1" />
+  </machine>
+  <machine name="Rewind (USA)">
     <description>Rewind (USA)</description>
-    <rom name="Rewind (USA).chd" size="4429901545" crc="B1FA69D9" sha1="ED9E154838F56F0E6D303235D1E397977DEB71EF" />
-  </game>
-  <game name="Rewind (USA) (Rev 1)">
+    <disk name="Rewind (USA).chd" sha1="899bbde4ec15c19d5ccd65044f11fe6d8ddbbd50" />
+  </machine>
+  <machine name="Rewind (USA) (Rev 1)">
     <description>Rewind (USA) (Rev 1)</description>
-    <rom name="Rewind (USA) (Rev 1).chd" size="4184828306" crc="5DE6218B" sha1="CC72941A327AEADA402658BFD96078883DBF5F25" />
-  </game>
-  <game name="Rewind 2005 (USA) (Disc A)">
+    <disk name="Rewind (USA) (Rev 1).chd" sha1="2a7425f445522758ace5024273c2350c1a6415cc" />
+  </machine>
+  <machine name="Rewind 2005 (USA) (Disc A)">
     <description>Rewind 2005 (USA) (Disc A)</description>
-    <rom name="Rewind 2005 (USA) (Disc A).chd" size="3356392463" crc="531590A4" sha1="6049C3E8165921F5F1425D3265F0ADC3F478DCD5" />
-  </game>
-  <game name="Rewind 2005 (USA) (Disc B)">
+    <disk name="Rewind 2005 (USA) (Disc A).chd" sha1="d5804e7b7fa07e0bb0a5e877f1102b3d88a7a212" />
+  </machine>
+  <machine name="Rewind 2005 (USA) (Disc B)">
     <description>Rewind 2005 (USA) (Disc B)</description>
-    <rom name="Rewind 2005 (USA) (Disc B).chd" size="3393997044" crc="D43A1A0B" sha1="E8025721D6BDE901F1D30CDD128B1484805576ED" />
-  </game>
-  <game name="Rewind 2006 (USA) (Disc A)">
+    <disk name="Rewind 2005 (USA) (Disc B).chd" sha1="ce74b5e80ec137010619094772128627b652a522" />
+  </machine>
+  <machine name="Rewind 2006 (USA) (Disc A)">
     <description>Rewind 2006 (USA) (Disc A)</description>
-    <rom name="Rewind 2006 (USA) (Disc A).chd" size="3708946664" crc="D4022B52" sha1="9B63E5CA19CDED56183A8DA517EDA0332B07A483" />
-  </game>
-  <game name="Rewind 2006 (USA) (Disc B)">
+    <disk name="Rewind 2006 (USA) (Disc A).chd" sha1="c02aa73192aa339d5231c779255229063ff3d098" />
+  </machine>
+  <machine name="Rewind 2006 (USA) (Disc B)">
     <description>Rewind 2006 (USA) (Disc B)</description>
-    <rom name="Rewind 2006 (USA) (Disc B).chd" size="3683620553" crc="9F4E9757" sha1="0FC618E35BE052B4596F57AE450A0C62C0780970" />
-  </game>
-  <game name="Sudoku (USA)">
+    <disk name="Rewind 2006 (USA) (Disc B).chd" sha1="ae1f9531523df2499db6023c62c989f274ef99ac" />
+  </machine>
+  <machine name="Sudoku (USA)">
     <description>Sudoku (USA)</description>
-    <rom name="Sudoku (USA).chd" size="3248730617" crc="6B603F11" sha1="DA1EAE7A69AD0B30D17366EC4FE1BCF03343C820" />
-  </game>
-  <game name="VeggieTales - Veg-Out! Family Tournament (USA)">
+    <disk name="Sudoku (USA).chd" sha1="bd9f105272b0e4d27fbb53e2e60d4d7461937de5" />
+  </machine>
+  <machine name="VeggieTales - Veg-Out! Family Tournament (USA)">
     <description>VeggieTales - Veg-Out! Family Tournament (USA)</description>
-    <rom name="VeggieTales - Veg-Out! Family Tournament (USA).chd" size="4092667875" crc="AD83C383" sha1="49E08F259E893659F33EA074917185139426D5E5" />
-  </game>
-  <game name="Zap 21 (USA)">
+    <disk name="VeggieTales - Veg-Out! Family Tournament (USA).chd" sha1="3c0e627989f0482783015be96964d6165b5e6ec5" />
+  </machine>
+  <machine name="Zap 21 (USA)">
     <description>Zap 21 (USA)</description>
-    <rom name="Zap 21 (USA).chd" size="312966188" crc="D5355D05" sha1="2D352B55FC233C9CABBA367B8A09CDD10C550A0F" />
-  </game>
+    <disk name="Zap 21 (USA).chd" sha1="234d8fc470fc0c75f0d40e879d359cc671fd2385" />
+  </machine>
 </datafile>

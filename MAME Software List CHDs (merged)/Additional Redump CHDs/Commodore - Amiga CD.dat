@@ -4,8 +4,8 @@
 	<header>
 		<name>Commodore - Amiga CD</name>
 		<description>Commodore - Amiga CD</description>
-		<version>0.260</version>
-		<date>2023-09-07</date>
+		<version>0.262</version>
+		<date>2023-11-30</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -38,6 +38,130 @@
 		<category>Games</category>
 		<description>A-News Numero 3 (France)</description>
 		<rom name="A-News Numero 3 (France) (Track 01).bin" size="544899600" crc="0bca8806" md5="8b77f233106afdd30e51f842c7859734" sha1="f07d937e956294f873c87ff51040b2bcf708acf3"/>
+	</game>
+	<game name="AGA Experience - Volume 1 (UK)" sha1="1bd3b7d9ef4beac6f9b4faac0695043bbb4dccfe" size="531645367" crc="a57e81fd" fullsha1="30e03a92fb85cee32506e98a2599d78c1a908938" dataSha1="b18323ac376ab5bad6633d3e0fac15b855b2affd">
+		<category>Games</category>
+		<description>AGA Experience - Volume 1 (UK)</description>
+		<rom name="AGA Experience - Volume 1 (UK) (Track 01).bin" size="780233664" crc="7c55d7ba" md5="5ca1f75189b6f2e5550f77002fef3264" sha1="7ae43c7ce157adbfd06c1c53b25403ee72726136"/>
+	</game>
+	<game name="AGA Experience - Volume 2 (UK)" sha1="6b131a8cf4c280dc5896363a88db9b9eee116ee2" size="401595654" crc="14030c16" fullsha1="297d43bc250258929e3294286ad9ac95bc8922b5" dataSha1="c475ae4c4e8bd2850906bcc77fbc84386bb09af5">
+		<category>Games</category>
+		<description>AGA Experience - Volume 2 (UK)</description>
+		<rom name="AGA Experience - Volume 2 (UK) (Track 01).bin" size="766380384" crc="f6b1790b" md5="0050554308a47466d4b60e490377e4d9" sha1="b45efed129bffa42a148804adac0609b0ad2446f"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 1 - October 1999 (UK)" sha1="b24b15738cb4e25a67bbea7a16d4d73d749ccad3" size="313364787" crc="e5c2d843" fullsha1="5f6395e5fc153c3daa8c411e829bc1e269441c1b" dataSha1="ab4ab279ac0ebecd73669d736ecc9d13c45714af">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 1 - October 1999 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 1 - October 1999 (UK) (Track 01).bin" size="782439840" crc="b0cc34aa" md5="9c6af2d45e48f2cb84982cc61923b8f0" sha1="72e178816ae0e752a7dd3e939ef59ec64f00fafe"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 10 - July 2000 (UK)" sha1="69eac7e21e30797f0355a067ac1e4e3e5e1b7492" size="306419402" crc="f6af0196" fullsha1="f81e22c42190be09bd8a9c0c6b28bb1c804dd61e" dataSha1="8aa068105dff14ee988036c70674dadfafb8cea5">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 10 - July 2000 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 10 - July 2000 (UK) (Track 01).bin" size="794178672" crc="a4729705" md5="8a72ae7820564947c73736ae45c9ed57" sha1="9f2401f8d4ca3b16d82a458bbd5712c6b2c4f1d9"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 11 - August 2000 (UK)" sha1="1fac076cd839e0bd18e7e4eaefeaa87c502a1ebb" size="324048555" crc="2d5fd2cc" fullsha1="da27bb0f7fcd160d9001fa3b932c74d5dec9d888" dataSha1="c8386ffea9e4947d73c974c640767654148ac3eb">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 11 - August 2000 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 11 - August 2000 (UK) (Track 01).bin" size="795573408" crc="5d577250" md5="a314a1f9028f5fbb9bfe53dc8c73062b" sha1="79ce92e768b042683354f96fadf7ed46fa75b45c"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 12 - Sept 2000 (UK)" sha1="ab18d2a111037c5bfad726b9923c23be325e71c9" size="281235609" crc="320e23ae" fullsha1="d9198206fd63ec21187383db01baf967a2b774d4" dataSha1="0c2a62710d8a249b9741350c8d0a13c6e3b6ccc2">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 12 - Sept 2000 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 12 - Sept 2000 (UK) (Track 01).bin" size="792071280" crc="22d18679" md5="0973ce3711a77bd2231d6a85fdbfe6b3" sha1="f8e209d76c58b57f98cbea125974fb0a20f8c217"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 13 - October 2000 (UK)" sha1="d4367402c6fac3f091bed68db71778b889710e66" size="336679275" crc="7cfcc34d" fullsha1="786dbf0b09007a87f01e7951ed27fb08a500e549" dataSha1="27d02a312b13e007d96907a47b1a0e4faf5115ea">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 13 - October 2000 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 13 - October 2000 (UK) (Track 01).bin" size="781658976" crc="5e92c4e3" md5="b432195e956e82fd31792c1e8a75e35a" sha1="1fbea3db20d451f53f6eff5fa0bf87ce47ea5783"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 15 - December 2000 (UK)" sha1="6c2f768ee87def71628cb5c7c93769a24ffcf58b" size="251664541" crc="0343316b" fullsha1="43ea9e582b1254fe6de52b408dc94b0f91c0b88d" dataSha1="8e5d32191f69f8439d8d2f188d4108e07dc8d8c8">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 15 - December 2000 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 15 - December 2000 (UK) (Track 01).bin" size="797396208" crc="bcec1f78" md5="9a0bf2dea25781d78ebb8d94e4a0b41a" sha1="1e23b78275bdf70b23892f9c1102c2a2851327f1"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 16 - January 2001 (UK)" sha1="cd005cb3ab6798d423dc30b40e92972591b52744" size="333297518" crc="b4abe5c0" fullsha1="d131603110b467ef1d03c395648a3f5aba72649e" dataSha1="ca57386e5a5fa77f7ee0420a443681ceae806f72">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 16 - January 2001 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 16 - January 2001 (UK) (Track 01).bin" size="784493136" crc="580b3819" md5="8dc3fffdadfaff78769718504dae8d6e" sha1="191b742bcdb3254042d82877751e936129406400"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 17 - February 2001 (UK)" sha1="4b02a9b48c93cd74c3632bb7b8848a110ee776f0" size="343474002" crc="2638471b" fullsha1="15543afcd9afd3faaef0cd67a886e31b0d756bc9" dataSha1="3d0df661a1f20a789f67f2c32a2593a87a3d32fc">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 17 - February 2001 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 17 - February 2001 (UK) (Track 01).bin" size="144763248" crc="e10a50e3" md5="87b2a1bf6af0482fdf75556597a6fa89" sha1="aa43f0fe9203eeef81156c3a5122b6b941a82a5e"/>
+		<rom name="Amiga Active - Cover Disc 17 - February 2001 (UK) (Track 02).bin" size="618583056" crc="9b5bb25a" md5="44a40ffb832d57abf6c36140097dcd18" sha1="1d8286606cd1d920c5f22efcbf480641ae93acc6"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 18 - March 2001 (UK)" sha1="17388a8934c3615bccf3eae6210eb8b5674ca1dc" size="330373492" crc="70584c68" fullsha1="7da79501189aaabbdaae95f4a15add0740fd0d75" dataSha1="d0b0b9608cd3828e689fae1b260fe99d8acdfef4">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 18 - March 2001 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 18 - March 2001 (UK) (Track 01).bin" size="597814896" crc="6de8c227" md5="c4c5d21ad2d3194707c89ec989192d42" sha1="382beaa3eb03e1e6be8ece83ea9ec30be3088558"/>
+		<rom name="Amiga Active - Cover Disc 18 - March 2001 (UK) (Track 02).bin" size="154888608" crc="2f585004" md5="2a182b5435310ef7f946331f40424b27" sha1="e168790e67d7c20300189db895a102768dba659e"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 19 - April 2001 (UK)" sha1="e6f1e63f0fc07cd545a3160f0205262003b86f5a" size="328773055" crc="981276e2" fullsha1="e79236bf44d29172d9d9cb01a58fba7c35c7f3df" dataSha1="0d189ae0463a2d2f2c865daa47a20459cee98673">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 19 - April 2001 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 19 - April 2001 (UK) (Track 01).bin" size="607521600" crc="5066f80c" md5="50341b127669aa145ceaa578f0b59e37" sha1="3304b9deca9d2486b1eda6050177a2d77fb3ab2a"/>
+		<rom name="Amiga Active - Cover Disc 19 - April 2001 (UK) (Track 02).bin" size="152379024" crc="927aedbc" md5="f287930610f6ed4c6fb658acf7979d73" sha1="a8a56a8f1cb8b8cd554b5c415e550c2c8a6af421"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 2 - November 1999 (UK)" sha1="0f07d181958049f7cbc8e3f2ed70df04819bd87d" size="313276195" crc="4df299c5" fullsha1="63dea8900b42b55d75fed6c5a032e350e8f0e74b" dataSha1="d30feb3eab9a7f876e6988bba5ebd614a176043b">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 2 - November 1999 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 2 - November 1999 (UK) (Track 01).bin" size="784921200" crc="4377d619" md5="b6a954a5c25a21848a12efa9d437fcab" sha1="629fbbb9fee0138d8139005a5b8ce9edb17b2448"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 21 - June 2001 (UK)" sha1="f403e3c0a1dfa6ba131338264b1c2863500b248f" size="300249200" crc="90688fd5" fullsha1="f9fca61c08c3c48eb0910b1fb0861b9eaacdb425" dataSha1="2b7d00301f9bd00a725a2415357105367cab905e">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 21 - June 2001 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 21 - June 2001 (UK) (Track 01).bin" size="790803552" crc="b4fd6331" md5="f654412d172025f65d3095019016df6b" sha1="3c63f0d5aa468c0fe06e9678cc6f61a0671f3fc0"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 22 - July 2001 (UK)" sha1="0240522447ffe25916828a20e5b729a50eed9b05" size="365225583" crc="a9b86f91" fullsha1="66e33a2c634d105f0dd3998b0e4a9039395de649" dataSha1="55bad328298c3fad8bf48cd311908243a6ab4a9d">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 22 - July 2001 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 22 - July 2001 (UK) (Track 01).bin" size="793169664" crc="d2a4017d" md5="9952390c6981dc24a655a309391cac76" sha1="ac214093e05e21dcd7aa8c355f5eb2b63f9a49a0"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 23 - August 2001 (UK)" sha1="65d1ebea44a1bb419bc5705ef2bc7a4195c78b78" size="413679034" crc="b26e24d5" fullsha1="921faf57462b554a3b418ee18f882729ad9beead" dataSha1="3fffdb53736affe5479a13af3eeec459bb5f715a">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 23 - August 2001 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 23 - August 2001 (UK) (Track 01).bin" size="781743648" crc="39b9c656" md5="a63510ed92b91eaa41e06b976cf00d2b" sha1="817d312987b05a21f71afd44d9292cc9e06f1a4b"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 24 - September 2001 (UK)" sha1="83737373e5accf563aa78460b2757137f6857ecc" size="357297007" crc="b65dcc1e" fullsha1="8d04eab4f7831a4d9f3067ec276efa1917f0005c" dataSha1="cd83668f4cda9e5c80bd4823873759b4ad877667">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 24 - September 2001 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 24 - September 2001 (UK) (Track 01).bin" size="775153344" crc="d17fc436" md5="2eb254132a1c7416d9eccac4da9cdd36" sha1="0abe5e31cbc6c003889633f6d027a4ac57512fe3"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 25 - October 2001 (UK)" sha1="55328d05dea5570cb4d176bef0b7116cb2acc6f5" size="374293442" crc="0c68d165" fullsha1="eed55564ac60c50bca5c5c734889373e80271c23" dataSha1="c41b69bd7284380ab6b0b5f0ad74bf7f8eb08e9d">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 25 - October 2001 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 25 - October 2001 (UK) (Track 01).bin" size="787470768" crc="a58f47df" md5="aafd276922c4327be52250d23f44fc95" sha1="a164f00c92bf31ab14e17ede41d23f974a55824e"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 26 - November 2001 (UK)" sha1="653d79f78cc48fffffcb5dc0717d16fb8901c0f4" size="369442250" crc="3df1510d" fullsha1="e2e4889373261f25057bae80bc0f5d93bbf2956d" dataSha1="b49a962a5846069b987fc796685945703e865467">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 26 - November 2001 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 26 - November 2001 (UK) (Track 01).bin" size="782385744" crc="56b98a4f" md5="4a10cc9ef84a65159b666fd3883b2817" sha1="0fa05b9a74ae58ea8d5e218fd9c673dba0f7b5ca"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 3 - December 1999 (UK)" sha1="6eeddebcad38300c0bb9256908044f1ebdac20cf" size="332339685" crc="2670df05" fullsha1="8deaf528d94d3c3481a2c2fbf6386df92181ea2c" dataSha1="c1fac3b3132e157c61606f9e496e0dfd8571cdda">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 3 - December 1999 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 3 - December 1999 (UK) (Track 01).bin" size="719695536" crc="44020bce" md5="eba46558e035bc8674e6e0e1c7c6406b" sha1="e61f2d2f4815007e2ce7ec0f0f3a286a79277438"/>
+		<rom name="Amiga Active - Cover Disc 3 - December 1999 (UK) (Track 02).bin" size="58877616" crc="2ead0de4" md5="b206f0fd76fa8db0287e4d9802a86602" sha1="77db09fe8125b0aad0e1bb3c12ac9c8f188b4aa7"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 4 - January 2000 (UK)" sha1="b39bec25fcb73ae5f760e9e7cb00b72985725937" size="307908400" crc="272c00c3" fullsha1="3a5fe9c6c24d249d44a3c8343428257652dad660" dataSha1="28de0a902b796eaacd6fdf9312a1b680702bc064">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 4 - January 2000 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 4 - January 2000 (UK) (Track 01).bin" size="781332048" crc="6b707cbf" md5="405bd1dd8e226d061ff7f28e4fe6fe72" sha1="732d5c1b26ebddca09c98685208978e3c7dbd075"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 7 - April 2000 (UK)" sha1="d275820b90f274adeff6b16a5f64281e67aa7e01" size="280845367" crc="ed51caa4" fullsha1="cb878af8fb43ddbb79294d92be1c92a4bbe25e89" dataSha1="3fae0e446681a1d29bbd3ae51258530a11923fed">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 7 - April 2000 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 7 - April 2000 (UK) (Track 01).bin" size="771481872" crc="9d740f98" md5="f051c0b00c760dce190c4ee6d05c2f0f" sha1="7e87ea309e06fed7374e15f6dba7a76b9f676a6e"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 8 - May 2000 (UK)" sha1="52c6cf989847b7786b934b204457187b40c68ec6" size="322741893" crc="b176f12c" fullsha1="ec367d65e752aff155222304bb8065a57e915de6" dataSha1="8dba112b5f6e2f37a954f95e37ee6cf2d96b8b7e">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 8 - May 2000 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 8 - May 2000 (UK) (Track 01).bin" size="781562544" crc="10de2011" md5="086545ae5294864c89d3a22f10483191" sha1="2b1ab588f3e919cec1f7acc6b47f21cfa24fc2f2"/>
+	</game>
+	<game name="Amiga Active - Cover Disc 9 - June 2000 (UK)" sha1="e722afd709f7c27a9cfc2c27ed98649221fed7c5" size="331390641" crc="e83fa54d" fullsha1="4249bc7d6e7befc4d1004a9a6f9dd3dbcb7d3767" dataSha1="7889f8867ffcf9c30ac762b81d394a9af4cd146f">
+		<category>Games</category>
+		<description>Amiga Active - Cover Disc 9 - June 2000 (UK)</description>
+		<rom name="Amiga Active - Cover Disc 9 - June 2000 (UK) (Track 01).bin" size="790549536" crc="19c92545" md5="09d14cd926e229008b7e991960115c0a" sha1="f68ebc5d519b1090dbb639086b925308a16d390e"/>
 	</game>
 	<game name="Amiga CD! Magazine No. 1 (Europe)" sha1="d9b4f4e717f3953b26e14142fc84ce9468c74f68" size="143364663" crc="69c5c0e1" fullsha1="4a96b628deda383a2279a2edf2098e41352e05f7" dataSha1="dd8dcbd9b2102102631d8531876ac78dd0aa7d9d">
 		<category>Games</category>
@@ -1789,10 +1913,21 @@
 		<description>Aminet Set 9 (Europe) (En,De) (Disc D) (Mods)</description>
 		<rom name="Aminet Set 9 (Europe) (En,De) (Disc D) (Mods) (Track 01).bin" size="774090240" crc="6e2d56c9" md5="830afb900a3171adf1c434c3308255a5" sha1="68cc708325b649ba3a74948c683b5ae46eb505e0"/>
 	</game>
+	<game name="Animatic (Germany)" sha1="f477e2e22ab33823ffa01629b187c78be2f6decb" size="406663660" crc="a283c751" fullsha1="e7aafadccba7b1ca403ea3a5aad6e6af4653734e" dataSha1="875ab433877ae4a1c0556c80d67fde33c8e6fcd6">
+		<category>Games</category>
+		<description>Animatic (Germany)</description>
+		<rom name="Animatic (Germany) (Track 01).bin" size="715998192" crc="c46ea7ed" md5="e7f428c238fe286bfe576465847df435" sha1="c72981a423af376c20e9a8f8350863b9243b026a"/>
+		<rom name="Animatic (Germany) (Track 02).bin" size="66159408" crc="eb553e4c" md5="f2b2091a055b32fea1c54d1a31f7fd16" sha1="9ac3b1c265e60c0a262b25bcbc1dce5a86f4a9f3"/>
+	</game>
 	<game name="Arktis Edition Vol. 1 (Germany)" sha1="15b10921b50f3b8ab4375d23a91666df813fbdb5" size="39562619" crc="1c3db2b6" fullsha1="d423d6df07f82e3bdf70ced6c93f5c0cc7e4c235" dataSha1="be6a853e4bdef21b61a879fe495cc53d4d31d4eb">
 		<category>Games</category>
 		<description>Arktis Edition Vol. 1 (Germany)</description>
 		<rom name="Arktis Edition Vol. 1 (Germany) (Track 01).bin" size="72055872" crc="9dbaef6f" md5="b26c2f786c12fcd3ba3cc54a705066e6" sha1="0abfe86e6652e6512eb5b7bb2f277d642f91cc15"/>
+	</game>
+	<game name="BCI Net Dec 94 (UK)" sha1="b8be2254e887c0384042a0039dec19dc9f5a4f17" size="454638874" crc="5a5c98ff" fullsha1="be6e6516c838ecd19e136bde7fabe3c2c8d6becc" dataSha1="4c9f89bca4ddab987cd0ea803fc263cba72063d9">
+		<category>Games</category>
+		<description>BCI Net Dec 94 (UK)</description>
+		<rom name="BCI Net Dec 94 (UK) (Track 01).bin" size="543751824" crc="954d8e91" md5="e130bf0f497c676aa80064999b359c65" sha1="3efa9752d8957fc122abbba74ed7ba657645a3db"/>
 	</game>
 	<game name="Beauty of Chaos, The - Vol. 1 (Germany) (En,De)" sha1="f4f44b8fd85e6065a29ccc477ad787ccb6440876" size="639138908" crc="0efc99c3" fullsha1="595b3a444a895f000870d28f8db8513d89ce2e0f" dataSha1="1cb660aaed972a77a66884bd210b4746c3e89a93">
 		<category>Games</category>
@@ -1819,141 +1954,168 @@
 		<description>Big Red Adventure, The (Europe) (En,Fr,De,It)</description>
 		<rom name="Big Red Adventure, The (Europe) (En,Fr,De,It) (Track 01).bin" size="38645712" crc="5ab5a775" md5="a03a4bfff41a8a6900ae60956a882290" sha1="4d72fb1843a990873a51d1bf2185d758e131d718"/>
 	</game>
-	<game name="CU Amiga Magazine Mega CD-ROM November 1995 (Europe)" sha1="6d4ca126f6fd88fc9e383f978213445d3a11bac9" size="421382644" crc="8ba67884" fullsha1="36bc4a772fe4a6bf0a9f08592635c14a640cba58" dataSha1="fcccf606ac9af10e4d2108627367db8cc3d80499">
+	<game name="CU Amiga Magazine CD-ROM Special Edition - November 1995 (UK)" sha1="6d4ca126f6fd88fc9e383f978213445d3a11bac9" size="421382644" crc="8ba67884" fullsha1="36bc4a772fe4a6bf0a9f08592635c14a640cba58" dataSha1="fcccf606ac9af10e4d2108627367db8cc3d80499">
 		<category>Games</category>
-		<description>CU Amiga Magazine Mega CD-ROM November 1995 (Europe)</description>
-		<rom name="CU Amiga Magazine Mega CD-ROM November 1995 (Europe) (Track 01).bin" size="537163872" crc="6fcf559b" md5="59654a25b15c5acb631cfcddd45560b9" sha1="97620bf1ddef9894d511aed2b4e6a60980734b2b"/>
+		<description>CU Amiga Magazine CD-ROM Special Edition - November 1995 (UK)</description>
+		<rom name="CU Amiga Magazine CD-ROM Special Edition - November 1995 (UK) (Track 01).bin" size="537163872" crc="6fcf559b" md5="59654a25b15c5acb631cfcddd45560b9" sha1="97620bf1ddef9894d511aed2b4e6a60980734b2b"/>
 	</game>
-	<game name="CU Amiga Magazine Super CD-ROM 27 October 1998 (UK)" sha1="37943aaa80fecc502e594bb4cd9e8ecedf53d182" size="377111219" crc="a388e19c" fullsha1="66fe5dfdb76a946d08019f83240cf9846d3a36ba" dataSha1="1e4c9e17c205ccb1f06325f35b4d19bff94dae9a">
+	<game name="CU Amiga Magazine Super CD-ROM 10 - May 1997 (UK)" sha1="f0691bf6fb820557bede1c8d7c10d2348edefab5" size="374458343" crc="244c18c8" fullsha1="d844f0041dce4f97a86e16cf2589f49459d44ba2" dataSha1="bb394c10ce639a8ed088eac46e8a080b0394fb4f">
 		<category>Games</category>
-		<description>CU Amiga Magazine Super CD-ROM 27 October 1998 (UK)</description>
-		<rom name="CU Amiga Magazine Super CD-ROM 27 October 1998 (UK) (Track 01).bin" size="777408912" crc="5b96426c" md5="c0829bb2b71193f678fddf43bfb0db89" sha1="1d425c39a40899dcc4259c60ebb5b137c6bb96e1"/>
+		<description>CU Amiga Magazine Super CD-ROM 10 - May 1997 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 10 - May 1997 (UK) (Track 01).bin" size="688122288" crc="16dca806" md5="8fcdd06c83e5ee81efe756a943fa6ef8" sha1="bc295bda7bcb7f9625f8bf9f0a56b2543b8237e7"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 10 - May 1997 (UK) (Track 02).bin" size="46252080" crc="00eaf809" md5="66988700ff531f311730c4caa70e6211" sha1="174d12464f41b4573bbcf75e1ab9397b13456749"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 10 - May 1997 (UK) (Track 03).bin" size="44887920" crc="211012a4" md5="e64b9be80744fb54bfac1046aa76d7dc" sha1="2677b522271444a1c2b2d070848fd454d7a688bc"/>
 	</game>
-	<game name="CU Amiga Magazine Super CD-ROM 5 December 1996 (UK)" sha1="fe3932374c7f73871f59e2a099e63cd503b22584" size="342614974" crc="e211153c" fullsha1="e7f1f7be3f150c57050bd28cdaba10d100ec3052" dataSha1="c8dd50ea3240be59f803ec8f588eccb665e02995">
+	<game name="CU Amiga Magazine Super CD-ROM 11 - June 1997 (UK)" sha1="4617a60f04624978f74aff39ef4e5dc3e87e3b0c" size="412556674" crc="2a9ca820" fullsha1="06919164e2a1d3d6bf914999c63f1fa6c7add75f" dataSha1="aec172654ac219bcaa2ca2f3ad14b89be3fb7a15">
 		<category>Games</category>
-		<description>CU Amiga Magazine Super CD-ROM 5 December 1996 (UK)</description>
-		<rom name="CU Amiga Magazine Super CD-ROM 5 December 1996 (UK) (Track 01).bin" size="735270480" crc="6788725f" md5="ded9cf2dfaa8722c0234c29d98b1a1bd" sha1="9404aff637b898465645e720f59b5ef6e4d49a91"/>
-		<rom name="CU Amiga Magazine Super CD-ROM 5 December 1996 (UK) (Track 02).bin" size="48498240" crc="8abc0381" md5="f271edb8c8c1268da0069bfcc107a917" sha1="9eb5a96e9cbdbb19a80daa8d53c04f69aff0bc5d"/>
+		<description>CU Amiga Magazine Super CD-ROM 11 - June 1997 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 11 - June 1997 (UK) (Track 01).bin" size="652974000" crc="7d7d2a98" md5="4aa19b27d50be02cd7addab4c6ebdd4b" sha1="a38be154ce7cbc12ebfee5775d008f8aa5891967"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 11 - June 1997 (UK) (Track 02).bin" size="46101552" crc="897cc7da" md5="3aec8c825da179750361734e280d745c" sha1="2a84e3b1f92a3c83b26848adcb18f15cc1a57099"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 11 - June 1997 (UK) (Track 03).bin" size="84349776" crc="f10bdbd8" md5="c133922b15e8e4d7a90b763854b9b409" sha1="7728148b4d770b070a3882660ef3cbb310c302c8"/>
 	</game>
-	<game name="CU Amiga Magazine's Super CD-ROM 10 (UK)" sha1="f0691bf6fb820557bede1c8d7c10d2348edefab5" size="374458343" crc="244c18c8" fullsha1="d844f0041dce4f97a86e16cf2589f49459d44ba2" dataSha1="bb394c10ce639a8ed088eac46e8a080b0394fb4f">
+	<game name="CU Amiga Magazine Super CD-ROM 12 - July 1997 (UK)" sha1="9493d961cdf638d07cef4786f8577b2c3d67e784" size="324461194" crc="56b6c2a2" fullsha1="6d3a614592e41be8b54681844a0aab4f50f15266" dataSha1="02d3354cc36b26000c8f37059a7eec987f333d07">
 		<category>Games</category>
-		<description>CU Amiga Magazine's Super CD-ROM 10 (UK)</description>
-		<rom name="CU Amiga Magazine's Super CD-ROM 10 (UK) (Track 01).bin" size="688122288" crc="16dca806" md5="8fcdd06c83e5ee81efe756a943fa6ef8" sha1="bc295bda7bcb7f9625f8bf9f0a56b2543b8237e7"/>
-		<rom name="CU Amiga Magazine's Super CD-ROM 10 (UK) (Track 02).bin" size="46252080" crc="00eaf809" md5="66988700ff531f311730c4caa70e6211" sha1="174d12464f41b4573bbcf75e1ab9397b13456749"/>
-		<rom name="CU Amiga Magazine's Super CD-ROM 10 (UK) (Track 03).bin" size="44887920" crc="211012a4" md5="e64b9be80744fb54bfac1046aa76d7dc" sha1="2677b522271444a1c2b2d070848fd454d7a688bc"/>
+		<description>CU Amiga Magazine Super CD-ROM 12 - July 1997 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 12 - July 1997 (UK) (Track 01).bin" size="783985104" crc="f6ccc533" md5="68580f141094947b93e34ca121281b52" sha1="47eb997a2054f378d728825fd03d7482f1fc6458"/>
 	</game>
-	<game name="CU Amiga Magazine's Super CD-ROM 11 (UK)" sha1="4617a60f04624978f74aff39ef4e5dc3e87e3b0c" size="412556674" crc="2a9ca820" fullsha1="06919164e2a1d3d6bf914999c63f1fa6c7add75f" dataSha1="aec172654ac219bcaa2ca2f3ad14b89be3fb7a15">
+	<game name="CU Amiga Magazine Super CD-ROM 13 - August 1997 (UK)" sha1="aa08a05fd8c4454db5a0bb77c001469d789685f2" size="316439060" crc="694f0c71" fullsha1="3a547dcc40f42787588640865a976b83e7cfb5f7" dataSha1="0b6cd74c2a65f4eb0b79e8479c74121d2ce2daa0">
 		<category>Games</category>
-		<description>CU Amiga Magazine's Super CD-ROM 11 (UK)</description>
-		<rom name="CU Amiga Magazine's Super CD-ROM 11 (UK) (Track 01).bin" size="652974000" crc="7d7d2a98" md5="4aa19b27d50be02cd7addab4c6ebdd4b" sha1="a38be154ce7cbc12ebfee5775d008f8aa5891967"/>
-		<rom name="CU Amiga Magazine's Super CD-ROM 11 (UK) (Track 02).bin" size="46101552" crc="897cc7da" md5="3aec8c825da179750361734e280d745c" sha1="2a84e3b1f92a3c83b26848adcb18f15cc1a57099"/>
-		<rom name="CU Amiga Magazine's Super CD-ROM 11 (UK) (Track 03).bin" size="84349776" crc="f10bdbd8" md5="c133922b15e8e4d7a90b763854b9b409" sha1="7728148b4d770b070a3882660ef3cbb310c302c8"/>
+		<description>CU Amiga Magazine Super CD-ROM 13 - August 1997 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 13 - August 1997 (UK) (Track 01).bin" size="729576288" crc="d28c6ea9" md5="de86673276a45c5e9d8991318b0ef558" sha1="e719f7089ab9980761808169ef1b5304e722c91e"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 13 - August 1997 (UK) (Track 02).bin" size="49961184" crc="66d61753" md5="50c35b8d81a2a99f87ca922dcea94192" sha1="25f1bcfdefd756be9e3bdef5b1655d4e8d6dc127"/>
 	</game>
-	<game name="CU Amiga Magazine's Super CD-ROM 12 (UK)" sha1="9493d961cdf638d07cef4786f8577b2c3d67e784" size="324461194" crc="56b6c2a2" fullsha1="6d3a614592e41be8b54681844a0aab4f50f15266" dataSha1="02d3354cc36b26000c8f37059a7eec987f333d07">
+	<game name="CU Amiga Magazine Super CD-ROM 14 - September 1997 (UK)" sha1="196a8a469cc64dc20130b373827986a29e7e2c11" size="321296463" crc="beda2c17" fullsha1="5477a4b3bb7c86d68bb83e82b77f56c776937c7e" dataSha1="3b9fb14657d1db857609735f977635ddd9bf4807">
 		<category>Games</category>
-		<description>CU Amiga Magazine's Super CD-ROM 12 (UK)</description>
-		<rom name="CU Amiga Magazine's Super CD-ROM 12 (UK) (Track 01).bin" size="783985104" crc="f6ccc533" md5="68580f141094947b93e34ca121281b52" sha1="47eb997a2054f378d728825fd03d7482f1fc6458"/>
+		<description>CU Amiga Magazine Super CD-ROM 14 - September 1997 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 14 - September 1997 (UK) (Track 01).bin" size="692163024" crc="3c1a6b3f" md5="7b4959dc996f94b24539ec8a299e323d" sha1="355a5ffbdba5bb6995f9f1ba83e03dcc85007b00"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 14 - September 1997 (UK) (Track 02).bin" size="33047952" crc="a5a6723f" md5="ba13469015982ff18fd905d5b5df3527" sha1="a5b730b16b1d9f46bb00d8b18baec348ed7c8312"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 14 - September 1997 (UK) (Track 03).bin" size="57261792" crc="b567fee4" md5="94da809dad61eec5a2d81c7bbf3cee4b" sha1="6d81702ae966766655795a659a5c1021f7472cbe"/>
 	</game>
-	<game name="CU Amiga Magazine's Super CD-ROM 13 (UK)" sha1="aa08a05fd8c4454db5a0bb77c001469d789685f2" size="316439060" crc="694f0c71" fullsha1="3a547dcc40f42787588640865a976b83e7cfb5f7" dataSha1="0b6cd74c2a65f4eb0b79e8479c74121d2ce2daa0">
+	<game name="CU Amiga Magazine Super CD-ROM 15 - October 1997 (UK)" sha1="4a0e534f0d62196270517c44007d39aca6d3314f" size="343460704" crc="00829d3f" fullsha1="c43826d56cacbb1c239526c79505c734f6e94ff2" dataSha1="88e86f606ea6561f1d57c14d151026546a404aba">
 		<category>Games</category>
-		<description>CU Amiga Magazine's Super CD-ROM 13 (UK)</description>
-		<rom name="CU Amiga Magazine's Super CD-ROM 13 (UK) (Track 01).bin" size="729576288" crc="d28c6ea9" md5="de86673276a45c5e9d8991318b0ef558" sha1="e719f7089ab9980761808169ef1b5304e722c91e"/>
-		<rom name="CU Amiga Magazine's Super CD-ROM 13 (UK) (Track 02).bin" size="49961184" crc="66d61753" md5="50c35b8d81a2a99f87ca922dcea94192" sha1="25f1bcfdefd756be9e3bdef5b1655d4e8d6dc127"/>
+		<description>CU Amiga Magazine Super CD-ROM 15 - October 1997 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 15 - October 1997 (UK) (Track 01).bin" size="782604480" crc="c119ac4e" md5="6eaddf48d028ccaa6e5a6cfb05d86e48" sha1="60deccf99ce6d4a1d850bf38a0883335d32494ea"/>
 	</game>
-	<game name="CU Amiga Magazine's Super CD-ROM 14 (UK)" sha1="196a8a469cc64dc20130b373827986a29e7e2c11" size="321296463" crc="beda2c17" fullsha1="5477a4b3bb7c86d68bb83e82b77f56c776937c7e" dataSha1="3b9fb14657d1db857609735f977635ddd9bf4807">
+	<game name="CU Amiga Magazine Super CD-ROM 16 - November 1997 (UK)" sha1="5607041b060add84307f6003c7ef3a6524b44a5b" size="334710499" crc="8a8dfd09" fullsha1="82b5ca90b91b63e24b83d219a5b4846006d64df7" dataSha1="8cf611c51ebf64078e834904b63a45c1524ab6cd">
 		<category>Games</category>
-		<description>CU Amiga Magazine's Super CD-ROM 14 (UK)</description>
-		<rom name="CU Amiga Magazine's Super CD-ROM 14 (UK) (Track 01).bin" size="692163024" crc="3c1a6b3f" md5="7b4959dc996f94b24539ec8a299e323d" sha1="355a5ffbdba5bb6995f9f1ba83e03dcc85007b00"/>
-		<rom name="CU Amiga Magazine's Super CD-ROM 14 (UK) (Track 02).bin" size="33047952" crc="a5a6723f" md5="ba13469015982ff18fd905d5b5df3527" sha1="a5b730b16b1d9f46bb00d8b18baec348ed7c8312"/>
-		<rom name="CU Amiga Magazine's Super CD-ROM 14 (UK) (Track 03).bin" size="57261792" crc="b567fee4" md5="94da809dad61eec5a2d81c7bbf3cee4b" sha1="6d81702ae966766655795a659a5c1021f7472cbe"/>
+		<description>CU Amiga Magazine Super CD-ROM 16 - November 1997 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 16 - November 1997 (UK) (Track 01).bin" size="783554688" crc="cb71f145" md5="c49d685a408072b9196398a9d9493849" sha1="8bf98fd417edc359fd7fa925924be92d994fc826"/>
 	</game>
-	<game name="CU Amiga Magazine's Super CD-ROM 15 (UK)" sha1="4a0e534f0d62196270517c44007d39aca6d3314f" size="343460704" crc="00829d3f" fullsha1="c43826d56cacbb1c239526c79505c734f6e94ff2" dataSha1="88e86f606ea6561f1d57c14d151026546a404aba">
+	<game name="CU Amiga Magazine Super CD-ROM 17 - December 1997 (UK)" sha1="4c9cd3acafe51c53d0d45fa9e625d642787e7bee" size="340755084" crc="55817f11" fullsha1="d51bbd50601c88008781fe53466f28936adf22de" dataSha1="fbc6a22b70a14441ca4d4fad0a3124ab8cfb3170">
 		<category>Games</category>
-		<description>CU Amiga Magazine's Super CD-ROM 15 (UK)</description>
-		<rom name="CU Amiga Magazine's Super CD-ROM 15 (UK) (Track 01).bin" size="782604480" crc="c119ac4e" md5="6eaddf48d028ccaa6e5a6cfb05d86e48" sha1="60deccf99ce6d4a1d850bf38a0883335d32494ea"/>
+		<description>CU Amiga Magazine Super CD-ROM 17 - December 1997 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 17 - December 1997 (UK) (Track 01).bin" size="783726384" crc="02f06b61" md5="e94eb43b08f01bc01c315d6bcbce0371" sha1="1421a04f85f0b076e6003a6fb8ebde7325ee0438"/>
 	</game>
-	<game name="CU Amiga Magazine's Super CD-ROM 16 (UK)" sha1="5607041b060add84307f6003c7ef3a6524b44a5b" size="334710499" crc="8a8dfd09" fullsha1="82b5ca90b91b63e24b83d219a5b4846006d64df7" dataSha1="8cf611c51ebf64078e834904b63a45c1524ab6cd">
+	<game name="CU Amiga Magazine Super CD-ROM 18 - January 1998 (UK)" sha1="14dc7fdc4b059c5e4634ad56b2b8f73ecba82666" size="349860249" crc="6fb3aa02" fullsha1="50ce37b1b454a8fb59da100fe353e5b12f7565cb" dataSha1="30830e34d85c1d83290eb8291bbfe9d274660075">
 		<category>Games</category>
-		<description>CU Amiga Magazine's Super CD-ROM 16 (UK)</description>
-		<rom name="CU Amiga Magazine's Super CD-ROM 16 (UK) (Track 01).bin" size="783554688" crc="cb71f145" md5="c49d685a408072b9196398a9d9493849" sha1="8bf98fd417edc359fd7fa925924be92d994fc826"/>
+		<description>CU Amiga Magazine Super CD-ROM 18 - January 1998 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 18 - January 1998 (UK) (Track 01).bin" size="762064464" crc="9c534f42" md5="cad29b6e8cc6e9fdb02f831744d4ec25" sha1="736ffc89348f4944ab7d2cb073074b68c8519acc"/>
 	</game>
-	<game name="CU Amiga Magazine's Super CD-ROM 17 (UK)" sha1="4c9cd3acafe51c53d0d45fa9e625d642787e7bee" size="340755084" crc="55817f11" fullsha1="d51bbd50601c88008781fe53466f28936adf22de" dataSha1="fbc6a22b70a14441ca4d4fad0a3124ab8cfb3170">
+	<game name="CU Amiga Magazine Super CD-ROM 19 - February 1998 (UK)" sha1="a50741e083a9203d19846dd590461f9876cdc455" size="315744145" crc="015710d2" fullsha1="113646b9c68cb11b1907dbc5d95e56340ed887d3" dataSha1="3cb43196e48dae48e70653e4d581ed104669ea63">
 		<category>Games</category>
-		<description>CU Amiga Magazine's Super CD-ROM 17 (UK)</description>
-		<rom name="CU Amiga Magazine's Super CD-ROM 17 (UK) (Track 01).bin" size="783726384" crc="02f06b61" md5="e94eb43b08f01bc01c315d6bcbce0371" sha1="1421a04f85f0b076e6003a6fb8ebde7325ee0438"/>
+		<description>CU Amiga Magazine Super CD-ROM 19 - February 1998 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 19 - February 1998 (UK) (Track 01).bin" size="747004608" crc="acdea2c9" md5="6ecfb0809aecf61f74c37440d8bca098" sha1="c0e5334ece6f07f9dea0c21f4c4a1dfc32e72e1d"/>
 	</game>
-	<game name="CU Amiga Magazine's Super CD-ROM 18 (UK)" sha1="14dc7fdc4b059c5e4634ad56b2b8f73ecba82666" size="349860249" crc="6fb3aa02" fullsha1="50ce37b1b454a8fb59da100fe353e5b12f7565cb" dataSha1="30830e34d85c1d83290eb8291bbfe9d274660075">
+	<game name="CU Amiga Magazine Super CD-ROM 20 - March 1998 (UK)" sha1="36bf5c25d1d417119154f5e1380b7dc758b57fba" size="256269637" crc="a26df6ee" fullsha1="f477d6d5a1bfa4d01f0dc8947a0b2e7c1bab4417" dataSha1="ebad2fde0f2a7cb2dff7ff2a4d0199d301e9c5eb">
 		<category>Games</category>
-		<description>CU Amiga Magazine's Super CD-ROM 18 (UK)</description>
-		<rom name="CU Amiga Magazine's Super CD-ROM 18 (UK) (Track 01).bin" size="762064464" crc="9c534f42" md5="cad29b6e8cc6e9fdb02f831744d4ec25" sha1="736ffc89348f4944ab7d2cb073074b68c8519acc"/>
+		<description>CU Amiga Magazine Super CD-ROM 20 - March 1998 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 20 - March 1998 (UK) (Track 01).bin" size="666592080" crc="f377055b" md5="cebc381d936c88f5d90a41aba9922aae" sha1="08b9fecc4cdf2520c87ca30d9dd6b486930638b9"/>
 	</game>
-	<game name="CU Amiga Magazine's Super CD-ROM 19 (UK)" sha1="a50741e083a9203d19846dd590461f9876cdc455" size="315744145" crc="015710d2" fullsha1="113646b9c68cb11b1907dbc5d95e56340ed887d3" dataSha1="3cb43196e48dae48e70653e4d581ed104669ea63">
+	<game name="CU Amiga Magazine Super CD-ROM 21 - April 1998 (UK)" sha1="28d47c75faca2e860a190957b9b5ba49f8975758" size="305361766" crc="faec44e1" fullsha1="42d718988af52e8d6007464dd8dcbd4d89745c6b" dataSha1="af2d025a42787e1ebd4f06d167dbcdb2336b95f4">
 		<category>Games</category>
-		<description>CU Amiga Magazine's Super CD-ROM 19 (UK)</description>
-		<rom name="CU Amiga Magazine's Super CD-ROM 19 (UK) (Track 01).bin" size="747004608" crc="acdea2c9" md5="6ecfb0809aecf61f74c37440d8bca098" sha1="c0e5334ece6f07f9dea0c21f4c4a1dfc32e72e1d"/>
+		<description>CU Amiga Magazine Super CD-ROM 21 - April 1998 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 21 - April 1998 (UK) (Track 01).bin" size="737097984" crc="d02b475f" md5="501e9563d115ba686fc9daa26dabd83a" sha1="3db3f865b718bc985f1906e3dea302533c09748a"/>
 	</game>
-	<game name="CU Amiga Magazine's Super CD-ROM 20 (UK)" sha1="36bf5c25d1d417119154f5e1380b7dc758b57fba" size="256269637" crc="a26df6ee" fullsha1="f477d6d5a1bfa4d01f0dc8947a0b2e7c1bab4417" dataSha1="ebad2fde0f2a7cb2dff7ff2a4d0199d301e9c5eb">
+	<game name="CU Amiga Magazine Super CD-ROM 22 - May 1998 (UK)" sha1="e2f802ff4c85cfe2542111e74e590fd68d609255" size="284920584" crc="f0105db8" fullsha1="c18af01671967ea8a447593ad54ab994b3f6beda" dataSha1="7326cdb5c12ccb7bd6f1b247866f994ee6ade81b">
 		<category>Games</category>
-		<description>CU Amiga Magazine's Super CD-ROM 20 (UK)</description>
-		<rom name="CU Amiga Magazine's Super CD-ROM 20 (UK) (Track 01).bin" size="666592080" crc="f377055b" md5="cebc381d936c88f5d90a41aba9922aae" sha1="08b9fecc4cdf2520c87ca30d9dd6b486930638b9"/>
+		<description>CU Amiga Magazine Super CD-ROM 22 - May 1998 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 22 - May 1998 (UK) (Track 01).bin" size="757732080" crc="a0862492" md5="052844c88bbddaf533adda9ae1696c1f" sha1="7de8e4c1b6f1d3cd6d6f9c6dbb9159c28b34a931"/>
 	</game>
-	<game name="CU Amiga Magazine's Super CD-ROM 21 (UK)" sha1="28d47c75faca2e860a190957b9b5ba49f8975758" size="305361766" crc="faec44e1" fullsha1="42d718988af52e8d6007464dd8dcbd4d89745c6b" dataSha1="af2d025a42787e1ebd4f06d167dbcdb2336b95f4">
+	<game name="CU Amiga Magazine Super CD-ROM 23 - June 1998 (UK)" sha1="c9fdb3d456ecac684adda8f1c57d32adb2ed4715" size="299816362" crc="95ad3237" fullsha1="b757157598e10563bd8ac55c8ed4fd439fbd51d0" dataSha1="14c34335a3a4dfe270fee3f6a0b6845da51a8bce">
 		<category>Games</category>
-		<description>CU Amiga Magazine's Super CD-ROM 21 (UK)</description>
-		<rom name="CU Amiga Magazine's Super CD-ROM 21 (UK) (Track 01).bin" size="737097984" crc="d02b475f" md5="501e9563d115ba686fc9daa26dabd83a" sha1="3db3f865b718bc985f1906e3dea302533c09748a"/>
+		<description>CU Amiga Magazine Super CD-ROM 23 - June 1998 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 23 - June 1998 (UK) (Track 01).bin" size="756123312" crc="c5da4f58" md5="8862721b032875d0f744864c82e7dbc0" sha1="f6aedd023e6f95d535494553718da2b152da77f3"/>
 	</game>
-	<game name="CU Amiga Magazine's Super CD-ROM 22 (UK)" sha1="e2f802ff4c85cfe2542111e74e590fd68d609255" size="284920584" crc="f0105db8" fullsha1="c18af01671967ea8a447593ad54ab994b3f6beda" dataSha1="7326cdb5c12ccb7bd6f1b247866f994ee6ade81b">
+	<game name="CU Amiga Magazine Super CD-ROM 24 - July 1998 (UK)" sha1="2073f236d6ea082d90c2f86735ff560e41bb7647" size="301457698" crc="e2e9bb3f" fullsha1="029a4e011d20fe096ae0bdc439f10c9091549942" dataSha1="e6ef3c5051552af7a0a12f11619984c68915b979">
 		<category>Games</category>
-		<description>CU Amiga Magazine's Super CD-ROM 22 (UK)</description>
-		<rom name="CU Amiga Magazine's Super CD-ROM 22 (UK) (Track 01).bin" size="757732080" crc="a0862492" md5="052844c88bbddaf533adda9ae1696c1f" sha1="7de8e4c1b6f1d3cd6d6f9c6dbb9159c28b34a931"/>
+		<description>CU Amiga Magazine Super CD-ROM 24 - July 1998 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 24 - July 1998 (UK) (Track 01).bin" size="676691568" crc="00da1c52" md5="6510727cf415a02eb3b291561d3dd8ab" sha1="1cada3ddf2cca31c8f26d54c6db45d6bc8fefd8c"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 24 - July 1998 (UK) (Track 02).bin" size="1063104" crc="4730b724" md5="38731198fc6257e15b37355006acba6f" sha1="2f2c69ba39fb7bca2751b7daa593db4d73b2a0d8"/>
 	</game>
-	<game name="CU Amiga Magazine's Super CD-ROM 23 (UK)" sha1="c9fdb3d456ecac684adda8f1c57d32adb2ed4715" size="299816362" crc="95ad3237" fullsha1="b757157598e10563bd8ac55c8ed4fd439fbd51d0" dataSha1="14c34335a3a4dfe270fee3f6a0b6845da51a8bce">
+	<game name="CU Amiga Magazine Super CD-ROM 25 - August 1998 (UK)" sha1="531702091b2bc1754c254ebbd46237de52a6728f" size="292210787" crc="b147abac" fullsha1="c130c9481eef733b255ad423b636d0d46b2f11f4" dataSha1="b50c40aa7f8741956c65c9497682090ce319bb66">
 		<category>Games</category>
-		<description>CU Amiga Magazine's Super CD-ROM 23 (UK)</description>
-		<rom name="CU Amiga Magazine's Super CD-ROM 23 (UK) (Track 01).bin" size="756123312" crc="c5da4f58" md5="8862721b032875d0f744864c82e7dbc0" sha1="f6aedd023e6f95d535494553718da2b152da77f3"/>
+		<description>CU Amiga Magazine Super CD-ROM 25 - August 1998 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 25 - August 1998 (UK) (Track 01).bin" size="719514432" crc="638ed804" md5="f64a53a251ec8f0cf9a705bb65ea72d9" sha1="058b62714eab65866ec404e6fa27f9645b018511"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 25 - August 1998 (UK) (Track 02).bin" size="55500144" crc="fdbebc6f" md5="24e46ec30a3013991017cdb15d194970" sha1="6da970db90db581074422241b7070eec9758ef6a"/>
 	</game>
-	<game name="CU Amiga Magazine's Super CD-ROM 24 (UK)" sha1="2073f236d6ea082d90c2f86735ff560e41bb7647" size="301457698" crc="e2e9bb3f" fullsha1="029a4e011d20fe096ae0bdc439f10c9091549942" dataSha1="e6ef3c5051552af7a0a12f11619984c68915b979">
+	<game name="CU Amiga Magazine Super CD-ROM 26 - September 1998 (UK)" sha1="9249a17a05b3af0f5d6c35697a49dce158befaa9" size="268367707" crc="8e5f86d7" fullsha1="e057c0ebf83c717b5855079ec88b39725d9ad703" dataSha1="8938fdb19befb0852c282fa5c227abda62e81245">
 		<category>Games</category>
-		<description>CU Amiga Magazine's Super CD-ROM 24 (UK)</description>
-		<rom name="CU Amiga Magazine's Super CD-ROM 24 (UK) (Track 01).bin" size="676691568" crc="00da1c52" md5="6510727cf415a02eb3b291561d3dd8ab" sha1="1cada3ddf2cca31c8f26d54c6db45d6bc8fefd8c"/>
-		<rom name="CU Amiga Magazine's Super CD-ROM 24 (UK) (Track 02).bin" size="1063104" crc="4730b724" md5="38731198fc6257e15b37355006acba6f" sha1="2f2c69ba39fb7bca2751b7daa593db4d73b2a0d8"/>
+		<description>CU Amiga Magazine Super CD-ROM 26 - September 1998 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 26 - September 1998 (UK) (Track 01).bin" size="736197168" crc="759f1a2e" md5="575d9433a91ff299129b5eadb4e58b1c" sha1="01f4607766c37bef25545b8b9e91af2093a9e905"/>
 	</game>
-	<game name="CU Amiga Magazine's Super CD-ROM 25 (UK)" sha1="531702091b2bc1754c254ebbd46237de52a6728f" size="292210787" crc="b147abac" fullsha1="c130c9481eef733b255ad423b636d0d46b2f11f4" dataSha1="b50c40aa7f8741956c65c9497682090ce319bb66">
+	<game name="CU Amiga Magazine Super CD-ROM 27 - October 1998 (UK)" sha1="37943aaa80fecc502e594bb4cd9e8ecedf53d182" size="377111219" crc="a388e19c" fullsha1="66fe5dfdb76a946d08019f83240cf9846d3a36ba" dataSha1="1e4c9e17c205ccb1f06325f35b4d19bff94dae9a">
 		<category>Games</category>
-		<description>CU Amiga Magazine's Super CD-ROM 25 (UK)</description>
-		<rom name="CU Amiga Magazine's Super CD-ROM 25 (UK) (Track 01).bin" size="719514432" crc="638ed804" md5="f64a53a251ec8f0cf9a705bb65ea72d9" sha1="058b62714eab65866ec404e6fa27f9645b018511"/>
-		<rom name="CU Amiga Magazine's Super CD-ROM 25 (UK) (Track 02).bin" size="55500144" crc="fdbebc6f" md5="24e46ec30a3013991017cdb15d194970" sha1="6da970db90db581074422241b7070eec9758ef6a"/>
+		<description>CU Amiga Magazine Super CD-ROM 27 - October 1998 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 27 - October 1998 (UK) (Track 01).bin" size="777408912" crc="5b96426c" md5="c0829bb2b71193f678fddf43bfb0db89" sha1="1d425c39a40899dcc4259c60ebb5b137c6bb96e1"/>
 	</game>
-	<game name="CU Amiga Magazine's Super CD-ROM 26 (UK)" sha1="9249a17a05b3af0f5d6c35697a49dce158befaa9" size="268367707" crc="8e5f86d7" fullsha1="e057c0ebf83c717b5855079ec88b39725d9ad703" dataSha1="8938fdb19befb0852c282fa5c227abda62e81245">
+	<game name="CU Amiga Magazine Super CD-ROM 4 - November 1996 (UK)" sha1="1be3f6e955ad67f63efdab4b297b3e9cced5fa11" size="313183553" crc="7468a5df" fullsha1="cacd2a84d4c0a10f342ef882b401c41f3b64f521" dataSha1="6bc80ef68d96a9eea076dc95f056643ca5716ae5">
 		<category>Games</category>
-		<description>CU Amiga Magazine's Super CD-ROM 26 (UK)</description>
-		<rom name="CU Amiga Magazine's Super CD-ROM 26 (UK) (Track 01).bin" size="736197168" crc="759f1a2e" md5="575d9433a91ff299129b5eadb4e58b1c" sha1="01f4607766c37bef25545b8b9e91af2093a9e905"/>
+		<description>CU Amiga Magazine Super CD-ROM 4 - November 1996 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 4 - November 1996 (UK) (Track 01).bin" size="548582832" crc="8eb98cf0" md5="d4605b16990c6f8195b744d016d61fd8" sha1="1b25c49e9f993548f886ad44af6313e5ede6ea6c"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 4 - November 1996 (UK) (Track 02).bin" size="70623504" crc="4fd0f6ba" md5="ae82a407f041abbd7073343e8e7f40e4" sha1="d4ffc21eee149f1f273f4cb1b26fb1c00496029d"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 4 - November 1996 (UK) (Track 03).bin" size="34783728" crc="5c267f7c" md5="bddfb368b199c0d16677834a813da320" sha1="ec3f277727726b4da4dd8fade1f0cce01626a9e1"/>
 	</game>
-	<game name="CU Amiga Magazine's Super CD-ROM 6 (UK)" sha1="7920907f07f7588cc7cbf0da64e5a7dee6ede4f8" size="370507098" crc="c4b3e4ee" fullsha1="b71f3ab2b03398bd0662c7b33bef6d0e7b21a6e8" dataSha1="44442f491f909cd489bdca47153522d00d87ebfc">
+	<game name="CU Amiga Magazine Super CD-ROM 5 - December 1996 (UK)" sha1="fe3932374c7f73871f59e2a099e63cd503b22584" size="342614974" crc="e211153c" fullsha1="e7f1f7be3f150c57050bd28cdaba10d100ec3052" dataSha1="c8dd50ea3240be59f803ec8f588eccb665e02995">
 		<category>Games</category>
-		<description>CU Amiga Magazine's Super CD-ROM 6 (UK)</description>
-		<rom name="CU Amiga Magazine's Super CD-ROM 6 (UK) (Track 01).bin" size="588127008" crc="8061f5c2" md5="8306537f4b4582701b23bc0310004a05" sha1="a3645ee370c61782a31749c86da6b53ec7bfdd02"/>
-		<rom name="CU Amiga Magazine's Super CD-ROM 6 (UK) (Track 02).bin" size="51920400" crc="37b06f56" md5="906bf6649e3808a4ce58ae3f1854a7c3" sha1="c5ad9391a068822795264617256dd3f609dd75ff"/>
-		<rom name="CU Amiga Magazine's Super CD-ROM 6 (UK) (Track 03).bin" size="52433136" crc="3f31de53" md5="1a317b04bfd777c0746040cc9b018d42" sha1="5a26b893b00ba3903f098ea2b49dee40d2314595"/>
-		<rom name="CU Amiga Magazine's Super CD-ROM 6 (UK) (Track 04).bin" size="52487232" crc="c9223752" md5="ac13bed395fdded96ece414733dd0f15" sha1="eb843cdabfeceaef1e145527becba1b824f200e4"/>
+		<description>CU Amiga Magazine Super CD-ROM 5 - December 1996 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 5 - December 1996 (UK) (Track 01).bin" size="735270480" crc="6788725f" md5="ded9cf2dfaa8722c0234c29d98b1a1bd" sha1="9404aff637b898465645e720f59b5ef6e4d49a91"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 5 - December 1996 (UK) (Track 02).bin" size="48498240" crc="8abc0381" md5="f271edb8c8c1268da0069bfcc107a917" sha1="9eb5a96e9cbdbb19a80daa8d53c04f69aff0bc5d"/>
 	</game>
-	<game name="CU Amiga Magazine's Super CD-ROM 7 February 1997 (UK)" sha1="a0438eeed01ab9e109d70b8e31501f2b03ebf157" size="370671341" crc="5ef89cb8" fullsha1="2f1a1105b34c7a7811a2c6a378f6c000890dbc64" dataSha1="3c7f9a7b0674d6ae91fb47fb885dbbe4790c89c4">
+	<game name="CU Amiga Magazine Super CD-ROM 6 - January 1997 (UK)" sha1="7920907f07f7588cc7cbf0da64e5a7dee6ede4f8" size="370507098" crc="c4b3e4ee" fullsha1="b71f3ab2b03398bd0662c7b33bef6d0e7b21a6e8" dataSha1="44442f491f909cd489bdca47153522d00d87ebfc">
 		<category>Games</category>
-		<description>CU Amiga Magazine's Super CD-ROM 7 February 1997 (UK)</description>
-		<rom name="CU Amiga Magazine's Super CD-ROM 7 February 1997 (UK) (Track 01).bin" size="469108752" crc="b665a71b" md5="fc4c3df3549e26d3ad9b86c08095cb97" sha1="009af28a6d1600decf9f91951536a2ad4d0a182b"/>
-		<rom name="CU Amiga Magazine's Super CD-ROM 7 February 1997 (UK) (Track 02).bin" size="31669680" crc="4715e414" md5="9420b3c303e2ad28fe0e3dab4c5cc21c" sha1="bb275a8fec9d82dd2fa417a3b263645851bf62af"/>
-		<rom name="CU Amiga Magazine's Super CD-ROM 7 February 1997 (UK) (Track 03).bin" size="43850688" crc="d86285bd" md5="cc96d7ccb64695a677d016448a36db75" sha1="74a58d8c4674d5c642e86c91a08eba137b223141"/>
-		<rom name="CU Amiga Magazine's Super CD-ROM 7 February 1997 (UK) (Track 04).bin" size="43469664" crc="a3a5302e" md5="9a2670ddb87ad91340e37844640e887c" sha1="5b13a05f05845d3e1d651f7854a14bebd8470969"/>
-		<rom name="CU Amiga Magazine's Super CD-ROM 7 February 1997 (UK) (Track 05).bin" size="43540224" crc="2c8507ae" md5="4622df58f8bff9503a817a69cba019e4" sha1="f3f06ada3b39bd99cf7aefe5c4786cd249548ee1"/>
-		<rom name="CU Amiga Magazine's Super CD-ROM 7 February 1997 (UK) (Track 06).bin" size="43305024" crc="7abb98d9" md5="cf6af72640390004ed0c281c8ffec8ca" sha1="fbb1b84897b256e2de50f8e241db54a180c6b0b4"/>
-		<rom name="CU Amiga Magazine's Super CD-ROM 7 February 1997 (UK) (Track 07).bin" size="55175568" crc="53621463" md5="ce2b216445c5637ee920ab46f59ad54d" sha1="4a87cf44129abbe56641f190008a21fd9b0b4a6a"/>
-		<rom name="CU Amiga Magazine's Super CD-ROM 7 February 1997 (UK) (Track 08).bin" size="52165008" crc="0747fc46" md5="3f726a279b924846f76c1166ddb18f30" sha1="6f20103ebb36b1d8ad37e52bc8b65573edb0cd3b"/>
+		<description>CU Amiga Magazine Super CD-ROM 6 - January 1997 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 6 - January 1997 (UK) (Track 01).bin" size="588127008" crc="8061f5c2" md5="8306537f4b4582701b23bc0310004a05" sha1="a3645ee370c61782a31749c86da6b53ec7bfdd02"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 6 - January 1997 (UK) (Track 02).bin" size="51920400" crc="37b06f56" md5="906bf6649e3808a4ce58ae3f1854a7c3" sha1="c5ad9391a068822795264617256dd3f609dd75ff"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 6 - January 1997 (UK) (Track 03).bin" size="52433136" crc="3f31de53" md5="1a317b04bfd777c0746040cc9b018d42" sha1="5a26b893b00ba3903f098ea2b49dee40d2314595"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 6 - January 1997 (UK) (Track 04).bin" size="52487232" crc="c9223752" md5="ac13bed395fdded96ece414733dd0f15" sha1="eb843cdabfeceaef1e145527becba1b824f200e4"/>
 	</game>
-	<game name="CU Amiga Magazine's Super CD-ROM 8 March 1997 (UK)" sha1="c41a1816dd422dc7e364599a09aaa3522216f10d" size="301918495" crc="c51e7282" fullsha1="2eb9c64fbfa05392cd012c8379d7a4570146ead4" dataSha1="090dde7c68a5d6757fa35a10f211643a92cfcf0d">
+	<game name="CU Amiga Magazine Super CD-ROM 7 - February 1997 (UK)" sha1="a0438eeed01ab9e109d70b8e31501f2b03ebf157" size="370671341" crc="5ef89cb8" fullsha1="2f1a1105b34c7a7811a2c6a378f6c000890dbc64" dataSha1="3c7f9a7b0674d6ae91fb47fb885dbbe4790c89c4">
 		<category>Games</category>
-		<description>CU Amiga Magazine's Super CD-ROM 8 March 1997 (UK)</description>
-		<rom name="CU Amiga Magazine's Super CD-ROM 8 March 1997 (UK) (Track 01).bin" size="589107792" crc="9560db7a" md5="623e7e8a2dce9cd8629ec56e6ea790d0" sha1="3ecff7967553a1c672c6db1aead5b8976cdd99fc"/>
-		<rom name="CU Amiga Magazine's Super CD-ROM 8 March 1997 (UK) (Track 02).bin" size="88691568" crc="a3db75ee" md5="c4829bc0c7632ff3533ffa653a784ac9" sha1="936e0bf5f2db7f310653ccf2744ae0faadfaf723"/>
+		<description>CU Amiga Magazine Super CD-ROM 7 - February 1997 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 7 - February 1997 (UK) (Track 01).bin" size="469108752" crc="b665a71b" md5="fc4c3df3549e26d3ad9b86c08095cb97" sha1="009af28a6d1600decf9f91951536a2ad4d0a182b"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 7 - February 1997 (UK) (Track 02).bin" size="31669680" crc="4715e414" md5="9420b3c303e2ad28fe0e3dab4c5cc21c" sha1="bb275a8fec9d82dd2fa417a3b263645851bf62af"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 7 - February 1997 (UK) (Track 03).bin" size="43850688" crc="d86285bd" md5="cc96d7ccb64695a677d016448a36db75" sha1="74a58d8c4674d5c642e86c91a08eba137b223141"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 7 - February 1997 (UK) (Track 04).bin" size="43469664" crc="a3a5302e" md5="9a2670ddb87ad91340e37844640e887c" sha1="5b13a05f05845d3e1d651f7854a14bebd8470969"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 7 - February 1997 (UK) (Track 05).bin" size="43540224" crc="2c8507ae" md5="4622df58f8bff9503a817a69cba019e4" sha1="f3f06ada3b39bd99cf7aefe5c4786cd249548ee1"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 7 - February 1997 (UK) (Track 06).bin" size="43305024" crc="7abb98d9" md5="cf6af72640390004ed0c281c8ffec8ca" sha1="fbb1b84897b256e2de50f8e241db54a180c6b0b4"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 7 - February 1997 (UK) (Track 07).bin" size="55175568" crc="53621463" md5="ce2b216445c5637ee920ab46f59ad54d" sha1="4a87cf44129abbe56641f190008a21fd9b0b4a6a"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 7 - February 1997 (UK) (Track 08).bin" size="52165008" crc="0747fc46" md5="3f726a279b924846f76c1166ddb18f30" sha1="6f20103ebb36b1d8ad37e52bc8b65573edb0cd3b"/>
+	</game>
+	<game name="CU Amiga Magazine Super CD-ROM 8 - March 1997 (UK)" sha1="c41a1816dd422dc7e364599a09aaa3522216f10d" size="301918495" crc="c51e7282" fullsha1="2eb9c64fbfa05392cd012c8379d7a4570146ead4" dataSha1="090dde7c68a5d6757fa35a10f211643a92cfcf0d">
+		<category>Games</category>
+		<description>CU Amiga Magazine Super CD-ROM 8 - March 1997 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 8 - March 1997 (UK) (Track 01).bin" size="589107792" crc="9560db7a" md5="623e7e8a2dce9cd8629ec56e6ea790d0" sha1="3ecff7967553a1c672c6db1aead5b8976cdd99fc"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 8 - March 1997 (UK) (Track 02).bin" size="88691568" crc="a3db75ee" md5="c4829bc0c7632ff3533ffa653a784ac9" sha1="936e0bf5f2db7f310653ccf2744ae0faadfaf723"/>
+	</game>
+	<game name="CU Amiga Magazine Super CD-ROM 9 - April 1997 (UK)" sha1="39c0c063101cf7e35526a5b75c24952567ad1a94" size="295956367" crc="497a4dd0" fullsha1="5df89b7936586d8c9ffc38502c2c454f696f32bd" dataSha1="3e215a9c56805b1bbf7fa028047c86f21b2a4f08">
+		<category>Games</category>
+		<description>CU Amiga Magazine Super CD-ROM 9 - April 1997 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM 9 - April 1997 (UK) (Track 01).bin" size="558719952" crc="3b347d81" md5="60aef2a877f59feb97b6b06c59a08db7" sha1="25de757b481f21ad4fb3446d24d73c024bc29745"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 9 - April 1997 (UK) (Track 02).bin" size="25093488" crc="9d1afeec" md5="fbb5118dba3a01b59f6d0ef4098b1b9f" sha1="87693efaf185d3ac89a5528e6efcd656b98aad0e"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 9 - April 1997 (UK) (Track 03).bin" size="36159648" crc="1db8589e" md5="d6a59b2c607236452bafe0ad0c889b12" sha1="8f69de50dd06e855f38745b3ad0d3775548d30c3"/>
+		<rom name="CU Amiga Magazine Super CD-ROM 9 - April 1997 (UK) (Track 04).bin" size="30674784" crc="b181e254" md5="161ae24eac7758f2cbcd7ab9669ab9ae" sha1="f85fa0e5b110ca234039b5366b98e999b8592fa3"/>
+	</game>
+	<game name="CU Amiga Magazine Super CD-ROM II - April 1996 (UK)" sha1="b36689f208755fde90594ca0861290abc69e3a47" size="444052323" crc="8c9c65ac" fullsha1="16e38dab5c7ab46ef572941d74c52cbb4c8c306b" dataSha1="685f7f77611dec7a481cb589c5cbf59bea484408">
+		<category>Games</category>
+		<description>CU Amiga Magazine Super CD-ROM II - April 1996 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM II - April 1996 (UK) (Track 01).bin" size="784095648" crc="254d93ff" md5="c6468920dbed3cada6f3171d77a5b350" sha1="9fbc27be1bd251ee62c377bbb22f76e407fc1dee"/>
+	</game>
+	<game name="CU Amiga Magazine Super CD-ROM III - September 1996 (UK)" sha1="6a779b9759b648d4b298f40164c49e66f063ae1a" size="349729386" crc="5fd7e23b" fullsha1="e8f45c5d67cb262ee3f3524b407cf0faf5d4049a" dataSha1="7e3bf5be88f86639d4084cedb654be406a6d4b85">
+		<category>Games</category>
+		<description>CU Amiga Magazine Super CD-ROM III - September 1996 (UK)</description>
+		<rom name="CU Amiga Magazine Super CD-ROM III - September 1996 (UK) (Track 01).bin" size="686527632" crc="ce6fa81a" md5="14494738ac6d44fc28cd695f9919baba" sha1="f0ddcace304c60a3434801e1765178c447f9f195"/>
+		<rom name="CU Amiga Magazine Super CD-ROM III - September 1996 (UK) (Track 02).bin" size="43495536" crc="24bd1a71" md5="9fb31116c8fc6b2d903927dd51eaad1a" sha1="45dfb07c040a36978bb61a15a46d1e2fb3350c6d"/>
+		<rom name="CU Amiga Magazine Super CD-ROM III - September 1996 (UK) (Track 03).bin" size="50883168" crc="81f4b973" md5="b2fc6a09a7e8b68d848a20ca69f1dea7" sha1="deb580604d0e7ce2e8f825346ef16d830392109c"/>
 	</game>
 	<game name="Cedric (Europe) (En,De)" sha1="bece4f6bcd72c31c009aae86e2df9ec8ddf2a115" size="2605434" crc="baa2254a" fullsha1="5051d6170099423a0f7270907893898a2f7b8e12" dataSha1="01c514de4cce1a9259a95c9671d7bab60e05d2bf">
 		<category>Games</category>
@@ -2010,6 +2172,11 @@
 		<description>Emulators Unlimited Plus (Germany) (En,De)</description>
 		<rom name="Emulators Unlimited Plus (Germany) (En,De) (Track 01).bin" size="535827936" crc="59b91eb3" md5="5d0444cd4bc82349d88b5192422b6344" sha1="38a23cb0c06b36a5e043d71bf6744cb59115d833"/>
 	</game>
+	<game name="Epic Interactive Encyclopedia, The (UK)" sha1="b85748ab0229c4a3aa86f3c88047b21f620094a1" size="154886681" crc="91638b9c" fullsha1="733189fa3d769fbb59c58fa23c3818f67824db8d" dataSha1="0db40a5962e835ca4e2fd870362b7452f77f814c">
+		<category>Games</category>
+		<description>Epic Interactive Encyclopedia, The (UK)</description>
+		<rom name="Epic Interactive Encyclopedia, The (UK) (Track 01).bin" size="746618880" crc="a30be759" md5="bea4bae4d53da465062356a5dc86ee1f" sha1="fdbc1b6709fac9b16b6f08ebdaddc5c06d775cbf"/>
+	</game>
 	<game name="Epic Interactive Encyclopedia, The - 1998 Edition (UK)" sha1="886a85edeaffee3f8a42297b5d9437efc4e0670e" size="373379255" crc="22c93cd1" fullsha1="00b49643264b01b2067ae2d22724ed786121727c" dataSha1="201226fda175ce43f2c7ec55b4e7116415584e17">
 		<category>Games</category>
 		<description>Epic Interactive Encyclopedia, The - 1998 Edition (UK)</description>
@@ -2029,6 +2196,11 @@
 		<category>Games</category>
 		<description>Euroscene 1 (Europe)</description>
 		<rom name="Euroscene 1 (Europe) (Track 01).bin" size="748705104" crc="30e1d7e6" md5="2afab0b9be1d82bb6c9df8cbab97bc31" sha1="d1b5bf77a4db750e8e693fadbf0042eb97356fc5"/>
+	</game>
+	<game name="Euroscene 2 (Europe) (En,Fr,De,Es,It)" sha1="c2a12f3ad3f256c19ea6432ee76811279914ccbf" size="635098733" crc="73b3f7d8" fullsha1="d8026a5a28b1ed36b94241779f6921f824c8a80e" dataSha1="3278f90bf940cb5367d899bd3bddd02a695125b7">
+		<category>Games</category>
+		<description>Euroscene 2 (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Euroscene 2 (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="749582400" crc="84858ee8" md5="0b92565242334f36d748ab9f0a3f0f67" sha1="e669997ac1c16ae7a469a7e45457a1c337d63308"/>
 	</game>
 	<game name="Feeble Files, The (Europe) (En,De) (Disc 1)" sha1="7dbde1a55cb6393cb9ca23e4aa5714b06efd291d" size="624614785" crc="db2682b6" fullsha1="a389391b19e13db6d573b8974c7f855e61bd39ef" dataSha1="4458d084c39a03ce03a99ae2ad2830c360c4a87c">
 		<category>Games</category>
@@ -2059,6 +2231,21 @@
 		<rom name="Foundation (Europe) (En,De) (Track 04).bin" size="94522176" crc="76c0d317" md5="c581777978d16f25a6690f6f777e0687" sha1="586b1838eb9545f1cac7c6271c8e687828a7670e"/>
 		<rom name="Foundation (Europe) (En,De) (Track 05).bin" size="12606720" crc="957b147f" md5="46d5aefc75ce9da9262c666c8dba5058" sha1="f4340042d2d57da6a64f73f2da0e13e4ada5943d"/>
 		<rom name="Foundation (Europe) (En,De) (Track 06).bin" size="62871312" crc="43868649" md5="c97899de9a928cc7176ec8366872c570" sha1="0fadacae73075ef7149690eca0b29629898e71fc"/>
+	</game>
+	<game name="Foundation - The Directors Cut (Europe)" sha1="4de820ecb8a3a9ead8cc375cc016db625ccb492e" size="298579990" crc="de282064" fullsha1="ffb30d14b37a8a8e2549a34c50fc00484e9c437d" dataSha1="6d51047b344919f6620dd83851d665a967e47c5c">
+		<category>Games</category>
+		<description>Foundation - The Directors Cut (Europe)</description>
+		<rom name="Foundation - The Directors Cut (Europe) (Track 01).bin" size="149998800" crc="70443b7d" md5="2601be6a0c181e31fc1d8a8a04dfc4e5" sha1="03a07dd2610c212b58419d7f9f211d1e78217f0f"/>
+		<rom name="Foundation - The Directors Cut (Europe) (Track 02).bin" size="89867568" crc="050286f4" md5="1c3b157b1f9a69f27ec813a114d4ccb8" sha1="2b33e6b7e04cc66570efd1ec04f87ca015cc2701"/>
+		<rom name="Foundation - The Directors Cut (Europe) (Track 03).bin" size="80059728" crc="1d77ddc3" md5="63de375bacdb42ae49c120277e9d2c71" sha1="d446b61a38e3637a23cf435c94c4001168aeb19c"/>
+		<rom name="Foundation - The Directors Cut (Europe) (Track 04).bin" size="94870272" crc="d6fcda5b" md5="cdfc72d2122185ad087a0e02382a53b3" sha1="32bf311ba10d911412ae3fa67b73f9f865496447"/>
+		<rom name="Foundation - The Directors Cut (Europe) (Track 05).bin" size="12954816" crc="1e48b126" md5="4bac01103d2d836899fab481f52c1299" sha1="4254d69e2bcb67adebee707ba231fa283cdbf1e2"/>
+		<rom name="Foundation - The Directors Cut (Europe) (Track 06).bin" size="63219408" crc="d991e985" md5="01457ed1c0cd261edf3ebed6836a3ce3" sha1="f86e28185e7da23c45be00c3d38fad86c9fb641c"/>
+	</game>
+	<game name="Foundation - The Undiscovered Land (Europe)" sha1="3e161cc35cf6e65ba21916221563166d1f885d91" size="64994839" crc="4398274a" fullsha1="78148823dddd4cc7940e058b38d608b9addfdbb5" dataSha1="072195cf8266228c382bf39395c22182c13b8332">
+		<category>Games</category>
+		<description>Foundation - The Undiscovered Land (Europe)</description>
+		<rom name="Foundation - The Undiscovered Land (Europe) (Track 01).bin" size="92250144" crc="bd9cd0f9" md5="6eb0b3e602246448f830cae5acfcec59" sha1="3ae368c737fff28d2dd821d6eb628e253115c8c4"/>
 	</game>
 	<game name="Foundation Gold (Europe) (En,Fr,De,Es,It,Nl,Sv,Da,Fi,Cs,Sk)" sha1="20bb3fc914a9cb2533a784fb3316da794c622658" size="286514133" crc="0cfe2a9f" fullsha1="2bc4d49d18e3c6abb558bf29e22d10bb06dfdc70" dataSha1="fbc0596313c6a8589101e4101234b838ac35fd7e">
 		<category>Games</category>
@@ -2465,6 +2652,26 @@
 		<description>NetNews Offline Volume 2 (Europe) (En,De)</description>
 		<rom name="NetNews Offline Volume 2 (Europe) (En,De) (Track 01).bin" size="769579104" crc="c47dcf88" md5="8e90fe57479b3e396a4911f64d722952" sha1="b3767729bb19887eaa5fab912d1c8d3ae4516e71"/>
 	</game>
+	<game name="Network CD - Volume 2 (UK)" sha1="e9079b99843f325fa3a84d167249df781f73a27e" size="508563366" crc="37fcd41e" fullsha1="504d409ac260fb495bc7c8cd9572bf2e6df85fdb" dataSha1="a24fd39daa924d34a4c0a38c477b952669579096">
+		<category>Games</category>
+		<description>Network CD - Volume 2 (UK)</description>
+		<rom name="Network CD - Volume 2 (UK) (Track 01).bin" size="757301664" crc="097b41fd" md5="fe94eef4b3b5caf733773e63785b2d6f" sha1="dc5b6c580a0c153911cfbbf6b0e06dba45e8b607"/>
+	</game>
+	<game name="Network CD by Weird Science (UK)" sha1="b8c9962e8ea31a7d07c164259c124e5f0d5fdecc" size="291694190" crc="211e7c8c" fullsha1="c7f4cf4d2665a9038ab6540a79d1ab264b58a413" dataSha1="f9d38d6324af4d49c2fa02407d8527f8e9416d71">
+		<category>Games</category>
+		<description>Network CD by Weird Science (UK)</description>
+		<rom name="Network CD by Weird Science (UK) (Track 01).bin" size="585182304" crc="7db2eb10" md5="1a026a45a23aa4f962a9990b7df8dece" sha1="dd132311a74dcaee7a55e806d2deb611f052357e"/>
+	</game>
+	<game name="Network PC (UK)" sha1="abd38e1c15ff9be230a92f93e40a9adb01286991" size="437217750" crc="2b9521da" fullsha1="bd96d5e69428bfb2aedd82fa9936f04b0422cbca" dataSha1="22e3e660fb8a7e17cf80a689754fb6af853073bc">
+		<category>Games</category>
+		<description>Network PC (UK)</description>
+		<rom name="Network PC (UK) (Track 01).bin" size="761055456" crc="afb9026a" md5="ad18a941e8438078d1e88e6b81b574a4" sha1="d927930da238eee6be2f91d524f4e8d308f2e3ae"/>
+	</game>
+	<game name="Nexus Pro Multimedia Reference Library - Volume 1 - Backgrounds, Fonts and Sounds (UK)" sha1="8193a2f65d2ce6144a6d428c4ca79da8f60db94c" size="488202172" crc="898f6286" fullsha1="3621d765acd4d7200c263afc25b06ba78e36f350" dataSha1="8128b5ddf443724b05ddee6d416be19a10d05b22">
+		<category>Games</category>
+		<description>Nexus Pro Multimedia Reference Library - Volume 1 - Backgrounds, Fonts and Sounds (UK)</description>
+		<rom name="Nexus Pro Multimedia Reference Library - Volume 1 - Backgrounds, Fonts and Sounds (UK) (Track 01).bin" size="603471456" crc="f8d2e03c" md5="43306978bf6ba42a4781ce309e59786a" sha1="02dae9c1a47a26c897576d026311c48a14396f75"/>
+	</game>
 	<game name="Nightlong - Union City Conspiracy (Europe) (En,Fr,De,Es,It) (Disc 1)" sha1="1c7185f388d0750c16de6653fc77bafe5ce8d2ef" size="512596282" crc="abd52b47" fullsha1="62276bd4f82de2d3b346c890785d2acdd8d335b5" dataSha1="9b613c248c9b90adeba6b2bb27e76d3d522f453d">
 		<category>Games</category>
 		<description>Nightlong - Union City Conspiracy (Europe) (En,Fr,De,Es,It) (Disc 1)</description>
@@ -2525,6 +2732,16 @@
 		<description>Personal Suite (Europe) (En,Fr,De,It)</description>
 		<rom name="Personal Suite (Europe) (En,Fr,De,It) (Track 01).bin" size="778420272" crc="50730216" md5="bc0190c9c3bc73e5432ab1206e34ff1c" sha1="e2d553919fb684d67c12cf70a33a441b7bade9f4"/>
 	</game>
+	<game name="Phase 1 - Fonts, Clipart and Images (UK)" sha1="54da40fba7ab0860af003556084eeb3714da4f3b" size="467535877" crc="637a6b20" fullsha1="45909338a244fe4386597fccaf061c0bce44b1eb" dataSha1="6329b55997970e589ca3136d15a1e5c42797f714">
+		<category>Games</category>
+		<description>Phase 1 - Fonts, Clipart and Images (UK)</description>
+		<rom name="Phase 1 - Fonts, Clipart and Images (UK) (Track 01).bin" size="780812256" crc="d950d975" md5="08f0710e2693c548310a05b47ed71114" sha1="51717a58b238a4734f15167a760215755898c811"/>
+	</game>
+	<game name="Phase 2 - Fonts, Clipart and Images (UK)" sha1="aa0e7d7d3949106d05e598a0414ddac08c06bc1d" size="483135844" crc="eca5c811" fullsha1="fd41174e28bbf8bce3f9dd845c406ad56bd1809f" dataSha1="01a91254078b2e482fa617576fcf4549fcd84055">
+		<category>Games</category>
+		<description>Phase 2 - Fonts, Clipart and Images (UK)</description>
+		<rom name="Phase 2 - Fonts, Clipart and Images (UK) (Track 01).bin" size="778210944" crc="1502b1fc" md5="b9d949dac3f9e7935b8c6557526a63cc" sha1="5a215ccd78c13d7bc70ac39e9b4b7dacdcb38562"/>
+	</game>
 	<game name="Pinball Brain Damage (Europe)" sha1="b3735bfbbd97fd7a2cddced76fc72751f9bf6b60" size="32219092" crc="9d3e8a3f" fullsha1="883518fb03b69ec1460b22cbb57a52845b9324cd" dataSha1="b4a097ad354496d0dfa9cfb059e91e2ccc41728c">
 		<category>Games</category>
 		<description>Pinball Brain Damage (Europe)</description>
@@ -2534,6 +2751,11 @@
 		<category>Games</category>
 		<description>Powder (Europe)</description>
 		<rom name="Powder (Europe) (Track 01).bin" size="5374320" crc="19734bbd" md5="4822cd2245cd9a76a827ca17519d6502" sha1="16bb045851bddf4fb187a8086f0621b181075576"/>
+	</game>
+	<game name="Prima Amiga Shareware - Volume 1 (UK)" sha1="26d2f7513bc7b965edd14e79e64fbacecbe30dc8" size="408795655" crc="0e32abe2" fullsha1="968848b4601e422e99a6c7679a06aa23c8350b6b" dataSha1="86151b05ae1d599645c6a62a4cccc922dadfeb8f">
+		<category>Games</category>
+		<description>Prima Amiga Shareware - Volume 1 (UK)</description>
+		<rom name="Prima Amiga Shareware - Volume 1 (UK) (Track 01).bin" size="687066240" crc="2f9d31b2" md5="61a297a56cbc06c21613b51087f8a763" sha1="ecf8beb5e4eb6cafa2c4e1be78e31b55bf7256cb"/>
 	</game>
 	<game name="Quake (Europe)" sha1="9685485aec14e2dd403f593f46cbfc4fa56e8675" size="291569214" crc="50c2f61d" fullsha1="7d58e9e7c6b356e0201e42b33769b4cee2c4e92b" dataSha1="0127c0f8cd1fe6adae27d7b9d6b266c773639911">
 		<category>Games</category>
@@ -2605,10 +2827,36 @@
 		<description>Scene Archive, The - 1988-1998 (Germany)</description>
 		<rom name="Scene Archive, The - 1988-1998 (Germany) (Track 01).bin" size="784422576" crc="5a2bc04c" md5="9031e001cbc1cb49c9686e78ff68ba0f" sha1="80d59150425148ba44d464274abd6b56ce23fb79"/>
 	</game>
+	<game name="Scene Storm (UK)" sha1="ec6481194510a271832096ebb518e77eff63de37" size="445614338" crc="6131fb83" fullsha1="2d0500bd5816102bb0edc2a0011c78edc27a5d07" dataSha1="d3e473a75a5b1a74d5f12d9028a236e32060251d">
+		<category>Games</category>
+		<description>Scene Storm (UK)</description>
+		<rom name="Scene Storm (UK) (Track 01).bin" size="731549616" crc="adc7031a" md5="5f15c045d38a085ea6e7c671677c29ed" sha1="70b68fc053ba4a4a9d7a5aa60e69d63d11ef130f"/>
+	</game>
 	<game name="Scene Xplorer '97 (Poland)" sha1="bc1b6be2f7804b682b1da89765e2695efddd1c02" size="633149628" crc="1721bef9" fullsha1="82f89b8d4e7ba63183745a4166bc0f0f0e17a9d0" dataSha1="44bc4783e7c84e2d40242c41665e5eec8de4be46">
 		<category>Games</category>
 		<description>Scene Xplorer '97 (Poland)</description>
 		<rom name="Scene Xplorer '97 (Poland) (Track 01).bin" size="759192672" crc="327f83a8" md5="7e340d953cd6fe8ec3ce44c09a57717e" sha1="5f23ead06f974c2beb056572b3f714d2f3967860"/>
+	</game>
+	<game name="Shadow of the Third Moon, The (Europe)" sha1="df0fb41e5247c9a1171d24ea27d3a1c91c38c89c" size="364250304" crc="640bf251" fullsha1="2b5501da8c994549f4eb1c21b07d046f8f82d7dc" dataSha1="e79db4706e681f703f02c61b8a75b26ee07a70a5">
+		<category>Games</category>
+		<description>Shadow of the Third Moon, The (Europe)</description>
+		<rom name="Shadow of the Third Moon, The (Europe) (Track 01).bin" size="123825744" crc="afeee496" md5="7793679d756408c8a5558ad7b53df158" sha1="a28a87ab5fd3958af5fec82ba568c2b27cdcb38f"/>
+		<rom name="Shadow of the Third Moon, The (Europe) (Track 02).bin" size="37528512" crc="3bdce045" md5="c1d89862ecf210aa4657816f7939b9d4" sha1="2aa01c28d08e388015c2a5ad4c2dd94970cef941"/>
+		<rom name="Shadow of the Third Moon, The (Europe) (Track 03).bin" size="55937616" crc="c193e5db" md5="052aacbd478986251db11b788727735b" sha1="e0ae835704ff9d8f536be9e9dc84d83a8c3f3eed"/>
+		<rom name="Shadow of the Third Moon, The (Europe) (Track 04).bin" size="55768272" crc="5aa67a75" md5="8baccebcc17a14740c2f7bca91dd6435" sha1="c5625b0dc4163d61f22307decd968c62db3f0988"/>
+		<rom name="Shadow of the Third Moon, The (Europe) (Track 05).bin" size="35990304" crc="8de107ff" md5="0f1e8159e9560f94ab485d51c24fb972" sha1="70ca13f5707c75efd98b7f637a5af14b3352376f"/>
+		<rom name="Shadow of the Third Moon, The (Europe) (Track 06).bin" size="48197184" crc="79f71535" md5="d5ebbb6b9aa8e07dae401a4ae99cbe88" sha1="24267665f719cca067d46f5b6bb85ff9da7a668c"/>
+		<rom name="Shadow of the Third Moon, The (Europe) (Track 07).bin" size="49937664" crc="732be45d" md5="be18ddcd37ce380ebef06130d181cb70" sha1="c6f31cc2b834b51484749a7a386885a7c5fed8ae"/>
+		<rom name="Shadow of the Third Moon, The (Europe) (Track 08).bin" size="50431584" crc="dc41e5a8" md5="231aa93d05793518474a110117037e3e" sha1="6d48425507120f2ec7804027bf7c9d092ae9feed"/>
+		<rom name="Shadow of the Third Moon, The (Europe) (Track 09).bin" size="51499392" crc="94f071d3" md5="df36374145e286a0fcb00db9602da0a0" sha1="40019680fb3fcc8cab1454e4699d3539b6a29e81"/>
+		<rom name="Shadow of the Third Moon, The (Europe) (Track 10).bin" size="38822112" crc="e3bda128" md5="94a9a9151dd86bb59784dda7fd43d202" sha1="1dcb351742859c84f384af29e10c53de39bbd296"/>
+		<rom name="Shadow of the Third Moon, The (Europe) (Track 11).bin" size="38899728" crc="7a8cc634" md5="59992a59a40ba66cac4a6b4bca7a67ee" sha1="d2c06c6eabbf306414fdba4f6fe0f4ed06489bea"/>
+		<rom name="Shadow of the Third Moon, The (Europe) (Track 12).bin" size="52216752" crc="ef87b685" md5="da9ab7c871fd8734da69a8f7f6dee4f1" sha1="fb852146054ddb59b4fba1f9131787277eda57e6"/>
+	</game>
+	<game name="Sid Meier's Civilization (UK)" sha1="c30e9bb7874148861081c5a8de1cf50fe9e84828" size="9649744" crc="df6eeead" fullsha1="8e204c1d6086aee129e3fe9e64a306520a3c8931" dataSha1="5726943f92f660ff9e3eef36a277b4d2efb1a2cd">
+		<category>Games</category>
+		<description>Sid Meier's Civilization (UK)</description>
+		<rom name="Sid Meier's Civilization (UK) (Track 01).bin" size="16623936" crc="ff8168c0" md5="eca18d7db2956abdb4d6dd17a444e00b" sha1="b63d0f7177e42735eed32ec3b8659ed8f9775338"/>
 	</game>
 	<game name="Sixth Sense Investigations (Europe) (En,De)" sha1="0a5462387aeefa8a739e3ffd1f0355c17dab92a4" size="120742542" crc="edeb1595" fullsha1="6ca52b3c36388398da153f4300fdfe9ffa71f164" dataSha1="51486d2dcccc051e0535e509dd961deeb75b4964">
 		<category>Games</category>
@@ -2625,6 +2873,11 @@
 		<description>Software 2000 - Volume 1 (UK) (Disc 2)</description>
 		<rom name="Software 2000 - Volume 1 (UK) (Disc 2) (Track 01).bin" size="726309360" crc="6ad87035" md5="be82f7d6fc6401e704fd96319ed9cf28" sha1="34da4806961075d3f2e90f3aac125e99caf0b4d1"/>
 	</game>
+	<game name="Software Explosion (UK)" sha1="964224b0b901bf4308c617dec23fcfcee31bcab7" size="395042980" crc="09264a33" fullsha1="49dfcd5628e181a798329abe369b51e0cfc2bb19" dataSha1="961fe0729e88da2e727ba0925a25b7f600b2707a">
+		<category>Games</category>
+		<description>Software Explosion (UK)</description>
+		<rom name="Software Explosion (UK) (Track 01).bin" size="722256864" crc="7cbfd4d1" md5="bfce99484edf41e3032b44bc6d971cd7" sha1="d0b1cdc1a8f1dcbbadd47de9fd40ae85327d87f0"/>
+	</game>
 	<game name="Spherical Worlds (Europe)" sha1="82d37bd85e42744f70de3fae992891ccfee21e35" size="2306525" crc="2f8761a9" fullsha1="8524237fe47afd01392cac81dbd910b65fdcfbdc" dataSha1="ab64b0dbc53b22f8f446bdd0cce3244cd623c9ef">
 		<category>Games</category>
 		<description>Spherical Worlds (Europe)</description>
@@ -2639,6 +2892,11 @@
 		<category>Games</category>
 		<description>Strangers, The (UK) (En,De,Es,It,Nl,Sv,No,Da,Fi,Sk)</description>
 		<rom name="Strangers, The (UK) (En,De,Es,It,Nl,Sv,No,Da,Fi,Sk) (Track 01).bin" size="159268032" crc="1f1d163d" md5="ae403ffacef324e043e6f7b32dfc514e" sha1="f94e0b2b573947ff15fd8f352b1c098ad1ef7637"/>
+	</game>
+	<game name="Street Racer (UK)" sha1="aee4055db5309143306915ec9cc41604da60691d" size="68440945" crc="648b6bdf" fullsha1="04ab2888f0344b2a59addceaa274948cced8c2b5" dataSha1="8817c835f6d818e46157c126a05dfc7813bd6909">
+		<category>Games</category>
+		<description>Street Racer (UK)</description>
+		<rom name="Street Racer (UK) (Track 01).bin" size="103664400" crc="7f8b02c2" md5="d11a6d7f09c84c0ffba4f478bc09a860" sha1="62a3be0f5a17fa29c9eb1cfa579e3fabef785f71"/>
 	</game>
 	<game name="Tales from Heaven (Europe)" sha1="30af8526d4fc2a751e9b7947a5448d65d0a87042" size="18094773" crc="78897ccb" fullsha1="009859f87e1733fc94d12af9354fac808c78aa16" dataSha1="afb200109920e3d587b278dbcce905f8e012c6c9">
 		<category>Games</category>
@@ -2734,6 +2992,11 @@
 		<description>Uropa^2 - The Ulterior Colony (Europe) (En,Fr,De,It,Pt,Sv,No,Da,Fi,Cs)</description>
 		<rom name="Uropa^2 - The Ulterior Colony (Europe) (En,Fr,De,It,Pt,Sv,No,Da,Fi,Cs) (Track 01).bin" size="346454304" crc="32e203eb" md5="3adb83bb21ee836b408d6714b589971c" sha1="dfbcfa81dc6236e8211df0d33c5b707ba8503dc7"/>
 	</game>
+	<game name="Utilities Experience (UK)" sha1="dc396a4e9432993538f956c07174875c1ff14f16" size="243044151" crc="9744573d" fullsha1="89f210a19c11dae31aa0329f65f7cd448d0e22e0" dataSha1="4c72a7a6edbaed161cc3c15c484d1ca11d4c1cf4">
+		<category>Games</category>
+		<description>Utilities Experience (UK)</description>
+		<rom name="Utilities Experience (UK) (Track 01).bin" size="621476016" crc="fd938f1d" md5="dcf6d6a191c9068984b3f5989cc4e744" sha1="26066b7cbaf258979cf5444979eef2393e59ffb2"/>
+	</game>
 	<game name="Vulcanology - The MiniSeries Compilation (Europe) (En,Fr,De)" sha1="bd2ec51f94a1f762dbcb091aa1b00f5d4ee05f75" size="105318470" crc="6636b3ea" fullsha1="a83cd52e5fbc962c76cc43a3ce7583e1f3056af4" dataSha1="bea6e8c521ea3547d5a65325518df48077aacf1a">
 		<category>Games</category>
 		<description>Vulcanology - The MiniSeries Compilation (Europe) (En,Fr,De)</description>
@@ -2790,5 +3053,10 @@
 		<rom name="Zombie Massacre (Europe) (Track 02).bin" size="34997760" crc="92e562b6" md5="10a0d43cacda6d494d81e58b18c5bdd2" sha1="73fd3eb5d5ce4034ec54f6ed65a4fe6d0b2f61d9"/>
 		<rom name="Zombie Massacre (Europe) (Track 03).bin" size="43387344" crc="0580f4f9" md5="3d1941e29e940727df8a5a8288bd780a" sha1="1d8e9671a88e920ebd95e343bfa3589d93195036"/>
 		<rom name="Zombie Massacre (Europe) (Track 04).bin" size="52397856" crc="42e3db37" md5="bb415dcc0ceea826a385a3452233067e" sha1="2ae5d73f4142be9c2dfef2e852d8b0e60dd147f3"/>
+	</game>
+	<game name="Zoom - Release 2 (UK)" sha1="48a0ff658f7d070498dcdb3f4e1d522c301068ce" size="337343422" crc="ab58eb84" fullsha1="cb2296d8862f7e8989b814c942836721e4c75927" dataSha1="cd5ab3c89ba9fcfe509907eeb21676f378ffa97f">
+		<category>Games</category>
+		<description>Zoom - Release 2 (UK)</description>
+		<rom name="Zoom - Release 2 (UK) (Track 01).bin" size="762080928" crc="61fd5003" md5="5d8b5edd918136704dbf4740cc5e40a3" sha1="b51e56441df7047ad8eaefba1ff77bcff9f6411c"/>
 	</game>
 </datafile>

@@ -4,97 +4,97 @@
   <header>
     <name>Arcade - Namco - Sega - Nintendo - Triforce</name>
     <description>MAME Redump - Arcade - Namco - Sega - Nintendo - Triforce - Discs (22) (2021-02-04 16-43-40)</description>
-    <version>0.261</version>
-    <date>2023-11-30</date>
+    <version>0.262</version>
+    <date>2024-02-07</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
   </header>
-  <game name="Avalon no Kagi (Main) (Japan) (Rev A)">
+  <machine name="Avalon no Kagi (Main) (Japan) (Rev A)">
     <description>Avalon no Kagi (Main) (Japan) (Rev A)</description>
-    <rom name="Avalon no Kagi (Main) (Japan) (Rev A).chd" size="283844525" crc="FECBC4FE" sha1="BAF7BCE2A288120A218A8B1C4D8C9375359840C6" />
-  </game>
-  <game name="Avalon no Kagi (Main) (Japan) (Rev C)">
+    <disk name="Avalon no Kagi (Main) (Japan) (Rev A).chd" sha1="daebc4df442d756cff5dc93ebb2565b3fc9209a8" />
+  </machine>
+  <machine name="Avalon no Kagi (Main) (Japan) (Rev C)">
     <description>Avalon no Kagi (Main) (Japan) (Rev C)</description>
-    <rom name="Avalon no Kagi (Main) (Japan) (Rev C).chd" size="283848854" crc="351D9E40" sha1="65BD4B022028744B30976EC4DFC228B92BF8395E" />
-  </game>
-  <game name="Avalon no Kagi (Main) (Japan) (Rev E)">
+    <disk name="Avalon no Kagi (Main) (Japan) (Rev C).chd" sha1="73afc4403c023f7af45ce363761398ef3b72525d" />
+  </machine>
+  <machine name="Avalon no Kagi (Main) (Japan) (Rev E)">
     <description>Avalon no Kagi (Main) (Japan) (Rev E)</description>
-    <rom name="Avalon no Kagi (Main) (Japan) (Rev E).chd" size="283860577" crc="F2C452D2" sha1="789D9F5BCE74A129A4F59A275B301DC9860F35EB" />
-  </game>
-  <game name="Avalon no Kagi (Main) (Japan) (Rev F)">
+    <disk name="Avalon no Kagi (Main) (Japan) (Rev E).chd" sha1="53194c85d737f5eddbbbaddd0090801fb934e467" />
+  </machine>
+  <machine name="Avalon no Kagi (Main) (Japan) (Rev F)">
     <description>Avalon no Kagi (Main) (Japan) (Rev F)</description>
-    <rom name="Avalon no Kagi (Main) (Japan) (Rev F).chd" size="283694006" crc="7E001459" sha1="9D0516627BA17E6357419F794D3C01B05808A1E9" />
-  </game>
-  <game name="Avalon no Kagi (Main) (Japan) (Rev G)">
+    <disk name="Avalon no Kagi (Main) (Japan) (Rev F).chd" sha1="f4bcf23f650e55447659dfd9f470b324ebf86321" />
+  </machine>
+  <machine name="Avalon no Kagi (Main) (Japan) (Rev G)">
     <description>Avalon no Kagi (Main) (Japan) (Rev G)</description>
-    <rom name="Avalon no Kagi (Main) (Japan) (Rev G).chd" size="317095772" crc="49BFB475" sha1="012CCC30C788EA9D3CD5DA557D93EF229ABFF569" />
-  </game>
-  <game name="Avalon no Kagi (Satellite) (Japan) (Rev A)">
+    <disk name="Avalon no Kagi (Main) (Japan) (Rev G).chd" sha1="b186598fe8251f61b319aee1e4ce3da9ec1ced19" />
+  </machine>
+  <machine name="Avalon no Kagi (Satellite) (Japan) (Rev A)">
     <description>Avalon no Kagi (Satellite) (Japan) (Rev A)</description>
-    <rom name="Avalon no Kagi (Satellite) (Japan) (Rev A).chd" size="295409482" crc="A49FD39F" sha1="FBCCC40A1579ABF2FA2F165ADB23A0E931E746C0" />
-  </game>
-  <game name="Avalon no Kagi (Satellite) (Japan) (Rev C)">
+    <disk name="Avalon no Kagi (Satellite) (Japan) (Rev A).chd" sha1="024ad7164f8761b5bf1787b92093df7e1aa1aed4" />
+  </machine>
+  <machine name="Avalon no Kagi (Satellite) (Japan) (Rev C)">
     <description>Avalon no Kagi (Satellite) (Japan) (Rev C)</description>
-    <rom name="Avalon no Kagi (Satellite) (Japan) (Rev C).chd" size="295407113" crc="21C65E48" sha1="424675CC6AB2311A9A610B18141B457AF91DCB3F" />
-  </game>
-  <game name="Avalon no Kagi (Satellite) (Japan) (Rev F)">
+    <disk name="Avalon no Kagi (Satellite) (Japan) (Rev C).chd" sha1="17ad3246c6b77389721cbc26807a808ade9b563c" />
+  </machine>
+  <machine name="Avalon no Kagi (Satellite) (Japan) (Rev F)">
     <description>Avalon no Kagi (Satellite) (Japan) (Rev F)</description>
-    <rom name="Avalon no Kagi (Satellite) (Japan) (Rev F).chd" size="295617182" crc="0D5889CC" sha1="0F5D86CEB380DDB495754A34FFA714181F56D346" />
-  </game>
-  <game name="Avalon no Kagi Ni - Kagi Seisen (Main) (Japan) (Rev A)">
+    <disk name="Avalon no Kagi (Satellite) (Japan) (Rev F).chd" sha1="85589049ef7758d2ac33719e3b802ef322e45145" />
+  </machine>
+  <machine name="Avalon no Kagi Ni - Kagi Seisen (Main) (Japan) (Rev A)">
     <description>Avalon no Kagi Ni - Kagi Seisen (Main) (Japan) (Rev A)</description>
-    <rom name="Avalon no Kagi Ni - Kagi Seisen (Main) (Japan) (Rev A).chd" size="652275391" crc="A547A228" sha1="9D8876A68D836C0931A8AFF806BE4315E0E6C268" />
-  </game>
-  <game name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev A)">
+    <disk name="Avalon no Kagi Ni - Kagi Seisen (Main) (Japan) (Rev A).chd" sha1="4f6ec86b83a39cadfab581860a34f0cba657ace5" />
+  </machine>
+  <machine name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev A)">
     <description>Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev A)</description>
-    <rom name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev A).chd" size="658894635" crc="2EC49EA7" sha1="7874294CCF915B5FE07B1DE9779E2CCBFA3B0D92" />
-  </game>
-  <game name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev B)">
+    <disk name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev A).chd" sha1="1c020bab69c60aada36076eb928ea4fe9d425c5f" />
+  </machine>
+  <machine name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev B)">
     <description>Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev B)</description>
-    <rom name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev B).chd" size="658885871" crc="3102BCDA" sha1="504E47AB31D2B877F918C6236CC1CE4AFBE15A48" />
-  </game>
-  <game name="Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev B)">
+    <disk name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev B).chd" sha1="4e4987b4c56044595eed5bb0158a1bafb40d8a88" />
+  </machine>
+  <machine name="Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev B)">
     <description>Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev B)</description>
-    <rom name="Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev B).chd" size="420077596" crc="C2069270" sha1="DDDCC776A421B718376EAE88A42A95255B6C812B" />
-  </game>
-  <game name="Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev C)">
+    <disk name="Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev B).chd" sha1="2c767f8c4ded775d995354feb1e06826c1af6a1f" />
+  </machine>
+  <machine name="Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev C)">
     <description>Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev C)</description>
-    <rom name="Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev C).chd" size="420090457" crc="A1DE720A" sha1="C02A039288582FEBE6111629C86A9EEFCC4AEB2C" />
-  </game>
-  <game name="TRF GDROM Boot Update (Japan)">
+    <disk name="Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev C).chd" sha1="c18d4f2d6a52b475499faa74bc0942e77d0cc0ad" />
+  </machine>
+  <machine name="TRF GDROM Boot Update (Japan)">
     <description>TRF GDROM Boot Update (Japan)</description>
-    <rom name="TRF GDROM Boot Update (Japan).chd" size="15322707" crc="C969FC59" sha1="62D24ADF8554C98F336B516DEC0FFB3E26B5202E" />
-  </game>
-  <game name="Virtua Striker 2002 (Japan)">
+    <disk name="TRF GDROM Boot Update (Japan).chd" sha1="30df9c572189a35a52db22110342bd493292dc24" />
+  </machine>
+  <machine name="Virtua Striker 2002 (Japan)">
     <description>Virtua Striker 2002 (Japan)</description>
-    <rom name="Virtua Striker 2002 (Japan).chd" size="230739014" crc="1C49DB22" sha1="4CF1D41D8E9DC82E94D9F27A837F3735EA7E022F" />
-  </game>
-  <game name="Virtua Striker 2002 (World)">
+    <disk name="Virtua Striker 2002 (Japan).chd" sha1="2bc425beae5d585629a7de0c63fb61c565bcbd87" />
+  </machine>
+  <machine name="Virtua Striker 2002 (World)">
     <description>Virtua Striker 2002 (World)</description>
-    <rom name="Virtua Striker 2002 (World).chd" size="230737554" crc="7F262A08" sha1="DF98CB53500CE942EA1F4C04A32EDC4C92EEE048" />
-  </game>
-  <game name="Virtua Striker 4 (Asia)">
+    <disk name="Virtua Striker 2002 (World).chd" sha1="6b090c0e29cab2d437057b3ecfb9f21d7ad2ab25" />
+  </machine>
+  <machine name="Virtua Striker 4 (Asia)">
     <description>Virtua Striker 4 (Asia)</description>
-    <rom name="Virtua Striker 4 (Asia).chd" size="303692226" crc="6A7B97A8" sha1="48794A174DDD0FC71205C3A35C3D24185CFEA3C3" />
-  </game>
-  <game name="Virtua Striker 4 (Japan) (Rev C)">
+    <disk name="Virtua Striker 4 (Asia).chd" sha1="8711665ff105f71cc8fd917e541e95ae65b28196" />
+  </machine>
+  <machine name="Virtua Striker 4 (Japan) (Rev C)">
     <description>Virtua Striker 4 (Japan) (Rev C)</description>
-    <rom name="Virtua Striker 4 (Japan) (Rev C).chd" size="293440566" crc="31653F4F" sha1="7F8BA85644BBE11075B584F8E38115EB1D9FC288" />
-  </game>
-  <game name="Virtua Striker 4 (Japan) (Rev E)">
+    <disk name="Virtua Striker 4 (Japan) (Rev C).chd" sha1="f2feafafe7dbe1343fd539d374720812e78628b4" />
+  </machine>
+  <machine name="Virtua Striker 4 (Japan) (Rev E)">
     <description>Virtua Striker 4 (Japan) (Rev E)</description>
-    <rom name="Virtua Striker 4 (Japan) (Rev E).chd" size="293522459" crc="DE858C36" sha1="DEF4427BB76309E23E811183FAB927F99A7A59B6" />
-  </game>
-  <game name="Virtua Striker 4 (World)">
+    <disk name="Virtua Striker 4 (Japan) (Rev E).chd" sha1="e39105eca27f22e96b49b52d059754fc3d776b8d" />
+  </machine>
+  <machine name="Virtua Striker 4 (World)">
     <description>Virtua Striker 4 (World)</description>
-    <rom name="Virtua Striker 4 (World).chd" size="303694217" crc="5E6B0A85" sha1="970872B2BFE37CC80E3580933980AA9C4610FEA1" />
-  </game>
-  <game name="Virtua Striker 4 Ver. 2006 (Japan) (Rev B)">
+    <disk name="Virtua Striker 4 (World).chd" sha1="142e2523892fd85194141e6de987f33ecb62b364" />
+  </machine>
+  <machine name="Virtua Striker 4 Ver. 2006 (Japan) (Rev B)">
     <description>Virtua Striker 4 Ver. 2006 (Japan) (Rev B)</description>
-    <rom name="Virtua Striker 4 Ver. 2006 (Japan) (Rev B).chd" size="381624671" crc="AE3A8FB7" sha1="34518C8E55271B06098114C8DE6E34876F0C59BA" />
-  </game>
-  <game name="Virtua Striker 4 Ver. 2006 (Japan) (Rev D)">
+    <disk name="Virtua Striker 4 Ver. 2006 (Japan) (Rev B).chd" sha1="192c19f472d15c1de1f522747516f7d4894506d1" />
+  </machine>
+  <machine name="Virtua Striker 4 Ver. 2006 (Japan) (Rev D)">
     <description>Virtua Striker 4 Ver. 2006 (Japan) (Rev D)</description>
-    <rom name="Virtua Striker 4 Ver. 2006 (Japan) (Rev D).chd" size="381624215" crc="98DC8AE9" sha1="894C8608D4B6D058B8BFE4CB70C8D894CDA5B0EC" />
-  </game>
+    <disk name="Virtua Striker 4 Ver. 2006 (Japan) (Rev D).chd" sha1="85185c0923e2f0461d1f3c46e29112010f925c15" />
+  </machine>
 </datafile>

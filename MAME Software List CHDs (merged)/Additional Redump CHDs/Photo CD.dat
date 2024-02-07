@@ -4,8 +4,8 @@
 	<header>
 		<name>Photo CD</name>
 		<description>Photo CD</description>
-		<version>0.260</version>
-		<date>2023-09-07</date>
+		<version>0.262</version>
+		<date>2023-11-30</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -69,6 +69,20 @@
 		<rom name="24th Annual Street Rod Nationals (Canada) (Track 50).bin" size="10346448" crc="6e625b98" md5="eb0fc9da2093b32f4473ba5c63e2b011" sha1="0c9235f135d4466e1d464d778553fdb9804024ee"/>
 		<rom name="24th Annual Street Rod Nationals (Canada) (Track 51).bin" size="10040688" crc="598d9503" md5="d83623158ae35dbb5d70d1d714df6774" sha1="15ebd5f57568886f64c75a0b4e20371041484520"/>
 		<rom name="24th Annual Street Rod Nationals (Canada) (Track 52).bin" size="4955664" crc="b97a5212" md5="5781e31d8a8102473274f8b58fcdb88c" sha1="d240f9fe790e2cfcbd51b55d136ee0a05b0a9e0c"/>
+	</game>
+	<game name="Akemi Takada - Eyes - Patlabor Illustration Works (Japan) (Disc 1)" sha1="d94582f67b039ccafa18a0c5d27476fa3dd78fb8" size="292421266" crc="fd254000" fullsha1="070cba25eb8c1e7f71739b6849dfbb60bb0be651" dataSha1="02b6b9610770ead06b1e3fbf273883fea3320b23">
+		<category>Games</category>
+		<description>Akemi Takada - Eyes - Patlabor Illustration Works (Japan) (Disc 1)</description>
+		<rom name="Akemi Takada - Eyes - Patlabor Illustration Works (Japan) (Disc 1) (Track 01).bin" size="710304" crc="8f9886fb" md5="a4b7c51f473edcc818201640c7953c3e" sha1="1c5836cc29937bc0f11bc0cdce2427fa1806fe4a"/>
+		<rom name="Akemi Takada - Eyes - Patlabor Illustration Works (Japan) (Disc 1) (Track 02).bin" size="575635536" crc="e2e67a58" md5="b0ec2631c901cc57cab03829336af6df" sha1="65f971d347ac676d4bec1f5403fd4d2c761914d8"/>
+		<rom name="Akemi Takada - Eyes - Patlabor Illustration Works (Japan) (Disc 1) (Track 03).bin" size="76341216" crc="1733120e" md5="6ae0dcb187eb706ff5a7a83c75a7bdc9" sha1="7b0eceb37d9da2c844851a6b2119b890d78b03ff"/>
+	</game>
+	<game name="Akemi Takada - Eyes - Patlabor Illustration Works (Japan) (Disc 2)" sha1="0d90723bbe65f182882c425a77ffd1f78f62b186" size="299035739" crc="5462331d" fullsha1="559682a0f5c511f03712a6573704d27695ce2e07" dataSha1="fa9bd2c664a83de160e39d3ece4f5f56cd5ffec7">
+		<category>Games</category>
+		<description>Akemi Takada - Eyes - Patlabor Illustration Works (Japan) (Disc 2)</description>
+		<rom name="Akemi Takada - Eyes - Patlabor Illustration Works (Japan) (Disc 2) (Track 01).bin" size="710304" crc="661b30a1" md5="d84d2dce33ef3cd283bc4a3817f04c77" sha1="39de691b8fb3eabd5c17b01a595c2e35e0e547d4"/>
+		<rom name="Akemi Takada - Eyes - Patlabor Illustration Works (Japan) (Disc 2) (Track 02).bin" size="458240160" crc="7020d2ef" md5="3643ad926830095437407441e4a1f478" sha1="fa40c411903896d29f4fed866fc66516978acc5e"/>
+		<rom name="Akemi Takada - Eyes - Patlabor Illustration Works (Japan) (Disc 2) (Track 03).bin" size="184860144" crc="f0f4304f" md5="fc8d3adf0d708b50a5a12c27b999e1c2" sha1="e38f6ff1d74b86c8301a4f69aae0840f73e48ccb"/>
 	</game>
 	<game name="Akt Aesthetik (Germany)" sha1="df71264357dde8cc4c72e7188d085e434d4b23ed" size="31418709" crc="c1afdcc3" fullsha1="e16ea56c874020dd6653a021a47ec251b19839c4" dataSha1="e7d2aef3eb18d97cf8fe5df3bcb8d90c63b50ac6">
 		<category>Games</category>
@@ -597,11 +611,11 @@
 		<rom name="Flowers of Robert Mapplethorpe, The (USA) (Track 01).bin" size="511030800" crc="fbf3915f" md5="22ae24fd51d368f534b3963aed4a8350" sha1="fb1a3c5df2d8a28fd95d8c435caf7c71f56cd264"/>
 		<rom name="Flowers of Robert Mapplethorpe, The (USA) (Track 02).bin" size="218383200" crc="4b1a086e" md5="bc37dfa35c346ca9a75548078fa6299f" sha1="ab28e817ee01c40b05cf528d22b7882ddc77d562"/>
 	</game>
-	<game name="Flowers of Robert Mapplethorpe, The (USA) (Beta)" sha1="cff4ec4aac313ea20a8788f910dda62971aee4f1" size="171223164" crc="e2886362" fullsha1="e9a8ff5eebe9a760b53a089604137d4427fd70a2" dataSha1="4ea158b81168751c7173f9d14b903229d69e0bac">
+	<game name="Flowers of Robert Mapplethorpe, The (USA) (Beta) (1994-12-01)" sha1="cff4ec4aac313ea20a8788f910dda62971aee4f1" size="171223164" crc="e2886362" fullsha1="e9a8ff5eebe9a760b53a089604137d4427fd70a2" dataSha1="4ea158b81168751c7173f9d14b903229d69e0bac">
 		<category>Games</category>
-		<description>Flowers of Robert Mapplethorpe, The (USA) (Beta)</description>
-		<rom name="Flowers of Robert Mapplethorpe, The (USA) (Beta) (Track 01).bin" size="507855600" crc="ac68acd7" md5="3344cfd65174560ca837a3bbeb62fc98" sha1="c493f0b84028509451406c67fef65e6f74ee2a6e"/>
-		<rom name="Flowers of Robert Mapplethorpe, The (USA) (Beta) (Track 02).bin" size="218383200" crc="4b1a086e" md5="bc37dfa35c346ca9a75548078fa6299f" sha1="ab28e817ee01c40b05cf528d22b7882ddc77d562"/>
+		<description>Flowers of Robert Mapplethorpe, The (USA) (Beta) (1994-12-01)</description>
+		<rom name="Flowers of Robert Mapplethorpe, The (USA) (Beta) (1994-12-01) (Track 01).bin" size="507855600" crc="ac68acd7" md5="3344cfd65174560ca837a3bbeb62fc98" sha1="c493f0b84028509451406c67fef65e6f74ee2a6e"/>
+		<rom name="Flowers of Robert Mapplethorpe, The (USA) (Beta) (1994-12-01) (Track 02).bin" size="218383200" crc="4b1a086e" md5="bc37dfa35c346ca9a75548078fa6299f" sha1="ab28e817ee01c40b05cf528d22b7882ddc77d562"/>
 	</game>
 	<game name="Fratelli Alinari - 150 Years of Photographies Save Our Memory (Europe)" sha1="b711102529b0ebd8469af2eb42c678639755641a" size="176255702" crc="79c6bf61" fullsha1="083fb7cbe13caad9284ef07cd1480b3a89e3afb8" dataSha1="fdba3c7feaa8ac85c41a7716e7826082ff22074e">
 		<category>Games</category>
@@ -804,6 +818,13 @@
 		<rom name="Inu-ou Chikyuu o Sukuu (Japan) (Track 02).bin" size="251624016" crc="11b56b84" md5="6cea0b3fb71f257007790f661f8dee93" sha1="d23c608d27b9b6dda273e32767fa62a53e2fc6b5"/>
 		<rom name="Inu-ou Chikyuu o Sukuu (Japan) (Track 03).bin" size="159816048" crc="1575a6b3" md5="2d7350d5c09349ad7ba01dbf307e1079" sha1="768ad3721b7715d3a881fc306ec0d8d50c10df15"/>
 	</game>
+	<game name="Jinbo Miki Shashin-shuu - Taiyou Densetsu Matahari Photo CD (Japan)" sha1="4afd5450e506fb3be98da2636d98ab69e8d1d1da" size="43398873" crc="9b224160" fullsha1="98206fa7a504ceec345e87a25875a36775c2b434" dataSha1="2373db1d89a8a91bec802c94416c375ea21b3c4d">
+		<category>Games</category>
+		<description>Jinbo Miki Shashin-shuu - Taiyou Densetsu Matahari Photo CD (Japan)</description>
+		<rom name="Jinbo Miki Shashin-shuu - Taiyou Densetsu Matahari Photo CD (Japan) (Track 01).bin" size="710304" crc="bca99e33" md5="1d03274075fa1a243fb8f482179bb0df" sha1="5941d4092af6a628c2ad80b561123b6e2cfb6c09"/>
+		<rom name="Jinbo Miki Shashin-shuu - Taiyou Densetsu Matahari Photo CD (Japan) (Track 02).bin" size="173149536" crc="eb63c7de" md5="7514c3cf5b467b3f4dd8dac74bb404ba" sha1="e70fa447dcac8fbba6fb8f3e8990e151f5fd29de"/>
+		<rom name="Jinbo Miki Shashin-shuu - Taiyou Densetsu Matahari Photo CD (Japan) (Track 03).bin" size="6731424" crc="5a9f0d75" md5="f786661d69040ac1541dfe4ffb3e8825" sha1="cf342b016fffd28e53d9b9a2a7b3ad0fd21b1dc9"/>
+	</game>
 	<game name="Johannes Paulus II (Italy) (En,Fr,De,Es,It)" sha1="9e5614c14a45eb94fc7c2cccced553e26bdbaab3" size="347780709" crc="c53bb2a0" fullsha1="4761c69ad8e53a5589cdbe35686c1ce68ddfa7b4" dataSha1="ea5d865716d317cced48d321e0798684e2f53fd1">
 		<category>Games</category>
 		<description>Johannes Paulus II (Italy) (En,Fr,De,Es,It)</description>
@@ -826,6 +847,13 @@
 		<rom name="Johannes Paulus II (Italy) (En,Fr,De,Es,It) (Track 17).bin" size="31199280" crc="34c24147" md5="9314e785626470e14b805911d6a7d1e0" sha1="0f172a8b697ba7feb95872677be7acae29541b0d"/>
 		<rom name="Johannes Paulus II (Italy) (En,Fr,De,Es,It) (Track 18).bin" size="16633344" crc="01fc903b" md5="66873419b69a2c096753d67b3408efc9" sha1="cc5b31b2888af59384b0aebc0555eeba125c57be"/>
 		<rom name="Johannes Paulus II (Italy) (En,Fr,De,Es,It) (Track 19).bin" size="4955664" crc="ceacbfb8" md5="ba56e6240f41520fb42284279b1fa99c" sha1="47eee93dd17af68f3480b47fb387d75f8589c970"/>
+	</game>
+	<game name="Julien Biere - Goldene Scheiben - Sampler-CD (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv)" sha1="30dddea1fc053e0c7e13f844969191319b8fcbca" size="258407540" crc="30943a2a" fullsha1="47a0bdd9128e5b3cc37ed504521c647824730018" dataSha1="7613955927235d65274a5d9c2e9442917fd39067">
+		<category>Games</category>
+		<description>Julien Biere - Goldene Scheiben - Sampler-CD (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv)</description>
+		<rom name="Julien Biere - Goldene Scheiben - Sampler-CD (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv) (Track 01).bin" size="710304" crc="5273675e" md5="8c865bef6f9561ca21ebb5085fde23fd" sha1="24798e406bc6608c7347cfae7879edfefb855a16"/>
+		<rom name="Julien Biere - Goldene Scheiben - Sampler-CD (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv) (Track 02).bin" size="192050208" crc="10be06dd" md5="cbe86f177a40969000660368b21718aa" sha1="ce9ac098e4626cb58573c8ea6626a6752f358ccf"/>
+		<rom name="Julien Biere - Goldene Scheiben - Sampler-CD (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv) (Track 03).bin" size="460072368" crc="b720c3b2" md5="b6d8ac246ca0b2bd9048a258fd4ed838" sha1="07729a13beea802566d540a0db02560ee400a926"/>
 	</game>
 	<game name="Kawasaki - 1999 Good Times Photo CD (Japan)" sha1="3b84265e43f21c22b62c78af47515262af80ad79" size="302712380" crc="6555b278" fullsha1="a1e995009bf5457daeecc64a7b7b1ebf1303ad98" dataSha1="120f1d8eff71dc2e3c641297fb28546e4b94ec31">
 		<category>Games</category>
@@ -908,6 +936,41 @@
 		<category>Games</category>
 		<description>Kodak Photo CD Photo Sampler (USA) (OEM)</description>
 		<rom name="Kodak Photo CD Photo Sampler (USA) (OEM) (Track 01).bin" size="121351440" crc="a250c0ed" md5="df2331103203901ade00443babb99231" sha1="2f5a33449dd3ff09b3b2d0b20c693ca65b3fb71a"/>
+	</game>
+	<game name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl)" sha1="9db7a5ffc09ad3179ccdf74fb4b09b4727940e7e" size="283907903" crc="c1e6d728" fullsha1="fb42d7e23ac445fe74674f3dfe0f955e8da1937d" dataSha1="511b52f76cf2413afc59688d72b8a8cbd4be24fb">
+		<category>Games</category>
+		<description>Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl)</description>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 01).bin" size="21172704" crc="a212283f" md5="a7cc405f47ccd8e12dce1385d5b9eff9" sha1="203c38c73d8a5a21e2bda5d1ad640bc7102119c1"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 02).bin" size="3631488" crc="464b971f" md5="48d152ec93f7fc7a497bace6094905fa" sha1="d5bfa626b80e482ee42c4b63bdb6a09b68e52cc8"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 03).bin" size="10386432" crc="825cf421" md5="2b27024e35a5a33d283a811f6cfe31a0" sha1="41487e03e4d7fd24d377d2ea401a9f7df412f636"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 04).bin" size="3368064" crc="c1d6c115" md5="6481be13c05cd4b6c63df29f296b5de8" sha1="55e4a741c3aa7f64a90b50f3554cd16c4ca6a65a"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 05).bin" size="73674048" crc="51782cbb" md5="2283c9f882ab15768b83a5a60cc0f055" sha1="dccf18dc5d2bf5f59b505fbadf754fd94fc4595e"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 06).bin" size="4101888" crc="9d0bc22a" md5="0d5cda078fd4b7b051b9c5f533d43374" sha1="8cb0a6a2ffa84aae218853602fe2f6fc2db8b0e0"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 07).bin" size="4704000" crc="8e5525d2" md5="40b156bbb206f031ccf9252c0f8d85be" sha1="c519b76ebd2828e7e8a82c89e95cc5a40eb14115"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 08).bin" size="4365312" crc="083e938a" md5="85a5dd070800db3aee7d980ea017dce7" sha1="31040e18031b1ba343cf21a7c87da7f74314b245"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 09).bin" size="78763776" crc="e0af8e70" md5="b392b9073df970efbfbf813c530ae7ef" sha1="6ad4a890c161655ce26a4afcb1f0f75296463964"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 10).bin" size="4638144" crc="245b2106" md5="ea37cbc5a7428d6bec001ed771e579b2" sha1="5d80d45c6d64a1fb71ebe509c6883384f3790161"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 11).bin" size="4299456" crc="1f0e6492" md5="5c7ca2ebaf72a9ae6b90d5a9913dd73d" sha1="ece8ac647c0db9b1c5630d7e0f31b8647de7d8cc"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 12).bin" size="3829056" crc="c8fd9561" md5="076cf9f5dadb35507749f2d2b4be4b65" sha1="c74f183db8aff99a773974bcf4aa1f0ffa30c2bf"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 13).bin" size="85452864" crc="bde55e1a" md5="7dfdfd46cca5d85ae6e33cf9437b177c" sha1="b64326659239e874ac99f103d91881f6b52726a3"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 14).bin" size="4638144" crc="cf159605" md5="2ccd02a6f0ff0f12465d6d96ec4e104f" sha1="0460e4dd0e0f1b7f946d9a736ea461ac290cf734"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 15).bin" size="5174400" crc="c1681cca" md5="a38d5428cd1c215ebf4ea3d8e5ef6a76" sha1="051d0d373fa71c207399735ba30b46153befbb6b"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 16).bin" size="5174400" crc="50343cbb" md5="884364eb12b40bf22dc02e17a32ea073" sha1="f574ad44bd8fd246ba44fb0eee80896c49211c2b"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 17).bin" size="99235584" crc="9e0914e7" md5="adeaf9b20cec1650fc1dfdfd2be2cfc7" sha1="d10faaecacfa128c81f53810088783b749d4e15a"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 18).bin" size="4967424" crc="591ecaa9" md5="615ff8c3251d2aa31691aebb9ff32157" sha1="01ecd40e1535f4bb8c96575ee308d2d20310a0c9"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 19).bin" size="6773760" crc="5cea9e04" md5="abffaa48264c73a0cca2a2558c757d91" sha1="c05ecc0f66dd9dba48846e04cb697433a3819257"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 20).bin" size="3970176" crc="d0554bb7" md5="ce807c1e4ab15718f23d277416de3172" sha1="e83967f66f86183c1dab1959b0056c75881334da"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 21).bin" size="89601792" crc="ba1f07bd" md5="adb12818c8d184ab86cdcd46624d932b" sha1="32610ec3626e8d9940dc2ebb091305ce5f69ccc4"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 22).bin" size="5974080" crc="24ca3c86" md5="d87588310958b542bb6eb4c160e7a297" sha1="9290fd79026fc171702185d615dcf2c14cb473b6"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 23).bin" size="5437824" crc="0a5d833f" md5="7307baf81a24e34303cc66652220ee76" sha1="3bda9b42f5b74e875f1c51812994bc6e87233f7d"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 24).bin" size="4101888" crc="8114b966" md5="27de5405c4ed3fd71280fc06631660d0" sha1="cc65f4fb6d3d614b236d621bdd00a660389acfd8"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 25).bin" size="91878528" crc="10014f87" md5="74972631281f5c9410bece31509df876" sha1="8369384a0af2abef29165b584beeb3ceeb3fa586"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 26).bin" size="5033280" crc="6566a70d" md5="f5046951afbad054e4c01c75c21b686d" sha1="b2c860223809b3586cc15ca3c87087901a5b80ee"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 27).bin" size="6444480" crc="3bcc0d56" md5="5ad7d573eed25e24ca1f15b295ae4e51" sha1="17412a28b63850ff59bfb7996c211e012c4855da"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 28).bin" size="3631488" crc="cf68f495" md5="f2f8732f9444176b9544839667735064" sha1="da92382bea9ce200ab534dcb08bf68144a261a61"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 29).bin" size="94813824" crc="870355c8" md5="808d62f01f7d46cb48330e3a377f7895" sha1="4b04b5affed94bc67d4c275e79719c8ee577c390"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 30).bin" size="4167744" crc="328e5547" md5="c86d261e00b739ce4b4320d17fd2d742" sha1="75c5564de476a71d475424fe3ea28c255214afaa"/>
+		<rom name="Kodak Photo CD Portable Player Demo Disc (USA) (En,Ja,Fr,De,Es,It,Nl) (Track 31).bin" size="6105792" crc="11f0267e" md5="26c6482e577bb06f77c9abae13522080" sha1="ec73ffff2c496622641047cd6add371d3dc40767"/>
 	</game>
 	<game name="Kodak Sampler with Film - No. 10 - Landscape (Japan)" sha1="58c460bb10ffe2b8cef23086af685133b96a3b60" size="288135280" crc="f6e2b641" fullsha1="3bb163f403221297c8f55a762ca5f2d4285aee98" dataSha1="98f6d8897334d9c7ce1fa3a8dd7670bd8e6a8c9f">
 		<category>Games</category>
@@ -1055,6 +1118,34 @@
 		<rom name="Miyamura Yuuko no Miyamu o Sagase! (Japan) (Track 01).bin" size="710304" crc="9a7ae5aa" md5="0d3297c67eb50dcecffa2f74a6bb7407" sha1="8d74280a7ef0cb704e007d25dbef3f41ce9d05e5"/>
 		<rom name="Miyamura Yuuko no Miyamu o Sagase! (Japan) (Track 02).bin" size="223592880" crc="bb6df14b" md5="9c34419d72d0923b6fc181be46013e87" sha1="5bac73c2f7f79dc59e7cb5eb70ef349817252e33"/>
 		<rom name="Miyamura Yuuko no Miyamu o Sagase! (Japan) (Track 03).bin" size="111308400" crc="781b7068" md5="e1385b47b304dac983f29d18d2118263" sha1="b1de475dd0d5d49e76cb052f46767c714c27667e"/>
+	</game>
+	<game name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan)" sha1="d05b0d14814d59b6f042e2d630e6d76c33827d6b" size="176419050" crc="507e35c1" fullsha1="e2529929132c4fb1bfbc8dfe44ca8999f07e388d" dataSha1="1dd608357240b72d7d928f1334700b3318eadec8">
+		<category>Games</category>
+		<description>Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan)</description>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 01).bin" size="710304" crc="d5cb607a" md5="18ef09467227a5dbe274b9b22155ba38" sha1="3d8a488fa496d5330bf21d78066a445dd6eafd8e"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 02).bin" size="221360832" crc="4ee2f0b0" md5="c45903e320c9ad4a80168d72f7c7b93f" sha1="0fba5495eca90ed6b8c3a79319b51424959b09c5"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 03).bin" size="31396848" crc="1b2b8fdc" md5="3a1398051d1ab195f3fd66b2c21e07f9" sha1="318028bb23ddfe7b9ee8de356ad1b0db3612d5d1"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 04).bin" size="5941152" crc="84683fcb" md5="f430a1feeb2868d427fbbc3a4149df7a" sha1="6cf776dfc177461fc790c862a63234e948e9926e"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 05).bin" size="3711456" crc="7553c38a" md5="fcc12a7eca8a4b3b50aa6643c9443b45" sha1="ad13a638ab30218b9a6181011fea945fa82f5433"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 06).bin" size="3647952" crc="486193c6" md5="1524baebb5306e7319c7a29f3c37538d" sha1="f7510cdfc380c61c72858c84f833f9fb69e27cb6"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 07).bin" size="2568384" crc="a23d1444" md5="a59fcd886010eba6aae1490765aa9f4e" sha1="425e5eced0311c40c030b730f9aa7fdc8ad10ff6"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 08).bin" size="13745088" crc="8be8bb20" md5="b4471626e905559461306ee6de55c1a0" sha1="d816f69b573641c1f3f86703e23a0317bdb801c3"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 09).bin" size="9102240" crc="3be697f6" md5="65c404fe93de31778a0fcd8810446e48" sha1="7da501a080755f9bcb82b59c3190a3e03300fdbd"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 10).bin" size="18597264" crc="8bdb8c4b" md5="e36e4e45f6cb94a9323ba4a3364e2269" sha1="c6449522604284da593cd7c25f523bfbed3af466"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 11).bin" size="4826304" crc="eae5071e" md5="1bfbdf95d9b63962ae3736cafc716fae" sha1="5bc224c0f3cebc82d5ce3d5c7feed0db13449d9b"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 12).bin" size="6185760" crc="07fcffbc" md5="6269007580ce70e3bcad89f00e48ba90" sha1="337e89b595a9359377ed1794336785d71614f37e"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 13).bin" size="11299008" crc="3748819c" md5="f88257ce6dfd25ae3fd9050f14b5a872" sha1="49692f52ebeaa66ef2516dcad99ad37f0e9113cc"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 14).bin" size="16184112" crc="6b2b463b" md5="b49044bfd606c38e98deed471d280b2f" sha1="e05904504de20488ca7453d009379dacf5868fd5"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 15).bin" size="2521344" crc="a407482d" md5="e4cdcd738fafc8521feb57758367cfb1" sha1="366c60f5e7e5073c6ae0749375380287485e05ed"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 16).bin" size="5901168" crc="c13f2599" md5="acdb32062441df7f6e871f4ef6692da0" sha1="8c9768d0353e18201eb84951c1e71bb78a9eba69"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 17).bin" size="15111600" crc="4bfbac7a" md5="1259485d54ddef828e407be9ead9ac61" sha1="fc4d2b398065f98aa8358367e54712b3b4f04809"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 18).bin" size="3483312" crc="87ea9171" md5="66b30f1869753fb7ec7f4297a9d19bc8" sha1="7fa207d4d95fb6d0cff26810fae19f86a84099d6"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 19).bin" size="3532704" crc="331c17b4" md5="aaaad4d62c4c378bae447c1aed24cff0" sha1="b3aa732f2abae144501195d565e1e1f979531d4e"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 20).bin" size="8279040" crc="77b2cf26" md5="3502e88a05508d5837940332258379aa" sha1="56fd28a5ab68157be88ae3cfa9e6df068aa7823c"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 21).bin" size="2403744" crc="408b58d0" md5="df3f03236e9b8604d3343db867e38d4a" sha1="3d8881ffefc758deeb25088069e1e202db4d6099"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 22).bin" size="7942704" crc="0d8306bd" md5="66de339fdbe56c724e0a9160451505b4" sha1="847fe07b788e33bf40b20f7746a52aea1ab2122c"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 23).bin" size="20271888" crc="5275cada" md5="f7e8d4c9e912694ca80a4e83e3d74c50" sha1="34a436b96c85fc639c6b10369293e376d31300a6"/>
+		<rom name="Miyauchi Tomomi - Hajirai Hakusho Series 1 - Suhada no Seifuku (Japan) (Track 24).bin" size="28955472" crc="79727f1a" md5="1d72a79a6343e11127ab4b4f042a45d7" sha1="f5c41fa59af3dc2066c287788518a9409b955e62"/>
 	</game>
 	<game name="Mode-Trends 92-93 Elle (Germany)" sha1="62bbd370bdd80a72fb4a1094f3206beab9e851e8" size="22661536" crc="b9d03c17" fullsha1="9b0eb5e09356ca364bcaf1aa64441b0ee748fe93" dataSha1="2cb406d114b8b6c5dd653fff4cb0ad1e40195fa3">
 		<category>Games</category>
@@ -1571,6 +1662,13 @@
 		<rom name="Photo CD Magazine Vol. 1 - Aonuma Chiasa Re-Birth (Japan) (Track 02).bin" size="164640000" crc="9b2a3a5f" md5="7d97e09937b1e6e1b36b6de13ae69815" sha1="adfd40b07aa980c25bea4b157496286dbb4384de"/>
 		<rom name="Photo CD Magazine Vol. 1 - Aonuma Chiasa Re-Birth (Japan) (Track 03).bin" size="266291088" crc="66453395" md5="4bc62169fc45c544180028eac8d4f35d" sha1="9a952f70c93eeed05c7abf87864f36c33a5e8338"/>
 	</game>
+	<game name="Photo Story - Ninguru (Japan)" sha1="acc44d761ffe77b443833a8b222ae888df9e27ad" size="280302939" crc="aba7cec4" fullsha1="45d6443c375435e894f7b9b5b122e7985ed06787" dataSha1="a52aa66c3e216cdc02573267f1b7068d38a931c4">
+		<category>Games</category>
+		<description>Photo Story - Ninguru (Japan)</description>
+		<rom name="Photo Story - Ninguru (Japan) (Track 01).bin" size="710304" crc="73d2c8a2" md5="144fb50430f9c9604e5502533a0eb618" sha1="816502223ad158072f8067cf6394ff6aa38e3366"/>
+		<rom name="Photo Story - Ninguru (Japan) (Track 02).bin" size="116409888" crc="c5e3afbd" md5="1276c1ff13a0e216f1e8150b735c7338" sha1="a68435a2a4abd722e4e45fbb45e7688d3d506e25"/>
+		<rom name="Photo Story - Ninguru (Japan) (Track 03).bin" size="492400608" crc="2afe82c3" md5="8f3b141abddebe4fd3f9116da2e773bd" sha1="99c550335d97797d89822d4f65959ce720ce2e0a"/>
+	</game>
 	<game name="Photo-Q Pro Vol. 1 - New Type Photo Quiz (Japan)" sha1="93c0695583629b3f4e8d92842446d51dbf11281e" size="186257530" crc="80abe9bb" fullsha1="2ea49e95dd100c3eb0a18b954b6523f4033b4c13" dataSha1="eac8b45d1bc8b355c1662ed01a712eb443235544">
 		<category>Games</category>
 		<description>Photo-Q Pro Vol. 1 - New Type Photo Quiz (Japan)</description>
@@ -1847,6 +1945,12 @@
 		<description>Sexy Bytes - Studio Girls 1 (Germany) (En,Fr,De)</description>
 		<rom name="Sexy Bytes - Studio Girls 1 (Germany) (En,Fr,De) (Track 01).bin" size="545358240" crc="6dd6b2e8" md5="043e079bcff703eecfacd11777de16c9" sha1="ae6499a43f254711fd8a5332933797a074fac6f3"/>
 	</game>
+	<game name="Shiho Shashin-shuu (Japan)" sha1="b0e3284698ff80ba367e80c587c242ea05187c21" size="38570754" crc="20fa9bdf" fullsha1="8c22df1cd2e943c4b1d626c8b19784d15df34dab" dataSha1="5c78ebaf7dc6ba9d03a2ba5bce05668cda7fb805">
+		<category>Games</category>
+		<description>Shiho Shashin-shuu (Japan)</description>
+		<rom name="Shiho Shashin-shuu (Japan) (Track 01).bin" size="710304" crc="22f6b55b" md5="cc85dd08933d6bfeb39ec51e50774994" sha1="ee5c77145191223a4beaebca58d1ac44b5045ffc"/>
+		<rom name="Shiho Shashin-shuu (Japan) (Track 02).bin" size="119848512" crc="d324ecd1" md5="f18b4c31d8c278a3f0c1b4210cb705d7" sha1="f2481339b0ae3728111654a81c961b72568c664d"/>
+	</game>
 	<game name="Shimada Youko - Quatre (Japan)" sha1="65b52695b767fdfcb289d415159d387e0bff4305" size="57529657" crc="9b5a5343" fullsha1="95ae0d6fd8443289a31c07572ec95cc12f67dddd" dataSha1="41aac95fd88054cbe4e22dde0c317372d7620532">
 		<category>Games</category>
 		<description>Shimada Youko - Quatre (Japan)</description>
@@ -2045,6 +2149,13 @@
 		<description>Yellows S.V 1.5 - Girl Friends - Akira Gomi Photographs (Japan)</description>
 		<rom name="Yellows S.V 1.5 - Girl Friends - Akira Gomi Photographs (Japan) (Track 01).bin" size="712656" crc="9f0cce11" md5="4183e00278f0e6e326c93643c7e28aa5" sha1="45f7afef8cce44c741e57a20e251af16bf901049"/>
 		<rom name="Yellows S.V 1.5 - Girl Friends - Akira Gomi Photographs (Japan) (Track 02).bin" size="248432352" crc="5157c93f" md5="cbc718ea51730395445fd7aa3c8a6cd1" sha1="546aada085d829aa3995634489b8193134e984f6"/>
+	</game>
+	<game name="Yuko Mizushima - Vigor (Japan)" sha1="97ffbfd65202679ab3fb0f8b0742afb3f043845f" size="119762017" crc="fa616f5b" fullsha1="0e4cfccbb5e5188c268c9d1902af7d3e48122588" dataSha1="9583d9f387b329692b2bd51dbbead530cd1ecbba">
+		<category>Games</category>
+		<description>Yuko Mizushima - Vigor (Japan)</description>
+		<rom name="Yuko Mizushima - Vigor (Japan) (Track 01).bin" size="710304" crc="e6873069" md5="26d24ece647d7ab3ecdc1ebeeb85ed94" sha1="ffef04f5b4d775310ecc3554500bf7225c57bdc8"/>
+		<rom name="Yuko Mizushima - Vigor (Japan) (Track 02).bin" size="100345728" crc="b1f5cc71" md5="9d7c2f591291c2cc21981fd3e03f337d" sha1="40ccb18a6d65e5b6a2880838e1e6fe68b0bf7716"/>
+		<rom name="Yuko Mizushima - Vigor (Japan) (Track 03).bin" size="223435296" crc="4c119027" md5="04032846eec4f48cc6d145a0081ad9f0" sha1="87ac015a02282a9ae2c82694a55a813ec6a81b7d"/>
 	</game>
 	<game name="Yuusha no Yabou - Hero's Conspiracy (Japan)" sha1="6b17abf6cfa6f77d11ee13d0a587b916899a451b" size="121842561" crc="7368334a" fullsha1="23533fa8a99efaabfdb5656be25169174281731c" dataSha1="2b1261cc95dfa12945cd0a12cc3937c4f1b2ee85">
 		<category>Games</category>
