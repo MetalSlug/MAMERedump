@@ -5,95 +5,117 @@
     <name>Arcade - Namco - Sega - Nintendo - Triforce</name>
     <description>MAME Redump - Arcade - Namco - Sega - Nintendo - Triforce - Discs (22) (2021-02-04 16-43-40)</description>
     <version>0.262</version>
-    <date>2024-02-07</date>
+    <date>2024-02-21</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
   </header>
   <machine name="Avalon no Kagi (Main) (Japan) (Rev A)">
+    <category>Games</category>
     <description>Avalon no Kagi (Main) (Japan) (Rev A)</description>
     <disk name="Avalon no Kagi (Main) (Japan) (Rev A).chd" sha1="daebc4df442d756cff5dc93ebb2565b3fc9209a8" />
   </machine>
   <machine name="Avalon no Kagi (Main) (Japan) (Rev C)">
+    <category>Games</category>
     <description>Avalon no Kagi (Main) (Japan) (Rev C)</description>
     <disk name="Avalon no Kagi (Main) (Japan) (Rev C).chd" sha1="73afc4403c023f7af45ce363761398ef3b72525d" />
   </machine>
   <machine name="Avalon no Kagi (Main) (Japan) (Rev E)">
+    <category>Games</category>
     <description>Avalon no Kagi (Main) (Japan) (Rev E)</description>
     <disk name="Avalon no Kagi (Main) (Japan) (Rev E).chd" sha1="53194c85d737f5eddbbbaddd0090801fb934e467" />
   </machine>
   <machine name="Avalon no Kagi (Main) (Japan) (Rev F)">
+    <category>Games</category>
     <description>Avalon no Kagi (Main) (Japan) (Rev F)</description>
     <disk name="Avalon no Kagi (Main) (Japan) (Rev F).chd" sha1="f4bcf23f650e55447659dfd9f470b324ebf86321" />
   </machine>
   <machine name="Avalon no Kagi (Main) (Japan) (Rev G)">
+    <category>Games</category>
     <description>Avalon no Kagi (Main) (Japan) (Rev G)</description>
     <disk name="Avalon no Kagi (Main) (Japan) (Rev G).chd" sha1="b186598fe8251f61b319aee1e4ce3da9ec1ced19" />
   </machine>
   <machine name="Avalon no Kagi (Satellite) (Japan) (Rev A)">
+    <category>Games</category>
     <description>Avalon no Kagi (Satellite) (Japan) (Rev A)</description>
     <disk name="Avalon no Kagi (Satellite) (Japan) (Rev A).chd" sha1="024ad7164f8761b5bf1787b92093df7e1aa1aed4" />
   </machine>
   <machine name="Avalon no Kagi (Satellite) (Japan) (Rev C)">
+    <category>Games</category>
     <description>Avalon no Kagi (Satellite) (Japan) (Rev C)</description>
     <disk name="Avalon no Kagi (Satellite) (Japan) (Rev C).chd" sha1="17ad3246c6b77389721cbc26807a808ade9b563c" />
   </machine>
   <machine name="Avalon no Kagi (Satellite) (Japan) (Rev F)">
+    <category>Games</category>
     <description>Avalon no Kagi (Satellite) (Japan) (Rev F)</description>
     <disk name="Avalon no Kagi (Satellite) (Japan) (Rev F).chd" sha1="85589049ef7758d2ac33719e3b802ef322e45145" />
   </machine>
   <machine name="Avalon no Kagi Ni - Kagi Seisen (Main) (Japan) (Rev A)">
+    <category>Games</category>
     <description>Avalon no Kagi Ni - Kagi Seisen (Main) (Japan) (Rev A)</description>
     <disk name="Avalon no Kagi Ni - Kagi Seisen (Main) (Japan) (Rev A).chd" sha1="4f6ec86b83a39cadfab581860a34f0cba657ace5" />
   </machine>
   <machine name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev A)">
+    <category>Games</category>
     <description>Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev A)</description>
     <disk name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev A).chd" sha1="1c020bab69c60aada36076eb928ea4fe9d425c5f" />
   </machine>
   <machine name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev B)">
+    <category>Games</category>
     <description>Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev B)</description>
     <disk name="Avalon no Kagi Ni - Kagi Seisen (Satellite) (Japan) (Rev B).chd" sha1="4e4987b4c56044595eed5bb0158a1bafb40d8a88" />
   </machine>
   <machine name="Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev B)">
+    <category>Games</category>
     <description>Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev B)</description>
     <disk name="Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev B).chd" sha1="2c767f8c4ded775d995354feb1e06826c1af6a1f" />
   </machine>
   <machine name="Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev C)">
+    <category>Games</category>
     <description>Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev C)</description>
     <disk name="Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan) (Rev C).chd" sha1="c18d4f2d6a52b475499faa74bc0942e77d0cc0ad" />
   </machine>
   <machine name="TRF GDROM Boot Update (Japan)">
+    <category>Applications</category>
     <description>TRF GDROM Boot Update (Japan)</description>
     <disk name="TRF GDROM Boot Update (Japan).chd" sha1="30df9c572189a35a52db22110342bd493292dc24" />
   </machine>
   <machine name="Virtua Striker 2002 (Japan)">
+    <category>Games</category>
     <description>Virtua Striker 2002 (Japan)</description>
     <disk name="Virtua Striker 2002 (Japan).chd" sha1="2bc425beae5d585629a7de0c63fb61c565bcbd87" />
   </machine>
   <machine name="Virtua Striker 2002 (World)">
+    <category>Games</category>
     <description>Virtua Striker 2002 (World)</description>
     <disk name="Virtua Striker 2002 (World).chd" sha1="6b090c0e29cab2d437057b3ecfb9f21d7ad2ab25" />
   </machine>
   <machine name="Virtua Striker 4 (Asia)">
+    <category>Games</category>
     <description>Virtua Striker 4 (Asia)</description>
     <disk name="Virtua Striker 4 (Asia).chd" sha1="8711665ff105f71cc8fd917e541e95ae65b28196" />
   </machine>
   <machine name="Virtua Striker 4 (Japan) (Rev C)">
+    <category>Games</category>
     <description>Virtua Striker 4 (Japan) (Rev C)</description>
     <disk name="Virtua Striker 4 (Japan) (Rev C).chd" sha1="f2feafafe7dbe1343fd539d374720812e78628b4" />
   </machine>
   <machine name="Virtua Striker 4 (Japan) (Rev E)">
+    <category>Games</category>
     <description>Virtua Striker 4 (Japan) (Rev E)</description>
     <disk name="Virtua Striker 4 (Japan) (Rev E).chd" sha1="e39105eca27f22e96b49b52d059754fc3d776b8d" />
   </machine>
   <machine name="Virtua Striker 4 (World)">
+    <category>Games</category>
     <description>Virtua Striker 4 (World)</description>
     <disk name="Virtua Striker 4 (World).chd" sha1="142e2523892fd85194141e6de987f33ecb62b364" />
   </machine>
   <machine name="Virtua Striker 4 Ver. 2006 (Japan) (Rev B)">
+    <category>Games</category>
     <description>Virtua Striker 4 Ver. 2006 (Japan) (Rev B)</description>
     <disk name="Virtua Striker 4 Ver. 2006 (Japan) (Rev B).chd" sha1="192c19f472d15c1de1f522747516f7d4894506d1" />
   </machine>
   <machine name="Virtua Striker 4 Ver. 2006 (Japan) (Rev D)">
+    <category>Games</category>
     <description>Virtua Striker 4 Ver. 2006 (Japan) (Rev D)</description>
     <disk name="Virtua Striker 4 Ver. 2006 (Japan) (Rev D).chd" sha1="85185c0923e2f0461d1f3c46e29112010f925c15" />
   </machine>
