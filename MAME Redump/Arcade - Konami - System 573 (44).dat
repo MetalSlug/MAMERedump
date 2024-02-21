@@ -5,183 +5,227 @@
     <name>Arcade - Konami - System 573</name>
     <description>MAME Redump - Arcade - Konami - System 573 - Discs (44) (2023-04-06 17-39-09)</description>
     <version>0.262</version>
-    <date>2024-02-07</date>
+    <date>2024-02-21</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
   </header>
   <machine name="Bass Angler (Japan)">
+    <category>Games</category>
     <description>Bass Angler (Japan)</description>
     <disk name="Bass Angler (Japan).chd" sha1="56fbaf5b5bd89e705e45f9afe139ebe9c9078f2a" />
   </machine>
   <machine name="Dance Dance Revolution - Internet Ranking Kit (Japan)">
+    <category>Add-Ons</category>
     <description>Dance Dance Revolution - Internet Ranking Kit (Japan)</description>
     <disk name="Dance Dance Revolution - Internet Ranking Kit (Japan).chd" sha1="4f4549d4be4f658f2ea6eefa7617246319a78e43" />
   </machine>
   <machine name="Dance Dance Revolution 3rd Mix - Ver. Korea 2 (Korea)">
+    <category>Games</category>
     <description>Dance Dance Revolution 3rd Mix - Ver. Korea 2 (Korea)</description>
     <disk name="Dance Dance Revolution 3rd Mix - Ver. Korea 2 (Korea).chd" sha1="e82123c31acace8de15ed2929558260652735f39" />
   </machine>
   <machine name="Dance Dance Revolution 3rd Mix (Asia)">
+    <category>Games</category>
     <description>Dance Dance Revolution 3rd Mix (Asia)</description>
     <disk name="Dance Dance Revolution 3rd Mix (Asia).chd" sha1="7c04fc458cdf2c1e099e215d0dfe4cc319284e7e" />
   </machine>
   <machine name="Dance Dance Revolution 3rd Mix (Japan)">
+    <category>Games</category>
     <description>Dance Dance Revolution 3rd Mix (Japan)</description>
     <disk name="Dance Dance Revolution 3rd Mix (Japan).chd" sha1="abe640d8c42f679cc31690988cabcd812899eabf" />
   </machine>
   <machine name="Dance Dance Revolution 3rd Mix Plus (Japan)">
+    <category>Games</category>
     <description>Dance Dance Revolution 3rd Mix Plus (Japan)</description>
     <disk name="Dance Dance Revolution 3rd Mix Plus (Japan).chd" sha1="af4bdb28c92f8c42c72c74c9831e6ac15c717900" />
   </machine>
   <machine name="Dance Dance Revolution Club Kit - Dance Dance Revolution 2nd Mix-you (Japan)">
+    <category>Add-Ons</category>
     <description>Dance Dance Revolution Club Kit - Dance Dance Revolution 2nd Mix-you (Japan)</description>
     <disk name="Dance Dance Revolution Club Kit - Dance Dance Revolution 2nd Mix-you (Japan).chd" sha1="3d5dc41b59a9b97d8ba56986e1182960826b986e" />
   </machine>
   <machine name="Dance Dance Revolution Solo - Bass Mix (Japan)">
+    <category>Games</category>
     <description>Dance Dance Revolution Solo - Bass Mix (Japan)</description>
     <disk name="Dance Dance Revolution Solo - Bass Mix (Japan).chd" sha1="d6f73ab01b8b05d99f59fd53807daf5718dab9e5" />
   </machine>
   <machine name="Dancing Stage featuring True Kiss Destination (Japan)">
+    <category>Games</category>
     <description>Dancing Stage featuring True Kiss Destination (Japan)</description>
     <disk name="Dancing Stage featuring True Kiss Destination (Japan).chd" sha1="64a2e70742318b2f2564e52d1663b944495a40bb" />
   </machine>
   <machine name="Dark Horse Legend (Japan)">
+    <category>Games</category>
     <description>Dark Horse Legend (Japan)</description>
     <disk name="Dark Horse Legend (Japan).chd" sha1="610200169e3075191b40c2f83244ccb8fa1a2150" />
   </machine>
   <machine name="DrumMania (Japan)">
+    <category>Games</category>
     <description>DrumMania (Japan)</description>
     <disk name="DrumMania (Japan).chd" sha1="acac20db599a34ac9ba0004112f26734e7581b57" />
   </machine>
   <machine name="DrumMania 10th Mix (Japan) (Application Disc)">
+    <category>Games</category>
     <description>DrumMania 10th Mix (Japan) (Application Disc)</description>
     <disk name="DrumMania 10th Mix (Japan) (Application Disc).chd" sha1="06e96be3126d1e21c45580a220e887c30f9eaf6f" />
   </machine>
   <machine name="DrumMania 10th Mix (Japan) (e-Amusement Disc)">
+    <category>Games</category>
     <description>DrumMania 10th Mix (Japan) (e-Amusement Disc)</description>
     <disk name="DrumMania 10th Mix (Japan) (e-Amusement Disc).chd" sha1="0226a6da5d0423375ccb6dc50c5802c53c469036" />
   </machine>
   <machine name="DrumMania 10th Mix (Japan) (MultiSession Disc)">
+    <category>Add-Ons</category>
     <description>DrumMania 10th Mix (Japan) (MultiSession Disc)</description>
     <disk name="DrumMania 10th Mix (Japan) (MultiSession Disc).chd" sha1="315997e0ab56331820276337eb128912cd50299d" />
   </machine>
   <machine name="DrumMania 2nd Mix (Japan)">
+    <category>Games</category>
     <description>DrumMania 2nd Mix (Japan)</description>
     <disk name="DrumMania 2nd Mix (Japan).chd" sha1="0fb970140c724e908f506718c104c65ed3bf58ee" />
   </machine>
   <machine name="DrumMania 6th Mix (Japan)">
+    <category>Games</category>
     <description>DrumMania 6th Mix (Japan)</description>
     <disk name="DrumMania 6th Mix (Japan).chd" sha1="ceda09d749f6999cb2e90c5953d133639ace6e5d" />
   </machine>
   <machine name="DrumMania 6th Mix (Japan) (MultiSession)">
+    <category>Add-Ons</category>
     <description>DrumMania 6th Mix (Japan) (MultiSession)</description>
     <disk name="DrumMania 6th Mix (Japan) (MultiSession).chd" sha1="24f39c5dd6826fc5d4f6d0ed7b5eef8eef161c49" />
   </machine>
   <machine name="DrumMania 8th Mix (Japan)">
+    <category>Games</category>
     <description>DrumMania 8th Mix (Japan)</description>
     <disk name="DrumMania 8th Mix (Japan).chd" sha1="92c1e6cc66af8419965d337d04b8ecb5169a8a26" />
   </machine>
   <machine name="DrumMania 8th Mix (Japan) (MultiSession)">
+    <category>Add-Ons</category>
     <description>DrumMania 8th Mix (Japan) (MultiSession)</description>
     <disk name="DrumMania 8th Mix (Japan) (MultiSession).chd" sha1="c1ba4628fb6aa17a0ebd2ca680b847beea20d0da" />
   </machine>
   <machine name="DrumMania 9th Mix (Japan) (e-Amusement Disc)">
+    <category>Games</category>
     <description>DrumMania 9th Mix (Japan) (e-Amusement Disc)</description>
     <disk name="DrumMania 9th Mix (Japan) (e-Amusement Disc).chd" sha1="dc4ca77411e22319f2271e181785efe20c4ca73d" />
   </machine>
   <machine name="DrumMania 9th Mix (Japan) (Game Disc)">
+    <category>Games</category>
     <description>DrumMania 9th Mix (Japan) (Game Disc)</description>
     <disk name="DrumMania 9th Mix (Japan) (Game Disc).chd" sha1="ceb3e3407ff4f1fb3f6ef8c6b3dae0158e31669c" />
   </machine>
   <machine name="DrumMania 9th Mix (Japan) (MultiSession Disc)">
+    <category>Games</category>
     <description>DrumMania 9th Mix (Japan) (MultiSession Disc)</description>
     <disk name="DrumMania 9th Mix (Japan) (MultiSession Disc).chd" sha1="68324d474d89a9ddf5cadc9ab4a8d615b3739879" />
   </machine>
   <machine name="DrumMania 9th Mix (Japan) (Update Disc)">
+    <category>Add-Ons</category>
     <description>DrumMania 9th Mix (Japan) (Update Disc)</description>
     <disk name="DrumMania 9th Mix (Japan) (Update Disc).chd" sha1="eefe662025f17ff6f2c8127c259205480801c376" />
   </machine>
   <machine name="Fisherman's Bait - A Bass Challenge (USA) (UAA)">
+    <category>Games</category>
     <description>Fisherman's Bait - A Bass Challenge (USA) (UAA)</description>
     <disk name="Fisherman's Bait - A Bass Challenge (USA) (UAA).chd" sha1="cabeaf638cd99504bb28ded6641f2336a491e58f" />
   </machine>
   <machine name="Fisherman's Bait - A Bass Challenge (USA) (UAB)">
+    <category>Games</category>
     <description>Fisherman's Bait - A Bass Challenge (USA) (UAB)</description>
     <disk name="Fisherman's Bait - A Bass Challenge (USA) (UAB).chd" sha1="7b9d7d305cf195b809f829a41d4d28c4fcebe573" />
   </machine>
   <machine name="Fisherman's Bait - Marlin Challenge (World)">
+    <category>Games</category>
     <description>Fisherman's Bait - Marlin Challenge (World)</description>
     <disk name="Fisherman's Bait - Marlin Challenge (World).chd" sha1="4b29546819df3797f4ff6d4ffbdd3ccdc2c0d33e" />
   </machine>
   <machine name="GuitarFreaks (World)">
+    <category>Games</category>
     <description>GuitarFreaks (World)</description>
     <disk name="GuitarFreaks (World).chd" sha1="35f28737a9e539b2cd92153b2f1e8ad8c76c04a0" />
   </machine>
   <machine name="GuitarFreaks 10th Mix (Japan) (e-Amusement Disc)">
+    <category>Games</category>
     <description>GuitarFreaks 10th Mix (Japan) (e-Amusement Disc)</description>
     <disk name="GuitarFreaks 10th Mix (Japan) (e-Amusement Disc).chd" sha1="cd18ad06d30ed0584ec9afb2f9537934a6f24356" />
   </machine>
   <machine name="GuitarFreaks 2nd Mix (Japan)">
+    <category>Games</category>
     <description>GuitarFreaks 2nd Mix (Japan)</description>
     <disk name="GuitarFreaks 2nd Mix (Japan).chd" sha1="df8b5a48f603c6bf43a33f48f39a11214d648399" />
   </machine>
   <machine name="GuitarFreaks 3rd Mix (Japan)">
+    <category>Games</category>
     <description>GuitarFreaks 3rd Mix (Japan)</description>
     <disk name="GuitarFreaks 3rd Mix (Japan).chd" sha1="ee6a3dc35eefdd6d630d7408636985ffebca360e" />
   </machine>
   <machine name="GuitarFreaks 4th Mix (Japan)">
+    <category>Games</category>
     <description>GuitarFreaks 4th Mix (Japan)</description>
     <disk name="GuitarFreaks 4th Mix (Japan).chd" sha1="d1dacb588b6a8f5710689cf570711f21ce393d2c" />
   </machine>
   <machine name="GuitarFreaks 5th Mix (Japan)">
+    <category>Games</category>
     <description>GuitarFreaks 5th Mix (Japan)</description>
     <disk name="GuitarFreaks 5th Mix (Japan).chd" sha1="a93879de2bbd119d65a09b07f49987c9535571eb" />
   </machine>
   <machine name="GuitarFreaks 8th Mix - Power-Up Ver. (Japan)">
+    <category>Games</category>
     <description>GuitarFreaks 8th Mix - Power-Up Ver. (Japan)</description>
     <disk name="GuitarFreaks 8th Mix - Power-Up Ver. (Japan).chd" sha1="ab83b2d54adad0f713670d1446c34ec9588067e1" />
   </machine>
   <machine name="GuitarFreaks 9th Mix (Japan)">
+    <category>Games</category>
     <description>GuitarFreaks 9th Mix (Japan)</description>
     <disk name="GuitarFreaks 9th Mix (Japan).chd" sha1="30b942965c1d16c1ae7ffad803fe0459bc2c8daf" />
   </machine>
   <machine name="GuitarFreaks Link Kit 1 (Japan) (Memory Card Taiou)">
+    <category>Add-Ons</category>
     <description>GuitarFreaks Link Kit 1 (Japan) (Memory Card Taiou)</description>
     <disk name="GuitarFreaks Link Kit 1 (Japan) (Memory Card Taiou).chd" sha1="2ecf585ecc1d106dd4f14b916293bf900860fe99" />
   </machine>
   <machine name="GX700 Series CD-ROM Drive Updater (World)">
+    <category>Applications</category>
     <description>GX700 Series CD-ROM Drive Updater (World)</description>
     <disk name="GX700 Series CD-ROM Drive Updater (World).chd" sha1="1f41636cbd0dfeef895e6919761e46a497b399a5" />
   </machine>
   <machine name="GX700 Series CD-ROM Drive Updater 2.0 (World)">
+    <category>Applications</category>
     <description>GX700 Series CD-ROM Drive Updater 2.0 (World)</description>
     <disk name="GX700 Series CD-ROM Drive Updater 2.0 (World).chd" sha1="0131db667b67b664c267d0b3231bce53788448e1" />
   </machine>
   <machine name="Hyper Bishi Bashi Champ (World)">
+    <category>Games</category>
     <description>Hyper Bishi Bashi Champ (World)</description>
     <disk name="Hyper Bishi Bashi Champ (World).chd" sha1="8657d5d4246eddd5b9214ad63c9bf59ee88bee6a" />
   </machine>
   <machine name="Jikkyou Powerful Pro Yakyuu EX (Japan)">
+    <category>Games</category>
     <description>Jikkyou Powerful Pro Yakyuu EX (Japan)</description>
     <disk name="Jikkyou Powerful Pro Yakyuu EX (Japan).chd" sha1="13e693849d3e12f71a080679f7ae5a10a52e0930" />
   </machine>
   <machine name="Jikkyou Powerful Pro Yakyuu EX '98 (Japan)">
+    <category>Games</category>
     <description>Jikkyou Powerful Pro Yakyuu EX '98 (Japan)</description>
     <disk name="Jikkyou Powerful Pro Yakyuu EX '98 (Japan).chd" sha1="418cf05fcc827ab7af14757c6371947754549966" />
   </machine>
   <machine name="Mambo a Go Go (Japan)">
+    <category>Games</category>
     <description>Mambo a Go Go (Japan)</description>
     <disk name="Mambo a Go Go (Japan).chd" sha1="727d784037e88d6a06c20fdfb5e5548ebebf5cfa" />
   </machine>
   <machine name="Punch Mania - Hokuto no Ken 2 - Gekitou Shura no Kuni-hen (Japan)">
+    <category>Games</category>
     <description>Punch Mania - Hokuto no Ken 2 - Gekitou Shura no Kuni-hen (Japan)</description>
     <disk name="Punch Mania - Hokuto no Ken 2 - Gekitou Shura no Kuni-hen (Japan).chd" sha1="72702f1f9048dd4a429c20a174b320db18a0011f" />
   </machine>
   <machine name="Salaryman Champ - Tatakau Salaryman (Japan)">
+    <category>Games</category>
     <description>Salaryman Champ - Tatakau Salaryman (Japan)</description>
     <disk name="Salaryman Champ - Tatakau Salaryman (Japan).chd" sha1="1b4cc4b92629d9b6b7d9169ddeef67fbce668d7a" />
   </machine>
   <machine name="Session Power Up Kit for DrumMania 2nd Mix &amp; PercussionFreaks 2nd Mix (Japan, Asia)">
+    <category>Add-Ons</category>
     <description>Session Power Up Kit for DrumMania 2nd Mix &amp; PercussionFreaks 2nd Mix (Japan, Asia)</description>
     <disk name="Session Power Up Kit for DrumMania 2nd Mix &amp; PercussionFreaks 2nd Mix (Japan, Asia).chd" sha1="bb6fd31da60c45d6641751ae47e13d711688b804" />
   </machine>

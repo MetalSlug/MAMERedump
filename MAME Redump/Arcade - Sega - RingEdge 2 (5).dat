@@ -5,27 +5,32 @@
     <name>Arcade - Sega - RingEdge 2</name>
     <description>MAME Redump - Arcade - Sega - RingEdge 2 - Discs (7) (2020-01-21 02-01-20)</description>
     <version>0.262</version>
-    <date>2024-02-07</date>
+    <date>2024-02-21</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
   </header>
   <machine name="ALL.Net P-ras Multi Version 2 (Japan)">
+    <category>Applications</category>
     <description>ALL.Net P-ras Multi Version 2 (Japan)</description>
     <disk name="ALL.Net P-ras Multi Version 2 (Japan).chd" sha1="3ac3403c033ab8732ea9c906d84ca0afa20f3236" />
   </machine>
   <machine name="ALL.Net P-ras Multi Version 2 (Japan) (Rev A)">
+    <category>Applications</category>
     <description>ALL.Net P-ras Multi Version 2 (Japan) (Rev A)</description>
     <disk name="ALL.Net P-ras Multi Version 2 (Japan) (Rev A).chd" sha1="e6758f71ae705f7c3b67a875a3e733008a97a3e7" />
   </machine>
   <machine name="GeeSen Love. (Japan)">
+    <category>Games</category>
     <description>GeeSen Love. (Japan)</description>
     <disk name="GeeSen Love. (Japan).chd" sha1="faeebaf270da773eaebff1fe7ad3e286abe98625" />
   </machine>
   <machine name="Guilty Gear XX Accent Core Plus R (Japan)">
+    <category>Games</category>
     <description>Guilty Gear XX Accent Core Plus R (Japan)</description>
     <disk name="Guilty Gear XX Accent Core Plus R (Japan).chd" sha1="4e55c97a46403211e11b2a07c3d35146d7e369fd" />
   </machine>
   <machine name="Under Night In-Birth (Japan)">
+    <category>Games</category>
     <description>Under Night In-Birth (Japan)</description>
     <disk name="Under Night In-Birth (Japan).chd" sha1="f605e9732ae1302e4797e3f461488e3adcc29cc8" />
   </machine>

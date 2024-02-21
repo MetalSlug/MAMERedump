@@ -19,12 +19,12 @@ MAME Redump
 MAME Redump / Missing 
 - Missing Redump Games
 
-# Additional Folders in this repository
+# Additional Metadata
 
 MAME Software List CHDs (merged)
 - All MAME SW CHDs with additional track and checksum information
 
-MAME Software List CHDs (merged) / Additional Redump CHDs
+Additional Redump CHDs
 - Redump CHDs which are not included in MAME SW CHDs
 
 # RomVault Settings
