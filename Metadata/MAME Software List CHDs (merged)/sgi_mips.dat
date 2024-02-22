@@ -89,7 +89,7 @@
 		<description>chalice_1_6_1\chalice_1_6_1</description>
 		<rom name="chalice_1_6_1 (Track 01).bin" size="205860864" crc="dc0e8ba0" md5="9e22c3244e2e7fc08c38ad30b917f51e" sha1="ed71103e2f213c5f0e6bfbb79ed44c1ada5480e5"/>
 	</game>
-	<game name="chalice_2_0\chalice_2_0" sha1="cf203ec086ede49ecd7b21fe6f95bad09d61307e" size="43750950" crc="9f25b746" fullsha1="188b9180acdc7714b45b8ea1d62c914b407788ef" dataSha1="9f6ec1a974676fd6ae7d917208a654f485d6059b">
+	<game name="chalice_2_0\chalice_2_0" sha1="cf203ec086ede49ecd7b21fe6f95bad09d61307e" size="43750950" crc="9f25b746" fullsha1="188b9180acdc7714b45b8ea1d62c914b407788ef" dataSha1="9f6ec1a974676fd6ae7d917208a654f485d6059b" status="baddump">
 		<category>Games</category>
 		<description>chalice_2_0\chalice_2_0</description>
 		<rom name="chalice_2_0 (Track 01).bin" size="47468544" crc="640f72b9" md5="d3096ed77f14e4421fd34f160386e6c8" sha1="98031e1572a2cee5f58559e6d3a7b6fd751eaae3"/>
@@ -364,7 +364,7 @@
 		<description>framemaker_5_0\frame_products</description>
 		<rom name="frame_products (Track 01).bin" size="400060416" crc="6e7634c0" md5="91ff89e5a74bb41abb5eb93c7fd9a39b" sha1="3e5d2823d821bd227f024e6e78281ee245a37a67"/>
 	</game>
-	<game name="framemaker_5_5_6\framemaker_5_5_6" sha1="ac3304610af522a61d1fa5005a5e5af030faeef2" size="352003071" crc="8fa71fd2" fullsha1="19c77eeec5858303113dfc69512fed5fa56602c9" dataSha1="3d3139794e1163f8f9a3db09ad1e4691aa434b07">
+	<game name="framemaker_5_5_6\framemaker_5_5_6" sha1="ac3304610af522a61d1fa5005a5e5af030faeef2" size="352003071" crc="8fa71fd2" fullsha1="19c77eeec5858303113dfc69512fed5fa56602c9" dataSha1="3d3139794e1163f8f9a3db09ad1e4691aa434b07" status="baddump">
 		<category>Games</category>
 		<description>framemaker_5_5_6\framemaker_5_5_6</description>
 		<rom name="framemaker_5_5_6 (Track 01).bin" size="435611648" crc="e0ae147f" md5="791d3fe3ee0626d9d9aa6f7d13d05da7" sha1="c80bd583e8bbe5b744a3aa6a1ce6d4524e58b981"/>
@@ -604,7 +604,7 @@
 		<description>indizone_1\indizone_1</description>
 		<rom name="indizone_1 (Track 01).bin" size="217484736" crc="b5a2ce43" md5="d816002dd62ec2e8f3c3de93be67ee16" sha1="d59c1a3fa65fe7e9e78cae911834630346a7adaa"/>
 	</game>
-	<game name="indizone_1_1\indizone_1_1" sha1="99d5c5785f3fedcb02dd3fdf9e91c41f8ce39d6b" size="151179711" crc="e8d27c84" fullsha1="a534bba52ce0eff4be54e8a7d2603dc1295763b4" dataSha1="5ef0091e524dfbe3846ea6eb60508a6b98e312ab">
+	<game name="indizone_1_1\indizone_1_1" sha1="99d5c5785f3fedcb02dd3fdf9e91c41f8ce39d6b" size="151179711" crc="e8d27c84" fullsha1="a534bba52ce0eff4be54e8a7d2603dc1295763b4" dataSha1="5ef0091e524dfbe3846ea6eb60508a6b98e312ab" status="baddump">
 		<category>Games</category>
 		<description>indizone_1_1\indizone_1_1</description>
 		<rom name="indizone_1_1 (Track 01).bin" size="159739904" crc="db092ee5" md5="05d1cbf4e4f0027208bb8d644f2b6071" sha1="a5ba9099fe7af85684eab4525102922129a99397"/>
@@ -1359,22 +1359,22 @@
 		<description>irix_6_5_24\irix_6_5_24_doc</description>
 		<rom name="irix_6_5_24_doc (Track 01).bin" size="344287232" crc="1a305839" md5="56cca64a20b96e48cabe41825cf74b46" sha1="5b54fcd0164c5d6a89cba540082bc06abb9fb47e"/>
 	</game>
-	<game name="irix_6_5_24\irix_6_5_24_freeware1" sha1="1e8666732fea9b2e3067a1f0143beae5cebf080f" size="576408030" crc="ebe351c8" fullsha1="925a8c51edc0528eeafca502b911ff475b68e26d" dataSha1="e25a79e85ef318ce09defa05656c04506dbe5495">
+	<game name="irix_6_5_24\irix_6_5_24_freeware1" sha1="1e8666732fea9b2e3067a1f0143beae5cebf080f" size="576408030" crc="ebe351c8" fullsha1="925a8c51edc0528eeafca502b911ff475b68e26d" dataSha1="e25a79e85ef318ce09defa05656c04506dbe5495" status="baddump">
 		<category>Games</category>
 		<description>irix_6_5_24\irix_6_5_24_freeware1</description>
 		<rom name="irix_6_5_24_freeware1 (Track 01).bin" size="600844288" crc="d970242c" md5="a9ca8dd04715d2efe103c703aebab37b" sha1="56bc27e8116d31caa974f9d5f2a044ca5808c2bc"/>
 	</game>
-	<game name="irix_6_5_24\irix_6_5_24_freeware2" sha1="997a3043c3ca802559ececfd697535283d0683f8" size="606618482" crc="f6bb18cb" fullsha1="dc5127d393420610652089e39f73dad6c0975ed2" dataSha1="05cb0b5ca9bad7fb3fbb14b5b97c1d8b83807afe">
+	<game name="irix_6_5_24\irix_6_5_24_freeware2" sha1="997a3043c3ca802559ececfd697535283d0683f8" size="606618482" crc="f6bb18cb" fullsha1="dc5127d393420610652089e39f73dad6c0975ed2" dataSha1="05cb0b5ca9bad7fb3fbb14b5b97c1d8b83807afe" status="baddump">
 		<category>Games</category>
 		<description>irix_6_5_24\irix_6_5_24_freeware2</description>
 		<rom name="irix_6_5_24_freeware2 (Track 01).bin" size="647438336" crc="a41cc7bb" md5="93e7407c105a4cbfc4cf6d9b8247a5ec" sha1="f249be6ef3b54b9a657381686b7fd88882e929ce"/>
 	</game>
-	<game name="irix_6_5_24\irix_6_5_24_freeware3" sha1="93994e51ffde2f38296a359677d19c78c46c8416" size="604079245" crc="432ed916" fullsha1="2569be5c28025aa57a376b6006f85a2252da2b9c" dataSha1="5208466efbf6e8075f05991ef3eb7f4ea8f00812">
+	<game name="irix_6_5_24\irix_6_5_24_freeware3" sha1="93994e51ffde2f38296a359677d19c78c46c8416" size="604079245" crc="432ed916" fullsha1="2569be5c28025aa57a376b6006f85a2252da2b9c" dataSha1="5208466efbf6e8075f05991ef3eb7f4ea8f00812" status="baddump">
 		<category>Games</category>
 		<description>irix_6_5_24\irix_6_5_24_freeware3</description>
 		<rom name="irix_6_5_24_freeware3 (Track 01).bin" size="632352768" crc="51448901" md5="e6d74165f1a2cc521190098be5105a3e" sha1="78db0890c542d597e2e5447ffcef9fd0a41d610c"/>
 	</game>
-	<game name="irix_6_5_24\irix_6_5_24_freeware4" sha1="47b5dc4c01ea9ee024e3424b26cdaf496400b890" size="562858929" crc="d03dcbee" fullsha1="aea02e21f69e2b0aca2c3491040f1ff8b9192097" dataSha1="5df69da7b358b7a48e60c0ebc74a5d10f8dd4acc">
+	<game name="irix_6_5_24\irix_6_5_24_freeware4" sha1="47b5dc4c01ea9ee024e3424b26cdaf496400b890" size="562858929" crc="d03dcbee" fullsha1="aea02e21f69e2b0aca2c3491040f1ff8b9192097" dataSha1="5df69da7b358b7a48e60c0ebc74a5d10f8dd4acc" status="baddump">
 		<category>Games</category>
 		<description>irix_6_5_24\irix_6_5_24_freeware4</description>
 		<rom name="irix_6_5_24_freeware4 (Track 01).bin" size="592111616" crc="3140083d" md5="3afd77bfe1ea57f79b9e51f04d88f33c" sha1="52660e172986e5d34c4db945f31f473cb0c764db"/>
@@ -2449,7 +2449,7 @@
 		<description>rayz_2_2\rayz_2_2</description>
 		<rom name="rayz_2_2 (Track 01).bin" size="537786368" crc="bb007ea9" md5="ddd05a141e16f263aea31cc67ee41f8d" sha1="7c43c1e67abb8059a858fe2ffff5d23caf34d886"/>
 	</game>
-	<game name="rayz_2_2_12\rayz_2_2_12" sha1="94414d686f72fe57c39a59a1f2b136497bc0da63" size="33660731" crc="43108057" fullsha1="0c33586e0b0fa86742d8a47b1292fddcc17c22e9" dataSha1="8b269713e66a80991d91fd7b74d5704de4d76621">
+	<game name="rayz_2_2_12\rayz_2_2_12" sha1="94414d686f72fe57c39a59a1f2b136497bc0da63" size="33660731" crc="43108057" fullsha1="0c33586e0b0fa86742d8a47b1292fddcc17c22e9" dataSha1="8b269713e66a80991d91fd7b74d5704de4d76621" status="baddump">
 		<category>Games</category>
 		<description>rayz_2_2_12\rayz_2_2_12</description>
 		<rom name="rayz_2_2_12 (Track 01).bin" size="36272128" crc="956ccacf" md5="839fd7dd571d70ff0890d4ce20cd15b6" sha1="6db14e364c871fb56810ee4bcaa10abe65e85f63"/>
@@ -2619,7 +2619,7 @@
 		<description>sybyl_7_2\sybyl_7_2_cd3</description>
 		<rom name="sybyl_7_2_cd3 (Track 01).bin" size="341798912" crc="49662dc9" md5="aa6d16b33a7c1b639f5900e38ac86e38" sha1="8ae5c12dbc8cedd9e1bd80987f0834e7827a1d25"/>
 	</game>
-	<game name="sybyl_7_2\sybyl_7_2_cd4_pr" sha1="6f0a1e154ed4b59d8d0d0022c4b2da5d6929361a" size="478787634" crc="a457c1e0" fullsha1="e158700f39cd7f61ddb15fa8f8d9ac6983a418a1" dataSha1="68e3c22191905532b5d622f043464cb28925e6ee">
+	<game name="sybyl_7_2\sybyl_7_2_cd4_pr" sha1="6f0a1e154ed4b59d8d0d0022c4b2da5d6929361a" size="478787634" crc="a457c1e0" fullsha1="e158700f39cd7f61ddb15fa8f8d9ac6983a418a1" dataSha1="68e3c22191905532b5d622f043464cb28925e6ee" status="baddump">
 		<category>Games</category>
 		<description>sybyl_7_2\sybyl_7_2_cd4_pr</description>
 		<rom name="sybyl_7_2_cd4_pr (Track 01).bin" size="478146560" crc="3e68945c" md5="62564960f8cc2834d98373a410cd2e99" sha1="a0af0a8ede90ea2a8c82649937166c413d533116"/>

@@ -4225,7 +4225,7 @@
 		<rom name="fighting street (cd)(usa) (Track 25).bin" size="707952" crc="02c5804d" md5="bb63315b416ea7316eb5b1aec3556d78" sha1="371220625b3c3325beb2929f858c833197d71c4b"/>
 		<rom name="fighting street (cd)(usa) (Track 26).bin" size="17842272" crc="59d302ed" md5="b50adffb9b1f8da9db59e664d22cc35c" sha1="d82e21fb1f03734464c9fe7ae2752103ad0d1bbc"/>
 	</game>
-	<game name="fzone2\final zone ii (cd)(jpn)" sha1="ad4750691d64ae319d3744f07c2216d3f3e9e1aa" size="250344355" crc="7c42590e" fullsha1="7721a3c2347f847bf53a61b07bb5b0aa3d039ab0" dataSha1="734983a3ca9cfd5ea895e20643cc5416435430a2">
+	<game name="fzone2\final zone ii (cd)(jpn)" sha1="ad4750691d64ae319d3744f07c2216d3f3e9e1aa" size="250344355" crc="7c42590e" fullsha1="7721a3c2347f847bf53a61b07bb5b0aa3d039ab0" dataSha1="734983a3ca9cfd5ea895e20643cc5416435430a2" status="baddump">
 		<category>Games</category>
 		<description>fzone2\final zone ii (cd)(jpn)</description>
 		<rom name="final zone ii (cd)(jpn) (Track 01).bin" size="7914480" crc="e54d9353" md5="bf59b298e201324161ce0a83800cc2c2" sha1="d1018ba766681376864a047490f43f183b1fb5c4"/>
@@ -4284,7 +4284,7 @@
 		<rom name="final zone ii (cd)(jpn) (Track 54).bin" size="20662320" crc="0e97e9a2" md5="a63ee3968ab48a2f22e7c13d7eccb96a" sha1="56f7cd17f9c3eec41fe5477fb4628377bfb0ab3c"/>
 		<rom name="final zone ii (cd)(jpn) (Track 55).bin" size="36394848" crc="4f3dc997" md5="eba62f04c2fb9e70b7f72cc5b426f5df" sha1="aee0e998556ffe4a8c1c30fd66b6da8828ec9e11"/>
 	</game>
-	<game name="fzone2\final zone ii (cd)(usa)" sha1="bc32a4732f092b48b4431c53b6ce9d9d57dc7401" size="248946871" crc="fe52797c" fullsha1="a8846a72f5eb819c6e9b6947eaa21597446f2e85" dataSha1="854295c53b6fb5d30ead7cc8fa8e0ec5d59d4302">
+	<game name="fzone2\final zone ii (cd)(usa)" sha1="bc32a4732f092b48b4431c53b6ce9d9d57dc7401" size="248946871" crc="fe52797c" fullsha1="a8846a72f5eb819c6e9b6947eaa21597446f2e85" dataSha1="854295c53b6fb5d30ead7cc8fa8e0ec5d59d4302" status="baddump">
 		<category>Games</category>
 		<description>fzone2\final zone ii (cd)(usa)</description>
 		<rom name="final zone ii (cd)(usa) (Track 01).bin" size="7914480" crc="be14ebb5" md5="e9d8dbb9a3a5c234ee781ada10be7c08" sha1="55ed7afaa02a328aea6d46ca562fe4f944536e24"/>
@@ -5036,9 +5036,9 @@
 		<rom name="FX Unit Yuki - The Henshin Engine (USA) (Unl) (Rerelease) (Track 23).bin" size="21257376" crc="3535cb2a" md5="2a8f165802e833351990285504eb4898" sha1="799acd9b8bbf93013515c8c5f270f587f57cc81c"/>
 		<rom name="FX Unit Yuki - The Henshin Engine (USA) (Unl) (Rerelease) (Track 24).bin" size="19933200" crc="dffd3814" md5="a67fe3a419cf62259157a8dd156eec8a" sha1="7f55c15533823da2f5144ae2686c29652952823d"/>
 	</game>
-	<game name="henshin_d\Henshin Engine (USA) (Demo) (Unl)" sha1="1d509dea3c14ea05c94bb67b03a270ebf815184c" size="43204128" crc="fd0ea435" fullsha1="91399fe89ed5ec2da6c0410ee97d2809741276d1" dataSha1="5b3732dd7520453fadbc8fff350535661b7b61a7">
+	<game name="henshin\Henshin Engine (USA) (Demo) (Unl)" sha1="1d509dea3c14ea05c94bb67b03a270ebf815184c" size="43204128" crc="fd0ea435" fullsha1="91399fe89ed5ec2da6c0410ee97d2809741276d1" dataSha1="5b3732dd7520453fadbc8fff350535661b7b61a7">
 		<category>Games</category>
-		<description>henshin_d\Henshin Engine (USA) (Demo) (Unl)</description>
+		<description>henshin\Henshin Engine (USA) (Demo) (Unl)</description>
 		<rom name="Henshin Engine (USA) (Demo) (Unl) (Track 01).bin" size="13333488" crc="fc8234b8" md5="ef269e7ad67bb96f6273bf7193628ebf" sha1="a11aa17a89f7e59f9b29e3d32fc93b479049e59f"/>
 		<rom name="Henshin Engine (USA) (Demo) (Unl) (Track 02).bin" size="1587600" crc="38ca9be9" md5="42b09c7253f4be58d749811a0b656d19" sha1="765be764eed10a9d89e06c56d3d64ee83a87fedc"/>
 		<rom name="Henshin Engine (USA) (Demo) (Unl) (Track 03).bin" size="12804288" crc="b7edc65a" md5="2f2146309596432d0aecc72b0e787728" sha1="0da6b12b29590bba5a1ae3814e288f70828c11a9"/>
@@ -5076,23 +5076,6 @@
 		<rom name="Hi-Leg Fantasy (Japan) (Unl) (Track 11).bin" size="2688336" crc="0b786578" md5="1045481fbf6af47dea2d05a6ad00edd4" sha1="88c15fb75ff0906c673e6a92711cf7c475b009ed"/>
 		<rom name="Hi-Leg Fantasy (Japan) (Unl) (Track 12).bin" size="2587200" crc="e7f729bf" md5="6a0406bca195c587a05889ccc00a8108" sha1="293d94db439ea1363a47ba945c53add9b7befcad"/>
 		<rom name="Hi-Leg Fantasy (Japan) (Unl) (Track 13).bin" size="2086224" crc="a7cd0f1c" md5="ca181b6c51be1974d22f960e119c1a20" sha1="de9322ad608b7d4da5205e0f56bcb3237b308fbf"/>
-	</game>
-	<game name="hilegfan\hi-leg fantasy (gecd)(jpn)" sha1="10563496162da5022b28f593578434a59f7a772c" size="264765682" crc="e0deb012" fullsha1="a3740084259f3bad73669ed663f57bbf5a608951" dataSha1="e20f4d12777d47a4e8a103e9ce87b8d37611dc1a">
-		<category>Games</category>
-		<description>hilegfan\hi-leg fantasy (gecd)(jpn)</description>
-		<rom name="hi-leg fantasy (gecd)(jpn) (Track 01).bin" size="8427520" crc="b2a9cdb2" md5="7189b83c7d28ae88c8ae8908176f3727" sha1="aaa486881b5cb4c5ce627a7b1745d9f7dfb20547"/>
-		<rom name="hi-leg fantasy (gecd)(jpn) (Track 02).bin" size="20961024" crc="628fbb7d" md5="5cd9edd32ad2428f892342c9a7d820a0" sha1="94a69f0db5318a6318a56be6b76a576c9c8095ed"/>
-		<rom name="hi-leg fantasy (gecd)(jpn) (Track 03).bin" size="56683200" crc="792fb9bb" md5="aacce169b98134a95299485a04a4cfaf" sha1="972ff3bfdf8f6c0ee581051bfa8a910d9872d05b"/>
-		<rom name="hi-leg fantasy (gecd)(jpn) (Track 04).bin" size="52743600" crc="387bf7e2" md5="8159772ad12efef22497985f933e541e" sha1="f009c57d10ca133132d4f236eedc56569b41c7d4"/>
-		<rom name="hi-leg fantasy (gecd)(jpn) (Track 05).bin" size="56389200" crc="143452af" md5="abffd62a184fa846af2b4c0550334030" sha1="30824e3f7f73134f7047b6f4d03f97b108962b67"/>
-		<rom name="hi-leg fantasy (gecd)(jpn) (Track 06).bin" size="58124976" crc="cf579f34" md5="431a3e9365a3d3d482b10f8971969a96" sha1="e9e4e3c9935f947d823d6f6a8b9a3868298849f8"/>
-		<rom name="hi-leg fantasy (gecd)(jpn) (Track 07).bin" size="55154400" crc="25c560dd" md5="fd312044fadfb23a05dc95630bdac91d" sha1="1e6b544f8c46eda0c6190ae4e7406cc3cfa94721"/>
-		<rom name="hi-leg fantasy (gecd)(jpn) (Track 08).bin" size="22725024" crc="477527ec" md5="c8c836e3d8c720e89020f17e10310122" sha1="8624ff24d41ead557c263ec2498fea88edcd6485"/>
-		<rom name="hi-leg fantasy (gecd)(jpn) (Track 09).bin" size="57141840" crc="31d04e2e" md5="7af480a6cbf86daab44f216f8cd5b315" sha1="729befa4829ced131f2ba34e403fcff648173c74"/>
-		<rom name="hi-leg fantasy (gecd)(jpn) (Track 10).bin" size="2159136" crc="32bfb12c" md5="cc2a5892f14a122c6a8640fe6dae76f7" sha1="dc98495ec3f38c6084c20f58c1a5b86e0bc2cdf9"/>
-		<rom name="hi-leg fantasy (gecd)(jpn) (Track 11).bin" size="2763600" crc="5f211591" md5="6f24c36eb15310353642a4dec62d98a4" sha1="e0cf5469d8b83bbd6b2b2c6c423bcec0fd4b6cea"/>
-		<rom name="hi-leg fantasy (gecd)(jpn) (Track 12).bin" size="2497824" crc="9962430e" md5="e884e85e7d0fe95ad2b218caf33a8fd4" sha1="1e5e89e741901d6259394c557d1284cbdec46bbd"/>
-		<rom name="hi-leg fantasy (gecd)(jpn) (Track 13).bin" size="2058000" crc="4c84ebca" md5="f32ec84a553f2ef97ebe51e796df809d" sha1="e36a6626f2f63362a18f104a2ea70b2d2caab300"/>
 	</game>
 	<game name="himitsu\himitsu no hanazono (scd)(jpn)" sha1="3dce142f50b6aefba49fc3941ea19ae6f43fd2b0" size="47891522" crc="5e7cab06" fullsha1="7b3d813b62239346dd35182c88136962c45f02a2" dataSha1="aa287f0832a8870be8d14518204fbcc5f3bc1a4f">
 		<category>Games</category>
@@ -5878,20 +5861,6 @@
 		<rom name="Implode (USA) (Unl) (Track 09).bin" size="35632800" crc="6a684b2b" md5="11f5a05ecc9f62bbc7d973a0db1034c0" sha1="4e04a1bfb6ee58762d5fb60f5cddb462c09bc4ac"/>
 		<rom name="Implode (USA) (Unl) (Track 10).bin" size="33633600" crc="96e0c495" md5="37862752dd9057b92d0aaf8f2fa0bef3" sha1="147577dc0d20624b55e580217062f3d6a9dae6ad"/>
 	</game>
-	<game name="implode\implode (scd)(usa)[bad toc]" sha1="fec64169aa9b3e78ea1e2368dbeb735f8df858d8" size="134200710" crc="7b8ee521" fullsha1="e408fad0a69bb6c7329e218ef6bb26165de616b6" dataSha1="9d30fbf5878b67486fde4cf89c6065a6912dcf32">
-		<category>Games</category>
-		<description>implode\implode (scd)(usa)[bad toc]</description>
-		<rom name="implode (scd)(usa)[bad toc] (Track 01).bin" size="1688736" crc="93863f93" md5="9d19c5783c4e4a0daa9ed987ccd5e434" sha1="7f2b00ec265fec3a720fce15481406d1cbdac0ef"/>
-		<rom name="implode (scd)(usa)[bad toc] (Track 02).bin" size="2751840" crc="9b217335" md5="c4ff2eeb9189c2e287a59a15c51c27fe" sha1="23abdffbe7eec818f9eaf190c5d5a9de62e13cad"/>
-		<rom name="implode (scd)(usa)[bad toc] (Track 03).bin" size="38455200" crc="0e8e4727" md5="3e51f0bb08d01eb8e19e2dabcfac251d" sha1="6280fdf9b21fec70a1031194c20232fe7acbc3c2"/>
-		<rom name="implode (scd)(usa)[bad toc] (Track 04).bin" size="39062016" crc="314bd1c8" md5="383e62474021f587f51ac8264a88ad3c" sha1="cae38a3f8441f5a8262f58a5d77939ff1abdc7b5"/>
-		<rom name="implode (scd)(usa)[bad toc] (Track 05).bin" size="39640608" crc="9992b725" md5="fc867a5bea724c650916dfb5cd1f62e0" sha1="c6438a90a2ed67022e90237195c283317e2683fb"/>
-		<rom name="implode (scd)(usa)[bad toc] (Track 06).bin" size="38455200" crc="d0a4a004" md5="c80e7c171e12aa6101fe904d572d0d47" sha1="712b6ec4038e9a1832be7017f9e63e0d68cf64f7"/>
-		<rom name="implode (scd)(usa)[bad toc] (Track 07).bin" size="39513600" crc="acaf6c07" md5="0dfdc0c0612e173917e85eebda7d9b11" sha1="3a0d297763b9e9ce858c18d8a73d792f93d32fe6"/>
-		<rom name="implode (scd)(usa)[bad toc] (Track 08).bin" size="31714368" crc="6d3c9e9a" md5="4608557fee838a63ea2809bb404d999d" sha1="5c622aff678128e6519c28d914292562348159b0"/>
-		<rom name="implode (scd)(usa)[bad toc] (Track 09).bin" size="35632800" crc="94a07c2e" md5="b5f90ade7aee8bc6475407439201f081" sha1="be44cfc722a94d11bac4f703cec4377be2c00d37"/>
-		<rom name="implode (scd)(usa)[bad toc] (Track 10).bin" size="33280800" crc="f689a00e" md5="db58d4198f07efb2f5b38e48a5bc60cc" sha1="875a95874f2b8fdd17930f253bf3f140a0c3701a"/>
-	</game>
 	<game name="inouemam\inoue mami - kono hoshi ni tatta hitori no kimi (scd)(jpn)" sha1="233f80d3084082754e9bc527ba5cccb41c8be195" size="200423711" crc="e95ffde3" fullsha1="162bbd4b2092aa9f0dac4dae9edd7d386a28553a" dataSha1="7b9ccfd0807cde0f1b3783dfe9a977397a86535f">
 		<category>Games</category>
 		<description>inouemam\inoue mami - kono hoshi ni tatta hitori no kimi (scd)(jpn)</description>
@@ -6130,6 +6099,18 @@
 		<rom name="jim power - in mutant planet (scd)(jpn) (Track 11).bin" size="42058464" crc="e0a4568e" md5="f3c5a116c422003878db5a59c03a4015" sha1="bb5888cdaa0fb11fd7868d45c859cd2fb14906f7"/>
 		<rom name="jim power - in mutant planet (scd)(jpn) (Track 12).bin" size="46684848" crc="0b541c86" md5="7486dc7b3df493a11676438bc6694125" sha1="a8e57ae0304c1cbdee5c58c8d94064ffece498b5"/>
 	</game>
+	<game name="jjcleopa\CleopatrasCurseDemo" sha1="fa2898e2808f03a8e74a6d9bd2678aeb90ffdee4" size="59712506" crc="c34d5aad" fullsha1="31a98a477683cc503817b4403213251d4b64a189" dataSha1="c5292ea2afa45c27f275c2bb547d1c85a775632e">
+		<category>Games</category>
+		<description>jjcleopa\CleopatrasCurseDemo</description>
+		<rom name="CleopatrasCurseDemo (Track 01).bin" size="6145776" crc="73bde4f0" md5="d57fa7552bbbb340f665b86dd6646e20" sha1="eea8c3df9003232ec3ea6ebed108945503c64e8b"/>
+		<rom name="CleopatrasCurseDemo (Track 02).bin" size="2637824" crc="b01e544c" md5="10254dec7c75beece12a72498616c274" sha1="4186f8da1781c47f4ea61319998ac2fb49f6b522"/>
+		<rom name="CleopatrasCurseDemo (Track 03).bin" size="34165152" crc="3f367583" md5="b161f52ea122f244f9cceb57733def41" sha1="03cbb6fc1206646f05050da0780d635758d1183f"/>
+		<rom name="CleopatrasCurseDemo (Track 04).bin" size="33440736" crc="5ef4b3bf" md5="17fc9ce619901af0bd47ebc64e8bfead" sha1="f3ab7899e7f9745a7a7e028e83c71c3971231b68"/>
+		<rom name="CleopatrasCurseDemo (Track 05).bin" size="38008320" crc="b2f8dd8a" md5="bb26dc6b6b1c3db013b67e00a5da0986" sha1="a5a38d7ae76d30bf5691f6ed4a505dab90191206"/>
+		<rom name="CleopatrasCurseDemo (Track 06).bin" size="6145776" crc="73bde4f0" md5="d57fa7552bbbb340f665b86dd6646e20" sha1="eea8c3df9003232ec3ea6ebed108945503c64e8b"/>
+		<rom name="CleopatrasCurseDemo (Track 07).bin" size="2441376" crc="f4b7f82d" md5="e7c6e91dfd694809ec6770c040241706" sha1="595c5da135a8954c6cefc60919f6fcd902387ebe"/>
+		<rom name="CleopatrasCurseDemo (Track 08).bin" size="6145776" crc="73bde4f0" md5="d57fa7552bbbb340f665b86dd6646e20" sha1="eea8c3df9003232ec3ea6ebed108945503c64e8b"/>
+	</game>
 	<game name="jjcleopa\Jessie Jaeger in Cleopatra's Curse (World) (Unl)" sha1="f62f56e6068ee9392c4be02316c1a3144b868f76" size="226178242" crc="24da95b7" fullsha1="06a011388ff2a243c2d22a2c92022816acb0536b" dataSha1="218e48c4054db08b17e1b63773a4615fcb146ccc">
 		<category>Games</category>
 		<description>jjcleopa\Jessie Jaeger in Cleopatra's Curse (World) (Unl)</description>
@@ -6148,18 +6129,6 @@
 		<rom name="Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Track 13).bin" size="30933504" crc="b9c55c8c" md5="0b7ff09fc786d11ff4a58a3227c5c771" sha1="834d2e32cfce1fab36cf2e3fcb38235b5c0644c1"/>
 		<rom name="Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Track 14).bin" size="2443728" crc="09cd217f" md5="d401ee911a337af41e4912769113b238" sha1="b17ae5e8aa7530fa530ce668d6b5965092902624"/>
 		<rom name="Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Track 15).bin" size="42354816" crc="30d7ce04" md5="783640b2ec296db61a2e0eb933dab8fa" sha1="aa322da0e0cf9eb23d4092f5985dd2e47ab031b0"/>
-	</game>
-	<game name="jjcleopa_d\CleopatrasCurseDemo" sha1="fa2898e2808f03a8e74a6d9bd2678aeb90ffdee4" size="59712506" crc="c34d5aad" fullsha1="31a98a477683cc503817b4403213251d4b64a189" dataSha1="c5292ea2afa45c27f275c2bb547d1c85a775632e">
-		<category>Games</category>
-		<description>jjcleopa_d\CleopatrasCurseDemo</description>
-		<rom name="CleopatrasCurseDemo (Track 01).bin" size="6145776" crc="73bde4f0" md5="d57fa7552bbbb340f665b86dd6646e20" sha1="eea8c3df9003232ec3ea6ebed108945503c64e8b"/>
-		<rom name="CleopatrasCurseDemo (Track 02).bin" size="2637824" crc="b01e544c" md5="10254dec7c75beece12a72498616c274" sha1="4186f8da1781c47f4ea61319998ac2fb49f6b522"/>
-		<rom name="CleopatrasCurseDemo (Track 03).bin" size="34165152" crc="3f367583" md5="b161f52ea122f244f9cceb57733def41" sha1="03cbb6fc1206646f05050da0780d635758d1183f"/>
-		<rom name="CleopatrasCurseDemo (Track 04).bin" size="33440736" crc="5ef4b3bf" md5="17fc9ce619901af0bd47ebc64e8bfead" sha1="f3ab7899e7f9745a7a7e028e83c71c3971231b68"/>
-		<rom name="CleopatrasCurseDemo (Track 05).bin" size="38008320" crc="b2f8dd8a" md5="bb26dc6b6b1c3db013b67e00a5da0986" sha1="a5a38d7ae76d30bf5691f6ed4a505dab90191206"/>
-		<rom name="CleopatrasCurseDemo (Track 06).bin" size="6145776" crc="73bde4f0" md5="d57fa7552bbbb340f665b86dd6646e20" sha1="eea8c3df9003232ec3ea6ebed108945503c64e8b"/>
-		<rom name="CleopatrasCurseDemo (Track 07).bin" size="2441376" crc="f4b7f82d" md5="e7c6e91dfd694809ec6770c040241706" sha1="595c5da135a8954c6cefc60919f6fcd902387ebe"/>
-		<rom name="CleopatrasCurseDemo (Track 08).bin" size="6145776" crc="73bde4f0" md5="d57fa7552bbbb340f665b86dd6646e20" sha1="eea8c3df9003232ec3ea6ebed108945503c64e8b"/>
 	</game>
 	<game name="jleagt94\j. league tremendous soccer '94 (acd, scd)(jpn)" sha1="9423a57c35e895944165c5eeb743b44270ef5ccf" size="358623711" crc="e57986e9" fullsha1="a5ed925bc880ab8a9546973b88e8cb32bfac50de" dataSha1="00f80f8c8b8ad1e8bfda6149f01e6c097b117594">
 		<category>Games</category>
@@ -7414,7 +7383,7 @@
 		<rom name="laser soft visual collection volume ii - valis visual shuu (cd)(jpn) (Track 79).bin" size="48350064" crc="e8428e54" md5="af74089647322014baac499cced9c7fa" sha1="07719b8e8e604811d178e70749cf45f916d6b74e"/>
 		<rom name="laser soft visual collection volume ii - valis visual shuu (cd)(jpn) (Track 80).bin" size="13789184" crc="17e1749e" md5="dcc1f9408193b4e31ead65851de0145d" sha1="fc7fe5a7a37f47faccc08a9e1b2b8ef285986578"/>
 	</game>
-	<game name="lstalert\last alert (cd)(usa)" sha1="00fb796e2e796b2109df549e65a3bddd83784e18" size="321244955" crc="f3993ba1" fullsha1="085ecab0e16b7e1f74843d14a4f8ffe36a63567d" dataSha1="91ad27c3b8ad2c251621f02505662d46552e9fbe">
+	<game name="lstalert\last alert (cd)(usa)" sha1="00fb796e2e796b2109df549e65a3bddd83784e18" size="321244955" crc="f3993ba1" fullsha1="085ecab0e16b7e1f74843d14a4f8ffe36a63567d" dataSha1="91ad27c3b8ad2c251621f02505662d46552e9fbe" status="baddump">
 		<category>Games</category>
 		<description>lstalert\last alert (cd)(usa)</description>
 		<rom name="last alert (cd)(usa) (Track 01).bin" size="7914480" crc="729e632f" md5="9f336121b8b90b02fc43004847152621" sha1="52ea40a6740964221b0b35694a85df052e29b048"/>
@@ -8076,6 +8045,31 @@
 		<rom name="metamor jupiter (scd)(jpn) (Track 36).bin" size="5129712" crc="0b1b1173" md5="cc0fa5eedc59a537346c033d14a09149" sha1="b81cfba1c348e22e75f4496ebb1839d5954ad790"/>
 		<rom name="metamor jupiter (scd)(jpn) (Track 37).bin" size="792576" crc="bdcfdddb" md5="bc0b9ef5ffca1b488254114612cb058a" sha1="ce5428e3de48720e21e0f75e32e9f5e8d7d45b4b"/>
 	</game>
+	<game name="meteorbl\Meteor Blaster DX (USA) (Unl)" sha1="4f126a7968b75c883ecb58df4dbce14a92281411" size="300993124" crc="b5637bdd" fullsha1="4ce00644e49b7e0e7bbbd9c73bff500068f9aa30" dataSha1="3878cb7e79f298d2b11cde8ff47ecb26764597af">
+		<category>Games</category>
+		<description>meteorbl\Meteor Blaster DX (USA) (Unl)</description>
+		<rom name="Meteor Blaster DX (USA) (Unl) (Track 01).bin" size="5049744" crc="84c37434" md5="b3f35f310ab4fb4811f59e771170eb75" sha1="b85752342c9f2f3df82c21806555e9dc0086c236"/>
+		<rom name="Meteor Blaster DX (USA) (Unl) (Track 02).bin" size="36105552" crc="aba046ac" md5="216c054180ce29385cabd365c6131710" sha1="078e2779cd32d397cab223ff411f1c56ffbfb91e"/>
+		<rom name="Meteor Blaster DX (USA) (Unl) (Track 03).bin" size="40181568" crc="37d1d887" md5="5567836ebae13d6d0f5c97cf9ce797fa" sha1="75c7dea34c601d6e457a0c3fdfaf764123436558"/>
+		<rom name="Meteor Blaster DX (USA) (Unl) (Track 04).bin" size="32034240" crc="2efd4881" md5="9f4c62aa47c93ade29e914870cfcb46f" sha1="fca63d86755677555fb1244a5c4de3e73c2da24f"/>
+		<rom name="Meteor Blaster DX (USA) (Unl) (Track 05).bin" size="50805552" crc="7d506dc3" md5="1e07074f3957847825ad49f15d19124c" sha1="3b12ffe3cc548587cfa959fe565ad42a7b39690a"/>
+		<rom name="Meteor Blaster DX (USA) (Unl) (Track 06).bin" size="35282352" crc="180285d9" md5="1aa65bd8067f1d461cad9b87aa28f909" sha1="b7157aa75d7183bd6540b5d71af319be9ce4cd7a"/>
+		<rom name="Meteor Blaster DX (USA) (Unl) (Track 07).bin" size="28000560" crc="cd400ff0" md5="ef426382e573e8f15cf903bc2d4891a4" sha1="a53d76eefd60880965b37ffb9dd1462a6a143008"/>
+		<rom name="Meteor Blaster DX (USA) (Unl) (Track 08).bin" size="42350112" crc="8a54f05f" md5="f3ab7190a23168c2a0508a69e60e28c7" sha1="1fcb732678b41dbbb7fa19016522b0e2e4df5ad3"/>
+		<rom name="Meteor Blaster DX (USA) (Unl) (Track 09).bin" size="33516000" crc="f1673732" md5="abefe64152242f27532856d2559f72ab" sha1="8bce31bf6f032efd7ab66fd39a6ee0e7879d4c4b"/>
+		<rom name="Meteor Blaster DX (USA) (Unl) (Track 10).bin" size="32441136" crc="4fba4c87" md5="71492b80dc435233845652b9e7abfbbe" sha1="e2692ccded80ab74d696f68c3ba67225ade19e9c"/>
+		<rom name="Meteor Blaster DX (USA) (Unl) (Track 11).bin" size="41435184" crc="186b76bc" md5="3356df4d3e755c99db56cda81e1ca189" sha1="ff1643c5584b14e53490ebe4dcb0a7d9f73df68a"/>
+		<rom name="Meteor Blaster DX (USA) (Unl) (Track 12).bin" size="39866400" crc="be62bdcd" md5="b6ba795d0f1d4d3a8e6602e43435ead4" sha1="6eb53eee8f65f1f127336b24947cc60260e2b006"/>
+		<rom name="Meteor Blaster DX (USA) (Unl) (Track 13).bin" size="48187776" crc="71c57e30" md5="80b8625e02df6e0e55edb7e48acd6d08" sha1="68c9511e3af2a270a87410beb920f78c03e3b55a"/>
+		<rom name="Meteor Blaster DX (USA) (Unl) (Track 14).bin" size="40572000" crc="f2374557" md5="c9d469eda1ea648fa5fdd435497df457" sha1="ff966f519897b7ceac16735846e3c77ecb249a67"/>
+		<rom name="Meteor Blaster DX (USA) (Unl) (Track 15).bin" size="40541424" crc="8afe1996" md5="b2450acbadd0f0d2796907d91a30d33f" sha1="da826bf0f7d97feeb2345d48cbc7e06fcc8df4c4"/>
+		<rom name="Meteor Blaster DX (USA) (Unl) (Track 16).bin" size="42336000" crc="1ca0fb93" md5="af251f70b1143b244351a234fc1bd345" sha1="e185e844d507114befc28eee543132c85a1766d5"/>
+		<rom name="Meteor Blaster DX (USA) (Unl) (Track 17).bin" size="37984800" crc="df6a0963" md5="db11189b48784048edad49bd46164d20" sha1="758fa6402400d431c31a9f07ec9c5b9531bd6932"/>
+		<rom name="Meteor Blaster DX (USA) (Unl) (Track 18).bin" size="38455200" crc="0c49c79d" md5="79883ffdcf3ad2c8db7366b9307a4522" sha1="87af6362927916df0b775a39825271599bc922da"/>
+		<rom name="Meteor Blaster DX (USA) (Unl) (Track 19).bin" size="39062016" crc="e538d5f3" md5="60214636bc451d52f424e007ace534aa" sha1="8c883e7ee2028626100824315a54c53a8c2fa630"/>
+		<rom name="Meteor Blaster DX (USA) (Unl) (Track 20).bin" size="39513600" crc="6a61b09a" md5="45fca02f1c66642e7a0d3e8123666fb4" sha1="77b8140e606b9918bf3504c27c12186f1a8f6eae"/>
+		<rom name="Meteor Blaster DX (USA) (Unl) (Track 21).bin" size="27880608" crc="715dc737" md5="7c81df662276854fd808e6335dbdeaa2" sha1="2fc290e18b528405c2232767e8d0d6345d5a6d88"/>
+	</game>
 	<game name="meteorbl\Meteor Blaster DX (USA) (Unl) (Rerelease)" sha1="277c928476c635269fa0101270dc564f46011e94" size="302012849" crc="5cc565d9" fullsha1="50c376ddcc738428d1971a2208eec213a5f331c4" dataSha1="edcc6dc138d898d31d412d966c5cdca01aafd7c3">
 		<category>Games</category>
 		<description>meteorbl\Meteor Blaster DX (USA) (Unl) (Rerelease)</description>
@@ -8100,56 +8094,6 @@
 		<rom name="Meteor Blaster DX (USA) (Unl) (Rerelease) (Track 19).bin" size="39062016" crc="06c2c6fc" md5="8917e89dfd307952227cbea0e5f9c39c" sha1="a19bcd79d6555458788da8500dbcf32b0ff0e314"/>
 		<rom name="Meteor Blaster DX (USA) (Unl) (Rerelease) (Track 20).bin" size="39513600" crc="d19d5d18" md5="6c15e42bbbcd14b0a91644493a3278f8" sha1="e31c8e9ee8de588bed5ab9219891f4c392530ada"/>
 		<rom name="Meteor Blaster DX (USA) (Unl) (Rerelease) (Track 21).bin" size="27880608" crc="97d70891" md5="8c16ca07f69203c874c39bc04f9b27e1" sha1="5f5b7232b3481723dec7269d1ef018179e24a331"/>
-	</game>
-	<game name="meteorbl\meteor blaster dx (scd)(usa)[bad toc]" sha1="8dca70ee5898105fa2110504957a2ec7f9e410e2" size="319591606" crc="59b69077" fullsha1="d6a3d3a6c6305b7a7137ac330388fa327d9da066" dataSha1="deea8341e2eba679707b982240f741dab0154be6">
-		<category>Games</category>
-		<description>meteorbl\meteor blaster dx (scd)(usa)[bad toc]</description>
-		<rom name="meteor blaster dx (scd)(usa)[bad toc] (Track 01).bin" size="4520544" crc="df12d8f2" md5="be926607103401eca7e436f407761eda" sha1="59125f1abe2bd1c3ea6139baf40c1508a249b1cb"/>
-		<rom name="meteor blaster dx (scd)(usa)[bad toc] (Track 02).bin" size="36105552" crc="7ab3ed32" md5="d70658e32c1ac7b29371e8d3d8b25950" sha1="d273896d6a69ad3420a539f8b23a8565ee8422b3"/>
-		<rom name="meteor blaster dx (scd)(usa)[bad toc] (Track 03).bin" size="40181568" crc="7ed45918" md5="5374e96bdf23e41330b17036b63fb57c" sha1="ad9a8bb00340f8b45a8e66e01dfb49b09ddaf084"/>
-		<rom name="meteor blaster dx (scd)(usa)[bad toc] (Track 04).bin" size="32034240" crc="52d80224" md5="75dd0f02814285eb24efa38b51a819ca" sha1="2bad622f28f25c64d4929c1d61fac57f02333791"/>
-		<rom name="meteor blaster dx (scd)(usa)[bad toc] (Track 05).bin" size="50805552" crc="1b750c7f" md5="f8ec0f8ef1c421b5101939738c92c6db" sha1="7a54b5744d60ae0e06ad82f953735e3e7d529342"/>
-		<rom name="meteor blaster dx (scd)(usa)[bad toc] (Track 06).bin" size="35282352" crc="0d82f7f3" md5="fc0b8551a3b980a8d49d6097e727d2ce" sha1="f50b3b1c23cd4715018de2bacb26a2a6721c5509"/>
-		<rom name="meteor blaster dx (scd)(usa)[bad toc] (Track 07).bin" size="28000560" crc="ebd63a2b" md5="8297a0f828097e760bce13a816c4d3f6" sha1="a0c7e6e2de8d2b55d8184e809267b5334b339eea"/>
-		<rom name="meteor blaster dx (scd)(usa)[bad toc] (Track 08).bin" size="42350112" crc="1659d7eb" md5="a435cc7502cd51d0b997f80ec40022e5" sha1="f0cb518f8d9fa40fb0f38b6d813220ffd4803b18"/>
-		<rom name="meteor blaster dx (scd)(usa)[bad toc] (Track 09).bin" size="33516000" crc="7905f1bc" md5="f0ca8d964bb3a66ab6be719928c6f2c7" sha1="8cd9d627a8620b75d4d6a7c6d8491b4301138d26"/>
-		<rom name="meteor blaster dx (scd)(usa)[bad toc] (Track 10).bin" size="32441136" crc="6aba66fd" md5="56c5bc662b6978d7d0341a4affa7ecd0" sha1="5fc2e76faf9d14eaf56eb2c2850e0fcccdbf32a7"/>
-		<rom name="meteor blaster dx (scd)(usa)[bad toc] (Track 11).bin" size="41435184" crc="38acf4cd" md5="a9491dcade32280ee5421b77364d32a8" sha1="bfe65a6b039d84cbdf854b4bba7a2fce3fcd76bb"/>
-		<rom name="meteor blaster dx (scd)(usa)[bad toc] (Track 12).bin" size="39866400" crc="ba6f7bf4" md5="903e9251ac05574664252f6819ab0cae" sha1="9d3a63bdb945a249559fb05f74e1d4156488e664"/>
-		<rom name="meteor blaster dx (scd)(usa)[bad toc] (Track 13).bin" size="48187776" crc="74fc4ab5" md5="9882b73449ad54fb1b0df111bc624f51" sha1="13e314e098f119515af23176c39972eea9c12171"/>
-		<rom name="meteor blaster dx (scd)(usa)[bad toc] (Track 14).bin" size="40572000" crc="e2160be8" md5="20db1a18fcfc6c6a5c143bc2493c0946" sha1="dbc2866da081a4066247cf6f5f156004b36cd5f5"/>
-		<rom name="meteor blaster dx (scd)(usa)[bad toc] (Track 15).bin" size="40541424" crc="d842736b" md5="22f2b4837bf4fdcefd49af1c8a77e9c1" sha1="4e59379fe1693201fe706338d7a21c001769ffd3"/>
-		<rom name="meteor blaster dx (scd)(usa)[bad toc] (Track 16).bin" size="42336000" crc="478e3e93" md5="def0c77dae8598689f5c3992ba9306a2" sha1="f0fff9151bbd4e407b72f0baf089f2fcf9a1c86f"/>
-		<rom name="meteor blaster dx (scd)(usa)[bad toc] (Track 17).bin" size="37984800" crc="102de68c" md5="413bea037913a84534618224b2a04b50" sha1="cef2af5e36644187583135c473553a1de635b477"/>
-		<rom name="meteor blaster dx (scd)(usa)[bad toc] (Track 18).bin" size="38455200" crc="66b8aeb6" md5="0e1b583229dd7492c3a93b7f5b0fab78" sha1="3e5db7262449f100aa4156c8ec13de37d4798537"/>
-		<rom name="meteor blaster dx (scd)(usa)[bad toc] (Track 19).bin" size="39062016" crc="08bf67c7" md5="c4ac40d61edb3df1ecb9ded7167adafc" sha1="5e3e4346ae6935d068000139dd42dc3d82de8684"/>
-		<rom name="meteor blaster dx (scd)(usa)[bad toc] (Track 20).bin" size="39513600" crc="d288146c" md5="8b82b4732c4d673c8b803b3b59585dd5" sha1="2651c80bfa0479ede3aabb2829e028289eefa9fc"/>
-		<rom name="meteor blaster dx (scd)(usa)[bad toc] (Track 21).bin" size="27527808" crc="ad79369e" md5="3c6f7d683dd8e949fd4768b85cfd69de" sha1="86cdd9289057326af616e1f1b94156e3fa9a338d"/>
-	</game>
-	<game name="meteorbl_10\Meteor Blaster DX (USA) (Unl)" sha1="4f126a7968b75c883ecb58df4dbce14a92281411" size="300993124" crc="b5637bdd" fullsha1="4ce00644e49b7e0e7bbbd9c73bff500068f9aa30" dataSha1="3878cb7e79f298d2b11cde8ff47ecb26764597af">
-		<category>Games</category>
-		<description>meteorbl_10\Meteor Blaster DX (USA) (Unl)</description>
-		<rom name="Meteor Blaster DX (USA) (Unl) (Track 01).bin" size="5049744" crc="84c37434" md5="b3f35f310ab4fb4811f59e771170eb75" sha1="b85752342c9f2f3df82c21806555e9dc0086c236"/>
-		<rom name="Meteor Blaster DX (USA) (Unl) (Track 02).bin" size="36105552" crc="aba046ac" md5="216c054180ce29385cabd365c6131710" sha1="078e2779cd32d397cab223ff411f1c56ffbfb91e"/>
-		<rom name="Meteor Blaster DX (USA) (Unl) (Track 03).bin" size="40181568" crc="37d1d887" md5="5567836ebae13d6d0f5c97cf9ce797fa" sha1="75c7dea34c601d6e457a0c3fdfaf764123436558"/>
-		<rom name="Meteor Blaster DX (USA) (Unl) (Track 04).bin" size="32034240" crc="2efd4881" md5="9f4c62aa47c93ade29e914870cfcb46f" sha1="fca63d86755677555fb1244a5c4de3e73c2da24f"/>
-		<rom name="Meteor Blaster DX (USA) (Unl) (Track 05).bin" size="50805552" crc="7d506dc3" md5="1e07074f3957847825ad49f15d19124c" sha1="3b12ffe3cc548587cfa959fe565ad42a7b39690a"/>
-		<rom name="Meteor Blaster DX (USA) (Unl) (Track 06).bin" size="35282352" crc="180285d9" md5="1aa65bd8067f1d461cad9b87aa28f909" sha1="b7157aa75d7183bd6540b5d71af319be9ce4cd7a"/>
-		<rom name="Meteor Blaster DX (USA) (Unl) (Track 07).bin" size="28000560" crc="cd400ff0" md5="ef426382e573e8f15cf903bc2d4891a4" sha1="a53d76eefd60880965b37ffb9dd1462a6a143008"/>
-		<rom name="Meteor Blaster DX (USA) (Unl) (Track 08).bin" size="42350112" crc="8a54f05f" md5="f3ab7190a23168c2a0508a69e60e28c7" sha1="1fcb732678b41dbbb7fa19016522b0e2e4df5ad3"/>
-		<rom name="Meteor Blaster DX (USA) (Unl) (Track 09).bin" size="33516000" crc="f1673732" md5="abefe64152242f27532856d2559f72ab" sha1="8bce31bf6f032efd7ab66fd39a6ee0e7879d4c4b"/>
-		<rom name="Meteor Blaster DX (USA) (Unl) (Track 10).bin" size="32441136" crc="4fba4c87" md5="71492b80dc435233845652b9e7abfbbe" sha1="e2692ccded80ab74d696f68c3ba67225ade19e9c"/>
-		<rom name="Meteor Blaster DX (USA) (Unl) (Track 11).bin" size="41435184" crc="186b76bc" md5="3356df4d3e755c99db56cda81e1ca189" sha1="ff1643c5584b14e53490ebe4dcb0a7d9f73df68a"/>
-		<rom name="Meteor Blaster DX (USA) (Unl) (Track 12).bin" size="39866400" crc="be62bdcd" md5="b6ba795d0f1d4d3a8e6602e43435ead4" sha1="6eb53eee8f65f1f127336b24947cc60260e2b006"/>
-		<rom name="Meteor Blaster DX (USA) (Unl) (Track 13).bin" size="48187776" crc="71c57e30" md5="80b8625e02df6e0e55edb7e48acd6d08" sha1="68c9511e3af2a270a87410beb920f78c03e3b55a"/>
-		<rom name="Meteor Blaster DX (USA) (Unl) (Track 14).bin" size="40572000" crc="f2374557" md5="c9d469eda1ea648fa5fdd435497df457" sha1="ff966f519897b7ceac16735846e3c77ecb249a67"/>
-		<rom name="Meteor Blaster DX (USA) (Unl) (Track 15).bin" size="40541424" crc="8afe1996" md5="b2450acbadd0f0d2796907d91a30d33f" sha1="da826bf0f7d97feeb2345d48cbc7e06fcc8df4c4"/>
-		<rom name="Meteor Blaster DX (USA) (Unl) (Track 16).bin" size="42336000" crc="1ca0fb93" md5="af251f70b1143b244351a234fc1bd345" sha1="e185e844d507114befc28eee543132c85a1766d5"/>
-		<rom name="Meteor Blaster DX (USA) (Unl) (Track 17).bin" size="37984800" crc="df6a0963" md5="db11189b48784048edad49bd46164d20" sha1="758fa6402400d431c31a9f07ec9c5b9531bd6932"/>
-		<rom name="Meteor Blaster DX (USA) (Unl) (Track 18).bin" size="38455200" crc="0c49c79d" md5="79883ffdcf3ad2c8db7366b9307a4522" sha1="87af6362927916df0b775a39825271599bc922da"/>
-		<rom name="Meteor Blaster DX (USA) (Unl) (Track 19).bin" size="39062016" crc="e538d5f3" md5="60214636bc451d52f424e007ace534aa" sha1="8c883e7ee2028626100824315a54c53a8c2fa630"/>
-		<rom name="Meteor Blaster DX (USA) (Unl) (Track 20).bin" size="39513600" crc="6a61b09a" md5="45fca02f1c66642e7a0d3e8123666fb4" sha1="77b8140e606b9918bf3504c27c12186f1a8f6eae"/>
-		<rom name="Meteor Blaster DX (USA) (Unl) (Track 21).bin" size="27880608" crc="715dc737" md5="7c81df662276854fd808e6335dbdeaa2" sha1="2fc290e18b528405c2232767e8d0d6345d5a6d88"/>
 	</game>
 	<game name="metlfant\farjius no jakoutei - neo metal fantasy (scd)(jpn)" sha1="052fdeea2d02492980b3b270aee9e9949b3e359d" size="284126029" crc="07aec344" fullsha1="8e5b83da2584ab8e0a4e004758ca7b7936e7056d" dataSha1="2a14c1d4a820f5595324831b8b4a9f70d18b41f3">
 		<category>Games</category>
@@ -8798,6 +8742,39 @@
 		<rom name="mystic formula (scd)(jpn) (Track 43).bin" size="11012064" crc="b7d2e6c0" md5="c9f4c8973732eed4647ae0ca1b190abc" sha1="5de5b939f112fe7c81c10b4ee9eee4aad8329e1f"/>
 		<rom name="mystic formula (scd)(jpn) (Track 44).bin" size="10387456" crc="1a9f34b1" md5="07744ec1f22471f6dc87cafb9d6147ab" sha1="c8d327f9c970eb537cf59534433af2b8797b2447"/>
 	</game>
+	<game name="mystsong\Mysterious Song (USA) (En,Fr,Es) (Unl)" sha1="06fe1c9645490cb58bfa0fd787ca4b8d69b7dd88" size="296032165" crc="6b6933f2" fullsha1="cbd8792348d26d5ee04eb07187cb17ccb7cb5eed" dataSha1="773470e229f83bce5c2caa7b3ccd1b75224b571c">
+		<category>Games</category>
+		<description>mystsong\Mysterious Song (USA) (En,Fr,Es) (Unl)</description>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 01).bin" size="13331136" crc="e9387df0" md5="52af0c7059348323b12de083c148fe70" sha1="d433df05628ed3cb3273f74829a917175b174eee"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 02).bin" size="8104992" crc="29cb97c5" md5="02cdd19420f3f24768cd906243658c0a" sha1="1f10986f682bd1891d4252e4f747ef0bd3ac8204"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 03).bin" size="23423568" crc="908f9f2f" md5="abe370cbb03fa14e11710cae4fa30f90" sha1="c7f044e46f4d66331beb524e9091f2e6b62fbdea"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 04).bin" size="25058208" crc="afb17882" md5="323bbff0348288506cead9bea82ae9bd" sha1="b19050f092428ca01379551f1ee25c5b86a33d48"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 05).bin" size="11369568" crc="fe9855b3" md5="bad76f84687633cc1e2d5e5bb45df506" sha1="9778ff0cce2be9d0a2d503c6200d600465dc6d61"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 06).bin" size="14831712" crc="2bf9ecc9" md5="ba0014d90216d6a786ddc5ca04025385" sha1="367d5df31283459b83b80913f27a8700f15267f1"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 07).bin" size="19246416" crc="4bddaade" md5="7af49571c896fd261522c9446427c39f" sha1="56816560e77e94be00f243f0ac04ee9f9a1140c5"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 08).bin" size="35240016" crc="2020e1d3" md5="aa8bfce6d70683482ef662a5871c56e4" sha1="ed94cee92c2d05bf94d224139ead0a62b7e4cbf1"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 09).bin" size="50241072" crc="b879c281" md5="aa80e9bd91275222885792dec92c1646" sha1="27a394fd4c96db34afe61a35fba80d427444b64f"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 10).bin" size="44274048" crc="1721995a" md5="40774ad34f340b38fc1f8b4a519738bf" sha1="2c6dacaf4f3f1c91a40cc2adb16a5ce8dbc8ff38"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 11).bin" size="28922544" crc="e0be632d" md5="694f120ddd3ce590f85825b93cd93ae7" sha1="c5b3c8dab430f00e721848e16b3f12c204a92255"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 12).bin" size="23117808" crc="57bc0e8e" md5="80e07ccfb65dc54cb0ce6fbeadc0a6f2" sha1="fa7c635d192a993d33a72678aeff9c4083cbdeb9"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 13).bin" size="21970032" crc="cbf22611" md5="03bc47d9d43fa233fe249fbe1745b826" sha1="3825e45f13da97b32866bbf53858538cc09a0255"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 14).bin" size="28539168" crc="9fac01d2" md5="3287395508720749c1f1fc0fe83993bf" sha1="11db59f7ece8d26ed7d2c488dbcef732e6ffdd4f"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 15).bin" size="1371216" crc="fa3f9fbf" md5="f8fe5bbd96bc28862baf443494f18940" sha1="a3ca3a416afebb5afd8b7dcc41fa1114fda8ede2"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 16).bin" size="17999856" crc="0e9c265c" md5="feadf65ca445703e469c2f0c94a399d8" sha1="1c8f2833274a4ac056216cabe3755bcc8535c4c5"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 17).bin" size="6783168" crc="8a49ad47" md5="5aec9de97a249aa1fda5297972de99b1" sha1="c06784db2193aa497019d5158153964b4f2d7a42"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 18).bin" size="13561632" crc="9528a830" md5="b67594dfb4084363e8adf42fa4aca18a" sha1="a95f8ca93ab30177c133ea38bdc1ca9545badadc"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 19).bin" size="24350256" crc="0d503573" md5="b1945f9d8675a2a12ea38d776e515a01" sha1="cfc142417167d195e5bb539f3b52af9951f0277e"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 20).bin" size="11468352" crc="b066ab56" md5="867241359c13923470b04f9d5e03c7b1" sha1="2dbcf9cd8c886ae90db75924148b97568c0361b2"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 21).bin" size="13072416" crc="67bb3973" md5="35384f972887f8a43938ebcb8e720495" sha1="49e5d55cc76da05624f923ebdc95bfab20b981c0"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 22).bin" size="9483264" crc="b51b8552" md5="9c2e9c2f61d570f95ed026023f7ebe5b" sha1="29bd9a0f0087f9b4dfe97e0190d608ded68c10e9"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 23).bin" size="6785520" crc="075b82c3" md5="2b6ef43fe9a13f3d3cf789b05e22f4d8" sha1="688a036706288aafb14e0a359888b0718a6aa735"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 24).bin" size="9991296" crc="e32c1de0" md5="844fc7805c49e93b8f9388e59ea47a6c" sha1="c7e2de5fb6c6ec11b20ea7484ea52bd27f0f9623"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 25).bin" size="23035488" crc="eca6165d" md5="7c640bc3808e20f424c91df3629223cb" sha1="f087774264f048cebee2f4c8ed21ae1f1ba1d0ee"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 26).bin" size="33802944" crc="7b488398" md5="38492ff338ef43187a6665128722c0c9" sha1="cfce21d94c4f45803d4a193a2b5f2bcc2f4665b2"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 27).bin" size="41272896" crc="e689e127" md5="f8e652973b12e9a5bf816d9e3e92497d" sha1="4d149b74d84cf34b20e29122d062cbcb402b47bf"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 28).bin" size="12881904" crc="4df44ce4" md5="062e0973e680c5985649a1c4be416c3e" sha1="cf132ccf5f35d6fea00b54afd16893c90cd85233"/>
+		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 29).bin" size="5496624" crc="2a7bacc9" md5="3d69433cfdbc14d16e18c060e6887b1b" sha1="cd6620e5149ac1513536bc2dd8d1c948c9f196a0"/>
+	</game>
 	<game name="mystsong\Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease)" sha1="2e44b5bec1be804d7d2165370abd15a42a439a6e" size="282925708" crc="66dd87ce" fullsha1="32310aa49eed1c6cdf1219606446bb6d0ead7bcd" dataSha1="91c8275e129197e576fb3240c8de4c9852bca49b">
 		<category>Games</category>
 		<description>mystsong\Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease)</description>
@@ -8830,39 +8807,6 @@
 		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease) (Track 27).bin" size="5498976" crc="66fdba30" md5="8b131186691a8e6101951b6621a79028" sha1="0908788204ba2f3960884de3defac97e9902e46c"/>
 		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease) (Track 28).bin" size="12884256" crc="275cbd32" md5="8cf937e8b0c420abfcf6e3e2546d4854" sha1="82820d385709d73a73f95a40ec79dded59474ee3"/>
 		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Rerelease) (Track 29).bin" size="41275248" crc="974fd527" md5="229511d0e9e548e1746989fa2cb0a130" sha1="91bbf80254acfdcb3f4e5c790e68739c1648659f"/>
-	</game>
-	<game name="mystsong_a\Mysterious Song (USA) (En,Fr,Es) (Unl)" sha1="06fe1c9645490cb58bfa0fd787ca4b8d69b7dd88" size="296032165" crc="6b6933f2" fullsha1="cbd8792348d26d5ee04eb07187cb17ccb7cb5eed" dataSha1="773470e229f83bce5c2caa7b3ccd1b75224b571c">
-		<category>Games</category>
-		<description>mystsong_a\Mysterious Song (USA) (En,Fr,Es) (Unl)</description>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 01).bin" size="13331136" crc="e9387df0" md5="52af0c7059348323b12de083c148fe70" sha1="d433df05628ed3cb3273f74829a917175b174eee"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 02).bin" size="8104992" crc="29cb97c5" md5="02cdd19420f3f24768cd906243658c0a" sha1="1f10986f682bd1891d4252e4f747ef0bd3ac8204"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 03).bin" size="23423568" crc="908f9f2f" md5="abe370cbb03fa14e11710cae4fa30f90" sha1="c7f044e46f4d66331beb524e9091f2e6b62fbdea"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 04).bin" size="25058208" crc="afb17882" md5="323bbff0348288506cead9bea82ae9bd" sha1="b19050f092428ca01379551f1ee25c5b86a33d48"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 05).bin" size="11369568" crc="fe9855b3" md5="bad76f84687633cc1e2d5e5bb45df506" sha1="9778ff0cce2be9d0a2d503c6200d600465dc6d61"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 06).bin" size="14831712" crc="2bf9ecc9" md5="ba0014d90216d6a786ddc5ca04025385" sha1="367d5df31283459b83b80913f27a8700f15267f1"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 07).bin" size="19246416" crc="4bddaade" md5="7af49571c896fd261522c9446427c39f" sha1="56816560e77e94be00f243f0ac04ee9f9a1140c5"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 08).bin" size="35240016" crc="2020e1d3" md5="aa8bfce6d70683482ef662a5871c56e4" sha1="ed94cee92c2d05bf94d224139ead0a62b7e4cbf1"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 09).bin" size="50241072" crc="b879c281" md5="aa80e9bd91275222885792dec92c1646" sha1="27a394fd4c96db34afe61a35fba80d427444b64f"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 10).bin" size="44274048" crc="1721995a" md5="40774ad34f340b38fc1f8b4a519738bf" sha1="2c6dacaf4f3f1c91a40cc2adb16a5ce8dbc8ff38"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 11).bin" size="28922544" crc="e0be632d" md5="694f120ddd3ce590f85825b93cd93ae7" sha1="c5b3c8dab430f00e721848e16b3f12c204a92255"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 12).bin" size="23117808" crc="57bc0e8e" md5="80e07ccfb65dc54cb0ce6fbeadc0a6f2" sha1="fa7c635d192a993d33a72678aeff9c4083cbdeb9"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 13).bin" size="21970032" crc="cbf22611" md5="03bc47d9d43fa233fe249fbe1745b826" sha1="3825e45f13da97b32866bbf53858538cc09a0255"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 14).bin" size="28539168" crc="9fac01d2" md5="3287395508720749c1f1fc0fe83993bf" sha1="11db59f7ece8d26ed7d2c488dbcef732e6ffdd4f"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 15).bin" size="1371216" crc="fa3f9fbf" md5="f8fe5bbd96bc28862baf443494f18940" sha1="a3ca3a416afebb5afd8b7dcc41fa1114fda8ede2"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 16).bin" size="17999856" crc="0e9c265c" md5="feadf65ca445703e469c2f0c94a399d8" sha1="1c8f2833274a4ac056216cabe3755bcc8535c4c5"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 17).bin" size="6783168" crc="8a49ad47" md5="5aec9de97a249aa1fda5297972de99b1" sha1="c06784db2193aa497019d5158153964b4f2d7a42"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 18).bin" size="13561632" crc="9528a830" md5="b67594dfb4084363e8adf42fa4aca18a" sha1="a95f8ca93ab30177c133ea38bdc1ca9545badadc"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 19).bin" size="24350256" crc="0d503573" md5="b1945f9d8675a2a12ea38d776e515a01" sha1="cfc142417167d195e5bb539f3b52af9951f0277e"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 20).bin" size="11468352" crc="b066ab56" md5="867241359c13923470b04f9d5e03c7b1" sha1="2dbcf9cd8c886ae90db75924148b97568c0361b2"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 21).bin" size="13072416" crc="67bb3973" md5="35384f972887f8a43938ebcb8e720495" sha1="49e5d55cc76da05624f923ebdc95bfab20b981c0"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 22).bin" size="9483264" crc="b51b8552" md5="9c2e9c2f61d570f95ed026023f7ebe5b" sha1="29bd9a0f0087f9b4dfe97e0190d608ded68c10e9"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 23).bin" size="6785520" crc="075b82c3" md5="2b6ef43fe9a13f3d3cf789b05e22f4d8" sha1="688a036706288aafb14e0a359888b0718a6aa735"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 24).bin" size="9991296" crc="e32c1de0" md5="844fc7805c49e93b8f9388e59ea47a6c" sha1="c7e2de5fb6c6ec11b20ea7484ea52bd27f0f9623"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 25).bin" size="23035488" crc="eca6165d" md5="7c640bc3808e20f424c91df3629223cb" sha1="f087774264f048cebee2f4c8ed21ae1f1ba1d0ee"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 26).bin" size="33802944" crc="7b488398" md5="38492ff338ef43187a6665128722c0c9" sha1="cfce21d94c4f45803d4a193a2b5f2bcc2f4665b2"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 27).bin" size="41272896" crc="e689e127" md5="f8e652973b12e9a5bf816d9e3e92497d" sha1="4d149b74d84cf34b20e29122d062cbcb402b47bf"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 28).bin" size="12881904" crc="4df44ce4" md5="062e0973e680c5985649a1c4be416c3e" sha1="cf132ccf5f35d6fea00b54afd16893c90cd85233"/>
-		<rom name="Mysterious Song (USA) (En,Fr,Es) (Unl) (Track 29).bin" size="5496624" crc="2a7bacc9" md5="3d69433cfdbc14d16e18c060e6887b1b" sha1="cd6620e5149ac1513536bc2dd8d1c948c9f196a0"/>
 	</game>
 	<game name="nadia\fushigi no umi no nadia (scd)(jpn)" sha1="945be9e78cccd75e48d2948a744e23152d53cb0e" size="299030855" crc="259a0dd0" fullsha1="de8d36d88cff758d9433390c2e6ffc12c9ae78ae" dataSha1="b310f9dec3a1306a9ef47ea41d204fa4c586e6f5">
 		<category>Games</category>
