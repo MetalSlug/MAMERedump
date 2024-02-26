@@ -1,9 +1,10 @@
 # MAME Redump 0.262
 
 The aim of the MAME Redump project is to convert the redump sets into formats that are low on disk space, such as the chd format. Gamecube and Wii sets have been converted to NKit2 RVZ format (zstd-19-128k).
-All MAME CHDs are prioritized merged or included.
+All MAME CHDs are prioritized merged or included. Another goal is deduplication and to show how big or small the intersection between the two is. It should be possible to create either a MAME set or a redump set from the data.
 
-This project uses the track information stored in the MAME CHD files. Gamecube and Wii Games are only matched by name for now.
+This project uses the track information stored in the CHD files to match against Redump. Gamecube and Wii Games are only matched by name for now.
+
 The program to read out this information or to merge the sets are not yet public because they are still in a very early stage.
 
 # Attention / Disclaimer
