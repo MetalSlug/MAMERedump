@@ -27,6 +27,22 @@ MAME Software List CHDs (merged)
 Additional Redump CHDs
 - Redump CHDs which are not included in MAME SW CHDs
 
+Additional GDI Files
+- GDI Files that was missing in Redump
+  
+# Building CHDs
+
+Most of the CHDs are builded with chdman 0.233 but you should use any version that creates V5 CHDs with the same metadata.
+Metadata is different if you use cue or gdi. Use the createcd command for chdman. For Windows you can use this short batch:
+- for /r %%i in (*.cue, *.gdi) do chdman createcd -i "%%i" -o "%%~ni.chd"
+
+Following Sets use GDI Files as source
+- Arcade - Namco - Sega - Nintendo - Triforce
+- Arcade - Sega - Chihiro
+- Arcade - Sega - Naomi
+- Arcade - Sega - Naomi 2
+- Sega - Dreamcast  
+
 # RomVault Settings
 
 ![RomVault Settings](/Romvault.png?raw=true "RomVault Settings")
