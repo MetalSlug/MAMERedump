@@ -3,7 +3,7 @@
 <datafile>
   <header>
     <name>Nintendo - GameCube</name>
-    <description>MAME Redump - Nintendo - GameCube - Discs (1988) (2024-01-30 18-49-41)</description>
+    <description>MAME Redump - Nintendo - GameCube - Discs (1991) (2024-03-15 23-59-52)</description>
     <version>0.262</version>
     <date>2024-02-21</date>
     <author>MAME Redump</author>
@@ -289,10 +289,10 @@
     <description>Action Replay for GameCube (USA) (Unl) (v1.20)</description>
     <rom name="Action Replay for GameCube (USA) (Unl) (v1.20).rvz" size="1307192" crc="88A04D7D" sha1="EE6CF42646DF4D4561BB0739E211835E7648E726" />
   </game>
-  <game name="Action Replay Max (USA) (En,Fr,De,Es,It,Pt) (Unl)">
+  <game name="Action Replay Max (Europe) (En,Fr,De,Es,It,Pt) (Unl)">
     <category>Applications</category>
-    <description>Action Replay Max (USA) (En,Fr,De,Es,It,Pt) (Unl)</description>
-    <rom name="Action Replay Max (USA) (En,Fr,De,Es,It,Pt) (Unl).rvz" size="1854992" crc="21629E07" sha1="CCD0BCA711D375A00AFAC8B143214BAC7E14BA4F" />
+    <description>Action Replay Max (Europe) (En,Fr,De,Es,It,Pt) (Unl)</description>
+    <rom name="Action Replay Max (Europe) (En,Fr,De,Es,It,Pt) (Unl).rvz" size="1854992" crc="21629E07" sha1="CCD0BCA711D375A00AFAC8B143214BAC7E14BA4F" />
   </game>
   <game name="Action Replay Ultimate Cheats for Use with Enter the Matrix (UK) (Unl)">
     <category>Applications</category>
@@ -363,6 +363,11 @@
     <category>Applications</category>
     <description>Action Replay Ultimative Cheats Greatest Hits 2003 (Germany) (Unl)</description>
     <rom name="Action Replay Ultimative Cheats Greatest Hits 2003 (Germany) (Unl).rvz" size="1097864" crc="9A8A6E8D" sha1="D6BA416A3BEC6DFA914B4E3871A88EA71B7A5506" />
+  </game>
+  <game name="Advance Game Port &amp; Cheat Construction Kit (USA, Europe) (Unl)">
+    <category>Applications</category>
+    <description>Advance Game Port &amp; Cheat Construction Kit (USA, Europe) (Unl)</description>
+    <rom name="Advance Game Port &amp; Cheat Construction Kit (USA, Europe) (Unl).rvz" size="5260892" crc="DC56DA16" sha1="2C64DBFF2DA069368B773071ED364E57D5FEC222" />
   </game>
   <game name="Advance Game Port (USA) (Unl)">
     <category>Applications</category>
@@ -2749,10 +2754,10 @@
     <description>FIFA 2002 - Road to FIFA World Cup (Japan)</description>
     <rom name="FIFA 2002 - Road to FIFA World Cup (Japan).rvz" size="867513960" crc="9AFE4B73" sha1="C2ED56E82B01727085E19F9B22491E3D7A24E422" />
   </game>
-  <game name="FIFA 2003 (Japan)">
+  <game name="FIFA 2003 - European Football (Japan)">
     <category>Games</category>
-    <description>FIFA 2003 (Japan)</description>
-    <rom name="FIFA 2003 (Japan).rvz" size="1052183196" crc="DC178B62" sha1="C7B8DD2B1FF0933C6A3A78FC8A83163FF6B1359D" />
+    <description>FIFA 2003 - European Football (Japan)</description>
+    <rom name="FIFA 2003 - European Football (Japan).rvz" size="1052183196" crc="DC178B62" sha1="C7B8DD2B1FF0933C6A3A78FC8A83163FF6B1359D" />
   </game>
   <game name="FIFA Football 2003 (Europe)">
     <category>Games</category>
@@ -2909,6 +2914,11 @@
     <description>FIFA World Cup Germany 2006 (France)</description>
     <rom name="FIFA World Cup Germany 2006 (France).rvz" size="952638768" crc="6F3D9D94" sha1="2C03828A331531E6BFDCA137B848095A0AEAD648" />
   </game>
+  <game name="FIFA World Cup Germany 2006 (Latin America)">
+    <category>Games</category>
+    <description>FIFA World Cup Germany 2006 (Latin America)</description>
+    <rom name="FIFA World Cup Germany 2006 (Latin America).rvz" size="1002852512" crc="68297521" sha1="866B8B4E03F5469BF5DEFB0CD0792D8DB385B667" />
+  </game>
   <game name="FIFA World Cup Germany 2006 (USA)">
     <category>Games</category>
     <description>FIFA World Cup Germany 2006 (USA)</description>
@@ -3014,15 +3024,15 @@
     <description>Freekstyle (USA)</description>
     <rom name="Freekstyle (USA).rvz" size="364177752" crc="DC216E68" sha1="CFD92C3553C4BF65595F518CEFAC4059967270EB" />
   </game>
-  <game name="FreeLoader for GameCube (Australia) (Unl) (v1.04)">
-    <category>Applications</category>
-    <description>FreeLoader for GameCube (Australia) (Unl) (v1.04)</description>
-    <rom name="FreeLoader for GameCube (Australia) (Unl) (v1.04).rvz" size="378044" crc="B1831807" sha1="D32FD01F62E474659ADF0DF9CE034D032B6AED74" />
-  </game>
   <game name="FreeLoader for GameCube (Europe) (Unl) (GameCube + Wii)">
     <category>Applications</category>
     <description>FreeLoader for GameCube (Europe) (Unl) (GameCube + Wii)</description>
     <rom name="FreeLoader for GameCube (Europe) (Unl) (GameCube + Wii).rvz" size="916876" crc="B3FE8A4C" sha1="891EF0AA28704ABCFAD5C2890DEF1BE0DFD4A8C9" />
+  </game>
+  <game name="FreeLoader for GameCube (Europe) (Unl) (v1.04)">
+    <category>Applications</category>
+    <description>FreeLoader for GameCube (Europe) (Unl) (v1.04)</description>
+    <rom name="FreeLoader for GameCube (Europe) (Unl) (v1.04).rvz" size="378044" crc="B1831807" sha1="D32FD01F62E474659ADF0DF9CE034D032B6AED74" />
   </game>
   <game name="FreeLoader for GameCube (Europe) (Unl) (v1.06B)">
     <category>Applications</category>
@@ -4524,6 +4534,21 @@
     <description>Karaoke Revolution Party (USA)</description>
     <rom name="Karaoke Revolution Party (USA).rvz" size="712086720" crc="5855CADD" sha1="E7CB6C8286EF8284ECF9B363A22A975F0BF52815" />
   </game>
+  <game name="Karat GC-you Pro Action Replay - Best Price! Sokukouryaku GC-you Vol. 1 (Japan) (Unl)">
+    <category>Applications</category>
+    <description>Karat GC-you Pro Action Replay - Best Price! Sokukouryaku GC-you Vol. 1 (Japan) (Unl)</description>
+    <rom name="Karat GC-you Pro Action Replay - Best Price! Sokukouryaku GC-you Vol. 1 (Japan) (Unl).rvz" size="563148" crc="214127B4" sha1="D9B2D0B848B5F70A4EDF80762E3E2FF5C4C7A82A" />
+  </game>
+  <game name="Karat GC-you Pro Action Replay PAR GC-you (Japan) (Unl) (v1.07)">
+    <category>Applications</category>
+    <description>Karat GC-you Pro Action Replay PAR GC-you (Japan) (Unl) (v1.07)</description>
+    <rom name="Karat GC-you Pro Action Replay PAR GC-you (Japan) (Unl) (v1.07).rvz" size="880020" crc="33B7AE42" sha1="7AADB4B6D18961F901C4788D7BD441BC35BFF31D" />
+  </game>
+  <game name="Karat GC-you Pro Action Replay PAR GC-you (Japan) (Unl) (v1.20A)">
+    <category>Applications</category>
+    <description>Karat GC-you Pro Action Replay PAR GC-you (Japan) (Unl) (v1.20A)</description>
+    <rom name="Karat GC-you Pro Action Replay PAR GC-you (Japan) (Unl) (v1.20A).rvz" size="884092" crc="B40F3931" sha1="F292769CDBA21BCC60554BEA190117B0B40BCD96" />
+  </game>
   <game name="Kelly Slater's Pro Surfer (Europe)">
     <category>Games</category>
     <description>Kelly Slater's Pro Surfer (Europe)</description>
@@ -5085,7 +5110,7 @@
     <rom name="Mario Kart - Double Dash!! (USA).rvz" size="396323584" crc="7F89E4FA" sha1="A110AA0C71C3B742879969B9F3FF0C67645D364F" />
   </game>
   <game name="Mario Kart - Double Dash!! (USA) (Bonus Disc)">
-    <category>Demos</category>
+    <category>Bonus Discs</category>
     <description>Mario Kart - Double Dash!! (USA) (Bonus Disc)</description>
     <rom name="Mario Kart - Double Dash!! (USA) (Bonus Disc).rvz" size="1255977912" crc="5D431CDB" sha1="2D2C1BCB38905272412958C57B645CF039B9D2BF" />
   </game>
@@ -5278,6 +5303,16 @@
     <category>Applications</category>
     <description>Max Drive Pro (USA, Europe) (Unl)</description>
     <rom name="Max Drive Pro (USA, Europe) (Unl).rvz" size="557848" crc="7F5E56D3" sha1="08794A89384C6DF7330709621894B021D0ADBC92" />
+  </game>
+  <game name="Max Memory Power Saves - Volume 1 (USA) (Unl)">
+    <category>Applications</category>
+    <description>Max Memory Power Saves - Volume 1 (USA) (Unl)</description>
+    <rom name="Max Memory Power Saves - Volume 1 (USA) (Unl).rvz" size="2412544" crc="8CB8E980" sha1="C9B403195164CDEBCC8B4C162103FBBAD2F2C8A7" />
+  </game>
+  <game name="MaxPlay (Europe) (Unl)">
+    <category>Games</category>
+    <description>MaxPlay (Europe) (Unl)</description>
+    <rom name="MaxPlay (Europe) (Unl).rvz" size="7125112" crc="DEDFAAB8" sha1="D74E53254FF9F0C7AC65A7CCAC36D280DE093794" />
   </game>
   <game name="MaxPlay (USA) (Unl)">
     <category>Games</category>
@@ -8278,6 +8313,11 @@
     <category>Games</category>
     <description>Star Wars - Rogue Squadron III - Rebel Strike (USA) (En,Fr,De,Es,It)</description>
     <rom name="Star Wars - Rogue Squadron III - Rebel Strike (USA) (En,Fr,De,Es,It).rvz" size="1303428404" crc="69AD18A9" sha1="E05A05DBF3590704402D5E3A2219923CC0BCEC93" />
+  </game>
+  <game name="Star Wars - Rogue Squadron III - Rebel Strike (USA) (En,Fr,De,Es,It) (Rev 1)">
+    <category>Games</category>
+    <description>Star Wars - Rogue Squadron III - Rebel Strike (USA) (En,Fr,De,Es,It) (Rev 1)</description>
+    <rom name="Star Wars - Rogue Squadron III - Rebel Strike (USA) (En,Fr,De,Es,It) (Rev 1).rvz" size="1303589456" crc="2EA68E0B" sha1="69CAF6B44B35BC646818295A4B3ADCD7E1A36FF1" />
   </game>
   <game name="Star Wars - Rogue Squadron III - Rebel Strike (USA) (Limited Edition Preview Disc)">
     <category>Demos</category>
