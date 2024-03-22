@@ -1,7 +1,9 @@
-# MAME Redump 0.262
+# MAME Redump 0.263
 
 The aim of the MAME Redump project is to convert the redump sets into formats that are low on disk space, such as the chd format. Gamecube and Wii sets have been converted to NKit2 RVZ format (zstd-19-128k).
-All MAME CHDs are prioritized merged or included. Another goal is deduplication and to show how big or small the intersection between the two is. It should be possible to create either a MAME set or a redump set from the data.
+All MAME CHDs are merged or included. You need to recompress all mame chds that don't match since 0.263 because mame is uses obsolete hashes.
+
+Another goal is deduplication and to show how big or small the intersection between the two is. It should be possible to create either a MAME set or a redump set from the data.
 
 This project uses the track information stored in the CHD files to match against Redump. Gamecube and Wii Games are only matched by name for now.
 
@@ -34,8 +36,7 @@ Additional GDI Files
 # Building CHDs
 
 Most of the CHDs are builded with chdman 0.233 but you should use any version that creates V5 CHDs with the same metadata.
-Metadata is different if you use cue or gdi. Use the createcd command for chdman. For Windows you can use this short batch:
-- for /r %%i in (*.cue, *.gdi) do chdman createcd -i "%%i" -o "%%~ni.chd"
+Metadata is different if you use cue or gdi. Use the createcd command for chdman. For Windows you can find scripts in the metadata folder.
 
 Following Sets use GDI Files as source
 - Arcade - Namco - Sega - Nintendo - Triforce
@@ -69,11 +70,11 @@ Arcade - Sega - Lindbergh|2022-09-27|9|3|22 GB||
 Arcade - Sega - RingEdge 2|2020-01-21|5|2|6 GB||
 *Arcade - Sega - RingEdge*|2023-05-26|2|6|6 GB||
 **Atari - Jaguar CD Interactive Multimedia System**|2023-06-01|24|0|4 GB||
-**Bandai - Pippin**|2023-11-05|111|0|23 GB|pippin|395 MB
+**Bandai - Pippin**|2023-11-05|91|0|19 GB|pippin|4 GB
 Bandai - Playdia Quick Interactive System|2022-07-06|37|1|18 GB||
 Commodore - Amiga CD|2024-01-19|554|7|196 GB||
 Commodore - Amiga CD32|2024-01-19|232|1|26 GB|cd32|9 GB
-**Commodore - Amiga CDTV**|2024-01-19|161|0|21 GB|cdtv|7 GB
+**Commodore - Amiga CDTV**|2024-01-19|159|0|21 GB|cdtv|7 GB
 **Fujitsu - FM-Towns**|2024-01-24|954|0|141 GB|fmtowns_cd|132 GB
 ~~funworld - Photo Play~~|2020-01-21|0|3|||
 *IBM - PC compatible*|2024-01-31|634|44772|164 GB|ibm5170_cdrom|20 GB
@@ -83,31 +84,31 @@ Commodore - Amiga CD32|2024-01-19|232|1|26 GB|cd32|9 GB
 **Memorex - Visual Information System**|2024-01-22|72|0|8 GB||
 ~~Microsoft - Xbox 360~~|2024-01-30|0|3308|||
 ~~Microsoft - Xbox~~|2024-01-30|0|2602|||
-**NEC - PC Engine CD & TurboGrafx CD**|2024-01-05|1037|0|232 GB|pcecd|3 GB
+**NEC - PC Engine CD & TurboGrafx CD**|2024-01-05|1032|0|225 GB|pcecd|3 GB
 NEC - PC-88 series|2023-10-27|1|1|288 MB|pc8801_cdrom|288 MB
 NEC - PC-98 series|2023-10-24|299|1|48 GB|pc98_cd|12 GB
 **NEC - PC-FX**|2022-09-14|78|0|30 GB|pcfx|5 GB
-Nintendo - GameCube|2024-01-30|1980|8|1 TB||
+Nintendo - GameCube|2024-03-15|1988|3|1 TB||
 **Nintendo - Wii**|2024-01-26|3770|0|6 TB||
 **Palm**|2023-10-09|122|0|11 GB||
 ~~Panasonic - 3DO Interactive Multiplayer~~|2024-01-18|0|638|||
-Philips - CD-i|2024-01-27|2142|13|605 GB|cdi|136 GB
+Philips - CD-i|2024-01-27|2142|13|604 GB|cdi|136 GB
 **Photo CD**|2024-01-29|190|0|36 GB||
 **PlayStation GameShark Updates**|2023-10-14|31|0|544 MB||
 Pocket PC|2023-12-07|56|1|8 GB||
 Sega - Dreamcast|2024-01-05|2070|2|831 GB|dc|72 GB
-Sega - Mega-CD - Sega CD|2024-01-30|807|1|186 GB|megacd, megacdj, segacd|62 GB
+Sega - Mega-CD - Sega CD|2024-01-30|807|1|183 GB|megacd, megacdj, segacd|61 GB
 **Sega - Prologue 21**|2021-10-04|30|0|17 GB||
-**Sega - Saturn**|2024-01-30|4415|0|1 TB|saturn|132 GB
+**Sega - Saturn**|2024-01-30|4415|0|1 TB|saturn|129 GB
 **Sharp - X68000**|2022-07-24|28|0|6 GB||
 **SNK - Neo Geo CD**|2022-09-23|217|0|59 GB|neocd|847 MB
 *Sony - PlayStation 2*|2024-01-29|4145|7245|6 TB||
 ~~Sony - PlayStation 3~~|2023-08-08|0|4322|||
 *Sony - PlayStation Portable*|2023-08-08|737|2016|393 GB||
-Sony - PlayStation|2024-01-30|11556|16|3 TB|psx|552 GB
+Sony - PlayStation|2024-01-30|11558|15|3 TB|psx|551 GB
 **TAB-Austria - Quizard**|2023-09-13|15|0|4 GB||
 **Tomy - Kiss-Site**|2023-12-06|30|0|3 GB||
 VM Labs - NUON|2023-10-27|8|2|6 GB|nuon|6 GB
-**VTech - V.Flash & V.Smile Pro**|2023-11-29|58|0|10 GB|vsmile_cd|4 GB
+**VTech - V.Flash & V.Smile Pro**|2023-11-29|50|0|8 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2021-10-06|16|0|49 GB||
-Total||37092|65917|20 TB||1 TB
+Total||37067|65911|20 TB||1 TB

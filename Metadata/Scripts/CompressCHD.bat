@@ -1,0 +1,1 @@
+for /r %%i in (*.cue, *.gdi) do chdman createcd -i "%%i" -o "%%~pi%%~ni.chd"
