@@ -3,7 +3,7 @@
 <datafile>
   <header>
     <name>Philips - CD-i</name>
-    <description>MAME Redump - Philips - CD-i - Discs (2025) (2024-01-27 00-47-22)</description>
+    <description>MAME Redump - Philips - CD-i - Discs (2041) (2024-04-08 20-06-33)</description>
     <version>0.263</version>
     <date>2024-03-22</date>
     <author>MAME Redump</author>
@@ -1189,10 +1189,9 @@
     <description>CD-i &amp; Video CD Titel-Neuheiten I-95 (Germany)</description>
     <disk name="CD-i &amp; Video CD Titel-Neuheiten I-95 (Germany).chd" sha1="c15cbed8025caa1135608e2ecfec5ed0b1702cee" />
   </machine>
-  <machine name="CD-i &amp; Video CD Titel-Neuheiten II-95 (Germany)">
-    <category>Demos</category>
+  <machine name="CD-i &amp; Video CD Titel-Neuheiten II-95 (Germany)_2">
     <description>CD-i &amp; Video CD Titel-Neuheiten II-95 (Germany)</description>
-    <disk name="CD-i &amp; Video CD Titel-Neuheiten II-95 (Germany).chd" sha1="586af622b32b1972ab0991d44873cfa3158fcac5" />
+    <disk name="CD-i &amp; Video CD Titel-Neuheiten II-95 (Germany)_2.chd" sha1="586af622b32b1972ab0991d44873cfa3158fcac5" />
   </machine>
   <machine name="CDI 450 - Tutorial Disc (Europe) (En,Fr,De,Es,It,Nl,Pt)">
     <category>Demos</category>
@@ -3034,10 +3033,10 @@
     <description>Dit Was 1994 (Netherlands)</description>
     <disk name="Dit Was 1994 (Netherlands).chd" sha1="ca802eb9011f891fedf2be78e176be79f2887c51" />
   </machine>
-  <machine name="Dit Was 1995 (Netherlands)">
+  <machine name="Dit Was 1995 (Netherlands) (814 0085)">
     <category>Multimedia</category>
-    <description>Dit Was 1995 (Netherlands)</description>
-    <disk name="Dit Was 1995 (Netherlands).chd" sha1="66262385c5dd17c9afdfdc93597d4e1b72a0b0b7" />
+    <description>Dit Was 1995 (Netherlands) (814 0085)</description>
+    <disk name="Dit Was 1995 (Netherlands) (814 0085).chd" sha1="66262385c5dd17c9afdfdc93597d4e1b72a0b0b7" />
   </machine>
   <machine name="Divination - Les Reponses a Vos Questions (France)">
     <category>Multimedia</category>
@@ -4524,6 +4523,11 @@
     <description>Hotel Mario (USA)</description>
     <disk name="Hotel Mario (USA).chd" sha1="b98fb04b357c92e42797f1486160c670762b4329" />
   </machine>
+  <machine name="Hotel Mario (USA) (Beta) (1993-11-23)">
+    <category>Preproduction</category>
+    <description>Hotel Mario (USA) (Beta) (1993-11-23)</description>
+    <disk name="Hotel Mario (USA) (Beta) (1993-11-23).chd" sha1="3f0375fb2c74b9abc7c4eb8ef0b3f907b70307cb" />
+  </machine>
   <machine name="How Animals Survive (USA)">
     <category>Educational</category>
     <description>How Animals Survive (USA)</description>
@@ -5230,7 +5234,7 @@
     <disk name="Karaoke Klassicos 1 - Musica Popular Portuguesa - Volume 1 (Portugal).chd" sha1="aa6820a677d099f78a9e190222440b187110928e" />
   </machine>
   <machine name="Karaoke Klassics 1 - Family Favorites (Europe)">
-    <category>Games</category>
+    <category>Multimedia</category>
     <description>Karaoke Klassics 1 - Family Favorites (Europe)</description>
     <disk name="Karaoke Klassics 1 - Family Favorites (Europe).chd" sha1="3aadcd985376101d726e543478ce79bd78d33109" />
   </machine>
@@ -6364,15 +6368,15 @@
     <description>Methode de Langues Multimedia, La - Je Parle l'Allemand - Junior (France)</description>
     <disk name="Methode de Langues Multimedia, La - Je Parle l'Allemand - Junior (France).chd" sha1="d30afa84f7cc1b264c739c4833d6619b57d20b1c" />
   </machine>
-  <machine name="Methode de Langues Multimedia, La - Je Parle l'Allemand - La Methode Senior (France)">
+  <machine name="Methode de Langues Multimedia, La - Je Parle l'Allemand - Senior (France)">
     <category>Educational</category>
-    <description>Methode de Langues Multimedia, La - Je Parle l'Allemand - La Methode Senior (France)</description>
-    <disk name="Methode de Langues Multimedia, La - Je Parle l'Allemand - La Methode Senior (France).chd" sha1="e6821a5cdd6c24bf60dd3f0cc7d4f7df6acf08bd" />
+    <description>Methode de Langues Multimedia, La - Je Parle l'Allemand - Senior (France)</description>
+    <disk name="Methode de Langues Multimedia, La - Je Parle l'Allemand - Senior (France).chd" sha1="e6821a5cdd6c24bf60dd3f0cc7d4f7df6acf08bd" />
   </machine>
-  <machine name="Methode de Langues Multimedia, La - Je Parle l'Anglais - La Methode Junior (France)">
+  <machine name="Methode de Langues Multimedia, La - Je Parle l'Anglais - Junior (France)">
     <category>Educational</category>
-    <description>Methode de Langues Multimedia, La - Je Parle l'Anglais - La Methode Junior (France)</description>
-    <disk name="Methode de Langues Multimedia, La - Je Parle l'Anglais - La Methode Junior (France).chd" sha1="f679ca942420cafd778c6aa8c8fea3f03b0323a9" />
+    <description>Methode de Langues Multimedia, La - Je Parle l'Anglais - Junior (France)</description>
+    <disk name="Methode de Langues Multimedia, La - Je Parle l'Anglais - Junior (France).chd" sha1="f679ca942420cafd778c6aa8c8fea3f03b0323a9" />
   </machine>
   <machine name="Methode de Langues Multimedia, La - Je Parle l'Anglais - Senior (France)">
     <category>Educational</category>
@@ -6398,6 +6402,11 @@
     <category>Multimedia</category>
     <description>Mission on Music - June 1995 (Europe)</description>
     <disk name="Mission on Music - June 1995 (Europe).chd" sha1="4f272d0643f50f4e0d7e50b78e97a90b4f5c4de6" />
+  </machine>
+  <machine name="Mondrian (Europe)">
+    <category>Multimedia</category>
+    <description>Mondrian (Europe)</description>
+    <disk name="Mondrian (Europe).chd" sha1="de6339dfd41eccd7d1821dbe3ac2c9e842d32b89" />
   </machine>
   <machine name="Money at Work (UK)">
     <category>Multimedia</category>
@@ -7168,6 +7177,11 @@
     <category>Multimedia</category>
     <description>Peugeot - Product Range Information - For Showroom Use - March 97 (UK)</description>
     <disk name="Peugeot - Product Range Information - For Showroom Use - March 97 (UK).chd" sha1="ca5fc43447432cb5daba891faf05eedb5e8ac1b2" />
+  </machine>
+  <machine name="Peugeot - Selling for Real - Demonstration and Handover &amp; Delivery (UK)">
+    <category>Multimedia</category>
+    <description>Peugeot - Selling for Real - Demonstration and Handover &amp; Delivery (UK)</description>
+    <disk name="Peugeot - Selling for Real - Demonstration and Handover &amp; Delivery (UK).chd" sha1="7f3b24cd72d949d345ee2c84597e054177046a8b" />
   </machine>
   <machine name="Peugeot - The Passport Experience (UK)">
     <category>Multimedia</category>
@@ -7988,11 +8002,6 @@
     <category>Video</category>
     <description>Sell It to Me! Part One - Preparing The Way (UK)</description>
     <disk name="Sell It to Me! Part One - Preparing The Way (UK).chd" sha1="32ec4232ae37ffadc87a1c160cbda289bc024c77" />
-  </machine>
-  <machine name="Selling for Real - Demonstration and Handover &amp; Delivery (UK)">
-    <category>Multimedia</category>
-    <description>Selling for Real - Demonstration and Handover &amp; Delivery (UK)</description>
-    <disk name="Selling for Real - Demonstration and Handover &amp; Delivery (UK).chd" sha1="7f3b24cd72d949d345ee2c84597e054177046a8b" />
   </machine>
   <machine name="Selling for Real - Interactive Video Sales Training - Handling Telephone Sales Enquiries and Making Appraisals Pay (UK)">
     <category>Multimedia</category>
@@ -10344,10 +10353,6 @@
   <machine name="maxmagic\max magic (1994)(philips)(eu)[a]">
     <description>maxmagic\max magic (1994)(philips)(eu)[a]</description>
     <disk name="maxmagic\max magic (1994)(philips)(eu)[a].chd" sha1="3d14e914200edf429c35879cd92f2b46b690453a" />
-  </machine>
-  <machine name="mondrian\mondriaan (1995)(zoutewelle multimedia)(nl)(en-nl)[cd-i-pc]">
-    <description>mondrian\mondriaan (1995)(zoutewelle multimedia)(nl)(en-nl)[cd-i-pc]</description>
-    <disk name="mondrian\mondriaan (1995)(zoutewelle multimedia)(nl)(en-nl)[cd-i-pc].chd" sha1="de6339dfd41eccd7d1821dbe3ac2c9e842d32b89" />
   </machine>
   <machine name="mystmidw\mystic midway - rest in pieces (1992)(philips)(jp)">
     <description>mystmidw\mystic midway - rest in pieces (1992)(philips)(jp)</description>
