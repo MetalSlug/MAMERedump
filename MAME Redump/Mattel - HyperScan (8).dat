@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+  <header>
+    <name>Mattel - HyperScan</name>
+    <description>MAME Redump - Mattel - HyperScan - Discs (8) (2024-02-26 19-18-13)</description>
+    <version>0.263</version>
+    <date>2024-03-22</date>
+    <author>MAME Redump</author>
+    <url>https://github.com/MetalSlug/MAMERedump</url>
+  </header>
+  <machine name="Ben 10 (USA) (USE1)">
+    <category>Games</category>
+    <description>Ben 10 (USA) (USE1)</description>
+    <disk name="Ben 10 (USA) (USE1).chd" sha1="b9ca64097a69d40c10f4b6412396ec06fcf8179b" />
+  </machine>
+  <machine name="Ben 10 (USA) (USE2)">
+    <category>Games</category>
+    <description>Ben 10 (USA) (USE2)</description>
+    <disk name="Ben 10 (USA) (USE2).chd" sha1="fa34cf65d91251cead457acbb1aa0cb51a26daff" />
+  </machine>
+  <machine name="IWL - Interstellar Wrestling League (USA) (USE1)">
+    <category>Games</category>
+    <description>IWL - Interstellar Wrestling League (USA) (USE1)</description>
+    <disk name="IWL - Interstellar Wrestling League (USA) (USE1).chd" sha1="ed2751a003d2b1f05153ede4557d6179b20c9444" />
+  </machine>
+  <machine name="IWL - Interstellar Wrestling League (USA) (USE2)">
+    <category>Games</category>
+    <description>IWL - Interstellar Wrestling League (USA) (USE2)</description>
+    <disk name="IWL - Interstellar Wrestling League (USA) (USE2).chd" sha1="eb61153a60c2df4f08496b072e0ef5df6b181aa6" />
+  </machine>
+  <machine name="Marvel Heroes (USA) (USE2)">
+    <category>Games</category>
+    <description>Marvel Heroes (USA) (USE2)</description>
+    <disk name="Marvel Heroes (USA) (USE2).chd" sha1="df8094339255ca9c2e44004177fb8cc3737beb2e" />
+  </machine>
+  <machine name="Spider-Man (USA)">
+    <category>Games</category>
+    <description>Spider-Man (USA)</description>
+    <disk name="Spider-Man (USA).chd" sha1="41e9419601963883eb12e723e9f7184e983d09af" />
+  </machine>
+  <machine name="X-Men (USA) (USE)">
+    <category>Games</category>
+    <description>X-Men (USA) (USE)</description>
+    <disk name="X-Men (USA) (USE).chd" sha1="06c9622bec2715f4730ebff45f7c5331c4712236" />
+  </machine>
+  <machine name="X-Men (USA) (USE2)">
+    <category>Games</category>
+    <description>X-Men (USA) (USE2)</description>
+    <disk name="X-Men (USA) (USE2).chd" sha1="d2316c228c42474b429b8b8078f517022c850188" />
+  </machine>
+</datafile>

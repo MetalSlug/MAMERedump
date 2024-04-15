@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+  <header>
+    <name>Palm</name>
+    <description>MAME Redump - Palm - Discs (130) (2024-03-24 20-30-46)</description>
+    <version>0.263</version>
+    <date>2024-03-22</date>
+    <author>MAME Redump</author>
+    <url>https://github.com/MetalSlug/MAMERedump</url>
+  </header>
+  <game name="PDA Essentials - Issue 15 (UK)">
+    <description>PDA Essentials - Issue 15 (UK)</description>
+    <rom name="PDA Essentials - Issue 15 (UK).cue" size="96" crc="98335518" md5="ED0F01C8E4253C9A0F575D273AE94205" sha1="4150D33830384E57FCB3354A4A32775F511E8B01" />
+    <rom name="PDA Essentials - Issue 15 (UK).bin" size="641566800" crc="C1629D1C" md5="3003BAB7268DEEA7BD8F75925A5596D9" sha1="196D670E9FE04D407846A688C90F541B20D13B7A" />
+  </game>
+</datafile>
