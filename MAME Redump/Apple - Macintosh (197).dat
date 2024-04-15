@@ -3,7 +3,7 @@
 <datafile>
   <header>
     <name>Apple - Macintosh</name>
-    <description>MAME Redump - Apple - Macintosh - Discs (1112) (2024-01-29 09-41-19)</description>
+    <description>MAME Redump - Apple - Macintosh - Discs (1134) (2024-04-12 11-33-44)</description>
     <version>0.263</version>
     <date>2024-03-22</date>
     <author>MAME Redump</author>
@@ -684,15 +684,15 @@
     <description>Myst (Europe) (Rerelease)</description>
     <disk name="Myst (Europe) (Rerelease).chd" sha1="d444138aa7ee73a7399bd04779e8cf46e2f3c10c" />
   </machine>
-  <machine name="Myst (USA)">
-    <category>Games</category>
-    <description>Myst (USA)</description>
-    <disk name="Myst (USA).chd" sha1="1f825b8419212ec0e3ae22db4dd90c7bd4bdc37a" />
-  </machine>
   <machine name="Myst (USA) (Rerelease)">
     <category>Games</category>
     <description>Myst (USA) (Rerelease)</description>
     <disk name="Myst (USA) (Rerelease).chd" sha1="7e1d64e5bd029393035486970a51637630cee9b2" />
+  </machine>
+  <machine name="Myst (USA, Europe)">
+    <category>Games</category>
+    <description>Myst (USA, Europe)</description>
+    <disk name="Myst (USA, Europe).chd" sha1="1f825b8419212ec0e3ae22db4dd90c7bd4bdc37a" />
   </machine>
   <machine name="Night Trap (USA) (Disc 1)">
     <category>Games</category>
@@ -889,10 +889,10 @@
     <description>Virtual Pool (USA)</description>
     <disk name="Virtual Pool (USA).chd" sha1="ad5fe4c880b155b0f8d7052e8ec51e43b129204b" />
   </machine>
-  <machine name="Virtual Pool 3D (USA)">
+  <machine name="Virtual Pool 3D (USA) (OEM) (Power Macintosh 6500)">
     <category>Games</category>
-    <description>Virtual Pool 3D (USA)</description>
-    <disk name="Virtual Pool 3D (USA).chd" sha1="729faa1cff47cfc7baefa028e679a71a359a8c21" />
+    <description>Virtual Pool 3D (USA) (OEM) (Power Macintosh 6500)</description>
+    <disk name="Virtual Pool 3D (USA) (OEM) (Power Macintosh 6500).chd" sha1="729faa1cff47cfc7baefa028e679a71a359a8c21" />
   </machine>
   <machine name="Virtual Variety Show (Japan)">
     <category>Games</category>
