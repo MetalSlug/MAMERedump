@@ -9,12 +9,12 @@
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
-	<game name="amateur\amateur teikyou cd-rom (japan)" sha1="e7acc11c014b536198461d9c47310827e26368d9" size="427697279" crc="af02e576" fullsha1="ce2f6509a2bebcd36a1063ca6233d3d6150b7419" dataSha1="c6561a6037240e2abe0087bc76c1094af01da991">
+	<game name="amateur\amateur teikyou cd-rom (japan)" type="cd" sha1="e7acc11c014b536198461d9c47310827e26368d9" size="427697279" crc="af02e576" fullsha1="ce2f6509a2bebcd36a1063ca6233d3d6150b7419" dataSha1="c6561a6037240e2abe0087bc76c1094af01da991">
 		<category>Games</category>
 		<description>amateur\amateur teikyou cd-rom (japan)</description>
 		<rom name="amateur teikyou cd-rom (japan) (Track 01).bin" size="563764992" crc="bf8e82f3" md5="da53e5a17fc963bf40beec2e5112d208" sha1="4857e4ec665f4af2fe56da9e2441223b1804208f"/>
 	</game>
-	<game name="angeliq\fushigi no kuni no angelique (japan)" sha1="7b909254cc2d4ec3661d5dd896661a95f815338b" size="254849129" crc="c4ee203f" fullsha1="4d838cd6b5123d86b415bc4ab405714a16bacfad" dataSha1="3cb07033b7496741a75cc45a40ea5abe124d28fd">
+	<game name="angeliq\fushigi no kuni no angelique (japan)" type="cd" sha1="7b909254cc2d4ec3661d5dd896661a95f815338b" size="254849129" crc="c4ee203f" fullsha1="4d838cd6b5123d86b415bc4ab405714a16bacfad" dataSha1="3cb07033b7496741a75cc45a40ea5abe124d28fd">
 		<category>Games</category>
 		<description>angeliq\fushigi no kuni no angelique (japan)</description>
 		<rom name="fushigi no kuni no angelique (japan) (Track 01).bin" size="9807840" crc="f6e8e806" md5="269366677591eef57067cab7adff44e4" sha1="03732c9a21c25a3cbdc1b9240dad793b8a942a9b"/>
@@ -24,7 +24,7 @@
 		<rom name="fushigi no kuni no angelique (japan) (Track 05).bin" size="109624368" crc="2b01a2ff" md5="20d69edd4ae6b1e8cd094de2e3877279" sha1="f0bc3f073cc97b2f780916e4f33817e337ed0ce8"/>
 		<rom name="fushigi no kuni no angelique (japan) (Track 06).bin" size="208662384" crc="503f3981" md5="0c0a09295b60d7e366b57701b9ac8689" sha1="cc001cbd8925e93feb2a306133e335498b5d4153"/>
 	</game>
-	<game name="batlheat\battle heat (japan)" sha1="23075a19768909f7acb09965e1d9eaadce0e8803" size="596423429" crc="56055289" fullsha1="1a73ab8064ddfaebd5e555f51e4c153da6027fd7" dataSha1="d6e9d28baae23ab403234c85bba3cc9ab2338a23">
+	<game name="batlheat\battle heat (japan)" type="cd" sha1="23075a19768909f7acb09965e1d9eaadce0e8803" size="596423429" crc="56055289" fullsha1="1a73ab8064ddfaebd5e555f51e4c153da6027fd7" dataSha1="d6e9d28baae23ab403234c85bba3cc9ab2338a23">
 		<category>Games</category>
 		<description>batlheat\battle heat (japan)</description>
 		<rom name="battle heat (japan) (Track 01).bin" size="9984240" crc="ffbd46cf" md5="fd4de25e8dc4adfdca7d23487eb18616" sha1="6f2693dbcf9cbec5ee4799539a73e69ecb633974"/>
@@ -50,7 +50,7 @@
 		<rom name="battle heat (japan) (Track 21).bin" size="39577104" crc="d1003684" md5="81bfb65011069a2bb4254bfa991005d1" sha1="fb08dbdef1587ed742ecec29735eabf6080f480c"/>
 		<rom name="battle heat (japan) (Track 22).bin" size="3036432" crc="f05ef9d1" md5="879b50f013dcb3b8f1978c2686e160b7" sha1="6196c344fa902b27e977e1aadb804d7a31585752"/>
 	</game>
-	<game name="cancandx\can can bunny extra dx (japan)" sha1="fd31c05c0dd1aa524e52989eeb9a804bb5502a9d" size="466836385" crc="822f2607" fullsha1="9153147469b2b9ecadebb9990c707f4c3d3f6587" dataSha1="934e3924ed1c5814e1c314f7329be609f9550800">
+	<game name="cancandx\can can bunny extra dx (japan)" type="cd" sha1="fd31c05c0dd1aa524e52989eeb9a804bb5502a9d" size="466836385" crc="822f2607" fullsha1="9153147469b2b9ecadebb9990c707f4c3d3f6587" dataSha1="934e3924ed1c5814e1c314f7329be609f9550800">
 		<category>Games</category>
 		<description>cancandx\can can bunny extra dx (japan)</description>
 		<rom name="can can bunny extra dx (japan) (Track 01).bin" size="6552672" crc="032abddc" md5="85bd4b8994fc0114b18724d3e8b43970" sha1="966d4511ae5d160be51098c67762d6eec8178d40"/>
@@ -61,7 +61,7 @@
 		<rom name="can can bunny extra dx (japan) (Track 06).bin" size="15015168" crc="0237a0ee" md5="07851fc8e877bba8d786314b69beb75b" sha1="2fe53580664efbb73ebad09982878c693b9aca78"/>
 		<rom name="can can bunny extra dx (japan) (Track 07).bin" size="16205280" crc="fa614964" md5="4bbe6b0855473b8f4234bd75dd07d9d7" sha1="ae7c666ef79f62beab43d5157e721ec6d2673bb7"/>
 	</game>
-	<game name="carrot\pia carrot e youkoso weve been waiting for you (japan)" sha1="5c352a4704c44fd6ee7404e82fcf91fac08efb5c" size="508095577" crc="7b955158" fullsha1="95a5c2f20d406dcaa0ab5e0ff692e3ee2cd4ad76" dataSha1="7e931694324fe24f30bc27efebb505e7782a7805">
+	<game name="carrot\pia carrot e youkoso weve been waiting for you (japan)" type="cd" sha1="5c352a4704c44fd6ee7404e82fcf91fac08efb5c" size="508095577" crc="7b955158" fullsha1="95a5c2f20d406dcaa0ab5e0ff692e3ee2cd4ad76" dataSha1="7e931694324fe24f30bc27efebb505e7782a7805">
 		<category>Games</category>
 		<description>carrot\pia carrot e youkoso weve been waiting for you (japan)</description>
 		<rom name="pia carrot e youkoso weve been waiting for you (japan) (Track 01).bin" size="15753696" crc="df1bc605" md5="a07bd9cb8d5b9ed0795614b31617d952" sha1="9239a71c3d137b9f8c66aed6b48c3588b0c222ee"/>
@@ -70,7 +70,7 @@
 		<rom name="pia carrot e youkoso weve been waiting for you (japan) (Track 04).bin" size="16127664" crc="2692453d" md5="708df4125e1480a742323ae30415cd61" sha1="193a596bb1425a3a158d25e70f3477c3076d593a"/>
 		<rom name="pia carrot e youkoso weve been waiting for you (japan) (Track 05).bin" size="16132368" crc="628c016b" md5="3d17c7ce3c4ca554fdb4d783f47857d2" sha1="f1077511c3b31cd7ed882ed1b3524a107d2e9fd4"/>
 	</game>
-	<game name="dknight4\dragon knight 4 (japan)" sha1="0b649ce522da274b6f26e24fde668a1048d05c7b" size="260119321" crc="8be5d32e" fullsha1="c0a81f9b38f6acbccc03c0d5fdad39e1bc834122" dataSha1="cb4f33825f18a7dd32ee210c9eb7c485522abe3c">
+	<game name="dknight4\dragon knight 4 (japan)" type="cd" sha1="0b649ce522da274b6f26e24fde668a1048d05c7b" size="260119321" crc="8be5d32e" fullsha1="c0a81f9b38f6acbccc03c0d5fdad39e1bc834122" dataSha1="cb4f33825f18a7dd32ee210c9eb7c485522abe3c">
 		<category>Games</category>
 		<description>dknight4\dragon knight 4 (japan)</description>
 		<rom name="dragon knight 4 (japan) (Track 01).bin" size="9984240" crc="63d02360" md5="d4126cc40a2a04de03ec7882f8e5002a" sha1="9522a63973ae00dc273c9ee1b52b8ff5c95f59cf"/>
@@ -78,7 +78,7 @@
 		<rom name="dragon knight 4 (japan) (Track 03).bin" size="44996112" crc="1948dff9" md5="90e8ee2d5dffa6dd6aa060a3e28323aa" sha1="da6a03b8258c6e56b65d5c619f7ea7024346c5c2"/>
 		<rom name="dragon knight 4 (japan) (Track 04).bin" size="51377088" crc="e2b31f7a" md5="52f711a0efa9cc18047a3665896de9b2" sha1="d7ec0791cbd6af89ae15bde28527c9eef58efac8"/>
 	</game>
-	<game name="doukyuu2\doukyuusei 2 (japan)" sha1="c2f36aac98fc257b38515c3672bbb2046db55b4c" size="333199127" crc="e321e6b8" fullsha1="b20af9f1d3d2abad58656efcafa4f981f6bdb22b" dataSha1="b56688adb9ddf746eaad5b81e82cd64392b297be">
+	<game name="doukyuu2\doukyuusei 2 (japan)" type="cd" sha1="c2f36aac98fc257b38515c3672bbb2046db55b4c" size="333199127" crc="e321e6b8" fullsha1="b20af9f1d3d2abad58656efcafa4f981f6bdb22b" dataSha1="b56688adb9ddf746eaad5b81e82cd64392b297be">
 		<category>Games</category>
 		<description>doukyuu2\doukyuusei 2 (japan)</description>
 		<rom name="doukyuusei 2 (japan) (Track 01).bin" size="9984240" crc="fa6859da" md5="c6c2a7ff15f787c4cf008ae457e10f49" sha1="f9cefe79e72dc154952d60e80d16a84817e4b089"/>
@@ -90,7 +90,7 @@
 		<rom name="doukyuusei 2 (japan) (Track 07).bin" size="23171904" crc="0c191ea9" md5="6eb020633239000a48bdee59a4a9ac2b" sha1="8c33e9f9fb68a7bafceb268e9d5c017d0ef89b71"/>
 		<rom name="doukyuusei 2 (japan) (Track 08).bin" size="26300064" crc="8a71f567" md5="d597479b39b28538e932bfdcb3d3508c" sha1="4559420b4de1ed3b5ffca276f9b0d1d20f8e7335"/>
 	</game>
-	<game name="farland\farland story fx (japan)" sha1="b17cf08d8658d3c23172c8b2699de6f0de4d21b6" size="438902917" crc="254f782c" fullsha1="9c9689a0d06a9276bb87a2f1a616bc6e93334b75" dataSha1="ee1ce69aa35e658901eb31ce3a49427261d4abd4">
+	<game name="farland\farland story fx (japan)" type="cd" sha1="b17cf08d8658d3c23172c8b2699de6f0de4d21b6" size="438902917" crc="254f782c" fullsha1="9c9689a0d06a9276bb87a2f1a616bc6e93334b75" dataSha1="ee1ce69aa35e658901eb31ce3a49427261d4abd4">
 		<category>Games</category>
 		<description>farland\farland story fx (japan)</description>
 		<rom name="farland story fx (japan) (Track 01).bin" size="9807840" crc="fe689557" md5="f3c602776cef3435cae753c9006b8507" sha1="f65d769a8f0ba60a5003aa985da6adc7c3c73eeb"/>
@@ -99,20 +99,20 @@
 		<rom name="farland story fx (japan) (Track 04).bin" size="4687536" crc="17fd6e5a" md5="f2037fa1c694c084cb5769067bd5f5c5" sha1="7fa73a499a0dfd187375bda0d2b652f3ea82ded7"/>
 		<rom name="farland story fx (japan) (Track 05).bin" size="9495024" crc="b514239b" md5="fb456a281ffe37718adbe6b0b0f8eb45" sha1="51026c02b8f16a8804a16f504191ec5b5407bddd"/>
 	</game>
-	<game name="firewomn\fire woman matoigumi (japan)" sha1="2aa32e818df0292efba1769c10401900282c8643" size="360574824" crc="90484adc" fullsha1="1e31207f18c16ea61b9485d99fe9af3da0a3e2d0" dataSha1="3972393764aa1f9e35088abf06eceda42d0baddb">
+	<game name="firewomn\fire woman matoigumi (japan)" type="cd" sha1="2aa32e818df0292efba1769c10401900282c8643" size="360574824" crc="90484adc" fullsha1="1e31207f18c16ea61b9485d99fe9af3da0a3e2d0" dataSha1="3972393764aa1f9e35088abf06eceda42d0baddb">
 		<category>Games</category>
 		<description>firewomn\fire woman matoigumi (japan)</description>
 		<rom name="fire woman matoigumi (japan) (Track 01).bin" size="11687088" crc="4d24ecd2" md5="22c3df6c39ee7f7b559159587bf358e0" sha1="d843849a3879560e0f53a4c126b6a43c368ddc82"/>
 		<rom name="fire woman matoigumi (japan) (Track 02).bin" size="594573840" crc="ad52b608" md5="3a4b4d09b30cf61392c373a7018f22d0" sha1="153c8a5c3bfedf1432ca4d8911984acf86004917"/>
 	</game>
-	<game name="langriss\langrisser fx, der (japan)" sha1="2d1f4f84b3f4c3a02978243af0bb9774dd6e8a87" size="513855865" crc="fc7dcb22" fullsha1="15e757fa66c46570f038a27d59b0709d1cf9d4bf" dataSha1="dd370b4245b67f7f3a6294186dec561333672e60">
+	<game name="langriss\langrisser fx, der (japan)" type="cd" sha1="2d1f4f84b3f4c3a02978243af0bb9774dd6e8a87" size="513855865" crc="fc7dcb22" fullsha1="15e757fa66c46570f038a27d59b0709d1cf9d4bf" dataSha1="dd370b4245b67f7f3a6294186dec561333672e60">
 		<category>Games</category>
 		<description>langriss\langrisser fx, der (japan)</description>
 		<rom name="langrisser fx, der (japan) (Track 01).bin" size="4106592" crc="5c972620" md5="255f657ed9e73b2e9ae7801461501fca" sha1="cd288828a7bfc224f20966e5b35ad390693c8d2b"/>
 		<rom name="langrisser fx, der (japan) (Track 02).bin" size="755535312" crc="4f891843" md5="934b46dd3a65a08043b8c48c2a5df517" sha1="efcd0b95b5cacf31ddb52e8c6cf069cd567321d6"/>
 		<rom name="langrisser fx, der (japan) (Track 03).bin" size="17120208" crc="41e67bc3" md5="9c1084b346c175d2209349be43687553" sha1="8acc6e4017614906dd752fa25c8ec4d1063ce826"/>
 	</game>
-	<game name="megamip2\megami paradise ii (japan)" sha1="bb4a18505cedac4de3a6b3a16363b2bc22b762e9" size="512154058" crc="3ba8eeb8" fullsha1="86ac2e526c9c7821708b0e47e9ebb317b79c790b" dataSha1="ef65b6ab32e1a6103a335c325081f58234fdcefc">
+	<game name="megamip2\megami paradise ii (japan)" type="cd" sha1="bb4a18505cedac4de3a6b3a16363b2bc22b762e9" size="512154058" crc="3ba8eeb8" fullsha1="86ac2e526c9c7821708b0e47e9ebb317b79c790b" dataSha1="ef65b6ab32e1a6103a335c325081f58234fdcefc">
 		<category>Games</category>
 		<description>megamip2\megami paradise ii (japan)</description>
 		<rom name="megami paradise ii (japan) (Track 01).bin" size="7422912" crc="97d662ff" md5="2d355a1f31706114f827d80141aeac44" sha1="43eb3031ba46007cfbd859690d56bae5ebadbded"/>
@@ -120,7 +120,7 @@
 		<rom name="megami paradise ii (japan) (Track 03).bin" size="23543520" crc="72ed99b2" md5="d7ad5de0092cb66e55ed075289fc8d1d" sha1="8ba5db0dace743f3b4a2292cf1ad9f26ad211b25"/>
 		<rom name="megami paradise ii (japan) (Track 04).bin" size="1735776" crc="2902bd99" md5="856ae19b2073b718ca194d543d479093" sha1="fdecb6edc5d84d784bb50f50e8b88fbce4ee046d"/>
 	</game>
-	<game name="sotsugy2\sotsugyou ii fx - neo generation (japan)" sha1="70fe16b3d053eb361909f595d8f327ff29085f77" size="363386042" crc="5f179532" fullsha1="8a9e5f269c854d1daa4114ba68a3e89598f26e81" dataSha1="ef392eb653956c0abcb8cf0505867d5b576b6b6e">
+	<game name="sotsugy2\sotsugyou ii fx - neo generation (japan)" type="cd" sha1="70fe16b3d053eb361909f595d8f327ff29085f77" size="363386042" crc="5f179532" fullsha1="8a9e5f269c854d1daa4114ba68a3e89598f26e81" dataSha1="ef392eb653956c0abcb8cf0505867d5b576b6b6e">
 		<category>Games</category>
 		<description>sotsugy2\sotsugyou ii fx - neo generation (japan)</description>
 		<rom name="sotsugyou ii fx - neo generation (japan) (Track 01).bin" size="31354512" crc="378a716b" md5="7d6e2817cc33ea1e4eafdeaabd4b46a1" sha1="e54d98d6be373d5010e61b86b767028e17e40164"/>

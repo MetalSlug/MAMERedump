@@ -9,7 +9,7 @@
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
-	<game name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty)" sha1="a08dddbae4347c73f802bc6313b5d570141cba8b" size="211179855" crc="5e76edf0" fullsha1="e39a2eed4d34eb3f5a9b7df06891a04b9d407631" dataSha1="b8c19e4e0cddaf68e8a022f9273515076d8dc625">
+	<game name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty)" type="cd" sha1="a08dddbae4347c73f802bc6313b5d570141cba8b" size="211179855" crc="5e76edf0" fullsha1="e39a2eed4d34eb3f5a9b7df06891a04b9d407631" dataSha1="b8c19e4e0cddaf68e8a022f9273515076d8dc625">
 		<category>Games</category>
 		<description>CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty)</description>
 		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 01).bin" size="10231200" crc="bc566918" md5="69af878360f1143ce6d9b084a3695fe0" sha1="0ed82dbb14143da7de859acb5197ba6da600f695"/>
@@ -50,12 +50,12 @@
 		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 36).bin" size="28840224" crc="ecb2ce3f" md5="bef10b265c4271524cc3ede59ca01612" sha1="2fb36fceda3d20b52e290f5c412e82820cb4ad4e"/>
 		<rom name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty) (Track 37).bin" size="49352016" crc="fdee206e" md5="61d22e368115cf239305ff957c579f87" sha1="7b625bf33e4ace3c90b74a9afedbf1fba61ce34d"/>
 	</game>
-	<game name="CRI StacCard (Japan)" sha1="96c7301a557ba0637922413b5c7516b9c64e6adc" size="2525287" crc="d89230cb" fullsha1="155a4ac8980a459ec3a25585c52392bcfb955754" dataSha1="e8ed10c8a35530eced29de173a441bde4a683707">
+	<game name="CRI StacCard (Japan)" type="cd" sha1="96c7301a557ba0637922413b5c7516b9c64e6adc" size="2525287" crc="d89230cb" fullsha1="155a4ac8980a459ec3a25585c52392bcfb955754" dataSha1="e8ed10c8a35530eced29de173a441bde4a683707">
 		<category>Games</category>
 		<description>CRI StacCard (Japan)</description>
 		<rom name="CRI StacCard (Japan) (Track 01).bin" size="31399200" crc="7dc82293" md5="4f21ae5548ec0dbc0d60775a98e3b185" sha1="e7e854db13c74452a8cc7424e0e966e40b532a5c"/>
 	</game>
-	<game name="F-BASIC386 V2.1 L20 (Japan)" sha1="8445323578763c4c40c60533c4ff6cd221715739" size="207018825" crc="d500c5e5" fullsha1="75fc3656b6764d49ad00dd1f6a4fc356bf880136" dataSha1="aa92962193e78fb2dceb0ac45bc1248778f7041e">
+	<game name="F-BASIC386 V2.1 L20 (Japan)" type="cd" sha1="8445323578763c4c40c60533c4ff6cd221715739" size="207018825" crc="d500c5e5" fullsha1="75fc3656b6764d49ad00dd1f6a4fc356bf880136" dataSha1="aa92962193e78fb2dceb0ac45bc1248778f7041e">
 		<category>Games</category>
 		<description>F-BASIC386 V2.1 L20 (Japan)</description>
 		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 01).bin" size="263894400" crc="ecc88cb8" md5="8593cf831bf108da72f654646f7e1613" sha1="8b7bca2b4244985069c405a6322f2c72581566a4"/>
@@ -72,17 +72,17 @@
 		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 12).bin" size="34720224" crc="b51a094d" md5="775427bbee9f2b0301db07d63053b51b" sha1="bd08476b38823cefc6aa5edcaa07c42ebc889fa5"/>
 		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 13).bin" size="20963376" crc="9e09fe32" md5="b521d45048e4b21584ae184a1b10c82a" sha1="2f63b84a1728104ebe2e2dae3b101c96b05a0279"/>
 	</game>
-	<game name="FM Series Software Taikenban CD-ROM (Japan)" sha1="fea420954113628f7b5c79f769a828a08e1b4a93" size="75864528" crc="1b9ca8f2" fullsha1="beab81856fab2b42b6b630e3ec4fcd8fc3c7b572" dataSha1="228e077004c9b4496b489d33e89d27166780b4c2">
+	<game name="FM Series Software Taikenban CD-ROM (Japan)" type="cd" sha1="fea420954113628f7b5c79f769a828a08e1b4a93" size="75864528" crc="1b9ca8f2" fullsha1="beab81856fab2b42b6b630e3ec4fcd8fc3c7b572" dataSha1="228e077004c9b4496b489d33e89d27166780b4c2">
 		<category>Games</category>
 		<description>FM Series Software Taikenban CD-ROM (Japan)</description>
 		<rom name="FM Series Software Taikenban CD-ROM (Japan) (Track 01).bin" size="137239200" crc="4a0964ce" md5="9f3c17fae966e80a2dafa1d763061fec" sha1="6bc8ee2cf1e2ee50cfd6a0df854ddd70a5372a44"/>
 	</game>
-	<game name="FM Towns Appli Jikkou Set (TownsGEAR, F-BASIC386) V2.1 L20 (Japan)" sha1="aa4e26f8e55ddfbcc74cbc15fb56c75407b390fd" size="13628950" crc="c541d322" fullsha1="e4d85937887ad605b1d4614db14308fc73deb6c3" dataSha1="c908bc1f20876796b4a548991276472104d9d395">
+	<game name="FM Towns Appli Jikkou Set (TownsGEAR, F-BASIC386) V2.1 L20 (Japan)" type="cd" sha1="aa4e26f8e55ddfbcc74cbc15fb56c75407b390fd" size="13628950" crc="c541d322" fullsha1="e4d85937887ad605b1d4614db14308fc73deb6c3" dataSha1="c908bc1f20876796b4a548991276472104d9d395">
 		<category>Games</category>
 		<description>FM Towns Appli Jikkou Set (TownsGEAR, F-BASIC386) V2.1 L20 (Japan)</description>
 		<rom name="FM Towns Appli Jikkou Set (TownsGEAR, F-BASIC386) V2.1 L20 (Japan) (Track 01).bin" size="62269200" crc="8d197f34" md5="213f918e0cf95c6ff1b6a5f8151c218d" sha1="65b3fbb01677e9dbd839cf1091818d725cdd8d58"/>
 	</game>
-	<game name="FM Towns Marty Tentou Auto Demo '93 Natsu (Japan) (Fixed Dump)" sha1="6b1dc1ef8332e6a301dc77e6014c5274b93d2e24" size="18601057" crc="8fe3ebf8" fullsha1="2a42caf3d87bd8d42a961946f08690fa5ffd0e60" dataSha1="c0659b46fcdfca770bdc9a8dc297e4ddc6c7f472">
+	<game name="FM Towns Marty Tentou Auto Demo '93 Natsu (Japan) (Fixed Dump)" type="cd" sha1="6b1dc1ef8332e6a301dc77e6014c5274b93d2e24" size="18601057" crc="8fe3ebf8" fullsha1="2a42caf3d87bd8d42a961946f08690fa5ffd0e60" dataSha1="c0659b46fcdfca770bdc9a8dc297e4ddc6c7f472">
 		<category>Games</category>
 		<description>FM Towns Marty Tentou Auto Demo '93 Natsu (Japan) (Fixed Dump)</description>
 		<rom name="FM Towns Marty Tentou Auto Demo '93 Natsu (Japan) (Fixed Dump) (Track 01).bin" size="36227856" crc="aa106276" md5="623f5d25ce9621f843fa297f4e4bf650" sha1="7c8f3a339490f7db71bc6c04d8e1b17c8d95e862"/>
@@ -93,7 +93,7 @@
 		<rom name="FM Towns Marty Tentou Auto Demo '93 Natsu (Japan) (Fixed Dump) (Track 06).bin" size="5503680" crc="2cb876d4" md5="0c1aaab4a986d56b7ab9164c73ae71ca" sha1="a2dd990d07da97f599a2011c32a5abb72845d327"/>
 		<rom name="FM Towns Marty Tentou Auto Demo '93 Natsu (Japan) (Fixed Dump) (Track 07).bin" size="7808640" crc="ec714b1a" md5="94d93415b0d03fd80acd6217f332dd49" sha1="687af04b5e87a3df802cd5d99292c5c9cde7855a"/>
 	</game>
-	<game name="Heike Monogatari (Joukan) (Japan) (Rerelease)" sha1="e99806398053162cf9b6fb15eb00ed122aa670be" size="234104741" crc="ab6d176d" fullsha1="a31831bcd17f24b70fd0d2c11502c425d8b88ee0" dataSha1="d53190ed5f6887858e9e4892a2e61254f81b8a76">
+	<game name="Heike Monogatari (Joukan) (Japan) (Rerelease)" type="cd" sha1="e99806398053162cf9b6fb15eb00ed122aa670be" size="234104741" crc="ab6d176d" fullsha1="a31831bcd17f24b70fd0d2c11502c425d8b88ee0" dataSha1="d53190ed5f6887858e9e4892a2e61254f81b8a76">
 		<category>Games</category>
 		<description>Heike Monogatari (Joukan) (Japan) (Rerelease)</description>
 		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 01).bin" size="31399200" crc="d62218aa" md5="8f6c8c7de24e69d15997ac3d171e8899" sha1="44bdc084f430eeb1cf741b837fe6376a2bac9d3e"/>
@@ -132,17 +132,17 @@
 		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 34).bin" size="4217136" crc="6c7f299e" md5="7304e95067127c45d4e8e39e2e7f3397" sha1="132111f3ab4dd30d7db9629afde2e3d94ad137f9"/>
 		<rom name="Heike Monogatari (Joukan) (Japan) (Rerelease) (Track 35).bin" size="4391184" crc="5cbdd965" md5="67bb6071871f297103f1fafeaf03b74d" sha1="2fcc743d6a75a9ce9a062cdd9a86057af7f29f40"/>
 	</game>
-	<game name="Heroes of the Lance (Japan) (En,Ja)" sha1="900a34bf7b027a1dff57ccbaa716ea593e61b4d5" size="1273648" crc="a9af1988" fullsha1="50bb7035f4c8e6160ba3338e1020a80ca7e2ab52" dataSha1="92790b3f286b75f6d84d8f4bbedc3260b25f6a75">
+	<game name="Heroes of the Lance (Japan) (En,Ja)" type="cd" sha1="900a34bf7b027a1dff57ccbaa716ea593e61b4d5" size="1273648" crc="a9af1988" fullsha1="50bb7035f4c8e6160ba3338e1020a80ca7e2ab52" dataSha1="92790b3f286b75f6d84d8f4bbedc3260b25f6a75">
 		<category>Games</category>
 		<description>Heroes of the Lance (Japan) (En,Ja)</description>
 		<rom name="Heroes of the Lance (Japan) (En,Ja) (Track 01).bin" size="6698496" crc="b4fb7f62" md5="3e98f422a94ea81ccf0673a2c06e514d" sha1="ed9ed92f74bc78fc01aca78381027e5424f72e39"/>
 	</game>
-	<game name="Hiouden II (Japan)" sha1="8da2cf12bdbd1b459abd0a334952830a43a436a1" size="2097710" crc="62853896" fullsha1="21e2e0357897bce375d5791e1e585a0a74c927c3" dataSha1="af9c7e02ef3fc23bb9dc421ff4e8943c4a736889">
+	<game name="Hiouden II (Japan)" type="cd" sha1="8da2cf12bdbd1b459abd0a334952830a43a436a1" size="2097710" crc="62853896" fullsha1="21e2e0357897bce375d5791e1e585a0a74c927c3" dataSha1="af9c7e02ef3fc23bb9dc421ff4e8943c4a736889">
 		<category>Games</category>
 		<description>Hiouden II (Japan)</description>
 		<rom name="Hiouden II (Japan) (Track 01).bin" size="31399200" crc="46031c50" md5="0d5258477198c822179cf82cce15b669" sha1="ca0aa7d20ba52a9a8b2aee051763ef549a72eae1"/>
 	</game>
-	<game name="Hishouzame - Flying Shark (Japan)" sha1="3591325b6a0a4acb8783b9027d9e85d41667e2fb" size="196171011" crc="d42033fd" fullsha1="c56c61dfe9e0a3fff58b54aa2158363950235d31" dataSha1="dc55939b2d213b4ce4cdcc0da11eba4719faabf2">
+	<game name="Hishouzame - Flying Shark (Japan)" type="cd" sha1="3591325b6a0a4acb8783b9027d9e85d41667e2fb" size="196171011" crc="d42033fd" fullsha1="c56c61dfe9e0a3fff58b54aa2158363950235d31" dataSha1="dc55939b2d213b4ce4cdcc0da11eba4719faabf2">
 		<category>Games</category>
 		<description>Hishouzame - Flying Shark (Japan)</description>
 		<rom name="Hishouzame - Flying Shark (Japan) (Track 01).bin" size="10231200" crc="b4815477" md5="a2aa46e43b8a3536aae9ea8f9ec7b764" sha1="c439a005d9d4e97402eb063dfcd7e5a6c48ae8e6"/>
@@ -156,7 +156,7 @@
 		<rom name="Hishouzame - Flying Shark (Japan) (Track 09).bin" size="3363360" crc="df844bd8" md5="446282105fb5712148c97a978ce1c2e5" sha1="e4f9b11ff457b55f194dfc540303607efb0a8a8c"/>
 		<rom name="Hishouzame - Flying Shark (Japan) (Track 10).bin" size="10654560" crc="64ccacb2" md5="f2b2e10dc5d003a3ec94149cfd86251a" sha1="04cdbf1224095d32b1ffa09c9199da835fd2c51b"/>
 	</game>
-	<game name="Legend of Kyrandia, The (Japan)" sha1="0e33a78ba9cac28815c4faabc534cb0315ece42b" size="258592806" crc="b3bf11bc" fullsha1="c5b8ccb2a80a2053c0cb1ae0b0546ba5a0fe6677" dataSha1="e47720904cb940bcff7d152dbd25f5b9826fc7bb">
+	<game name="Legend of Kyrandia, The (Japan)" type="cd" sha1="0e33a78ba9cac28815c4faabc534cb0315ece42b" size="258592806" crc="b3bf11bc" fullsha1="c5b8ccb2a80a2053c0cb1ae0b0546ba5a0fe6677" dataSha1="e47720904cb940bcff7d152dbd25f5b9826fc7bb">
 		<category>Games</category>
 		<description>Legend of Kyrandia, The (Japan)</description>
 		<rom name="Legend of Kyrandia, The (Japan) (Track 01).bin" size="9403296" crc="22887101" md5="1a5921322379002328efb12ba74b88a0" sha1="310f10bc63da750541b513913990708daf57e14f"/>
@@ -182,12 +182,12 @@
 		<rom name="Legend of Kyrandia, The (Japan) (Track 21).bin" size="12136320" crc="973875fa" md5="99a70cfdb2078f881bc25a723a4df93b" sha1="5e887dd49336fab522991343ee68b999fa7fc690"/>
 		<rom name="Legend of Kyrandia, The (Japan) (Track 22).bin" size="49904736" crc="f4fc1800" md5="35daaaa665b760436a3f60778c68a92e" sha1="3e14d6e4d3143f51dd4b20b29617748bf669ea48"/>
 	</game>
-	<game name="Music Pro-Towns v1.3 (MIDI Ongenban) (Japan)" sha1="2bcd90e5ce254e449add7cac438e5d163b6bcc61" size="6391441" crc="71b11b50" fullsha1="6610dd1cb2c7c7d6736fd695c085c2b726eff191" dataSha1="e498e988b649daddf13c68886159aadcdeb21bac">
+	<game name="Music Pro-Towns v1.3 (MIDI Ongenban) (Japan)" type="cd" sha1="2bcd90e5ce254e449add7cac438e5d163b6bcc61" size="6391441" crc="71b11b50" fullsha1="6610dd1cb2c7c7d6736fd695c085c2b726eff191" dataSha1="e498e988b649daddf13c68886159aadcdeb21bac">
 		<category>Games</category>
 		<description>Music Pro-Towns v1.3 (MIDI Ongenban) (Japan)</description>
 		<rom name="Music Pro-Towns v1.3 (MIDI Ongenban) (Japan) (Track 01).bin" size="29056608" crc="7bcb9049" md5="864245e1499cac1e53476a77e1844392" sha1="9005e763b85699d3d18c47fc867251a487703b97"/>
 	</game>
-	<game name="Tele Harmonium - City Lights (Japan)" sha1="1e3cf5be0a94506079c9de5dbf3e1006770a8846" size="161521769" crc="94650f69" fullsha1="ae8b4e8679febe5a9e99de5dcf7d502900dcb346" dataSha1="c9dd831bfa566e96ffb56b6cc03fbf7f8eb49ac9">
+	<game name="Tele Harmonium - City Lights (Japan)" type="cd" sha1="1e3cf5be0a94506079c9de5dbf3e1006770a8846" size="161521769" crc="94650f69" fullsha1="ae8b4e8679febe5a9e99de5dcf7d502900dcb346" dataSha1="c9dd831bfa566e96ffb56b6cc03fbf7f8eb49ac9">
 		<category>Games</category>
 		<description>Tele Harmonium - City Lights (Japan)</description>
 		<rom name="Tele Harmonium - City Lights (Japan) (Track 01).bin" size="10231200" crc="e5cefd64" md5="390edb1c407a46f101bd785987a291a1" sha1="7ae3a9f94f2e23adede0c9173fadce6a95fd9321"/>
