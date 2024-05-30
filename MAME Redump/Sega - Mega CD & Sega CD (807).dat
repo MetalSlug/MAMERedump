@@ -3,8 +3,8 @@
 <datafile>
   <header>
     <name>Sega - Mega CD &amp; Sega CD</name>
-    <description>MAME Redump - Sega - Mega CD &amp; Sega CD - Discs (542) (2024-02-18 14-04-01)</description>
-    <version>0.264</version>
+    <description>MAME Redump - Sega - Mega CD &amp; Sega CD - Discs (542) (2024-05-22 14-34-38)</description>
+    <version>0.265</version>
     <date>2024-03-22</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
@@ -1929,6 +1929,26 @@
     <description>Shadowrun (Japan)</description>
     <disk name="Shadowrun (Japan).chd" sha1="bed64d1386b0dd8a861fb0c22193098378ba0ae5" />
   </machine>
+  <machine name="Sherlock Holmes - Consulting Detective - Vol. II (Europe) (Disc 1)">
+    <category>Games</category>
+    <description>Sherlock Holmes - Consulting Detective - Vol. II (Europe) (Disc 1)</description>
+    <disk name="Sherlock Holmes - Consulting Detective - Vol. II (Europe) (Disc 1).chd" sha1="dcb30f86005aec1a14b00b34f8fa27dca92fa71d" />
+  </machine>
+  <machine name="Sherlock Holmes - Consulting Detective - Vol. II (Europe) (Disc 2)">
+    <category>Games</category>
+    <description>Sherlock Holmes - Consulting Detective - Vol. II (Europe) (Disc 2)</description>
+    <disk name="Sherlock Holmes - Consulting Detective - Vol. II (Europe) (Disc 2).chd" sha1="77d0c24620875304ab0f1be527d6c760e74789e4" />
+  </machine>
+  <machine name="Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 1)">
+    <category>Games</category>
+    <description>Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 1)</description>
+    <disk name="Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 1).chd" sha1="470ca1a64ed2e3a3b664cdda8d685e2eaf2577ab" />
+  </machine>
+  <machine name="Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 2)">
+    <category>Games</category>
+    <description>Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 2)</description>
+    <disk name="Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 2).chd" sha1="5b963168f6476a4e0f43050543ed6f0ffbd9dc38" />
+  </machine>
   <machine name="Sherlock Holmes - Consulting Detective (Europe)">
     <category>Games</category>
     <description>Sherlock Holmes - Consulting Detective (Europe)</description>
@@ -1938,26 +1958,6 @@
     <category>Games</category>
     <description>Sherlock Holmes - Consulting Detective (USA)</description>
     <disk name="Sherlock Holmes - Consulting Detective (USA).chd" sha1="d295f474b188f7121282d92c17c952b9a907d02d" />
-  </machine>
-  <machine name="Sherlock Holmes - Consulting Detective Vol. II (Europe) (Disc 1)">
-    <category>Games</category>
-    <description>Sherlock Holmes - Consulting Detective Vol. II (Europe) (Disc 1)</description>
-    <disk name="Sherlock Holmes - Consulting Detective Vol. II (Europe) (Disc 1).chd" sha1="dcb30f86005aec1a14b00b34f8fa27dca92fa71d" />
-  </machine>
-  <machine name="Sherlock Holmes - Consulting Detective Vol. II (Europe) (Disc 2)">
-    <category>Games</category>
-    <description>Sherlock Holmes - Consulting Detective Vol. II (Europe) (Disc 2)</description>
-    <disk name="Sherlock Holmes - Consulting Detective Vol. II (Europe) (Disc 2).chd" sha1="77d0c24620875304ab0f1be527d6c760e74789e4" />
-  </machine>
-  <machine name="Sherlock Holmes - Consulting Detective Vol. II (USA) (Disc 1)">
-    <category>Games</category>
-    <description>Sherlock Holmes - Consulting Detective Vol. II (USA) (Disc 1)</description>
-    <disk name="Sherlock Holmes - Consulting Detective Vol. II (USA) (Disc 1).chd" sha1="470ca1a64ed2e3a3b664cdda8d685e2eaf2577ab" />
-  </machine>
-  <machine name="Sherlock Holmes - Consulting Detective Vol. II (USA) (Disc 2)">
-    <category>Games</category>
-    <description>Sherlock Holmes - Consulting Detective Vol. II (USA) (Disc 2)</description>
-    <disk name="Sherlock Holmes - Consulting Detective Vol. II (USA) (Disc 2).chd" sha1="5b963168f6476a4e0f43050543ed6f0ffbd9dc38" />
   </machine>
   <machine name="Shin Megami Tensei (Japan)">
     <category>Games</category>

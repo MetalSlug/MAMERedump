@@ -3,8 +3,8 @@
 <datafile>
   <header>
     <name>SNK - Neo Geo CD</name>
-    <description>MAME Redump - SNK - Neo Geo CD - Discs (111) (2022-09-23 17-55-26)</description>
-    <version>0.264</version>
+    <description>MAME Redump - SNK - Neo Geo CD - Discs (111) (2024-05-26 14-15-17)</description>
+    <version>0.265</version>
     <date>2024-03-22</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
@@ -74,10 +74,10 @@
     <description>Burning Fight (Japan) (En,Ja)</description>
     <disk name="Burning Fight (Japan) (En,Ja).chd" sha1="b54990f79cedd92e4419c3bab3bc16bd27458342" />
   </machine>
-  <machine name="Choujin Gakuen - Gowcaizer (Japan) (En,Ja)">
+  <machine name="Choujin Gakuen - Gowcaizer (World) (En,Ja)">
     <category>Games</category>
-    <description>Choujin Gakuen - Gowcaizer (Japan) (En,Ja)</description>
-    <disk name="Choujin Gakuen - Gowcaizer (Japan) (En,Ja).chd" sha1="4b2f6334d6eaf16d5b63a9d703841ea3bb19823d" />
+    <description>Choujin Gakuen - Gowcaizer (World) (En,Ja)</description>
+    <disk name="Choujin Gakuen - Gowcaizer (World) (En,Ja).chd" sha1="4b2f6334d6eaf16d5b63a9d703841ea3bb19823d" />
   </machine>
   <machine name="Choutetsu Brikin'ger ~ Ironclad - Tesshou Rusha (Japan) (En,Ja)">
     <category>Games</category>
@@ -119,10 +119,10 @@
     <description>Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja)</description>
     <disk name="Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja).chd" sha1="33c3b7522c33c3ece293567ff7d5045b98dc1c99" />
   </machine>
-  <machine name="Fighter's History Dynamite ~ Karnov's Revenge (Japan) (En,Ja)">
+  <machine name="Fighter's History Dynamite ~ Karnov's Revenge (World) (En,Ja)">
     <category>Games</category>
-    <description>Fighter's History Dynamite ~ Karnov's Revenge (Japan) (En,Ja)</description>
-    <disk name="Fighter's History Dynamite ~ Karnov's Revenge (Japan) (En,Ja).chd" sha1="d2577d9fd50890a5fc6b91f7fcdd21b1af87e6c1" />
+    <description>Fighter's History Dynamite ~ Karnov's Revenge (World) (En,Ja)</description>
+    <disk name="Fighter's History Dynamite ~ Karnov's Revenge (World) (En,Ja).chd" sha1="d2577d9fd50890a5fc6b91f7fcdd21b1af87e6c1" />
   </machine>
   <machine name="Fire Suplex ~ 3 Count Bout (World) (En,Ja)">
     <category>Games</category>
@@ -144,15 +144,15 @@
     <description>Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja)</description>
     <disk name="Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja).chd" sha1="e600996cbf6f15be1f3dbcf9fd85aaab93d19897" />
   </machine>
-  <machine name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Export) (En,Ja,Es,Pt) (Rev 1)">
-    <category>Games</category>
-    <description>Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Export) (En,Ja,Es,Pt) (Rev 1)</description>
-    <disk name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Export) (En,Ja,Es,Pt) (Rev 1).chd" sha1="91335dec05027605836d56260347670c7f03e766" />
-  </machine>
   <machine name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt)">
     <category>Games</category>
     <description>Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt)</description>
     <disk name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt).chd" sha1="8a0d2a0f0114ae4bbdeb902a102b57a4a5bd83f8" />
+  </machine>
+  <machine name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Rev 1)">
+    <category>Games</category>
+    <description>Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Rev 1)</description>
+    <disk name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Rev 1).chd" sha1="91335dec05027605836d56260347670c7f03e766" />
   </machine>
   <machine name="Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es)">
     <category>Games</category>
@@ -504,10 +504,10 @@
     <description>Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (World) (En,Ja,Fr,Es,It,Pt)</description>
     <disk name="Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (World) (En,Ja,Fr,Es,It,Pt).chd" sha1="30e51bf898d62d6db4e83ee089c3365fb590bb7d" />
   </machine>
-  <machine name="Top Hunter - Roddy &amp; Cathy (Japan) (En,Ja)">
+  <machine name="Top Hunter - Roddy &amp; Cathy (World) (En,Ja)">
     <category>Games</category>
-    <description>Top Hunter - Roddy &amp; Cathy (Japan) (En,Ja)</description>
-    <disk name="Top Hunter - Roddy &amp; Cathy (Japan) (En,Ja).chd" sha1="7d75c27541cd5ae2e1677a62046529306171dd0b" />
+    <description>Top Hunter - Roddy &amp; Cathy (World) (En,Ja)</description>
+    <disk name="Top Hunter - Roddy &amp; Cathy (World) (En,Ja).chd" sha1="7d75c27541cd5ae2e1677a62046529306171dd0b" />
   </machine>
   <machine name="Top Player's Golf (Japan) (En,Ja)">
     <category>Games</category>
