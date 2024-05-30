@@ -3,8 +3,8 @@
 <datafile>
   <header>
     <name>Sega - Saturn</name>
-    <description>MAME Redump - Sega - Saturn - Discs (2367) (2024-03-25 02-08-10)</description>
-    <version>0.264</version>
+    <description>MAME Redump - Sega - Saturn - Discs (2367) (2024-05-08 20-45-42)</description>
+    <version>0.265</version>
     <date>2024-03-22</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
@@ -2974,10 +2974,10 @@
     <description>Fighting Vipers (Korea)</description>
     <disk name="Fighting Vipers (Korea).chd" sha1="b63a1946d987217a465d2485b13eade5d44638a4" />
   </machine>
-  <machine name="Fighting Vipers (USA) (5S)">
+  <machine name="Fighting Vipers (USA) (5S, 6S)">
     <category>Games</category>
-    <description>Fighting Vipers (USA) (5S)</description>
-    <disk name="Fighting Vipers (USA) (5S).chd" sha1="0337e9d01d5b20a21f31117ba8a44e8d05ea4796" />
+    <description>Fighting Vipers (USA) (5S, 6S)</description>
+    <disk name="Fighting Vipers (USA) (5S, 6S).chd" sha1="0337e9d01d5b20a21f31117ba8a44e8d05ea4796" />
   </machine>
   <machine name="Fighting Vipers (USA) (6S)">
     <category>Games</category>
@@ -6345,7 +6345,7 @@
     <disk name="Ninja Jajamaru-kun - Onigiri Ninpouchou Gold (Japan).chd" sha1="3383376f1a9e421df5c8c39de30d018cd25e466d" />
   </machine>
   <machine name="Ninja Jajamaru-kun - Onigiri Ninpouchou Gold (Japan) (Demo)">
-    <category>Games</category>
+    <category>Demos</category>
     <description>Ninja Jajamaru-kun - Onigiri Ninpouchou Gold (Japan) (Demo)</description>
     <disk name="Ninja Jajamaru-kun - Onigiri Ninpouchou Gold (Japan) (Demo).chd" sha1="034e72acf2a83d0c36603d9af695af6690b4b0a6" />
   </machine>
@@ -9425,7 +9425,7 @@
     <disk name="Stellar Assault SS (Japan).chd" sha1="f7620786e3168a8430a4e128876409f9479ff4d7" />
   </machine>
   <machine name="Stellar Assault SS (Japan) (Demo)">
-    <category>Games</category>
+    <category>Demos</category>
     <description>Stellar Assault SS (Japan) (Demo)</description>
     <disk name="Stellar Assault SS (Japan) (Demo).chd" sha1="0aca8ed751e5f248dd819012e9ff6d655729629f" />
   </machine>

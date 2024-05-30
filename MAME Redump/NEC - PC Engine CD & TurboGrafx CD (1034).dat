@@ -3,8 +3,8 @@
 <datafile>
   <header>
     <name>NEC - PC Engine CD &amp; TurboGrafx CD</name>
-    <description>MAME Redump - NEC - PC Engine CD &amp; TurboGrafx CD - Discs (545) (2024-03-20 13-53-53)</description>
-    <version>0.264</version>
+    <description>MAME Redump - NEC - PC Engine CD &amp; TurboGrafx CD - Discs (546) (2024-05-22 14-36-47)</description>
+    <version>0.265</version>
     <date>2024-03-22</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
@@ -54,10 +54,10 @@
     <description>Akiyama Jin no Suugaku Mystery - Hihou India no Honoo o Shishu Seyo! (Japan)</description>
     <disk name="Akiyama Jin no Suugaku Mystery - Hihou India no Honoo o Shishu Seyo! (Japan).chd" sha1="cefb0a2999298f28a274eab85dc521791e2f5c79" />
   </machine>
-  <machine name="Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT)">
+  <machine name="Akumajou Dracula X - Chi no Rondo (Japan)">
     <category>Games</category>
-    <description>Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT)</description>
-    <disk name="Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT).chd" sha1="92cdfc558162e75781345808ebf8e6095a05eb18" />
+    <description>Akumajou Dracula X - Chi no Rondo (Japan)</description>
+    <disk name="Akumajou Dracula X - Chi no Rondo (Japan).chd" sha1="92cdfc558162e75781345808ebf8e6095a05eb18" />
   </machine>
   <machine name="Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (Japan) (FAAT)">
     <category>Games</category>
@@ -1429,10 +1429,9 @@
     <description>Metal Angel 2 (Japan)</description>
     <disk name="Metal Angel 2 (Japan).chd" sha1="8c76d2a29fdfa409189b65977df0cd2fca46423d" />
   </machine>
-  <machine name="Metamor Jupiter (Japan)">
-    <category>Games</category>
+  <machine name="Metamor Jupiter (Japan)_2">
     <description>Metamor Jupiter (Japan)</description>
-    <disk name="Metamor Jupiter (Japan).chd" sha1="47af0d01112a37e85e00f58f2154d92aca23c67f" />
+    <disk name="Metamor Jupiter (Japan)_2.chd" sha1="47af0d01112a37e85e00f58f2154d92aca23c67f" />
   </machine>
   <machine name="Meteor Blaster DX (USA) (Unl)">
     <category>Games</category>
@@ -2074,10 +2073,15 @@
     <description>Shape Shifter (USA)</description>
     <disk name="Shape Shifter (USA).chd" sha1="30e991b85efbdc4fec525f6ff5b114f42c47dbd8" />
   </machine>
-  <machine name="Sherlock Holmes - Consulting Detective - Volume 2 (USA)">
+  <machine name="Sherlock Holmes - Consulting Detective - Vol. II (Japan)">
     <category>Games</category>
-    <description>Sherlock Holmes - Consulting Detective - Volume 2 (USA)</description>
-    <disk name="Sherlock Holmes - Consulting Detective - Volume 2 (USA).chd" sha1="563bdbe818d4f4d1e5dc2dd8ca5a380d972fe0a0" />
+    <description>Sherlock Holmes - Consulting Detective - Vol. II (Japan)</description>
+    <disk name="Sherlock Holmes - Consulting Detective - Vol. II (Japan).chd" sha1="7382e44570fde8cd67d03a622fc722d4ff143dda" />
+  </machine>
+  <machine name="Sherlock Holmes - Consulting Detective - Vol. II (USA)">
+    <category>Games</category>
+    <description>Sherlock Holmes - Consulting Detective - Vol. II (USA)</description>
+    <disk name="Sherlock Holmes - Consulting Detective - Vol. II (USA).chd" sha1="563bdbe818d4f4d1e5dc2dd8ca5a380d972fe0a0" />
   </machine>
   <machine name="Sherlock Holmes - Consulting Detective (Japan)">
     <category>Games</category>
@@ -2088,11 +2092,6 @@
     <category>Games</category>
     <description>Sherlock Holmes - Consulting Detective (USA)</description>
     <disk name="Sherlock Holmes - Consulting Detective (USA).chd" sha1="07af9007010008a6774807b17d82bb36b2f3c118" />
-  </machine>
-  <machine name="Sherlock Holmes - Consulting Detective Vol. II (Japan)">
-    <category>Games</category>
-    <description>Sherlock Holmes - Consulting Detective Vol. II (Japan)</description>
-    <disk name="Sherlock Holmes - Consulting Detective Vol. II (Japan).chd" sha1="7382e44570fde8cd67d03a622fc722d4ff143dda" />
   </machine>
   <machine name="Shiawase Usagi - Nureta Bishoujo - Hajimete Nanoni... (Japan) (Unl)">
     <category>Games</category>
@@ -2154,10 +2153,9 @@
     <description>Slot Gambler (Japan)</description>
     <disk name="Slot Gambler (Japan).chd" sha1="d30dd7f21c0bc74347dbdb18cc4699e2d510f2df" />
   </machine>
-  <machine name="Snatcher CD-ROMantic - Pilot Disk (Japan)">
-    <category>Multimedia</category>
+  <machine name="Snatcher CD-ROMantic - Pilot Disk (Japan)_2">
     <description>Snatcher CD-ROMantic - Pilot Disk (Japan)</description>
-    <disk name="Snatcher CD-ROMantic - Pilot Disk (Japan).chd" sha1="e9c103af272504266d359f18c30367b37de4b41a" />
+    <disk name="Snatcher CD-ROMantic - Pilot Disk (Japan)_2.chd" sha1="e9c103af272504266d359f18c30367b37de4b41a" />
   </machine>
   <machine name="Snatcher CD-ROMantic (Japan)">
     <category>Games</category>

@@ -9,6 +9,20 @@
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
+	<game name="Arquelphos (Japan)" type="cd" sha1="d5a3239f0bdc367986d2e0c7cdae2cc86b4e7d62" size="111773000" crc="54e65975" fullsha1="be53947d056fadeb50c32922fb4cc45aa6a7753f" dataSha1="d0771c402d432ec632ed840f96c8a5ee980f5967">
+		<category>Games</category>
+		<description>Arquelphos (Japan)</description>
+		<rom name="Arquelphos (Japan) (Track 01).bin" size="12348000" crc="fe143313" md5="4efc74c8273dcbfa9ba8ae61b5bb2f3e" sha1="0b09b5db49992c565026c0dae1cba19f5f96d150"/>
+		<rom name="Arquelphos (Japan) (Track 02).bin" size="45894576" crc="cf20a8d6" md5="237be5c36a2a792bda04a6e4d715a8ac" sha1="a0e17db8730b19f89cbe4f1f8860a9593af8feac"/>
+		<rom name="Arquelphos (Japan) (Track 03).bin" size="32556384" crc="266a58da" md5="55d4939510f7a7829cb24f4b20c1a860" sha1="0bbe7eaff8abaac75d24b8fa6675c502dc394a04"/>
+		<rom name="Arquelphos (Japan) (Track 04).bin" size="24608976" crc="744672c4" md5="8ca693a83cf7a9c74a3ace9e8f473b8e" sha1="bc2a624059a87a58d16cf436a93d597c28b6117f"/>
+		<rom name="Arquelphos (Japan) (Track 05).bin" size="26735184" crc="df6d6714" md5="fe76b6b81609a4e7db23f051a8482e50" sha1="76d79cc7d5aaf7a99d200062260faf397c09bf57"/>
+		<rom name="Arquelphos (Japan) (Track 06).bin" size="21974736" crc="3886c34e" md5="ed000ea6bfd4aba37791d48e77189477" sha1="c6384f82afdce01a7bd0dcf354a0200026a208b5"/>
+		<rom name="Arquelphos (Japan) (Track 07).bin" size="21215040" crc="dc87ca7b" md5="ebb1943f54144abc1b6109eb30c04364" sha1="baf1d3d1851325c2fe8d7e8e1ae5850b52a45888"/>
+		<rom name="Arquelphos (Japan) (Track 08).bin" size="22567440" crc="6da1139c" md5="9c576a62fafbc54f614b7ebb040628d9" sha1="d25c31cee364da6b000bf400b07460a24d8f8ccf"/>
+		<rom name="Arquelphos (Japan) (Track 09).bin" size="32297664" crc="1bf24c53" md5="137b1393edd0584713db7b6b117d2c34" sha1="dfce3ef9de614e97a9c1f6bcecc3d6fc04f0e1b6"/>
+		<rom name="Arquelphos (Japan) (Track 10).bin" size="47529216" crc="18fdffbd" md5="1646cd2158b1309fc368c0edd711f07f" sha1="ccc34997e974f9feba179d921ce751f33de4f095"/>
+	</game>
 	<game name="CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty)" type="cd" sha1="a08dddbae4347c73f802bc6313b5d570141cba8b" size="211179855" crc="5e76edf0" fullsha1="e39a2eed4d34eb3f5a9b7df06891a04b9d407631" dataSha1="b8c19e4e0cddaf68e8a022f9273515076d8dc625">
 		<category>Games</category>
 		<description>CD Learning System II - New Horizon English Course 3 (Japan) (FM Towns Marty)</description>
@@ -55,22 +69,22 @@
 		<description>CRI StacCard (Japan)</description>
 		<rom name="CRI StacCard (Japan) (Track 01).bin" size="31399200" crc="7dc82293" md5="4f21ae5548ec0dbc0d60775a98e3b185" sha1="e7e854db13c74452a8cc7424e0e966e40b532a5c"/>
 	</game>
-	<game name="F-BASIC386 V2.1 L20 (Japan)" type="cd" sha1="8445323578763c4c40c60533c4ff6cd221715739" size="207018825" crc="d500c5e5" fullsha1="75fc3656b6764d49ad00dd1f6a4fc356bf880136" dataSha1="aa92962193e78fb2dceb0ac45bc1248778f7041e">
+	<game name="F-BASIC386 Compiler V2.1 L20 (Japan)" type="cd" sha1="8445323578763c4c40c60533c4ff6cd221715739" size="207018825" crc="d500c5e5" fullsha1="75fc3656b6764d49ad00dd1f6a4fc356bf880136" dataSha1="aa92962193e78fb2dceb0ac45bc1248778f7041e">
 		<category>Games</category>
-		<description>F-BASIC386 V2.1 L20 (Japan)</description>
-		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 01).bin" size="263894400" crc="ecc88cb8" md5="8593cf831bf108da72f654646f7e1613" sha1="8b7bca2b4244985069c405a6322f2c72581566a4"/>
-		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 02).bin" size="41729184" crc="dfdf5c43" md5="c21c834af42d37e2af7779c53f954e4c" sha1="07c632f89506d3a543ea3fcbfa22a49bd43961ee"/>
-		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 03).bin" size="15059856" crc="cb66c765" md5="20b1c11c8e98465e691e0e43e77f9bd3" sha1="628f7b773a50a0b9b9011dc8602d8e12436da3fa"/>
-		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 04).bin" size="24166800" crc="bd9213bc" md5="c4aadd42a016097ff6ece28ba0ccc483" sha1="006c5fcd90adff06b677b98017c4a69ef464b6de"/>
-		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 05).bin" size="37330944" crc="5debd853" md5="94cce3cb254648c4d251166610c9b38d" sha1="23d9e5395780a406cfe3e20210d553d1cf0f7064"/>
-		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 06).bin" size="9085776" crc="5e39e97a" md5="7d88877cdd78be4eac8b3ad5ba059f9a" sha1="72c227ba97d353aefba2431ac8a93c3b4915bebd"/>
-		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 07).bin" size="5491920" crc="5500d74a" md5="e6d1ecfe0a1a53e67fd19f61a10b1b07" sha1="7274dbf63d2db90579f79f1fadb8a6a7977ae76d"/>
-		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 08).bin" size="5120304" crc="34a73d87" md5="4b8d70fbde0cddef627f92290ee4933e" sha1="2a1cc41bf6b7f528efd77e38b539ea3f5e305780"/>
-		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 09).bin" size="9478560" crc="547491a0" md5="1e07d5b2f26341e0666a1c88004b1f7b" sha1="acaa5f1933d0cd48f9270520092110d13ae3a80b"/>
-		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 10).bin" size="4793376" crc="e20371ea" md5="d515a3565dd3e41e26bdca51154b40f0" sha1="55af96c06a9dad5c0d77caa8eb8705d3f90cb945"/>
-		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 11).bin" size="16793280" crc="173b15bf" md5="7e3e071bce2f05d9a95639d8f90c7b9d" sha1="743c367f69136fb6e84c459dbce4d66cae7ca2ea"/>
-		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 12).bin" size="34720224" crc="b51a094d" md5="775427bbee9f2b0301db07d63053b51b" sha1="bd08476b38823cefc6aa5edcaa07c42ebc889fa5"/>
-		<rom name="F-BASIC386 V2.1 L20 (Japan) (Track 13).bin" size="20963376" crc="9e09fe32" md5="b521d45048e4b21584ae184a1b10c82a" sha1="2f63b84a1728104ebe2e2dae3b101c96b05a0279"/>
+		<description>F-BASIC386 Compiler V2.1 L20 (Japan)</description>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 01).bin" size="263894400" crc="ecc88cb8" md5="8593cf831bf108da72f654646f7e1613" sha1="8b7bca2b4244985069c405a6322f2c72581566a4"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 02).bin" size="41729184" crc="dfdf5c43" md5="c21c834af42d37e2af7779c53f954e4c" sha1="07c632f89506d3a543ea3fcbfa22a49bd43961ee"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 03).bin" size="15059856" crc="cb66c765" md5="20b1c11c8e98465e691e0e43e77f9bd3" sha1="628f7b773a50a0b9b9011dc8602d8e12436da3fa"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 04).bin" size="24166800" crc="bd9213bc" md5="c4aadd42a016097ff6ece28ba0ccc483" sha1="006c5fcd90adff06b677b98017c4a69ef464b6de"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 05).bin" size="37330944" crc="5debd853" md5="94cce3cb254648c4d251166610c9b38d" sha1="23d9e5395780a406cfe3e20210d553d1cf0f7064"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 06).bin" size="9085776" crc="5e39e97a" md5="7d88877cdd78be4eac8b3ad5ba059f9a" sha1="72c227ba97d353aefba2431ac8a93c3b4915bebd"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 07).bin" size="5491920" crc="5500d74a" md5="e6d1ecfe0a1a53e67fd19f61a10b1b07" sha1="7274dbf63d2db90579f79f1fadb8a6a7977ae76d"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 08).bin" size="5120304" crc="34a73d87" md5="4b8d70fbde0cddef627f92290ee4933e" sha1="2a1cc41bf6b7f528efd77e38b539ea3f5e305780"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 09).bin" size="9478560" crc="547491a0" md5="1e07d5b2f26341e0666a1c88004b1f7b" sha1="acaa5f1933d0cd48f9270520092110d13ae3a80b"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 10).bin" size="4793376" crc="e20371ea" md5="d515a3565dd3e41e26bdca51154b40f0" sha1="55af96c06a9dad5c0d77caa8eb8705d3f90cb945"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 11).bin" size="16793280" crc="173b15bf" md5="7e3e071bce2f05d9a95639d8f90c7b9d" sha1="743c367f69136fb6e84c459dbce4d66cae7ca2ea"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 12).bin" size="34720224" crc="b51a094d" md5="775427bbee9f2b0301db07d63053b51b" sha1="bd08476b38823cefc6aa5edcaa07c42ebc889fa5"/>
+		<rom name="F-BASIC386 Compiler V2.1 L20 (Japan) (Track 13).bin" size="20963376" crc="9e09fe32" md5="b521d45048e4b21584ae184a1b10c82a" sha1="2f63b84a1728104ebe2e2dae3b101c96b05a0279"/>
 	</game>
 	<game name="FM Series Software Taikenban CD-ROM (Japan)" type="cd" sha1="fea420954113628f7b5c79f769a828a08e1b4a93" size="75864528" crc="1b9ca8f2" fullsha1="beab81856fab2b42b6b630e3ec4fcd8fc3c7b572" dataSha1="228e077004c9b4496b489d33e89d27166780b4c2">
 		<category>Games</category>

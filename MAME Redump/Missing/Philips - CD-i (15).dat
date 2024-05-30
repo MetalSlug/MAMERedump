@@ -3,8 +3,8 @@
 <datafile>
   <header>
     <name>Philips - CD-i</name>
-    <description>MAME Redump - Philips - CD-i - Discs (2041) (2024-04-08 20-06-33)</description>
-    <version>0.264</version>
+    <description>MAME Redump - Philips - CD-i - Discs (2056) (2024-05-16 15-35-23)</description>
+    <version>0.265</version>
     <date>2024-03-22</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
@@ -18,6 +18,16 @@
     <description>French Impressionists, The - France Inshouha (Japan)</description>
     <rom name="French Impressionists, The - France Inshouha (Japan).cue" size="116" crc="6FA9801E" md5="A5801A7B94C6FF13994FAFA7CE5A1A2E" sha1="E67E431CD721A286192281FD8222F9505758A5ED" />
     <rom name="French Impressionists, The - France Inshouha (Japan).bin" size="735635040" crc="49D0003B" md5="CEBAE51F5EB677A243A2456BC4E9BCFF" sha1="61DA2C38F0ABEB9AEEEE41F81488D5CBC506A754" />
+  </game>
+  <game name="Interactive Screen English Series No. 3 - The Piano (Korea) (Side 1)">
+    <description>Interactive Screen English Series No. 3 - The Piano (Korea) (Side 1)</description>
+    <rom name="Interactive Screen English Series No. 3 - The Piano (Korea) (Side 1).cue" size="155" crc="22D4E9BB" md5="95ECBDC9155B65F29912ABA0F2558FE9" sha1="59D8EE60C6DF5FB66F75AF96039677A551A50527" />
+    <rom name="Interactive Screen English Series No. 3 - The Piano (Korea) (Side 1).bin" size="657800304" crc="F93ED903" md5="246AD2F232FBF056FF47D7DBFEAA1C5D" sha1="A4665E48C288902324B4E3BB7FF46901ED295C13" />
+  </game>
+  <game name="Interactive Screen English Series No. 3 - The Piano (Korea) (Side 2)">
+    <description>Interactive Screen English Series No. 3 - The Piano (Korea) (Side 2)</description>
+    <rom name="Interactive Screen English Series No. 3 - The Piano (Korea) (Side 2).cue" size="155" crc="A6D17C6B" md5="42FCC9023A778651FE894AA601AA428A" sha1="AAC0014EB610D5A402670B7596D52DE26853DAC3" />
+    <rom name="Interactive Screen English Series No. 3 - The Piano (Korea) (Side 2).bin" size="678615504" crc="4726C2E1" md5="E0F83968A1BE9437611F9D59D711481F" sha1="4EC6320A644623ADD7C3430136333625A662EFAC" />
   </game>
   <game name="James Brown - Non Stop Hit Machine (Japan)">
     <description>James Brown - Non Stop Hit Machine (Japan)</description>
@@ -61,16 +71,6 @@
     <description>Nuri e Asobi II - Paint School II (Japan)</description>
     <rom name="Nuri e Asobi II - Paint School II (Japan).cue" size="105" crc="C558083D" md5="683131C700FE594741168A6CCA669173" sha1="481B7A271DD2D9FA7338C459FD74E422098B0FDF" />
     <rom name="Nuri e Asobi II - Paint School II (Japan).bin" size="162640800" crc="CC9F3364" md5="803E192F65AE983F4BE8B58D2CCAE5A7" sha1="6C41CB423336B5A6B01C427F2CD5BBE6A3B435A6" />
-  </game>
-  <game name="Piano, The (Korea) (Disc 1)">
-    <description>Piano, The (Korea) (Disc 1)</description>
-    <rom name="Piano, The (Korea) (Disc 1).cue" size="114" crc="DB42E4C7" md5="07911D895989EAAAA13AB93FF52984CE" sha1="EF6270A7874E77BAB73DED297E8C8CEEFC97299E" />
-    <rom name="Piano, The (Korea) (Disc 1).bin" size="657800304" crc="F93ED903" md5="246AD2F232FBF056FF47D7DBFEAA1C5D" sha1="A4665E48C288902324B4E3BB7FF46901ED295C13" />
-  </game>
-  <game name="Piano, The (Korea) (Disc 2)">
-    <description>Piano, The (Korea) (Disc 2)</description>
-    <rom name="Piano, The (Korea) (Disc 2).cue" size="114" crc="5F477117" md5="CDD601223E3146D55E0911D20316BC38" sha1="9DE08CAE66503F9A9695DA6DD121F140DEA0FD58" />
-    <rom name="Piano, The (Korea) (Disc 2).bin" size="678615504" crc="4726C2E1" md5="E0F83968A1BE9437611F9D59D711481F" sha1="4EC6320A644623ADD7C3430136333625A662EFAC" />
   </game>
   <game name="Revolution in Color, A - Russia Kindai Kaiga no Reimei (Japan) (En,Ja,Fr,De,Es,It,Nl)">
     <description>Revolution in Color, A - Russia Kindai Kaiga no Reimei (Japan) (En,Ja,Fr,De,Es,It,Nl)</description>
