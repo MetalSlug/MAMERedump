@@ -3,7 +3,7 @@
 <datafile>
   <header>
     <name>Sony - PlayStation</name>
-    <description>MAME Redump - Sony - PlayStation - Discs (10784) (2024-05-27 12-19-58)</description>
+    <description>MAME Redump - Sony - PlayStation - Discs (10786) (2024-07-09 17-46-00)</description>
     <version>0.265</version>
     <date>2024-03-22</date>
     <author>MAME Redump</author>
@@ -77,6 +77,11 @@
     <rom name="Grid Runner (USA) (Beta) (1996-06-08) (Track 18).bin" size="22097040" crc="A21C96F7" md5="EBB78602E6F8E3F2F81860BA28541EE6" sha1="3A7A509F138F73646181F39BE061F81539EE6344" />
     <rom name="Grid Runner (USA) (Beta) (1996-06-08) (Track 19).bin" size="21584304" crc="744C3058" md5="0631C0FA026F65E78C2749385ED1467A" sha1="89846CA58D31A7111CF29A5E3ADD54EDB2903A04" />
   </game>
+  <game name="Land Before Time, The - Great Valley Racing Adventure (Korea)">
+    <description>Land Before Time, The - Great Valley Racing Adventure (Korea)</description>
+    <rom name="Land Before Time, The - Great Valley Racing Adventure (Korea).cue" size="127" crc="ACEF9AB9" md5="10251342640732A0FD2815D2C706876E" sha1="5285AC6BABC578E0464C09499BEEE51362A87848" />
+    <rom name="Land Before Time, The - Great Valley Racing Adventure (Korea).bin" size="227231424" crc="D1891719" md5="AD90194B854CCF45B19B3B27FBE91191" sha1="70C6A8CF229CA0393CFC583AE84440D93239EDE4" />
+  </game>
   <game name="Marvel Super Heroes (Europe) (Beta) (1996-12-24)">
     <description>Marvel Super Heroes (Europe) (Beta) (1996-12-24)</description>
     <rom name="Marvel Super Heroes (Europe) (Beta) (1996-12-24).cue" size="114" crc="CEBB5C2A" md5="FE8FEAB53CFFBFA1BB6FE733C0BD3691" sha1="25BFA7EB54E6B036527F70BC7B5E8B9394C37872" />
@@ -86,11 +91,6 @@
     <description>Ore no Shikabane o Koete Yuke (Japan) (Demo)</description>
     <rom name="Ore no Shikabane o Koete Yuke (Japan) (Demo).cue" size="110" crc="28212D30" md5="FAC5143C51A442A4699A49C697D96877" sha1="92D2941351ED00A6F548113945716D99FAC99F67" />
     <rom name="Ore no Shikabane o Koete Yuke (Japan) (Demo).bin" size="106571472" crc="6B4BB0D0" md5="32E9FE047EB9A7088551228DE831F316" sha1="62B49885F0F4A5CF967FD9E185123AAB905033EA" />
-  </game>
-  <game name="Remote Control Dandy - Bangai-hen (Japan)">
-    <description>Remote Control Dandy - Bangai-hen (Japan)</description>
-    <rom name="Remote Control Dandy - Bangai-hen (Japan).cue" size="107" crc="A8834225" md5="1AFA2D974269ED423D701A7D76CFA6FC" sha1="57CBCC410CC9FC6A572E34B4ABF98E2D633FAF97" />
-    <rom name="Remote Control Dandy - Bangai-hen (Japan).bin" size="214126080" crc="9BBC43D2" md5="094C908C662358E8EAF34A7DA76F0252" sha1="08DFD7BFF1E0D2AE28791D2EE64FDC49510423E3" />
   </game>
   <game name="Rosco McQueen (Europe) (En,Fr,De,Es,It) (Beta) (1997-06-19)">
     <description>Rosco McQueen (Europe) (En,Fr,De,Es,It) (Beta) (1997-06-19)</description>

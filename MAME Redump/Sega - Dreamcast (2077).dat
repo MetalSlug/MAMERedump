@@ -3,7 +3,7 @@
 <datafile>
   <header>
     <name>Sega - Dreamcast</name>
-    <description>MAME Redump - Sega - Dreamcast - Discs (1482) (2024-05-10 12-21-50)</description>
+    <description>MAME Redump - Sega - Dreamcast - Discs (1486) (2024-06-15 11-27-05)</description>
     <version>0.265</version>
     <date>2024-03-22</date>
     <author>MAME Redump</author>
@@ -819,10 +819,10 @@
     <description>Comic Party (Japan) (Disc 2)</description>
     <disk name="Comic Party (Japan) (Disc 2).chd" sha1="2b43c0f46256eaa5d9709985d79cffc90c594b9e" />
   </machine>
-  <machine name="Confidential Mission (Europe) (En,Fr,De,Es)">
+  <machine name="Confidential Mission (Europe) (En,Ja,Fr,De,Es)">
     <category>Games</category>
-    <description>Confidential Mission (Europe) (En,Fr,De,Es)</description>
-    <disk name="Confidential Mission (Europe) (En,Fr,De,Es).chd" sha1="da3bd8cbf9b068a3c393e03542ebf9597bbfdb1d" />
+    <description>Confidential Mission (Europe) (En,Ja,Fr,De,Es)</description>
+    <disk name="Confidential Mission (Europe) (En,Ja,Fr,De,Es).chd" sha1="da3bd8cbf9b068a3c393e03542ebf9597bbfdb1d" />
   </machine>
   <machine name="Confidential Mission (Japan) (En,Ja,Fr,De,Es)">
     <category>Games</category>
@@ -3334,10 +3334,10 @@
     <description>Last Hope (Europe) (Unl)</description>
     <disk name="Last Hope (Europe) (Unl).chd" sha1="c7a34949aa2fdc4fef306df007deb8928e842a59" />
   </machine>
-  <machine name="Le Mans 24 Hours (Europe) (En,Fr,Es)">
+  <machine name="Le Mans 24 Hours (Europe) (En,Fr,De,Es,It)">
     <category>Games</category>
-    <description>Le Mans 24 Hours (Europe) (En,Fr,Es)</description>
-    <disk name="Le Mans 24 Hours (Europe) (En,Fr,Es).chd" sha1="bfe7c2f41c4ce7a850b85171c9ae8a0d7706f447" />
+    <description>Le Mans 24 Hours (Europe) (En,Fr,De,Es,It)</description>
+    <disk name="Le Mans 24 Hours (Europe) (En,Fr,De,Es,It).chd" sha1="bfe7c2f41c4ce7a850b85171c9ae8a0d7706f447" />
   </machine>
   <machine name="Le Mans 24 Hours (Japan)">
     <category>Games</category>
@@ -3744,10 +3744,10 @@
     <description>Mortal Kombat Gold (USA) (Rev 1)</description>
     <disk name="Mortal Kombat Gold (USA) (Rev 1).chd" sha1="1717cba72b32760619ef8a31c4f2a9f283b78734" />
   </machine>
-  <machine name="Motto Pro Yakyuu Team o Tsukurou! (Japan)">
+  <machine name="Motto Pro Yakyuu Team o Tsukurou! (Japan) (Rev A)">
     <category>Games</category>
-    <description>Motto Pro Yakyuu Team o Tsukurou! (Japan)</description>
-    <disk name="Motto Pro Yakyuu Team o Tsukurou! (Japan).chd" sha1="2a688bf4385e56b32b345b76efa10caa8237678e" />
+    <description>Motto Pro Yakyuu Team o Tsukurou! (Japan) (Rev A)</description>
+    <disk name="Motto Pro Yakyuu Team o Tsukurou! (Japan) (Rev A).chd" sha1="2a688bf4385e56b32b345b76efa10caa8237678e" />
   </machine>
   <machine name="MP3 DC - Use MP3 Audio CD's on Your Dreamcast (Europe) (Unl)">
     <category>Applications</category>
@@ -7354,10 +7354,10 @@
     <description>Yuukyuu Gensoukyoku 3 - Perpetual Blue (Japan)</description>
     <disk name="Yuukyuu Gensoukyoku 3 - Perpetual Blue (Japan).chd" sha1="7fe4a5a10828901f59a8466a20b8349d123527d9" />
   </machine>
-  <machine name="Zero Gunner 2 (Japan) (En,Ja)">
+  <machine name="Zero Gunner 2 (Japan)">
     <category>Games</category>
-    <description>Zero Gunner 2 (Japan) (En,Ja)</description>
-    <disk name="Zero Gunner 2 (Japan) (En,Ja).chd" sha1="c92a58cc5880ef9b9d7146b0b2a8574906f223ee" />
+    <description>Zero Gunner 2 (Japan)</description>
+    <disk name="Zero Gunner 2 (Japan).chd" sha1="c92a58cc5880ef9b9d7146b0b2a8574906f223ee" />
   </machine>
   <machine name="Zombie Revenge (Europe) (En,Ja)">
     <category>Games</category>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+  <header>
+    <name>Acorn - Archimedes</name>
+    <description>MAME Redump - Acorn - Archimedes - Discs (72) (2024-06-29 12-04-01)</description>
+    <version>0.265</version>
+    <date>2024-03-22</date>
+    <author>MAME Redump</author>
+    <url>https://github.com/MetalSlug/MAMERedump</url>
+  </header>
+  <game name="Textease Studio Plus (UK)">
+    <description>Textease Studio Plus (UK)</description>
+    <rom name="Textease Studio Plus (UK).cue" size="106" crc="A8F858EC" md5="5CFF8B2B04590B4D5CB18FA6BC328561" sha1="57D5513EAB1055935957178703953B0602A37816" />
+    <rom name="Textease Studio Plus (UK).bin" size="530216064" crc="5B4D2608" md5="A70EDAAB91770BBD43F0BFA35BECE97E" sha1="33A2A758B1C6D211056AA7A231830BADA7B1112A" />
+  </game>
+</datafile>
