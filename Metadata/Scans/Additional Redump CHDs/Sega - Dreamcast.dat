@@ -9,6 +9,22 @@
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
+	<game name="09 Chairs (Japan)" type="cd" sha1="60d2d2807f3464f963ddf8a2bfb610491a3d816d" size="511220442" crc="c90a7f5e" fullsha1="ef765c32f36e8926768f2078049f7189b4f2d9cd" dataSha1="3837a6ba255e4bcdad17400a0ab1c45a8d268657">
+		<category>Games</category>
+		<description>09 Chairs (Japan)</description>
+		<rom name="09 Chairs (Japan) (Track 01).bin" size="34285104" crc="8951f196" md5="0d9fcf3e5aa8844db7be1534ee1aede8" sha1="c12959728d7ffdb9f71e755dda29544d7a5ce3b1"/>
+		<rom name="09 Chairs (Japan) (Track 02).bin" size="54197136" crc="d15eb891" md5="c059dc1d7463ede81f998edf02e5d3d7" sha1="84f6283920dd447ca44b8817d6ebcff2d955a69e"/>
+		<rom name="09 Chairs (Japan) (Track 03).bin" size="43434384" crc="c0974479" md5="743ed84947c92aa17796100c3ea9c0eb" sha1="b25a000421090e6ff53d8a741f726afd8b631e07"/>
+		<rom name="09 Chairs (Japan) (Track 04).bin" size="56471520" crc="fc496df6" md5="94c81dc5ba7f50f8cee21b64e6e76cf9" sha1="3e9ddb0e6d059512277031ae0cc4fa3c52457047"/>
+		<rom name="09 Chairs (Japan) (Track 05).bin" size="53820816" crc="41589c1b" md5="de647c4f31431ff499f450d1df5bf674" sha1="e791ec3a447b2e22e8e33a451913b1e5430aefec"/>
+		<rom name="09 Chairs (Japan) (Track 06).bin" size="34198080" crc="f5eaad1e" md5="3c3f7c3014c816d5f06fa125c0559efa" sha1="1f4a77af649bc6776c760475de7ccc905594da7b"/>
+		<rom name="09 Chairs (Japan) (Track 07).bin" size="56130480" crc="cb40b2e8" md5="7257c0da74cc3c83f3f70469743da1cd" sha1="bf886b272513daeec6e643023a3408b3817d5ad2"/>
+		<rom name="09 Chairs (Japan) (Track 08).bin" size="46539024" crc="0e48384d" md5="f2278468ea75e61bfdef8d2a336da458" sha1="6a6ebdc45651232c94304ff93d772f57a3269e4e"/>
+		<rom name="09 Chairs (Japan) (Track 09).bin" size="10536960" crc="46155c75" md5="a682546c468130403651a786582ba362" sha1="21bc76ad5d71e829146c718ba593418da9c77668"/>
+		<rom name="09 Chairs (Japan) (Track 10).bin" size="39838176" crc="61e5f5b5" md5="6bdefa25fbff80a645dc239f2a82f3ad" sha1="d0af15a439c089b177cdb8401ba3eccacb01fe0d"/>
+		<rom name="09 Chairs (Japan) (Track 11).bin" size="47969040" crc="6811d6e9" md5="f619d1356035805350a24ce3a4120a17" sha1="66f3bec5a76ee9781c74383e4acba8b08a9e75a2"/>
+		<rom name="09 Chairs (Japan) (Track 12).bin" size="240040416" crc="41886e5a" md5="2e9a22bc9801684be1e64c134403fe77" sha1="f7e6ccdc64664efd119bbc858081e1fb529ce138"/>
+	</game>
 	<game name="102 Dalmatians - Puppies to the Rescue (UK)" type="cd" sha1="ee7d0efe8d9d478a826ebbddd0b5200cbdee351b" size="442946226" crc="f975684b" fullsha1="6af9a35e9cbea6c677543dc11d00da9dca6a972f" dataSha1="ccba2b930a9617853b3fdf812df2b74b38156368">
 		<category>Games</category>
 		<description>102 Dalmatians - Puppies to the Rescue (UK)</description>
@@ -11485,22 +11501,6 @@
 		<rom name="Slave Zero (USA) (Rev A) (Track 03).bin" size="841997184" crc="6c493d18" md5="f02ba33f9d2e5a82947780980e386097" sha1="91924e3b774a50c2fc3f59e2d9176ee25eaf19b1"/>
 		<rom name="Slave Zero (USA) (Rev A) (Track 04).bin" size="1237152" crc="95557332" md5="cb9f913312fff0782cd8c87568bcc047" sha1="cf9a3476b4886212c18868190f98d301f5205a09"/>
 		<rom name="Slave Zero (USA) (Rev A) (Track 05).bin" size="342526464" crc="f9adf1e5" md5="cce30f0ae3e86ad88a2e34292c575baf" sha1="41673d28c4659b630fc922632574989efed9f66a"/>
-	</game>
-	<game name="09 Chairs (Japan)" type="cd" sha1="60d2d2807f3464f963ddf8a2bfb610491a3d816d" size="511220442" crc="c90a7f5e" fullsha1="ef765c32f36e8926768f2078049f7189b4f2d9cd" dataSha1="3837a6ba255e4bcdad17400a0ab1c45a8d268657">
-		<category>Games</category>
-		<description>09 Chairs (Japan)</description>
-		<rom name="09 Chairs (Japan) (Track 01).bin" size="34285104" crc="8951f196" md5="0d9fcf3e5aa8844db7be1534ee1aede8" sha1="c12959728d7ffdb9f71e755dda29544d7a5ce3b1"/>
-		<rom name="09 Chairs (Japan) (Track 02).bin" size="54197136" crc="d15eb891" md5="c059dc1d7463ede81f998edf02e5d3d7" sha1="84f6283920dd447ca44b8817d6ebcff2d955a69e"/>
-		<rom name="09 Chairs (Japan) (Track 03).bin" size="43434384" crc="c0974479" md5="743ed84947c92aa17796100c3ea9c0eb" sha1="b25a000421090e6ff53d8a741f726afd8b631e07"/>
-		<rom name="09 Chairs (Japan) (Track 04).bin" size="56471520" crc="fc496df6" md5="94c81dc5ba7f50f8cee21b64e6e76cf9" sha1="3e9ddb0e6d059512277031ae0cc4fa3c52457047"/>
-		<rom name="09 Chairs (Japan) (Track 05).bin" size="53820816" crc="41589c1b" md5="de647c4f31431ff499f450d1df5bf674" sha1="e791ec3a447b2e22e8e33a451913b1e5430aefec"/>
-		<rom name="09 Chairs (Japan) (Track 06).bin" size="34198080" crc="f5eaad1e" md5="3c3f7c3014c816d5f06fa125c0559efa" sha1="1f4a77af649bc6776c760475de7ccc905594da7b"/>
-		<rom name="09 Chairs (Japan) (Track 07).bin" size="56130480" crc="cb40b2e8" md5="7257c0da74cc3c83f3f70469743da1cd" sha1="bf886b272513daeec6e643023a3408b3817d5ad2"/>
-		<rom name="09 Chairs (Japan) (Track 08).bin" size="46539024" crc="0e48384d" md5="f2278468ea75e61bfdef8d2a336da458" sha1="6a6ebdc45651232c94304ff93d772f57a3269e4e"/>
-		<rom name="09 Chairs (Japan) (Track 09).bin" size="10536960" crc="46155c75" md5="a682546c468130403651a786582ba362" sha1="21bc76ad5d71e829146c718ba593418da9c77668"/>
-		<rom name="09 Chairs (Japan) (Track 10).bin" size="39838176" crc="61e5f5b5" md5="6bdefa25fbff80a645dc239f2a82f3ad" sha1="d0af15a439c089b177cdb8401ba3eccacb01fe0d"/>
-		<rom name="09 Chairs (Japan) (Track 11).bin" size="47969040" crc="6811d6e9" md5="f619d1356035805350a24ce3a4120a17" sha1="66f3bec5a76ee9781c74383e4acba8b08a9e75a2"/>
-		<rom name="09 Chairs (Japan) (Track 12).bin" size="240040416" crc="41886e5a" md5="2e9a22bc9801684be1e64c134403fe77" sha1="f7e6ccdc64664efd119bbc858081e1fb529ce138"/>
 	</game>
 	<game name="SnoCross Championship Racing (Europe) (En,Fr,De)" type="cd" sha1="37036b01315d6552a2f3ab1470d7c3f391501851" size="453858998" crc="54204990" fullsha1="741f2b8e6dcb8fc4f95a97dcc953c44c8a5888a7" dataSha1="1cb8824255a3bf5f8682d9fde22cee9ac0ae8b11">
 		<category>Games</category>
