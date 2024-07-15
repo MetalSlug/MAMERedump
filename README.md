@@ -109,14 +109,14 @@ Nintendo - GameCube|2024-07-08|1989|3|1 TB||
 Nintendo - Wii|2024-06-17|3770|2|6 TB||
 Palm|2024-07-10|140|1|12 GB||
 ~~Panasonic - 3DO Interactive Multiplayer~~|2024-06-19|0|646|||
-Philips - CD-i|2024-07-09|2177|24|614 GB|cdi|137 GB
+Philips - CD-i|2024-07-09|2188|13|620 GB|cdi|137 GB
 **Photo CD**|2024-06-17|215|0|40 GB||
 **PlayStation GameShark Updates**|2024-04-29|31|0|544 MB||
 Pocket PC|2024-07-04|59|1|8 GB||
-Sega - Dreamcast|2024-06-15|2077|9|835 GB|dc|72 GB
+Sega - Dreamcast|2024-06-15|2084|2|836 GB|dc|72 GB
 **Sega - Mega-CD - Sega CD**|2024-06-19|808|0|183 GB|megacd, megacdj, segacd|61 GB
 **Sega - Prologue 21**|2024-02-25|30|0|17 GB||
-**Sega - Saturn**|2024-07-10|4417|0|1 TB|saturn|129 GB
+**Sega - Saturn**|2024-07-10|4416|0|1 TB|saturn|129 GB
 **Sharp - X68000**|2024-03-14|29|0|6 GB||
 **SNK - Neo Geo CD**|2024-06-05|217|0|59 GB|neocd|847 MB
 *Sony - PlayStation 2*|2024-07-10|4145|7330|6 TB||
@@ -128,4 +128,4 @@ Sony - PlayStation|2024-07-09|11585|11|3 TB|psx|551 GB
 VM Labs - NUON|2023-10-27|8|2|6 GB|nuon|6 GB
 **VTech - V.Flash & V.Smile Pro**|2024-03-01|50|0|8 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2024-02-02|16|0|50 GB||
-Total||63744|42824|40 TB||1 TB
+Total||63761|42806|40 TB||1 TB
