@@ -4,7 +4,7 @@
 	<header>
 		<name>Apple - Macintosh</name>
 		<description>Apple - Macintosh</description>
-		<version>0.264</version>
+		<version>0.266</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -757,15 +757,15 @@
 		<description>Myst (Europe) (Rerelease)</description>
 		<rom name="Myst (Europe) (Rerelease) (Track 01).bin" size="631048656" crc="554bd052" md5="b310685f8b35d225e96aef5895b978d2" sha1="20c2d7b067aaa547ec50e9edbb310b54f36fd61f"/>
 	</game>
-	<game name="Myst (USA, Europe)" type="cd" sha1="d02bd6fe2894ec1c82fc4b8241399e02b373ba98" size="402020250" crc="a301439c" fullsha1="1f825b8419212ec0e3ae22db4dd90c7bd4bdc37a" dataSha1="fc4f769ae026d5bf1ee8a8a4200001c810e37836">
-		<category>Games</category>
-		<description>Myst (USA, Europe)</description>
-		<rom name="Myst (USA, Europe) (Track 01).bin" size="630695856" crc="fa37e952" md5="c19ba12032bc368b69f1f2a0b955fb29" sha1="24d77766c9d1c566e99f69bf0a4954d978a4fa78"/>
-	</game>
 	<game name="Myst (USA) (Rerelease)" type="cd" sha1="43834fb8a46e0e4ff5f2b285b82950dfff45d30c" size="405128266" crc="3966ba04" fullsha1="7e1d64e5bd029393035486970a51637630cee9b2" dataSha1="992c6ea5a929477a1a1127cde408457c3ca62f79">
 		<category>Games</category>
 		<description>Myst (USA) (Rerelease)</description>
 		<rom name="Myst (USA) (Rerelease) (Track 01).bin" size="635816160" crc="c7030819" md5="9310d88d3c5fc17e74d0b44177e043c3" sha1="481b780df3740a99162cfa068eabf1f887f47ebb"/>
+	</game>
+	<game name="Myst (USA, Europe)" type="cd" sha1="d02bd6fe2894ec1c82fc4b8241399e02b373ba98" size="402020250" crc="a301439c" fullsha1="1f825b8419212ec0e3ae22db4dd90c7bd4bdc37a" dataSha1="fc4f769ae026d5bf1ee8a8a4200001c810e37836">
+		<category>Games</category>
+		<description>Myst (USA, Europe)</description>
+		<rom name="Myst (USA, Europe) (Track 01).bin" size="630695856" crc="fa37e952" md5="c19ba12032bc368b69f1f2a0b955fb29" sha1="24d77766c9d1c566e99f69bf0a4954d978a4fa78"/>
 	</game>
 	<game name="Night Trap (USA) (Disc 1)" type="cd" sha1="968292e5922723467434e1848722b38e6e5ac1a4" size="334953435" crc="e6cd09c3" fullsha1="5623e021c1a1afdae587cce4c83a17dc76253b3a" dataSha1="d187c409d72ced67d0809c66e805f22d09f04cb2">
 		<category>Games</category>
