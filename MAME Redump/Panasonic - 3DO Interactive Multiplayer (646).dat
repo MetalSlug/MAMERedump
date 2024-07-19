@@ -184,6 +184,16 @@
     <description>BattleSport (USA)</description>
     <disk name="BattleSport (USA).chd" sha1="8d2e4942c7e086dc082ead9241e73f79410e6419" />
   </machine>
+  <machine name="BattleSport (USA) (Beta) (1995-09-22)">
+    <category>Preproduction</category>
+    <description>BattleSport (USA) (Beta) (1995-09-22)</description>
+    <disk name="BattleSport (USA) (Beta) (1995-09-22).chd" sha1="ee01cca6efffb604cc942cf8f845e4c3390c2157" />
+  </machine>
+  <machine name="BC Racers (USA) (Beta) (1995-09-29)">
+    <category>Preproduction</category>
+    <description>BC Racers (USA) (Beta) (1995-09-29)</description>
+    <disk name="BC Racers (USA) (Beta) (1995-09-29).chd" sha1="5dcc77f30d57ac68d5b1fb1c3d695080447033d3" />
+  </machine>
   <machine name="BC Racers (USA, Europe)">
     <category>Games</category>
     <description>BC Racers (USA, Europe)</description>
@@ -228,6 +238,11 @@
     <category>Games</category>
     <description>Blade Force (USA)</description>
     <disk name="Blade Force (USA).chd" sha1="e64398f810ee91ee3bbb35e55a7c3aca8a15c120" />
+  </machine>
+  <machine name="Blade Force (USA) (Beta) (1995-09-06)">
+    <category>Preproduction</category>
+    <description>Blade Force (USA) (Beta) (1995-09-06)</description>
+    <disk name="Blade Force (USA) (Beta) (1995-09-06).chd" sha1="b4ea69d6b4a63f31c5017beb672bf42b492328d3" />
   </machine>
   <machine name="Blonde Justice (USA)">
     <category>Video</category>
@@ -298,6 +313,11 @@
     <category>Games</category>
     <description>Cannon Fodder (USA)</description>
     <disk name="Cannon Fodder (USA).chd" sha1="f9a55051204d4900ecd35ae44b26e808d8c96447" />
+  </machine>
+  <machine name="Cannon Fodder (USA) (Beta)">
+    <category>Preproduction</category>
+    <description>Cannon Fodder (USA) (Beta)</description>
+    <disk name="Cannon Fodder (USA) (Beta).chd" sha1="82bd137aad1ee5921829b90bc290c3320015d581" />
   </machine>
   <machine name="Captain Quazar &amp; BattleSport (Europe) (Demo)">
     <category>Demos</category>
@@ -893,6 +913,11 @@
     <category>Games</category>
     <description>Foes of Ali (USA)</description>
     <disk name="Foes of Ali (USA).chd" sha1="d986bba6811f6b49c74a6fd4ca402aa9ec7fddf8" />
+  </machine>
+  <machine name="Foes of Ali (USA) (Beta) (1995-11-07)">
+    <category>Preproduction</category>
+    <description>Foes of Ali (USA) (Beta) (1995-11-07)</description>
+    <disk name="Foes of Ali (USA) (Beta) (1995-11-07).chd" sha1="404aa5f286307e7dbfd0f32a9916cdd7e841fdae" />
   </machine>
   <machine name="Footie (USA) (Powerslide Bonus Disk) (Unl)">
     <category>Bonus Discs</category>
@@ -1864,6 +1889,11 @@
     <description>PGA Tour 96 (Europe)</description>
     <disk name="PGA Tour 96 (Europe).chd" sha1="c485ae514d253fd2b1bf7cfdf2d35fe106ce1e98" />
   </machine>
+  <machine name="PGA Tour 96 (USA) (Beta) (1995-10-25)">
+    <category>Preproduction</category>
+    <description>PGA Tour 96 (USA) (Beta) (1995-10-25)</description>
+    <disk name="PGA Tour 96 (USA) (Beta) (1995-10-25).chd" sha1="edf9b069d6b4690dd60ef65f4298cea2736774d6" />
+  </machine>
   <machine name="PGA Tour 96 (USA) (RE-1)">
     <category>Games</category>
     <description>PGA Tour 96 (USA) (RE-1)</description>
@@ -2154,6 +2184,11 @@
     <description>Road Rash (Japan) (Demo)</description>
     <disk name="Road Rash (Japan) (Demo).chd" sha1="1ca666b873e8eaca3aca204771846ac4672e417d" />
   </machine>
+  <machine name="Road Rash (USA)">
+    <category>Games</category>
+    <description>Road Rash (USA)</description>
+    <disk name="Road Rash (USA).chd" sha1="b8b5b07b43c76b935f276931f3e7b60799c8dc6d" />
+  </machine>
   <machine name="Robinson's Requiem (USA)">
     <category>Games</category>
     <description>Robinson's Requiem (USA)</description>
@@ -2224,6 +2259,16 @@
     <description>Seimei Handan (Japan)</description>
     <disk name="Seimei Handan (Japan).chd" sha1="42f627c3d45d4742a3cd272a1618f3ab42f71ce2" />
   </machine>
+  <machine name="Sento Monogatari - Sono I (Japan)">
+    <category>Games</category>
+    <description>Sento Monogatari - Sono I (Japan)</description>
+    <disk name="Sento Monogatari - Sono I (Japan).chd" sha1="d7531448f1177710ef0f79a9538f57ac04875a79" />
+  </machine>
+  <machine name="Sesame Street - Numbers (Japan)">
+    <category>Educational</category>
+    <description>Sesame Street - Numbers (Japan)</description>
+    <disk name="Sesame Street - Numbers (Japan).chd" sha1="b11992f979b1646ef337ee144c63a6cbf7b3bf08" />
+  </machine>
   <machine name="Sesame Street - Numbers (USA)">
     <category>Educational</category>
     <description>Sesame Street - Numbers (USA)</description>
@@ -2233,5 +2278,965 @@
     <category>Games</category>
     <description>Sewer Shark (USA)</description>
     <disk name="Sewer Shark (USA).chd" sha1="1c793003a52e612553499b260e9e49254b58748c" />
+  </machine>
+  <machine name="Sex (USA)">
+    <category>Video</category>
+    <description>Sex (USA)</description>
+    <disk name="Sex (USA).chd" sha1="9ee6ba3dd203b0ced588d767250271a9d39088f1" />
+  </machine>
+  <machine name="SHADOW - War of Succession (USA)">
+    <category>Games</category>
+    <description>SHADOW - War of Succession (USA)</description>
+    <disk name="SHADOW - War of Succession (USA).chd" sha1="e263e893482fba391a0723bc8d1e6f0ca8246b85" />
+  </machine>
+  <machine name="SHADOW Warriors (Japan)">
+    <category>Games</category>
+    <description>SHADOW Warriors (Japan)</description>
+    <disk name="SHADOW Warriors (Japan).chd" sha1="742d1c55d77a5866a0996b4e9be5477e18a316ee" />
+  </machine>
+  <machine name="Shanghai - Banri no Choujou - The Great Wall (Japan) (Rev 1)">
+    <category>Games</category>
+    <description>Shanghai - Banri no Choujou - The Great Wall (Japan) (Rev 1)</description>
+    <disk name="Shanghai - Banri no Choujou - The Great Wall (Japan) (Rev 1).chd" sha1="5c9f00b5089e596debb05af9c33003720e308a3c" />
+  </machine>
+  <machine name="Shanghai - Triple-Threat (USA)">
+    <category>Games</category>
+    <description>Shanghai - Triple-Threat (USA)</description>
+    <disk name="Shanghai - Triple-Threat (USA).chd" sha1="04d57093ea06f72d92a2b7cfbca6a6fbd41f67da" />
+  </machine>
+  <machine name="Shanghai - Triple-Threat (USA) (3DO Action Pak)">
+    <category>Games</category>
+    <description>Shanghai - Triple-Threat (USA) (3DO Action Pak)</description>
+    <disk name="Shanghai - Triple-Threat (USA) (3DO Action Pak).chd" sha1="69b69499a5fd9f223bf7002b31e00a6286478678" />
+  </machine>
+  <machine name="Shelley Duvall's It's a Bird's Life (USA)">
+    <category>Multimedia</category>
+    <description>Shelley Duvall's It's a Bird's Life (USA)</description>
+    <disk name="Shelley Duvall's It's a Bird's Life (USA).chd" sha1="80484682c9e7d4f9e56c048749afbdb60df722ae" />
+  </machine>
+  <machine name="Shock Wave - Operation JumpGate (Japan)">
+    <category>Add-Ons</category>
+    <description>Shock Wave - Operation JumpGate (Japan)</description>
+    <disk name="Shock Wave - Operation JumpGate (Japan).chd" sha1="eaa56ae32c2b367b35888584cc67bc2cea001a40" />
+  </machine>
+  <machine name="Shock Wave - Operation JumpGate (Japan) (Demo)">
+    <category>Demos</category>
+    <description>Shock Wave - Operation JumpGate (Japan) (Demo)</description>
+    <disk name="Shock Wave - Operation JumpGate (Japan) (Demo).chd" sha1="dd8af3cc45fd4315c41b59bf6e5c8bc491de25f3" />
+  </machine>
+  <machine name="Shock Wave - Operation JumpGate (USA, Europe)">
+    <category>Add-Ons</category>
+    <description>Shock Wave - Operation JumpGate (USA, Europe)</description>
+    <disk name="Shock Wave - Operation JumpGate (USA, Europe).chd" sha1="24d040e471cdec4336cd8e27071b586a2f8b2ef2" />
+  </machine>
+  <machine name="Shock Wave (Europe)">
+    <category>Games</category>
+    <description>Shock Wave (Europe)</description>
+    <disk name="Shock Wave (Europe).chd" sha1="ed1bf7f47617301e7d318a9cd7ae81a0266cd185" />
+  </machine>
+  <machine name="Shock Wave (Japan)">
+    <category>Games</category>
+    <description>Shock Wave (Japan)</description>
+    <disk name="Shock Wave (Japan).chd" sha1="9ce586481da659c84e7feb27c682209676e081b4" />
+  </machine>
+  <machine name="Shock Wave (Japan) (Demo)">
+    <category>Demos</category>
+    <description>Shock Wave (Japan) (Demo)</description>
+    <disk name="Shock Wave (Japan) (Demo).chd" sha1="b848f5327c79b04a4479cae77ea215b76b399ef1" />
+  </machine>
+  <machine name="Shock Wave (Korea)">
+    <category>Games</category>
+    <description>Shock Wave (Korea)</description>
+    <disk name="Shock Wave (Korea).chd" sha1="1f2da6911399963cf2d9e008fd73e75cc03d4573" />
+  </machine>
+  <machine name="Shock Wave (USA) (RE1)">
+    <category>Games</category>
+    <description>Shock Wave (USA) (RE1)</description>
+    <disk name="Shock Wave (USA) (RE1).chd" sha1="d00cfa4444ce52a8223f5474b1ea21d9ecc57d68" />
+  </machine>
+  <machine name="Shock Wave (USA) (RE2)">
+    <category>Games</category>
+    <description>Shock Wave (USA) (RE2)</description>
+    <disk name="Shock Wave (USA) (RE2).chd" sha1="519d828b1c76620627b787e672c40b7e820f0da9" />
+  </machine>
+  <machine name="Shockwave 2 - Beyond the Gate (Europe) (Disc 1)">
+    <category>Games</category>
+    <description>Shockwave 2 - Beyond the Gate (Europe) (Disc 1)</description>
+    <disk name="Shockwave 2 - Beyond the Gate (Europe) (Disc 1).chd" sha1="599cc8c0c3a257fe44451113564d2e4cd55ac535" />
+  </machine>
+  <machine name="Shockwave 2 - Beyond the Gate (Europe) (Disc 2)">
+    <category>Games</category>
+    <description>Shockwave 2 - Beyond the Gate (Europe) (Disc 2)</description>
+    <disk name="Shockwave 2 - Beyond the Gate (Europe) (Disc 2).chd" sha1="28b00ac3a647abab5b19b8c59191925d2fb0e4c5" />
+  </machine>
+  <machine name="Shockwave 2 - Beyond the Gate (USA) (Disc 01)">
+    <category>Games</category>
+    <description>Shockwave 2 - Beyond the Gate (USA) (Disc 01)</description>
+    <disk name="Shockwave 2 - Beyond the Gate (USA) (Disc 01).chd" sha1="e08d1e42126dd7b7c724b2af50ac27d66e94b85e" />
+  </machine>
+  <machine name="Shockwave 2 - Beyond the Gate (USA) (Disc 02)">
+    <category>Games</category>
+    <description>Shockwave 2 - Beyond the Gate (USA) (Disc 02)</description>
+    <disk name="Shockwave 2 - Beyond the Gate (USA) (Disc 02).chd" sha1="bb05f7e325c3f63478ff9a52bb959b94fe4d8f01" />
+  </machine>
+  <machine name="Short Warp - Warp's Short Game Collection (Japan)">
+    <category>Games</category>
+    <description>Short Warp - Warp's Short Game Collection (Japan)</description>
+    <disk name="Short Warp - Warp's Short Game Collection (Japan).chd" sha1="cd173566f85a85fb794750dad4021e2238c6d854" />
+  </machine>
+  <machine name="Sid Meier's C.P.U. Bach (USA)">
+    <category>Applications</category>
+    <description>Sid Meier's C.P.U. Bach (USA)</description>
+    <disk name="Sid Meier's C.P.U. Bach (USA).chd" sha1="bbf57a9a0069986060fb2f46a5b40e1f10748287" />
+  </machine>
+  <machine name="Slam 'n Jam '95 (Japan, Korea)">
+    <category>Games</category>
+    <description>Slam 'n Jam '95 (Japan, Korea)</description>
+    <disk name="Slam 'n Jam '95 (Japan, Korea).chd" sha1="f88cdad1e53fb92edaeda52f690f888dcee5764a" />
+  </machine>
+  <machine name="Slam 'n Jam '95 (USA) (Alt)">
+    <category>Games</category>
+    <description>Slam 'n Jam '95 (USA) (Alt)</description>
+    <disk name="Slam 'n Jam '95 (USA) (Alt).chd" sha1="206ba46bad973d427dfe7074a111adf9f76041fc" />
+  </machine>
+  <machine name="Slam 'N Jam '95 (USA, Europe)">
+    <category>Games</category>
+    <description>Slam 'N Jam '95 (USA, Europe)</description>
+    <disk name="Slam 'N Jam '95 (USA, Europe).chd" sha1="b5b35f2c541f159a26a1a89a98b67adae92aa98c" />
+  </machine>
+  <machine name="Slayer (Europe)">
+    <category>Games</category>
+    <description>Slayer (Europe)</description>
+    <disk name="Slayer (Europe).chd" sha1="353aa3c751b441ad24fa7bf065a3d3140f04eaec" />
+  </machine>
+  <machine name="Slayer (USA)">
+    <category>Games</category>
+    <description>Slayer (USA)</description>
+    <disk name="Slayer (USA).chd" sha1="13e835442a6a82458759293e8e2073526be45c3e" />
+  </machine>
+  <machine name="Slayer (USA) (3DO Action Pak)">
+    <category>Games</category>
+    <description>Slayer (USA) (3DO Action Pak)</description>
+    <disk name="Slayer (USA) (3DO Action Pak).chd" sha1="01d211c9e30832750654f809a711475a8b2549ee" />
+  </machine>
+  <machine name="Slopestyle - An Interactive Learning Cube (USA)">
+    <category>Educational</category>
+    <description>Slopestyle - An Interactive Learning Cube (USA)</description>
+    <disk name="Slopestyle - An Interactive Learning Cube (USA).chd" sha1="87019307a6cda7160bd29f7040b07f863aaa34e7" />
+  </machine>
+  <machine name="SnowJob Starring Tracy Scoggins (Europe) (Disc 1)">
+    <category>Games</category>
+    <description>SnowJob Starring Tracy Scoggins (Europe) (Disc 1)</description>
+    <disk name="SnowJob Starring Tracy Scoggins (Europe) (Disc 1).chd" sha1="49ffbc0405a06605cdd03cd0f4a14741ab7b6a80" />
+  </machine>
+  <machine name="SnowJob Starring Tracy Scoggins (Europe) (Disc 2)">
+    <category>Games</category>
+    <description>SnowJob Starring Tracy Scoggins (Europe) (Disc 2)</description>
+    <disk name="SnowJob Starring Tracy Scoggins (Europe) (Disc 2).chd" sha1="a4e5a71c883f12f70314ae01fdd8a76a41e4ce71" />
+  </machine>
+  <machine name="SnowJob Starring Tracy Scoggins (USA) (Disc 1)">
+    <category>Games</category>
+    <description>SnowJob Starring Tracy Scoggins (USA) (Disc 1)</description>
+    <disk name="SnowJob Starring Tracy Scoggins (USA) (Disc 1).chd" sha1="ffc4b69a30d59ef50e8f7de60a530c5bae182d33" />
+  </machine>
+  <machine name="SnowJob Starring Tracy Scoggins (USA) (Disc 2)">
+    <category>Games</category>
+    <description>SnowJob Starring Tracy Scoggins (USA) (Disc 2)</description>
+    <disk name="SnowJob Starring Tracy Scoggins (USA) (Disc 2).chd" sha1="d302e0d18e893fc1829228d4343cc1ea872e753c" />
+  </machine>
+  <machine name="Soccer Kid (Europe)">
+    <category>Games</category>
+    <description>Soccer Kid (Europe)</description>
+    <disk name="Soccer Kid (Europe).chd" sha1="6896675a3cf9d607b7d8927b2a409d06c4aaddf0" />
+  </machine>
+  <machine name="Soccer Kid (USA)">
+    <category>Games</category>
+    <description>Soccer Kid (USA)</description>
+    <disk name="Soccer Kid (USA).chd" sha1="4ac480a20cec48213b7786dfb769fa08a0878095" />
+  </machine>
+  <machine name="Sotsugyou - Graduation - Final (Japan)">
+    <category>Games</category>
+    <description>Sotsugyou - Graduation - Final (Japan)</description>
+    <disk name="Sotsugyou - Graduation - Final (Japan).chd" sha1="f66accf4a0cc73350cf6cbddda63438e59971418" />
+  </machine>
+  <machine name="Sotsugyou - Graduation - Final (Japan) (Demo)">
+    <category>Demos</category>
+    <description>Sotsugyou - Graduation - Final (Japan) (Demo)</description>
+    <disk name="Sotsugyou - Graduation - Final (Japan) (Demo).chd" sha1="4c055f00b2530dd7eb10fb8c77cfa0323636415f" />
+  </machine>
+  <machine name="Sotsugyou II Special - Neo Generation (Japan)">
+    <category>Games</category>
+    <description>Sotsugyou II Special - Neo Generation (Japan)</description>
+    <disk name="Sotsugyou II Special - Neo Generation (Japan).chd" sha1="c22bee4e91faf4065ce6374b8261300b9f32b3ac" />
+  </machine>
+  <machine name="Space Ace (Europe) (Demo)">
+    <category>Demos</category>
+    <description>Space Ace (Europe) (Demo)</description>
+    <disk name="Space Ace (Europe) (Demo).chd" sha1="9414ea8230aad1e2e5f69b9834961801e003f3b4" />
+  </machine>
+  <machine name="Space Ace (USA)">
+    <category>Games</category>
+    <description>Space Ace (USA)</description>
+    <disk name="Space Ace (USA).chd" sha1="2d07944d04e875b0b6d2b093f4910357967d1a69" />
+  </machine>
+  <machine name="Space Ace (USA) (RE-1)">
+    <category>Games</category>
+    <description>Space Ace (USA) (RE-1)</description>
+    <disk name="Space Ace (USA) (RE-1).chd" sha1="17a46a7efffdce68556bb79deea0238e47a5c272" />
+  </machine>
+  <machine name="Space Hulk - Vengeance of the Blood Angels (Europe)">
+    <category>Games</category>
+    <description>Space Hulk - Vengeance of the Blood Angels (Europe)</description>
+    <disk name="Space Hulk - Vengeance of the Blood Angels (Europe).chd" sha1="30ccab7da4b0a9cc02edd22ce8b8e9ae8bce148e" />
+  </machine>
+  <machine name="Space Hulk - Vengeance of the Blood Angels (USA)">
+    <category>Games</category>
+    <description>Space Hulk - Vengeance of the Blood Angels (USA)</description>
+    <disk name="Space Hulk - Vengeance of the Blood Angels (USA).chd" sha1="18bf50677bbc336239f043743af898faf0145554" />
+  </machine>
+  <machine name="Space Pirates (USA)">
+    <category>Games</category>
+    <description>Space Pirates (USA)</description>
+    <disk name="Space Pirates (USA).chd" sha1="d433e9a32312178a853b955eb04120539ed9dc43" />
+  </machine>
+  <machine name="Space Shuttle (USA)">
+    <category>Multimedia</category>
+    <description>Space Shuttle (USA)</description>
+    <disk name="Space Shuttle (USA).chd" sha1="6fa1f2a9372d81f7aca564f7f82c52cd506d2bf9" />
+  </machine>
+  <machine name="Star Control II - The Ur-Quan Masters (Japan)">
+    <category>Games</category>
+    <description>Star Control II - The Ur-Quan Masters (Japan)</description>
+    <disk name="Star Control II - The Ur-Quan Masters (Japan).chd" sha1="aaf3a7d4d42248e9bbabacba4cd4df2773a41648" />
+  </machine>
+  <machine name="Star Control II (USA)">
+    <category>Games</category>
+    <description>Star Control II (USA)</description>
+    <disk name="Star Control II (USA).chd" sha1="fb0996a9a9ed2da94f75eb1078700771a5e63ffc" />
+  </machine>
+  <machine name="Star Fighter (Europe) (Demo)">
+    <category>Demos</category>
+    <description>Star Fighter (Europe) (Demo)</description>
+    <disk name="Star Fighter (Europe) (Demo).chd" sha1="3f3b3533c4486eb18c607505ef2332a14712f122" />
+  </machine>
+  <machine name="Star Fighter (USA, Europe)">
+    <category>Games</category>
+    <description>Star Fighter (USA, Europe)</description>
+    <disk name="Star Fighter (USA, Europe).chd" sha1="19e10f504b5c9c6b72835bda57baedbce4e9b40b" />
+  </machine>
+  <machine name="Star Wars - Rebel Assault (Japan)">
+    <category>Games</category>
+    <description>Star Wars - Rebel Assault (Japan)</description>
+    <disk name="Star Wars - Rebel Assault (Japan).chd" sha1="e85f2a3de9dd16bdf4d153563e4bada5e65e426d" />
+  </machine>
+  <machine name="Star Wars - Rebel Assault (USA, Europe)">
+    <category>Games</category>
+    <description>Star Wars - Rebel Assault (USA, Europe)</description>
+    <disk name="Star Wars - Rebel Assault (USA, Europe).chd" sha1="dae1c1c8f89e3b3ca67f2c014a152adc117f2ebe" />
+  </machine>
+  <machine name="Starblade (Canada)">
+    <category>Games</category>
+    <description>Starblade (Canada)</description>
+    <disk name="Starblade (Canada).chd" sha1="69c461b4a1006d80f3b7c72e13272ba845a3a76b" />
+  </machine>
+  <machine name="Starblade (Europe, Germany)">
+    <category>Games</category>
+    <description>Starblade (Europe, Germany)</description>
+    <disk name="Starblade (Europe, Germany).chd" sha1="6b04361290ff93ed409ac93da2c527b01f0899d4" />
+  </machine>
+  <machine name="Starblade (Japan)">
+    <category>Games</category>
+    <description>Starblade (Japan)</description>
+    <disk name="Starblade (Japan).chd" sha1="a9d109ba77129c3039c21b10b551a3063a095b60" />
+  </machine>
+  <machine name="Starblade (Japan) (Demo)">
+    <category>Demos</category>
+    <description>Starblade (Japan) (Demo)</description>
+    <disk name="Starblade (Japan) (Demo).chd" sha1="7fe4605ef812dc7b4bce898e1bda4e524b7ab66c" />
+  </machine>
+  <machine name="Starblade (USA, Korea)">
+    <category>Games</category>
+    <description>Starblade (USA, Korea)</description>
+    <disk name="Starblade (USA, Korea).chd" sha1="c8245db9238acdb5d402521c1eb68aab77786b28" />
+  </machine>
+  <machine name="Stellar 7 - Draxon's Revenge (Japan)">
+    <category>Games</category>
+    <description>Stellar 7 - Draxon's Revenge (Japan)</description>
+    <disk name="Stellar 7 - Draxon's Revenge (Japan).chd" sha1="bab52493185c48def2a4d4f0b3a3505e17335c8d" />
+  </machine>
+  <machine name="Stellar 7 - Draxon's Revenge (USA)">
+    <category>Games</category>
+    <description>Stellar 7 - Draxon's Revenge (USA)</description>
+    <disk name="Stellar 7 - Draxon's Revenge (USA).chd" sha1="1f24127eaf61368fca313105a6a9369db820f9f7" />
+  </machine>
+  <machine name="Storage Manager - Memory Kanri (Japan)">
+    <category>Applications</category>
+    <description>Storage Manager - Memory Kanri (Japan)</description>
+    <disk name="Storage Manager - Memory Kanri (Japan).chd" sha1="cef3ace07c5cf20f80374b4ef1c3e8f2bf575931" />
+  </machine>
+  <machine name="Strahl (Japan)">
+    <category>Games</category>
+    <description>Strahl (Japan)</description>
+    <disk name="Strahl (Japan).chd" sha1="b72ca559d5a7c6eeaa4248fad3eb497d362926cf" />
+  </machine>
+  <machine name="Strahl (USA)">
+    <category>Games</category>
+    <description>Strahl (USA)</description>
+    <disk name="Strahl (USA).chd" sha1="9ddd4ed1c54d6db80e27b197b203a1fd260c5c48" />
+  </machine>
+  <machine name="Striker - World Cup Special (Europe)">
+    <category>Games</category>
+    <description>Striker - World Cup Special (Europe)</description>
+    <disk name="Striker - World Cup Special (Europe).chd" sha1="9d8644b9ba83812ceca4fd91542f17ad7073958c" />
+  </machine>
+  <machine name="Super Model, The - Gail McKenna (Japan)">
+    <category>Video</category>
+    <description>Super Model, The - Gail McKenna (Japan)</description>
+    <disk name="Super Model, The - Gail McKenna (Japan).chd" sha1="9c50a5b04d1f832d3b158e9719e8c233b44a14bf" />
+  </machine>
+  <machine name="Super Nova - Battery Navi (Japan)">
+    <category>Multimedia</category>
+    <description>Super Nova - Battery Navi (Japan)</description>
+    <disk name="Super Nova - Battery Navi (Japan).chd" sha1="cdd88ebfeb53956eeb387839157f19414438d521" />
+  </machine>
+  <machine name="Super Real Mahjong P.V (Japan)">
+    <category>Games</category>
+    <description>Super Real Mahjong P.V (Japan)</description>
+    <disk name="Super Real Mahjong P.V (Japan).chd" sha1="f9a0c01a767f6cba902ed007a98ce510a3a7b4da" />
+  </machine>
+  <machine name="Super Real Mahjong PIV + Aishou Shindan (Japan)">
+    <category>Games</category>
+    <description>Super Real Mahjong PIV + Aishou Shindan (Japan)</description>
+    <disk name="Super Real Mahjong PIV + Aishou Shindan (Japan).chd" sha1="0e3836ff5d8f0deef3b2b8737e5d79773eee4235" />
+  </machine>
+  <machine name="Super Street Fighter II Turbo (Europe)">
+    <category>Games</category>
+    <description>Super Street Fighter II Turbo (Europe)</description>
+    <disk name="Super Street Fighter II Turbo (Europe).chd" sha1="a824c7609516f0f89e5d99fd726d5d3b25a4de45" />
+  </machine>
+  <machine name="Super Street Fighter II Turbo (Europe) (Demo) (3DO Magazine - Issue 10)">
+    <category>Demos</category>
+    <description>Super Street Fighter II Turbo (Europe) (Demo) (3DO Magazine - Issue 10)</description>
+    <disk name="Super Street Fighter II Turbo (Europe) (Demo) (3DO Magazine - Issue 10).chd" sha1="8b0defeded96ea2bdad5dd164396d5f85ad42e06" />
+  </machine>
+  <machine name="Super Street Fighter II Turbo (Germany)">
+    <category>Games</category>
+    <description>Super Street Fighter II Turbo (Germany)</description>
+    <disk name="Super Street Fighter II Turbo (Germany).chd" sha1="1a5015c10501da5444d624a3ee4c6e81b387350a" />
+  </machine>
+  <machine name="Super Street Fighter II Turbo (USA)">
+    <category>Games</category>
+    <description>Super Street Fighter II Turbo (USA)</description>
+    <disk name="Super Street Fighter II Turbo (USA).chd" sha1="a14ffa0f323adf38fa2b6100ae52cd89dbd207e2" />
+  </machine>
+  <machine name="Super Street Fighter II Turbo (USA) (RE2)">
+    <category>Games</category>
+    <description>Super Street Fighter II Turbo (USA) (RE2)</description>
+    <disk name="Super Street Fighter II Turbo (USA) (RE2).chd" sha1="f4fa010aa06ad50fe0d07b27305a03146924dc88" />
+  </machine>
+  <machine name="Super Street Fighter II Turbo (USA, Canada) (RE1)">
+    <category>Games</category>
+    <description>Super Street Fighter II Turbo (USA, Canada) (RE1)</description>
+    <disk name="Super Street Fighter II Turbo (USA, Canada) (RE1).chd" sha1="303a43e60b2882c991d11a08c3643f830ae36a12" />
+  </machine>
+  <machine name="Super Street Fighter II X - Grand Master Challenge (Japan)">
+    <category>Games</category>
+    <description>Super Street Fighter II X - Grand Master Challenge (Japan)</description>
+    <disk name="Super Street Fighter II X - Grand Master Challenge (Japan).chd" sha1="7d0b498900c2711e07f7898588e71095af12b2ab" />
+  </machine>
+  <machine name="Super Street Fighter II X - Grand Master Challenge (Japan, Europe) (Demo)">
+    <category>Demos</category>
+    <description>Super Street Fighter II X - Grand Master Challenge (Japan, Europe) (Demo)</description>
+    <disk name="Super Street Fighter II X - Grand Master Challenge (Japan, Europe) (Demo).chd" sha1="09b3681bba805ff59f1776fa1a548eb4843db8d3" />
+  </machine>
+  <machine name="Super Wing Commander (Europe)">
+    <category>Games</category>
+    <description>Super Wing Commander (Europe)</description>
+    <disk name="Super Wing Commander (Europe).chd" sha1="6da9eccdb4b4dce29f4d8b79f40a75b77cf898bd" />
+  </machine>
+  <machine name="Super Wing Commander (Japan)">
+    <category>Games</category>
+    <description>Super Wing Commander (Japan)</description>
+    <disk name="Super Wing Commander (Japan).chd" sha1="70ec10e6f8b44b89c1521d2c03876760c3471493" />
+  </machine>
+  <machine name="Super Wing Commander (Korea)">
+    <category>Games</category>
+    <description>Super Wing Commander (Korea)</description>
+    <disk name="Super Wing Commander (Korea).chd" sha1="47ad3a750836642175988e43181560f25e27302e" />
+  </machine>
+  <machine name="Super Wing Commander (USA)">
+    <category>Games</category>
+    <description>Super Wing Commander (USA)</description>
+    <disk name="Super Wing Commander (USA).chd" sha1="2e8a073c61c8a56af5dcbdd98c5808510f2c4336" />
+  </machine>
+  <machine name="SuperModels Go Wild (USA)">
+    <category>Video</category>
+    <description>SuperModels Go Wild (USA)</description>
+    <disk name="SuperModels Go Wild (USA).chd" sha1="f8dfed9e403065dabd5bbfa548a851b00351c57e" />
+  </machine>
+  <machine name="Supreme Warrior (Japan) (Ja,Zh) (Disc 1) (Fire &amp; Earth)">
+    <category>Games</category>
+    <description>Supreme Warrior (Japan) (Ja,Zh) (Disc 1) (Fire &amp; Earth)</description>
+    <disk name="Supreme Warrior (Japan) (Ja,Zh) (Disc 1) (Fire &amp; Earth).chd" sha1="49764aa1052ed950c32d4b51683d79efb303440b" />
+  </machine>
+  <machine name="Supreme Warrior (Japan) (Ja,Zh) (Disc 2) (Wind &amp; Fang Tu)">
+    <category>Games</category>
+    <description>Supreme Warrior (Japan) (Ja,Zh) (Disc 2) (Wind &amp; Fang Tu)</description>
+    <disk name="Supreme Warrior (Japan) (Ja,Zh) (Disc 2) (Wind &amp; Fang Tu).chd" sha1="b1ac6d153574eaf8400fa1f3384e450b56bfa490" />
+  </machine>
+  <machine name="Supreme Warrior (USA) (Disc 1) (Fire &amp; Earth)">
+    <category>Games</category>
+    <description>Supreme Warrior (USA) (Disc 1) (Fire &amp; Earth)</description>
+    <disk name="Supreme Warrior (USA) (Disc 1) (Fire &amp; Earth).chd" sha1="cdce509c76f957e85101b2540700acdf6a33b806" />
+  </machine>
+  <machine name="Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu)">
+    <category>Games</category>
+    <description>Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu)</description>
+    <disk name="Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu).chd" sha1="4ad43a3d9a4880316e406f4fa33050ad65e42276" />
+  </machine>
+  <machine name="Sword &amp; Sorcery (Japan)">
+    <category>Games</category>
+    <description>Sword &amp; Sorcery (Japan)</description>
+    <disk name="Sword &amp; Sorcery (Japan).chd" sha1="f64279869109af594f8dfc274c0aed6f470f9cdf" />
+  </machine>
+  <machine name="Sword &amp; Sorcery (Japan) (Demo)">
+    <category>Demos</category>
+    <description>Sword &amp; Sorcery (Japan) (Demo)</description>
+    <disk name="Sword &amp; Sorcery (Japan) (Demo).chd" sha1="7c52e2ed11b8419e96ab0b86890dcddbdef8c62b" />
+  </machine>
+  <machine name="Syndicate (Europe)">
+    <category>Games</category>
+    <description>Syndicate (Europe)</description>
+    <disk name="Syndicate (Europe).chd" sha1="0d0a3713e3d65e93af0a14be759aa798d8560b74" />
+  </machine>
+  <machine name="Syndicate (Europe) (Demo)">
+    <category>Demos</category>
+    <description>Syndicate (Europe) (Demo)</description>
+    <disk name="Syndicate (Europe) (Demo).chd" sha1="97524cab80bf41f68193249156ca5a81eb211da5" />
+  </machine>
+  <machine name="Syndicate (Japan)">
+    <category>Games</category>
+    <description>Syndicate (Japan)</description>
+    <disk name="Syndicate (Japan).chd" sha1="6ec2c7d191468a0113f1cb47479cc56d96dd4b26" />
+  </machine>
+  <machine name="Syndicate (USA)">
+    <category>Games</category>
+    <description>Syndicate (USA)</description>
+    <disk name="Syndicate (USA).chd" sha1="013ea88954f9fb457c71eadadbf6d29cbfacf8aa" />
+  </machine>
+  <machine name="System Catalog - Kigyou-muke System no Goannai (Japan)">
+    <category>Multimedia</category>
+    <description>System Catalog - Kigyou-muke System no Goannai (Japan)</description>
+    <disk name="System Catalog - Kigyou-muke System no Goannai (Japan).chd" sha1="7d820fbf4851c5442b58cf402897186499aa3049" />
+  </machine>
+  <machine name="T&amp;E VR Golf - Devil's Course (Japan)">
+    <category>Games</category>
+    <description>T&amp;E VR Golf - Devil's Course (Japan)</description>
+    <disk name="T&amp;E VR Golf - Devil's Course (Japan).chd" sha1="17ffb2d5d3b2018d43633742665637580e80fdd8" />
+  </machine>
+  <machine name="T&amp;E VR Golf - Masters - Harukanaru Augusta 3 (Japan)">
+    <category>Games</category>
+    <description>T&amp;E VR Golf - Masters - Harukanaru Augusta 3 (Japan)</description>
+    <disk name="T&amp;E VR Golf - Masters - Harukanaru Augusta 3 (Japan).chd" sha1="a4670686f8faddb2e52225d1dc70f658d0811a37" />
+  </machine>
+  <machine name="T&amp;E VR Golf - Masters - Harukanaru Augusta 3 (Japan) (Demo)">
+    <category>Demos</category>
+    <description>T&amp;E VR Golf - Masters - Harukanaru Augusta 3 (Japan) (Demo)</description>
+    <disk name="T&amp;E VR Golf - Masters - Harukanaru Augusta 3 (Japan) (Demo).chd" sha1="214e51380a30236b0587318c663929b9c36a821f" />
+  </machine>
+  <machine name="T&amp;E VR Golf - Pebble Beach no Hatou (Japan)">
+    <category>Games</category>
+    <description>T&amp;E VR Golf - Pebble Beach no Hatou (Japan)</description>
+    <disk name="T&amp;E VR Golf - Pebble Beach no Hatou (Japan).chd" sha1="e2a5aaa7f3b9b225bfd7a0861a93453e5f22785a" />
+  </machine>
+  <machine name="T&amp;E VR Golf - Waialae no Kiseki (Japan)">
+    <category>Games</category>
+    <description>T&amp;E VR Golf - Waialae no Kiseki (Japan)</description>
+    <disk name="T&amp;E VR Golf - Waialae no Kiseki (Japan).chd" sha1="ce34c81ea00577f9c03c0a84d5388f13647274fa" />
+  </machine>
+  <machine name="Taiketsu Rumiizu! (Japan)">
+    <category>Games</category>
+    <description>Taiketsu Rumiizu! (Japan)</description>
+    <disk name="Taiketsu Rumiizu! (Japan).chd" sha1="7c1eba1ac6db2a4af8128009cda6f2cffd0ff2e2" />
+  </machine>
+  <machine name="Takeru (Japan) (Rev 1)">
+    <category>Multimedia</category>
+    <description>Takeru (Japan) (Rev 1)</description>
+    <disk name="Takeru (Japan) (Rev 1).chd" sha1="48a54ba72ac4a097231c92ce63e2d86666d1ac2a" />
+  </machine>
+  <machine name="Tanjou - Debut - Pure (Japan) (Rev A)">
+    <category>Games</category>
+    <description>Tanjou - Debut - Pure (Japan) (Rev A)</description>
+    <disk name="Tanjou - Debut - Pure (Japan) (Rev A).chd" sha1="efe9649db53df24be245cc54963eff7caa25cd3d" />
+  </machine>
+  <machine name="Tarot Uranai (Japan)">
+    <category>Applications</category>
+    <description>Tarot Uranai (Japan)</description>
+    <disk name="Tarot Uranai (Japan).chd" sha1="138d5bfcbf311f701797b9a2be51aaf4ecb83182" />
+  </machine>
+  <machine name="Tetsujin (Japan)">
+    <category>Games</category>
+    <description>Tetsujin (Japan)</description>
+    <disk name="Tetsujin (Japan).chd" sha1="85e8b3a69d008996c5aeff15da22429f56d67150" />
+  </machine>
+  <machine name="Tetsujin Returns (Japan)">
+    <category>Games</category>
+    <description>Tetsujin Returns (Japan)</description>
+    <disk name="Tetsujin Returns (Japan).chd" sha1="47f992c6a9861dcff854fdbe3619b1e8e2944185" />
+  </machine>
+  <machine name="Theatre Wars - Goraku no Dendou (Japan)">
+    <category>Games</category>
+    <description>Theatre Wars - Goraku no Dendou (Japan)</description>
+    <disk name="Theatre Wars - Goraku no Dendou (Japan).chd" sha1="8c464982056ee63facab271fbdf8de62da9db690" />
+  </machine>
+  <machine name="Theme Park (Europe) (Demo)">
+    <category>Demos</category>
+    <description>Theme Park (Europe) (Demo)</description>
+    <disk name="Theme Park (Europe) (Demo).chd" sha1="e411b19e5c749728f26f4b8adfe1b0bf91fc9191" />
+  </machine>
+  <machine name="Theme Park (Europe) (En,Fr)">
+    <category>Games</category>
+    <description>Theme Park (Europe) (En,Fr)</description>
+    <disk name="Theme Park (Europe) (En,Fr).chd" sha1="60f40bbab155075f2439711bfdb571e21479303b" />
+  </machine>
+  <machine name="Theme Park (Germany)">
+    <category>Games</category>
+    <description>Theme Park (Germany)</description>
+    <disk name="Theme Park (Germany).chd" sha1="9358897aa9ebcdd7a4c37b18e588101b56ffcfdf" />
+  </machine>
+  <machine name="Theme Park (Japan)">
+    <category>Games</category>
+    <description>Theme Park (Japan)</description>
+    <disk name="Theme Park (Japan).chd" sha1="cfbb8fcc7f602e855bfe04dd2b2d1b3422e3ae9d" />
+  </machine>
+  <machine name="Theme Park (Japan) (Demo)">
+    <category>Demos</category>
+    <description>Theme Park (Japan) (Demo)</description>
+    <disk name="Theme Park (Japan) (Demo).chd" sha1="d1c15cc5c0c0ae643ed356f14c760f199746ffd8" />
+  </machine>
+  <machine name="Theme Park (USA)">
+    <category>Games</category>
+    <description>Theme Park (USA)</description>
+    <disk name="Theme Park (USA).chd" sha1="ab8e61193ffcc7f0408cf99830d3ea69e08d5b3f" />
+  </machine>
+  <machine name="Toki o Koeta Tegami (Japan)">
+    <category>Games</category>
+    <description>Toki o Koeta Tegami (Japan)</description>
+    <disk name="Toki o Koeta Tegami (Japan).chd" sha1="1b01b1250b9d22426713cd9e3613a5755ac76a54" />
+  </machine>
+  <machine name="Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (Japan)">
+    <category>Games</category>
+    <description>Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (Japan)</description>
+    <disk name="Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (Japan).chd" sha1="31332744f11e28e8a95f8fd503d81fa4740462fa" />
+  </machine>
+  <machine name="ToonTime ...In the Classroom (USA)">
+    <category>Video</category>
+    <description>ToonTime ...In the Classroom (USA)</description>
+    <disk name="ToonTime ...In the Classroom (USA).chd" sha1="d80cb380f8e29ab92e655e8ce6f3ebc2ecebc9ca" />
+  </machine>
+  <machine name="Total Eclipse (Europe)">
+    <category>Games</category>
+    <description>Total Eclipse (Europe)</description>
+    <disk name="Total Eclipse (Europe).chd" sha1="86574edc3a6b171ad5312f11d63db64342cd0253" />
+  </machine>
+  <machine name="Total Eclipse (Europe) (DFJN5015ZAZ)">
+    <category>Games</category>
+    <description>Total Eclipse (Europe) (DFJN5015ZAZ)</description>
+    <disk name="Total Eclipse (Europe) (DFJN5015ZAZ).chd" sha1="18addd20b7d5a188e6d0f08f0ab4daa327864ede" />
+  </machine>
+  <machine name="Total Eclipse (Japan)">
+    <category>Games</category>
+    <description>Total Eclipse (Japan)</description>
+    <disk name="Total Eclipse (Japan).chd" sha1="d295c0de1acd8b4c15feffee3e892c18cc7e638a" />
+  </machine>
+  <machine name="Total Eclipse (Korea)">
+    <category>Games</category>
+    <description>Total Eclipse (Korea)</description>
+    <disk name="Total Eclipse (Korea).chd" sha1="dc773dda26408019ac71f587d924b3003a6dd657" />
+  </machine>
+  <machine name="Total Eclipse (USA)">
+    <category>Games</category>
+    <description>Total Eclipse (USA)</description>
+    <disk name="Total Eclipse (USA).chd" sha1="0f4317e8b589d1d42feb921e1e021b6ced4e202f" />
+  </machine>
+  <machine name="Total Eclipse (USA, Europe)">
+    <category>Games</category>
+    <description>Total Eclipse (USA, Europe)</description>
+    <disk name="Total Eclipse (USA, Europe).chd" sha1="48a702da24d98e9da021e49713e7838159bb41ce" />
+  </machine>
+  <machine name="Totsugeki Karakuri! Megadas!! (Japan)">
+    <category>Games</category>
+    <description>Totsugeki Karakuri! Megadas!! (Japan)</description>
+    <disk name="Totsugeki Karakuri! Megadas!! (Japan).chd" sha1="64413c8909edaff4e097cdfb6efe726d44ccdafc" />
+  </machine>
+  <machine name="Totsugeki Karakuri! Megadas!! (Japan) (Demo)">
+    <category>Demos</category>
+    <description>Totsugeki Karakuri! Megadas!! (Japan) (Demo)</description>
+    <disk name="Totsugeki Karakuri! Megadas!! (Japan) (Demo).chd" sha1="90976c5fc6779ce4a0ed0f64aab1b6f779f67a20" />
+  </machine>
+  <machine name="Touhaiden Akagi (Japan)">
+    <category>Games</category>
+    <description>Touhaiden Akagi (Japan)</description>
+    <disk name="Touhaiden Akagi (Japan).chd" sha1="857d262089d4bc2eab86b0db57513a88aa1e8cea" />
+  </machine>
+  <machine name="Tower, The (Japan)">
+    <category>Games</category>
+    <description>Tower, The (Japan)</description>
+    <disk name="Tower, The (Japan).chd" sha1="524cfae98b324e8c5eeeaae9b62597d04b4eefa8" />
+  </machine>
+  <machine name="Toyopet Outdoor World (Japan)">
+    <category>Multimedia</category>
+    <description>Toyopet Outdoor World (Japan)</description>
+    <disk name="Toyopet Outdoor World (Japan).chd" sha1="624fc55b0f018384310510e133a25a4ab997eb69" />
+  </machine>
+  <machine name="Toyopet RV Paddock (Japan)">
+    <category>Multimedia</category>
+    <description>Toyopet RV Paddock (Japan)</description>
+    <disk name="Toyopet RV Paddock (Japan).chd" sha1="495b9bd1bdc4a4da3fd3c0b60d189527e0ae2b45" />
+  </machine>
+  <machine name="Toyopet RV World (Japan)">
+    <category>Multimedia</category>
+    <description>Toyopet RV World (Japan)</description>
+    <disk name="Toyopet RV World (Japan).chd" sha1="3dc94eb19f7b81ec38453d6c658872396deaffb1" />
+  </machine>
+  <machine name="Tozasareta Yakata (Japan)">
+    <category>Games</category>
+    <description>Tozasareta Yakata (Japan)</description>
+    <disk name="Tozasareta Yakata (Japan).chd" sha1="010a23fe297280aebdfc25ebc912e0352aba875a" />
+  </machine>
+  <machine name="Trip'd (USA, Europe)">
+    <category>Games</category>
+    <description>Trip'd (USA, Europe)</description>
+    <disk name="Trip'd (USA, Europe).chd" sha1="b7b3df66b555cfe7c1f65edc811963a33759f4c7" />
+  </machine>
+  <machine name="True Golf Classics - Pebble Beach Golf Links (Europe)">
+    <category>Games</category>
+    <description>True Golf Classics - Pebble Beach Golf Links (Europe)</description>
+    <disk name="True Golf Classics - Pebble Beach Golf Links (Europe).chd" sha1="d28393c045a08736bb509f9441c575d515c46fa4" />
+  </machine>
+  <machine name="True Golf Classics - Waialae Country Club (Germany)">
+    <category>Games</category>
+    <description>True Golf Classics - Waialae Country Club (Germany)</description>
+    <disk name="True Golf Classics - Waialae Country Club (Germany).chd" sha1="e470cd79f0420f123e972c2a7c072542bc51a438" />
+  </machine>
+  <machine name="Twinkle Knights (Japan)">
+    <category>Games</category>
+    <description>Twinkle Knights (Japan)</description>
+    <disk name="Twinkle Knights (Japan).chd" sha1="ffeb03ce94852364736ac93b7b1c5d77bdfeaff2" />
+  </machine>
+  <machine name="Twisted - The Game Show (Europe)">
+    <category>Games</category>
+    <description>Twisted - The Game Show (Europe)</description>
+    <disk name="Twisted - The Game Show (Europe).chd" sha1="2f7778ba24ad402d6e089ee347582d9fb9647886" />
+  </machine>
+  <machine name="Twisted - The Game Show (USA)">
+    <category>Games</category>
+    <description>Twisted - The Game Show (USA)</description>
+    <disk name="Twisted - The Game Show (USA).chd" sha1="6870f9e089e4e5543bddf8ebde448e162a63ae22" />
+  </machine>
+  <machine name="Twisted - The Game Show (USA) (Alt)">
+    <category>Games</category>
+    <description>Twisted - The Game Show (USA) (Alt)</description>
+    <disk name="Twisted - The Game Show (USA) (Alt).chd" sha1="9a5efbd12d17dafe1e34e9cee15e844fc9a5c2c7" />
+  </machine>
+  <machine name="Twisted (Japan)">
+    <category>Games</category>
+    <description>Twisted (Japan)</description>
+    <disk name="Twisted (Japan).chd" sha1="054ca6d8952074039622b8069950d27fcc501d17" />
+  </machine>
+  <machine name="Uchuu Seibutsu Flopon-kun (Japan)">
+    <category>Games</category>
+    <description>Uchuu Seibutsu Flopon-kun (Japan)</description>
+    <disk name="Uchuu Seibutsu Flopon-kun (Japan).chd" sha1="221410fea6f1aafa9383de0049297340f600d9d7" />
+  </machine>
+  <machine name="Ultraman Powered (Japan)">
+    <category>Games</category>
+    <description>Ultraman Powered (Japan)</description>
+    <disk name="Ultraman Powered (Japan).chd" sha1="b32ede25e4ad84c61b602c6f8ed5d8666de425ee" />
+  </machine>
+  <machine name="V Goal Soccer '96 (Japan)">
+    <category>Games</category>
+    <description>V Goal Soccer '96 (Japan)</description>
+    <disk name="V Goal Soccer '96 (Japan).chd" sha1="6b3be582495ad3bed22aec94ea6496742087c2b0" />
+  </machine>
+  <machine name="V Goal Soccer '96 (Japan) (Demo)">
+    <category>Demos</category>
+    <description>V Goal Soccer '96 (Japan) (Demo)</description>
+    <disk name="V Goal Soccer '96 (Japan) (Demo).chd" sha1="7461d34319d8f26a56b86fcf884397842e771221" />
+  </machine>
+  <machine name="Virtual Cameraman Part 1 - Naomi Sawada &amp; Anna Juri (Japan)">
+    <category>Games</category>
+    <description>Virtual Cameraman Part 1 - Naomi Sawada &amp; Anna Juri (Japan)</description>
+    <disk name="Virtual Cameraman Part 1 - Naomi Sawada &amp; Anna Juri (Japan).chd" sha1="c5395dadb5337f25a509bce84080d500e8ea62b2" />
+  </machine>
+  <machine name="Virtual Cameraman Part 2 - Natsumi Kawai &amp; Kimi Tachihara (Japan)">
+    <category>Games</category>
+    <description>Virtual Cameraman Part 2 - Natsumi Kawai &amp; Kimi Tachihara (Japan)</description>
+    <disk name="Virtual Cameraman Part 2 - Natsumi Kawai &amp; Kimi Tachihara (Japan).chd" sha1="5fd81d49d1a0c25a8c476cde8be4f270be9fcf4e" />
+  </machine>
+  <machine name="Virtual Cameraman Part 3 - Yumika Sugimoto (Japan)">
+    <category>Games</category>
+    <description>Virtual Cameraman Part 3 - Yumika Sugimoto (Japan)</description>
+    <disk name="Virtual Cameraman Part 3 - Yumika Sugimoto (Japan).chd" sha1="2c217aaac2281807c67e121ae3e99220d0a75e01" />
+  </machine>
+  <machine name="Virtual Cameraman Part 4 - Shiori Fujitani (Japan)">
+    <category>Games</category>
+    <description>Virtual Cameraman Part 4 - Shiori Fujitani (Japan)</description>
+    <disk name="Virtual Cameraman Part 4 - Shiori Fujitani (Japan).chd" sha1="930c52091c6b1d5809514b1c910ec7fd091a88ca" />
+  </machine>
+  <machine name="Virtual Cameraman Part 5 - Yuri Andou (Japan)">
+    <category>Games</category>
+    <description>Virtual Cameraman Part 5 - Yuri Andou (Japan)</description>
+    <disk name="Virtual Cameraman Part 5 - Yuri Andou (Japan).chd" sha1="f20dab68cd686eef71a713c9604f90a90f4516ee" />
+  </machine>
+  <machine name="Virtual Horror - Norowareta Yakata (Japan) (En,Ja)">
+    <category>Games</category>
+    <description>Virtual Horror - Norowareta Yakata (Japan) (En,Ja)</description>
+    <disk name="Virtual Horror - Norowareta Yakata (Japan) (En,Ja).chd" sha1="d0a2df026a6d34df8588ef656278dc433d126be4" />
+  </machine>
+  <machine name="Virtual Puppet Reika (Japan)">
+    <category>Games</category>
+    <description>Virtual Puppet Reika (Japan)</description>
+    <disk name="Virtual Puppet Reika (Japan).chd" sha1="4ce00a80bcda8fd6db17c92d60f4bff8f8c2f8d5" />
+  </machine>
+  <machine name="Virtual Quest - Pharaoh no Fuuin (Japan)">
+    <category>Games</category>
+    <description>Virtual Quest - Pharaoh no Fuuin (Japan)</description>
+    <disk name="Virtual Quest - Pharaoh no Fuuin (Japan).chd" sha1="c4c861570867183f5e3bad736813b84f3db3514a" />
+  </machine>
+  <machine name="Virtual Vivid (USA)">
+    <category>Demos</category>
+    <description>Virtual Vivid (USA)</description>
+    <disk name="Virtual Vivid (USA).chd" sha1="5338face645a67576299ff1413b7b3ca12e0eb2d" />
+  </machine>
+  <machine name="Virtual Vivid (USA) (RE-1)">
+    <category>Demos</category>
+    <description>Virtual Vivid (USA) (RE-1)</description>
+    <disk name="Virtual Vivid (USA) (RE-1).chd" sha1="fa0fc8275f14400f9bba46c778b35c011abef423" />
+  </machine>
+  <machine name="Virtuoso (Europe) (En,Fr,De)">
+    <category>Games</category>
+    <description>Virtuoso (Europe) (En,Fr,De)</description>
+    <disk name="Virtuoso (Europe) (En,Fr,De).chd" sha1="b27e6e69e7983f7e35d8532e04c3e06eb4270884" />
+  </machine>
+  <machine name="Virtuoso (Japan)">
+    <category>Games</category>
+    <description>Virtuoso (Japan)</description>
+    <disk name="Virtuoso (Japan).chd" sha1="6aa76fdd6ac03750fcad39f305366200089d3cf0" />
+  </machine>
+  <machine name="Virtuoso (USA)">
+    <category>Games</category>
+    <description>Virtuoso (USA)</description>
+    <disk name="Virtuoso (USA).chd" sha1="53dae9f7bc34f28aeb27ac4060fdc7c12ca54dd9" />
+  </machine>
+  <machine name="VR Stalker (Europe) (Improved Version)">
+    <category>Games</category>
+    <description>VR Stalker (Europe) (Improved Version)</description>
+    <disk name="VR Stalker (Europe) (Improved Version).chd" sha1="0892cc3230d77b0dff62b90ed2b835d0c2a5b531" />
+  </machine>
+  <machine name="VR Stalker (USA, Korea)">
+    <category>Games</category>
+    <description>VR Stalker (USA, Korea)</description>
+    <disk name="VR Stalker (USA, Korea).chd" sha1="1ea6d143850eebf6c8574e5768fba89f67a3ba06" />
+  </machine>
+  <machine name="Waialae Country Club (USA, Canada)">
+    <category>Games</category>
+    <description>Waialae Country Club (USA, Canada)</description>
+    <disk name="Waialae Country Club (USA, Canada).chd" sha1="c83a5047aa744f4d203eae5bb93bef7a3b32c7c4" />
+  </machine>
+  <machine name="Warner Music Group (USA)">
+    <category>Multimedia</category>
+    <description>Warner Music Group (USA)</description>
+    <disk name="Warner Music Group (USA).chd" sha1="2f329fe76cd76ce04fa9a7e6fccab9a4a1d02b96" />
+  </machine>
+  <machine name="Way of the Warrior (Japan)">
+    <category>Games</category>
+    <description>Way of the Warrior (Japan)</description>
+    <disk name="Way of the Warrior (Japan).chd" sha1="327aa314377da52108d3f7f922ba2931a555f413" />
+  </machine>
+  <machine name="Way of the Warrior (USA)">
+    <category>Games</category>
+    <description>Way of the Warrior (USA)</description>
+    <disk name="Way of the Warrior (USA).chd" sha1="d7e511bfd3ddae722358031244870e092ec39567" />
+  </machine>
+  <machine name="We Got It (Europe)">
+    <category>Demos</category>
+    <description>We Got It (Europe)</description>
+    <disk name="We Got It (Europe).chd" sha1="f34f319e6a3203c454dd4170d0a17ce850e4bb24" />
+  </machine>
+  <machine name="Who Shot Johnny Rock (USA)">
+    <category>Games</category>
+    <description>Who Shot Johnny Rock (USA)</description>
+    <disk name="Who Shot Johnny Rock (USA).chd" sha1="20d52a017e46aaadd0a0da8be77644653a94199e" />
+  </machine>
+  <machine name="Wicked 18 (USA)">
+    <category>Games</category>
+    <description>Wicked 18 (USA)</description>
+    <disk name="Wicked 18 (USA).chd" sha1="4cd57b510b05debdb67558a4ef3861264ab14cfa" />
+  </machine>
+  <machine name="Wing Commander III - Heart of the Tiger (Germany) (Disc 1)">
+    <category>Games</category>
+    <description>Wing Commander III - Heart of the Tiger (Germany) (Disc 1)</description>
+    <disk name="Wing Commander III - Heart of the Tiger (Germany) (Disc 1).chd" sha1="14868b1168325665a9e8d3c1b8d4f0b63e9b9feb" />
+  </machine>
+  <machine name="Wing Commander III - Heart of the Tiger (Germany) (Disc 2)">
+    <category>Games</category>
+    <description>Wing Commander III - Heart of the Tiger (Germany) (Disc 2)</description>
+    <disk name="Wing Commander III - Heart of the Tiger (Germany) (Disc 2).chd" sha1="5b6bf8553394e2fbaf175ab5ec7dea1e049a1a38" />
+  </machine>
+  <machine name="Wing Commander III - Heart of the Tiger (Germany) (Disc 3)">
+    <category>Games</category>
+    <description>Wing Commander III - Heart of the Tiger (Germany) (Disc 3)</description>
+    <disk name="Wing Commander III - Heart of the Tiger (Germany) (Disc 3).chd" sha1="b08b35793e74e1c1163fbb8e80ea473e957f8436" />
+  </machine>
+  <machine name="Wing Commander III - Heart of the Tiger (Germany) (Disc 4)">
+    <category>Games</category>
+    <description>Wing Commander III - Heart of the Tiger (Germany) (Disc 4)</description>
+    <disk name="Wing Commander III - Heart of the Tiger (Germany) (Disc 4).chd" sha1="b2eaa7c25297365fdfaf5202d9ba33fd7c3372a5" />
+  </machine>
+  <machine name="Wing Commander III - Heart of the Tiger (USA) (Disc 1)">
+    <category>Games</category>
+    <description>Wing Commander III - Heart of the Tiger (USA) (Disc 1)</description>
+    <disk name="Wing Commander III - Heart of the Tiger (USA) (Disc 1).chd" sha1="b25bc3f17a1cafac3cc36e85e7a16c5683f18f5a" />
+  </machine>
+  <machine name="Wing Commander III - Heart of the Tiger (USA) (Disc 2)">
+    <category>Games</category>
+    <description>Wing Commander III - Heart of the Tiger (USA) (Disc 2)</description>
+    <disk name="Wing Commander III - Heart of the Tiger (USA) (Disc 2).chd" sha1="1bf312acd747a5063a68519ae29fead57898d722" />
+  </machine>
+  <machine name="Wing Commander III - Heart of the Tiger (USA) (Disc 3)">
+    <category>Games</category>
+    <description>Wing Commander III - Heart of the Tiger (USA) (Disc 3)</description>
+    <disk name="Wing Commander III - Heart of the Tiger (USA) (Disc 3).chd" sha1="6cdda70b34ed046154e01592abdc9526260af810" />
+  </machine>
+  <machine name="Wing Commander III - Heart of the Tiger (USA) (Disc 4)">
+    <category>Games</category>
+    <description>Wing Commander III - Heart of the Tiger (USA) (Disc 4)</description>
+    <disk name="Wing Commander III - Heart of the Tiger (USA) (Disc 4).chd" sha1="6b584ab5200b33743f0b966a91a7dfa1b9ab6ce6" />
+  </machine>
+  <machine name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 1)">
+    <category>Games</category>
+    <description>Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 1)</description>
+    <disk name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 1).chd" sha1="87c63dfdc937148d5ff0a6994478c33cfdaa1450" />
+  </machine>
+  <machine name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 2)">
+    <category>Games</category>
+    <description>Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 2)</description>
+    <disk name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 2).chd" sha1="17c78df3331c77ba4fc981663e5032a6115204ae" />
+  </machine>
+  <machine name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 3)">
+    <category>Games</category>
+    <description>Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 3)</description>
+    <disk name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 3).chd" sha1="90f43a8bb0c855cb9e03fc1c160c772da1b98bc1" />
+  </machine>
+  <machine name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 4)">
+    <category>Games</category>
+    <description>Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 4)</description>
+    <disk name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 4).chd" sha1="a6e495e7932b0e08967bf6cf0173b6da04ec1c1a" />
+  </machine>
+  <machine name="Winning Post (Japan)">
+    <category>Games</category>
+    <description>Winning Post (Japan)</description>
+    <disk name="Winning Post (Japan).chd" sha1="7217c45376525b56c715581dc587974643840c42" />
+  </machine>
+  <machine name="Wolfenstein 3D (Europe)">
+    <category>Games</category>
+    <description>Wolfenstein 3D (Europe)</description>
+    <disk name="Wolfenstein 3D (Europe).chd" sha1="bf0d2fca85f2733f28083f09934712655d48b6e3" />
+  </machine>
+  <machine name="Wolfenstein 3D (Japan)">
+    <category>Games</category>
+    <description>Wolfenstein 3D (Japan)</description>
+    <disk name="Wolfenstein 3D (Japan).chd" sha1="001dd3bd9be25dbb54cceae052abac68ceece06e" />
+  </machine>
+  <machine name="Wolfenstein 3D (USA)">
+    <category>Games</category>
+    <description>Wolfenstein 3D (USA)</description>
+    <disk name="Wolfenstein 3D (USA).chd" sha1="6c335bea22b365379dc9f5b2f0cf0ee0f5b2d933" />
+  </machine>
+  <machine name="Wolfenstein 3D (USA) (Beta) (1995-09-07)">
+    <category>Preproduction</category>
+    <description>Wolfenstein 3D (USA) (Beta) (1995-09-07)</description>
+    <disk name="Wolfenstein 3D (USA) (Beta) (1995-09-07).chd" sha1="ea7340052b2fb3352f3a34c41b3282be06bb158e" />
+  </machine>
+  <machine name="Woody Woodpecker and Friends - Volume One (USA) (RE-1)">
+    <category>Video</category>
+    <description>Woody Woodpecker and Friends - Volume One (USA) (RE-1)</description>
+    <disk name="Woody Woodpecker and Friends - Volume One (USA) (RE-1).chd" sha1="7c0582408767b7a9f2e98c730c349a370b9d977c" />
+  </machine>
+  <machine name="Woody Woodpecker and Friends - Volume Three (USA)">
+    <category>Video</category>
+    <description>Woody Woodpecker and Friends - Volume Three (USA)</description>
+    <disk name="Woody Woodpecker and Friends - Volume Three (USA).chd" sha1="fe59407aacbc8a695590df8fa32a5cac182c959b" />
+  </machine>
+  <machine name="Woody Woodpecker and Friends - Volume Two (USA)">
+    <category>Video</category>
+    <description>Woody Woodpecker and Friends - Volume Two (USA)</description>
+    <disk name="Woody Woodpecker and Friends - Volume Two (USA).chd" sha1="dee73cdcffc7ea5ed4e5a96f432500f5c6679c74" />
+  </machine>
+  <machine name="World Cup Golf - Hyatt Dorado Beach (Europe)">
+    <category>Games</category>
+    <description>World Cup Golf - Hyatt Dorado Beach (Europe)</description>
+    <disk name="World Cup Golf - Hyatt Dorado Beach (Europe).chd" sha1="547df33d739e0e17c5569a85984ee38e54e11d4a" />
+  </machine>
+  <machine name="World Cup Golf - Hyatt Dorado Beach (USA, Europe)">
+    <category>Games</category>
+    <description>World Cup Golf - Hyatt Dorado Beach (USA, Europe)</description>
+    <disk name="World Cup Golf - Hyatt Dorado Beach (USA, Europe).chd" sha1="db75063373182749e646f95ccea0cc44da3b82b7" />
+  </machine>
+  <machine name="World Cup Special (Japan)">
+    <category>Games</category>
+    <description>World Cup Special (Japan)</description>
+    <disk name="World Cup Special (Japan).chd" sha1="3418273b1cc63a287c511b90a7b6e3841033cf91" />
+  </machine>
+  <machine name="WorldCup Super Stadium (Japan)">
+    <category>Multimedia</category>
+    <description>WorldCup Super Stadium (Japan)</description>
+    <disk name="WorldCup Super Stadium (Japan).chd" sha1="01e16af9ed20a8cb67bc3ccb7a408106dc2f31d3" />
+  </machine>
+  <machine name="Yakyuuken Special, The (Japan)">
+    <category>Games</category>
+    <description>Yakyuuken Special, The (Japan)</description>
+    <disk name="Yakyuuken Special, The (Japan).chd" sha1="4736c4c70c5599506420a6eb37110c85dd571dc3" />
+  </machine>
+  <machine name="Yamada Kamachi Bijutsukan - Kamachi's Museum (Japan)">
+    <category>Multimedia</category>
+    <description>Yamada Kamachi Bijutsukan - Kamachi's Museum (Japan)</description>
+    <disk name="Yamada Kamachi Bijutsukan - Kamachi's Museum (Japan).chd" sha1="590acb640724aa225f03677ceb7f5bc9e33b94ca" />
+  </machine>
+  <machine name="Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 1)">
+    <category>Games</category>
+    <description>Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 1)</description>
+    <disk name="Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 1).chd" sha1="e0514fcbdaad474919c72507bf99fac8dfef1990" />
+  </machine>
+  <machine name="Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 2)">
+    <category>Games</category>
+    <description>Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 2)</description>
+    <disk name="Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 2).chd" sha1="48884644c88854bc8d4dd13213a47bb09ce77d70" />
+  </machine>
+  <machine name="Yu Yu Hakusho (Japan)">
+    <category>Games</category>
+    <description>Yu Yu Hakusho (Japan)</description>
+    <disk name="Yu Yu Hakusho (Japan).chd" sha1="5e8434ab395c3fa9484371b437b4a68b824fafe6" />
+  </machine>
+  <machine name="Yu Yu Hakusho (Japan) (Demo)">
+    <category>Demos</category>
+    <description>Yu Yu Hakusho (Japan) (Demo)</description>
+    <disk name="Yu Yu Hakusho (Japan) (Demo).chd" sha1="6a32879633ccd08e0220ac9b4deca7b7ff44b24b" />
+  </machine>
+  <machine name="Yuujou Densetsu - The Doraemons (Japan)">
+    <category>Games</category>
+    <description>Yuujou Densetsu - The Doraemons (Japan)</description>
+    <disk name="Yuujou Densetsu - The Doraemons (Japan).chd" sha1="fe45438830b4babf07eef1bf462fa321b86ded44" />
+  </machine>
+  <machine name="Yuujou Densetsu - The Doraemons (Japan) (Demo)">
+    <category>Demos</category>
+    <description>Yuujou Densetsu - The Doraemons (Japan) (Demo)</description>
+    <disk name="Yuujou Densetsu - The Doraemons (Japan) (Demo).chd" sha1="a41749b4f1f93140bd0a8fcb4537e59efb7cb31d" />
+  </machine>
+  <machine name="Zhadnost - The People's Party (USA, Europe)">
+    <category>Games</category>
+    <description>Zhadnost - The People's Party (USA, Europe)</description>
+    <disk name="Zhadnost - The People's Party (USA, Europe).chd" sha1="a57c97204134f2f9a815a5031b8ac1f5206a3141" />
   </machine>
 </datafile>
