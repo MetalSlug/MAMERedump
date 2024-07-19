@@ -1,4 +1,4 @@
-# MAME Redump 0.266
+# MAME Redump 0.267 (WIP)
 
 The aim of the MAME Redump project is to convert the redump sets into formats that are low on disk space, such as the chd format. Gamecube and Wii sets have been converted to NKit2 RVZ format (zstd-19-128k).
 All MAME CHDs are merged or included. You need to recompress all mame chds that don't match since 0.263 because mame is uses obsolete hashes.
@@ -94,7 +94,7 @@ Commodore - Amiga CD|2024-06-20|574|3|201 GB||
 **Commodore - Amiga CDTV**|2024-06-16|160|0|21 GB|cdtv|5 GB
 **Fujitsu - FM-Towns**|2024-05-23|958|0|141 GB|fmtowns_cd|132 GB
 funworld - Photo Play|2024-07-01|14|3|4 GB||4 GB
-IBM - PC compatible|2024-07-10|26344|21970|19 TB|ibm5170_cdrom|20 GB
+IBM - PC compatible|2024-07-10|30954|17360|22 TB|ibm5170_cdrom|20 GB
 **Incredible Technologies - Eagle**|2023-04-07|7|0|3 GB||
 **Mattel - Fisher-Price iXL**|2023-08-07|26|0|2 GB||
 **Mattel - HyperScan**|2024-02-26|8|0|505 MB||
@@ -108,7 +108,7 @@ NEC - PC-98 series|2024-04-25|302|1|49 GB|pc98_cd|12 GB
 Nintendo - GameCube|2024-07-08|1989|3|1 TB||
 Nintendo - Wii|2024-06-17|3770|2|6 TB||
 Palm|2024-07-10|140|1|12 GB||
-~~Panasonic - 3DO Interactive Multiplayer~~|2024-06-19|0|646|||
+Panasonic - 3DO Interactive Multiplayer|2024-06-19|445|201|129 GB||
 Philips - CD-i|2024-07-09|2188|13|620 GB|cdi|137 GB
 **Photo CD**|2024-06-17|215|0|40 GB||
 **PlayStation GameShark Updates**|2024-04-29|31|0|544 MB||
@@ -128,4 +128,4 @@ Sony - PlayStation|2024-07-09|11585|11|3 TB|psx|551 GB
 VM Labs - NUON|2023-10-27|8|2|6 GB|nuon|6 GB
 **VTech - V.Flash & V.Smile Pro**|2024-03-01|50|0|8 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2024-02-02|16|0|50 GB||
-Total||63761|42806|40 TB||1 TB
+Total||68816|37751|42 TB||1 TB
