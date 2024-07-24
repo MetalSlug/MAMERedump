@@ -94,7 +94,7 @@ Commodore - Amiga CD|2024-06-20|574|3|201 GB||
 **Commodore - Amiga CDTV**|2024-06-16|160|0|21 GB|cdtv|5 GB
 **Fujitsu - FM-Towns**|2024-05-23|958|0|141 GB|fmtowns_cd|132 GB
 funworld - Photo Play|2024-07-01|14|3|4 GB||4 GB
-IBM - PC compatible|2024-07-10|30954|17360|22 TB|ibm5170_cdrom|20 GB
+IBM - PC compatible|2024-07-10|32509|15805|28 TB|ibm5170_cdrom|20 GB
 **Incredible Technologies - Eagle**|2023-04-07|7|0|3 GB||
 **Mattel - Fisher-Price iXL**|2023-08-07|26|0|2 GB||
 **Mattel - HyperScan**|2024-02-26|8|0|505 MB||
@@ -128,4 +128,4 @@ Sony - PlayStation|2024-07-09|11585|11|3 TB|psx|551 GB
 VM Labs - NUON|2023-10-27|8|2|6 GB|nuon|6 GB
 **VTech - V.Flash & V.Smile Pro**|2024-03-01|50|0|8 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2024-02-02|16|0|50 GB||
-Total||69017|37550|42 TB||1 TB
+Total||70572|35995|48 TB||1 TB
