@@ -4,7 +4,7 @@
 	<header>
 		<name>Palm</name>
 		<description>Palm</description>
-		<version>0.266</version>
+		<version>0.267</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -588,6 +588,11 @@
 		<category>Games</category>
 		<description>Street Maps &amp; Vacation Planner (USA)</description>
 		<rom name="Street Maps &amp; Vacation Planner (USA) (Track 01).bin" size="768706512" crc="3ee28ee6" md5="f83db8e854641c5f63f91fd225fc316a" sha1="6f33654cda26a6196468fcc61bee4199260ecbdf"/>
+	</game>
+	<game name="Strike It Rich! (USA)" type="cd" sha1="7d7390262a0d0a92719d6ba9ffab68b3335acc7c" size="595486" crc="df439a1c" fullsha1="ce3084eb7e44afe94513cb680b1705fd1314ad5b" dataSha1="61e9e90668dbe41781b2f08c3a2a9b3a3337e2c3">
+		<category>Games</category>
+		<description>Strike It Rich! (USA)</description>
+		<rom name="Strike It Rich! (USA) (Track 01).bin" size="1923936" crc="5171822b" md5="7d1e6e2f80f6e6c7f2f5f827a46521bc" sha1="cac094c447260ef40e9b80bace3de945da2f7834"/>
 	</game>
 	<game name="Sucharaka Salaryman - Deai-kei (Japan)" type="cd" sha1="7223884488479aaba53b9d3c114ac505983c6f09" size="486886" crc="f4a68995" fullsha1="2db96eee25c6577a01a7ecb87ef2dcd878a90ad4" dataSha1="5c61f8e8634810f68234917c26bd8635342d4466">
 		<category>Games</category>

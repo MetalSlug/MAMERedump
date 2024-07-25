@@ -72,8 +72,8 @@ Following Sets contains ISO Files
 
 |Redump												|Version   |Have		|MIA		|Size		|MAME					|MAME Duplicates	|
 |---------------------------------------------------|----------|------------------------|-----------|-----------|-----------|-----------|
-Acorn - Archimedes|2024-06-29|71|1|15 GB||
-*Apple - Macintosh*|2024-07-05|394|778|179 GB|mac_cdrom|
+**Acorn - Archimedes**|2024-06-29|72|0|15 GB||
+*Apple - Macintosh*|2024-07-05|465|707|214 GB|mac_cdrom|
 Arcade - Konami - e-Amusement|2024-03-16|20|15|22 GB||
 **Arcade - Konami - FireBeat**|2024-03-16|10|0|8 GB||
 **Arcade - Konami - System 573**|2024-04-22|44|0|8 GB||
@@ -107,7 +107,7 @@ NEC - PC-98 series|2024-04-25|302|1|49 GB|pc98_cd|12 GB
 **NEC - PC-FX**|2024-04-25|79|0|30 GB|pcfx|5 GB
 Nintendo - GameCube|2024-07-08|1989|3|1 TB||
 Nintendo - Wii|2024-06-17|3770|2|6 TB||
-Palm|2024-07-10|140|1|12 GB||
+**Palm**|2024-07-10|141|0|12 GB||
 **Panasonic - 3DO Interactive Multiplayer**|2024-06-19|646|0|183 GB||
 Philips - CD-i|2024-07-09|2188|13|620 GB|cdi|137 GB
 **Photo CD**|2024-06-17|215|0|40 GB||
