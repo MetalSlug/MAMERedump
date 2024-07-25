@@ -4,7 +4,7 @@
 	<header>
 		<name>Acorn - Archimedes</name>
 		<description>Acorn - Archimedes</description>
-		<version>0.266</version>
+		<version>0.267</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -411,6 +411,11 @@
 		<category>Games</category>
 		<description>Technology and Design for My World 2 (UK)</description>
 		<rom name="Technology and Design for My World 2 (UK) (Track 01).bin" size="361295424" crc="262cae77" md5="a3ce3119a8d4cf5f07536a738bce7bce" sha1="c89fe2bfa4f58d20cef676d71b7113790db14a88"/>
+	</game>
+	<game name="Textease Studio Plus (UK)" type="cd" sha1="a0e46ef3fc7c74ea37d7df783595a16565138504" size="379425019" crc="0406a7bf" fullsha1="a2c088ade81e7f03f7d4ceb77c28715274d5ebd7" dataSha1="676adcafbedd463bf4acdad989dc45b7a23184aa">
+		<category>Games</category>
+		<description>Textease Studio Plus (UK)</description>
+		<rom name="Textease Studio Plus (UK) (Track 01).bin" size="530216064" crc="5b4d2608" md5="a70edaab91770bbd43f0bfa35bece97e" sha1="33a2a758b1c6d211056aa7a231830bada7b1112a"/>
 	</game>
 	<game name="Typography (UK)" type="cd" sha1="fdf65fb6605a7fcfc56023454e99e848c264e42f" size="61513087" crc="e2bde829" fullsha1="996f98ee285a8e19f37df6b00ec5cba35ffdac59" dataSha1="97fbd3b8804e2f34727d650987bf5d4d5fdf93fd">
 		<category>Games</category>
