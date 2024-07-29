@@ -73,7 +73,7 @@ Following Sets contains ISO Files
 |Redump												|Version   |Have		|MIA		|Size		|MAME					|MAME Duplicates	|
 |---------------------------------------------------|----------|------------------------|-----------|-----------|-----------|-----------|
 **Acorn - Archimedes**|2024-06-29|72|0|15 GB||
-*Apple - Macintosh*|2024-07-05|465|707|214 GB|mac_cdrom|
+Apple - Macintosh|2024-07-05|782|390|384 GB|mac_cdrom|
 Arcade - Konami - e-Amusement|2024-03-16|20|15|22 GB||
 **Arcade - Konami - FireBeat**|2024-03-16|10|0|8 GB||
 **Arcade - Konami - System 573**|2024-04-22|44|0|8 GB||
