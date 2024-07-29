@@ -4,7 +4,7 @@
 	<header>
 		<name>segacd</name>
 		<description>segacd</description>
-		<version>0.266</version>
+		<version>0.267</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -754,7 +754,7 @@
 		<rom name="dungeon master ii - skullkeep (usa) (Track 06).bin" size="51689904" crc="0ab47ee5" md5="2bec4bf02dfe4d08284c2763efcb9d7a" sha1="f03529afa88dd452424f6f3506cef74e0e5aaf9b"/>
 		<rom name="dungeon master ii - skullkeep (usa) (Track 07).bin" size="2942352" crc="c42ecb63" md5="fe122e3c3f37d453f7b2ff5665275ea8" sha1="ed526d7878bb5e0e0a90007af471e4459a84b91e"/>
 	</game>
-	<game name="dracula\bram stoker's dracula (usa)" type="cd" sha1="9eda97d9578fdf8742a8ef22acaa9aa7644089a1" size="277753606" crc="34a43d5c" fullsha1="c8aa87be56b7183f2ad2c9f0bbfbc052b345e9a3" dataSha1="e068053f63405c30a458c2977e89f7892e280169">
+	<game name="dracula\bram stoker's dracula (usa)" type="" sha1="8a76816b01257e7f6a5ea2fe6b29935caf92b001" size="277753606" crc="cfa62b04" fullsha1="b48c348913d476eef5a4e46b2ce7cfba7103f0f6" dataSha1="e068053f63405c30a458c2977e89f7892e280169">
 		<category>Games</category>
 		<description>dracula\bram stoker's dracula (usa)</description>
 		<rom name="bram stoker's dracula (usa) (Track 01).bin" size="275525040" crc="9fae63c4" md5="1a724098fb0c2d6c0d8d4cbcb0bf2e0b" sha1="88a933d5d2bbe68f5a442cba30c22fd69eee9451"/>
@@ -1209,7 +1209,7 @@
 		<rom name="fatal fury special (usa, prototype) (Track 37).bin" size="3713808" crc="096d9568" md5="99a45294105564f82340a9f9169990e0" sha1="2bdeeadb3c0711cc606ca27812fda9a5b6a03fb0"/>
 		<rom name="fatal fury special (usa, prototype) (Track 38).bin" size="2027424" crc="83be29cc" md5="06d3369358165113d54b8635c57bb2b9" sha1="185fb90df0af908a26442f80179f970733ba1703"/>
 	</game>
-	<game name="ffightcd\final fight cd (usa)" type="cd" sha1="8c5d4888bbd8f597099f01faf8c0ed6f48e0a1c9" size="257074086" crc="4468bc3b" fullsha1="20bb544d119da6baea4406b019a057becb1d6395" dataSha1="3e743ed3485baf701bfb476a93a70868b0e318c3">
+	<game name="ffightcd\final fight cd (usa)" type="" sha1="90f37da5ea3f7c96134b68fbbad75da403c79598" size="257074086" crc="c136a8ec" fullsha1="922993f958901291c6a28dd34a368edd25d84f5d" dataSha1="3e743ed3485baf701bfb476a93a70868b0e318c3">
 		<category>Games</category>
 		<description>ffightcd\final fight cd (usa)</description>
 		<rom name="final fight cd (usa) (Track 01).bin" size="28209888" crc="9c4fda3e" md5="c55d132b19dafae35a4f982c53f7bb24" sha1="b29866deca2225faba0e1d4065dce51c8bb23582"/>
