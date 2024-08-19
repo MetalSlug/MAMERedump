@@ -4,7 +4,7 @@
 	<header>
 		<name>Sony - PlayStation Portable</name>
 		<description>Sony - PlayStation Portable</description>
-		<version>0.266</version>
+		<version>0.267</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -294,6 +294,11 @@
 		<description>Armored Core - Formula Front Extreme Battle (USA)</description>
 		<rom name="Armored Core - Formula Front Extreme Battle (USA).bin" size="814874624" crc="8862ba8d" md5="ad297308548d44be9216f2128ddc12c1" sha1="11c8d1df77cf98864e99eaf36f4ff5c3842106ca"/>
 	</game>
+	<game name="Armored Core - Formula Front International (Japan) (En,Ja)" type="dvd" sha1="cad69ce1ebc19bcd4316b6c823312625b7b99ae6" size="475087808" crc="7606fe9e" fullsha1="c238b8e933b6c7bdf0bd5f38883995afb91befd7" dataSha1="107ad3157488e23e1ad8d0d6dd2a642d38c3472d">
+		<category>Games</category>
+		<description>Armored Core - Formula Front International (Japan) (En,Ja)</description>
+		<rom name="Armored Core - Formula Front International (Japan) (En,Ja).bin" size="900595712" crc="7d6e1b46" md5="33d9ddca21e660585f44f803d30200c0" sha1="107ad3157488e23e1ad8d0d6dd2a642d38c3472d"/>
+	</game>
 	<game name="Army of Two - The 40th Day (Europe) (En,Fr,De,Es,It)" type="dvd" sha1="e466705643cdcdda2cd4e95e115aeadfbbe4ff88" size="703526042" crc="8025135b" fullsha1="6879b50065c470d4a9fa4ed0307cb73cbe8d174a" dataSha1="0b9a7db05bce9d43fcb3a2a9a8bec5eebb32f686">
 		<category>Games</category>
 		<description>Army of Two - The 40th Day (Europe) (En,Fr,De,Es,It)</description>
@@ -394,6 +399,11 @@
 		<description>Bakugan - Defenders of the Core (USA) (En,Fr)</description>
 		<rom name="Bakugan - Defenders of the Core (USA) (En,Fr).bin" size="887324672" crc="a4b4eb27" md5="b1730f2f87e44dfebfc64261992a0734" sha1="0273a50db02b3ec81fa9d7a9edf7a9d5d3b09363"/>
 	</game>
+	<game name="Battle Royal (India)" type="dvd" sha1="9b6a79985f77f381b1c2575cf0ac79c062949328" size="91878963" crc="00bb183e" fullsha1="6ba143cab2edde9eba3ab1f668ec6da925cb62ff" dataSha1="ca59c59695096b9b9058aa8105dd4f832a9f9c3b">
+		<category>Games</category>
+		<description>Battle Royal (India)</description>
+		<rom name="Battle Royal (India).bin" size="193429504" crc="0f4c4357" md5="466edb6427ad95d405c33831db12e8b0" sha1="ca59c59695096b9b9058aa8105dd4f832a9f9c3b"/>
+	</game>
 	<game name="Battle vs. Chess (Europe) (En,Fr,De,Es,It,Pl,Ru) (Proto) (2011-12-15)" type="dvd" sha1="537bc38f2906cd45341ab06251b2765c3b2aadd9" size="283953284" crc="a330e459" fullsha1="8f79e0ffdfed5fad881a94732c3d683eedc14d05" dataSha1="d42a7f34b10d000f19cd18dacf0f2ab088d3e3b2">
 		<category>Games</category>
 		<description>Battle vs. Chess (Europe) (En,Fr,De,Es,It,Pl,Ru) (Proto) (2011-12-15)</description>
@@ -473,6 +483,11 @@
 		<category>Games</category>
 		<description>Beowulf - The Game (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Beowulf - The Game (USA) (En,Fr,De,Es,It).bin" size="1261305856" crc="6af7e2a0" md5="c8ba98b69ff85074e5c2dcf9b6fbeaaf" sha1="3a2d0f479a97f0bc2a3690688b492f86e644e95c"/>
+	</game>
+	<game name="Beta Bloc (Italy)" type="dvd" sha1="01fb1e80fce4111139011c55a119838656209ea4" size="48708182" crc="66a6a596" fullsha1="b8742b7d58c3c6e3942c8289a17c665dee2a9e57" dataSha1="803d1dcf6c6a14ff74715516e70d47742d133559">
+		<category>Games</category>
+		<description>Beta Bloc (Italy)</description>
+		<rom name="Beta Bloc (Italy).bin" size="89260032" crc="0413858e" md5="da956f48abaf5ea6e62585f29396c35c" sha1="803d1dcf6c6a14ff74715516e70d47742d133559"/>
 	</game>
 	<game name="Bigs 2, The (USA)" type="dvd" sha1="48a76736288c4156e758b344189f06f1cfc3f0f2" size="460315127" crc="0457285b" fullsha1="f5ab7e5f36b97a0873bf5a8b7b2f137a0378fddb" dataSha1="47ab1ea8c5f786fdac897a81bb4cf057142533b1">
 		<category>Games</category>
@@ -688,6 +703,11 @@
 		<category>Games</category>
 		<description>Buzz! Brain of Oz ~ Buzz! Brain of New Zealand (Australia, New Zealand)</description>
 		<rom name="Buzz! Brain of Oz ~ Buzz! Brain of New Zealand (Australia, New Zealand).bin" size="1560543232" crc="32f7d8fc" md5="70fe232a98b9daf3a3f564761e9d9145" sha1="c382f0d53e92d83b190505816984421e96c1dc24"/>
+	</game>
+	<game name="Buzz! Brain of Switzerland (Switzerland) (Fr,De)" type="dvd" sha1="dbd7d315579d6638b21128b12fbbef81ce744b85" size="799325586" crc="bb0dd3be" fullsha1="728490fcbf06fc0c3c3f7a628614b91d79334e85" dataSha1="a72a6d1e743f041ca92cd1c6f7802e6e3d7efc0d">
+		<category>Games</category>
+		<description>Buzz! Brain of Switzerland (Switzerland) (Fr,De)</description>
+		<rom name="Buzz! Brain of Switzerland (Switzerland) (Fr,De).bin" size="1548353536" crc="492a4cf1" md5="ee32ef42385888e1f38cede91081a5e6" sha1="a72a6d1e743f041ca92cd1c6f7802e6e3d7efc0d"/>
 	</game>
 	<game name="Buzz! Brain of the UK (UK)" type="dvd" sha1="4f8536bf49fae7a5e45393cf4623be26fb1e068b" size="530306083" crc="dd881840" fullsha1="aa87915fd765c50865b957cdd045d2d3c8688bb9" dataSha1="75bb9722c6d1176f286ee7509ac70c6cbad56f34">
 		<category>Games</category>
@@ -939,6 +959,11 @@
 		<description>Carol Vorderman's Sudoku (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Carol Vorderman's Sudoku (USA) (En,Fr,De,Es,It).bin" size="429654016" crc="340587db" md5="a1d7b1e96afdbb22143681d2eb58fad0" sha1="05c70ccc8787e6c5d50dd19611185b7805f29800"/>
 	</game>
+	<game name="Cart Kings (India) (En,Hi)" type="dvd" sha1="c627b075e6ce7f8cd06e838544501064b23dd004" size="209343617" crc="8548c80e" fullsha1="01dda550448d50f6caa7c4adf2fa4410929ad63c" dataSha1="13eba28da79064db02ccf16e3228dd889d0035e2">
+		<category>Games</category>
+		<description>Cart Kings (India) (En,Hi)</description>
+		<rom name="Cart Kings (India) (En,Hi).bin" size="515768320" crc="9dd2e7e4" md5="bd9584646715f562762420cb48812e20" sha1="13eba28da79064db02ccf16e3228dd889d0035e2"/>
+	</game>
 	<game name="Castlevania - The Dracula X Chronicles (Europe) (En,Fr,De,Es,It)" type="dvd" sha1="2b3f886ab9cd1ab63887cbad8fd9df1bb510f010" size="613659251" crc="540d8670" fullsha1="6744ef3d7644c831184a59f68b77069de4c8fb9d" dataSha1="25bb86c2c86f29e8a9d09ee0ae2a45fc6252befb">
 		<category>Games</category>
 		<description>Castlevania - The Dracula X Chronicles (Europe) (En,Fr,De,Es,It)</description>
@@ -968,6 +993,11 @@
 		<category>Games</category>
 		<description>Championship Manager 2007 (Europe) (En,Fr,Es,It)</description>
 		<rom name="Championship Manager 2007 (Europe) (En,Fr,Es,It).bin" size="213417984" crc="3ee78f33" md5="4ac3ebc94efcd9b2b460079a51447391" sha1="d4f728f824e6f0854fc8d6d16c87ae37838cbe17"/>
+	</game>
+	<game name="Chandragupta - Warrior Prince (India) (En,Hi)" type="dvd" sha1="0626114b7806cd87fbccdf4a7bd153d3fda3f5a3" size="153363278" crc="f7655074" fullsha1="42282bf6b079c0b3f580f4aedd135dcac90835dc" dataSha1="330e781458cb8ebf3e63a0d243a922b21e9ae79d">
+		<category>Games</category>
+		<description>Chandragupta - Warrior Prince (India) (En,Hi)</description>
+		<rom name="Chandragupta - Warrior Prince (India) (En,Hi).bin" size="334528512" crc="ba273ca2" md5="5f316f8d2f6ff6487076dbb80d0e0fc4" sha1="330e781458cb8ebf3e63a0d243a922b21e9ae79d"/>
 	</game>
 	<game name="Chessmaster - The Art of Learning (Europe) (En,Fr,De,Es,It,Nl)" type="dvd" sha1="e3f499bbd4bab91578b432e3f065ef9105848a3a" size="90699684" crc="e5fb4e64" fullsha1="cf3f574c863c5ac9367f6ba98d232ba8d12bd758" dataSha1="cc551ab6bc2c9e05a12ac9862af2ce1669ac4cc6">
 		<category>Games</category>
@@ -1209,6 +1239,26 @@
 		<description>DJ Max Emotional Sense - Fever (USA)</description>
 		<rom name="DJ Max Emotional Sense - Fever (USA).bin" size="1713602560" crc="3dc62f19" md5="9d31b047b28b686d3e19fa90620b1f9e" sha1="de59ad4fb0ac7ffe0446299dc5dc9c841f234995"/>
 	</game>
+	<game name="DJ Max Emotional Sense P - Black Square (Korea) (En,Ja,Ko)" type="dvd" sha1="1abdd48d892bc224474cd6934135f03ed0f7ecf3" size="1519498257" crc="95c7575d" fullsha1="4d502648943e30e50601671d8a2d70bcc2f6d0ae" dataSha1="7b92f76364103496fe1415e295ad09a2bdb09270">
+		<category>Games</category>
+		<description>DJ Max Emotional Sense P - Black Square (Korea) (En,Ja,Ko)</description>
+		<rom name="DJ Max Emotional Sense P - Black Square (Korea) (En,Ja,Ko).bin" size="1710424064" crc="2b74a1ce" md5="573db60c783b623f3cfe35873add2384" sha1="7b92f76364103496fe1415e295ad09a2bdb09270"/>
+	</game>
+	<game name="DJ Max Emotional Sense P - Clazziquai Edition (Korea) (En,Ja,Ko)" type="dvd" sha1="8195e332fe2bb23d761cb9440e490136a8bf99f7" size="1531304085" crc="214016d9" fullsha1="1ab29531829be1dd748ef8c35d4c52879c783b54" dataSha1="faeb19cb9ad49861a3ed424134bc7ec5db6e7f66">
+		<category>Games</category>
+		<description>DJ Max Emotional Sense P - Clazziquai Edition (Korea) (En,Ja,Ko)</description>
+		<rom name="DJ Max Emotional Sense P - Clazziquai Edition (Korea) (En,Ja,Ko).bin" size="1729855488" crc="473fcc60" md5="7eac37d6d62556e88f5fa87423fc1239" sha1="faeb19cb9ad49861a3ed424134bc7ec5db6e7f66"/>
+	</game>
+	<game name="DJ Max Emotional Sense P 2 - Sound Miracle (Korea) (En,Ja,Ko)" type="dvd" sha1="d23d537ed99432b2665f0bee46d9f6108fa385a1" size="1628495040" crc="6a2a3904" fullsha1="0118c63b8906bb14e1750131085f402c3820cdd3" dataSha1="9018c4ab491f7314bf2bf125a3dfba2ede19529b">
+		<category>Games</category>
+		<description>DJ Max Emotional Sense P 2 - Sound Miracle (Korea) (En,Ja,Ko)</description>
+		<rom name="DJ Max Emotional Sense P 2 - Sound Miracle (Korea) (En,Ja,Ko).bin" size="1778319360" crc="a5c44e0a" md5="526d95c033a2389a722b243a6674859d" sha1="9018c4ab491f7314bf2bf125a3dfba2ede19529b"/>
+	</game>
+	<game name="DJ Max Portable - Hot Tunes (Korea) (En,Ja,Ko)" type="dvd" sha1="286f07bd6004578b9c3162d51a3a973ec7eaf502" size="1391775130" crc="1102865a" fullsha1="f482aed4363bf2b12aedb5e3247c796db9b5fc49" dataSha1="6e2b4ebcf8655d311a071b21d2a56d9bb7570364">
+		<category>Games</category>
+		<description>DJ Max Portable - Hot Tunes (Korea) (En,Ja,Ko)</description>
+		<rom name="DJ Max Portable - Hot Tunes (Korea) (En,Ja,Ko).bin" size="1643413504" crc="e94a89b9" md5="4adaa05c8d866f7e125f7bf48b7451ca" sha1="6e2b4ebcf8655d311a071b21d2a56d9bb7570364"/>
+	</game>
 	<game name="DJ Max Portable 3 (USA)" type="dvd" sha1="dd36c34e82f314113a8778e36ac568cc1efcc61d" size="1608611777" crc="75fed007" fullsha1="df2ed52330f678a45f102ec74f3de22cd27cc5ff" dataSha1="c5920fea4c340d443b20260d01257a222ced861f">
 		<category>Games</category>
 		<description>DJ Max Portable 3 (USA)</description>
@@ -1243,6 +1293,11 @@
 		<category>Games</category>
 		<description>Dante's Inferno (USA)</description>
 		<rom name="Dante's Inferno (USA).bin" size="1812725760" crc="db54d4a0" md5="ae91c5d0dcd933329b81efb5a194a227" sha1="579df44399a0ecb16ffe4bd195e6afdf4b49b900"/>
+	</game>
+	<game name="Dariusburst (Japan) (En,Ja)" type="dvd" sha1="bb49d124f7b22659f1c6c263333cb5d915a8a87a" size="75398279" crc="58c7052a" fullsha1="24cea2fef6048a468051101abd3e6c453180e9d5" dataSha1="99e3864bf1db9b43b9d163f03e0896b36958b813">
+		<category>Games</category>
+		<description>Dariusburst (Japan) (En,Ja)</description>
+		<rom name="Dariusburst (Japan) (En,Ja).bin" size="193789952" crc="0ba97c59" md5="8d3f2057fbcd4754da9439b1a4220065" sha1="99e3864bf1db9b43b9d163f03e0896b36958b813"/>
 	</game>
 	<game name="Darkstalkers Chronicle - The Chaos Tower (Europe)" type="dvd" sha1="d8d9be2d9c2f0cbfca9ffccc817c880c3a422600" size="412016257" crc="304d2d77" fullsha1="1265b3015ce02457639caa7e91ac9df9e3332f43" dataSha1="e668ddee63951a67c7d6211a27aeedd3d5ddc989">
 		<category>Games</category>
@@ -1378,6 +1433,11 @@
 		<category>Games</category>
 		<description>Demo Disc for PSP Vol. 1 (Europe) (UCJB-98306)</description>
 		<rom name="Demo Disc for PSP Vol. 1 (Europe) (UCJB-98306).bin" size="905314304" crc="f52f8c96" md5="9ab0231d59cb632fee110e967338e1c3" sha1="24a25ad9a73b044bf580be1721faffed0c604391"/>
+	</game>
+	<game name="Desi Adda - Games of India (India)" type="dvd" sha1="a74b667a7f5c92d0f05ed04e83b822f736609ba4" size="316769265" crc="83631ff8" fullsha1="9212c3a0b1a3e6c07a60ee931b85d776f30d2992" dataSha1="f78beb04da0f0bc433319e08f60dbc86c1c3c303">
+		<category>Games</category>
+		<description>Desi Adda - Games of India (India)</description>
+		<rom name="Desi Adda - Games of India (India).bin" size="542441472" crc="7d33a441" md5="a2559c186ff3df6cdc78d5967e635a65" sha1="f78beb04da0f0bc433319e08f60dbc86c1c3c303"/>
 	</game>
 	<game name="Despicable Me (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi)" type="dvd" sha1="78a2625e285e9f0feb9782a670dad036b7b4d9ef" size="417014281" crc="e8bfa152" fullsha1="361e9b5fd0e76c2a53da03e7fc5f41f878d122a4" dataSha1="41e26b66c49857d7efc38b0ed523e7bd5109587a">
 		<category>Games</category>
@@ -1618,6 +1678,11 @@
 		<category>Games</category>
 		<description>Dissidia Final Fantasy (USA)</description>
 		<rom name="Dissidia Final Fantasy (USA).bin" size="1646657536" crc="b415ca59" md5="6166fb999e7a0c34044fa7e865d0e270" sha1="c0a3ca29f9ea76d64ad0a8ee485ded4e3364a53c"/>
+	</game>
+	<game name="Don 2 - The Game (India)" type="dvd" sha1="0221ecb4be8de3a2d14d6cb209c1703c4fa09d7f" size="288966648" crc="9f633637" fullsha1="3545084afda49c6e8a16d0099bc8f569c160ddd6" dataSha1="1c49e04b3bdacdbf3a309c06d3243178b0cbb6d6">
+		<category>Games</category>
+		<description>Don 2 - The Game (India)</description>
+		<rom name="Don 2 - The Game (India).bin" size="656769024" crc="9217f6c2" md5="3e1a15a70f5e7adbc0c9bd488339896c" sha1="1c49e04b3bdacdbf3a309c06d3243178b0cbb6d6"/>
 	</game>
 	<game name="Donkey Xote (Europe) (En,Fr,De,Es,It)" type="dvd" sha1="9aeae8a1a68847f8a4792c54e2522add99a5eaa0" size="328838013" crc="35b3862b" fullsha1="b70e9200b12c5c130801b26ca3f38358e3c439ca" dataSha1="ac31ad53ae0dbd88b1b13586962f2cf331e3909f">
 		<category>Games</category>
@@ -1893,6 +1958,11 @@
 		<category>Games</category>
 		<description>Everybody's Golf 2 (Europe, Canada) (En,Fr,De,Es,It)</description>
 		<rom name="Everybody's Golf 2 (Europe, Canada) (En,Fr,De,Es,It).bin" size="1343389696" crc="c91632c6" md5="91471ae69f544651f035d02982464f8f" sha1="fd85c6aa08b0f725125d8bcfc83c2e9a66ec643f"/>
+	</game>
+	<game name="Everybody's Stress Buster (Asia) (En,Zh,Ko)" type="dvd" sha1="eb90f475f487f03ea3da29d43159d5b3fa3ae135" size="318817837" crc="becd16b6" fullsha1="33a3bd6ba7b878b41b33e567033658c7cc9fd9c6" dataSha1="92992c3967c30e3842544c802a6d41e764c56442">
+		<category>Games</category>
+		<description>Everybody's Stress Buster (Asia) (En,Zh,Ko)</description>
+		<rom name="Everybody's Stress Buster (Asia) (En,Zh,Ko).bin" size="518782976" crc="e169e0dc" md5="727fc6e6c95a775917b826daace26c59" sha1="92992c3967c30e3842544c802a6d41e764c56442"/>
 	</game>
 	<game name="Everybody's Tennis (Europe) (En,Fr,De,Es,It)" type="dvd" sha1="d5d77bedbb39f0a0038fdeb7b747250452405975" size="1197635183" crc="5add163c" fullsha1="b248fc6d9c12658c36b529629915b18a48e592bd" dataSha1="ef45d880e7ae968399ac71c1d0b9ab04ef969904">
 		<category>Games</category>
@@ -3264,6 +3334,11 @@
 		<description>Juiced - Eliminator (Europe)</description>
 		<rom name="Juiced - Eliminator (Europe).bin" size="1265565696" crc="34311488" md5="a51830c7d5e4b06b269001c1983721fa" sha1="310a7b0475f95c74469e708f9e8c7b184142b2ec"/>
 	</game>
+	<game name="Juiced - Eliminator (Europe) (En,Fr,De,Es,It) (Beta) (2006-04-26)" type="dvd" sha1="a2f0afca71bc78470ea5430a776d271d53232728" size="635709247" crc="d03bfb06" fullsha1="dd2809b9a5e6d0d653086e1ba8de46e96243ceba" dataSha1="5be25d6b91dc19bd7caa3c2c2a240644210eebb6">
+		<category>Games</category>
+		<description>Juiced - Eliminator (Europe) (En,Fr,De,Es,It) (Beta) (2006-04-26)</description>
+		<rom name="Juiced - Eliminator (Europe) (En,Fr,De,Es,It) (Beta) (2006-04-26).bin" size="1262059520" crc="f1f12abc" md5="5f33516cb9c1a750b8ecd0e90b1e6f7d" sha1="5be25d6b91dc19bd7caa3c2c2a240644210eebb6"/>
+	</game>
 	<game name="Juiced - Eliminator (USA)" type="dvd" sha1="94020a601d29e7cf422e91c9bbfbf6fa26751f2c" size="635699469" crc="d620bf5c" fullsha1="26629bafa2c3b5369cc45aac2fdb884db1a40e6c" dataSha1="4eb6b38be2482227746bd66c172b7b25c2c74c28">
 		<category>Games</category>
 		<description>Juiced - Eliminator (USA)</description>
@@ -4259,6 +4334,11 @@
 		<description>ModNation Racers (USA) (En,Fr,Es)</description>
 		<rom name="ModNation Racers (USA) (En,Fr,Es).bin" size="1652162560" crc="b8d04288" md5="caaff72a984aa0e21831a26c0102feb9" sha1="b8e56db4f13e4ca6e5cf5bbb0ecaf9649ba2cd2c"/>
 	</game>
+	<game name="Moegaku @ Portable (Japan) (En,Ja)" type="dvd" sha1="cce0d3cba5be32e4690b69328cebaef602ea5a9c" size="377515016" crc="18c262dc" fullsha1="1ee6d30fc5de5cfa110e8315e7dd737c652f6950" dataSha1="e4943860e17c85d41cc9e83befe4d326a12a5ae3">
+		<category>Games</category>
+		<description>Moegaku @ Portable (Japan) (En,Ja)</description>
+		<rom name="Moegaku @ Portable (Japan) (En,Ja).bin" size="459964416" crc="69e29924" md5="64a4681f3ecb08e9c0cb7611fe65351f" sha1="e4943860e17c85d41cc9e83befe4d326a12a5ae3"/>
+	</game>
 	<game name="Monster Hunter Freedom (Europe, Australia) (En,Fr,De,Es,It)" type="dvd" sha1="e827ee152bbeb931291bdb13e923d9a8efa3dd81" size="653432806" crc="8b34bb04" fullsha1="fcb69d92ec4e396ce11d8011ebed73d4ecdf1a18" dataSha1="4a5d3ab167e911b67685e862b48ee539db8a5bd4">
 		<category>Games</category>
 		<description>Monster Hunter Freedom (Europe, Australia) (En,Fr,De,Es,It)</description>
@@ -4438,6 +4518,11 @@
 		<category>Games</category>
 		<description>NBA 09 - The Inside (USA) (Beta) (2008-08-07)</description>
 		<rom name="NBA 09 - The Inside (USA) (Beta) (2008-08-07).bin" size="1079508992" crc="bb85ddf7" md5="e47159b4d2c858ad9c2f30a80ba01b09" sha1="138cbfcdb54ea4bc55dee375b323e5012f70bd5a"/>
+	</game>
+	<game name="NBA 10 - The Inside (Asia)" type="dvd" sha1="426170e940a14348556d39624ee23e038f798e99" size="580575136" crc="913154b6" fullsha1="6cbca39a5167e29d1490db81e1bfabe0c9b80de0" dataSha1="d2124dec27f2cdb8659304302dcc0286137fddfb">
+		<category>Games</category>
+		<description>NBA 10 - The Inside (Asia)</description>
+		<rom name="NBA 10 - The Inside (Asia).bin" size="1087471616" crc="c13d2f1a" md5="5d90069f3a38f36d80c39e451d230bfe" sha1="d2124dec27f2cdb8659304302dcc0286137fddfb"/>
 	</game>
 	<game name="NBA 10 - The Inside (USA)" type="dvd" sha1="9b86ad1cdae543f00909660ccb1377787e0d6d09" size="580575137" crc="a4c1e94d" fullsha1="e5f251b7f1ed64a922025f84fd4e9aa615654b67" dataSha1="c19df1245e40148bd252b45c799208bb93cdf3af">
 		<category>Games</category>
@@ -5419,6 +5504,11 @@
 		<description>Professor Sudoku (Europe) (En,Es,It)</description>
 		<rom name="Professor Sudoku (Europe) (En,Es,It).bin" size="1125810176" crc="56ab3ee3" md5="5e0a3707cf9cdb62c04eb92495df13e6" sha1="f6bf815b615bc46f69fd79ba2861468b8ee4daa3"/>
 	</game>
+	<game name="Pump It Up - Exceed Portable (Korea) (En,Ko)" type="dvd" sha1="1cac6dd16286b1789563adfbb833518fe135280d" size="798907336" crc="1ab83225" fullsha1="3d3b7708ba5e118e17e3a2473c9df4889714ebce" dataSha1="90df0b8deebb8ce1fb513c15fc1f7e85b734b2eb">
+		<category>Games</category>
+		<description>Pump It Up - Exceed Portable (Korea) (En,Ko)</description>
+		<rom name="Pump It Up - Exceed Portable (Korea) (En,Ko).bin" size="836599808" crc="90b368f3" md5="4242f44dab25ec0e8f8c577049d53fe8" sha1="90df0b8deebb8ce1fb513c15fc1f7e85b734b2eb"/>
+	</game>
 	<game name="Pursuit Force (Europe) (En,Fr,De,Es,It)" type="dvd" sha1="b5c4c1bf9008fb181a76ab201d8317a0b6e6c058" size="858624961" crc="81b52da3" fullsha1="dd83dd4df5c7b8f7da60d91833dfd3d229833c1a" dataSha1="c2cc27677c281d31d6100483e0d5185aa6aa9bf1">
 		<category>Games</category>
 		<description>Pursuit Force (Europe) (En,Fr,De,Es,It)</description>
@@ -5463,6 +5553,11 @@
 		<category>Games</category>
 		<description>Puyo Pop Fever (Europe)</description>
 		<rom name="Puyo Pop Fever (Europe).bin" size="182878208" crc="1b62ba6f" md5="b8dae0e8e70a4f7350d8e6d4c86ab7ba" sha1="14b6b6357ad50978793bdf6e5d5fb904105ddbd1"/>
+	</game>
+	<game name="Puzzle Bobble Pocket (Korea) (En,Ja)" type="dvd" sha1="5ab51dc83e611f08a0d50ca29595d460e3251026" size="9592881" crc="85da03d0" fullsha1="1f43dfbda58446e890b9f70b2587502727aff5c3" dataSha1="519050cd0353aa69e6c780bf63d01a6a12c88bb6">
+		<category>Games</category>
+		<description>Puzzle Bobble Pocket (Korea) (En,Ja)</description>
+		<rom name="Puzzle Bobble Pocket (Korea) (En,Ja).bin" size="17924096" crc="6331d00b" md5="fa6bf62dfc146fe7f22395f6323dd1fb" sha1="519050cd0353aa69e6c780bf63d01a6a12c88bb6"/>
 	</game>
 	<game name="Puzzle Challenge - Crosswords and More! (USA)" type="dvd" sha1="1deab417fc6ec5d43be3611288e960c12ab1fed7" size="55373178" crc="e64a0a61" fullsha1="29d73d3f59796071890bd06e1f12e963999b366a" dataSha1="c5d514562905b39a53c9cf6be8c787560337710c">
 		<category>Games</category>
@@ -5919,6 +6014,11 @@
 		<description>Sega Rally Revo (USA)</description>
 		<rom name="Sega Rally Revo (USA).bin" size="197263360" crc="3aca7787" md5="329d0fcd6161ab4ba261eb89554220e1" sha1="6ed5cec20fec9d11cf6a62dbe80a795a2aadcf50"/>
 	</game>
+	<game name="Sengoku Cannon - Sengoku Ace Episode III (Japan, Asia) (En,Ja)" type="dvd" sha1="ad7d81fc1be03b3363f944efc2a42046e94a8769" size="66179210" crc="da34b857" fullsha1="cf3866adffa437f7988f6260d991e7c68933b71b" dataSha1="6d9b95dbf6ce7a2d1d88a1f7cf67ad84f1f4f57f">
+		<category>Games</category>
+		<description>Sengoku Cannon - Sengoku Ace Episode III (Japan, Asia) (En,Ja)</description>
+		<rom name="Sengoku Cannon - Sengoku Ace Episode III (Japan, Asia) (En,Ja).bin" size="170459136" crc="610fd571" md5="79b61bbf70b7cc62ff3ae1765f08bffe" sha1="6d9b95dbf6ce7a2d1d88a1f7cf67ad84f1f4f57f"/>
+	</game>
 	<game name="Shadow of Destiny (USA)" type="dvd" sha1="aafc1ee6f20ed1099df4ee0f168a8062d7e81ef9" size="622747427" crc="2d2ea421" fullsha1="b45c634c433f026e528c5cd7c5e0d23146137b32" dataSha1="756058f70d1cffee6a2b075b05e3e8c232acfea4">
 		<category>Games</category>
 		<description>Shadow of Destiny (USA)</description>
@@ -6239,6 +6339,11 @@
 		<description>Star Ocean - Second Evolution (USA)</description>
 		<rom name="Star Ocean - Second Evolution (USA).bin" size="1439825920" crc="d4dbb3b7" md5="b5a7e82a0d01786b905a870a8d512b64" sha1="def1cd720dd8522dd04b0465691c720f27e6bf89"/>
 	</game>
+	<game name="Star Soldier (Japan) (En,Ja)" type="dvd" sha1="831f26d21a7ac406669e4350b1316b5c17393cbf" size="43841741" crc="1a70a00f" fullsha1="e0694d9abfcd04e13bc74c57b6b39c957c3e3d13" dataSha1="c3510b1cb826f9296cf95499f1bfd0d58c29622c">
+		<category>Games</category>
+		<description>Star Soldier (Japan) (En,Ja)</description>
+		<rom name="Star Soldier (Japan) (En,Ja).bin" size="77955072" crc="c3aa8e4e" md5="a7fa76bb98580b198800fe1c8fd2de33" sha1="c3510b1cb826f9296cf95499f1bfd0d58c29622c"/>
+	</game>
 	<game name="Star Trek - Tactical Assault (Europe)" type="dvd" sha1="feb162bc4430c7c8cc01853cfb77f469b52ddf90" size="156475939" crc="7e61da03" fullsha1="3690b76024b2eabd7424c6f2f180defb81d3fae9" dataSha1="f0bb102fdf839cc2cdeb713aa7838e06e008f93f">
 		<category>Games</category>
 		<description>Star Trek - Tactical Assault (Europe)</description>
@@ -6358,6 +6463,16 @@
 		<category>Games</category>
 		<description>Steel Horizon (USA)</description>
 		<rom name="Steel Horizon (USA).bin" size="130187264" crc="30f74e70" md5="00f94ca1100089cdbe1d88965842f21f" sha1="e53f918d8fe563116a7f96ec696478ccb2423ce2"/>
+	</game>
+	<game name="Street Cricket Champions (India)" type="dvd" sha1="dda31414459c1928bdf7b4f90632c866d2f4b17b" size="213970384" crc="88a60358" fullsha1="0e2c14f5c0ba150cca5a08932072fe88d56c4bc6" dataSha1="bc8c28483d064905993aff1932c26295e6902f63">
+		<category>Games</category>
+		<description>Street Cricket Champions (India)</description>
+		<rom name="Street Cricket Champions (India).bin" size="381714432" crc="fdfdc9d9" md5="3b9c80f5829a696b15183d6085b4ac9e" sha1="bc8c28483d064905993aff1932c26295e6902f63"/>
+	</game>
+	<game name="Street Cricket Champions 2 (India)" type="dvd" sha1="281dd10fea9b4356ddda6abab93c4cb5c393ecf3" size="230843676" crc="35fa61f1" fullsha1="da06536750924c07ffcf3d4588192f47a9249454" dataSha1="58a1a66923c747dbfbde6d209803d9f20c8ec8a3">
+		<category>Games</category>
+		<description>Street Cricket Champions 2 (India)</description>
+		<rom name="Street Cricket Champions 2 (India).bin" size="404488192" crc="a41dce10" md5="a8264e120e83bc1ef36ece46216a063f" sha1="58a1a66923c747dbfbde6d209803d9f20c8ec8a3"/>
 	</game>
 	<game name="Street Fighter Alpha 3 Max (Europe)" type="dvd" sha1="674b08178d06e155009d11f5f679e6dc1495a79d" size="97105895" crc="09751f56" fullsha1="42ec6e45b1c6d98c0fe7a3d4174e702fc57d2fa7" dataSha1="6562c25bf07bc81ebcf7375105ec5bcce7daedc3">
 		<category>Games</category>
@@ -6669,6 +6784,11 @@
 		<description>Tiger Woods PGA Tour 07 (USA)</description>
 		<rom name="Tiger Woods PGA Tour 07 (USA).bin" size="1256390656" crc="c25b87b8" md5="7b03b947b8a78018c047189699c0c155" sha1="86a845331f3774a8ddb0abcf88559c8da377d5cb"/>
 	</game>
+	<game name="Tiger Woods PGA Tour 08 (Asia)" type="dvd" sha1="e2813132b173903d8e05571dfeb3240070d10c8a" size="648681938" crc="315178f5" fullsha1="14d2fd92c84d1d0d46436a46aea858bf1b80199e" dataSha1="6cf6c600dcb347fbf4d0107d5ac540af424418b9">
+		<category>Games</category>
+		<description>Tiger Woods PGA Tour 08 (Asia)</description>
+		<rom name="Tiger Woods PGA Tour 08 (Asia).bin" size="1350664192" crc="b75bbb93" md5="d8b1d1f3438bc47936f6bac0343915a5" sha1="6cf6c600dcb347fbf4d0107d5ac540af424418b9"/>
+	</game>
 	<game name="Tiger Woods PGA Tour 08 (Europe)" type="dvd" sha1="6ad4ff230236771f81ce2cebeb1c25bbd155bfe7" size="648118139" crc="3b2324a1" fullsha1="f98c632949142fd5fd2e78984f4c72f628451cc3" dataSha1="16ec3b9d3571a17c5c804322686ef4544b36d2be">
 		<category>Games</category>
 		<description>Tiger Woods PGA Tour 08 (Europe)</description>
@@ -6688,6 +6808,11 @@
 		<category>Games</category>
 		<description>Tiger Woods PGA Tour 09 (USA)</description>
 		<rom name="Tiger Woods PGA Tour 09 (USA).bin" size="1616379904" crc="c788169a" md5="34e925dfc70297bacd6541d900ef23ef" sha1="eb8baaba195fce85b086ad25bf4b7feb41d17c75"/>
+	</game>
+	<game name="Tiger Woods PGA Tour 10 (Asia)" type="dvd" sha1="5b58e9d66d77e271b5cf0096a0da5a54d0783e42" size="902240383" crc="f839e240" fullsha1="e71cb374892f747e382c018f0f299dd15331c91f" dataSha1="58521f0df5d144e266bb0f1177ff4b4ce4b3c4dd">
+		<category>Games</category>
+		<description>Tiger Woods PGA Tour 10 (Asia)</description>
+		<rom name="Tiger Woods PGA Tour 10 (Asia).bin" size="1474101248" crc="7a19a4ee" md5="436ff3bb72dc22397b5c784883fa8bf5" sha1="58521f0df5d144e266bb0f1177ff4b4ce4b3c4dd"/>
 	</game>
 	<game name="Tiger Woods PGA Tour 10 (Europe)" type="dvd" sha1="f79650f793c6cd1f45fe23bcdcfb4e8aaf78da2a" size="902240425" crc="8fd32fb2" fullsha1="91e2fd26a1bdbead780f0bd890823918a50786b6" dataSha1="5ab5e29d2d5bc3a89cb579e8f0cb45c2f0c2da58">
 		<category>Games</category>
@@ -7148,6 +7273,11 @@
 		<category>Games</category>
 		<description>Warhammer 40,000 - Squad Command (USA) (En,Fr)</description>
 		<rom name="Warhammer 40,000 - Squad Command (USA) (En,Fr).bin" size="498892800" crc="ee37d42b" md5="29b0fd9a0e43d955f463e6aec3916f43" sha1="1977284420942172a223db9d3764256d7b760e09"/>
+	</game>
+	<game name="Warning - Code de la Route (France)" type="dvd" sha1="bfc106b5361690a5fcddc66b2cbe140d8e874600" size="189689751" crc="da9c63f5" fullsha1="96e61a7b180a88ab62d25457bda3ec9c12cdffef" dataSha1="5a995c4280301083be9c2ae5103563142d711734">
+		<category>Games</category>
+		<description>Warning - Code de la Route (France)</description>
+		<rom name="Warning - Code de la Route (France).bin" size="332234752" crc="8150f899" md5="1ba516a606e9861ffc851b19ceed2e4b" sha1="5a995c4280301083be9c2ae5103563142d711734"/>
 	</game>
 	<game name="Warriors Orochi (Europe)" type="dvd" sha1="962a921c12ef0178f8a45cc4aba70502d7ad3dcf" size="406993176" crc="aa013ded" fullsha1="52624bf0c921173fde13d502d39d5d1de4533017" dataSha1="bc77a1bd7fe754f6a70d651d6863208a1ce04de2">
 		<category>Games</category>
