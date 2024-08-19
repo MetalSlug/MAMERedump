@@ -121,7 +121,7 @@ Sega - Dreamcast|2024-06-15|2084|2|836 GB|dc|72 GB
 **SNK - Neo Geo CD**|2024-06-05|217|0|59 GB|neocd|847 MB
 *Sony - PlayStation 2*|2024-07-10|4145|7330|6 TB||
 ~~Sony - PlayStation 3~~|2024-07-06|0|4382|||
-Sony - PlayStation Portable|2024-07-08|1507|1404|822 GB||
+Sony - PlayStation Portable|2024-07-08|1533|1378|834 GB||
 Sony - PlayStation|2024-07-09|11585|11|3 TB|psx|551 GB
 **TAB-Austria - Quizard**|2023-09-13|15|0|4 GB||
 **Tomy - Kiss-Site**|2023-12-06|30|0|3 GB|kisssite_cd|3 GB
