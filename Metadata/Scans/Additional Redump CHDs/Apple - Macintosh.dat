@@ -1236,6 +1236,11 @@
 		<description>Bandai Visual CD-ROM Previews for Macintosh Vol. 3 (Japan)</description>
 		<rom name="Bandai Visual CD-ROM Previews for Macintosh Vol. 3 (Japan) (Track 01).bin" size="603890112" crc="5bd50a00" md5="01f6cfe7b7c23347bc1758b121ffc638" sha1="0a65e0e22960baa20971d31ce57430b68fa21af1"/>
 	</game>
+	<game name="Barbie Fashion Designer (USA)" type="cd" sha1="11f9b8e70de30faa4d98bb4907524833afee5be4" size="222871120" crc="12db8300" fullsha1="f300120be72665121ee5c8bca9070665738f80e1" dataSha1="fd670529d21006eb405af3a38854a861fd561b0a">
+		<category>Games</category>
+		<description>Barbie Fashion Designer (USA)</description>
+		<rom name="Barbie Fashion Designer (USA) (Track 01).bin" size="565550160" crc="faf1a109" md5="aee04c7e8ec46fb2aa195143014ab5da" sha1="8fd000232377c2b7369dafe6869598eedcf595a2"/>
+	</game>
 	<game name="Batman - Arkham Asylum (France) (Disc 1)" type="dvd" sha1="46a7127508ffdb9f1425b98e84a80b9d69e37354" size="8259777463" crc="326a367b" fullsha1="7ab6bffc2a762d486e59a659de67c91430664352" dataSha1="d2ec0d94d0b53654432c9c647e9392bc856da043">
 		<category>Games</category>
 		<description>Batman - Arkham Asylum (France) (Disc 1)</description>
@@ -2732,6 +2737,11 @@
 		<category>Games</category>
 		<description>International Tennis Open (Europe) (En,Fr)</description>
 		<rom name="International Tennis Open (Europe) (En,Fr) (Track 01).bin" size="687360240" crc="efb012f0" md5="a3f2cc37e7095d121e49fc90a9e41186" sha1="f59a94271d5037e4bd3fe0f77b362bb581dcfc29"/>
+	</game>
+	<game name="Iron Helix (Japan)" type="cd" sha1="d43cc7802f2447d1404675f567df7128ee5b89da" size="347256988" crc="b7f888c3" fullsha1="4fd59c282d435000551f9c4b5baded546aa18206" dataSha1="8acc58d8a2727f855ef93335951e66cb8564ac1f">
+		<category>Games</category>
+		<description>Iron Helix (Japan)</description>
+		<rom name="Iron Helix (Japan) (Track 01).bin" size="762353760" crc="fb095d47" md5="7b60bfb9c3770215e69829da1050dfc1" sha1="89888daafdf4719b0841243ca5f924831b3a3ec6"/>
 	</game>
 	<game name="Ishido - The Way of Stones (USA)" type="cd" sha1="6068842d5d5c0782c88923986f47e66b6c59d36c" size="7438404" crc="86c067df" fullsha1="137d30db3886dcefc1ca7fb435e9749299862ef8" dataSha1="a002fda56e8a4f8d1525d9613f476e9168e6f59e">
 		<category>Games</category>
@@ -4649,12 +4659,12 @@
 		<description>Reader Rabbit - 2nd Grade (USA)</description>
 		<rom name="Reader Rabbit - 2nd Grade (USA) (Track 01).bin" size="413933184" crc="c0ea5ff9" md5="4df34f030cb64b115bd3382c2008a2b0" sha1="be6e70a5f77736f98c48952d7ffe02a9655e7188"/>
 	</game>
-	<game name="Red Faction (USA) (Disc 1)" type="" sha1="5f12e302137191437fc48572ddc2ad684312e2cc" size="740802199" crc="ae7a92b3" fullsha1="21cb5cc378ed75052b3c604022ed7ab176e9011d" dataSha1="2a844afe29f0e62dcff4118b8624bb62b0671a0c">
+	<game name="Red Faction (USA) (Disc 1)" type="cd" sha1="5f12e302137191437fc48572ddc2ad684312e2cc" size="740802199" crc="ae7a92b3" fullsha1="21cb5cc378ed75052b3c604022ed7ab176e9011d" dataSha1="2a844afe29f0e62dcff4118b8624bb62b0671a0c">
 		<category>Games</category>
 		<description>Red Faction (USA) (Disc 1)</description>
 		<rom name="Red Faction (USA) (Disc 1) (Track 01).bin" size="843740016" crc="0f1669d6" md5="7113f0f678f45eaf8ad7cd49779ac0f1" sha1="8b52caecb309c1e0cc629fd6ae47d5ac968825f8"/>
 	</game>
-	<game name="Red Faction (USA) (Disc 2)" type="" sha1="1f1fb4cea0adb6da4e019872a3404ac0c5a4384a" size="129784856" crc="e64c0ad8" fullsha1="5edd67f0335ad78b83f67f14081b809f9378ae5f" dataSha1="e19b990703859e7da805a2096fd1518b4e76f4fb">
+	<game name="Red Faction (USA) (Disc 2)" type="cd" sha1="1f1fb4cea0adb6da4e019872a3404ac0c5a4384a" size="129784856" crc="e64c0ad8" fullsha1="5edd67f0335ad78b83f67f14081b809f9378ae5f" dataSha1="e19b990703859e7da805a2096fd1518b4e76f4fb">
 		<category>Games</category>
 		<description>Red Faction (USA) (Disc 2)</description>
 		<rom name="Red Faction (USA) (Disc 2) (Track 01).bin" size="168210336" crc="fb44c0ed" md5="868e750e0ef4d0e271b9afd5fb6514e0" sha1="af38ac6948bfa8b7d48b53a0d3c4bf9208fe5eeb"/>
@@ -5198,7 +5208,7 @@
 		<description>Space Shuttle (USA)</description>
 		<rom name="Space Shuttle (USA) (Track 01).bin" size="636183072" crc="7c9ee753" md5="22178f4ad147213d0e67ffd93287d89f" sha1="e2b2142cf5e43f10bb838abd8a7a3daa1777c8cc"/>
 	</game>
-	<game name="Spaceship Warlock (USA)" type="" sha1="945a4cc75c752d3d8f2dc453c2befd02a1bcbd60" size="62187750" crc="948587a7" fullsha1="e0df2b7a3fa983fa0c547a044daa939e93120967" dataSha1="4a18cb9bd265eed2dc5b79ae0cb3fce838ffb02b">
+	<game name="Spaceship Warlock (USA)" type="cd" sha1="945a4cc75c752d3d8f2dc453c2befd02a1bcbd60" size="62187750" crc="948587a7" fullsha1="e0df2b7a3fa983fa0c547a044daa939e93120967" dataSha1="4a18cb9bd265eed2dc5b79ae0cb3fce838ffb02b">
 		<category>Games</category>
 		<description>Spaceship Warlock (USA)</description>
 		<rom name="Spaceship Warlock (USA) (Track 01).bin" size="161864640" crc="38859602" md5="b55f9664e05b027022c74c3ef3afd2da" sha1="e9d2d14c53d4174290824a485330477dd0a79034"/>
@@ -5512,6 +5522,11 @@
 		<description>Time Gal (Japan)</description>
 		<rom name="Time Gal (Japan) (Track 01).bin" size="413787360" crc="194fc52c" md5="04cca300840911dc31b0d294b1561dbc" sha1="8d8f89c858d8f33a07eae770e47d85155b901259"/>
 	</game>
+	<game name="Tomb Raider - The Last Revelation (Europe)" type="cd" sha1="41aa5a207ce065804653b39dcf70ee1311d731bd" size="577481708" crc="b809d726" fullsha1="00c70afe66958a9ec507b6b79f252d696faef240" dataSha1="5af45f22187853522b74615643c09b3f2790c994">
+		<category>Games</category>
+		<description>Tomb Raider - The Last Revelation (Europe)</description>
+		<rom name="Tomb Raider - The Last Revelation (Europe) (Track 01).bin" size="783829872" crc="c402398d" md5="ced313fbb8e6e6ae8167bf729df80175" sha1="13fd888dbb3926087953fb2ca0f70753174addf7"/>
+	</game>
 	<game name="Tomb Raider - The Last Revelation (USA)" type="cd" sha1="ed14a32f8bf05154a2075c5d789f1caeaab67faa" size="575923261" crc="81725f90" fullsha1="3ea536dddfd92663e70abba5c04fcdfe82701e07" dataSha1="e5729eb04b13e774886ae173741b57346fe4796a">
 		<category>Games</category>
 		<description>Tomb Raider - The Last Revelation (USA)</description>
@@ -5663,6 +5678,11 @@
 		<category>Games</category>
 		<description>Tropico 4 - Gold Edition (USA)</description>
 		<rom name="Tropico 4 - Gold Edition (USA).bin" size="8055947264" crc="8eec116a" md5="b1b6085a4de3a696d3150f00e0b8215a" sha1="92e07927fbdaad22da1cb71995291de187fa0114"/>
+	</game>
+	<game name="Uki Uki Tsuri Tengoku 3 - Ningyotou no Boat-zuri (Japan)" type="cd" sha1="bedbcac47668a65aef149c8a284159b1e6fe40d2" size="284271357" crc="aea84af6" fullsha1="5876d86d3f7d2016384676ed85717c5bd8554e41" dataSha1="be6c16d7bdc0e7061872d376356405740a6e349d">
+		<category>Games</category>
+		<description>Uki Uki Tsuri Tengoku 3 - Ningyotou no Boat-zuri (Japan)</description>
+		<rom name="Uki Uki Tsuri Tengoku 3 - Ningyotou no Boat-zuri (Japan) (Track 01).bin" size="656469072" crc="f976ac1b" md5="c87ba6338ba1bba69ced2effe3d57505" sha1="5e33bfe4de6aea85e247d50ddb26eebfbcd8b43d"/>
 	</game>
 	<game name="Ultimate Doom, The (USA)" type="" sha1="2275fe0359236755cf0f6e49423015bf43c1436a" size="20949698" crc="1dabb46e" fullsha1="ac10d61b1e4d4431a3e816a01cac58d091ba8882" dataSha1="1c5ded2bde591537a80260ba990bb23bd95a9af1">
 		<category>Games</category>
@@ -5966,7 +5986,7 @@
 		<description>iMac &amp; PowerPC Cards &amp; Casino Games (Canada)</description>
 		<rom name="iMac &amp; PowerPC Cards &amp; Casino Games (Canada) (Track 01).bin" size="126015456" crc="2e79863b" md5="508c9712ccb6554c23e58b97d363baca" sha1="84b91f09ac1019dc6484deef4c38852f96eb37e0"/>
 	</game>
-	<game name="id Anthology (USA) (Disc 4) (Mac)" type="" sha1="54df65f067026b934d03ffe4e95733d4b1b7c3a1" size="188908728" crc="9c0f3ebd" fullsha1="98197dc9f444eb06f3ccf8e3b319beba50897aa3" dataSha1="5964853cd4648dd096a08a6637b6807ad06ee01c">
+	<game name="id Anthology (USA) (Disc 4) (Mac)" type="cd" sha1="54df65f067026b934d03ffe4e95733d4b1b7c3a1" size="188908728" crc="9c0f3ebd" fullsha1="98197dc9f444eb06f3ccf8e3b319beba50897aa3" dataSha1="5964853cd4648dd096a08a6637b6807ad06ee01c">
 		<category>Games</category>
 		<description>id Anthology (USA) (Disc 4) (Mac)</description>
 		<rom name="id Anthology (USA) (Disc 4) (Mac) (Track 01).bin" size="582764448" crc="b13c6a52" md5="9ff69025c0af9a3fa3d406c558d92847" sha1="e79e2ee47d5bdeaa300f1a8a57f5dea5ad42ae37"/>
