@@ -73,7 +73,7 @@ Following Sets contains ISO Files
 |Redump												|Version   |Have		|MIA		|Size		|MAME					|MAME Duplicates	|
 |---------------------------------------------------|----------|------------------------|-----------|-----------|-----------|-----------|
 **Acorn - Archimedes**|2024-06-29|72|0|15 GB||
-Apple - Macintosh|2024-07-05|951|221|540 GB|mac_cdrom|
+Apple - Macintosh|2024-08-21|955|225|541 GB|mac_cdrom|
 Arcade - Konami - e-Amusement|2024-03-16|20|15|22 GB||
 **Arcade - Konami - FireBeat**|2024-03-16|10|0|8 GB||
 **Arcade - Konami - System 573**|2024-04-22|44|0|8 GB||
@@ -94,7 +94,7 @@ Commodore - Amiga CD|2024-06-20|574|3|201 GB||
 **Commodore - Amiga CDTV**|2024-06-16|160|0|21 GB|cdtv|5 GB
 **Fujitsu - FM-Towns**|2024-05-23|958|0|141 GB|fmtowns_cd|132 GB
 funworld - Photo Play|2024-07-01|14|3|4 GB||4 GB
-IBM - PC compatible|2024-07-10|34659|13655|36 TB|ibm5170_cdrom|20 GB
+IBM - PC compatible|2024-08-22|35322|13641|36 TB|ibm5170_cdrom|20 GB
 **Incredible Technologies - Eagle**|2023-04-07|7|0|3 GB||
 **Mattel - Fisher-Price iXL**|2023-08-07|26|0|2 GB||
 **Mattel - HyperScan**|2024-02-26|8|0|505 MB||
