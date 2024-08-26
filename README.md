@@ -121,11 +121,11 @@ Sega - Dreamcast|2024-06-15|2084|2|836 GB|dc|72 GB
 **SNK - Neo Geo CD**|2024-06-05|217|0|59 GB|neocd|847 MB
 *Sony - PlayStation 2*|2024-07-10|4145|7330|6 TB||
 ~~Sony - PlayStation 3~~|2024-07-06|0|4382|||
-Sony - PlayStation Portable|2024-07-08|1662|1249|917 GB||
+Sony - PlayStation Portable|2024-07-08|1862|1049|1 TB||
 Sony - PlayStation|2024-07-09|11585|11|3 TB|psx|551 GB
 **TAB-Austria - Quizard**|2023-09-13|15|0|4 GB||
-**Tomy - Kiss-Site**|2023-12-06|30|0|3 GB|kisssite_cd|3 GB
-VM Labs - NUON|2023-10-27|8|2|6 GB|nuon|6 GB
+**Tomy - Kiss-Site**|2023-12-06|30|0|3 GB||3 GB
+VM Labs - NUON|2023-10-27|8|2|5 GB|nuon|5 GB
 **VTech - V.Flash & V.Smile Pro**|2024-03-01|50|0|8 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2024-02-02|16|0|50 GB||
-Total||70769|35798|49 TB||1 TB
+Total||74500|32724|57 TB||1 TB
