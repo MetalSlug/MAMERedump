@@ -91,7 +91,7 @@ Arcade - Sega - RingEdge|2024-07-05|9|9|43 GB||
 Bandai - Playdia Quick Interactive System|2022-07-06|37|1|18 GB||
 Commodore - Amiga CD|2024-06-20|574|3|201 GB||
 **Commodore - Amiga CD32**|2024-05-06|234|0|27 GB|cd32|9 GB
-**Commodore - Amiga CDTV**|2024-06-16|160|0|21 GB|cdtv|5 GB
+**Commodore - Amiga CDTV**|2024-06-16|159|0|21 GB|cdtv|5 GB
 **Fujitsu - FM-Towns**|2024-05-23|958|0|141 GB|fmtowns_cd|132 GB
 funworld - Photo Play|2024-07-01|14|3|4 GB||4 GB
 IBM - PC compatible|2024-08-22|35322|13641|36 TB|ibm5170_cdrom|20 GB
@@ -128,4 +128,4 @@ Sony - PlayStation|2024-07-09|11585|11|3 TB|psx|551 GB
 VM Labs - NUON|2023-10-27|8|2|5 GB|nuon|5 GB
 **VTech - V.Flash & V.Smile Pro**|2024-03-01|50|0|8 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2024-02-02|16|0|50 GB||
-Total||74500|32724|57 TB||1 TB
+Total||74499|32724|57 TB||1 TB
