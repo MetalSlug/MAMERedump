@@ -4,7 +4,7 @@
 	<header>
 		<name>cdtv</name>
 		<description>cdtv</description>
-		<version>0.266</version>
+		<version>0.267</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -79,10 +79,10 @@
 		<description>advmisys\advanced military systems (europe)</description>
 		<rom name="advanced military systems (europe) (Track 01).bin" size="551607504" crc="8c6fb38b" md5="753f2ca1e417ae15fa9180a85c0534fc" sha1="2e8942920ef41040198a8b59cd87061f51fd1b5f"/>
 	</game>
-	<game name="advmisys\advanced_military_systems" type="cd" sha1="50f6a5d7c7c323d0487b12fdbd45a089a8e372f1" size="459884712" crc="bf3faaa7" fullsha1="4b362db61f9bb8e8b78b09303c0b41c6e7338bdd" dataSha1="a20be97b9c82ca14484365b932364b301f185f70">
+	<game name="advmisys\advanced_military_systems" type="cd" sha1="fcfc8e8d424116776c121aac5d078722f06c3be2" size="351311666" crc="9b8a3772" fullsha1="5de21a4c86ece16bd5b37b803530287072998c8f" dataSha1="4e7a50227d411c6c595d7f775bc175fdbd906af6">
 		<category>Games</category>
 		<description>advmisys\advanced_military_systems</description>
-		<rom name="advanced_military_systems (Track 01).bin" size="574122096" crc="1fb2e679" md5="4c316633236085b0462edeac4067ce28" sha1="4d16210102332823c5375843607a96b73d90efeb"/>
+		<rom name="advanced_military_systems (Track 01).bin" size="551607504" crc="1fb2e679" md5="4c316633236085b0462edeac4067ce28" sha1="4d16210102332823c5375843607a96b73d90efeb"/>
 	</game>
 	<game name="amerdict\american heritage - illustrated encyclopedic dictionary - 1991a edition (usa)" type="cd" sha1="39c91231f023ce0042257bd0bb3d58cb1556e144" size="367152145" crc="055d1a4b" fullsha1="92ee48480e671c9cc9e4238a9a1170874df2dfd3" dataSha1="9237b707f2340d12f33e69ad140898f4c7a1d209">
 		<category>Games</category>
@@ -309,15 +309,15 @@
 		<description>cautcond\case of the cautious condor, the (1990)(tiger media)</description>
 		<rom name="case of the cautious condor, the (1990)(tiger media) (Track 01).bin" size="133402624" crc="d9ebebd2" md5="57cbf11375e26e7cce7c98f79a27240e" sha1="d6548cc46727116b08256019b652b74d16c1f6db"/>
 	</game>
-	<game name="cdremix2\cd remix version ii (1991)(microdeal)" type="cd" sha1="0df011d439e45b59b4b1f72e64fc8bf6bd00a24f" size="9461421" crc="dbc88559" fullsha1="cc625b863c8e60c1870f3ccd0b6b7e4eab43f242" dataSha1="b944caebb47e8f0004098d6b6b63b55ca62bdcfc">
+	<game name="cdremix2\cd remix version ii (1991)(microdeal)" type="cd" sha1="54c1a26aec09f5977905db31a2ccd0031e765d03" size="9512534" crc="41095b7d" fullsha1="cc625b863c8e60c1870f3ccd0b6b7e4eab43f242" dataSha1="b944caebb47e8f0004098d6b6b63b55ca62bdcfc">
 		<category>Games</category>
 		<description>cdremix2\cd remix version ii (1991)(microdeal)</description>
 		<rom name="cd remix version ii (1991)(microdeal) (Track 01).bin" size="60364800" crc="d45e03fa" md5="1f73907ad5a69503c2fcbf3740003761" sha1="e6be31d3ac8828913835611afe94f9f20e93cf20"/>
 	</game>
-	<game name="cdremix2\cdremix_ii" type="cd" sha1="be15caa981afef50ba20b88251447a93263f0882" size="16439428" crc="d4f641b5" fullsha1="f6f482ce6b53b5cb0fc3df0bbb447abea7d5a8ff" dataSha1="652729fddee9df0efbc962644ac18bcd6e61936a">
+	<game name="cdremix2\cdremix_ii" type="cd" sha1="6b36fd180be078ec0c691ae5bce07999073372b5" size="9995467" crc="388161ab" fullsha1="55cb5065a6e1b8065b2d78b4096bc9c17b7b08ae" dataSha1="f7eb951084d8d396468651c95ad792e2bb5373e2">
 		<category>Games</category>
 		<description>cdremix2\cdremix_ii</description>
-		<rom name="cdremix_ii (Track 01).bin" size="72154800" crc="58c17f48" md5="3501e3b570684d24f597e35ab3991bb8" sha1="09fee1c1ea55262b8e0b19f716ab2e59979f1195"/>
+		<rom name="cdremix_ii (Track 01).bin" size="69325200" crc="58c17f48" md5="3501e3b570684d24f597e35ab3991bb8" sha1="09fee1c1ea55262b8e0b19f716ab2e59979f1195"/>
 	</game>
 	<game name="cdremix\cd remix - the d.j. in a box (1991)(microdeal)" type="cd" sha1="96a34b6a9ea745022a7b785a8f0abc4525c25da5" size="5091001" crc="be6a3577" fullsha1="96ef9c8b676b0c3a56760c27a3be61689d0e1a07" dataSha1="8dc61db68074b0bccf1d66aaaa9d716f7110e9f5">
 		<category>Games</category>
@@ -349,7 +349,7 @@
 		<description>cdtvsale\cdtv interactive point of sale compact disc, the (1991)(commodore)(us)</description>
 		<rom name="cdtv interactive point of sale compact disc, the (1991)(commodore)(us) (Track 01).bin" size="103346176" crc="8d05aa84" md5="3920fa001bf257fb6267aa598477e877" sha1="7b91cdb625e22a6b61384f10486887a1d08b227c"/>
 	</game>
-	<game name="chaosand\chaos in andromeda - eyes of the eagle (1992)(on-line)[1122-094-0321]" type="cd" sha1="134c34c192bebd3104e210081268ba38fe3e8650" size="181041245" crc="30a84539" fullsha1="a16daf7f0fb59983246eb5a72353d5c2a016a176" dataSha1="7d1d66453216b72d6fa5c1d8da301b1f8d8ceb2b">
+	<game name="chaosand\chaos in andromeda - eyes of the eagle (1992)(on-line)[1122-094-0321]" type="cd" sha1="4c114214d16e3083f987f22a242e07eba15e2836" size="179868168" crc="b1e01ad1" fullsha1="a16daf7f0fb59983246eb5a72353d5c2a016a176" dataSha1="7d1d66453216b72d6fa5c1d8da301b1f8d8ceb2b">
 		<category>Games</category>
 		<description>chaosand\chaos in andromeda - eyes of the eagle (1992)(on-line)[1122-094-0321]</description>
 		<rom name="chaos in andromeda - eyes of the eagle (1992)(on-line)[1122-094-0321] (Track 01).bin" size="105308160" crc="fcef5996" md5="5b2244d70094c7789b3fc06cb3860f1f" sha1="b17f5ec30c6d437733ee869824efe26b54d7e8ea"/>
@@ -362,18 +362,18 @@
 		<rom name="chaos in andromeda - eyes of the eagle (1992)(on-line)[1122-094-0321] (Track 08).bin" size="44629200" crc="2d09df39" md5="c1d047b5ce2c915ce5ca3c0f26c63035" sha1="c1220a9f8f990e45d50c18b3963659d6faa81622"/>
 		<rom name="chaos in andromeda - eyes of the eagle (1992)(on-line)[1122-094-0321] (Track 09).bin" size="34221600" crc="4217e025" md5="d6b70c1f431fc3809759592bbabe7236" sha1="1d5c773374831cd2acdeef7aecb4b94cdb74cab0"/>
 	</game>
-	<game name="chaosand\chaos_in_andromeda" type="cd" sha1="d01a935cf569ed79293d19c6bc76eceab50a7c6c" size="307800840" crc="9bf31b6b" fullsha1="573b8b81c336e3a72460ccca226d3ec69993c90e" dataSha1="20944382ba0c0df23a048f57e0c3065e10c789e6">
+	<game name="chaosand\chaos_in_andromeda" type="cd" sha1="225b0e042b0a113145d4122730af0d549f184456" size="180745839" crc="9ea5f0d2" fullsha1="51255da50f66ae15ce9cd0537d6f22196411422c" dataSha1="5b2eb41f2102928cf885fc1f1d1cdafb2b191f27">
 		<category>Games</category>
 		<description>chaosand\chaos_in_andromeda</description>
-		<rom name="chaos_in_andromeda (Track 01).bin" size="125876160" crc="46f973dc" md5="a5cf181b393c948dc53a5147dbf885d0" sha1="571aac8ad1fd8753326fb998eb3376cc37ac82d1"/>
-		<rom name="chaos_in_andromeda (Track 02).bin" size="35985600" crc="43ddeef6" md5="bfa2d0c5d4bb1fedd889fae769d0bfbe" sha1="7ebc9a6390d7ccb27ca276eb26eb486197a7dab6"/>
-		<rom name="chaos_in_andromeda (Track 03).bin" size="45716400" crc="a95ab650" md5="9ace4a9d9ba9607b596eabc4bbd163a6" sha1="b3bc0f56de5e698b5ef31d358ce59f17a6d054cb"/>
-		<rom name="chaos_in_andromeda (Track 04).bin" size="33231600" crc="0ef77a9d" md5="a1b51a3349af606bc550b06cd233aa58" sha1="298ad19c145a785a40a82012cbdc79fce4f55fae"/>
-		<rom name="chaos_in_andromeda (Track 05).bin" size="36169200" crc="1ef9ede5" md5="232e8d37a60e522bb07797fa7aa74333" sha1="2c309533a09d276674e9a8856b45157125fd1c02"/>
-		<rom name="chaos_in_andromeda (Track 06).bin" size="39841200" crc="9ad4a11a" md5="1f5234e970692502c405742e0203e418" sha1="4b4e08e859dc19d7a39ac13f44dd1e6d6874a255"/>
-		<rom name="chaos_in_andromeda (Track 07).bin" size="24235200" crc="e46d21cf" md5="e58eeb048b7fa3a5b2de3cdffb304fc7" sha1="3cfaf038a3c6aa28932a0b65058246dfc289b339"/>
-		<rom name="chaos_in_andromeda (Track 08).bin" size="46450800" crc="e14d0735" md5="315f154fc7e0c353d4a7baebdd45346a" sha1="f0ad40068c39395e6849f4e5c8c6ef335cd68c85"/>
-		<rom name="chaos_in_andromeda (Track 09).bin" size="35618400" crc="5e9b6f94" md5="a28404f54873c5b9b45c9ee40b41bce3" sha1="e103064eb67e55ff6c1c932262eec8c915a3e549"/>
+		<rom name="chaos_in_andromeda (Track 01).bin" size="120939840" crc="46f973dc" md5="a5cf181b393c948dc53a5147dbf885d0" sha1="571aac8ad1fd8753326fb998eb3376cc37ac82d1"/>
+		<rom name="chaos_in_andromeda (Track 02).bin" size="34574400" crc="43ddeef6" md5="bfa2d0c5d4bb1fedd889fae769d0bfbe" sha1="7ebc9a6390d7ccb27ca276eb26eb486197a7dab6"/>
+		<rom name="chaos_in_andromeda (Track 03).bin" size="43923600" crc="a95ab650" md5="9ace4a9d9ba9607b596eabc4bbd163a6" sha1="b3bc0f56de5e698b5ef31d358ce59f17a6d054cb"/>
+		<rom name="chaos_in_andromeda (Track 04).bin" size="31928400" crc="0ef77a9d" md5="a1b51a3349af606bc550b06cd233aa58" sha1="298ad19c145a785a40a82012cbdc79fce4f55fae"/>
+		<rom name="chaos_in_andromeda (Track 05).bin" size="34750800" crc="1ef9ede5" md5="232e8d37a60e522bb07797fa7aa74333" sha1="2c309533a09d276674e9a8856b45157125fd1c02"/>
+		<rom name="chaos_in_andromeda (Track 06).bin" size="38278800" crc="9ad4a11a" md5="1f5234e970692502c405742e0203e418" sha1="4b4e08e859dc19d7a39ac13f44dd1e6d6874a255"/>
+		<rom name="chaos_in_andromeda (Track 07).bin" size="23284800" crc="e46d21cf" md5="e58eeb048b7fa3a5b2de3cdffb304fc7" sha1="3cfaf038a3c6aa28932a0b65058246dfc289b339"/>
+		<rom name="chaos_in_andromeda (Track 08).bin" size="44629200" crc="e14d0735" md5="315f154fc7e0c353d4a7baebdd45346a" sha1="f0ad40068c39395e6849f4e5c8c6ef335cd68c85"/>
+		<rom name="chaos_in_andromeda (Track 09).bin" size="34221600" crc="5e9b6f94" md5="a28404f54873c5b9b45c9ee40b41bce3" sha1="e103064eb67e55ff6c1c932262eec8c915a3e549"/>
 	</game>
 	<game name="cinderel\cinderella - the original fairy tale (usa) (en,fr,de,es,it)" type="cd" sha1="1714ede5f1f909b0d71e630b757bf56f3224c8bc" size="264335243" crc="f5db66e6" fullsha1="3c62af0cb40c98f54a935de70d4fe52f2fedd62c" dataSha1="509a655bbd77c57d449c46c59d22aa122757400f">
 		<category>Games</category>
@@ -407,15 +407,15 @@
 		<rom name="covergirlstrippoker (Track 12).bin" size="80104416" crc="9a7179df" md5="8ec707743e5c552927274a0382c94567" sha1="23ea35b509a039c2e209db4d209cb97ac9cad5b7"/>
 		<rom name="covergirlstrippoker (Track 13).bin" size="65420880" crc="863ad0e3" md5="a3c2d6d0810f9d1453c791dd2a5ae972" sha1="3f144d2156507b500de7f72d0c9b81c6851c4bed"/>
 	</game>
-	<game name="cubulus\cubulus &amp; magic serpent (1991)(software 2000)(de)(en)[compilation]" type="cd" sha1="75cd58a7e9480ffef787754c65b1d0a7d1535c6e" size="1656114" crc="3f4a3390" fullsha1="1451b1fc9f3a36208c5ed87d70469f810126d01f" dataSha1="fde7090c973235e7e7c4b1f55f1d31c2af0ac6a5">
+	<game name="cubulus\cubulus &amp; magic serpent (1991)(software 2000)(de)(en)[compilation]" type="cd" sha1="3ca152d5550a5b9a2f55af0056a9bd219ab40790" size="1659838" crc="36581562" fullsha1="1451b1fc9f3a36208c5ed87d70469f810126d01f" dataSha1="fde7090c973235e7e7c4b1f55f1d31c2af0ac6a5">
 		<category>Games</category>
 		<description>cubulus\cubulus &amp; magic serpent (1991)(software 2000)(de)(en)[compilation]</description>
 		<rom name="cubulus &amp; magic serpent (1991)(software 2000)(de)(en)[compilation] (Track 01).bin" size="10792960" crc="f428bd13" md5="425cfad302e7f316e1ff8353f0d548d2" sha1="6d3f765426f6e5a1c6202bac3bf4b45c71cbf3d0"/>
 	</game>
-	<game name="cubulus\cubulus_magic_serpent" type="cd" sha1="4683b3eb814a62df58fded11e7fd5ed2c9cba039" size="2805949" crc="1ecb6e4d" fullsha1="14dcce3ec0536d54d4832ff8acaf3805808b45e2" dataSha1="2be35674b90b906475d7cc324f0fbc814b8a5ba9">
+	<game name="cubulus\cubulus_magic_serpent" type="cd" sha1="159eb6a5b209944146f3d6e5f5d19b1343cf643b" size="1742621" crc="c01d8fbf" fullsha1="c9beba578c2a294485031fc0ea4b4870ab450efb" dataSha1="dc6d0cb5cb74a5dfc296ced4be3909a7436cbe7a">
 		<category>Games</category>
 		<description>cubulus\cubulus_magic_serpent</description>
-		<rom name="cubulus_magic_serpent (Track 01).bin" size="12900960" crc="ae3f7b51" md5="e8106c2433df932c4fe96bf1850a3734" sha1="e03c0e6c99e0e22f149a8c75affc94b2a3777344"/>
+		<rom name="cubulus_magic_serpent (Track 01).bin" size="12395040" crc="ae3f7b51" md5="e8106c2433df932c4fe96bf1850a3734" sha1="e03c0e6c99e0e22f149a8c75affc94b2a3777344"/>
 	</game>
 	<game name="cursera\curse of ra, the (germany)" type="cd" sha1="1414ee1e3cfec4a66998e91bb3aab5a56e882260" size="824875" crc="088b5aec" fullsha1="49bffe73647ca8eaf2381e80a5fda5ec746cda7f" dataSha1="100a45681223b7e3f2c3b2db0763d25dd5c612b6">
 		<category>Games</category>
@@ -912,10 +912,10 @@
 		<description>pandora\pandora's cd (europe)</description>
 		<rom name="pandora's cd (europe) (Track 01).bin" size="444351600" crc="af034f7f" md5="1cc8ca2a08fff2a6fba41945e5bb690f" sha1="a68fac9b872e436a0ea970b0dbcf347bc0a4a684"/>
 	</game>
-	<game name="pandora\pandoras_cd" type="cd" sha1="b263d0155df355af56e037714c557b88b2a7b203" size="371431966" crc="958e4511" fullsha1="1962d53ddf8aefa684fc5b74920432073ceb0699" dataSha1="d27417f4c4242ab82f74c2f8eb4bd310a83e136e">
+	<game name="pandora\pandoras_cd" type="cd" sha1="2148cb50f7c5641aefda859af460b20135432784" size="295725734" crc="9eb454fd" fullsha1="4a3b76e246bcc245053be1415ac26e7feab3c1aa" dataSha1="edab3115e246414cae759edc31fcf75f61fb882a">
 		<category>Games</category>
 		<description>pandora\pandoras_cd</description>
-		<rom name="pandoras_cd (Track 01).bin" size="462488400" crc="af034f7f" md5="1cc8ca2a08fff2a6fba41945e5bb690f" sha1="a68fac9b872e436a0ea970b0dbcf347bc0a4a684"/>
+		<rom name="pandoras_cd (Track 01).bin" size="444351600" crc="af034f7f" md5="1cc8ca2a08fff2a6fba41945e5bb690f" sha1="a68fac9b872e436a0ea970b0dbcf347bc0a4a684"/>
 	</game>
 	<game name="paperbag\paper bag princess, the (1992)(discis)(m5)[cdrm-734700 3]" type="cd" sha1="124908b6a04451eb79bcb1097785b0fd9ba91340" size="128942991" crc="b88f1493" fullsha1="8c6a7cb96f8edaf7aee912c131ed57caee37d6cd" dataSha1="089905dc6bf4b08f72da4b80f7f0575162952f83">
 		<category>Games</category>
@@ -977,15 +977,15 @@
 		<description>scarpoem\scary poems for rotten kids (1991)(discis)(en-es)</description>
 		<rom name="scary poems for rotten kids (1991)(discis)(en-es) (Track 01).bin" size="340111360" crc="d13bf73c" md5="4695696d2623a5948bac5a91dce81e90" sha1="d176f1fbe43acff6f6323af6b67056ddcff10817"/>
 	</game>
-	<game name="shiftrix\shiftrix &amp; lettrix (1991)(software 2000)(de)" type="cd" sha1="976c8739dec5e307e56619a319a15f23bcbb4932" size="1048687" crc="5994930e" fullsha1="dce97e3440cf678ad2a4fbd2fc4a927ca7989088" dataSha1="e9cc2345f07f965ea9d7fa4a469b82267c4210cc">
+	<game name="shiftrix\shiftrix &amp; lettrix (1991)(software 2000)(de)" type="cd" sha1="7c203fd25f49ac8a560c26911a611502d3e0f17f" size="1050865" crc="60a6eaa9" fullsha1="dce97e3440cf678ad2a4fbd2fc4a927ca7989088" dataSha1="e9cc2345f07f965ea9d7fa4a469b82267c4210cc">
 		<category>Games</category>
 		<description>shiftrix\shiftrix &amp; lettrix (1991)(software 2000)(de)</description>
 		<rom name="shiftrix &amp; lettrix (1991)(software 2000)(de) (Track 01).bin" size="3454976" crc="9ba6a1fe" md5="fe2a72fcd57c1607696895db63e299d6" sha1="b8d310b03a824e9a95230f41f0429abe06dc9ae2"/>
 	</game>
-	<game name="shiftrix\shiftrix_lettrix" type="cd" sha1="53a51728bc5873a618da8fdeb7d9e21d876470e3" size="1611185" crc="4a96b537" fullsha1="696acf15b0e9c30d95195db7c99029692978827d" dataSha1="82bdb4f99ca7cf59cc31489d728a830f92006a4e">
+	<game name="shiftrix\shiftrix_lettrix" type="cd" sha1="7a0b5d966b62eee7f6b868f72d6ac63bbd8bf9f5" size="1071525" crc="9f7e93b0" fullsha1="d4351b53df43ad0b26376d1c68a1e323b0b41f70" dataSha1="228ab34dbb15b8855feffcfa7412fb6b4a8f7b20">
 		<category>Games</category>
 		<description>shiftrix\shiftrix_lettrix</description>
-		<rom name="shiftrix_lettrix (Track 01).bin" size="4129776" crc="4d88c866" md5="3868f8240733024ba058f229f559dbcd" sha1="1373c2bda769434f5fe593f976ec8f9f332c63b5"/>
+		<rom name="shiftrix_lettrix (Track 01).bin" size="3967824" crc="4d88c866" md5="3868f8240733024ba058f229f559dbcd" sha1="1373c2bda769434f5fe593f976ec8f9f332c63b5"/>
 	</game>
 	<game name="simcity\simcity (europe) (en,fr,de,es,it)" type="cd" sha1="5b1dd2c578719a69ce411b92fed13ca436491140" size="129854747" crc="eecce536" fullsha1="9b500eac8c4272f4bc04c00e967dbd8ca857d777" dataSha1="4dee8ad4549f7462a005ea85f94d0a3ca3a49ab1">
 		<category>Games</category>
@@ -1113,19 +1113,19 @@
 		<rom name="tie break (1991)(starbyte) (Track 24).bin" size="27871200" crc="4602b712" md5="d235c69a751a29734ffcf70792c29bed" sha1="67a3474cb4b43e8df86a85520966c16a76264038"/>
 		<rom name="tie break (1991)(starbyte) (Track 25).bin" size="30517200" crc="f5ff5bcc" md5="90efc9e6857d2430650dad1f4191b8dd" sha1="a8b5b66328124266853a4e32fe52c5308d73962a"/>
 	</game>
-	<game name="townona\town with no name (1992)(on-line)(m6)[cdtv-towns]" type="cd" sha1="9f9e788de6bc90b93e18215ca975a37767f06da2" size="190118717" crc="bf48a578" fullsha1="ac3ffe88d88300277e4edf7aa217b54fa7a6c777" dataSha1="4dbf5ebd2a28f9c8a3b548b258d1a7879b9e4af8">
+	<game name="townona\town with no name (1992)(on-line)(m6)[cdtv-towns]" type="cd" sha1="2622aa2103234875d8e2994d7607e9b2fde64658" size="189979313" crc="254628d1" fullsha1="ac3ffe88d88300277e4edf7aa217b54fa7a6c777" dataSha1="4dbf5ebd2a28f9c8a3b548b258d1a7879b9e4af8">
 		<category>Games</category>
 		<description>townona\town with no name (1992)(on-line)(m6)[cdtv-towns]</description>
 		<rom name="town with no name (1992)(on-line)(m6)[cdtv-towns] (Track 01).bin" size="70410240" crc="495317f7" md5="4af1362684b878cd5f4e98820ed36d0e" sha1="bc948ae4474b14032c075b740e5275c032678de0"/>
 		<rom name="town with no name (1992)(on-line)(m6)[cdtv-towns] (Track 02).bin" size="207980304" crc="575a75c8" md5="9af41e9c240dce7fee13272d3e460f29" sha1="5b68734ce8ecef1389480c625c874ae2ea544d01"/>
 		<rom name="town with no name (1992)(on-line)(m6)[cdtv-towns] (Track 03).bin" size="164122560" crc="f2724c44" md5="11714effded891797f3d0864377f32e8" sha1="a161513eb023d4c83554781f56fb9caadef2589b"/>
 	</game>
-	<game name="townona\town_with_no_name" type="cd" sha1="1efe5d602358e45f7d86d0e0cc9d405039a018cd" size="344191790" crc="17f51d84" fullsha1="6591cde09a5a24dd3b4f22af98ee6727c1714861" dataSha1="7eaa2bb05bfa2691d78d233cef8c74c39dbdd6f8">
+	<game name="townona\town_with_no_name" type="cd" sha1="3d65733e677fd1b64f50d8b19309ca33f642201a" size="190721735" crc="e8b4cf67" fullsha1="f8d8eea099378afd61632eda85ce1d48b76d1111" dataSha1="da5d45e5c812b090e10f204da9e7700ab6c886be">
 		<category>Games</category>
 		<description>townona\town_with_no_name</description>
-		<rom name="town_with_no_name (Track 01).bin" size="84162240" crc="852599ca" md5="62acd41e28726b2f7a5cce3ebcc28e53" sha1="15126d771bafbe2f79868ca424c1471d8f8e9774"/>
-		<rom name="town_with_no_name (Track 02).bin" size="217717776" crc="0263ee3f" md5="eb23c6129e6b66433f6dd9db12ba03b7" sha1="23112eb4194fc6588e706a089f3eb27ddf8cc7c1"/>
-		<rom name="town_with_no_name (Track 03).bin" size="169572960" crc="bb63dc60" md5="46e46145fbb9c34e858dc8d48d8d53a3" sha1="7f7b89319dd428dafbc2f84da8114ef2edca60ee"/>
+		<rom name="town_with_no_name (Track 01).bin" size="80861760" crc="852599ca" md5="62acd41e28726b2f7a5cce3ebcc28e53" sha1="15126d771bafbe2f79868ca424c1471d8f8e9774"/>
+		<rom name="town_with_no_name (Track 02).bin" size="209179824" crc="0263ee3f" md5="eb23c6129e6b66433f6dd9db12ba03b7" sha1="23112eb4194fc6588e706a089f3eb27ddf8cc7c1"/>
+		<rom name="town_with_no_name (Track 03).bin" size="162923040" crc="bb63dc60" md5="46e46145fbb9c34e858dc8d48d8d53a3" sha1="7f7b89319dd428dafbc2f84da8114ef2edca60ee"/>
 	</game>
 	<game name="trivcdtv\trivial pursuit - the cdtv edition (europe) (disc 1)" type="cd" sha1="8386d8daedf799d047181847e5112f96a4e6553e" size="157591846" crc="87d5b4bf" fullsha1="adb6491aa448da224883c294d9a021d36425e91f" dataSha1="808a39c7eb02fa51e47bbd0fed32269f5b09dde9">
 		<category>Games</category>
