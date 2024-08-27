@@ -4,7 +4,7 @@
 	<header>
 		<name>cd32</name>
 		<description>cd32</description>
-		<version>0.266</version>
+		<version>0.267</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -75,10 +75,10 @@
 		<rom name="arcade pool (europe) (en,fr,de,it) (alt) (Track 06).bin" size="41075328" crc="068fdd39" md5="3801a4ad153bce1eaa4d7f55aee10b3d" sha1="d2aed59cd9fd1e78d9296d917045668936e6b129"/>
 		<rom name="arcade pool (europe) (en,fr,de,it) (alt) (Track 07).bin" size="34823712" crc="6fb6da38" md5="6078e9c844669ed7090d49514e24d23d" sha1="5daab340fc9e73758d38b23f6104b8fe707d277c"/>
 	</game>
-	<game name="atr\atr - all terrain racing (1995)(team 17)" type="cd" sha1="eb7281acca5b225000d66bac8e2e83dd7e05c9b2" size="1524298" crc="93c5a317" fullsha1="edefcd613796faea7e279b3729fd876243623171" dataSha1="be287d02a5e112bd8454a60e91a117d5b5e01d79">
+	<game name="atr\atr - all terrain racing (1995)(team 17)" type="" sha1="1024e13272084bd323a5502ea2dcdaff60890789" size="1175148" crc="25002fdd" fullsha1="5a914cac08e0c76b0f83d3e051d0877e8849d413" dataSha1="f5d6a058870d720eb4320cb32d9f0681e809d318">
 		<category>Games</category>
 		<description>atr\atr - all terrain racing (1995)(team 17)</description>
-		<rom name="atr - all terrain racing (1995)(team 17) (Track 01).bin" size="75569760" crc="a3d1c405" md5="d26d6071e593d97b8845738403eeea04" sha1="b291a233e3a0616fe7f749e1402260511a69564a"/>
+		<rom name="atr - all terrain racing (1995)(team 17) (Track 01).bin" size="72606240" crc="a3d1c405" md5="d26d6071e593d97b8845738403eeea04" sha1="b291a233e3a0616fe7f749e1402260511a69564a"/>
 	</game>
 	<game name="banshee\banshee (europe) (en,fr,de,da)" type="cd" sha1="d212c60db1aed57ddb87e05f1917293c327fe1fb" size="33311971" crc="55cb8483" fullsha1="f10de2115430176776215aef8b239dccb54e34ec" dataSha1="ac105b49e47d09fb5e9bbc35411d47661bb669f9">
 		<category>Games</category>
@@ -768,18 +768,18 @@
 		<description>gulp\gulp (europe) (en,fr,de,es,it)</description>
 		<rom name="gulp (europe) (en,fr,de,es,it) (Track 01).bin" size="3015264" crc="c7399af8" md5="e1626b2f2ca7d4b0a5e998a91e7fafed" sha1="add11aada08da3df35d30befc3181e4fed8629bc"/>
 	</game>
-	<game name="heimdall2\heimdall 2 - into the hall of worlds (1994)(core)" type="cd" sha1="9893f4f382ebb7cbc1ed27bda7bfe4ef74047b7a" size="115430779" crc="3d8dd9d4" fullsha1="5de73081c4278135362eb079a1f73053a50f86dc" dataSha1="ce8b5e9e42ebc464ba1cc22c85ed2d05c3fc5130">
+	<game name="heimdall2\heimdall 2 - into the hall of worlds (1994)(core)" type="" sha1="5dd9eb9222cac2b2e0e53b1bd3223e59d82ddbcf" size="113414661" crc="5fa6f2ad" fullsha1="45a59bdf869c8db08c8d08beda153cfb4b2cc3d3" dataSha1="a54201d666312adb5ffe83e578e8e9e7e1258052">
 		<category>Games</category>
 		<description>heimdall2\heimdall 2 - into the hall of worlds (1994)(core)</description>
-		<rom name="heimdall 2 - into the hall of worlds (1994)(core) (Track 01).bin" size="6925392" crc="8c3c2bb9" md5="faad0a3c795d8c7fdd8de40299ddbf27" sha1="2e1669414e8929f0a776cca5abf6047fb4c92d87"/>
-		<rom name="heimdall 2 - into the hall of worlds (1994)(core) (Track 02).bin" size="42125184" crc="be78b060" md5="114f18fef4d290366a885271f665663a" sha1="576cd6c31b3a79eb309187aae1140b75f985adc8"/>
-		<rom name="heimdall 2 - into the hall of worlds (1994)(core) (Track 03).bin" size="24264576" crc="21f92f1c" md5="a6fcea3caf0b38a6b72f81f208eac857" sha1="6bec4acc6538634db890eb63a392694a843eae44"/>
-		<rom name="heimdall 2 - into the hall of worlds (1994)(core) (Track 04).bin" size="39226752" crc="36267c43" md5="08ef11e526aa6980c07f3a78e1d24d9c" sha1="8592dcc744e2cbe98875588b10ea650c8dfd478e"/>
-		<rom name="heimdall 2 - into the hall of worlds (1994)(core) (Track 05).bin" size="36955008" crc="40f35dd2" md5="d1cef9e949af4c0c6e4669b68e2c8bd1" sha1="9b582bde2d24eda7aa71928833290010099711c0"/>
-		<rom name="heimdall 2 - into the hall of worlds (1994)(core) (Track 06).bin" size="33978240" crc="45a03536" md5="193848b18bd9c2552104edf6c24a92ed" sha1="c95a1af12510e181a80d09298ab8ec7ee21dcecf"/>
-		<rom name="heimdall 2 - into the hall of worlds (1994)(core) (Track 07).bin" size="37346688" crc="daa25b0c" md5="56ec185321f661b23732da923a5fb9d9" sha1="e6a877b71f7c6470bcb795b4ce1b23f375bf7385"/>
-		<rom name="heimdall 2 - into the hall of worlds (1994)(core) (Track 08).bin" size="33743232" crc="0d3e58db" md5="a0eefd0b0e9df585198a9742db8ba607" sha1="e497b296a41a513996c08fd2a46d0a6583f8a168"/>
-		<rom name="heimdall 2 - into the hall of worlds (1994)(core) (Track 09).bin" size="21522816" crc="909dac08" md5="1925d95943015f44c84361dfa73e6b3e" sha1="c96507be45ef0ac76f2230db34ca3334619e3236"/>
+		<rom name="heimdall 2 - into the hall of worlds (1994)(core) (Track 01).bin" size="6653808" crc="8c3c2bb9" md5="faad0a3c795d8c7fdd8de40299ddbf27" sha1="2e1669414e8929f0a776cca5abf6047fb4c92d87"/>
+		<rom name="heimdall 2 - into the hall of worlds (1994)(core) (Track 02).bin" size="40473216" crc="be78b060" md5="114f18fef4d290366a885271f665663a" sha1="576cd6c31b3a79eb309187aae1140b75f985adc8"/>
+		<rom name="heimdall 2 - into the hall of worlds (1994)(core) (Track 03).bin" size="23313024" crc="21f92f1c" md5="a6fcea3caf0b38a6b72f81f208eac857" sha1="6bec4acc6538634db890eb63a392694a843eae44"/>
+		<rom name="heimdall 2 - into the hall of worlds (1994)(core) (Track 04).bin" size="37688448" crc="36267c43" md5="08ef11e526aa6980c07f3a78e1d24d9c" sha1="8592dcc744e2cbe98875588b10ea650c8dfd478e"/>
+		<rom name="heimdall 2 - into the hall of worlds (1994)(core) (Track 05).bin" size="35505792" crc="40f35dd2" md5="d1cef9e949af4c0c6e4669b68e2c8bd1" sha1="9b582bde2d24eda7aa71928833290010099711c0"/>
+		<rom name="heimdall 2 - into the hall of worlds (1994)(core) (Track 06).bin" size="32645760" crc="45a03536" md5="193848b18bd9c2552104edf6c24a92ed" sha1="c95a1af12510e181a80d09298ab8ec7ee21dcecf"/>
+		<rom name="heimdall 2 - into the hall of worlds (1994)(core) (Track 07).bin" size="35882112" crc="daa25b0c" md5="56ec185321f661b23732da923a5fb9d9" sha1="e6a877b71f7c6470bcb795b4ce1b23f375bf7385"/>
+		<rom name="heimdall 2 - into the hall of worlds (1994)(core) (Track 08).bin" size="32419968" crc="0d3e58db" md5="a0eefd0b0e9df585198a9742db8ba607" sha1="e497b296a41a513996c08fd2a46d0a6583f8a168"/>
+		<rom name="heimdall 2 - into the hall of worlds (1994)(core) (Track 09).bin" size="20678784" crc="909dac08" md5="1925d95943015f44c84361dfa73e6b3e" sha1="c96507be45ef0ac76f2230db34ca3334619e3236"/>
 	</game>
 	<game name="ikplus\international karate plus (europe)" type="cd" sha1="2ad38a3927a26859789c08a9e02656d7a1f90f39" size="184257" crc="dbe68282" fullsha1="6f69a642e1f4104bbe7d1f66353473752c14e64c" dataSha1="404371ae40539a85a45913b9f8b48a47551030b5">
 		<category>Games</category>
@@ -791,24 +791,24 @@
 		<description>jambala\seven gates of jambala, the (europe)</description>
 		<rom name="seven gates of jambala, the (europe) (Track 01).bin" size="1434720" crc="30beb608" md5="8f38989569bc0971e13412898b388f9b" sha1="835088d80efd7e7f19d4cc276a4bee1e93b5791c"/>
 	</game>
-	<game name="jetstrike\jetstrike (1994)(rasputin)" type="cd" sha1="baa8d89f2c43b0576b2d4f69458a3d3522d84976" size="242177740" crc="6de69faa" fullsha1="54876d6371e67338e902986adf58452d97724d01" dataSha1="6c6e8b3d5dc1d83b7c7a313c6b7de36b990f07a1">
+	<game name="jetstrike\jetstrike (1994)(rasputin)" type="" sha1="29acb758f08986cd4e5f7db515886d4500f0e3bb" size="239670721" crc="1596024c" fullsha1="e4f36c04c889eb23c746c8442ec355675183416a" dataSha1="398b06b89209dcadf0c0f32977576789da4e2dbd">
 		<category>Games</category>
 		<description>jetstrike\jetstrike (1994)(rasputin)</description>
-		<rom name="jetstrike (1994)(rasputin) (Track 01).bin" size="9275472" crc="e41cacc5" md5="0573263a771ce186a849d3dcbe3d2a81" sha1="c94d877b1e13d667072a4404364bcf5ebcda1faa"/>
-		<rom name="jetstrike (1994)(rasputin) (Track 02).bin" size="64685952" crc="664e6383" md5="6cb145180a5ed17eba981fb4b79ae7ad" sha1="3fa4f31470d13596ed1c2eaea76fb3860332ceb2"/>
-		<rom name="jetstrike (1994)(rasputin) (Track 03).bin" size="53875584" crc="3a35f0a5" md5="89541e271ba7ace07a0dcb5ca853c84f" sha1="3ef5d3c9763a98f473c0505a906ec651ac976c6e"/>
-		<rom name="jetstrike (1994)(rasputin) (Track 04).bin" size="34918272" crc="8101aa4d" md5="abc26d840a02567b4b0031dfd61cd79a" sha1="e2841c1e0467d366add88074428f932adb21a89a"/>
-		<rom name="jetstrike (1994)(rasputin) (Track 05).bin" size="30688128" crc="c572a3e6" md5="6cfbe94ad3fdc854b71feeaf962a5094" sha1="01ab8249e0c27eef23f0885ba88f7be0b135537b"/>
-		<rom name="jetstrike (1994)(rasputin) (Track 06).bin" size="62805888" crc="5312f223" md5="da9ee02f90fa969b40e2b9de22ea9100" sha1="f613b13be61edfb92ee231775c227bbf572a83dd"/>
-		<rom name="jetstrike (1994)(rasputin) (Track 07).bin" size="5542272" crc="19ddcc8c" md5="88610c315509e791ef3b36d0b0f47758" sha1="a6513fb530bed6465ad006b1d4be996d72a30862"/>
-		<rom name="jetstrike (1994)(rasputin) (Track 08).bin" size="5542272" crc="a54a4d2c" md5="3f6e691d1d4974ff0e742b5b929fc2f7" sha1="add669b548a7b79a12bb9df932dbab2631a35650"/>
-		<rom name="jetstrike (1994)(rasputin) (Track 09).bin" size="5542272" crc="d4cc8f78" md5="35faa59e938ced43d7047d6431f26436" sha1="96b6edfb8ca664892a286405cb95fa114deb5faf"/>
-		<rom name="jetstrike (1994)(rasputin) (Track 10).bin" size="5542272" crc="8fce6729" md5="e67d79216675dfff9820ed858400d9c2" sha1="986426eb92c01742a5daac0b3dacfb1f85ca8ae4"/>
-		<rom name="jetstrike (1994)(rasputin) (Track 11).bin" size="5542272" crc="cbc414a8" md5="19dc1636b35b4465304f8fcdc0b0574e" sha1="88223a8d8233859140773a01e7394733853d75db"/>
-		<rom name="jetstrike (1994)(rasputin) (Track 12).bin" size="5542272" crc="3c293db0" md5="269238c6252cfa3cb92604490ffbb4c5" sha1="12955c35a6100278f8ce4df89f8ac89224fccc24"/>
-		<rom name="jetstrike (1994)(rasputin) (Track 13).bin" size="5542272" crc="2f95c1e7" md5="a6ac54b3e255341060aad5b6c346698f" sha1="9143e23be5d05b7a66f1a92ed63fd29a697bd538"/>
-		<rom name="jetstrike (1994)(rasputin) (Track 14).bin" size="49253760" crc="c35c8d2f" md5="e4592f142a3f3098df9276ee15ab1f0b" sha1="b8325454b8acac5e7d07c42d6bf46c3f85720fb8"/>
-		<rom name="jetstrike (1994)(rasputin) (Track 15).bin" size="60455808" crc="5f3be5d4" md5="445d7eb6335c494421eda71e6c7afac2" sha1="f35dad8d522c104af2a53ee9280bcde419d15e81"/>
+		<rom name="jetstrike (1994)(rasputin) (Track 01).bin" size="8911728" crc="e41cacc5" md5="0573263a771ce186a849d3dcbe3d2a81" sha1="c94d877b1e13d667072a4404364bcf5ebcda1faa"/>
+		<rom name="jetstrike (1994)(rasputin) (Track 02).bin" size="62149248" crc="664e6383" md5="6cb145180a5ed17eba981fb4b79ae7ad" sha1="3fa4f31470d13596ed1c2eaea76fb3860332ceb2"/>
+		<rom name="jetstrike (1994)(rasputin) (Track 03).bin" size="51762816" crc="3a35f0a5" md5="89541e271ba7ace07a0dcb5ca853c84f" sha1="3ef5d3c9763a98f473c0505a906ec651ac976c6e"/>
+		<rom name="jetstrike (1994)(rasputin) (Track 04).bin" size="33548928" crc="8101aa4d" md5="abc26d840a02567b4b0031dfd61cd79a" sha1="e2841c1e0467d366add88074428f932adb21a89a"/>
+		<rom name="jetstrike (1994)(rasputin) (Track 05).bin" size="29484672" crc="c572a3e6" md5="6cfbe94ad3fdc854b71feeaf962a5094" sha1="01ab8249e0c27eef23f0885ba88f7be0b135537b"/>
+		<rom name="jetstrike (1994)(rasputin) (Track 06).bin" size="60342912" crc="5312f223" md5="da9ee02f90fa969b40e2b9de22ea9100" sha1="f613b13be61edfb92ee231775c227bbf572a83dd"/>
+		<rom name="jetstrike (1994)(rasputin) (Track 07).bin" size="5324928" crc="19ddcc8c" md5="88610c315509e791ef3b36d0b0f47758" sha1="a6513fb530bed6465ad006b1d4be996d72a30862"/>
+		<rom name="jetstrike (1994)(rasputin) (Track 08).bin" size="5324928" crc="a54a4d2c" md5="3f6e691d1d4974ff0e742b5b929fc2f7" sha1="add669b548a7b79a12bb9df932dbab2631a35650"/>
+		<rom name="jetstrike (1994)(rasputin) (Track 09).bin" size="5324928" crc="d4cc8f78" md5="35faa59e938ced43d7047d6431f26436" sha1="96b6edfb8ca664892a286405cb95fa114deb5faf"/>
+		<rom name="jetstrike (1994)(rasputin) (Track 10).bin" size="5324928" crc="8fce6729" md5="e67d79216675dfff9820ed858400d9c2" sha1="986426eb92c01742a5daac0b3dacfb1f85ca8ae4"/>
+		<rom name="jetstrike (1994)(rasputin) (Track 11).bin" size="5324928" crc="cbc414a8" md5="19dc1636b35b4465304f8fcdc0b0574e" sha1="88223a8d8233859140773a01e7394733853d75db"/>
+		<rom name="jetstrike (1994)(rasputin) (Track 12).bin" size="5324928" crc="3c293db0" md5="269238c6252cfa3cb92604490ffbb4c5" sha1="12955c35a6100278f8ce4df89f8ac89224fccc24"/>
+		<rom name="jetstrike (1994)(rasputin) (Track 13).bin" size="5324928" crc="2f95c1e7" md5="a6ac54b3e255341060aad5b6c346698f" sha1="9143e23be5d05b7a66f1a92ed63fd29a697bd538"/>
+		<rom name="jetstrike (1994)(rasputin) (Track 14).bin" size="47322240" crc="c35c8d2f" md5="e4592f142a3f3098df9276ee15ab1f0b" sha1="b8325454b8acac5e7d07c42d6bf46c3f85720fb8"/>
+		<rom name="jetstrike (1994)(rasputin) (Track 15).bin" size="58084992" crc="5f3be5d4" md5="445d7eb6335c494421eda71e6c7afac2" sha1="f35dad8d522c104af2a53ee9280bcde419d15e81"/>
 	</game>
 	<game name="kidchaos\kid chaos (europe)" type="cd" sha1="8d03e78ef5db846907a83a8ff0b1fd4a07b34aad" size="312798892" crc="ccc74faa" fullsha1="5c0345d317f19501fe0ecb3c1df54a3b7a7cde31" dataSha1="c40cf269636612b759f3fdfc91b51d32944e681c">
 		<category>Games</category>
@@ -887,11 +887,11 @@
 		<rom name="super methane bros. (europe) (Track 11).bin" size="36935808" crc="9917e86f" md5="a70e45e759c2cf0dcb5e323e9f5be46d" sha1="a801f2a602ddb60cacde666086dab431634fc42f"/>
 		<rom name="super methane bros. (europe) (Track 12).bin" size="28430976" crc="5f2121f8" md5="7fcc8977ebf944683cd27693af25cb60" sha1="4289fc2e02b0f6d6f46c087c4dc2aba414546719"/>
 	</game>
-	<game name="microcosm\microcosm (1994)(psygnosis)" type="cd" sha1="808bae21297b0e64f804d33b521c91c4f640dd26" size="363100539" crc="30ec63de" fullsha1="4151e7109a476bb3bdebedb5989fdf7fc2030038" dataSha1="517950732687987883f581a0ae0a58aeb5255637">
+	<game name="microcosm\microcosm (1994)(psygnosis)" type="" sha1="b647e9e82f9a6cdb96ebbd3b8757b864023fc6c9" size="362034900" crc="b1ab3c1b" fullsha1="a3dd34c5d8056495228661e4508a9ec68481fda0" dataSha1="6fd36a55a1b49e0ccfddfbb7ab6c7332dd180000">
 		<category>Games</category>
 		<description>microcosm\microcosm (1994)(psygnosis)</description>
-		<rom name="microcosm (1994)(psygnosis) (Track 01).bin" size="626142096" crc="0ead76d4" md5="05096d5d2a29bb4a4535e0be72806053" sha1="ec59d29e2675bbe90040b5e75bb3bd4b2c6fae85"/>
-		<rom name="microcosm (1994)(psygnosis) (Track 02).bin" size="37270800" crc="80840351" md5="a4ffbc88543d98f4a946866eb7ca15ae" sha1="0ba831513011c2001dc87db0673df78bc39762a9"/>
+		<rom name="microcosm (1994)(psygnosis) (Track 01).bin" size="601587504" crc="0ead76d4" md5="05096d5d2a29bb4a4535e0be72806053" sha1="ec59d29e2675bbe90040b5e75bb3bd4b2c6fae85"/>
+		<rom name="microcosm (1994)(psygnosis) (Track 02).bin" size="35809200" crc="80840351" md5="a4ffbc88543d98f4a946866eb7ca15ae" sha1="0ba831513011c2001dc87db0673df78bc39762a9"/>
 	</game>
 	<game name="morph\morph (1993)(millennium)" type="cd" sha1="939260f5a83823101ca37e5c08f2880dd27a1860" size="1035900" crc="f260ab1e" fullsha1="99bbf71260015c5ad13681acec81289c1b30bdeb" dataSha1="2907b8b8a57efe012443549cadc41a7f87abe11f">
 		<category>Games</category>
@@ -978,10 +978,10 @@
 		<description>prey\prey - an alien encounter (europe)</description>
 		<rom name="prey - an alien encounter (europe) (Track 01).bin" size="140619024" crc="ee30d12d" md5="451e3a8daa04c6720dafaae6abb0f9f4" sha1="738429253e1cc424a819b18b3a46ce461367a049"/>
 	</game>
-	<game name="projxf17\project-x and f17 challenge (1994)(team 17)" type="cd" sha1="a9ccf0389d735ccb219ca334b3b0c1f3263565ab" size="4555207" crc="e010e80f" fullsha1="9c0010cc8b648b8d929dadb266d1f6464b1ef14d" dataSha1="d1b4746b66e9c743571c29e41c1bc732406486b7">
+	<game name="projxf17\project-x and f17 challenge (1994)(team 17)" type="" sha1="7366fc511ef295b4c9827f56224cd541aa9f69e2" size="4514315" crc="d76fe56b" fullsha1="303f34edf2455a524588ad5b822b229f4455e153" dataSha1="d064d90a1af95588e25ef3997ebb279d0b4b7430">
 		<category>Games</category>
 		<description>projxf17\project-x and f17 challenge (1994)(team 17)</description>
-		<rom name="project-x and f17 challenge (1994)(team 17) (Track 01).bin" size="11997648" crc="06da7292" md5="db8ae9fa15e209e853b2f4a37ec2cfe0" sha1="b3db04b8075e7212fac8767387d3e4522c0158b4"/>
+		<rom name="project-x and f17 challenge (1994)(team 17) (Track 01).bin" size="11527152" crc="06da7292" md5="db8ae9fa15e209e853b2f4a37ec2cfe0" sha1="b3db04b8075e7212fac8767387d3e4522c0158b4"/>
 	</game>
 	<game name="projxubb\project-x and ultimate body blows (europe)" type="cd" sha1="03f79c36928ce2a47cae8ed17b7959b3db5029a1" size="123037402" crc="5bcc53fd" fullsha1="cb944c9b2ca7e6c877a9a16029d82b71c57b52b1" dataSha1="25260f3b21103368752108ad40e3df639a2dbf0d">
 		<category>Games</category>
@@ -1250,33 +1250,33 @@
 		<description>ufo\ufo - enemy unknown (europe) (en,fr,de)</description>
 		<rom name="ufo - enemy unknown (europe) (en,fr,de) (Track 01).bin" size="7150080" crc="2174d728" md5="54dd3093536e0e738b7c766e45ccc40a" sha1="414bcd71e31df3506cdadd827ea505dd739983a7"/>
 	</game>
-	<game name="universe\universe (1994)(core)" type="cd" sha1="50644e420c9aa7a1cfac63d25e3df2445c491921" size="186273979" crc="c44393ec" fullsha1="bf6dbeab33ea5bb977649a4ce0a9bf3718ca4417" dataSha1="09f8fd78505c776179fb10059c37ba33a7f4a141">
+	<game name="universe\universe (1994)(core)" type="" sha1="a3d0946c7470155a6f14be6a24ee42c7e1e8959e" size="182035331" crc="02be858c" fullsha1="3e5298465903698528d1b004d279e679decf2272" dataSha1="1425fe942f7290e56b9fab20e14c8ccbde242906">
 		<category>Games</category>
 		<description>universe\universe (1994)(core)</description>
-		<rom name="universe (1994)(core) (Track 01).bin" size="6142032" crc="d1ed6e97" md5="5cded62d8e9213ce5a0c050c3bc0f019" sha1="7924183868ee2da6ed1eec4346c20cdb12512d24"/>
-		<rom name="universe (1994)(core) (Track 02).bin" size="27946368" crc="fb032145" md5="e1d19d20e688803033e86ec50619274a" sha1="d9a326e9596505a687855fe91b88f74271a1f51d"/>
-		<rom name="universe (1994)(core) (Track 03).bin" size="26849664" crc="7204a212" md5="7a5cee03d13d5cf08db1e05189255bb1" sha1="6cd374fe0e4e09a5d7485a67010e6179bc31828c"/>
-		<rom name="universe (1994)(core) (Track 04).bin" size="26692992" crc="3bedb36a" md5="1ebc0780edddcdc17c60d4fc37376301" sha1="7f416f920c814a34026618f719b325e29eb10565"/>
-		<rom name="universe (1994)(core) (Track 05).bin" size="26692992" crc="33ae6b92" md5="7898c44a95167fcf3528358d09dc98fc" sha1="dd34366fb3603703c9ba894257ccbbe33be57412"/>
-		<rom name="universe (1994)(core) (Track 06).bin" size="16900992" crc="6fbe071b" md5="297cf1af6ac86bd257b6a16018754e48" sha1="4f3309b192ea575855cde0ee2f3da4506029b237"/>
-		<rom name="universe (1994)(core) (Track 07).bin" size="15804288" crc="17d07c4d" md5="5a7c945f5802c7c40e74b7aacc670ef8" sha1="2c78f56452dcbda30335c0f2588fe2cb675af72a"/>
-		<rom name="universe (1994)(core) (Track 08).bin" size="17292672" crc="6c32415a" md5="f40ec2a11683c0373ed679ddd19f1bf2" sha1="b5c278b281918d2489477c9e8a45050757fec4f1"/>
-		<rom name="universe (1994)(core) (Track 09).bin" size="5777280" crc="eb6e4de9" md5="ef949d1e1ea2a4d91b829d47550671ad" sha1="d108d340aab1140c6333db8993d414c2526ddb90"/>
-		<rom name="universe (1994)(core) (Track 10).bin" size="3505536" crc="d36b4c16" md5="a0cbdf4ca8f31466aca64716f6e464a4" sha1="f7a175a0cbe460cd85d40f8ec96dd563b619ced0"/>
-		<rom name="universe (1994)(core) (Track 11).bin" size="26692992" crc="d611dd35" md5="ef8686a54850910d8949dbdec8a8dbbb" sha1="3ce8730112784e85dcc479d2f89108be529316c9"/>
-		<rom name="universe (1994)(core) (Track 12).bin" size="28494720" crc="58c5756a" md5="d4d98d8fa8d79b7e975f7e9f42732bb6" sha1="c1fdf0e2d2cb37fb4ec347804ededc1226e666ce"/>
-		<rom name="universe (1994)(core) (Track 13).bin" size="25361280" crc="d69fec7b" md5="4a6ba865cf8c0d9492bbfe6117461bd4" sha1="08f573e2c4e1a8c196a1f8531c0290abcfa60b60"/>
-		<rom name="universe (1994)(core) (Track 14).bin" size="28338048" crc="f4a479a0" md5="458d687ef5b08b3fb15788e6f544518e" sha1="73d9428c681ac0833941998cee3e9bfd980c3be1"/>
-		<rom name="universe (1994)(core) (Track 15).bin" size="10712448" crc="c8279776" md5="6e4c25db4889fce78c22bc14a0579bcc" sha1="0791bcc077d0c8490156f5913e0aa8b829a7fcc2"/>
-		<rom name="universe (1994)(core) (Track 16).bin" size="27006336" crc="57d25c35" md5="ed01c8f572e206abc59f76cc9943c863" sha1="f7fa0b54bf14d52e354b685310d0c16126ecc468"/>
-		<rom name="universe (1994)(core) (Track 17).bin" size="33978240" crc="47582989" md5="d3a8abcafe238a9f12837b90c35b549e" sha1="b99939bd3ea2cdc08771dfa69a10bc3630d85d7c"/>
-		<rom name="universe (1994)(core) (Track 18).bin" size="26144640" crc="d73d05b4" md5="7248bf1622e75162ace587b8e0298f12" sha1="7ed323e99671bb733a20587acdee399424cd7338"/>
-		<rom name="universe (1994)(core) (Track 19).bin" size="26692992" crc="b11bf7b7" md5="042ba4638eeb2f715543a0c89ca41451" sha1="5d8b1eed9a48edc21f592ef80696e1c1b33d2474"/>
-		<rom name="universe (1994)(core) (Track 20).bin" size="28494720" crc="4bf87a3e" md5="c31b13f9c4eb422fd1bad911c5460aa6" sha1="e5eaa5bc927fd2e6ddd01742b34f0acae639e075"/>
-		<rom name="universe (1994)(core) (Track 21).bin" size="2408832" crc="1b3acef7" md5="84c40655dcfe7153353593289d4dfef3" sha1="0b5c98246d4e561048478818cac299a79f8f77e0"/>
-		<rom name="universe (1994)(core) (Track 22).bin" size="2800512" crc="03e9fe67" md5="f6caa4564a3712d8479055ad48fe116a" sha1="e4c1f2569e4d6daee364eb6ae1c24ffef3ea6f89"/>
-		<rom name="universe (1994)(core) (Track 23).bin" size="10869120" crc="82ca6ad0" md5="5bdeefa60367ace7ed6f9c1add06c8a5" sha1="eb80269d0da14a076455ee144fe3f36109866f05"/>
-		<rom name="universe (1994)(core) (Track 24).bin" size="2071008" crc="cc46b529" md5="395d4582648fe191642f49e163e70e2d" sha1="69040d7fbcc75301156edacc0d3401dac16a55d3"/>
+		<rom name="universe (1994)(core) (Track 01).bin" size="5901168" crc="d1ed6e97" md5="5cded62d8e9213ce5a0c050c3bc0f019" sha1="7924183868ee2da6ed1eec4346c20cdb12512d24"/>
+		<rom name="universe (1994)(core) (Track 02).bin" size="26850432" crc="fb032145" md5="e1d19d20e688803033e86ec50619274a" sha1="d9a326e9596505a687855fe91b88f74271a1f51d"/>
+		<rom name="universe (1994)(core) (Track 03).bin" size="25796736" crc="7204a212" md5="7a5cee03d13d5cf08db1e05189255bb1" sha1="6cd374fe0e4e09a5d7485a67010e6179bc31828c"/>
+		<rom name="universe (1994)(core) (Track 04).bin" size="25646208" crc="3bedb36a" md5="1ebc0780edddcdc17c60d4fc37376301" sha1="7f416f920c814a34026618f719b325e29eb10565"/>
+		<rom name="universe (1994)(core) (Track 05).bin" size="25646208" crc="33ae6b92" md5="7898c44a95167fcf3528358d09dc98fc" sha1="dd34366fb3603703c9ba894257ccbbe33be57412"/>
+		<rom name="universe (1994)(core) (Track 06).bin" size="16238208" crc="6fbe071b" md5="297cf1af6ac86bd257b6a16018754e48" sha1="4f3309b192ea575855cde0ee2f3da4506029b237"/>
+		<rom name="universe (1994)(core) (Track 07).bin" size="15184512" crc="17d07c4d" md5="5a7c945f5802c7c40e74b7aacc670ef8" sha1="2c78f56452dcbda30335c0f2588fe2cb675af72a"/>
+		<rom name="universe (1994)(core) (Track 08).bin" size="16614528" crc="6c32415a" md5="f40ec2a11683c0373ed679ddd19f1bf2" sha1="b5c278b281918d2489477c9e8a45050757fec4f1"/>
+		<rom name="universe (1994)(core) (Track 09).bin" size="5550720" crc="eb6e4de9" md5="ef949d1e1ea2a4d91b829d47550671ad" sha1="d108d340aab1140c6333db8993d414c2526ddb90"/>
+		<rom name="universe (1994)(core) (Track 10).bin" size="3368064" crc="d36b4c16" md5="a0cbdf4ca8f31466aca64716f6e464a4" sha1="f7a175a0cbe460cd85d40f8ec96dd563b619ced0"/>
+		<rom name="universe (1994)(core) (Track 11).bin" size="25646208" crc="d611dd35" md5="ef8686a54850910d8949dbdec8a8dbbb" sha1="3ce8730112784e85dcc479d2f89108be529316c9"/>
+		<rom name="universe (1994)(core) (Track 12).bin" size="27377280" crc="58c5756a" md5="d4d98d8fa8d79b7e975f7e9f42732bb6" sha1="c1fdf0e2d2cb37fb4ec347804ededc1226e666ce"/>
+		<rom name="universe (1994)(core) (Track 13).bin" size="24366720" crc="d69fec7b" md5="4a6ba865cf8c0d9492bbfe6117461bd4" sha1="08f573e2c4e1a8c196a1f8531c0290abcfa60b60"/>
+		<rom name="universe (1994)(core) (Track 14).bin" size="27226752" crc="f4a479a0" md5="458d687ef5b08b3fb15788e6f544518e" sha1="73d9428c681ac0833941998cee3e9bfd980c3be1"/>
+		<rom name="universe (1994)(core) (Track 15).bin" size="10292352" crc="c8279776" md5="6e4c25db4889fce78c22bc14a0579bcc" sha1="0791bcc077d0c8490156f5913e0aa8b829a7fcc2"/>
+		<rom name="universe (1994)(core) (Track 16).bin" size="25947264" crc="57d25c35" md5="ed01c8f572e206abc59f76cc9943c863" sha1="f7fa0b54bf14d52e354b685310d0c16126ecc468"/>
+		<rom name="universe (1994)(core) (Track 17).bin" size="32645760" crc="47582989" md5="d3a8abcafe238a9f12837b90c35b549e" sha1="b99939bd3ea2cdc08771dfa69a10bc3630d85d7c"/>
+		<rom name="universe (1994)(core) (Track 18).bin" size="25119360" crc="d73d05b4" md5="7248bf1622e75162ace587b8e0298f12" sha1="7ed323e99671bb733a20587acdee399424cd7338"/>
+		<rom name="universe (1994)(core) (Track 19).bin" size="25646208" crc="b11bf7b7" md5="042ba4638eeb2f715543a0c89ca41451" sha1="5d8b1eed9a48edc21f592ef80696e1c1b33d2474"/>
+		<rom name="universe (1994)(core) (Track 20).bin" size="27377280" crc="4bf87a3e" md5="c31b13f9c4eb422fd1bad911c5460aa6" sha1="e5eaa5bc927fd2e6ddd01742b34f0acae639e075"/>
+		<rom name="universe (1994)(core) (Track 21).bin" size="2314368" crc="1b3acef7" md5="84c40655dcfe7153353593289d4dfef3" sha1="0b5c98246d4e561048478818cac299a79f8f77e0"/>
+		<rom name="universe (1994)(core) (Track 22).bin" size="2690688" crc="03e9fe67" md5="f6caa4564a3712d8479055ad48fe116a" sha1="e4c1f2569e4d6daee364eb6ae1c24ffef3ea6f89"/>
+		<rom name="universe (1994)(core) (Track 23).bin" size="10442880" crc="82ca6ad0" md5="5bdeefa60367ace7ed6f9c1add06c8a5" sha1="eb80269d0da14a076455ee144fe3f36109866f05"/>
+		<rom name="universe (1994)(core) (Track 24).bin" size="1989792" crc="cc46b529" md5="395d4582648fe191642f49e163e70e2d" sha1="69040d7fbcc75301156edacc0d3401dac16a55d3"/>
 	</game>
 	<game name="vital\vital light (europe)" type="cd" sha1="305a0bc17de1560e51ed13d00a530d038650cdb7" size="2428631" crc="9d0d395d" fullsha1="552ad81da4c89b08dca3c5fef5f8d64b08bf23e4" dataSha1="b5f0eeae009d964937c72588c4fff2230cb33875">
 		<category>Games</category>

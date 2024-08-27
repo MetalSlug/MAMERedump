@@ -90,7 +90,7 @@ Arcade - Sega - RingEdge|2024-07-05|9|9|43 GB||
 **Bandai - Pippin**|2024-06-02|91|0|19 GB|pippin|4 GB
 Bandai - Playdia Quick Interactive System|2022-07-06|37|1|18 GB||
 Commodore - Amiga CD|2024-06-20|574|3|201 GB||
-**Commodore - Amiga CD32**|2024-05-06|234|0|27 GB|cd32|9 GB
+**Commodore - Amiga CD32**|2024-05-06|232|0|27 GB|cd32|9 GB
 **Commodore - Amiga CDTV**|2024-06-16|159|0|21 GB|cdtv|5 GB
 **Fujitsu - FM-Towns**|2024-05-23|958|0|141 GB|fmtowns_cd|132 GB
 funworld - Photo Play|2024-07-01|14|3|4 GB||4 GB
