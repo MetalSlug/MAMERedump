@@ -4,7 +4,7 @@
 	<header>
 		<name>ibm5170_cdrom</name>
 		<description>ibm5170_cdrom</description>
-		<version>0.266</version>
+		<version>0.267</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -2163,10 +2163,10 @@
 		<description>moondrg\moondrg</description>
 		<rom name="moondrg (Track 01).bin" size="711764592" crc="d2f1b51e" md5="0e1e69b4e50ed4b5d86c36afe623ac9e" sha1="937b7d500edc9fe849525458858bd42e93d88716"/>
 	</game>
-	<game name="muscan\mustek_scanner" type="cd" sha1="58626d03c5157c9ec16d431c22e39aa7cbabe678" size="227181611" crc="6c3019da" fullsha1="5f708270ed5885c07a49fadc79ab3ffed420af52" dataSha1="5e2fe7c763751f9e056a10866ae1ea33cce40f6b">
+	<game name="muscan\mustek_scanner" type="" sha1="65d457e8c04ab7729c656a8496a4e92997045b4b" size="225899734" crc="c897ac28" fullsha1="988875adc0e349a1e3c52335dc5da09a7fd56383" dataSha1="d613fb4579f3d288e92046643164ec2671bd3233">
 		<category>Games</category>
 		<description>muscan\mustek_scanner</description>
-		<rom name="mustek_scanner (Track 01).bin" size="275539536" crc="14f6af9f" md5="8019b25c9e1d74c7021631f94362eb3a" sha1="139836c924df6a809ba4856075e488de4b5ab2f2"/>
+		<rom name="mustek_scanner (Track 01).bin" size="264734064" crc="14f6af9f" md5="8019b25c9e1d74c7021631f94362eb3a" sha1="139836c924df6a809ba4856075e488de4b5ab2f2"/>
 	</game>
 	<game name="myst\myst" type="cd" sha1="b6aa4e044b6be38a7979947c73de189e8b399a4e" size="446678943" crc="89e98c15" fullsha1="de9e11e5b52753229d64a6940a9de866aaf26791" dataSha1="12cc84d448870ceb342eeee7a64bcca2c9049633">
 		<category>Games</category>
