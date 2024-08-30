@@ -3,7 +3,7 @@
 <datafile>
   <header>
     <name>Philips - CD-i</name>
-    <description>MAME Redump - Philips - CD-i - Discs (2075) (2024-07-09 23-46-27)</description>
+    <description>MAME Redump - Philips - CD-i - Discs (2225) (2024-08-21 10-56-58)</description>
     <version>0.267</version>
     <date>2024-03-22</date>
     <author>MAME Redump</author>
@@ -3389,10 +3389,50 @@
     <description>Engineering 6.0 (USA)</description>
     <disk name="Engineering 6.0 (USA).chd" sha1="fe9f49c01be5257ab98517bcdf7c8051de45f498" />
   </machine>
-  <machine name="English Interactive (Korea) (Disc 1) (Units 1-3)">
+  <machine name="English Interactive (Korea) (Disc 01) (Units 1-3)">
     <category>Educational</category>
-    <description>English Interactive (Korea) (Disc 1) (Units 1-3)</description>
-    <disk name="English Interactive (Korea) (Disc 1) (Units 1-3).chd" sha1="6179ae71e5fd5c47f7a8ccd4b5b3defb6581f125" />
+    <description>English Interactive (Korea) (Disc 01) (Units 1-3)</description>
+    <disk name="English Interactive (Korea) (Disc 01) (Units 1-3).chd" sha1="6179ae71e5fd5c47f7a8ccd4b5b3defb6581f125" />
+  </machine>
+  <machine name="English Interactive (Korea) (Disc 02) (Units 4-6)">
+    <category>Educational</category>
+    <description>English Interactive (Korea) (Disc 02) (Units 4-6)</description>
+    <disk name="English Interactive (Korea) (Disc 02) (Units 4-6).chd" sha1="51fa9f5520f13c1c791b3931459a121d2b22086a" />
+  </machine>
+  <machine name="English Interactive (Korea) (Disc 03) (Units 7-9)">
+    <category>Educational</category>
+    <description>English Interactive (Korea) (Disc 03) (Units 7-9)</description>
+    <disk name="English Interactive (Korea) (Disc 03) (Units 7-9).chd" sha1="7658d71eb7baca76efa75a271a9fca4d5f446582" />
+  </machine>
+  <machine name="English Interactive (Korea) (Disc 04) (Units 10-12)">
+    <category>Educational</category>
+    <description>English Interactive (Korea) (Disc 04) (Units 10-12)</description>
+    <disk name="English Interactive (Korea) (Disc 04) (Units 10-12).chd" sha1="2d03d8917f3c1513a7778cb0394a70b417ea3119" />
+  </machine>
+  <machine name="English Interactive (Korea) (Disc 05) (Units 13-15)">
+    <category>Educational</category>
+    <description>English Interactive (Korea) (Disc 05) (Units 13-15)</description>
+    <disk name="English Interactive (Korea) (Disc 05) (Units 13-15).chd" sha1="51a2e13560976c6770fafb09a0bb3d84c667eae1" />
+  </machine>
+  <machine name="English Interactive (Korea) (Disc 06) (Units 16-18)">
+    <category>Educational</category>
+    <description>English Interactive (Korea) (Disc 06) (Units 16-18)</description>
+    <disk name="English Interactive (Korea) (Disc 06) (Units 16-18).chd" sha1="ca3d30163319dd4ba26cbb739a7b1a11f5682b9f" />
+  </machine>
+  <machine name="English Interactive (Korea) (Disc 07) (Units 19-21)">
+    <category>Educational</category>
+    <description>English Interactive (Korea) (Disc 07) (Units 19-21)</description>
+    <disk name="English Interactive (Korea) (Disc 07) (Units 19-21).chd" sha1="d6f45313b16e09a067facb9b3d4d2575b3db8c16" />
+  </machine>
+  <machine name="English Interactive (Korea) (Disc 08) (Units 22-24)">
+    <category>Educational</category>
+    <description>English Interactive (Korea) (Disc 08) (Units 22-24)</description>
+    <disk name="English Interactive (Korea) (Disc 08) (Units 22-24).chd" sha1="0726fc71bb10ad76a1ff67a2436ed7e817f4724c" />
+  </machine>
+  <machine name="English Interactive (Korea) (Disc 09) (Units 25-27)">
+    <category>Educational</category>
+    <description>English Interactive (Korea) (Disc 09) (Units 25-27)</description>
+    <disk name="English Interactive (Korea) (Disc 09) (Units 25-27).chd" sha1="2a8970ce5d5482e6694e2b02f24b14fd36ccde8a" />
   </machine>
   <machine name="English Interactive (Korea) (Disc 10) (Units 28-30)">
     <category>Educational</category>
@@ -3444,11 +3484,6 @@
     <description>English Interactive (Korea) (Disc 19) (Units 55-57)</description>
     <disk name="English Interactive (Korea) (Disc 19) (Units 55-57).chd" sha1="33113ef5e314b88c8979c8c227467b37b2ec6477" />
   </machine>
-  <machine name="English Interactive (Korea) (Disc 2) (Units 4-6)">
-    <category>Educational</category>
-    <description>English Interactive (Korea) (Disc 2) (Units 4-6)</description>
-    <disk name="English Interactive (Korea) (Disc 2) (Units 4-6).chd" sha1="51fa9f5520f13c1c791b3931459a121d2b22086a" />
-  </machine>
   <machine name="English Interactive (Korea) (Disc 20) (Units 58-60)">
     <category>Educational</category>
     <description>English Interactive (Korea) (Disc 20) (Units 58-60)</description>
@@ -3468,41 +3503,6 @@
     <category>Educational</category>
     <description>English Interactive (Korea) (Disc 23) (Units 67-69)</description>
     <disk name="English Interactive (Korea) (Disc 23) (Units 67-69).chd" sha1="0bc04ee4547b315b1c14d35e63589d9f9d1a29b4" />
-  </machine>
-  <machine name="English Interactive (Korea) (Disc 3) (Units 7-9)">
-    <category>Educational</category>
-    <description>English Interactive (Korea) (Disc 3) (Units 7-9)</description>
-    <disk name="English Interactive (Korea) (Disc 3) (Units 7-9).chd" sha1="7658d71eb7baca76efa75a271a9fca4d5f446582" />
-  </machine>
-  <machine name="English Interactive (Korea) (Disc 4) (Units 10-12)">
-    <category>Educational</category>
-    <description>English Interactive (Korea) (Disc 4) (Units 10-12)</description>
-    <disk name="English Interactive (Korea) (Disc 4) (Units 10-12).chd" sha1="2d03d8917f3c1513a7778cb0394a70b417ea3119" />
-  </machine>
-  <machine name="English Interactive (Korea) (Disc 5) (Units 13-15)">
-    <category>Educational</category>
-    <description>English Interactive (Korea) (Disc 5) (Units 13-15)</description>
-    <disk name="English Interactive (Korea) (Disc 5) (Units 13-15).chd" sha1="51a2e13560976c6770fafb09a0bb3d84c667eae1" />
-  </machine>
-  <machine name="English Interactive (Korea) (Disc 6) (Units 16-18)">
-    <category>Educational</category>
-    <description>English Interactive (Korea) (Disc 6) (Units 16-18)</description>
-    <disk name="English Interactive (Korea) (Disc 6) (Units 16-18).chd" sha1="ca3d30163319dd4ba26cbb739a7b1a11f5682b9f" />
-  </machine>
-  <machine name="English Interactive (Korea) (Disc 7) (Units 19-21)">
-    <category>Educational</category>
-    <description>English Interactive (Korea) (Disc 7) (Units 19-21)</description>
-    <disk name="English Interactive (Korea) (Disc 7) (Units 19-21).chd" sha1="d6f45313b16e09a067facb9b3d4d2575b3db8c16" />
-  </machine>
-  <machine name="English Interactive (Korea) (Disc 8) (Units 22-24)">
-    <category>Educational</category>
-    <description>English Interactive (Korea) (Disc 8) (Units 22-24)</description>
-    <disk name="English Interactive (Korea) (Disc 8) (Units 22-24).chd" sha1="0726fc71bb10ad76a1ff67a2436ed7e817f4724c" />
-  </machine>
-  <machine name="English Interactive (Korea) (Disc 9) (Units 25-27)">
-    <category>Educational</category>
-    <description>English Interactive (Korea) (Disc 9) (Units 25-27)</description>
-    <disk name="English Interactive (Korea) (Disc 9) (Units 25-27).chd" sha1="2a8970ce5d5482e6694e2b02f24b14fd36ccde8a" />
   </machine>
   <machine name="Enkhuizer Almanak 1997 (Netherlands)">
     <category>Multimedia</category>
@@ -4379,105 +4379,105 @@
     <description>Hieroglyph (Germany)</description>
     <disk name="Hieroglyph (Germany).chd" sha1="e382bc2762022d4e0fecb4600990f4bb4eb3849d" />
   </machine>
-  <machine name="Historia de les Civilitzacions (Spain) (Disc 1) (Les Primeres Cultures)">
+  <machine name="Historia de les Civilitzacions (Spain) (Disc 01) (Les Primeres Cultures)">
     <category>Multimedia</category>
-    <description>Historia de les Civilitzacions (Spain) (Disc 1) (Les Primeres Cultures)</description>
-    <disk name="Historia de les Civilitzacions (Spain) (Disc 1) (Les Primeres Cultures).chd" sha1="5a3b161a1540b6ecce6cbe23b925a6c2d8a8fafe" />
+    <description>Historia de les Civilitzacions (Spain) (Disc 01) (Les Primeres Cultures)</description>
+    <disk name="Historia de les Civilitzacions (Spain) (Disc 01) (Les Primeres Cultures).chd" sha1="5a3b161a1540b6ecce6cbe23b925a6c2d8a8fafe" />
+  </machine>
+  <machine name="Historia de les Civilitzacions (Spain) (Disc 02) (L'Antiguitat Classica)">
+    <category>Multimedia</category>
+    <description>Historia de les Civilitzacions (Spain) (Disc 02) (L'Antiguitat Classica)</description>
+    <disk name="Historia de les Civilitzacions (Spain) (Disc 02) (L'Antiguitat Classica).chd" sha1="ed0ae489fce1ccdceb188e712104ba8af20baca3" />
+  </machine>
+  <machine name="Historia de les Civilitzacions (Spain) (Disc 03) (El Mon Cristia)">
+    <category>Multimedia</category>
+    <description>Historia de les Civilitzacions (Spain) (Disc 03) (El Mon Cristia)</description>
+    <disk name="Historia de les Civilitzacions (Spain) (Disc 03) (El Mon Cristia).chd" sha1="291e34315ba7441b09f25d3ae6e83b75aabd5a03" />
+  </machine>
+  <machine name="Historia de les Civilitzacions (Spain) (Disc 04) (L'Islam Medieval)">
+    <category>Multimedia</category>
+    <description>Historia de les Civilitzacions (Spain) (Disc 04) (L'Islam Medieval)</description>
+    <disk name="Historia de les Civilitzacions (Spain) (Disc 04) (L'Islam Medieval).chd" sha1="abd21b159f14a230c7fd3cd18a664ebd74cfba78" />
+  </machine>
+  <machine name="Historia de les Civilitzacions (Spain) (Disc 05) (Cultures Precolombines)">
+    <category>Multimedia</category>
+    <description>Historia de les Civilitzacions (Spain) (Disc 05) (Cultures Precolombines)</description>
+    <disk name="Historia de les Civilitzacions (Spain) (Disc 05) (Cultures Precolombines).chd" sha1="36006241d449a7198650b3aa7ab9f1050d95291e" />
+  </machine>
+  <machine name="Historia de les Civilitzacions (Spain) (Disc 06) (Europa a L'Edat Moderna)">
+    <category>Multimedia</category>
+    <description>Historia de les Civilitzacions (Spain) (Disc 06) (Europa a L'Edat Moderna)</description>
+    <disk name="Historia de les Civilitzacions (Spain) (Disc 06) (Europa a L'Edat Moderna).chd" sha1="adc37ebdc47ea532bed8b94deb342044861fdc03" />
+  </machine>
+  <machine name="Historia de les Civilitzacions (Spain) (Disc 07) (Els Pobles D'Asia)">
+    <category>Multimedia</category>
+    <description>Historia de les Civilitzacions (Spain) (Disc 07) (Els Pobles D'Asia)</description>
+    <disk name="Historia de les Civilitzacions (Spain) (Disc 07) (Els Pobles D'Asia).chd" sha1="e04be38358caeb8a87f7b0247cfd71da2dd92ec3" />
+  </machine>
+  <machine name="Historia de les Civilitzacions (Spain) (Disc 08) (Noves Cultures)">
+    <category>Multimedia</category>
+    <description>Historia de les Civilitzacions (Spain) (Disc 08) (Noves Cultures)</description>
+    <disk name="Historia de les Civilitzacions (Spain) (Disc 08) (Noves Cultures).chd" sha1="155167db263384eb6d4c461fb6b9275ce849fbd6" />
+  </machine>
+  <machine name="Historia de les Civilitzacions (Spain) (Disc 09) (Origens del Mon Contemporani)">
+    <category>Multimedia</category>
+    <description>Historia de les Civilitzacions (Spain) (Disc 09) (Origens del Mon Contemporani)</description>
+    <disk name="Historia de les Civilitzacions (Spain) (Disc 09) (Origens del Mon Contemporani).chd" sha1="42a6ce25c648c22f1cf17e473e0b19ecc9a6a5e3" />
   </machine>
   <machine name="Historia de les Civilitzacions (Spain) (Disc 10) (El Segle XX)">
     <category>Multimedia</category>
     <description>Historia de les Civilitzacions (Spain) (Disc 10) (El Segle XX)</description>
     <disk name="Historia de les Civilitzacions (Spain) (Disc 10) (El Segle XX).chd" sha1="b1e94432bbf052b3f2d2d7606f1f78837e714829" />
   </machine>
-  <machine name="Historia de les Civilitzacions (Spain) (Disc 2) (L'Antiguitat Classica)">
-    <category>Multimedia</category>
-    <description>Historia de les Civilitzacions (Spain) (Disc 2) (L'Antiguitat Classica)</description>
-    <disk name="Historia de les Civilitzacions (Spain) (Disc 2) (L'Antiguitat Classica).chd" sha1="ed0ae489fce1ccdceb188e712104ba8af20baca3" />
-  </machine>
-  <machine name="Historia de les Civilitzacions (Spain) (Disc 3) (El Mon Cristia)">
-    <category>Multimedia</category>
-    <description>Historia de les Civilitzacions (Spain) (Disc 3) (El Mon Cristia)</description>
-    <disk name="Historia de les Civilitzacions (Spain) (Disc 3) (El Mon Cristia).chd" sha1="291e34315ba7441b09f25d3ae6e83b75aabd5a03" />
-  </machine>
-  <machine name="Historia de les Civilitzacions (Spain) (Disc 4) (L'Islam Medieval)">
-    <category>Multimedia</category>
-    <description>Historia de les Civilitzacions (Spain) (Disc 4) (L'Islam Medieval)</description>
-    <disk name="Historia de les Civilitzacions (Spain) (Disc 4) (L'Islam Medieval).chd" sha1="abd21b159f14a230c7fd3cd18a664ebd74cfba78" />
-  </machine>
-  <machine name="Historia de les Civilitzacions (Spain) (Disc 5) (Cultures Precolombines)">
-    <category>Multimedia</category>
-    <description>Historia de les Civilitzacions (Spain) (Disc 5) (Cultures Precolombines)</description>
-    <disk name="Historia de les Civilitzacions (Spain) (Disc 5) (Cultures Precolombines).chd" sha1="36006241d449a7198650b3aa7ab9f1050d95291e" />
-  </machine>
-  <machine name="Historia de les Civilitzacions (Spain) (Disc 6) (Europa a L'Edat Moderna)">
-    <category>Multimedia</category>
-    <description>Historia de les Civilitzacions (Spain) (Disc 6) (Europa a L'Edat Moderna)</description>
-    <disk name="Historia de les Civilitzacions (Spain) (Disc 6) (Europa a L'Edat Moderna).chd" sha1="adc37ebdc47ea532bed8b94deb342044861fdc03" />
-  </machine>
-  <machine name="Historia de les Civilitzacions (Spain) (Disc 7) (Els Pobles D'Asia)">
-    <category>Multimedia</category>
-    <description>Historia de les Civilitzacions (Spain) (Disc 7) (Els Pobles D'Asia)</description>
-    <disk name="Historia de les Civilitzacions (Spain) (Disc 7) (Els Pobles D'Asia).chd" sha1="e04be38358caeb8a87f7b0247cfd71da2dd92ec3" />
-  </machine>
-  <machine name="Historia de les Civilitzacions (Spain) (Disc 8) (Noves Cultures)">
-    <category>Multimedia</category>
-    <description>Historia de les Civilitzacions (Spain) (Disc 8) (Noves Cultures)</description>
-    <disk name="Historia de les Civilitzacions (Spain) (Disc 8) (Noves Cultures).chd" sha1="155167db263384eb6d4c461fb6b9275ce849fbd6" />
-  </machine>
-  <machine name="Historia de les Civilitzacions (Spain) (Disc 9) (Origens del Mon Contemporani)">
-    <category>Multimedia</category>
-    <description>Historia de les Civilitzacions (Spain) (Disc 9) (Origens del Mon Contemporani)</description>
-    <disk name="Historia de les Civilitzacions (Spain) (Disc 9) (Origens del Mon Contemporani).chd" sha1="42a6ce25c648c22f1cf17e473e0b19ecc9a6a5e3" />
-  </machine>
-  <machine name="Historia del Arte Espanol (Spain) (Disc 1) (Los Origenes - Prehistoria y Primeras Civilizaciones)">
+  <machine name="Historia del Arte Espanol (Spain) (Disc 01) (Los Origenes - Prehistoria y Primeras Civilizaciones)">
     <category>Video</category>
-    <description>Historia del Arte Espanol (Spain) (Disc 1) (Los Origenes - Prehistoria y Primeras Civilizaciones)</description>
-    <disk name="Historia del Arte Espanol (Spain) (Disc 1) (Los Origenes - Prehistoria y Primeras Civilizaciones).chd" sha1="6d60ec6b2efbee5db50822af20849e599730c204" />
+    <description>Historia del Arte Espanol (Spain) (Disc 01) (Los Origenes - Prehistoria y Primeras Civilizaciones)</description>
+    <disk name="Historia del Arte Espanol (Spain) (Disc 01) (Los Origenes - Prehistoria y Primeras Civilizaciones).chd" sha1="6d60ec6b2efbee5db50822af20849e599730c204" />
+  </machine>
+  <machine name="Historia del Arte Espanol (Spain) (Disc 02) (Imperio y Religion - Del Mundo Romano al Prerromanico)">
+    <category>Video</category>
+    <description>Historia del Arte Espanol (Spain) (Disc 02) (Imperio y Religion - Del Mundo Romano al Prerromanico)</description>
+    <disk name="Historia del Arte Espanol (Spain) (Disc 02) (Imperio y Religion - Del Mundo Romano al Prerromanico).chd" sha1="dd0f931c88950f734e582eb1d272c7b73187ffca" />
+  </machine>
+  <machine name="Historia del Arte Espanol (Spain) (Disc 03) (Cristol de Tres Culturas - Lo Islamico, lo Judio y lo Cristiano)">
+    <category>Video</category>
+    <description>Historia del Arte Espanol (Spain) (Disc 03) (Cristol de Tres Culturas - Lo Islamico, lo Judio y lo Cristiano)</description>
+    <disk name="Historia del Arte Espanol (Spain) (Disc 03) (Cristol de Tres Culturas - Lo Islamico, lo Judio y lo Cristiano).chd" sha1="ee9fc648d2c756dd4e3124cd547f726d947040bb" />
+  </machine>
+  <machine name="Historia del Arte Espanol (Spain) (Disc 04) (La Epoca de los Monasterios - La Plenitud del Romanico)">
+    <category>Video</category>
+    <description>Historia del Arte Espanol (Spain) (Disc 04) (La Epoca de los Monasterios - La Plenitud del Romanico)</description>
+    <disk name="Historia del Arte Espanol (Spain) (Disc 04) (La Epoca de los Monasterios - La Plenitud del Romanico).chd" sha1="f26266c9b23d5654fb610ac6cfa5835f68d8610d" />
+  </machine>
+  <machine name="Historia del Arte Espanol (Spain) (Disc 05) (La Epoca de las Catedrales - El Esplendor del Gotico)">
+    <category>Video</category>
+    <description>Historia del Arte Espanol (Spain) (Disc 05) (La Epoca de las Catedrales - El Esplendor del Gotico)</description>
+    <disk name="Historia del Arte Espanol (Spain) (Disc 05) (La Epoca de las Catedrales - El Esplendor del Gotico).chd" sha1="b1b5bc8f25486179f12ea682355de827bbafab35" />
+  </machine>
+  <machine name="Historia del Arte Espanol (Spain) (Disc 06) (La Espana Imperial - Renacimiento y Humanismo)">
+    <category>Video</category>
+    <description>Historia del Arte Espanol (Spain) (Disc 06) (La Espana Imperial - Renacimiento y Humanismo)</description>
+    <disk name="Historia del Arte Espanol (Spain) (Disc 06) (La Espana Imperial - Renacimiento y Humanismo).chd" sha1="6c332927702083400f5969f3d06bfa6e27cbb1de" />
+  </machine>
+  <machine name="Historia del Arte Espanol (Spain) (Disc 07) (El Siglo de Oro - El Sentimiento de lo Barroco)">
+    <category>Video</category>
+    <description>Historia del Arte Espanol (Spain) (Disc 07) (El Siglo de Oro - El Sentimiento de lo Barroco)</description>
+    <disk name="Historia del Arte Espanol (Spain) (Disc 07) (El Siglo de Oro - El Sentimiento de lo Barroco).chd" sha1="236269f55d97853c8a721e79c3d1b8bfef55cdb3" />
+  </machine>
+  <machine name="Historia del Arte Espanol (Spain) (Disc 08) (El Siglo de las Luces - Illustrados, Neoclasicos y Academicos)">
+    <category>Video</category>
+    <description>Historia del Arte Espanol (Spain) (Disc 08) (El Siglo de las Luces - Illustrados, Neoclasicos y Academicos)</description>
+    <disk name="Historia del Arte Espanol (Spain) (Disc 08) (El Siglo de las Luces - Illustrados, Neoclasicos y Academicos).chd" sha1="5a05130d99d8f69a65f3490f51700f00535ed4aa" />
+  </machine>
+  <machine name="Historia del Arte Espanol (Spain) (Disc 09) (La Epoca de las Revoluciones - De Goya a la Modernidad)">
+    <category>Video</category>
+    <description>Historia del Arte Espanol (Spain) (Disc 09) (La Epoca de las Revoluciones - De Goya a la Modernidad)</description>
+    <disk name="Historia del Arte Espanol (Spain) (Disc 09) (La Epoca de las Revoluciones - De Goya a la Modernidad).chd" sha1="154154404870e094a5ca12d226c7c4996ea91ab2" />
   </machine>
   <machine name="Historia del Arte Espanol (Spain) (Disc 10) (El Siglo de los Creadores - Vanguardia y Tradicion en el Alba de un Milenio)">
     <category>Video</category>
     <description>Historia del Arte Espanol (Spain) (Disc 10) (El Siglo de los Creadores - Vanguardia y Tradicion en el Alba de un Milenio)</description>
     <disk name="Historia del Arte Espanol (Spain) (Disc 10) (El Siglo de los Creadores - Vanguardia y Tradicion en el Alba de un Milenio).chd" sha1="56a6b7e286087a5fe59b58125682a7d5fc5d8e4b" />
-  </machine>
-  <machine name="Historia del Arte Espanol (Spain) (Disc 2) (Imperio y Religion - Del Mundo Romano al Prerromanico)">
-    <category>Video</category>
-    <description>Historia del Arte Espanol (Spain) (Disc 2) (Imperio y Religion - Del Mundo Romano al Prerromanico)</description>
-    <disk name="Historia del Arte Espanol (Spain) (Disc 2) (Imperio y Religion - Del Mundo Romano al Prerromanico).chd" sha1="dd0f931c88950f734e582eb1d272c7b73187ffca" />
-  </machine>
-  <machine name="Historia del Arte Espanol (Spain) (Disc 3) (Cristol de Tres Culturas - Lo Islamico, lo Judio y lo Cristiano)">
-    <category>Video</category>
-    <description>Historia del Arte Espanol (Spain) (Disc 3) (Cristol de Tres Culturas - Lo Islamico, lo Judio y lo Cristiano)</description>
-    <disk name="Historia del Arte Espanol (Spain) (Disc 3) (Cristol de Tres Culturas - Lo Islamico, lo Judio y lo Cristiano).chd" sha1="ee9fc648d2c756dd4e3124cd547f726d947040bb" />
-  </machine>
-  <machine name="Historia del Arte Espanol (Spain) (Disc 4) (La Epoca de los Monasterios - La Plenitud del Romanico)">
-    <category>Video</category>
-    <description>Historia del Arte Espanol (Spain) (Disc 4) (La Epoca de los Monasterios - La Plenitud del Romanico)</description>
-    <disk name="Historia del Arte Espanol (Spain) (Disc 4) (La Epoca de los Monasterios - La Plenitud del Romanico).chd" sha1="f26266c9b23d5654fb610ac6cfa5835f68d8610d" />
-  </machine>
-  <machine name="Historia del Arte Espanol (Spain) (Disc 5) (La Epoca de las Catedrales - El Esplendor del Gotico)">
-    <category>Video</category>
-    <description>Historia del Arte Espanol (Spain) (Disc 5) (La Epoca de las Catedrales - El Esplendor del Gotico)</description>
-    <disk name="Historia del Arte Espanol (Spain) (Disc 5) (La Epoca de las Catedrales - El Esplendor del Gotico).chd" sha1="b1b5bc8f25486179f12ea682355de827bbafab35" />
-  </machine>
-  <machine name="Historia del Arte Espanol (Spain) (Disc 6) (La Espana Imperial - Renacimiento y Humanismo)">
-    <category>Video</category>
-    <description>Historia del Arte Espanol (Spain) (Disc 6) (La Espana Imperial - Renacimiento y Humanismo)</description>
-    <disk name="Historia del Arte Espanol (Spain) (Disc 6) (La Espana Imperial - Renacimiento y Humanismo).chd" sha1="6c332927702083400f5969f3d06bfa6e27cbb1de" />
-  </machine>
-  <machine name="Historia del Arte Espanol (Spain) (Disc 7) (El Siglo de Oro - El Sentimiento de lo Barroco)">
-    <category>Video</category>
-    <description>Historia del Arte Espanol (Spain) (Disc 7) (El Siglo de Oro - El Sentimiento de lo Barroco)</description>
-    <disk name="Historia del Arte Espanol (Spain) (Disc 7) (El Siglo de Oro - El Sentimiento de lo Barroco).chd" sha1="236269f55d97853c8a721e79c3d1b8bfef55cdb3" />
-  </machine>
-  <machine name="Historia del Arte Espanol (Spain) (Disc 8) (El Siglo de las Luces - Illustrados, Neoclasicos y Academicos)">
-    <category>Video</category>
-    <description>Historia del Arte Espanol (Spain) (Disc 8) (El Siglo de las Luces - Illustrados, Neoclasicos y Academicos)</description>
-    <disk name="Historia del Arte Espanol (Spain) (Disc 8) (El Siglo de las Luces - Illustrados, Neoclasicos y Academicos).chd" sha1="5a05130d99d8f69a65f3490f51700f00535ed4aa" />
-  </machine>
-  <machine name="Historia del Arte Espanol (Spain) (Disc 9) (La Epoca de las Revoluciones - De Goya a la Modernidad)">
-    <category>Video</category>
-    <description>Historia del Arte Espanol (Spain) (Disc 9) (La Epoca de las Revoluciones - De Goya a la Modernidad)</description>
-    <disk name="Historia del Arte Espanol (Spain) (Disc 9) (La Epoca de las Revoluciones - De Goya a la Modernidad).chd" sha1="154154404870e094a5ca12d226c7c4996ea91ab2" />
   </machine>
   <machine name="Historia Universal del Arte (Spain) (Disc 1)">
     <category>Multimedia</category>
@@ -6794,15 +6794,15 @@
     <description>Naitre - A Child is Born (France)</description>
     <disk name="Naitre - A Child is Born (France).chd" sha1="5828f756b6bc6955596a1f8a6f043de61ea628f1" />
   </machine>
-  <machine name="Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 1)">
+  <machine name="Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 1) (Rev 1)">
     <category>Video</category>
-    <description>Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 1)</description>
-    <disk name="Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 1).chd" sha1="a92194f1d9983f5bc066adb3fcd8e131d6ab05a3" />
+    <description>Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 1) (Rev 1)</description>
+    <disk name="Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 1) (Rev 1).chd" sha1="a92194f1d9983f5bc066adb3fcd8e131d6ab05a3" />
   </machine>
-  <machine name="Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 2)">
+  <machine name="Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 2) (Rev 1)">
     <category>Video</category>
-    <description>Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 2)</description>
-    <disk name="Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 2).chd" sha1="7c018990a481eeedcb01332a4962e4809338c517" />
+    <description>Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 2) (Rev 1)</description>
+    <disk name="Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 2) (Rev 1).chd" sha1="7c018990a481eeedcb01332a4962e4809338c517" />
   </machine>
   <machine name="Naked Gun 2 1-2, The - The Smell of Fear (Netherlands) (Disc 1)">
     <category>Video</category>
