@@ -3,7 +3,7 @@
 <datafile>
   <header>
     <name>NEC - PC-98 series</name>
-    <description>MAME Redump - NEC - PC-98 series - Discs (110) (2024-04-25 16-02-09)</description>
+    <description>MAME Redump - NEC - PC-98 series - Discs (118) (2024-08-14 17-03-07)</description>
     <version>0.267</version>
     <date>2024-03-22</date>
     <author>MAME Redump</author>
@@ -403,6 +403,11 @@
     <category>Applications</category>
     <description>RPG Tkool Dante98 II (Japan)</description>
     <disk name="RPG Tkool Dante98 II (Japan).chd" sha1="978e2641ba8e6549945d46ded81fd8e75e495135" />
+  </machine>
+  <machine name="Ryouki no Ori - Dai-2-shou (Japan)">
+    <category>Games</category>
+    <description>Ryouki no Ori - Dai-2-shou (Japan)</description>
+    <disk name="Ryouki no Ori - Dai-2-shou (Japan).chd" sha1="48d8acae5592b273a826e8a50c49eddefe57c662" />
   </machine>
   <machine name="Ryouki no Ori (Japan)">
     <category>Games</category>
@@ -1085,10 +1090,6 @@
   <machine name="ryouki1\ryouki no ori 1 (1996)(plantech-zerosystem)">
     <description>ryouki1\ryouki no ori 1 (1996)(plantech-zerosystem)</description>
     <disk name="ryouki1\ryouki no ori 1 (1996)(plantech-zerosystem).chd" sha1="a347b665bd0afbcba6e5b8709e814d1223b67e64" />
-  </machine>
-  <machine name="ryouki2\ryouki no ori 2 (1997)(plantech-zerosystem)">
-    <description>ryouki2\ryouki no ori 2 (1997)(plantech-zerosystem)</description>
-    <disk name="ryouki2\ryouki no ori 2 (1997)(plantech-zerosystem).chd" sha1="48d8acae5592b273a826e8a50c49eddefe57c662" />
   </machine>
   <machine name="sakumori\sakura no mori (japan)">
     <description>sakumori\sakura no mori (japan)</description>
