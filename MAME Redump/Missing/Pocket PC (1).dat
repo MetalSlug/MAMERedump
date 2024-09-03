@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+  <header>
+    <name>Pocket PC</name>
+    <description>MAME Redump - Pocket PC - Discs (64) (2024-08-07 19-18-57)</description>
+    <version>0.267</version>
+    <date>2024-03-22</date>
+    <author>MAME Redump</author>
+    <url>https://github.com/MetalSlug/MAMERedump</url>
+  </header>
+  <game name="RSPB Birds of Britain &amp; Ireland (UK)">
+    <category>Applications</category>
+    <description>RSPB Birds of Britain &amp; Ireland (UK)</description>
+    <rom name="RSPB Birds of Britain &amp; Ireland (UK).cue" size="102" crc="2BB5AEA4" md5="6F0D27C8AB65EEEEE75FCE9ED806F77B" sha1="7CB9C2034D73FCE736594104AF2818207CCE6491" />
+    <rom name="RSPB Birds of Britain &amp; Ireland (UK).bin" size="640454304" crc="5C4DF63E" md5="B22451A3CE9494DAE2290276B484CE4C" sha1="4927496BCA8EDD10B4CAFC06C22C8A679DA09D56" />
+  </game>
+</datafile>
