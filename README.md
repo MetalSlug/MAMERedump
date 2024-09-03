@@ -109,7 +109,7 @@ Nintendo - GameCube|2024-08-23|1986|11|1 TB||
 Nintendo - Wii|2024-08-12|3770|2|6 TB||
 **Palm**|2024-08-13|154|0|13 GB||
 **Panasonic - 3DO Interactive Multiplayer**|2024-08-21|646|0|183 GB||
-Philips - CD-i|2024-08-21|2330|21|686 GB|cdi|137 GB
+Philips - CD-i|2024-08-21|2338|13|689 GB|cdi|137 GB
 Photo CD|2024-08-18|215|1|40 GB||
 **PlayStation GameShark Updates**|2024-07-31|32|0|556 MB||
 Pocket PC|2024-08-07|63|1|8 GB||
@@ -128,4 +128,4 @@ Sony - PlayStation|2024-08-20|11585|12|3 TB|psx|551 GB
 VM Labs - NUON|2023-10-27|8|2|5 GB|nuon|5 GB
 **VTech - V.Flash & V.Smile Pro**|2024-03-01|50|0|8 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2024-02-02|16|0|50 GB||
-Total||75730|31755|58 TB||1 TB
+Total||75738|31747|58 TB||1 TB
