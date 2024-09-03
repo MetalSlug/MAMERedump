@@ -1,27 +1,27 @@
-﻿<?xml version="1.0"?>
-<!DOCTYPE datafile PUBLIC " -//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
-	<header>
-		<name>Bandai - Pippin</name>
-		<description>Bandai - Pippin</description>
-		<version>0.266</version>
-		<date>2024-03-22</date>
-		<author>MAME Redump</author>
-		<url>https://github.com/MetalSlug/MAMERedump</url>
-	</header>
-	<game name="L-Zone (Japan)" type="cd" sha1="5a681f1915b986adab5b3550e683fa69a961f7df" size="138588318" crc="b6654c42" fullsha1="da544e68d30278b151f1d2386f8a0a8d16bce83e" dataSha1="a6624408c531cad13d0d5a1cef9b49d72162065f">
-		<category>Games</category>
-		<description>L-Zone (Japan)</description>
-		<rom name="L-Zone (Japan) (Track 01).bin" size="327588912" crc="0c5934a5" md5="086a17b9ad7819dd0a5a603dd4001f2d" sha1="8ffe8bee6131edc46a8e448de70342ac5713ca79"/>
-	</game>
-	<game name="Pippin Network CD (Japan) (Rev A)" type="cd" sha1="24ffe6fef929be628eb979a0ed8bca399b39569e" size="186042233" crc="2bbef7cf" fullsha1="f276e5ce7408a10a106aefba92a2b9e1e60ba80c" dataSha1="d1dd320e02065e4c578a558df8bcbe7e4619ff81">
-		<category>Games</category>
-		<description>Pippin Network CD (Japan) (Rev A)</description>
-		<rom name="Pippin Network CD (Japan) (Rev A) (Track 01).bin" size="301389984" crc="2419980f" md5="d13493707bf72dcb046af7aa1c7ad116" sha1="06e8934ecffb4ea12fa747c54eab48b4213aeb07"/>
-	</game>
-	<game name="Shichi Sokusen (Japan) (Rev A)" type="cd" sha1="a2bf1d41d221cb4d14d605c719e6d5b3d809e2a5" size="174825708" crc="2d5d076c" fullsha1="123cfc602f923fd6484bf3fdfaab06798f66e908" dataSha1="ddabe54c4a9109d99e5632d9bbf0530449e10730">
-		<category>Games</category>
-		<description>Shichi Sokusen (Japan) (Rev A)</description>
-		<rom name="Shichi Sokusen (Japan) (Rev A) (Track 01).bin" size="771020880" crc="ab0f01b3" md5="7aba9f331309720a518fe9d1639474ab" sha1="3d7e60027b3d25a7a6d4225ea86b5ce6267ae564"/>
-	</game>
+  <header>
+    <name>Bandai - Pippin</name>
+    <description>Bandai - Pippin</description>
+    <version>0.267</version>
+    <date>2024-03-22</date>
+    <author>MAME Redump</author>
+    <url>https://github.com/MetalSlug/MAMERedump</url>
+  </header>
+  <game name="L-Zone (Japan)" sha1="5A681F1915B986ADAB5B3550E683FA69A961F7DF" size="138588318" crc="B6654C42" fullsha1="da544e68d30278b151f1d2386f8a0a8d16bce83e" dataSha1="a6624408c531cad13d0d5a1cef9b49d72162065f">
+    <category>Games</category>
+    <description>L-Zone (Japan)</description>
+    <rom name="L-Zone (Japan) (Track 01).bin" size="327588912" crc="0C5934A5" md5="086A17B9AD7819DD0A5A603DD4001F2D" sha1="8FFE8BEE6131EDC46A8E448DE70342AC5713CA79" />
+  </game>
+  <game name="Pippin Network CD (Japan) (Rev A)" sha1="24FFE6FEF929BE628EB979A0ED8BCA399B39569E" size="186042233" crc="2BBEF7CF" fullsha1="f276e5ce7408a10a106aefba92a2b9e1e60ba80c" dataSha1="d1dd320e02065e4c578a558df8bcbe7e4619ff81">
+    <category>Games</category>
+    <description>Pippin Network CD (Japan) (Rev A)</description>
+    <rom name="Pippin Network CD (Japan) (Rev A) (Track 01).bin" size="301389984" crc="2419980F" md5="D13493707BF72DCB046AF7AA1C7AD116" sha1="06E8934ECFFB4EA12FA747C54EAB48B4213AEB07" />
+  </game>
+  <game name="Shichi Sokusen (Japan) (Rev A)" sha1="A2BF1D41D221CB4D14D605C719E6D5B3D809E2A5" size="174825708" crc="2D5D076C" fullsha1="123cfc602f923fd6484bf3fdfaab06798f66e908" dataSha1="ddabe54c4a9109d99e5632d9bbf0530449e10730">
+    <category>Games</category>
+    <description>Shichi Sokusen (Japan) (Rev A)</description>
+    <rom name="Shichi Sokusen (Japan) (Rev A) (Track 01).bin" size="771020880" crc="AB0F01B3" md5="7ABA9F331309720A518FE9D1639474AB" sha1="3D7E60027B3D25A7A6D4225EA86B5CE6267AE564" />
+  </game>
 </datafile>

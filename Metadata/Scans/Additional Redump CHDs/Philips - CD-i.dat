@@ -4,7 +4,7 @@
 	<header>
 		<name>Philips - CD-i</name>
 		<description>Philips - CD-i</description>
-		<version>0.266</version>
+		<version>0.267</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -447,15 +447,725 @@
 		<description>BFGoodrich Tires - The Value of the BFGoodrich Brand (USA)</description>
 		<rom name="BFGoodrich Tires - The Value of the BFGoodrich Brand (USA) (Track 01).bin" size="348742800" crc="a90e9b43" md5="5cc53c33187335c8b5390aa4d80e507d" sha1="f5118e6c91b0d8116235cfba84806c2b4374082d"/>
 	</game>
+	<game name="BMB Karaoke 1 (Japan)" type="" sha1="d7ae6e3c771288158aafcb9afc00e5a521e4fed8" size="534505293" crc="bc451883" fullsha1="1264e38c3a7151950c59bbc6e622757ab1e04433" dataSha1="09761acb12ef6a5cf6fc0301a432761b51e622ed">
+		<category>Games</category>
+		<description>BMB Karaoke 1 (Japan)</description>
+		<rom name="BMB Karaoke 1 (Japan) (Track 01).bin" size="825552000" crc="c46e5891" md5="817ee7e4ffbd8d4a93bbdaa3c5c9e5f8" sha1="318fd3f2857a954ffb2ef55d5173771b6acef493"/>
+	</game>
+	<game name="BMB Karaoke 10 (Japan)" type="" sha1="d7070cb4823d1fd4b7ca5a8e141daa16261feeba" size="498482920" crc="bdbfe5a9" fullsha1="279df0a3733369a568515955813d9be4d1564b09" dataSha1="d51e8d1ecf16a64fa5eeb9f30b0edccc4835a435">
+		<category>Games</category>
+		<description>BMB Karaoke 10 (Japan)</description>
+		<rom name="BMB Karaoke 10 (Japan) (Track 01).bin" size="825552000" crc="a2ec2744" md5="01a802d485b8e19760bd63930b33b4fc" sha1="2baac4ead44b9cccf858cf1b20736bd96a97c9a1"/>
+	</game>
+	<game name="BMB Karaoke 100 (Japan)" type="cd" sha1="f392e6cf41fa3aa85ed418c45788fea5e9bc9e6a" size="549454614" crc="94d5244f" fullsha1="4cb9f1d242b8d495fdf7f5c4aadb7b5e62999923" dataSha1="6a68d69f96c0a1d295be6cbc49f1390e44c01981">
+		<category>Games</category>
+		<description>BMB Karaoke 100 (Japan)</description>
+		<rom name="BMB Karaoke 100 (Japan) (Track 01).bin" size="825199200" crc="52af915c" md5="a5194ada789ee2f92497e4e876c89fa2" sha1="669f913895d0ba4eef55dd17df8570e6a90c34f9"/>
+	</game>
+	<game name="BMB Karaoke 101 (Japan)" type="cd" sha1="53293c305f7f8c2272caf718164712db0287bdd5" size="548530672" crc="94711a51" fullsha1="db04b5215e48cd40a24902490767099c39306d27" dataSha1="a03d7539b4a089c1a7ac3c5c7508df793d969000">
+		<category>Games</category>
+		<description>BMB Karaoke 101 (Japan)</description>
+		<rom name="BMB Karaoke 101 (Japan) (Track 01).bin" size="825199200" crc="20a5d107" md5="ffc189f56ca523e0041e51890269de03" sha1="557d5e538a2ce443356c1a19005ac753581b0982"/>
+	</game>
+	<game name="BMB Karaoke 102 (Japan)" type="cd" sha1="13119e3bc1b7f7667fc72dac3cd505e50f48e4af" size="536487545" crc="7ef2820d" fullsha1="7c4c45ba58adb1c36ffc4fc065d93508c34013dd" dataSha1="f8f01e23ec3d94d6a8e38257eb96de84bab977dc">
+		<category>Games</category>
+		<description>BMB Karaoke 102 (Japan)</description>
+		<rom name="BMB Karaoke 102 (Japan) (Track 01).bin" size="825199200" crc="0966c13a" md5="61faea35a1ea8d0e7bd4e144d8ea01c5" sha1="b63949901aaef32f02d002afd1200b92627684a9"/>
+	</game>
+	<game name="BMB Karaoke 103 (Japan)" type="cd" sha1="bd8f367ecc4716345a5c3bb816ff48eea15e47ce" size="548672485" crc="7e2c9d78" fullsha1="95f31130350f017f26e335ed3752987082502de1" dataSha1="759fda65433e445cbe333c625402d67d2cbb6fc5">
+		<category>Games</category>
+		<description>BMB Karaoke 103 (Japan)</description>
+		<rom name="BMB Karaoke 103 (Japan) (Track 01).bin" size="825199200" crc="387970c8" md5="52f06e19553c40a45d954291c562bc21" sha1="bbcdbce244a56e9819f4693443661fac9a33183a"/>
+	</game>
+	<game name="BMB Karaoke 104 (Japan)" type="cd" sha1="f7436ea2aa93d05f54999716445d187bb401650f" size="544546757" crc="141631e2" fullsha1="89a008fc6d866cc3f5f6f598eb5ac3cbe5a5de1a" dataSha1="3926c23ffdf23eae3ef9c70a002392f9d4d738d1">
+		<category>Games</category>
+		<description>BMB Karaoke 104 (Japan)</description>
+		<rom name="BMB Karaoke 104 (Japan) (Track 01).bin" size="825199200" crc="daa7a49e" md5="74a356f9a0c69d6d7eedc99be9d4abca" sha1="08483fa917df6f3aa046b3fe665e652783dded47"/>
+	</game>
+	<game name="BMB Karaoke 105 (Japan)" type="cd" sha1="e24a58cde579bc48587d64d1a84973feee492aea" size="542945495" crc="952b5254" fullsha1="229ad8b3aff255806d09bd6f0e25457c48601058" dataSha1="e987c30dc2f7f5feaea83ba275162ba71f0a03bb">
+		<category>Games</category>
+		<description>BMB Karaoke 105 (Japan)</description>
+		<rom name="BMB Karaoke 105 (Japan) (Track 01).bin" size="825199200" crc="3412f825" md5="bfd1d6fda0c55cd32e063a5b3a748a77" sha1="ebddaa53e2c548f771b9207e93dbbbd09eadf3b2"/>
+	</game>
+	<game name="BMB Karaoke 106 (Japan)" type="cd" sha1="417733940cc9a0b2f56f2797eda91722a8f13345" size="548171793" crc="e7b9be2a" fullsha1="358fc8c57030ad8e8431625b6b2b3b9511f12b8a" dataSha1="48fbdcf14dc2f378e5c748d419dbf16707c63e17">
+		<category>Games</category>
+		<description>BMB Karaoke 106 (Japan)</description>
+		<rom name="BMB Karaoke 106 (Japan) (Track 01).bin" size="825199200" crc="1d7ed72b" md5="dcc02e5b220f8fcc7aa0f73ac688fd15" sha1="4039c8e81c1591da93c6b7fbaaaa1668a22aba66"/>
+	</game>
+	<game name="BMB Karaoke 107 (Japan)" type="cd" sha1="24ae50a2b48d336ae8a804e72741edd85da6158f" size="554568857" crc="6d1e01b4" fullsha1="d2f3821e55ee8241c68f0409b843c16f7d38bea1" dataSha1="db431d965a768b0dba2784d7e2bf5ae7a0f018f6">
+		<category>Games</category>
+		<description>BMB Karaoke 107 (Japan)</description>
+		<rom name="BMB Karaoke 107 (Japan) (Track 01).bin" size="825199200" crc="9bfa42f3" md5="4cd91cc2304ab3a4e98c2796a8cf77d3" sha1="0744e456b4c6972a54a3eb7b06b07e1adcccfd9f"/>
+	</game>
+	<game name="BMB Karaoke 108 (Japan)" type="cd" sha1="3ef64878f1fdc87086141fa8eb1180f10703d83f" size="546649508" crc="1a62b4bc" fullsha1="bea5d6a87dec5cf3a4a465ee9524d3aab1d20e57" dataSha1="00d0d3020e4582bf9c5a549bbaf4286e7b8cc5b7">
+		<category>Games</category>
+		<description>BMB Karaoke 108 (Japan)</description>
+		<rom name="BMB Karaoke 108 (Japan) (Track 01).bin" size="825199200" crc="d9ed94eb" md5="44f26749db888b15409a0d0be2438017" sha1="2370d8e1f6969995576730d1deb90f9dd24e16e3"/>
+	</game>
+	<game name="BMB Karaoke 109 (Japan)" type="cd" sha1="fcb658015f5abb1ecea3bbf0f3edff8dd53a4adf" size="547951723" crc="f47cd715" fullsha1="7576adbd192d3ced2d9930de6a9a9b94e3958f8d" dataSha1="baefcc77c0c9873f5facc8afc225e9aba6456af1">
+		<category>Games</category>
+		<description>BMB Karaoke 109 (Japan)</description>
+		<rom name="BMB Karaoke 109 (Japan) (Track 01).bin" size="825199200" crc="b01ab808" md5="e1b7193de9acd51b8ebd0c9b01b4db46" sha1="766fdfca49fa6cad8514d4b003aed680456c7532"/>
+	</game>
 	<game name="BMB Karaoke 11 (Japan)" type="cd" sha1="d0baf3ab2a7e53a5fc1279ad4713022ed0ed665f" size="465176449" crc="d98f2ee8" fullsha1="611c5219d4cf9427123ec5fa64efc66d921a6f4f" dataSha1="9fc241969eea30a365ea6e35300fd6dd457ca4ba">
 		<category>Games</category>
 		<description>BMB Karaoke 11 (Japan)</description>
 		<rom name="BMB Karaoke 11 (Japan) (Track 01).bin" size="825552000" crc="3cb9e16d" md5="7d93e64dd45499af3bd9453d852a4cb8" sha1="be7f440c80b44ff207f683c71a71eee206946447"/>
 	</game>
+	<game name="BMB Karaoke 110 (Japan)" type="cd" sha1="a95757563024d5adcda3ff00a263ad7cfae836ca" size="553318480" crc="0fb3beb3" fullsha1="25173f2db60ffd251af26a89861a39d46ddb5ac5" dataSha1="771a0382fac67ffd38d319e0ac746b9d8748abf3">
+		<category>Games</category>
+		<description>BMB Karaoke 110 (Japan)</description>
+		<rom name="BMB Karaoke 110 (Japan) (Track 01).bin" size="825199200" crc="39807780" md5="ea87dc7e1c728deca8e3d3658f6f923f" sha1="1804b0213df2d536a126907892ee6e32ab0ce178"/>
+	</game>
+	<game name="BMB Karaoke 111 (Japan)" type="cd" sha1="4149e0edf1ca17beac0b07e8f596c543df1e36c8" size="540606210" crc="8f43bf9e" fullsha1="d1358807a0f5214523ee1ab0da7eeebcb042c3d5" dataSha1="4c2a35ddd9c5bac576cbf7586defd08ee05fd514">
+		<category>Games</category>
+		<description>BMB Karaoke 111 (Japan)</description>
+		<rom name="BMB Karaoke 111 (Japan) (Track 01).bin" size="825199200" crc="b0f046ff" md5="902dc8ae19a6b0efda8baab8c3d158e2" sha1="35ff82aef305f511b8afc5390abd1934be3cdb5c"/>
+	</game>
+	<game name="BMB Karaoke 112 (Japan)" type="cd" sha1="45db6ae4dbbebc426cb93e38696f9a4ae0dd92ef" size="538975216" crc="86e1bb58" fullsha1="6d21b7701a7db54a46e575173bd6efdccc82e251" dataSha1="f6c014620fab58397fc495f7da4ac6c541808637">
+		<category>Games</category>
+		<description>BMB Karaoke 112 (Japan)</description>
+		<rom name="BMB Karaoke 112 (Japan) (Track 01).bin" size="825199200" crc="ba2d3b4c" md5="9a547b5d2d3af0e3abeb57cef51efc08" sha1="a7cdb0860dd7a11717e25daf3c8b195c2f165cda"/>
+	</game>
+	<game name="BMB Karaoke 113 (Japan)" type="cd" sha1="ae926c59a9907bddcc777520bacdec1d90f5d58f" size="540434998" crc="7dd19f20" fullsha1="27ac78d0d89bd990513ed6673bb472537d167716" dataSha1="607f8b29c24a80a0d76ea7fa863fef9e92b8e7e4">
+		<category>Games</category>
+		<description>BMB Karaoke 113 (Japan)</description>
+		<rom name="BMB Karaoke 113 (Japan) (Track 01).bin" size="825199200" crc="c75721c0" md5="495e7fc637613ee0cc327453bc139f91" sha1="f363cda78694834a7f7706fc6d4cbb03675fd104"/>
+	</game>
+	<game name="BMB Karaoke 114 (Japan)" type="cd" sha1="673e1b98da531fb00fc971ceb124103153af5a89" size="536305434" crc="b552023f" fullsha1="e6d8aebbbf7f3360df0a82ee5cb0c3c8ad7df48b" dataSha1="d5e0bea50167c2e360316e624f9c28941f9879b4">
+		<category>Games</category>
+		<description>BMB Karaoke 114 (Japan)</description>
+		<rom name="BMB Karaoke 114 (Japan) (Track 01).bin" size="825199200" crc="8441d07d" md5="010545a4bb790b9018b1880796424203" sha1="65fffcb5995c2d04f781a7522fa768319046099e"/>
+	</game>
+	<game name="BMB Karaoke 115 (Japan)" type="cd" sha1="99f5844bace63727099d4762a93ce8cfcbe79877" size="526989072" crc="3fcfc2aa" fullsha1="28c44932815a55b11b31bfc43e7607370261db6c" dataSha1="e2a8e4ecd501e8feacccfa8793522ff9025462de">
+		<category>Games</category>
+		<description>BMB Karaoke 115 (Japan)</description>
+		<rom name="BMB Karaoke 115 (Japan) (Track 01).bin" size="825199200" crc="87fdf76f" md5="9bd2ebfddef46bd4be037373f1c17acf" sha1="a463f9ecc868819131b2988f687db837101ac2b1"/>
+	</game>
+	<game name="BMB Karaoke 116 (Japan)" type="cd" sha1="b6c2e66c0bc5c919c2a506e72111a3544080e692" size="532286050" crc="209c80db" fullsha1="71db3e79c0607b80d1422adaa23c6cce6d5861ba" dataSha1="d72c1c6f99929e4537001240fc7d7214f0dd74b1">
+		<category>Games</category>
+		<description>BMB Karaoke 116 (Japan)</description>
+		<rom name="BMB Karaoke 116 (Japan) (Track 01).bin" size="825199200" crc="76ccdf90" md5="b0bd91de3bd39fe5ea2504984d921e70" sha1="6d3b9d7ddd1c82b77e38a004777c0bf71c8eb152"/>
+	</game>
+	<game name="BMB Karaoke 117 (Japan)" type="cd" sha1="fc591c6a83defdb0182cffee6ecb7c1b846c5908" size="528903120" crc="bde26ac4" fullsha1="282f3e1fefa5ab8d03ac1287f7bc36dc85dbbd57" dataSha1="2310de9e796a55d8f37aef1e09e41efd4c800f5e">
+		<category>Games</category>
+		<description>BMB Karaoke 117 (Japan)</description>
+		<rom name="BMB Karaoke 117 (Japan) (Track 01).bin" size="825199200" crc="8a9fbddb" md5="eda2b0c54bdf31a4d8e743135c3d84fe" sha1="bee82e79c06d3acd5bd0d64fe834848951d80a59"/>
+	</game>
+	<game name="BMB Karaoke 118 (Japan)" type="cd" sha1="e838293d92ba874e316949858f8e2b1764c1e97b" size="542433730" crc="3bebb306" fullsha1="fa0cfacf9106e122facd0d5358f2200f86682341" dataSha1="d65c3af0028d51db11265e081d8114cf82acdcfa">
+		<category>Games</category>
+		<description>BMB Karaoke 118 (Japan)</description>
+		<rom name="BMB Karaoke 118 (Japan) (Track 01).bin" size="825199200" crc="24774283" md5="e75e40f8b9ea898d2c41024054300a87" sha1="c66e8587a804df63f1f003dc55f23ce9593e03f9"/>
+	</game>
+	<game name="BMB Karaoke 119 (Japan)" type="cd" sha1="7107bde05eecb7d7dbbb9e0b945b6f2af4a853a4" size="518659820" crc="c6548c06" fullsha1="f6e6dc68b9ae25d134608dac4f04dea23f550146" dataSha1="a0030e3ab6aa65bb75b6ca7d4904d3ae7d02ee78">
+		<category>Games</category>
+		<description>BMB Karaoke 119 (Japan)</description>
+		<rom name="BMB Karaoke 119 (Japan) (Track 01).bin" size="825199200" crc="99d7578d" md5="7589ad3a5b96d51336f1da72ac7e6f3e" sha1="2b3ea9f61015f5b8ac3607a6c81a0ed45299570c"/>
+	</game>
+	<game name="BMB Karaoke 12 (Japan)" type="" sha1="367412de42ac025939682eff8105b60d76da04c0" size="455232963" crc="cb10a458" fullsha1="62c767cbe8db5356889f9a46da798b21c0db1752" dataSha1="e4cb331e8a3ca99cb4abfa4ed4e9721c147beeaf">
+		<category>Games</category>
+		<description>BMB Karaoke 12 (Japan)</description>
+		<rom name="BMB Karaoke 12 (Japan) (Track 01).bin" size="825552000" crc="6419249b" md5="f0ef908c7a74e7e6d976f98f7f8c1208" sha1="720e8d618573534c57087626c0ce7ca31db8d26f"/>
+	</game>
+	<game name="BMB Karaoke 120 (Japan)" type="cd" sha1="d6bee5a508985a30af05072ad5bd0f6256dcc718" size="515878115" crc="02d02a9b" fullsha1="5c6535dcaba05e194835c17127b4935a40d3d4db" dataSha1="612327ac48748ad52f749eab8dac2baae8fef85b">
+		<category>Games</category>
+		<description>BMB Karaoke 120 (Japan)</description>
+		<rom name="BMB Karaoke 120 (Japan) (Track 01).bin" size="825199200" crc="e19291a5" md5="b0b472a3bc3b03033b0fc148de9acef2" sha1="be4f470682ecccadc759d99f26dc2b4ec43a03f0"/>
+	</game>
+	<game name="BMB Karaoke 121 (Japan)" type="cd" sha1="06d03b5d9b9ad60bff8f834d05c8cd7114278094" size="533773736" crc="fee3d22f" fullsha1="f906358a10034c398e9121516d813523abfe724d" dataSha1="9f228e1922f4be81be5188a095b271bcf450861a">
+		<category>Games</category>
+		<description>BMB Karaoke 121 (Japan)</description>
+		<rom name="BMB Karaoke 121 (Japan) (Track 01).bin" size="825199200" crc="91968b40" md5="31cce5dd55b3f4d73f53096f3df33322" sha1="4e055e463c1704c3627d4a198964c6e6eaa66e29"/>
+	</game>
+	<game name="BMB Karaoke 122 (Japan)" type="cd" sha1="8fef80be5b7988562e08ba13c67a57b1ad1ac53d" size="529358413" crc="55813f08" fullsha1="d6958f1bc88c8ca2516a1b1227019952091edbd3" dataSha1="a793395ecdeb99f6065d22b10f6b830085523b98">
+		<category>Games</category>
+		<description>BMB Karaoke 122 (Japan)</description>
+		<rom name="BMB Karaoke 122 (Japan) (Track 01).bin" size="825199200" crc="c68611e6" md5="974f27ddddace0d22c35b4665a522785" sha1="930d347aed3d945f6ec10b4fd00b0deec8878a38"/>
+	</game>
+	<game name="BMB Karaoke 123 (Japan)" type="cd" sha1="b9a4b08ff04f5579ab4041ca6d136008d48b996e" size="507038294" crc="98ea60bc" fullsha1="ce0bf8d47113821a97418d4efdeecc17d16b41e2" dataSha1="45eeca6273fc1de34ac9c76ce0d5cc51f6a6d6b5">
+		<category>Games</category>
+		<description>BMB Karaoke 123 (Japan)</description>
+		<rom name="BMB Karaoke 123 (Japan) (Track 01).bin" size="825199200" crc="3d64df0b" md5="654393487101a8a20db411ec22d3e6d5" sha1="ab31633fdf97a05d83b93cf1ee6570595f788cbc"/>
+	</game>
+	<game name="BMB Karaoke 124 (Japan)" type="cd" sha1="35dabdd946d2d3d2b5d3c7884a0ac5cccafbb577" size="541369958" crc="268c3cde" fullsha1="4263eae9c02b47c83aea1f917e11b0b2df75a95a" dataSha1="534218f1bc83a402089d72bf4a6a4714ef4c8ea3">
+		<category>Games</category>
+		<description>BMB Karaoke 124 (Japan)</description>
+		<rom name="BMB Karaoke 124 (Japan) (Track 01).bin" size="825199200" crc="db093643" md5="f7d3ffa58d6a0d567434d05c990e5b06" sha1="36d28e85d6d1e96e5c6f902da6b8a4f83f3b52a7"/>
+	</game>
+	<game name="BMB Karaoke 125 (Japan)" type="cd" sha1="43c3daea622952c6e9f939af9e878a38ad069029" size="495699529" crc="4883756a" fullsha1="60e131b9fb42f4740a8ae670de363c77c959cec7" dataSha1="a39a5b88a07cf91f5a26db76b2e0353bbf52fb40">
+		<category>Games</category>
+		<description>BMB Karaoke 125 (Japan)</description>
+		<rom name="BMB Karaoke 125 (Japan) (Track 01).bin" size="825199200" crc="8b8681d3" md5="4903fdda791221d788f7c3ecd3143e98" sha1="59d43637049880d205cc9dc65ee51590c8270a6e"/>
+	</game>
+	<game name="BMB Karaoke 126 (Japan)" type="cd" sha1="8f1cf0112a9b954e5b22c05fca31a4a4deaf4597" size="520604400" crc="a7553099" fullsha1="1c7ee01ffb6e5c1cfc90d46483c9a8cffdd4b76f" dataSha1="43264586fbe9b74c7048a0df7f9368df607836b1">
+		<category>Games</category>
+		<description>BMB Karaoke 126 (Japan)</description>
+		<rom name="BMB Karaoke 126 (Japan) (Track 01).bin" size="825199200" crc="bc8c60c3" md5="44de1c22e311cc1e2e3b435467debe8b" sha1="5742d94bd1a5b5f6f799a81929a12f1c3734da3d"/>
+	</game>
+	<game name="BMB Karaoke 127 (Japan)" type="cd" sha1="e0b0b47fa55c2cd33a0e002058148d451bc373bf" size="526361978" crc="04be8d49" fullsha1="22ea010dc446bb2f12a870db7cf18670bf14aa7e" dataSha1="9b40448c3e7b92497d31b6aa36d6193c28dc7706">
+		<category>Games</category>
+		<description>BMB Karaoke 127 (Japan)</description>
+		<rom name="BMB Karaoke 127 (Japan) (Track 01).bin" size="825199200" crc="70d8ebc9" md5="71a77e7545adc32e57da27925cbeb066" sha1="48f1647b7481dbeb0f4cb6fdbc25abc1a04a9f7d"/>
+	</game>
+	<game name="BMB Karaoke 128 (Japan)" type="cd" sha1="c52e55688006a026281b1a1af402084060af718e" size="523484816" crc="d42ffdad" fullsha1="f123b30f34b9645ab43b70f9523169fc62568447" dataSha1="0a990932c057c466edd6e145405c2699f28b8816">
+		<category>Games</category>
+		<description>BMB Karaoke 128 (Japan)</description>
+		<rom name="BMB Karaoke 128 (Japan) (Track 01).bin" size="825199200" crc="5755493a" md5="31dc10552afb47835a7118cf8c2c192d" sha1="ca4837fe372cf4a8abbd927c22bf9157bfdf468f"/>
+	</game>
+	<game name="BMB Karaoke 129 (Japan)" type="cd" sha1="58957603c04feb0844aa9145be945286f1be8bab" size="519006000" crc="09338062" fullsha1="78d015ecb80b05f1990a6e39bc4aa3a347720b8d" dataSha1="92c21665bc6ee86daad5efb0448cfc90e9f53f3f">
+		<category>Games</category>
+		<description>BMB Karaoke 129 (Japan)</description>
+		<rom name="BMB Karaoke 129 (Japan) (Track 01).bin" size="825199200" crc="fe5d9785" md5="acf86830b1431b890793c7a193cf9deb" sha1="09021e381fab3827483c7be1eb5d8f01496703d6"/>
+	</game>
+	<game name="BMB Karaoke 13 (Japan)" type="" sha1="cf2068d8a06101333af2a49e8e272e8e13506e4c" size="488398220" crc="08f602b4" fullsha1="16bbde4b64fb8513c9dbd34aece5bf0e15bac532" dataSha1="8a91679189f0e4546be3aabd36c3bb89246efcad">
+		<category>Games</category>
+		<description>BMB Karaoke 13 (Japan)</description>
+		<rom name="BMB Karaoke 13 (Japan) (Track 01).bin" size="825552000" crc="c6973442" md5="21178c5951fa3821369c4197af488486" sha1="b6978a440acf1fff424807f101a3682c3ce2465e"/>
+	</game>
+	<game name="BMB Karaoke 130 (Japan)" type="cd" sha1="b7ab77c35d95fd8687531d4bff29ec4c232260c7" size="504279367" crc="7ec9e7b2" fullsha1="d00bb420850c051007755d9f4d5c2d517e5d1b91" dataSha1="b151c4a3f62708c74f6256ebf792bab243729616">
+		<category>Games</category>
+		<description>BMB Karaoke 130 (Japan)</description>
+		<rom name="BMB Karaoke 130 (Japan) (Track 01).bin" size="825199200" crc="9a65e26c" md5="46ae2fa49c9878693f2198c7123bfbf7" sha1="f89dc8f1b41bc9c28c51e7aafa255af9cecc0e9a"/>
+	</game>
+	<game name="BMB Karaoke 131 (Japan)" type="cd" sha1="e2d3b2eaf6cbd48e7eef926df7672cc65e00d728" size="522992102" crc="fe115245" fullsha1="90e75da03348645700faa08a7d5cdd345b5aecfe" dataSha1="6ebd0f25d6904ae866e33dfb792e1fe64e3cf52b">
+		<category>Games</category>
+		<description>BMB Karaoke 131 (Japan)</description>
+		<rom name="BMB Karaoke 131 (Japan) (Track 01).bin" size="825199200" crc="9ac1bdea" md5="8223c2f93fcb6ef3cda3956877cd73a6" sha1="c351ecf2bdc1558ef02adcbe1f36612369b7736c"/>
+	</game>
+	<game name="BMB Karaoke 132 (Japan)" type="cd" sha1="633e739bf199db157f0dbaa5fd6c32476e5115b5" size="516672200" crc="fcf53393" fullsha1="b64827be90255b3fe12ec77a58cdc8c37c12f690" dataSha1="82f050db229fdfb7378ebdcf2435b29ae11042c6">
+		<category>Games</category>
+		<description>BMB Karaoke 132 (Japan)</description>
+		<rom name="BMB Karaoke 132 (Japan) (Track 01).bin" size="825199200" crc="bb852fef" md5="7a877680676118f44a015279ecb0a658" sha1="2efaaf148c7d7a3e9e586e8afca3d02970f8d445"/>
+	</game>
+	<game name="BMB Karaoke 133 (Japan)" type="cd" sha1="aae8f4525ec27cd724f9ba1d7fc3e2b7793e66fe" size="531758234" crc="9ec5388a" fullsha1="0d11ab256d4a7cd6ab99ec166ae3803e28b3b2d2" dataSha1="2511222f6ce6673d5fbc694bfa9174075973e1bf">
+		<category>Games</category>
+		<description>BMB Karaoke 133 (Japan)</description>
+		<rom name="BMB Karaoke 133 (Japan) (Track 01).bin" size="825199200" crc="6de86981" md5="541fa3c9c289c6d78d6527171beb07a2" sha1="5378f2f610891df7e9a30dced0106c3cc2bce7f2"/>
+	</game>
+	<game name="BMB Karaoke 134 (Japan)" type="cd" sha1="365cf8f9bf4622df6762c48c9e55183caad85654" size="537690916" crc="31ac16ab" fullsha1="702ab54ae9c7bf639d19a036610dd64dd967b19c" dataSha1="ad101a273e4b866fae35fff42f9c8e2441c487a8">
+		<category>Games</category>
+		<description>BMB Karaoke 134 (Japan)</description>
+		<rom name="BMB Karaoke 134 (Japan) (Track 01).bin" size="825199200" crc="de39a1a2" md5="07f72047f22d5ecfe3865bc70076c395" sha1="f1421532b784f2788bc8ad4fb3c12a91aaea002f"/>
+	</game>
+	<game name="BMB Karaoke 135 (Japan)" type="cd" sha1="1709099fa3d1e33a2fc66f415dc495d4da3fc365" size="528878098" crc="965d024b" fullsha1="408f4ec0cbc9f663e623cc5ee1b589f100b8aad6" dataSha1="2a1cadc8cb8b9304c21d6e7d846bb6b005a88177">
+		<category>Games</category>
+		<description>BMB Karaoke 135 (Japan)</description>
+		<rom name="BMB Karaoke 135 (Japan) (Track 01).bin" size="825199200" crc="f4b0b884" md5="7c59368981659cb3b42e747d33e39c5e" sha1="808fbcdcef482b04514e497d63d6ee382fe42df2"/>
+	</game>
+	<game name="BMB Karaoke 136 (Japan)" type="cd" sha1="f94e6553c1ac5d01d2d71c0bdd9059a4ddcf3a11" size="519365957" crc="9f084657" fullsha1="db9976013eb7e59cb6ad8d6c94c70f51204a5897" dataSha1="ba44b2418ddf38dbe150a6d19d686fdda233d302">
+		<category>Games</category>
+		<description>BMB Karaoke 136 (Japan)</description>
+		<rom name="BMB Karaoke 136 (Japan) (Track 01).bin" size="825199200" crc="a44ba120" md5="966968fc8f2e5038d7bfec84b4881a60" sha1="e84c5934297a3b834d7b5c7bec62d8ac5fccef0f"/>
+	</game>
+	<game name="BMB Karaoke 137 (Japan)" type="cd" sha1="919f6d8cd512182f95bc3de7f35aa4e1760db638" size="523643539" crc="27e0c6d7" fullsha1="a5d4c2316ad42666a20ca8e56f345e64456c56d1" dataSha1="5c10dc41a1a37b811e495abc0e32b7bbee7eace8">
+		<category>Games</category>
+		<description>BMB Karaoke 137 (Japan)</description>
+		<rom name="BMB Karaoke 137 (Japan) (Track 01).bin" size="825199200" crc="008e192b" md5="d61bc99b589ae4bd427be4fbdd7b32b1" sha1="28c7ded949e57e9ea5c40cd541443b33c3236ea9"/>
+	</game>
+	<game name="BMB Karaoke 138 (Japan)" type="cd" sha1="63ee1ad067b2a569a0746d80801608730ca27b5d" size="524025884" crc="4da74f87" fullsha1="363e8a579a5291c4e07dcc3da7ac7b9bca7cecff" dataSha1="32576195036e8e2c5f9910f0076557bc2760c250">
+		<category>Games</category>
+		<description>BMB Karaoke 138 (Japan)</description>
+		<rom name="BMB Karaoke 138 (Japan) (Track 01).bin" size="825199200" crc="c2f06e09" md5="49b41a4abeb330e4c2c37ce5f7c7b51e" sha1="99919d857e599dccf1c60e6bd7a986aa83e34858"/>
+	</game>
+	<game name="BMB Karaoke 139 (Japan)" type="cd" sha1="30a6eb723c828340833bbfbcfafc71a03cc6aeff" size="515478880" crc="4de5bb04" fullsha1="dd20d698478d42068e6d5192efb182671f8d20c0" dataSha1="961fee29f580a1f9f09ad8402b8c21241824eb9a">
+		<category>Games</category>
+		<description>BMB Karaoke 139 (Japan)</description>
+		<rom name="BMB Karaoke 139 (Japan) (Track 01).bin" size="825199200" crc="2b32e6f2" md5="b579d5e6fa4b07df27a558d65109ed1b" sha1="e865569d8218f4fb74c1f690cb3a7f8f25c96a91"/>
+	</game>
+	<game name="BMB Karaoke 14 (Japan)" type="" sha1="e728372f01683b3d8ae14d238c3e898b5efe78f3" size="505739023" crc="e1a4c5d7" fullsha1="60fa9ed36be5753b836b01eb10aca6d8599865f5" dataSha1="b663e182debe1f2d0c892c83f91164f27a5d48ee">
+		<category>Games</category>
+		<description>BMB Karaoke 14 (Japan)</description>
+		<rom name="BMB Karaoke 14 (Japan) (Track 01).bin" size="825199200" crc="c29dcf33" md5="587245d5fc61101efd90ae4e84bca753" sha1="f6a8ef75cd3c71a5ce3a0d56d8b156ed54411956"/>
+	</game>
+	<game name="BMB Karaoke 140 (Japan)" type="cd" sha1="ca0243501182ca553c85ed0d9df314e84f74c9f3" size="519760328" crc="18ff71a8" fullsha1="26cfe42d3218072073df50dbebae19324fa64608" dataSha1="179c7601a19a8956b802234c8bd9fd5bfb564220">
+		<category>Games</category>
+		<description>BMB Karaoke 140 (Japan)</description>
+		<rom name="BMB Karaoke 140 (Japan) (Track 01).bin" size="825199200" crc="07af3c68" md5="5e6e499a7b601099c79159ae4cbe3b06" sha1="3abbd12b758b33eeba4ffe34e0d7daa7b236b30c"/>
+	</game>
+	<game name="BMB Karaoke 141 (Japan)" type="cd" sha1="6f936829f1f2d801172eb646e3d1870bc9a760af" size="515436349" crc="ed9cf557" fullsha1="3bb95e3f77b7f04b52fc4228a4f74fd0ae5a70ec" dataSha1="b4a9ea06196a11727aa9e91be8b4a12db073d24d">
+		<category>Games</category>
+		<description>BMB Karaoke 141 (Japan)</description>
+		<rom name="BMB Karaoke 141 (Japan) (Track 01).bin" size="825199200" crc="1c852a9d" md5="76c808c9acfb24d8923f7463e1d177da" sha1="e5d902e7b3b5b06b543508a113f16140da636857"/>
+	</game>
+	<game name="BMB Karaoke 142 (Japan)" type="cd" sha1="5bda4106b650792534767cc9e4df8f1d599ff68e" size="530068902" crc="e0065dc9" fullsha1="ea444c20c733df226a34bf87a46d03f4ecb51ec3" dataSha1="bc9823ff50d9dd57059974bacf1bb9ab9e77a63e">
+		<category>Games</category>
+		<description>BMB Karaoke 142 (Japan)</description>
+		<rom name="BMB Karaoke 142 (Japan) (Track 01).bin" size="825199200" crc="02bdf2e7" md5="8605e55e3553bb6d64695e4e5d77d405" sha1="00ef75ce36c8b9cfdeaa82772e34e8cbc7381697"/>
+	</game>
+	<game name="BMB Karaoke 143 (Japan)" type="cd" sha1="29f1582425251b30158f0e939e4a344a68a623f7" size="522020714" crc="53c73077" fullsha1="44faf63ef6d69aaaf2e19958813a25e175e8ca06" dataSha1="cae2641a81447bd986cb3137ad7708918d0e333a">
+		<category>Games</category>
+		<description>BMB Karaoke 143 (Japan)</description>
+		<rom name="BMB Karaoke 143 (Japan) (Track 01).bin" size="825199200" crc="1c5a4562" md5="616cd289e99c2e14e4ac59d784e12d01" sha1="e00d730f50514f695d0adbded7b25aa2616398aa"/>
+	</game>
+	<game name="BMB Karaoke 144 (Japan)" type="cd" sha1="2b8a29e6412542a0cce68987096a6401bce458c6" size="536694010" crc="4b862095" fullsha1="c3ac22e91c66486d79e32915c39b09856c90d3a5" dataSha1="1c57d55e5e0f613c6dbb6cbf047c91ae86b75cd8">
+		<category>Games</category>
+		<description>BMB Karaoke 144 (Japan)</description>
+		<rom name="BMB Karaoke 144 (Japan) (Track 01).bin" size="825199200" crc="b75b5f5a" md5="7a6042ec242d7829efbbad397f3229e9" sha1="86928b893242dc118e89d4145382405a09602135"/>
+	</game>
+	<game name="BMB Karaoke 145 (Japan)" type="cd" sha1="da2988ee9861c83eab7a9656ec2af6f766567a80" size="526718673" crc="cc019fb7" fullsha1="0bbd19d2f445240898574cec85e5b0b3ad08714c" dataSha1="1fe0e5982e39b05fae80ca0238bd98fe2f81da0b">
+		<category>Games</category>
+		<description>BMB Karaoke 145 (Japan)</description>
+		<rom name="BMB Karaoke 145 (Japan) (Track 01).bin" size="825199200" crc="e3c3ca2d" md5="4a265320380332f7d891802336aa67a0" sha1="4f474df4d9f0278dcbaa5a84cba1e95e6b17f047"/>
+	</game>
+	<game name="BMB Karaoke 146 (Japan)" type="cd" sha1="cd2e95bab6475e478d8de062bf4e945abe5a3edd" size="504701919" crc="d1bab36f" fullsha1="86b66bb3c64b87c5e264d515fc424eb98dcf6011" dataSha1="c509f083839aea3a953780fa6b77c11b8abd692b">
+		<category>Games</category>
+		<description>BMB Karaoke 146 (Japan)</description>
+		<rom name="BMB Karaoke 146 (Japan) (Track 01).bin" size="825199200" crc="ae639f06" md5="3246dd4162cf1aed40820bd2015e5b76" sha1="3ef5fa297faa4fe20c9168f272d9348864024907"/>
+	</game>
+	<game name="BMB Karaoke 147 (Japan)" type="cd" sha1="89a385206814d4f10e1fb0148f2d40785da785b1" size="534183553" crc="41111dcb" fullsha1="76336ee9739d132ee293dd80adad77f2be9d4291" dataSha1="19cb4b35e521dfcb2c36df88fbed901f9eacecd2">
+		<category>Games</category>
+		<description>BMB Karaoke 147 (Japan)</description>
+		<rom name="BMB Karaoke 147 (Japan) (Track 01).bin" size="825199200" crc="93d67ce9" md5="234acf347356021af02572bd0da343a3" sha1="dd2e5746826b6a59334c45b81803a765cd2f0b2c"/>
+	</game>
+	<game name="BMB Karaoke 148 (Japan)" type="cd" sha1="e4d7259a479d59a4791acacaee664484e93fb273" size="536467482" crc="bc49a330" fullsha1="f8efb6dffa439fea3eadc0232d87396114a4b626" dataSha1="dfcdb8a56349714d71e09e6bbeabaa68ff477479">
+		<category>Games</category>
+		<description>BMB Karaoke 148 (Japan)</description>
+		<rom name="BMB Karaoke 148 (Japan) (Track 01).bin" size="825199200" crc="89e6c7a4" md5="a62a657443a9e433b7506e2346e3192a" sha1="1017fe3929f0a2e1d13b4e8f849b3605c612bf1b"/>
+	</game>
+	<game name="BMB Karaoke 149 (Japan)" type="cd" sha1="ae94489d3e0b0feada31650f4fa2bee7629f9f05" size="533339763" crc="14d36e4b" fullsha1="1fcea9096a9cc2a34aa2d52041d5f60a14b1da03" dataSha1="a45da3be9056a0338a816ee085a96e7e74b5fee1">
+		<category>Games</category>
+		<description>BMB Karaoke 149 (Japan)</description>
+		<rom name="BMB Karaoke 149 (Japan) (Track 01).bin" size="825199200" crc="b3058ca5" md5="2aeecd26610351c86e6eecfcb912e548" sha1="a4c1bd2bc65ffe81716de69897c9edbcb10114d3"/>
+	</game>
+	<game name="BMB Karaoke 15 (Japan)" type="" sha1="1d48dac5cd9d06dbdedf52f61d405ae2e0840219" size="489848282" crc="551fd26b" fullsha1="a679700f0f89429818fcbb2061b6cbbcf1ca07d4" dataSha1="eec8eb840bb5170fca19e28cdddd8501c5d62511">
+		<category>Games</category>
+		<description>BMB Karaoke 15 (Japan)</description>
+		<rom name="BMB Karaoke 15 (Japan) (Track 01).bin" size="825552000" crc="dd587166" md5="81d56b89eacac4adb7d9fc8bd26bb665" sha1="bd469d0db1019e9d748f3544a9eb566b604850b4"/>
+	</game>
+	<game name="BMB Karaoke 150 (Japan)" type="cd" sha1="e66d8be3b1af2f3fda108e43c59f2214aa304611" size="534588747" crc="e477a031" fullsha1="cf4a0779baed782dc536d2489205b3008f8a4982" dataSha1="5a4e2259df07148b25c8c8b81c97c577b979f759">
+		<category>Games</category>
+		<description>BMB Karaoke 150 (Japan)</description>
+		<rom name="BMB Karaoke 150 (Japan) (Track 01).bin" size="825199200" crc="da1b8dbf" md5="0f6dc3ad43808c23bf856de99b6f8d01" sha1="bbbe0cf2866fc8c5d4273fd34b28f04dbabc514b"/>
+	</game>
+	<game name="BMB Karaoke 16 (Japan)" type="" sha1="1fc9d6873d4359f27c4c45adf4f78642ec615b14" size="480680526" crc="b4e0e283" fullsha1="879ab3c1cf0204d7020f42f71be0e1a09579e3d7" dataSha1="32aca5e3891e0c61c9cc417a578591c02e0b7461">
+		<category>Games</category>
+		<description>BMB Karaoke 16 (Japan)</description>
+		<rom name="BMB Karaoke 16 (Japan) (Track 01).bin" size="825199200" crc="5a08d584" md5="db8a3e3f79a19dc4451e893bab53323b" sha1="e953c2bd15f6f58bfaaea83b043c45aad6ed4d36"/>
+	</game>
+	<game name="BMB Karaoke 17 (Japan)" type="" sha1="f844efba89aef4c6077375d1d86a66330909cfa0" size="504095243" crc="2e7fcc2e" fullsha1="f46e9e0c122d6ea2af03351a5d271ad8c0f992fb" dataSha1="bdc0b65175eb17010430ec11b8fbd6bb86ce7977">
+		<category>Games</category>
+		<description>BMB Karaoke 17 (Japan)</description>
+		<rom name="BMB Karaoke 17 (Japan) (Track 01).bin" size="825552000" crc="f9dadc9d" md5="7f1f826d18eb0fdacddf030748422162" sha1="aabff962324658448ff2e10119bd5a46bfd1138c"/>
+	</game>
+	<game name="BMB Karaoke 18 (Japan)" type="" sha1="b704c087d3c57d7c8736b227c611b5712aa9ffb9" size="477809559" crc="d459166a" fullsha1="39cc7dc05884582660d5c86efa32b0f8ec482035" dataSha1="0ae78e90a3b2566520dc8ea4a101ade098b88ae2">
+		<category>Games</category>
+		<description>BMB Karaoke 18 (Japan)</description>
+		<rom name="BMB Karaoke 18 (Japan) (Track 01).bin" size="825552000" crc="c3c6176f" md5="f82c6904f1562812a81f86040e1290e2" sha1="843e62f5489eec84321e53c4517093ed3da18c47"/>
+	</game>
+	<game name="BMB Karaoke 19 (Japan)" type="" sha1="449372f05190cfec3e9ef5fd5ef1c32ec7822ce5" size="492807041" crc="f7aa4af5" fullsha1="fb41e4b27b2b1c0524f27ae88c1c6dcbdaf6a05b" dataSha1="dc1456e8d17cb9ca03d995f1c005ba0aadd01d2d">
+		<category>Games</category>
+		<description>BMB Karaoke 19 (Japan)</description>
+		<rom name="BMB Karaoke 19 (Japan) (Track 01).bin" size="825552000" crc="193089ed" md5="a9cff91d724536a5cf2029caf14fa9b7" sha1="253483b52ad3c65f102d7e6db742be81e642a0d1"/>
+	</game>
+	<game name="BMB Karaoke 2 (Japan)" type="" sha1="839524e514a7f7016291954a2721fec98a9ba453" size="548669952" crc="ad51feb9" fullsha1="848525a53760d1fe5b99a443c957bb57838d72f8" dataSha1="a38586f8ec552e46b5bf7c8ce949480a790c7a03">
+		<category>Games</category>
+		<description>BMB Karaoke 2 (Japan)</description>
+		<rom name="BMB Karaoke 2 (Japan) (Track 01).bin" size="825552000" crc="1be72e61" md5="084e1b53b35b361715a8ad9f77b0943a" sha1="7583668d197dc758ce45d1c8337b414b3e4fc31b"/>
+	</game>
+	<game name="BMB Karaoke 20 (Japan)" type="" sha1="7e33ace15c78b808d31616055b9686dcd2c7946f" size="473224216" crc="337decf5" fullsha1="2cdeb5d74888e81b0191ae0f78f017bdca0dfcaa" dataSha1="8e29af6d645eac2ecc582e927238d9086be8d931">
+		<category>Games</category>
+		<description>BMB Karaoke 20 (Japan)</description>
+		<rom name="BMB Karaoke 20 (Japan) (Track 01).bin" size="825552000" crc="9b6e3559" md5="c7dd5cb7dc8e5561eb9b85c69410bffa" sha1="7a1b7d3b550aac364a8cefb35bda26f928232e36"/>
+	</game>
+	<game name="BMB Karaoke 21 (Japan)" type="" sha1="eaef989321f480a256356ccc35fb83a3e0b75425" size="483210933" crc="50fc8603" fullsha1="808a447591c57d3a9749b0d748759d85b1b11dd4" dataSha1="fc20150fd85e3f26d30eae410050378b34cad33e">
+		<category>Games</category>
+		<description>BMB Karaoke 21 (Japan)</description>
+		<rom name="BMB Karaoke 21 (Japan) (Track 01).bin" size="825552000" crc="b256e8ab" md5="9b85adf156c8294a5e8fcc53c7d112ef" sha1="f09574eee3d802fc334b65457b7a7bb97336dbe3"/>
+	</game>
+	<game name="BMB Karaoke 22 (Japan)" type="" sha1="8a7ff5bbf238c6ce8743768cb2b485fa34a9a940" size="540632263" crc="cba436d4" fullsha1="06416967019b25e564d9b3b154b722c25a2c2e90" dataSha1="c07445db259a9b8b233c7f48efac746a7fee402d">
+		<category>Games</category>
+		<description>BMB Karaoke 22 (Japan)</description>
+		<rom name="BMB Karaoke 22 (Japan) (Track 01).bin" size="825552000" crc="7de90cb7" md5="20c25d3b6406c077a1f0fad070ed5274" sha1="21439a31717669b6c6e544aa98487eaed61ea2f3"/>
+	</game>
+	<game name="BMB Karaoke 23 (Japan)" type="" sha1="16eaf68ee2987899f96c9242f74dcf821cf3d91a" size="520380136" crc="46138cda" fullsha1="289355a9894f95746362cad46171c94459e2091d" dataSha1="4ae2268c53e8aaa40acaf2a89a37245204aa9503">
+		<category>Games</category>
+		<description>BMB Karaoke 23 (Japan)</description>
+		<rom name="BMB Karaoke 23 (Japan) (Track 01).bin" size="825552000" crc="be84232b" md5="810977a06e3848f236b1dfaf991a6d73" sha1="d3e44f0a2c73bc23aaea2ea667e25ec587b3ec94"/>
+	</game>
+	<game name="BMB Karaoke 24 (Japan)" type="" sha1="cb4c5af8d7c15a2967e709a765d9d3daac4df4c3" size="479560470" crc="610026ff" fullsha1="cffeaa22c6eb67efc5693f3baf1e0660b255230e" dataSha1="47bfe17fa770f6a5e9cdb71f485aa00f30824b08">
+		<category>Games</category>
+		<description>BMB Karaoke 24 (Japan)</description>
+		<rom name="BMB Karaoke 24 (Japan) (Track 01).bin" size="825199200" crc="3f37b240" md5="87cd6c0663cba54cecb6f7b5523d6aab" sha1="3af93f2b5303ade1b0c59489b8d2e9b642dd7f16"/>
+	</game>
+	<game name="BMB Karaoke 25 (Japan)" type="" sha1="9d876912bcaaecef17db201906d7451f352ad0d9" size="473875650" crc="d17e9b1d" fullsha1="2fb51c024f949ea40f9f7398af09df318fc6d3db" dataSha1="b2924ffd9a036e31c713bce2666e557d956e2e18">
+		<category>Games</category>
+		<description>BMB Karaoke 25 (Japan)</description>
+		<rom name="BMB Karaoke 25 (Japan) (Track 01).bin" size="825552000" crc="712d377e" md5="f407168caed44b8ba1c282605b83cc51" sha1="e7050a0e4da771c538e2bab6f13d735aad1399d8"/>
+	</game>
+	<game name="BMB Karaoke 26 (Japan)" type="" sha1="a49504331f66ae881c5a720e16ba7b64b57bc9e1" size="460975165" crc="efd289fb" fullsha1="5b5208b934ff777e5a665f3d2af2b041676486e4" dataSha1="00e42d1836ceb2be34e2e26b32ff5f6318eb84cf">
+		<category>Games</category>
+		<description>BMB Karaoke 26 (Japan)</description>
+		<rom name="BMB Karaoke 26 (Japan) (Track 01).bin" size="825199200" crc="6cd0797f" md5="769915a60cc3a595dd221f7d7bdbc600" sha1="de26478bf85fe7cd730fbd19fda9587bd4a85db6"/>
+	</game>
+	<game name="BMB Karaoke 27 (Japan)" type="" sha1="b0c18305eda08e948deb1c6f172a4ace80124684" size="501443594" crc="1f5cd7bb" fullsha1="087d8d248af81548ae1712658846fca6450bdf4b" dataSha1="29dcf2f663411c8e6607c5c7c2f08ac788c89628">
+		<category>Games</category>
+		<description>BMB Karaoke 27 (Japan)</description>
+		<rom name="BMB Karaoke 27 (Japan) (Track 01).bin" size="825199200" crc="0c2f0b7d" md5="3b1e6cc04c573756cdd756171c6cd613" sha1="9ca2146081dd06748e0a9a5d4305b5b690f34b81"/>
+	</game>
+	<game name="BMB Karaoke 28 (Japan)" type="" sha1="fa9cef5fcdb40326be6028fbb62919e2aa006c17" size="506203629" crc="160ca59c" fullsha1="bd44119910a22453dc34772bc719d405307e6cc0" dataSha1="2edb9c5abf510b555619d5dbc32ddb5c413290da">
+		<category>Games</category>
+		<description>BMB Karaoke 28 (Japan)</description>
+		<rom name="BMB Karaoke 28 (Japan) (Track 01).bin" size="825199200" crc="3040c8d5" md5="72a8465c01c26020e71d65105576f7fb" sha1="d9020a6cebc1d94cf2d81784281a5bac8cccdc13"/>
+	</game>
+	<game name="BMB Karaoke 29 (Japan)" type="" sha1="10863f299d60dd3e26d5b7c7884a401f7c2bd121" size="470883759" crc="f5038ea6" fullsha1="e1f6a9b077a7f4799ebc00e52d28e9b3b50c9780" dataSha1="0fdb47325325ba83de283e1e3738f65d99c054fe">
+		<category>Games</category>
+		<description>BMB Karaoke 29 (Japan)</description>
+		<rom name="BMB Karaoke 29 (Japan) (Track 01).bin" size="825199200" crc="6e19fbde" md5="23e26753244b8cbe8e5fb7bc5b7e4802" sha1="75c4b7a05d01bd4b4e22b64fea51760458532dfb"/>
+	</game>
+	<game name="BMB Karaoke 3 (Japan)" type="" sha1="2f45e35ca1360bf77b312aef054f1f491941ca14" size="524912461" crc="66ded10d" fullsha1="8a9917db358a44270d3f3ded8a13c0c28db4e39d" dataSha1="8d928809c1cf71c18cd06904fc0c354539c45e3b">
+		<category>Games</category>
+		<description>BMB Karaoke 3 (Japan)</description>
+		<rom name="BMB Karaoke 3 (Japan) (Track 01).bin" size="825199200" crc="45108515" md5="2ee7a9c4aede7511d20a3ef8a89f1c9e" sha1="4d68dfc97d8932a722341b3c1767a73a784cf509"/>
+	</game>
+	<game name="BMB Karaoke 30 (Japan)" type="" sha1="8a34e12a6f904aa87d6fba53dd6cdc88f3100b43" size="535262886" crc="686e0056" fullsha1="2e083ced0a26af8e0b35cade2a47e7714000cd67" dataSha1="b683bceb0ed116c2c6b58bbab00106b49fdd7784">
+		<category>Games</category>
+		<description>BMB Karaoke 30 (Japan)</description>
+		<rom name="BMB Karaoke 30 (Japan) (Track 01).bin" size="825552000" crc="82dbd94b" md5="b6c3d79e9c14cac13adb6ecce72ac624" sha1="355afd2e2e4af908d6f73a82263f7fdf75900a31"/>
+	</game>
+	<game name="BMB Karaoke 31 (Japan)" type="" sha1="ecde006c96480690d0371482b545f76a9460a750" size="533801038" crc="d7167768" fullsha1="cb216e559ca23df419693c2e3ecd4315ba9fc2a4" dataSha1="e533f072df7663940fd7708864b2d41a3fac1379">
+		<category>Games</category>
+		<description>BMB Karaoke 31 (Japan)</description>
+		<rom name="BMB Karaoke 31 (Japan) (Track 01).bin" size="825199200" crc="f474f25e" md5="1f91e19464199bfb1b771e9534e30c82" sha1="a0285b0fbed4dcaec26f34f4f4c6cfec2deed9a9"/>
+	</game>
+	<game name="BMB Karaoke 32 (Japan)" type="" sha1="95951b68f80a4c048290a2bec60cea8f86060c27" size="490445404" crc="bb9b409c" fullsha1="f09a6754365596c8c67ec164cf7a02982b0c60f1" dataSha1="15d040ab3fea5c8e0692711df87de153f37de079">
+		<category>Games</category>
+		<description>BMB Karaoke 32 (Japan)</description>
+		<rom name="BMB Karaoke 32 (Japan) (Track 01).bin" size="825552000" crc="0eefa851" md5="6f95c0536b8e090d34deaf80a5be69fd" sha1="32764e914919556ea76f0fa5605a5cc83e81a4a9"/>
+	</game>
+	<game name="BMB Karaoke 33 (Japan)" type="" sha1="6f2166ca2609a43fce37533e41cad3dfed844c71" size="508859300" crc="9b6784ca" fullsha1="1cd4db6d363d02442fb731817bf509ca970bf7b4" dataSha1="88a583cd1d9be450b98cbcc28cb46aff0444b567">
+		<category>Games</category>
+		<description>BMB Karaoke 33 (Japan)</description>
+		<rom name="BMB Karaoke 33 (Japan) (Track 01).bin" size="825199200" crc="02e6577d" md5="83731d198e5c5ca36bd7cc0047c75b01" sha1="21369fb092e67e5e1efb365ff84ec189250dfbc1"/>
+	</game>
+	<game name="BMB Karaoke 34 (Japan)" type="" sha1="6c993070610d648f3affaab6ea7487f80fff851b" size="538097687" crc="a378f517" fullsha1="fef64cee9a0d7ee8094fffdca86a4ba7011d069b" dataSha1="f011a2b1a1084b33b4b79ee523a45b7f3e7a255e">
+		<category>Games</category>
+		<description>BMB Karaoke 34 (Japan)</description>
+		<rom name="BMB Karaoke 34 (Japan) (Track 01).bin" size="825199200" crc="b9d402d8" md5="fed83667a1eaa88a65d6d9f952b0e1fb" sha1="fc17563dcb633dd7752cc4f031b57b671f7cec5a"/>
+	</game>
+	<game name="BMB Karaoke 35 (Japan)" type="" sha1="cd902d0595c952bd9c0599f5f6b4cca4e7ed6fdf" size="499528584" crc="cd8022c2" fullsha1="348247c2b33ac54d257c710d825b2642943399ba" dataSha1="e96ce7d79e47d91881121bb0539fe83aa569fdff">
+		<category>Games</category>
+		<description>BMB Karaoke 35 (Japan)</description>
+		<rom name="BMB Karaoke 35 (Japan) (Track 01).bin" size="825199200" crc="db4d61ba" md5="947757d1dcd407279791becb7cdf0d07" sha1="6c41eb7b78fc70b9152449b4cd33b0f62e6a6e5b"/>
+	</game>
+	<game name="BMB Karaoke 36 (Japan)" type="" sha1="021d7090f6ca955b25217cf30ff0b9114b368e89" size="536388632" crc="e08591d1" fullsha1="3df36f0697b1b37b912c4afed700dd3b2713b7b4" dataSha1="4185f4c20cf47e864a34942b08625a71c2b99cdd">
+		<category>Games</category>
+		<description>BMB Karaoke 36 (Japan)</description>
+		<rom name="BMB Karaoke 36 (Japan) (Track 01).bin" size="825199200" crc="550ba11e" md5="dedc549db4806e72b65bae83f0950f84" sha1="b14e0b33bc226eca5847355a0d77961b8192efd6"/>
+	</game>
+	<game name="BMB Karaoke 37 (Japan)" type="" sha1="f82d93a4e8eaf4c2fd6f383638ee4d32e56023ba" size="508688534" crc="96b9b83f" fullsha1="b81cb640420800bec27037c7007a6f27bac32b49" dataSha1="c5419c0fc495e845d2519c68f4c2d4af9f1ca180">
+		<category>Games</category>
+		<description>BMB Karaoke 37 (Japan)</description>
+		<rom name="BMB Karaoke 37 (Japan) (Track 01).bin" size="825199200" crc="250eaa12" md5="1da4f9761ed0d5bb452743264a867f53" sha1="f3e86caa0395d4dff513d1e5a17d6a889cf25266"/>
+	</game>
+	<game name="BMB Karaoke 38 (Japan)" type="" sha1="1d302f47c8f66818b389034f2f04e30c3158b581" size="455218632" crc="aadee2b5" fullsha1="e0fc4cbe8055231784c88091ab2b78cf8057e4af" dataSha1="7a31779a5eaa11ab50e09920ae95eed2cca03a5f">
+		<category>Games</category>
+		<description>BMB Karaoke 38 (Japan)</description>
+		<rom name="BMB Karaoke 38 (Japan) (Track 01).bin" size="825199200" crc="e9efaa00" md5="fd36aef0743c275f0db255b415a19e6b" sha1="e27b698789528305b81212704130df99a33770f0"/>
+	</game>
+	<game name="BMB Karaoke 39 (Japan)" type="" sha1="94a4e45fd87bb879879385a286aff4730bcc4e3b" size="511629651" crc="23bb8ecb" fullsha1="0fe989769fcca38115c98f6cc5c72c5d825e4d16" dataSha1="25914eef681bd0f7b83b3e3daa48cc11931e60c8">
+		<category>Games</category>
+		<description>BMB Karaoke 39 (Japan)</description>
+		<rom name="BMB Karaoke 39 (Japan) (Track 01).bin" size="825199200" crc="1598954d" md5="78fc870579c359c6399791ced6a5f87e" sha1="8c61f77f9b05ecf3135a14ca50bfe99de678462c"/>
+	</game>
+	<game name="BMB Karaoke 4 (Japan)" type="" sha1="ec1820f0b475cc4a56ee1d203918895bda2d16c9" size="509808497" crc="7f3ffa57" fullsha1="e3a22e5a53fa2f0f3992f426efd886e9487f5210" dataSha1="886d29fd5b96b9b31b55ce85cf163f0cca01500f">
+		<category>Games</category>
+		<description>BMB Karaoke 4 (Japan)</description>
+		<rom name="BMB Karaoke 4 (Japan) (Track 01).bin" size="825552000" crc="195e36d5" md5="9704cd2d3e61f41c3e8f1e6fecdb05f4" sha1="9e1acd4c0d1c2c7549d8f3b35264ffc991aa0054"/>
+	</game>
+	<game name="BMB Karaoke 40 (Japan)" type="" sha1="f8e3586271e9ed88f478f2c8fdab58c623984d20" size="547588854" crc="5f5d9783" fullsha1="6e29f4f70f5219acb16196deea568b634152ed7e" dataSha1="256142f5bd44071f0e6221b39bad5263fefd9fac">
+		<category>Games</category>
+		<description>BMB Karaoke 40 (Japan)</description>
+		<rom name="BMB Karaoke 40 (Japan) (Track 01).bin" size="825199200" crc="36b87617" md5="c406d55a73e128d3fbdf403bc1eb7a34" sha1="1faa788554e20d41e9f8195faad29d6c507ce973"/>
+	</game>
+	<game name="BMB Karaoke 41 (Japan)" type="" sha1="9ccedae552e21b58324f5ca4904aeb007674cf83" size="471056847" crc="cccf4295" fullsha1="d8c721c615c485dd1a252ec602824fe095d716cb" dataSha1="32d9b884641b5d8c815721411ba235970bd9ddd9">
+		<category>Games</category>
+		<description>BMB Karaoke 41 (Japan)</description>
+		<rom name="BMB Karaoke 41 (Japan) (Track 01).bin" size="825199200" crc="a8ecdf96" md5="467c273863e225c277e434268b90a250" sha1="f503687915280dc893043c3c7e3b297145e3a04b"/>
+	</game>
+	<game name="BMB Karaoke 42 (Japan)" type="" sha1="603932644895f0b3b62f531c36932c124ef24310" size="497974934" crc="4cdd295d" fullsha1="d0dd6973c3205fbf3ad7f4b21dd72416e7d4d4f7" dataSha1="665e65bba57118e4f21112d26956cc87b99ab132">
+		<category>Games</category>
+		<description>BMB Karaoke 42 (Japan)</description>
+		<rom name="BMB Karaoke 42 (Japan) (Track 01).bin" size="825199200" crc="49e107af" md5="88fcba6a6f057a3791dcff15d68c1344" sha1="3433ec470fd94e188046e32ee8350214f9283a61"/>
+	</game>
+	<game name="BMB Karaoke 43 (Japan)" type="" sha1="a5aa739fe159148d3b92756b7a5c924f418aacc7" size="531560291" crc="d56b5d99" fullsha1="4858484f87c73ad467664cb232450c8433d023d2" dataSha1="9f942483a5f0a9f46e9889e42b90209b236aab37">
+		<category>Games</category>
+		<description>BMB Karaoke 43 (Japan)</description>
+		<rom name="BMB Karaoke 43 (Japan) (Track 01).bin" size="825199200" crc="1946f8f2" md5="b3cbd197c562cba69c02df500bf95f5f" sha1="e4c31e3f8145d367a01494cc0b40f58a0df96cf8"/>
+	</game>
+	<game name="BMB Karaoke 44 (Japan)" type="" sha1="648ad7e78523a36ffc8fac9f02c974c9212698d6" size="531877981" crc="8e2de776" fullsha1="f42a0bea2b79016b0648244c52a2fe46f1c7cfc7" dataSha1="18e4eec05b0164cfcbb8f2b44f548908460d412f">
+		<category>Games</category>
+		<description>BMB Karaoke 44 (Japan)</description>
+		<rom name="BMB Karaoke 44 (Japan) (Track 01).bin" size="825552000" crc="c408e4e5" md5="4b90f0d8af9e27edcfa65b0ea156dc1f" sha1="85b38a9c23a747b6995c3918bfd94c7647ab62e7"/>
+	</game>
+	<game name="BMB Karaoke 45 (Japan)" type="" sha1="70c0e49693aaf9190b6e187ca1024d9c4eeb2b4a" size="470766989" crc="a5c52bdf" fullsha1="8f2c201fe664c74bfe643b3b5915fd1d3bf26e5a" dataSha1="7057443e47d6ab99ca78ec206776afb6c2bdcfe2">
+		<category>Games</category>
+		<description>BMB Karaoke 45 (Japan)</description>
+		<rom name="BMB Karaoke 45 (Japan) (Track 01).bin" size="825552000" crc="c2004ed9" md5="268f0aaddc796e4c9b4250cf96860e6c" sha1="4648c813f19cb6e1b21733cd22d43e6ae4b55e72"/>
+	</game>
+	<game name="BMB Karaoke 46 (Japan)" type="" sha1="eaaa27f7915f8f330a305f6fc58d43fa12570c80" size="452989006" crc="54493442" fullsha1="8b9a190e8ab2096e560efe61e5bc1958985fdc46" dataSha1="6e9c8953c2aff5337a0b356156c51e7b9d9b1207">
+		<category>Games</category>
+		<description>BMB Karaoke 46 (Japan)</description>
+		<rom name="BMB Karaoke 46 (Japan) (Track 01).bin" size="825552000" crc="42e765ce" md5="166d4925c1062dbc195fe860092f36f1" sha1="78c0f7f3770a56cffb58ecd32035e697c625bf72"/>
+	</game>
+	<game name="BMB Karaoke 47 (Japan)" type="" sha1="ba7341f304e374191cd09a949edfa2ce9b95c40d" size="418115860" crc="95a7edb4" fullsha1="9b5e7702275e23679d0623db06c01c2c6b5b3bf5" dataSha1="e964dc2108566592d9aa73d70658eac808ca794f">
+		<category>Games</category>
+		<description>BMB Karaoke 47 (Japan)</description>
+		<rom name="BMB Karaoke 47 (Japan) (Track 01).bin" size="825552000" crc="714c0bc6" md5="40821fc4fa37c4224b26f19a017e3395" sha1="7ca45d3c2c479a130e93b2d8a2d28c796fc067a3"/>
+	</game>
+	<game name="BMB Karaoke 48 (Japan)" type="" sha1="7654011bc6f21998c4544a3747395c4459c284e4" size="444527041" crc="a3d687c4" fullsha1="caf85e441020650412ffd32f64ea2f157850b947" dataSha1="f83afe29fb506d3e1136b551f6ddaedfe03b12e5">
+		<category>Games</category>
+		<description>BMB Karaoke 48 (Japan)</description>
+		<rom name="BMB Karaoke 48 (Japan) (Track 01).bin" size="825552000" crc="2825b01e" md5="653a7faeef8439a9c7c2a7cb1b031f73" sha1="e8640596deb6205196f39eed45f21652f45f0afe"/>
+	</game>
+	<game name="BMB Karaoke 49 (Japan)" type="" sha1="9a713e9ed7bde2556f2b6e5d6aa5dbcb38ab7cae" size="526225990" crc="5ff2adb5" fullsha1="4a33ee55e10e2bf8483be3c306c2f5ad06ff7c5a" dataSha1="242016d599aa9bc73798308a4dbe4584834667ca">
+		<category>Games</category>
+		<description>BMB Karaoke 49 (Japan)</description>
+		<rom name="BMB Karaoke 49 (Japan) (Track 01).bin" size="825552000" crc="8aa66d69" md5="b6334cf107137eb5dcb3c8711bbf2392" sha1="b6408d35504a8f6ead87c3005c070248f20076ca"/>
+	</game>
+	<game name="BMB Karaoke 5 (Japan)" type="" sha1="f1fa50e01b3fa66d52e36925190a3941428552f4" size="492576751" crc="5d0837e0" fullsha1="b596694f0bc46a3ce93571e37c67683ecd6172d0" dataSha1="708fc9b15265988993108a61b45bfcd0dc42bce0">
+		<category>Games</category>
+		<description>BMB Karaoke 5 (Japan)</description>
+		<rom name="BMB Karaoke 5 (Japan) (Track 01).bin" size="825552000" crc="89aaddc6" md5="24d2c188cefddb533afc165615572a91" sha1="54a218597c68a65b96993dd66161300d609f5021"/>
+	</game>
+	<game name="BMB Karaoke 50 (Japan)" type="" sha1="c2cfe35232061e3063f4b2b42e41c1f965088f54" size="523757789" crc="7ce904f5" fullsha1="a36edba10acd6d217c3c0054f4c7e2df74d5b63a" dataSha1="da96c245ed9ce25e0a21e23d4a2c9f9a0741259e">
+		<category>Games</category>
+		<description>BMB Karaoke 50 (Japan)</description>
+		<rom name="BMB Karaoke 50 (Japan) (Track 01).bin" size="825552000" crc="a0a308eb" md5="d8d8e1315f3fd79387f8eb195926e9b7" sha1="450e88fe2138b2fb2b4523b1d789cb6f9ec3575a"/>
+	</game>
+	<game name="BMB Karaoke 51 (Japan)" type="" sha1="dadf85f870124110c190412bc23aa0f35cf99593" size="453291588" crc="44afc444" fullsha1="6204a0cf1510dfc382e8b4ebc72babab96209688" dataSha1="3562e352615b2adacfb6ccdc5e6da1445bf1fe55">
+		<category>Games</category>
+		<description>BMB Karaoke 51 (Japan)</description>
+		<rom name="BMB Karaoke 51 (Japan) (Track 01).bin" size="825199200" crc="aa1031b1" md5="d5eef0cdcc15864df001cd22467525dc" sha1="cf6c8c7214c574633fd6853b5f343cf834cadd6f"/>
+	</game>
+	<game name="BMB Karaoke 52 (Japan)" type="" sha1="97214c2f561aea044074aaca0b53bb01d9c16927" size="485365391" crc="b43a4cf3" fullsha1="481ffaaa40c156922d77d76e17a9afd32522fcca" dataSha1="c9ce6dc6426a4246c7cfd36c8c53fd0c9a8b82af">
+		<category>Games</category>
+		<description>BMB Karaoke 52 (Japan)</description>
+		<rom name="BMB Karaoke 52 (Japan) (Track 01).bin" size="825199200" crc="715476ed" md5="666565b90fdb81aed1f09fbd09ac7f0f" sha1="a6c9a16566e031436e2f425aca9fccc38e6df451"/>
+	</game>
+	<game name="BMB Karaoke 53 (Japan)" type="" sha1="4a459ff4b95a5db8a09b0b466fb6796c6689f544" size="542519262" crc="27e6faa1" fullsha1="1873054fa5ab00785f207af5122c5dd937fa5826" dataSha1="0dcb1dbcfac51673703658a90965bcf1ea740e51">
+		<category>Games</category>
+		<description>BMB Karaoke 53 (Japan)</description>
+		<rom name="BMB Karaoke 53 (Japan) (Track 01).bin" size="825199200" crc="489f0ffa" md5="8ef9c7898c70df7a99cf8c2b8956d65c" sha1="ea00af8e62c5ecb5d7537b18fa240950e672493a"/>
+	</game>
+	<game name="BMB Karaoke 54 (Japan)" type="" sha1="67bddf71cd992b741a700a6243695556ae16c999" size="462978088" crc="98b107f5" fullsha1="779c7637f168b2601396697bedb8040e8e68439f" dataSha1="63d3b878a8f195a75ec4d6ea046c1cfc18b3b59d">
+		<category>Games</category>
+		<description>BMB Karaoke 54 (Japan)</description>
+		<rom name="BMB Karaoke 54 (Japan) (Track 01).bin" size="825199200" crc="76537265" md5="4437d0e3138c637c77fd898029b8792a" sha1="db2118d051a0d1242e4a1afc70a2b54883509c9b"/>
+	</game>
+	<game name="BMB Karaoke 55 (Japan)" type="" sha1="07b82154310ac8b9723ef0ca0534bfe9d4493066" size="509284700" crc="e1416383" fullsha1="f8d67c3f0be8f7100c6b29d37eb0d3f01d9b2df9" dataSha1="1d21e2100045133bdb6a248c6d52c8b27233972f">
+		<category>Games</category>
+		<description>BMB Karaoke 55 (Japan)</description>
+		<rom name="BMB Karaoke 55 (Japan) (Track 01).bin" size="825199200" crc="08e443ba" md5="1edc25ebfbb4fd40f1fcfe1b65f89464" sha1="f4efbf3c708a481ab83fed7d7736d2ae83824738"/>
+	</game>
+	<game name="BMB Karaoke 56 (Japan)" type="" sha1="63feb864b11e5022bc8a800855cdb032ae07815f" size="531037409" crc="6279f745" fullsha1="55bda90b80c81932a0286a3ae7e30a0472394844" dataSha1="3606973bf5f8c46e2cc9084aea017c7506671fc3">
+		<category>Games</category>
+		<description>BMB Karaoke 56 (Japan)</description>
+		<rom name="BMB Karaoke 56 (Japan) (Track 01).bin" size="825199200" crc="6b6fd2e7" md5="9d7c59ea76549842ffd0d45b8221f79e" sha1="fe6f165f948b826c33832cb67dfeb9807765fc2e"/>
+	</game>
+	<game name="BMB Karaoke 57 (Japan)" type="" sha1="9478edc98adf1fbeac506db280f761d3ef92efd8" size="538224837" crc="37bb7d25" fullsha1="fd7fac1f8894968eb2db0a2b3c1275ea1be8c869" dataSha1="0a1043843ec35d66a9cc563ece524a1a60558395">
+		<category>Games</category>
+		<description>BMB Karaoke 57 (Japan)</description>
+		<rom name="BMB Karaoke 57 (Japan) (Track 01).bin" size="825199200" crc="9e11a72d" md5="b6a6dfd0eacdd2fdd5431bf9f54c31f2" sha1="e62d81f7dfc11fad7eb7e331b65b8457dbfd4af3"/>
+	</game>
+	<game name="BMB Karaoke 58 (Japan)" type="" sha1="feaf836bff1dcbca2dd18e061101d6bfb4cd8635" size="545154147" crc="dfe0b7c4" fullsha1="d4b45e7edd5960f0a9cda6d3c0126fc5dd24ab7c" dataSha1="93d290676ff49d2c43588c9b532ffd96e8d998c0">
+		<category>Games</category>
+		<description>BMB Karaoke 58 (Japan)</description>
+		<rom name="BMB Karaoke 58 (Japan) (Track 01).bin" size="825199200" crc="bf2db4b9" md5="8b489b61a76fcabb3dff88cff2ba765e" sha1="f285a186a42721dc46e0a2ae3e9412614e4db5e1"/>
+	</game>
+	<game name="BMB Karaoke 59 (Japan)" type="" sha1="7fdc5477d2ae1ae8343a7d0d13c0071841795e89" size="453720313" crc="4720cf90" fullsha1="9f2f375223425db2629b32a1d0f8b6a0d09fcacd" dataSha1="3ce0a3deb09ae42408f5a308014905f337fa0cdc">
+		<category>Games</category>
+		<description>BMB Karaoke 59 (Japan)</description>
+		<rom name="BMB Karaoke 59 (Japan) (Track 01).bin" size="825199200" crc="b399203a" md5="0cb40e3834bf2cfd19d177b4fb09ec3b" sha1="51fbbe6890e89b9873a1158fa2d8a1bae5632124"/>
+	</game>
+	<game name="BMB Karaoke 6 (Japan)" type="" sha1="b5da06df7f6bbfbd799279ed95775a67d0d98784" size="532611616" crc="fd0c25b9" fullsha1="5cf8e6b441f716378f4a1cdefdb55201afb37662" dataSha1="308b506e9a36222f6f7030651883a9a5731cefd7">
+		<category>Games</category>
+		<description>BMB Karaoke 6 (Japan)</description>
+		<rom name="BMB Karaoke 6 (Japan) (Track 01).bin" size="825552000" crc="53611095" md5="592c3d580c87243424dce9b77b68bf21" sha1="b5c1c950e2e699b6d89c054b4d7ec3ca58885460"/>
+	</game>
+	<game name="BMB Karaoke 60 (Japan)" type="" sha1="a21633c462b9ced606c6845328f540a703b9210c" size="453917045" crc="6b114665" fullsha1="fce2cb2d2baf091abb049ca9660351e6527cbb21" dataSha1="97f074c211ded3cd1e663c35292688424b40327c">
+		<category>Games</category>
+		<description>BMB Karaoke 60 (Japan)</description>
+		<rom name="BMB Karaoke 60 (Japan) (Track 01).bin" size="825199200" crc="562189f5" md5="cb532da8330351da357cf8c20aa4138a" sha1="038d1221e7d066ca669468a6181f19a1aa5e8489"/>
+	</game>
+	<game name="BMB Karaoke 61 (Japan)" type="" sha1="cac07abb157cf53ce611fb1a3cbe5d7af0cbc16e" size="537488972" crc="d689bcb0" fullsha1="24562000ff4b1c7a1622846117bf143e165c4f87" dataSha1="622f44f846112a585cc34a5d5eaca02e7e3068df">
+		<category>Games</category>
+		<description>BMB Karaoke 61 (Japan)</description>
+		<rom name="BMB Karaoke 61 (Japan) (Track 01).bin" size="825199200" crc="722aef10" md5="3ae23ab551efc3e7cd51271e37e46464" sha1="f1c7dcb6bb66c8a2ec43160944a1752d8b6147b9"/>
+	</game>
+	<game name="BMB Karaoke 62 (Japan)" type="" sha1="c6b2626c8c91b16c62ae6411c61ae8412988345a" size="543380438" crc="4bfd5929" fullsha1="5dc44cd80f7268d0c73e161c9aa673f4bffdf048" dataSha1="454924fb830e5e7cfbae313e66817c6ca598d63a">
+		<category>Games</category>
+		<description>BMB Karaoke 62 (Japan)</description>
+		<rom name="BMB Karaoke 62 (Japan) (Track 01).bin" size="825199200" crc="7c246c9b" md5="6de13f4f23003ddc340cc76a7db3a9a2" sha1="aa44b83b75f7b707bd76cf52684bfc73044e2e33"/>
+	</game>
+	<game name="BMB Karaoke 63 (Japan)" type="" sha1="b6dd222781ccdb19354c9a8477858a4fbd9d339d" size="424235340" crc="1e5d0909" fullsha1="91cff5d26028286a108f26738e34e2ee72e18a97" dataSha1="36e52445017b62218505bc85b00928d316942337">
+		<category>Games</category>
+		<description>BMB Karaoke 63 (Japan)</description>
+		<rom name="BMB Karaoke 63 (Japan) (Track 01).bin" size="825199200" crc="e256df04" md5="f0975c2dec5990f5121892a5c9e003b6" sha1="48e4acf6129799caa9580923f76609b6019b18db"/>
+	</game>
+	<game name="BMB Karaoke 64 (Japan)" type="" sha1="3bb7266a8f2d4a37915df0fce84c7ca8dde2b31d" size="443442869" crc="3a679b75" fullsha1="9f669f0fffe320416f601b2a1552f3c4a38c2ced" dataSha1="5630ac345cd398d52ca09fe908eab44f0f4eac95">
+		<category>Games</category>
+		<description>BMB Karaoke 64 (Japan)</description>
+		<rom name="BMB Karaoke 64 (Japan) (Track 01).bin" size="825199200" crc="4b994c47" md5="ef3a5b223abebf254ec3554ef56b505e" sha1="3f286597118553ee53d20a822270e2bb8c8b3060"/>
+	</game>
+	<game name="BMB Karaoke 65 (Japan)" type="" sha1="dcf5dbe291a3888e952db9e2ed9aadc27559480d" size="477797273" crc="23772afe" fullsha1="9b9dfa72fc3c077fecee37f2e3b12c73533157e2" dataSha1="e133373b787ba2d006d33130fc25b9288dcb3fe2">
+		<category>Games</category>
+		<description>BMB Karaoke 65 (Japan)</description>
+		<rom name="BMB Karaoke 65 (Japan) (Track 01).bin" size="825199200" crc="12165db0" md5="23603ad71886d5cc55cc87385e4c0942" sha1="8120468484d9f75ff0416658b0075a806fa748d5"/>
+	</game>
+	<game name="BMB Karaoke 66 (Japan)" type="" sha1="d8f3ab67bc2d6914dcea850423d0552e7059c9b3" size="508718134" crc="fbb25903" fullsha1="44ce646eebd75dbd93587337b736487412a871bd" dataSha1="39275f70f378284f98fd1a37cc440f56decad8c5">
+		<category>Games</category>
+		<description>BMB Karaoke 66 (Japan)</description>
+		<rom name="BMB Karaoke 66 (Japan) (Track 01).bin" size="825199200" crc="2836a2de" md5="46d5d9585a801ed08813a5e21fe0abb3" sha1="7ca9d3dd4aa77e55ccdad89a2d5930e7a1d87f99"/>
+	</game>
+	<game name="BMB Karaoke 67 (Japan)" type="" sha1="0cf7e4dcf98d71803649ac334f5aa7321cd8da87" size="537067745" crc="5a9219bd" fullsha1="e32f3b7139d5cdad2e141bc6734df1ba5003c65c" dataSha1="d6ea383e361ad0e2cc41645de2e08ee373e5a6bc">
+		<category>Games</category>
+		<description>BMB Karaoke 67 (Japan)</description>
+		<rom name="BMB Karaoke 67 (Japan) (Track 01).bin" size="825199200" crc="01b8f410" md5="2be95edb506e9c667b9cf560b1a4074e" sha1="2aef11e0c50eb1c0f4d30b2ba6194a0184a4b094"/>
+	</game>
+	<game name="BMB Karaoke 68 (Japan)" type="" sha1="e8d3bf2efcface1bfb0f0d6322a211f8e7128af1" size="526624954" crc="ae6c6761" fullsha1="0cb5a183b4a4b201fdd2b645b19360e0b19e1305" dataSha1="7f76e6db834ccb0201b9add364b0780f5fec5c81">
+		<category>Games</category>
+		<description>BMB Karaoke 68 (Japan)</description>
+		<rom name="BMB Karaoke 68 (Japan) (Track 01).bin" size="825199200" crc="91ebefd7" md5="3591bf57c810ac70f5aa703234c4512d" sha1="52098db71c50a5fcad917756426c8af0ad62fdaf"/>
+	</game>
+	<game name="BMB Karaoke 69 (Japan)" type="" sha1="3d976a220ad4880aa0d978f04541176149a5d4dc" size="512126935" crc="ca3eaf84" fullsha1="2020f61b6007d7acd5cf5df2ee1c655d5b39888d" dataSha1="4f11cc8c4270bab0a8927df154a4fe413fea1ec6">
+		<category>Games</category>
+		<description>BMB Karaoke 69 (Japan)</description>
+		<rom name="BMB Karaoke 69 (Japan) (Track 01).bin" size="825199200" crc="25ddd098" md5="02da7bac20c485539bb6e298b6321aa6" sha1="abe294a536fc15db7831e05aa450bd6f607ef9e8"/>
+	</game>
+	<game name="BMB Karaoke 7 (Japan)" type="" sha1="b53147d92c2504ec0885864689d87e7cf910b71c" size="496301013" crc="aabf455c" fullsha1="f0d970a9cc89ba23e7fe0d64bd15f9ecd6b26ba6" dataSha1="d99d5d127bcc87ffd9510b896b602dccc8f42430">
+		<category>Games</category>
+		<description>BMB Karaoke 7 (Japan)</description>
+		<rom name="BMB Karaoke 7 (Japan) (Track 01).bin" size="825552000" crc="4a8d3a68" md5="4044ed1ee5d54db63b9563a57ecc9231" sha1="9b0c59997368f5dca60ee13e0987c00e706621da"/>
+	</game>
+	<game name="BMB Karaoke 70 (Japan)" type="" sha1="cdb75a721aeead2b73644b646736057b9e33efa8" size="520561713" crc="8bbbd85f" fullsha1="bb33fab51c3a4f14f777fbed610b076158048557" dataSha1="986931b6344b7ea9e637689f0ec4202b8456f300">
+		<category>Games</category>
+		<description>BMB Karaoke 70 (Japan)</description>
+		<rom name="BMB Karaoke 70 (Japan) (Track 01).bin" size="825199200" crc="ae58b93e" md5="bb5a5ceec28c651771f38fb46b5db1bb" sha1="e076c76ce4e9c23672aff3bc92bd820efaff475d"/>
+	</game>
 	<game name="BMB Karaoke 71 (Japan)" type="cd" sha1="566f256e08929934f867bb8b9d47dea4134cacb1" size="353146528" crc="032ffd8e" fullsha1="5ab25c5e4f77d3371dd1bf1899777913f4befd74" dataSha1="73847b740bd8e3b6d4bd68721b73830283354daf">
 		<category>Games</category>
 		<description>BMB Karaoke 71 (Japan)</description>
 		<rom name="BMB Karaoke 71 (Japan) (Track 01).bin" size="825199200" crc="b70a70c9" md5="7b8df866f0af5c5bfeb5e3931c239a6b" sha1="c973cca968da918de0cdd7408cd30cce931d0441"/>
+	</game>
+	<game name="BMB Karaoke 72 (Japan)" type="" sha1="ce0d2e42e53b5ccdba68e8db206e4d14faaeafab" size="351319234" crc="251cf033" fullsha1="4592d9afdc8d553c7a2205fdb86a5f407653e08f" dataSha1="71b5730d00df3595fa2f1e8c51faafb574a30549">
+		<category>Games</category>
+		<description>BMB Karaoke 72 (Japan)</description>
+		<rom name="BMB Karaoke 72 (Japan) (Track 01).bin" size="825199200" crc="d614219a" md5="41ba9347d0966e0d6f1a670c711365d2" sha1="b26e9f16b8b5d288aa874a76ec3c6d999f9f27ac"/>
+	</game>
+	<game name="BMB Karaoke 73 (Japan)" type="" sha1="e5fee4f1c81c96e5f54fb90e86c002f5ca2ac362" size="363797761" crc="78a796a1" fullsha1="1103ab92161d0a54a0c6c4d402dad50fdf0dbeb7" dataSha1="07648845828b76a256496dae9bcca8c119f369cd">
+		<category>Games</category>
+		<description>BMB Karaoke 73 (Japan)</description>
+		<rom name="BMB Karaoke 73 (Japan) (Track 01).bin" size="825199200" crc="8548c43e" md5="e3b4cae37b9dcbd9b328fc09abff1880" sha1="2861f6df4044fc0588c140260f8969e322781b79"/>
+	</game>
+	<game name="BMB Karaoke 74 (Japan)" type="" sha1="d65d2c7d09a91cd8b2d0eb89a79af2f1e16f594e" size="359201017" crc="19ecd0d8" fullsha1="1a8060bf5dcf5824e6865a99308c8a0f75e64bd9" dataSha1="c187dc73fdcc599bf58af73c69e83934326ee75c">
+		<category>Games</category>
+		<description>BMB Karaoke 74 (Japan)</description>
+		<rom name="BMB Karaoke 74 (Japan) (Track 01).bin" size="825199200" crc="dc6adc75" md5="cc3ca028a5f91e7fa6878a48b118d49b" sha1="20c4873073f850c14e2c30477232ee95bfd3b523"/>
+	</game>
+	<game name="BMB Karaoke 75 (Japan)" type="" sha1="9bd9749cad60ec0fe0e221f60d71ed0cd49210ee" size="345895768" crc="7a20446a" fullsha1="d211447aa37575f37f10a602970ee20961a966c6" dataSha1="0da07b6bb9c569680ea511da82320b33f881ccb0">
+		<category>Games</category>
+		<description>BMB Karaoke 75 (Japan)</description>
+		<rom name="BMB Karaoke 75 (Japan) (Track 01).bin" size="825199200" crc="5185815c" md5="e78180386b9f8eaa3e1231ddb7c2d177" sha1="f8dd04ef26ed14c026946cd80db08ef94a903d77"/>
+	</game>
+	<game name="BMB Karaoke 78 (Japan)" type="" sha1="0b350912e176ce6f3702fee464464a96360cd29d" size="435587392" crc="8666507b" fullsha1="6005bd33729d7cbe3b24dc6c6e6aa76886256ff2" dataSha1="fda1839a48cba140539eee1fd49e3cdd118c8fa3">
+		<category>Games</category>
+		<description>BMB Karaoke 78 (Japan)</description>
+		<rom name="BMB Karaoke 78 (Japan) (Track 01).bin" size="825199200" crc="dec5295c" md5="b2771593288f1c246119b242dbe9197a" sha1="6020f5e65afcc92aa1bb44d6415166716b63ed58"/>
+	</game>
+	<game name="BMB Karaoke 80 (Japan)" type="" sha1="08c1c0645798cdcb0c1ef88f9640d415a978b010" size="362853899" crc="d4fc8d7a" fullsha1="448e17ef203c42f4cbb647046b584ab5385a3611" dataSha1="548c3d1a2fb9ac3b19cd1880a7b81bd0021fe149">
+		<category>Games</category>
+		<description>BMB Karaoke 80 (Japan)</description>
+		<rom name="BMB Karaoke 80 (Japan) (Track 01).bin" size="825199200" crc="7f019b2c" md5="410252ec0b542055ebe398b4c18a163b" sha1="bbd5e8cabc3196eb46614d598d462cf4252a0a45"/>
+	</game>
+	<game name="BMB Karaoke 81 (Japan)" type="" sha1="8aa738881b631c9c79742f4dc8c08f43eeee5512" size="353363122" crc="6be62464" fullsha1="6e2cf11e49153c2af04b2b7a6cf5fcdb5ad5d0fd" dataSha1="905b8a19e01ac47642012c8af5deb7cc135e493b">
+		<category>Games</category>
+		<description>BMB Karaoke 81 (Japan)</description>
+		<rom name="BMB Karaoke 81 (Japan) (Track 01).bin" size="825199200" crc="93cc83be" md5="eb8cb98e2c7241e80d8033c160ea8bc5" sha1="df350714b6e7a5f18094d20148699c1ef0fcb9f4"/>
+	</game>
+	<game name="BMB Karaoke 82 (Japan)" type="" sha1="5651a41bc76e3f2a6f27c24c76e2f83f1ae603ed" size="329000621" crc="8d31d1ad" fullsha1="7f6d22197fdda7de00f79ffa3a624a3373954d06" dataSha1="9ca3d4cb618d6692c6eb432b3683cfc1fd77fe4c">
+		<category>Games</category>
+		<description>BMB Karaoke 82 (Japan)</description>
+		<rom name="BMB Karaoke 82 (Japan) (Track 01).bin" size="825199200" crc="56e66da5" md5="8bdb378da09b9884c860834fd41df9ed" sha1="b8ddb1c01e87a1b762a296e0804bb29ef4dcd781"/>
+	</game>
+	<game name="BMB Karaoke 84 (Japan)" type="" sha1="698f8b81421b1f074f31ebeb80c6d7c76b12bbd4" size="279329570" crc="def19efa" fullsha1="6dd1b952681519fafa4084cd5aa05b06f98dd418" dataSha1="0caf4cad8ee5b0e90e012531e68142320a495985">
+		<category>Games</category>
+		<description>BMB Karaoke 84 (Japan)</description>
+		<rom name="BMB Karaoke 84 (Japan) (Track 01).bin" size="825199200" crc="f04ece3d" md5="0260917eda9b0439779a438177126a14" sha1="bd2049cd17673df9c2cc934d93a16687c1308647"/>
+	</game>
+	<game name="BMB Karaoke 85 (Japan)" type="" sha1="afd8fa01bb7ebc8f9ffc53cbc8385eae6407c752" size="354899411" crc="dfffc615" fullsha1="b5c57198a2969fb36b531bb7867b9c02a37aaa72" dataSha1="62cca7ecc1f325d1f358d76e03d6557eac27cde5">
+		<category>Games</category>
+		<description>BMB Karaoke 85 (Japan)</description>
+		<rom name="BMB Karaoke 85 (Japan) (Track 01).bin" size="825199200" crc="5cc6db77" md5="c2cb7f352131851a7a93ae986b60e548" sha1="9b1dc4229c484e5a2a46cc2fffef95c42e26213b"/>
+	</game>
+	<game name="BMB Karaoke 86 (Japan)" type="" sha1="af738844e3dd3cc073a6f26e623ad340f5833f8a" size="342794456" crc="90b141b5" fullsha1="dd20af91425e7d58583412c8ff9c48510de51c37" dataSha1="f6d3bc331728ce6aa83a7a2689b793b5dc436b2d">
+		<category>Games</category>
+		<description>BMB Karaoke 86 (Japan)</description>
+		<rom name="BMB Karaoke 86 (Japan) (Track 01).bin" size="825199200" crc="c6282f60" md5="3908ecd0f9a4956ccb3029a17da4e077" sha1="f4e8d0cdf90475e647803246ce723f69f80ac980"/>
+	</game>
+	<game name="BMB Karaoke 87 (Japan)" type="cd" sha1="5a5499c83948a60f546e17897c4665888ff4960e" size="526016816" crc="4b1a2b35" fullsha1="ab162ae11425c15f9c829719c80ca6c5c3256db4" dataSha1="626bcd16e989e9eebb1dad6c7c8b4e0005bb46b1">
+		<category>Games</category>
+		<description>BMB Karaoke 87 (Japan)</description>
+		<rom name="BMB Karaoke 87 (Japan) (Track 01).bin" size="825199200" crc="e546c961" md5="853b699f9131cc64047dc8548ddc71fd" sha1="94cf2b9918b99164cdc721740cb9c74773df12cb"/>
+	</game>
+	<game name="BMB Karaoke 88 (Japan)" type="cd" sha1="e63df61495e722bbd9bc86286cd8b9f14e8fa76e" size="508501316" crc="4b97bcba" fullsha1="717cab2c5202eb18996ddef80bc9df9b42b8568c" dataSha1="04d6bcc106c9cbab0d9a9f594537e337ac4eba77">
+		<category>Games</category>
+		<description>BMB Karaoke 88 (Japan)</description>
+		<rom name="BMB Karaoke 88 (Japan) (Track 01).bin" size="825199200" crc="b46ea601" md5="20dadef49e423c2d59bdbc2bf67ffb0a" sha1="eb696a63bda8f97d3bce65373503b3b30ccc9449"/>
+	</game>
+	<game name="BMB Karaoke 89 (Japan)" type="cd" sha1="7c90e0730a2cd73a591704791f5ca22712e82755" size="422093953" crc="3f8a317f" fullsha1="da6f4f316ec9b5ef2d406698ec7a000c3ae0fac9" dataSha1="56f347a636f56c96f346ad6f757a73e1ab2f1d6b">
+		<category>Games</category>
+		<description>BMB Karaoke 89 (Japan)</description>
+		<rom name="BMB Karaoke 89 (Japan) (Track 01).bin" size="825199200" crc="0040c059" md5="73093de33f93c020795581fc0ecc6042" sha1="f63d070b79cc5477ccb52c79e9eb1fa725a88849"/>
+	</game>
+	<game name="BMB Karaoke 90 (Japan)" type="cd" sha1="955dbe81c7efe7148a425da36993b7bf2b57444d" size="506223531" crc="b6bbe6f2" fullsha1="2ab5fdb5ded89d3310842a56518ec3c426ca34db" dataSha1="f6b3eb9c2ed41a4f9e7a315097bfa3c39bd83e7d">
+		<category>Games</category>
+		<description>BMB Karaoke 90 (Japan)</description>
+		<rom name="BMB Karaoke 90 (Japan) (Track 01).bin" size="825199200" crc="f7dcbe5e" md5="5fc1e5d69dd1cd042b26709c73b37aa0" sha1="bf4045dad6ef1ad2b4c6d2fed7319ae870314057"/>
+	</game>
+	<game name="BMB Karaoke 91 (Japan)" type="cd" sha1="e84e9658ed1cbe3dbc43db5221e00acab0040cd7" size="522301941" crc="6e628030" fullsha1="6b36f6d90a0d7bbf8f549b71a9ee52ae7a5fd323" dataSha1="ee49365bd3e4ec1b9d734fecf223b8b16fccdb10">
+		<category>Games</category>
+		<description>BMB Karaoke 91 (Japan)</description>
+		<rom name="BMB Karaoke 91 (Japan) (Track 01).bin" size="825199200" crc="dba45881" md5="a11166a4f35c314b2383922dd7fbd1a9" sha1="e84b3cbbee15314569592a02427fc175fdecdfcc"/>
+	</game>
+	<game name="BMB Karaoke 92 (Japan)" type="cd" sha1="c73bb4b46aa73c59f684e23c0361e87d5468dc43" size="447158966" crc="e18bdddb" fullsha1="8c7dd29a54c0903a5ce69fe48982f7504b91e223" dataSha1="dc71e415876469d5c7abe2f160340d535c3c7cda">
+		<category>Games</category>
+		<description>BMB Karaoke 92 (Japan)</description>
+		<rom name="BMB Karaoke 92 (Japan) (Track 01).bin" size="825199200" crc="957d9aeb" md5="2f23ed1518d458acb531b320e7c22c0b" sha1="a0dd6d68002c85607dda8ab96abc1b38108ac171"/>
+	</game>
+	<game name="BMB Karaoke 93 (Japan)" type="cd" sha1="45dfdb04853e14ecff66200f7440ac2dd63420bb" size="534039134" crc="4c64343a" fullsha1="31b622c77e4b85a0c777be6bcf8be18744dbf063" dataSha1="dea9ac13c3103a6af2ceea810d9384413f6b3602">
+		<category>Games</category>
+		<description>BMB Karaoke 93 (Japan)</description>
+		<rom name="BMB Karaoke 93 (Japan) (Track 01).bin" size="825199200" crc="024be3d5" md5="aec3652042ce21ada3498aa36842c5ec" sha1="f698bdd6a6ca671a81fbb2aa78ac26139af24301"/>
+	</game>
+	<game name="BMB Karaoke 94 (Japan)" type="cd" sha1="a25137788db5d73eba027935ddcd034b717f2e1a" size="529341296" crc="cf430a91" fullsha1="fedcef7a7ce30099fe14b7187f57802305dfda04" dataSha1="99b721500f2e5c471d486d008cac4ba99c0e970d">
+		<category>Games</category>
+		<description>BMB Karaoke 94 (Japan)</description>
+		<rom name="BMB Karaoke 94 (Japan) (Track 01).bin" size="825199200" crc="fd62dcdc" md5="bfe9a73d2fdb6809725894edf46c0980" sha1="0fdeb46593379fdb4feebf8259686fe4b1202c57"/>
+	</game>
+	<game name="BMB Karaoke 95 (Japan)" type="cd" sha1="9166412b62fbba2b81a8f0291f9fba8141cf55be" size="482265309" crc="2909cc99" fullsha1="fe26026ecc288939e3d19e7a3ea543961e028f33" dataSha1="c72b1c1104846d3a3a855d4f24cf8add32e2aa21">
+		<category>Games</category>
+		<description>BMB Karaoke 95 (Japan)</description>
+		<rom name="BMB Karaoke 95 (Japan) (Track 01).bin" size="825199200" crc="04041b60" md5="4ddbfec6d9c929a2e24afa4a4aff86f5" sha1="cfa181409b91a244b5346e6651553451c1e385ee"/>
+	</game>
+	<game name="BMB Karaoke 96 (Japan)" type="cd" sha1="b1643d58c8e928143282121e6a2e259d8da917a5" size="516031875" crc="a19668f4" fullsha1="fb05fd7cad9d3638008423db696a948808da6caa" dataSha1="820f9be3aca3676ed0dafa5495c70165ad20d50e">
+		<category>Games</category>
+		<description>BMB Karaoke 96 (Japan)</description>
+		<rom name="BMB Karaoke 96 (Japan) (Track 01).bin" size="825199200" crc="a2b37a72" md5="a249d934fa5bebf9565f2d66008ebb8a" sha1="94b6434cf1803a22a1169a6e19259d9484b1fc93"/>
+	</game>
+	<game name="BMB Karaoke 97 (Japan)" type="cd" sha1="77c45ea8555aa2765b4dfd4dc5a6596aefe1dee8" size="515479861" crc="e5df51a9" fullsha1="ace4eeea25e03ba49a000a37324fbcd4e535fd87" dataSha1="3befe0aa1b8ebcc9d53d9f62f22f52c141b133d0">
+		<category>Games</category>
+		<description>BMB Karaoke 97 (Japan)</description>
+		<rom name="BMB Karaoke 97 (Japan) (Track 01).bin" size="825199200" crc="69e4ade3" md5="0af062eee3fd1193d4ebd03b97c0a893" sha1="e54922488fc5d48165eefc27f5c0c6414fb9efd6"/>
+	</game>
+	<game name="BMB Karaoke 98 (Japan)" type="cd" sha1="b211f82f573516f868522e64196fac5a8a2b80fd" size="540714125" crc="89bb4c38" fullsha1="647ddbd012f151498fcf7a1e471d5d1facd4977a" dataSha1="c35351a1dbc2c97b7bdd4ae2f228740d1aea3b2d">
+		<category>Games</category>
+		<description>BMB Karaoke 98 (Japan)</description>
+		<rom name="BMB Karaoke 98 (Japan) (Track 01).bin" size="825199200" crc="1e72a214" md5="e6f31bfaf53161d785bd3dd6f8855016" sha1="a38c69bbe27b7c4e990dfc67e3158c2b5b41514e"/>
+	</game>
+	<game name="BMB Karaoke 99 (Japan)" type="cd" sha1="5db06d5733bd9a2ffcb8c679860e918f5ab8c61b" size="548719527" crc="9e465879" fullsha1="d3c2b7e1a5b9747f8043a84bc11b85f5c705fde1" dataSha1="5af0bfcdb4fb0de471ffa00a9b2e983f5f288e6f">
+		<category>Games</category>
+		<description>BMB Karaoke 99 (Japan)</description>
+		<rom name="BMB Karaoke 99 (Japan) (Track 01).bin" size="825199200" crc="a9870396" md5="0cd1eb487d8d16f4220360cedc9368dd" sha1="6db3ec2a4c7d036c81c80341ecf501d62acdc8c9"/>
 	</game>
 	<game name="BMP Puzzle (Germany)" type="cd" sha1="ad899255b486b4a53579f483f08cce3b86d7966e" size="14825914" crc="75bc7b1c" fullsha1="1a22e4f884111597f17c6302d62b83624d992301" dataSha1="5d61dbf7c6e44e9c9da371c617a9334a16983bb3">
 		<category>Games</category>
@@ -3088,10 +3798,50 @@
 		<description>Engineering 6.0 (USA)</description>
 		<rom name="Engineering 6.0 (USA) (Track 01).bin" size="298304160" crc="51a005f0" md5="79b0838e2ef92cfd1d22ee2094a311b3" sha1="e5df3770863bff5897cbbbbc7b43dd4e660ccd3b"/>
 	</game>
-	<game name="English Interactive (Korea) (Disc 1) (Units 1-3)" type="cd" sha1="c11f269ea9402f2634a5550805c7dc33050044fa" size="208435396" crc="118a5141" fullsha1="6179ae71e5fd5c47f7a8ccd4b5b3defb6581f125" dataSha1="5453a8d7d18ce1c1ca1d1d5eb40f45a4f6392093">
+	<game name="English Interactive (Korea) (Disc 01) (Units 1-3)" type="cd" sha1="c11f269ea9402f2634a5550805c7dc33050044fa" size="208435396" crc="118a5141" fullsha1="6179ae71e5fd5c47f7a8ccd4b5b3defb6581f125" dataSha1="5453a8d7d18ce1c1ca1d1d5eb40f45a4f6392093">
 		<category>Games</category>
-		<description>English Interactive (Korea) (Disc 1) (Units 1-3)</description>
-		<rom name="English Interactive (Korea) (Disc 1) (Units 1-3) (Track 01).bin" size="562367904" crc="16e37396" md5="834d42e1ca6dddaf9f3c3d8f45338537" sha1="637080a21cdafec1f510f01b363f2a48c96f4e80"/>
+		<description>English Interactive (Korea) (Disc 01) (Units 1-3)</description>
+		<rom name="English Interactive (Korea) (Disc 01) (Units 1-3) (Track 01).bin" size="562367904" crc="16e37396" md5="834d42e1ca6dddaf9f3c3d8f45338537" sha1="637080a21cdafec1f510f01b363f2a48c96f4e80"/>
+	</game>
+	<game name="English Interactive (Korea) (Disc 02) (Units 4-6)" type="cd" sha1="5b6dd0146f7158bb7436a40b1f7c488bfe38ddf2" size="230882479" crc="548ed6d5" fullsha1="51fa9f5520f13c1c791b3931459a121d2b22086a" dataSha1="d02852b3f8500c9cb9b575f0e93b333c4a0e655d">
+		<category>Games</category>
+		<description>English Interactive (Korea) (Disc 02) (Units 4-6)</description>
+		<rom name="English Interactive (Korea) (Disc 02) (Units 4-6) (Track 01).bin" size="607349904" crc="1230d489" md5="3a6d2045ce16fc349db81815857c2d3b" sha1="e4d80a5cc8f569cabde6718d2afa34f1d14d9764"/>
+	</game>
+	<game name="English Interactive (Korea) (Disc 03) (Units 7-9)" type="cd" sha1="05d8434ea3276645f921643d23b1946237e861d6" size="238368466" crc="61a9bc5c" fullsha1="7658d71eb7baca76efa75a271a9fca4d5f446582" dataSha1="99a64374390529cddaa171337fbacc4e00984efe">
+		<category>Games</category>
+		<description>English Interactive (Korea) (Disc 03) (Units 7-9)</description>
+		<rom name="English Interactive (Korea) (Disc 03) (Units 7-9) (Track 01).bin" size="587240304" crc="716f2a98" md5="7db1125c2245f550c4ab4f76175fa20d" sha1="49f949a9a9e5b0526a7e537b35d3a0e1aab7620e"/>
+	</game>
+	<game name="English Interactive (Korea) (Disc 04) (Units 10-12)" type="cd" sha1="502898ac71e665b99079badf2358bb1167d2b697" size="240968335" crc="ff7b8924" fullsha1="2d03d8917f3c1513a7778cb0394a70b417ea3119" dataSha1="7e8b6409365296199d7dfd75d2de4d5647d1d44c">
+		<category>Games</category>
+		<description>English Interactive (Korea) (Disc 04) (Units 10-12)</description>
+		<rom name="English Interactive (Korea) (Disc 04) (Units 10-12) (Track 01).bin" size="596942304" crc="915aad53" md5="d70ec7b6c0b8da0dfebd63298681d1de" sha1="5c7375f5154d9b1dbc3a318e88ae98e1356f8cb2"/>
+	</game>
+	<game name="English Interactive (Korea) (Disc 05) (Units 13-15)" type="cd" sha1="b7c9258bc25f44e0530ca9edae0ed4a9d10d5ab6" size="228693959" crc="c4a28fa4" fullsha1="51a2e13560976c6770fafb09a0bb3d84c667eae1" dataSha1="ddadc7658bf4184afbb04ac66880c77c9ec6fc24">
+		<category>Games</category>
+		<description>English Interactive (Korea) (Disc 05) (Units 13-15)</description>
+		<rom name="English Interactive (Korea) (Disc 05) (Units 13-15) (Track 01).bin" size="604174704" crc="8cc027d1" md5="8d3e0e507f0eb04727356fab76e3c76f" sha1="95d6be3a5cd22ffd473851440268418250b73f68"/>
+	</game>
+	<game name="English Interactive (Korea) (Disc 06) (Units 16-18)" type="cd" sha1="cc2dbd23819df4673b458d0cfa2baf3956c6168b" size="224763421" crc="a65f9638" fullsha1="ca3d30163319dd4ba26cbb739a7b1a11f5682b9f" dataSha1="082e2f7a8664e81c2e522ccb7c4c25ffe7ac2a50">
+		<category>Games</category>
+		<description>English Interactive (Korea) (Disc 06) (Units 16-18)</description>
+		<rom name="English Interactive (Korea) (Disc 06) (Units 16-18) (Track 01).bin" size="592174800" crc="253ff4b5" md5="33c5bbce78b933fa9c90fd6e05d23b67" sha1="3f47ce935aea020b29cbe22c3bee0536a19b6813"/>
+	</game>
+	<game name="English Interactive (Korea) (Disc 07) (Units 19-21)" type="cd" sha1="5a89fb4b27cff93604092665dd21aeaf3282e2b6" size="212739894" crc="579d1abd" fullsha1="d6f45313b16e09a067facb9b3d4d2575b3db8c16" dataSha1="985d4a67ad9e634cafe98f41d0337284b82ce596">
+		<category>Games</category>
+		<description>English Interactive (Korea) (Disc 07) (Units 19-21)</description>
+		<rom name="English Interactive (Korea) (Disc 07) (Units 19-21) (Track 01).bin" size="585652704" crc="dca3e05f" md5="1d52868ac7b5a4d2f221d02bb4919543" sha1="5d603a7624009c19235188694c34202c2bd2b65c"/>
+	</game>
+	<game name="English Interactive (Korea) (Disc 08) (Units 22-24)" type="cd" sha1="549b03ce77d9d70e55de4d69ecdaf6f9f6f0d657" size="210830259" crc="022a9534" fullsha1="0726fc71bb10ad76a1ff67a2436ed7e817f4724c" dataSha1="169a80fca0177310e02849793d84b7058d0eb07d">
+		<category>Games</category>
+		<description>English Interactive (Korea) (Disc 08) (Units 22-24)</description>
+		<rom name="English Interactive (Korea) (Disc 08) (Units 22-24) (Track 01).bin" size="581948304" crc="0f8cfac3" md5="3708377e9a0962b5065cd644cbddcd23" sha1="8de7675a210d97fec8b3a524d761180ba1ee8f8f"/>
+	</game>
+	<game name="English Interactive (Korea) (Disc 09) (Units 25-27)" type="cd" sha1="9a86a8ac377120c785c6e58d102dc1c907063d7c" size="215393835" crc="17aacb8d" fullsha1="2a8970ce5d5482e6694e2b02f24b14fd36ccde8a" dataSha1="6c9dbf8978a7b4fb2b07e6b39557815eecc0a494">
+		<category>Games</category>
+		<description>English Interactive (Korea) (Disc 09) (Units 25-27)</description>
+		<rom name="English Interactive (Korea) (Disc 09) (Units 25-27) (Track 01).bin" size="584065104" crc="b550fe37" md5="8d52b00e2ad2fbae9f96d31631e8f10b" sha1="c4c65b7ef95d65567a0818000e4b306970512a6d"/>
 	</game>
 	<game name="English Interactive (Korea) (Disc 10) (Units 28-30)" type="cd" sha1="2149eb85a3530fa14e1799e47fc99a1cc72fca1b" size="209273888" crc="a2672fb1" fullsha1="3cba69f5454d36c868b42e3b8f9fd6bcac964713" dataSha1="4ec5bff7350f4427d5102e64d05dcacefd60f977">
 		<category>Games</category>
@@ -3143,11 +3893,6 @@
 		<description>English Interactive (Korea) (Disc 19) (Units 55-57)</description>
 		<rom name="English Interactive (Korea) (Disc 19) (Units 55-57) (Track 01).bin" size="480694704" crc="0ffb8db6" md5="279a55fa04efef2e433940beabd87449" sha1="e80e66d563f4c22bee7b6ab74c8ad7fdc5f103bc"/>
 	</game>
-	<game name="English Interactive (Korea) (Disc 2) (Units 4-6)" type="cd" sha1="5b6dd0146f7158bb7436a40b1f7c488bfe38ddf2" size="230882479" crc="548ed6d5" fullsha1="51fa9f5520f13c1c791b3931459a121d2b22086a" dataSha1="d02852b3f8500c9cb9b575f0e93b333c4a0e655d">
-		<category>Games</category>
-		<description>English Interactive (Korea) (Disc 2) (Units 4-6)</description>
-		<rom name="English Interactive (Korea) (Disc 2) (Units 4-6) (Track 01).bin" size="607349904" crc="1230d489" md5="3a6d2045ce16fc349db81815857c2d3b" sha1="e4d80a5cc8f569cabde6718d2afa34f1d14d9764"/>
-	</game>
 	<game name="English Interactive (Korea) (Disc 20) (Units 58-60)" type="cd" sha1="540dbe37ff36f6228414368b51699d7a6e97a5d1" size="175398621" crc="ee77f51c" fullsha1="f0bd5b0a5e6a463cebd97280d3b14a5539daca29" dataSha1="cf097846a1faba86c85882b3a17bd9da6b1cc870">
 		<category>Games</category>
 		<description>English Interactive (Korea) (Disc 20) (Units 58-60)</description>
@@ -3167,41 +3912,6 @@
 		<category>Games</category>
 		<description>English Interactive (Korea) (Disc 23) (Units 67-69)</description>
 		<rom name="English Interactive (Korea) (Disc 23) (Units 67-69) (Track 01).bin" size="480518304" crc="33e3c754" md5="d03162334d571f5e1ab44744bd520bdb" sha1="f9a6bd52483d5bff79093e800d07fcd1add3a42c"/>
-	</game>
-	<game name="English Interactive (Korea) (Disc 3) (Units 7-9)" type="cd" sha1="05d8434ea3276645f921643d23b1946237e861d6" size="238368466" crc="61a9bc5c" fullsha1="7658d71eb7baca76efa75a271a9fca4d5f446582" dataSha1="99a64374390529cddaa171337fbacc4e00984efe">
-		<category>Games</category>
-		<description>English Interactive (Korea) (Disc 3) (Units 7-9)</description>
-		<rom name="English Interactive (Korea) (Disc 3) (Units 7-9) (Track 01).bin" size="587240304" crc="716f2a98" md5="7db1125c2245f550c4ab4f76175fa20d" sha1="49f949a9a9e5b0526a7e537b35d3a0e1aab7620e"/>
-	</game>
-	<game name="English Interactive (Korea) (Disc 4) (Units 10-12)" type="cd" sha1="502898ac71e665b99079badf2358bb1167d2b697" size="240968335" crc="ff7b8924" fullsha1="2d03d8917f3c1513a7778cb0394a70b417ea3119" dataSha1="7e8b6409365296199d7dfd75d2de4d5647d1d44c">
-		<category>Games</category>
-		<description>English Interactive (Korea) (Disc 4) (Units 10-12)</description>
-		<rom name="English Interactive (Korea) (Disc 4) (Units 10-12) (Track 01).bin" size="596942304" crc="915aad53" md5="d70ec7b6c0b8da0dfebd63298681d1de" sha1="5c7375f5154d9b1dbc3a318e88ae98e1356f8cb2"/>
-	</game>
-	<game name="English Interactive (Korea) (Disc 5) (Units 13-15)" type="cd" sha1="b7c9258bc25f44e0530ca9edae0ed4a9d10d5ab6" size="228693959" crc="c4a28fa4" fullsha1="51a2e13560976c6770fafb09a0bb3d84c667eae1" dataSha1="ddadc7658bf4184afbb04ac66880c77c9ec6fc24">
-		<category>Games</category>
-		<description>English Interactive (Korea) (Disc 5) (Units 13-15)</description>
-		<rom name="English Interactive (Korea) (Disc 5) (Units 13-15) (Track 01).bin" size="604174704" crc="8cc027d1" md5="8d3e0e507f0eb04727356fab76e3c76f" sha1="95d6be3a5cd22ffd473851440268418250b73f68"/>
-	</game>
-	<game name="English Interactive (Korea) (Disc 6) (Units 16-18)" type="cd" sha1="cc2dbd23819df4673b458d0cfa2baf3956c6168b" size="224763421" crc="a65f9638" fullsha1="ca3d30163319dd4ba26cbb739a7b1a11f5682b9f" dataSha1="082e2f7a8664e81c2e522ccb7c4c25ffe7ac2a50">
-		<category>Games</category>
-		<description>English Interactive (Korea) (Disc 6) (Units 16-18)</description>
-		<rom name="English Interactive (Korea) (Disc 6) (Units 16-18) (Track 01).bin" size="592174800" crc="253ff4b5" md5="33c5bbce78b933fa9c90fd6e05d23b67" sha1="3f47ce935aea020b29cbe22c3bee0536a19b6813"/>
-	</game>
-	<game name="English Interactive (Korea) (Disc 7) (Units 19-21)" type="cd" sha1="5a89fb4b27cff93604092665dd21aeaf3282e2b6" size="212739894" crc="579d1abd" fullsha1="d6f45313b16e09a067facb9b3d4d2575b3db8c16" dataSha1="985d4a67ad9e634cafe98f41d0337284b82ce596">
-		<category>Games</category>
-		<description>English Interactive (Korea) (Disc 7) (Units 19-21)</description>
-		<rom name="English Interactive (Korea) (Disc 7) (Units 19-21) (Track 01).bin" size="585652704" crc="dca3e05f" md5="1d52868ac7b5a4d2f221d02bb4919543" sha1="5d603a7624009c19235188694c34202c2bd2b65c"/>
-	</game>
-	<game name="English Interactive (Korea) (Disc 8) (Units 22-24)" type="cd" sha1="549b03ce77d9d70e55de4d69ecdaf6f9f6f0d657" size="210830259" crc="022a9534" fullsha1="0726fc71bb10ad76a1ff67a2436ed7e817f4724c" dataSha1="169a80fca0177310e02849793d84b7058d0eb07d">
-		<category>Games</category>
-		<description>English Interactive (Korea) (Disc 8) (Units 22-24)</description>
-		<rom name="English Interactive (Korea) (Disc 8) (Units 22-24) (Track 01).bin" size="581948304" crc="0f8cfac3" md5="3708377e9a0962b5065cd644cbddcd23" sha1="8de7675a210d97fec8b3a524d761180ba1ee8f8f"/>
-	</game>
-	<game name="English Interactive (Korea) (Disc 9) (Units 25-27)" type="cd" sha1="9a86a8ac377120c785c6e58d102dc1c907063d7c" size="215393835" crc="17aacb8d" fullsha1="2a8970ce5d5482e6694e2b02f24b14fd36ccde8a" dataSha1="6c9dbf8978a7b4fb2b07e6b39557815eecc0a494">
-		<category>Games</category>
-		<description>English Interactive (Korea) (Disc 9) (Units 25-27)</description>
-		<rom name="English Interactive (Korea) (Disc 9) (Units 25-27) (Track 01).bin" size="584065104" crc="b550fe37" md5="8d52b00e2ad2fbae9f96d31631e8f10b" sha1="c4c65b7ef95d65567a0818000e4b306970512a6d"/>
 	</game>
 	<game name="Enkhuizer Almanak 1997 (Netherlands) (Beta) (1996-10-14)" type="cd" sha1="89c06d1c5c6f480f11431380f9468eb48b006fb5" size="122196450" crc="ba815046" fullsha1="6fd30f8ad39d7cf3bb925d1064570a58d6d242e9" dataSha1="44ea7c89096711c85f4f5295aca0d2470d0a62a1">
 		<category>Games</category>
@@ -3871,105 +4581,105 @@
 		<description>Hello U.S.A. (Europe) (Disc 3) (The Heart of Country Music) (Proto) (1993-03-15)</description>
 		<rom name="Hello U.S.A. (Europe) (Disc 3) (The Heart of Country Music) (Proto) (1993-03-15) (Track 01).bin" size="425483856" crc="7397c596" md5="463d14c34e61646c9b4aac154ee27da8" sha1="47f8982611078bf6d4fc9ac10d323782bdd9c0d6"/>
 	</game>
-	<game name="Historia de les Civilitzacions (Spain) (Disc 1) (Les Primeres Cultures)" type="cd" sha1="533514b134e79fab6ccd594826f7df37a2116676" size="570621025" crc="b35d9b93" fullsha1="5a3b161a1540b6ecce6cbe23b925a6c2d8a8fafe" dataSha1="a5c98f7c1e03ad9502ca2bd2f3d197fae0c09cf2">
+	<game name="Historia de les Civilitzacions (Spain) (Disc 01) (Les Primeres Cultures)" type="cd" sha1="533514b134e79fab6ccd594826f7df37a2116676" size="570621025" crc="b35d9b93" fullsha1="5a3b161a1540b6ecce6cbe23b925a6c2d8a8fafe" dataSha1="a5c98f7c1e03ad9502ca2bd2f3d197fae0c09cf2">
 		<category>Games</category>
-		<description>Historia de les Civilitzacions (Spain) (Disc 1) (Les Primeres Cultures)</description>
-		<rom name="Historia de les Civilitzacions (Spain) (Disc 1) (Les Primeres Cultures) (Track 01).bin" size="707545104" crc="e41bba93" md5="2992a23fd6c97dc495137460a739adf6" sha1="6a7324065a75c5195bc723e3820427fd0928f2c3"/>
+		<description>Historia de les Civilitzacions (Spain) (Disc 01) (Les Primeres Cultures)</description>
+		<rom name="Historia de les Civilitzacions (Spain) (Disc 01) (Les Primeres Cultures) (Track 01).bin" size="707545104" crc="e41bba93" md5="2992a23fd6c97dc495137460a739adf6" sha1="6a7324065a75c5195bc723e3820427fd0928f2c3"/>
+	</game>
+	<game name="Historia de les Civilitzacions (Spain) (Disc 02) (L'Antiguitat Classica)" type="cd" sha1="6b04353b49984747e8c66fbadc277c80d8196c45" size="542544691" crc="57616609" fullsha1="ed0ae489fce1ccdceb188e712104ba8af20baca3" dataSha1="8c1f05a0917a3a54c611f5c62e0abdbaa5db0f5a">
+		<category>Games</category>
+		<description>Historia de les Civilitzacions (Spain) (Disc 02) (L'Antiguitat Classica)</description>
+		<rom name="Historia de les Civilitzacions (Spain) (Disc 02) (L'Antiguitat Classica) (Track 01).bin" size="680555904" crc="75941dfc" md5="7235ab25b2e03301072ec0909e385feb" sha1="f125f3c725e19dc7d2e86fb9f21d58c018467098"/>
+	</game>
+	<game name="Historia de les Civilitzacions (Spain) (Disc 03) (El Mon Cristia)" type="cd" sha1="7148106854c28ee457e8293410a7a6f61e2768b8" size="547238418" crc="4af599fe" fullsha1="291e34315ba7441b09f25d3ae6e83b75aabd5a03" dataSha1="a807905659f2641708227412c8cb4bb32549ecfb">
+		<category>Games</category>
+		<description>Historia de les Civilitzacions (Spain) (Disc 03) (El Mon Cristia)</description>
+		<rom name="Historia de les Civilitzacions (Spain) (Disc 03) (El Mon Cristia) (Track 01).bin" size="677380704" crc="6fd1f0e1" md5="11f6ff0c36056681ffc66f7cb4514259" sha1="b49f92ea0f07fff1d2571a89762594bf506e9d0f"/>
+	</game>
+	<game name="Historia de les Civilitzacions (Spain) (Disc 04) (L'Islam Medieval)" type="cd" sha1="2e12b5fcd85cfe1f753f691b1112aa84ab1b4634" size="469657315" crc="5e0206c2" fullsha1="abd21b159f14a230c7fd3cd18a664ebd74cfba78" dataSha1="d5c709e793bf948b51640e79ca4d2442953f5903">
+		<category>Games</category>
+		<description>Historia de les Civilitzacions (Spain) (Disc 04) (L'Islam Medieval)</description>
+		<rom name="Historia de les Civilitzacions (Spain) (Disc 04) (L'Islam Medieval) (Track 01).bin" size="584065104" crc="fc6a0fc3" md5="f5b9cf6f71fb0c646489f9bca99fbb39" sha1="e9545e359cbdd419f78d8c0b4ff4459c0ef87975"/>
+	</game>
+	<game name="Historia de les Civilitzacions (Spain) (Disc 05) (Cultures Precolombines)" type="cd" sha1="a5cb5c465adb67d4f2e2afa53af8101ee9ec7413" size="512928784" crc="b263711e" fullsha1="36006241d449a7198650b3aa7ab9f1050d95291e" dataSha1="fd013385910576a8184c10d9b4d1cc3b433870d4">
+		<category>Games</category>
+		<description>Historia de les Civilitzacions (Spain) (Disc 05) (Cultures Precolombines)</description>
+		<rom name="Historia de les Civilitzacions (Spain) (Disc 05) (Cultures Precolombines) (Track 01).bin" size="669442704" crc="a80c77f3" md5="839b618bae646baa56bbe55ee2e89c96" sha1="c883aef2f543365784ef260edc79c32a512733bc"/>
+	</game>
+	<game name="Historia de les Civilitzacions (Spain) (Disc 06) (Europa a L'Edat Moderna)" type="cd" sha1="33a42669b71274f3543cf6c2bf845d6a779a132f" size="583869513" crc="5c9c313f" fullsha1="adc37ebdc47ea532bed8b94deb342044861fdc03" dataSha1="f8f57f866591112a0ab9f256ea63b09bb9cddb44">
+		<category>Games</category>
+		<description>Historia de les Civilitzacions (Spain) (Disc 06) (Europa a L'Edat Moderna)</description>
+		<rom name="Historia de les Civilitzacions (Spain) (Disc 06) (Europa a L'Edat Moderna) (Track 01).bin" size="694138704" crc="7d5c8ae0" md5="831f64c2f46a20cabaa22cfa5b819047" sha1="65b31343507230d18feb16a4142bed8e0c5c37c5"/>
+	</game>
+	<game name="Historia de les Civilitzacions (Spain) (Disc 07) (Els Pobles D'Asia)" type="cd" sha1="dd278ae7e13ab782d4e0e5938401f2deb6fb32e0" size="484429950" crc="baf1b43b" fullsha1="e04be38358caeb8a87f7b0247cfd71da2dd92ec3" dataSha1="90141f1d8eb62021d22d8f0073273dd8100588e7">
+		<category>Games</category>
+		<description>Historia de les Civilitzacions (Spain) (Disc 07) (Els Pobles D'Asia)</description>
+		<rom name="Historia de les Civilitzacions (Spain) (Disc 07) (Els Pobles D'Asia) (Track 01).bin" size="639454704" crc="33573967" md5="41b1f81f191285cba8bf7f9be01a3996" sha1="a34ef272c242c2745066df35331c817e391ad347"/>
+	</game>
+	<game name="Historia de les Civilitzacions (Spain) (Disc 08) (Noves Cultures)" type="cd" sha1="461a780497b984e37e971897d3c4f1aedfc984f6" size="465014135" crc="d67b6905" fullsha1="155167db263384eb6d4c461fb6b9275ce849fbd6" dataSha1="a94f5a95b0170c790832ee5f2ede74379731d2b6">
+		<category>Games</category>
+		<description>Historia de les Civilitzacions (Spain) (Disc 08) (Noves Cultures)</description>
+		<rom name="Historia de les Civilitzacions (Spain) (Disc 08) (Noves Cultures) (Track 01).bin" size="612112704" crc="47390f9a" md5="83824f2e6a715d1ba90545ef34504dbc" sha1="75ce347c0f43c65b19a6f767be4fafdf4d2112bc"/>
+	</game>
+	<game name="Historia de les Civilitzacions (Spain) (Disc 09) (Origens del Mon Contemporani)" type="cd" sha1="68f60560a9d5ed64c8131ffc6f1c519bc006cfc2" size="477650262" crc="c34be8d3" fullsha1="42a6ce25c648c22f1cf17e473e0b19ecc9a6a5e3" dataSha1="8be49f2eb7737b7416132158cd56f736a236cedb">
+		<category>Games</category>
+		<description>Historia de les Civilitzacions (Spain) (Disc 09) (Origens del Mon Contemporani)</description>
+		<rom name="Historia de les Civilitzacions (Spain) (Disc 09) (Origens del Mon Contemporani) (Track 01).bin" size="638043504" crc="2e051616" md5="19452ae23b808d56eb346ed8442e1ddf" sha1="303acf52eed882c29c919b623514db8c76f37c0f"/>
 	</game>
 	<game name="Historia de les Civilitzacions (Spain) (Disc 10) (El Segle XX)" type="cd" sha1="3fe59b596a92e1ca208f7760294587f19c4cc560" size="520290270" crc="23e8d522" fullsha1="b1e94432bbf052b3f2d2d7606f1f78837e714829" dataSha1="a5904c1c561364a7aa721a64c9952080ea8745bb">
 		<category>Games</category>
 		<description>Historia de les Civilitzacions (Spain) (Disc 10) (El Segle XX)</description>
 		<rom name="Historia de les Civilitzacions (Spain) (Disc 10) (El Segle XX) (Track 01).bin" size="670501104" crc="270475bb" md5="f31aadc625c2589e9acbd15ef857c0a6" sha1="6ef23bad8d457f7f98af90f9670af2474276a121"/>
 	</game>
-	<game name="Historia de les Civilitzacions (Spain) (Disc 2) (L'Antiguitat Classica)" type="cd" sha1="6b04353b49984747e8c66fbadc277c80d8196c45" size="542544691" crc="57616609" fullsha1="ed0ae489fce1ccdceb188e712104ba8af20baca3" dataSha1="8c1f05a0917a3a54c611f5c62e0abdbaa5db0f5a">
+	<game name="Historia del Arte Espanol (Spain) (Disc 01) (Los Origenes - Prehistoria y Primeras Civilizaciones)" type="cd" sha1="c676afc37d07935e65c41fa5555eb2dec9810ae5" size="201921486" crc="5e93f58c" fullsha1="6d60ec6b2efbee5db50822af20849e599730c204" dataSha1="71e3a6ab26b6f05d663a446bb2f41717a9d3dfeb">
 		<category>Games</category>
-		<description>Historia de les Civilitzacions (Spain) (Disc 2) (L'Antiguitat Classica)</description>
-		<rom name="Historia de les Civilitzacions (Spain) (Disc 2) (L'Antiguitat Classica) (Track 01).bin" size="680555904" crc="75941dfc" md5="7235ab25b2e03301072ec0909e385feb" sha1="f125f3c725e19dc7d2e86fb9f21d58c018467098"/>
+		<description>Historia del Arte Espanol (Spain) (Disc 01) (Los Origenes - Prehistoria y Primeras Civilizaciones)</description>
+		<rom name="Historia del Arte Espanol (Spain) (Disc 01) (Los Origenes - Prehistoria y Primeras Civilizaciones) (Track 01).bin" size="481572000" crc="4cc9a3e2" md5="2494121590edba1642bc236564a3a723" sha1="4473c8d7e043eeefac09147445441dc47da80c60"/>
 	</game>
-	<game name="Historia de les Civilitzacions (Spain) (Disc 3) (El Mon Cristia)" type="cd" sha1="7148106854c28ee457e8293410a7a6f61e2768b8" size="547238418" crc="4af599fe" fullsha1="291e34315ba7441b09f25d3ae6e83b75aabd5a03" dataSha1="a807905659f2641708227412c8cb4bb32549ecfb">
+	<game name="Historia del Arte Espanol (Spain) (Disc 02) (Imperio y Religion - Del Mundo Romano al Prerromanico)" type="cd" sha1="356d5c09b64de8366aec8da93036a0fc74c3feb1" size="244468562" crc="f968113f" fullsha1="dd0f931c88950f734e582eb1d272c7b73187ffca" dataSha1="0fb67272367d41bdcf7a65058415340e652b263b">
 		<category>Games</category>
-		<description>Historia de les Civilitzacions (Spain) (Disc 3) (El Mon Cristia)</description>
-		<rom name="Historia de les Civilitzacions (Spain) (Disc 3) (El Mon Cristia) (Track 01).bin" size="677380704" crc="6fd1f0e1" md5="11f6ff0c36056681ffc66f7cb4514259" sha1="b49f92ea0f07fff1d2571a89762594bf506e9d0f"/>
+		<description>Historia del Arte Espanol (Spain) (Disc 02) (Imperio y Religion - Del Mundo Romano al Prerromanico)</description>
+		<rom name="Historia del Arte Espanol (Spain) (Disc 02) (Imperio y Religion - Del Mundo Romano al Prerromanico) (Track 01).bin" size="545958000" crc="2f7ac144" md5="41f231ae52410d8de3facf459c8f4876" sha1="4b7b0be598759963300bc38589451c117d396251"/>
 	</game>
-	<game name="Historia de les Civilitzacions (Spain) (Disc 4) (L'Islam Medieval)" type="cd" sha1="2e12b5fcd85cfe1f753f691b1112aa84ab1b4634" size="469657315" crc="5e0206c2" fullsha1="abd21b159f14a230c7fd3cd18a664ebd74cfba78" dataSha1="d5c709e793bf948b51640e79ca4d2442953f5903">
+	<game name="Historia del Arte Espanol (Spain) (Disc 03) (Cristol de Tres Culturas - Lo Islamico, lo Judio y lo Cristiano)" type="cd" sha1="9cfb6fc142dc6493525260dff464d6bacf346fbd" size="233536652" crc="c8baaa74" fullsha1="ee9fc648d2c756dd4e3124cd547f726d947040bb" dataSha1="06257b54250f13ea6e6f230124384ad8015b3dab">
 		<category>Games</category>
-		<description>Historia de les Civilitzacions (Spain) (Disc 4) (L'Islam Medieval)</description>
-		<rom name="Historia de les Civilitzacions (Spain) (Disc 4) (L'Islam Medieval) (Track 01).bin" size="584065104" crc="fc6a0fc3" md5="f5b9cf6f71fb0c646489f9bca99fbb39" sha1="e9545e359cbdd419f78d8c0b4ff4459c0ef87975"/>
+		<description>Historia del Arte Espanol (Spain) (Disc 03) (Cristol de Tres Culturas - Lo Islamico, lo Judio y lo Cristiano)</description>
+		<rom name="Historia del Arte Espanol (Spain) (Disc 03) (Cristol de Tres Culturas - Lo Islamico, lo Judio y lo Cristiano) (Track 01).bin" size="520732800" crc="57bb7e00" md5="1f42e424f6b828c178e7d0fafb822d3e" sha1="de4e35a92ba8f73e2fe098d5cff70f27351db6c7"/>
 	</game>
-	<game name="Historia de les Civilitzacions (Spain) (Disc 5) (Cultures Precolombines)" type="cd" sha1="a5cb5c465adb67d4f2e2afa53af8101ee9ec7413" size="512928784" crc="b263711e" fullsha1="36006241d449a7198650b3aa7ab9f1050d95291e" dataSha1="fd013385910576a8184c10d9b4d1cc3b433870d4">
+	<game name="Historia del Arte Espanol (Spain) (Disc 04) (La Epoca de los Monasterios - La Plenitud del Romanico)" type="cd" sha1="48e73a276f4aa3bbe300f482929ce2b2007c6c90" size="284327508" crc="23afe378" fullsha1="f26266c9b23d5654fb610ac6cfa5835f68d8610d" dataSha1="c4b8a72a98df4e470a5cb5708c57e35062a81b65">
 		<category>Games</category>
-		<description>Historia de les Civilitzacions (Spain) (Disc 5) (Cultures Precolombines)</description>
-		<rom name="Historia de les Civilitzacions (Spain) (Disc 5) (Cultures Precolombines) (Track 01).bin" size="669442704" crc="a80c77f3" md5="839b618bae646baa56bbe55ee2e89c96" sha1="c883aef2f543365784ef260edc79c32a512733bc"/>
+		<description>Historia del Arte Espanol (Spain) (Disc 04) (La Epoca de los Monasterios - La Plenitud del Romanico)</description>
+		<rom name="Historia del Arte Espanol (Spain) (Disc 04) (La Epoca de los Monasterios - La Plenitud del Romanico) (Track 01).bin" size="596232000" crc="0befbc15" md5="f110dc9c94ec2b10d8aed81bbb044a5f" sha1="819266a88446be6297d522cc20bd55c9876df894"/>
 	</game>
-	<game name="Historia de les Civilitzacions (Spain) (Disc 6) (Europa a L'Edat Moderna)" type="cd" sha1="33a42669b71274f3543cf6c2bf845d6a779a132f" size="583869513" crc="5c9c313f" fullsha1="adc37ebdc47ea532bed8b94deb342044861fdc03" dataSha1="f8f57f866591112a0ab9f256ea63b09bb9cddb44">
+	<game name="Historia del Arte Espanol (Spain) (Disc 05) (La Epoca de las Catedrales - El Esplendor del Gotico)" type="cd" sha1="694f32c7d05a6463af2378fb1ecbccba7813d172" size="247365065" crc="3f6372a4" fullsha1="b1b5bc8f25486179f12ea682355de827bbafab35" dataSha1="33d10e015b60af2b616b64854c9f299b3b9769dd">
 		<category>Games</category>
-		<description>Historia de les Civilitzacions (Spain) (Disc 6) (Europa a L'Edat Moderna)</description>
-		<rom name="Historia de les Civilitzacions (Spain) (Disc 6) (Europa a L'Edat Moderna) (Track 01).bin" size="694138704" crc="7d5c8ae0" md5="831f64c2f46a20cabaa22cfa5b819047" sha1="65b31343507230d18feb16a4142bed8e0c5c37c5"/>
+		<description>Historia del Arte Espanol (Spain) (Disc 05) (La Epoca de las Catedrales - El Esplendor del Gotico)</description>
+		<rom name="Historia del Arte Espanol (Spain) (Disc 05) (La Epoca de las Catedrales - El Esplendor del Gotico) (Track 01).bin" size="544017600" crc="96170d7b" md5="43cf714c69df3b6dc24051a67d25fddd" sha1="8356927008712f53b4d325e93a8d2f4fcfad18cc"/>
 	</game>
-	<game name="Historia de les Civilitzacions (Spain) (Disc 7) (Els Pobles D'Asia)" type="cd" sha1="dd278ae7e13ab782d4e0e5938401f2deb6fb32e0" size="484429950" crc="baf1b43b" fullsha1="e04be38358caeb8a87f7b0247cfd71da2dd92ec3" dataSha1="90141f1d8eb62021d22d8f0073273dd8100588e7">
+	<game name="Historia del Arte Espanol (Spain) (Disc 06) (La Espana Imperial - Renacimiento y Humanismo)" type="cd" sha1="876aa5916cd4c2a0bf7a11eb11afe3d0c5486f5a" size="233213577" crc="bd31a6ef" fullsha1="6c332927702083400f5969f3d06bfa6e27cbb1de" dataSha1="52e6975edee93e00fa4074922ef1bb53ee02874d">
 		<category>Games</category>
-		<description>Historia de les Civilitzacions (Spain) (Disc 7) (Els Pobles D'Asia)</description>
-		<rom name="Historia de les Civilitzacions (Spain) (Disc 7) (Els Pobles D'Asia) (Track 01).bin" size="639454704" crc="33573967" md5="41b1f81f191285cba8bf7f9be01a3996" sha1="a34ef272c242c2745066df35331c817e391ad347"/>
+		<description>Historia del Arte Espanol (Spain) (Disc 06) (La Espana Imperial - Renacimiento y Humanismo)</description>
+		<rom name="Historia del Arte Espanol (Spain) (Disc 06) (La Espana Imperial - Renacimiento y Humanismo) (Track 01).bin" size="567302400" crc="ead22845" md5="d4b3b499ed075303cfe86892bc503c57" sha1="35f7b8f30d56366ff042eed3beda4f131ad52227"/>
 	</game>
-	<game name="Historia de les Civilitzacions (Spain) (Disc 8) (Noves Cultures)" type="cd" sha1="461a780497b984e37e971897d3c4f1aedfc984f6" size="465014135" crc="d67b6905" fullsha1="155167db263384eb6d4c461fb6b9275ce849fbd6" dataSha1="a94f5a95b0170c790832ee5f2ede74379731d2b6">
+	<game name="Historia del Arte Espanol (Spain) (Disc 07) (El Siglo de Oro - El Sentimiento de lo Barroco)" type="cd" sha1="a631a49147d78df20af39edff793bb008c26e5d6" size="281979669" crc="a877cabc" fullsha1="236269f55d97853c8a721e79c3d1b8bfef55cdb3" dataSha1="d4a1fdabdc6fdda11f0b5944234eb94bd0ce085e">
 		<category>Games</category>
-		<description>Historia de les Civilitzacions (Spain) (Disc 8) (Noves Cultures)</description>
-		<rom name="Historia de les Civilitzacions (Spain) (Disc 8) (Noves Cultures) (Track 01).bin" size="612112704" crc="47390f9a" md5="83824f2e6a715d1ba90545ef34504dbc" sha1="75ce347c0f43c65b19a6f767be4fafdf4d2112bc"/>
+		<description>Historia del Arte Espanol (Spain) (Disc 07) (El Siglo de Oro - El Sentimiento de lo Barroco)</description>
+		<rom name="Historia del Arte Espanol (Spain) (Disc 07) (El Siglo de Oro - El Sentimiento de lo Barroco) (Track 01).bin" size="577710000" crc="30db0d3c" md5="ba246a71f51c2c289ea5e567fd135f2a" sha1="c9e9241aa64bbcc25166d96552f8f77f47c1533a"/>
 	</game>
-	<game name="Historia de les Civilitzacions (Spain) (Disc 9) (Origens del Mon Contemporani)" type="cd" sha1="68f60560a9d5ed64c8131ffc6f1c519bc006cfc2" size="477650262" crc="c34be8d3" fullsha1="42a6ce25c648c22f1cf17e473e0b19ecc9a6a5e3" dataSha1="8be49f2eb7737b7416132158cd56f736a236cedb">
+	<game name="Historia del Arte Espanol (Spain) (Disc 08) (El Siglo de las Luces - Illustrados, Neoclasicos y Academicos)" type="cd" sha1="e9e694029f625a5a4e849b1b51fb7f9fe896d44e" size="297850495" crc="00f60f03" fullsha1="5a05130d99d8f69a65f3490f51700f00535ed4aa" dataSha1="2efbda1da141a98ebf0c3634dcf9784b21e1816d">
 		<category>Games</category>
-		<description>Historia de les Civilitzacions (Spain) (Disc 9) (Origens del Mon Contemporani)</description>
-		<rom name="Historia de les Civilitzacions (Spain) (Disc 9) (Origens del Mon Contemporani) (Track 01).bin" size="638043504" crc="2e051616" md5="19452ae23b808d56eb346ed8442e1ddf" sha1="303acf52eed882c29c919b623514db8c76f37c0f"/>
+		<description>Historia del Arte Espanol (Spain) (Disc 08) (El Siglo de las Luces - Illustrados, Neoclasicos y Academicos)</description>
+		<rom name="Historia del Arte Espanol (Spain) (Disc 08) (El Siglo de las Luces - Illustrados, Neoclasicos y Academicos) (Track 01).bin" size="576298800" crc="96e16f6b" md5="552e53042ea99cb964846e44bce9b97e" sha1="9278424ac812db3d8f233391c347b06405376809"/>
 	</game>
-	<game name="Historia del Arte Espanol (Spain) (Disc 1) (Los Origenes - Prehistoria y Primeras Civilizaciones)" type="cd" sha1="c676afc37d07935e65c41fa5555eb2dec9810ae5" size="201921486" crc="5e93f58c" fullsha1="6d60ec6b2efbee5db50822af20849e599730c204" dataSha1="71e3a6ab26b6f05d663a446bb2f41717a9d3dfeb">
+	<game name="Historia del Arte Espanol (Spain) (Disc 09) (La Epoca de las Revoluciones - De Goya a la Modernidad)" type="cd" sha1="9a5ed3eb5e66c063bbf4b965971726996a7bc818" size="302736204" crc="e188a682" fullsha1="154154404870e094a5ca12d226c7c4996ea91ab2" dataSha1="33332b41a20e5bbfd4197120eddb1e18149c99fb">
 		<category>Games</category>
-		<description>Historia del Arte Espanol (Spain) (Disc 1) (Los Origenes - Prehistoria y Primeras Civilizaciones)</description>
-		<rom name="Historia del Arte Espanol (Spain) (Disc 1) (Los Origenes - Prehistoria y Primeras Civilizaciones) (Track 01).bin" size="481572000" crc="4cc9a3e2" md5="2494121590edba1642bc236564a3a723" sha1="4473c8d7e043eeefac09147445441dc47da80c60"/>
+		<description>Historia del Arte Espanol (Spain) (Disc 09) (La Epoca de las Revoluciones - De Goya a la Modernidad)</description>
+		<rom name="Historia del Arte Espanol (Spain) (Disc 09) (La Epoca de las Revoluciones - De Goya a la Modernidad) (Track 01).bin" size="610520400" crc="1024d540" md5="2fc3b9273206352a5b7670d51ccd7f6c" sha1="34fc99b3a0670e0772fd05609581b3586d6f19c0"/>
 	</game>
 	<game name="Historia del Arte Espanol (Spain) (Disc 10) (El Siglo de los Creadores - Vanguardia y Tradicion en el Alba de un Milenio)" type="cd" sha1="82fcdc60662c2d30fa635075dfe462eb722858ee" size="265179549" crc="14673e34" fullsha1="56a6b7e286087a5fe59b58125682a7d5fc5d8e4b" dataSha1="8a3970ac74880181454420b306014dc2b9182cbe">
 		<category>Games</category>
 		<description>Historia del Arte Espanol (Spain) (Disc 10) (El Siglo de los Creadores - Vanguardia y Tradicion en el Alba de un Milenio)</description>
 		<rom name="Historia del Arte Espanol (Spain) (Disc 10) (El Siglo de los Creadores - Vanguardia y Tradicion en el Alba de un Milenio) (Track 01).bin" size="522144000" crc="58dc630d" md5="e9c9aafb56d6630065286b68c4d0b5ab" sha1="3317f3a0ffd14048eca79f805b249994d5cc7f16"/>
-	</game>
-	<game name="Historia del Arte Espanol (Spain) (Disc 2) (Imperio y Religion - Del Mundo Romano al Prerromanico)" type="cd" sha1="356d5c09b64de8366aec8da93036a0fc74c3feb1" size="244468562" crc="f968113f" fullsha1="dd0f931c88950f734e582eb1d272c7b73187ffca" dataSha1="0fb67272367d41bdcf7a65058415340e652b263b">
-		<category>Games</category>
-		<description>Historia del Arte Espanol (Spain) (Disc 2) (Imperio y Religion - Del Mundo Romano al Prerromanico)</description>
-		<rom name="Historia del Arte Espanol (Spain) (Disc 2) (Imperio y Religion - Del Mundo Romano al Prerromanico) (Track 01).bin" size="545958000" crc="2f7ac144" md5="41f231ae52410d8de3facf459c8f4876" sha1="4b7b0be598759963300bc38589451c117d396251"/>
-	</game>
-	<game name="Historia del Arte Espanol (Spain) (Disc 3) (Cristol de Tres Culturas - Lo Islamico, lo Judio y lo Cristiano)" type="cd" sha1="9cfb6fc142dc6493525260dff464d6bacf346fbd" size="233536652" crc="c8baaa74" fullsha1="ee9fc648d2c756dd4e3124cd547f726d947040bb" dataSha1="06257b54250f13ea6e6f230124384ad8015b3dab">
-		<category>Games</category>
-		<description>Historia del Arte Espanol (Spain) (Disc 3) (Cristol de Tres Culturas - Lo Islamico, lo Judio y lo Cristiano)</description>
-		<rom name="Historia del Arte Espanol (Spain) (Disc 3) (Cristol de Tres Culturas - Lo Islamico, lo Judio y lo Cristiano) (Track 01).bin" size="520732800" crc="57bb7e00" md5="1f42e424f6b828c178e7d0fafb822d3e" sha1="de4e35a92ba8f73e2fe098d5cff70f27351db6c7"/>
-	</game>
-	<game name="Historia del Arte Espanol (Spain) (Disc 4) (La Epoca de los Monasterios - La Plenitud del Romanico)" type="cd" sha1="48e73a276f4aa3bbe300f482929ce2b2007c6c90" size="284327508" crc="23afe378" fullsha1="f26266c9b23d5654fb610ac6cfa5835f68d8610d" dataSha1="c4b8a72a98df4e470a5cb5708c57e35062a81b65">
-		<category>Games</category>
-		<description>Historia del Arte Espanol (Spain) (Disc 4) (La Epoca de los Monasterios - La Plenitud del Romanico)</description>
-		<rom name="Historia del Arte Espanol (Spain) (Disc 4) (La Epoca de los Monasterios - La Plenitud del Romanico) (Track 01).bin" size="596232000" crc="0befbc15" md5="f110dc9c94ec2b10d8aed81bbb044a5f" sha1="819266a88446be6297d522cc20bd55c9876df894"/>
-	</game>
-	<game name="Historia del Arte Espanol (Spain) (Disc 5) (La Epoca de las Catedrales - El Esplendor del Gotico)" type="cd" sha1="694f32c7d05a6463af2378fb1ecbccba7813d172" size="247365065" crc="3f6372a4" fullsha1="b1b5bc8f25486179f12ea682355de827bbafab35" dataSha1="33d10e015b60af2b616b64854c9f299b3b9769dd">
-		<category>Games</category>
-		<description>Historia del Arte Espanol (Spain) (Disc 5) (La Epoca de las Catedrales - El Esplendor del Gotico)</description>
-		<rom name="Historia del Arte Espanol (Spain) (Disc 5) (La Epoca de las Catedrales - El Esplendor del Gotico) (Track 01).bin" size="544017600" crc="96170d7b" md5="43cf714c69df3b6dc24051a67d25fddd" sha1="8356927008712f53b4d325e93a8d2f4fcfad18cc"/>
-	</game>
-	<game name="Historia del Arte Espanol (Spain) (Disc 6) (La Espana Imperial - Renacimiento y Humanismo)" type="cd" sha1="876aa5916cd4c2a0bf7a11eb11afe3d0c5486f5a" size="233213577" crc="bd31a6ef" fullsha1="6c332927702083400f5969f3d06bfa6e27cbb1de" dataSha1="52e6975edee93e00fa4074922ef1bb53ee02874d">
-		<category>Games</category>
-		<description>Historia del Arte Espanol (Spain) (Disc 6) (La Espana Imperial - Renacimiento y Humanismo)</description>
-		<rom name="Historia del Arte Espanol (Spain) (Disc 6) (La Espana Imperial - Renacimiento y Humanismo) (Track 01).bin" size="567302400" crc="ead22845" md5="d4b3b499ed075303cfe86892bc503c57" sha1="35f7b8f30d56366ff042eed3beda4f131ad52227"/>
-	</game>
-	<game name="Historia del Arte Espanol (Spain) (Disc 7) (El Siglo de Oro - El Sentimiento de lo Barroco)" type="cd" sha1="a631a49147d78df20af39edff793bb008c26e5d6" size="281979669" crc="a877cabc" fullsha1="236269f55d97853c8a721e79c3d1b8bfef55cdb3" dataSha1="d4a1fdabdc6fdda11f0b5944234eb94bd0ce085e">
-		<category>Games</category>
-		<description>Historia del Arte Espanol (Spain) (Disc 7) (El Siglo de Oro - El Sentimiento de lo Barroco)</description>
-		<rom name="Historia del Arte Espanol (Spain) (Disc 7) (El Siglo de Oro - El Sentimiento de lo Barroco) (Track 01).bin" size="577710000" crc="30db0d3c" md5="ba246a71f51c2c289ea5e567fd135f2a" sha1="c9e9241aa64bbcc25166d96552f8f77f47c1533a"/>
-	</game>
-	<game name="Historia del Arte Espanol (Spain) (Disc 8) (El Siglo de las Luces - Illustrados, Neoclasicos y Academicos)" type="cd" sha1="e9e694029f625a5a4e849b1b51fb7f9fe896d44e" size="297850495" crc="00f60f03" fullsha1="5a05130d99d8f69a65f3490f51700f00535ed4aa" dataSha1="2efbda1da141a98ebf0c3634dcf9784b21e1816d">
-		<category>Games</category>
-		<description>Historia del Arte Espanol (Spain) (Disc 8) (El Siglo de las Luces - Illustrados, Neoclasicos y Academicos)</description>
-		<rom name="Historia del Arte Espanol (Spain) (Disc 8) (El Siglo de las Luces - Illustrados, Neoclasicos y Academicos) (Track 01).bin" size="576298800" crc="96e16f6b" md5="552e53042ea99cb964846e44bce9b97e" sha1="9278424ac812db3d8f233391c347b06405376809"/>
-	</game>
-	<game name="Historia del Arte Espanol (Spain) (Disc 9) (La Epoca de las Revoluciones - De Goya a la Modernidad)" type="cd" sha1="9a5ed3eb5e66c063bbf4b965971726996a7bc818" size="302736204" crc="e188a682" fullsha1="154154404870e094a5ca12d226c7c4996ea91ab2" dataSha1="33332b41a20e5bbfd4197120eddb1e18149c99fb">
-		<category>Games</category>
-		<description>Historia del Arte Espanol (Spain) (Disc 9) (La Epoca de las Revoluciones - De Goya a la Modernidad)</description>
-		<rom name="Historia del Arte Espanol (Spain) (Disc 9) (La Epoca de las Revoluciones - De Goya a la Modernidad) (Track 01).bin" size="610520400" crc="1024d540" md5="2fc3b9273206352a5b7670d51ccd7f6c" sha1="34fc99b3a0670e0772fd05609581b3586d6f19c0"/>
 	</game>
 	<game name="Hit Karaoke - Volume 4 - Annees 70 (France)" type="cd" sha1="81fda060bd39b756ef61b3d806ea4c9f5696c96b" size="49766421" crc="d092585c" fullsha1="36981abc816c244a54b7725c34b41779c90c616d" dataSha1="fc7e1efb5a567528e43220ec6502a87f1f647a88">
 		<category>Games</category>
@@ -5887,15 +6597,15 @@
 		<description>Naitre - A Child is Born (France)</description>
 		<rom name="Naitre - A Child is Born (France) (Track 01).bin" size="552508320" crc="f794d29e" md5="f9ce30f919c01e8cddd5b1068d417aa4" sha1="33b94ded22ce7556d9c44680d88e66a66760c81c"/>
 	</game>
-	<game name="Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 1)" type="" sha1="854db80c5029fe65d83b642d120b1fb66ce3ed53" size="503340795" crc="185ff1f9" fullsha1="a92194f1d9983f5bc066adb3fcd8e131d6ab05a3" dataSha1="1f6c7357f17756420affad234a10a5ee02f5737e">
+	<game name="Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 1)" type="cd" sha1="092c81b79f20ee112febea9a9145209ef90f49af" size="514436538" crc="bdc8b252" fullsha1="72f63322c2980fce0e3559679f30be6ef6b5d92a" dataSha1="df77c0d61760ee5759779ff7b418e6348ee6eedd">
 		<category>Games</category>
 		<description>Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 1)</description>
-		<rom name="Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 1) (Track 01).bin" size="548956800" crc="18e426f1" md5="0bce81920e99fbc64d8df42f610fefc8" sha1="47aa00c54441eab57347cd566b448150a31b7012"/>
+		<rom name="Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 1) (Track 01).bin" size="559540800" crc="96b75906" md5="724f21d26cf1778f50abdab5f1bb9eeb" sha1="6598b827c83e3658e4299d71c52cb562438128cc"/>
 	</game>
-	<game name="Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 2)" type="" sha1="a40e1c6588b618185fd2d6e84f90a3b9ab5dc78b" size="321067151" crc="42024b93" fullsha1="7c018990a481eeedcb01332a4962e4809338c517" dataSha1="81e6ed22c3e74f9cd205fc57ac79e1467f165d59">
+	<game name="Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 2)" type="cd" sha1="01009ac03fa259cf4a86ef2247c069d15e6b96b6" size="314151076" crc="403db9c7" fullsha1="682e77a4a6afab57037f613071977aa193b3835c" dataSha1="c344ddc33c2f38b67fb6863798a1321812e39f6e">
 		<category>Games</category>
 		<description>Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 2)</description>
-		<rom name="Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 2) (Track 01).bin" size="341157600" crc="0059b161" md5="2fe1cc7bce28c780b79e96563cc1e124" sha1="69058ff5404041d60ca69591f81a34ae52d78967"/>
+		<rom name="Naked Gun 2 1-2, The - The Smell of Fear (Europe) (Disc 2) (Track 01).bin" size="335512800" crc="1c693cee" md5="2511330a69feea3fedbf330cef0d3a02" sha1="1af9fbe0028aac42420a09c22bd9d8d4cdac56c9"/>
 	</game>
 	<game name="Naked Gun 2 1-2, The - The Smell of Fear (Netherlands) (Disc 1)" type="cd" sha1="976ca90afeda4d8b4e055acf7d95b725f55835a7" size="502280533" crc="4bd7acc5" fullsha1="391110c0fdc22b814391c616912b5607ad6ca60c" dataSha1="ff204a1c5804bf524ec5fcebbc7ce5ae7e3f4196">
 		<category>Games</category>

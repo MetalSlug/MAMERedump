@@ -81,11 +81,11 @@ Arcade - Konami - e-Amusement|2024-03-16|20|15|22 GB||
 **Arcade - Namco - Sega - Nintendo - Triforce**|2024-03-27|22|0|7 GB||
 **Arcade - Namco - System 246**|2024-03-16|9|0|5 GB||
 Arcade - Sega - Chihiro|2021-01-08|17|1|11 GB||
-*Arcade - Sega - Lindbergh*|2024-08-14|9|20|22 GB||
+Arcade - Sega - Lindbergh|2024-08-14|25|4|63 GB||
 **Arcade - Sega - Naomi 2**|2024-04-12|9|0|2 GB||
 **Arcade - Sega - Naomi**|2024-03-27|30|0|4 GB||
 Arcade - Sega - RingEdge 2|2024-06-22|13|2|54 GB||
-*Arcade - Sega - RingEdge*|2024-08-07|9|16|43 GB||
+Arcade - Sega - RingEdge|2024-08-07|21|4|98 GB||
 **Atari - Jaguar CD Interactive Multimedia System**|2024-06-14|25|0|4 GB||
 **Bandai - Pippin**|2024-08-15|91|0|19 GB|pippin|4 GB
 Bandai - Playdia Quick Interactive System|2022-07-06|37|1|18 GB||
@@ -107,25 +107,25 @@ NEC - PC-98 series|2024-08-14|302|8|49 GB|pc98_cd|12 GB
 **NEC - PC-FX**|2024-08-01|79|0|30 GB|pcfx|5 GB
 Nintendo - GameCube|2024-08-23|1986|11|1 TB||
 Nintendo - Wii|2024-08-12|3770|2|6 TB||
-Palm|2024-08-13|141|13|12 GB||
+**Palm**|2024-08-13|154|0|13 GB||
 **Panasonic - 3DO Interactive Multiplayer**|2024-08-21|646|0|183 GB||
-Philips - CD-i|2024-08-21|2188|163|620 GB|cdi|137 GB
+Philips - CD-i|2024-08-21|2330|21|686 GB|cdi|137 GB
 Photo CD|2024-08-18|215|1|40 GB||
-PlayStation GameShark Updates|2024-07-31|31|1|544 MB||
-Pocket PC|2024-08-07|59|5|8 GB||
+**PlayStation GameShark Updates**|2024-07-31|32|0|556 MB||
+Pocket PC|2024-08-07|63|1|8 GB||
 Sega - Dreamcast|2024-08-20|2084|4|836 GB|dc|72 GB
 **Sega - Mega-CD - Sega CD**|2024-08-13|808|0|183 GB|megacd, megacdj, segacd|61 GB
 **Sega - Prologue 21**|2024-02-25|30|0|17 GB||
-Sega - Saturn|2024-08-21|4416|1|1 TB|saturn|129 GB
+**Sega - Saturn**|2024-08-21|4417|0|1 TB|saturn|129 GB
 **Sharp - X68000**|2024-03-14|29|0|6 GB||
 **SNK - Neo Geo CD**|2024-08-13|217|0|59 GB|neocd|847 MB
 *Sony - PlayStation 2*|2024-08-22|4145|7344|6 TB||
 ~~Sony - PlayStation 3~~|2024-08-22|0|4391|||
 Sony - PlayStation Portable|2024-08-29|2909|11|2 TB||
-Sony - PlayStation|2024-08-20|11585|13|3 TB|psx|551 GB
+Sony - PlayStation|2024-08-20|11585|12|3 TB|psx|551 GB
 **TAB-Austria - Quizard**|2023-09-13|15|0|4 GB||
-**Tomy - Kiss-Site**|2024-07-11|30|0|3 GB||3 GB
+**Tomy - Kiss-Site**|2024-07-11|30|0|3 GB|kisssite_cd|3 GB
 VM Labs - NUON|2023-10-27|8|2|5 GB|nuon|5 GB
 **VTech - V.Flash & V.Smile Pro**|2024-03-01|50|0|8 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2024-02-02|16|0|50 GB||
-Total||75541|31945|58 TB||1 TB
+Total||75730|31755|58 TB||1 TB

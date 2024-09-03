@@ -4,7 +4,7 @@
 	<header>
 		<name>Pocket PC</name>
 		<description>Pocket PC</description>
-		<version>0.266</version>
+		<version>0.267</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -18,6 +18,11 @@
 		<category>Games</category>
 		<description>Call of Duty 2 (USA)</description>
 		<rom name="Call of Duty 2 (USA) (Track 01).bin" size="82494048" crc="315131e5" md5="26852f24b2fa3631f435499b25202a93" sha1="43cfc421ec34eaf0de309ba5620286d5a1bc2db2"/>
+	</game>
+	<game name="Chopper Alley (USA)" type="cd" sha1="d098d58e2efa40a6f6803a2b2162c7777653f5e8" size="19005349" crc="01901edb" fullsha1="4afbd7cfa2ba6db23838181dbbd21d4d0a052096" dataSha1="b062a3440ae950f62b9ebe20e175150186e37d07">
+		<category>Games</category>
+		<description>Chopper Alley (USA)</description>
+		<rom name="Chopper Alley (USA) (Track 01).bin" size="22600368" crc="c35e332d" md5="3a092f9474d8ad587be5f8ef6cde62fa" sha1="5ba6be2c7888ad23af9d684db25ee23f45571521"/>
 	</game>
 	<game name="Dragon's Breed - The Ancient Augury (UK)" type="cd" sha1="b13f27b4faa1be70e0505b81886a482e4705eeaf" size="6558600" crc="76183387" fullsha1="427b6f93c61984ca39dde2cf6ca4c5ceab58798f" dataSha1="1c00195edcd9090f17995b392f73462dc7005516">
 		<category>Games</category>
@@ -33,6 +38,11 @@
 		<category>Games</category>
 		<description>EverQuest for the Pocket PC (USA)</description>
 		<rom name="EverQuest for the Pocket PC (USA) (Track 01).bin" size="14580048" crc="06433ccb" md5="f6eb9f03fbcd3691766a0c4ff2f8cb57" sha1="6581118ac793e4b991fe6213ae57608d7b2c3f7f"/>
+	</game>
+	<game name="FIFA Soccer 2002 (USA)" type="cd" sha1="4233b602781477d63c10472fc2818478f2859bff" size="6561169" crc="dff9c10b" fullsha1="629d195a3bde6a301c9ec251a55c44b5da883025" dataSha1="34aa6c1b0a7b68e1205186d45a5e0f71f0737118">
+		<category>Games</category>
+		<description>FIFA Soccer 2002 (USA)</description>
+		<rom name="FIFA Soccer 2002 (USA) (Track 01).bin" size="11310768" crc="8c9c9b28" md5="7b2fc05aacf70118f08a1e398b18d2f7" sha1="4babed3535bfeea4ea33eb37bc908f12859998ab"/>
 	</game>
 	<game name="G-Pod (Germany)" type="cd" sha1="9ced340a3b79e0538b573c7049f3bf620fdeeb37" size="2615520" crc="502138c6" fullsha1="b93fb321858dadfd76e4d2f35c6fee99a3d0820d" dataSha1="4cbb3abbc1ad06d02a602d69c8c4f5cbd5f46349">
 		<category>Games</category>
@@ -189,6 +199,11 @@
 		<description>Rayman (Japan) (En,Ja)</description>
 		<rom name="Rayman (Japan) (En,Ja) (Track 01).bin" size="84521472" crc="6cc94a16" md5="98b622794320cf04a4bd3c1b5796eb20" sha1="57771eade360873bf86ac87345717327fe6d6537"/>
 	</game>
+	<game name="Rayman Ultimate (USA)" type="cd" sha1="5d5b98a8861e78a2939000e1d0b56f44fb0bc808" size="16076963" crc="b25ae1e6" fullsha1="13dd2d0ad75eab5b3db78b2ebe0d1ea6ad6dd1e8" dataSha1="b88ffdb94281a156f8684f942fd6c310669be246">
+		<category>Games</category>
+		<description>Rayman Ultimate (USA)</description>
+		<rom name="Rayman Ultimate (USA) (Track 01).bin" size="18347952" crc="5bfb4cd7" md5="771263d583e065c27a462f8d4704340f" sha1="64441f5cee92478c4149582e2d566eded51ce225"/>
+	</game>
 	<game name="RocketElite (USA) (En,Fr,De)" type="cd" sha1="a6e8c5597ed15391ea6a6a6b8165a1bbd5c96875" size="44742193" crc="c40d1ec2" fullsha1="da8fede63c9193490fb7bb5e0b4f070324cd08dc" dataSha1="824816af09c644b3dfafbfddb3b7c3decf5e4e09">
 		<category>Games</category>
 		<description>RocketElite (USA) (En,Fr,De)</description>
@@ -298,6 +313,11 @@
 		<category>Games</category>
 		<description>WingX (USA)</description>
 		<rom name="WingX (USA) (Track 01).bin" size="51151296" crc="beeed783" md5="054f35686c55cdc620e9d7bfa5db7158" sha1="2d06785bc87130261e4161b3f7506bbd3f530dee"/>
+	</game>
+	<game name="ZIO FunPack (USA)" type="cd" sha1="8da44051aa6a3e84040078ff6f4e94577404933d" size="28530658" crc="b96df449" fullsha1="23062a9a7c9ed48b4f2429eec4b1ff9edd3aa446" dataSha1="194b4a5b9938ce5fec987a3d093bb0d8d1731b84">
+		<category>Games</category>
+		<description>ZIO FunPack (USA)</description>
+		<rom name="ZIO FunPack (USA) (Track 01).bin" size="37022832" crc="07b8adfa" md5="6a550c91c5dcae539c70a46f22ae28ee" sha1="d2666f0810809ddf2c96490d03e8365cfa0cca97"/>
 	</game>
 	<game name="ZIOGolf 2 (USA)" type="cd" sha1="c7817876e706adccbfe21263489ec5289582a569" size="28332447" crc="db9320ca" fullsha1="06bc40cef9089c898719dc6411ab188f8fcf3104" dataSha1="3b5c31e8aa3a0f9ce0dbcd282be091991c92fa7c">
 		<category>Games</category>

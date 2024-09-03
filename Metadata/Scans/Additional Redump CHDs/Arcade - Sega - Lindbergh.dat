@@ -4,11 +4,16 @@
 	<header>
 		<name>Arcade - Sega - Lindbergh</name>
 		<description>Arcade - Sega - Lindbergh</description>
-		<version>0.266</version>
+		<version>0.267</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
+	<game name="Ami-Gyo (Japan) (Lindbergh Yellow) (Rev C)" type="dvd" sha1="2f5724caba37013b248f42cb3ad6f37892e8efd7" size="595000510" crc="5e4c85ba" fullsha1="77f32e1bb536749a5eecef5816c3212e2f1f3027" dataSha1="a9363b8ffcf5269588f5600890f62751241b5730">
+		<category>Games</category>
+		<description>Ami-Gyo (Japan) (Lindbergh Yellow) (Rev C)</description>
+		<rom name="Ami-Gyo (Japan) (Lindbergh Yellow) (Rev C).bin" size="599621632" crc="5613376e" md5="a3ddeaad3500fa72b38f30650bee0908" sha1="a9363b8ffcf5269588f5600890f62751241b5730"/>
+	</game>
 	<game name="House of The Dead 4, The (Japan) (En,Ja) (Lindbergh Yellow) (Rev A)" type="dvd" sha1="6a16e22eda402413095e2282eeb7657b4e1f148a" size="2923722581" crc="a4c4913f" fullsha1="094e6506d222eb8733f2b602c2092e0b035725b8" dataSha1="98c76ae5ebe1a2f691a0ee67352806345f26edda">
 		<category>Games</category>
 		<description>House of The Dead 4, The (Japan) (En,Ja) (Lindbergh Yellow) (Rev A)</description>
@@ -29,29 +34,104 @@
 		<description>Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev A)</description>
 		<rom name="Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev A).bin" size="3409838080" crc="182241e1" md5="891c3177734d69a8bf3c13ebfa56f1f2" sha1="b5e10f90597f14d7f5de32c379c61df318cabb39"/>
 	</game>
+	<game name="Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev G)" type="dvd" sha1="a007d7a43312e605e2d56717e953abcb817e1013" size="3470490375" crc="cb273309" fullsha1="66b68cc4c76f2a2b913eb60286bee2103138b2d6" dataSha1="415d5b0ec71aca2858a2eafb1ea0afb3612b2a73">
+		<category>Games</category>
+		<description>Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev G)</description>
+		<rom name="Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev G).bin" size="3518955520" crc="c61ef00b" md5="faa5e8daa25cd1344f18c1f35beee33c" sha1="415d5b0ec71aca2858a2eafb1ea0afb3612b2a73"/>
+	</game>
+	<game name="Initial D - Arcade Stage 5 (Export) (Ja,Zh) (Lindbergh Yellow) (Rev A)" type="dvd" sha1="e69cf8a2a1ccae7e2b587a0c6b6bf1a91d693fa4" size="4072109486" crc="d8942f94" fullsha1="9768b46cf31d7acbf7bd7b0e98c12763cf156c6a" dataSha1="0777333265167de5791d453474407b64325b25d2">
+		<category>Games</category>
+		<description>Initial D - Arcade Stage 5 (Export) (Ja,Zh) (Lindbergh Yellow) (Rev A)</description>
+		<rom name="Initial D - Arcade Stage 5 (Export) (Ja,Zh) (Lindbergh Yellow) (Rev A).bin" size="4185849856" crc="73cc3dfb" md5="2509a298eb2ee2483e8eb21ddba8cee9" sha1="0777333265167de5791d453474407b64325b25d2"/>
+	</game>
+	<game name="Initial D - Arcade Stage 5 (Export) (Lindbergh Yellow)" type="dvd" sha1="778ac125e29e10136fe89ee3bcce19bbd8af40da" size="3652697644" crc="662eae9a" fullsha1="e4bf4322fdb0ada46ac1fc7ecb5a9f62102d63e1" dataSha1="b397ec318ff95a93675da2a6677f1113a7e667e7">
+		<category>Games</category>
+		<description>Initial D - Arcade Stage 5 (Export) (Lindbergh Yellow)</description>
+		<rom name="Initial D - Arcade Stage 5 (Export) (Lindbergh Yellow).bin" size="3766353920" crc="76cf171a" md5="71d7bbd584a6ae01eec2930dded6dc56" sha1="b397ec318ff95a93675da2a6677f1113a7e667e7"/>
+	</game>
 	<game name="Initial D 4 (Export) (Lindbergh Yellow) (Rev B)" type="dvd" sha1="2f7654df4cb74016a7b2a176219f1d0b56f28797" size="3365048338" crc="9421e82d" fullsha1="3e4f89abac4b6fa750989cfd4348cc3de0bd67cc" dataSha1="05bc154c85145f59fc5b958940acd63df8bd003b">
 		<category>Games</category>
 		<description>Initial D 4 (Export) (Lindbergh Yellow) (Rev B)</description>
 		<rom name="Initial D 4 (Export) (Lindbergh Yellow) (Rev B).bin" size="3367993344" crc="7ed87c19" md5="d3ef54e246e178300af217318a4f8ab6" sha1="05bc154c85145f59fc5b958940acd63df8bd003b"/>
+	</game>
+	<game name="Initial D 4 (Export) (Lindbergh Yellow) (Rev D)" type="dvd" sha1="2b50268fe8e6f808de410a2a154269b80052cce1" size="3370100846" crc="27afac50" fullsha1="140c1ca1e43ec91dff058991b8740d48e88da64a" dataSha1="e092bb3d56c1b3977366b739600429001bb619fc">
+		<category>Games</category>
+		<description>Initial D 4 (Export) (Lindbergh Yellow) (Rev D)</description>
+		<rom name="Initial D 4 (Export) (Lindbergh Yellow) (Rev D).bin" size="3376480256" crc="a8128afc" md5="1a0c6bb392c26eead8f2aa1c37e1b275" sha1="e092bb3d56c1b3977366b739600429001bb619fc"/>
 	</game>
 	<game name="Rambo (Export) (Lindbergh Red EX)" type="dvd" sha1="2ea68a827c9a5a2e82806aaf2a068356b94d902a" size="3378592650" crc="3dfdc306" fullsha1="a6de6797c0e342db3c62325e500f14b96a5b23e4" dataSha1="a09526e104f68233ab9be95ee0c56007c5f582c3">
 		<category>Games</category>
 		<description>Rambo (Export) (Lindbergh Red EX)</description>
 		<rom name="Rambo (Export) (Lindbergh Red EX).bin" size="3384737792" crc="4ff5ef82" md5="9f7bbfe38ac02741fea717d9564a1f66" sha1="a09526e104f68233ab9be95ee0c56007c5f582c3"/>
 	</game>
+	<game name="Router Update [For VTF] (Japan) (Lindbergh Yellow)" type="dvd" sha1="b6bcaa73cf5b4b3ddc1cd183f89dd180d2721189" size="4281453" crc="704f3472" fullsha1="54c5950b13ade66eec67f9ce324268c2833aacae" dataSha1="9cdd077525b22508186613f4b2f63039c863abaf">
+		<category>Games</category>
+		<description>Router Update [For VTF] (Japan) (Lindbergh Yellow)</description>
+		<rom name="Router Update [For VTF] (Japan) (Lindbergh Yellow).bin" size="12451840" crc="b2fb8b9d" md5="30d4024842342f3029cdeeaf56b49be1" sha1="9cdd077525b22508186613f4b2f63039c863abaf"/>
+	</game>
+	<game name="Sega Network Taisen Mahjong MJ4 (Japan) (Lindbergh Red EX) (Rev F)" type="dvd" sha1="452b4984ae1557a616244415e87d9298eb05eeb9" size="1945522399" crc="fb555475" fullsha1="286484312b236f06c876165d9cd39041fb5882b8" dataSha1="26eb3bdf685877b27836f68eb8cbff2731b728b9">
+		<category>Games</category>
+		<description>Sega Network Taisen Mahjong MJ4 (Japan) (Lindbergh Red EX) (Rev F)</description>
+		<rom name="Sega Network Taisen Mahjong MJ4 (Japan) (Lindbergh Red EX) (Rev F).bin" size="1954480128" crc="1ba1b105" md5="951d356b1b420369bb623701c74c3f2e" sha1="26eb3bdf685877b27836f68eb8cbff2731b728b9"/>
+	</game>
+	<game name="Sega Network Taisen Mahjong MJ4 (Japan) (Lindbergh Red EX) (Rev G)" type="dvd" sha1="add7e539854069e5103eb784eddf30d0ce5598eb" size="2251854452" crc="71be1dc3" fullsha1="0c9bc5f0febf6c970d21298227fe909a9995d969" dataSha1="eb3ba4b3ed8491c713d72e112a45a8c0f14ba895">
+		<category>Games</category>
+		<description>Sega Network Taisen Mahjong MJ4 (Japan) (Lindbergh Red EX) (Rev G)</description>
+		<rom name="Sega Network Taisen Mahjong MJ4 (Japan) (Lindbergh Red EX) (Rev G).bin" size="2256338944" crc="22735e63" md5="751900da31fdf6a2ddcf8e37633538f0" sha1="eb3ba4b3ed8491c713d72e112a45a8c0f14ba895"/>
+	</game>
 	<game name="Sega Network Taisen Mahjong MJ4 Evolution (Japan) (Lindbergh Red EX)" type="dvd" sha1="db95307a34305eba31bda39652f91a8e42737773" size="2678849579" crc="260d8287" fullsha1="5a60f783394b0748110b2589958e2531902d690a" dataSha1="cf4f58d73b00328db5d126cf2a5612a7cbe599ce">
 		<category>Games</category>
 		<description>Sega Network Taisen Mahjong MJ4 Evolution (Japan) (Lindbergh Red EX)</description>
 		<rom name="Sega Network Taisen Mahjong MJ4 Evolution (Japan) (Lindbergh Red EX).bin" size="2684223488" crc="75f27f97" md5="d8c6d1478aeb7ea992f78dc770425ef9" sha1="cf4f58d73b00328db5d126cf2a5612a7cbe599ce"/>
+	</game>
+	<game name="Sega-Race TV (World) (En,Ja) (Lindbergh Yellow)" type="dvd" sha1="ddf297158a7ace2e701f711840c326ebe520167f" size="3500271817" crc="a0838e48" fullsha1="83e0a59570e096c3afbe32d9641f02b883e15f5a" dataSha1="93673ad8ac62c1342b937f9adeff3761abc6a835">
+		<category>Games</category>
+		<description>Sega-Race TV (World) (En,Ja) (Lindbergh Yellow)</description>
+		<rom name="Sega-Race TV (World) (En,Ja) (Lindbergh Yellow).bin" size="3506307072" crc="f4355ec7" md5="7532b70cc0b41ff09dffb705b2207b69" sha1="93673ad8ac62c1342b937f9adeff3761abc6a835"/>
+	</game>
+	<game name="StarHorse 2 - Final Destination (Japan) (Lindbergh StarHorse 2) (Rev D)" type="dvd" sha1="7319a484ac887326ab10cbf06dd5f359473dd95d" size="4343663783" crc="27db9254" fullsha1="7713dca08dbf99010af91589e86fe9719ff96c10" dataSha1="6b271cb6b0a570096d5f4365b41ba1c1e47606e9">
+		<category>Games</category>
+		<description>StarHorse 2 - Final Destination (Japan) (Lindbergh StarHorse 2) (Rev D)</description>
+		<rom name="StarHorse 2 - Final Destination (Japan) (Lindbergh StarHorse 2) (Rev D).bin" size="4408279040" crc="9bac12e2" md5="fbb66d66970f4bbf3913815236532176" sha1="6b271cb6b0a570096d5f4365b41ba1c1e47606e9"/>
+	</game>
+	<game name="To Ami-Gyo (Japan) (Lindbergh Yellow)" type="dvd" sha1="9f6ae34b4f0db51d218ec7a210dd91659038f66f" size="645730144" crc="0a70ebe5" fullsha1="c44eb2e15b05ef2277d3dec86369d100737248e3" dataSha1="3e71ee9076cede60a69bf3093832ec2202e344b4">
+		<category>Games</category>
+		<description>To Ami-Gyo (Japan) (Lindbergh Yellow)</description>
+		<rom name="To Ami-Gyo (Japan) (Lindbergh Yellow).bin" size="650018816" crc="6b763c04" md5="23bf57eb735f8a96b8acf5b8ff04840e" sha1="3e71ee9076cede60a69bf3093832ec2202e344b4"/>
 	</game>
 	<game name="VBIOS Update [For VTF] (Japan) (Lindbergh Yellow) (Rev A)" type="dvd" sha1="7e837fc22f76eb3b9586d4e9db2453ec92c45bd2" size="6709541" crc="be85127e" fullsha1="7f17df8e27037c6d5ab4a050f038b62b5419d7d5" dataSha1="7e5de3e9e695673a8c882637395a9309188147d0">
 		<category>Games</category>
 		<description>VBIOS Update [For VTF] (Japan) (Lindbergh Yellow) (Rev A)</description>
 		<rom name="VBIOS Update [For VTF] (Japan) (Lindbergh Yellow) (Rev A).bin" size="16646144" crc="8796df99" md5="d0154a2a2d2b5ac189a76146b91a4c85" sha1="7e5de3e9e695673a8c882637395a9309188147d0"/>
 	</game>
-	<game name="Virtua Tennis 3 (Export) (Lindbergh Yellow) (Rev A)" type="dvd" sha1="24498065a226a78c13b40eac0c6390cd43eb16e4" size="1808759883" crc="4bcaac9c" fullsha1="fdc80539cf8f2950bfd3370e7271637be222aa1f" dataSha1="a6b48534b0e14516859935e2ec7cd913b40b5ca4">
+	<game name="VBIOS Update [For VTF] (Japan) (Lindbergh Yellow) (Rev C)" type="dvd" sha1="a879c5537344734f8fe8ee42a46e4277d1990a79" size="644703500" crc="ce0ea725" fullsha1="6679eb19db8f531cd07e403fb9b69da34429e62e" dataSha1="00ecfabbecfcc07b521ebb860c2204e6aa79246c">
 		<category>Games</category>
-		<description>Virtua Tennis 3 (Export) (Lindbergh Yellow) (Rev A)</description>
-		<rom name="Virtua Tennis 3 (Export) (Lindbergh Yellow) (Rev A).bin" size="1811709952" crc="13e4c791" md5="67cac0a449e54ab944b29f3af59133fc" sha1="a6b48534b0e14516859935e2ec7cd913b40b5ca4"/>
+		<description>VBIOS Update [For VTF] (Japan) (Lindbergh Yellow) (Rev C)</description>
+		<rom name="VBIOS Update [For VTF] (Japan) (Lindbergh Yellow) (Rev C).bin" size="654376960" crc="b0ebc49e" md5="3e19277871a5a03f0674126320ff13f5" sha1="00ecfabbecfcc07b521ebb860c2204e6aa79246c"/>
+	</game>
+	<game name="Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev E)" type="dvd" sha1="e9f0441a4690bb039dd91c08961b2d2988b7be80" size="3035036970" crc="d118f756" fullsha1="564bcb1baed594dc32c8baf7939b8c87fd926fad" dataSha1="409fa7526a1c956b25f3d287e037d4bac0ea56b2">
+		<category>Games</category>
+		<description>Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev E)</description>
+		<rom name="Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev E).bin" size="3263168512" crc="4c789018" md5="b4237c69153e455695ee8286a7f4b888" sha1="409fa7526a1c956b25f3d287e037d4bac0ea56b2"/>
+	</game>
+	<game name="Virtua Fighter 5 - Final Showdown (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev A)" type="dvd" sha1="ac6f5b914d83f32357443da1670f389af092a766" size="5804062769" crc="3da8baf5" fullsha1="22c0109d3a12e585723a10133af6a4cb133c6c92" dataSha1="426db4809f9eb9efa36410836c81dbc458fb77f5">
+		<category>Games</category>
+		<description>Virtua Fighter 5 - Final Showdown (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev A)</description>
+		<rom name="Virtua Fighter 5 - Final Showdown (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev A).bin" size="5809012736" crc="07e436d2" md5="c9649e3f368d8a8c9b1c68c29e2a3538" sha1="426db4809f9eb9efa36410836c81dbc458fb77f5"/>
+	</game>
+	<game name="Virtua Fighter 5 R (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev D)" type="dvd" sha1="475af5435e19bfaf55b5e18e304198718e02e8c4" size="5240708011" crc="e3488478" fullsha1="2674b20f7349eb45b00b15d139e844cb52bfeee8" dataSha1="20947ffd70920d83660889a7ef3cbab83f07c3ec">
+		<category>Games</category>
+		<description>Virtua Fighter 5 R (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev D)</description>
+		<rom name="Virtua Fighter 5 R (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev D).bin" size="5242781696" crc="bccd4265" md5="a7f37dd597c8502c7110349b1bc77200" sha1="20947ffd70920d83660889a7ef3cbab83f07c3ec"/>
+	</game>
+	<game name="Virtua Tennis 3 (World) (En,Ja) (Lindbergh Yellow) (Rev A)" type="dvd" sha1="24498065a226a78c13b40eac0c6390cd43eb16e4" size="1808759883" crc="4bcaac9c" fullsha1="fdc80539cf8f2950bfd3370e7271637be222aa1f" dataSha1="a6b48534b0e14516859935e2ec7cd913b40b5ca4">
+		<category>Games</category>
+		<description>Virtua Tennis 3 (World) (En,Ja) (Lindbergh Yellow) (Rev A)</description>
+		<rom name="Virtua Tennis 3 (World) (En,Ja) (Lindbergh Yellow) (Rev A).bin" size="1811709952" crc="13e4c791" md5="67cac0a449e54ab944b29f3af59133fc" sha1="a6b48534b0e14516859935e2ec7cd913b40b5ca4"/>
+	</game>
+	<game name="Virtua Tennis 3 (World) (En,Ja) (Lindbergh Yellow) (Rev C)" type="dvd" sha1="29a0374f3b7d4eb64f662806ddceb9553475a51c" size="1808741712" crc="24889623" fullsha1="9d49700023ab5bdb68a73df62814230a80530c53" dataSha1="d6613b98917ae15bdb0c2988ef24782c9761e624">
+		<category>Games</category>
+		<description>Virtua Tennis 3 (World) (En,Ja) (Lindbergh Yellow) (Rev C)</description>
+		<rom name="Virtua Tennis 3 (World) (En,Ja) (Lindbergh Yellow) (Rev C).bin" size="1811972096" crc="7d38595d" md5="184d8b52b9f4d3277c09b75fb5514c8e" sha1="d6613b98917ae15bdb0c2988ef24782c9761e624"/>
 	</game>
 </datafile>
