@@ -1,4 +1,4 @@
-# MAME Redump 0.267 (WIP)
+# MAME Redump 0.267
 
 The aim of the MAME Redump project is to convert the redump sets into formats that are low on disk space, such as the chd format. Gamecube and Wii sets have been converted to NKit2 RVZ format (zstd-19-128k).
 All MAME CHDs are merged or included. You need to recompress all mame chds that don't match since 0.263 because mame is uses obsolete hashes.
