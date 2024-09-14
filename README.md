@@ -57,7 +57,7 @@ Following Sets contains ISO Files
 - Arcade - Sega - RingEdge
 - Arcade - Sega - RingEdge 2
 - IBM - PC compatible
-- Sony - PlayStation 2 **(Not converted yet)**
+- Sony - PlayStation 2
 - Sony - PlayStation Portable
 - VM Labs - NUON
 - ZAPiT Games - Game Wave Family Entertainment System
