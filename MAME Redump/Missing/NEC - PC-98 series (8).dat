@@ -4,18 +4,18 @@
   <header>
     <name>NEC - PC-98 series</name>
     <description>MAME Redump - NEC - PC-98 series - Discs (118) (2024-08-14 17-03-07)</description>
-    <version>0.267</version>
+    <version>0.268</version>
     <date>2024-03-22</date>
     <author>MAME Redump</author>
     <url>https://github.com/MetalSlug/MAMERedump</url>
   </header>
-  <game name="Cyberia (Japan)">
+  <game name="Cyberia (Japan)" type="">
     <category>Games</category>
     <description>Cyberia (Japan)</description>
     <rom name="Cyberia (Japan).cue" size="104" crc="0212D565" md5="ECC84586981498F98FA0F6C06771BDFF" sha1="D6C68CF2B319CE3CB09EA6D3B6B4AF7FAC63963A" />
     <rom name="Cyberia (Japan).bin" size="349102656" crc="E0EFAD2E" md5="73A05BB5FD0CAED41194DCF585BE3D30" sha1="C9631B85006C3C64891ACF0DD754FDDA0E6F6D9E" />
   </game>
-  <game name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan)">
+  <game name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan)" type="">
     <category>Games</category>
     <description>Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan)</description>
     <rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan).cue" size="2051" crc="E5CCA7CC" md5="6FA4B09A8910CC60075325CAA05B028A" sha1="8C74CCE5936537706B56BE8EADAE6A0DCDD6FC51" />
@@ -37,7 +37,7 @@
     <rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 16).bin" size="22849680" crc="67521C7C" md5="4F2C93432F2297F3A894F07F2CA1FAA8" sha1="F3BD5DF21DE0F22D6FBFC1658E10BC35E2C7FDFC" />
     <rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 17).bin" size="34927200" crc="4532B827" md5="6C0E5B683C5CF221EE5FE3FEA6C3B14D" sha1="373F99898262DED28A84DA3C59A6BCCA5CEBAB29" />
   </game>
-  <game name="Eiyuu Densetsu Material Collection for Windows (Japan)">
+  <game name="Eiyuu Densetsu Material Collection for Windows (Japan)" type="">
     <category>Multimedia</category>
     <description>Eiyuu Densetsu Material Collection for Windows (Japan)</description>
     <rom name="Eiyuu Densetsu Material Collection for Windows (Japan).cue" size="2445" crc="3FC1CD6C" md5="15E7686B63258D115A619EEEC2B357BE" sha1="B39D611CCBD5673AE02F231353EC59A83A0D6D0E" />
@@ -61,31 +61,31 @@
     <rom name="Eiyuu Densetsu Material Collection for Windows (Japan) (Track 18).bin" size="23637600" crc="AF1C2306" md5="8515C93932D6895C35A1E76A10CEC689" sha1="C31A91CF3B1D8C8B1BE16B3A088BC65D95028AC4" />
     <rom name="Eiyuu Densetsu Material Collection for Windows (Japan) (Track 19).bin" size="22932000" crc="24DD88D6" md5="0A0E9616D23F4C34749A16564207714C" sha1="19B435FB2D8E432881740A2D4046E08C2E56E976" />
   </game>
-  <game name="Jurassic Park (Japan)">
+  <game name="Jurassic Park (Japan)" type="">
     <category>Games</category>
     <description>Jurassic Park (Japan)</description>
     <rom name="Jurassic Park (Japan).cue" size="110" crc="7D72D0CA" md5="4CE00CCE2698F16F3401C8C763447F24" sha1="5E4D381E0E3376D1B172DD7178B166FA67CF175F" />
     <rom name="Jurassic Park (Japan).bin" size="172613280" crc="FEB8D757" md5="1D09B285DA4B08C3AA6D3F84D00D1AFC" sha1="591AB566EC9DC4C91FECFAD43B0B790A1D9BEBB2" />
   </game>
-  <game name="Logicool Mouseware 8.2J (Japan) (En,Ja)">
+  <game name="Logicool Mouseware 8.2J (Japan) (En,Ja)" type="">
     <category>Applications</category>
     <description>Logicool Mouseware 8.2J (Japan) (En,Ja)</description>
     <rom name="Logicool Mouseware 8.2J (Japan) (En,Ja).cue" size="105" crc="15D6A3E2" md5="8A48AF7953B78436BBEC99E003E12026" sha1="C816559AE31FC34FC1036EF5DDFA6D6A9FB5F2C8" />
     <rom name="Logicool Mouseware 8.2J (Japan) (En,Ja).bin" size="32956224" crc="B03E9824" md5="562C8968829B70BF37005F904A0F6F14" sha1="7E2548EA1D015DA27A7B3823F478CB19FBCD4FF5" />
   </game>
-  <game name="Madoll (Japan)">
+  <game name="Madoll (Japan)" type="">
     <category>Games</category>
     <description>Madoll (Japan)</description>
     <rom name="Madoll (Japan).cue" size="80" crc="709AEE78" md5="985A7FCA2BC2642A47B0880DE142F980" sha1="3F1463F7C4F7473D5A83B709FAAA02278EB82184" />
     <rom name="Madoll (Japan).bin" size="12225696" crc="9371A167" md5="9278E371D677A4127C0A4A425CC0665D" sha1="3639D175641C818820C353F1292206A1FA492E90" />
   </game>
-  <game name="Re-No - Stayin' Alive (Japan)">
+  <game name="Re-No - Stayin' Alive (Japan)" type="">
     <category>Games</category>
     <description>Re-No - Stayin' Alive (Japan)</description>
     <rom name="Re-No - Stayin' Alive (Japan).cue" size="95" crc="6BB43336" md5="AD3D1C6CE49989F495F6F0DC1B047DF9" sha1="63227D3F2E959CAA2E3A63496128AF6199CF5184" />
     <rom name="Re-No - Stayin' Alive (Japan).bin" size="41905584" crc="46163D3F" md5="3CD872BAFC0FC3C1181332101CBE59C8" sha1="1A95EDE986B028EE8584367E0F3504262F9CEC54" />
   </game>
-  <game name="True Love - Jun'ai Monogatari (Japan)">
+  <game name="True Love - Jun'ai Monogatari (Japan)" type="">
     <category>Games</category>
     <description>True Love - Jun'ai Monogatari (Japan)</description>
     <rom name="True Love - Jun'ai Monogatari (Japan).cue" size="103" crc="2191918D" md5="F8629209C9C9F49F1C8825FD6225C3C4" sha1="A4670B73501A8CE8601D780F5C9DAE3CEA4843D8" />
