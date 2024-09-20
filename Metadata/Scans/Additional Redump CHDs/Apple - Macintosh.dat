@@ -4,7 +4,7 @@
 	<header>
 		<name>Apple - Macintosh</name>
 		<description>Apple - Macintosh</description>
-		<version>0.267</version>
+		<version>0.268</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -3334,6 +3334,41 @@
 		<category>Games</category>
 		<description>MacFormat n. 9 (Spain)</description>
 		<rom name="MacFormat n. 9 (Spain) (Track 01).bin" size="751899120" crc="1e902381" md5="2b3d26f689cf251727a52a5073598904" sha1="1b65e9adeaa73b59ead5a72e1071a605a20476a7"/>
+	</game>
+	<game name="MacHome - 1999 Game CD (USA)" type="cd" sha1="3a6fbd1745776d23f46af7c8cc9c94b068658c23" size="264233842" crc="7cdc0ea3" fullsha1="40443ff3178d20c0436523d0a861de6cae6887f4" dataSha1="e8306d6a0367137825d79077f251d90d34bd2d77">
+		<category>Games</category>
+		<description>MacHome - 1999 Game CD (USA)</description>
+		<rom name="MacHome - 1999 Game CD (USA) (Track 01).bin" size="419660304" crc="eb5bd843" md5="026ac2a3e1ad39a4e994389a1dbb8263" sha1="4b1dd21c07ee360b52bf2d7254215ffeac06667c"/>
+	</game>
+	<game name="MacHome CD - April 1999 (USA)" type="cd" sha1="9dd4f81bd0fbe7706905f23724069ce2db751bc2" size="599768235" crc="45b279ec" fullsha1="a11fdc375bef1a09261aa81394c25db67e3a2757" dataSha1="c9ef7d7e693f50709b7c1901a716a54b1a6bed97">
+		<category>Games</category>
+		<description>MacHome CD - April 1999 (USA)</description>
+		<rom name="MacHome CD - April 1999 (USA) (Track 01).bin" size="776778576" crc="4489c881" md5="0a594bfb387a990e1aa6dbf19168f730" sha1="7231dc269ff440a5776ead62a72bf4c47fd79b2d"/>
+	</game>
+	<game name="MacHome CD - February-March 1999 (USA)" type="cd" sha1="e14dc844e73c16ffd92f1ea1eb8efa7b5ad83bcf" size="595278552" crc="aa406888" fullsha1="116063896ec3a26c2f4a5425a6615f55dad9422d" dataSha1="64507b2d04a54aead2cac627ea22aa7e666e3e08">
+		<category>Games</category>
+		<description>MacHome CD - February-March 1999 (USA)</description>
+		<rom name="MacHome CD - February-March 1999 (USA) (Track 01).bin" size="781687200" crc="0a2ea3ae" md5="41edb727c3a39ab873c7cd54c65e8a01" sha1="9eed31d16725dc8b489aeffadc571fc7ac827b06"/>
+	</game>
+	<game name="MacHome CD - July 1999 (USA)" type="cd" sha1="f96d6c2bdbae90332582534c5e0b367007b6f7d9" size="621957699" crc="781807f5" fullsha1="fc39bf39e74877e3df96b470e91fa8464eeea629" dataSha1="c1f55e136d9ad9510e2e98a8ead5f4177bc4407f">
+		<category>Games</category>
+		<description>MacHome CD - July 1999 (USA)</description>
+		<rom name="MacHome CD - July 1999 (USA) (Track 01).bin" size="775555536" crc="2e39ddc6" md5="bed139a2ff7eba327af35f570e6ad2e0" sha1="1abd9bb262b9c136c3ea2b29f24e94420d808a32"/>
+	</game>
+	<game name="MacHome CD - March 1999 (USA)" type="cd" sha1="85294aff0c5716f33f536d4cc15be75745feec54" size="580739865" crc="792ee3b6" fullsha1="46773e0b3ce4f58874fb5636739cf5bcc2dd8fc2" dataSha1="0d22c58ef468a62f9fea9bb7f435312dc4ddbc77">
+		<category>Games</category>
+		<description>MacHome CD - March 1999 (USA)</description>
+		<rom name="MacHome CD - March 1999 (USA) (Track 01).bin" size="764566992" crc="1c9c61aa" md5="cd1f1a62032e8cb96b622b1364d8712c" sha1="449cea40d6cfdc7e69c0810878d5aa141747aaed"/>
+	</game>
+	<game name="MacHome CD - November 1999 (USA)" type="cd" sha1="a2e650e28b61fe5dd3346816dac3b6d8773811c3" size="600900373" crc="be4382c7" fullsha1="7c2035dcf3cbabe3cbfd73356ad4656c433dea72" dataSha1="6570441b2d9ca648428e93b676a09d5067772a64">
+		<category>Games</category>
+		<description>MacHome CD - November 1999 (USA)</description>
+		<rom name="MacHome CD - November 1999 (USA) (Track 01).bin" size="760846128" crc="ecf4a588" md5="be9a976f910d6ec7c96937b5f9e5754d" sha1="8060e0d81da74158bb37307dd27d57052b95b86c"/>
+	</game>
+	<game name="MacHome CD - September 1999 (USA)" type="cd" sha1="16a2bad003235b09320a2d7431e1ab5f54512508" size="580552791" crc="a27ac722" fullsha1="433261fe6326cbeff8d8f106ea34326e18548234" dataSha1="858dd271fa19dddb0572311ca89549153ad15772">
+		<category>Games</category>
+		<description>MacHome CD - September 1999 (USA)</description>
+		<rom name="MacHome CD - September 1999 (USA) (Track 01).bin" size="761382384" crc="44555715" md5="6c2d883878290448706071dfea53ea93" sha1="7b0f9e6956998059e5d8ecd6de0f6ce89002ed4f"/>
 	</game>
 	<game name="MacLife Data-ROM Vol. 1 (Japan) (Disc 1) (CD-ROM Daizukan)" type="cd" sha1="58c296bf1a8181b185aaaaac8dd43ab77e6b9048" size="299022951" crc="aa142dda" fullsha1="654a765cc5d184bb18c3335de640e7c3dc5be746" dataSha1="974c68e4eeadb6d64b35beb6ec03f6f319cb262c">
 		<category>Games</category>
