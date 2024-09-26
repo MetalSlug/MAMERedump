@@ -33459,6 +33459,11 @@
 		<description>ObsCure (Europe) (Fr,It)</description>
 		<disk name="ObsCure (Europe) (Fr,It).chd" sha1="6235598dad78b490d49273e096c6ac5a92328eef" />
 	</machine>
+	<machine name="ObsCure (Russia)">
+		<category>Games</category>
+		<description>ObsCure (Russia)</description>
+		<disk name="ObsCure (Russia).chd" sha1="e4fb5ea93dca3ebc62f6c044638be90ae4d7e2d5" />
+	</machine>
 	<machine name="ObsCure (USA) (En,Fr,Es)">
 		<category>Games</category>
 		<description>ObsCure (USA) (En,Fr,Es)</description>
@@ -33479,15 +33484,45 @@
 		<description>Odin Sphere (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Odin Sphere (Europe) (En,Fr,De,Es,It).chd" sha1="f79a0b82564365c9f28bb4cb94a1babfd1e0c113" />
 	</machine>
+	<machine name="Odin Sphere (Japan)">
+		<category>Games</category>
+		<description>Odin Sphere (Japan)</description>
+		<disk name="Odin Sphere (Japan).chd" sha1="bba96a423221660ed3c338200a55cfdc4f4cdef2" />
+	</machine>
+	<machine name="Odin Sphere (Korea)">
+		<category>Games</category>
+		<description>Odin Sphere (Korea)</description>
+		<disk name="Odin Sphere (Korea).chd" sha1="de417c449463ffb9cc61fb93aec0630906a3bb53" />
+	</machine>
 	<machine name="Odin Sphere (USA)">
 		<category>Games</category>
 		<description>Odin Sphere (USA)</description>
 		<disk name="Odin Sphere (USA).chd" sha1="2a7f216e88c60376cd5d3767857462864967e132" />
 	</machine>
+	<machine name="Odin Sphere (USA) (Demo)">
+		<category>Demos</category>
+		<description>Odin Sphere (USA) (Demo)</description>
+		<disk name="Odin Sphere (USA) (Demo).chd" sha1="437b53403c8c74f691e82fd9d09d05f2fcab9d68" />
+	</machine>
 	<machine name="Off Road (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Off Road (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Off Road (Europe) (En,Fr,De,Es,It).chd" sha1="8f7d7f068239952451c8e880fdabfe08d7095999" />
+	</machine>
+	<machine name="Official Demo Disc 1 - Retail Edition November 01 (Europe) (Demo)">
+		<category>Demos</category>
+		<description>Official Demo Disc 1 - Retail Edition November 01 (Europe) (Demo)</description>
+		<disk name="Official Demo Disc 1 - Retail Edition November 01 (Europe) (Demo).chd" sha1="85e4bccbf33b7a69b29f5db9bd4fd7c3d5c7f4c4" />
+	</machine>
+	<machine name="Official Demo Disc Retail Edition February 02 (France) (En,Fr,De,Es,It)">
+		<category>Demos</category>
+		<description>Official Demo Disc Retail Edition February 02 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official Demo Disc Retail Edition February 02 (France) (En,Fr,De,Es,It).chd" sha1="70de049dcfc01f72b93dd15d4154b5ae684e2674" />
+	</machine>
+	<machine name="Official Disc 2003 (Japan)">
+		<category>Demos</category>
+		<description>Official Disc 2003 (Japan)</description>
+		<disk name="Official Disc 2003 (Japan).chd" sha1="afecc8959a89e30628db8096c08d76269d19af12" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine - German Kids Special (Germany) (En,De)">
 		<category>Coverdiscs</category>
@@ -33514,10 +33549,20 @@
 		<description>Official PlayStation 2 Magazine Demo 100 (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 100 (Europe) (En,Fr,De,Es,It).chd" sha1="d00e318d02f1ce494df8d5398170ed4ae3c7b322" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 101 (Netherlands)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 101 (Netherlands)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 101 (Netherlands).chd" sha1="2302db83cc633e49c4c651c83e7d42a8378eb004" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 11 (Europe) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 11 (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 11 (Europe) (En,Fr,De,Es,It).chd" sha1="3606579bfa3e3f1c08a7378761add09a2552f9da" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 11 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 11 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 11 (France) (En,Fr,De,Es,It).chd" sha1="b57020f5e9e3b00cd8d9cfa1c8dc0ef0f5060b39" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 11 (Germany) (En,De)">
 		<category>Coverdiscs</category>
@@ -33529,6 +33574,11 @@
 		<description>Official PlayStation 2 Magazine Demo 12 (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 12 (Europe) (En,Fr,De,Es,It).chd" sha1="33bc417cd2020b099e48803241270467fb18a525" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 12 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 12 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 12 (France) (En,Fr,De,Es,It).chd" sha1="7e0dee7337bf62aafee710970604d025801feecd" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 12 (Germany) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 12 (Germany) (En,Fr,De,Es,It)</description>
@@ -33539,6 +33589,11 @@
 		<description>Official PlayStation 2 Magazine Demo 13 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 13 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="3efb3fad59aab33e8143d06f346c2caba337d14c" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 13 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 13 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 13 (France) (En,Fr,De,Es,It).chd" sha1="1d42a75928e330c7b7f02eacc3d8777996e6870e" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 13 (Germany)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 13 (Germany)</description>
@@ -33548,6 +33603,11 @@
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 14 (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 14 (Europe) (En,Fr,De,Es,It).chd" sha1="659322b413e3bd9cac0e96e82429bc22b3575e07" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 14 (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 14 (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 14 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="c88a5cf335b558c725a8647de8e5954b784bd36b" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 14 (Germany) (En,De)">
 		<category>Coverdiscs</category>
@@ -33564,10 +33624,20 @@
 		<description>Official PlayStation 2 Magazine Demo 15 (Germany) (En,De)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 15 (Germany) (En,De).chd" sha1="4ee3df59ba551a8c8f5a2b464ff5d96b8f9135ea" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 15 (Spain) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 15 (Spain) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 15 (Spain) (En,Fr,De,Es,It).chd" sha1="f5bc17b819b7b59b8427db7ea4a7c8a9e97c8aac" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 16 (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 16 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 16 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="ff499fc042fed84dd3331355284504dec1a7bff6" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 16 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 16 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 16 (France) (En,Fr,De,Es,It).chd" sha1="6982dbc45a08916afe8c13816958d561b10b5cdd" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 16 (Germany) (En,De)">
 		<category>Coverdiscs</category>
@@ -33579,6 +33649,11 @@
 		<description>Official PlayStation 2 Magazine Demo 17 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 17 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="af9d384aec177a6cf870d80cece2021277c61426" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 17 (France, Spain) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 17 (France, Spain) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 17 (France, Spain) (En,Fr,De,Es,It).chd" sha1="f3212903dbcf03bce3ffd258ff339365d9ffd2d5" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 17 (Germany) (En,De)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 17 (Germany) (En,De)</description>
@@ -33588,6 +33663,11 @@
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 18 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 18 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="c41347c01f3f197cd7a8287ba7ea911c8bc51ae8" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 18 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 18 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 18 (France) (En,Fr,De,Es,It).chd" sha1="18b9d27083190bd62c20e49d392a93872a3b291e" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 18 (Germany) (En,De)">
 		<category>Coverdiscs</category>
@@ -33609,10 +33689,20 @@
 		<description>Official PlayStation 2 Magazine Demo 20 (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 20 (Europe) (En,Fr,De,Es,It).chd" sha1="08e595834f8565a50f8df8c5c93da6149921a4e7" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 20 (France, Spain) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 20 (France, Spain) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 20 (France, Spain) (En,Fr,De,Es,It).chd" sha1="25b740cf49abdb2fb74b54d2085b0a66406cb959" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 20 (Germany) (En,De)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 20 (Germany) (En,De)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 20 (Germany) (En,De).chd" sha1="33a70f197d8fe4909906671fe6c1e5bbc35c000c" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 21 (Europe) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 21 (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 21 (Europe) (En,Fr,De,Es,It).chd" sha1="64e91ec46bc2c77f2f24674f91e890bb13c73a8a" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 21 (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
@@ -33624,20 +33714,40 @@
 		<description>Official PlayStation 2 Magazine Demo 21 (Germany) (En,De)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 21 (Germany) (En,De).chd" sha1="1d9d36d2cda8b28f78f67aa936e262a5fbd52049" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 22 (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 22 (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 22 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="8628d7078c58c3a8e793518db051918592fbf30c" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 22 (Germany) (En,De)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 22 (Germany) (En,De)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 22 (Germany) (En,De).chd" sha1="4995950951c25d90e0cc9df387e7ff687ad16694" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 22-23 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 22-23 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 22-23 (France) (En,Fr,De,Es,It).chd" sha1="bcd1190a9f53ea26f6d7a193642543e849b25a4c" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 23 (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 23 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 23 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="2be5d028e23032b7679704d8dd58c91e7efd4cdb" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 23 (Spain) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 23 (Spain) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 23 (Spain) (En,Fr,De,Es,It).chd" sha1="85b6b76992435adb05f9f8d43ce118d33354f9e5" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 24 (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 24 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 24 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="b6510ba12dac65d43e607020d8406335ccb28dcb" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 24 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 24 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 24 (France) (En,Fr,De,Es,It).chd" sha1="5969b59af13c758a3e3de4b3d7b652f064f7b7a0" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 24 (Germany) (En,De)">
 		<category>Coverdiscs</category>
@@ -33649,6 +33759,11 @@
 		<description>Official PlayStation 2 Magazine Demo 25 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 25 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="26424a5f722dc447d68345571720af0ae15920ea" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 25 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 25 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 25 (France) (En,Fr,De,Es,It).chd" sha1="fb537a8e2bc2159fff31b4069a7cfcd4d4007ef2" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 25 (Germany) (En,De)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 25 (Germany) (En,De)</description>
@@ -33659,10 +33774,25 @@
 		<description>Official PlayStation 2 Magazine Demo 26 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 26 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="2a3cf27c7edd68d52947bd1762ef45ee6fdb7972" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 26 (Spain) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 26 (Spain) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 26 (Spain) (En,Fr,De,Es,It).chd" sha1="1322067f6d5f797e3a5672861555d473ddef597b" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 27 (Europe) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 27 (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 27 (Europe) (En,Fr,De,Es,It).chd" sha1="86d7a450b909cf053b6acb0410054712307ff5fe" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 27 (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 27 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 27 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="5c54b97715e5d96cf4dc891e704709b488b88b15" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 27 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 27 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 27 (France) (En,Fr,De,Es,It).chd" sha1="978251c57ae4121359f0eb0766c8c621f8783705" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 27 (Germany) (En,De)">
 		<category>Coverdiscs</category>
@@ -33684,6 +33814,11 @@
 		<description>Official PlayStation 2 Magazine Demo 29 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 29 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="b62dc090ba5b8dcbf88385fe72acbef05156f8db" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 29 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 29 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 29 (France) (En,Fr,De,Es,It).chd" sha1="d9dff182fa2572b3fb77e9782cb07e2f9de68199" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 29 (Germany) (En,De)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 29 (Germany) (En,De)</description>
@@ -33694,15 +33829,35 @@
 		<description>Official PlayStation 2 Magazine Demo 3 (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 3 (Europe) (En,Fr,De,Es,It).chd" sha1="5aa960e8dd98be7a917a25535795c31989885794" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 30 (Australia)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 30 (Australia)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 30 (Australia).chd" sha1="08f1dc6ce3b30c46d88550bebe35f216de4306e2" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 30 (Europe) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 30 (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 30 (Europe) (En,Fr,De,Es,It).chd" sha1="fc05261bab8465cde5dc78e5996d43bc575ae2bc" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 30 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 30 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 30 (France) (En,Fr,De,Es,It).chd" sha1="f7f13df8330c805470eef30ce45119817de32319" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 30 (Germany) (En,De)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 30 (Germany) (En,De)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 30 (Germany) (En,De).chd" sha1="2a20da45127947b7f0df3c5ba58aeed4c32d118c" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 30 (Spain) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 30 (Spain) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 30 (Spain) (En,Fr,De,Es,It).chd" sha1="61fbedcc71fa1567b61e1bd57c465f70aec9c2d5" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 31 (Europe) (En,Fr,De,Es,It) (SCED-51556)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 31 (Europe) (En,Fr,De,Es,It) (SCED-51556)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 31 (Europe) (En,Fr,De,Es,It) (SCED-51556).chd" sha1="011141b63f0bc17d50465b89e2acc5932e2dd676" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 31 (Europe, Australia) (En,Fr,De,Es,It) (SCED-51529)">
 		<category>Coverdiscs</category>
@@ -33719,15 +33874,30 @@
 		<description>Official PlayStation 2 Magazine Demo 32 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 32 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="749b7bc6bb322d7f148792d3986f10be4eefb77e" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 32 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 32 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 32 (France) (En,Fr,De,Es,It).chd" sha1="3ca32bc15000a62c616d162b22dd6e810a37a0ec" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 32 (Germany) (En,De)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 32 (Germany) (En,De)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 32 (Germany) (En,De).chd" sha1="b5af7e067937946d0c98dc3108d22dbf1047c67e" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 32 (Spain) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 32 (Spain) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 32 (Spain) (En,Fr,De,Es,It).chd" sha1="c4e0f1a2f92a54e3f559df933c35c15547ae7d8e" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 33 (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 33 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 33 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="aaaa81b78c44d6ec82bfbbeeb2a28cdd091e4341" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 33 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 33 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 33 (France) (En,Fr,De,Es,It).chd" sha1="f6787ddb8909be287a77946f599199c185d8c58c" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 33 (Germany) (En,De)">
 		<category>Coverdiscs</category>
@@ -33739,15 +33909,30 @@
 		<description>Official PlayStation 2 Magazine Demo 34 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 34 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="4d1e38969d86c980fe637b8f07756eddf027b93e" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 34 (France)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 34 (France)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 34 (France).chd" sha1="af273ea267156618b0b938e1fa761abe2a7b72fe" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 34 (Germany) (En,De)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 34 (Germany) (En,De)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 34 (Germany) (En,De).chd" sha1="3f9a7f97ab3bfa926c8fb2dc73ce06ec53d82a23" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 34 (Spain) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 34 (Spain) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 34 (Spain) (En,Fr,De,Es,It).chd" sha1="543f3913fecf9c162734ebf62655e7129f9ee4d2" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 35 (Europe) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 35 (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 35 (Europe) (En,Fr,De,Es,It).chd" sha1="b294db8386582bc6432c29fbac311a7947f8024f" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 35 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 35 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 35 (France) (En,Fr,De,Es,It).chd" sha1="feb724c09376fc9aba6c8a2d225cc7b4c74e6ad6" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 35 (Germany) (En,De)">
 		<category>Coverdiscs</category>
@@ -33768,6 +33953,11 @@
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 37 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 37 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="142c7ca4c4f18dedb49eb347d2189d1b0427cb32" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 37 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 37 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 37 (France) (En,Fr,De,Es,It).chd" sha1="712d7280dc83206249061a164a439a05c1c44724" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 37 (Germany) (En,De)">
 		<category>Coverdiscs</category>
@@ -33814,10 +34004,25 @@
 		<description>Official PlayStation 2 Magazine Demo 40 (Germany) (En,De)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 40 (Germany) (En,De).chd" sha1="f974bab417e1ea6ac8ff3faab82bc314db1a7073" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 40 (Portugal) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 40 (Portugal) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 40 (Portugal) (En,Fr,De,Es,It).chd" sha1="803a0fdc35a5efa0b9e760a2d1cbc30b585aee13" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 40 (Spain) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 40 (Spain) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 40 (Spain) (En,Fr,De,Es,It).chd" sha1="bafb10a74477eaf3add9ee03afa919684accada4" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 41 (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 41 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 41 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="3523324dd75e454e13b1222bffa83b3805ecd9dd" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 41 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 41 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 41 (France) (En,Fr,De,Es,It).chd" sha1="63a75e5cc87eb085affbed006aeb98a5f9a58c03" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 41 (Germany) (En,De)">
 		<category>Coverdiscs</category>
@@ -33829,15 +34034,45 @@
 		<description>Official PlayStation 2 Magazine Demo 41 (Germany) (En,Fr,De,Es,It) (Uncut)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 41 (Germany) (En,Fr,De,Es,It) (Uncut).chd" sha1="d21b5791613501a2c75ecfab0f5c850dd424a763" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 41 (Portugal) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 41 (Portugal) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 41 (Portugal) (En,Fr,De,Es,It).chd" sha1="5efc61471eeef7589370bedba1d15624d08965a0" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 41 (Spain) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 41 (Spain) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 41 (Spain) (En,Fr,De,Es,It).chd" sha1="b05f9614fbaddc957cca02d13680c3b053c58c14" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 42 (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 42 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 42 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="999e0cf43a7c069c327c4d4cec3c6398b6eb6b1c" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 42 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 42 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 42 (France) (En,Fr,De,Es,It).chd" sha1="06a71ed39518b44ce38ab8e5b7d820ee08dcaa82" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 42 (Germany) (En,De)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 42 (Germany) (En,De)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 42 (Germany) (En,De).chd" sha1="9d9166931beda2c7fd1667fdbe94b66bdc4b59e2" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 42 (Portugal) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 42 (Portugal) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 42 (Portugal) (En,Fr,De,Es,It).chd" sha1="b502be7bf40128d5f1b16eae54e32fdb9a4eaf41" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 42 (Spain) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 42 (Spain) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 42 (Spain) (En,Fr,De,Es,It).chd" sha1="ed1a717a3e311dc50222cc127fdbe9b90f37222f" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 43 (Europe) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 43 (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 43 (Europe) (En,Fr,De,Es,It).chd" sha1="d6d7832049bc8955858870d513286a16a8fa568d" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 43 (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
@@ -33854,6 +34089,11 @@
 		<description>Official PlayStation 2 Magazine Demo 44 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 44 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="6562f5abb6f9db69786c5080ec917b2b14243bbd" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 44 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 44 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 44 (France) (En,Fr,De,Es,It).chd" sha1="8968ca9c0d53a35765754842ad530152491d19ca" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 45 (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 45 (Europe, Australia) (En,Fr,De,Es,It)</description>
@@ -33869,6 +34109,11 @@
 		<description>Official PlayStation 2 Magazine Demo 45 (Germany) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 45 (Germany) (En,Fr,De,Es,It).chd" sha1="2ac00e06dabe7fe547437c5bd1c9c8e9bcdb8d1b" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 45 (Spain, Portugal) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 45 (Spain, Portugal) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 45 (Spain, Portugal) (En,Fr,De,Es,It).chd" sha1="6745b38fb0b1973419adc0078a2fceb0c96a3e10" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 46 (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 46 (Europe, Australia) (En,Fr,De,Es,It)</description>
@@ -33878,6 +34123,11 @@
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 47 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 47 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="eb0030f5e0f0d4ab712964f53ec350b367752311" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 47 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 47 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 47 (France) (En,Fr,De,Es,It).chd" sha1="229f9f82b77f5eb218f7713ce4f1edef4e128fd1" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 47 (Germany) (En,De)">
 		<category>Coverdiscs</category>
@@ -33904,6 +34154,11 @@
 		<description>Official PlayStation 2 Magazine Demo 49 (Europe) (En,Fr,De,Es,It) (SCED-52164)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 49 (Europe) (En,Fr,De,Es,It) (SCED-52164).chd" sha1="eaa8cb74f328a3e7e748f9545238b899c51a1ee9" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 49 (Europe) (En,Fr,De,Es,It) (SCED-52728)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 49 (Europe) (En,Fr,De,Es,It) (SCED-52728)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 49 (Europe) (En,Fr,De,Es,It) (SCED-52728).chd" sha1="0023cc69d481b760bff7ce7feae2cdbd8e7189b2" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 49 (Germany)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 49 (Germany)</description>
@@ -33913,6 +34168,16 @@
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 5 (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 5 (Europe) (En,Fr,De,Es,It).chd" sha1="c7d6702c6d2483d800f9fab38d0400372046b456" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 50 (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 50 (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 50 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="b0a77814f85db22b8f4a94ec0f8798a07fc24a6f" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 50 (Germany) (En,De) (SCED-52090)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 50 (Germany) (En,De) (SCED-52090)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 50 (Germany) (En,De) (SCED-52090).chd" sha1="1203f9792ca081fae14c10117451b770ddc4ab91" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 50 (Germany) (En,Fr,De,Es,It) (SCED-52796)">
 		<category>Coverdiscs</category>
@@ -33924,6 +34189,11 @@
 		<description>Official PlayStation 2 Magazine Demo 50 (UK)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 50 (UK).chd" sha1="15d2b901b304d1d79aaa9c3795c0aa62722b31dc" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 51 (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 51 (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 51 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="d5f5f8353ba426fb00f6bc6b88c3343ce0db5a96" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 51 (Germany) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 51 (Germany) (En,Fr,De,Es,It)</description>
@@ -33933,6 +34203,11 @@
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 51 (UK)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 51 (UK).chd" sha1="55f8b66752318ba862281d271d22bc4423d4e396" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 52 (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 52 (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 52 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="f14c341e316cc693b59b5b4bfd3054c7ad8f729d" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 52 (Germany) (En,De)">
 		<category>Coverdiscs</category>
@@ -33944,10 +34219,25 @@
 		<description>Official PlayStation 2 Magazine Demo 52 (UK)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 52 (UK).chd" sha1="50c7401478e6e2c3e9f2feda733592a5aa2df7a5" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 53 (Europe) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 53 (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 53 (Europe) (En,Fr,De,Es,It).chd" sha1="3fc52e57ec34c0e07cb85cae9a3fff659f30b549" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 53 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 53 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 53 (France) (En,Fr,De,Es,It).chd" sha1="e5b4d6eb39f56756136e30b2789d2de02953a4ad" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 53 (Germany) (En,De)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 53 (Germany) (En,De)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 53 (Germany) (En,De).chd" sha1="076d1e2b990aea0d1ebc408ac4975c6b216f2312" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 53 (UK)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 53 (UK)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 53 (UK).chd" sha1="e8a7660e571b96957318c34847e74adbd44c4f73" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 54 (Europe) (En,Fr,De,Es,It) (SCED-52169)">
 		<category>Coverdiscs</category>
@@ -33963,6 +34253,16 @@
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 54 (Germany) (En,De)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 54 (Germany) (En,De).chd" sha1="ec3eb085eac274bb19db1841574e36779c95a6bd" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 54 (Spain) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 54 (Spain) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 54 (Spain) (En,Fr,De,Es,It).chd" sha1="e7883b43c0d5e384772876eeb640ee0c900998a4" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 55 (Europe) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 55 (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 55 (Europe) (En,Fr,De,Es,It).chd" sha1="35adf89849a0c1296e8679c2101b8aa9270a2f32" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 55 (Europe, Australia)">
 		<category>Coverdiscs</category>
@@ -33989,6 +34289,11 @@
 		<description>Official PlayStation 2 Magazine Demo 56 (UK, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 56 (UK, Australia) (En,Fr,De,Es,It).chd" sha1="09eca6a24f7326819a84f5f206a463927405d3ee" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 57 (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 57 (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 57 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="3dc994c3929f775818a085c270687d0270bf7eee" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 57 (Germany) (En,De)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 57 (Germany) (En,De)</description>
@@ -33999,10 +34304,25 @@
 		<description>Official PlayStation 2 Magazine Demo 57 (UK) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 57 (UK) (En,Fr,De,Es,It).chd" sha1="86cea27c14cd7f9419189f0e6a1a4aacc0ac2300" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 58 (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 58 (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 58 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="9dc2647d314a13bcfb877063d106b163017e8f84" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 58 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 58 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 58 (France) (En,Fr,De,Es,It).chd" sha1="0aa5622d87cd1c1dac2688cf69e2a7089434fa47" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 58 (Germany) (En,De)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 58 (Germany) (En,De)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 58 (Germany) (En,De).chd" sha1="c2c13da3609acc4423e13e51e310e123c0d475fc" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 58 (Spain, Portugal)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 58 (Spain, Portugal)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 58 (Spain, Portugal).chd" sha1="59f913bb669466ebf61de5f7f96e118fecff0f72" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 58 (UK) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
@@ -34029,6 +34349,11 @@
 		<description>Official PlayStation 2 Magazine Demo 6 (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 6 (Europe) (En,Fr,De,Es,It).chd" sha1="4f9f88461f6c300d528a5b29203008180fdefebc" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 60 (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 60 (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 60 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="631d24032d1ba2fdfecfbca58ced65a66f48e344" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 60 (Germany) (En,De)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 60 (Germany) (En,De)</description>
@@ -34038,6 +34363,11 @@
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 60 (UK) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 60 (UK) (En,Fr,De,Es,It).chd" sha1="a0e136c91d8480575f014edd2b2f93315e8a577a" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 61 (Europe) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 61 (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 61 (Europe) (En,Fr,De,Es,It).chd" sha1="5c5981e3029bf794885277c418713a97d64557dc" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 61 (Germany)">
 		<category>Coverdiscs</category>
@@ -34109,15 +34439,30 @@
 		<description>Official PlayStation 2 Magazine Demo 66 (Germany)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 66 (Germany).chd" sha1="58226ddab3319542fde857350defdb0a47aea5f2" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 67 (Australia)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 67 (Australia)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 67 (Australia).chd" sha1="40b7d6570fa6ea938cee64091ce79683ab260ee7" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 67 (Europe) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 67 (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 67 (Europe) (En,Fr,De,Es,It).chd" sha1="ff9c8e44ab3e70c2f1552fe545947bf21a4caf69" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 67 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 67 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 67 (France) (En,Fr,De,Es,It).chd" sha1="6d702533e560fdfe269b40a15c125a198d8274f1" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 67 (Germany)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 67 (Germany)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 67 (Germany).chd" sha1="cfa18d6d432e0e703b2e0f6e5d986bb9731f6339" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 67 (Spain, Portugal) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 67 (Spain, Portugal) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 67 (Spain, Portugal) (En,Fr,De,Es,It).chd" sha1="f9647b8aed446700ab80e6d7d6eb75108c10be46" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 68 (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
@@ -34129,10 +34474,20 @@
 		<description>Official PlayStation 2 Magazine Demo 68 (Germany) (En,De)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 68 (Germany) (En,De).chd" sha1="ea29dee59b0073dddb2b202277569517373799db" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 69 &amp; 70 (Spain, Portugal) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 69 &amp; 70 (Spain, Portugal) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 69 &amp; 70 (Spain, Portugal) (En,Fr,De,Es,It).chd" sha1="47e84c9f102fb577a5c9f5e7a9d7808929814829" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 69 (Europe) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 69 (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 69 (Europe) (En,Fr,De,Es,It).chd" sha1="df862df06cdf869995931cb3289e7753c747c51d" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 69 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 69 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 69 (France) (En,Fr,De,Es,It).chd" sha1="6bb25c048a59d076db906a164d6fb14d2546e5ce" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 69 (Germany)">
 		<category>Coverdiscs</category>
@@ -34149,10 +34504,20 @@
 		<description>Official PlayStation 2 Magazine Demo 70 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 70 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="753852904a748e0e97756fbab470dffac161b2dc" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 70 (France)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 70 (France)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 70 (France).chd" sha1="ca158a1db45ed7112f357b5a2742c81c3a707c2e" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 70 (Germany) (En,De)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 70 (Germany) (En,De)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 70 (Germany) (En,De).chd" sha1="93c63fd1a8edfc9a0424b95377bd0b04f7755a29" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 71 (Australia) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 71 (Australia) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 71 (Australia) (En,Fr,De,Es,It).chd" sha1="c984150b7e0e9bd6414b3e548ef13a37db686b27" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 71 (Europe) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
@@ -34169,10 +34534,20 @@
 		<description>Official PlayStation 2 Magazine Demo 71 (Germany)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 71 (Germany).chd" sha1="9db00ad4d039aaedc427a42190d5482ac013cff0" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 71 (Spain, Portugal) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 71 (Spain, Portugal) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 71 (Spain, Portugal) (En,Fr,De,Es,It).chd" sha1="c07df8e951708353b72594cc24b105612d76c1be" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 72 (Europe) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 72 (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 72 (Europe) (En,Fr,De,Es,It).chd" sha1="03183b102356c1345e20b59f4038a40c59df4525" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 72 (France)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 72 (France)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 72 (France).chd" sha1="ea8ee92a4b4b1fbf2d76762be88bf074fa8d9be6" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 72 (Germany)">
 		<category>Coverdiscs</category>
@@ -34188,6 +34563,16 @@
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 73 (Germany) (En,De)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 73 (Germany) (En,De).chd" sha1="d1301cadcbbe10445ce6b2f3019fa448be10ee2d" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 73 (Netherlands)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 73 (Netherlands)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 73 (Netherlands).chd" sha1="1a4cbb651d3d36412d9326a446c939ff88eeb3e5" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 74 (Europe) (En,Fr,De,Es,It) (SCED-54202)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 74 (Europe) (En,Fr,De,Es,It) (SCED-54202)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 74 (Europe) (En,Fr,De,Es,It) (SCED-54202).chd" sha1="19fbe98003625b498d4b7ad449d297bac3a6d87e" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 74 (Europe, Australia) (En,Fr,De,Es,It) (SCED-54046)">
 		<category>Coverdiscs</category>
@@ -34249,6 +34634,11 @@
 		<description>Official PlayStation 2 Magazine Demo 79 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 79 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="d535dcdb9b5a3f19c53dc865161af729476db866" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 79 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 79 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 79 (France) (En,Fr,De,Es,It).chd" sha1="495655fecb9c507b41ddd7f26aae56145148cf11" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 79 (Germany) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 79 (Germany) (En,Fr,De,Es,It)</description>
@@ -34258,6 +34648,11 @@
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 8 (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 8 (Europe) (En,Fr,De,Es,It).chd" sha1="3292c40292d525070d9e934382c569e01d4edf4c" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 8 (France) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 8 (France) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 8 (France) (En,Fr,De,Es,It).chd" sha1="40bda9659aa34b06b6d11e76d060ac771fd982a4" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 80 (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
@@ -34269,6 +34664,11 @@
 		<description>Official PlayStation 2 Magazine Demo 80 (Germany)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 80 (Germany).chd" sha1="fe71048c239d9e4d1356796d635e4f55876eac4b" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 80 (Spain, Portugal) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 80 (Spain, Portugal) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 80 (Spain, Portugal) (En,Fr,De,Es,It).chd" sha1="0f3d08bce2e931cf743f5a830c1111e3c8197169" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 81 (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 81 (Europe, Australia) (En,Fr,De,Es,It)</description>
@@ -34278,6 +34678,11 @@
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 81 (Germany)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 81 (Germany).chd" sha1="db6d83a860cd93104a565e72107da0d9100bffe6" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 81 (Spain, Portugal) (En,Fr,De,Es,It)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 81 (Spain, Portugal) (En,Fr,De,Es,It)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 81 (Spain, Portugal) (En,Fr,De,Es,It).chd" sha1="be74152a5a6208ce6ce951615646044ab42e71ce" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 82 (Europe) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
@@ -34339,6 +34744,11 @@
 		<description>Official PlayStation 2 Magazine Demo 9 (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 9 (Europe) (En,Fr,De,Es,It).chd" sha1="90f91ca9f9d0bcc78626629e8d09bcbc381d9ac5" />
 	</machine>
+	<machine name="Official PlayStation 2 Magazine Demo 9 (Europe, Australia) (En,De)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine Demo 9 (Europe, Australia) (En,De)</description>
+		<disk name="Official PlayStation 2 Magazine Demo 9 (Europe, Australia) (En,De).chd" sha1="3f0535332d2a8fea1c744c5299c9b084ed70608d" />
+	</machine>
 	<machine name="Official PlayStation 2 Magazine Demo 90 (Europe) (En,Fr,De,Es,It)">
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 90 (Europe) (En,Fr,De,Es,It)</description>
@@ -34388,6 +34798,11 @@
 		<category>Coverdiscs</category>
 		<description>Official PlayStation 2 Magazine Demo 99 (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Official PlayStation 2 Magazine Demo 99 (Europe) (En,Fr,De,Es,It).chd" sha1="7237071d941645de75d089534626b2f7e9b613b9" />
+	</machine>
+	<machine name="Official PlayStation 2 Magazine French Christmas Special Demo (France)">
+		<category>Coverdiscs</category>
+		<description>Official PlayStation 2 Magazine French Christmas Special Demo (France)</description>
+		<disk name="Official PlayStation 2 Magazine French Christmas Special Demo (France).chd" sha1="adf8a304c647b5cd7b59ff394310997f0b502db5" />
 	</machine>
 	<machine name="Official PlayStation 2 Magazine Germany Special 2-2005 (Germany)">
 		<category>Coverdiscs</category>
@@ -34859,6 +35274,21 @@
 		<description>Offizielle PlayStation 2 Magazin 02-2004, Das - Uncut Edition (Germany)</description>
 		<disk name="Offizielle PlayStation 2 Magazin 02-2004, Das - Uncut Edition (Germany).chd" sha1="ee7556a8d79d1c3ff1044a644a26cd0333960089" />
 	</machine>
+	<machine name="Offizielle PlayStation 2 Magazin 09-2004, Das (Germany)">
+		<category>Demos</category>
+		<description>Offizielle PlayStation 2 Magazin 09-2004, Das (Germany)</description>
+		<disk name="Offizielle PlayStation 2 Magazin 09-2004, Das (Germany).chd" sha1="e1d09a0a35493c2cfd08a851cc43180794fe5698" />
+	</machine>
+	<machine name="Offizielle PlayStation 2 Magazin 12-2003, Das (Germany)">
+		<category>Demos</category>
+		<description>Offizielle PlayStation 2 Magazin 12-2003, Das (Germany)</description>
+		<disk name="Offizielle PlayStation 2 Magazin 12-2003, Das (Germany).chd" sha1="555ef3a74b7d0f10d5c8791003868e4461ccd468" />
+	</machine>
+	<machine name="Offizielle PlayStation 2 Magazin 13-2003, Das - Uncut Edition (Germany)">
+		<category>Demos</category>
+		<description>Offizielle PlayStation 2 Magazin 13-2003, Das - Uncut Edition (Germany)</description>
+		<disk name="Offizielle PlayStation 2 Magazin 13-2003, Das - Uncut Edition (Germany).chd" sha1="6ac6e5c7b7aad27c5b7862f82feceba2c7f6d802" />
+	</machine>
 	<machine name="Offizielle PlayStation 2 Magazin, Das - Special Edition 2 (Germany)">
 		<category>Coverdiscs</category>
 		<description>Offizielle PlayStation 2 Magazin, Das - Special Edition 2 (Germany)</description>
@@ -34869,30 +35299,115 @@
 		<description>Off-Road - Wide Open (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Off-Road - Wide Open (Europe) (En,Fr,De,Es,It).chd" sha1="7b54e828e7e5f7b2991fff2ea8b36b4a0e2f37ed" />
 	</machine>
+	<machine name="Offroad Extreme! (Europe)">
+		<category>Games</category>
+		<description>Offroad Extreme! (Europe)</description>
+		<disk name="Offroad Extreme! (Europe).chd" sha1="500de9a9650473415b7ef8dac41c647848bb47dc" />
+	</machine>
 	<machine name="Offroad Extreme! Special Edition (Europe)">
 		<category>Games</category>
 		<description>Offroad Extreme! Special Edition (Europe)</description>
 		<disk name="Offroad Extreme! Special Edition (Europe).chd" sha1="fb419bfd4ddb6c6d719bbe18c61f975da4054fb3" />
+	</machine>
+	<machine name="Ojousama Kumikyoku - Sweet Concert (Japan)">
+		<category>Games</category>
+		<description>Ojousama Kumikyoku - Sweet Concert (Japan)</description>
+		<disk name="Ojousama Kumikyoku - Sweet Concert (Japan).chd" sha1="8c4ff737a721fc5fa958572a657dde833f72e464" />
 	</machine>
 	<machine name="Okage - Shadow King (USA)">
 		<category>Games</category>
 		<description>Okage - Shadow King (USA)</description>
 		<disk name="Okage - Shadow King (USA).chd" sha1="a0c9c031e4cdae5ecb4f477960d1948618bb6b9c" />
 	</machine>
+	<machine name="Omoi no Kakera - Close to (Japan)">
+		<category>Games</category>
+		<description>Omoi no Kakera - Close to (Japan)</description>
+		<disk name="Omoi no Kakera - Close to (Japan).chd" sha1="bc3b0580a615823a71d5da04207402c245c1d2dd" />
+	</machine>
+	<machine name="Omoide ni Kawaru Kimi - Memories Off (Japan)">
+		<category>Games</category>
+		<description>Omoide ni Kawaru Kimi - Memories Off (Japan)</description>
+		<disk name="Omoide ni Kawaru Kimi - Memories Off (Japan).chd" sha1="cc8955871c9c7daf3a3abac030ddf0175b407d1d" />
+	</machine>
+	<machine name="One Piece - Grand Adventure (Korea)">
+		<category>Games</category>
+		<description>One Piece - Grand Adventure (Korea)</description>
+		<disk name="One Piece - Grand Adventure (Korea).chd" sha1="db2c73e5d6cd0c36d76292e7aa3cb0f207f3d867" />
+	</machine>
+	<machine name="One Piece - Grand Battle! 3 (Japan)">
+		<category>Games</category>
+		<description>One Piece - Grand Battle! 3 (Japan)</description>
+		<disk name="One Piece - Grand Battle! 3 (Japan).chd" sha1="19637b56fbd8186a5928cd47842208deae9b4eba" />
+	</machine>
+	<machine name="One Piece - Grand Battle! Rush (Japan)">
+		<category>Games</category>
+		<description>One Piece - Grand Battle! Rush (Japan)</description>
+		<disk name="One Piece - Grand Battle! Rush (Japan).chd" sha1="b4f67f24c4c99affa5515ce3bd5cc2beba34f07e" />
+	</machine>
+	<machine name="One Piece - Grand Battle! Rush (Korea)">
+		<category>Games</category>
+		<description>One Piece - Grand Battle! Rush (Korea)</description>
+		<disk name="One Piece - Grand Battle! Rush (Korea).chd" sha1="071a9e2c9fffe8cb449ffac8c5e21e70816ebee5" />
+	</machine>
+	<machine name="One Piece - Pirates Carnival (Japan)">
+		<category>Games</category>
+		<description>One Piece - Pirates Carnival (Japan)</description>
+		<disk name="One Piece - Pirates Carnival (Japan).chd" sha1="342c6e24cde2fa9a1b238f8ccf103e4adc39b09a" />
+	</machine>
+	<machine name="One Piece - Pirates Carnival (Japan) (Multi Tap (SCPH-10090) Doukonban)">
+		<category>Games</category>
+		<description>One Piece - Pirates Carnival (Japan) (Multi Tap (SCPH-10090) Doukonban)</description>
+		<disk name="One Piece - Pirates Carnival (Japan) (Multi Tap (SCPH-10090) Doukonban).chd" sha1="24a047cb5643656bcd7e4e8acc280c752bd5e7e4" />
+	</machine>
+	<machine name="One Piece - Pirates Carnival (Japan) (Multi Tap (SCPH-70120) Doukonban)">
+		<category>Games</category>
+		<description>One Piece - Pirates Carnival (Japan) (Multi Tap (SCPH-70120) Doukonban)</description>
+		<disk name="One Piece - Pirates Carnival (Japan) (Multi Tap (SCPH-70120) Doukonban).chd" sha1="d86f4a0b490e78dc343a81d6576b71d3779167d9" />
+	</machine>
+	<machine name="One Piece - Pirates Carnival (Korea)">
+		<category>Games</category>
+		<description>One Piece - Pirates Carnival (Korea)</description>
+		<disk name="One Piece - Pirates Carnival (Korea).chd" sha1="dc1f31becd8c8c5596aff1c74fd88cbb6e6a8e87" />
+	</machine>
 	<machine name="One Piece - Round the Land! (Europe) (De,Es,It)">
 		<category>Games</category>
 		<description>One Piece - Round the Land! (Europe) (De,Es,It)</description>
 		<disk name="One Piece - Round the Land! (Europe) (De,Es,It).chd" sha1="4d90ff4bd774618d60f542b5ad4f3163264aee70" />
+	</machine>
+	<machine name="One Piece - Round the Land! (Japan)">
+		<category>Games</category>
+		<description>One Piece - Round the Land! (Japan)</description>
+		<disk name="One Piece - Round the Land! (Japan).chd" sha1="eafc872a293aa23b8f67921934c9b82117e33ef4" />
+	</machine>
+	<machine name="One Piece - Round the Land! (Korea)">
+		<category>Games</category>
+		<description>One Piece - Round the Land! (Korea)</description>
+		<disk name="One Piece - Round the Land! (Korea).chd" sha1="a7ee5d1c2fb57f98b650f08290d70df26cedc20b" />
 	</machine>
 	<machine name="Oni (Europe)">
 		<category>Games</category>
 		<description>Oni (Europe)</description>
 		<disk name="Oni (Europe).chd" sha1="e08e597201e39147f66cb64f1deecc0b25485982" />
 	</machine>
+	<machine name="Oni (France)">
+		<category>Games</category>
+		<description>Oni (France)</description>
+		<disk name="Oni (France).chd" sha1="d266d0ed851643eaceb6074cfc96e42f196b6517" />
+	</machine>
 	<machine name="Oni (Germany)">
 		<category>Games</category>
 		<description>Oni (Germany)</description>
 		<disk name="Oni (Germany).chd" sha1="249e52e6cfec3b7f133ba1c6852e61d22a319268" />
+	</machine>
+	<machine name="Oni (Italy)">
+		<category>Games</category>
+		<description>Oni (Italy)</description>
+		<disk name="Oni (Italy).chd" sha1="39eb799652460550f8f94f2a364571a5ba805945" />
+	</machine>
+	<machine name="Oni (Spain)">
+		<category>Games</category>
+		<description>Oni (Spain)</description>
+		<disk name="Oni (Spain).chd" sha1="5a10e2a139028b89f4e6a094fbee35dd5c9fe3f6" />
 	</machine>
 	<machine name="Oni (USA)">
 		<category>Games</category>
@@ -34934,20 +35449,50 @@
 		<description>Onimusha - Warlords (Europe) (En,Fr,De)</description>
 		<disk name="Onimusha - Warlords (Europe) (En,Fr,De).chd" sha1="8ef2f62be0d95809ed55d0c23fd4c95ee51c0ee3" />
 	</machine>
+	<machine name="Onimusha - Warlords (Korea)">
+		<category>Games</category>
+		<description>Onimusha - Warlords (Korea)</description>
+		<disk name="Onimusha - Warlords (Korea).chd" sha1="ca140f9771be129bf63cefce851fd1fc8596d4e6" />
+	</machine>
 	<machine name="Onimusha - Warlords (USA)">
 		<category>Games</category>
 		<description>Onimusha - Warlords (USA)</description>
 		<disk name="Onimusha - Warlords (USA).chd" sha1="1339cbf1a1af3908e0a28319adcef468d57d32f7" />
+	</machine>
+	<machine name="Onimusha (Japan)">
+		<category>Games</category>
+		<description>Onimusha (Japan)</description>
+		<disk name="Onimusha (Japan).chd" sha1="526f9388a65171552eeef298e512ca91e3b02d97" />
+	</machine>
+	<machine name="Onimusha (Japan) (Taikenban)">
+		<category>Demos</category>
+		<description>Onimusha (Japan) (Taikenban)</description>
+		<disk name="Onimusha (Japan) (Taikenban).chd" sha1="94def00e91ffe037d2a08041a12abe6d6afbcbbc" />
 	</machine>
 	<machine name="Onimusha 2 - Samurai's Destiny (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Onimusha 2 - Samurai's Destiny (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Onimusha 2 - Samurai's Destiny (Europe) (En,Fr,De,Es,It).chd" sha1="3229817cf8788d66e96a742fb2cd88a91d0bab84" />
 	</machine>
+	<machine name="Onimusha 2 - Samurai's Destiny (Europe) (En,Fr,De,Es,It) (Beta) (2002-07-24)">
+		<category>Preproduction</category>
+		<description>Onimusha 2 - Samurai's Destiny (Europe) (En,Fr,De,Es,It) (Beta) (2002-07-24)</description>
+		<disk name="Onimusha 2 - Samurai's Destiny (Europe) (En,Fr,De,Es,It) (Beta) (2002-07-24).chd" sha1="1fbf93f870b37acf64ae8ab1b36f4879b10494c6" />
+	</machine>
 	<machine name="Onimusha 2 - Samurai's Destiny (USA)">
 		<category>Games</category>
 		<description>Onimusha 2 - Samurai's Destiny (USA)</description>
 		<disk name="Onimusha 2 - Samurai's Destiny (USA).chd" sha1="af05c8754998d33159714d5bff84a3b43ced452d" />
+	</machine>
+	<machine name="Onimusha 2 (Japan)">
+		<category>Games</category>
+		<description>Onimusha 2 (Japan)</description>
+		<disk name="Onimusha 2 (Japan).chd" sha1="08c151d44bf090a897b2082717c21e2785a58ebe" />
+	</machine>
+	<machine name="Onimusha 2 (Japan) (Shokai Press-ban)">
+		<category>Games</category>
+		<description>Onimusha 2 (Japan) (Shokai Press-ban)</description>
+		<disk name="Onimusha 2 (Japan) (Shokai Press-ban).chd" sha1="813c07997211dcfe37c4ca93690405bfb3b81683" />
 	</machine>
 	<machine name="Onimusha 3 - Demon Siege (USA)">
 		<category>Games</category>
@@ -34959,25 +35504,130 @@
 		<description>Onimusha 3 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Onimusha 3 (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="feb605c2fe3e24b3be54d86347cb60c0826f84e3" />
 	</machine>
+	<machine name="Onimusha 3 (Japan)">
+		<category>Games</category>
+		<description>Onimusha 3 (Japan)</description>
+		<disk name="Onimusha 3 (Japan).chd" sha1="40305b8ff21b42f5bde1561257385fcea78b7a21" />
+	</machine>
+	<machine name="Onimusha Buraiden (Japan)">
+		<category>Games</category>
+		<description>Onimusha Buraiden (Japan)</description>
+		<disk name="Onimusha Buraiden (Japan).chd" sha1="d55831ebd898d943d8ec7bbde4eec1f1b3f9454b" />
+	</machine>
+	<machine name="Online Games - Dai Guru Guru Onsen (Japan)">
+		<category>Games</category>
+		<description>Online Games - Dai Guru Guru Onsen (Japan)</description>
+		<disk name="Online Games - Dai Guru Guru Onsen (Japan).chd" sha1="3a0bd3617fda0b4573f8cfea14c2c937976c6c85" />
+	</machine>
+	<machine name="Online Pro Wrestling (Japan)">
+		<category>Games</category>
+		<description>Online Pro Wrestling (Japan)</description>
+		<disk name="Online Pro Wrestling (Japan).chd" sha1="ae75ae875fa1a44491f466f5497578c4654bb4c5" />
+	</machine>
 	<machine name="Online Start-Up Disc 4.0 - Broadband Only (USA)">
 		<category>Applications</category>
 		<description>Online Start-Up Disc 4.0 - Broadband Only (USA)</description>
 		<disk name="Online Start-Up Disc 4.0 - Broadband Only (USA).chd" sha1="3d6110017922d32aa8007b66df39553df62be70b" />
+	</machine>
+	<machine name="Online Start-Up Disc 4.0 (USA)">
+		<category>Applications</category>
+		<description>Online Start-Up Disc 4.0 (USA)</description>
+		<disk name="Online Start-Up Disc 4.0 (USA).chd" sha1="a6c8486a7ae49b3eb1fae01e69e93dd26329c0c1" />
+	</machine>
+	<machine name="Online Start-Up Disc v1.0 (Latin America)">
+		<category>Applications</category>
+		<description>Online Start-Up Disc v1.0 (Latin America)</description>
+		<disk name="Online Start-Up Disc v1.0 (Latin America).chd" sha1="4cbc50f8c082461da65f5bb8037dac52a26135ce" />
+	</machine>
+	<machine name="Online Start-Up Disc v3.0 (USA)">
+		<category>Applications</category>
+		<description>Online Start-Up Disc v3.0 (USA)</description>
+		<disk name="Online Start-Up Disc v3.0 (USA).chd" sha1="dd2b4b4f357c74d5816a18bec76320ffa3ff4ee0" />
+	</machine>
+	<machine name="Online Start-Up Disc v3.0 (USA) (Rev 1)">
+		<category>Applications</category>
+		<description>Online Start-Up Disc v3.0 (USA) (Rev 1)</description>
+		<disk name="Online Start-Up Disc v3.0 (USA) (Rev 1).chd" sha1="27306d772aacb6b45d358a81ce2d9afe8d817ef1" />
+	</machine>
+	<machine name="Online Start-Up Disc v3.0 (USA) (Rev 2)">
+		<category>Applications</category>
+		<description>Online Start-Up Disc v3.0 (USA) (Rev 2)</description>
+		<disk name="Online Start-Up Disc v3.0 (USA) (Rev 2).chd" sha1="0fb3e0299a7150df19f276af237f9878a9a00a12" />
+	</machine>
+	<machine name="Online Start-Up Disc v3.5 - Broadband Only (USA)">
+		<category>Applications</category>
+		<description>Online Start-Up Disc v3.5 - Broadband Only (USA)</description>
+		<disk name="Online Start-Up Disc v3.5 - Broadband Only (USA).chd" sha1="5001114ab69fe45efcd91e8f0a96251fe0d388c3" />
+	</machine>
+	<machine name="Online Start-Up Disc v3.5 - Broadband Only (USA) (Rev 1)">
+		<category>Applications</category>
+		<description>Online Start-Up Disc v3.5 - Broadband Only (USA) (Rev 1)</description>
+		<disk name="Online Start-Up Disc v3.5 - Broadband Only (USA) (Rev 1).chd" sha1="b82fca55f15c60f0061b5db4ff742aa0331bea5c" />
+	</machine>
+	<machine name="Only You - Rebel Cross (Japan)">
+		<category>Games</category>
+		<description>Only You - Rebel Cross (Japan)</description>
+		<disk name="Only You - Rebel Cross (Japan).chd" sha1="ec9c20260319f993c6e0de660f887b95b01a8d8a" />
+	</machine>
+	<machine name="Onmyou Taisenki - Byakko Enbu (Japan)">
+		<category>Games</category>
+		<description>Onmyou Taisenki - Byakko Enbu (Japan)</description>
+		<disk name="Onmyou Taisenki - Byakko Enbu (Japan).chd" sha1="f91ed0f228e66491883e32bc99273373048a7e3a" />
+	</machine>
+	<machine name="Onmyou Taisenki - Byakko Enbu (Japan) (EyeToy Camera Doukonban)">
+		<category>Games</category>
+		<description>Onmyou Taisenki - Byakko Enbu (Japan) (EyeToy Camera Doukonban)</description>
+		<disk name="Onmyou Taisenki - Byakko Enbu (Japan) (EyeToy Camera Doukonban).chd" sha1="cecca1a4117161068f31b8f74911d9b0936a1fe8" />
+	</machine>
+	<machine name="Onmyou Taisenki - Hasha no In (Japan)">
+		<category>Games</category>
+		<description>Onmyou Taisenki - Hasha no In (Japan)</description>
+		<disk name="Onmyou Taisenki - Hasha no In (Japan).chd" sha1="121a16735157247db91f0eea329ef02328a905a7" />
+	</machine>
+	<machine name="Ookami - Fude-hajime no Maki (Japan) (Taikenban)">
+		<category>Demos</category>
+		<description>Ookami - Fude-hajime no Maki (Japan) (Taikenban)</description>
+		<disk name="Ookami - Fude-hajime no Maki (Japan) (Taikenban).chd" sha1="288d0dca5814459c5ba1673379001d617e3f96a1" />
 	</machine>
 	<machine name="Ookami (Europe) (En,Fr,De)">
 		<category>Games</category>
 		<description>Ookami (Europe) (En,Fr,De)</description>
 		<disk name="Ookami (Europe) (En,Fr,De).chd" sha1="167ceee520586a074bcedba0e344d726ed672ade" />
 	</machine>
+	<machine name="Ookami (Japan)">
+		<category>Games</category>
+		<description>Ookami (Japan)</description>
+		<disk name="Ookami (Japan).chd" sha1="dc02e163850158787e4cbffd4ae8208fcab06867" />
+	</machine>
+	<machine name="Ookami (Korea)">
+		<category>Games</category>
+		<description>Ookami (Korea)</description>
+		<disk name="Ookami (Korea).chd" sha1="c500921e6792d237d9a6ce8a75b66e74a826cb72" />
+	</machine>
 	<machine name="Ookami (USA)">
 		<category>Games</category>
 		<description>Ookami (USA)</description>
 		<disk name="Ookami (USA).chd" sha1="ef6c603e237f334c04903ca1c73369d0ef42ab4f" />
 	</machine>
+	<machine name="Oookuki (Japan)">
+		<category>Games</category>
+		<description>Oookuki (Japan)</description>
+		<disk name="Oookuki (Japan).chd" sha1="7caeef77ddf70e59142f36b005746ee12c2935e0" />
+	</machine>
 	<machine name="Open Season (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)">
 		<category>Games</category>
 		<description>Open Season (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
 		<disk name="Open Season (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).chd" sha1="511ecef54abaafe7eee57dda97c520894cce3251" />
+	</machine>
+	<machine name="Open Season (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Beta) (2006-09-15)">
+		<category>Preproduction</category>
+		<description>Open Season (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Beta) (2006-09-15)</description>
+		<disk name="Open Season (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Beta) (2006-09-15).chd" sha1="4d09fa9d433b44629dde4e91ea8ccc0b66248f50" />
+	</machine>
+	<machine name="Open Season (Europe) (En,Fr,Es,Nl)">
+		<category>Games</category>
+		<description>Open Season (Europe) (En,Fr,Es,Nl)</description>
+		<disk name="Open Season (Europe) (En,Fr,Es,Nl).chd" sha1="f4ab5cd5445bd4190af2433b19071c157fb822d0" />
 	</machine>
 	<machine name="Open Season (USA)">
 		<category>Games</category>
@@ -35014,6 +35664,151 @@
 		<description>Operative, The - No One Lives Forever (USA)</description>
 		<disk name="Operative, The - No One Lives Forever (USA).chd" sha1="e5b167e700aa651b4cbc8c84747791cfae8cb201" />
 	</machine>
+	<machine name="Operator's Side (Japan)">
+		<category>Games</category>
+		<description>Operator's Side (Japan)</description>
+		<disk name="Operator's Side (Japan).chd" sha1="a2f4194f4774a56992fd937bc86b52fa6b8704f2" />
+	</machine>
+	<machine name="Operator's Side (Japan) (Doukonban)">
+		<category>Games</category>
+		<description>Operator's Side (Japan) (Doukonban)</description>
+		<disk name="Operator's Side (Japan) (Doukonban).chd" sha1="1c3547bcc416ca4f124fb3db5dfcdd404aba75b6" />
+	</machine>
+	<machine name="Opowiesci z Narnii - Lew, Czarownica i Stara Szafa (Poland)">
+		<category>Games</category>
+		<description>Opowiesci z Narnii - Lew, Czarownica i Stara Szafa (Poland)</description>
+		<disk name="Opowiesci z Narnii - Lew, Czarownica i Stara Szafa (Poland).chd" sha1="48fbaa0c4f65d12ab8a907b3779b027f417663b7" />
+	</machine>
+	<machine name="Orange Honey - Boku wa Kimi ni Koi shiteru (Japan)">
+		<category>Games</category>
+		<description>Orange Honey - Boku wa Kimi ni Koi shiteru (Japan)</description>
+		<disk name="Orange Honey - Boku wa Kimi ni Koi shiteru (Japan).chd" sha1="9c2a66638b9af2850471c2719457d60a11e2c22d" />
+	</machine>
+	<machine name="Orange Honey - Boku wa Kimi ni Koi shiteru (Japan) (Shokai Genteiban)">
+		<category>Games</category>
+		<description>Orange Honey - Boku wa Kimi ni Koi shiteru (Japan) (Shokai Genteiban)</description>
+		<disk name="Orange Honey - Boku wa Kimi ni Koi shiteru (Japan) (Shokai Genteiban).chd" sha1="330f7fb9530d377742eece81e08d0972cb529185" />
+	</machine>
+	<machine name="Orange Pocket - Root (Japan)">
+		<category>Games</category>
+		<description>Orange Pocket - Root (Japan)</description>
+		<disk name="Orange Pocket - Root (Japan).chd" sha1="37ec9fb16dd2aaee79c03615674a03d23c310cc6" />
+	</machine>
+	<machine name="Orange Pocket - Root (Japan) (Shokai Genteiban)">
+		<category>Games</category>
+		<description>Orange Pocket - Root (Japan) (Shokai Genteiban)</description>
+		<disk name="Orange Pocket - Root (Japan) (Shokai Genteiban).chd" sha1="6ea6723a8673bf010d4dfe53316cae0da8775674" />
+	</machine>
+	<machine name="Ore ga Kantoku da! Gekitou Pennant Race (Japan)">
+		<category>Games</category>
+		<description>Ore ga Kantoku da! Gekitou Pennant Race (Japan)</description>
+		<disk name="Ore ga Kantoku da! Gekitou Pennant Race (Japan).chd" sha1="fffee548d88c6baf3908479f56950be9073424ff" />
+	</machine>
+	<machine name="Ore ga Kantoku da! Volume 2 - Gekitou Pennant Race (Japan)">
+		<category>Games</category>
+		<description>Ore ga Kantoku da! Volume 2 - Gekitou Pennant Race (Japan)</description>
+		<disk name="Ore ga Kantoku da! Volume 2 - Gekitou Pennant Race (Japan).chd" sha1="e29a7053ceba709169d5e98d14e74ece8d953a0c" />
+	</machine>
+	<machine name="Ore no Shita de Agake (Japan)">
+		<category>Games</category>
+		<description>Ore no Shita de Agake (Japan)</description>
+		<disk name="Ore no Shita de Agake (Japan).chd" sha1="d563484d15cc613171c30f2054c0cc70429ec375" />
+	</machine>
+	<machine name="Oretachi Geesen Zoku - Akumajou Dracula (Japan)">
+		<category>Games</category>
+		<description>Oretachi Geesen Zoku - Akumajou Dracula (Japan)</description>
+		<disk name="Oretachi Geesen Zoku - Akumajou Dracula (Japan).chd" sha1="33d6ca9440ad050f0d7e29cf8fd267c67b6abbae" />
+	</machine>
+	<machine name="Oretachi Geesen Zoku - Burger Time (Japan)">
+		<category>Games</category>
+		<description>Oretachi Geesen Zoku - Burger Time (Japan)</description>
+		<disk name="Oretachi Geesen Zoku - Burger Time (Japan).chd" sha1="fc180af3798b213e89dfaf752ddc4a7e46add4a0" />
+	</machine>
+	<machine name="Oretachi Geesen Zoku - Contra (Japan)">
+		<category>Games</category>
+		<description>Oretachi Geesen Zoku - Contra (Japan)</description>
+		<disk name="Oretachi Geesen Zoku - Contra (Japan).chd" sha1="fd5f8c4db344456ad71a0bc87e297e8c6e61e86e" />
+	</machine>
+	<machine name="Oretachi Geesen Zoku - Crazy Climber (Japan)">
+		<category>Games</category>
+		<description>Oretachi Geesen Zoku - Crazy Climber (Japan)</description>
+		<disk name="Oretachi Geesen Zoku - Crazy Climber (Japan).chd" sha1="988ca7d8f4c489cfc9bd19abc29e6d7453076cf9" />
+	</machine>
+	<machine name="Oretachi Geesen Zoku - Karate-dou (Japan)">
+		<category>Games</category>
+		<description>Oretachi Geesen Zoku - Karate-dou (Japan)</description>
+		<disk name="Oretachi Geesen Zoku - Karate-dou (Japan).chd" sha1="1291669deea361582c454e5872b1021f21a994fb" />
+	</machine>
+	<machine name="Oretachi Geesen Zoku - Moon Cresta (Japan)">
+		<category>Games</category>
+		<description>Oretachi Geesen Zoku - Moon Cresta (Japan)</description>
+		<disk name="Oretachi Geesen Zoku - Moon Cresta (Japan).chd" sha1="1a6b30655a7843daf8bea3a2a10d4bbe1b05fb5a" />
+	</machine>
+	<machine name="Oretachi Geesen Zoku - Nekketsu Kouha Kunio-kun (Japan)">
+		<category>Games</category>
+		<description>Oretachi Geesen Zoku - Nekketsu Kouha Kunio-kun (Japan)</description>
+		<disk name="Oretachi Geesen Zoku - Nekketsu Kouha Kunio-kun (Japan).chd" sha1="8ad0502e02b4676195266c727bf2221a834a20cd" />
+	</machine>
+	<machine name="Oretachi Geesen Zoku - Nekketsu Koukou Dodgeball-bu (Japan)">
+		<category>Games</category>
+		<description>Oretachi Geesen Zoku - Nekketsu Koukou Dodgeball-bu (Japan)</description>
+		<disk name="Oretachi Geesen Zoku - Nekketsu Koukou Dodgeball-bu (Japan).chd" sha1="32b7edea0ee977d214a55ef5ff41548b77892966" />
+	</machine>
+	<machine name="Oretachi Geesen Zoku - Pooyan (Japan)">
+		<category>Games</category>
+		<description>Oretachi Geesen Zoku - Pooyan (Japan)</description>
+		<disk name="Oretachi Geesen Zoku - Pooyan (Japan).chd" sha1="f33a31cfacc626d3821bdd657ece49f969527059" />
+	</machine>
+	<machine name="Oretachi Geesen Zoku - Quarth (Japan)">
+		<category>Games</category>
+		<description>Oretachi Geesen Zoku - Quarth (Japan)</description>
+		<disk name="Oretachi Geesen Zoku - Quarth (Japan).chd" sha1="949abde6c20ebe66640f0cbab588e68f8bf26ab7" />
+	</machine>
+	<machine name="Oretachi Geesen Zoku - Rabio Lepus (Japan)">
+		<category>Games</category>
+		<description>Oretachi Geesen Zoku - Rabio Lepus (Japan)</description>
+		<disk name="Oretachi Geesen Zoku - Rabio Lepus (Japan).chd" sha1="609cb30bd8ac0023d6504038e670af344279bbc9" />
+	</machine>
+	<machine name="Oretachi Geesen Zoku - Scramble (Japan)">
+		<category>Games</category>
+		<description>Oretachi Geesen Zoku - Scramble (Japan)</description>
+		<disk name="Oretachi Geesen Zoku - Scramble (Japan).chd" sha1="994c85ea564a8fd828b4432e4dc754e94a924e3c" />
+	</machine>
+	<machine name="Oretachi Geesen Zoku - Sonic Wings (Japan)">
+		<category>Games</category>
+		<description>Oretachi Geesen Zoku - Sonic Wings (Japan)</description>
+		<disk name="Oretachi Geesen Zoku - Sonic Wings (Japan).chd" sha1="194adfd6733ca6026ec5497348a8514486f9c2f3" />
+	</machine>
+	<machine name="Oretachi Geesen Zoku - Super Volleyball (Japan)">
+		<category>Games</category>
+		<description>Oretachi Geesen Zoku - Super Volleyball (Japan)</description>
+		<disk name="Oretachi Geesen Zoku - Super Volleyball (Japan).chd" sha1="6152cb988eba3d2af84e0240a7cb93eb0e4ca37f" />
+	</machine>
+	<machine name="Oretachi Geesen Zoku - Terra Cresta (Japan)">
+		<category>Games</category>
+		<description>Oretachi Geesen Zoku - Terra Cresta (Japan)</description>
+		<disk name="Oretachi Geesen Zoku - Terra Cresta (Japan).chd" sha1="f42e97e99bf76995ae5fd685ac537198b066df21" />
+	</machine>
+	<machine name="Oretachi Geesen Zoku - Thunder Cross (Japan)">
+		<category>Games</category>
+		<description>Oretachi Geesen Zoku - Thunder Cross (Japan)</description>
+		<disk name="Oretachi Geesen Zoku - Thunder Cross (Japan).chd" sha1="94b02c7f597eec2e836614a3c14f5212e3e3560e" />
+	</machine>
+	<machine name="Oretachi Geesen Zoku - Time Pilot (Japan)">
+		<category>Games</category>
+		<description>Oretachi Geesen Zoku - Time Pilot (Japan)</description>
+		<disk name="Oretachi Geesen Zoku - Time Pilot (Japan).chd" sha1="f577a8277dab023f4debc1be5fa0a2b852ca076e" />
+	</machine>
+	<machine name="Oretachi Geesen Zoku - Trio the Punch (Japan)">
+		<category>Games</category>
+		<description>Oretachi Geesen Zoku - Trio the Punch (Japan)</description>
+		<disk name="Oretachi Geesen Zoku - Trio the Punch (Japan).chd" sha1="93ed16bc5c646693a422e29d504616424bd0352d" />
+	</machine>
+	<machine name="Oretachi Geesen Zoku - Yie Ar Kung Fu (Japan)">
+		<category>Games</category>
+		<description>Oretachi Geesen Zoku - Yie Ar Kung Fu (Japan)</description>
+		<disk name="Oretachi Geesen Zoku - Yie Ar Kung Fu (Japan).chd" sha1="0b9e33a030c012bf6e406b75e4b56d0b0f60d9dd" />
+	</machine>
 	<machine name="Orphen - Scion of Sorcery (Europe)">
 		<category>Games</category>
 		<description>Orphen - Scion of Sorcery (Europe)</description>
@@ -35023,6 +35818,101 @@
 		<category>Games</category>
 		<description>Orphen - Scion of Sorcery (USA)</description>
 		<disk name="Orphen - Scion of Sorcery (USA).chd" sha1="22960120e806f2f6ccbe43819f42b38f5d3d8733" />
+	</machine>
+	<machine name="Oshiete! Popotan (Japan)">
+		<category>Games</category>
+		<description>Oshiete! Popotan (Japan)</description>
+		<disk name="Oshiete! Popotan (Japan).chd" sha1="9e6254127378ffaaaf20375659c1769513676856" />
+	</machine>
+	<machine name="Osouji Sentai Clean Keeper H (Japan)">
+		<category>Games</category>
+		<description>Osouji Sentai Clean Keeper H (Japan)</description>
+		<disk name="Osouji Sentai Clean Keeper H (Japan).chd" sha1="6e083ec62e0ca86b81b147eec575f36280743a08" />
+	</machine>
+	<machine name="Otome no Jijou (Japan)">
+		<category>Games</category>
+		<description>Otome no Jijou (Japan)</description>
+		<disk name="Otome no Jijou (Japan).chd" sha1="f4b1ec064a06db6305e2b09e7b2a238170392804" />
+	</machine>
+	<machine name="Otome wa Boku ni Koishiteru (Japan)">
+		<category>Games</category>
+		<description>Otome wa Boku ni Koishiteru (Japan)</description>
+		<disk name="Otome wa Boku ni Koishiteru (Japan).chd" sha1="8e513397f4d5e7b62f78c83ddb1676dbd086eec2" />
+	</machine>
+	<machine name="Otome-teki Koi Kakumei - Love Revo!! (Japan)">
+		<category>Games</category>
+		<description>Otome-teki Koi Kakumei - Love Revo!! (Japan)</description>
+		<disk name="Otome-teki Koi Kakumei - Love Revo!! (Japan).chd" sha1="26ee1fa97c462a9309fcbe16f583ce5b0a33fd9e" />
+	</machine>
+	<machine name="Otome-teki Koi Kakumei - Love Revo!! (Japan) (Love Revo Box)">
+		<category>Games</category>
+		<description>Otome-teki Koi Kakumei - Love Revo!! (Japan) (Love Revo Box)</description>
+		<disk name="Otome-teki Koi Kakumei - Love Revo!! (Japan) (Love Revo Box).chd" sha1="497cc4cca19ec11ee7cf933249cce40106d183d7" />
+	</machine>
+	<machine name="Otona no Gal-jong - Kimi ni Haneman! (Japan)">
+		<category>Games</category>
+		<description>Otona no Gal-jong - Kimi ni Haneman! (Japan)</description>
+		<disk name="Otona no Gal-jong - Kimi ni Haneman! (Japan).chd" sha1="563192772a7d99f9618037a02f829fbb5c35b76d" />
+	</machine>
+	<machine name="Otona no Gal-jong 2 - Koishite Bai Man! (Japan)">
+		<category>Games</category>
+		<description>Otona no Gal-jong 2 - Koishite Bai Man! (Japan)</description>
+		<disk name="Otona no Gal-jong 2 - Koishite Bai Man! (Japan).chd" sha1="8006cf876adb747b7e97f2acc4912491ee590e6d" />
+	</machine>
+	<machine name="Otostaz (Asia) (En,Zh)">
+		<category>Games</category>
+		<description>Otostaz (Asia) (En,Zh)</description>
+		<disk name="Otostaz (Asia) (En,Zh).chd" sha1="93e965fa8b7a4c0bba699ad6616fa3a228618936" />
+	</machine>
+	<machine name="Otostaz (Japan) (En,Ja)">
+		<category>Games</category>
+		<description>Otostaz (Japan) (En,Ja)</description>
+		<disk name="Otostaz (Japan) (En,Ja).chd" sha1="b6a6a6e6caa0ec41283e186d4af1be8f6ae00f37" />
+	</machine>
+	<machine name="Otostaz (Japan) (Taikenban 1)">
+		<category>Demos</category>
+		<description>Otostaz (Japan) (Taikenban 1)</description>
+		<disk name="Otostaz (Japan) (Taikenban 1).chd" sha1="d19ddec9aa19bc71b2cb2dc9efacfd1e2ea98d90" />
+	</machine>
+	<machine name="Otostaz (Japan) (Taikenban 2)">
+		<category>Demos</category>
+		<description>Otostaz (Japan) (Taikenban 2)</description>
+		<disk name="Otostaz (Japan) (Taikenban 2).chd" sha1="ad060dc894162e37da9c5a4b56894fd698a9fbff" />
+	</machine>
+	<machine name="Otostaz (Japan) (Taikenban 3)">
+		<category>Demos</category>
+		<description>Otostaz (Japan) (Taikenban 3)</description>
+		<disk name="Otostaz (Japan) (Taikenban 3).chd" sha1="39de378f8115dde36b4b3121ac9c3781b803ebc1" />
+	</machine>
+	<machine name="Otostaz (Korea)">
+		<category>Games</category>
+		<description>Otostaz (Korea)</description>
+		<disk name="Otostaz (Korea).chd" sha1="8e65996935d90eaa0b914783b45ff4514e0c4e42" />
+	</machine>
+	<machine name="Ougon Kishi Garo (Japan)">
+		<category>Games</category>
+		<description>Ougon Kishi Garo (Japan)</description>
+		<disk name="Ougon Kishi Garo (Japan).chd" sha1="5b12b3e92a91a6ffa9b24fcf341f3fc6b6021a7c" />
+	</machine>
+	<machine name="Ougon Kishi Garo (Japan) (Genteiban)">
+		<category>Games</category>
+		<description>Ougon Kishi Garo (Japan) (Genteiban)</description>
+		<disk name="Ougon Kishi Garo (Japan) (Genteiban).chd" sha1="9ada6e9dd54167e229759bf29b4486404093d1d4" />
+	</machine>
+	<machine name="Ouka - Kokoro Kagayakaseru Sakura (Japan)">
+		<category>Games</category>
+		<description>Ouka - Kokoro Kagayakaseru Sakura (Japan)</description>
+		<disk name="Ouka - Kokoro Kagayakaseru Sakura (Japan).chd" sha1="f898282205f561ed66c222b905d5594bbc4b800d" />
+	</machine>
+	<machine name="Ouran Koukou Host Club (Japan)">
+		<category>Games</category>
+		<description>Ouran Koukou Host Club (Japan)</description>
+		<disk name="Ouran Koukou Host Club (Japan).chd" sha1="88d3070dcaca548e95ac9e4bd045a3ec7e6b19e8" />
+	</machine>
+	<machine name="Ouran Koukou Host Club (Japan) (Genteiban)">
+		<category>Games</category>
+		<description>Ouran Koukou Host Club (Japan) (Genteiban)</description>
+		<disk name="Ouran Koukou Host Club (Japan) (Genteiban).chd" sha1="845fd4a4b7255aaed312e0a4f974379ee154e244" />
 	</machine>
 	<machine name="Outlaw Golf (Europe) (En,Fr,De)">
 		<category>Games</category>
@@ -35049,6 +35939,11 @@
 		<description>Outlaw Tennis (USA)</description>
 		<disk name="Outlaw Tennis (USA).chd" sha1="f1f026980753246d0be300f791cd43734e56305d" />
 	</machine>
+	<machine name="Outlaw Volleyball (Europe) (En,Fr,De)">
+		<category>Games</category>
+		<description>Outlaw Volleyball (Europe) (En,Fr,De)</description>
+		<disk name="Outlaw Volleyball (Europe) (En,Fr,De).chd" sha1="ce1e975d6f2bb5ed4375c6879eda92d12910952c" />
+	</machine>
 	<machine name="Outlaw Volleyball Remixed (Europe, Australia) (En,Fr,De,Es)">
 		<category>Games</category>
 		<description>Outlaw Volleyball Remixed (Europe, Australia) (En,Fr,De,Es)</description>
@@ -35059,15 +35954,35 @@
 		<description>Outlaw Volleyball Remixed (USA)</description>
 		<disk name="Outlaw Volleyball Remixed (USA).chd" sha1="05f126d09503fe5c226b8b979fcd0ea3ef7ab79a" />
 	</machine>
+	<machine name="OutRun 2 SP (Japan)">
+		<category>Games</category>
+		<description>OutRun 2 SP (Japan)</description>
+		<disk name="OutRun 2 SP (Japan).chd" sha1="1bc9b0f497f1d061d7bcc99beba143e83e441f1e" />
+	</machine>
 	<machine name="OutRun 2006 - Coast 2 Coast (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>OutRun 2006 - Coast 2 Coast (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="OutRun 2006 - Coast 2 Coast (Europe) (En,Fr,De,Es,It).chd" sha1="a43b2d8371b6c4b6b134c5835863d4faba4fa9b0" />
 	</machine>
+	<machine name="OutRun 2006 - Coast 2 Coast (Europe) (En,Fr,De,Es,It) (Beta) (2006-02-13)">
+		<category>Preproduction</category>
+		<description>OutRun 2006 - Coast 2 Coast (Europe) (En,Fr,De,Es,It) (Beta) (2006-02-13)</description>
+		<disk name="OutRun 2006 - Coast 2 Coast (Europe) (En,Fr,De,Es,It) (Beta) (2006-02-13).chd" sha1="878495732d2f197312c7c9f58d6ae8365ef7f934" />
+	</machine>
 	<machine name="OutRun 2006 - Coast 2 Coast (USA) (En,Fr,Es)">
 		<category>Games</category>
 		<description>OutRun 2006 - Coast 2 Coast (USA) (En,Fr,Es)</description>
 		<disk name="OutRun 2006 - Coast 2 Coast (USA) (En,Fr,Es).chd" sha1="3210dac33a45cf5dc2724e6fa3866379c113e776" />
+	</machine>
+	<machine name="Over the Monochrome Rainbow featuring Shogo Hamada (Japan)">
+		<category>Games</category>
+		<description>Over the Monochrome Rainbow featuring Shogo Hamada (Japan)</description>
+		<disk name="Over the Monochrome Rainbow featuring Shogo Hamada (Japan).chd" sha1="e20bae7f72a28fa3ce435817a4cdeff3b2446588" />
+	</machine>
+	<machine name="Oz (Japan)">
+		<category>Games</category>
+		<description>Oz (Japan)</description>
+		<disk name="Oz (Japan).chd" sha1="ec588805c7532d5641783b508910c7319aab2264" />
 	</machine>
 	<machine name="P.T.O. IV - Pacific Theater of Operations (Europe)">
 		<category>Games</category>
