@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
-  <header>
-    <name>Commodore - Amiga CD32</name>
-    <description>MAME Redump - Commodore - Amiga CD32 - Discs (200) (2024-08-15 23-16-54)</description>
-    <version>0.268</version>
-    <date>2024-03-22</date>
-    <author>MAME Redump</author>
-    <url>https://github.com/MetalSlug/MAMERedump</url>
-  </header>
-  <game name="Whale's Voyage (Europe) (Rev 1)" type="">
-    <category>Games</category>
-    <description>Whale's Voyage (Europe) (Rev 1)</description>
-    <rom name="Whale's Voyage (Europe) (Rev 1).cue" size="255" crc="7A10EF08" md5="6D2FE81C192BA0B3A08485C83F353023" sha1="BBAE8A30D0A74CE07808CBD693E0065B525A38F9" />
-    <rom name="Whale's Voyage (Europe) (Rev 1) (Track 1).bin" size="11771760" crc="FFACB1B0" md5="4FFA3903CE867CBC7131FECEAC3B668F" sha1="3178F38D01FD98C9CE5403DC3F46762AC3D421B2" />
-    <rom name="Whale's Voyage (Europe) (Rev 1) (Track 2).bin" size="46245024" crc="7C5A978D" md5="17FEA9F3DB2B77D28ACD834B9329E22C" sha1="563208ABAC30891BCA469D9364725E9D9F54AE22" />
-  </game>
+	<header>
+		<name>Commodore - Amiga CD32</name>
+		<description>MAME Redump - Commodore - Amiga CD32 - Discs (200) (2024-08-15 23-16-54)</description>
+		<version>0.268</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Whale's Voyage (Europe) (Rev 1)" type="">
+		<category>Games</category>
+		<description>Whale's Voyage (Europe) (Rev 1)</description>
+		<rom name="Whale's Voyage (Europe) (Rev 1).cue" size="255" crc="7A10EF08" md5="6D2FE81C192BA0B3A08485C83F353023" sha1="BBAE8A30D0A74CE07808CBD693E0065B525A38F9" />
+		<rom name="Whale's Voyage (Europe) (Rev 1) (Track 1).bin" size="11771760" crc="FFACB1B0" md5="4FFA3903CE867CBC7131FECEAC3B668F" sha1="3178F38D01FD98C9CE5403DC3F46762AC3D421B2" />
+		<rom name="Whale's Voyage (Europe) (Rev 1) (Track 2).bin" size="46245024" crc="7C5A978D" md5="17FEA9F3DB2B77D28ACD834B9329E22C" sha1="563208ABAC30891BCA469D9364725E9D9F54AE22" />
+	</game>
 </datafile>

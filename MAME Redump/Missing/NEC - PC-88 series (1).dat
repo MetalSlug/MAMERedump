@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
-  <header>
-    <name>NEC - PC-88 series</name>
-    <description>MAME Redump - NEC - PC-88 series - Discs (2) (2023-10-27 09-53-41)</description>
-    <version>0.268</version>
-    <date>2024-03-22</date>
-    <author>MAME Redump</author>
-    <url>https://github.com/MetalSlug/MAMERedump</url>
-  </header>
-  <game name="DIOS (Japan)" type="">
-    <category>Games</category>
-    <description>DIOS (Japan)</description>
-    <rom name="DIOS (Japan).cue" size="967" crc="B3B904DC" md5="85B0EC78090B375A3D776AB75CFFBABA" sha1="23E9691E13139A3D872FAF6FD7A870E60B53BAD2" />
-    <rom name="DIOS (Japan) (Track 1).bin" size="30517200" crc="324BA477" md5="D967ED268199DFBAFF8E0C3A0D8ABB55" sha1="07D617F9C9A163A535FA1750A3EB11CA83FF4A25" />
-    <rom name="DIOS (Japan) (Track 2).bin" size="9937200" crc="728E8EBD" md5="E91572330029E817467177B4D76FF512" sha1="B6CD2270F964FC29A3679896039D75D7FC68A26F" />
-    <rom name="DIOS (Japan) (Track 3).bin" size="116932032" crc="B73B2425" md5="93BDD1770889525E6762177DD282FDE5" sha1="3090B6883DC952832D5770F56ABE6943A87BDC94" />
-  </game>
+	<header>
+		<name>NEC - PC-88 series</name>
+		<description>MAME Redump - NEC - PC-88 series - Discs (2) (2023-10-27 09-53-41)</description>
+		<version>0.268</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="DIOS (Japan)" type="">
+		<category>Games</category>
+		<description>DIOS (Japan)</description>
+		<rom name="DIOS (Japan).cue" size="967" crc="B3B904DC" md5="85B0EC78090B375A3D776AB75CFFBABA" sha1="23E9691E13139A3D872FAF6FD7A870E60B53BAD2" />
+		<rom name="DIOS (Japan) (Track 1).bin" size="30517200" crc="324BA477" md5="D967ED268199DFBAFF8E0C3A0D8ABB55" sha1="07D617F9C9A163A535FA1750A3EB11CA83FF4A25" />
+		<rom name="DIOS (Japan) (Track 2).bin" size="9937200" crc="728E8EBD" md5="E91572330029E817467177B4D76FF512" sha1="B6CD2270F964FC29A3679896039D75D7FC68A26F" />
+		<rom name="DIOS (Japan) (Track 3).bin" size="116932032" crc="B73B2425" md5="93BDD1770889525E6762177DD282FDE5" sha1="3090B6883DC952832D5770F56ABE6943A87BDC94" />
+	</game>
 </datafile>
