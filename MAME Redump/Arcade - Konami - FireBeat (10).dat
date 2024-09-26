@@ -1,62 +1,62 @@
 <?xml version="1.0"?>
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
-  <header>
-    <name>Arcade - Konami - FireBeat</name>
-    <description>MAME Redump - Arcade - Konami - FireBeat - Discs (10) (2024-03-16 21-47-26)</description>
-    <version>0.268</version>
-    <date>2024-03-22</date>
-    <author>MAME Redump</author>
-    <url>https://github.com/MetalSlug/MAMERedump</url>
-  </header>
-  <machine name="Pop'n Music 4 (Japan) (Software Disk 1)">
-    <category>Games</category>
-    <description>Pop'n Music 4 (Japan) (Software Disk 1)</description>
-    <disk name="Pop'n Music 4 (Japan) (Software Disk 1).chd" sha1="6c3bdc2193a819aa002ce1d283f907c4897741b0" />
-  </machine>
-  <machine name="Pop'n Music 4 (Japan) (Software Disk 2)">
-    <category>Games</category>
-    <description>Pop'n Music 4 (Japan) (Software Disk 2)</description>
-    <disk name="Pop'n Music 4 (Japan) (Software Disk 2).chd" sha1="c34ac216b3e0bef1d1813119469364c6403feaa4" />
-  </machine>
-  <machine name="Pop'n Music 5 (Japan) (Disc 1)">
-    <category>Games</category>
-    <description>Pop'n Music 5 (Japan) (Disc 1)</description>
-    <disk name="Pop'n Music 5 (Japan) (Disc 1).chd" sha1="cde89e58a012a79f9d1135cb222b3fc0464fb7df" />
-  </machine>
-  <machine name="Pop'n Music 5 (Japan) (Disc 2)">
-    <category>Games</category>
-    <description>Pop'n Music 5 (Japan) (Disc 2)</description>
-    <disk name="Pop'n Music 5 (Japan) (Disc 2).chd" sha1="058167a6ac910183a701920021cfbc0933428e97" />
-  </machine>
-  <machine name="Pop'n Music 6 (Japan) (Disc 1) (JAC)">
-    <category>Games</category>
-    <description>Pop'n Music 6 (Japan) (Disc 1) (JAC)</description>
-    <disk name="Pop'n Music 6 (Japan) (Disc 1) (JAC).chd" sha1="039e45d14d886951925fcafd392d4b2c6bb3f1fd" />
-  </machine>
-  <machine name="Pop'n Music 6 (Japan) (Disc 2)">
-    <category>Games</category>
-    <description>Pop'n Music 6 (Japan) (Disc 2)</description>
-    <disk name="Pop'n Music 6 (Japan) (Disc 2).chd" sha1="18abf1a9dbf61faebd44c8dc1d6decbaaca826a2" />
-  </machine>
-  <machine name="Pop'n Music 7 (Japan) (Disc 1) (JAB)">
-    <category>Games</category>
-    <description>Pop'n Music 7 (Japan) (Disc 1) (JAB)</description>
-    <disk name="Pop'n Music 7 (Japan) (Disc 1) (JAB).chd" sha1="2f53bf5614b4261b7eca51df9be8c2cefa8fce0f" />
-  </machine>
-  <machine name="Pop'n Music 7 (Japan) (Disc 2)">
-    <category>Games</category>
-    <description>Pop'n Music 7 (Japan) (Disc 2)</description>
-    <disk name="Pop'n Music 7 (Japan) (Disc 2).chd" sha1="43201334acb20f529baa50c24494b7f0a4bf3d0d" />
-  </machine>
-  <machine name="Pop'n Music 8 (Japan) (Disc 1)">
-    <category>Games</category>
-    <description>Pop'n Music 8 (Japan) (Disc 1)</description>
-    <disk name="Pop'n Music 8 (Japan) (Disc 1).chd" sha1="6576d32e70c6d953caa176981023a58e738660c5" />
-  </machine>
-  <machine name="Pop'n Music 8 (Japan) (Disc 1) (JAB)">
-    <category>Games</category>
-    <description>Pop'n Music 8 (Japan) (Disc 1) (JAB)</description>
-    <disk name="Pop'n Music 8 (Japan) (Disc 1) (JAB).chd" sha1="7db25ec9a40de9fcabdaedbe1d6f60ecb74726ac" />
-  </machine>
+	<header>
+		<name>Arcade - Konami - FireBeat</name>
+		<description>MAME Redump - Arcade - Konami - FireBeat - Discs (10) (2024-03-16 21-47-26)</description>
+		<version>0.268</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Pop'n Music 4 (Japan) (Software Disk 1)">
+		<category>Games</category>
+		<description>Pop'n Music 4 (Japan) (Software Disk 1)</description>
+		<disk name="Pop'n Music 4 (Japan) (Software Disk 1).chd" sha1="6c3bdc2193a819aa002ce1d283f907c4897741b0" />
+	</machine>
+	<machine name="Pop'n Music 4 (Japan) (Software Disk 2)">
+		<category>Games</category>
+		<description>Pop'n Music 4 (Japan) (Software Disk 2)</description>
+		<disk name="Pop'n Music 4 (Japan) (Software Disk 2).chd" sha1="c34ac216b3e0bef1d1813119469364c6403feaa4" />
+	</machine>
+	<machine name="Pop'n Music 5 (Japan) (Disc 1)">
+		<category>Games</category>
+		<description>Pop'n Music 5 (Japan) (Disc 1)</description>
+		<disk name="Pop'n Music 5 (Japan) (Disc 1).chd" sha1="cde89e58a012a79f9d1135cb222b3fc0464fb7df" />
+	</machine>
+	<machine name="Pop'n Music 5 (Japan) (Disc 2)">
+		<category>Games</category>
+		<description>Pop'n Music 5 (Japan) (Disc 2)</description>
+		<disk name="Pop'n Music 5 (Japan) (Disc 2).chd" sha1="058167a6ac910183a701920021cfbc0933428e97" />
+	</machine>
+	<machine name="Pop'n Music 6 (Japan) (Disc 1) (JAC)">
+		<category>Games</category>
+		<description>Pop'n Music 6 (Japan) (Disc 1) (JAC)</description>
+		<disk name="Pop'n Music 6 (Japan) (Disc 1) (JAC).chd" sha1="039e45d14d886951925fcafd392d4b2c6bb3f1fd" />
+	</machine>
+	<machine name="Pop'n Music 6 (Japan) (Disc 2)">
+		<category>Games</category>
+		<description>Pop'n Music 6 (Japan) (Disc 2)</description>
+		<disk name="Pop'n Music 6 (Japan) (Disc 2).chd" sha1="18abf1a9dbf61faebd44c8dc1d6decbaaca826a2" />
+	</machine>
+	<machine name="Pop'n Music 7 (Japan) (Disc 1) (JAB)">
+		<category>Games</category>
+		<description>Pop'n Music 7 (Japan) (Disc 1) (JAB)</description>
+		<disk name="Pop'n Music 7 (Japan) (Disc 1) (JAB).chd" sha1="2f53bf5614b4261b7eca51df9be8c2cefa8fce0f" />
+	</machine>
+	<machine name="Pop'n Music 7 (Japan) (Disc 2)">
+		<category>Games</category>
+		<description>Pop'n Music 7 (Japan) (Disc 2)</description>
+		<disk name="Pop'n Music 7 (Japan) (Disc 2).chd" sha1="43201334acb20f529baa50c24494b7f0a4bf3d0d" />
+	</machine>
+	<machine name="Pop'n Music 8 (Japan) (Disc 1)">
+		<category>Games</category>
+		<description>Pop'n Music 8 (Japan) (Disc 1)</description>
+		<disk name="Pop'n Music 8 (Japan) (Disc 1).chd" sha1="6576d32e70c6d953caa176981023a58e738660c5" />
+	</machine>
+	<machine name="Pop'n Music 8 (Japan) (Disc 1) (JAB)">
+		<category>Games</category>
+		<description>Pop'n Music 8 (Japan) (Disc 1) (JAB)</description>
+		<disk name="Pop'n Music 8 (Japan) (Disc 1) (JAB).chd" sha1="7db25ec9a40de9fcabdaedbe1d6f60ecb74726ac" />
+	</machine>
 </datafile>

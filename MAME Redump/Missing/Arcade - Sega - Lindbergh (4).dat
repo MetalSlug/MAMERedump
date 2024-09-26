@@ -1,32 +1,32 @@
 <?xml version="1.0"?>
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
-  <header>
-    <name>Arcade - Sega - Lindbergh</name>
-    <description>MAME Redump - Arcade - Sega - Lindbergh - Discs (29) (2024-08-14 05-04-51)</description>
-    <version>0.268</version>
-    <date>2024-03-22</date>
-    <author>MAME Redump</author>
-    <url>https://github.com/MetalSlug/MAMERedump</url>
-  </header>
-  <game name="Let's Go Jungle (Export) (Lindbergh Yellow)" type="">
-    <category>Games</category>
-    <description>Let's Go Jungle (Export) (Lindbergh Yellow)</description>
-    <rom name="Let's Go Jungle (Export) (Lindbergh Yellow).iso" size="1094582272" crc="79FFA904" md5="9AA35E737E0F198DCFB92682B8E860E5" sha1="012A1E13179648315163CB9BDB107FCD8BA902AA" />
-  </game>
-  <game name="VBIOS Update (Japan) (Lindbergh Yellow) (Rev A)" type="">
-    <category>Applications</category>
-    <description>VBIOS Update (Japan) (Lindbergh Yellow) (Rev A)</description>
-    <rom name="VBIOS Update (Japan) (Lindbergh Yellow) (Rev A).iso" size="25231360" crc="375F175D" md5="BC18C7F2E3104327FB6AF76E8ADA9901" sha1="80CFEB01835CCA9ED7EB2CB42A76C3603A9D1B5F" />
-  </game>
-  <game name="Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev B)" type="">
-    <category>Games</category>
-    <description>Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev B)</description>
-    <rom name="Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev B).iso" size="3153887232" crc="E8A05279" md5="FBC69B3CAE91D321A2C760B935BD8E46" sha1="057A83870507830058167319027E8397CF455887" />
-  </game>
-  <game name="Virtua Tennis 3 (Export) (Lindbergh Yellow)" type="">
-    <category>Games</category>
-    <description>Virtua Tennis 3 (Export) (Lindbergh Yellow)</description>
-    <rom name="Virtua Tennis 3 (Export) (Lindbergh Yellow).iso" size="1858043904" crc="2369C8CD" md5="81C3D317092514E5A480BF90B0108B4A" sha1="E236DFBCB87D31580BAAF6690B5B7ED64D28B738" />
-  </game>
+	<header>
+		<name>Arcade - Sega - Lindbergh</name>
+		<description>MAME Redump - Arcade - Sega - Lindbergh - Discs (29) (2024-08-14 05-04-51)</description>
+		<version>0.268</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Let's Go Jungle (Export) (Lindbergh Yellow)" type="">
+		<category>Games</category>
+		<description>Let's Go Jungle (Export) (Lindbergh Yellow)</description>
+		<rom name="Let's Go Jungle (Export) (Lindbergh Yellow).iso" size="1094582272" crc="79FFA904" md5="9AA35E737E0F198DCFB92682B8E860E5" sha1="012A1E13179648315163CB9BDB107FCD8BA902AA" />
+	</game>
+	<game name="VBIOS Update (Japan) (Lindbergh Yellow) (Rev A)" type="">
+		<category>Applications</category>
+		<description>VBIOS Update (Japan) (Lindbergh Yellow) (Rev A)</description>
+		<rom name="VBIOS Update (Japan) (Lindbergh Yellow) (Rev A).iso" size="25231360" crc="375F175D" md5="BC18C7F2E3104327FB6AF76E8ADA9901" sha1="80CFEB01835CCA9ED7EB2CB42A76C3603A9D1B5F" />
+	</game>
+	<game name="Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev B)" type="">
+		<category>Games</category>
+		<description>Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev B)</description>
+		<rom name="Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev B).iso" size="3153887232" crc="E8A05279" md5="FBC69B3CAE91D321A2C760B935BD8E46" sha1="057A83870507830058167319027E8397CF455887" />
+	</game>
+	<game name="Virtua Tennis 3 (Export) (Lindbergh Yellow)" type="">
+		<category>Games</category>
+		<description>Virtua Tennis 3 (Export) (Lindbergh Yellow)</description>
+		<rom name="Virtua Tennis 3 (Export) (Lindbergh Yellow).iso" size="1858043904" crc="2369C8CD" md5="81C3D317092514E5A480BF90B0108B4A" sha1="E236DFBCB87D31580BAAF6690B5B7ED64D28B738" />
+	</game>
 </datafile>

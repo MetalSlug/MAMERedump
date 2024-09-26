@@ -1,47 +1,47 @@
 <?xml version="1.0"?>
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
-  <header>
-    <name>Incredible Technologies - Eagle</name>
-    <description>MAME Redump - Incredible Technologies - Eagle - Discs (7) (2023-04-07 23-42-32)</description>
-    <version>0.268</version>
-    <date>2024-03-22</date>
-    <author>MAME Redump</author>
-    <url>https://github.com/MetalSlug/MAMERedump</url>
-  </header>
-  <machine name="Golden Tee Fore! 2002 (USA)">
-    <category>Add-Ons</category>
-    <description>Golden Tee Fore! 2002 (USA)</description>
-    <disk name="Golden Tee Fore! 2002 (USA).chd" sha1="525ccfd713fa7de4c8ba7770cd0086726f0132cd" />
-  </machine>
-  <machine name="Golden Tee Fore! 2003 (USA) (v3.00.04)">
-    <category>Add-Ons</category>
-    <description>Golden Tee Fore! 2003 (USA) (v3.00.04)</description>
-    <disk name="Golden Tee Fore! 2003 (USA) (v3.00.04).chd" sha1="29f5a04c15a9f6ccd49de2752545370077b2b4b8" />
-  </machine>
-  <machine name="Golden Tee Fore! 2004 (USA)">
-    <category>Add-Ons</category>
-    <description>Golden Tee Fore! 2004 (USA)</description>
-    <disk name="Golden Tee Fore! 2004 (USA).chd" sha1="ceb65c40a34bcceed282fd9bfd79aa3a25e267dc" />
-  </machine>
-  <machine name="Golden Tee Fore! 2004 Extra (USA)">
-    <category>Add-Ons</category>
-    <description>Golden Tee Fore! 2004 Extra (USA)</description>
-    <disk name="Golden Tee Fore! 2004 Extra (USA).chd" sha1="e70320172dbcf1af4b8ef6d56d06b3e180b3b034" />
-  </machine>
-  <machine name="Golden Tee Fore! 2005 (USA)">
-    <category>Add-Ons</category>
-    <description>Golden Tee Fore! 2005 (USA)</description>
-    <disk name="Golden Tee Fore! 2005 (USA).chd" sha1="6b92b048c89e4f75ad12892becb283b6a6533127" />
-  </machine>
-  <machine name="Golden Tee Fore! Complete (USA) (v6.00.01)">
-    <category>Add-Ons</category>
-    <description>Golden Tee Fore! Complete (USA) (v6.00.01)</description>
-    <disk name="Golden Tee Fore! Complete (USA) (v6.00.01).chd" sha1="616a323fd9b640cf945660c7469bcd4cec5d6166" />
-  </machine>
-  <machine name="Golden Tee Fore! Complete (USA) (v6.00.xx)">
-    <category>Add-Ons</category>
-    <description>Golden Tee Fore! Complete (USA) (v6.00.xx)</description>
-    <disk name="Golden Tee Fore! Complete (USA) (v6.00.xx).chd" sha1="f201f872f9018cde0caf43a898344cdedf66cab0" />
-  </machine>
+	<header>
+		<name>Incredible Technologies - Eagle</name>
+		<description>MAME Redump - Incredible Technologies - Eagle - Discs (7) (2023-04-07 23-42-32)</description>
+		<version>0.268</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Golden Tee Fore! 2002 (USA)">
+		<category>Add-Ons</category>
+		<description>Golden Tee Fore! 2002 (USA)</description>
+		<disk name="Golden Tee Fore! 2002 (USA).chd" sha1="525ccfd713fa7de4c8ba7770cd0086726f0132cd" />
+	</machine>
+	<machine name="Golden Tee Fore! 2003 (USA) (v3.00.04)">
+		<category>Add-Ons</category>
+		<description>Golden Tee Fore! 2003 (USA) (v3.00.04)</description>
+		<disk name="Golden Tee Fore! 2003 (USA) (v3.00.04).chd" sha1="29f5a04c15a9f6ccd49de2752545370077b2b4b8" />
+	</machine>
+	<machine name="Golden Tee Fore! 2004 (USA)">
+		<category>Add-Ons</category>
+		<description>Golden Tee Fore! 2004 (USA)</description>
+		<disk name="Golden Tee Fore! 2004 (USA).chd" sha1="ceb65c40a34bcceed282fd9bfd79aa3a25e267dc" />
+	</machine>
+	<machine name="Golden Tee Fore! 2004 Extra (USA)">
+		<category>Add-Ons</category>
+		<description>Golden Tee Fore! 2004 Extra (USA)</description>
+		<disk name="Golden Tee Fore! 2004 Extra (USA).chd" sha1="e70320172dbcf1af4b8ef6d56d06b3e180b3b034" />
+	</machine>
+	<machine name="Golden Tee Fore! 2005 (USA)">
+		<category>Add-Ons</category>
+		<description>Golden Tee Fore! 2005 (USA)</description>
+		<disk name="Golden Tee Fore! 2005 (USA).chd" sha1="6b92b048c89e4f75ad12892becb283b6a6533127" />
+	</machine>
+	<machine name="Golden Tee Fore! Complete (USA) (v6.00.01)">
+		<category>Add-Ons</category>
+		<description>Golden Tee Fore! Complete (USA) (v6.00.01)</description>
+		<disk name="Golden Tee Fore! Complete (USA) (v6.00.01).chd" sha1="616a323fd9b640cf945660c7469bcd4cec5d6166" />
+	</machine>
+	<machine name="Golden Tee Fore! Complete (USA) (v6.00.xx)">
+		<category>Add-Ons</category>
+		<description>Golden Tee Fore! Complete (USA) (v6.00.xx)</description>
+		<disk name="Golden Tee Fore! Complete (USA) (v6.00.xx).chd" sha1="f201f872f9018cde0caf43a898344cdedf66cab0" />
+	</machine>
 </datafile>

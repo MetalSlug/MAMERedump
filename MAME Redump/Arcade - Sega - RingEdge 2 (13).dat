@@ -1,77 +1,77 @@
 <?xml version="1.0"?>
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
-  <header>
-    <name>Arcade - Sega - RingEdge 2</name>
-    <description>MAME Redump - Arcade - Sega - RingEdge 2 - Discs (15) (2024-06-22 20-30-21)</description>
-    <version>0.268</version>
-    <date>2024-03-22</date>
-    <author>MAME Redump</author>
-    <url>https://github.com/MetalSlug/MAMERedump</url>
-  </header>
-  <machine name="ALL.Net P-ras Multi Version 2 (Japan)">
-    <category>Applications</category>
-    <description>ALL.Net P-ras Multi Version 2 (Japan)</description>
-    <disk name="ALL.Net P-ras Multi Version 2 (Japan).chd" sha1="b008a912bd16033e9d3e506f684b7045d9bcfbb9" />
-  </machine>
-  <machine name="ALL.Net P-ras Multi Version 2 (Japan) (Rev A)">
-    <category>Applications</category>
-    <description>ALL.Net P-ras Multi Version 2 (Japan) (Rev A)</description>
-    <disk name="ALL.Net P-ras Multi Version 2 (Japan) (Rev A).chd" sha1="8a6ff249ceca0303e40f37b2b1db9d8ae17aa3cd" />
-  </machine>
-  <machine name="Code of Joker (Japan)">
-    <category>Games</category>
-    <description>Code of Joker (Japan)</description>
-    <disk name="Code of Joker (Japan).chd" sha1="3fd75380820fc83d40214df758b3503b51dcd1cf" />
-  </machine>
-  <machine name="Code of Joker (No. 1) (Japan) (Rev P)">
-    <category>Games</category>
-    <description>Code of Joker (No. 1) (Japan) (Rev P)</description>
-    <disk name="Code of Joker (No. 1) (Japan) (Rev P).chd" sha1="a251f61e08008bd1a65a125e179ed2f4fc85aede" />
-  </machine>
-  <machine name="Code of Joker (No. 2) (Japan) (Rev R)">
-    <category>Games</category>
-    <description>Code of Joker (No. 2) (Japan) (Rev R)</description>
-    <disk name="Code of Joker (No. 2) (Japan) (Rev R).chd" sha1="f9d7edfcfe40425a6a3511b37e228be25b38cdcb" />
-  </machine>
-  <machine name="GeeSen Love. (Japan)">
-    <category>Games</category>
-    <description>GeeSen Love. (Japan)</description>
-    <disk name="GeeSen Love. (Japan).chd" sha1="72319183142948d62aaa4ae82221c816a87b5ecf" />
-  </machine>
-  <machine name="Guilty Gear XX Accent Core Plus R (Japan)">
-    <category>Games</category>
-    <description>Guilty Gear XX Accent Core Plus R (Japan)</description>
-    <disk name="Guilty Gear XX Accent Core Plus R (Japan).chd" sha1="da7c80ae8e7f22189db9ded8f9643b9e5b4a5dcf" />
-  </machine>
-  <machine name="Maimai (Japan) (Rev A)">
-    <category>Games</category>
-    <description>Maimai (Japan) (Rev A)</description>
-    <disk name="Maimai (Japan) (Rev A).chd" sha1="1af674bd0bc4a5bc31a6eaecc6f9f8827bbcda06" />
-  </machine>
-  <machine name="Maimai Green (No. 1) (Japan)">
-    <category>Games</category>
-    <description>Maimai Green (No. 1) (Japan)</description>
-    <disk name="Maimai Green (No. 1) (Japan).chd" sha1="356f97c36f4e164f6384abe8cbce5337113b736b" />
-  </machine>
-  <machine name="Maimai Green (No. 2) (Japan)">
-    <category>Games</category>
-    <description>Maimai Green (No. 2) (Japan)</description>
-    <disk name="Maimai Green (No. 2) (Japan).chd" sha1="58f1f223f44891b0e93d1d11df5edbb45937e655" />
-  </machine>
-  <machine name="Maimai Orange (No. 1) (Japan)">
-    <category>Games</category>
-    <description>Maimai Orange (No. 1) (Japan)</description>
-    <disk name="Maimai Orange (No. 1) (Japan).chd" sha1="361a13f8566ec80e81586ceab7b6b26d9ea3d2f3" />
-  </machine>
-  <machine name="Maimai Orange (No. 2) (Japan)">
-    <category>Games</category>
-    <description>Maimai Orange (No. 2) (Japan)</description>
-    <disk name="Maimai Orange (No. 2) (Japan).chd" sha1="773560b68536509a723516caf8d4dd6336b83a65" />
-  </machine>
-  <machine name="Under Night In-Birth (Japan)">
-    <category>Games</category>
-    <description>Under Night In-Birth (Japan)</description>
-    <disk name="Under Night In-Birth (Japan).chd" sha1="a40b4a6e49f94434baff3666397ba0c80b6bb4aa" />
-  </machine>
+	<header>
+		<name>Arcade - Sega - RingEdge 2</name>
+		<description>MAME Redump - Arcade - Sega - RingEdge 2 - Discs (15) (2024-06-22 20-30-21)</description>
+		<version>0.268</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="ALL.Net P-ras Multi Version 2 (Japan)">
+		<category>Applications</category>
+		<description>ALL.Net P-ras Multi Version 2 (Japan)</description>
+		<disk name="ALL.Net P-ras Multi Version 2 (Japan).chd" sha1="b008a912bd16033e9d3e506f684b7045d9bcfbb9" />
+	</machine>
+	<machine name="ALL.Net P-ras Multi Version 2 (Japan) (Rev A)">
+		<category>Applications</category>
+		<description>ALL.Net P-ras Multi Version 2 (Japan) (Rev A)</description>
+		<disk name="ALL.Net P-ras Multi Version 2 (Japan) (Rev A).chd" sha1="8a6ff249ceca0303e40f37b2b1db9d8ae17aa3cd" />
+	</machine>
+	<machine name="Code of Joker (Japan)">
+		<category>Games</category>
+		<description>Code of Joker (Japan)</description>
+		<disk name="Code of Joker (Japan).chd" sha1="3fd75380820fc83d40214df758b3503b51dcd1cf" />
+	</machine>
+	<machine name="Code of Joker (No. 1) (Japan) (Rev P)">
+		<category>Games</category>
+		<description>Code of Joker (No. 1) (Japan) (Rev P)</description>
+		<disk name="Code of Joker (No. 1) (Japan) (Rev P).chd" sha1="a251f61e08008bd1a65a125e179ed2f4fc85aede" />
+	</machine>
+	<machine name="Code of Joker (No. 2) (Japan) (Rev R)">
+		<category>Games</category>
+		<description>Code of Joker (No. 2) (Japan) (Rev R)</description>
+		<disk name="Code of Joker (No. 2) (Japan) (Rev R).chd" sha1="f9d7edfcfe40425a6a3511b37e228be25b38cdcb" />
+	</machine>
+	<machine name="GeeSen Love. (Japan)">
+		<category>Games</category>
+		<description>GeeSen Love. (Japan)</description>
+		<disk name="GeeSen Love. (Japan).chd" sha1="72319183142948d62aaa4ae82221c816a87b5ecf" />
+	</machine>
+	<machine name="Guilty Gear XX Accent Core Plus R (Japan)">
+		<category>Games</category>
+		<description>Guilty Gear XX Accent Core Plus R (Japan)</description>
+		<disk name="Guilty Gear XX Accent Core Plus R (Japan).chd" sha1="da7c80ae8e7f22189db9ded8f9643b9e5b4a5dcf" />
+	</machine>
+	<machine name="Maimai (Japan) (Rev A)">
+		<category>Games</category>
+		<description>Maimai (Japan) (Rev A)</description>
+		<disk name="Maimai (Japan) (Rev A).chd" sha1="1af674bd0bc4a5bc31a6eaecc6f9f8827bbcda06" />
+	</machine>
+	<machine name="Maimai Green (No. 1) (Japan)">
+		<category>Games</category>
+		<description>Maimai Green (No. 1) (Japan)</description>
+		<disk name="Maimai Green (No. 1) (Japan).chd" sha1="356f97c36f4e164f6384abe8cbce5337113b736b" />
+	</machine>
+	<machine name="Maimai Green (No. 2) (Japan)">
+		<category>Games</category>
+		<description>Maimai Green (No. 2) (Japan)</description>
+		<disk name="Maimai Green (No. 2) (Japan).chd" sha1="58f1f223f44891b0e93d1d11df5edbb45937e655" />
+	</machine>
+	<machine name="Maimai Orange (No. 1) (Japan)">
+		<category>Games</category>
+		<description>Maimai Orange (No. 1) (Japan)</description>
+		<disk name="Maimai Orange (No. 1) (Japan).chd" sha1="361a13f8566ec80e81586ceab7b6b26d9ea3d2f3" />
+	</machine>
+	<machine name="Maimai Orange (No. 2) (Japan)">
+		<category>Games</category>
+		<description>Maimai Orange (No. 2) (Japan)</description>
+		<disk name="Maimai Orange (No. 2) (Japan).chd" sha1="773560b68536509a723516caf8d4dd6336b83a65" />
+	</machine>
+	<machine name="Under Night In-Birth (Japan)">
+		<category>Games</category>
+		<description>Under Night In-Birth (Japan)</description>
+		<disk name="Under Night In-Birth (Japan).chd" sha1="a40b4a6e49f94434baff3666397ba0c80b6bb4aa" />
+	</machine>
 </datafile>
