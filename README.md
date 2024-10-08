@@ -119,7 +119,7 @@ Sega - Dreamcast|2024-08-20|2084|4|836 GB|dc|72 GB
 **Sega - Saturn**|2024-08-21|4417|0|1 TB|saturn|129 GB
 **Sharp - X68000**|2024-03-14|29|0|6 GB||
 **SNK - Neo Geo CD**|2024-08-13|217|0|59 GB|neocd|847 MB
-Sony - PlayStation 2|2024-08-22|10700|789|14 TB||
+Sony - PlayStation 2|2024-08-22|11077|412|15 TB||
 ~~Sony - PlayStation 3~~|2024-08-22|0|4391|||
 Sony - PlayStation Portable|2024-08-29|2909|11|2 TB||
 Sony - PlayStation|2024-08-20|11585|12|3 TB|psx|551 GB
@@ -128,4 +128,4 @@ Sony - PlayStation|2024-08-20|11585|12|3 TB|psx|551 GB
 VM Labs - NUON|2023-10-27|8|2|5 GB|nuon|5 GB
 **VTech - V.Flash & V.Smile Pro**|2024-03-01|50|0|8 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2024-02-02|16|0|50 GB||
-Total||83411|24074|68 TB||1 TB
+Total||83788|23697|68 TB||1 TB
