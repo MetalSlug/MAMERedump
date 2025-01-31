@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore - Amiga CDTV</name>
+		<description>MAME Redump - Commodore - Amiga CDTV - Discs (59) (2024-12-29 15-43-14)</description>
+		<version>0.274</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Town with No Name (Europe) (En,Fr,De,Es,It,Da)" type="">
+		<category>Games</category>
+		<description>Town with No Name (Europe) (En,Fr,De,Es,It,Da)</description>
+		<rom name="Town with No Name (Europe) (En,Fr,De,Es,It,Da).cue" size="402" crc="93E97E3D" md5="D669626928E7C892626DF994971C6515" sha1="5477AD7637D6B2AA3247B3223D8EBCD96D836F37" />
+		<rom name="Town with No Name (Europe) (En,Fr,De,Es,It,Da) (Track 1).bin" size="80732400" crc="71F38F74" md5="C9819D1148D03786DF01EEDC6A9F2099" sha1="15E684F752C96D9F321F5A3B7458C2DA8156A4D7" />
+		<rom name="Town with No Name (Europe) (En,Fr,De,Es,It,Da) (Track 2).bin" size="208462464" crc="DE9C1618" md5="77DB85B690F51247E65ADDB6F3725E61" sha1="50904A0F15C9D64CFFB72BD94BE4863B0D5E07C3" />
+		<rom name="Town with No Name (Europe) (En,Fr,De,Es,It,Da) (Track 3).bin" size="164122560" crc="58B994DA" md5="C46748D1B99DAD022EFE924C358B38CE" sha1="2C5CD23516B908F14BC1B4ED459B2CDDC0721591" />
+	</game>
+</datafile>

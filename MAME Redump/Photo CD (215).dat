@@ -3,8 +3,8 @@
 <datafile>
 	<header>
 		<name>Photo CD</name>
-		<description>MAME Redump - Photo CD - Discs (216) (2024-08-18 22-55-01)</description>
-		<version>0.268</version>
+		<description>MAME Redump - Photo CD - Discs (230) (2025-01-16 07-12-28)</description>
+		<version>0.274</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -99,10 +99,10 @@
 		<description>Autosport Magazine Presents Grand Prix Special (UK)</description>
 		<disk name="Autosport Magazine Presents Grand Prix Special (UK).chd" sha1="a836aab189890bf064252a903e14f9885f6e7dc5" />
 	</machine>
-	<machine name="Back no Tetsujin Vol. 3 - Europe no Fuukei 100 Act 2 (Japan)">
+	<machine name="Back no Tetsujin Vol. 3 - Europe no Fuukei 100 Act 2 (Japan) (1995-06-30)">
 		<category>Multimedia</category>
-		<description>Back no Tetsujin Vol. 3 - Europe no Fuukei 100 Act 2 (Japan)</description>
-		<disk name="Back no Tetsujin Vol. 3 - Europe no Fuukei 100 Act 2 (Japan).chd" sha1="2fc892018e6b7073762781ff898847cf037919d5" />
+		<description>Back no Tetsujin Vol. 3 - Europe no Fuukei 100 Act 2 (Japan) (1995-06-30)</description>
+		<disk name="Back no Tetsujin Vol. 3 - Europe no Fuukei 100 Act 2 (Japan) (1995-06-30).chd" sha1="2fc892018e6b7073762781ff898847cf037919d5" />
 	</machine>
 	<machine name="Bakuretsu Hunter (Japan)">
 		<category>Multimedia</category>
@@ -334,10 +334,10 @@
 		<description>Free Digital Photo 100 - Hokkaido - Daisetsuzan no Shizen to Doubutsu - Chiba Keisuke Shashin-shuu (Japan)</description>
 		<disk name="Free Digital Photo 100 - Hokkaido - Daisetsuzan no Shizen to Doubutsu - Chiba Keisuke Shashin-shuu (Japan).chd" sha1="8732161404dbf37d4104ab571d387e7a05a01b5c" />
 	</machine>
-	<machine name="Free Digital Photo 100 - Shin-shuu Sanshi Suimei - Kashiwabara Yoshimasa Shashin-shuu (Japan)">
+	<machine name="Free Digital Photo 100 - Shinshuu Sanshisuimei - Kashiwabara Yoshimasa Shashinshuu (Japan)">
 		<category>Multimedia</category>
-		<description>Free Digital Photo 100 - Shin-shuu Sanshi Suimei - Kashiwabara Yoshimasa Shashin-shuu (Japan)</description>
-		<disk name="Free Digital Photo 100 - Shin-shuu Sanshi Suimei - Kashiwabara Yoshimasa Shashin-shuu (Japan).chd" sha1="c7aa2e54e648f5b7cd217220125252e20bedc78a" />
+		<description>Free Digital Photo 100 - Shinshuu Sanshisuimei - Kashiwabara Yoshimasa Shashinshuu (Japan)</description>
+		<disk name="Free Digital Photo 100 - Shinshuu Sanshisuimei - Kashiwabara Yoshimasa Shashinshuu (Japan).chd" sha1="c7aa2e54e648f5b7cd217220125252e20bedc78a" />
 	</machine>
 	<machine name="Freshen - Saito Miho - Ito Shunya Sakuhin-shuu 2 (Japan)">
 		<category>Multimedia</category>
@@ -475,14 +475,14 @@
 		<disk name="Kodak Photo CD - Discover Photo CD (USA) (Version 2).chd" sha1="7d56b5faf407c3cfa0df405bb5900c32d22022d2" />
 	</machine>
 	<machine name="Kodak Photo CD Access Plus Software &amp; Photo Sampler II (USA, Japan)">
-		<category>Games</category>
+		<category>Applications</category>
 		<description>Kodak Photo CD Access Plus Software &amp; Photo Sampler II (USA, Japan)</description>
 		<disk name="Kodak Photo CD Access Plus Software &amp; Photo Sampler II (USA, Japan).chd" sha1="9bfaf7a67bd9d6e560cb688527983ace7f853fb6" />
 	</machine>
-	<machine name="Kodak Photo CD Access Software &amp; Photo Sampler (USA)">
+	<machine name="Kodak Photo CD Access Software &amp; Photo Sampler (USA) (OEM)">
 		<category>Applications</category>
-		<description>Kodak Photo CD Access Software &amp; Photo Sampler (USA)</description>
-		<disk name="Kodak Photo CD Access Software &amp; Photo Sampler (USA).chd" sha1="c620fcc9d752ecd6a1c7a085df2606a87c26372a" />
+		<description>Kodak Photo CD Access Software &amp; Photo Sampler (USA) (OEM)</description>
+		<disk name="Kodak Photo CD Access Software &amp; Photo Sampler (USA) (OEM).chd" sha1="c620fcc9d752ecd6a1c7a085df2606a87c26372a" />
 	</machine>
 	<machine name="Kodak Photo CD Photo Sampler (USA)">
 		<category>Multimedia</category>
@@ -744,10 +744,10 @@
 		<description>Photo CD Gravure - Seiyuu Series Vol. 4 - Shishido Rumi no Sunameri-kun (Japan)</description>
 		<disk name="Photo CD Gravure - Seiyuu Series Vol. 4 - Shishido Rumi no Sunameri-kun (Japan).chd" sha1="f0ab256b81ab66828ea5cd6fea657b249ea07eea" />
 	</machine>
-	<machine name="Photo CD Gravure Vol. 10 - Hara Chiaki - Meikyuu Satsuei &amp; Yabushita Osamu (Japan)">
+	<machine name="Photo CD Gravure Vol. 10 - Hara Chiaki - Meikyuu - Satsuei &amp; Yabushita Osamu (Japan)">
 		<category>Multimedia</category>
-		<description>Photo CD Gravure Vol. 10 - Hara Chiaki - Meikyuu Satsuei &amp; Yabushita Osamu (Japan)</description>
-		<disk name="Photo CD Gravure Vol. 10 - Hara Chiaki - Meikyuu Satsuei &amp; Yabushita Osamu (Japan).chd" sha1="fe1dc012b9f61fd67ad72edadef848ba18f10967" />
+		<description>Photo CD Gravure Vol. 10 - Hara Chiaki - Meikyuu - Satsuei &amp; Yabushita Osamu (Japan)</description>
+		<disk name="Photo CD Gravure Vol. 10 - Hara Chiaki - Meikyuu - Satsuei &amp; Yabushita Osamu (Japan).chd" sha1="fe1dc012b9f61fd67ad72edadef848ba18f10967" />
 	</machine>
 	<machine name="Photo CD Gravure Vol. 3 - Sakaki Yuko - Yuko ga Dekiru made (Japan)">
 		<category>Multimedia</category>

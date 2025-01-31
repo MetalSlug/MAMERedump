@@ -4,14 +4,16 @@
 	<header>
 		<name>snes_vkun</name>
 		<description>snes_vkun</description>
-		<version>0.266</version>
+		<version>0.274</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
 	<game name="angelvf\angelvf" type="cd" sha1="7dc2a4d02819e6c8abb52a0f02b19f7fc56ed4a1" size="82230904" crc="8855af95" fullsha1="97aa958bc0ae6cbb9ede9b00dd54e1e1750077aa" dataSha1="59ecad62e9257e7d61191109a55bb105f01fdba7">
 		<category>Games</category>
-		<description>angelvf\angelvf</description>
+		<description>Angelique - Voice Fantasy (Jpn)</description>
+		<year>1996</year>
+		<manufacturer>Koei</manufacturer>
 		<rom name="angelvf (Track 01).bin" size="39621792" crc="b787adb7" md5="d9e9bbd4949c4e3a15d47f6b2a2fa36f" sha1="514134c72ad36793b32f958137b4a64bd6effb78"/>
 		<rom name="angelvf (Track 02).bin" size="7940352" crc="c49e1cac" md5="0a59470e9148a3d60cc8b7147b138874" sha1="9d3df36f155ae5d22b2cb135a392f31b46431c13"/>
 		<rom name="angelvf (Track 03).bin" size="4417056" crc="2c6cdc09" md5="d1cf2ef1279e951aeb0d0884aee389dc" sha1="5d029a0a2c2f62f4fbb6bb836de3bab3a9d891e9"/>

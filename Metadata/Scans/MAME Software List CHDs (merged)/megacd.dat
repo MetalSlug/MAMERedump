@@ -4,14 +4,16 @@
 	<header>
 		<name>megacd</name>
 		<description>megacd</description>
-		<version>0.267</version>
+		<version>0.274</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
 	<game name="aburner3\after burner iii (1993)(sega)(pal)" type="cd" sha1="d6972256df1d6bb1bc1338683f8a15c44c98e6e4" size="210656887" crc="502683dc" fullsha1="66bad47c71ca1cdc36d9ed7eb26315e60c356098" dataSha1="dd1c6e0ce9155bdfbbbef3a6a6ad7bb5bb3d27cd">
 		<category>Games</category>
-		<description>aburner3\after burner iii (1993)(sega)(pal)</description>
+		<description>After Burner III (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="after burner iii (1993)(sega)(pal) (Track 01).bin" size="4673536" crc="ae0e89f9" md5="184efcaa6df0adf91a35451a2f5d3cc7" sha1="78176b6e2957384c3f2a153595e452cad6744eaa"/>
 		<rom name="after burner iii (1993)(sega)(pal) (Track 02).bin" size="12042240" crc="0c402612" md5="da5ebb41efbca526883bf8ddf473ab7d" sha1="d1e3c699cc9a8b4bd33509f6f4ebc3c4dc5c2e71"/>
 		<rom name="after burner iii (1993)(sega)(pal) (Track 03).bin" size="19603920" crc="29087341" md5="4f9ae3c697c72856baba38e69627b385" sha1="2011a6b095aa3e09f9baaa6d99e07933f01edcf4"/>
@@ -27,7 +29,9 @@
 	</game>
 	<game name="advbatr\adventures of batman and robin, the (1995)(sega)(pal)" type="cd" sha1="727e3304ee37bc10fbef56879cbce2b1e3f7ba98" size="201936429" crc="8479f0a4" fullsha1="96dc91a948feceef6fee5a18473d03225478baf4" dataSha1="2b240d8539441f2ac3e1ec53fbccc308da383321">
 		<category>Games</category>
-		<description>advbatr\adventures of batman and robin, the (1995)(sega)(pal)</description>
+		<description>The Adventures of Batman and Robin (Europe)</description>
+		<year>1995</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="adventures of batman and robin, the (1995)(sega)(pal) (Track 01).bin" size="140969984" crc="1e72950b" md5="e3f327b0bf834ad624af4af053d263d4" sha1="9c882e3969d7bc77fde1faaca6c9be0e42e57b1e"/>
 		<rom name="adventures of batman and robin, the (1995)(sega)(pal) (Track 02).bin" size="31001712" crc="3306bad2" md5="6ca762d4542623d9ba608f71004f8628" sha1="e7b64a66023259f58cafcfe4350d904c5fda671c"/>
 		<rom name="adventures of batman and robin, the (1995)(sega)(pal) (Track 03).bin" size="27226752" crc="6bdf65a6" md5="982f62dda675b2639e098a202a9fc6d5" sha1="432a6e8d3c5db84e0bcb150ebd2707da329eae56"/>
@@ -38,13 +42,17 @@
 	</game>
 	<game name="animals\san diego zoo presents the animals, the - a multimedia experience (1994)(mindscape)(pal)" type="cd" sha1="afc565f414fd5557a5616cbc3d7e68e550530a7f" size="304723335" crc="ecc3a713" fullsha1="5cc5b36e23dac7dc2748554919c47b11a49e3b0a" dataSha1="777acd85090bc51f5681c9f802ce7fb182f9bddf">
 		<category>Games</category>
-		<description>animals\san diego zoo presents the animals, the - a multimedia experience (1994)(mindscape)(pal)</description>
+		<description>The San Diego Zoo Presents The Animals! - A Multimedia Experience (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Mindscape</manufacturer>
 		<rom name="san diego zoo presents the animals, the - a multimedia experience (1994)(mindscape)(pal) (Track 01).bin" size="605925376" crc="896c97a1" md5="bafe2153ac890879017bae0b631275b7" sha1="960409bef7d84e6d33a50be7191d90f091b21562"/>
 		<rom name="san diego zoo presents the animals, the - a multimedia experience (1994)(mindscape)(pal) (Track 02).bin" size="1526448" crc="60ec4e5a" md5="acb7fdf5cb58a7ddb9fc415c16eb22b0" sha1="389c547ad96054715c0953131b2f143269baead7"/>
 	</game>
 	<game name="batmanrn\batman returns (europe)" type="cd" sha1="a3049eb532e5eaffe5e2b10e67a6f6f3b92c05ba" size="310356969" crc="a68d6184" fullsha1="bc19b0fbc66a0694ae58c5dadbc6adf671d9f076" dataSha1="d584a2f2d2bbb10174f75c62ff0e50b6fd98d137">
 		<category>Games</category>
-		<description>batmanrn\batman returns (europe)</description>
+		<description>Batman Returns (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="batman returns (europe) (Track 01).bin" size="20363616" crc="58e9e43b" md5="ae37f4385d1efb1f2436647c2b0f4ff8" sha1="79ce96567d7cb999aaff26719491011db68e95ce"/>
 		<rom name="batman returns (europe) (Track 02).bin" size="1176000" crc="b2b1400e" md5="15b6d9c789e3f9253f89e5a81344d542" sha1="8cf893250d22cd6dd6136041d29a7ab28283f2ae"/>
 		<rom name="batman returns (europe) (Track 03).bin" size="31076976" crc="f0d4c228" md5="3895e3aa8d30eb9b0d5b085e08bcd9fd" sha1="ad73b921152d0491a6761cf1e4fd26be33a0cd14"/>
@@ -69,7 +77,9 @@
 	</game>
 	<game name="batmanrn\batman returns (europe) (alt)" type="cd" sha1="25fcc3b9277dcfc047231b6a8cb1ecf73195e767" size="310356974" crc="f8ce229d" fullsha1="f183cfa363f56ea09850dc04a77eb5161019b307" dataSha1="fcefec57978f57bc35d9ef218c2c31633d01362d">
 		<category>Games</category>
-		<description>batmanrn\batman returns (europe) (alt)</description>
+		<description>Batman Returns (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="batman returns (europe) (alt) (Track 01).bin" size="20363616" crc="58e9e43b" md5="ae37f4385d1efb1f2436647c2b0f4ff8" sha1="79ce96567d7cb999aaff26719491011db68e95ce"/>
 		<rom name="batman returns (europe) (alt) (Track 02).bin" size="1176000" crc="b2b1400e" md5="15b6d9c789e3f9253f89e5a81344d542" sha1="8cf893250d22cd6dd6136041d29a7ab28283f2ae"/>
 		<rom name="batman returns (europe) (alt) (Track 03).bin" size="31076976" crc="9a7c91d6" md5="31f18df60c06420fa52038f073ebd392" sha1="1132ac1558c3dff2bab8224476c4ec40895f7dd5"/>
@@ -94,21 +104,27 @@
 	</game>
 	<game name="bcracers\bc racers (demo) (1994)(core)(pal)[mega power - issue 18]" type="cd" sha1="d5e42733723fe1b3599fb089bb8722370d615bf7" size="17336087" crc="887e3447" fullsha1="5202afb24a7503b3783160e79d945c4bbbe792bf" dataSha1="3d10478436b7d8d33626686981ec62c786ab8678">
 		<category>Games</category>
-		<description>bcracers\bc racers (demo) (1994)(core)(pal)[mega power - issue 18]</description>
+		<description>BC Racers (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Core Design</manufacturer>
 		<rom name="bc racers (demo) (1994)(core)(pal)[mega power - issue 18] (Track 01).bin" size="2693120" crc="54744f93" md5="acd279f121b80958249c043342750142" sha1="06090860bc127513df6a31a59c016acb42003b2c"/>
 		<rom name="bc racers (demo) (1994)(core)(pal)[mega power - issue 18] (Track 02).bin" size="31189872" crc="f1fd8665" md5="47de57ba2d6b23b2e2b663c7a8731a35" sha1="54d77e45fff8c61796e77b723cc7f3718b7d302d"/>
 		<rom name="bc racers (demo) (1994)(core)(pal)[mega power - issue 18] (Track 03).bin" size="1234800" crc="13c025c4" md5="d8fc518fb630fdbe421eab9987181e91" sha1="cd4b6c89133bce658c59c708f9681f9ffe18d75d"/>
 	</game>
 	<game name="bcracers\bc racers (demo) (1994)(core)(pal)[sega pro cd - issue 41]" type="cd" sha1="dff147e6b662036e1e6d7aec7be05c0f69ae7648" size="26293809" crc="c8127ea8" fullsha1="96db3012db4c46430f8e064e862ffb5891c0d5a7" dataSha1="b9da1b050d63c34c21cf02d5d6539717d9e47af0">
 		<category>Games</category>
-		<description>bcracers\bc racers (demo) (1994)(core)(pal)[sega pro cd - issue 41]</description>
+		<description>Racers (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Core Design</manufacturer>
 		<rom name="bc racers (demo) (1994)(core)(pal)[sega pro cd - issue 41] (Track 01).bin" size="2371584" crc="860f1ffb" md5="df74e9c8bb76ff0df148d87e251c7549" sha1="8cbfe19f4abd0eab2ebb16141b7011db16c04f58"/>
 		<rom name="bc racers (demo) (1994)(core)(pal)[sega pro cd - issue 41] (Track 02).bin" size="43963584" crc="4557d466" md5="60846b474f5c2994c89e488af2a760ec" sha1="5973bd21e48ff0fe58ff5702823a36eeaf2a315f"/>
 		<rom name="bc racers (demo) (1994)(core)(pal)[sega pro cd - issue 41] (Track 03).bin" size="1234800" crc="9e7f361a" md5="eada9565afe9b8ac1432da30e2186525" sha1="7f69f472161e1b3f08b5d46f0321b8dd7c6cc65d"/>
 	</game>
 	<game name="bcracers\bc racers (europe) (en,fr,de)" type="cd" sha1="80d17bb411ef3edc99867207655fa23a9ed8682b" size="209816322" crc="7c44d934" fullsha1="472ca9808a21a9ce38f9df41df95bcb9b896a73e" dataSha1="3bc91cdaa94a3553dca1e189b090a4142a753052">
 		<category>Games</category>
-		<description>bcracers\bc racers (europe) (en,fr,de)</description>
+		<description>s (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Core Design</manufacturer>
 		<rom name="bc racers (europe) (en,fr,de) (Track 01).bin" size="90215664" crc="7a4e52d3" md5="d7db22933c7472833f44b67c8713f540" sha1="1426ca11953bb57a973dc0611b51dee4a024d086"/>
 		<rom name="bc racers (europe) (en,fr,de) (Track 02).bin" size="24009216" crc="bf82dd68" md5="732a15c7e26785a5106e9fcde67b2d5d" sha1="07d59b231597ef25486d1e322e7264d9e9722e28"/>
 		<rom name="bc racers (europe) (en,fr,de) (Track 03).bin" size="8022672" crc="d41ae5f4" md5="70a7afdaeecca896dd4300ca68584fac" sha1="d374603b9f55844347ddec34d44c68e173fac521"/>
@@ -127,7 +143,9 @@
 	</game>
 	<game name="beast2\shadow of the beast ii (europe)" type="cd" sha1="0f8736ff996866a19a6c7de109f4b0c76dcaa070" size="189070814" crc="d84abbed" fullsha1="a50ae59e4ebf8b43e44817e3ac68052450b37bf7" dataSha1="a4f2b0cce817a961939ea2bc959a94482e36786e">
 		<category>Games</category>
-		<description>beast2\shadow of the beast ii (europe)</description>
+		<description>adow of the Beast II (Europe)</description>
+		<year>19??</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="shadow of the beast ii (europe) (Track 01).bin" size="24051552" crc="7e722ab6" md5="9c546dfc9b919ca13def2310c991d6b4" sha1="92b7e222cda092cbf743cc9cf9882234d87d5b69"/>
 		<rom name="shadow of the beast ii (europe) (Track 02).bin" size="164767008" crc="6fb389bc" md5="e5ec08b709e7687261c9861c624465ad" sha1="11f8f1dad2d6a33ae48a42a2c9111cd7deb02320"/>
 		<rom name="shadow of the beast ii (europe) (Track 03).bin" size="26107200" crc="858c999b" md5="8002e393ee1882b5f198a7531b88fb30" sha1="a7921db7e64169f8ab38b2e819c294e1395ef8e7"/>
@@ -146,7 +164,9 @@
 	</game>
 	<game name="billwlsh\bill walsh college football (1993)(ea sports)(pal)" type="cd" sha1="8acf97bb83526724da0d3c5124e863cb4c73c676" size="147830216" crc="1b26c89f" fullsha1="ceb9608f6de8785ddc62b8f17391407960eb14d1" dataSha1="8f4a9d524993235d26cdee2ec5f8593a98620b34">
 		<category>Games</category>
-		<description>billwlsh\bill walsh college football (1993)(ea sports)(pal)</description>
+		<description>Bill Walsh College Football (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Electronic Arts</manufacturer>
 		<rom name="bill walsh college football (1993)(ea sports)(pal) (Track 01).bin" size="90109952" crc="37e15fe4" md5="0d475d4d9b6847a2a593cc542539767c" sha1="33fdda256bf63e507c5bee36d2ebd768f6ede629"/>
 		<rom name="bill walsh college football (1993)(ea sports)(pal) (Track 02).bin" size="21142128" crc="8461cb15" md5="3f7c605393c300935d745f6ce5a0ead7" sha1="b86e0c27b1b1ca342d260649f8132f1890dd5ec0"/>
 		<rom name="bill walsh college football (1993)(ea sports)(pal) (Track 03).bin" size="20732880" crc="83a2de3c" md5="44bd180632fcacd437067f5541194a74" sha1="1e11042a4f8d129f808e5a95d02f3eebf0d031f2"/>
@@ -166,7 +186,9 @@
 	</game>
 	<game name="blackh\blackhole assault (europe)" type="cd" sha1="cad5755bc5d028376029adb8ddbb50b98c11af9a" size="330540414" crc="dacea93e" fullsha1="cd75921e9b2227d6bc3eaf9b62fbd8f3e19df94e" dataSha1="ad715e21eb4c6ee4ef657d4376c6d39ea1fd31cc">
 		<category>Games</category>
-		<description>blackh\blackhole assault (europe)</description>
+		<description>Blackhole Assault (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="blackhole assault (europe) (Track 01).bin" size="13855632" crc="9cdf503d" md5="be1f8325b0d304dbab35b4d33dd3986b" sha1="161b608499c51ff0f4e05833bea094b6945419d6"/>
 		<rom name="blackhole assault (europe) (Track 02).bin" size="15090432" crc="8bbabdb6" md5="0761d219a0533d2853c5f6939831b9f9" sha1="8462a048b44b77fbea5c71d63da204c3b263756b"/>
 		<rom name="blackhole assault (europe) (Track 03).bin" size="30820608" crc="024a34cc" md5="2d6daa4609768de597bdfa30de3539bc" sha1="0c27fd81da00de695de864de6fcce4422f9b47b5"/>
@@ -193,7 +215,9 @@
 	</game>
 	<game name="bloodsht\bloodshot (1995)(acclaim)(pal)(m4)[aka battle frenzy]" type="cd" sha1="41bba27b2503c238aca23e97ab058fc3dac559b7" size="334186205" crc="06e1b80e" fullsha1="32f50c6a7bd0af22ac39b80537c04729593f936b" dataSha1="68033630f2ab2095653c4c380a60b773dab267eb">
 		<category>Games</category>
-		<description>bloodsht\bloodshot (1995)(acclaim)(pal)(m4)[aka battle frenzy]</description>
+		<description>Bloodshot (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Domark</manufacturer>
 		<rom name="bloodshot (1995)(acclaim)(pal)(m4)[aka battle frenzy] (Track 01).bin" size="6567936" crc="8da3bde0" md5="1596f409aacb628295b416d5c4b42328" sha1="90adb66462f706c893b6d259c88511f50bb0eac4"/>
 		<rom name="bloodshot (1995)(acclaim)(pal)(m4)[aka battle frenzy] (Track 02).bin" size="45440640" crc="55de0d8e" md5="b6abe55453bd8c1edb1faeac83fc194f" sha1="5da77443f27d6721288065e996a2c373d4b41849"/>
 		<rom name="bloodshot (1995)(acclaim)(pal)(m4)[aka battle frenzy] (Track 03).bin" size="33626544" crc="6e2c53f8" md5="5b791d5a4d9b3cab480b9e3a7c4b88b4" sha1="03fdb08c0d5e4c7418060960da5eb720d88cabea"/>
@@ -214,7 +238,9 @@
 	</game>
 	<game name="brutal\brutal - paws of fury (1994)(gametek)(pal)(m3)" type="cd" sha1="e340dbb4f4c28456993301f0dddc45a1cc8add79" size="194107084" crc="63eaae4b" fullsha1="f3a961bb24677e92333a5c632d393a1f1ae7cf0c" dataSha1="f5763bce25450933ae979bb8fa24aec2d97079ef">
 		<category>Games</category>
-		<description>brutal\brutal - paws of fury (1994)(gametek)(pal)(m3)</description>
+		<description>Brutal - Paws of Fury (Europe)</description>
+		<year>1994</year>
+		<manufacturer>GameTek</manufacturer>
 		<rom name="brutal - paws of fury (1994)(gametek)(pal)(m3) (Track 01).bin" size="80058368" crc="14b3ab53" md5="d54cd568d10a4c12a9acaaf99038b57c" sha1="81517c84f953c12a832658e7f2379144dbe471dc"/>
 		<rom name="brutal - paws of fury (1994)(gametek)(pal)(m3) (Track 02).bin" size="24319680" crc="5987b232" md5="9e94423135d795752df192f041fec89b" sha1="ea19187bb10c5cd3581dd89e0361ee4e16548096"/>
 		<rom name="brutal - paws of fury (1994)(gametek)(pal)(m3) (Track 03).bin" size="26041344" crc="cf53fbcb" md5="dea683b3c9f6d23ab4421b3acc2f8672" sha1="8c9d270cd1fbf81577104a87c5005ff1108649ee"/>
@@ -233,14 +259,18 @@
 	</game>
 	<game name="btlcorps\battlecorps (demo) (1994)(core)(pal)[mega power - issue 11, sega pro cd - issue 50]" type="cd" sha1="8fd6af6abb2aaa061f334a8358daf4bb8b5f9404" size="42090185" crc="3b679672" fullsha1="10a0538f9e93f87d478bfc05a813a005ea6c2106" dataSha1="e12d9e99c641bd5f46101c4217bbe262c041b2e7">
 		<category>Games</category>
-		<description>btlcorps\battlecorps (demo) (1994)(core)(pal)[mega power - issue 11, sega pro cd - issue 50]</description>
+		<description>Battlecorps (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Core Design</manufacturer>
 		<rom name="battlecorps (demo) (1994)(core)(pal)[mega power - issue 11, sega pro cd - issue 50] (Track 01).bin" size="10323968" crc="b71064e8" md5="513cac2272d533617648e23e9af07f10" sha1="526c567a32e12f6e4f46600f2749a6b127c48917"/>
 		<rom name="battlecorps (demo) (1994)(core)(pal)[mega power - issue 11, sega pro cd - issue 50] (Track 02).bin" size="66646272" crc="3f9f223b" md5="a0cc1605fccbdec449e29837b6593fb1" sha1="fa9127813174d68eb014533800b2a000e6a2a543"/>
 		<rom name="battlecorps (demo) (1994)(core)(pal)[mega power - issue 11, sega pro cd - issue 50] (Track 03).bin" size="1234800" crc="b44f0bc2" md5="3d60045e2ff7ff961b821175a89f3c25" sha1="0738a34ea2f49861337a1d9a6e6e59ed46fa2079"/>
 	</game>
 	<game name="btlcorps\battlecorps (europe) (en,fr,de,es)" type="cd" sha1="13968e4dd8ef48fc1fee01cc6fc4093fea5f66c3" size="293704456" crc="7bfdd3a1" fullsha1="b9aef53ef0ffd5162a1833fe8cdcb9570c56e624" dataSha1="57a38f248e23565dc5c580dec43b923f9c2909d3">
 		<category>Games</category>
-		<description>btlcorps\battlecorps (europe) (en,fr,de,es)</description>
+		<description>Battlecorps (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Core Design</manufacturer>
 		<rom name="battlecorps (europe) (en,fr,de,es) (Track 01).bin" size="85071840" crc="492d88ed" md5="64c3d0b140d9f848ee8c01404d987939" sha1="9b89eb348489f81e3680f67d3e3dbf6526cf625b"/>
 		<rom name="battlecorps (europe) (en,fr,de,es) (Track 02).bin" size="2065056" crc="2bf15a13" md5="62f18ddf7b7c87ea21eeef93383b37a3" sha1="7baeaa0f2b78b6ce11b032f4709914502db9ae07"/>
 		<rom name="battlecorps (europe) (en,fr,de,es) (Track 03).bin" size="67770528" crc="f0c743c0" md5="1b960cdd5c0377a9d4700edd2188270e" sha1="68b8c77bf3be293cb77adfb69daa289fd5e34557"/>
@@ -294,7 +324,9 @@
 	</game>
 	<game name="btlcorps\battlecorps and soulstar (demo) (1994)(core)(pal)[mega power - issue 14]" type="cd" sha1="68bf8191ab7217f31bc5435ed08d4e33f0686daf" size="98265467" crc="142f6411" fullsha1="89ef9cfeb5ea3f43dd91f9e44c6851824be40216" dataSha1="d60f5cb9b4fad5b98b37d768b790614e7839cda9">
 		<category>Games</category>
-		<description>btlcorps\battlecorps and soulstar (demo) (1994)(core)(pal)[mega power - issue 14]</description>
+		<description>Battlecorps (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Core Design</manufacturer>
 		<rom name="battlecorps and soulstar (demo) (1994)(core)(pal)[mega power - issue 14] (Track 01).bin" size="3182592" crc="8ac6e247" md5="676363f61343c68042621149a2c57d51" sha1="c3a94c480206c3c2e48aab0c24eef1e0ee5a62c9"/>
 		<rom name="battlecorps and soulstar (demo) (1994)(core)(pal)[mega power - issue 14] (Track 02).bin" size="66646272" crc="5345b558" md5="7ad885990a054f04a34e7f046fce8017" sha1="6e3c54abdbe9a238d81d10e134f0f4ec73cb40d2"/>
 		<rom name="battlecorps and soulstar (demo) (1994)(core)(pal)[mega power - issue 14] (Track 03).bin" size="43173312" crc="5a556c47" md5="abb65db6ea7c2c32a297f6fdbdf6eab4" sha1="80626ad7071ca2c904b735bb0aa44504dc8aebc8"/>
@@ -303,13 +335,17 @@
 	</game>
 	<game name="ccmusic\power factory featuring c+c music factory (1993)(sony imagesoft)(pal)" type="cd" sha1="26f6d25c77186745564015770fd790514ad43bd7" size="263448602" crc="8fc3e6d3" fullsha1="8968cca0d6f0f8607ca436dadc97987f68240a7b" dataSha1="2fb2391c678d8acfd6317ea24e419105c1f0a396">
 		<category>Games</category>
-		<description>ccmusic\power factory featuring c+c music factory (1993)(sony imagesoft)(pal)</description>
+		<description> featuring C+C Music Factory (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sony Imagesoft</manufacturer>
 		<rom name="power factory featuring c+c music factory (1993)(sony imagesoft)(pal) (Track 01).bin" size="374403072" crc="08ae07ee" md5="bc4e98be69d31c4918670205a34f9d2f" sha1="1474658adbaa9f954036bbccfb6dcf37b591b279"/>
 		<rom name="power factory featuring c+c music factory (1993)(sony imagesoft)(pal) (Track 02).bin" size="2058000" crc="26437159" md5="31211e8fa1e59434530bbf522b9be88d" sha1="f4c370d73ef4e7c0cd08691b2229763caf7ab910"/>
 	</game>
 	<game name="chuckrck\chuck rock (1993)(sony imagesoft)(pal)" type="cd" sha1="77331232c7bdaea3414f4ec05128e3f8e8899fab" size="184207397" crc="7123fca4" fullsha1="f9b038db9ea7faf430cb33d86a34df28ee8a159a" dataSha1="aa1b99fee490f59e64ab081f8f4ab3b61d443112">
 		<category>Games</category>
-		<description>chuckrck\chuck rock (1993)(sony imagesoft)(pal)</description>
+		<description>Chuck Rock (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sony Imagesoft</manufacturer>
 		<rom name="chuck rock (1993)(sony imagesoft)(pal) (Track 01).bin" size="10993664" crc="3d8af295" md5="2e4eb1af5cf6d890decb5a1c4ebf253b" sha1="680e8c73c6e1986195540829182dea2fa2ed8b69"/>
 		<rom name="chuck rock (1993)(sony imagesoft)(pal) (Track 02).bin" size="42046704" crc="a6134f9b" md5="1961dfa042ba0497850f703ce59c7bce" sha1="9785816c42f884deb9470ff548241afb5c8f19e6"/>
 		<rom name="chuck rock (1993)(sony imagesoft)(pal) (Track 03).bin" size="42578256" crc="513824a5" md5="22ed5ee984604a38e2583d8af3439739" sha1="28f8d5d0955e1f4015fe0293d08b3a42e7112ff4"/>
@@ -324,7 +360,9 @@
 	</game>
 	<game name="chukrck2\chuck rock ii - son of chuck (1993)(core)(pal)" type="cd" sha1="4fe0de035de45925aa84f3c8c99c3323c5815a18" size="239536785" crc="5d984573" fullsha1="5e9b1557bd6caf351fd75fbe9243930d13877a7f" dataSha1="5c34460dce450a18b235cedcf7d24fceb2e15fcb">
 		<category>Games</category>
-		<description>chukrck2\chuck rock ii - son of chuck (1993)(core)(pal)</description>
+		<description>Chuck Rock II - Son of Chuck (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Core Design</manufacturer>
 		<rom name="chuck rock ii - son of chuck (1993)(core)(pal) (Track 01).bin" size="65867776" crc="1635270a" md5="77fdcc3f1e9e3614c8522bdb7a8844f6" sha1="c35b546f441679a7291c1469e983bd211270b5e6"/>
 		<rom name="chuck rock ii - son of chuck (1993)(core)(pal) (Track 02).bin" size="41919696" crc="a0bb98c2" md5="6389725f349a265395430638fad85177" sha1="c5f217172235f5a93c03652a0bac902908a2ba31"/>
 		<rom name="chuck rock ii - son of chuck (1993)(core)(pal) (Track 03).bin" size="39000864" crc="fca73c9c" md5="f4338056e2c7c32e13f5fa8095135ee5" sha1="fc78d90d6d255bd2a642669a1fedc8a91ddc23b3"/>
@@ -341,7 +379,9 @@
 	</game>
 	<game name="cobra\space adventure, the - cobra - the legendary bandit (europe)" type="cd" sha1="8ef1aa8e213ae9216a4b8e24fd4e5fff4c546d46" size="113941152" crc="e072dd53" fullsha1="d0947a68ca720b843bb05ebf0bc46f0184aa9481" dataSha1="8e4912590014b782177d7dd35199b5c6fe273858">
 		<category>Games</category>
-		<description>cobra\space adventure, the - cobra - the legendary bandit (europe)</description>
+		<description>The Space Adventure - Cobra: The Legendary Bandit (Europe)</description>
+		<year>1995</year>
+		<manufacturer>Hudson Soft</manufacturer>
 		<rom name="space adventure, the - cobra - the legendary bandit (europe) (Track 01).bin" size="175946064" crc="eb23f34d" md5="a61db2b8cb570b01c36c9e3ec10f6ba6" sha1="bfd3b48ed41cadcee4d5b2c2727b87c3ad1316a0"/>
 		<rom name="space adventure, the - cobra - the legendary bandit (europe) (Track 02).bin" size="35987952" crc="3e1cef71" md5="4f2d9671f8adb4b172a1a9e6562cd23f" sha1="aeab69a1c97b6e6ab92298e7865be8cad1c2fd2d"/>
 		<rom name="space adventure, the - cobra - the legendary bandit (europe) (Track 03).bin" size="44991408" crc="4e872b99" md5="6b8e690a8a268ea55571458ab8c27cb1" sha1="71f0e33315d35207b56c6539c076ac45a273cf10"/>
@@ -350,43 +390,57 @@
 	</game>
 	<game name="cobracom\cobra command (1993)(sega)(pal)[mk-4402p-00032 2]" type="cd" sha1="a50edd8ddafef437f37ecc9be89bebac741c35cb" size="57578520" crc="6fb882e3" fullsha1="4f6dd87ee8745a8b0a61ba848962a755d90ad92c" dataSha1="a24eea59a086dbfc24ce0a0c348391c10623c3da">
 		<category>Games</category>
-		<description>cobracom\cobra command (1993)(sega)(pal)[mk-4402p-00032 2]</description>
+		<description>Cobra Command (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="cobra command (1993)(sega)(pal)[mk-4402p-00032 2] (Track 01).bin" size="223211520" crc="e16f37d4" md5="e5b3a721d21a2c422ebf7f2b884d9c1b" sha1="08bf37d5ccbd61f889453facb4b436cc8fcc33b7"/>
 		<rom name="cobra command (1993)(sega)(pal)[mk-4402p-00032 2] (Track 02).bin" size="1298304" crc="1027e795" md5="49e906188b56bb2aa09728033aabdc3a" sha1="35a9828974853e7a851c9bd84d4b0741b4aa936d"/>
 	</game>
 	<game name="cobracom\cobra command (1993)(sega)(pal)[mk-4402p-00032-r1m]" type="cd" sha1="cb59b5bd66e0c61ed9b3106a704a637b72bd38b3" size="57579059" crc="cd50df8b" fullsha1="8c97724c9daaaf94476271daf376fddcbfa61aec" dataSha1="4c05b171d06cc8fd623cd5207656535983b244fd">
 		<category>Games</category>
-		<description>cobracom\cobra command (1993)(sega)(pal)[mk-4402p-00032-r1m]</description>
+		<description>Cobra Command (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="cobra command (1993)(sega)(pal)[mk-4402p-00032-r1m] (Track 01).bin" size="223211520" crc="e16f37d4" md5="e5b3a721d21a2c422ebf7f2b884d9c1b" sha1="08bf37d5ccbd61f889453facb4b436cc8fcc33b7"/>
 		<rom name="cobra command (1993)(sega)(pal)[mk-4402p-00032-r1m] (Track 02).bin" size="1298304" crc="dfb45fcd" md5="e410d3ca66d85c88ace7b998f54e715d" sha1="c232261539eb9ebc21d0d414c4adede45661f9e6"/>
 	</game>
 	<game name="cobracom\cobra command (europe)" type="cd" sha1="b5dd98a3dbc0182fe36d6a2b064329e154c08771" size="60186019" crc="cab7baee" fullsha1="639680a735f5c8aad09afa0b633bb4b2d49c84cc" dataSha1="702c315ffb246b4d01ac462e7a834a9f6e6ed129">
 		<category>Games</category>
-		<description>cobracom\cobra command (europe)</description>
+		<description>Cobra Command (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="cobra command (europe) (Track 01).bin" size="256344480" crc="4b176df2" md5="5e961b6f28a48f58937654c987d0bf96" sha1="bb003dbee57d4ab134bed8f0be666fc069e93c99"/>
 		<rom name="cobra command (europe) (Track 02).bin" size="1651104" crc="fd9c4ef7" md5="d6eac0d6f805851a7931123e4a64dcda" sha1="f979849f9b75038086f6d496edd070a8684f3f8e"/>
 	</game>
 	<game name="corpse\corpse killer (europe)" type="cd" sha1="dc8622df7836d29401c75ac2c9546e45452af076" size="435461259" crc="70fdc0cb" fullsha1="493b98b1dfe137b478b5811c07dadd792e29bd1e" dataSha1="b6f343297d85e74a91834bdd8d205efffbfef5ac">
 		<category>Games</category>
-		<description>corpse\corpse killer (europe)</description>
+		<description>Corpse Killer (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Digital Pictures</manufacturer>
 		<rom name="corpse killer (europe) (Track 01).bin" size="626234112" crc="60cf5a65" md5="a570c8488508710beb7686504f5c0f7b" sha1="a7afe571446cd80ba2fa54912110e0fb2bb3cf3c"/>
 		<rom name="corpse killer (europe) (Track 02).bin" size="1848672" crc="4b7fba78" md5="b27e08f2b2a6a69cea9736ab3b12811c" sha1="b82854e76d0c5a92ae3e9f223e81f267d7bfc2b4"/>
 	</game>
 	<game name="dblswtch\double switch (1994)(sega)(pal)" type="cd" sha1="707d62e17becd3341e97bd8f6d92ec72d736c48c" size="431265418" crc="e1830699" fullsha1="b22653b1c561e8adff457365a9ab653f457758eb" dataSha1="54b80e576b5bd3543ee4a5e98138739f7806b4d5">
 		<category>Games</category>
-		<description>dblswtch\double switch (1994)(sega)(pal)</description>
+		<description>Double Switch (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="double switch (1994)(sega)(pal) (Track 01).bin" size="551135232" crc="f85b2ade" md5="cc897d03e3b1159da5f6f4b7cb3e3f53" sha1="a2f528e4e30f422a42f9deb161156d481ed83f84"/>
 		<rom name="double switch (1994)(sega)(pal) (Track 02).bin" size="1528800" crc="72502253" md5="f1f0b26065cb253ce76b49405e305520" sha1="849a349d3fc1cf56e579e77f67543916f2236c57"/>
 	</game>
 	<game name="dlair\dragon's lair (1994)(sega)(pal)(m4)" type="cd" sha1="41eff26eebe622ed2029bdc00a27dcbcbad89a63" size="142756456" crc="294e4962" fullsha1="fec92fdfba58532ba2e99598921b31fa3c8b79ff" dataSha1="7b8289f2f8c47dfdb163ef85e572cd9ea72a1fe2">
 		<category>Games</category>
-		<description>dlair\dragon's lair (1994)(sega)(pal)(m4)</description>
+		<description>s Lair (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="dragon's lair (1994)(sega)(pal)(m4) (Track 01).bin" size="529301504" crc="67a93382" md5="06daeeeec22d980ffbc432b91035e031" sha1="0a2f62751bd472a9332ee1accece74943cf4f003"/>
 		<rom name="dragon's lair (1994)(sega)(pal)(m4) (Track 02).bin" size="1168944" crc="f7dc2f65" md5="e54179f0ca84d7f2b9619c96ee194d96" sha1="07300f47bf1d2f3892d7b71c9408a522006608ed"/>
 	</game>
 	<game name="dmaster2\dungeon master ii - skullkeep v1.0 (1994)(jvc)(pal)" type="cd" sha1="07d4855f5b4fe2dd626fb6de89d3ed0c37ea00c1" size="94046814" crc="2cea74ed" fullsha1="e7b3f3fe9b093c01625bd490120a3ba9dc321097" dataSha1="12b788aafe23f373ce6ab82b52981fb39be2d312">
 		<category>Games</category>
-		<description>dmaster2\dungeon master ii - skullkeep v1.0 (1994)(jvc)(pal)</description>
+		<description>Dungeon Master II - Skullkeep v1.0 (Europe)</description>
+		<year>1994</year>
+		<manufacturer>JVC</manufacturer>
 		<rom name="dungeon master ii - skullkeep v1.0 (1994)(jvc)(pal) (Track 01).bin" size="26404864" crc="8cac3d01" md5="22fdf5207555a407e6ccee08ddd61d57" sha1="a32e2d98cbc899a4fa30ca13e30823a521218b90"/>
 		<rom name="dungeon master ii - skullkeep v1.0 (1994)(jvc)(pal) (Track 02).bin" size="32586960" crc="1e07cbcc" md5="0a5165515242407a04e42d13beffc667" sha1="5b0ba3f28af702993b2ed26b462cb2416ff1c0c7"/>
 		<rom name="dungeon master ii - skullkeep v1.0 (1994)(jvc)(pal) (Track 03).bin" size="43375584" crc="e8ce5564" md5="c0fc274ad82e03a6195e87392eb86673" sha1="7edcfb20cffe2a889d281bec2f262f77405cf8fb"/>
@@ -397,25 +451,33 @@
 	</game>
 	<game name="dracunl\dracula unleashed (europe) (disc 1)" type="cd" sha1="168febb847795b3ceffc29c36f97b394b68f5836" size="323700010" crc="ce3c3d99" fullsha1="330a24353b924121c0c5e54b4f486ded64e10a8c" dataSha1="a624808d1afff1928b19a7ae2418c3b0197e98b0">
 		<category>Games</category>
-		<description>dracunl\dracula unleashed (europe) (disc 1)</description>
+		<description>Dracula Unleashed (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="dracula unleashed (europe) (disc 1) (Track 01).bin" size="544372752" crc="87dcea57" md5="4f108b3df7dd42bd2493e8796f500cfc" sha1="85591a54d22c105d0d6398d332d6ed923f32c8f4"/>
 		<rom name="dracula unleashed (europe) (disc 1) (Track 02).bin" size="12171600" crc="0d2a5673" md5="ef4b6a77a4520587f7a8d03e09b4dc73" sha1="606385a7fa28fd494b82c8e5065683473779a458"/>
 	</game>
 	<game name="dracunl\dracula unleashed (europe) (disc 2)" type="cd" sha1="76d451dc5537bf342736fc7cbc43c323d19c6cc1" size="362076246" crc="2795cbb7" fullsha1="071de134ec476c8ee78ef0ea2800584b3f1855c7" dataSha1="9d66bed1f3c4f51e6e0fe0f99414763085f0cea7">
 		<category>Games</category>
-		<description>dracunl\dracula unleashed (europe) (disc 2)</description>
+		<description>Dracula Unleashed (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="dracula unleashed (europe) (disc 2) (Track 01).bin" size="599428368" crc="7d69f0f5" md5="3c5518672fb744804c02f7095aed8229" sha1="c8bda6d532b443781eb3967c0a7a8c109306d6c7"/>
 		<rom name="dracula unleashed (europe) (disc 2) (Track 02).bin" size="12171600" crc="0d2a5673" md5="ef4b6a77a4520587f7a8d03e09b4dc73" sha1="606385a7fa28fd494b82c8e5065683473779a458"/>
 	</game>
 	<game name="dune\dune (europe) (en,fr,de,es,it,ar)" type="cd" sha1="40389aae5a33708c58b645ae7c4550f161542164" size="201175973" crc="9a1601cc" fullsha1="54373616d86eb963c56c4a44ddb2c2803288d026" dataSha1="5073349000212b88a343b8257441c8f56c06ab12">
 		<category>Games</category>
-		<description>dune\dune (europe) (en,fr,de,es,it,ar)</description>
+		<description>Dune (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Virgin Interactive</manufacturer>
 		<rom name="dune (europe) (en,fr,de,es,it,ar) (Track 01).bin" size="541369248" crc="3bff9924" md5="b64c971db62a13b8a1e3bc74c07638bb" sha1="63c3c5c8af7cdfc1670f0c1b845e741b33168b00"/>
 		<rom name="dune (europe) (en,fr,de,es,it,ar) (Track 02).bin" size="1735776" crc="7e6caa2b" md5="3fb75f8b1fab1dabb51fad7aa0b9d36d" sha1="37527079b18c4d513ceeb8b5efbe1bbc28225793"/>
 	</game>
 	<game name="dungexpl\dungeon explorer (1994)(hudson)(pal)" type="cd" sha1="9faadef0046550236aba6f5cac34fb4aa905eb65" size="283068363" crc="df12d7a7" fullsha1="5b8378c6bf74e1662605d65111624d42abc074b5" dataSha1="12bd2dcb2df094477f16840ad2e076b6fc37cc07">
 		<category>Games</category>
-		<description>dungexpl\dungeon explorer (1994)(hudson)(pal)</description>
+		<description>Dungeon Explorer (Europe)</description>
+		<year>1995</year>
+		<manufacturer>Hudson Soft</manufacturer>
 		<rom name="dungeon explorer (1994)(hudson)(pal) (Track 01).bin" size="4388864" crc="a68b1f55" md5="4a5ac9b5a19eb6b224c718592003eaf6" sha1="535ff904fd7c9846d255a0868ca313966cc7d9b4"/>
 		<rom name="dungeon explorer (1994)(hudson)(pal) (Track 02).bin" size="54020736" crc="229ac94d" md5="780bf429bf984a39db506a2942b65928" sha1="4565bd3e22e90dddbc77568b870ecf4276feef5d"/>
 		<rom name="dungeon explorer (1994)(hudson)(pal) (Track 03).bin" size="38601024" crc="fa6912b5" md5="a7adda217df61306e300cd6763af52cc" sha1="b6fa7fc8578c34c04f43da4c63caf0f055f5c83a"/>
@@ -432,7 +494,9 @@
 	</game>
 	<game name="ecco2\ecco - the tides of time (europe) (en,fr,de,es)" type="cd" sha1="1039abd41b778a7584331241ddba325c4e4c3521" size="389133041" crc="455aabf6" fullsha1="73483448d0137d5e43366345c8218245ac8c2c32" dataSha1="de13462f76b95ec65f2d1469dc517f3d642a33cd">
 		<category>Games</category>
-		<description>ecco2\ecco - the tides of time (europe) (en,fr,de,es)</description>
+		<description>des of Time (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="ecco - the tides of time (europe) (en,fr,de,es) (Track 01).bin" size="150542112" crc="e22640de" md5="8ecc231ab5a0e02415f19aa84da30a4e" sha1="b5190ae5b74edd3b93df63f7f6e76bf8c096bc96"/>
 		<rom name="ecco - the tides of time (europe) (en,fr,de,es) (Track 02).bin" size="50711472" crc="be64d625" md5="1bc844e6931cbd9b94e03a8dbdad73d6" sha1="2f978e4e78ab5c30506eb1bcc249da711d425e38"/>
 		<rom name="ecco - the tides of time (europe) (en,fr,de,es) (Track 03).bin" size="48622896" crc="4b3188a6" md5="d49ba5576847f5cfc930f2cb92b4e0b2" sha1="d62e1c10ec3ab346e48e2712f737e6d59e1c49b3"/>
@@ -453,7 +517,9 @@
 	</game>
 	<game name="ecco\ecco the dolphin (1993)(sega)(pal)[i-2647 a]" type="cd" sha1="2e704489da1303451f521111451230d331b75c18" size="283325994" crc="7231669e" fullsha1="a82c77628eb7a3657f7bc029a79f0e3b94224506" dataSha1="c878b520168eb1a05d79a8f01b4f9e1b8a4691de">
 		<category>Games</category>
-		<description>ecco\ecco the dolphin (1993)(sega)(pal)[i-2647 a]</description>
+		<description>Ecco the Dolphin (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="ecco the dolphin (1993)(sega)(pal)[i-2647 a] (Track 01).bin" size="51910656" crc="2836c9cb" md5="c3b07b0ce2e5ab5178a36f0525a860ce" sha1="a3417d9910f272e608a3fb312292e8ea323bc5d0"/>
 		<rom name="ecco the dolphin (1993)(sega)(pal)[i-2647 a] (Track 02).bin" size="48420624" crc="1eda3a92" md5="b9b495f6d6af2db97d843dba71f9730a" sha1="18b0cff7aa1a2179ec55430a089030097765469d"/>
 		<rom name="ecco the dolphin (1993)(sega)(pal)[i-2647 a] (Track 03).bin" size="42973392" crc="f94de6f6" md5="f9d04c6cedf859c8a5c38bc5cf5ed7e0" sha1="12045675bb1dd5980a8a0161bf571b6cca5427df"/>
@@ -473,7 +539,9 @@
 	</game>
 	<game name="ecco\ecco the dolphin (1993)(sega)(pal)[mk-4408p-00135 1]" type="cd" sha1="c705733d2213b58e64e8bb49ff87daa2f464c6a0" size="283360176" crc="72da9578" fullsha1="22e4a9581a1de6c56c5189c4cb9e4f96bd4b349e" dataSha1="58212edb6af1f5afe207716639ac6fe346653068">
 		<category>Games</category>
-		<description>ecco\ecco the dolphin (1993)(sega)(pal)[mk-4408p-00135 1]</description>
+		<description>Ecco the Dolphin (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="ecco the dolphin (1993)(sega)(pal)[mk-4408p-00135 1] (Track 01).bin" size="51910656" crc="2836c9cb" md5="c3b07b0ce2e5ab5178a36f0525a860ce" sha1="a3417d9910f272e608a3fb312292e8ea323bc5d0"/>
 		<rom name="ecco the dolphin (1993)(sega)(pal)[mk-4408p-00135 1] (Track 02).bin" size="48420624" crc="6aec3b6e" md5="d8619c9ca86a48171c35856222346ee8" sha1="feac01e7083797212ed8e999305d34ccb3e5db56"/>
 		<rom name="ecco the dolphin (1993)(sega)(pal)[mk-4408p-00135 1] (Track 03).bin" size="42973392" crc="e87ea9a4" md5="10a32c11425cd3d3ed6c5c45ae719f90" sha1="948bbcce16fe082beb7b29165de97667bdb4aacf"/>
@@ -493,7 +561,9 @@
 	</game>
 	<game name="ecco\ecco the dolphin (europe)" type="cd" sha1="90e978187b1b29ff2bb4c999f0fc4946625d9838" size="279399990" crc="8e6c5f70" fullsha1="5c10515469e2ea347f29546c578dbcde42a432da" dataSha1="2e1ec43aaa1ae3cd10dee04b77916f7196036ecd">
 		<category>Games</category>
-		<description>ecco\ecco the dolphin (europe)</description>
+		<description>Ecco the Dolphin (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="ecco the dolphin (europe) (Track 01).bin" size="59616144" crc="e6eaf047" md5="072049cee317e60963b02978ddfcab00" sha1="131ab295b255134bad5b3c1ce0306fbf836d799a"/>
 		<rom name="ecco the dolphin (europe) (Track 02).bin" size="48773424" crc="2bfe906c" md5="477701c21fe8fb436d957ec0eb0551e7" sha1="0ecf1746dcb28a4c77024cbf509bee275d117044"/>
 		<rom name="ecco the dolphin (europe) (Track 03).bin" size="42973392" crc="9cbebfab" md5="e6ab60fe11008e73e85ce4b4569c32ed" sha1="394d351d0965cc5c1c21d1283aed49c3695f781f"/>
@@ -513,7 +583,9 @@
 	</game>
 	<game name="ejimse\earthworm jim - special edition (europe)" type="cd" sha1="2ed7e671dbe5043bce4ce18fa96f76df992f44e2" size="201861153" crc="a2ef4bf4" fullsha1="12537d67ee4e28ec4c140a4d3b9a1d0237483d73" dataSha1="288e8dc7be69fe5e06a0f50d29415c7616c64537">
 		<category>Games</category>
-		<description>ejimse\earthworm jim - special edition (europe)</description>
+		<description>Earthworm Jim - Special Edition (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Interplay</manufacturer>
 		<rom name="earthworm jim - special edition (europe) (Track 01).bin" size="16087680" crc="e13e222b" md5="f0b35f11d6beaed0881e247228d7a993" sha1="1935be471b5fa81f5a797bf27a58995e702a2131"/>
 		<rom name="earthworm jim - special edition (europe) (Track 02).bin" size="1582896" crc="94c1c145" md5="77db5abc77d0d3bcc189d1c522cfeb91" sha1="312bb98f53907d9342e992eabd3958875aa694ca"/>
 		<rom name="earthworm jim - special edition (europe) (Track 03).bin" size="1121904" crc="3b859b44" md5="dee4570855181b112ec5b31b9ce0ed81" sha1="825642a9fe74f669d56565086235e6630cfa3a3c"/>
@@ -545,13 +617,17 @@
 	</game>
 	<game name="espnbb\espn baseball tonight (europe)" type="cd" sha1="e1c8cf227437daddd64ba35879077a741075cf76" size="138989714" crc="008e34f8" fullsha1="5d798443c6657435dbe8e4b5b9df6a42f5aeb3b1" dataSha1="50f30d496f607d65b1210bf379b45d8e0935ba6d">
 		<category>Games</category>
-		<description>espnbb\espn baseball tonight (europe)</description>
+		<description>ESPN Baseball Tonight (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Sony Imagesoft</manufacturer>
 		<rom name="espn baseball tonight (europe) (Track 01).bin" size="205571856" crc="41289a30" md5="9dac068cb2cef2de61bfffa4b5714c2b" sha1="cc906fff5932ddcc34f0ea212abfe1820cbfea91"/>
 		<rom name="espn baseball tonight (europe) (Track 02).bin" size="11952864" crc="9b867a9f" md5="b08f46f458239e91eea0b065964e9666" sha1="71ec2b5f4772a5f8f74702b9328b81b2749533ef"/>
 	</game>
 	<game name="eternalc\eternal champions - challenge from the dark side (1995)(sega)(pal)" type="cd" sha1="3119f723c084d1377d122b8ac8893956746b85e5" size="277770521" crc="9c02f5ec" fullsha1="4b7e374cd339cb720be421b4068cc9a28017d16f" dataSha1="a65140d5b2be7f62f33cd779023988542e4aaf36">
 		<category>Games</category>
-		<description>eternalc\eternal champions - challenge from the dark side (1995)(sega)(pal)</description>
+		<description>Eternal Champions - Challenge From the Dark Side (Europe)</description>
+		<year>1995</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="eternal champions - challenge from the dark side (1995)(sega)(pal) (Track 01).bin" size="135526400" crc="2be7bcb5" md5="2813d375337c45d8e7b826bab6aa4d6b" sha1="3aea3646cd31cc0c384f450658ae099965e56076"/>
 		<rom name="eternal champions - challenge from the dark side (1995)(sega)(pal) (Track 02).bin" size="19796784" crc="abecc5a4" md5="7f6192f6b3e458b72a1c37358446cc37" sha1="67402c787090392494c3ec6cedb3d79ef143b18a"/>
 		<rom name="eternal champions - challenge from the dark side (1995)(sega)(pal) (Track 03).bin" size="15796032" crc="5b36fd46" md5="f6a24f5847f2ef4fe8a2edeed34569ff" sha1="c1a2b1f0dacc7ed45cea2c0f3015a4be3e8731c2"/>
@@ -574,7 +650,9 @@
 	</game>
 	<game name="eyebehol\eye of the beholder (1994)(sega)(pal)" type="cd" sha1="5fbe51bf56fd383902248215936407dbeaa7cbd0" size="230632300" crc="0f1f461f" fullsha1="bf47de55dc95e89b923a152e3ec9d84125c647ee" dataSha1="02cf9d1bf50d55d328e06bbe5f677226c674d006">
 		<category>Games</category>
-		<description>eyebehol\eye of the beholder (1994)(sega)(pal)</description>
+		<description> Dragons - Eye of the Beholder (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="eye of the beholder (1994)(sega)(pal) (Track 01).bin" size="23156736" crc="c67016f2" md5="f8a4290fb6b4c531218128632ad7beee" sha1="37677eb8fcd48d48411b58eee08bccf81d669a5b"/>
 		<rom name="eye of the beholder (1994)(sega)(pal) (Track 02).bin" size="52494288" crc="d658d659" md5="f276aa680e30ca13245b2d0e4954aa2e" sha1="9a7532e3ba66ac7cdddc76c2356d12c986481872"/>
 		<rom name="eye of the beholder (1994)(sega)(pal) (Track 03).bin" size="32638704" crc="f2f61314" md5="47f537e96c4ba3b190f135c47e6a6929" sha1="ba0d1dec1fb656cf1d68d1d64585c33900d7fd56"/>
@@ -634,7 +712,9 @@
 	</game>
 	<game name="f1btl\formula one world championship - beyond the limit (1994)(sega sports)(pal)" type="cd" sha1="6a4aa0ca9e43399ba89db6906d35fcdbbbca8ce9" size="400969673" crc="0ee56ce6" fullsha1="1eecb3dbf8560f4d8d11e2aa0a0eb53d53299248" dataSha1="064adbac321d1e8c125abee4263054865150bfb7">
 		<category>Games</category>
-		<description>f1btl\formula one world championship - beyond the limit (1994)(sega sports)(pal)</description>
+		<description>Formula One World Championship - Beyond the Limit (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="formula one world championship - beyond the limit (1994)(sega sports)(pal) (Track 01).bin" size="176560128" crc="ef6c98ff" md5="12eb65eb02abcb1267662a515f688729" sha1="9f306fd2d007e2aed7f0abda13430ddb74c289e6"/>
 		<rom name="formula one world championship - beyond the limit (1994)(sega sports)(pal) (Track 02).bin" size="16155888" crc="73fb63ce" md5="9524f2b872be3e81d7632009567ffc0c" sha1="aa293b017d2703ccbaa7cab86e577adb250e9fd8"/>
 		<rom name="formula one world championship - beyond the limit (1994)(sega sports)(pal) (Track 03).bin" size="19707408" crc="614a97ca" md5="829c39da657ea96a01cbff8817624a50" sha1="952b0106aba634ef00ab078aa976bec6b256a411"/>
@@ -675,19 +755,25 @@
 	</game>
 	<game name="fahrenhe\fahrenheit (1995)(sega)(pal)(fr)" type="cd" sha1="fc2ee63b5eb6214d5dcda25bd5be0164f1ea6e2d" size="364463685" crc="ed1e176f" fullsha1="77517995e79a8fba18a04040f993683f5fca2fb1" dataSha1="1bd0bba439432e3a03fc1696bb23227cbc73d31e">
 		<category>Games</category>
-		<description>fahrenhe\fahrenheit (1995)(sega)(pal)(fr)</description>
+		<description>Fahrenheit (Europe)</description>
+		<year>1995</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="fahrenheit (1995)(sega)(pal)(fr) (Track 01).bin" size="516972544" crc="e5fd1a03" md5="3385e6e0fdec8f0a5cc53b52d4da47d3" sha1="db7bc599971e037b2610a31bf6ea9eed450098d7"/>
 		<rom name="fahrenheit (1995)(sega)(pal)(fr) (Track 02).bin" size="2227344" crc="852a1944" md5="6362bd9b6dfc210f5048ee6c8a35a70f" sha1="6303bc8b117e8bf4e85323b7bea8f7f892ea5362"/>
 	</game>
 	<game name="fahrenhe\fahrenheit (europe)" type="cd" sha1="5bc6298be5e342073290f563cedf4da0c60a398e" size="393290466" crc="38045f05" fullsha1="309a11568a443ed829085144b2d8cbd332d6b858" dataSha1="ef50a0d3709f085057850f38fd22908c47d87cf0">
 		<category>Games</category>
-		<description>fahrenhe\fahrenheit (europe)</description>
+		<description>Fahrenheit (Europe)</description>
+		<year>1995</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="fahrenheit (europe) (Track 01).bin" size="593710656" crc="ff7637da" md5="d5c67a545c1d49a86583820a382dd80b" sha1="6b3f27a1b17cc008b6988ef1ba6dda48bdc6ac4a"/>
 		<rom name="fahrenheit (europe) (Track 02).bin" size="2932944" crc="832e3da4" md5="cf4d047bbfee20b3c49e6c7cc8436d5a" sha1="c19a9dbfb22fed7c8878da3e0a9f8a12521a5bad"/>
 	</game>
 	<game name="fatfursp\fatal fury special (1995)(jvc)(pal)" type="cd" sha1="2f9884cf2d72b0c983a7d5d74470988c0db7227e" size="315414929" crc="d7add602" fullsha1="973cb4c30fa24e59ec596e55f76e294b05bb7dd5" dataSha1="0d5f6ab9c2f107c8c771195a271dd2fab1b3888a">
 		<category>Games</category>
-		<description>fatfursp\fatal fury special (1995)(jvc)(pal)</description>
+		<description>Fatal Fury Special (Europe)</description>
+		<year>1995</year>
+		<manufacturer>JVC</manufacturer>
 		<rom name="fatal fury special (1995)(jvc)(pal) (Track 01).bin" size="13797376" crc="d4413fda" md5="eb7a01536e30a7346093d2b13afe4515" sha1="90fa1aac0e6d0568605a28e32aa290d762ae7117"/>
 		<rom name="fatal fury special (1995)(jvc)(pal) (Track 02).bin" size="2900016" crc="02b4d6f1" md5="9668f91f7f0bdd0dda467994744b9c78" sha1="7d3403602d14fee5649d0a9cfd0bae43702ee793"/>
 		<rom name="fatal fury special (1995)(jvc)(pal) (Track 03).bin" size="5880000" crc="01ac945d" md5="f510363ea83b530941ef7e4ae27b20df" sha1="c715e446627a14d19eb22290af1db109a2a942ea"/>
@@ -729,7 +815,9 @@
 	</game>
 	<game name="fatfursp\fatal fury special (demo) (1995)(jvc)(pal)[sega pro cd - issue 46]" type="cd" sha1="8da7fae4d1631f241a609a508fe66d8cb2dee1dc" size="49971649" crc="1502dedf" fullsha1="02164abe6256471dfc8f574bb91e7af5cc1d410b" dataSha1="338abd54d24c70e02fdeaabe27c54251fdbc95e2">
 		<category>Games</category>
-		<description>fatfursp\fatal fury special (demo) (1995)(jvc)(pal)[sega pro cd - issue 46]</description>
+		<description>Fatal Fury Special (Europe)</description>
+		<year>1995</year>
+		<manufacturer>JVC</manufacturer>
 		<rom name="fatal fury special (demo) (1995)(jvc)(pal)[sega pro cd - issue 46] (Track 01).bin" size="13817856" crc="af70ed1e" md5="c46ba009b52c113891e0eac0f39012ca" sha1="ad895904c96c8f9b259e8689e0b60aaf3e29369a"/>
 		<rom name="fatal fury special (demo) (1995)(jvc)(pal)[sega pro cd - issue 46] (Track 02).bin" size="2900016" crc="e6c77729" md5="5690a30c7d8c880f83ca1964cfbfe6f0" sha1="71499d5da63eb47771847aa92f1a317ea93c1411"/>
 		<rom name="fatal fury special (demo) (1995)(jvc)(pal)[sega pro cd - issue 46] (Track 03).bin" size="5880000" crc="832d24e1" md5="ea127068b01588ecbb1ef1e8b20d81ac" sha1="bcef63bbc6484c74416ec94a875650ff7c9eeeb0"/>
@@ -741,7 +829,9 @@
 	</game>
 	<game name="ffightcd\final fight cd (europe)" type="cd" sha1="7f1084899512e80b6b1ac0532af4daaf0d83b706" size="257073956" crc="2e2ee253" fullsha1="8156ebd06b1479c2381c8eca074ee23b7da09c75" dataSha1="aba207837b617830c3548e94a49581e0bca2e823">
 		<category>Games</category>
-		<description>ffightcd\final fight cd (europe)</description>
+		<description>Final Fight CD (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="final fight cd (europe) (Track 01).bin" size="28209888" crc="e068334d" md5="91beb45785887b3b158feef5a9a7d0a1" sha1="7d09611a3ef6bd1425f1a3e82bb6a9a6371ed249"/>
 		<rom name="final fight cd (europe) (Track 02).bin" size="22936704" crc="0a05e927" md5="5deee2f1a6da6102963efb0a489863ff" sha1="7b29d8fc9c77a62271f3e220927ec3c321121ca7"/>
 		<rom name="final fight cd (europe) (Track 03).bin" size="23799888" crc="d7531f85" md5="eb96233e8ea98e41374098ff57d1e0a0" sha1="5cc6e178d0919e7b89efae9e333e3104f0517dd1"/>
@@ -771,7 +861,9 @@
 	</game>
 	<game name="fifa\fifa international soccer - ce (demo) (1994)(ea sports)(pal)(m4)[mega power - issue 13]" type="cd" sha1="1d4803fb6e0249218cb90623ca5e7f287007897f" size="109277278" crc="aed01e82" fullsha1="14b6b3501f88ae90a0f38c9cb2397df9d9f5e192" dataSha1="2940f072f5f567cae8786db01369a4b872a74812">
 		<category>Games</category>
-		<description>fifa\fifa international soccer - ce (demo) (1994)(ea sports)(pal)(m4)[mega power - issue 13]</description>
+		<description>FIFA International Soccer - Championship Edition (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Electronic Arts</manufacturer>
 		<rom name="fifa international soccer - ce (demo) (1994)(ea sports)(pal)(m4)[mega power - issue 13] (Track 01).bin" size="75462656" crc="7ad6d6e1" md5="0b7a7a86db996822e3205363fc184f52" sha1="edeae4fd0908d83877bcb4535a81be97c78f4aec"/>
 		<rom name="fifa international soccer - ce (demo) (1994)(ea sports)(pal)(m4)[mega power - issue 13] (Track 02).bin" size="23806944" crc="c57b3e96" md5="5abba49119f93f1dcf147a77c972284c" sha1="77b6454c76a0244bd6f532b0f4d09926da8afe68"/>
 		<rom name="fifa international soccer - ce (demo) (1994)(ea sports)(pal)(m4)[mega power - issue 13] (Track 03).bin" size="10943856" crc="014c7b01" md5="42d0abc291940cb9c26916874217f853" sha1="778c07a8020eff7a5f05e1a3e94afc8877d1ebf7"/>
@@ -789,7 +881,9 @@
 	</game>
 	<game name="fifa\fifa international soccer - ce (demo) (1994)(ea sports)(pal)(m4)[sega pro cd - issue 43]" type="cd" sha1="59505693abe2ebb3715a868dcfaf6ac72049a699" size="109276914" crc="4c26f4df" fullsha1="6aa22bc62eabdf11f4370b01453a95e9fd129199" dataSha1="93ce40bc7a47e961bdf8cb5db50fcaba87b95b3c">
 		<category>Games</category>
-		<description>fifa\fifa international soccer - ce (demo) (1994)(ea sports)(pal)(m4)[sega pro cd - issue 43]</description>
+		<description>FIFA International Soccer - Championship Edition (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Electronic Arts</manufacturer>
 		<rom name="fifa international soccer - ce (demo) (1994)(ea sports)(pal)(m4)[sega pro cd - issue 43] (Track 01).bin" size="75462656" crc="7ad6d6e1" md5="0b7a7a86db996822e3205363fc184f52" sha1="edeae4fd0908d83877bcb4535a81be97c78f4aec"/>
 		<rom name="fifa international soccer - ce (demo) (1994)(ea sports)(pal)(m4)[sega pro cd - issue 43] (Track 02).bin" size="23806944" crc="157f02b2" md5="d3bc754b2a461d4af2d24e1815a04e3c" sha1="6f602dceb8d4611d3c78c4af0ca36499457759d8"/>
 		<rom name="fifa international soccer - ce (demo) (1994)(ea sports)(pal)(m4)[sega pro cd - issue 43] (Track 03).bin" size="10943856" crc="9fc91c40" md5="72da14f195246cb568dcb3245af27f81" sha1="92acf5d9a864781a939e58cf685442be673939b7"/>
@@ -807,7 +901,9 @@
 	</game>
 	<game name="fifa\fifa international soccer - championship edition (1994)(ea sports)(pal)(m4)" type="cd" sha1="6aba3922f70b1ffd9848ea7a45acf6b263196cda" size="316396683" crc="269e18ac" fullsha1="3561432f0d7cf4d7eb9daaf83718a8d9dc85f565" dataSha1="9ff721f2cf5bbcb1d8a1bc95acff6eaaaccb2468">
 		<category>Games</category>
-		<description>fifa\fifa international soccer - championship edition (1994)(ea sports)(pal)(m4)</description>
+		<description>FIFA International Soccer - Championship Edition (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Electronic Arts</manufacturer>
 		<rom name="fifa international soccer - championship edition (1994)(ea sports)(pal)(m4) (Track 01).bin" size="228864000" crc="ae776f78" md5="b613b1f60612a9521cd598a29f4278b7" sha1="1e750635bf62f819474033b44ab71d9fed86e840"/>
 		<rom name="fifa international soccer - championship edition (1994)(ea sports)(pal)(m4) (Track 02).bin" size="23806944" crc="4cef9ac9" md5="6e54ca11d1c79f91e0ba2bedcaaa8227" sha1="69e88e0790b08a41285b1b66091c6f7949020803"/>
 		<rom name="fifa international soccer - championship edition (1994)(ea sports)(pal)(m4) (Track 03).bin" size="24801840" crc="3d8c6530" md5="7b695101896484cf78ddd7cdc04ecce2" sha1="b6c06a1fca120112f7ecd63b53369fe10a879b69"/>
@@ -857,14 +953,18 @@
 	</game>
 	<game name="flashbd\flashback - the quest for identity (demo) (1994)(u.s. gold)(pal)[sega pro cd - issue 42]" type="cd" sha1="6a296fd6ff6ce7ccf2b1b70772f239181e09e628" size="59156894" crc="4fb521e9" fullsha1="94b9930262f180d993910b0a6ccafb4208ef1f38" dataSha1="06e9fa531678772ee00db24aa5e2e9c4ca8a72f2">
 		<category>Games</category>
-		<description>flashbd\flashback - the quest for identity (demo) (1994)(u.s. gold)(pal)[sega pro cd - issue 42]</description>
+		<description>Flashback - The Quest for Identity (Europe, demo) [Sega Pro CD - issue 42]</description>
+		<year>1994</year>
+		<manufacturer>U.S. Gold</manufacturer>
 		<rom name="flashback - the quest for identity (demo) (1994)(u.s. gold)(pal)[sega pro cd - issue 42] (Track 01).bin" size="57065472" crc="24a325a2" md5="b622f2fa4b45140a467836b1c07cb9cf" sha1="101ce5f2fcf802a1b4ce7a1b4eb932a8839a252a"/>
 		<rom name="flashback - the quest for identity (demo) (1994)(u.s. gold)(pal)[sega pro cd - issue 42] (Track 02).bin" size="36023232" crc="41ab4cf5" md5="f67ccc72c8477965dd79c1398523287f" sha1="21cee49731a1dcb42de984c75c28a915309f636c"/>
 		<rom name="flashback - the quest for identity (demo) (1994)(u.s. gold)(pal)[sega pro cd - issue 42] (Track 03).bin" size="44161152" crc="87757c72" md5="fb06a1bdc45bd1d9c65ae00cbb215a5b" sha1="4acb38bdb610a3846acd28cf95354f57d593dccb"/>
 	</game>
 	<game name="flink\flink (1994)(psygnosis - sony electronic publishing)(pal)(m5)" type="cd" sha1="2014e44bc4b04d875e266b11598917a4f21fde7c" size="293440621" crc="03ab8576" fullsha1="0a4f9bcf37a52eba54a0afc67c21efda1ce44c49" dataSha1="f16637a33105f396b84a68c5441c4adf6c37b16f">
 		<category>Games</category>
-		<description>flink\flink (1994)(psygnosis - sony electronic publishing)(pal)(m5)</description>
+		<description>Flink (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Psygnosis ~ Sony Electronic Publishing</manufacturer>
 		<rom name="flink (1994)(psygnosis - sony electronic publishing)(pal)(m5) (Track 01).bin" size="2347008" crc="979fe370" md5="37b56685b30ef702353b081223a21bb7" sha1="ffcb7da06bc1fd722ec0d52fcc252df9496633a3"/>
 		<rom name="flink (1994)(psygnosis - sony electronic publishing)(pal)(m5) (Track 02).bin" size="40056912" crc="7d8644e8" md5="d35520bb53f165304747c79b5e694942" sha1="68b83a115e9092331416b30380655c32cd6c4fe3"/>
 		<rom name="flink (1994)(psygnosis - sony electronic publishing)(pal)(m5) (Track 03).bin" size="39123168" crc="0d46bad7" md5="1ec45be8af7e19e043c51d05ef81a92c" sha1="2e62597344a26bedac54752a9372ff943e14edb6"/>
@@ -886,36 +986,48 @@
 	</game>
 	<game name="gztexas\ground zero texas (europe) (disc 1)" type="cd" sha1="19dc4d3f73c95a4252617277d9c780736121c297" size="289452774" crc="f34accae" fullsha1="86d78af2c9f83d47a506ff6837079779b956ff0c" dataSha1="9dbb671691b943a33ada814c9781ef1a44679b02">
 		<category>Games</category>
-		<description>gztexas\ground zero texas (europe) (disc 1)</description>
+		<description>Ground Zero Texas (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sony Imagesoft</manufacturer>
 		<rom name="ground zero texas (europe) (disc 1) (Track 01).bin" size="630267792" crc="c87d6af5" md5="d0de09ba447c7af880e59fddc0e3bb95" sha1="66d3f85627c626543d94fb1545d54f513d2b8478"/>
 		<rom name="ground zero texas (europe) (disc 1) (Track 02).bin" size="2587200" crc="45deffb8" md5="450962396fb5640d107f2add8379d5f2" sha1="b6c72de309565b472100e2cf08309ead5693f2cf"/>
 	</game>
 	<game name="gztexas\ground zero texas (europe) (disc 2)" type="cd" sha1="a40dc0c8744cab5f6674535375887aa90be05028" size="280161186" crc="94c5c3ef" fullsha1="7a97db538dc32300a4210c613e054f1e08411e17" dataSha1="fe45a1e62b6a596d60642a637b9d8d63143c8305">
 		<category>Games</category>
-		<description>gztexas\ground zero texas (europe) (disc 2)</description>
+		<description>Ground Zero Texas (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sony Imagesoft</manufacturer>
 		<rom name="ground zero texas (europe) (disc 2) (Track 01).bin" size="600804288" crc="94938120" md5="0d2a5ee0360d4f8d88107eb33e706809" sha1="30394e7db63ce10993ca585ec14a324a2af521e9"/>
 		<rom name="ground zero texas (europe) (disc 2) (Track 02).bin" size="2587200" crc="ef819709" md5="6caf37d90cd6908341b5cbaee08b3058" sha1="9c323f11f72232fe618b185dff336a0069366642"/>
 	</game>
 	<game name="holmes2\sherlock holmes - consulting detective vol. ii v1.0 (1993)(sega)(pal)(disc 1 of 2)" type="cd" sha1="0d869274b58ba1199a79e5ae4d520d57a024d60f" size="249060982" crc="3902795c" fullsha1="8a337b2c26bd87588a228aa759bf94f746bbdaed" dataSha1="c9202da9f9eaadc964cbcbad55b13b9e5f656943">
 		<category>Games</category>
-		<description>holmes2\sherlock holmes - consulting detective vol. ii v1.0 (1993)(sega)(pal)(disc 1 of 2)</description>
+		<description>Sherlock Holmes - Consulting Detective Vol. II v1.0 (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="sherlock holmes - consulting detective vol. ii v1.0 (1993)(sega)(pal)(disc 1 of 2) (Track 01).bin" size="460951552" crc="01a897fa" md5="bb05dad8f2b76c65d57672cfb49f66d4" sha1="a1e1babaf80961629e82f27798e3bd16ca0d5cc3"/>
 		<rom name="sherlock holmes - consulting detective vol. ii v1.0 (1993)(sega)(pal)(disc 1 of 2) (Track 02).bin" size="10584000" crc="add33236" md5="03009b2207703aedce3aa8a2aa2bc788" sha1="75f1bd0868ea6508df17a81b6298973c219ebd0a"/>
 	</game>
 	<game name="holmes2\sherlock holmes - consulting detective vol. ii v1.0 (1993)(sega)(pal)(disc 2 of 2)" type="cd" sha1="afb2a452e23dd9eece3a92dfb6521fe5f36554bf" size="150185778" crc="a4d06ea2" fullsha1="6b04be5a9adc6a80bd085836b964784a4c518c7b" dataSha1="66ee1d60a477f327fe1c77edadae07223a8d813d">
 		<category>Games</category>
-		<description>holmes2\sherlock holmes - consulting detective vol. ii v1.0 (1993)(sega)(pal)(disc 2 of 2)</description>
+		<description>Sherlock Holmes - Consulting Detective Vol. II v1.0 (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="sherlock holmes - consulting detective vol. ii v1.0 (1993)(sega)(pal)(disc 2 of 2) (Track 01).bin" size="284045312" crc="a1947c65" md5="1c202387700d58e8875324c76d2d3e84" sha1="646d7652a84e9712224ea3184cf7ae85bbe4adca"/>
 		<rom name="sherlock holmes - consulting detective vol. ii v1.0 (1993)(sega)(pal)(disc 2 of 2) (Track 02).bin" size="10584000" crc="afb0dcac" md5="323d4e20333b2df5dd4d13a1c1efca5f" sha1="6a3a8f7b8da8dc9c505310913b2b377501d18321"/>
 	</game>
 	<game name="holmes\sherlock holmes - consulting detective vol. i (europe)" type="cd" sha1="f16421edda0ae4c400c6a273a9d2c6a2ed5d4cd7" size="321552322" crc="cb941911" fullsha1="3832f11c0cb0515ba73a7b8c629ec83d6130ea5c" dataSha1="b5825f8414f91246ae5fd843db9229e2c816dbec">
 		<category>Games</category>
-		<description>holmes\sherlock holmes - consulting detective vol. i (europe)</description>
+		<description>Sherlock Holmes - Consulting Detective Vol. I (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="sherlock holmes - consulting detective vol. i (europe) (Track 01).bin" size="752581200" crc="49805f7a" md5="7061965adab93919e19a435292c388f5" sha1="0c06d95d8ef1f49c39169194634a8e9ef614b208"/>
 	</game>
 	<game name="hook\hook (1993)(sony imagesoft)(pal)" type="cd" sha1="adbeda0c7a0661309e12fed34439e81e67836d45" size="168955806" crc="ca24aefc" fullsha1="9104beb3b1c230328208b7e9417173ffbc78f36c" dataSha1="b66fa2473b2c1abb170ee35190b165b026c35917">
 		<category>Games</category>
-		<description>hook\hook (1993)(sony imagesoft)(pal)</description>
+		<description>Hook (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sony Imagesoft</manufacturer>
 		<rom name="hook (1993)(sony imagesoft)(pal) (Track 01).bin" size="17244160" crc="a405bf9e" md5="d8f3e21172dde96815d6a42b4855f091" sha1="b986cc4d965ad42575ef9f9873d94b515b6de925"/>
 		<rom name="hook (1993)(sony imagesoft)(pal) (Track 02).bin" size="9965424" crc="cbddc040" md5="30a947dfc2f4bf5dae617e1e7ace1b28" sha1="561188d29849648a4e60cebd083dbe9c6e0a6658"/>
 		<rom name="hook (1993)(sony imagesoft)(pal) (Track 03).bin" size="17830512" crc="ede6e1c7" md5="4ac9f5179e46520b974c15b6e39baf3f" sha1="01448ade97ef6451149611a534e33a7f3f17ce7d"/>
@@ -941,13 +1053,17 @@
 	</game>
 	<game name="inxs\inxs (1993)(sega)(pal)" type="cd" sha1="0b995dd33607ff57436f7cd2d9c84eb1a760eda5" size="311035812" crc="b9db0723" fullsha1="274a831113134ca9264bf8c3dcf33efc1862d893" dataSha1="37508208976dc5b956d9babd001072d4e812e724">
 		<category>Games</category>
-		<description>inxs\inxs (1993)(sega)(pal)</description>
+		<description>INXS (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="inxs (1993)(sega)(pal) (Track 01).bin" size="443707392" crc="4e31245b" md5="7c16c2f76f5bc90690bbf8d354e5b463" sha1="2412de3b34bc0c310f36dfb5b3f04a0b81433510"/>
 		<rom name="inxs (1993)(sega)(pal) (Track 02).bin" size="1528800" crc="73e24265" md5="83766da925a24c35ed8273289c81c096" sha1="41467dc76f2c3533dde512ed6640a6c53c200104"/>
 	</game>
 	<game name="jagxj220\jaguar xj220 (europe) (en,ja)" type="cd" sha1="2f5547f1006e3c97470c0fc5b17c1e49499a1beb" size="266035987" crc="d4651677" fullsha1="736532c5682b7bab5d0f8bcc336bfc0b0440c713" dataSha1="bf56285954d4a6051a45fc99786b04ee91e1316e">
 		<category>Games</category>
-		<description>jagxj220\jaguar xj220 (europe) (en,ja)</description>
+		<description>Jaguar XJ220 (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="jaguar xj220 (europe) (en,ja) (Track 01).bin" size="12042240" crc="1b5e8d8e" md5="e79a5f26e994638b9296451bd17af9cd" sha1="dd4a1290767ff53f1d724faa00f2d8c82a1dabad"/>
 		<rom name="jaguar xj220 (europe) (en,ja) (Track 02).bin" size="63976752" crc="facc3c84" md5="c88652db7f939b9671ff6810add788f2" sha1="b7010a233ac344d7dbe836701547956fa6d6b44a"/>
 		<rom name="jaguar xj220 (europe) (en,ja) (Track 03).bin" size="27821808" crc="4a4281d8" md5="6248c4561d3ace4510a6a3c2d2e97af2" sha1="a1986940ce54b14c36cc89c6a37e8b3a748988e3"/>
@@ -964,7 +1080,9 @@
 	</game>
 	<game name="jpark\jurassic park (1994)(sega)(pal)(de)" type="cd" sha1="345733ea07fd6ebcaadf5151a2a5334ae6bfefb4" size="249329908" crc="be5ce71b" fullsha1="a94ef1e608880b911d57bc977046e0887ca1aeb1" dataSha1="e29e1a592fe1a7569ddfc6a28989b1713d4ef19f">
 		<category>Games</category>
-		<description>jpark\jurassic park (1994)(sega)(pal)(de)</description>
+		<description>Jurassic Park (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="jurassic park (1994)(sega)(pal)(de) (Track 01).bin" size="165844992" crc="1390254b" md5="a6ec5d1ac25b2afcb032aa7b01310f55" sha1="f59c0027ddaa3905f215fc90f98bbe03fcdcff67"/>
 		<rom name="jurassic park (1994)(sega)(pal)(de) (Track 02).bin" size="11378976" crc="a33dcd47" md5="75fca8d8bef4b9c8c17cda5dd3c10110" sha1="c30c196cac1a59ee821253b518f979a90adca27b"/>
 		<rom name="jurassic park (1994)(sega)(pal)(de) (Track 03).bin" size="11291952" crc="772c0bb7" md5="86d0b00539d09546b642145054e4c918" sha1="457b90bdd648b13dfebe1f7d48808a3bd7cc998f"/>
@@ -1000,7 +1118,9 @@
 	</game>
 	<game name="jpark\jurassic park (europe)" type="" sha1="993e821d5310ad16d7dd6e3d64b3d0b90dbea6f4" size="246860464" crc="90d95340" fullsha1="e03932ac822cba736d061f70f527316ac3d38bff" dataSha1="522f31d21ac9a3242a9032ae429c3e9794efba5c">
 		<category>Games</category>
-		<description>jpark\jurassic park (europe)</description>
+		<description>Jurassic Park (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="jurassic park (europe) (Track 01).bin" size="190462608" crc="f4fe953d" md5="f45193259ec1bcb37d0044ba17850aa8" sha1="9183bc6b03065816dde14c8fdcba2ad062457a13"/>
 		<rom name="jurassic park (europe) (Track 02).bin" size="11378976" crc="81d0fb97" md5="9d4c0c6061af68f5b3b69646a37be85b" sha1="455c9f5f30dc6ad2ef82689d214ca0fd821bb645"/>
 		<rom name="jurassic park (europe) (Track 03).bin" size="11291952" crc="0ae86bef" md5="fbce0ebf42e482ed55ac2bde9b33cb24" sha1="30ee76be8ab91cb745e1993a7624b05c1a0ca780"/>
@@ -1036,7 +1156,9 @@
 	</game>
 	<game name="keio\keio flying squadron (1994)(jvc)(pal)" type="cd" sha1="79436ce19038e52be80b72bcf1aea2760ba0ed14" size="327383578" crc="6a4d1500" fullsha1="7fef7611543ea21aa05c28aaa7d7737adc98c81a" dataSha1="07a5c15cc8ee465394b6adedc12fc529c32d013e">
 		<category>Games</category>
-		<description>keio\keio flying squadron (1994)(jvc)(pal)</description>
+		<description>Keio Flying Squadron (Europe)</description>
+		<year>1994</year>
+		<manufacturer>JVC</manufacturer>
 		<rom name="keio flying squadron (1994)(jvc)(pal) (Track 01).bin" size="67790848" crc="a9fa8d63" md5="eba1973ab72e6f49313148ed22007da8" sha1="4d4fa9f9b5f73f4fb4be1e28fb36bd98c56d49a9"/>
 		<rom name="keio flying squadron (1994)(jvc)(pal) (Track 02).bin" size="1114848" crc="696b73f9" md5="94cf650bc56d606b8e89a7b9bf09467d" sha1="c5d5bcfe520bc898740ebc873249eb266d543155"/>
 		<rom name="keio flying squadron (1994)(jvc)(pal) (Track 03).bin" size="46249728" crc="710f2c0d" md5="75334965c36244c70040ea45f0a9ee09" sha1="67da68c5d7b11907426e22b5dccc319fbe3310be"/>
@@ -1066,7 +1188,9 @@
 	</game>
 	<game name="keio\keio flying squadron (demo) (1994)(jvc)(pal)[sega pro cd - issue 03]" type="cd" sha1="3da891d3be3c0ba9ea3c8c7476ed1e2948392f11" size="327391956" crc="3f013446" fullsha1="630bbefe9ffd631b7e350a0d29af9642d2e4af21" dataSha1="866fc6b2904a79a89f79fd529bb9014c6a2eb8fb">
 		<category>Games</category>
-		<description>keio\keio flying squadron (demo) (1994)(jvc)(pal)[sega pro cd - issue 03]</description>
+		<description>Keio Flying Squadron (Europe)</description>
+		<year>1994</year>
+		<manufacturer>JVC</manufacturer>
 		<rom name="keio flying squadron (demo) (1994)(jvc)(pal)[sega pro cd - issue 03] (Track 01).bin" size="67790848" crc="522dea8f" md5="e8c0a27bb0ba980ac1c618d3eea555c8" sha1="20afd9c5b739b737adcdcd20ff89f0b18b62a3a2"/>
 		<rom name="keio flying squadron (demo) (1994)(jvc)(pal)[sega pro cd - issue 03] (Track 02).bin" size="1114848" crc="fcd538af" md5="96d719f122a3a7d47c8f6053b65048ae" sha1="4d30d6d65d061ccddeee545e073244f0aa7b468a"/>
 		<rom name="keio flying squadron (demo) (1994)(jvc)(pal)[sega pro cd - issue 03] (Track 03).bin" size="46249728" crc="56c8099f" md5="eb78dbcb30ee91a707cff85ae9fa24dc" sha1="45a48cdfd3266101a12c957458c5f5237cd1fa94"/>
@@ -1096,25 +1220,33 @@
 	</game>
 	<game name="kidssite\kids on site (1994)(digital pictures)(pal)" type="cd" sha1="2e7d260c2923181598c3936fa3c8d19a3cdb3eb4" size="345938487" crc="1233a486" fullsha1="941119ccf04cfd564c84b5dc9b1209b58cd0ba0f" dataSha1="a22edbab997737210578b30ef6d620389e783208">
 		<category>Games</category>
-		<description>kidssite\kids on site (1994)(digital pictures)(pal)</description>
+		<description>Kids on Site (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Digital Pictures</manufacturer>
 		<rom name="kids on site (1994)(digital pictures)(pal) (Track 01).bin" size="449314816" crc="af2f586d" md5="4f3ef5fc000a39745463dc75abff9248" sha1="fd81b866aabd14d090572831d3e66b8e60b167a7"/>
 		<rom name="kids on site (1994)(digital pictures)(pal) (Track 02).bin" size="1766352" crc="3cf7b9c0" md5="703a0e663b51c6335f5eed5c9d7d8442" sha1="fb5e5107be35b37812f53d640186a89a5649ac4d"/>
 	</game>
 	<game name="kriskros\kris kross (1993)(sony imagesoft)(pal)" type="cd" sha1="2be7e9beda2413fe2fccace4348448753478494c" size="243929085" crc="d8b50623" fullsha1="6cb2c5f368015441eaa72f23fa984a807505a725" dataSha1="e80e35a20bef9f6bd8a9312b5cd72ea20914f19f">
 		<category>Games</category>
-		<description>kriskros\kris kross (1993)(sony imagesoft)(pal)</description>
+		<description>Kris Kross (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sony Imagesoft</manufacturer>
 		<rom name="kris kross (1993)(sony imagesoft)(pal) (Track 01).bin" size="335079424" crc="18d22c95" md5="7f2ea20be1f23a7373a8d93f847b59fc" sha1="1464c46a08f4759f443605bb39cf1810a59a15ad"/>
 		<rom name="kris kross (1993)(sony imagesoft)(pal) (Track 02).bin" size="2058000" crc="c17db430" md5="8ebe3d975e59f2b7f53169adc6acf971" sha1="5a6c5eaaa163d58a67cea635050b3617221072b7"/>
 	</game>
 	<game name="lawnmowr\lawnmower man, the (demo) (1994)(time warner interactive)(pal)[mega power - issue 16]" type="cd" sha1="f7c88ce6f230c3b7d9251637a4172e048d17b7cd" size="28543825" crc="5a7658b1" fullsha1="306e4a7168d1f2addfad32c90c01030ef850d33d" dataSha1="85854626057361c9d030e503ca6e9cf5d8925ef1">
 		<category>Games</category>
-		<description>lawnmowr\lawnmower man, the (demo) (1994)(time warner interactive)(pal)[mega power - issue 16]</description>
+		<description>The Lawnmower Man (USA)</description>
+		<year>1994</year>
+		<manufacturer>Sales Curve Interactive</manufacturer>
 		<rom name="lawnmower man, the (demo) (1994)(time warner interactive)(pal)[mega power - issue 16] (Track 01).bin" size="63731712" crc="c494bfdd" md5="3997a72b2dccacd4758c7875d69799e3" sha1="1865b75455786efcca8cfcb4b99be22b39c45334"/>
 		<rom name="lawnmower man, the (demo) (1994)(time warner interactive)(pal)[mega power - issue 16] (Track 02).bin" size="7949760" crc="acf9ca0a" md5="9fdb706fd4c72e85c44edd3903e04d86" sha1="153ac11adc831138f61eb878ee1fcf072190f314"/>
 	</game>
 	<game name="le2\lethal enforcers ii - gun fighters (demo) (1994)(konami)(pal)[mega power - issue 19]" type="cd" sha1="7f8c3af9bdb324532de18f17a884b614cf2f15d0" size="185847152" crc="3b8da6fd" fullsha1="e955c7b00d9abc98ddac0b499c86358ec54746d0" dataSha1="37fbbdc8b1dde0f5b5ace1210fef2baa8fd5b434">
 		<category>Games</category>
-		<description>le2\lethal enforcers ii - gun fighters (demo) (1994)(konami)(pal)[mega power - issue 19]</description>
+		<description>II - Gun Fighters (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Konami</manufacturer>
 		<rom name="lethal enforcers ii - gun fighters (demo) (1994)(konami)(pal)[mega power - issue 19] (Track 01).bin" size="4831232" crc="48c34fab" md5="462833322b02bcbd987a70c15c0ed93d" sha1="c79303f15e940de416f505d97c01fe69edd559e0"/>
 		<rom name="lethal enforcers ii - gun fighters (demo) (1994)(konami)(pal)[mega power - issue 19] (Track 02).bin" size="43697808" crc="2e870db9" md5="5610623d566a51bf1c8b07a32432384d" sha1="15e861a7ddb1d24bd5f466447b7cf49a666d79f9"/>
 		<rom name="lethal enforcers ii - gun fighters (demo) (1994)(konami)(pal)[mega power - issue 19] (Track 03).bin" size="24474912" crc="d29df4fd" md5="5f3da83c5174db18356fe6ae417beed5" sha1="793fc0f04cf6de18cce1fae6ccd5f0e323e1afe1"/>
@@ -1133,7 +1265,9 @@
 	</game>
 	<game name="le2\lethal enforcers ii - gun fighters (europe)" type="cd" sha1="6d8605e6f0934bf7c5e2f9deff36383cc4d87d87" size="366167272" crc="19d31fcc" fullsha1="1f4a8dc45cd77813e20483c1ba91b3ffdc121649" dataSha1="57c3fff067d3250296cbfe037f7cfdf9c02e8ac0">
 		<category>Games</category>
-		<description>le2\lethal enforcers ii - gun fighters (europe)</description>
+		<description>II - Gun Fighters (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Konami</manufacturer>
 		<rom name="lethal enforcers ii - gun fighters (europe) (Track 01).bin" size="14845824" crc="3d5df472" md5="4cbea82f63cf056965e256b70ef0c373" sha1="0059f985764f4095df9d83f2abcfa9d1f4ef129a"/>
 		<rom name="lethal enforcers ii - gun fighters (europe) (Track 02).bin" size="43697808" crc="b93c5d38" md5="c4e1e9ec5b903e0e78de978d35996a20" sha1="bbb852eb4d7438367dda8d94dcfc7ae1262448ed"/>
 		<rom name="lethal enforcers ii - gun fighters (europe) (Track 03).bin" size="36042048" crc="5a5f097a" md5="c5b01cb993cfe5587bb4b76270f8b1fc" sha1="cfb3f4da2397f507315a63522311641710a62805"/>
@@ -1160,7 +1294,9 @@
 	</game>
 	<game name="lethalen\lethal enforcers (1993)(konami)(pal)" type="cd" sha1="153cd8e21a1bfd33e0d3d18ae320c0b0e43f5a92" size="408789678" crc="e98e0ab5" fullsha1="b6e3b41b0389cae84de9414ee7071b9871244add" dataSha1="4a2c7a8fe1f059f5387a87308bbb4f0ed4185ed4">
 		<category>Games</category>
-		<description>lethalen\lethal enforcers (1993)(konami)(pal)</description>
+		<description>Lethal Enforcers (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Konami</manufacturer>
 		<rom name="lethal enforcers (1993)(konami)(pal) (Track 01).bin" size="8792064" crc="5c66ede8" md5="672f201655c7ce2906ba515b28195afb" sha1="07e5263204e77434f2611d8710b5fd62f338d793"/>
 		<rom name="lethal enforcers (1993)(konami)(pal) (Track 02).bin" size="1764000" crc="9fa3ba06" md5="d3075a4b19a75ea8c00318955838b667" sha1="30bb0eb74f30e6284fefc8eceb9a1a8c3d790663"/>
 		<rom name="lethal enforcers (1993)(konami)(pal) (Track 03).bin" size="52520160" crc="986742ae" md5="fcab73a03112ee6c561f40b37fd4313d" sha1="48621c578184997c2a4db31077810f1a3dcffdb6"/>
@@ -1187,7 +1323,9 @@
 	</game>
 	<game name="lordthun\lords of thunder (1995)(virgin)(pal)" type="cd" sha1="c1d58d8410136eb47dd1da717b35d2f76fd02147" size="369469055" crc="0fe4ee73" fullsha1="d90989fc34e84026fadac8b7f63ba0c22e54af94" dataSha1="e025bea94585939f4cc276d46163bfd8bc4e12bc">
 		<category>Games</category>
-		<description>lordthun\lords of thunder (1995)(virgin)(pal)</description>
+		<description>Lords of Thunder (Europe)</description>
+		<year>1995</year>
+		<manufacturer>Hudson Soft</manufacturer>
 		<rom name="lords of thunder (1995)(virgin)(pal) (Track 01).bin" size="7237632" crc="4c96f24c" md5="0c5d582cc7bca7070ccdd55d1d7c8b26" sha1="d487377b42f830e8a5515cf9e49b5cb2f731276e"/>
 		<rom name="lords of thunder (1995)(virgin)(pal) (Track 02).bin" size="5814144" crc="eebffcad" md5="c16c56b69948d593fa01ccceca5ee8b6" sha1="31d79cafbf1bba41f7df9637ab7d0a2f702f1b55"/>
 		<rom name="lords of thunder (1995)(virgin)(pal) (Track 03).bin" size="10936800" crc="054f7ba8" md5="9123ace7980f2af131b1bb0cf3eb7872" sha1="41ccd1e9fab237592914175aaacff8b13d46c0a6"/>
@@ -1212,7 +1350,9 @@
 	</game>
 	<game name="marko\marko's magic football (1994)(domark)(pal)(m4)" type="cd" sha1="ae8c42a44d41ae3102810b289262925d27a413ea" size="170028267" crc="f7732115" fullsha1="c242b0dd2930f2f5572645a557d909090b38e6ae" dataSha1="c44bd35c90c7b9ab625c8124b5a3b32260798646">
 		<category>Games</category>
-		<description>marko\marko's magic football (1994)(domark)(pal)(m4)</description>
+		<description>s Magic Football (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Domark</manufacturer>
 		<rom name="marko's magic football (1994)(domark)(pal)(m4) (Track 01).bin" size="14073856" crc="249a0886" md5="831fd719e72acb327553433b21eccb2c" sha1="7f46371dfc3c83380c1eb98506c461bf0e9b2404"/>
 		<rom name="marko's magic football (1994)(domark)(pal)(m4) (Track 02).bin" size="47959632" crc="dd821289" md5="a31cc67963536470df19c2d3af664297" sha1="c5ae192da86f28d1d6461cac94856d179bb0d2df"/>
 		<rom name="marko's magic football (1994)(domark)(pal)(m4) (Track 03).bin" size="34362720" crc="05566052" md5="b11ce40488671728c3178c6f22525715" sha1="fa0e45811d2fccda589fe5633b05e7d8ed4c9054"/>
@@ -1233,7 +1373,9 @@
 	</game>
 	<game name="microcos\microcosm (1993)(psygnosis)(pal)[t-113015-50 14]" type="cd" sha1="054d551138127fad7f82f85ed0a19876841513da" size="294830744" crc="2457777b" fullsha1="127c01208b743d5cbf8dc17d4c853a969c9905bd" dataSha1="7878b288260d300b444fbe07edc5bba762ab9626">
 		<category>Games</category>
-		<description>microcos\microcosm (1993)(psygnosis)(pal)[t-113015-50 14]</description>
+		<description>Microcosm (Europe) [T-113015-50 14]</description>
+		<year>1993</year>
+		<manufacturer>nosis</manufacturer>
 		<rom name="microcosm (1993)(psygnosis)(pal)[t-113015-50 14] (Track 01).bin" size="238761984" crc="343c736f" md5="29bb6c0e9db046043b190c122a86a1c3" sha1="d7001dca44dd228ba484f36814726728e0fffe7a"/>
 		<rom name="microcosm (1993)(psygnosis)(pal)[t-113015-50 14] (Track 02).bin" size="20645856" crc="355eed36" md5="ae9365555440277bdb862f776a3a1acd" sha1="8964092e4e65edfd0541a096cd49963c638d8536"/>
 		<rom name="microcosm (1993)(psygnosis)(pal)[t-113015-50 14] (Track 03).bin" size="22748544" crc="574adfcc" md5="c0d48bcdb1634b532e1d3979a155a71d" sha1="8d6163eaaacb7249682f66b1de4ffb5df0d0a9fb"/>
@@ -1246,7 +1388,9 @@
 	</game>
 	<game name="microcos\microcosm (1993)(psygnosis)(pal)[t-113015-50 24]" type="cd" sha1="65f86b7e9638e6a02af9e6a7304121fc782dc395" size="294833155" crc="71a6a00b" fullsha1="ad5696a474618e88b5d14a6d819229045b6e63b2" dataSha1="11dfb7b498a053ab938978f456b8462bc07d48bb">
 		<category>Games</category>
-		<description>microcos\microcosm (1993)(psygnosis)(pal)[t-113015-50 24]</description>
+		<description>Microcosm (Europe) [T-113015-50 14]</description>
+		<year>1993</year>
+		<manufacturer>nosis</manufacturer>
 		<rom name="microcosm (1993)(psygnosis)(pal)[t-113015-50 24] (Track 01).bin" size="238761984" crc="343c736f" md5="29bb6c0e9db046043b190c122a86a1c3" sha1="d7001dca44dd228ba484f36814726728e0fffe7a"/>
 		<rom name="microcosm (1993)(psygnosis)(pal)[t-113015-50 24] (Track 02).bin" size="20645856" crc="e46907b0" md5="96125ba8ec1594fa8007efff1a595850" sha1="0ca8ccd25f1d54190a4310396a5001d89f54bd52"/>
 		<rom name="microcosm (1993)(psygnosis)(pal)[t-113015-50 24] (Track 03).bin" size="22750896" crc="ef8206c3" md5="bb0bac89b83b8a147d4f113f48604c5a" sha1="591862f200b2a64757ea0ffe9a3705516e65861f"/>
@@ -1259,13 +1403,17 @@
 	</game>
 	<game name="midnight\midnight raiders (1995)(sega)(pal)" type="cd" sha1="4f3a07038b2f89bec4b95e6bef7b3cf16fc6db3d" size="367436162" crc="91071294" fullsha1="b5fe134d86f21527c5d8a783685431fc0afecb57" dataSha1="ecb87de963aa687a5449c4c4b3280a6459ca3e15">
 		<category>Games</category>
-		<description>midnight\midnight raiders (1995)(sega)(pal)</description>
+		<description>Midnight Raiders (Europe)</description>
+		<year>1995</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="midnight raiders (1995)(sega)(pal) (Track 01).bin" size="434898944" crc="03ffdb7b" md5="1665d843a3a1a6b42f5507b96f8d6a70" sha1="6e3cba6f17bdfc4a37b48f5b7825db32ceccba42"/>
 		<rom name="midnight raiders (1995)(sega)(pal) (Track 02).bin" size="37074576" crc="c62730d4" md5="bf6ddeaaf149caf3842104b1297116b4" sha1="834eef6444ea14b974c14bec1e841aec9b43acb8"/>
 	</game>
 	<game name="mk\mortal kombat (europe)" type="cd" sha1="78a082f329d9f826bcd0d0600d4012421807ae2d" size="201767041" crc="02f4d939" fullsha1="660b69ce804b21de869ed10c4548d27d608320ae" dataSha1="7f492b5d4fb2ca4462c1ceefe00541a9ba0ae4db">
 		<category>Games</category>
-		<description>mk\mortal kombat (europe)</description>
+		<description>Mortal Kombat (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Arena</manufacturer>
 		<rom name="mortal kombat (europe) (Track 01).bin" size="37516752" crc="509c1303" md5="9727c3711393f0919208814332c3fc8a" sha1="ac8f5611db7d765102131e647896d46856ce7be0"/>
 		<rom name="mortal kombat (europe) (Track 02).bin" size="7561680" crc="d8aaadbc" md5="0ba73d588ecc7bc1d3b7d1b9a47a8b13" sha1="3e3cc8a2292351cb0b56478475c1349582590f13"/>
 		<rom name="mortal kombat (europe) (Track 03).bin" size="13688640" crc="1403eb1f" md5="6bef45ab5e21b5fad38138d5eb7ada9c" sha1="d45793dfadafd1a120b1dd53428590fe8e6841e2"/>
@@ -1290,7 +1438,9 @@
 	</game>
 	<game name="mmania\mickey mania (demo) (1994)(disney software - sony imagesoft)(pal)[megasega]" type="cd" sha1="e3423617604c0705baecc8b47d7212da83ca8f11" size="247423385" crc="a852f6b8" fullsha1="ca21fdb0598e4a1ae6b92f71422974cc6d51829d" dataSha1="db42becbcc1efc64f7492eadc365db1c2393db98">
 		<category>Games</category>
-		<description>mmania\mickey mania (demo) (1994)(disney software - sony imagesoft)(pal)[megasega]</description>
+		<description>Mickey Mania (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Sony Imagesoft</manufacturer>
 		<rom name="mickey mania (demo) (1994)(disney software - sony imagesoft)(pal)[megasega] (Track 01).bin" size="13649920" crc="ade733e7" md5="7800ff2bc48a7cfa45e2b07ec1c5bb5e" sha1="74fa03f5bce974aac6582c4195cba7e87f34824d"/>
 		<rom name="mickey mania (demo) (1994)(disney software - sony imagesoft)(pal)[megasega] (Track 02).bin" size="22242864" crc="fb665687" md5="be2801215b6ab0f3e28486929d6dca3a" sha1="38f7d7bd1e7b8bf3c7cba09a5fe0d2244df87137"/>
 		<rom name="mickey mania (demo) (1994)(disney software - sony imagesoft)(pal)[megasega] (Track 03).bin" size="22402800" crc="e7f3e9f0" md5="69ecbe7f0b46c029bba84a393464a93e" sha1="acf25b0ad721e74e117444c270100c0528eaebbe"/>
@@ -1322,7 +1472,9 @@
 	</game>
 	<game name="mmania\mickey mania (demo) (1994)(pal)[mega power - issue 17, sega pro cd - issue 40]" type="cd" sha1="e7729b90fbd067d1d07c14e2f0ce6dfa97b69989" size="247441802" crc="c70343aa" fullsha1="9e21426cad6bea563a20a45630c62e3ab06fa96d" dataSha1="7634351231b329933cb3427344a8e67c24b400f0">
 		<category>Games</category>
-		<description>mmania\mickey mania (demo) (1994)(pal)[mega power - issue 17, sega pro cd - issue 40]</description>
+		<description>Mickey Mania (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Sony Imagesoft</manufacturer>
 		<rom name="mickey mania (demo) (1994)(pal)[mega power - issue 17, sega pro cd - issue 40] (Track 01).bin" size="13649920" crc="ade733e7" md5="7800ff2bc48a7cfa45e2b07ec1c5bb5e" sha1="74fa03f5bce974aac6582c4195cba7e87f34824d"/>
 		<rom name="mickey mania (demo) (1994)(pal)[mega power - issue 17, sega pro cd - issue 40] (Track 02).bin" size="22595664" crc="adc4db21" md5="21c33b635f337f7a9d5b40518b073e2e" sha1="f5f2bf0e43c6a5ac5bea5cb34a6dce851aa90400"/>
 		<rom name="mickey mania (demo) (1994)(pal)[mega power - issue 17, sega pro cd - issue 40] (Track 03).bin" size="22402800" crc="ce21111d" md5="b56116286e15a15ff9ce28e779c7b76e" sha1="03a91421fe1c65d41af2952ca5aa8dbaf6d8c347"/>
@@ -1354,7 +1506,9 @@
 	</game>
 	<game name="mmania\mickey mania (europe)" type="cd" sha1="5e6a6e5441051bbf2b355ae7cc75ff837cd24dc9" size="246117447" crc="ded58f4c" fullsha1="b8e4297e3db97c76faa2e2daa6bd08c0cd789804" dataSha1="e93278e84d972ee09bfa9d334ba8070011dfa8a7">
 		<category>Games</category>
-		<description>mmania\mickey mania (europe)</description>
+		<description>Mickey Mania (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Sony Imagesoft</manufacturer>
 		<rom name="mickey mania (europe) (Track 01).bin" size="15676080" crc="024d38a9" md5="60d7c286360420498de4d4fc7fccdfe2" sha1="116015aec553967475538c71b4425feef9636983"/>
 		<rom name="mickey mania (europe) (Track 02).bin" size="22595664" crc="551213d7" md5="af8ca7603a9a70c2d9e431ff8fff5059" sha1="e710e38a1efc8f6e2a02688166e9723e0121de8f"/>
 		<rom name="mickey mania (europe) (Track 03).bin" size="22405152" crc="358954a4" md5="a9c801d5848e8fca86d57e31fdcd05a8" sha1="8b3720cfca16e906e552e8abbc2b93ff7a5fc9ef"/>
@@ -1386,19 +1540,25 @@
 	</game>
 	<game name="mmpr\mighty morphin power rangers (1994)(sega)(pal)" type="cd" sha1="4e77349ef0f2cfd50cd515c32ede27af1db9ecf4" size="314357997" crc="9029a0f1" fullsha1="fbb18863c9c6cf2864ac051241a7c9d8b79389eb" dataSha1="28294f9b566b1780de93f46b634d611030beba1a">
 		<category>Games</category>
-		<description>mmpr\mighty morphin power rangers (1994)(sega)(pal)</description>
+		<description>Mighty Morphin Power Rangers (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="mighty morphin power rangers (1994)(sega)(pal) (Track 01).bin" size="405338112" crc="d2724dd9" md5="cb60b986cb2b822029ee3792ba2cf71d" sha1="b7b9be5e9bd4fedd4a5d0d241a4392107b870305"/>
 		<rom name="mighty morphin power rangers (1994)(sega)(pal) (Track 02).bin" size="7596960" crc="82422d27" md5="39dbc73082b1a689542f21981de71fdf" sha1="9a1594b719c0b9b6df24c7cae4dd6713af3abc92"/>
 	</game>
 	<game name="mystmans\yumemi mystery mansion (1994)(sega)(pal)" type="cd" sha1="125f75b6ccce2ec0297e8536f17fa221611a4c7a" size="203027210" crc="7b14ae3e" fullsha1="7fb5adab6e986aa975c0657647df8d9e967e1a71" dataSha1="d8e580be1190808db27927bb8569d9a785c3ee2c">
 		<category>Games</category>
-		<description>mystmans\yumemi mystery mansion (1994)(sega)(pal)</description>
+		<description>Yumemi Mystery Mansion (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="yumemi mystery mansion (1994)(sega)(pal) (Track 01).bin" size="526925824" crc="e41c36b2" md5="f99b054ee393b64fccc7a8787b82896f" sha1="ca5f613510549086df3c03041e0ad790a3646d83"/>
 		<rom name="yumemi mystery mansion (1994)(sega)(pal) (Track 02).bin" size="6837264" crc="c2321a4c" md5="6690cd7480786c2e2568b2b984c69caf" sha1="a22b0f38ec4c42ecec6329f3336bf35b74896c52"/>
 	</game>
 	<game name="nbajam\nba jam (europe)" type="cd" sha1="310eff8ad548f1829c82192427782041bae92c4b" size="236066204" crc="bb57ef69" fullsha1="00a9baa61c188712c2c370a4cc4df84bc29718ac" dataSha1="58ae880355012f1f172cdffc8fb9853dee43a39e">
 		<category>Games</category>
-		<description>nbajam\nba jam (europe)</description>
+		<description>NBA Jam (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Acclaim Entertainment</manufacturer>
 		<rom name="nba jam (europe) (Track 01).bin" size="51240672" crc="8478b943" md5="62eb3a443e984d2e571d9ad2803ba42a" sha1="bf489eee89b56e42ff732ffe87475fc30b671981"/>
 		<rom name="nba jam (europe) (Track 02).bin" size="52350816" crc="cef08a42" md5="2730d74d8be28492fe66e952094b5c51" sha1="6a2bf1a5da936166617b640004bcc11f9c2a0faa"/>
 		<rom name="nba jam (europe) (Track 03).bin" size="47197584" crc="a13beb45" md5="38600f517691961331d61d472f91a104" sha1="67f9412f81ae70989f4a369fc8308c65be873d02"/>
@@ -1411,7 +1571,9 @@
 	</game>
 	<game name="nhl94\nhl hockey '94 (1994)(ea sports)(pal)" type="cd" sha1="601ac109c5edc1d94f150458f5ab3dcfdd7e6a9f" size="226667480" crc="6d2b6008" fullsha1="c1ebc98d7febb35ddb85a9bb0b669286248009cb" dataSha1="cbd46522339b56d1b687f460bb8167ec909d2a82">
 		<category>Games</category>
-		<description>nhl94\nhl hockey '94 (1994)(ea sports)(pal)</description>
+		<description>94 (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Electronic Arts</manufacturer>
 		<rom name="nhl hockey '94 (1994)(ea sports)(pal) (Track 01).bin" size="182302720" crc="6b7b00f7" md5="98cf0204a4e4f11badfb6af4f300f63b" sha1="c5fef4929b54bff2d508f6a387a76ff0342ea8db"/>
 		<rom name="nhl hockey '94 (1994)(ea sports)(pal) (Track 02).bin" size="18096288" crc="2b485f9a" md5="ca56a0dca0b57e5f6b959afb632a90c5" sha1="8241bb3553ba244fa6647bf7f62bc78aeebed272"/>
 		<rom name="nhl hockey '94 (1994)(ea sports)(pal) (Track 03).bin" size="15633744" crc="e278d811" md5="3d594f1c2a85031ce6d36beb6f31ec08" sha1="426c6d4c0845392edeadfabf65b388d2cedf555e"/>
@@ -1494,54 +1656,72 @@
 	</game>
 	<game name="novastm\novastorm (1994)(psygnosis - sony electronic publishing)(pal)" type="cd" sha1="ffaff256596224925207a0741fd4a887a403c550" size="270660912" crc="acc837ed" fullsha1="74270c4d7077baa367d848871c251cc0a52675f2" dataSha1="80c0717bd0c46af0caf1ed2308aee09a636e6b16">
 		<category>Games</category>
-		<description>novastm\novastorm (1994)(psygnosis - sony electronic publishing)(pal)</description>
+		<description>Novastorm (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Psygnosis ~ Sony Electronic Publishing</manufacturer>
 		<rom name="novastorm (1994)(psygnosis - sony electronic publishing)(pal) (Track 01).bin" size="364460032" crc="62270769" md5="fbff1814bffa69c328462931cad84109" sha1="9a6ceae86ff77ee7576e9bee0ff371bc0a9fc342"/>
 		<rom name="novastorm (1994)(psygnosis - sony electronic publishing)(pal) (Track 02).bin" size="32462304" crc="54409964" md5="a09cd102f475556212831dbe397d9197" sha1="157aa6e4707b14db73476b55d76a5f6f8d0bef9e"/>
 	</game>
 	<game name="novastm\novastorm (demo) (1994)(psygnosis - sony electronic publishing)(pal)[sega pro cd - issue 02]" type="cd" sha1="bb0174e3e2714138a3e902141674e6383b58b4bf" size="254613257" crc="86101506" fullsha1="34ab87584bf8fea3b166a27d2e2e70c4e2b6b85e" dataSha1="08ea6eb2d9217a4f22396049224860815111feb1">
 		<category>Games</category>
-		<description>novastm\novastorm (demo) (1994)(psygnosis - sony electronic publishing)(pal)[sega pro cd - issue 02]</description>
+		<description>Novastorm (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Psygnosis ~ Sony Electronic Publishing</manufacturer>
 		<rom name="novastorm (demo) (1994)(psygnosis - sony electronic publishing)(pal)[sega pro cd - issue 02] (Track 01).bin" size="369602560" crc="8711f408" md5="dac84037043f7226475a452b58b98a6b" sha1="eb9c9e54be2efb5773679a058c05e07dae760a14"/>
 	</game>
 	<game name="ntrap\night trap (1993)(sega)(pal)(fr)(disc 1 of 2)" type="cd" sha1="80c84db3f62a5ccdc77652320130ed545b9a6455" size="274391983" crc="4647573c" fullsha1="43186b9056272470319f1d987bca9ef78a1e562a" dataSha1="588a4fe719978c383ee32b2ed0969d24519a82c0">
 		<category>Games</category>
-		<description>ntrap\night trap (1993)(sega)(pal)(fr)(disc 1 of 2)</description>
+		<description>Night Trap (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="night trap (1993)(sega)(pal)(fr)(disc 1 of 2) (Track 01).bin" size="536166400" crc="8e4d62aa" md5="b8cea88f5a8c4c24a93722f5d15da471" sha1="61e9601e7e0c4f28f1def369f794d23aab3ce643"/>
 		<rom name="night trap (1993)(sega)(pal)(fr)(disc 1 of 2) (Track 02).bin" size="2201472" crc="b233ccbf" md5="5b3d674a84a32cea544b4962f2e38544" sha1="2763b7c0f698364e170726586818ff776c49bc80"/>
 	</game>
 	<game name="ntrap\night trap (1993)(sega)(pal)(fr)(disc 2 of 2)" type="cd" sha1="1cd0f4bead31321b94a0c9a1b4836aafd079e24f" size="230392986" crc="367429c4" fullsha1="5af671c6ce608aa2316323771966b010a0a38ac4" dataSha1="b4b6f8f0c67f16515b3668f3dc97ae29ac1afd1f">
 		<category>Games</category>
-		<description>ntrap\night trap (1993)(sega)(pal)(fr)(disc 2 of 2)</description>
+		<description>Night Trap (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="night trap (1993)(sega)(pal)(fr)(disc 2 of 2) (Track 01).bin" size="447969280" crc="287db5f0" md5="ea5e36cb14ce7df97446c61bcde8dc12" sha1="46aab041472e4981ab6981e4dd53429bddf5d324"/>
 		<rom name="night trap (1993)(sega)(pal)(fr)(disc 2 of 2) (Track 02).bin" size="2201472" crc="f1282f81" md5="0bd084a67e82f1e605c37551950f0dc2" sha1="db13867ed1159c748c68cac405beac77128a876d"/>
 	</game>
 	<game name="ntrap\night trap (1995)(digital pictures)(pal)(disc 1 of 2)[32x]" type="cd" sha1="e189dea33540aa8a46b9c38d6934096284695e49" size="416355953" crc="0a4c607d" fullsha1="f8a3914ac1a48ef99374303c18fc0443d2bcdfcd" dataSha1="f661a2b27a001bd5909f4df9043e6ae9e8ea49ed">
 		<category>Games</category>
-		<description>ntrap\night trap (1995)(digital pictures)(pal)(disc 1 of 2)[32x]</description>
+		<description>Night Trap (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="night trap (1995)(digital pictures)(pal)(disc 1 of 2)[32x] (Track 01).bin" size="537303040" crc="12027282" md5="df9f52da1ca4dba936fe9d54f40472c3" sha1="726dd1e5b985d8a3a3c0d13b7bd1dae321b2991a"/>
 		<rom name="night trap (1995)(digital pictures)(pal)(disc 1 of 2)[32x] (Track 02).bin" size="2201472" crc="0e170cbc" md5="5962eb3324b5cefd97f2528aaca8e7ba" sha1="9334f7aef7a5aa18f99f41453b4964568af83185"/>
 	</game>
 	<game name="ntrap\night trap (1995)(digital pictures)(pal)(disc 2 of 2)[32x]" type="cd" sha1="5216b0728edb73bede73b69d34f22eba9f39d1ea" size="346241613" crc="3272f345" fullsha1="9028bce3208a5a33b4a2ab712376c66364479eab" dataSha1="5de4c75b0c0068f018d92675467c3c712afc3ac0">
 		<category>Games</category>
-		<description>ntrap\night trap (1995)(digital pictures)(pal)(disc 2 of 2)[32x]</description>
+		<description>Night Trap (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="night trap (1995)(digital pictures)(pal)(disc 2 of 2)[32x] (Track 01).bin" size="448675840" crc="3b1ec3c9" md5="441a2c8fe6cebfbcab522bc91991d031" sha1="f13909f4130ed2c5244cf282e286e83c49077bd5"/>
 		<rom name="night trap (1995)(digital pictures)(pal)(disc 2 of 2)[32x] (Track 02).bin" size="2201472" crc="f035e83e" md5="d7cd2a3bb052b5229d32e0faef0ad0f6" sha1="08cd4bdcf356e0b7aa813f34f344ea76350af6ca"/>
 	</game>
 	<game name="ntrap\night trap (europe) (disc 1)" type="cd" sha1="5685c4ff9919324d43807fcd8094cf3bc1f447bf" size="278310780" crc="0b5761bb" fullsha1="c668398e0f1961a41e577887091ae2e2f7482dcb" dataSha1="54437eb2f65cd542f0f230f1645a6dfc54919557">
 		<category>Games</category>
-		<description>ntrap\night trap (europe) (disc 1)</description>
+		<description>Night Trap (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="night trap (europe) (disc 1) (Track 01).bin" size="615939408" crc="793bdf64" md5="01891fef00cf0cb98eeaa4d799f0141f" sha1="357c3d4c29fd60220b6a33bc437485ca08a9d98a"/>
 		<rom name="night trap (europe) (disc 1) (Track 02).bin" size="2587200" crc="1cc25944" md5="d47840b34e5286b8c5ecb3514489ee2a" sha1="18fc15b4003126b9874c1c67d2034c8f33a6fa63"/>
 	</game>
 	<game name="ntrap\night trap (europe) (disc 2)" type="cd" sha1="55a26744a3a3e34852536aac0a2f6787a5c9d988" size="233986044" crc="e988322a" fullsha1="6668be31be1304d6b5d3ab5630ec34f652d329a5" dataSha1="037f57ec5fb17e7b6176efff167d2734ce4988f9">
 		<category>Games</category>
-		<description>ntrap\night trap (europe) (disc 2)</description>
+		<description>Night Trap (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="night trap (europe) (disc 2) (Track 01).bin" size="514650528" crc="f332c2a0" md5="2f56ab8644e9020d3040d495ac738b01" sha1="30bd4254ea04b4b8f2b9efefeef9e8c1e998265e"/>
 		<rom name="night trap (europe) (disc 2) (Track 02).bin" size="2587200" crc="1cc25944" md5="d47840b34e5286b8c5ecb3514489ee2a" sha1="18fc15b4003126b9874c1c67d2034c8f33a6fa63"/>
 	</game>
 	<game name="pitfall\pitfall - the mayan adventure (1994)(activision)(pal)" type="cd" sha1="7f714e60e300a47a6e000cc9377f6632137c6e4b" size="259021198" crc="2b710c22" fullsha1="5afeae469577fe96205ac6dae6d407270e07dd8b" dataSha1="30d9857f07191b6a3b75c2bd9b13f91b60739ed9">
 		<category>Games</category>
-		<description>pitfall\pitfall - the mayan adventure (1994)(activision)(pal)</description>
+		<description>Pitfall - The Mayan Adventure (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Activision</manufacturer>
 		<rom name="pitfall - the mayan adventure (1994)(activision)(pal) (Track 01).bin" size="22730752" crc="7409dd7a" md5="0777eb4d151b04cf3f0b42271807b007" sha1="8e04b7c8099fb47c4b3d90a59bda8d5012d74b8c"/>
 		<rom name="pitfall - the mayan adventure (1994)(activision)(pal) (Track 02).bin" size="4092480" crc="b535e15f" md5="0cfc90d9a45eecadceda58b8b5e9ff00" sha1="211ef985e9f701a9d9dc5e25fe9c6492e08c7860"/>
 		<rom name="pitfall - the mayan adventure (1994)(activision)(pal) (Track 03).bin" size="7556976" crc="8432cba3" md5="169e9a8d14aa4373335515d30558e15c" sha1="3e3764054c25775d347d7c1c83784ad97547c9c6"/>
@@ -1568,7 +1748,9 @@
 	</game>
 	<game name="pitfall\pitfall - the mayan adventure (demo) (1994)(activision)(pal)[sega pro cd - issue 41]" type="cd" sha1="d6989509bf917e3c257c3b2d56a8d1e5e6b72dbe" size="74521138" crc="8db5e9ab" fullsha1="fa4253f7cd47d453e6e315db1dd87b4b92ced5ff" dataSha1="06cd52e8c05bb201bc10facacf385c5789bd7a19">
 		<category>Games</category>
-		<description>pitfall\pitfall - the mayan adventure (demo) (1994)(activision)(pal)[sega pro cd - issue 41]</description>
+		<description>Pitfall - The Mayan Adventure (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Activision</manufacturer>
 		<rom name="pitfall - the mayan adventure (demo) (1994)(activision)(pal)[sega pro cd - issue 41] (Track 01).bin" size="22730752" crc="bd7c8c4d" md5="33e3eadb4a6fff94d13deb254e98d026" sha1="59a2f73f19bd360783177e0c2438ea5066cc453e"/>
 		<rom name="pitfall - the mayan adventure (demo) (1994)(activision)(pal)[sega pro cd - issue 41] (Track 02).bin" size="4445280" crc="dcf02507" md5="66c15384d22b4ce025feb27759a44ab5" sha1="7953572754eb4137e75665e2d1d3877901666b72"/>
 		<rom name="pitfall - the mayan adventure (demo) (1994)(activision)(pal)[sega pro cd - issue 41] (Track 03).bin" size="7556976" crc="2e1edb83" md5="92a46fa47e7c4eb96a5d3bd345e83a93" sha1="3c1d894218934201839b2976a9ac36c0f38e8876"/>
@@ -1582,7 +1764,9 @@
 	</game>
 	<game name="pmonger\powermonger (1994)(bullfrog - electronic arts)(pal)" type="cd" sha1="c4ad90f99918dece022407efb1e196714147697f" size="151353447" crc="c8f14acf" fullsha1="13f8a7c36715a95e54d90673f578e1d09aa1c664" dataSha1="0f576e53e2a41b89ffc5f850950525d007e7b9d1">
 		<category>Games</category>
-		<description>pmonger\powermonger (1994)(bullfrog - electronic arts)(pal)</description>
+		<description>Power Monger (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Electronic Arts</manufacturer>
 		<rom name="powermonger (1994)(bullfrog - electronic arts)(pal) (Track 01).bin" size="337805312" crc="28ae0051" md5="159cf4fa75770c5b3b11b16687d8a4a1" sha1="45d3c370b47358b44c28931dffc7b46b58203cd8"/>
 		<rom name="powermonger (1994)(bullfrog - electronic arts)(pal) (Track 02).bin" size="4741632" crc="848e5a29" md5="6e2aa1ceb072348115c072c119513140" sha1="871e464f88c3125835140219fa473d74598c717a"/>
 		<rom name="powermonger (1994)(bullfrog - electronic arts)(pal) (Track 03).bin" size="53536224" crc="d69e4055" md5="ea75bac8d8b6e56815d41cb40bdc337a" sha1="d363e2037c22b2d67781874070c638e5b3fdfd68"/>
@@ -1596,7 +1780,9 @@
 	</game>
 	<game name="ppersia\prince of persia (europe)" type="cd" sha1="8173f91d0cca8db5c889fab4620a36759393ad25" size="165003303" crc="7999aa27" fullsha1="9c6a72086c12affa8a7cad9b18c09efea9207143" dataSha1="8ecc36dadb046f99e611e0d9af260afa4df007af">
 		<category>Games</category>
-		<description>ppersia\prince of persia (europe)</description>
+		<description>Prince of Persia (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="prince of persia (europe) (Track 01).bin" size="2641296" crc="ad500b93" md5="0e933e9cb40bb5ba5a3b08862f25c452" sha1="59af7d2fd1c3b219c7c539064c29058715086c58"/>
 		<rom name="prince of persia (europe) (Track 02).bin" size="33708864" crc="49811689" md5="fab949b02b32083a0634631f7386229c" sha1="af3f22f7fc73a81edac2786a51b1fc5ae022b89a"/>
 		<rom name="prince of persia (europe) (Track 03).bin" size="33765312" crc="4b5b8516" md5="52d00771d32717ab7100e12954a2ba85" sha1="822f5bd42df88a4b660e4f5c077403d3aa1f3935"/>
@@ -1625,19 +1811,25 @@
 	</game>
 	<game name="prizefig\prize fighter (1993)(sega)(pal)(disc 1 of 2)" type="cd" sha1="c7c6c0179fe5705ff176a0d5a97a83370781021b" size="270982713" crc="d8a1cf55" fullsha1="09439dd5dd945e5e4d695076e060bdc09f16b8b8" dataSha1="9f78b44ece71ced6b1f06cfd3e44e422bf3fe715">
 		<category>Games</category>
-		<description>prizefig\prize fighter (1993)(sega)(pal)(disc 1 of 2)</description>
+		<description>Prize Fighter (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="prize fighter (1993)(sega)(pal)(disc 1 of 2) (Track 01).bin" size="357476352" crc="c0a355cd" md5="466ba4e639989a2ab5ef571c2eb8a1a9" sha1="56d273fd7ad0a65b7a1292de30b96cb835c84a1d"/>
 		<rom name="prize fighter (1993)(sega)(pal)(disc 1 of 2) (Track 02).bin" size="1528800" crc="299a1fb1" md5="f94fa25668d3d859802a34718a140d84" sha1="e6a111d5d99267bbf31fc86ff0bb6e0c26f624fb"/>
 	</game>
 	<game name="prizefig\prize fighter (1993)(sega)(pal)(disc 2 of 2)" type="cd" sha1="8bbd95823ba24adbea2b84f9f61343b543198127" size="314656689" crc="8eefb38c" fullsha1="b211868bdf527ba22ff86b2b6d938f02cc7870dd" dataSha1="a0fdf8e2b1eecca464c66605936e70b2aebc08d8">
 		<category>Games</category>
-		<description>prizefig\prize fighter (1993)(sega)(pal)(disc 2 of 2)</description>
+		<description>Prize Fighter (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="prize fighter (1993)(sega)(pal)(disc 2 of 2) (Track 01).bin" size="419006464" crc="5f667957" md5="4a447c7ce21616503dbf45876b5012bd" sha1="fd5335ea5184ea76f5bddcdd9b9247760f9d6c14"/>
 		<rom name="prize fighter (1993)(sega)(pal)(disc 2 of 2) (Track 02).bin" size="1528800" crc="f99a4bd9" md5="fee90a435e22eb87ac85912733816a08" sha1="3ca10a77a9fc0df1dbf77b0774d3ecb17906ac16"/>
 	</game>
 	<game name="psygnosd\microcosm, puggsy and wiz 'n' liz (demo) (1994)(psygnosis)(pal)[mega power - issue 06]" type="cd" sha1="0a57ed22f82eb85f7d7ad7bcd1f4dc7e479534f3" size="195680441" crc="a8e93c25" fullsha1="47c51ff5fe7978c30c6ef740365bdd1d9609f995" dataSha1="7b042432ebdaaddc511612b46959ae67194a56bf">
 		<category>Games</category>
-		<description>psygnosd\microcosm, puggsy and wiz 'n' liz (demo) (1994)(psygnosis)(pal)[mega power - issue 06]</description>
+		<description> Liz (Europe, demo) [Mega Power - issue 06]</description>
+		<year>1994</year>
+		<manufacturer>Psygnosis</manufacturer>
 		<rom name="microcosm, puggsy and wiz 'n' liz (demo) (1994)(psygnosis)(pal)[mega power - issue 06] (Track 01).bin" size="82132992" crc="bb65d138" md5="007210d3bdf8bf94746bb21488aee033" sha1="260556ff28e01d27e6eb3e9282d6f0a11ca49ea7"/>
 		<rom name="microcosm, puggsy and wiz 'n' liz (demo) (1994)(psygnosis)(pal)[mega power - issue 06] (Track 02).bin" size="35632800" crc="1243feb3" md5="9e2e617f14e5895c5dca6ae3d71bb3a1" sha1="8cf7a806653483c908c9df67b683805c453facba"/>
 		<rom name="microcosm, puggsy and wiz 'n' liz (demo) (1994)(psygnosis)(pal)[mega power - issue 06] (Track 03).bin" size="23505888" crc="daab5c28" md5="f94e350915ed8d26e10941dcb47d93fb" sha1="468a2b72d1f74a7dd2a5a92fc268239a75518e04"/>
@@ -1656,7 +1848,9 @@
 	</game>
 	<game name="puggsy\puggsy (1993)(psygnosis)(pal)" type="cd" sha1="0df0e38b5803ff13545506cbca07d53b8590641a" size="281865731" crc="783bb26e" fullsha1="c4879219ef68449a4ec1d99f2d212b61e7df3039" dataSha1="9ee254ad17fdb502638f6da3f750905a7027201f">
 		<category>Games</category>
-		<description>puggsy\puggsy (1993)(psygnosis)(pal)</description>
+		<description>Puggsy (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Psygnosis</manufacturer>
 		<rom name="puggsy (1993)(psygnosis)(pal) (Track 01).bin" size="91049984" crc="bea38697" md5="93287792caf9d61eeb4aa77105c2696d" sha1="22c0c95ee40a372f9792f52f2c117f233799cb80"/>
 		<rom name="puggsy (1993)(psygnosis)(pal) (Track 02).bin" size="32833920" crc="8600dd20" md5="92035b1246077d4d12b1ffa6b06ab3ba" sha1="ebcf18c261dbf058fea623f29ed1dcccccbfb89f"/>
 		<rom name="puggsy (1993)(psygnosis)(pal) (Track 03).bin" size="33365472" crc="1553f57a" md5="8a00c3b005ab608b671bf955bb87323d" sha1="086f0833113c08d095294794db1c1072bd10c02d"/>
@@ -1682,13 +1876,17 @@
 	</game>
 	<game name="ragecage\wwf rage in the cage (1993)(arena)(pal)" type="cd" sha1="ace366d445e8946e5c177ac89d93798c64e686ef" size="67442622" crc="ee81dee5" fullsha1="726f3733465fc05bc726bd2332afbbe8b8c501fb" dataSha1="3f420e20cacca6e2cd25607f7bb45400349ed8f9">
 		<category>Games</category>
-		<description>ragecage\wwf rage in the cage (1993)(arena)(pal)</description>
+		<description>WWF Rage in the Cage (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Arena</manufacturer>
 		<rom name="wwf rage in the cage (1993)(arena)(pal) (Track 01).bin" size="212832256" crc="fb49c44c" md5="290dcd17d65437c176d2b6498b41d3d6" sha1="21b346a14ef859f67a5ea358a0f2a4097338d169"/>
 		<rom name="wwf rage in the cage (1993)(arena)(pal) (Track 02).bin" size="3883152" crc="4635f8b7" md5="9da512090f1ead3bc3f7aa8b33c910a6" sha1="763cf92ceb5b66e74ed6bb557efbd8a954c98148"/>
 	</game>
 	<game name="roadaven\road avenger (europe)" type="cd" sha1="b4c6bc19a29a459d4efe3cf6aabc4ca910f08b36" size="144098078" crc="15daa29f" fullsha1="4dae92c94cd13e241e9510dd9e58f1ef06cf9793" dataSha1="99d3070cb11f0f303aed2e3458e698e318d0b96d">
 		<category>Games</category>
-		<description>roadaven\road avenger (europe)</description>
+		<description>Road Avenger (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="road avenger (europe) (Track 01).bin" size="317816352" crc="c15fde6f" md5="def62f1421d66233572585339a56d2f1" sha1="7346e7f482f45c28a29bc6bba82ccff2171f8cd5"/>
 		<rom name="road avenger (europe) (Track 02).bin" size="2667168" crc="f523ac94" md5="030aa34b1fd45935521360079b7fb115" sha1="1c0f27314cde19e6f4e7e374ead6e675268cb6a0"/>
 		<rom name="road avenger (europe) (Track 03).bin" size="2065056" crc="ad0d0969" md5="3d2ecb890a75fe50f31e0adaef2fbf9a" sha1="a127737caa4c6e814dac35ac1a3386d9c227bf8c"/>
@@ -1696,7 +1894,9 @@
 	</game>
 	<game name="roboales\robo aleste (1993)(sega)(pal)" type="cd" sha1="52d392736286d9ce45eae38695d48689b6eb0326" size="334294998" crc="868b29f1" fullsha1="2740c582e3b558d54ff9f82e9553c54621780c77" dataSha1="af4c3146602ec8920458e47ca6525a0b9c5a84d1">
 		<category>Games</category>
-		<description>roboales\robo aleste (1993)(sega)(pal)</description>
+		<description>Robo Aleste (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="robo aleste (1993)(sega)(pal) (Track 01).bin" size="13000704" crc="9bdb711c" md5="3afc1f7f545b6dc4af3743581712f660" sha1="f9a989b06be57a443d0a346ff4ab68972209dc6f"/>
 		<rom name="robo aleste (1993)(sega)(pal) (Track 02).bin" size="54366480" crc="54a36209" md5="1bebcc825424c16546ea00ee8a482e58" sha1="34c30d05286b07a498f1cc2c099d6687dfb8ed07"/>
 		<rom name="robo aleste (1993)(sega)(pal) (Track 03).bin" size="38069472" crc="4eed36c8" md5="2ee0779cc4dc1923df7cc355882b75c3" sha1="6408aa87de6430785e29ca91d59eb307e828fc69"/>
@@ -1717,7 +1917,9 @@
 	</game>
 	<game name="samsho\samurai shodown (1995)(jvc)(pal)" type="cd" sha1="ee4a75b591fef8ed00df7ff2df1d7887e7ef3c1f" size="255134832" crc="3dee0b29" fullsha1="e66d92609766bb9df1578a3a02ae42d0cbc0a127" dataSha1="5bbc6603211a2627a99cfc80f40c342f824d8694">
 		<category>Games</category>
-		<description>samsho\samurai shodown (1995)(jvc)(pal)</description>
+		<description>Samurai Shodown (Europe)</description>
+		<year>95</year>
+		<manufacturer>JVC</manufacturer>
 		<rom name="samurai shodown (1995)(jvc)(pal) (Track 01).bin" size="13522944" crc="ef2bb859" md5="feaa65dacd6a9b9d7de8419ced20c63f" sha1="2c7ab3d252965c50cb185c313feb3c0d0a735892"/>
 		<rom name="samurai shodown (1995)(jvc)(pal) (Track 02).bin" size="7065408" crc="e49245da" md5="5daa8b56a193f90f9d2028ad4caad6c0" sha1="ead3ea69178242900cc233c4999c61fb4dd42087"/>
 		<rom name="samurai shodown (1995)(jvc)(pal) (Track 03).bin" size="5910576" crc="e9c60cbb" md5="a49abb64accfec47961f6cc95d46cd62" sha1="fe90e1993f5004b35a72fa6fa0a8991dfc42cd25"/>
@@ -1751,7 +1953,9 @@
 	</game>
 	<game name="samsho\samurai shodown (demo) (1995)(jvc)(pal)[sega pro cd - issue 47]" type="cd" sha1="965765832558844c6dea81ae144f9921443aa154" size="376470654" crc="46234e68" fullsha1="2362cf3d2bce11b7a831be14c50ed35ecc3eef31" dataSha1="408d0ee9b6f63a03fbda6b49472731af4eccbf34">
 		<category>Games</category>
-		<description>samsho\samurai shodown (demo) (1995)(jvc)(pal)[sega pro cd - issue 47]</description>
+		<description>Samurai Shodown (Europe)</description>
+		<year>1995</year>
+		<manufacturer>JVC</manufacturer>
 		<rom name="samurai shodown (demo) (1995)(jvc)(pal)[sega pro cd - issue 47] (Track 01).bin" size="11993088" crc="fc37d9ac" md5="c950c25a0f62ae4f2297bf13a154f687" sha1="24af741567315e00bc9d5bcd43f7b03714482390"/>
 		<rom name="samurai shodown (demo) (1995)(jvc)(pal)[sega pro cd - issue 47] (Track 02).bin" size="7065408" crc="1eaea223" md5="9818a91b0f08dc81336b609b60deb393" sha1="8861048abcfa651fa0cfa7c3465ccf4905ff53f5"/>
 		<rom name="samurai shodown (demo) (1995)(jvc)(pal)[sega pro cd - issue 47] (Track 03).bin" size="5910576" crc="3ff7cd60" md5="507bf97ef0fac399021bf092b6949138" sha1="34af4d39b6d7799a3aeb4c128cb1ec95919f692b"/>
@@ -1785,7 +1989,9 @@
 	</game>
 	<game name="segaac\sega classics arcade collection (europe)" type="cd" sha1="4737906a6b0ea031702b4839ff9a195f4ee80564" size="78846069" crc="8a5dab64" fullsha1="9e6f1775ddf37db5307cf74ffbfed4da931eca9b" dataSha1="73f0d88d1ceff13feeac819a87300a44fe959b04">
 		<category>Games</category>
-		<description>segaac\sega classics arcade collection (europe)</description>
+		<description>Sega Classics Arcade Collection - Limited Edition (Europe) [6105411P-00036A-R1M]</description>
+		<year>1992</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="sega classics arcade collection (europe) (Track 01).bin" size="25893168" crc="7d8ab493" md5="e7df8f4098c13d4ccfaefff8674097b6" sha1="48466be6fa9f6bb1befcada1735e50e15450a675"/>
 		<rom name="sega classics arcade collection (europe) (Track 02).bin" size="16315824" crc="824dfd97" md5="cc6b87c6f58415cb1bf564c93a15c711" sha1="55681637d7e139f9ee4b2bb6a63adbc383bf9db0"/>
 		<rom name="sega classics arcade collection (europe) (Track 03).bin" size="3826704" crc="5b7045e4" md5="5cb3100c1dfb1935eb44844b79bd43d0" sha1="5eac69150fb4e6bb7232da7c37bce58c846ca24a"/>
@@ -1801,7 +2007,9 @@
 	</game>
 	<game name="segaac\sega classics arcade collection - limited edition (1993)(sega)(pal)[compilation][610-5411p-00036a 2]" type="cd" sha1="6fed943e284afb6022a5e833d93adf804504399e" size="79640202" crc="f03b9c5f" fullsha1="cc648deb3729b2b39f1420353e4f26a5bd3af48f" dataSha1="0269ea34d3384d289add69bd9a19b3de2e8ad563">
 		<category>Games</category>
-		<description>segaac\sega classics arcade collection - limited edition (1993)(sega)(pal)[compilation][610-5411p-00036a 2]</description>
+		<description>Sega Classics Arcade Collection - Limited Edition (Europe) [6105411P-00036A-R1M]</description>
+		<year>1992</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="sega classics arcade collection - limited edition (1993)(sega)(pal)[compilation][610-5411p-00036a 2] (Track 01).bin" size="22546432" crc="5e667198" md5="284584e862ce8b32f76d063e71991beb" sha1="d6517720786df1953723e5d9498cc575fef6ce7f"/>
 		<rom name="sega classics arcade collection - limited edition (1993)(sega)(pal)[compilation][610-5411p-00036a 2] (Track 02).bin" size="15960672" crc="7aaf2d15" md5="761d417e20491190d77b03e70c2c83ef" sha1="6f43adce9e491a0edccde3588743426b6e896cdb"/>
 		<rom name="sega classics arcade collection - limited edition (1993)(sega)(pal)[compilation][610-5411p-00036a 2] (Track 03).bin" size="3826704" crc="b912ec6e" md5="a55dfaf0f055f95187cfcee8bbf76ced" sha1="b757a5c5b9b1f67567bbfaff4a43ee4e9ce7c880"/>
@@ -1817,7 +2025,9 @@
 	</game>
 	<game name="sensible\sensible soccer (1993)(sony imagesoft)(pal)(m4)" type="cd" sha1="a0766516c18bddb8fba7af931ea3fd5285ae3a5c" size="115595164" crc="c5255528" fullsha1="f166c35bb235cae9bbe2e19e699d1d32644562b4" dataSha1="0cee6a483057d9d5c8a345e9cc0f34c8c55a7315">
 		<category>Games</category>
-		<description>sensible\sensible soccer (1993)(sony imagesoft)(pal)(m4)</description>
+		<description>Sensible Soccer (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sony Imagesoft</manufacturer>
 		<rom name="sensible soccer (1993)(sony imagesoft)(pal)(m4) (Track 01).bin" size="23552000" crc="7fa0237b" md5="19d9f3b200684f6da948e312a09f9293" sha1="4ab80be4f872d0f6bf740c62af2921b868c1d7fc"/>
 		<rom name="sensible soccer (1993)(sony imagesoft)(pal)(m4) (Track 02).bin" size="707952" crc="a30ea140" md5="f82d6336860bd29e520476e502951af2" sha1="e1295c1e5184c39947e15d3b93e40d65dbb39649"/>
 		<rom name="sensible soccer (1993)(sony imagesoft)(pal)(m4) (Track 03).bin" size="1679328" crc="b3d56f35" md5="f7df2ef8094bf634d64534b87435370d" sha1="c5329df0d5dbc6c92dcadb5d3706d0b9b82ba6e2"/>
@@ -1917,7 +2127,9 @@
 	</game>
 	<game name="sensible\sensible soccer v1.08 (demo) (1993)(pal)(m4)[mega power - issue 12, sega pro cd - issue 44]" type="cd" sha1="4cb43cb6aa6df119d48e988a04abffac56d21cb5" size="131232550" crc="0f3d032f" fullsha1="ea9c2532a8d61a0f86d977d2358d4ad989add98b" dataSha1="b709e1bc96c374ede926f47d04867cb53ab53f9a">
 		<category>Games</category>
-		<description>sensible\sensible soccer v1.08 (demo) (1993)(pal)(m4)[mega power - issue 12, sega pro cd - issue 44]</description>
+		<description>Sensible Soccer (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sony Imagesoft</manufacturer>
 		<rom name="sensible soccer v1.08 (demo) (1993)(pal)(m4)[mega power - issue 12, sega pro cd - issue 44] (Track 01).bin" size="23214080" crc="a36b8f95" md5="28c5a62fd85aa9018579737bdfd6dd1e" sha1="b8c0470b5db583f16299f7c17f62b6625816b5e8"/>
 		<rom name="sensible soccer v1.08 (demo) (1993)(pal)(m4)[mega power - issue 12, sega pro cd - issue 44] (Track 02).bin" size="1406496" crc="d38c913e" md5="aef6ef5f4da411c7a91f7678e7429506" sha1="38b4f02aee1419ca9926f154c31ed5edb930b5ef"/>
 		<rom name="sensible soccer v1.08 (demo) (1993)(pal)(m4)[mega power - issue 12, sega pro cd - issue 44] (Track 03).bin" size="2034480" crc="95503fe7" md5="af6da25e9275fb91abe29c3cdb46f816" sha1="3d6a00d3ebcc8e0174a0e16c7cb63ec73e890e00"/>
@@ -2017,7 +2229,9 @@
 	</game>
 	<game name="shinfrce\shining force cd (1995)(sega)(pal)" type="cd" sha1="85cd3f550e13365119f0420ac140a0b01f69c36c" size="242601768" crc="f34dda00" fullsha1="3a24b55067878586fef662df65b4fe7792891687" dataSha1="7b91c1eea8c77f929b496be25ddf56031e2e1c6d">
 		<category>Games</category>
-		<description>shinfrce\shining force cd (1995)(sega)(pal)</description>
+		<description>Shining Force CD (Europe)</description>
+		<year>1995</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="shining force cd (1995)(sega)(pal) (Track 01).bin" size="59789312" crc="48da591f" md5="ea432fc34666e6c3a645b86a66e06156" sha1="16eb6941928afc4d62ad6247327232b8ddb57232"/>
 		<rom name="shining force cd (1995)(sega)(pal) (Track 02).bin" size="1766352" crc="f2b69926" md5="46349299fe1c4e18a7d13f3be692f993" sha1="2ea391406b4dfc2c4f8a9a14f0ce3fc87980a49e"/>
 		<rom name="shining force cd (1995)(sega)(pal) (Track 03).bin" size="3488016" crc="9bbd4755" md5="99384e3d8a155d30b9e0ee12ea076990" sha1="9a4caf5cf62e37a1e942168190e2556f1c766f07"/>
@@ -2056,7 +2270,9 @@
 	</game>
 	<game name="silpheed\silpheed (europe)" type="cd" sha1="d1ad4e48d0c02e730e81fd0512be332e54e04153" size="233480822" crc="0541906d" fullsha1="70be62f9d37d9d34620887affd23000d3ce80b12" dataSha1="ecae0d8e6423b194f6094d953edb2fb356be5dd5">
 		<category>Games</category>
-		<description>silpheed\silpheed (europe)</description>
+		<description>Silpheed (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="silpheed (europe) (Track 01).bin" size="362417328" crc="96866125" md5="cd09512b8c0d4ca8329b511238157c6f" sha1="96393d8d5edccfdc915e20b6797006252eff9fed"/>
 		<rom name="silpheed (europe) (Track 02).bin" size="16097088" crc="71ebc6c3" md5="60e48a83a4fd2392ec888de99a03d568" sha1="43d7e3466d95d2fb38720b5cfbb0cf86370d367f"/>
 		<rom name="silpheed (europe) (Track 03).bin" size="36994608" crc="a193442a" md5="1921b52ee5791f547e3f78e4323583b1" sha1="74fb3e5de3f64c1a88eac2f32cd430b9420e89ad"/>
@@ -2068,73 +2284,97 @@
 	</game>
 	<game name="slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 1 of 4)[fingers]" type="cd" sha1="b60a50c7a369c361eb763bc12f239622f4080b27" size="382776019" crc="211217a9" fullsha1="5136455cc318492c755294b458f58f49141854f6" dataSha1="b701c48507fd97a89e1332a4f2acc21d656eee82">
 		<category>Games</category>
-		<description>slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 1 of 4)[fingers]</description>
+		<description>Slam City with Scottie Pippen (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Digital Pictures</manufacturer>
 		<rom name="slam city with scottie pippen (1994)(digital pictures)(pal)(disc 1 of 4)[fingers] (Track 01).bin" size="511188992" crc="f800c7d9" md5="960e8d4d51a8025d82a1b454180dc729" sha1="e4563ab8bb8adebe5fb87971e348d582182a53ce"/>
 		<rom name="slam city with scottie pippen (1994)(digital pictures)(pal)(disc 1 of 4)[fingers] (Track 02).bin" size="16772112" crc="4e21bf94" md5="03c52ff1c98ea1131abf652f92fc6536" sha1="9e0d07c41285903ca0789d4944bab643dc283e38"/>
 	</game>
 	<game name="slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 1 of 4)[fingers][32x]" type="cd" sha1="48ee5c8a87580524d39f3dfd70831ebf99a90192" size="423673532" crc="3eda0159" fullsha1="7cff01a05d95af04ea7310d91e111ca5e5595fc5" dataSha1="64af6e3628971a43aedae658cdeb46b5f8a9d56e">
 		<category>Games</category>
-		<description>slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 1 of 4)[fingers][32x]</description>
+		<description>Slam City with Scottie Pippen (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Digital Pictures</manufacturer>
 		<rom name="slam city with scottie pippen (1994)(digital pictures)(pal)(disc 1 of 4)[fingers][32x] (Track 01).bin" size="529147904" crc="56a8ad9c" md5="68a99cc9bc9bdc6a8832be4850dcc6ca" sha1="880e8031ceeece184c1578bff6ad278c477672a2"/>
 		<rom name="slam city with scottie pippen (1994)(digital pictures)(pal)(disc 1 of 4)[fingers][32x] (Track 02).bin" size="16772112" crc="a4eb565a" md5="acd99275e6532c7756977e8c5c1867c8" sha1="238326a0aff9a2bbc3b8dff0ae7c9d375e571ede"/>
 	</game>
 	<game name="slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 2 of 4)[juice]" type="cd" sha1="d006a4174616f59f19aa972d86a2c46eec754722" size="374973109" crc="4b79883f" fullsha1="1acec1d5e7537217ac2356aa72afc03a543ea691" dataSha1="205715db120caece52b488324ed97a4c9e0fa264">
 		<category>Games</category>
-		<description>slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 2 of 4)[juice]</description>
+		<description>Slam City with Scottie Pippen (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Digital Pictures</manufacturer>
 		<rom name="slam city with scottie pippen (1994)(digital pictures)(pal)(disc 2 of 4)[juice] (Track 01).bin" size="493748224" crc="3a1d4bb1" md5="685d943cdfcfc6b887dc5e2e2ec6739c" sha1="cca3af1eb2fad360af8e6c30aa2e607ed642ee0d"/>
 		<rom name="slam city with scottie pippen (1994)(digital pictures)(pal)(disc 2 of 4)[juice] (Track 02).bin" size="16772112" crc="adcc87d5" md5="b862f37860d3667720e063645226130b" sha1="caf5a61636ed6886252400a04067fe57467ea1f5"/>
 	</game>
 	<game name="slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 2 of 4)[juice][32x]" type="cd" sha1="b36d0a9bf31bd9dc3404a642f8a3c859b74a3a87" size="405020022" crc="5e5da970" fullsha1="42c03207a4c3889e13c60555b1e54f450ca8bb12" dataSha1="b1753392095ad4b5173cc8e606418bbec99469be">
 		<category>Games</category>
-		<description>slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 2 of 4)[juice][32x]</description>
+		<description>Slam City with Scottie Pippen (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Digital Pictures</manufacturer>
 		<rom name="slam city with scottie pippen (1994)(digital pictures)(pal)(disc 2 of 4)[juice][32x] (Track 01).bin" size="517537792" crc="0b6ac67b" md5="b10f1f5b7b35673e89a570ebb0fed9d1" sha1="ff5b9fb26d654ce1cbaca893899efac84e881d7b"/>
 		<rom name="slam city with scottie pippen (1994)(digital pictures)(pal)(disc 2 of 4)[juice][32x] (Track 02).bin" size="16772112" crc="215fbe41" md5="ed4ace2663e03fb7298b394d6b8a51ac" sha1="cdfdbfb7232e1ea67ffd0a3d23ae1e51dd171db7"/>
 	</game>
 	<game name="slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 3 of 4)[mad dog]" type="cd" sha1="737bc38e01595f3ff0b60dabfdac70a9894e726d" size="368632019" crc="a2671589" fullsha1="8925203eb259d77ce781721d0325d86c780d1023" dataSha1="b94c5073d78d65618a4de582f745f6225cd38fd0">
 		<category>Games</category>
-		<description>slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 3 of 4)[mad dog]</description>
+		<description>Slam City with Scottie Pippen (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Digital Pictures</manufacturer>
 		<rom name="slam city with scottie pippen (1994)(digital pictures)(pal)(disc 3 of 4)[mad dog] (Track 01).bin" size="499496960" crc="f53af5f6" md5="9b9f45c13c539b953de7bc700f14971a" sha1="38a9b6217b20e7fbf1adc6da1e218039c0db5bba"/>
 		<rom name="slam city with scottie pippen (1994)(digital pictures)(pal)(disc 3 of 4)[mad dog] (Track 02).bin" size="16772112" crc="ee2a9fc8" md5="609221c7d0ba0a0726274f1d13628166" sha1="4441912f999df1c28d73c1e1d97a48ede58a0888"/>
 	</game>
 	<game name="slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 3 of 4)[mad dog][32x]" type="cd" sha1="d632e7047edadb8e61d39cee9e58dc784309d999" size="410306000" crc="3b0f6526" fullsha1="7b19f6d8901ef39da208c9413db4c0b9c72f6392" dataSha1="c79cf1f5669cde4e9c8e06ec91a50db679221f2c">
 		<category>Games</category>
-		<description>slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 3 of 4)[mad dog][32x]</description>
+		<description>Slam City with Scottie Pippen (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Digital Pictures</manufacturer>
 		<rom name="slam city with scottie pippen (1994)(digital pictures)(pal)(disc 3 of 4)[mad dog][32x] (Track 01).bin" size="521574400" crc="052c7e8a" md5="98812fcdd3a1abc74583d89de404c8ec" sha1="5e335dc3866163ab5ca480236a87d96ac62967c7"/>
 		<rom name="slam city with scottie pippen (1994)(digital pictures)(pal)(disc 3 of 4)[mad dog][32x] (Track 02).bin" size="16772112" crc="15e85a32" md5="8f06fb7503ea80d7aad73a823d769c6f" sha1="c2593388c57377749d740b1b4684048d04f82df8"/>
 	</game>
 	<game name="slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 4 of 4)[smash]" type="cd" sha1="d41f338637a1cacf9d666f3f4da846be1a0cd5cf" size="361426404" crc="d829c839" fullsha1="3e6b77a66c044e1d7639810d000cbce7d2569b1e" dataSha1="031cd143c90cf26dc902ef481155f09ca562e504">
 		<category>Games</category>
-		<description>slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 4 of 4)[smash]</description>
+		<description>Slam City with Scottie Pippen (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Digital Pictures</manufacturer>
 		<rom name="slam city with scottie pippen (1994)(digital pictures)(pal)(disc 4 of 4)[smash] (Track 01).bin" size="471695360" crc="d57e5f45" md5="a284df5b1ab0e3037ac1c4d7ee59ba14" sha1="db3790be579c653996a3d5119f3682db54211d20"/>
 		<rom name="slam city with scottie pippen (1994)(digital pictures)(pal)(disc 4 of 4)[smash] (Track 02).bin" size="16772112" crc="215fbe41" md5="ed4ace2663e03fb7298b394d6b8a51ac" sha1="cdfdbfb7232e1ea67ffd0a3d23ae1e51dd171db7"/>
 	</game>
 	<game name="slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 4 of 4)[smash][32x]" type="cd" sha1="c64e49ccce415f7f8755709b97d699ab836fcf70" size="394202299" crc="8206463a" fullsha1="82e6706b6de9f03290478ba265fe7d601eec9783" dataSha1="169d14c54b23e23c30e2d4f8dbe65ab1eb3c82e7">
 		<category>Games</category>
-		<description>slamcity\slam city with scottie pippen (1994)(digital pictures)(pal)(disc 4 of 4)[smash][32x]</description>
+		<description>Scottie Pippen (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Digital Pictures</manufacturer>
 		<rom name="slam city with scottie pippen (1994)(digital pictures)(pal)(disc 4 of 4)[smash][32x] (Track 01).bin" size="492021760" crc="d2956a70" md5="98d8d7906520d5f18cbac6abebb6a671" sha1="3d24a61da224b8d44b5a68fb28703d39f39998d5"/>
 		<rom name="slam city with scottie pippen (1994)(digital pictures)(pal)(disc 4 of 4)[smash][32x] (Track 02).bin" size="16772112" crc="9cf1457f" md5="0e40784c0776b53a89049645d8d471bd" sha1="9a56a9009898997a25ea6fe1aeba4e7471c50da2"/>
 	</game>
 	<game name="slamcity\slam city with scottie pippen (demo) (1994)(digital pictures)(pal)[fingers]" type="cd" sha1="dcd34522817c6cf2efa5df419f617abc728c37e2" size="301369745" crc="28f67c72" fullsha1="ffa85348f1d0b13d49a61c9688c721cdfe47b78e" dataSha1="60434ee01a75746bdaed3667d49662200ea04aca">
 		<category>Games</category>
-		<description>slamcity\slam city with scottie pippen (demo) (1994)(digital pictures)(pal)[fingers]</description>
+		<description>Slam City with Scottie Pippen (Europe)</description>
+		<year>1994</year>
+		<manufacturer>res</manufacturer>
 		<rom name="slam city with scottie pippen (demo) (1994)(digital pictures)(pal)[fingers] (Track 01).bin" size="406548480" crc="54137b81" md5="e2718233dd528fe7cdee6fab037ac68e" sha1="cc0f76d35a5c4cbecabf7a8a777a2f77b7e4234c"/>
 		<rom name="slam city with scottie pippen (demo) (1994)(digital pictures)(pal)[fingers] (Track 02).bin" size="17124912" crc="9456325c" md5="9932378a5ba70c5fb47484a7d3c35527" sha1="9478e2bded25dec7425d3ace6a4da469ba3c8f5b"/>
 	</game>
 	<game name="slamcity\slam city with scottie pippen (europe) (disc 1)" type="cd" sha1="d08b23f7ebceb0d2f841cbdb66d0b6c1756e745a" size="417588834" crc="fa6aa61a" fullsha1="b6d1dda4b4966435e55d7930e00c033706b7925f" dataSha1="94e01e49851b54ec5d085078ec4ad18cacdc8c1a">
 		<category>Games</category>
-		<description>slamcity\slam city with scottie pippen (europe) (disc 1)</description>
+		<description>Slam City with Scottie Pippen (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Digital Pictures</manufacturer>
 		<rom name="slam city with scottie pippen (europe) (disc 1) (Track 01).bin" size="587068608" crc="44dbbfbd" md5="f2f0082ebe1370f661aa224509acacd4" sha1="f254db55475c84b53e6d48c08bb9de7b82889985"/>
 		<rom name="slam city with scottie pippen (europe) (disc 1) (Track 02).bin" size="17124912" crc="3a598e24" md5="40fe786839ca0a4f26ee3346cd1093fe" sha1="6c8a5edeb4ee2c25c44c86d6da072bc9f4d93b85"/>
 	</game>
 	<game name="slamcity\slam city with scottie pippen (europe) (disc 2)" type="cd" sha1="88f29f711a882378e0bd1933af0008d6ed245c6e" size="405425146" crc="0dc640c9" fullsha1="4fb92058b0f1c7518c5d425f20bec9f9210c5293" dataSha1="adc4e8eefb83433b700c2354dbb7126b82eca229">
 		<category>Games</category>
-		<description>slamcity\slam city with scottie pippen (europe) (disc 2)</description>
+		<description>Slam City with Scottie Pippen (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Digital Pictures</manufacturer>
 		<rom name="slam city with scottie pippen (europe) (disc 2) (Track 01).bin" size="567038976" crc="16cdf26d" md5="739ae19abbe44f13412d7c395bda13d3" sha1="b5489ee55b4aeefba9d001fd745f18c192b670d0"/>
 		<rom name="slam city with scottie pippen (europe) (disc 2) (Track 02).bin" size="17124912" crc="d9b4b665" md5="a8828250c39cb0caeee3e7750a2064d0" sha1="bff3f3ee250146d2f39ccf09d43dac7d5f36cd25"/>
 	</game>
 	<game name="smurfs\smurfs, the (europe) (en,fr,de,es,it)" type="cd" sha1="aaf2e8b383be492058b474c2f9e102be10f12925" size="167466772" crc="6d686da3" fullsha1="3e31543e9e02595a1dd245c7f3907151fee40337" dataSha1="2fe32d4abece804a605ce295102edec755164d1d">
 		<category>Games</category>
-		<description>smurfs\smurfs, the (europe) (en,fr,de,es,it)</description>
+		<description>The Smurfs (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Infogrames</manufacturer>
 		<rom name="smurfs, the (europe) (en,fr,de,es,it) (Track 01).bin" size="16398144" crc="7d49548a" md5="21d2a3317353fd9fa4182de5ab26666d" sha1="118f0737b38e9784103ce0bd0ac331efacf7d410"/>
 		<rom name="smurfs, the (europe) (en,fr,de,es,it) (Track 02).bin" size="13502832" crc="d6110ae3" md5="2aa3f12418c66f125576f48031682883" sha1="7ae73d720f2f3044bb9c99c8f128ad89e99df6cd"/>
 		<rom name="smurfs, the (europe) (en,fr,de,es,it) (Track 03).bin" size="16840320" crc="64a8088a" md5="893ac562b3f3ce03a884fd1ca7e3c69d" sha1="2572f8b2020ba3c4d7a1fcf98617a42de0520321"/>
@@ -2159,7 +2399,9 @@
 	</game>
 	<game name="snatcher\snatcher (1994)(konami)(pal)" type="cd" sha1="6faae0d2facc3680f9043438b6e26664968621ac" size="334810037" crc="aad9a412" fullsha1="b6c79fc3c1ed011dc1b3c06fcd554e8361915ff2" dataSha1="8bbd2df36dad3e4705053124fab68ceb402b03ac">
 		<category>Games</category>
-		<description>snatcher\snatcher (1994)(konami)(pal)</description>
+		<description>Snatcher (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Konami</manufacturer>
 		<rom name="snatcher (1994)(konami)(pal) (Track 01).bin" size="114716672" crc="7b7ccda4" md5="6b76fea3eaa5312302f84227c1403db9" sha1="0dc6328308fd9b80628f9c7d5288597180a35acf"/>
 		<rom name="snatcher (1994)(konami)(pal) (Track 02).bin" size="811440" crc="441414da" md5="d1dd7fc2c96bd6e64a5a997640374ae0" sha1="99f9a8080389021404ed8e7fa3b262c4ceeda70a"/>
 		<rom name="snatcher (1994)(konami)(pal) (Track 03).bin" size="23802240" crc="8e784a4a" md5="84eefb396773f0f28e1b6e6753eff6ab" sha1="916b86f3314b2e4d534421b0967c88e42701fe2a"/>
@@ -2184,7 +2426,9 @@
 	</game>
 	<game name="solfeace\sol-feace (1993)(sega)(pal)[mk-4130p-00033 2]" type="cd" sha1="d67c47fe5ba861def5ec689f8fa22cdfdbc933bb" size="310255744" crc="20ed76d2" fullsha1="0450e5f3716b24ee7e98006656f7ceb05e998a1a" dataSha1="031093292cd6bae5fcc88b0b141ad28f9a1e6642">
 		<category>Games</category>
-		<description>solfeace\sol-feace (1993)(sega)(pal)[mk-4130p-00033 2]</description>
+		<description>Sol-Feace (Europe)</description>
+		<year>1992</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="sol-feace (1993)(sega)(pal)[mk-4130p-00033 2] (Track 01).bin" size="5502976" crc="40b7f113" md5="6bc9275a9900d7df421905a6fec9f3e9" sha1="96115c0272f9ce46448d1b557a16a1d504b5f80d"/>
 		<rom name="sol-feace (1993)(sega)(pal)[mk-4130p-00033 2] (Track 02).bin" size="1651104" crc="345811b6" md5="5017449c9aa2c2251b3f48c9b977d5e6" sha1="de9e80b0d185d0a9a2559e21c222c175a275e0fb"/>
 		<rom name="sol-feace (1993)(sega)(pal)[mk-4130p-00033 2] (Track 03).bin" size="2885904" crc="94ca850f" md5="b8a6e96532c4fb50aeca3011cc33fa4f" sha1="31d489a8c5faeaba54b46c5b6abd358a0b36083d"/>
@@ -2206,7 +2450,9 @@
 	</game>
 	<game name="solfeace\sol-feace (1993)(sega)(pal)[mk-4130p-00033-r1m]" type="cd" sha1="ca3e731109ac258fb4133f136792b034bcd4748e" size="310293262" crc="ae8e9205" fullsha1="4eb3e4f5be0bba706211ffcb1912f72e1df4a46e" dataSha1="678d78e52f6bb1b903918e7c651a7b6d40417d62">
 		<category>Games</category>
-		<description>solfeace\sol-feace (1993)(sega)(pal)[mk-4130p-00033-r1m]</description>
+		<description>Sol-Feace (Europe)</description>
+		<year>1992</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="sol-feace (1993)(sega)(pal)[mk-4130p-00033-r1m] (Track 01).bin" size="5502976" crc="40b7f113" md5="6bc9275a9900d7df421905a6fec9f3e9" sha1="96115c0272f9ce46448d1b557a16a1d504b5f80d"/>
 		<rom name="sol-feace (1993)(sega)(pal)[mk-4130p-00033-r1m] (Track 02).bin" size="1653456" crc="d31880c3" md5="884f038a1574883cdad614e965dbbe33" sha1="8a391e96e5fad46559ef7170e201e541b3e8be5a"/>
 		<rom name="sol-feace (1993)(sega)(pal)[mk-4130p-00033-r1m] (Track 03).bin" size="2885904" crc="a965f56f" md5="ef028d4cae07a205249b7b3b84f499aa" sha1="c54cea7af3b98f8038916d20adf526149c461224"/>
@@ -2228,7 +2474,9 @@
 	</game>
 	<game name="solfeace\sol-feace (europe)" type="cd" sha1="63247be63f9b71ae882a5c8a92a31a2e3021d355" size="309658317" crc="df5e84f0" fullsha1="d187ee5c31e850abb1c647ffbfed841a7a292a67" dataSha1="6957f5861ab5e69848af164a21be38f7f533fa7c">
 		<category>Games</category>
-		<description>solfeace\sol-feace (europe)</description>
+		<description>Sol-Feace (Europe)</description>
+		<year>1992</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="sol-feace (europe) (Track 01).bin" size="6319824" crc="46429d5f" md5="c6ba5f8ea59eae16c63b1d37f47b33ab" sha1="b094647c8f5bbb5ec79612e450609fb53159657b"/>
 		<rom name="sol-feace (europe) (Track 02).bin" size="2006256" crc="97380316" md5="5a99c08a350c2a57161c9a834a7f4c67" sha1="72175d9347b5725839429261c1996dc9f8fbe98a"/>
 		<rom name="sol-feace (europe) (Track 03).bin" size="2885904" crc="046a303c" md5="285a5cc8811851663242a349d994f2d1" sha1="4855c43a2e9c3b4ccd31a478aff7599ec12647ee"/>
@@ -2250,7 +2498,9 @@
 	</game>
 	<game name="soniccd\sonic cd (europe)" type="cd" sha1="7353a3b5979c1e50506d444f24755bb455b4855a" size="338164473" crc="ba67fc96" fullsha1="df8962ca5ac51befe40c21025fbde51f14c45f73" dataSha1="279ffe5222cce6148f9f3cb5a1067af9193794ed">
 		<category>Games</category>
-		<description>soniccd\sonic cd (europe)</description>
+		<description>Sonic CD (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="sonic cd (europe) (Track 01).bin" size="129590496" crc="0060ac74" md5="1e0e1d19bbc308e9524ff853c2320e88" sha1="1ab058c8228af31a50def1b01f1f33961f2f23d7"/>
 		<rom name="sonic cd (europe) (Track 02).bin" size="1091328" crc="f6f21067" md5="26e98678a249604af1df6f12101b9e78" sha1="c1492191b6188ca032100353965f92c49cf1f4f3"/>
 		<rom name="sonic cd (europe) (Track 03).bin" size="19077072" crc="ee76ae52" md5="1421ff713cfccbd3514b8aa5b87521ca" sha1="42a824e5e3e98a61e7b4952b0c045babab98d529"/>
@@ -2289,7 +2539,9 @@
 	</game>
 	<game name="soulstar\soulstar (demo) (1994)(core)(pal)[mega power - issue 10, sega pro cd - issue 49]" type="cd" sha1="c8127e4ba0fc9af207c01a9b0676561bc311cf95" size="59069423" crc="059e8163" fullsha1="b88deaf8944c0adda1c5fb51cbf3b2d279213c57" dataSha1="59c359a023d3ede530d64b980fed834f189c35e1">
 		<category>Games</category>
-		<description>soulstar\soulstar (demo) (1994)(core)(pal)[mega power - issue 10, sega pro cd - issue 49]</description>
+		<description>SoulStar (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="soulstar (demo) (1994)(core)(pal)[mega power - issue 10, sega pro cd - issue 49] (Track 01).bin" size="1585152" crc="2d3a2a78" md5="5ef81e143729ce1c705e4ad1fd54bfef" sha1="ca414d6a95d3a3c2f7d523ae1726526f44d3b6e8"/>
 		<rom name="soulstar (demo) (1994)(core)(pal)[mega power - issue 10, sega pro cd - issue 49] (Track 02).bin" size="43173312" crc="47f73921" md5="d137e5c15aa5e784c39c462e482f509d" sha1="6d68957ea50bb7607af6dc3dd78b1bea56b11213"/>
 		<rom name="soulstar (demo) (1994)(core)(pal)[mega power - issue 10, sega pro cd - issue 49] (Track 03).bin" size="55302576" crc="199824f6" md5="9f8636f38ede14d6349a0e0315dc19e2" sha1="212c7abeddea6b4f67952eab164e3b5c717e67ce"/>
@@ -2297,7 +2549,9 @@
 	</game>
 	<game name="soulstar\soulstar (europe) (en,fr,de)" type="cd" sha1="1de8f5bce0241da7d06c9929e8ab514081e28d47" size="344815567" crc="a444d99c" fullsha1="03535a0db583ee7cfeb423cae292b50872472597" dataSha1="289b8e0bc48c82eb5df05cfb3540632b5ea11a02">
 		<category>Games</category>
-		<description>soulstar\soulstar (europe) (en,fr,de)</description>
+		<description>SoulStar (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="soulstar (europe) (en,fr,de) (Track 01).bin" size="145885152" crc="9d516485" md5="24692c5eaa5e8451b2c81bc044938e7e" sha1="a7277b74f4e23397052ba393779fa3c0bf1ec6a9"/>
 		<rom name="soulstar (europe) (en,fr,de) (Track 02).bin" size="17226048" crc="4025cb08" md5="c9f07ba1d38d937d5aa0d6c3e666d258" sha1="279488b1145908b238b30f1982e5e9bc6f11a4e0"/>
 		<rom name="soulstar (europe) (en,fr,de) (Track 03).bin" size="43173312" crc="1ab0dc01" md5="600f4a87a7215545e2c62ce31fb270e1" sha1="9f93e151b342721c8c0e8b8aaf42c3d3a22c09e0"/>
@@ -2318,7 +2572,9 @@
 	</game>
 	<game name="spidking\amazing spider-man vs. the kingpin, the (europe)" type="cd" sha1="03b902f46acbdd49eb62b843d1cdf0a372c837a6" size="309961709" crc="09b2f2c4" fullsha1="5cb93ed38f92eb8099f5549b135393c6289b78e1" dataSha1="7777575bce4f7b00015039f20026f08e8bfea4f1">
 		<category>Games</category>
-		<description>spidking\amazing spider-man vs. the kingpin, the (europe)</description>
+		<description>The Amazing Spider-Man Vs. The Kingpin (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="amazing spider-man vs. the kingpin, the (europe) (Track 01).bin" size="155330784" crc="61d60f64" md5="10ceaf0ed9b1899cda907d61a30dd5b4" sha1="b5d67e08f5b71e766ab9bc07bf459eb461a31f5e"/>
 		<rom name="amazing spider-man vs. the kingpin, the (europe) (Track 02).bin" size="44462208" crc="3e9fb470" md5="2246c98c486f5175023b2d18ce6d25fb" sha1="5cac31c475c3dc6d86587c561f4aadb4e867412d"/>
 		<rom name="amazing spider-man vs. the kingpin, the (europe) (Track 03).bin" size="35446992" crc="43c1f1f4" md5="385ec8fe56f2bfb25be9e1c7958d336a" sha1="cdb910f2fd08d7f3b2169aac7e17530afd493ee2"/>
@@ -2335,74 +2591,98 @@
 	</game>
 	<game name="sshark\sewer shark (europe)" type="cd" sha1="bb65955fbc661a9a9341ef7744aca981a5752a27" size="260164610" crc="c47b444f" fullsha1="bca8647492ea55337e4041ad2792522e7250cb91" dataSha1="0946275576d80584777fcdbba0b96ed4eed8644d">
 		<category>Games</category>
-		<description>sshark\sewer shark (europe)</description>
+		<description>Sewer Shark (Europe)</description>
+		<year>1992</year>
+		<manufacturer>Sony Imagesoft</manufacturer>
 		<rom name="sewer shark (europe) (Track 01).bin" size="487536672" crc="e995691c" md5="fd8cb9b29487977b7ba1fc60470ee5ed" sha1="eee1c51c97b83e58d276618756a420876828e9f0"/>
 		<rom name="sewer shark (europe) (Track 02).bin" size="2410800" crc="933d470a" md5="7c500accc54e33e16b578d4b0a1d9f80" sha1="0db33425945ac4ac671b242b2045e925b3148fd0"/>
 	</game>
 	<game name="starblad\starblade (1994)(sega)(pal)" type="cd" sha1="b6d7c07c3aec8d2e59ba5d4f65be0e99b62acc7d" size="116792828" crc="cb0e6932" fullsha1="2cd941d1737bae92d2c8d8bd18fee897b3a7a3c8" dataSha1="90f737a4e8f5239e951c393687b19f10b00496bb">
 		<category>Games</category>
-		<description>starblad\starblade (1994)(sega)(pal)</description>
+		<description>StarBlade (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="starblade (1994)(sega)(pal) (Track 01).bin" size="406351872" crc="cd983063" md5="63de6b085c3ddcae1a7229b9d7d264ef" sha1="fa4f3b1ab8c35ed23021a05668942e5c6ddfafd5"/>
 		<rom name="starblade (1994)(sega)(pal) (Track 02).bin" size="1528800" crc="9265e140" md5="745b11da19fa5137a007a990eec3515e" sha1="e6251cae47325e237b59a849b3513516a5b1f4ea"/>
 	</game>
 	<game name="supremew\supreme warrior - ying heung (1994)(digital pictures)(pal)(disc 1 of 2)[fire and earth]" type="cd" sha1="92d150d78766d04d4082f5da7c294659cb8ca783" size="347442416" crc="1f273273" fullsha1="c77fc5616a18f2cade7e9c79a51a8ac4d6b826bc" dataSha1="70be172fca519b1d686722e5c4f7c1c1e75b0a95">
 		<category>Games</category>
-		<description>supremew\supreme warrior - ying heung (1994)(digital pictures)(pal)(disc 1 of 2)[fire and earth]</description>
+		<description>Supreme Warrior - Ying Heung (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Digital Pictures</manufacturer>
 		<rom name="supreme warrior - ying heung (1994)(digital pictures)(pal)(disc 1 of 2)[fire and earth] (Track 01).bin" size="428421120" crc="9bcc82f2" md5="c9bab2c0e4923338aa547020e7fe905d" sha1="ed0c26ff240131e4268380dc687a47fa3cebba36"/>
 		<rom name="supreme warrior - ying heung (1994)(digital pictures)(pal)(disc 1 of 2)[fire and earth] (Track 02).bin" size="1848672" crc="c0cdd15d" md5="f5b6f8cce8dda975b5d0e312235302c6" sha1="d1d076838c3bc7bcf44be05ac174dcc62f774026"/>
 	</game>
 	<game name="supremew\supreme warrior - ying heung (1994)(digital pictures)(pal)(disc 2 of 2)[wind and fang tu]" type="cd" sha1="6d53b6c557e50578f3eb2c14ca7e2fd73d08d36d" size="338875401" crc="f69224a2" fullsha1="f332a8c08af8be228452602183cfdda6f2caf8f8" dataSha1="f5d5dd0b2614a2a9a5d20815d8a731087be39b6d">
 		<category>Games</category>
-		<description>supremew\supreme warrior - ying heung (1994)(digital pictures)(pal)(disc 2 of 2)[wind and fang tu]</description>
+		<description>Supreme Warrior - Ying Heung (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Digital Pictures</manufacturer>
 		<rom name="supreme warrior - ying heung (1994)(digital pictures)(pal)(disc 2 of 2)[wind and fang tu] (Track 01).bin" size="424419328" crc="c59ee246" md5="1a8f53d8753300a9376c03ae1b44db2d" sha1="8c39aeae7e1a721a3fdcf72597086d2eb13807b6"/>
 		<rom name="supreme warrior - ying heung (1994)(digital pictures)(pal)(disc 2 of 2)[wind and fang tu] (Track 02).bin" size="1848672" crc="4e891086" md5="f52061f8407125b62e678818ef6620bf" sha1="486df99db0697c8c08b9eaa15c211b385c403fd4"/>
 	</game>
 	<game name="supremew\supreme warrior - ying heung (1995)(digital pictures)(pal)(en-zh)(disc 1 of 2)[fire and earth][32x]" type="cd" sha1="3955ae3418ddbf883d580eacc5c5d2a6347e636c" size="368842251" crc="1a6ca020" fullsha1="2f5e8cd0f40d1bfb34de90af18f5324737f8cefd" dataSha1="844718e9a963484197fe68ca2706972bb3d1aabc">
 		<category>Games</category>
-		<description>supremew\supreme warrior - ying heung (1995)(digital pictures)(pal)(en-zh)(disc 1 of 2)[fire and earth][32x]</description>
+		<description>Supreme Warrior - Ying Heung (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Digital Pictures</manufacturer>
 		<rom name="supreme warrior - ying heung (1995)(digital pictures)(pal)(en-zh)(disc 1 of 2)[fire and earth][32x] (Track 01).bin" size="459593728" crc="d8c88078" md5="adc2811f02563cee611ab393dcb9401b" sha1="391a5c91dad5b0dbf40720a8c7e5ccf7d18d771e"/>
 		<rom name="supreme warrior - ying heung (1995)(digital pictures)(pal)(en-zh)(disc 1 of 2)[fire and earth][32x] (Track 02).bin" size="1848672" crc="413668b9" md5="a2aa28d3370e191cd343455672b02f0d" sha1="80f8b1594d89a7adfd98f5a8dc07fea418847fb3"/>
 	</game>
 	<game name="supremew\supreme warrior - ying heung (1995)(digital pictures)(pal)(en-zh)(disc 2 of 2)[wind and fang tu][32x]" type="cd" sha1="3fb0dcb8dee65e1270ea076e32dae7b77eb56211" size="363890085" crc="2ee455dc" fullsha1="6b24fdf24c874aa7fef08e74b92db61816d8d16c" dataSha1="22a502a94f03aa20310e0f76eeb83538eb993855">
 		<category>Games</category>
-		<description>supremew\supreme warrior - ying heung (1995)(digital pictures)(pal)(en-zh)(disc 2 of 2)[wind and fang tu][32x]</description>
+		<description>Supreme Warrior - Ying Heung (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Digital Pictures</manufacturer>
 		<rom name="supreme warrior - ying heung (1995)(digital pictures)(pal)(en-zh)(disc 2 of 2)[wind and fang tu][32x] (Track 01).bin" size="460056576" crc="dfe241ae" md5="87cadfa4869dfd9beb05fa05f1c1c265" sha1="35c3586b014c3ffef2fedf76d7aa81cb124bc048"/>
 		<rom name="supreme warrior - ying heung (1995)(digital pictures)(pal)(en-zh)(disc 2 of 2)[wind and fang tu][32x] (Track 02).bin" size="1848672" crc="e7f1e8c7" md5="8b539d288290ec30908c5f85505a6141" sha1="f90e5fe441755de15625eb23c7d260921face7d0"/>
 	</game>
 	<game name="surgical\surgical strike (1995)(sega)(pal)" type="cd" sha1="4265bb263dc2d9abb44ebff35146a90edcaeea6b" size="320597513" crc="e0be87a6" fullsha1="26758d173dccf8bfebe21d0878d51f8aceb44a7d" dataSha1="e9248e53f1804f0695d49f2e6a58b5e40a68ccd8">
 		<category>Games</category>
-		<description>surgical\surgical strike (1995)(sega)(pal)</description>
+		<description>rike (Europe)</description>
+		<year>1995</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="surgical strike (1995)(sega)(pal) (Track 01).bin" size="387487744" crc="e42993ee" md5="69a4665053960a88267fd4118cc668a0" sha1="40874c202702147e8de74b16f133fa89d202618e"/>
 		<rom name="surgical strike (1995)(sega)(pal) (Track 02).bin" size="43210944" crc="d14997bd" md5="12e0daabeb0656fac1f27ff51135d80e" sha1="56797fd89606198223429ffdcc4290f1f98ee8c8"/>
 		<rom name="surgical strike (1995)(sega)(pal) (Track 03).bin" size="1985088" crc="83dd9988" md5="972b832049a180d0f62ce19d92af7655" sha1="5a04b5f7f2ea4f215bea4d2650eafde9cd884a99"/>
 	</game>
 	<game name="swchess\software toolworks' star wars chess, the (1994)(mindscape)(pal)" type="cd" sha1="294b1b222961e71f750450943306ce53d8a85648" size="105485608" crc="de7b9850" fullsha1="bd2190cf9c1d37e390de21868c42bca3df3a1411" dataSha1="17ce7835b680adbbc6aa771948c607a6b5f8b8ae">
 		<category>Games</category>
-		<description>swchess\software toolworks' star wars chess, the (1994)(mindscape)(pal)</description>
+		<description> Star Wars Chess (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Mindscape</manufacturer>
 		<rom name="software toolworks' star wars chess, the (1994)(mindscape)(pal) (Track 01).bin" size="227407872" crc="07d08ba5" md5="8460b58903d3294812b160e8c942274c" sha1="9bf6f8d4e67f8d490d1a89b8cb3c099259dc8488"/>
 		<rom name="software toolworks' star wars chess, the (1994)(mindscape)(pal) (Track 02).bin" size="2227344" crc="d1f17b48" md5="716d8219fa06f451a39297aee21fad44" sha1="d816355509d5dec668d8c01596eefcf55e717cd2"/>
 	</game>
 	<game name="swra\star wars - rebel assault (demo) (1994)(jvc)(pal)[mega power - issue 15]" type="cd" sha1="d2852e78c6adb5de72f448b35713fd4539358bab" size="43891866" crc="d8aab166" fullsha1="152ce04a3ac91617febd114815cb1aecba067d4e" dataSha1="289f69f4abd8694bfb113ede028815597575944b">
 		<category>Games</category>
-		<description>swra\star wars - rebel assault (demo) (1994)(jvc)(pal)[mega power - issue 15]</description>
+		<description>Star Wars - Rebel Assault (Europe)</description>
+		<year>1994</year>
+		<manufacturer>JVC</manufacturer>
 		<rom name="star wars - rebel assault (demo) (1994)(jvc)(pal)[mega power - issue 15] (Track 01).bin" size="27283456" crc="32cb8080" md5="6fe6ae8c5ba0bcceeada49a04ba78822" sha1="254ae60806f949f465bd80cf725bd1696db17e41"/>
 		<rom name="star wars - rebel assault (demo) (1994)(jvc)(pal)[mega power - issue 15] (Track 02).bin" size="58324896" crc="dc1c9f16" md5="29d178a0da1feb7b1f8396e5042c55d6" sha1="8eea1a976e53dcd19a99aed16d48d9ea076ad6a7"/>
 	</game>
 	<game name="swra\star wars - rebel assault (demo) (1994)(jvc)(pal)[sega pro cd - issue 01]" type="cd" sha1="b52ef78d8ea86fe6e66fee2a4a901918dcc7cd24" size="41258530" crc="d3b854f7" fullsha1="a59519622a4e56fcd4d07d9cfa143d006234443e" dataSha1="f77856fc203a3598e96c98d7b1b46f09a43900fd">
 		<category>Games</category>
-		<description>swra\star wars - rebel assault (demo) (1994)(jvc)(pal)[sega pro cd - issue 01]</description>
+		<description>Star Wars - Rebel Assault (Europe)</description>
+		<year>1994</year>
+		<manufacturer>JVC</manufacturer>
 		<rom name="star wars - rebel assault (demo) (1994)(jvc)(pal)[sega pro cd - issue 01] (Track 01).bin" size="22941696" crc="5cf5b35f" md5="eac93114705fd346f4fedc5605d6889e" sha1="829c1ea5c416f8a9f5743e04ca7600ad5c01a2e5"/>
 		<rom name="star wars - rebel assault (demo) (1994)(jvc)(pal)[sega pro cd - issue 01] (Track 02).bin" size="58324896" crc="a74bef98" md5="bf2ce9956ae8fe1edac75395de520073" sha1="16aab59be74ff57ced0e003fa3b47e148f2d53a4"/>
 	</game>
 	<game name="swra\star wars - rebel assault (europe)" type="cd" sha1="0462ad4204e3bf7e68f74709b5950159e10640bc" size="203886636" crc="11018650" fullsha1="2d9f08213dbb27fd2793a084f757ec14a5581d1e" dataSha1="654d6541b13947b1b08cef5888c04e4584ba4e67">
 		<category>Games</category>
-		<description>swra\star wars - rebel assault (europe)</description>
+		<description>Star Wars - Rebel Assault (Europe)</description>
+		<year>1994</year>
+		<manufacturer>JVC</manufacturer>
 		<rom name="star wars - rebel assault (europe) (Track 01).bin" size="395255952" crc="2c8b3ea0" md5="4e750307bc2262dde5c2942d125c4f18" sha1="c6eb9b9a9b2ecd57b1f64fcd5d0c757642e9bcee"/>
 		<rom name="star wars - rebel assault (europe) (Track 02).bin" size="58148496" crc="51a31463" md5="8c20bdda5d000906928974827376b078" sha1="cc23c193d30e11c094adaf1cf124de3047ca7dbf"/>
 	</game>
 	<game name="syndicat\syndicate (1995)(domark)(pal)(m3)" type="cd" sha1="8db65bc519e816b609d52123f665ef280657b235" size="175320922" crc="8d83bf7b" fullsha1="9d53599896e3ae677de07a0a95185b0eae79f3e3" dataSha1="c7b74b47911ed81923c61d1933821652794dd542">
 		<category>Games</category>
-		<description>syndicat\syndicate (1995)(domark)(pal)(m3)</description>
+		<description>Syndicate (Europe)</description>
+		<year>1995</year>
+		<manufacturer>Domark</manufacturer>
 		<rom name="syndicate (1995)(domark)(pal)(m3) (Track 01).bin" size="16883712" crc="b82ac089" md5="b65c93440713a17543a7ca3e32dcde53" sha1="0c51b9501d5d9050c6e7aa53aeb301ce1c2a1659"/>
 		<rom name="syndicate (1995)(domark)(pal)(m3) (Track 02).bin" size="82444656" crc="bda6245d" md5="0cea4d166d332e8d928bf9a8ff0f1c37" sha1="7dc7139532733cb2b99fdbe69d26fc9c16fc92cd"/>
 		<rom name="syndicate (1995)(domark)(pal)(m3) (Track 03).bin" size="61114368" crc="5d2d12df" md5="a8d7b91c49a97f15aa8b7239b6477ca1" sha1="3389b31fde8b3f310683364daf337243ade1cfbb"/>
@@ -2412,31 +2692,41 @@
 	</game>
 	<game name="tcataly\tomcat alley (1994)(sega)(pal)(es)" type="cd" sha1="7e256f1f58b26ad3a145d6cb2cddf80cb9a1d2c2" size="354625999" crc="95641134" fullsha1="0bb7473556d60af7e69258c3d3b2453eae16723e" dataSha1="85d0496353ab1170cc3da5297816ed2ec2751fc4">
 		<category>Games</category>
-		<description>tcataly\tomcat alley (1994)(sega)(pal)(es)</description>
+		<description>Tomcat Alley (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="tomcat alley (1994)(sega)(pal)(es) (Track 01).bin" size="464031744" crc="6f9a205d" md5="246d3281ea618955d270556d930bca36" sha1="b770a9677437f6a427084d0dae48ef7bc4abf5d8"/>
 		<rom name="tomcat alley (1994)(sega)(pal)(es) (Track 02).bin" size="2337888" crc="2d3226ab" md5="9428e799d7f0cf6eb2bcf640238d4421" sha1="b5b66fbac0d6cb40c388802df27854112e330398"/>
 	</game>
 	<game name="tcataly\tomcat alley (1994)(sega)(pal)(fr)" type="cd" sha1="8490b554c50c0fbd3398c41287d1d55ca5c8f66e" size="354112740" crc="e6e371e8" fullsha1="3c184b8b7136517e311c142250b95d2cae751ba8" dataSha1="7eaa4229816c2f422a0d4dfa926a638bfcb627d4">
 		<category>Games</category>
-		<description>tcataly\tomcat alley (1994)(sega)(pal)(fr)</description>
+		<description>Tomcat Alley (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="tomcat alley (1994)(sega)(pal)(fr) (Track 01).bin" size="463912960" crc="ce61f41e" md5="1aacbc6a430d6afb32b890dc0e078abf" sha1="9d698323bbb6e395d578570acc9a71cbf90a0478"/>
 		<rom name="tomcat alley (1994)(sega)(pal)(fr) (Track 02).bin" size="2337888" crc="24d295df" md5="36244ee80efa570f1b7553f2a97d93ef" sha1="c2fef29e71281f3c3e338bbcd4d4a58052084cab"/>
 	</game>
 	<game name="tcataly\tomcat alley (europe)" type="cd" sha1="1837fcc720236d5e3a360eb881f15a32048e48e6" size="394347921" crc="e12a23f5" fullsha1="ee8a98f1c967bca9c49e6841b56601b795cf9ff8" dataSha1="71234db3c589b43a87bbe3588ce1655725096989">
 		<category>Games</category>
-		<description>tcataly\tomcat alley (europe)</description>
+		<description>Tomcat Alley (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="tomcat alley (europe) (Track 01).bin" size="567756336" crc="5e41b3ba" md5="915e5dfaaaf0f3d53e7e618f34f1e941" sha1="d93e1e04ae8b5976bc32ee9374fc6484b83b320d"/>
 		<rom name="tomcat alley (europe) (Track 02).bin" size="2669520" crc="ac3d778c" md5="e26ad7ca6529c12d395100a55dbe68d6" sha1="ba5cda6d1c85c48319b3edc5c7a8495fd93dc5cc"/>
 	</game>
 	<game name="tcataly\tomcat alley (germany)" type="cd" sha1="557736c6ebf979364464a9c4abd7b5b1e6cd0373" size="364025562" crc="e09628e2" fullsha1="89ae0572859b6d66a7a6ca7aa69c15e17304eb57" dataSha1="8dda460488f9acd3d897476182a7bf3598894b5a">
 		<category>Games</category>
-		<description>tcataly\tomcat alley (germany)</description>
+		<description>Tomcat Alley (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="tomcat alley (germany) (Track 01).bin" size="532775040" crc="64f930f1" md5="fc172242b78462cd9652941681f300da" sha1="767d67d9c599205b208aca2fc19f6c6b2adc2162"/>
 		<rom name="tomcat alley (germany) (Track 02).bin" size="2690688" crc="c01db8b1" md5="e5c9b0a76f36b4c808b174c76341bf58" sha1="b37fb9ccfd86daeb8aebb7b3621053252cab6910"/>
 	</game>
 	<game name="termintr\terminator, the (1994)(virgin)(pal)" type="cd" sha1="65d49e4ce1d9ba2362e5cfd6e997e0f1286d3387" size="253136945" crc="766ed863" fullsha1="fe2122b59899325fcc88d17b6d2a9626bd757d3a" dataSha1="adbb4bcd37f061d894069659a0aadf1085dd73a2">
 		<category>Games</category>
-		<description>termintr\terminator, the (1994)(virgin)(pal)</description>
+		<description>The Terminator (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Virgin Interactive</manufacturer>
 		<rom name="terminator, the (1994)(virgin)(pal) (Track 01).bin" size="111935488" crc="d7ea7e1e" md5="15252202e73f3b9e935ec7d5b44a8191" sha1="8aeb0c2f5425d669e667469b1d59527eaae24fae"/>
 		<rom name="terminator, the (1994)(virgin)(pal) (Track 02).bin" size="27431376" crc="bfc7809d" md5="514dd0cc9a9c380661520589fd05f957" sha1="833c93456e5d3925d58dd795f81fc0226c9aff2f"/>
 		<rom name="terminator, the (1994)(virgin)(pal) (Track 03).bin" size="36514800" crc="516cfff1" md5="20db648e9efd0253a417f0e229e8e8b3" sha1="5753764e185e2b1e18eade9ebbdcd14f719ff045"/>
@@ -2450,7 +2740,9 @@
 	</game>
 	<game name="thawk\thunderhawk (1993)(core)(pal)(m4)[segat115015re r4c]" type="cd" sha1="8e7ff4891a65350706f78a463b6b3c625a3223ca" size="260050708" crc="3ecc098a" fullsha1="c22bf91865f6774e3d67449ed7c3d5eecfe7fb81" dataSha1="2c542dbe8b0bfe30e02ddc6ca07f30aeaeedbb6b">
 		<category>Games</category>
-		<description>thawk\thunderhawk (1993)(core)(pal)(m4)[segat115015re r4c]</description>
+		<description>Thunderhawk (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Core Design</manufacturer>
 		<rom name="thunderhawk (1993)(core)(pal)(m4)[segat115015re r4c] (Track 01).bin" size="128436224" crc="30d2752e" md5="fbec5ceb9aecb6054af131eb12d998c8" sha1="403a43c8e0f9b283b8013d7b5da6e45f942462d8"/>
 		<rom name="thunderhawk (1993)(core)(pal)(m4)[segat115015re r4c] (Track 02).bin" size="38351712" crc="6af106d0" md5="fcb068e99a20222f5139b5fdcb44012e" sha1="f0f32ce97816d808cf82f48fc326a4c232ae59a2"/>
 		<rom name="thunderhawk (1993)(core)(pal)(m4)[segat115015re r4c] (Track 03).bin" size="38532816" crc="30883bdd" md5="8a0671a46f764d891ad20b7cfcf42bfb" sha1="40b9dd93c388c927797e5e50f9360b3acb2efdda"/>
@@ -2466,7 +2758,9 @@
 	</game>
 	<game name="thawk\thunderhawk (1993)(core)(pal)(m4)[segat115015re r5c]" type="cd" sha1="9c2ca04a7a10da93a8fd70a6ff41e9ba6b9299f7" size="260046269" crc="eef9be16" fullsha1="52671a50271b30368a42299fb29ed6888040c20f" dataSha1="34066ee5ee5234cc6355816a60401ebc8f1b5e56">
 		<category>Games</category>
-		<description>thawk\thunderhawk (1993)(core)(pal)(m4)[segat115015re r5c]</description>
+		<description>Thunderhawk (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Core Design</manufacturer>
 		<rom name="thunderhawk (1993)(core)(pal)(m4)[segat115015re r5c] (Track 01).bin" size="128436224" crc="30d2752e" md5="fbec5ceb9aecb6054af131eb12d998c8" sha1="403a43c8e0f9b283b8013d7b5da6e45f942462d8"/>
 		<rom name="thunderhawk (1993)(core)(pal)(m4)[segat115015re r5c] (Track 02).bin" size="38351712" crc="a4f9758f" md5="2556f824b3ded387e5f2fc2f7c822697" sha1="80eff8f509d65b4771a500d817d54889b15cb92d"/>
 		<rom name="thunderhawk (1993)(core)(pal)(m4)[segat115015re r5c] (Track 03).bin" size="38532816" crc="1587b929" md5="e106ad037ff39526d7ceb74dfecae54b" sha1="e9584eefd616b43c0a51101d420bb7bcce7d8e08"/>
@@ -2482,7 +2776,9 @@
 	</game>
 	<game name="thawk\thunderhawk (demo) (1993)(core)(pal)" type="cd" sha1="455253e470ef31fb62474b226fd032314ce3b772" size="70777885" crc="2b05fedf" fullsha1="795bd9445c7d7377f5fe11deac3d5629c5918f5e" dataSha1="833df13d2256fa5187326344a0481b007c6f6911">
 		<category>Games</category>
-		<description>thawk\thunderhawk (demo) (1993)(core)(pal)</description>
+		<description>Thunderhawk (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Core Design</manufacturer>
 		<rom name="thunderhawk (demo) (1993)(core)(pal) (Track 01).bin" size="24791040" crc="dc6c148e" md5="2136c4356198854020bcb32657ac81c5" sha1="0eff270419c5712e8887cb162df81b867b45b3f0"/>
 		<rom name="thunderhawk (demo) (1993)(core)(pal) (Track 02).bin" size="38532816" crc="fa308c8a" md5="a1cf553a4a43ad5a4f9d786e6fab23fc" sha1="f5585a36a5eb21ed4f7e8e9a2461f38b7ab269c7"/>
 		<rom name="thunderhawk (demo) (1993)(core)(pal) (Track 03).bin" size="40717824" crc="415b745d" md5="3c8ee3a067042a0e1db7c7637b6b7d60" sha1="5d28c19edf669d2ee9bca89e38771f909ae258a2"/>
@@ -2490,7 +2786,9 @@
 	</game>
 	<game name="thawk\thunderhawk (demo) (1993)(core)(pal)(m4)[mega power - issue 04]" type="cd" sha1="f6bbe7f6a9fde643f36269e86d25a22a3ec8272b" size="65266506" crc="174ca26a" fullsha1="e30162d91af930ecaecb7717f92ca43af0731868" dataSha1="aa83236c941d22fed3d6d72f3b26e2dfc74867c6">
 		<category>Games</category>
-		<description>thawk\thunderhawk (demo) (1993)(core)(pal)(m4)[mega power - issue 04]</description>
+		<description>Thunderhawk (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Core Design</manufacturer>
 		<rom name="thunderhawk (demo) (1993)(core)(pal)(m4)[mega power - issue 04] (Track 01).bin" size="12961792" crc="82b72ba5" md5="d198258a4734ae87132e1133ae036bf2" sha1="417fb9df4a445d58933d4cfcff4e4fdb2528caef"/>
 		<rom name="thunderhawk (demo) (1993)(core)(pal)(m4)[mega power - issue 04] (Track 02).bin" size="38532816" crc="d20e1d84" md5="b46a19c1f12ba4dcb2151fe779904fb2" sha1="571135af009cd62013fb7df5536d6a14f9038639"/>
 		<rom name="thunderhawk (demo) (1993)(core)(pal)(m4)[mega power - issue 04] (Track 03).bin" size="40717824" crc="ddcb6804" md5="b945ab350f676d1a84011c7a65b48047" sha1="2b57c20662e04377138bd7d9a5e78831fd6c6055"/>
@@ -2499,7 +2797,9 @@
 	</game>
 	<game name="thawk\thunderhawk (europe) (en,fr,de,es)" type="cd" sha1="605ae4fed8e8f7082fa98dd64903d9cdc3c2e234" size="261990909" crc="f7628db2" fullsha1="12a831bd0fd6ac7b0e73454e0af6e921e4f5c681" dataSha1="2452e2bd19432f3d8ed251e3f8c89228a9337084">
 		<category>Games</category>
-		<description>thawk\thunderhawk (europe) (en,fr,de,es)</description>
+		<description>Thunderhawk (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Core Design</manufacturer>
 		<rom name="thunderhawk (europe) (en,fr,de,es) (Track 01).bin" size="147500976" crc="1894660a" md5="6d97b9999c4da460a75190a3b4e79ea9" sha1="bc90e88fbe915fa644d7a81ca31fd43d93b4386c"/>
 		<rom name="thunderhawk (europe) (en,fr,de,es) (Track 02).bin" size="38704512" crc="3574a538" md5="e827b706a28e39edf7fed17eade91bd8" sha1="5f8b4c969b7f1d0035c70a6abee468e14cbe825f"/>
 		<rom name="thunderhawk (europe) (en,fr,de,es) (Track 03).bin" size="38532816" crc="24f7892a" md5="878a89bcd1e5c246e1be9614ba6958d5" sha1="6528f5ba7d78cd434b5841a18976ecb9078b2420"/>
@@ -2515,7 +2815,9 @@
 	</game>
 	<game name="themeprk\theme park (1995)(domark)(pal)(m4)" type="cd" sha1="79878a864652156e172114e0f9df2f29fc56768d" size="42687850" crc="a94089cb" fullsha1="66aa2ca8b685ee77b4bdadc8c9b4f689c093955d" dataSha1="d78adb5c49cf9f0b6432abe3d5a135aa50f49523">
 		<category>Games</category>
-		<description>themeprk\theme park (1995)(domark)(pal)(m4)</description>
+		<description>Theme Park (Europe)</description>
+		<year>1995</year>
+		<manufacturer>Domark</manufacturer>
 		<rom name="theme park (1995)(domark)(pal)(m4) (Track 01).bin" size="20283392" crc="d709ed44" md5="4fc0501cf403e0fd94486dd0f284505f" sha1="3d3cfe12fb97b13de27bb2eeaa25cc92a7d01d9a"/>
 		<rom name="theme park (1995)(domark)(pal)(m4) (Track 02).bin" size="5030928" crc="704e9a24" md5="fb512ed3084cabf9e050822b7910bab7" sha1="3037c4d4bf0e93d11928f28b408bf8d966c45235"/>
 		<rom name="theme park (1995)(domark)(pal)(m4) (Track 03).bin" size="4892160" crc="f5ad9932" md5="73e42179e8c214fd3d75511616599641" sha1="0c2e2528d4e68a1edfe25e873d06d95f59bf703b"/>
@@ -2544,7 +2846,9 @@
 	</game>
 	<game name="timecop\time cop (pal, beta, complete)" type="cd" sha1="da484cd9cac1e984ef4c32335c24ddc0be095683" size="128806935" crc="a56075e7" fullsha1="84fea271c39aae2b88f34be66f729cc23e4c3fb1" dataSha1="f0c634dae57af65146df61d412b09cd904eb52cc">
 		<category>Games</category>
-		<description>timecop\time cop (pal, beta, complete)</description>
+		<description>Time Cop (Europe, prototype)</description>
+		<year>19??</year>
+		<manufacturer>&gt;</manufacturer>
 		<rom name="time cop (pal, beta, complete) (Track 01).bin" size="49453152" crc="62769e02" md5="9358a208962fe8958dc4b9bf2ef0d7d8" sha1="c92b89cbe7d66059d4d0ea3ec4b012c8ae7119c9"/>
 		<rom name="time cop (pal, beta, complete) (Track 02).bin" size="20481216" crc="73f73828" md5="b1b3c7a9911380f1f2f04cc810769e2f" sha1="1b0cdc73675f1523c1ffaec077c7cb74687e5d06"/>
 		<rom name="time cop (pal, beta, complete) (Track 03).bin" size="15008112" crc="feb11c32" md5="8b47adca0ff1f7d93e0ef0a858a38ec5" sha1="64b5d945b017dfb3b5af0d718445e1397536de06"/>
@@ -2557,25 +2861,33 @@
 	</game>
 	<game name="timecop\timecop (demo) (1995)(jvc)(pal)[sega pro cd - issue 45]" type="cd" sha1="0c59e61219907a3463f633f6053dc791bc174477" size="9580094" crc="d4357c93" fullsha1="459683d4c2575c3a0ba59d2218757f99dfe7fd19" dataSha1="7f07166b12e9632dee01c7527a426470ab867580">
 		<category>Games</category>
-		<description>timecop\timecop (demo) (1995)(jvc)(pal)[sega pro cd - issue 45]</description>
+		<description>Time Cop (Europe, prototype)</description>
+		<year>19??</year>
+		<manufacturer>&gt;</manufacturer>
 		<rom name="timecop (demo) (1995)(jvc)(pal)[sega pro cd - issue 45] (Track 01).bin" size="4452352" crc="e20df99b" md5="c3042b1c87f5dc8968cbe4ef867ac3b5" sha1="82347a1d4ec9acb1b662aced28138e73600ac040"/>
 		<rom name="timecop (demo) (1995)(jvc)(pal)[sega pro cd - issue 45] (Track 02).bin" size="12740784" crc="504f4813" md5="8772595dc82f8b8f68cb4830672cc4dc" sha1="fe782de6b136e408630493b85764d57dec944de3"/>
 	</game>
 	<game name="timecop\timecop (early beta) (e)" type="cd" sha1="5296dddaef193aaa7e69dba9e6e060852be57254" size="9762810" crc="ea975944" fullsha1="8236e87c4308836f307ed7ffe86a13e940728712" dataSha1="7876440eb9f34ea0f2726933421665a7270bae9d">
 		<category>Games</category>
-		<description>timecop\timecop (early beta) (e)</description>
+		<description>Time Cop (Europe, prototype)</description>
+		<year>19??</year>
+		<manufacturer>&gt;</manufacturer>
 		<rom name="timecop (early beta) (e) (Track 01).bin" size="4757504" crc="71543265" md5="8b36ddef03d539142476e613d2a5340b" sha1="0b8db5a0830b2ea17bfcd0ba1819eeb035b3dc8c"/>
 		<rom name="timecop (early beta) (e) (Track 02).bin" size="12736080" crc="3396dc77" md5="cdd4ae467f4f774eecce649320327a15" sha1="d183fd991db746d96cbae403d98eda68d1d8a9c8"/>
 	</game>
 	<game name="timegal\time gal (europe)" type="cd" sha1="d69e667bfb8bb980645e007b59aa332773e50fb5" size="64968622" crc="6d194557" fullsha1="8184f35cbc350ade9e6938d9b4cfc204aba06b45" dataSha1="913395f505dbd506b52e591893e3d2a3ad5b1900">
 		<category>Games</category>
-		<description>timegal\time gal (europe)</description>
+		<description>Time Gal (Europe)</description>
+		<year>1993</year>
+		<manufacturer>ega</manufacturer>
 		<rom name="time gal (europe) (Track 01).bin" size="298936848" crc="d59965e8" md5="ac1572aa45209fc6cc40d90851d57de5" sha1="41f58d850d9e5134d51998f4c8045e91af7afaf0"/>
 		<rom name="time gal (europe) (Track 02).bin" size="1651104" crc="297595a7" md5="b9f9d8abc7b262fa3d02e3006cc20c1c" sha1="4252bbe282ce29b943c33a18fbc4c352ebc36bfc"/>
 	</game>
 	<game name="wcup94\world cup usa 94 (1994)(u.s. gold)(pal)(m8)" type="cd" sha1="a0ed2f962f4d86b4d07cda42389d8dbd3f4c123c" size="383534390" crc="4af3edf8" fullsha1="7af8b9b21008335d1fb7d7fecadf1934d347a503" dataSha1="1dd5856381b65350f1c3fabdd0c42df56a8bdf84">
 		<category>Games</category>
-		<description>wcup94\world cup usa 94 (1994)(u.s. gold)(pal)(m8)</description>
+		<description>)</description>
+		<year>1994</year>
+		<manufacturer>U.S. Gold</manufacturer>
 		<rom name="world cup usa 94 (1994)(u.s. gold)(pal)(m8) (Track 01).bin" size="112560128" crc="5c75eeac" md5="000f7211d8de7eb39adfd2d42c807cdc" sha1="9900afa5fe8441fc96c2679229b0dc24369643d6"/>
 		<rom name="world cup usa 94 (1994)(u.s. gold)(pal)(m8) (Track 02).bin" size="24192672" crc="7b3dc0e9" md5="03202ea7d6c11e9c6c770eb2cd743fbe" sha1="209ca34cede25868bc704bc52e00c37c327343eb"/>
 		<rom name="world cup usa 94 (1994)(u.s. gold)(pal)(m8) (Track 03).bin" size="33770016" crc="b27e3b6d" md5="d72abef59277db0c3077382f79583c39" sha1="9290cc0b347bbed720fb522bf93a10e0d90c77b3"/>
@@ -2597,7 +2909,9 @@
 	</game>
 	<game name="wolfchld\wolfchild (europe)" type="cd" sha1="1ae2e290afb8fa5c2cb42fa4b5645372fa5ba16e" size="232446937" crc="2aaec4c1" fullsha1="0f9d05fefb0eeaaa90695f4efab91f17620ea765" dataSha1="264d261ce870ab5a54bc1a61b36de12ddf4bbb1d">
 		<category>Games</category>
-		<description>wolfchld\wolfchild (europe)</description>
+		<description>Wolfchild (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="wolfchild (europe) (Track 01).bin" size="11343696" crc="e3a77cfa" md5="cb6f2eec8b35079dfbc2265d4f6a02e6" sha1="e4fd9cfa70fc909972eff5e3e9e9a6b550bc9471"/>
 		<rom name="wolfchild (europe) (Track 02).bin" size="34477968" crc="b41b20c1" md5="84ff2ba304936928354561a5a2a2f06f" sha1="0c527f5afc12fb5562e780e1144f1f351802a3c6"/>
 		<rom name="wolfchild (europe) (Track 03).bin" size="53094048" crc="2f1e370f" md5="63a61b2c606137ab4217ced64640157b" sha1="f0ee24e3549919e1dd702bb57ffe7d97d985a722"/>
@@ -2612,7 +2926,9 @@
 	</game>
 	<game name="wonderdg\wonder dog (1993)(sega)(pal)" type="cd" sha1="e74e11960ad97ba1f369426fccb494204a4a6085" size="308129550" crc="ffafcc4b" fullsha1="e2baf5f5214f15f10625bc2b7100c462c74884b3" dataSha1="805e53d66ee0faeba03dbaf5e02ec788addf93f7">
 		<category>Games</category>
-		<description>wonderdg\wonder dog (1993)(sega)(pal)</description>
+		<description>Wonder Dog (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<rom name="wonder dog (1993)(sega)(pal) (Track 01).bin" size="28514304" crc="c1570797" md5="95d6de560d700b499f75bb0ee31c0cdf" sha1="cab9fb1b9e5f76813e3ac579a4c56de139a0c2fc"/>
 		<rom name="wonder dog (1993)(sega)(pal) (Track 02).bin" size="42968688" crc="54459c93" md5="c2f0d8ddb1c42e7cc9824119935b7154" sha1="2dd3208167ced67d894c4206e5eafff9e92e8f8f"/>
 		<rom name="wonder dog (1993)(sega)(pal) (Track 03).bin" size="38189424" crc="0315cbb9" md5="4db256c3a4bf08b6e9875527e0eb1c72" sha1="d56d7e5028564eed5dced1c88eabae4b1e734fe5"/>

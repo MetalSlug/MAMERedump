@@ -4,14 +4,16 @@
 	<header>
 		<name>cd32</name>
 		<description>cd32</description>
-		<version>0.267</version>
+		<version>0.274</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
 	<game name="abreed3d\alien breed 3d (europe)" type="cd" sha1="12c07998b854e8381cca0f026aacc10788bef4d5" size="143561598" crc="e2e47010" fullsha1="b6a9037ba0cd5fee65f5445b28e968074c335bbe" dataSha1="125ce890c786779cb8d9e57d7584fb86ae63ecec">
 		<category>Games</category>
-		<description>abreed3d\alien breed 3d (europe)</description>
+		<description>Alien Breed 3D</description>
+		<year>1995</year>
+		<manufacturer>Team 17 / Ocean</manufacturer>
 		<rom name="alien breed 3d (europe) (Track 01).bin" size="3083472" crc="a6429bae" md5="6f4b4b727ced5361f1e19436a42d3901" sha1="e1338148517b478bf00d34b7fa265d380652df3e"/>
 		<rom name="alien breed 3d (europe) (Track 02).bin" size="40988304" crc="b846befe" md5="e717e16a5f2c2acf3d310f94f504f697" sha1="4c75bca1198c33bfab73da49f2ab6b0f1d889055"/>
 		<rom name="alien breed 3d (europe) (Track 03).bin" size="52435488" crc="d31b9699" md5="fc9f9a43bdd5da1e201c6831c07534af" sha1="8dbd4f6da88feb03e86b4a35aaba1df0aa86e5e5"/>
@@ -21,22 +23,30 @@
 	</game>
 	<game name="abreedta\alien breed - tower assault (europe)" type="cd" sha1="bf4f621382b64d68c6dd6b8e4f4330aef09ee54e" size="117276905" crc="76df463e" fullsha1="0a34fc651775b813a910057f0235a0c26157c39e" dataSha1="8bc55dc4e61e8bfb9b49060820cb6fe59f04f1f3">
 		<category>Games</category>
-		<description>abreedta\alien breed - tower assault (europe)</description>
+		<description>Alien Breed: Tower Assault</description>
+		<year>1994</year>
+		<manufacturer>Team 17</manufacturer>
 		<rom name="alien breed - tower assault (europe) (Track 01).bin" size="359089248" crc="373af74d" md5="9f8c77165eb0037587a8ec94df2870ea" sha1="587a08a6cfec6079e12c6822309e35d83cfa75b7"/>
 	</game>
 	<game name="abseqwak\alien breed special edition and qwak (europe) (en,fr,de,it,da)" type="cd" sha1="f5636c2c24076e992af4bd47cf0fa33b635a5f02" size="2351832" crc="56a08f92" fullsha1="499614c9a89026cbd748af7afd65445c50dd6167" dataSha1="cfaf76a76153e7d96720862d7d910f62121d3610">
 		<category>Games</category>
-		<description>abseqwak\alien breed special edition and qwak (europe) (en,fr,de,it,da)</description>
+		<description>Alien Breed - Special Edition + Qwak</description>
+		<year>1994</year>
+		<manufacturer>Team 17</manufacturer>
 		<rom name="alien breed special edition and qwak (europe) (en,fr,de,it,da) (Track 01).bin" size="5762400" crc="dc54d226" md5="2ca6da0d41cdc8ef4028c031efcdd2ca" sha1="45442d1c3995766f728d188726b9460c48c80021"/>
 	</game>
 	<game name="akira\akira (europe)" type="cd" sha1="8966036831ef229bf63c7ce20252fdc71250ea8c" size="5269427" crc="13403c36" fullsha1="1abe30f210f4ee779a75796727f5fe3ef1781692" dataSha1="71f063983d554bd4f33af767642cb59d2d3ef18d">
 		<category>Games</category>
-		<description>akira\akira (europe)</description>
+		<description>s Edition)</description>
+		<year>1994</year>
+		<manufacturer>I.C.E.</manufacturer>
 		<rom name="akira (europe) (Track 01).bin" size="10391136" crc="d4a66cf0" md5="55b1bd5f2712fb22c503d30a9ab048a8" sha1="3fdf3fa5d4de107e6f7c13384df78f2f5e522b1a"/>
 	</game>
 	<game name="alfred\alfred chicken (europe)" type="cd" sha1="7b4d8b960c94f690421f99a7db2aa1c828545e98" size="125141083" crc="83e8222c" fullsha1="6b6f249c830e15f7c5a5dffbe75596982a07c2c1" dataSha1="95ea82b3c496be76b2172283c59b9aa76ee3e090">
 		<category>Games</category>
-		<description>alfred\alfred chicken (europe)</description>
+		<description>Alfred Chicken</description>
+		<year>1993</year>
+		<manufacturer>Mindscape</manufacturer>
 		<rom name="alfred chicken (europe) (Track 01).bin" size="2159136" crc="99cc1345" md5="2fd6e5b0881348dd576204c503a3551a" sha1="36865357189b63f773fe36a5e64cb49ae450805a"/>
 		<rom name="alfred chicken (europe) (Track 02).bin" size="26596416" crc="1e1e8f40" md5="5717d2e894123d02be6a29d968001149" sha1="b487b802457eba89879489ea3468a6c208cc754d"/>
 		<rom name="alfred chicken (europe) (Track 03).bin" size="31396848" crc="4027f600" md5="5a447f14e0602c668470476cd2046799" sha1="7b065cffa44af1640a46899b911e52ee3c5f6ddf"/>
@@ -50,12 +60,16 @@
 	</game>
 	<game name="arabian\arabian nights (europe) (en,fr,de,it)" type="cd" sha1="005a72f00c728dffce5f24911bda5d3931842ad6" size="1284450" crc="01ef6c23" fullsha1="1199d1e5303f6e9cac6df78d0c032ad5a97387bd" dataSha1="7a02127b563a5237280dd2d781ad760cc1c5efb9">
 		<category>Games</category>
-		<description>arabian\arabian nights (europe) (en,fr,de,it)</description>
+		<description>Arabian Nights</description>
+		<year>1993</year>
+		<manufacturer>Buzz</manufacturer>
 		<rom name="arabian nights (europe) (en,fr,de,it) (Track 01).bin" size="2744784" crc="65c41bab" md5="27695f712fbadbef2aafb0a8a7fac675" sha1="6e04bcc05150d5bdc204ea7b00b8e10332c1f178"/>
 	</game>
 	<game name="arcdpool\arcade pool (europe) (en,fr,de,it)" type="cd" sha1="749d1e1a9bd5f1adf9b4f89580407de2eceab0fe" size="211977899" crc="c5a89e11" fullsha1="c74becbe39a592c1e9cc441dd67282951c750e9c" dataSha1="717d1812b62dfbc70d28d6932fe073dae180309f">
 		<category>Games</category>
-		<description>arcdpool\arcade pool (europe) (en,fr,de,it)</description>
+		<description>Arcade Pool (set 1)</description>
+		<year>1994</year>
+		<manufacturer>Team 17</manufacturer>
 		<rom name="arcade pool (europe) (en,fr,de,it) (Track 01).bin" size="7832160" crc="f922a7ac" md5="cd6f31682cf4c60fbb7d6bbfa9cbcc61" sha1="b3e846a6999035fb407e17960f4d1e76ed53e230"/>
 		<rom name="arcade pool (europe) (en,fr,de,it) (Track 02).bin" size="85081248" crc="7a657b3f" md5="7f7dd257056908567bfbc213ea991def" sha1="2eb207770276e0b4d2ad7dee543cc139c043bf5d"/>
 		<rom name="arcade pool (europe) (en,fr,de,it) (Track 03).bin" size="85857408" crc="e58244d0" md5="455d62714f6a284e00557a11be45d095" sha1="b3002da9352acb2d0a9bba66e0f5de9a26769704"/>
@@ -66,7 +80,9 @@
 	</game>
 	<game name="arcdpool\arcade pool (europe) (en,fr,de,it) (alt)" type="cd" sha1="c7af440b5c493f2388b5b86c8de611a912c6b2e8" size="211975071" crc="143446d7" fullsha1="f497eb75d8a8ab1ec15630ad652700a0b0463a25" dataSha1="fa27d24c71c5c02afb116be1380b8b265c9d5aea">
 		<category>Games</category>
-		<description>arcdpool\arcade pool (europe) (en,fr,de,it) (alt)</description>
+		<description>Arcade Pool (set 1)</description>
+		<year>1994</year>
+		<manufacturer>Team 17</manufacturer>
 		<rom name="arcade pool (europe) (en,fr,de,it) (alt) (Track 01).bin" size="7606368" crc="5d18ae4d" md5="25e2643d4f79c8540e020225dae017b6" sha1="f8d6b70faeef51ad787d1189aa01eebd5cf869fc"/>
 		<rom name="arcade pool (europe) (en,fr,de,it) (alt) (Track 02).bin" size="84909552" crc="7dff9a5b" md5="470baf275f120dae8f6e5573b2beaa05" sha1="4d44d0b3c191dc03ea9661d743ef475b7b546450"/>
 		<rom name="arcade pool (europe) (en,fr,de,it) (alt) (Track 03).bin" size="85857408" crc="3077c23c" md5="ddddb5b7fdc86ba95e28523864ccb3a3" sha1="dbe4541ff04b52a435c1529eceb30f86e1c02912"/>
@@ -77,19 +93,25 @@
 	</game>
 	<game name="atr\atr - all terrain racing (1995)(team 17)" type="" sha1="1024e13272084bd323a5502ea2dcdaff60890789" size="1175148" crc="25002fdd" fullsha1="5a914cac08e0c76b0f83d3e051d0877e8849d413" dataSha1="f5d6a058870d720eb4320cb32d9f0681e809d318">
 		<category>Games</category>
-		<description>atr\atr - all terrain racing (1995)(team 17)</description>
+		<description>ATR: All Terrain Racing</description>
+		<year>1995</year>
+		<manufacturer>Team 17</manufacturer>
 		<rom name="atr - all terrain racing (1995)(team 17) (Track 01).bin" size="72606240" crc="a3d1c405" md5="d26d6071e593d97b8845738403eeea04" sha1="b291a233e3a0616fe7f749e1402260511a69564a"/>
 	</game>
 	<game name="banshee\banshee (europe) (en,fr,de,da)" type="cd" sha1="d212c60db1aed57ddb87e05f1917293c327fe1fb" size="33311971" crc="55cb8483" fullsha1="f10de2115430176776215aef8b239dccb54e34ec" dataSha1="ac105b49e47d09fb5e9bbc35411d47661bb669f9">
 		<category>Games</category>
-		<description>banshee\banshee (europe) (en,fr,de,da)</description>
+		<description>Banshee</description>
+		<year>1994</year>
+		<manufacturer>Core</manufacturer>
 		<rom name="banshee (europe) (en,fr,de,da) (Track 01).bin" size="4170096" crc="e7957b85" md5="1e151a783e7c718954e73f54a7f7d0d3" sha1="6e224e5c9f05002cf5242862cedc39218f09fb03"/>
 		<rom name="banshee (europe) (en,fr,de,da) (Track 02).bin" size="22461600" crc="f8d00369" md5="50ec230ffd2aedf324c1e64f752aec67" sha1="fbc8d96ad4fecb66d9986cfe892eed4ac0b5aae1"/>
 		<rom name="banshee (europe) (en,fr,de,da) (Track 03).bin" size="31817856" crc="15ea2f9a" md5="5c4c6894175bc8d3c944b7e8e795e8b8" sha1="1927f5c30df2f5b8537eeb45048338337a991fba"/>
 	</game>
 	<game name="basejump\base jumpers (europe)" type="cd" sha1="463a13ac8395d0f88192b52314941db090991804" size="100176334" crc="3b38295f" fullsha1="9ef68bd83d199015dc3180333da79a8292908365" dataSha1="4d8c37fd7ce9d2ac5424e988ba94d11a5988c2fe">
 		<category>Games</category>
-		<description>basejump\base jumpers (europe)</description>
+		<description>Base Jumpers</description>
+		<year>1995</year>
+		<manufacturer>Rasputin</manufacturer>
 		<rom name="base jumpers (europe) (Track 01).bin" size="2940000" crc="521f905d" md5="4121e0e9a8c67cc8dd4bf484ed953c99" sha1="6bc7dbaa8b5e31f3dad6c15978cd2a5b3e487770"/>
 		<rom name="base jumpers (europe) (Track 02).bin" size="8232000" crc="cc1a4dbb" md5="b3484c010bf67f1db40d26d312337c14" sha1="e27d40ef3c5c8983f9cf634ccbe69ca6e1c34229"/>
 		<rom name="base jumpers (europe) (Track 03).bin" size="19392240" crc="21270f1e" md5="f39410dcf86514a6f30c55f344bb9d91" sha1="6e0ef6136158742059c301a27690fc0fffaf53aa"/>
@@ -103,17 +125,23 @@
 	</game>
 	<game name="bass\beneath a steel sky (europe) (en,fr,de,it)" type="cd" sha1="9c6b1238e2f7486b0c996b3302619daf4e333323" size="59257355" crc="25f32937" fullsha1="a69d0c78450a4740076533d1609612b4d131b0bc" dataSha1="0936319e25aaa9c84dfc9af98e346f5e882717d1">
 		<category>Games</category>
-		<description>bass\beneath a steel sky (europe) (en,fr,de,it)</description>
+		<description>Beneath a Steel Sky</description>
+		<year>1994</year>
+		<manufacturer>Virgin</manufacturer>
 		<rom name="beneath a steel sky (europe) (en,fr,de,it) (Track 01).bin" size="110238240" crc="fa395c9e" md5="7a5995578f91ecaf8051b4b45222ef71" sha1="0b9a4fe41e84750bf55db51515962920e1921eb8"/>
 	</game>
 	<game name="beavers\beavers (europe)" type="cd" sha1="1104cdc1e8d08ad0477f0966d2626ee25ab7126b" size="2416689" crc="a187c73f" fullsha1="5d7e7b4dcbacf92c6ec17632f124dcd27ab333fd" dataSha1="09a9f74786880b1d88262cc8cf6a6e2ed1924440">
 		<category>Games</category>
-		<description>beavers\beavers (europe)</description>
+		<description>Beavers</description>
+		<year>1994</year>
+		<manufacturer>Unique</manufacturer>
 		<rom name="beavers (europe) (Track 01).bin" size="7832160" crc="fbf202b4" md5="62ec92623c7e5817e7fb3a1b411e0f7b" sha1="2ddffd877cc54390294c4f94ba0e6a0648b9e9c8"/>
 	</game>
 	<game name="benefact\benefactor (europe)" type="cd" sha1="8573b7403bc7e18ab3b1ea542d0d29436aa9a299" size="365025180" crc="09189aed" fullsha1="3a2add193cc9869a16a37090eaddc5ce98b36bc8" dataSha1="7ae1ab4169db87ee5412642ef39139ece4d1efb4">
 		<category>Games</category>
-		<description>benefact\benefactor (europe)</description>
+		<description>Benefactor</description>
+		<year>1994</year>
+		<manufacturer>Psygnosis</manufacturer>
 		<rom name="benefactor (europe) (Track 01).bin" size="3749088" crc="fb7554b8" md5="a866573cae9dc3cf1a1ce05eaade0617" sha1="4e44d1ac539f11703611821ca381a4bd36a5cdae"/>
 		<rom name="benefactor (europe) (Track 02).bin" size="21840672" crc="b4da275b" md5="d9a0d19341b40022bf1300036ec20fe5" sha1="17984b4d1edf29cfe5577582c6c304a9129c2171"/>
 		<rom name="benefactor (europe) (Track 03).bin" size="26429424" crc="86c7a18b" md5="2ddda19f64a4ae97ebd5ac1ae76d1f68" sha1="6d218c7be22466b097504d25f11c4b82ab20c8aa"/>
@@ -135,25 +163,33 @@
 	</game>
 	<game name="big6diz\big 6, the (1994)(codemasters)(en-de)[compilation]" type="cd" sha1="adeca22373abe305b03db9c93a5af97b72282677" size="191363138" crc="b7d48c42" fullsha1="580107d62b1093bb50f53859d90a7a8908ac96e6" dataSha1="1d92f53a3b6179bdc8520912a14f8d00d8442a07">
 		<category>Games</category>
-		<description>big6diz\big 6, the (1994)(codemasters)(en-de)[compilation]</description>
+		<description>The Big 6 (Dizzy Collection)</description>
+		<year>1994</year>
+		<manufacturer>Codemasters</manufacturer>
 		<rom name="big 6, the (1994)(codemasters)(en-de)[compilation] (Track 01).bin" size="109506560" crc="6bb20233" md5="4367e5cb28dc505bc5c60caf63e98ed8" sha1="3554d9f950f2d1a64c9511f4dffb399210e78d48"/>
 		<rom name="big 6, the (1994)(codemasters)(en-de)[compilation] (Track 02).bin" size="29710464" crc="1ec37320" md5="9aec87fb910190d1b640354f9a94370d" sha1="f9043b613dcefc29a4171ae30c83fd8622b4bc59"/>
 		<rom name="big 6, the (1994)(codemasters)(en-de)[compilation] (Track 03).bin" size="292908672" crc="5e4f5dd5" md5="01eb0a49f916f97f29454e0cd0a81cee" sha1="02ea06162a0b1679abce6f00c1867dc059807bcf"/>
 	</game>
 	<game name="blkviper\black viper (europe) (en,de,it)" type="cd" sha1="b3f4179fb7ed690489b7daf0d8e7d9edfad7c43e" size="45318654" crc="9e9686af" fullsha1="9fffbfb004596330d5befd2011216c1640cfa5d5" dataSha1="fa3f041fe4d5c6ef0eda794a2431dd87b10a2671">
 		<category>Games</category>
-		<description>blkviper\black viper (europe) (en,de,it)</description>
+		<description>Black Viper</description>
+		<year>1996</year>
+		<manufacturer>Neo</manufacturer>
 		<rom name="black viper (europe) (en,de,it) (Track 01).bin" size="86348976" crc="f47ff1b1" md5="2c882e7f77d8113e09bbbe2295c48ee5" sha1="d7532015e808cf42a40ac4857a359201b102d754"/>
 	</game>
 	<game name="brutalf\brutal football (europe)" type="cd" sha1="bce34cb51a502143ce6a93975d00343b1bb1e0e5" size="46120334" crc="e04675a8" fullsha1="360d2d53cf83c7d22edca4845ff4f5f77e240037" dataSha1="77e93cea6db181b5f510033f455cf3572f9f181e">
 		<category>Games</category>
-		<description>brutalf\brutal football (europe)</description>
+		<description>Brutal Sports Series: Football</description>
+		<year>1994</year>
+		<manufacturer>Millennium</manufacturer>
 		<rom name="brutal football (europe) (Track 01).bin" size="128807280" crc="96d6ae03" md5="b288af642383e5cadcb3585d87a1eb04" sha1="e0657f0463a18baedf2e922873e51d54d2294bad"/>
 		<rom name="brutal football (europe) (Track 02).bin" size="74995872" crc="e2ad800f" md5="42e66b44fc5818b71e062cfdfb8281fe" sha1="1f3ac5ff5de58ae4d5279f4b0a6f2b9006afc48c"/>
 	</game>
 	<game name="btlchess\battle chess (europe)" type="cd" sha1="6c2f17b980aa1700e0290c7b9924cd1fcb17a709" size="213573713" crc="bad2495a" fullsha1="727925e4c42a11eb2b79023473cbddd6b79333f9" dataSha1="3793879e78a757b919dab0747232bc1b33e2a2f7">
 		<category>Games</category>
-		<description>btlchess\battle chess (europe)</description>
+		<description>Battle Chess</description>
+		<year>1994</year>
+		<manufacturer>Interplay</manufacturer>
 		<rom name="battle chess (europe) (Track 01).bin" size="22325184" crc="aacad08a" md5="cdde4cbaa2289a9c96252173ae9d62d8" sha1="e5688210fe0fb902e310ab0b1552e74dd8db6a67"/>
 		<rom name="battle chess (europe) (Track 02).bin" size="21172704" crc="1a24ecf1" md5="89c48ade597fceaa44d2bc88fb639386" sha1="485ec8f0b5b5a934f6841d1c89c333cd64e17ab5"/>
 		<rom name="battle chess (europe) (Track 03).bin" size="26993904" crc="b9c63bd0" md5="1587cb3014d9fe0ce5c7a0eddbebdcaf" sha1="02425882aa67c34893291cc04d3c61401e4e6c21"/>
@@ -177,12 +213,16 @@
 	</game>
 	<game name="btoads\battletoads (europe)" type="cd" sha1="0053b82fc46a6af1572e2b3e5e4e07bc32d91917" size="1679603" crc="39b0b466" fullsha1="31278a9d639c93cc48f2780a682d3c86e6e6ab5d" dataSha1="0f78a4d2b03ca982c4ed8a432f0f868c8333cfb4">
 		<category>Games</category>
-		<description>btoads\battletoads (europe)</description>
+		<description>Battletoads</description>
+		<year>1994</year>
+		<manufacturer>Mindscape</manufacturer>
 		<rom name="battletoads (europe) (Track 01).bin" size="62963040" crc="a4ce51df" md5="5b379f03d20fe3eac71552ddc014000d" sha1="b608e0387cf8aca9dcc94fcf9e1c2bdd76bc6de6"/>
 	</game>
 	<game name="bubba\bubba n stix (europe)" type="cd" sha1="94952c5b56e6b06ce6bd8a72e80fd6f9cdbbfb4a" size="201271597" crc="f778dd8e" fullsha1="32f0704bc31e357c9bc98c85d16718ae5302d569" dataSha1="347410fc1999c673529f02e8f671723ba41867b3">
 		<category>Games</category>
-		<description>bubba\bubba n stix (europe)</description>
+		<description> Stix</description>
+		<year>1994</year>
+		<manufacturer>Core</manufacturer>
 		<rom name="bubba n stix (europe) (Track 01).bin" size="2763600" crc="78782fe4" md5="e1b08abf55119b1050636fcaee7fc28a" sha1="0f61c3d295ec0a9b00f57a2d4e92a350f29a8dd2"/>
 		<rom name="bubba n stix (europe) (Track 02).bin" size="39922848" crc="2646c20f" md5="3672e3c191e50ae2fa2f0dca9e39abf5" sha1="1c3b43e1764f5f0ba488dd575818a7c8fedfb59e"/>
 		<rom name="bubba n stix (europe) (Track 03).bin" size="50859648" crc="52528b0e" md5="87a4e6c4b88cffbbb8c8daa6c02ca53d" sha1="62c625c1d5a9f5d960cf1887cc93372656fd61b3"/>
@@ -198,7 +238,9 @@
 	</game>
 	<game name="bubblesq\bubble and squeak (europe)" type="cd" sha1="32bccce7ad41b0d940f607cbdddf25f7497a68b6" size="115659769" crc="6cac3583" fullsha1="fc9bc6d45a891a88c517870923bba0be6f5cb74e" dataSha1="6547a58c0c09023c98de3ea4d8a0d9999ae48a8d">
 		<category>Games</category>
-		<description>bubblesq\bubble and squeak (europe)</description>
+		<description>Bubble and Squeak</description>
+		<year>1994</year>
+		<manufacturer>Audiogenic</manufacturer>
 		<rom name="bubble and squeak (europe) (Track 01).bin" size="3041136" crc="beecb186" md5="43975eeb0ee264ba06c6e311ba6c3a67" sha1="0a847240e47d5cfeb97d52e9277cb1d6e576dae4"/>
 		<rom name="bubble and squeak (europe) (Track 02).bin" size="29686944" crc="a2f52e66" md5="576852b6bd16a773815344abed2f650c" sha1="1d218fe7ec36335132bf08f1e23102e40aa0cb07"/>
 		<rom name="bubble and squeak (europe) (Track 03).bin" size="25269888" crc="1bff5dc6" md5="9f66c01df3edf8dfbc84c16d6b69e827" sha1="65f3a03e002df48c08f9fdda11712670633ed6b6"/>
@@ -210,7 +252,9 @@
 	</game>
 	<game name="bumpburn\bump n burn (europe)" type="cd" sha1="3cf2a662c38b90f4dec84dac5c304caa6960974f" size="182308000" crc="7a526341" fullsha1="15c624de3acbbc6e23b45deefbe5b007e4eaf8ab" dataSha1="8cfcbbcfbbd35e0e5256ed319e89ad28ccb9496e">
 		<category>Games</category>
-		<description>bumpburn\bump n burn (europe)</description>
+		<description> Burn</description>
+		<year>1994</year>
+		<manufacturer>Grandslam</manufacturer>
 		<rom name="bump n burn (europe) (Track 01).bin" size="45292464" crc="33d629a4" md5="6a5461ed7a6bde3081eed1a8a251f16b" sha1="f9e9a2aadfaa6b75cbc83db4e1a0c60b513afe1c"/>
 		<rom name="bump n burn (europe) (Track 02).bin" size="1764000" crc="e7887563" md5="3078714f29b09408fbf800f7a2ce03d0" sha1="923937048d6b3fe908cbe4115a099a3b7a195d0b"/>
 		<rom name="bump n burn (europe) (Track 03).bin" size="39727632" crc="8c096e48" md5="f2b20586e513b846e8393139751b1a46" sha1="e46f1fd1b2855142ec3623ff94609807f1e03dca"/>
@@ -237,19 +281,25 @@
 	</game>
 	<game name="cannfodd\cannon fodder (europe)" type="cd" sha1="4451bd14ce365edb02331f6c2356aa05a4961632" size="30598922" crc="bcd6debb" fullsha1="11a0c5316bf765cae1f9280d4f2ec2843dc8c2d0" dataSha1="7973c6f954fa345e8072e746cb252deceb827104">
 		<category>Games</category>
-		<description>cannfodd\cannon fodder (europe)</description>
+		<description>Cannon Fodder</description>
+		<year>1994</year>
+		<manufacturer>Virgin</manufacturer>
 		<rom name="cannon fodder (europe) (Track 01).bin" size="64054368" crc="2d38ea03" md5="f939073d79e327a32bce8c4ecc4952f9" sha1="b4b398d5959de42cb797d6b60750ec1bc1de03bf"/>
 		<rom name="cannon fodder (europe) (Track 02).bin" size="29811600" crc="4f1e6562" md5="de60a975e23be6967b42fd1dbe78c6ec" sha1="58484c8a56405bb538fe359053026bc92e240c03"/>
 	</game>
 	<game name="castles2\castles ii - siege and conquest (europe)" type="cd" sha1="3c59d60ee8724fdf6dc3ac9dd9fc4b26ab000bff" size="31176700" crc="0dfbc383" fullsha1="b0b85836d783ac6e349de557a7f83f9eaf432068" dataSha1="ede81cb593d6c5889de90e925a1ff3dfdc36707c">
 		<category>Games</category>
-		<description>castles2\castles ii - siege and conquest (europe)</description>
+		<description> Conquest</description>
+		<year>1993</year>
+		<manufacturer>Interplay</manufacturer>
 		<rom name="castles ii - siege and conquest (europe) (Track 01).bin" size="51638160" crc="20085f2a" md5="83fa660a10846176238ea04dfd681d4e" sha1="0b99ff54636992406b16d38a95ae8aaa7e2f8d04"/>
 		<rom name="castles ii - siege and conquest (europe) (Track 02).bin" size="24841824" crc="cb23f8da" md5="7a0293c903b65e35d7d8e72fd4017d20" sha1="999dcdea855a700007512ee47e3999fc726748f0"/>
 	</game>
 	<game name="cd32mag1\amiga cd32 - volume 1 (europe)" type="cd" sha1="37a30701c5b56b21dd06b847fef54943a9c0ddf4" size="374889644" crc="528fbe4d" fullsha1="3d1fae40469a0c030f0140af3f6f081bbfc5d496" dataSha1="5e84a750d0d0a017f3dd8feff5179376f39c09df">
 		<category>Games</category>
-		<description>cd32mag1\amiga cd32 - volume 1 (europe)</description>
+		<description>Amiga CD32 - Volume 1</description>
+		<year>1994</year>
+		<manufacturer>Future Publishing</manufacturer>
 		<rom name="amiga cd32 - volume 1 (europe) (Track 01).bin" size="174567792" crc="0989a51b" md5="9009cdefcbe569b22a4aca13d5340f0e" sha1="340704dba1d0e55c02cf95412f5120eea821f329"/>
 		<rom name="amiga cd32 - volume 1 (europe) (Track 02).bin" size="11195520" crc="edd4683b" md5="e847bec60db5e16fcd79d2abd25b6223" sha1="568b714d272f7013ba813f47b00401dca2cdc9b4"/>
 		<rom name="amiga cd32 - volume 1 (europe) (Track 03).bin" size="1058400" crc="0317dd12" md5="7df09006d835957ed78d0bf310addc6c" sha1="a82a37dea6c9432dd21277150c88ddb1f9c14dbe"/>
@@ -286,7 +336,9 @@
 	</game>
 	<game name="cd32mag2\amiga cd32 - volume 2 (europe)" type="cd" sha1="a667d7b076f7343cd39a907fac1ee5c4a79638a6" size="235115870" crc="a7208855" fullsha1="e42e631874291ccf5062f6653b3c35385aa66f6b" dataSha1="64622d9dbf833046bae9f17587e54d646b92f146">
 		<category>Games</category>
-		<description>cd32mag2\amiga cd32 - volume 2 (europe)</description>
+		<description>Amiga CD32 - Volume 2</description>
+		<year>1994</year>
+		<manufacturer>Future Publishing</manufacturer>
 		<rom name="amiga cd32 - volume 2 (europe) (Track 01).bin" size="75953136" crc="309dac96" md5="2218dd203e6fc6acef288ebd64b5d9be" sha1="64db03ba714b785b6493304cd564fc5d544bb86e"/>
 		<rom name="amiga cd32 - volume 2 (europe) (Track 02).bin" size="25540368" crc="5e3508a8" md5="7df154f150298e89e64f59a74da1ec88" sha1="32961a2601ffb9ea60c21cd595c67aea8ec0a435"/>
 		<rom name="amiga cd32 - volume 2 (europe) (Track 03).bin" size="75052320" crc="e9ea0172" md5="dd330f514e9c6bc812022018326ad410" sha1="0319a2f5bc3467ccd1fe0773a097b439888488c6"/>
@@ -301,7 +353,9 @@
 	</game>
 	<game name="chaoseng\chaos engine, the (europe) (en,fr,de,it)" type="cd" sha1="a2c77439041ef8959808313fc2253b9a6e9e0d2d" size="235045655" crc="e8a9386d" fullsha1="0044770e73765705061cb5c63a337eab579574d9" dataSha1="5589590214a912a16e84c7e49718c58d01250a00">
 		<category>Games</category>
-		<description>chaoseng\chaos engine, the (europe) (en,fr,de,it)</description>
+		<description>The Chaos Engine</description>
+		<year>1994</year>
+		<manufacturer>Renegade</manufacturer>
 		<rom name="chaos engine, the (europe) (en,fr,de,it) (Track 01).bin" size="5148528" crc="3fa7720a" md5="cdaf739f4ca01267d0e8afa27a68aed0" sha1="5fdf9d05e17cd8e37f99e229f13d814a7812fb7e"/>
 		<rom name="chaos engine, the (europe) (en,fr,de,it) (Track 02).bin" size="12300960" crc="a5d31f35" md5="effb16d0e1820fcd6ef000c570eea78b" sha1="bedbd46f3b0e3c5a0ed77c920ba5f04207832c8d"/>
 		<rom name="chaos engine, the (europe) (en,fr,de,it) (Track 03).bin" size="47698560" crc="cfe20198" md5="aa06676917eaa0d43250d4ce2a80c81b" sha1="a3ffbad1af5bcc2ee138cce7f0ac23f65a16ac70"/>
@@ -319,12 +373,16 @@
 	</game>
 	<game name="chuckrck\chuck rock (europe)" type="cd" sha1="ac4f1fbb204f30a2d3ad01c298a55b9b885d00cd" size="1759394" crc="5782e738" fullsha1="23f177c36a219d5b604bbf9091231c0133f94926" dataSha1="a74003abb8acac2d9bdb711c39c6b162ff4550ca">
 		<category>Games</category>
-		<description>chuckrck\chuck rock (europe)</description>
+		<description>Chuck Rock</description>
+		<year>1994</year>
+		<manufacturer>Corkers</manufacturer>
 		<rom name="chuck rock (europe) (Track 01).bin" size="63301728" crc="dcbc14e3" md5="70c670f0c9c8e4007ce2167088a24d6a" sha1="2c66b7ebcce271f6569b7ab706a432f7f0383107"/>
 	</game>
 	<game name="chukrck2\chuck rock ii - son of chuck (europe)" type="cd" sha1="4b8e928ced69c34321a022cf183a95cc29cf379c" size="230010058" crc="99841b91" fullsha1="6fc1f9194487d4431a0b39510d10575fcd5d09ad" dataSha1="be53abf359fb20983b66b248dd7d41b42b8a71d0">
 		<category>Games</category>
-		<description>chukrck2\chuck rock ii - son of chuck (europe)</description>
+		<description>II: Son of Chuck</description>
+		<year>1994</year>
+		<manufacturer>Core</manufacturer>
 		<rom name="chuck rock ii - son of chuck (europe) (Track 01).bin" size="74523120" crc="3a3bae62" md5="06a08d4f708fcc0925a12e6b44bd1b2d" sha1="68fe74ca70a6aeb435fe48e094e93c63d2903e06"/>
 		<rom name="chuck rock ii - son of chuck (europe) (Track 02).bin" size="42801696" crc="9eabdfb4" md5="5acbacc23c7759135bd118df61beb151" sha1="d5e897432ccd60b41c93bd3cbb673f4fb11afc5a"/>
 		<rom name="chuck rock ii - son of chuck (europe) (Track 03).bin" size="39530064" crc="cdfa0835" md5="e4768604bc77aebe25ce7451608ea0fc" sha1="d0cec4b273f877ece0b3425bd1efe9212c388848"/>
@@ -341,7 +399,9 @@
 	</game>
 	<game name="clockwsr\clockwiser (1994)(rasputin)" type="cd" sha1="285023deb3d938fc9a31a6c7c45b27aaf573dec4" size="203632874" crc="7f14c08b" fullsha1="928443689b1ea00e2820d54a1fa39e071af9659d" dataSha1="6e94de9e6b0258d2f777ab7963f28c8b2cf12e96">
 		<category>Games</category>
-		<description>clockwsr\clockwiser (1994)(rasputin)</description>
+		<description>Clockwiser</description>
+		<year>1994</year>
+		<manufacturer>Rasputin</manufacturer>
 		<rom name="clockwiser (1994)(rasputin) (Track 01).bin" size="2232320" crc="ec42548a" md5="f561701f1cf722614168d9548234257c" sha1="10dfefc09d1143455b30c2d9f7d6f2196fa91c56"/>
 		<rom name="clockwiser (1994)(rasputin) (Track 02).bin" size="14006160" crc="5df863d7" md5="a0abaeccbc3f5c913ca71f0a65ca3da1" sha1="956ddad41781089258ac9c957527653ac5b9a3c9"/>
 		<rom name="clockwiser (1994)(rasputin) (Track 03).bin" size="36710016" crc="dadab9f9" md5="fe0452ca2922113f0b0a28be6b465cf7" sha1="222ba91c42ea1ac91f590de048e9ed3a16f6d18c"/>
@@ -359,22 +419,30 @@
 	</game>
 	<game name="darkseed\darkseed (europe)" type="cd" sha1="2c8d49378314484020ddf00290e17853b1a7b820" size="16196461" crc="f5a684b0" fullsha1="6122a88390ed1e258190bc3f3009997f3a7e778e" dataSha1="5cea53bb275fa1455ceebb7d1d64d6b2d34890e5">
 		<category>Games</category>
-		<description>darkseed\darkseed (europe)</description>
+		<description>Dark Seed</description>
+		<year>1994</year>
+		<manufacturer>Cyberdreams</manufacturer>
 		<rom name="darkseed (europe) (Track 01).bin" size="21628992" crc="79ce0939" md5="c713cc239ec1456cae4f3eaee3266857" sha1="361a45d0f2499d1c6d0b07148d33619310374a6c"/>
 	</game>
 	<game name="deepcore\deep core (europe)" type="cd" sha1="8542bcdf278b703dafb3a1fb37a55d912eb25680" size="1546224" crc="e166eba1" fullsha1="653a2112634619ec6df2be3f4ac98a1a61fbee1e" dataSha1="56038edf147cf1fbd82ba67320b31b1344781e0c">
 		<category>Games</category>
-		<description>deepcore\deep core (europe)</description>
+		<description>Deep Core (Rev. 1)</description>
+		<year>1993</year>
+		<manufacturer>I.C.E.</manufacturer>
 		<rom name="deep core (europe) (Track 01).bin" size="6143424" crc="f1b2ca36" md5="74f5888891ff917878785802c1523e74" sha1="d65c65b0c992a1d105ac10c42ba5fe8883ca531f"/>
 	</game>
 	<game name="dgen\d-generation (europe)" type="cd" sha1="25b1778e6e76cf51407ec7e2a6f0c291db2b1492" size="963546" crc="a287aa81" fullsha1="caefe01fe46eee977e9d46f32ecc3bbf37acb613" dataSha1="30da84241a91aa374e9fbc579acf6f9c3c23b5f2">
 		<category>Games</category>
-		<description>dgen\d-generation (europe)</description>
+		<description>D/Generation</description>
+		<year>1993</year>
+		<manufacturer>Mindscape</manufacturer>
 		<rom name="d-generation (europe) (Track 01).bin" size="20815200" crc="29eb8ceb" md5="bc2a5d227a46cf12b80de51bc2be0f1b" sha1="d27bab90244674a6d1776f342b2315b72e8b0a71"/>
 	</game>
 	<game name="diggoscr\diggers and oscar (1993)(commodore)(m4)[compilation][amiga-cd 31, 54]" type="cd" sha1="6af8e51a03ec7669e2f7201026446f4dea64ee5f" size="182687091" crc="5f1e8aa5" fullsha1="bed75867921b725d4e622011ea0cd50502987f65" dataSha1="b0151cdd714108f850c1aa1b660a47e1df43f109">
 		<category>Games</category>
-		<description>diggoscr\diggers and oscar (1993)(commodore)(m4)[compilation][amiga-cd 31, 54]</description>
+		<description>Diggers + Oscar</description>
+		<year>1993</year>
+		<manufacturer>Commodore</manufacturer>
 		<rom name="diggers and oscar (1993)(commodore)(m4)[compilation][amiga-cd 31, 54] (Track 01).bin" size="28160000" crc="99821394" md5="41936b39dda2d6feff6996dc66ce2b7d" sha1="59e835aece3ef39235854d45956bbc7f251e0135"/>
 		<rom name="diggers and oscar (1993)(commodore)(m4)[compilation][amiga-cd 31, 54] (Track 02).bin" size="28922544" crc="498d9b06" md5="7c36cd3d24dce64082125c7f6a441b4b" sha1="9663b4c63c59d16fa7acd6bf5b21b11ba42f2898"/>
 		<rom name="diggers and oscar (1993)(commodore)(m4)[compilation][amiga-cd 31, 54] (Track 03).bin" size="108709440" crc="5dafddcf" md5="1b0a1e4d24d56b99f3ac0f6e176f331d" sha1="29c0cbd2a24335cc63d264aa55038022e6e32cb4"/>
@@ -388,7 +456,9 @@
 	</game>
 	<game name="disphero\disposable hero (europe)" type="cd" sha1="bd183d6e595fa7243d983710943a481bfba10cfa" size="332655646" crc="018593dc" fullsha1="46c462df763b680018e018911b8d7ed68d47d24e" dataSha1="5073c5e3b29ac8f17cd3758a1459ead44e5373a2">
 		<category>Games</category>
-		<description>disphero\disposable hero (europe)</description>
+		<description>Disposable Hero</description>
+		<year>1994</year>
+		<manufacturer>Gremlin</manufacturer>
 		<rom name="disposable hero (europe) (Track 01).bin" size="15229200" crc="81dc5451" md5="ed6b0af3d54be507448f34592c1f47be" sha1="cc5df5a91daefe5a50e25ab5105fa85b7ba838e3"/>
 		<rom name="disposable hero (europe) (Track 02).bin" size="24590160" crc="3cdce33f" md5="ce5427b627fb3697597e94a1aafb57ed" sha1="899a5f711db8a63ab32de55b718063ccc5c5c0fc"/>
 		<rom name="disposable hero (europe) (Track 03).bin" size="27224400" crc="0be20492" md5="62c61c56d40ea2285d1aa65b08d75ec9" sha1="99f13af081957aaaa88f799af701849b9b31b59e"/>
@@ -408,7 +478,9 @@
 	</game>
 	<game name="donk\donk (europe)" type="cd" sha1="1150647fa694e2f8ccfdfa40848472d636359994" size="195796061" crc="15e99ff7" fullsha1="ea2998f8d0a0728c3e6c1d9f7cdf0f6723792bbc" dataSha1="d7d6e137e289b86023f335f08081521c251b7fe5">
 		<category>Games</category>
-		<description>donk\donk (europe)</description>
+		<description>Donk! The Samurai Duck!</description>
+		<year>94</year>
+		<manufacturer>Supervision</manufacturer>
 		<rom name="donk (europe) (Track 01).bin" size="27200880" crc="8837b5a5" md5="8ac6d962fa54e7cff2da7d9be1edc9c0" sha1="11456a2c005926ebfaf52d606b2570759c13e192"/>
 		<rom name="donk (europe) (Track 02).bin" size="18195072" crc="099fc1df" md5="e32fb36e06e47b5bf70e197df8097249" sha1="17b1c3ef61c7cee80ee3af36a1d1eda2221e5411"/>
 		<rom name="donk (europe) (Track 03).bin" size="15259776" crc="49b6ab02" md5="c36b2f5da3e164afaa99bce50e17a2b8" sha1="6a0c42c7d11737fc45b1c6d26e66594931894f3a"/>
@@ -428,13 +500,17 @@
 	</game>
 	<game name="dstone\dragonstone (europe)" type="cd" sha1="89c3037b81be38012146defd44e280b9f79816af" size="12689471" crc="2b95a1da" fullsha1="43b3408395549c877ddcbc405b35d13d26b085b0" dataSha1="04b70e6448cdac06b516546f3719d46f8d13b0a2">
 		<category>Games</category>
-		<description>dstone\dragonstone (europe)</description>
+		<description>Dragonstone</description>
+		<year>1995</year>
+		<manufacturer>Core</manufacturer>
 		<rom name="dragonstone (europe) (Track 01).bin" size="4094832" crc="c0d22d19" md5="0408223cdd5e7ada380560d47a0def8e" sha1="db88c6586e6f35f4a15eaab4cdbe601bd22fc89a"/>
 		<rom name="dragonstone (europe) (Track 02).bin" size="21182112" crc="10019842" md5="2cfab566763ce399041ddc144653ede3" sha1="7e471dfbaf2dd2be252cef9ede77beb0d1190e3e"/>
 	</game>
 	<game name="dstreets\dangerous streets (europe) (en,fr,de,it)" type="cd" sha1="07c6617b7573715f40e0531c412dae07f9bd5d32" size="147033210" crc="bb042da5" fullsha1="1f5e47178af36e299489589065ec0354c9ed3136" dataSha1="d2f5ffd53e3f45b0c6b4899d0f26d7f14c2396d8">
 		<category>Games</category>
-		<description>dstreets\dangerous streets (europe) (en,fr,de,it)</description>
+		<description>Dangerous Streets</description>
+		<year>1994</year>
+		<manufacturer>Flair</manufacturer>
 		<rom name="dangerous streets (europe) (en,fr,de,it) (Track 01).bin" size="4064256" crc="5f66140f" md5="5b75b323919b51e7d799b0d4b9e18e45" sha1="3de0dc75da1efba2755d067d7d77344e31b7840e"/>
 		<rom name="dangerous streets (europe) (en,fr,de,it) (Track 02).bin" size="38869152" crc="915726a6" md5="5111c679bc0094d2ed0afed1da9f1d44" sha1="3603a3cef5178714e653057bb7f17fbca1537941"/>
 		<rom name="dangerous streets (europe) (en,fr,de,it) (Track 03).bin" size="42580608" crc="7b2d2d5d" md5="6599720e3acba2d0db42762211b0a85b" sha1="c6ee6118e709a52123eb6215a5d28b8fd222241a"/>
@@ -445,18 +521,24 @@
 	</game>
 	<game name="emerald\emerald mines (europe)" type="cd" sha1="fa9d9fba1fb1a166540d0f630d41178943b1ffa0" size="12046136" crc="67d33180" fullsha1="0b12f7863bc94f3f8b2e0b362242be4daec6b43f" dataSha1="e7e136d03546357886c6499b8ce7f6dc070efc47">
 		<category>Games</category>
-		<description>emerald\emerald mines (europe)</description>
+		<description>Emerald Mines</description>
+		<year>1994</year>
+		<manufacturer>Almathera</manufacturer>
 		<rom name="emerald mines (europe) (Track 01).bin" size="120467088" crc="42c5bcbd" md5="1826c533b0187be829eff179b305c94b" sha1="4279bd7c08d07b9dc8dd71aae9f864ce8becdede"/>
 		<rom name="emerald mines (europe) (Track 02).bin" size="5908224" crc="853e0bf8" md5="0e6a8dcec13540f67c5e0921d1144e69" sha1="a6d63e4b16f53d2451e0936a607f6934e817cf09"/>
 	</game>
 	<game name="fireforc\fire force (europe)" type="cd" sha1="8ef2efc981a36e3e075d0c9628f7ee59f41db323" size="773089" crc="5cd5eaa6" fullsha1="9172161a616b456983f149a1eb8659375d35cd90" dataSha1="ccc38a15b01182a46ebeb96898848fb78f1087fa">
 		<category>Games</category>
-		<description>fireforc\fire force (europe)</description>
+		<description>Fireforce</description>
+		<year>1994</year>
+		<manufacturer>I.C.E.</manufacturer>
 		<rom name="fire force (europe) (Track 01).bin" size="2789472" crc="51ff3437" md5="b5c721f7922d5d571320e82c01493f89" sha1="14a83f7b360c395cfff4839a089c9c157252fe48"/>
 	</game>
 	<game name="fireice\fire and ice - the daring adventures of cool coyote (europe) (en,fr,de,it)" type="cd" sha1="9b127491dea26e43c8882d3a008395e0ea56c68d" size="319907542" crc="ae12ecf3" fullsha1="064cadd6379a64d764a24db466807c2b1ded659d" dataSha1="19752383eb84104a3a8351f3c0db3bceca4036e3">
 		<category>Games</category>
-		<description>fireice\fire and ice - the daring adventures of cool coyote (europe) (en,fr,de,it)</description>
+		<description>Fire + Ice</description>
+		<year>1994</year>
+		<manufacturer>Renegade</manufacturer>
 		<rom name="fire and ice - the daring adventures of cool coyote (europe) (en,fr,de,it) (Track 01).bin" size="3191664" crc="5473a78e" md5="c1bfea482189a9e83116e84d6bc9d27a" sha1="f5756eb9c37dfb3a46f01b9f95b80589bf1ff32d"/>
 		<rom name="fire and ice - the daring adventures of cool coyote (europe) (en,fr,de,it) (Track 02).bin" size="39993408" crc="ef358381" md5="91e9474a8cbe7e31eaa4d4155dfcc19b" sha1="4e7c6ae9ceb01f91a27675b27988a871d10aad89"/>
 		<rom name="fire and ice - the daring adventures of cool coyote (europe) (en,fr,de,it) (Track 03).bin" size="15327984" crc="3bbb7d45" md5="f4ecb47775fdb24ddb12c9b78839d1ae" sha1="e5cecb63ea597400f7293d20bbca09c2aa34a043"/>
@@ -483,7 +565,9 @@
 	</game>
 	<game name="flink\flink (europe)" type="cd" sha1="ff8a3c036e35cfdf20ef4d9330f8126d204ab679" size="292801413" crc="b1c79d59" fullsha1="cff2b90f271818b540d6670e689f6dcc2b5ebe58" dataSha1="548a1de89ae7b743fba53585cb99b83fc836f10c">
 		<category>Games</category>
-		<description>flink\flink (europe)</description>
+		<description>The Misadventures of Flink</description>
+		<year>1994</year>
+		<manufacturer>Psygnosis</manufacturer>
 		<rom name="flink (europe) (Track 01).bin" size="2443728" crc="37abb76e" md5="ee215945eb0c1eac31984e5963f5177e" sha1="0567bde19179d6dc281d4447db2f9591b33a2b5b"/>
 		<rom name="flink (europe) (Track 02).bin" size="40056912" crc="a699a932" md5="de1d901cd32c221cacf7418dd0d46a47" sha1="8786101f68eec5998e1586e0d04ae81a0ee12289"/>
 		<rom name="flink (europe) (Track 03).bin" size="38770368" crc="7c5818d2" md5="231d0fc0af1d8e31da4f81f3555c2346" sha1="ad84e61cdf4ab6538dfd1c09de8349d870872df4"/>
@@ -505,22 +589,30 @@
 	</game>
 	<game name="flyhard\fly harder (europe)" type="cd" sha1="f53b92d452575b975d42b1f2d4e9f83a3c7351e4" size="844177" crc="182e4826" fullsha1="334fd2661914f7dc3355c40c44011bf39b36263b" dataSha1="a3c211419a6cd693bd54759ff87b63a481cd5b2a">
 		<category>Games</category>
-		<description>flyhard\fly harder (europe)</description>
+		<description>Fly Harder</description>
+		<year>1994</year>
+		<manufacturer>Buzz</manufacturer>
 		<rom name="fly harder (europe) (Track 01).bin" size="2420208" crc="c9f8e538" md5="487c863e9400f6e0edb70f8cbf6b57a6" sha1="fe2db998ec9638a7c936b67ec2ad348211b020b6"/>
 	</game>
 	<game name="frogfd\Frog" type="cd" sha1="38695708ca8b2b903f6f156ca1c068a38a21480d" size="28747" crc="6994d5fa" fullsha1="a3dd1f3ff331c65dcf2180b41c03ea61264fe3de" dataSha1="249c9cb7f69feecd7a10277bbebca908833423a5">
 		<category>Games</category>
-		<description>frogfd\Frog</description>
+		<description>Frog Feast (demo)</description>
+		<year>2007</year>
+		<manufacturer>Rastersoft</manufacturer>
 		<rom name="Frog (Track 01).bin" size="253952" crc="036fe5f0" md5="99720ad8a793a9bd67dca8e6acb9e179" sha1="f5e89eb03b7905fa29b1264702ffea4151a3e910"/>
 	</game>
 	<game name="frontier\frontier - elite ii (europe)" type="cd" sha1="4403c7d5cab188c3b5738131c0a79921e6ed411d" size="350719" crc="70e130a4" fullsha1="be555965d60784428787bb923c900c535c101474" dataSha1="fed97932fcb57dc039a04bf7e4c9bfed959d9ce1">
 		<category>Games</category>
-		<description>frontier\frontier - elite ii (europe)</description>
+		<description>Frontier: Elite II</description>
+		<year>1993</year>
+		<manufacturer>GameTek</manufacturer>
 		<rom name="frontier - elite ii (europe) (Track 01).bin" size="1434720" crc="f00aafb4" md5="53a734c27df3b15ad85f04381ae7e4e0" sha1="f3df3ba1e914af239e101754a104b98f36c8aaf1"/>
 	</game>
 	<game name="gamer10\amiga cd32 gamer vol. 10 (1995-03-09)(paragon publishing)(gb)[amiga cd32 issue 10]" type="cd" sha1="8992a692d7222096fa9bca1426c953f02d100a40" size="119755183" crc="c74d08b1" fullsha1="14f61389485768d9de93c061372eae34d3bf55c1" dataSha1="1ca96c33d0a25aa4b06495ea1aef13cbee6fe3f7">
 		<category>Games</category>
-		<description>gamer10\amiga cd32 gamer vol. 10 (1995-03-09)(paragon publishing)(gb)[amiga cd32 issue 10]</description>
+		<description>Amiga CD32 Gamer - Volume 10</description>
+		<year>1995</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="amiga cd32 gamer vol. 10 (1995-03-09)(paragon publishing)(gb)[amiga cd32 issue 10] (Track 01).bin" size="54898688" crc="5784dcba" md5="d5f90f0ca04d022070d3320928fb64a4" sha1="0f6102eaad3a8eb9046bf248d26cbe4f38ccd9d7"/>
 		<rom name="amiga cd32 gamer vol. 10 (1995-03-09)(paragon publishing)(gb)[amiga cd32 issue 10] (Track 02).bin" size="12931296" crc="27784981" md5="d916756792d191221b8cba0bf34628b0" sha1="2bb44f41df2ff428c438d05701d5aa97890e5544"/>
 		<rom name="amiga cd32 gamer vol. 10 (1995-03-09)(paragon publishing)(gb)[amiga cd32 issue 10] (Track 03).bin" size="19832064" crc="1b0ba89d" md5="f6553591268e9d5380eeaa22089401e2" sha1="f1ad585fef8fb623721e8e9b3713973c3fb8beac"/>
@@ -534,7 +626,9 @@
 	</game>
 	<game name="gamer11\amiga cd32 gamer vol. 11 (1995-04-13)(paragon publishing)(gb)" type="cd" sha1="7d77ad2cd15354dc4a6814cacb4da8e1a0970b7c" size="115239458" crc="bc5924fe" fullsha1="6391a4ee14dc13cfe2bf6c9d4f0318783af5e3be" dataSha1="ea6f0c4a8aebc604e5cdcf1e8a38799218e71a02">
 		<category>Games</category>
-		<description>gamer11\amiga cd32 gamer vol. 11 (1995-04-13)(paragon publishing)(gb)</description>
+		<description>Amiga CD32 Gamer - Volume 11</description>
+		<year>1995</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="amiga cd32 gamer vol. 11 (1995-04-13)(paragon publishing)(gb) (Track 01).bin" size="74237952" crc="207375d7" md5="10dd37c578dd9ddfc672670cd0bf30b3" sha1="fb0a5f72d3655d620f2248d83bfac9125ca29e80"/>
 		<rom name="amiga cd32 gamer vol. 11 (1995-04-13)(paragon publishing)(gb) (Track 02).bin" size="27911184" crc="0826b177" md5="e3c705a7e7f026fc45f62879d73f33c2" sha1="e9bee37a180a92583a4dc4bb16b359fe2a4de420"/>
 		<rom name="amiga cd32 gamer vol. 11 (1995-04-13)(paragon publishing)(gb) (Track 03).bin" size="5531904" crc="8fa06a2a" md5="b12542d352311d2f50347bf15439893a" sha1="092df1788e80c02116694d3595cc334ecd5d700a"/>
@@ -546,7 +640,9 @@
 	</game>
 	<game name="gamer12\amiga cd32 gamer vol. 12 (1995-05-11)(paragon publishing)(gb)[cd 32 gamer 00449, 00471]" type="cd" sha1="026c32853885cacdd6ca127b39c9c4ee16590d29" size="91909421" crc="b3b9487f" fullsha1="6117859767922a931d418f1abe32bb39f3c0acfa" dataSha1="27becb534c6af019f528c04f509e6ba50449337b">
 		<category>Games</category>
-		<description>gamer12\amiga cd32 gamer vol. 12 (1995-05-11)(paragon publishing)(gb)[cd 32 gamer 00449, 00471]</description>
+		<description>Amiga CD32 Gamer - Volume 12</description>
+		<year>1995</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="amiga cd32 gamer vol. 12 (1995-05-11)(paragon publishing)(gb)[cd 32 gamer 00449, 00471] (Track 01).bin" size="88664064" crc="73505486" md5="636fb8f733d49043f09b086162eb0d6c" sha1="69e4263e80c367a7ec5061c6e99ff33ed6102a12"/>
 		<rom name="amiga cd32 gamer vol. 12 (1995-05-11)(paragon publishing)(gb)[cd 32 gamer 00449, 00471] (Track 02).bin" size="1067808" crc="7ad31766" md5="54d84836a36d6b8bf17f05a35a51bdaa" sha1="bd5c047ef5cf674e755c6a2c37668ee6fac54f89"/>
 		<rom name="amiga cd32 gamer vol. 12 (1995-05-11)(paragon publishing)(gb)[cd 32 gamer 00449, 00471] (Track 03).bin" size="1415904" crc="803d49b8" md5="87add79ebdafe092e2cf7f899e41e659" sha1="4edd345b4cd5092e6fdb6376dd2ca6f5c8a7ddbc"/>
@@ -556,17 +652,23 @@
 	</game>
 	<game name="gamer13\amiga cd32 gamer vol. 13 (1995-06-08)(paragon publishing)(gb)" type="cd" sha1="189644c21846f50fd58553ab8461ad4a180a1cb4" size="108602464" crc="157a26a8" fullsha1="996b4ede3fa5378e377e34d9d886747d2cd570b6" dataSha1="f3bc98d216279c3203daec13ad390e3813f672ad">
 		<category>Games</category>
-		<description>gamer13\amiga cd32 gamer vol. 13 (1995-06-08)(paragon publishing)(gb)</description>
+		<description>Amiga CD32 Gamer - Volume 13</description>
+		<year>1995</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="amiga cd32 gamer vol. 13 (1995-06-08)(paragon publishing)(gb) (Track 01).bin" size="217198592" crc="2d01a75d" md5="32d35b2988d22086836d2a810152f724" sha1="3cd289d3c61f7b9450202d0e7f8a64293bc2cb71"/>
 	</game>
 	<game name="gamer14\amiga cd32 gamer vol. 14 (1995-07-13)(paragon publishing)(gb)" type="cd" sha1="299a14bdf12c452404556416de0368c7f9d8ff7a" size="37508961" crc="ce7d7c48" fullsha1="d5e6787cbb7e588c74ee88002c076c9bfea4629b" dataSha1="2e2991ea078dcf5c703d147429c88ac174e35cff">
 		<category>Games</category>
-		<description>gamer14\amiga cd32 gamer vol. 14 (1995-07-13)(paragon publishing)(gb)</description>
+		<description>Amiga CD32 Gamer - Volume 14</description>
+		<year>1995</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="amiga cd32 gamer vol. 14 (1995-07-13)(paragon publishing)(gb) (Track 01).bin" size="67495936" crc="eac36f11" md5="74fa3d85d94b68d16f2d0ed63b63f415" sha1="2c5e73b9dce50ce9835624e5aeac3ec95b251d7f"/>
 	</game>
 	<game name="gamer15\amiga cd32 gamer vol. 15 (1995-08-10)(paragon publishing)(gb)" type="cd" sha1="ed3b9faff8172e4a305021ae4af718b8e8eaa75e" size="130073371" crc="50fd6bbd" fullsha1="4cd5d8f0fb5118503518182ec8c7530114ebde03" dataSha1="f9e732f4df5a4b1490ba649262b6cf93d9e7706d">
 		<category>Games</category>
-		<description>gamer15\amiga cd32 gamer vol. 15 (1995-08-10)(paragon publishing)(gb)</description>
+		<description>Amiga CD32 Gamer - Volume 15</description>
+		<year>1995</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="amiga cd32 gamer vol. 15 (1995-08-10)(paragon publishing)(gb) (Track 01).bin" size="25110528" crc="d5d4e11f" md5="2c55c96c3bd4144fa81a436f926271e0" sha1="71b24770b5cf35c4913659a5d1be83e4d7d33752"/>
 		<rom name="amiga cd32 gamer vol. 15 (1995-08-10)(paragon publishing)(gb) (Track 02).bin" size="38288208" crc="e07d9810" md5="adb1ec84247901bf82c688b765a6aca5" sha1="fca84780b6df5adc494721b60947cd4ca26cda72"/>
 		<rom name="amiga cd32 gamer vol. 15 (1995-08-10)(paragon publishing)(gb) (Track 03).bin" size="71046864" crc="27cf7493" md5="76b8619d0f20111f78510ab0956f7460" sha1="e76c34363d2cece31ae18aafaf0a107ca3ef8381"/>
@@ -582,27 +684,37 @@
 	</game>
 	<game name="gamer16\amiga cd32 gamer vol. 16 (1995-09-14)(paragon publishing)(gb)" type="cd" sha1="900f7cddec619cb6b63ea3b979a702a65c680ad9" size="8384341" crc="e28284b3" fullsha1="21aa69e223625e96ced9d641e9370d5cf7ed9879" dataSha1="1c4a97f8fae37baf5123d13aafad4ce8f1ce2419">
 		<category>Games</category>
-		<description>gamer16\amiga cd32 gamer vol. 16 (1995-09-14)(paragon publishing)(gb)</description>
+		<description>Amiga CD32 Gamer - Volume 16</description>
+		<year>1995</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="amiga cd32 gamer vol. 16 (1995-09-14)(paragon publishing)(gb) (Track 01).bin" size="16605184" crc="8ddd7819" md5="7967e8850e116e902db7f7cdf734268d" sha1="380ed06833b37a6617caa997fc146ce67fb2b7a4"/>
 	</game>
 	<game name="gamer17\amiga cd32 gamer vol. 17 (1995-10-12)(paragon publishing)(gb)" type="cd" sha1="cf5dbf1e257407f75f8f49ee22b29baf4fa633d5" size="5245947" crc="8023d7f2" fullsha1="c6251deef7386e74e148121dc73b5fba53408548" dataSha1="710c30804ff1fef9950e5cd3931fe2e7103d0fcd">
 		<category>Games</category>
-		<description>gamer17\amiga cd32 gamer vol. 17 (1995-10-12)(paragon publishing)(gb)</description>
+		<description>Amiga CD32 Gamer - Volume 17</description>
+		<year>1995</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="amiga cd32 gamer vol. 17 (1995-10-12)(paragon publishing)(gb) (Track 01).bin" size="12275712" crc="27a0a0b0" md5="e9c84c5edc439215ecc8846b0829e6cf" sha1="531e111050d1df7e45e00e76e7815a722a442497"/>
 	</game>
 	<game name="gamer18\amiga cd32 gamer vol. 18 (1995-11-09)(paragon publishing)(gb)" type="cd" sha1="15893b37aa016f12e4c0277785f1bca9ef5991e8" size="14333545" crc="aa878cbf" fullsha1="01a2c58e29ea6ebabedd3964b12207d451a1a222" dataSha1="240a7f38429b6aaf053bea725e31cfb29b968593">
 		<category>Games</category>
-		<description>gamer18\amiga cd32 gamer vol. 18 (1995-11-09)(paragon publishing)(gb)</description>
+		<description>Amiga CD32 Gamer - Volume 18</description>
+		<year>1995</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="amiga cd32 gamer vol. 18 (1995-11-09)(paragon publishing)(gb) (Track 01).bin" size="23107584" crc="7294bc1e" md5="210ef45d3163d492d7fe424d22838203" sha1="40f9eaa3e105f153d4cbbd781f6a64554e22bc1d"/>
 	</game>
 	<game name="gamer19\amiga cd32 gamer vol. 19 (1995-12-14)(paragon publishing)(gb)" type="cd" sha1="95119db5f92f90f679cf001906efd56189846249" size="9597348" crc="940654c5" fullsha1="298c48dd32596170623dc5160829ab32040313f3" dataSha1="ed5babf918c149c6b25c2160dd1ad698277341f7">
 		<category>Games</category>
-		<description>gamer19\amiga cd32 gamer vol. 19 (1995-12-14)(paragon publishing)(gb)</description>
+		<description>Amiga CD32 Gamer - Volume 19</description>
+		<year>1995</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="amiga cd32 gamer vol. 19 (1995-12-14)(paragon publishing)(gb) (Track 01).bin" size="18296832" crc="863aad42" md5="61352289bd8298867aa4d9ac2350a193" sha1="626bc0eac4d7d7902e33bf69c8cf95463ce35d66"/>
 	</game>
 	<game name="gamer1\amiga cd32 gamer vol. 01 (1994-05)(paragon publishing)(gb)" type="cd" sha1="8aaeaf9533ff0dd1d1478ce382fd32b526b64b3b" size="245740742" crc="cc0ccbf7" fullsha1="ceb082a7eaf0fb98008d4398edf4883de7a61496" dataSha1="271068a55912d88908c8a5cdee840a73668d9980">
 		<category>Games</category>
-		<description>gamer1\amiga cd32 gamer vol. 01 (1994-05)(paragon publishing)(gb)</description>
+		<description>Amiga CD32 Gamer - Volume 1</description>
+		<year>1994</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="amiga cd32 gamer vol. 01 (1994-05)(paragon publishing)(gb) (Track 01).bin" size="40468480" crc="7a179627" md5="566368d5e79e8163469b81dc9cdd513f" sha1="8be8c539e195914d1ba5b69ab779881f5ab7d2a6"/>
 		<rom name="amiga cd32 gamer vol. 01 (1994-05)(paragon publishing)(gb) (Track 02).bin" size="42350112" crc="7224496f" md5="e86d8e773324b2a5659bc1203d82f5c9" sha1="4aa97401f810660dfd0e99f937214840506b93d7"/>
 		<rom name="amiga cd32 gamer vol. 01 (1994-05)(paragon publishing)(gb) (Track 03).bin" size="17529456" crc="05ecb591" md5="cb80bd32e767ee082e9ce0b5a844be52" sha1="75eec838ee0adfcea468e70ea0e4a122e874a449"/>
@@ -624,22 +736,30 @@
 	</game>
 	<game name="gamer20\amiga cd32 gamer vol. 20 (1996-01-11)(paragon publishing)(gb)" type="cd" sha1="7a0882263a47e484f173d6a2ff4320e854f11fe6" size="13109258" crc="53ebb327" fullsha1="656d334358c915114f447fc44cdcbbf89a75c45d" dataSha1="0baa919e3989521eaaca518cff00ce820ccf7f1d">
 		<category>Games</category>
-		<description>gamer20\amiga cd32 gamer vol. 20 (1996-01-11)(paragon publishing)(gb)</description>
+		<description>Amiga CD32 Gamer - Volume 20</description>
+		<year>1996</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="amiga cd32 gamer vol. 20 (1996-01-11)(paragon publishing)(gb) (Track 01).bin" size="24811520" crc="224d0903" md5="ef3692081bc6d7baa4f8f13c50815da3" sha1="5e73447f126b8ce63d79949591e81ca54d6d78e5"/>
 	</game>
 	<game name="gamer21\amiga cd32 gamer vol. 21 (1996-02-08)(paragon publishing)(gb)" type="cd" sha1="0ddcc10a09108f728bedd4f7d98ccc7abaf2389b" size="14209146" crc="68c78e21" fullsha1="b56cad65f70f5ab901a487e4d3d5bfce60ef8835" dataSha1="9c7a5ef99c354d708131fe9be59ba6e2e3d56197">
 		<category>Games</category>
-		<description>gamer21\amiga cd32 gamer vol. 21 (1996-02-08)(paragon publishing)(gb)</description>
+		<description>Amiga CD32 Gamer - Volume 21</description>
+		<year>1996</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="amiga cd32 gamer vol. 21 (1996-02-08)(paragon publishing)(gb) (Track 01).bin" size="25720832" crc="62e2927f" md5="f61a13ca5bf64263b907eb683576d2f8" sha1="ed42c29a3fdc1b627a671dcab12bf47345a80665"/>
 	</game>
 	<game name="gamer22\amiga cd32 gamer vol. 22 (1996-03-14)(paragon publishing)(gb)" type="cd" sha1="b4a2fe560a36ec10bc8f8fd151b17a3f9b506d64" size="17995978" crc="5845a82d" fullsha1="621775bf4089f3c7c968d5cde12e34e79ef4e65e" dataSha1="580a234aec96b4edc21e53770488f1c4a5c8fadb">
 		<category>Games</category>
-		<description>gamer22\amiga cd32 gamer vol. 22 (1996-03-14)(paragon publishing)(gb)</description>
+		<description>Amiga CD32 Gamer - Volume 22</description>
+		<year>1996</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="amiga cd32 gamer vol. 22 (1996-03-14)(paragon publishing)(gb) (Track 01).bin" size="31748096" crc="d3ce6a89" md5="01d36e53747d14b73fdfc496c51a1c68" sha1="bfd2cb059b3182607dd2c01656e740c55991f2d9"/>
 	</game>
 	<game name="gamer2\amiga cd32 gamer - game demos volume 2 (europe)" type="cd" sha1="8c2fc22ede4d90e0f07c79d8a4ab32fbedaf77fa" size="116819911" crc="d9343c0b" fullsha1="21de657435961a67d9bb5db0ff657894e4bab2de" dataSha1="bdf6b37df836b46ae2acc53dece9b4d44d477d7a">
 		<category>Games</category>
-		<description>gamer2\amiga cd32 gamer - game demos volume 2 (europe)</description>
+		<description>Amiga CD32 Gamer - Volume 2</description>
+		<year>1994</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="amiga cd32 gamer - game demos volume 2 (europe) (Track 01).bin" size="68487888" crc="035ce653" md5="2da17e34101f928a4d4a684a34088040" sha1="73b788bfa81aabbfdf832bbbcbf092842e754246"/>
 		<rom name="amiga cd32 gamer - game demos volume 2 (europe) (Track 02).bin" size="39993408" crc="cb2c54fe" md5="6d0dc5e6a7da286c63bbad756adc4429" sha1="59cded8a19ac23158fddd327791a5e76f5d669fc"/>
 		<rom name="amiga cd32 gamer - game demos volume 2 (europe) (Track 03).bin" size="15680784" crc="6bb96fe0" md5="d6267a88731196e3812c31f99c6b3977" sha1="38bb82f53a4a543f2de7ac79f05efa731d80d935"/>
@@ -652,7 +772,9 @@
 	</game>
 	<game name="gamer3\amiga cd32 gamer vol. 03 (1994-07-14)(paragon publishing)(gb)" type="cd" sha1="03ad5af656870431cdc49e740fe400abae0cc0f9" size="51164391" crc="98e3684b" fullsha1="ef8be0a94897bc1a3c8504e931fdf7470084f1c7" dataSha1="c9471eef932652f9629da52e89ad7dc82b6a7038">
 		<category>Games</category>
-		<description>gamer3\amiga cd32 gamer vol. 03 (1994-07-14)(paragon publishing)(gb)</description>
+		<description>Amiga CD32 Gamer - Volume 3</description>
+		<year>1994</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="amiga cd32 gamer vol. 03 (1994-07-14)(paragon publishing)(gb) (Track 01).bin" size="76595200" crc="d5cf8735" md5="cf22edbb887e48276170a538e68b9097" sha1="82a9c2ec71fb439cc4060c124748b9c48d240927"/>
 		<rom name="amiga cd32 gamer vol. 03 (1994-07-14)(paragon publishing)(gb) (Track 02).bin" size="118653696" crc="18b7ede9" md5="ff9ed8b70e3ad67807ba8e7e00f01895" sha1="a3f73a6dd6a5a93e6c141811fad0ce7149befe3a"/>
 		<rom name="amiga cd32 gamer vol. 03 (1994-07-14)(paragon publishing)(gb) (Track 03).bin" size="118653696" crc="18b7ede9" md5="ff9ed8b70e3ad67807ba8e7e00f01895" sha1="a3f73a6dd6a5a93e6c141811fad0ce7149befe3a"/>
@@ -665,7 +787,9 @@
 	</game>
 	<game name="gamer4\amiga cd32 gamer vol. 04 (1994-08-08)(paragon publishing)(gb)" type="cd" sha1="492475c166e0cbd0ae196f098554943d284fdfc2" size="139145569" crc="f1de8ec9" fullsha1="2f1ed16a7a604a64c2ffe1beafb08d08588bd9b2" dataSha1="5a704776f07d1ffaadbc1883d27d7d929c40e9e3">
 		<category>Games</category>
-		<description>gamer4\amiga cd32 gamer vol. 04 (1994-08-08)(paragon publishing)(gb)</description>
+		<description>Amiga CD32 Gamer - Volume 4</description>
+		<year>1994</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="amiga cd32 gamer vol. 04 (1994-08-08)(paragon publishing)(gb) (Track 01).bin" size="38111232" crc="a0e6cb2f" md5="759010070c91ccaefa96ecb262c876ea" sha1="2e0aedf98634941a2ac88a73e83eb9a5927fb8c8"/>
 		<rom name="amiga cd32 gamer vol. 04 (1994-08-08)(paragon publishing)(gb) (Track 02).bin" size="37926000" crc="c5999d8c" md5="05e4352a4f4f28f5d695920303d378e9" sha1="ba7ec272c9fee476a208bf296d54fdb6a1586b96"/>
 		<rom name="amiga cd32 gamer vol. 04 (1994-08-08)(paragon publishing)(gb) (Track 03).bin" size="70336560" crc="db96f107" md5="3b857f9cb258ed8751b3f2fee34455f9" sha1="c24bf930ebd839382067e322651ad8a3f174f230"/>
@@ -681,7 +805,9 @@
 	</game>
 	<game name="gamer5\amiga cd32 gamer vol. 05 (1994-10-13)(paragon publishing)(gb)" type="cd" sha1="dda452b9dab277c44f3f864761b57a75653d2a2a" size="195782703" crc="d69dd6ef" fullsha1="e249c7096e87a942e7c166bda8bd4bd5972cdb97" dataSha1="4d7e667143bafcaadce97e382a3963ebd8ecbe07">
 		<category>Games</category>
-		<description>gamer5\amiga cd32 gamer vol. 05 (1994-10-13)(paragon publishing)(gb)</description>
+		<description>Amiga CD32 Gamer - Volume 5</description>
+		<year>1994</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="amiga cd32 gamer vol. 05 (1994-10-13)(paragon publishing)(gb) (Track 01).bin" size="63485952" crc="75cfc3f7" md5="87b32b57ccccb4352b65464696e7826e" sha1="ac5438580c33190aea84683e0eba7d9e4b7b314a"/>
 		<rom name="amiga cd32 gamer vol. 05 (1994-10-13)(paragon publishing)(gb) (Track 02).bin" size="1411200" crc="96ddfabe" md5="64a9fd7f6cb0e1c95afecdf3a369714f" sha1="842a3c7a1ba76191f196f6fa6f64862347d4c28d"/>
 		<rom name="amiga cd32 gamer vol. 05 (1994-10-13)(paragon publishing)(gb) (Track 03).bin" size="1411200" crc="1e48b198" md5="61d4b82bfa8bf63a88d9d2d1b2cd547f" sha1="e5c0db2e2bc12c09db59965eacc02afdc8511bac"/>
@@ -701,7 +827,9 @@
 	</game>
 	<game name="gamer6\amiga cd32 gamer vol. 06 (1994-11-10)(paragon publishing)(gb)" type="cd" sha1="602e7ea21e548c4893bb6c4d13bca2d6408b7527" size="87636843" crc="2f93cc8b" fullsha1="be226accca732c8243223c84e9c7786ca08cb85c" dataSha1="5deb122623246a1e918e92fb7f2f7b4b09410f23">
 		<category>Games</category>
-		<description>gamer6\amiga cd32 gamer vol. 06 (1994-11-10)(paragon publishing)(gb)</description>
+		<description>Amiga CD32 Gamer - Volume 6</description>
+		<year>1994</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="amiga cd32 gamer vol. 06 (1994-11-10)(paragon publishing)(gb) (Track 01).bin" size="90851328" crc="16abe6e0" md5="84de804bdc523cfd0a09ccfde87c6688" sha1="3748eb55d7e14c8e69712b65eac273b241e461ee"/>
 		<rom name="amiga cd32 gamer vol. 06 (1994-11-10)(paragon publishing)(gb) (Track 02).bin" size="12791936" crc="55a1ff2b" md5="4ee5adcab6b7e0ef233f210a56305b99" sha1="a1b2addbd2caba84a0ac00affcabc8c0415fc1d9"/>
 		<rom name="amiga cd32 gamer vol. 06 (1994-11-10)(paragon publishing)(gb) (Track 03).bin" size="1655808" crc="fda21de0" md5="c427e1dd29e4c64006af6eae1b5dc366" sha1="654f7c7b460b7c5ef622ffbfff71e3b10ffe3e32"/>
@@ -714,7 +842,9 @@
 	</game>
 	<game name="gamer7\amiga cd32 gamer vol. 07 (1994-12-08)(paragon publishing)(gb)" type="cd" sha1="8f93d0da30b6a510c6e09900e2ba8866e3939c85" size="133905219" crc="53a366c5" fullsha1="59b82a04d92adfb8f5eded0351bc54bb4846b620" dataSha1="91a1c87bd216c3208f860df186c3fa24d6a7b1cb">
 		<category>Games</category>
-		<description>gamer7\amiga cd32 gamer vol. 07 (1994-12-08)(paragon publishing)(gb)</description>
+		<description>Amiga CD32 Gamer - Volume 7</description>
+		<year>1994</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="amiga cd32 gamer vol. 07 (1994-12-08)(paragon publishing)(gb) (Track 01).bin" size="42663936" crc="528f1081" md5="8dd03d73ada147b3d59f13dba33609e1" sha1="2da84796b778cd82cb7f870617502e1215ec84d6"/>
 		<rom name="amiga cd32 gamer vol. 07 (1994-12-08)(paragon publishing)(gb) (Track 02).bin" size="25015872" crc="23d2a2ea" md5="a4c1a33522c92df4ee9cefc5425272af" sha1="9e53f4580659adb1dad3456fd1b74aee2ce6c042"/>
 		<rom name="amiga cd32 gamer vol. 07 (1994-12-08)(paragon publishing)(gb) (Track 03).bin" size="75057024" crc="13c5264d" md5="241636e16639b826fcbfcf593cf1be66" sha1="16654fc61826e2a407767cfc44022cc594e64577"/>
@@ -726,29 +856,39 @@
 	</game>
 	<game name="gamer8\cd32 gamer - playable game demos, demos, multimedia and shareware volume 8 (europe)" type="cd" sha1="ef3971597a9d26c6385a530b6865ab7a91ec6906" size="39222623" crc="67dbc377" fullsha1="88234c7de4e1188fb9130342aca3f1c398de4df9" dataSha1="e21d2134ee1d7f574940dea1a3defac79898fe37">
 		<category>Games</category>
-		<description>gamer8\cd32 gamer - playable game demos, demos, multimedia and shareware volume 8 (europe)</description>
+		<description>Amiga CD32 Gamer - Volume 8</description>
+		<year>1995</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="cd32 gamer - playable game demos, demos, multimedia and shareware volume 8 (europe) (Track 01).bin" size="30735936" crc="848f4637" md5="fb5edc1ccfe26cba2452fb233e783d45" sha1="db4e42291dae30e2b4c573c9dde691171f28aa32"/>
 		<rom name="cd32 gamer - playable game demos, demos, multimedia and shareware volume 8 (europe) (Track 02).bin" size="58306080" crc="78839bee" md5="cc6444063dc282a7d7800df552238407" sha1="6cd8cdf0303258cdb74534a276de35a15204dae0"/>
 	</game>
 	<game name="gamer9\amiga cd32 gamer vol. 09 (1995-02-09)(paragon publishing)(gb)" type="cd" sha1="159a06f82a01f5f3a06d84b083e628ebd44ea6d2" size="17518630" crc="22969182" fullsha1="29df212d20f7b035514ee3b275cd3a50347e9387" dataSha1="19c577f402557e86b0168ca429e30a19f5dbb72e">
 		<category>Games</category>
-		<description>gamer9\amiga cd32 gamer vol. 09 (1995-02-09)(paragon publishing)(gb)</description>
+		<description>Amiga CD32 Gamer - Volume 9</description>
+		<year>1995</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="amiga cd32 gamer vol. 09 (1995-02-09)(paragon publishing)(gb) (Track 01).bin" size="35252224" crc="392d97ff" md5="bbc7a9a3f4b05638090eb3cabb4b1e4d" sha1="648273be7f9f37916e89ae79b92267ee9519ac90"/>
 	</game>
 	<game name="global\global effect (europe)" type="cd" sha1="86c16b8e32ef70ea0cf7ec80c76da024d59e065c" size="21609824" crc="7ad3b154" fullsha1="daa68df85bf70e202dce8e323dfd2090be92ff24" dataSha1="55a7fef348c326e382698afebd08956572c66f31">
 		<category>Games</category>
-		<description>global\global effect (europe)</description>
+		<description>Global Effect</description>
+		<year>1994</year>
+		<manufacturer>Millennium</manufacturer>
 		<rom name="global effect (europe) (Track 01).bin" size="129108336" crc="8762b96a" md5="040d65b8a9dcd63c91847440413ffb8e" sha1="d580485538dd97592db7a529658a820a5e09074c"/>
 		<rom name="global effect (europe) (Track 02).bin" size="41860896" crc="81958fbb" md5="7472b7e0b554c8953b25e63656127f63" sha1="3c9a8cce236e18d3397556652765c76f4f4d5615"/>
 	</game>
 	<game name="gloom\gloom (europe)" type="cd" sha1="672cdbce1f557b7193fc22b9ce07b3e67e95c458" size="1220000" crc="acd7aa18" fullsha1="b19ec06a135c04bbfe4a355908129a230395f309" dataSha1="7a2dd5b8ccd0768be7bf32863bcacbf9c436caf7">
 		<category>Games</category>
-		<description>gloom\gloom (europe)</description>
+		<description>Gloom</description>
+		<year>1995</year>
+		<manufacturer>Guildhall</manufacturer>
 		<rom name="gloom (europe) (Track 01).bin" size="2239104" crc="291a1004" md5="a52f278c083e629a0d3d66af39122a5a" sha1="d575f1d65d08f7eb6cacbaa3740188d0d7bbe459"/>
 	</game>
 	<game name="guardian\guardian (europe)" type="cd" sha1="4978de238e739285a6795028def0c68e6cecf53e" size="202778369" crc="586166fc" fullsha1="4a1101de8fd10e4c2f6c59894ac97663d360a623" dataSha1="bddc9ebf0800cdac5a42be5bacf3c5e94cfd5258">
 		<category>Games</category>
-		<description>guardian\guardian (europe)</description>
+		<description>Guardian</description>
+		<year>1994</year>
+		<manufacturer>Acid Software</manufacturer>
 		<rom name="guardian (europe) (Track 01).bin" size="3158736" crc="c8ce1be9" md5="5b123873fc13c8aeaf4915c362be4041" sha1="9c424a2f3c951fb353ce6153b89621e178803133"/>
 		<rom name="guardian (europe) (Track 02).bin" size="34955424" crc="aabf4a67" md5="dee1b8838e6d56b4ee6d6f1fac06f9c3" sha1="f37b5338969dc01906c7d84908aba041f38d368a"/>
 		<rom name="guardian (europe) (Track 03).bin" size="39118464" crc="c2ee316e" md5="ce3673685328d55bd7157fbbc56fced3" sha1="37e3a9b37a61d30cd5d4727428f62b510f2fd12e"/>
@@ -765,12 +905,16 @@
 	</game>
 	<game name="gulp\gulp (europe) (en,fr,de,es,it)" type="cd" sha1="3deddc2a44816d254fb0a321fd366c72dd1e6efa" size="2042762" crc="ca92e2d2" fullsha1="574eee872637153009dc1a4cc36ee1dd0e5d9a79" dataSha1="4f8e9446347d742d4f1558b3bb058ac6c4a433d3">
 		<category>Games</category>
-		<description>gulp\gulp (europe) (en,fr,de,es,it)</description>
+		<description>Gulp!</description>
+		<year>1994</year>
+		<manufacturer>I.C.E.</manufacturer>
 		<rom name="gulp (europe) (en,fr,de,es,it) (Track 01).bin" size="3015264" crc="c7399af8" md5="e1626b2f2ca7d4b0a5e998a91e7fafed" sha1="add11aada08da3df35d30befc3181e4fed8629bc"/>
 	</game>
 	<game name="heimdall2\heimdall 2 - into the hall of worlds (1994)(core)" type="" sha1="5dd9eb9222cac2b2e0e53b1bd3223e59d82ddbcf" size="113414661" crc="5fa6f2ad" fullsha1="45a59bdf869c8db08c8d08beda153cfb4b2cc3d3" dataSha1="a54201d666312adb5ffe83e578e8e9e7e1258052">
 		<category>Games</category>
-		<description>heimdall2\heimdall 2 - into the hall of worlds (1994)(core)</description>
+		<description>Heimdall 2 - Into The Hall Of Worlds</description>
+		<year>1994</year>
+		<manufacturer>Core</manufacturer>
 		<rom name="heimdall 2 - into the hall of worlds (1994)(core) (Track 01).bin" size="6653808" crc="8c3c2bb9" md5="faad0a3c795d8c7fdd8de40299ddbf27" sha1="2e1669414e8929f0a776cca5abf6047fb4c92d87"/>
 		<rom name="heimdall 2 - into the hall of worlds (1994)(core) (Track 02).bin" size="40473216" crc="be78b060" md5="114f18fef4d290366a885271f665663a" sha1="576cd6c31b3a79eb309187aae1140b75f985adc8"/>
 		<rom name="heimdall 2 - into the hall of worlds (1994)(core) (Track 03).bin" size="23313024" crc="21f92f1c" md5="a6fcea3caf0b38a6b72f81f208eac857" sha1="6bec4acc6538634db890eb63a392694a843eae44"/>
@@ -783,17 +927,23 @@
 	</game>
 	<game name="ikplus\international karate plus (europe)" type="cd" sha1="2ad38a3927a26859789c08a9e02656d7a1f90f39" size="184257" crc="dbe68282" fullsha1="6f69a642e1f4104bbe7d1f66353473752c14e64c" dataSha1="404371ae40539a85a45913b9f8b48a47551030b5">
 		<category>Games</category>
-		<description>ikplus\international karate plus (europe)</description>
+		<description>International Karate +</description>
+		<year>1994</year>
+		<manufacturer>System 3</manufacturer>
 		<rom name="international karate plus (europe) (Track 01).bin" size="1458240" crc="7ef52720" md5="b95bbcd4172eff59ba38339fd96109cd" sha1="d1796e8f0c0e1ac37a4e97f2c9720ed5f82a0611"/>
 	</game>
 	<game name="jambala\seven gates of jambala, the (europe)" type="cd" sha1="1e5555e7e677461b6d57511eaf95608ab8f28b26" size="633017" crc="6e425ccc" fullsha1="2536a8fea70e753c640dc9392f2331f6dd565dd1" dataSha1="66e5de8ae12e81c759a78d935a0a60c397ef8aeb">
 		<category>Games</category>
-		<description>jambala\seven gates of jambala, the (europe)</description>
+		<description>The Seven Gates of Jambala</description>
+		<year>1994</year>
+		<manufacturer>Unique</manufacturer>
 		<rom name="seven gates of jambala, the (europe) (Track 01).bin" size="1434720" crc="30beb608" md5="8f38989569bc0971e13412898b388f9b" sha1="835088d80efd7e7f19d4cc276a4bee1e93b5791c"/>
 	</game>
 	<game name="jetstrike\jetstrike (1994)(rasputin)" type="" sha1="29acb758f08986cd4e5f7db515886d4500f0e3bb" size="239670721" crc="1596024c" fullsha1="e4f36c04c889eb23c746c8442ec355675183416a" dataSha1="398b06b89209dcadf0c0f32977576789da4e2dbd">
 		<category>Games</category>
-		<description>jetstrike\jetstrike (1994)(rasputin)</description>
+		<description>Jetstrike</description>
+		<year>1994</year>
+		<manufacturer>Rasputin</manufacturer>
 		<rom name="jetstrike (1994)(rasputin) (Track 01).bin" size="8911728" crc="e41cacc5" md5="0573263a771ce186a849d3dcbe3d2a81" sha1="c94d877b1e13d667072a4404364bcf5ebcda1faa"/>
 		<rom name="jetstrike (1994)(rasputin) (Track 02).bin" size="62149248" crc="664e6383" md5="6cb145180a5ed17eba981fb4b79ae7ad" sha1="3fa4f31470d13596ed1c2eaea76fb3860332ceb2"/>
 		<rom name="jetstrike (1994)(rasputin) (Track 03).bin" size="51762816" crc="3a35f0a5" md5="89541e271ba7ace07a0dcb5ca853c84f" sha1="3ef5d3c9763a98f473c0505a906ec651ac976c6e"/>
@@ -812,7 +962,9 @@
 	</game>
 	<game name="kidchaos\kid chaos (europe)" type="cd" sha1="8d03e78ef5db846907a83a8ff0b1fd4a07b34aad" size="312798892" crc="ccc74faa" fullsha1="5c0345d317f19501fe0ecb3c1df54a3b7a7cde31" dataSha1="c40cf269636612b759f3fdfc91b51d32944e681c">
 		<category>Games</category>
-		<description>kidchaos\kid chaos (europe)</description>
+		<description>Kid Chaos</description>
+		<year>1994</year>
+		<manufacturer>Ocean Software</manufacturer>
 		<rom name="kid chaos (europe) (Track 01).bin" size="7272384" crc="124dcb09" md5="ad92c00f67a3862acb873fd0f7e3ffe9" sha1="d165589efdcedf87a60176dd0e5318849a20dddc"/>
 		<rom name="kid chaos (europe) (Track 02).bin" size="26711664" crc="f36fd613" md5="fc49f23f5486670ff331fc39fab47677" sha1="2cd00186d8b5312a6ef22a0c0e9b3ecfea203a52"/>
 		<rom name="kid chaos (europe) (Track 03).bin" size="75209904" crc="72d6c0e8" md5="7e73e0a484804a8a0539f2af28837950" sha1="f5e98af9fb8418bac31e639e14c1485eb04321ea"/>
@@ -824,7 +976,9 @@
 	</game>
 	<game name="libcap2\liberation - captive ii v2.02-2.00c (1994-04-08)(mindscape)[cdd3716]" type="cd" sha1="bba774130869d9cffc14137279c5526d48d0c7bc" size="282893278" crc="8acaa7f6" fullsha1="bbf3c6350e897ca851fb5326447eef097ca1c3b9" dataSha1="18b9588111ea53612c6721468d56c0a5e1c891c3">
 		<category>Games</category>
-		<description>libcap2\liberation - captive ii v2.02-2.00c (1994-04-08)(mindscape)[cdd3716]</description>
+		<description>Liberation - Captive II</description>
+		<year>1994</year>
+		<manufacturer>Mindscape</manufacturer>
 		<rom name="liberation - captive ii v2.02-2.00c (1994-04-08)(mindscape)[cdd3716] (Track 01).bin" size="169175040" crc="41a21d23" md5="f0a9c88c7433dd6413e21fc331788e5a" sha1="fe792cb3e6110ebfb6ee6ea7afa7e78bc011285c"/>
 		<rom name="liberation - captive ii v2.02-2.00c (1994-04-08)(mindscape)[cdd3716] (Track 02).bin" size="65310336" crc="949fca9c" md5="9c3c42ae72a7538460bb39ec43034016" sha1="bb832dc99a5a10c26a95750104dff53b479f8040"/>
 		<rom name="liberation - captive ii v2.02-2.00c (1994-04-08)(mindscape)[cdd3716] (Track 03).bin" size="23011968" crc="ca4ddbee" md5="9a37ae16bb8c55150a65601a23861746" sha1="03d8e747852a105c47771ed6065d719cbe37aa98"/>
@@ -839,7 +993,9 @@
 	</game>
 	<game name="lotus\classic lotus trilogy, the (europe)" type="cd" sha1="ce9f84be0fafdb407fcdc344ce557218c5a30a34" size="229716090" crc="a155188f" fullsha1="da66caa5da1a7b150772e96ca8591222057b3c39" dataSha1="b8e10327b653e6e2328e5639a636df7946797eb3">
 		<category>Games</category>
-		<description>lotus\classic lotus trilogy, the (europe)</description>
+		<description>The Classic Lotus Trilogy</description>
+		<year>1994</year>
+		<manufacturer>Gremlin</manufacturer>
 		<rom name="classic lotus trilogy, the (europe) (Track 01).bin" size="169508640" crc="50f0780b" md5="e42306453758184c71bbd376cea41e7c" sha1="864bdc6cfa810a2780ad330d6f62bcdab2511ebc"/>
 		<rom name="classic lotus trilogy, the (europe) (Track 02).bin" size="56259840" crc="9fb3611a" md5="db1312532e94623e86e61cc69ed8d779" sha1="789e0abe282f19064ceb5782cbbe396c8dfb7680"/>
 		<rom name="classic lotus trilogy, the (europe) (Track 03).bin" size="59940720" crc="a2b69539" md5="038099a6e54569a2dda4b7ab11a9b1d2" sha1="d7d7fc67c8a4423976f19c41430ea6968b8cd634"/>
@@ -852,7 +1008,9 @@
 	</game>
 	<game name="marvin\marvins marvellous adventure (europe) (en,fr,de,es,it)" type="cd" sha1="ac7e36a2f62bb67d6c6c780b9fe4e1696a35d9ce" size="292996698" crc="318e9805" fullsha1="37ad971a24da23a15d45735737d396e0dec7a44f" dataSha1="1a90b66f2db97aae58b33f4df91305a33995eff1">
 		<category>Games</category>
-		<description>marvin\marvins marvellous adventure (europe) (en,fr,de,es,it)</description>
+		<description>s Marvellous Adventure</description>
+		<year>1994</year>
+		<manufacturer>21st Century Entertainment</manufacturer>
 		<rom name="marvins marvellous adventure (europe) (en,fr,de,es,it) (Track 01).bin" size="16071216" crc="0d2753bf" md5="06edec119d5e2ce7d95c163feac334dd" sha1="06db531c28df4355dd2fc436e96484a2a68912c3"/>
 		<rom name="marvins marvellous adventure (europe) (en,fr,de,es,it) (Track 02).bin" size="59526768" crc="34302999" md5="f59d8f581cd43f7a3a94c5fce23e763b" sha1="09d35a485ba7e54c13c19b55c1ce759f72ac0cc9"/>
 		<rom name="marvins marvellous adventure (europe) (en,fr,de,es,it) (Track 03).bin" size="50596224" crc="679c9397" md5="821b0779c74db8094cd7b7975a9aeb6c" sha1="6217d0b3ea459f3e708b2de533601e1991b3eba2"/>
@@ -868,12 +1026,16 @@
 	</game>
 	<game name="mean\mean arenas (europe)" type="cd" sha1="bf2a487fe9f8341fb08784cdce5a8349a46c6a5e" size="998803" crc="f05b6b36" fullsha1="0a48eceb7d86ab776b91657c3e9a1af1b7a06a13" dataSha1="77f443d1e1d1efcf92d490fb31c027e3c8a30f7e">
 		<category>Games</category>
-		<description>mean\mean arenas (europe)</description>
+		<description>Mean Arenas</description>
+		<year>1994</year>
+		<manufacturer>I.C.E.</manufacturer>
 		<rom name="mean arenas (europe) (Track 01).bin" size="2462544" crc="4e3e78ef" md5="5ba4adc382050137d31f093d24fc6c6a" sha1="7ff384bb9fb6f2e36259afa9d58c4098d60d5724"/>
 	</game>
 	<game name="methbros\super methane bros. (europe)" type="cd" sha1="04a63e05ba41361cbe0310647dc1f8f32d25b6e2" size="263910543" crc="7533b5de" fullsha1="6a37c24062494a512ac521fb51d46384875db2c4" dataSha1="3af0127f01a9d5c9d048827d44c75cab48692cce">
 		<category>Games</category>
-		<description>methbros\super methane bros. (europe)</description>
+		<description>Super Methane Bros.</description>
+		<year>1994</year>
+		<manufacturer>Apache</manufacturer>
 		<rom name="super methane bros. (europe) (Track 01).bin" size="15309168" crc="928dab8f" md5="b70258d9e928a0aad892cd67ec80a907" sha1="0f2657ee53987dbf5a58b45e98807e608ad1b4cd"/>
 		<rom name="super methane bros. (europe) (Track 02).bin" size="38342304" crc="92096c18" md5="c03f92c6f2850a4cdec3553e864eed05" sha1="a1d4290ed28515959d58ae62c7dc13766c656f42"/>
 		<rom name="super methane bros. (europe) (Track 03).bin" size="42580608" crc="9e3da1ef" md5="3702691c08620bccdcf589392c47867e" sha1="7f976f354055c9eefb7664c120e436e8d064d6d3"/>
@@ -889,40 +1051,54 @@
 	</game>
 	<game name="microcosm\microcosm (1994)(psygnosis)" type="" sha1="b647e9e82f9a6cdb96ebbd3b8757b864023fc6c9" size="362034900" crc="b1ab3c1b" fullsha1="a3dd34c5d8056495228661e4508a9ec68481fda0" dataSha1="6fd36a55a1b49e0ccfddfbb7ab6c7332dd180000">
 		<category>Games</category>
-		<description>microcosm\microcosm (1994)(psygnosis)</description>
+		<description>Microcosm</description>
+		<year>1994</year>
+		<manufacturer>Psygnosis</manufacturer>
 		<rom name="microcosm (1994)(psygnosis) (Track 01).bin" size="601587504" crc="0ead76d4" md5="05096d5d2a29bb4a4535e0be72806053" sha1="ec59d29e2675bbe90040b5e75bb3bd4b2c6fae85"/>
 		<rom name="microcosm (1994)(psygnosis) (Track 02).bin" size="35809200" crc="80840351" md5="a4ffbc88543d98f4a946866eb7ca15ae" sha1="0ba831513011c2001dc87db0673df78bc39762a9"/>
 	</game>
 	<game name="morph\morph (1993)(millennium)" type="cd" sha1="939260f5a83823101ca37e5c08f2880dd27a1860" size="1035900" crc="f260ab1e" fullsha1="99bbf71260015c5ad13681acec81289c1b30bdeb" dataSha1="2907b8b8a57efe012443549cadc41a7f87abe11f">
 		<category>Games</category>
-		<description>morph\morph (1993)(millennium)</description>
+		<description>Morph</description>
+		<year>1993</year>
+		<manufacturer>Millennium</manufacturer>
 		<rom name="morph (1993)(millennium) (Track 01).bin" size="2013184" crc="fbfc868a" md5="f3f87d53a5513419a1dc12fba247b4a8" sha1="b47dcbc38d5632c14a861df35f95bd894f762ef6"/>
 	</game>
 	<game name="myth\myth - history in the making (europe)" type="cd" sha1="b6690aca11ae5256e5326e6172fdde5d45e8bf72" size="3101586" crc="5bc7a907" fullsha1="b6dea115e02f5016f01ce18e155de4525159583e" dataSha1="49be7e49284b0fd52d001a1b9119a8ecbc7540b6">
 		<category>Games</category>
-		<description>myth\myth - history in the making (europe)</description>
+		<description>Myth: History in the Making</description>
+		<year>1993</year>
+		<manufacturer>System 3</manufacturer>
 		<rom name="myth - history in the making (europe) (Track 01).bin" size="64353072" crc="a01aa4e0" md5="79ce190830ea8b97873216be616f4ad5" sha1="ae205a9cd4a2b4c1800273a38e7b7a6956230ee7"/>
 	</game>
 	<game name="naughty\naughty ones (europe)" type="cd" sha1="9ee137844d90614eca7cb6d513d8b6510d093342" size="7269954" crc="5adcedd5" fullsha1="ad33482cdd6d82303f624f4e5472236fdcc5ee51" dataSha1="015c271a14243fd03066450086a0f099b0014671">
 		<category>Games</category>
-		<description>naughty\naughty ones (europe)</description>
+		<description>Naughty Ones</description>
+		<year>1994</year>
+		<manufacturer>Interactivision</manufacturer>
 		<rom name="naughty ones (europe) (Track 01).bin" size="48474720" crc="374c693b" md5="a854c68b366ac91d01c9834dcbcb6884" sha1="a351eb2e0938673ce2bcda23e1867dfe62f259f6"/>
 	</game>
 	<game name="okillunc\overkill and lunar-c (europe)" type="cd" sha1="c288138b723737b508bdc10da1756bd39ee8aa4d" size="1309741" crc="80ed2997" fullsha1="b17f3f64dedada407ddb3cd7b835bc1da17cb0ee" dataSha1="e500fac43dff0695d9716794ef0a88c718e3d9ec">
 		<category>Games</category>
-		<description>okillunc\overkill and lunar-c (europe)</description>
+		<description> Lunar-C</description>
+		<year>1994</year>
+		<manufacturer>Mindscape</manufacturer>
 		<rom name="overkill and lunar-c (europe) (Track 01).bin" size="5080320" crc="6f074e1c" md5="700b2568f006753925d302e5afb0048b" sha1="558b8f75cd71da692b42ca9b54b9719d5304fd3d"/>
 	</game>
 	<game name="pballfnt\pinball fantasies (1993)(21st century entertainment)" type="cd" sha1="0963f8b8b948761e9deb2bcc03a9b3400563a6a0" size="50547198" crc="5ff84d50" fullsha1="ebfb798c19a0b98aa5119fa535cb69e2ddb17681" dataSha1="7fc7091e92de9c322a3313ef80717f27430844e4">
 		<category>Games</category>
-		<description>pballfnt\pinball fantasies (1993)(21st century entertainment)</description>
+		<description>Pinball Fantasies CD Edition</description>
+		<year>1993</year>
+		<manufacturer>21st Century Entertainment</manufacturer>
 		<rom name="pinball fantasies (1993)(21st century entertainment) (Track 01).bin" size="4521984" crc="d0cbcfba" md5="9d976ee2d4ee93959a3c6f048ae3a85f" sha1="26e9433f6824a458dac8ff64fd3483542a826c39"/>
 		<rom name="pinball fantasies (1993)(21st century entertainment) (Track 02).bin" size="41806800" crc="2b027b3f" md5="f04d85de55b1d46c485b032686f10abc" sha1="79b87d366bfacd44e77b626f929e094650b010af"/>
 		<rom name="pinball fantasies (1993)(21st century entertainment) (Track 03).bin" size="50626800" crc="6936f861" md5="3e2ee3226a757f9b1608b61614dda167" sha1="06d98c7425dda1572c1564e789a2115ef798247c"/>
 	</game>
 	<game name="pballill\pinball illusions (1995)(21st century entertainment)" type="cd" sha1="65e78f30e4ac161e74df345e689e49896b516e47" size="362097674" crc="0dfb6240" fullsha1="73c90f663b0f1426f6b7a8ff397f826eb8600791" dataSha1="8359d26dfddcd73151e64efaa0a1b910eb375bcb">
 		<category>Games</category>
-		<description>pballill\pinball illusions (1995)(21st century entertainment)</description>
+		<description>Pinball Illusions</description>
+		<year>1995</year>
+		<manufacturer>21st Century Entertainment</manufacturer>
 		<rom name="pinball illusions (1995)(21st century entertainment) (Track 01).bin" size="6100992" crc="4877f27e" md5="cf63f77c95cd4287fba22cea73110abe" sha1="72361b403cc45a65b89020fa6a5d8dc95349594d"/>
 		<rom name="pinball illusions (1995)(21st century entertainment) (Track 02).bin" size="32262384" crc="9a7439f9" md5="93908f286404ee4151ebe895a4c4c3e3" sha1="709451833d534aca7c0861ed52197318b4e7c0af"/>
 		<rom name="pinball illusions (1995)(21st century entertainment) (Track 03).bin" size="14890512" crc="3f8abc6a" md5="cb3b5174bcd9e4ad21d3b2b885d21a5b" sha1="cc7ea9f7354f97f5154213f81c58a4ea1f99c5f4"/>
@@ -965,27 +1141,37 @@
 	</game>
 	<game name="pgaeuro\pga european tour (europe)" type="cd" sha1="2bc7f28244d4c785a4c9c0c40013c20c464bca3f" size="940896" crc="3832a68b" fullsha1="aa2b02803af1f8df1abe8add07d9cae59888960c" dataSha1="58a8963590bb24ab4ad2c12d4df9d3db0b583d61">
 		<category>Games</category>
-		<description>pgaeuro\pga european tour (europe)</description>
+		<description>PGA European Tour</description>
+		<year>1995</year>
+		<manufacturer>Ocean</manufacturer>
 		<rom name="pga european tour (europe) (Track 01).bin" size="1881600" crc="8652390e" md5="6edb8f40fd1b3f56e7c602a7a2bb5e99" sha1="faa9b4d213dab27c5288bef3d8f54a3ae444e72e"/>
 	</game>
 	<game name="pierre\pierre le chef is ... out to lunch (europe)" type="cd" sha1="669e7285ce0b8a3057d3cdd719e4796ac9a707e0" size="1963910" crc="e55a5605" fullsha1="ed836b5870d85afe28df72acc3a321577f1d0f93" dataSha1="534863fb872d744064ef209eea79c6c4a6175280">
 		<category>Games</category>
-		<description>pierre\pierre le chef is ... out to lunch (europe)</description>
+		<description>Pierre Le Chef is... Out to Lunch</description>
+		<year>1994</year>
+		<manufacturer>Mindscape</manufacturer>
 		<rom name="pierre le chef is ... out to lunch (europe) (Track 01).bin" size="64014384" crc="d01e0649" md5="fa4bb34d7a34d19aae6990a257c405f2" sha1="09e9e636e81cbe3f9f7d728e818ec536ba674c2f"/>
 	</game>
 	<game name="prey\prey - an alien encounter (europe)" type="cd" sha1="5949b34cf7386b655149e2c3db100c92b2e54175" size="47883299" crc="9df13e3d" fullsha1="a63ee5d54f70fe53a966ddcd0c2a7085d7c7426a" dataSha1="597188516ab1336701da937b8d5beac933cf9416">
 		<category>Games</category>
-		<description>prey\prey - an alien encounter (europe)</description>
+		<description>Prey: An Alien Encounter</description>
+		<year>1994</year>
+		<manufacturer>Almathera</manufacturer>
 		<rom name="prey - an alien encounter (europe) (Track 01).bin" size="140619024" crc="ee30d12d" md5="451e3a8daa04c6720dafaae6abb0f9f4" sha1="738429253e1cc424a819b18b3a46ce461367a049"/>
 	</game>
 	<game name="projxf17\project-x and f17 challenge (1994)(team 17)" type="" sha1="7366fc511ef295b4c9827f56224cd541aa9f69e2" size="4514315" crc="d76fe56b" fullsha1="303f34edf2455a524588ad5b822b229f4455e153" dataSha1="d064d90a1af95588e25ef3997ebb279d0b4b7430">
 		<category>Games</category>
-		<description>projxf17\project-x and f17 challenge (1994)(team 17)</description>
+		<description>Project-X and F17 Challenge</description>
+		<year>1994</year>
+		<manufacturer>Team 17</manufacturer>
 		<rom name="project-x and f17 challenge (1994)(team 17) (Track 01).bin" size="11527152" crc="06da7292" md5="db8ae9fa15e209e853b2f4a37ec2cfe0" sha1="b3db04b8075e7212fac8767387d3e4522c0158b4"/>
 	</game>
 	<game name="projxubb\project-x and ultimate body blows (europe)" type="cd" sha1="03f79c36928ce2a47cae8ed17b7959b3db5029a1" size="123037402" crc="5bcc53fd" fullsha1="cb944c9b2ca7e6c877a9a16029d82b71c57b52b1" dataSha1="25260f3b21103368752108ad40e3df639a2dbf0d">
 		<category>Games</category>
-		<description>projxubb\project-x and ultimate body blows (europe)</description>
+		<description>Project-X + Ultimate Body Blows</description>
+		<year>1994</year>
+		<manufacturer>Team 17</manufacturer>
 		<rom name="project-x and ultimate body blows (europe) (Track 01).bin" size="30336096" crc="3e3be758" md5="3473d2361133de7be4a33ac950239e8c" sha1="989569ef6bd0eb944c1c9bcb783469492b3153f6"/>
 		<rom name="project-x and ultimate body blows (europe) (Track 02).bin" size="34031088" crc="7d09cb7d" md5="fa272f8966a8daa2a9c5fec2abe22d7c" sha1="131dcec19dac6c1ca1eae191243dcc9ab7f865d0"/>
 		<rom name="project-x and ultimate body blows (europe) (Track 03).bin" size="21732480" crc="a420ea14" md5="a995eb64519e47533695570a307adfb0" sha1="efc8e6655b3d5e611bdc4c31e00fb4881cef7e5a"/>
@@ -999,37 +1185,51 @@
 	</game>
 	<game name="pwrdrive\power drive (europe) (en,fr,de,es,it)" type="cd" sha1="dc5cdff4206c544e16e1496ad60510f128e5a3b1" size="9757849" crc="81e327fd" fullsha1="10e66363ef495aa37b4ceac9590c77b77256d23a" dataSha1="99b51982d862398d308b7f56456bacc059674f3e">
 		<category>Games</category>
-		<description>pwrdrive\power drive (europe) (en,fr,de,es,it)</description>
+		<description>Power Drive</description>
+		<year>1994</year>
+		<manufacturer>U.S. Gold</manufacturer>
 		<rom name="power drive (europe) (en,fr,de,es,it) (Track 01).bin" size="89688816" crc="2afc1b11" md5="08f478e6c8d6fea3ec335a6736edeb5b" sha1="79a5c239c82069f19c5609270a5394fd0db96fa8"/>
 	</game>
 	<game name="pwrgames\power-games (europe) (en,de)" type="cd" sha1="298848d8bedd4aabf1c0d870137a8f0cda9543f1" size="189527324" crc="ae168c5e" fullsha1="2fa54f496f5f7b0f9c168d1d0dcf357d5c4edf11" dataSha1="37b2cd4ae0473938668dad29f8df3fce9a49948f">
 		<category>Games</category>
-		<description>pwrgames\power-games (europe) (en,de)</description>
+		<description>Power-Games</description>
+		<year>1994</year>
+		<manufacturer>Media Team</manufacturer>
 		<rom name="power-games (europe) (en,de) (Track 01).bin" size="332695104" crc="45c23733" md5="161bed39a48dd228b1865a9a9a1c81c7" sha1="76c4d3295dc5ba697eb296e1ac8707c3d2c44136"/>
 	</game>
 	<game name="quik\quik the thunder rabbit (europe)" type="cd" sha1="662b9490b290d3879760d849c64e80917abc872a" size="3858139" crc="a846c262" fullsha1="18f6fc02352b650edeaf4c479c8f2043899aa220" dataSha1="9b62fbf1d7db29d3b853e1fe866cbf8e0a693509">
 		<category>Games</category>
-		<description>quik\quik the thunder rabbit (europe)</description>
+		<description>Quik the Thunder Rabbit</description>
+		<year>1994</year>
+		<manufacturer>Paragon Publishing</manufacturer>
 		<rom name="quik the thunder rabbit (europe) (Track 01).bin" size="9151632" crc="833970e5" md5="1ac124f9bb7d71b6317e611f0b0e5766" sha1="59518d96614bcf42a871c2d4650197538112e3ab"/>
 	</game>
 	<game name="riserobo\rise of the robots (europe)" type="cd" sha1="fc5bdbf95ae01f0872a33c3aba755641dd4e5766" size="7710014" crc="2a7f25ee" fullsha1="40f0ff022606a6247e6f935c669c522102ada456" dataSha1="63e1fbede89a2efe2f6b1e30ee37c4048f55cfbc">
 		<category>Games</category>
-		<description>riserobo\rise of the robots (europe)</description>
+		<description>Rise of the Robots</description>
+		<year>1994</year>
+		<manufacturer>Time Warner Interactive</manufacturer>
 		<rom name="rise of the robots (europe) (Track 01).bin" size="17569440" crc="f81c8b6e" md5="27f1f861224c04591698164c7f8a67ae" sha1="06055d1d8966b111a0751b40947e219454b365a4"/>
 	</game>
 	<game name="roadkill\roadkill (europe)" type="cd" sha1="521f766d9a1382d2ab2dd3e528271e843ba252b2" size="24450802" crc="f41551fa" fullsha1="234bd47866333732f74a7563e149f0ab73529294" dataSha1="1f3d4c378ef5d37d8f25c087846646982a4b76b3">
 		<category>Games</category>
-		<description>roadkill\roadkill (europe)</description>
+		<description>Roadkill (set 1)</description>
+		<year>1995</year>
+		<manufacturer>Acid</manufacturer>
 		<rom name="roadkill (europe) (Track 01).bin" size="37232160" crc="20e75590" md5="0f7f6d31634698e138a504ccc7ab2c9b" sha1="13dbf89baa15de168aea10b79edc12849f203139"/>
 	</game>
 	<game name="roadkill\roadkill (europe) (alt)" type="cd" sha1="35661b03d0c4bb7fa23b163b3caa5db6f16ab6cd" size="24459722" crc="c051d661" fullsha1="030a9af9f5a4aa6d201447225e3256c98dd315a4" dataSha1="48446bb6bc09e1bc0811869a4026342e2d0bd1ce">
 		<category>Games</category>
-		<description>roadkill\roadkill (europe) (alt)</description>
+		<description>Roadkill (set 1)</description>
+		<year>1995</year>
+		<manufacturer>Acid</manufacturer>
 		<rom name="roadkill (europe) (alt) (Track 01).bin" size="37584960" crc="d3438b06" md5="a3c8ae0fd357150b35d2a5d17d32852d" sha1="bdbfed946d30a2db78742d775421a43dec513d06"/>
 	</game>
 	<game name="seekdest\seek and destroy (europe)" type="cd" sha1="919f1fb6342e78ebf2d134081c7d360d41563173" size="52636084" crc="d63bdd51" fullsha1="a2259e18e629c3d49b5c290a880d8b4451d2a77a" dataSha1="eb7fc26212cf740aa6665581f5f89e49f168d227">
 		<category>Games</category>
-		<description>seekdest\seek and destroy (europe)</description>
+		<description>Seek and Destroy</description>
+		<year>1994</year>
+		<manufacturer>Mindscape</manufacturer>
 		<rom name="seek and destroy (europe) (Track 01).bin" size="4800432" crc="37f5b8ed" md5="f8f216ae6aefa8481865d25e35f6b85c" sha1="842322692416232c1964d18051c7376e9003a5b6"/>
 		<rom name="seek and destroy (europe) (Track 02).bin" size="28421568" crc="52e31602" md5="4fa17be91b436d6d8f6f398ffa5bf541" sha1="1a69aed76dc42c7172914dc7466449cc9d18dc3b"/>
 		<rom name="seek and destroy (europe) (Track 03).bin" size="14361312" crc="e48a32c2" md5="70642c12907bbb215d99014f6a00d8d1" sha1="6b194965ab59cd15568aea1d3e356d92930e390f"/>
@@ -1041,7 +1241,9 @@
 	</game>
 	<game name="shadfght\shadow fighter (europe)" type="cd" sha1="7a7c9c272854ca95ff2a96b772e4c1e0dfe0e93b" size="216790648" crc="cb52d26e" fullsha1="ea78034b0c53fcbf9188cddc7f095bb5a1b47e25" dataSha1="42e90dfc97c28c115d94bbb00c3fb5ac6a400fcd">
 		<category>Games</category>
-		<description>shadfght\shadow fighter (europe)</description>
+		<description>Shadow Fighter</description>
+		<year>1994</year>
+		<manufacturer>Gremlin</manufacturer>
 		<rom name="shadow fighter (europe) (Track 01).bin" size="66615696" crc="2503ef3c" md5="5df26c641d1135ac6bb81a8c8a242263" sha1="ffe6aa393beb1e75c3aaf708260bcc0c10c92e8f"/>
 		<rom name="shadow fighter (europe) (Track 02).bin" size="32692800" crc="fccf9fca" md5="0b2d97d2920d8b43f4dbd44ed93b5167" sha1="90b02360481c51ab9c808c14580ee35c22bc9c02"/>
 		<rom name="shadow fighter (europe) (Track 03).bin" size="24500784" crc="50fb86be" md5="8bc65f586b684f8069c1cd41fa53baff" sha1="e34ff8d82c7d2560b4590e57cbb34e05a68f72c5"/>
@@ -1060,22 +1262,30 @@
 	</game>
 	<game name="shaolin\chambers of shaolin (europe)" type="cd" sha1="08d02e16b46165731ae66fca5cc8cd0df8bc8d48" size="716015" crc="3ca0525f" fullsha1="8a58723a29465fedc8e709aa2d96830055761b05" dataSha1="f56817ff3e76735380016f0091a89d22437959e7">
 		<category>Games</category>
-		<description>shaolin\chambers of shaolin (europe)</description>
+		<description>Chambers of Shaolin</description>
+		<year>1993</year>
+		<manufacturer>Unique</manufacturer>
 		<rom name="chambers of shaolin (europe) (Track 01).bin" size="1660512" crc="d17ffeea" md5="7b819c0095341af48e7be2d8bfec15ff" sha1="58a9d272bb515b84a6dccf89909cbe920108865d"/>
 	</game>
 	<game name="sheerdlt\sheer delight (europe)" type="cd" sha1="d73fa9c4b58dfd18ab884c7635e7900d03089016" size="451407168" crc="855f11ef" fullsha1="507488ca70ece79e134abd1284cb467a8fa38d32" dataSha1="e528d72c24aac099b92859691ecad89144c84838">
 		<category>Games</category>
-		<description>sheerdlt\sheer delight (europe)</description>
+		<description>Sheer Delight</description>
+		<year>1994</year>
+		<manufacturer>r Concepts</manufacturer>
 		<rom name="sheer delight (europe) (Track 01).bin" size="643311984" crc="a556e4bd" md5="20fdfabbd9ffb40b62b3fbf0832bdb17" sha1="c5fbed0e8fd4b8b2bce7e854603a313b4dd0cc7d"/>
 	</game>
 	<game name="simonsrc\simon the sorcerer (europe)" type="cd" sha1="a65a734da27f8e3d2c589bac8b453388a9c6ef64" size="129853426" crc="f9e40ef9" fullsha1="31f19ec35b25a8292a9a0bd07c40e2f23a713be9" dataSha1="24097d6d0a6a09e67f0ef750981b2ab6675ccc3e">
 		<category>Games</category>
-		<description>simonsrc\simon the sorcerer (europe)</description>
+		<description>Simon the Sorcerer</description>
+		<year>1994</year>
+		<manufacturer>Adventuresoft</manufacturer>
 		<rom name="simon the sorcerer (europe) (Track 01).bin" size="426196512" crc="6eccc116" md5="acc9df5593bf266e2b5734eb5efe94fa" sha1="dc05c7969d3f7b85407858665e37f9ae098cb6e9"/>
 	</game>
 	<game name="skelkrew\skeleton krew (europe)" type="cd" sha1="6480246ebf2d4b495d053e9a4cc9880a11663d51" size="141891758" crc="12828cbe" fullsha1="cd23102a322ff40fad7b2c50f43d7135ebeb16b4" dataSha1="f87ad57669cf06216d3423f064deca6eb9b168a8">
 		<category>Games</category>
-		<description>skelkrew\skeleton krew (europe)</description>
+		<description>Skeleton Krew</description>
+		<year>1995</year>
+		<manufacturer>Core</manufacturer>
 		<rom name="skeleton krew (europe) (Track 01).bin" size="6051696" crc="e16cbda4" md5="02753b80952737900e440425f4283400" sha1="c70432dd05965dc900cf0e9c26506b7be06a76f3"/>
 		<rom name="skeleton krew (europe) (Track 02).bin" size="42933408" crc="047f5854" md5="406a21806cb5d8c908a4b6ee17fb7ceb" sha1="10c2dadc07a9267b382f2a5215b3a9d69b6f68ad"/>
 		<rom name="skeleton krew (europe) (Track 03).bin" size="53493888" crc="09894de3" md5="e7df5a3a54de3c56207e0d01286d2112" sha1="a6030f67c7b885ace8651d531f4244c3f771516c"/>
@@ -1086,18 +1296,24 @@
 	</game>
 	<game name="solympix\summer olympix (europe)" type="cd" sha1="a5ed74b5489b7df9a9d5a0a032b747e9203be548" size="31388586" crc="a547a9a2" fullsha1="7f52aba39ce7d8dfb6f0cafca1909d0244db8bd4" dataSha1="87e7f08a5e40ad0ffb9af40839b732cf9afeda75">
 		<category>Games</category>
-		<description>solympix\summer olympix (europe)</description>
+		<description>Summer Olympix</description>
+		<year>1994</year>
+		<manufacturer>Flair</manufacturer>
 		<rom name="summer olympix (europe) (Track 01).bin" size="14782320" crc="914537d0" md5="d863c6d7457fcf21c8cd608d10eab3be" sha1="bee602f3565bc038b3f20643b29712e79cfffbad"/>
 		<rom name="summer olympix (europe) (Track 02).bin" size="52642464" crc="cd1055b7" md5="90eecd4b2f2934448d96f9220813c99c" sha1="7d4bb2e1629380af9c87162739477369250ba088"/>
 	</game>
 	<game name="speris\speris legacy, the (europe)" type="cd" sha1="7727a8778873ed1a20c83e7daa3a31974f82c63a" size="2933409" crc="e508f58f" fullsha1="ec1383aa5cc6f743771ded75b51addf607cbc915" dataSha1="3e99e979a022eb54a3d4a49690545c4a7a2da05c">
 		<category>Games</category>
-		<description>speris\speris legacy, the (europe)</description>
+		<description>The Speris Legacy</description>
+		<year>1996</year>
+		<manufacturer>Team 17</manufacturer>
 		<rom name="speris legacy, the (europe) (Track 01).bin" size="5774160" crc="cb3ae078" md5="610800fe302643d6303e0ff326e6b850" sha1="ce1b6ecc281c291192531045b1c9617d25983efd"/>
 	</game>
 	<game name="sskid\super skidmarks (europe)" type="cd" sha1="dda3c35f18d96e6a5613c4046cccded0edb7572e" size="96564839" crc="5b530835" fullsha1="9c978f5412163ac0acd03c89758cbab86b1d9a5f" dataSha1="9f8c6f0eee8bba25d6a43c600bbe89234c2b3747">
 		<category>Games</category>
-		<description>sskid\super skidmarks (europe)</description>
+		<description>Super Skidmarks (set 1)</description>
+		<year>1995</year>
+		<manufacturer>Guildhall Leisure</manufacturer>
 		<rom name="super skidmarks (europe) (Track 01).bin" size="35604576" crc="3c0803bf" md5="25edad2d837bc8ea6e41eb5ee361fb8b" sha1="0ccde3b2f525541ccb58255e3319265ca1106775"/>
 		<rom name="super skidmarks (europe) (Track 02).bin" size="23790480" crc="f27d2e27" md5="dee91f119a59f98f73005e9f6dd81546" sha1="704a7d00adc98839c0b0f2131b646a3f8b10a331"/>
 		<rom name="super skidmarks (europe) (Track 03).bin" size="42129024" crc="f91adb5d" md5="f6b6e25cc0a1da6255322a1565b82a37" sha1="7e342c501c3433693c1fc2a001cc9eea73eb7fb3"/>
@@ -1105,7 +1321,9 @@
 	</game>
 	<game name="sskid\super skidmarks (europe) (alt)" type="cd" sha1="c258b226bfce506a9211dd333d93252226df36d9" size="96566138" crc="cb22c94c" fullsha1="ff15f0c45b71c26df7da0d1dce1b16b64517a528" dataSha1="1a39f3079a2931a6d174a62a676bf34fa6500487">
 		<category>Games</category>
-		<description>sskid\super skidmarks (europe) (alt)</description>
+		<description>Super Skidmarks (set 1)</description>
+		<year>1995</year>
+		<manufacturer>Leisure</manufacturer>
 		<rom name="super skidmarks (europe) (alt) (Track 01).bin" size="35604576" crc="3c0803bf" md5="25edad2d837bc8ea6e41eb5ee361fb8b" sha1="0ccde3b2f525541ccb58255e3319265ca1106775"/>
 		<rom name="super skidmarks (europe) (alt) (Track 02).bin" size="23790480" crc="3d29f6e6" md5="a2ae6da1929f5fac8999691da5b942d7" sha1="f5dcd5f3a79089afc519245d8a43648046798ca4"/>
 		<rom name="super skidmarks (europe) (alt) (Track 03).bin" size="42129024" crc="a127cddd" md5="e25bf1e69b76fbc015d0b51bdf4a3319" sha1="30d463f408da81dc676fd0d2a38cfc1525313142"/>
@@ -1113,7 +1331,9 @@
 	</game>
 	<game name="sstardst\super stardust (europe)" type="cd" sha1="4cd16a281cbd41669cb0ae236370370e7145b3ef" size="326184500" crc="b4f74f9a" fullsha1="e875bf9ede995a2b2de78ae2d8c8b6962d6674fd" dataSha1="20876155fa88331683db087403f527c2f9e62cb2">
 		<category>Games</category>
-		<description>sstardst\super stardust (europe)</description>
+		<description>Super Stardust</description>
+		<year>1995</year>
+		<manufacturer>Team 17</manufacturer>
 		<rom name="super stardust (europe) (Track 01).bin" size="27927648" crc="14a0860c" md5="ef9bcaaf635a95b09bb7c8e16bfb9994" sha1="1b73f124e3426eeb5c6b9fcfa5778ac2a54d1617"/>
 		<rom name="super stardust (europe) (Track 02).bin" size="26655216" crc="44c412b3" md5="614bd353e867de70aaaf8883995e2b96" sha1="427f685c0f5fdbd67508fd9513b052b01c14a21a"/>
 		<rom name="super stardust (europe) (Track 03).bin" size="53268096" crc="1163dbeb" md5="43255ed28d2cfa6c3379eef4b1d68d52" sha1="6543f3177f0905bae0308b929a717f8a87ca11a8"/>
@@ -1142,42 +1362,58 @@
 	</game>
 	<game name="strippot\strip pot (europe)" type="cd" sha1="deae1bfacc0b2be442876f22f8a7ce94c8277a7c" size="2101847" crc="b6d10722" fullsha1="f4fa71da618aaf532fb66d133383c6369e16366c" dataSha1="381b10f28f1d6ec7f79bbed703ee679cc7892e66">
 		<category>Games</category>
-		<description>strippot\strip pot (europe)</description>
+		<description>Strip Pot</description>
+		<year>1994</year>
+		<manufacturer>Guildhall Leisure</manufacturer>
 		<rom name="strip pot (europe) (Track 01).bin" size="3692640" crc="419ac188" md5="84cf12d9faa7519abd607fc28a93294e" sha1="f461f2a8d777acf2e46061593c5f528e3c1a5ae4"/>
 	</game>
 	<game name="suprfrog1\superfrog (europe) (rev 1)" type="cd" sha1="61debd1bffb513e89031b024ed5626660e9b6e69" size="5386444" crc="63e465af" fullsha1="4295e7e97d90f3709cad9361841942a3f09866c8" dataSha1="6c7f50ecc3c2ff17f6c9b0de8b592c58c9a03e16">
 		<category>Games</category>
-		<description>suprfrog1\superfrog (europe) (rev 1)</description>
+		<description>Superfrog (rev 1)</description>
+		<year>1999</year>
+		<manufacturer>Islona</manufacturer>
 		<rom name="superfrog (europe) (rev 1) (Track 01).bin" size="10179456" crc="0102f3ea" md5="6c090d6273e5377b30f6d15834675bc0" sha1="f71603c35e5917a79b287ac307a9f96796ef7e3a"/>
 	</game>
 	<game name="suprfrog\superfrog (europe)" type="cd" sha1="b6bbde9b320f8e48e7ea6d93f78d541f0ebcdb45" size="5377193" crc="78a36056" fullsha1="fe741cff2a47021cc4ee33f46369589ae12e5d0f" dataSha1="b80d918b99ac6d91f7c91e732acae661a5fee518">
 		<category>Games</category>
-		<description>suprfrog\superfrog (europe)</description>
+		<description>Superfrog</description>
+		<year>1994</year>
+		<manufacturer>Team 17</manufacturer>
 		<rom name="superfrog (europe) (Track 01).bin" size="10214736" crc="b004716e" md5="ac94d9f85bc0d875c76365a2a5fdb89a" sha1="eace080007f794ab97cc16d4b80ecabe2339262b"/>
 	</game>
 	<game name="suprputt\super putty (europe)" type="cd" sha1="022be8e60e7cd2b6e8d85c02ad3a12f2d0c26be3" size="2105515" crc="7dd2b7aa" fullsha1="d54277fda64459223792b49741f3a8450fb98567" dataSha1="d717b743bcbbf7fd67d9e24f0867aeed47f36c1f">
 		<category>Games</category>
-		<description>suprputt\super putty (europe)</description>
+		<description>Super Putty</description>
+		<year>1994</year>
+		<manufacturer>System 3</manufacturer>
 		<rom name="super putty (europe) (Track 01).bin" size="63480480" crc="77e1e51d" md5="9adfa9efe92542b042faf411bf1529cb" sha1="b90c0748202466dd320f0516af011de537ae27f2"/>
 	</game>
 	<game name="surfninj\surf ninjas (europe)" type="cd" sha1="23088f8d69b6b4035f1c0ece46970737f924b63e" size="9126684" crc="828bfdf6" fullsha1="67fb1ac867011d903c3d421179e2c0b4e69266bf" dataSha1="aa0b7af897a54fedcf055fda4751fa881119cf67">
 		<category>Games</category>
-		<description>surfninj\surf ninjas (europe)</description>
+		<description>Surf Ninjas</description>
+		<year>1994</year>
+		<manufacturer>MicroValue</manufacturer>
 		<rom name="surf ninjas (europe) (Track 01).bin" size="28755552" crc="4e26ede2" md5="a2ebafba7ca758f06902c38b3cc050cd" sha1="608f853e1efcd106d15e109155271b56ccdda702"/>
 	</game>
 	<game name="sw2050\subwar 2050 (europe) (en,fr,de)" type="cd" sha1="9ce5ad78034cc7e40e6645debeb1886aa62a6b69" size="3249722" crc="5d601046" fullsha1="27f896040b4f86e29e1f70dcafed27a6638451b8" dataSha1="f0ba1c327dfd43d2f9866c2b803ede1b31de0539">
 		<category>Games</category>
-		<description>sw2050\subwar 2050 (europe) (en,fr,de)</description>
+		<description>Subwar 2050</description>
+		<year>1994</year>
+		<manufacturer>MicroProse</manufacturer>
 		<rom name="subwar 2050 (europe) (en,fr,de) (Track 01).bin" size="5190864" crc="1760e58c" md5="043f1995e00a9430dd81f9ef86515a93" sha1="504e57fae1809f412d2a35d3a7ff21afa6498fc5"/>
 	</game>
 	<game name="syndicat\syndicate (europe) (en,fr,it)" type="cd" sha1="ccc40e45087bcb7960256078c36619a0e4aec1b0" size="2272750" crc="11c5d9f3" fullsha1="d887224380f180aa4e52a1ebc04f4121a1a598b7" dataSha1="0639e9df5e066c1d31f24cb0f031a47a86e973ef">
 		<category>Games</category>
-		<description>syndicat\syndicate (europe) (en,fr,it)</description>
+		<description>Syndicate</description>
+		<year>1995</year>
+		<manufacturer>Mindscape</manufacturer>
 		<rom name="syndicate (europe) (en,fr,it) (Track 01).bin" size="3805536" crc="c2aff691" md5="661d0264999e5748da67660a6dd05e1f" sha1="a799f645faaf9dc20497d000526114bca1ce35a3"/>
 	</game>
 	<game name="themeprk\theme park (europe) (en,fr,de,it)" type="cd" sha1="f6333757d963477ffdd8ada7843acf531c9078c6" size="57493152" crc="3896cf92" fullsha1="94458c802249df0d0b6b21414b2ea1f60f208ed2" dataSha1="b02e9e114e35bef033102059418aa6e55369f968">
 		<category>Games</category>
-		<description>themeprk\theme park (europe) (en,fr,de,it)</description>
+		<description>Theme Park</description>
+		<year>1995</year>
+		<manufacturer>Mindscape</manufacturer>
 		<rom name="theme park (europe) (en,fr,de,it) (Track 01).bin" size="75353376" crc="cb99195f" md5="076d83d5f1fdc5acb03805d85bf382fd" sha1="f954341021380113c60c7d41c595abb90a317286"/>
 		<rom name="theme park (europe) (en,fr,de,it) (Track 02).bin" size="5042688" crc="ebc0367d" md5="df14bd9134839730573a79630fe01416" sha1="b9e336588aaf929f2d7f7379f14353464ee4f226"/>
 		<rom name="theme park (europe) (en,fr,de,it) (Track 03).bin" size="4896864" crc="5e06fb43" md5="6d8f8f8097f0496461087d0befdb142c" sha1="25f04f9310c06eb53fa0e826365a5ea4ebec1cc3"/>
@@ -1207,17 +1443,23 @@
 	</game>
 	<game name="totcarn\total carnage (europe)" type="cd" sha1="1fd797164132546d83887e6a5ccb3e53d233d334" size="2011069" crc="e4c01537" fullsha1="0480df394dea8e8b892dc7d41c7c933e5dacb497" dataSha1="9ad46fbd12724df63a2d0f6c5c51b63d85afa5e4">
 		<category>Games</category>
-		<description>totcarn\total carnage (europe)</description>
+		<description>Total Carnage</description>
+		<year>1994</year>
+		<manufacturer>I.C.E.</manufacturer>
 		<rom name="total carnage (europe) (Track 01).bin" size="3316320" crc="e0500c1e" md5="818d18f729c223cc66654d0e436c887f" sha1="7c8698dce5395bbce21d352c257120abe54b2d73"/>
 	</game>
 	<game name="tp\trivial pursuit - the cd32 edition (europe)" type="cd" sha1="2ccbc424fbc8abc53c8a400e8a5ea6c9c5d1535e" size="282368267" crc="ce9c597c" fullsha1="cf1ba7ca069b804eaa34881ec1cfb875a68d8daa" dataSha1="a7edb9cdf481ec57f7514dbfc15da3c554265302">
 		<category>Games</category>
-		<description>tp\trivial pursuit - the cd32 edition (europe)</description>
+		<description>Trivial Pursuit</description>
+		<year>1994</year>
+		<manufacturer>Domark</manufacturer>
 		<rom name="trivial pursuit - the cd32 edition (europe) (Track 01).bin" size="455024976" crc="3d82b8a5" md5="5e30b868146a67e14c98a64e60d62528" sha1="161ddf5f5f5d1af83a0c7f5fb4472fd3a0821678"/>
 	</game>
 	<game name="trolls\trolls (europe)" type="cd" sha1="17120c366e83a0cb1eb75c44366015b9906ee3bd" size="159803441" crc="f9bdcffa" fullsha1="cf1f60ca86170c2fe396c3eb76e80a5572ec670d" dataSha1="f8aad7d23bc64a059476e1e9094fd4c39df6f933">
 		<category>Games</category>
-		<description>trolls\trolls (europe)</description>
+		<description>Trolls</description>
+		<year>1993</year>
+		<manufacturer>Flair</manufacturer>
 		<rom name="trolls (europe) (Track 01).bin" size="4720464" crc="da4f0b33" md5="d3701332e95e9c9703eddf7fda604326" sha1="c9c54da18e450e480d40a3edf0178ffa72e03497"/>
 		<rom name="trolls (europe) (Track 02).bin" size="27052704" crc="798e3614" md5="8bfd5099a07dc50e9a669b1702bdc6db" sha1="d739e77c4b2723f6c72c53ba9c935100bae7a17d"/>
 		<rom name="trolls (europe) (Track 03).bin" size="30086784" crc="45aeafdf" md5="95175d6c14ece26addb05b57f0a21ca4" sha1="22422c8ec571805215c2001306bb2f5b25067e84"/>
@@ -1233,7 +1475,9 @@
 	</game>
 	<game name="ubb\ultimate body blows (europe)" type="cd" sha1="cd9f8b989a3cc91cb049bfcd0babb1bac8be588c" size="128302829" crc="2cb77887" fullsha1="737f46a3d4ed22f8d69ebff24e66e6bdc170ad81" dataSha1="4ba438c97ed078c4b9dc7849625124f3e6c5e30a">
 		<category>Games</category>
-		<description>ubb\ultimate body blows (europe)</description>
+		<description>Ultimate Body Blows</description>
+		<year>1994</year>
+		<manufacturer>Team 17</manufacturer>
 		<rom name="ultimate body blows (europe) (Track 01).bin" size="32288256" crc="39906e93" md5="88fec55ce437c1a1b14ef5a14bf95f82" sha1="60f18335d76c5023f000f9240231ed4f09feeecb"/>
 		<rom name="ultimate body blows (europe) (Track 02).bin" size="35468160" crc="c1f7ebfe" md5="1ab85e5029613a3d7aefa5396e238498" sha1="02d9de329d00a0fda84d204d881d22c7359a1079"/>
 		<rom name="ultimate body blows (europe) (Track 03).bin" size="22819104" crc="32313b82" md5="79844cbef20f1ae32e0f32907d45e371" sha1="a0b4612d799941f16e003805ba865091cbc95bb1"/>
@@ -1247,12 +1491,16 @@
 	</game>
 	<game name="ufo\ufo - enemy unknown (europe) (en,fr,de)" type="cd" sha1="1de899d4f242f383367a3730ce4b0dff80dcf4cc" size="3864589" crc="eaa276ab" fullsha1="c40c51d2435ed427992e163b4aea64586132ed55" dataSha1="0d295cb81d76039316441d7a56246ad7e1f19b0d">
 		<category>Games</category>
-		<description>ufo\ufo - enemy unknown (europe) (en,fr,de)</description>
+		<description> Unknown</description>
+		<year>1994</year>
+		<manufacturer>MicroProse</manufacturer>
 		<rom name="ufo - enemy unknown (europe) (en,fr,de) (Track 01).bin" size="7150080" crc="2174d728" md5="54dd3093536e0e738b7c766e45ccc40a" sha1="414bcd71e31df3506cdadd827ea505dd739983a7"/>
 	</game>
 	<game name="universe\universe (1994)(core)" type="" sha1="a3d0946c7470155a6f14be6a24ee42c7e1e8959e" size="182035331" crc="02be858c" fullsha1="3e5298465903698528d1b004d279e679decf2272" dataSha1="1425fe942f7290e56b9fab20e14c8ccbde242906">
 		<category>Games</category>
-		<description>universe\universe (1994)(core)</description>
+		<description>Universe</description>
+		<year>1994</year>
+		<manufacturer>Core</manufacturer>
 		<rom name="universe (1994)(core) (Track 01).bin" size="5901168" crc="d1ed6e97" md5="5cded62d8e9213ce5a0c050c3bc0f019" sha1="7924183868ee2da6ed1eec4346c20cdb12512d24"/>
 		<rom name="universe (1994)(core) (Track 02).bin" size="26850432" crc="fb032145" md5="e1d19d20e688803033e86ec50619274a" sha1="d9a326e9596505a687855fe91b88f74271a1f51d"/>
 		<rom name="universe (1994)(core) (Track 03).bin" size="25796736" crc="7204a212" md5="7a5cee03d13d5cf08db1e05189255bb1" sha1="6cd374fe0e4e09a5d7485a67010e6179bc31828c"/>
@@ -1280,29 +1528,39 @@
 	</game>
 	<game name="vital\vital light (europe)" type="cd" sha1="305a0bc17de1560e51ed13d00a530d038650cdb7" size="2428631" crc="9d0d395d" fullsha1="552ad81da4c89b08dca3c5fef5f8d64b08bf23e4" dataSha1="b5f0eeae009d964937c72588c4fff2230cb33875">
 		<category>Games</category>
-		<description>vital\vital light (europe)</description>
+		<description>Vital Light</description>
+		<year>1994</year>
+		<manufacturer>Millennium</manufacturer>
 		<rom name="vital light (europe) (Track 01).bin" size="5350800" crc="b370fe15" md5="97f3fc2bab404cc895ef4670578c25c5" sha1="33d3dbfd3187c9e8a7c9179c42f7a3b946484266"/>
 	</game>
 	<game name="vital\vital light (europe) (alt)" type="cd" sha1="881af514c5d120027af6a6b1a3ba21c36174f1a3" size="2417598" crc="2084640f" fullsha1="0696ea358fc0f503d56a3327253501926cacbe52" dataSha1="4283b5c2976d44c7a54b48681ebec810b633fcb8">
 		<category>Games</category>
-		<description>vital\vital light (europe) (alt)</description>
+		<description>Vital Light</description>
+		<year>1994</year>
+		<manufacturer>Millennium</manufacturer>
 		<rom name="vital light (europe) (alt) (Track 01).bin" size="4998000" crc="767d9dbd" md5="c2f373cec225a51b8a572bece6682218" sha1="3ac12dd02b86f1b435f85c0c9c7a3790a8204e48"/>
 	</game>
 	<game name="wembley\wembley international soccer (europe)" type="cd" sha1="cd9535c3b92fe8fb3f5c484d29f17af66ed843a7" size="14342867" crc="360287d2" fullsha1="2bbaf85b56d35c34599a2a975da0806b6b1324ef" dataSha1="3936f8ad157517ed8363cf64a49beef3c3d869bc">
 		<category>Games</category>
-		<description>wembley\wembley international soccer (europe)</description>
+		<description>Wembley International Soccer</description>
+		<year>1994</year>
+		<manufacturer>Audiogenic</manufacturer>
 		<rom name="wembley international soccer (europe) (Track 01).bin" size="2540160" crc="e6024fe8" md5="bde336c3e8f6b8534e1bb5712dfe0710" sha1="6500a24a44a99e19d4f7353f43c1c832f501abf8"/>
 		<rom name="wembley international soccer (europe) (Track 02).bin" size="19827360" crc="f2d2fc70" md5="420408409a81616291fd7e599a168666" sha1="164470297a6eceb63ea65a765d7e6b1a1b6cfc51"/>
 	</game>
 	<game name="whalevoy\whale's voyage (europe)" type="cd" sha1="6566b0f7eb44814c015ca8249e15251249ef2922" size="35198656" crc="7dd63347" fullsha1="c44d30e4466aa65faa28a4c47e6ab56b41703464" dataSha1="e8aae2332888879e61de749a848bca9733e4ada0">
 		<category>Games</category>
-		<description>whalevoy\whale's voyage (europe)</description>
+		<description>s Voyage</description>
+		<year>1993</year>
+		<manufacturer>Flair</manufacturer>
 		<rom name="whale's voyage (europe) (Track 01).bin" size="11491872" crc="549857df" md5="87f5175ced5527c0161d825a8b757283" sha1="c4164942cfb442f78bdc6a07b11aed614459e175"/>
 		<rom name="whale's voyage (europe) (Track 02).bin" size="46245024" crc="0de5f131" md5="3ddc25caec43df5ece67e7fe625f91ae" sha1="de551605d6ca524c4f00a4f8dc42fa863ae17878"/>
 	</game>
 	<game name="wildcup\wild cup soccer (europe)" type="cd" sha1="1f861a67676a6eadf40955142ce35302ef33fcca" size="127278022" crc="76d3984c" fullsha1="e5c2b907f62d133ee8187c3b680130f9ef65582d" dataSha1="c9136a302aea8e9fc178b971410a7e7ee78dde10">
 		<category>Games</category>
-		<description>wildcup\wild cup soccer (europe)</description>
+		<description>Wild Cup Soccer</description>
+		<year>1994</year>
+		<manufacturer>Millennium</manufacturer>
 		<rom name="wild cup soccer (europe) (Track 01).bin" size="1940400" crc="fc8aa680" md5="e4a896e27888701d7257282863712daf" sha1="e1b1c43c01bb70f87c5e13822854d68fbb8caa96"/>
 		<rom name="wild cup soccer (europe) (Track 02).bin" size="57741600" crc="04ede6d8" md5="f06006f9ebab020e3b8981bcdf7cf0d9" sha1="8e084c198bcb307da25fc370b1c0fb7fbcb2516a"/>
 		<rom name="wild cup soccer (europe) (Track 03).bin" size="45864000" crc="bd03c0e2" md5="0cd9d53945fc50c92a291606bad4e8bf" sha1="221a1149d93af86e1fc2df1f9f5f546dcd85709f"/>
@@ -1311,7 +1569,9 @@
 	</game>
 	<game name="worms\worms (europe) (en,fr,de)" type="cd" sha1="477c07013ca26b8729478c88c865be094fd9e988" size="266261839" crc="a6b7c681" fullsha1="daf98201fb405a934424e70a0287a412d3df2c62" dataSha1="cf9882b44f3198e658f51085a3d7cdd186c44f0a">
 		<category>Games</category>
-		<description>worms\worms (europe) (en,fr,de)</description>
+		<description>Worms</description>
+		<year>1995</year>
+		<manufacturer>Team 17</manufacturer>
 		<rom name="worms (europe) (en,fr,de) (Track 01).bin" size="94606848" crc="1862a94e" md5="8892318d6c0e2aecb0081b09cf2f6983" sha1="5edd0f92fe6f5c82eba699734a92e8e58b86c093"/>
 		<rom name="worms (europe) (en,fr,de) (Track 02).bin" size="60580464" crc="6a7884e8" md5="430f8dacd5d1047eb3913810646dd7d5" sha1="a8b3a5588958f5369572b4bebbfaf563e1eb4619"/>
 		<rom name="worms (europe) (en,fr,de) (Track 03).bin" size="72693264" crc="371e7fbe" md5="6582eb25edf62a814894ac0ae760a9fe" sha1="41bfeeb2222e84b88cf6def12a848e2d3b8d103e"/>
@@ -1323,7 +1583,9 @@
 	</game>
 	<game name="zool2\zool 2 (europe)" type="cd" sha1="05ebfe86f45c7bbbb649a831f17b4c0f187ae925" size="204883694" crc="3d0b6dc5" fullsha1="d8389e41dd4c73a32ed71dd6070433815b80da71" dataSha1="effba7815392c8a6f6c91a5f69a852da1356f480">
 		<category>Games</category>
-		<description>zool2\zool 2 (europe)</description>
+		<description>Zool 2</description>
+		<year>1994</year>
+		<manufacturer>Gremlin</manufacturer>
 		<rom name="zool 2 (europe) (Track 01).bin" size="129381168" crc="e89586d7" md5="e43a30297442413553551740f38d6f1b" sha1="855f38edc954798c8d3a220ddba1ef194aca1578"/>
 		<rom name="zool 2 (europe) (Track 02).bin" size="37893072" crc="4714ded1" md5="b1cc534449f6b46f8b1fe9c5d3260171" sha1="d1ec348fff2a1ca11485b3cb231d33d3d590cbe5"/>
 		<rom name="zool 2 (europe) (Track 03).bin" size="39901680" crc="d484a207" md5="2b096a4e9b4ea3bf2cfb0db0aed171b2" sha1="d9b83395fe6237929ae6c763aa1ade6b4e2225ff"/>
@@ -1337,7 +1599,9 @@
 	</game>
 	<game name="zool\zool - ninja of the nth dimension (europe)" type="cd" sha1="e0be491842fc11a38587ea6e896b2f506c664d5a" size="176780305" crc="cab43f27" fullsha1="87128d563ccfa8c98d55712f1bf8ae28f21537b8" dataSha1="088021c1677fc18566439a9c3bce20cea48b6936">
 		<category>Games</category>
-		<description>zool\zool - ninja of the nth dimension (europe)</description>
+		<description> Dimension</description>
+		<year>1993</year>
+		<manufacturer>Gremlin</manufacturer>
 		<rom name="zool - ninja of the nth dimension (europe) (Track 01).bin" size="127720656" crc="039aeabb" md5="d88d57c697977ee352f529f383ea4064" sha1="858754ab02e4148ed6907a832ff07cb0cfccdaae"/>
 		<rom name="zool - ninja of the nth dimension (europe) (Track 02).bin" size="40967136" crc="c2492899" md5="4367c8ea03bf047fe55dac325ce07691" sha1="5030fe0ba16b1117ba192e0193736f996faa3d41"/>
 		<rom name="zool - ninja of the nth dimension (europe) (Track 03).bin" size="37697856" crc="9cdfae8a" md5="0e1296bd38d7010c4b973df2f5f8fad5" sha1="b5c3ec902753a06d73279695324a69f3a712996c"/>

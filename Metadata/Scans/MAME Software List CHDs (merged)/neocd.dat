@@ -4,14 +4,16 @@
 	<header>
 		<name>neocd</name>
 		<description>neocd</description>
-		<version>0.266</version>
+		<version>0.274</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
 	<game name="2020bb\2020 super baseball (1995)(snk)(jp-us)" type="cd" sha1="d04b463599523185b42707e0492e0bb1e03c0e02" size="183620012" crc="ae99e5a1" fullsha1="d252c24fc8993380ee8534fb5c87f86fa11a980d" dataSha1="77bf2df5fa5e0a47a486977ad06c7451659fd1d5">
 		<category>Games</category>
-		<description>2020bb\2020 super baseball (1995)(snk)(jp-us)</description>
+		<description>2020 Super Baseball (Japan, USA)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="2020 super baseball (1995)(snk)(jp-us) (Track 01).bin" size="7550976" crc="06140817" md5="6a2c7474055dd42cac2fb2928b581e38" sha1="bc55494763a6377fce7a33a5ea03762f0eff55c2"/>
 		<rom name="2020 super baseball (1995)(snk)(jp-us) (Track 02).bin" size="38041248" crc="d411ca5a" md5="59309a4d46a747dd83d907939ede438b" sha1="a1b88bd1d350d66ae7cb722c890a74d9a9b91a08"/>
 		<rom name="2020 super baseball (1995)(snk)(jp-us) (Track 03).bin" size="3396288" crc="70939aac" md5="b10fa15e29399db0be69fcb8bb34ad95" sha1="4e2e24200b8ebae35fc35a7c9576252a99ba0286"/>
@@ -55,7 +57,9 @@
 	</game>
 	<game name="3countb\3 count bout (1995)(snk)(jp-us)[fire suplex]" type="cd" sha1="6fd2ef9b098c57590ef65938c5ee745ac25bcbab" size="236653088" crc="5f61308e" fullsha1="5648734899a9b636a1e051eeb8345e016cc02581" dataSha1="3745ae8f1bc4f3a6977cdcb251b118ae7b4e25fd">
 		<category>Games</category>
-		<description>3countb\3 count bout (1995)(snk)(jp-us)[fire suplex]</description>
+		<description>3 Count Bout (USA) ~ Fire Suplex (Japan)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="3 count bout (1995)(snk)(jp-us)[fire suplex] (Track 01).bin" size="37773312" crc="698ef4a9" md5="22cff9324e1170e126ef4e8183cacf9f" sha1="4ba32dbcc96e3506d38a2f2eef91bfc0a2d59ed4"/>
 		<rom name="3 count bout (1995)(snk)(jp-us)[fire suplex] (Track 02).bin" size="2356704" crc="9b3fdd76" md5="9f02f2bc1c68ded1821afde9910e1f76" sha1="1062980e9afcb08538cc9bfc5d2295b00a910fd2"/>
 		<rom name="3 count bout (1995)(snk)(jp-us)[fire suplex] (Track 03).bin" size="21229152" crc="efe97631" md5="02f5dc0fd91a5fd409704c2ba6e0c436" sha1="ab345ec9371c467c60f42da69606df64243b63d3"/>
@@ -86,7 +90,9 @@
 	</game>
 	<game name="adkworld\adk world (1995)(adk)(jp)" type="cd" sha1="80036f5c6ec5e3a63de0fa53e4d3897e067ccf3e" size="359690529" crc="85dc9126" fullsha1="8b64646535564ef119466024dbee22641012eae3" dataSha1="bc86168aa8b0d496aaeaad1c8bb5b9b74f2d5f95">
 		<category>Games</category>
-		<description>adkworld\adk world (1995)(adk)(jp)</description>
+		<description>ADK World (Japan)</description>
+		<year>1995</year>
+		<manufacturer>ADK</manufacturer>
 		<rom name="adk world (1995)(adk)(jp) (Track 01).bin" size="18180096" crc="a110434d" md5="a12b9f1af09d911cc18201c4c3edcaa3" sha1="fc3e71223d08cf0c56e3d13babd753893e49a63f"/>
 		<rom name="adk world (1995)(adk)(jp) (Track 02).bin" size="7444080" crc="1ebd5a14" md5="f5277cee4f268dca89e3c67c2c6a941c" sha1="4e64ddbb0e37c17322fdc2521d9f90acaddd4432"/>
 		<rom name="adk world (1995)(adk)(jp) (Track 03).bin" size="23658768" crc="4dd0d2f1" md5="4930c3107a6a3433dcb8a2a08aa5972c" sha1="600e1d4499061dbf2e6533abbddba44d2401f3c9"/>
@@ -133,7 +139,9 @@
 	</game>
 	<game name="alpham2\alpha mission ii (1994)(snk)(jp-us)[aso ii - last guardian]" type="cd" sha1="8edf2dfaa7967f61419ae7cb2c3b243d0864a364" size="277408386" crc="d4fc1af7" fullsha1="201c9fa7c73ba17ef83d40e090afc64ae33f8758" dataSha1="497d0b44a0ad1087035cb1555baac80046ecea8c">
 		<category>Games</category>
-		<description>alpham2\alpha mission ii (1994)(snk)(jp-us)[aso ii - last guardian]</description>
+		<description>Alpha Mission II (USA) ~ ASO II - Last Guardian (Japan)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="alpha mission ii (1994)(snk)(jp-us)[aso ii - last guardian] (Track 01).bin" size="9639936" crc="826b90ea" md5="5b1611c7a55a3ad7ca34a39a6be82d52" sha1="2a940b47358bf96797523080925cc54b55a41181"/>
 		<rom name="alpha mission ii (1994)(snk)(jp-us)[aso ii - last guardian] (Track 02).bin" size="44041200" crc="f88d762f" md5="82a66b6ede4556ad28a2b61ae0e64fc2" sha1="6ee5fd72498a7f35d39df852e53dae2ea341a630"/>
 		<rom name="alpha mission ii (1994)(snk)(jp-us)[aso ii - last guardian] (Track 03).bin" size="3431568" crc="3dd2820c" md5="f2a6c513044d9bd058ee4943468b248d" sha1="cef80c79b3e03fa7be57f9d7a4d0f49fd455c33b"/>
@@ -161,7 +169,9 @@
 	</game>
 	<game name="aodk\aggressors of dark kombat (1995)(adk)(jp-us)[tsuukai gangan koushinkyoku]" type="cd" sha1="f61ae1aaeaa7d306c98c340b631bfc1dd714ca23" size="360138735" crc="f7ab7f27" fullsha1="957e23f4ba1fe2349ec270089bf620eacbc39f6b" dataSha1="6664f0328dc38898ecb512ddb950716c15970dda">
 		<category>Games</category>
-		<description>aodk\aggressors of dark kombat (1995)(adk)(jp-us)[tsuukai gangan koushinkyoku]</description>
+		<description>Koushinkyoku (Japan)</description>
+		<year>1995</year>
+		<manufacturer>ADK</manufacturer>
 		<rom name="aggressors of dark kombat (1995)(adk)(jp-us)[tsuukai gangan koushinkyoku] (Track 01).bin" size="19275776" crc="c829448b" md5="9cd2c077e9504182039665032f0d0319" sha1="809b45bb8230ccd49a14b50fef48caec24e76f92"/>
 		<rom name="aggressors of dark kombat (1995)(adk)(jp-us)[tsuukai gangan koushinkyoku] (Track 02).bin" size="5466048" crc="e4fcbdb6" md5="e5e1a890cf72d6ee0bca4e2a80622a5f" sha1="533abb6f9f9827f954abefe200d5e68213ff85b7"/>
 		<rom name="aggressors of dark kombat (1995)(adk)(jp-us)[tsuukai gangan koushinkyoku] (Track 03).bin" size="3518592" crc="b01ea4cc" md5="5de9f653e4167a2aab2c3aaad16dbcb0" sha1="813e9eba7b1b0a40b67ac6758fa78f2e9347a330"/>
@@ -210,7 +220,9 @@
 	</game>
 	<game name="aof2\art of fighting 2 (1994)(snk)(jp-us)[ryuuko no ken 2]" type="cd" sha1="fcc479f16252ab177f4123d51de72d58cf29b4a8" size="388086543" crc="7b17f79b" fullsha1="451abc4c12c281504a752c50aa9277abff45517e" dataSha1="537089129c3aea3891067cb8eb7e1b084ca712b1">
 		<category>Games</category>
-		<description>aof2\art of fighting 2 (1994)(snk)(jp-us)[ryuuko no ken 2]</description>
+		<description>Art of Fighting 2 (USA) ~ Ryuuko no Ken 2 (Japan)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="art of fighting 2 (1994)(snk)(jp-us)[ryuuko no ken 2] (Track 01).bin" size="31232000" crc="fa78ba82" md5="1b366d472bdd447e09eb60d8ce3d51e1" sha1="1bf79e17cd16e01724e102a365d70a01a331d2ab"/>
 		<rom name="art of fighting 2 (1994)(snk)(jp-us)[ryuuko no ken 2] (Track 02).bin" size="9403296" crc="c3c25289" md5="f048d49de9066f348a0a9d24d732ea10" sha1="0e0c1e7096d2cfb481da215642760d824cc7d42f"/>
 		<rom name="art of fighting 2 (1994)(snk)(jp-us)[ryuuko no ken 2] (Track 03).bin" size="7180656" crc="cee61981" md5="8cac7fc35445663e5b2831acadc1136d" sha1="c471d5914dc458fc3634b7df28fb269c78268d11"/>
@@ -254,7 +266,9 @@
 	</game>
 	<game name="aof3\art of fighting 3 - path of the warrior (1996)(snk)(jp)[art of fighting - ryuuko no ken gaiden][ngcd-0961]" type="cd" sha1="28e0e5938f6243252c72fd054944a44037b098bc" size="328053146" crc="67a63fe1" fullsha1="f6717057956e6e15256936dfb0034d6d183ec5f5" dataSha1="065a415679fe849095d0ec0c653b413e5d25d01c">
 		<category>Games</category>
-		<description>aof3\art of fighting 3 - path of the warrior (1996)(snk)(jp)[art of fighting - ryuuko no ken gaiden][ngcd-0961]</description>
+		<description>Art of Fighting - Ryuuko no Ken Gaiden (Japan)</description>
+		<year>1996</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="art of fighting 3 - path of the warrior (1996)(snk)(jp)[art of fighting - ryuuko no ken gaiden][ngcd-0961] (Track 01).bin" size="61620224" crc="1127b1e0" md5="88be6b5f5788de25bd0ef0eba44728b9" sha1="725a84f77d20b5ade96f202ab661768c81be65bf"/>
 		<rom name="art of fighting 3 - path of the warrior (1996)(snk)(jp)[art of fighting - ryuuko no ken gaiden][ngcd-0961] (Track 02).bin" size="2944704" crc="a4cb95d3" md5="26b792a6fa5bc3fda4dad77fd9d45082" sha1="931c264d4d77823ea565869718a7967e69fc72e4"/>
 		<rom name="art of fighting 3 - path of the warrior (1996)(snk)(jp)[art of fighting - ryuuko no ken gaiden][ngcd-0961] (Track 03).bin" size="10064208" crc="116ba1a9" md5="0cfb95bad745c3cececa1a47c26385f9" sha1="7d5151324a52abf95f6ab64222a75c3788993e33"/>
@@ -285,7 +299,9 @@
 	</game>
 	<game name="aof3\art of fighting 3 - path of the warrior (1996)(snk)(jp-us)[art of fighting - ryuuko no ken gaiden][ngcd-096, ngcd-096e]" type="cd" sha1="63850e1bc2a81175dc4b5e545bd81e64efb94a77" size="328053211" crc="5f9d9b2e" fullsha1="e43600551b1abcf5ae5ab425bb97e2e7e84a12a1" dataSha1="a82a5422cd14427696797d2c3839a99017c5dcd7">
 		<category>Games</category>
-		<description>aof3\art of fighting 3 - path of the warrior (1996)(snk)(jp-us)[art of fighting - ryuuko no ken gaiden][ngcd-096, ngcd-096e]</description>
+		<description>Art of Fighting - Ryuuko no Ken Gaiden (Japan)</description>
+		<year>1996</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="art of fighting 3 - path of the warrior (1996)(snk)(jp-us)[art of fighting - ryuuko no ken gaiden][ngcd-096, ngcd-096e] (Track 01).bin" size="61620224" crc="1127b1e0" md5="88be6b5f5788de25bd0ef0eba44728b9" sha1="725a84f77d20b5ade96f202ab661768c81be65bf"/>
 		<rom name="art of fighting 3 - path of the warrior (1996)(snk)(jp-us)[art of fighting - ryuuko no ken gaiden][ngcd-096, ngcd-096e] (Track 02).bin" size="2944704" crc="df7d3422" md5="7cefe577767c98c53fda1f06a2362812" sha1="9ffb65fb96ca8bfd250f4549923245df40be37c3"/>
 		<rom name="art of fighting 3 - path of the warrior (1996)(snk)(jp-us)[art of fighting - ryuuko no ken gaiden][ngcd-096, ngcd-096e] (Track 03).bin" size="10064208" crc="f3ba63f2" md5="99e6fc8ab636bb8db84d21cb427c531a" sha1="8a8774db143e5fd902682a74a133118890f0787f"/>
@@ -316,7 +332,9 @@
 	</game>
 	<game name="aof\art of fighting (1994)(snk)(jp)[ryuuko no ken]" type="cd" sha1="2bcf7e86bba941d7613eb258fadc6542a5aff4bb" size="246975346" crc="515f341b" fullsha1="ffafd734c5930dbff5bd98fd0cc17883d2a96a7f" dataSha1="010453132960406d45e6122b8f582d31b257ee30">
 		<category>Games</category>
-		<description>aof\art of fighting (1994)(snk)(jp)[ryuuko no ken]</description>
+		<description>Ryuuko no Ken (Japan)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="art of fighting (1994)(snk)(jp)[ryuuko no ken] (Track 01).bin" size="20992000" crc="f6bcb430" md5="f3caa43a462760e9268623df7a0e1170" sha1="1f55248d79ad6ccba4d40d14bfda8a2e38e62d3d"/>
 		<rom name="art of fighting (1994)(snk)(jp)[ryuuko no ken] (Track 02).bin" size="44179968" crc="f354500a" md5="f6dbfc9fb56d0f1d2893fc6fad812602" sha1="7fde842ce5b2659ec5c8f2887290354550b77fe7"/>
 		<rom name="art of fighting (1994)(snk)(jp)[ryuuko no ken] (Track 03).bin" size="44102352" crc="57107969" md5="8f97ae3835e085cceddd77de7df9fca7" sha1="a5b8deede44d1600bd4495823571a9b8e0c94918"/>
@@ -357,14 +375,18 @@
 	</game>
 	<game name="bbbuster\Bang Bang Busters (France) (En,Ja) (Unl)" type="cd" sha1="5e596b4980c2a73e8b965588c4829757550598a7" size="7554155" crc="d809b59d" fullsha1="2112eca62613c4ebaff3a62334b6395009c05c37" dataSha1="0a12e66ed8f8750f80e7830bc81cf5927d07fd8d">
 		<category>Games</category>
-		<description>bbbuster\Bang Bang Busters (France) (En,Ja) (Unl)</description>
+		<description>Bang Bang Busters</description>
+		<year>2011</year>
+		<manufacturer>Neo Conception International</manufacturer>
 		<rom name="Bang Bang Busters (France) (En,Ja) (Unl) (Track 01).bin" size="7883904" crc="f555da2f" md5="8cbcf21e5a999392695c6f595c4da507" sha1="d9e54974652b9fbbe6c3ac82a70e9c06cc16700f"/>
 		<rom name="Bang Bang Busters (France) (En,Ja) (Unl) (Track 02).bin" size="9988944" crc="77311095" md5="1153c1916f283cdc93bbe96eb576fc2c" sha1="9b77e1ec7e308a567828b5bf8c1e57147781b9ab"/>
 		<rom name="Bang Bang Busters (France) (En,Ja) (Unl) (Track 03).bin" size="9988944" crc="898b1a26" md5="0bfdac7776fbf62074f2d3101c84cc10" sha1="771dfb863f36ab898bc7251abe67529d2060a282"/>
 	</game>
 	<game name="bjourney\raguy (1994)(adk)(jp)[blue's journey]" type="cd" sha1="3cf774b5236862dbfdc4d9aa8ff916e8947bd6bb" size="239296033" crc="1f33f40d" fullsha1="3fd068f50caa1f1d2bb4d5ca6cdf7459db4722a1" dataSha1="fecfb89f53232c9ae31db779b2d1aed1698804e7">
 		<category>Games</category>
-		<description>bjourney\raguy (1994)(adk)(jp)[blue's journey]</description>
+		<description>Raguy (Japan)</description>
+		<year>1994</year>
+		<manufacturer>ADK</manufacturer>
 		<rom name="raguy (1994)(adk)(jp)[blue's journey] (Track 01).bin" size="7000064" crc="50ebea4d" md5="5ee89b88d91e6d16600044bf60470407" sha1="93cd73e5770570960a8c41838e985f8e451d8287"/>
 		<rom name="raguy (1994)(adk)(jp)[blue's journey] (Track 02).bin" size="18437328" crc="b9a51959" md5="e819e78156631236e143a9cd0371d330" sha1="8bcd1bb05297bf1a6db50fbf6bd6f6fa5534ea82"/>
 		<rom name="raguy (1994)(adk)(jp)[blue's journey] (Track 03).bin" size="3455088" crc="427b56cf" md5="f718755a9f89bd85c5d468f708b32f06" sha1="c35826ed2e8c7cad2b407d3cb3f3e63705ce4481"/>
@@ -400,7 +422,9 @@
 	</game>
 	<game name="breakers\breakers (1997)(visco)(jp)" type="cd" sha1="f184706008c8f75e64d6cd0558d1c0db550aec6f" size="308295719" crc="71c1fb17" fullsha1="5ac9fb12fb6f942172b92ad33c537bc63104d643" dataSha1="ae678caf12f06560882318eeb1f707e7e2bbdcff">
 		<category>Games</category>
-		<description>breakers\breakers (1997)(visco)(jp)</description>
+		<description>Breakers (Japan)</description>
+		<year>1997</year>
+		<manufacturer>Visco</manufacturer>
 		<rom name="breakers (1997)(visco)(jp) (Track 01).bin" size="22130688" crc="18c546ce" md5="8597a0c8d315712e20be02e3d1089dd9" sha1="8b384aa934ebb7a17c5945231ba5779af6a509a3"/>
 		<rom name="breakers (1997)(visco)(jp) (Track 02).bin" size="6907824" crc="e4872f2b" md5="79f396e499074c9c19ecdb04b912278c" sha1="7b148ebbf7b5d83da7becbc0494ff2144f575eb0"/>
 		<rom name="breakers (1997)(visco)(jp) (Track 03).bin" size="35569296" crc="5c753655" md5="e2d0e036008f490ca622f6a1845d0ff7" sha1="9858634c5157912c9efb06366760d7176cbeb632"/>
@@ -436,7 +460,9 @@
 	</game>
 	<game name="bstars2\baseball stars 2 (1994)(snk)(jp-us)" type="cd" sha1="66f8859d37d8f11d28fcb153055b8b00ca91c100" size="144928745" crc="a434fdfa" fullsha1="cf4361cd9c8ce26bc4129f3d5be3f9eb23d08df9" dataSha1="024753849a5b088dae10d6107fc21b7433d47cb5">
 		<category>Games</category>
-		<description>bstars2\baseball stars 2 (1994)(snk)(jp-us)</description>
+		<description>Baseball Stars 2 (Japan, USA)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="baseball stars 2 (1994)(snk)(jp-us) (Track 01).bin" size="7550976" crc="e2fee95b" md5="9cfb0fd97fb590ca3738f232ae6bdd36" sha1="a6505eeb30de4109c02fa448de4f1a24e843c657"/>
 		<rom name="baseball stars 2 (1994)(snk)(jp-us) (Track 02).bin" size="4127760" crc="6bffec79" md5="e117c4d7285deee0cc24dde03142e74c" sha1="049be93f6f0786b9710478204490fd7493beae18"/>
 		<rom name="baseball stars 2 (1994)(snk)(jp-us) (Track 03).bin" size="14488320" crc="927f7683" md5="e2eb3fccd550f1e8d72dbe2827e4f852" sha1="564c6412f832a47a88b45f612daf20487546d9f1"/>
@@ -455,7 +481,9 @@
 	</game>
 	<game name="bstars\baseball stars professional (1995)(snk)(jp-us)" type="cd" sha1="2a124348dc69875193d61fe727eaeb0049d59faf" size="123988924" crc="df95ed79" fullsha1="9a252b63577d0127f007d8d498905279df3efe36" dataSha1="af2ac7bcd41401ca5c89916ffbe3af0fd503810d">
 		<category>Games</category>
-		<description>bstars\baseball stars professional (1995)(snk)(jp-us)</description>
+		<description>Baseball Stars Professional (Japan, USA)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="baseball stars professional (1995)(snk)(jp-us) (Track 01).bin" size="9263104" crc="4ed706ea" md5="46c20957f6b2c6c20a0a3e49bbe52e3d" sha1="80e636f8d967d0a95282864056c58b2c388f1565"/>
 		<rom name="baseball stars professional (1995)(snk)(jp-us) (Track 02).bin" size="6696144" crc="c5c596f2" md5="6731eafcc4c9af40e6b8b9801200a8ff" sha1="9ed70492309e9130a71eb9307d01ef69cad60c73"/>
 		<rom name="baseball stars professional (1995)(snk)(jp-us) (Track 03).bin" size="41454000" crc="d1b1d004" md5="ff6c3a7bec284e052e2af1dfb01137ea" sha1="544d972b37d9a1507bcae14f2fb287c4601bb2c3"/>
@@ -481,7 +509,9 @@
 	</game>
 	<game name="burningf\burning fight (1994)(snk)(jp-us)" type="cd" sha1="27bc263be2f4d9678bb61f1c658d654eafbf75f9" size="174859777" crc="a4ce7925" fullsha1="f837bfcf8af68151c45c70840545b8941b98edc2" dataSha1="1cf01576f4868c4bc57b7bb7771df2470c5b18a8">
 		<category>Games</category>
-		<description>burningf\burning fight (1994)(snk)(jp-us)</description>
+		<description>Burning Fight (Japan, USA)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="burning fight (1994)(snk)(jp-us) (Track 01).bin" size="7419904" crc="5e6339b7" md5="238c159ebdc52864c9e82417600d6a36" sha1="9e4fea08ba969a63bf3c7ce0c57a3fdb1c510b6d"/>
 		<rom name="burning fight (1994)(snk)(jp-us) (Track 02).bin" size="25037040" crc="7177eb3b" md5="ca99c4b87c7216b7aea3411324693663" sha1="0911c76c1869d86b8eb60406fa5e525d87413e18"/>
 		<rom name="burning fight (1994)(snk)(jp-us) (Track 03).bin" size="24794784" crc="93039030" md5="abc37ce286008afc976d3b311da75a6d" sha1="910cf5df0ccdcbe4d387ce3ea490f76065381f96"/>
@@ -509,7 +539,9 @@
 	</game>
 	<game name="crsword2\crossed swords ii (1995)(adk)(jp)" type="cd" sha1="f3c57b51ecdce2a9302cc531bbe4afe731b16660" size="251288114" crc="165ad8b0" fullsha1="94c12ee15d9177f788901f05fc61e835900d9ad5" dataSha1="7f653cafb8b70675a2e369156b6596dd27a12d51">
 		<category>Games</category>
-		<description>crsword2\crossed swords ii (1995)(adk)(jp)</description>
+		<description>Crossed Swords II (Japan)</description>
+		<year>1995</year>
+		<manufacturer>ADK</manufacturer>
 		<rom name="crossed swords ii (1995)(adk)(jp) (Track 01).bin" size="8828928" crc="dd604196" md5="e222b901f90acb06bbb083e6ac243bb7" sha1="5f218d5ca52377a9cda332a9bc677ed70339f002"/>
 		<rom name="crossed swords ii (1995)(adk)(jp) (Track 02).bin" size="5856480" crc="9e428b26" md5="b1b1e47f0ce69801ad9f99e23222d148" sha1="83a4a442368d08ffead2541e4e7da5aae5430dd7"/>
 		<rom name="crossed swords ii (1995)(adk)(jp) (Track 03).bin" size="34071072" crc="30cd44a3" md5="cd12553e4b9340dfb431792029499d80" sha1="cac84614b142834e39e1b5c493c0483e96724db1"/>
@@ -536,7 +568,9 @@
 	</game>
 	<game name="crsword\crossed swords (1994)(adk)(jp)" type="cd" sha1="27d99a9a241b8a52ce6d12b485d5a127fe0c22cc" size="212332540" crc="2998dfa7" fullsha1="2f9b63cd9ec8e9b8104749c429792657ec2a519b" dataSha1="babec45e7a455c7385699b1b19bb52e696d04262">
 		<category>Games</category>
-		<description>crsword\crossed swords (1994)(adk)(jp)</description>
+		<description>Crossed Swords (Japan)</description>
+		<year>1994</year>
+		<manufacturer>ADK</manufacturer>
 		<rom name="crossed swords (1994)(adk)(jp) (Track 01).bin" size="6475776" crc="91a789fb" md5="c89f82f2cc6a24403c2d9460d298311c" sha1="293bd935cb3d17936e316e60e47e3262b669bf61"/>
 		<rom name="crossed swords (1994)(adk)(jp) (Track 02).bin" size="7761600" crc="e34e2bb5" md5="80ee32e245b098478bdc85449510d1bf" sha1="4634a78e95f5491e406c076491d4202b962456a7"/>
 		<rom name="crossed swords (1994)(adk)(jp) (Track 03).bin" size="11221392" crc="8479d404" md5="df468bd751c429efcf2e4fbf868a2ca4" sha1="20329f9ae975e88b59779ce77c2aaf32fc7b5b77"/>
@@ -567,7 +601,9 @@
 	</game>
 	<game name="cyberlip\cyber-lip (1995)(snk)(jp-us)" type="cd" sha1="7237345049e5591747d8dab6531a6606053cf6c0" size="356552036" crc="e0ec849e" fullsha1="c31e83340cccee023d6192d6bd408193d6a3bebf" dataSha1="b4728e0dbab32ad56652ca6828eed51f9ce3fa6f">
 		<category>Games</category>
-		<description>cyberlip\cyber-lip (1995)(snk)(jp-us)</description>
+		<description>Cyber-Lip (Japan, USA)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="cyber-lip (1995)(snk)(jp-us) (Track 01).bin" size="8486912" crc="950a6a22" md5="df7d38c67a164a6b0b30bfc498f8113c" sha1="d77be3fc91cfd96cf48a362ffdbf67a89015c4aa"/>
 		<rom name="cyber-lip (1995)(snk)(jp-us) (Track 02).bin" size="12820752" crc="b7fcd368" md5="7531676e13c1337337f54d8fdbd3f7c8" sha1="02beef433a013272d78f4b3367da4b66bce76828"/>
 		<rom name="cyber-lip (1995)(snk)(jp-us) (Track 03).bin" size="10967376" crc="fb1cb6b2" md5="aee01cc21505c292b9b68ab6d321591d" sha1="cd3a178942ece9ee60aefa7f03f67ffdf83448fa"/>
@@ -600,7 +636,9 @@
 	</game>
 	<game name="doubledr\double dragon (1995)(snk)(jp)[ngcd-082 mt b06]" type="cd" sha1="112247572129b20249f0145380c298cd0acc45e5" size="443180099" crc="228fb42f" fullsha1="64bf06de31105900dacbdd927ef635f71d264725" dataSha1="a32acb0b674ccc53f5fa98094f8b3134bf0ff7d4">
 		<category>Games</category>
-		<description>doubledr\double dragon (1995)(snk)(jp)[ngcd-082 mt b06]</description>
+		<description>Double Dragon (Japan, USA)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 01).bin" size="22988448" crc="3bddb81a" md5="3f6119a8c0fa4bdd18da8636f1dee440" sha1="a9d3a27bdbd533279368cdac7f83ece312235f56"/>
 		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 02).bin" size="17903424" crc="5e1138f0" md5="6855ee77c32d4640ad0e80c01e900666" sha1="92a401dfc87853ffc5e72003577216d018b6b801"/>
 		<rom name="double dragon (1995)(snk)(jp)[ngcd-082 mt b06] (Track 03).bin" size="17823456" crc="f865e94f" md5="056a1ac0302e7b366cee842dad19df31" sha1="e597eb19147cfd96b2d82d7141d05ee4e14ff5c1"/>
@@ -624,7 +662,9 @@
 	</game>
 	<game name="doubledr\double dragon (1995)(snk)(jp-us)[ngcd-082 mt b01, ngcd-082e mt b04]" type="cd" sha1="467ce57b8b6ee035f39da8fc6a11d679c16bb5e8" size="443085512" crc="fe0d8d0c" fullsha1="5148761184aabe4be237eaae59563f6750e2dbc0" dataSha1="50b4e00da549a9e9e08cbec21bf389c09820ffd5">
 		<category>Games</category>
-		<description>doubledr\double dragon (1995)(snk)(jp-us)[ngcd-082 mt b01, ngcd-082e mt b04]</description>
+		<description>Double Dragon (Japan, USA)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="double dragon (1995)(snk)(jp-us)[ngcd-082 mt b01, ngcd-082e mt b04] (Track 01).bin" size="19988480" crc="f1fa6558" md5="f39502e3622c83ef5eaaded0932dc5e8" sha1="298d48b251228453c7cc25afb678007d5c0fdd2d"/>
 		<rom name="double dragon (1995)(snk)(jp-us)[ngcd-082 mt b01, ngcd-082e mt b04] (Track 02).bin" size="17374224" crc="fc307c9e" md5="c745eb55deb7873ffdeaa1846b8c4cb7" sha1="d2b0bd433f1c48f086ca0909c0ea49779ca0bc3e"/>
 		<rom name="double dragon (1995)(snk)(jp-us)[ngcd-082 mt b01, ngcd-082e mt b04] (Track 03).bin" size="17823456" crc="c478edbc" md5="278638998d3235f64cdbf1f15e40c560" sha1="146235c171a97a96c168fcab56aca30079b7a9ad"/>
@@ -648,7 +688,9 @@
 	</game>
 	<game name="fatfursp\fatal fury special (1994)(snk)(jp-us)[garou densetsu special]" type="cd" sha1="e86b3395fe66db6f88b9f9c3328104f95eaa6f64" size="404409539" crc="186ea728" fullsha1="466907fc918f9266b18b215030115d202acb5174" dataSha1="039625e45384543f927fc4ffad2a3f7fd196272d">
 		<category>Games</category>
-		<description>fatfursp\fatal fury special (1994)(snk)(jp-us)[garou densetsu special]</description>
+		<description>Fatal Fury Special (USA) ~ Garou Densetsu Special (Japan)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="fatal fury special (1994)(snk)(jp-us)[garou densetsu special] (Track 01).bin" size="22394880" crc="dd240a59" md5="450194a452d86ceb669991aef964ca01" sha1="73d85c3ca29494d3f2b97ff331c5f93967b1a469"/>
 		<rom name="fatal fury special (1994)(snk)(jp-us)[garou densetsu special] (Track 02).bin" size="3946656" crc="447224f9" md5="1e47712f7670df4e6365e69fa293553f" sha1="0af126d4a0b324f0b9a17fd7270cb4dfe3d9f017"/>
 		<rom name="fatal fury special (1994)(snk)(jp-us)[garou densetsu special] (Track 03).bin" size="4116000" crc="6f6676aa" md5="51f5831f814845a669a2a3ccf410ad33" sha1="4a61fd6a0858e9632be55bd2dab283fcd1f43ee4"/>
@@ -679,7 +721,9 @@
 	</game>
 	<game name="fatfury1\fatal fury - the battle of fury (1994)(snk)(jp-us)[garou densetsu - shukumei no tatakai]" type="cd" sha1="ea009d7b0ea128510c8e851d408e5476fd7f10c8" size="369835065" crc="e9763df2" fullsha1="69f390f77e9aac0b63ee0ef756472eb2048e2ce9" dataSha1="c6a92b105cb8eb882e6b5ffb918ec9f4bc221961">
 		<category>Games</category>
-		<description>fatfury1\fatal fury - the battle of fury (1994)(snk)(jp-us)[garou densetsu - shukumei no tatakai]</description>
+		<description>Fatal Fury - The Battle of Fury (USA) ~ Garou Densetsu - Shukumei no Tatakai (Japan)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="fatal fury - the battle of fury (1994)(snk)(jp-us)[garou densetsu - shukumei no tatakai] (Track 01).bin" size="7950336" crc="4909ff16" md5="b333ad1ae2e5834c5052ef45f2130e3b" sha1="2b1e3e11e85761cda824845c698cef9e38c86ebf"/>
 		<rom name="fatal fury - the battle of fury (1994)(snk)(jp-us)[garou densetsu - shukumei no tatakai] (Track 02).bin" size="44175264" crc="a6c748f5" md5="e0febdebdd09a15455eae6bca1b49215" sha1="abe5b4361490a308ddd371d0bad60e6f4d807cd6"/>
 		<rom name="fatal fury - the battle of fury (1994)(snk)(jp-us)[garou densetsu - shukumei no tatakai] (Track 03).bin" size="44100000" crc="63f3ab52" md5="fb144a8005a2c8e8c0af5bb74494c0fc" sha1="53fb9ca62344c3051cdfc56d1480ef111e094d19"/>
@@ -716,7 +760,9 @@
 	</game>
 	<game name="fatfury2\fatal fury 2 (1994)(snk)(jp-us)[garou densetsu 2 - aratanaru tatakai]" type="cd" sha1="8cc544fcd638ca21c1b299176cf86d07cdab5d77" size="335549585" crc="fc6f8dbe" fullsha1="a365b9da01af9913342b29a3cfeb312fa0c111f8" dataSha1="10f4d3b742a2dc7432e114f63ff89de0f85ed9d6">
 		<category>Games</category>
-		<description>fatfury2\fatal fury 2 (1994)(snk)(jp-us)[garou densetsu 2 - aratanaru tatakai]</description>
+		<description>Fatal Fury 2 (USA) ~ Garou Densetsu 2 - Aratanaru Tatakai (Japan)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="fatal fury 2 (1994)(snk)(jp-us)[garou densetsu 2 - aratanaru tatakai] (Track 01).bin" size="32610304" crc="2802f939" md5="bba5fbd633b132d418800505e81436c0" sha1="bc2c8de24f1f858f8c7f6ce89e3743f75252f66c"/>
 		<rom name="fatal fury 2 (1994)(snk)(jp-us)[garou densetsu 2 - aratanaru tatakai] (Track 02).bin" size="5028576" crc="3432e277" md5="d11659642a4a781863a7ad5994d3dae6" sha1="fd69dac3ecd22a2a5a9afb907545db1ae0f7b46a"/>
 		<rom name="fatal fury 2 (1994)(snk)(jp-us)[garou densetsu 2 - aratanaru tatakai] (Track 03).bin" size="4746336" crc="06acab25" md5="d844f64122ee48a493477dc491cbd591" sha1="db4ad8bbf002e900580783bfa7f20d0db8eaf7d4"/>
@@ -747,7 +793,9 @@
 	</game>
 	<game name="fatfury3\fatal fury 3 - road to the final victory (1995)(snk)(jp-us)[garou densetsu 3 - harukanaru tatakai][ngcd-069, ngcd-069e mt b02]" type="cd" sha1="09645dae28e225058d8b72eed1853bff77026348" size="397501654" crc="0f7d8b8c" fullsha1="6d1b7c3c07feda772daf8e4b8a8d9f55fb596ad9" dataSha1="cacb96c94b24ccc4c0c13ee522b5e98d75ae0f10">
 		<category>Games</category>
-		<description>fatfury3\fatal fury 3 - road to the final victory (1995)(snk)(jp-us)[garou densetsu 3 - harukanaru tatakai][ngcd-069, ngcd-069e mt b02]</description>
+		<description>Fatal Fury 3 - Road to the Final Victory (USA) ~ Garou Densetsu 3 - Harukanaru Tatakai (Japan)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="fatal fury 3 - road to the final victory (1995)(snk)(jp-us)[garou densetsu 3 - harukanaru tatakai][ngcd-069, ngcd-069e mt b02] (Track 01).bin" size="33800192" crc="6585b467" md5="690d218e2772877693c701d0b3a1fdc3" sha1="4136b2fb60373c1935db3ae78ab591f1506457df"/>
 		<rom name="fatal fury 3 - road to the final victory (1995)(snk)(jp-us)[garou densetsu 3 - harukanaru tatakai][ngcd-069, ngcd-069e mt b02] (Track 02).bin" size="9560880" crc="676ef45c" md5="6545923ad3fa6cac42850e28c3f7a09d" sha1="d459380864c8e74ff7825eeafc2851e8efcb0104"/>
 		<rom name="fatal fury 3 - road to the final victory (1995)(snk)(jp-us)[garou densetsu 3 - harukanaru tatakai][ngcd-069, ngcd-069e mt b02] (Track 03).bin" size="9744336" crc="479d31ea" md5="8b168e2fd17044110060d522ac962ff5" sha1="e8e6eea67b51c66f43c7f1942c8aa1d9d89415f2"/>
@@ -791,7 +839,9 @@
 	</game>
 	<game name="fatfury3\fatal fury 3 - road to the final victory (1995)(snk)(us)[garou densetsu 3 - harukanaru tatakai][ngcd-069e mt b03]" type="cd" sha1="b2099a04fc072d81fa564e050606af9a717e30dd" size="397501597" crc="eed6addd" fullsha1="ed5a63e5a434669d207af7ed63c8b6ab721283e0" dataSha1="9bcf5564bbfc758030f2aff873fdb3d280de2908">
 		<category>Games</category>
-		<description>fatfury3\fatal fury 3 - road to the final victory (1995)(snk)(us)[garou densetsu 3 - harukanaru tatakai][ngcd-069e mt b03]</description>
+		<description>Fatal Fury 3 - Road to the Final Victory (USA) ~ Garou Densetsu 3 - Harukanaru Tatakai (Japan)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="fatal fury 3 - road to the final victory (1995)(snk)(us)[garou densetsu 3 - harukanaru tatakai][ngcd-069e mt b03] (Track 01).bin" size="33800192" crc="af27030e" md5="c10a9e9864e5884168232500d06660f6" sha1="4ebfc0fb72dbeed78b64571623a2108b5b8dd1f9"/>
 		<rom name="fatal fury 3 - road to the final victory (1995)(snk)(us)[garou densetsu 3 - harukanaru tatakai][ngcd-069e mt b03] (Track 02).bin" size="9560880" crc="676ef45c" md5="6545923ad3fa6cac42850e28c3f7a09d" sha1="d459380864c8e74ff7825eeafc2851e8efcb0104"/>
 		<rom name="fatal fury 3 - road to the final victory (1995)(snk)(us)[garou densetsu 3 - harukanaru tatakai][ngcd-069e mt b03] (Track 03).bin" size="9744336" crc="479d31ea" md5="8b168e2fd17044110060d522ac962ff5" sha1="e8e6eea67b51c66f43c7f1942c8aa1d9d89415f2"/>
@@ -835,7 +885,9 @@
 	</game>
 	<game name="fbfrenzy\football frenzy (1994)(snk)(jp-us)" type="cd" sha1="8eb2f37d1a91a5c7f1602fdfb5e491f375d8b518" size="155740611" crc="9315849d" fullsha1="3c0acdda0e0656a78950b09a59043e789b35e600" dataSha1="182c3dfe95360da2ed427368accad535e25fc3ed">
 		<category>Games</category>
-		<description>fbfrenzy\football frenzy (1994)(snk)(jp-us)</description>
+		<description>Football Frenzy (Japan, USA)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="football frenzy (1994)(snk)(jp-us) (Track 01).bin" size="7553024" crc="3ab0392f" md5="389dd45881e3737e5a3c7e0eedad0105" sha1="be613f221c477df73ba5e9b06f6c98681767b46f"/>
 		<rom name="football frenzy (1994)(snk)(jp-us) (Track 02).bin" size="45158400" crc="4839db13" md5="7b7aacb01ff944fc7b01c605e7bfa0e8" sha1="4972b3e7e0de5e7906e6dde1f71ec3403e54ba24"/>
 		<rom name="football frenzy (1994)(snk)(jp-us) (Track 03).bin" size="44459856" crc="9606b3c2" md5="8de2cf1ea18c702a695a07a19b76882a" sha1="2acc694b31a7f3ac3ec820e65fdc290b275ea433"/>
@@ -857,7 +909,9 @@
 	</game>
 	<game name="fromanc2\idol mahjong final romance 2 (1995)(video system)(jp)" type="cd" sha1="fcaf51e2364c5fa98782c74194a7acebc84c643d" size="140446770" crc="e59f3b6b" fullsha1="7dd8722e23354584bf1a406889d1de7b20ea399b" dataSha1="ec455c4fb9953f7670bf0009ecfd36429f2cabea">
 		<category>Games</category>
-		<description>fromanc2\idol mahjong final romance 2 (1995)(video system)(jp)</description>
+		<description>Idol Mahjong Final Romance 2 (Japan)</description>
+		<year>1995</year>
+		<manufacturer>Video System</manufacturer>
 		<rom name="idol mahjong final romance 2 (1995)(video system)(jp) (Track 01).bin" size="7677952" crc="978d3ca0" md5="e88270d09274803aefba463f56912ee7" sha1="20a236722d10f00f77697598239b8b827e957eaf"/>
 		<rom name="idol mahjong final romance 2 (1995)(video system)(jp) (Track 02).bin" size="1989792" crc="0cb9d369" md5="03fa80f662c1ee267bc2938bd2e59ef6" sha1="7222f83687dbbbfbdb310e16a8e577b7fbb76611"/>
 		<rom name="idol mahjong final romance 2 (1995)(video system)(jp) (Track 03).bin" size="5640096" crc="f66f9fde" md5="1217aedcffd1d3b1c5b6c81e1acede20" sha1="6cd06937a9bd4370fafb3bda4e439db2ce6f93d3"/>
@@ -938,7 +992,9 @@
 	</game>
 	<game name="galaxyfg\galaxy fight - universal warriors (1995)(sunsoft)(jp-us)" type="cd" sha1="5be2d66269f49a818a1bf1358abfae5758ff039c" size="420404413" crc="1b7c034e" fullsha1="86d13f1f77abc9083ed256563f84daeaf93551e4" dataSha1="6c0aa9b6b454e3b2b12e50463dc5f82d3d1fbfec">
 		<category>Games</category>
-		<description>galaxyfg\galaxy fight - universal warriors (1995)(sunsoft)(jp-us)</description>
+		<description>Galaxy Fight - Universal Warriors (Japan, USA)</description>
+		<year>1995</year>
+		<manufacturer>Sunsoft</manufacturer>
 		<rom name="galaxy fight - universal warriors (1995)(sunsoft)(jp-us) (Track 01).bin" size="19163136" crc="a005eec3" md5="e434d260b574d2432768a6bc79a0f0e5" sha1="a20df6dd48f2758646d595142bb7e74e2e007688"/>
 		<rom name="galaxy fight - universal warriors (1995)(sunsoft)(jp-us) (Track 02).bin" size="4459392" crc="78d94f46" md5="895b1e5b7001709343e7a9aee0d4939f" sha1="d60f6b179c23ed1a3c6edc77a1324fd0b6f95aca"/>
 		<rom name="galaxy fight - universal warriors (1995)(sunsoft)(jp-us) (Track 03).bin" size="10591056" crc="6f40ef39" md5="2a5324d47a71b6fd9f55845e45863e14" sha1="ae6fb91681f117331cda297468119d53972183cb"/>
@@ -966,7 +1022,9 @@
 	</game>
 	<game name="gowcaizr\voltage fighter gowcaizer (1995)(technos)(jp)[choujin gakuen gowcaizer]" type="cd" sha1="b41cd8e68101226db0c643a106d4d999a1a4f809" size="412939695" crc="11881f62" fullsha1="e5c434621eb82e3f6e98d18e687a750d903a6d33" dataSha1="e110220c6192a5f00b58b19253e06a3fb6561c18">
 		<category>Games</category>
-		<description>gowcaizr\voltage fighter gowcaizer (1995)(technos)(jp)[choujin gakuen gowcaizer]</description>
+		<description>Choujin Gakuen Gowcaizer (Japan)</description>
+		<year>1995</year>
+		<manufacturer>Technos</manufacturer>
 		<rom name="voltage fighter gowcaizer (1995)(technos)(jp)[choujin gakuen gowcaizer] (Track 01).bin" size="61618176" crc="893f2ec4" md5="b58bd2fc905ed099c2e831b4e6cb070e" sha1="97d1018859a4eae3ad9299bea9599ab25e73b6a7"/>
 		<rom name="voltage fighter gowcaizer (1995)(technos)(jp)[choujin gakuen gowcaizer] (Track 02).bin" size="2869440" crc="4842e5da" md5="f591e479c609609f2c25edc5d79bdc48" sha1="c30ca425e4dfad96bfab62b189e63f10920eeec7"/>
 		<rom name="voltage fighter gowcaizer (1995)(technos)(jp)[choujin gakuen gowcaizer] (Track 03).bin" size="4939200" crc="09a089fd" md5="d978d310c49374c0403a45ee3b6dc368" sha1="8b9af5c80cc9bdfcc38eb1f1203c3e3b5e0b3658"/>
@@ -997,7 +1055,9 @@
 	</game>
 	<game name="gpilots\ghost pilots (1995)(snk)(jp)" type="cd" sha1="2652bfb3f2d321187ea5a7d4a0319b73d608b880" size="349709862" crc="d8ed8d94" fullsha1="83d0e1544564da314e36b5d0eb5230d17928666b" dataSha1="af67ff51f8c3486784de9fa8b0e7e32685430d7b">
 		<category>Games</category>
-		<description>gpilots\ghost pilots (1995)(snk)(jp)</description>
+		<description>Ghost Pilots (Japan)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="ghost pilots (1995)(snk)(jp) (Track 01).bin" size="7682048" crc="f9b4d04b" md5="8fd7ff0677827aed743b65c1e33f35e4" sha1="19b497b7d2f6db502cb05ed9b102a5ac9ad212b0"/>
 		<rom name="ghost pilots (1995)(snk)(jp) (Track 02).bin" size="3963120" crc="296f0e2b" md5="0ecd0c79f0edb3b0d390006c7aa44f6d" sha1="9ceaa0e7f1339b6aaac76669c40d4f4a8c8cb1a2"/>
 		<rom name="ghost pilots (1995)(snk)(jp) (Track 03).bin" size="13660416" crc="cf151a7d" md5="7d7e2eacb567cb4832a0254cd9f6b597" sha1="f86688bcb88432047c064dd3e85d280e2665d066"/>
@@ -1021,7 +1081,9 @@
 	</game>
 	<game name="ironclad\choutetsu brikin'ger (1996)(saurus)(jp)[ironclad]" type="cd" sha1="09e78f682d423459be58f845e9e571698acc4721" size="433819912" crc="7b52fc41" fullsha1="d80912d4473d6fa9066d3b1e91224acd521e20d7" dataSha1="c58d0232342c3d7022e7ae408e5a78ce9b4b7d6d">
 		<category>Games</category>
-		<description>ironclad\choutetsu brikin'ger (1996)(saurus)(jp)[ironclad]</description>
+		<description>ger (Japan)</description>
+		<year>1996</year>
+		<manufacturer>Saurus</manufacturer>
 		<rom name="choutetsu brikin'ger (1996)(saurus)(jp)[ironclad] (Track 01).bin" size="40830976" crc="968e9144" md5="5061f6a65793103d5f50279fdd2ecf02" sha1="6c089bc5f36e3294de722a76e266dedaa426c2ac"/>
 		<rom name="choutetsu brikin'ger (1996)(saurus)(jp)[ironclad] (Track 02).bin" size="5310816" crc="97e6d78d" md5="7e8139a1f4b15c1be8bfe624d3bc33fd" sha1="885113a0574fe4187bb3c805664f17c0014eb7af"/>
 		<rom name="choutetsu brikin'ger (1996)(saurus)(jp)[ironclad] (Track 03).bin" size="5673024" crc="6b4dd949" md5="d71b6d141eff53db88ed38778296c8e2" sha1="d5d99a171f6354a5c21510906c90cc220e987e02"/>
@@ -1045,7 +1107,9 @@
 	</game>
 	<game name="janshin\janshin densetsu - quest of the jongmaster (1995)(snk)(jp)" type="cd" sha1="75ead1297f42aea462e7a70c0f50f99ce49b4859" size="272988486" crc="8c32f939" fullsha1="7d4e87a371d6878c3d6906376cc5fe95809ff87e" dataSha1="b892bb386849a4b932e3fd114fa88ef928e6fa58">
 		<category>Games</category>
-		<description>janshin\janshin densetsu - quest of the jongmaster (1995)(snk)(jp)</description>
+		<description>Janshin Densetsu - Quest of the Jongmaster (Japan)</description>
+		<year>1995</year>
+		<manufacturer>Aicom</manufacturer>
 		<rom name="janshin densetsu - quest of the jongmaster (1995)(snk)(jp) (Track 01).bin" size="6930432" crc="be52ed54" md5="0e1c7cafcc810f3104d26b5e933e7518" sha1="fa6991c156980923ffa330b04e24bb78970a4989"/>
 		<rom name="janshin densetsu - quest of the jongmaster (1995)(snk)(jp) (Track 02).bin" size="2116800" crc="fdefce7d" md5="4e8d6589d6fb7e79ebdd035aad1138d4" sha1="94ef5c2021ed481e3d09b03eb87210f13288815f"/>
 		<rom name="janshin densetsu - quest of the jongmaster (1995)(snk)(jp) (Track 03).bin" size="14464800" crc="43b96890" md5="c95ad086a4838274b6b25400d44fefee" sha1="8261b6a540aa40612b05bc8f43440e9220743e8d"/>
@@ -1085,7 +1149,9 @@
 	</game>
 	<game name="joyjoy\puzzled (1994)(snk)(jp-us)[joy joy kid]" type="cd" sha1="e098fd1c7fc9a5ed87d25d959028af9380861464" size="252071632" crc="45a6a694" fullsha1="602a6dfb3fcd4e57a84f7e0b3751ff6a0413a472" dataSha1="7489bf19d7004df10cd368d88466962b65f7ece7">
 		<category>Games</category>
-		<description>joyjoy\puzzled (1994)(snk)(jp-us)[joy joy kid]</description>
+		<description>Puzzled (USA) ~ Joy Joy Kid (Japan)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="puzzled (1994)(snk)(jp-us)[joy joy kid] (Track 01).bin" size="3749888" crc="6ad77dfd" md5="6ea2028d1224e161b8287041c433f09e" sha1="92f65b13d8416dc15b656c11f176066253f5f598"/>
 		<rom name="puzzled (1994)(snk)(jp-us)[joy joy kid] (Track 02).bin" size="35924448" crc="2b62a08f" md5="a5cee55dd6740f9fa913955bb4ea3e23" sha1="8f9860bf874fe21bac2243704648f2dbc0dea821"/>
 		<rom name="puzzled (1994)(snk)(jp-us)[joy joy kid] (Track 03).bin" size="12623184" crc="da2dfd72" md5="31234729f6c93c247e7487ab7ea07758" sha1="97bc76e0a2f8b85b1103c70492e1f7528f0a88ae"/>
@@ -1130,7 +1196,9 @@
 	</game>
 	<game name="kabukikl\tengai makyou shinden - far east of eden (1995)(hudson)(jp)[kabuki klash]" type="cd" sha1="4490d5584cfb22d86584309193874ca2e3926525" size="318037932" crc="19a983d6" fullsha1="07753113277268498a9a31b895bd1f00ef4133a9" dataSha1="66bf7d1ce58197a42294a1a755eec377596c3923">
 		<category>Games</category>
-		<description>kabukikl\tengai makyou shinden - far east of eden (1995)(hudson)(jp)[kabuki klash]</description>
+		<description>Tengai Makyou Shinden - Far East of Eden (Japan)</description>
+		<year>1995</year>
+		<manufacturer>Hudson</manufacturer>
 		<rom name="tengai makyou shinden - far east of eden (1995)(hudson)(jp)[kabuki klash] (Track 01).bin" size="25030656" crc="e023b20e" md5="fa475c13c1df26b5fbfc2cdaf6f01f91" sha1="d697476d9ac65a960a02994992b14d9c8ba48784"/>
 		<rom name="tengai makyou shinden - far east of eden (1995)(hudson)(jp)[kabuki klash] (Track 02).bin" size="8822352" crc="ab859249" md5="d82a029d1ceb4d1a9a066e525545ac4b" sha1="1e8206ee536b20027771f8813df68c4fa2305467"/>
 		<rom name="tengai makyou shinden - far east of eden (1995)(hudson)(jp)[kabuki klash] (Track 03).bin" size="28576800" crc="a6b1a35f" md5="bc05a81020d10377c682e65317cbebc0" sha1="0d973438d901be48cd4bf9cdad6718533660bb93"/>
@@ -1168,7 +1236,9 @@
 	</game>
 	<game name="karnovr\karnov's revenge (1994)(snk)(jp-us)[fighter's history dynamite]" type="cd" sha1="4120e04d1e1512ec5e39b2dbea9dec2b0ceb9d09" size="374548428" crc="68dec478" fullsha1="5ee9ff3233ee1cbc5dc39ce026edfd4e1a3964ba" dataSha1="45ffdfd817cccec06f1d5e889ebc7ad998f8d678">
 		<category>Games</category>
-		<description>karnovr\karnov's revenge (1994)(snk)(jp-us)[fighter's history dynamite]</description>
+		<description>s History Dynamite (Japan)</description>
+		<year>1994</year>
+		<manufacturer>Data East</manufacturer>
 		<rom name="karnov's revenge (1994)(snk)(jp-us)[fighter's history dynamite] (Track 01).bin" size="15753216" crc="e9638b6a" md5="a1596e83759a6386a756e368a6a4d6c0" sha1="1338ee8f3bf55c416dc8defe1923e89258966eaf"/>
 		<rom name="karnov's revenge (1994)(snk)(jp-us)[fighter's history dynamite] (Track 02).bin" size="8290800" crc="e458beda" md5="0c01e6d6768ea3a20ccdf51ed5451f68" sha1="8aa2077f61dcd510fef4d5551c310930b03ace72"/>
 		<rom name="karnov's revenge (1994)(snk)(jp-us)[fighter's history dynamite] (Track 03).bin" size="4939200" crc="70efe54c" md5="1989f78d1e863f010139d3874a6269c0" sha1="6f7b9920a2edab513d0f3e2d79856e2ebd912e2d"/>
@@ -1209,7 +1279,9 @@
 	</game>
 	<game name="kof94\king of fighters '94, the (1994)(snk)(jp-us)[ngcd-055 mt b01+b04, ngcd-055e mt b01]" type="cd" sha1="5744c192411bc33533f1279f14f5a815d7d93326" size="370691238" crc="e98c5a75" fullsha1="909a2a6b8e6be20418d795ab67ab63060f8fcdff" dataSha1="41efd8aaadfa726ed98f169af176de4192978090">
 		<category>Games</category>
-		<description>kof94\king of fighters '94, the (1994)(snk)(jp-us)[ngcd-055 mt b01+b04, ngcd-055e mt b01]</description>
+		<description>94 (Japan, USA)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="king of fighters '94, the (1994)(snk)(jp-us)[ngcd-055 mt b01+b04, ngcd-055e mt b01] (Track 01).bin" size="34088960" crc="7bfa4859" md5="bf73eab0ed33602204bb4ec4f064caa5" sha1="fff8430db19c3aae3b7d00758ecca7ec541be2fc"/>
 		<rom name="king of fighters '94, the (1994)(snk)(jp-us)[ngcd-055 mt b01+b04, ngcd-055e mt b01] (Track 02).bin" size="50276352" crc="3d7bc34b" md5="7d5324dec948785188dc883329bc77c9" sha1="c5933197409181943a67697b51bd2460ea0f8f56"/>
 		<rom name="king of fighters '94, the (1994)(snk)(jp-us)[ngcd-055 mt b01+b04, ngcd-055e mt b01] (Track 03).bin" size="49396704" crc="990b40a0" md5="cf5fb4c883e32c38e10d99d0d33027be" sha1="21ee2a1e2d0a8a448153adfc39a92e08909d24b2"/>
@@ -1236,7 +1308,9 @@
 	</game>
 	<game name="kof94\king of fighters '94, the (1994)(snk)(jp-us)[ngcd-055 mt b12, ngcd-055e]" type="cd" sha1="712a8177ee6fcd685369d8852d0e07cd4d04b5f8" size="370767784" crc="3d9d1fd2" fullsha1="fd042654267b6812557fee856c46d3aa63797b71" dataSha1="7abad5c1e8f2d5a67751d0f62c1cfd5bea2958af">
 		<category>Games</category>
-		<description>kof94\king of fighters '94, the (1994)(snk)(jp-us)[ngcd-055 mt b12, ngcd-055e]</description>
+		<description>94 (Japan, USA)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="king of fighters '94, the (1994)(snk)(jp-us)[ngcd-055 mt b12, ngcd-055e] (Track 01).bin" size="34088960" crc="2786d8b3" md5="1bd95dec7ebcad136f59d0ef855ce759" sha1="a1d70f4e5524f556ccb02985ed3a2d2c628e4744"/>
 		<rom name="king of fighters '94, the (1994)(snk)(jp-us)[ngcd-055 mt b12, ngcd-055e] (Track 02).bin" size="50276352" crc="3d7bc34b" md5="7d5324dec948785188dc883329bc77c9" sha1="c5933197409181943a67697b51bd2460ea0f8f56"/>
 		<rom name="king of fighters '94, the (1994)(snk)(jp-us)[ngcd-055 mt b12, ngcd-055e] (Track 03).bin" size="49396704" crc="990b40a0" md5="cf5fb4c883e32c38e10d99d0d33027be" sha1="21ee2a1e2d0a8a448153adfc39a92e08909d24b2"/>
@@ -1263,7 +1337,9 @@
 	</game>
 	<game name="kof95\king of fighters '95, the (1995)(snk)(jp-us)[ngcd-084 mt b01+b03+b06, ngcd-084e mt b01]" type="cd" sha1="7f77c2db2da5bb91847a7f4458e29ca26e85e31c" size="354396223" crc="0710d387" fullsha1="4262d171eab92afd986e32e71d11da2dd7b6ba90" dataSha1="44ca235d5869ae6a61ded85c249b44a5472d491d">
 		<category>Games</category>
-		<description>kof95\king of fighters '95, the (1995)(snk)(jp-us)[ngcd-084 mt b01+b03+b06, ngcd-084e mt b01]</description>
+		<description>95 (Japan, USA)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="king of fighters '95, the (1995)(snk)(jp-us)[ngcd-084 mt b01+b03+b06, ngcd-084e mt b01] (Track 01).bin" size="38989824" crc="8f2f64bc" md5="7513c22f3b8681b7a62d1488139b98ae" sha1="f5e3034279a2db486648b0b23d8076bd0966a1c4"/>
 		<rom name="king of fighters '95, the (1995)(snk)(jp-us)[ngcd-084 mt b01+b03+b06, ngcd-084e mt b01] (Track 02).bin" size="11571840" crc="ff08086a" md5="14d281513ebb321b66602189c2807056" sha1="4802cb822a06316fe8849237f2627c2785233d7e"/>
 		<rom name="king of fighters '95, the (1995)(snk)(jp-us)[ngcd-084 mt b01+b03+b06, ngcd-084e mt b01] (Track 03).bin" size="7940352" crc="52498264" md5="8e7b70a64edb7de7b53117d97ed50ed2" sha1="8e37f1a81337563681f2e31c882974a43cadddb4"/>
@@ -1308,7 +1384,9 @@
 	</game>
 	<game name="kof95\king of fighters '95, the (1995)(snk)(jp-us)[ngcd-084 mt b10, ngcd-084e mt b03]" type="cd" sha1="3097c3133c47d6baefc269b0979899a3b13be5df" size="354396239" crc="2bb75686" fullsha1="7f405026f6dd708b6a49cd0fe7f8ae5ef2ca0358" dataSha1="8f54478a62aeab1dc564cf11030dac6da52a3d80">
 		<category>Games</category>
-		<description>kof95\king of fighters '95, the (1995)(snk)(jp-us)[ngcd-084 mt b10, ngcd-084e mt b03]</description>
+		<description>95 (Japan, USA)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="king of fighters '95, the (1995)(snk)(jp-us)[ngcd-084 mt b10, ngcd-084e mt b03] (Track 01).bin" size="38989824" crc="0507fb8f" md5="fefd7c4acad538dc6b5e416d6dedd513" sha1="210b40154b0fbf8f183a979acb3c2a2439f68c1f"/>
 		<rom name="king of fighters '95, the (1995)(snk)(jp-us)[ngcd-084 mt b10, ngcd-084e mt b03] (Track 02).bin" size="11571840" crc="ff08086a" md5="14d281513ebb321b66602189c2807056" sha1="4802cb822a06316fe8849237f2627c2785233d7e"/>
 		<rom name="king of fighters '95, the (1995)(snk)(jp-us)[ngcd-084 mt b10, ngcd-084e mt b03] (Track 03).bin" size="7940352" crc="52498264" md5="8e7b70a64edb7de7b53117d97ed50ed2" sha1="8e37f1a81337563681f2e31c882974a43cadddb4"/>
@@ -1353,7 +1431,9 @@
 	</game>
 	<game name="kof96\king of fighters '96, the (1996)(snk)(jp)[ngcd-214 mt a02+a03]" type="cd" sha1="be8c97546cca16aeab003eb691a6f5876ab5209e" size="382329481" crc="0e624f0f" fullsha1="85747c1c5a105a64c9c971feda92a716e3bf77c7" dataSha1="ab2045101a11c3f0339450a72b9aec6db3e9765b">
 		<category>Games</category>
-		<description>kof96\king of fighters '96, the (1996)(snk)(jp)[ngcd-214 mt a02+a03]</description>
+		<description>96 (Japan)</description>
+		<year>1996</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="king of fighters '96, the (1996)(snk)(jp)[ngcd-214 mt a02+a03] (Track 01).bin" size="52729856" crc="e9014a7b" md5="4de10b4957eda81060fac70aef4f558a" sha1="c17a6bc923a46c3e3c882f50ca6676167db9e044"/>
 		<rom name="king of fighters '96, the (1996)(snk)(jp)[ngcd-214 mt a02+a03] (Track 02).bin" size="8116752" crc="bca0dd79" md5="656653cc032927b8fad4cf39b118bc9d" sha1="e5236e85ab89dda590b1cbde421ebcb360189109"/>
 		<rom name="king of fighters '96, the (1996)(snk)(jp)[ngcd-214 mt a02+a03] (Track 03).bin" size="22934352" crc="98bfa252" md5="3d20d7c3bb814e3bb8522d55d37651e5" sha1="934bd3ae8fbfe3c83dac2d5b776f9b0f22e7ba3f"/>
@@ -1400,7 +1480,9 @@
 	</game>
 	<game name="kof96\king of fighters '96, the (1996)(snk)(jp-us)[ngcd-214 mt a01, ngcd-214e]" type="cd" sha1="19529fa58b16c6ab6d31e573a92e6339a591e7d9" size="382327599" crc="72b4a146" fullsha1="c560056dcf48bd8fe26b037707aeace03b2f4572" dataSha1="281bbd8b0640e6abcde8ec5a43e783ed161a4419">
 		<category>Games</category>
-		<description>kof96\king of fighters '96, the (1996)(snk)(jp-us)[ngcd-214 mt a01, ngcd-214e]</description>
+		<description>an)</description>
+		<year>1996</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="king of fighters '96, the (1996)(snk)(jp-us)[ngcd-214 mt a01, ngcd-214e] (Track 01).bin" size="52729856" crc="e9014a7b" md5="4de10b4957eda81060fac70aef4f558a" sha1="c17a6bc923a46c3e3c882f50ca6676167db9e044"/>
 		<rom name="king of fighters '96, the (1996)(snk)(jp-us)[ngcd-214 mt a01, ngcd-214e] (Track 02).bin" size="8116752" crc="7546c6af" md5="a45062155e621d4c2838b120aef442da" sha1="36f9571d7bc0c6913ce2f4f8e714220afc2bc8a9"/>
 		<rom name="king of fighters '96, the (1996)(snk)(jp-us)[ngcd-214 mt a01, ngcd-214e] (Track 03).bin" size="22934352" crc="d9e1e1d1" md5="a3b0ff3e5f3a9b44b74bb3708b8b6dcb" sha1="342b694167809c403dd38e343c140628b2aa0c4c"/>
@@ -1447,7 +1529,9 @@
 	</game>
 	<game name="kof96col\king of fighters '96 neogeo collection, the (1997)(snk)(jp)[ngcd-229 mt b07]" type="cd" sha1="2abe6a61ee2374e82c486dca6591f69625da6e26" size="273919652" crc="0973ea55" fullsha1="aad7ef710a1600e7a6084c64d5a1a374f3f04972" dataSha1="c8d57fada6e84ebc2dbbc67615ee69cc0fb5db69">
 		<category>Games</category>
-		<description>kof96col\king of fighters '96 neogeo collection, the (1997)(snk)(jp)[ngcd-229 mt b07]</description>
+		<description>96 NEOGEO Collection (Japan)</description>
+		<year>1997</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="king of fighters '96 neogeo collection, the (1997)(snk)(jp)[ngcd-229 mt b07] (Track 01).bin" size="78174208" crc="7132fad8" md5="fc9e54c0e30cb17ca184d2f7c2d251b4" sha1="0ba71fa9ad69ffaf21f87e079aefb4176bc01a97"/>
 		<rom name="king of fighters '96 neogeo collection, the (1997)(snk)(jp)[ngcd-229 mt b07] (Track 02).bin" size="8116752" crc="e3fd87a0" md5="fe6195db70a90ca548e7e6b13336e631" sha1="bf7a06dedeb3fcb501d69b833ce2696af48eb6db"/>
 		<rom name="king of fighters '96 neogeo collection, the (1997)(snk)(jp)[ngcd-229 mt b07] (Track 03).bin" size="22934352" crc="b0d74bbd" md5="131d187d5887057c3a952d38dafc43a6" sha1="42d5d0d71fa0f79704c712b491574c2e00967f60"/>
@@ -1502,7 +1586,9 @@
 	</game>
 	<game name="kof97\king of fighters '97, the (1997)(snk)(jp)" type="cd" sha1="24555dbf3452b0037a10df2edb2647fcd013847c" size="386998382" crc="2fa4d850" fullsha1="60772e1f929900907179389cf0fbcecb3fe38289" dataSha1="9d0fe486ec1f2c44868f9595c3a5fdf660327529">
 		<category>Games</category>
-		<description>kof97\king of fighters '97, the (1997)(snk)(jp)</description>
+		<description>97 (Japan)</description>
+		<year>1997</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="king of fighters '97, the (1997)(snk)(jp) (Track 01).bin" size="72357888" crc="56b062f1" md5="5c47607e5c29ff1f2d49683d82d0bfe5" sha1="f5bd122488e471c273b5887c08895ae4710b8de4"/>
 		<rom name="king of fighters '97, the (1997)(snk)(jp) (Track 02).bin" size="7074816" crc="c9c264c2" md5="6e8468b2263cc5512e72c19926ce3165" sha1="b38e9bb4e95f03a5693cc98c1643534429573bce"/>
 		<rom name="king of fighters '97, the (1997)(snk)(jp) (Track 03).bin" size="5430768" crc="d47060e4" md5="58d647f1b243013ac5048ff34d357779" sha1="68b05145438eca5b0c0a7dbf71df8590d0bb7001"/>
@@ -1552,7 +1638,9 @@
 	</game>
 	<game name="kof98\king of fighters '98, the - the slugfest (1998)(snk)(jp)[king of fighters '98, the - dream match never ends]" type="cd" sha1="60c8a075e48f1d43223cc18916b4d68b86343942" size="402135771" crc="afb2da5b" fullsha1="e116a6b21e0c588e497720a03434df5c800232df" dataSha1="b6e4421bd243e5b9e80424075d7d59506543c896">
 		<category>Games</category>
-		<description>kof98\king of fighters '98, the - the slugfest (1998)(snk)(jp)[king of fighters '98, the - dream match never ends]</description>
+		<description>98 - Dream Match Never Ends (Japan)</description>
+		<year>1998</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="king of fighters '98, the - the slugfest (1998)(snk)(jp)[king of fighters '98, the - dream match never ends] (Track 01).bin" size="96796672" crc="b01c9c6a" md5="46d54daa2390cecc4c29fad0ee15a513" sha1="cf23d55d6ff5d6851bfb906663a8247a9b4945cf"/>
 		<rom name="king of fighters '98, the - the slugfest (1998)(snk)(jp)[king of fighters '98, the - dream match never ends] (Track 02).bin" size="2137968" crc="53bb32f3" md5="761ccc51adb72a59d1f44a2d251814a9" sha1="794cbdb2069d8e747efcddfbe8160e4e0fa116d4"/>
 		<rom name="king of fighters '98, the - the slugfest (1998)(snk)(jp)[king of fighters '98, the - dream match never ends] (Track 03).bin" size="3506832" crc="4194212a" md5="d3153345baae05ef73d15ec9010b6f0f" sha1="76ce02e9e9ac7e87de3075eacfd84190026abb9f"/>
@@ -1596,7 +1684,9 @@
 	</game>
 	<game name="kof99\king of fighters '99, the - millennium battle (1999)(snk)(jp)[king of fighters '99, the]" type="cd" sha1="859bf27d94298b049c3897fb1f9e1cbc5a2aa472" size="390407565" crc="50872998" fullsha1="b42cf77611e908638ef4c3195f47b8fe00a47095" dataSha1="21ce7b86212eab1374b908b20e1471f6aae9217b">
 		<category>Games</category>
-		<description>kof99\king of fighters '99, the - millennium battle (1999)(snk)(jp)[king of fighters '99, the]</description>
+		<description>99 - Millennium Battle (Japan)</description>
+		<year>1999</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="king of fighters '99, the - millennium battle (1999)(snk)(jp)[king of fighters '99, the] (Track 01).bin" size="81340416" crc="1b46e3c4" md5="158ea09c7333366ca862c8e670151965" sha1="14a3f218bdb03ba464e3dfcbb5c7f696cae5e1bc"/>
 		<rom name="king of fighters '99, the - millennium battle (1999)(snk)(jp)[king of fighters '99, the] (Track 02).bin" size="13063008" crc="af62b0e4" md5="74342e70054f94465f1df0128e05c2f8" sha1="21e53420f33ef3073282aea6a6e26165aee36af1"/>
 		<rom name="king of fighters '99, the - millennium battle (1999)(snk)(jp)[king of fighters '99, the] (Track 03).bin" size="4064256" crc="90397798" md5="fef92880e74b34f1bc92cae2351f294f" sha1="863ac5608c87fe895d42e47d027fb9625f8e87f5"/>
@@ -1643,7 +1733,9 @@
 	</game>
 	<game name="kotm2\king of the monsters 2 (1994)(snk)(jp-us)" type="cd" sha1="47a3d6c8fd8d48a3f651f8ca22087fc32ae9a383" size="393398904" crc="b3389386" fullsha1="e18ae1df9ed16a934e615f0385248ecda764ac4e" dataSha1="6ad1fa27731b9d6a8041041e929a5ea095a8968c">
 		<category>Games</category>
-		<description>kotm2\king of the monsters 2 (1994)(snk)(jp-us)</description>
+		<description>King of the Monsters 2 (Japan, USA)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="king of the monsters 2 (1994)(snk)(jp-us) (Track 01).bin" size="16457728" crc="92af33eb" md5="9370c5fb6fdfed696c77ae41131b28e6" sha1="ac9b16b6a08507073d5a0970dfc85e7229654c4d"/>
 		<rom name="king of the monsters 2 (1994)(snk)(jp-us) (Track 02).bin" size="41063568" crc="8fbf6987" md5="e956fb517244147804ea5fbeb44acb1d" sha1="6b3dfc1c1254fe6727af8e8810436b49edeb7cc5"/>
 		<rom name="king of the monsters 2 (1994)(snk)(jp-us) (Track 03).bin" size="41091792" crc="5db7faa1" md5="aa48de902df2fd21fdf9bab1010b58dc" sha1="bb007e6a325034973f276d412a4931b6f20110a8"/>
@@ -1681,7 +1773,9 @@
 	</game>
 	<game name="lastblad\last blade, the (1998)(snk)(jp)[bakumatsu roman - gekka no kenshi]" type="cd" sha1="719150149e67f1a277827eb586570a55f33dab6b" size="304913414" crc="b5a747b0" fullsha1="3e4755e96d551541533d2d02f4ba5ebb24787b70" dataSha1="264d5ed29bf4543ebe7aee7d4d3170e6595f19ff">
 		<category>Games</category>
-		<description>lastblad\last blade, the (1998)(snk)(jp)[bakumatsu roman - gekka no kenshi]</description>
+		<description>Bakumatsu Roman - Gekka no Kenshi (Japan)</description>
+		<year>1998</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="last blade, the (1998)(snk)(jp)[bakumatsu roman - gekka no kenshi] (Track 01).bin" size="84996096" crc="00983d1a" md5="3f22ffa902a37ba8b562faf6e1166dca" sha1="f8d550ea860ecd02fa1ec51f82e8e64c35fc55e1"/>
 		<rom name="last blade, the (1998)(snk)(jp)[bakumatsu roman - gekka no kenshi] (Track 02).bin" size="9034032" crc="a496e8c0" md5="fa09575f38e86d09d524ef89266f6538" sha1="f0fd4bb58a2336bbace86579e84985f19d817473"/>
 		<rom name="last blade, the (1998)(snk)(jp)[bakumatsu roman - gekka no kenshi] (Track 03).bin" size="3259872" crc="f6a010b5" md5="7a5cf62e49e1132df58964a42dfd73ed" sha1="981c2110e237830e998b8d5be83f519ec4b53015"/>
@@ -1726,7 +1820,9 @@
 	</game>
 	<game name="lastbld2\bakumatsu roman daini maku - gekka no kenshi - tsuki ni saku hana, chiri yuku hana (1999)(snk)(jp)[last blade 2, the]" type="cd" sha1="a744e04d877c94bd7bc988c3b21cbed0c22e8f62" size="291818579" crc="b70ec1cb" fullsha1="cce799511af640a95409bafca2b6fa08c4abf526" dataSha1="d00a66c1a8cefe6f849003616d0cc2d40422d71c">
 		<category>Games</category>
-		<description>lastbld2\bakumatsu roman daini maku - gekka no kenshi - tsuki ni saku hana, chiri yuku hana (1999)(snk)(jp)[last blade 2, the]</description>
+		<description>Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)</description>
+		<year>1999</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="bakumatsu roman daini maku - gekka no kenshi - tsuki ni saku hana, chiri yuku hana (1999)(snk)(jp)[last blade 2, the] (Track 01).bin" size="88309760" crc="6ccd8bc1" md5="83f87b6c452d29caa87cc1eff010b2e6" sha1="34a1f81b16ee09b55c8fd627d9b3e6ddeb983943"/>
 		<rom name="bakumatsu roman daini maku - gekka no kenshi - tsuki ni saku hana, chiri yuku hana (1999)(snk)(jp)[last blade 2, the] (Track 02).bin" size="13055952" crc="be1b99b7" md5="c5f15891adcff9a25aa2d4c22f7f1551" sha1="58dc2c3c2e045ef20d719b8f640195def5449f4f"/>
 		<rom name="bakumatsu roman daini maku - gekka no kenshi - tsuki ni saku hana, chiri yuku hana (1999)(snk)(jp)[last blade 2, the] (Track 03).bin" size="3530352" crc="ce61bdf9" md5="a09f0177cd34e7921598173126a1710f" sha1="a73d00849d4a357af427da0f2f1e5685290e5ce8"/>
@@ -1758,7 +1854,9 @@
 	</game>
 	<game name="lasthope\cd-rom [ngdt cd-300j] [v2007-10-03]" type="cd" sha1="e4d734d83c086bcfe0d2080d760ebc4b0e704916" size="128854056" crc="e4dbc04a" fullsha1="6d9a0c436370451a1680743961bfc699432af2ae" dataSha1="281f2790622bd4672104bf14731335cc9e849d48">
 		<category>Games</category>
-		<description>lasthope\cd-rom [ngdt cd-300j] [v2007-10-03]</description>
+		<description>Last Hope (Europe)</description>
+		<year>2007</year>
+		<manufacturer>NG:DEV.TEAM</manufacturer>
 		<rom name="cd-rom [ngdt cd-300j] [v2007-10-03] (Track 01).bin" size="15454992" crc="22f23b00" md5="0eb96b68518c8421fe90675abebb333b" sha1="53f30a7680a3ff7f1441030b4686e99363c4d3f7"/>
 		<rom name="cd-rom [ngdt cd-300j] [v2007-10-03] (Track 02).bin" size="20732880" crc="843ef4e0" md5="e8d2ef6ea170442772ce7ced547826ca" sha1="ca05dc32fb92edafe73877e42ee6be000b722d29"/>
 		<rom name="cd-rom [ngdt cd-300j] [v2007-10-03] (Track 03).bin" size="33466608" crc="53199b94" md5="c31128c811c379a75ff5a2278b16e937" sha1="92893482494f2295eec30150d7013905fe15d56b"/>
@@ -1772,24 +1870,32 @@
 	</game>
 	<game name="lbowling\league bowling (1994)(snk)(jp-us)" type="cd" sha1="5356bf4243fe6ce08ef2dedaf737ca3497551e3a" size="2695081" crc="87aaf3f0" fullsha1="ec14df3e250fdef6e1306cb20a869f896a3c1c7a" dataSha1="e6fe676f8b5a11a6c17fe17f978fbcdf9f02033a">
 		<category>Games</category>
-		<description>lbowling\league bowling (1994)(snk)(jp-us)</description>
+		<description>League Bowling (Japan, USA)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="league bowling (1994)(snk)(jp-us) (Track 01).bin" size="4100096" crc="1db8964c" md5="32cf0f1ca64c61adcff76f3c79b3150d" sha1="1f8ff34e4f9ce96108292b9b993134a8a3d10eb3"/>
 		<rom name="league bowling (1994)(snk)(jp-us) (Track 02).bin" size="4753392" crc="c395b06f" md5="b24d6ac9600ef56008d69c4afb8cc2fc" sha1="b517877e4dfc62bbd2db2fef108e36b4fc68b43a"/>
 	</game>
 	<game name="looptris\looptris" type="cd" sha1="3185046020d19ef31c6afc7fd2f1aad0e3327b71" size="173865" crc="34d8a9b6" fullsha1="890b3a08bf9a88d5ae6d4fbd73bd903ad929af64" dataSha1="999538d745668a74dc4e3b4bb3167b132a658b4a">
 		<category>Games</category>
-		<description>looptris\looptris</description>
+		<description>Looptris</description>
+		<year>2021</year>
+		<manufacturer>Blastar</manufacturer>
 		<rom name="looptris (Track 01).bin" size="1169408" crc="80474c81" md5="0d930d73571bcbefcb3e00c918dae3f9" sha1="1d31bb4e9df63e3a53aec118a05cf8385c9a314e"/>
 	</game>
 	<game name="looptrsp\Looptris Plus" type="cd" sha1="dcd55b5087fa73cbe88de785ec97c0528f3867e9" size="34115473" crc="8003fcba" fullsha1="154085e56b1bbbba4a866796c3f385da7cb6a3ed" dataSha1="0b54b76bf22db88fd4e25ff9814ff10546254f60">
 		<category>Games</category>
-		<description>looptrsp\Looptris Plus</description>
+		<description>Looptris Plus</description>
+		<year>2022</year>
+		<manufacturer>Blastar</manufacturer>
 		<rom name="Looptris Plus (Track 01).bin" size="1187840" crc="6d6b3e92" md5="53fbec2464555d0855753ca80777ad47" sha1="bad6e7144e59b0d3f8e196df28e922412bd5e919"/>
 		<rom name="Looptris Plus (Track 02).bin" size="63701568" crc="21d2482a" md5="6ae5134a739c13d28b052b9423229117" sha1="e652081800f116bdc9267aa4cd7c6fb329e8e6f4"/>
 	</game>
 	<game name="lresort\last resort (1994)(snk)(jp-us)" type="cd" sha1="15449520e449d1e3ac2979936fcebc2adbbe5dcf" size="215191241" crc="16d9b9f9" fullsha1="1f3a149f0a13d2f46b29712ea9f9b4ac774aebe2" dataSha1="3aa9e6eff23276d11e39df9245c9d1bc416dcdf0">
 		<category>Games</category>
-		<description>lresort\last resort (1994)(snk)(jp-us)</description>
+		<description>Last Resort (Japan, USA)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="last resort (1994)(snk)(jp-us) (Track 01).bin" size="11147264" crc="15c68570" md5="e65e1e7bcbda4191ab9c516f368e3e4f" sha1="e65a539758cb35a622b08a8a169bda4420d7d8c9"/>
 		<rom name="last resort (1994)(snk)(jp-us) (Track 02).bin" size="25098192" crc="d22dd72f" md5="4f86537be6eb3ff5daeddcb76c1ee411" sha1="1cdcaae6ce8cfdde16994ee69e28ac5d6d02d87d"/>
 		<rom name="last resort (1994)(snk)(jp-us) (Track 03).bin" size="21005712" crc="d8608b6f" md5="216824d45f64c6ffdee77c95001f3dc8" sha1="d461bcd7e0aa79aa8f434e35cde9acba8c2c3066"/>
@@ -1813,7 +1919,9 @@
 	</game>
 	<game name="magdrop2\magical drop 2 (1996)(data east)(jp)" type="cd" sha1="e065068cb359a9f9fc8071dcd27e2b6ac1346f9a" size="407898351" crc="4e420581" fullsha1="99616837a6a9b396493ae070b58f3c7e88fb10b8" dataSha1="00fd784632db1c4ee557dce753a82807497f19a5">
 		<category>Games</category>
-		<description>magdrop2\magical drop 2 (1996)(data east)(jp)</description>
+		<description>Magical Drop 2 (Japan)</description>
+		<year>1996</year>
+		<manufacturer>Data East</manufacturer>
 		<rom name="magical drop 2 (1996)(data east)(jp) (Track 01).bin" size="10110976" crc="459dced0" md5="23b2378d4e63c10a9014c44351a12d4f" sha1="0546bbdefbb72dd294d973bb20bd95e626dcbe63"/>
 		<rom name="magical drop 2 (1996)(data east)(jp) (Track 02).bin" size="22929648" crc="0639df35" md5="3e7d7845bcd8c4027217af639141ad3c" sha1="cf7a4e079df244fa0cd4b1784486af893f6f0594"/>
 		<rom name="magical drop 2 (1996)(data east)(jp) (Track 03).bin" size="15344448" crc="d20f47be" md5="f6af7e3bf4405d1e12ace2b10e540fa7" sha1="44c8301bdbbffc00923586fca088a38a4fcdabf0"/>
@@ -1843,7 +1951,9 @@
 	</game>
 	<game name="maglord\magician lord (1994)(adk)(jp)" type="cd" sha1="3f02bc969bdd7330a800001319f413365a72eab3" size="187788969" crc="5feac62c" fullsha1="1367c1eccb0904644481eae005143117c2bd7fb5" dataSha1="e94499394eb2b63307d2db6a07595c9befd683f8">
 		<category>Games</category>
-		<description>maglord\magician lord (1994)(adk)(jp)</description>
+		<description>Magician Lord (Japan)</description>
+		<year>1994</year>
+		<manufacturer>ADK</manufacturer>
 		<rom name="magician lord (1994)(adk)(jp) (Track 01).bin" size="4902912" crc="cedbc0bf" md5="e16a2aa9f2cf0ff8116a2119a29fe753" sha1="403e9b269e48ce0aefa2ee25fafd69cb42ba9a0e"/>
 		<rom name="magician lord (1994)(adk)(jp) (Track 02).bin" size="15772512" crc="50627740" md5="f6c903c8ee69dc8a1d1f34aceaa32fd2" sha1="0de9c2ae5c380d5589e616aa4a85ea59c68394f5"/>
 		<rom name="magician lord (1994)(adk)(jp) (Track 03).bin" size="3528000" crc="e3d45bc5" md5="bb5211454fc8abb9f56d0aab7be2941a" sha1="2dd2248efcdf605757f46068f8ec2267cebe19d9"/>
@@ -1882,7 +1992,9 @@
 	</game>
 	<game name="mahretsu\mahjong kyo retsuden - nishi nihon hen (1994)(snk)(jp)" type="cd" sha1="923b0233dd108b1c3c5c0246827dbee2b82e6679" size="140453682" crc="91158e99" fullsha1="f34c97a26adffe0fff486602c9a74a341f2ce69f" dataSha1="211c861197d041552041e0e4e4cfb9d6f3529060">
 		<category>Games</category>
-		<description>mahretsu\mahjong kyo retsuden - nishi nihon hen (1994)(snk)(jp)</description>
+		<description>Mahjong Kyo Retsuden - Nishi Nihon Hen (Japan)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="mahjong kyo retsuden - nishi nihon hen (1994)(snk)(jp) (Track 01).bin" size="5093376" crc="cc85960e" md5="ac2d196a702787afc17472f670c68512" sha1="26057f4c80998f9939f885d4d454ac3e36df281e"/>
 		<rom name="mahjong kyo retsuden - nishi nihon hen (1994)(snk)(jp) (Track 02).bin" size="10847424" crc="68fb2b5d" md5="8ad6fe35d29d251bbd4eac68b69f1a31" sha1="e813cc1c6be4fc01475f0aed48237f24d929bf37"/>
 		<rom name="mahjong kyo retsuden - nishi nihon hen (1994)(snk)(jp) (Track 03).bin" size="38836224" crc="7de68c0e" md5="f90e929ed5742a3f6ff330f8bd01ecc0" sha1="efd488b8e71f56155aaaf1ccec987271e75eb328"/>
@@ -1900,7 +2012,9 @@
 	</game>
 	<game name="mosyougi\shougi no tatsujin - master of syougi (1995)(adk)(jp)" type="cd" sha1="ad1a8d852af2963bfa4c476c84dd0437e82077fc" size="226634692" crc="0a28dda5" fullsha1="f419c980fd4ce51810b22d2397a3b8089ad91845" dataSha1="b5523dca667e5a2fad8e64dad8a79ad91daedcd1">
 		<category>Games</category>
-		<description>mosyougi\shougi no tatsujin - master of syougi (1995)(adk)(jp)</description>
+		<description>Shougi no Tatsujin - Master of Syougi (Japan)</description>
+		<year>1995</year>
+		<manufacturer>ADK</manufacturer>
 		<rom name="shougi no tatsujin - master of syougi (1995)(adk)(jp) (Track 01).bin" size="6387712" crc="ae2d0ac4" md5="223ffaaec02281d18e9947df325aebd1" sha1="d16e408436c55830899c1920451fc77042e165f1"/>
 		<rom name="shougi no tatsujin - master of syougi (1995)(adk)(jp) (Track 02).bin" size="13058304" crc="8ecb4ff8" md5="41330b6303d892aa87107d854b52b964" sha1="9437e07a881eec675c543aca02f8558c8471c9d6"/>
 		<rom name="shougi no tatsujin - master of syougi (1995)(adk)(jp) (Track 03).bin" size="33979344" crc="7ca5ec4f" md5="5167578a66b5344609032f5b4c2d6a73" sha1="2dca27e7674f73804b4c9f6c72d122960a8f4ea8"/>
@@ -1917,7 +2031,9 @@
 	</game>
 	<game name="mslug2\metal slug 2 (1998)(snk)(jp)" type="cd" sha1="5dfa4cb6d81814b684f0fcf1a112958426c3bd72" size="465903118" crc="62ab4dbb" fullsha1="6dced668ff42ac9ee9396820d3d0f93a5901c5bb" dataSha1="9c876aaffc5fe252dfb3f387dd7d26f209786a57">
 		<category>Games</category>
-		<description>mslug2\metal slug 2 (1998)(snk)(jp)</description>
+		<description>Metal Slug 2 (Japan)</description>
+		<year>1998</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="metal slug 2 (1998)(snk)(jp) (Track 01).bin" size="41854976" crc="f61494c2" md5="eae03a5a714dfda950b90ffb8f62bada" sha1="82461fa23aaf719c4ac5c8fe19f765a601debc66"/>
 		<rom name="metal slug 2 (1998)(snk)(jp) (Track 02).bin" size="54413520" crc="b5ffd9e8" md5="3d9df70db342cf2786d5786e94b1734e" sha1="e9fcaea878562b1c0f095e7d30e371807239b1b4"/>
 		<rom name="metal slug 2 (1998)(snk)(jp) (Track 03).bin" size="22701504" crc="7e4da231" md5="c58041b59762d91b0e7dceb73404b09c" sha1="185c13b3d7447504df1ecc3452ea43a6980c71fe"/>
@@ -1941,7 +2057,9 @@
 	</game>
 	<game name="mslug\metal slug (1996)(snk)(jp-us)" type="cd" sha1="f89d113f5f81ca652f5d5417113cfe709e2aff46" size="430898552" crc="6bcfbd3b" fullsha1="a889b9728271bbd424e0c5f9acfb7f1b85ca0daf" dataSha1="c3dcd6419d5cc9c06b7390fef9e2f40d42da7f97">
 		<category>Games</category>
-		<description>mslug\metal slug (1996)(snk)(jp-us)</description>
+		<description>Metal Slug (Japan, USA)</description>
+		<year>1996</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="metal slug (1996)(snk)(jp-us) (Track 01).bin" size="26613760" crc="e401f98a" md5="6d475d42095382ba945ec1c9078647b4" sha1="7cdef53e080ae2faf89f1af0f057a534f8dec309"/>
 		<rom name="metal slug (1996)(snk)(jp-us) (Track 02).bin" size="2217936" crc="d2d7f891" md5="d501c36794e111db40f75103c293dcf8" sha1="feb255d3d2e500f624f8d8613119bea78fa9d93a"/>
 		<rom name="metal slug (1996)(snk)(jp-us) (Track 03).bin" size="24536064" crc="b9661605" md5="a82ed46088a090a3adcb540c28df74e4" sha1="50a77fd95d0bdc29d5ee3e336893458651abb80c"/>
@@ -1965,7 +2083,9 @@
 	</game>
 	<game name="mutnat\mutation nation (1995)(snk)(jp-us)" type="cd" sha1="5f7d4c75f78b5f14547c18fd491c3c9d291ce726" size="324197505" crc="b6ea6e56" fullsha1="357a764c976abc68643c453e6b1ed3144d7f6cee" dataSha1="8be40c07117069820ab8628da6af60e7188b36cf">
 		<category>Games</category>
-		<description>mutnat\mutation nation (1995)(snk)(jp-us)</description>
+		<description>Mutation Nation (Japan, USA)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="mutation nation (1995)(snk)(jp-us) (Track 01).bin" size="8075264" crc="a093fd19" md5="3cda4088a777f01040ada1480d320ad0" sha1="1d1897f99449b8f77224f33fe91095d054f27648"/>
 		<rom name="mutation nation (1995)(snk)(jp-us) (Track 02).bin" size="34833120" crc="7a4d09a6" md5="85daf8e2c4c6453eadb0ff15e100ed6d" sha1="39f03840deb7c1f8c9fd211a2f2feef599c8929e"/>
 		<rom name="mutation nation (1995)(snk)(jp-us) (Track 03).bin" size="34306272" crc="decd6575" md5="43c2118877ff7bab8f93ae7adb8095ac" sha1="c1b03b6b071e824ae0e563a3cde1a99c144ffb1c"/>
@@ -1994,7 +2114,9 @@
 	</game>
 	<game name="nam1975\nam-1975 (1994)(snk)(jp-us)" type="cd" sha1="df65b838d42aa5844c64e61928e9d6cb06d12439" size="241786785" crc="657b153a" fullsha1="b2fe5c18d2d6d67acb523c030b1fd2aff65fdde1" dataSha1="e7e50a763dfefb763901ef84c511c6b8ba21ea6f">
 		<category>Games</category>
-		<description>nam1975\nam-1975 (1994)(snk)(jp-us)</description>
+		<description>NAM-1975 (Japan, USA)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="nam-1975 (1994)(snk)(jp-us) (Track 01).bin" size="7682048" crc="1592c78a" md5="c3f76f44998f53fe1f770d82bb5ba510" sha1="cfcb1d39726c9d9ef49e6eff71729ca57418dbc2"/>
 		<rom name="nam-1975 (1994)(snk)(jp-us) (Track 02).bin" size="5322576" crc="283103b0" md5="bda4d4e9939f93be1a863ae3bc8b1214" sha1="278e0c40842360e823601a03a3f6e8f3fcc66764"/>
 		<rom name="nam-1975 (1994)(snk)(jp-us) (Track 03).bin" size="5336688" crc="70c3a92a" md5="85b07aa7276fb62abe53696d4d5017e0" sha1="042d5315cdc9e3b8795b74f36033231d01cf8db1"/>
@@ -2027,7 +2149,9 @@
 	</game>
 	<game name="ncombat\ninja combat (1994)(adk)(jp)" type="cd" sha1="c5185806154a4fa632e57cefdeaefdc9c47b75ad" size="288070524" crc="22a7140f" fullsha1="f2c1f1059524f5c25659ee83aa87f1648ab9a31b" dataSha1="d6234bb39cd86ec948039acc9bc7f60a39b407ba">
 		<category>Games</category>
-		<description>ncombat\ninja combat (1994)(adk)(jp)</description>
+		<description>Ninja Combat (Japan)</description>
+		<year>1994</year>
+		<manufacturer>ADK</manufacturer>
 		<rom name="ninja combat (1994)(adk)(jp) (Track 01).bin" size="5427200" crc="8eb35c36" md5="8ee1efb3cda49fc4595d66e54489ad43" sha1="65bbedb43fc5b6942e9dbf249761199ad5a29910"/>
 		<rom name="ninja combat (1994)(adk)(jp) (Track 02).bin" size="4941552" crc="70fa45ab" md5="f30ab77cd8463b6a1e69a2dda94fa40c" sha1="ab5f782f40632271a6a96b675538b214a45fce02"/>
 		<rom name="ninja combat (1994)(adk)(jp) (Track 03).bin" size="9351552" crc="7a780abb" md5="ee5921e38a6bdd47d4c2ebe817005225" sha1="2710934ab48f5ed7c79c4f827b4d07169013a1e6"/>
@@ -2057,7 +2181,9 @@
 	</game>
 	<game name="ncommand\ninja commando (1994)(adk)(jp)" type="cd" sha1="a6593fbafae9575ddc58de0e979f064673fde9ab" size="261922602" crc="5a9d779a" fullsha1="754a68b5c9c0ce51686d819904ca83f4c08bdce2" dataSha1="d9ced42386e0c7a9e3c7190cc7997091db74fa60">
 		<category>Games</category>
-		<description>ncommand\ninja commando (1994)(adk)(jp)</description>
+		<description>Ninja Commando (Japan)</description>
+		<year>1994</year>
+		<manufacturer>ADK</manufacturer>
 		<rom name="ninja commando (1994)(adk)(jp) (Track 01).bin" size="7000064" crc="a0088902" md5="a2a22a91ec60bf6881859f2108baf73c" sha1="45a5f8779c37b33c920c274032ed92b06a19311e"/>
 		<rom name="ninja commando (1994)(adk)(jp) (Track 02).bin" size="4765152" crc="2b43efd6" md5="a33e729dfad860c81aa2153627740a6e" sha1="b3b13367ca1aee8421062ec471a642651bcf7225"/>
 		<rom name="ninja commando (1994)(adk)(jp) (Track 03).bin" size="3175200" crc="48ef6aad" md5="15d3389af543d7c950a6f626d931eefc" sha1="58f8e5fb9a82c69e94ef1a18f36c6d041c9dff9c"/>
@@ -2091,7 +2217,9 @@
 	</game>
 	<game name="neodrift\neo driftout (1996)(visco)(jp)" type="cd" sha1="8c18b8cfcdb3503369c4f267a22e746bfccaeb84" size="168780487" crc="e927c6c6" fullsha1="ecaa11acdbdbef4337c4d00e02b79f72b44bef4c" dataSha1="17fd8d6aed4818a0ebfd4b9054ebaaa7cb715d4e">
 		<category>Games</category>
-		<description>neodrift\neo driftout (1996)(visco)(jp)</description>
+		<description>Neo DriftOut (Japan)</description>
+		<year>1996</year>
+		<manufacturer>Visco</manufacturer>
 		<rom name="neo driftout (1996)(visco)(jp) (Track 01).bin" size="12107776" crc="0218938d" md5="759c07ead748e99998cfb6c0976b1a09" sha1="ef2481d875879d8da5bccbf89c2d448c5c5f3769"/>
 		<rom name="neo driftout (1996)(visco)(jp) (Track 02).bin" size="33875856" crc="020272e0" md5="baa9dc0e3a9111c806edbd295a782a13" sha1="a819454c68f2cff544d6eb19c7282453582c6d8e"/>
 		<rom name="neo driftout (1996)(visco)(jp) (Track 03).bin" size="34231008" crc="c9bbb807" md5="e1f9b894c1a4f747db0172bcfd395f20" sha1="7d44869ceaf102d8ea5cc6b98987c8504d2d75d6"/>
@@ -2104,7 +2232,9 @@
 	</game>
 	<game name="ngcdspec\neo geo cd special (1996)(snk)(jp)" type="cd" sha1="07c73d56d0f90d41f94638bc745ea4199ffdb53e" size="352323326" crc="7e816740" fullsha1="fc3cb9049f5b16b38c3d856ce92193e447f29f55" dataSha1="7f928f7169a5c066b2a1e7302ab13d5bab40b351">
 		<category>Games</category>
-		<description>ngcdspec\neo geo cd special (1996)(snk)(jp)</description>
+		<description>Neo Geo CD Special (Japan)</description>
+		<year>1996</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="neo geo cd special (1996)(snk)(jp) (Track 01).bin" size="94781440" crc="2dde8ccb" md5="4ca78a319500aece74e444ad1da265bd" sha1="90c58bac8835ca2832df856a45791493ac16fc42"/>
 		<rom name="neo geo cd special (1996)(snk)(jp) (Track 02).bin" size="3981936" crc="82564c8f" md5="bf8073d60b545d283e278899f006fc11" sha1="e5775de73800f0ac079634300ac20482fc9ee219"/>
 		<rom name="neo geo cd special (1996)(snk)(jp) (Track 03).bin" size="22134672" crc="860b8dc6" md5="c7a4c2bf8530838a8156959ef4d2e4fb" sha1="71b2c1212d60f4e0d5c625b7f34c3ccae38662f0"/>
@@ -2158,7 +2288,9 @@
 	</game>
 	<game name="ninjamas\ninja master's - haou ninpou-chou (1996)(adk)(jp)" type="cd" sha1="b6fa747b5a6a8302afa2b5c75f26bd985208f3c0" size="337432557" crc="11fd8b9e" fullsha1="1e585591853cc4b9f81ff6f439c9f1503b44fb1d" dataSha1="9e16d8d6380d11f4d954066b25bb79ae3bfbf32f">
 		<category>Games</category>
-		<description>ninjamas\ninja master's - haou ninpou-chou (1996)(adk)(jp)</description>
+		<description>s - Haou Ninpou-Chou (Japan)</description>
+		<year>1996</year>
+		<manufacturer>ADK</manufacturer>
 		<rom name="ninja master's - haou ninpou-chou (1996)(adk)(jp) (Track 01).bin" size="33306624" crc="e23ec044" md5="667706e74b60b8f6e74870a3ea5bd2dd" sha1="73943f6cc61d0b19c91680fcda7a0b7d8f150c81"/>
 		<rom name="ninja master's - haou ninpou-chou (1996)(adk)(jp) (Track 02).bin" size="10638096" crc="3924e425" md5="4ccfa3d62f3ff58231cc393b02fa8502" sha1="a55f43f01086e689eea6fb55e54c4b6d60163e2a"/>
 		<rom name="ninja master's - haou ninpou-chou (1996)(adk)(jp) (Track 03).bin" size="17108448" crc="59df9398" md5="deb9686fbc3712c808e5b067f1fd4987" sha1="fdedab637f446d4936ddcc9be1c65ee44d9e0e50"/>
@@ -2198,7 +2330,9 @@
 	</game>
 	<game name="overtop\overtop (1996)(adk)(jp)" type="cd" sha1="62116ca2c576f47ec919702b2ac31daaa7bc7140" size="341293292" crc="91b52ec3" fullsha1="dfc3a9480d523cb10136eacb3a2826c73873a65e" dataSha1="68a143a94089164c70b4344e85851d4ddcf3021f">
 		<category>Games</category>
-		<description>overtop\overtop (1996)(adk)(jp)</description>
+		<description>OverTop (Japan)</description>
+		<year>1996</year>
+		<manufacturer>ADK</manufacturer>
 		<rom name="overtop (1996)(adk)(jp) (Track 01).bin" size="26951680" crc="79369442" md5="3e3974d214279c73e994b960d608fd2b" sha1="e251c1baee0b098d6398db86dd23f28ce7295582"/>
 		<rom name="overtop (1996)(adk)(jp) (Track 02).bin" size="6496224" crc="a0a3cb0a" md5="f31a5444f81f4d2906eee7ab7cf0cadd" sha1="88b75508e1c826d0b5a05a9dcb8d080d8e32fd1f"/>
 		<rom name="overtop (1996)(adk)(jp) (Track 03).bin" size="34786080" crc="071162ff" md5="115b57169b3cb344e93164d6131a6c2b" sha1="a12e2e128b55636782e4edf0d6b237bb7b2a6001"/>
@@ -2217,12 +2351,16 @@
 	</game>
 	<game name="pbobble\bust-a-move (1995)(snk)(jp-us)[puzzle bobble]" type="cd" sha1="413c5f1038ecbf1630bb002cbfcea4c7fcd85b11" size="1085181" crc="42bb23e7" fullsha1="59997e4842bdd8d6feba73434a3fa8818965c745" dataSha1="e4318067599e2c37c315c65d01a63652cd07bb1e">
 		<category>Games</category>
-		<description>pbobble\bust-a-move (1995)(snk)(jp-us)[puzzle bobble]</description>
+		<description>Bust-A-Move (USA) ~ Puzzle Bobble (Japan)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="bust-a-move (1995)(snk)(jp-us)[puzzle bobble] (Track 01).bin" size="2385920" crc="30a0aa3f" md5="1ff26c1f9e3931ca7f43d938726c2ea1" sha1="3dd8941e7c5c73794e3511f80e7a7e86acefa50d"/>
 	</game>
 	<game name="pgoal\futsal - 5 on 5 mini soccer (1996)(saurus)(jp)[pleasuregoal - 5 on 5 mini soccer]" type="cd" sha1="5a46d3201efde38507a53cfea99e8d816341bf99" size="409895253" crc="2b7ba1de" fullsha1="409483ad7795465fd27fe598a4a675ae41f3338f" dataSha1="ceffac3a24c69f9f8b2700d4a9349605b77aa564">
 		<category>Games</category>
-		<description>pgoal\futsal - 5 on 5 mini soccer (1996)(saurus)(jp)[pleasuregoal - 5 on 5 mini soccer]</description>
+		<description>Futsal - 5 on 5 Mini Soccer (Japan)</description>
+		<year>1996</year>
+		<manufacturer>Saurus</manufacturer>
 		<rom name="futsal - 5 on 5 mini soccer (1996)(saurus)(jp)[pleasuregoal - 5 on 5 mini soccer] (Track 01).bin" size="17920000" crc="21c96d01" md5="340a8d1c23dcd48ca4b0b28588ba303f" sha1="ef2dbadc666d01c08cf92e871f3a35500bbca1a9"/>
 		<rom name="futsal - 5 on 5 mini soccer (1996)(saurus)(jp)[pleasuregoal - 5 on 5 mini soccer] (Track 02).bin" size="36063216" crc="fcf68ae4" md5="eca2304a7fd51627042f612a65f67b27" sha1="a11051de36727d8d3a1eea5ac111c02f2e18129f"/>
 		<rom name="futsal - 5 on 5 mini soccer (1996)(saurus)(jp)[pleasuregoal - 5 on 5 mini soccer] (Track 03).bin" size="4466448" crc="5444c501" md5="420741a0e99a6659a7cb23ba1a5f5452" sha1="2908835383aaf31ffb17e03ea74cef6d17fefd6b"/>
@@ -2260,7 +2398,9 @@
 	</game>
 	<game name="pspikes2\power spikes ii (1995)(video system)(jp)" type="cd" sha1="11b69333135a766d18482786102c39f6a77a03d4" size="275927536" crc="3820f6c7" fullsha1="55887b9041abcbd7f0998910f46f8bb082a74a28" dataSha1="7a44ff8117ece1dabcf79ea3d7e1fbfaf8f6833c">
 		<category>Games</category>
-		<description>pspikes2\power spikes ii (1995)(video system)(jp)</description>
+		<description>Power Spikes II (Japan)</description>
+		<year>1995</year>
+		<manufacturer>Video System</manufacturer>
 		<rom name="power spikes ii (1995)(video system)(jp) (Track 01).bin" size="6574080" crc="d4988106" md5="553ed0eae508565e7382dc5ccfff466c" sha1="c888ef5c015df2ecfbc50f692ab3e8a4695f7068"/>
 		<rom name="power spikes ii (1995)(video system)(jp) (Track 02).bin" size="1634640" crc="c9f75286" md5="c2c11997c214d4bb3352c8a6803a92b2" sha1="ff2a5755618acc677bd4cf724974ebc71c9d43ae"/>
 		<rom name="power spikes ii (1995)(video system)(jp) (Track 03).bin" size="6145776" crc="a668c1b6" md5="ab98de527bb0fdd0f3d487aff842cf32" sha1="3ede8566eac2675f2e71719abbe97336ef519ab8"/>
@@ -2291,7 +2431,9 @@
 	</game>
 	<game name="pulstar\pulstar (1995)(snk)(jp-us)" type="cd" sha1="cc955be310ccd1adff9079f25b3ddd3293239f9d" size="353696286" crc="d3f5a13c" fullsha1="9226b4c83efd6449bb130997867b8d7fcddbf206" dataSha1="f1b50d4980f882d9aa5e6448d529bf006a78b793">
 		<category>Games</category>
-		<description>pulstar\pulstar (1995)(snk)(jp-us)</description>
+		<description>Pulstar (Japan, USA)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="pulstar (1995)(snk)(jp-us) (Track 01).bin" size="127287296" crc="a6410127" md5="20c4ab726d590f570b92fa9cb903661f" sha1="4598691fecfca0a4b49fbcfdfa57326ea08b2174"/>
 		<rom name="pulstar (1995)(snk)(jp-us) (Track 02).bin" size="33871152" crc="5d70bbdd" md5="942b20c217ca230ab2f22a69d70dbbd8" sha1="aa4b20b8d8dea44b183d34afb5380d51728cec74"/>
 		<rom name="pulstar (1995)(snk)(jp-us) (Track 03).bin" size="41764464" crc="b66b4caf" md5="f8f1a82efbc9d5af27662318ef938dd7" sha1="9fa56f8fb694822d22a5eb2c52c84a00f5d04649"/>
@@ -2316,7 +2458,9 @@
 	</game>
 	<game name="quizkof\quiz king of fighters (1995)(saurus)(jp)" type="cd" sha1="e3b2ed7147c254a5236993468a304d780fc920fc" size="408429772" crc="2924eec5" fullsha1="d61da430ab93236636db47de1e6fe36c495fca22" dataSha1="8ece59883bea8f611293ea1ad885b3c27c59bdf4">
 		<category>Games</category>
-		<description>quizkof\quiz king of fighters (1995)(saurus)(jp)</description>
+		<description>)</description>
+		<year>1995</year>
+		<manufacturer>Saurus</manufacturer>
 		<rom name="quiz king of fighters (1995)(saurus)(jp) (Track 01).bin" size="21221376" crc="754e8b53" md5="140c8934d6681784352206fffaa0ec3b" sha1="672d62fc8cee8edf25048c0604176670ea54969f"/>
 		<rom name="quiz king of fighters (1995)(saurus)(jp) (Track 02).bin" size="19117056" crc="603bb782" md5="e302c5d81599e320fd244c09ebbdd1d5" sha1="47db8634f7a697070d02a965423f9125d1c53456"/>
 		<rom name="quiz king of fighters (1995)(saurus)(jp) (Track 03).bin" size="28736736" crc="4408a1b9" md5="9d5249e3e033c49af047ac1094f29ac9" sha1="a3812e97fcbfb33f33b2c47c6cf573f746f38f0d"/>
@@ -2369,7 +2513,9 @@
 	</game>
 	<game name="ragnagrd\shinouken (1996)(saurus)(jp)[ragnagard]" type="cd" sha1="e1826db60166c17ca66ed216db904bfbb334aa03" size="432098915" crc="233707ef" fullsha1="308255d7534569f651b114f2fe2e932b910f89dc" dataSha1="228521586eed89d045679d6c6f3d4ce808b479b5">
 		<category>Games</category>
-		<description>ragnagrd\shinouken (1996)(saurus)(jp)[ragnagard]</description>
+		<description>Shin-Oh-Ken (Japan)</description>
+		<year>1996</year>
+		<manufacturer>Saurus</manufacturer>
 		<rom name="shinouken (1996)(saurus)(jp)[ragnagard] (Track 01).bin" size="34344960" crc="be4e9cb6" md5="37cd7d832e7717af4cd835ec0e18c609" sha1="b3e504d90bb830fa0d2bdfb18f94e272568be56a"/>
 		<rom name="shinouken (1996)(saurus)(jp)[ragnagard] (Track 02).bin" size="7641648" crc="625435a2" md5="23dfe96e6d694d750f938d1c9034f381" sha1="9d6ed2695c22fe1b6c0d213a4ae2683b036c876f"/>
 		<rom name="shinouken (1996)(saurus)(jp)[ragnagard] (Track 03).bin" size="4868640" crc="fc063704" md5="4968de8070bc8bbbfa0459f96258e76b" sha1="17e122bc87b776cdd5099f44dc7916b5ff772ec2"/>
@@ -2398,7 +2544,9 @@
 	</game>
 	<game name="rbff1\real bout fatal fury (1996)(snk)(jp-us)[real bout garou densetsu][ngcd-095 mt b06+b08, ngcd-095e]" type="cd" sha1="837ff8aaf0eed33d9128a93bfc729ba5f165e0d4" size="449335517" crc="125d06b9" fullsha1="727da03468f0e9f817093f94e3b1bc5c106b459d" dataSha1="473d0dd59eae5fb5dc64d6ad079705b82950f63b">
 		<category>Games</category>
-		<description>rbff1\real bout fatal fury (1996)(snk)(jp-us)[real bout garou densetsu][ngcd-095 mt b06+b08, ngcd-095e]</description>
+		<description>Real Bout Fatal Fury (USA) ~ Real Bout Garou Densetsu (Japan)</description>
+		<year>1996</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="real bout fatal fury (1996)(snk)(jp-us)[real bout garou densetsu][ngcd-095 mt b06+b08, ngcd-095e] (Track 01).bin" size="36505600" crc="ce219996" md5="8a73c621056fd1b86615ef61b7d460b3" sha1="7f30732bdd9c39c3e195fe48b2810858272b5679"/>
 		<rom name="real bout fatal fury (1996)(snk)(jp-us)[real bout garou densetsu][ngcd-095 mt b06+b08, ngcd-095e] (Track 02).bin" size="6143424" crc="482dac4f" md5="714bed32870c4ae9cb219022a8529808" sha1="e3e44696866e352462b383957121b628cf36e744"/>
 		<rom name="real bout fatal fury (1996)(snk)(jp-us)[real bout garou densetsu][ngcd-095 mt b06+b08, ngcd-095e] (Track 03).bin" size="7982688" crc="538dc625" md5="c0e8044840a07b3bca65b59952086227" sha1="29bfbceb60cd2959a7e43323b7ed52c422d8b09a"/>
@@ -2435,7 +2583,9 @@
 	</game>
 	<game name="rbff2\real bout fatal fury 2 - the newcomers (1998)(snk)(jp-us)[real bout garou densetsu 2 - the newcomers]" type="cd" sha1="04fa10369d8d58eac076cf697e314c39c5fb47fb" size="415332518" crc="949a1763" fullsha1="b4d8a4f8ef5b2dfd1df5afdee80b1cb5a184fa27" dataSha1="b64d1e6b04179c043d97615839e64281b04035d2">
 		<category>Games</category>
-		<description>rbff2\real bout fatal fury 2 - the newcomers (1998)(snk)(jp-us)[real bout garou densetsu 2 - the newcomers]</description>
+		<description>u Densetsu 2 - The Newcomers (Japan)</description>
+		<year>1998</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="real bout fatal fury 2 - the newcomers (1998)(snk)(jp-us)[real bout garou densetsu 2 - the newcomers] (Track 01).bin" size="67624960" crc="9651dc0b" md5="06a796478f82d01fa008f759f0cf5810" sha1="775cbc08fb20099788ac3e33082f161d368caa80"/>
 		<rom name="real bout fatal fury 2 - the newcomers (1998)(snk)(jp-us)[real bout garou densetsu 2 - the newcomers] (Track 02).bin" size="7095984" crc="d73d76d3" md5="50b05735796e23f1a5c0dc34b8c71d3e" sha1="e1b4aaa26c1fa20908571b936b029cf05c2a81b0"/>
 		<rom name="real bout fatal fury 2 - the newcomers (1998)(snk)(jp-us)[real bout garou densetsu 2 - the newcomers] (Track 03).bin" size="13949712" crc="3610a1eb" md5="8e86d59910c8e9f1268aee5fcb837995" sha1="1a3c20ffe4c92f8de6d67aa6119c14c6d67eb96f"/>
@@ -2474,7 +2624,9 @@
 	</game>
 	<game name="rbffspec\real bout fatal fury special (1997)(snk)(jp)[real bout special]" type="cd" sha1="b7ccec53a96bd2392433d1d93cbd4c19707f6f96" size="405369496" crc="0ca1d0a9" fullsha1="60b088107c6e9a9b0167bac3a6c3871b12ad1a5a" dataSha1="08e36ff14437dca1f567d5845e5cefa1cc039aba">
 		<category>Games</category>
-		<description>rbffspec\real bout fatal fury special (1997)(snk)(jp)[real bout special]</description>
+		<description>Real Bout Special (Japan)</description>
+		<year>1997</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="real bout fatal fury special (1997)(snk)(jp)[real bout special] (Track 01).bin" size="66435072" crc="2a58a2f3" md5="a072a681060c4917ad5d21fc0eeb4018" sha1="38230e86106caf920e5a5e4be84cdcb007be722d"/>
 		<rom name="real bout fatal fury special (1997)(snk)(jp)[real bout special] (Track 02).bin" size="5230848" crc="6e61222a" md5="97ea74e21f1ebb2c1d5091f0357de171" sha1="fa8d2458369e09ec4449681e7990ed24782a1b79"/>
 		<rom name="real bout fatal fury special (1997)(snk)(jp)[real bout special] (Track 03).bin" size="11447184" crc="4b5fb46d" md5="7a5d2bfbd013a7cc9c86840a82decec2" sha1="088b0e8707a81bc0329402d60268e73e5c04b62e"/>
@@ -2510,7 +2662,9 @@
 	</game>
 	<game name="ridhero\riding hero (1995)(snk)(jp-us)" type="cd" sha1="f15e83e430a9eeea90d9680e043baadd1b9b51b8" size="247944618" crc="846240fe" fullsha1="545cb5add2e4c680b402c295e68af2ae830e6213" dataSha1="b0fa591d98e3390172be2e103e0ba4647169ad26">
 		<category>Games</category>
-		<description>ridhero\riding hero (1995)(snk)(jp-us)</description>
+		<description>Riding Hero (Japan, USA)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="riding hero (1995)(snk)(jp-us) (Track 01).bin" size="5857280" crc="1b5cc581" md5="0a9f554d8403c1e20347f553113f32a3" sha1="d5a6b8eb7158a9b7138dda8ca7e02e5d76b32bac"/>
 		<rom name="riding hero (1995)(snk)(jp-us) (Track 02).bin" size="4087776" crc="f737da7d" md5="90dad84f7ab647097471ed549bc4adfd" sha1="62aaf9fc7fd2fb607d7faf88fce5a30a14b27eb8"/>
 		<rom name="riding hero (1995)(snk)(jp-us) (Track 03).bin" size="5040336" crc="55ae0de1" md5="978badbb3c5a7514302e285b2f56ae8b" sha1="c2bee896db8f73da820688f11d3d221ea2ddebdd"/>
@@ -2544,7 +2698,9 @@
 	</game>
 	<game name="roboarmy\robo army (1995)(snk)(jp-us)" type="cd" sha1="de33800e5f8bb53a9c5daa50ce6aee6d10563802" size="213374385" crc="603d4441" fullsha1="53a90c46b26f606090352e9783818cba751381d3" dataSha1="70224ca9d1ea68ec797ac2abd12518ff8de399ba">
 		<category>Games</category>
-		<description>roboarmy\robo army (1995)(snk)(jp-us)</description>
+		<description>Robo Army (Japan, USA)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="robo army (1995)(snk)(jp-us) (Track 01).bin" size="9734144" crc="38154b37" md5="b6f51acc7cbf4cfb0016b75335fadda0" sha1="27eafe7a518984878e8da0749301f3f3a255710c"/>
 		<rom name="robo army (1995)(snk)(jp-us) (Track 02).bin" size="7709856" crc="ac912dc8" md5="0d71a6a4a834ce50afa2460d087d30e9" sha1="e92bea67533af30af020bd58f5201c575fd0ff98"/>
 		<rom name="robo army (1995)(snk)(jp-us) (Track 03).bin" size="2488416" crc="7347d8d8" md5="2ea1f209a6d1489dbba03a10fb4504e8" sha1="edfa1d71ad73fbb88a004485fe0d9b56da489801"/>
@@ -2563,7 +2719,9 @@
 	</game>
 	<game name="samsho2\samurai shodown ii (1994)(snk)(jp-us)[shin samurai spirits - haoumaru jigoku hen]" type="cd" sha1="8bb0b5db8d888cf641bdb7e792c7626f4e7331f6" size="336815933" crc="8b3a9fa5" fullsha1="31044ac0ac751c1d8814a8dc9ac17916c1b0dc7b" dataSha1="d932815d47536e3193a4c7961400b6ace8d4197e">
 		<category>Games</category>
-		<description>samsho2\samurai shodown ii (1994)(snk)(jp-us)[shin samurai spirits - haoumaru jigoku hen]</description>
+		<description>Samurai Shodown II (USA) ~ Shin Samurai Spirits - Haoumaru Jigoku Hen (Japan)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="samurai shodown ii (1994)(snk)(jp-us)[shin samurai spirits - haoumaru jigoku hen] (Track 01).bin" size="34291712" crc="a576fe93" md5="bb6d6e5fbe286d604ce3393d34e1bae9" sha1="b53d8aa45d3da7c35f162f55014ca61884ce093d"/>
 		<rom name="samurai shodown ii (1994)(snk)(jp-us)[shin samurai spirits - haoumaru jigoku hen] (Track 02).bin" size="12086928" crc="0533f3b6" md5="f8f38c3a8bdf781496085c6ae3660652" sha1="6ef9daa66715204bbc11d783606252784b4913ba"/>
 		<rom name="samurai shodown ii (1994)(snk)(jp-us)[shin samurai spirits - haoumaru jigoku hen] (Track 03).bin" size="19222896" crc="61518d2b" md5="0620c9e356075c86d81e0fad3729f411" sha1="9a3511c71cd0ddce84bbccc1598c83f37e80ad9f"/>
@@ -2607,7 +2765,9 @@
 	</game>
 	<game name="samsho3\samurai shodown iii (1995)(snk)(jp)[samurai spirits - zankurou musouken][ngcd-087 mt a04]" type="cd" sha1="877983a1178ae70ac62775fdc87fd53fff380ff5" size="333176692" crc="bda2c9f2" fullsha1="13e9fad23c9880cecf3dc8b14668ba9515d7b407" dataSha1="f155bf3a7dca189262dee83638c18776ba3370d0">
 		<category>Games</category>
-		<description>samsho3\samurai shodown iii (1995)(snk)(jp)[samurai spirits - zankurou musouken][ngcd-087 mt a04]</description>
+		<description>Samurai Spirits - Zankurou Musouken (Japan)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="samurai shodown iii (1995)(snk)(jp)[samurai spirits - zankurou musouken][ngcd-087 mt a04] (Track 01).bin" size="41170944" crc="a8aa69ef" md5="e1eb911d9f0e162d40ca9a1c05b5fc17" sha1="73b6a85ca5235eb2e1723d59bf969771049f4121"/>
 		<rom name="samurai shodown iii (1995)(snk)(jp)[samurai spirits - zankurou musouken][ngcd-087 mt a04] (Track 02).bin" size="6376272" crc="c1186803" md5="e75005e5482938e579655e815f803791" sha1="8f112df579002d418a226b77939de70336935897"/>
 		<rom name="samurai shodown iii (1995)(snk)(jp)[samurai spirits - zankurou musouken][ngcd-087 mt a04] (Track 03).bin" size="32777472" crc="2b69ab62" md5="f82cafcde184828214ead5cb419333b4" sha1="006478063c56008a96bec891b6eb6f2355132901"/>
@@ -2657,7 +2817,9 @@
 	</game>
 	<game name="samsho4\samurai shodown iv - amakusa's revenge (1996)(snk)(jp-us)[samurai spirits - amakusa kourin]" type="cd" sha1="806fec20b3a45a0a1b3f8ea62848a923ed0ee2d7" size="294122680" crc="28985c4d" fullsha1="ca83dec473fa9b4d8c3b448b521fe4f73be00302" dataSha1="becdbb040bb4c53d6d7cd19d327f8e34af776c6e">
 		<category>Games</category>
-		<description>samsho4\samurai shodown iv - amakusa's revenge (1996)(snk)(jp-us)[samurai spirits - amakusa kourin]</description>
+		<description>s Revenge (USA) ~ Samurai Spirits - Amakusa Kourin (Japan)</description>
+		<year>1996</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="samurai shodown iv - amakusa's revenge (1996)(snk)(jp-us)[samurai spirits - amakusa kourin] (Track 01).bin" size="57059328" crc="12a814db" md5="aa03bbb70d99270cdc1bf1973493a38d" sha1="34a6c72520c2363b425bce3faddce5ab970bd7c9"/>
 		<rom name="samurai shodown iv - amakusa's revenge (1996)(snk)(jp-us)[samurai spirits - amakusa kourin] (Track 02).bin" size="4332384" crc="17c94ef7" md5="0c78a62c678e292c2b91003a37c8a5c9" sha1="c555a329177ebbef04ef80f415b0408e852e7b08"/>
 		<rom name="samurai shodown iv - amakusa's revenge (1996)(snk)(jp-us)[samurai spirits - amakusa kourin] (Track 03).bin" size="2161488" crc="9d1778ff" md5="4f192a36b472599bb366d3e4138239cd" sha1="70cab130c8118aec8259bbfc6afae79a9b14d136"/>
@@ -2709,7 +2871,9 @@
 	</game>
 	<game name="samsho\samurai shodown (1994)(snk)(jp-us)[samurai spirits][ngcd-045 mt b02+b05, ngcd-045e mt b02]" type="cd" sha1="6e977ba5be8df37dfbbe379d6a543ea9c9d43eea" size="319321581" crc="024c12f9" fullsha1="8473666426b714db5b7bfdc8bcec78ef86bc464d" dataSha1="f13b3d61e80faa2ee62605dad1003dcb3fb19b0a">
 		<category>Games</category>
-		<description>samsho\samurai shodown (1994)(snk)(jp-us)[samurai spirits][ngcd-045 mt b02+b05, ngcd-045e mt b02]</description>
+		<description>Samurai Shodown (USA) ~ Samurai Spirits (Japan)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="samurai shodown (1994)(snk)(jp-us)[samurai spirits][ngcd-045 mt b02+b05, ngcd-045e mt b02] (Track 01).bin" size="22059008" crc="31c45c67" md5="68895d6e33e924c9a861ec20a056a2ca" sha1="147bbba5211feebd93423282215c77fc249cc241"/>
 		<rom name="samurai shodown (1994)(snk)(jp-us)[samurai spirits][ngcd-045 mt b02+b05, ngcd-045e mt b02] (Track 02).bin" size="38034192" crc="68927602" md5="ddbba128ed27966e180ac5ee6972fc87" sha1="eb5012d28e96964874fb4fe89627fd017e0240b6"/>
 		<rom name="samurai shodown (1994)(snk)(jp-us)[samurai spirits][ngcd-045 mt b02+b05, ngcd-045e mt b02] (Track 03).bin" size="34581456" crc="6adc0cf1" md5="2e4f74e61157db2f1a81d42d1a159444" sha1="69700d70914063d7656e7f1933445c03974c2fb3"/>
@@ -2742,7 +2906,9 @@
 	</game>
 	<game name="samsprpg\shinsetsu samurai spirits - bushidohretsuden (1997)(snk)(jp)[ngcd-0850 mt a01]" type="cd" sha1="36f13e605529fbc06c2bdf10ee6017e57578fa05" size="288733175" crc="8d0377db" fullsha1="bd8ec28e9b90f9ca137c92475e5ef67d6d539a08" dataSha1="720c70d99bea3611cd24d34e676d16a4436708c1">
 		<category>Games</category>
-		<description>samsprpg\shinsetsu samurai spirits - bushidohretsuden (1997)(snk)(jp)[ngcd-0850 mt a01]</description>
+		<description>Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan)</description>
+		<year>1997</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="shinsetsu samurai spirits - bushidohretsuden (1997)(snk)(jp)[ngcd-0850 mt a01] (Track 01).bin" size="249806848" crc="fff20a12" md5="eac28b5acd40af5fb98db3d9cc851cb0" sha1="6d472ce02ad11c2c440e291bc07817348973edc6"/>
 		<rom name="shinsetsu samurai spirits - bushidohretsuden (1997)(snk)(jp)[ngcd-0850 mt a01] (Track 02).bin" size="18693696" crc="2981749d" md5="23babf0a3a1e4f98524de5e827fdb572" sha1="2fa942288190413c0ae54d16ba80511faf14c719"/>
 		<rom name="shinsetsu samurai spirits - bushidohretsuden (1997)(snk)(jp)[ngcd-0850 mt a01] (Track 03).bin" size="13091232" crc="38bc1b4b" md5="e6d9a70a3634828bb0531030970202f4" sha1="9ccb6e9402978cf1f0c9113f58b3297162933221"/>
@@ -2778,7 +2944,9 @@
 	</game>
 	<game name="savagere\savage reign (1995)(snk)(jp-us)[fu'un mokujiroku - kakutou sousei]" type="cd" sha1="cd5de0321dfc681cb868cec4c24f4734147e3e49" size="336852058" crc="cd3d7801" fullsha1="d130d15bbbaae53c95ac533f584bad51802e7d20" dataSha1="57223f4a83149477d17f55cf28d26be152f936ed">
 		<category>Games</category>
-		<description>savagere\savage reign (1995)(snk)(jp-us)[fu'un mokujiroku - kakutou sousei]</description>
+		<description>un Mokujiroku - Kakutou Sousei (Japan)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="savage reign (1995)(snk)(jp-us)[fu'un mokujiroku - kakutou sousei] (Track 01).bin" size="51863552" crc="0e780084" md5="ccbbf6d4eed3a4df378b4080c6812e1e" sha1="550aa68a55e371b8397cc3f944950a1cad2aec25"/>
 		<rom name="savage reign (1995)(snk)(jp-us)[fu'un mokujiroku - kakutou sousei] (Track 02).bin" size="6651456" crc="e486f252" md5="faa1b06e90b5b02ffcfdfee2954c2d19" sha1="54942b88733002a2bd348f090d1e12a81fdc80bf"/>
 		<rom name="savage reign (1995)(snk)(jp-us)[fu'un mokujiroku - kakutou sousei] (Track 03).bin" size="9565584" crc="b66064c5" md5="85ae1dba90ca9766ff39d39c1ef3633f" sha1="cdaecd1287136c21b379e3947c486612db5706ee"/>
@@ -2817,7 +2985,9 @@
 	</game>
 	<game name="sengoku2\sengoku 2 (1995)(snk)(jp-us)[sengoku denshou 2]" type="cd" sha1="20c3895553a1b3585cfab12d998b1c80447ca18d" size="340890118" crc="1a6a83ba" fullsha1="21b97b59a49a3edf27c44d748fedf3ceb601de38" dataSha1="e709b3bd990a0d8ae314d027276bc87eceb5d88e">
 		<category>Games</category>
-		<description>sengoku2\sengoku 2 (1995)(snk)(jp-us)[sengoku denshou 2]</description>
+		<description>Sengoku 2 (USA) ~ Sengoku Denshou 2 (Japan)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="sengoku 2 (1995)(snk)(jp-us)[sengoku denshou 2] (Track 01).bin" size="11835392" crc="3aef1b7f" md5="a65a95905afcd9e58b0b9cc37a23c14a" sha1="0caacdb366b62ac92acf5ad2dc024dc73c2bf6a5"/>
 		<rom name="sengoku 2 (1995)(snk)(jp-us)[sengoku denshou 2] (Track 02).bin" size="6858432" crc="fb874fcd" md5="096aed1d3c51f6641f26114d4785c6e6" sha1="1856dddd2e4c3e2efaadf9dec61f8a8548850878"/>
 		<rom name="sengoku 2 (1995)(snk)(jp-us)[sengoku denshou 2] (Track 03).bin" size="33647712" crc="b405006e" md5="a4367177a6edbafee3e5e212c865187c" sha1="36c9bef2bfe4019233a86e5392972275f7d8751c"/>
@@ -2854,7 +3024,9 @@
 	</game>
 	<game name="sengoku\sengoku (1995)(snk)(jp-us)[sengoku denshou]" type="cd" sha1="31e6ae0be62a361a92ee1cf5d49b7f77f02f4283" size="374688049" crc="6ad423d4" fullsha1="b286057886c033a5237464648fbed71f17f21c0a" dataSha1="6cf5ef2e62f987b3e614ec98368aaa221c56efc7">
 		<category>Games</category>
-		<description>sengoku\sengoku (1995)(snk)(jp-us)[sengoku denshou]</description>
+		<description>Sengoku (USA) ~ Sengoku Denshou (Japan)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="sengoku (1995)(snk)(jp-us)[sengoku denshou] (Track 01).bin" size="8216576" crc="592baa5d" md5="516f1631f566e3f0d95ad8a992c11af9" sha1="8e63a478b1677a2907bd8611e21ed3a89547d3a7"/>
 		<rom name="sengoku (1995)(snk)(jp-us)[sengoku denshou] (Track 02).bin" size="8808240" crc="0b3866c2" md5="2ee033c6614947f9d2bd4d2bb2ad5729" sha1="01c55bc533f039175f132f9f309fb8e881e36032"/>
 		<rom name="sengoku (1995)(snk)(jp-us)[sengoku denshou] (Track 03).bin" size="27885312" crc="cf77fea0" md5="2837a8d465ea5b5a87a8b5cf5aa1da44" sha1="0152a04155636f907bb88b9a7987d800df71cf8a"/>
@@ -2892,7 +3064,9 @@
 	</game>
 	<game name="socbrawl\soccer brawl (1995)(snk)(jp-us)" type="cd" sha1="bf51c2f94bdc80203f41499ae807561b296ab8e8" size="134549286" crc="8d378042" fullsha1="7b62af289f39515c353651f0abf485ce5f12a24e" dataSha1="69f81d161fbeb11c2105b742136c0b00f08c6b39">
 		<category>Games</category>
-		<description>socbrawl\soccer brawl (1995)(snk)(jp-us)</description>
+		<description>Soccer Brawl (Japan, USA)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="soccer brawl (1995)(snk)(jp-us) (Track 01).bin" size="7565312" crc="1c777f47" md5="cad8e579561e89f500fd766039fd6937" sha1="306fb4294c5a4dc18ff365bb5cdfe47a5e091278"/>
 		<rom name="soccer brawl (1995)(snk)(jp-us) (Track 02).bin" size="2683632" crc="88e5adef" md5="62fa82cebb112889ef1d7feefa1cdc25" sha1="b03475e8315b7bf9afbecc74e2b3c455f7851056"/>
 		<rom name="soccer brawl (1995)(snk)(jp-us) (Track 03).bin" size="7639296" crc="517e218a" md5="0e13b57f995c20290af9d81ba18f4973" sha1="0b112997cb607432d1ff961135fc6cb818502dfc"/>
@@ -2913,7 +3087,9 @@
 	</game>
 	<game name="sonicwi2\aero fighters 2 (1994)(snk)(jp-us)[sonic wings 2]" type="cd" sha1="279c88d3822da90a46021d5a0c1cb80028269855" size="352393758" crc="5a8afb6c" fullsha1="85946103773c8b2120e540da7eb6afacf983894a" dataSha1="415e8dcfce345be2f224aca286d2b5d301397fa3">
 		<category>Games</category>
-		<description>sonicwi2\aero fighters 2 (1994)(snk)(jp-us)[sonic wings 2]</description>
+		<description>Aero Fighters 2 (USA) ~ Sonic Wings 2 (Japan)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="aero fighters 2 (1994)(snk)(jp-us)[sonic wings 2] (Track 01).bin" size="19382272" crc="3c91b2cf" md5="74d211c2daacd3a5f1e89fb8759ee645" sha1="a2e826278b99ed978e2186c298fcf141ecc889b2"/>
 		<rom name="aero fighters 2 (1994)(snk)(jp-us)[sonic wings 2] (Track 02).bin" size="1987440" crc="a9033eb4" md5="7561917f5870143f25b7a2fbb811f2cf" sha1="5813111d0692171e40ffcdefdd0edfaae1030041"/>
 		<rom name="aero fighters 2 (1994)(snk)(jp-us)[sonic wings 2] (Track 03).bin" size="7540512" crc="2dafc363" md5="ac80430146d57fa72980964ea3b11a7a" sha1="42b7af319fdd3551ba14b3530242c14e3efc0846"/>
@@ -2951,7 +3127,9 @@
 	</game>
 	<game name="sonicwi3\aero fighters 3 (1995)(snk)(jp-us)[sonic wings 3]" type="cd" sha1="863b1250e4ef39131ab5dc247161d410dbde82a9" size="211616177" crc="66453b85" fullsha1="15b265cc9645c34a4d11e1acdca7772f5098cb08" dataSha1="820d1aef7fe443d0bfbc97420dd2101bc1696c80">
 		<category>Games</category>
-		<description>sonicwi3\aero fighters 3 (1995)(snk)(jp-us)[sonic wings 3]</description>
+		<description>Aero Fighters 3 (USA) ~ Sonic Wings 3 (Japan)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="aero fighters 3 (1995)(snk)(jp-us)[sonic wings 3] (Track 01).bin" size="15087616" crc="2027227f" md5="d274ece9ec42a0558b74ce9c7c965d9b" sha1="6ad7b29f9e9914882608ee697a785a2d5465d54e"/>
 		<rom name="aero fighters 3 (1995)(snk)(jp-us)[sonic wings 3] (Track 02).bin" size="1587600" crc="8b25dbb9" md5="933886e8387dfcd32fc719de1a3c9916" sha1="2af3de27e3429bd396e6035ef4333afddf40eb00"/>
 		<rom name="aero fighters 3 (1995)(snk)(jp-us)[sonic wings 3] (Track 03).bin" size="22144080" crc="222f36b9" md5="c849cc28df4cc47ed93c3b4b435e97fb" sha1="21470d10e76b6098c0d129eef47e9756e146673f"/>
@@ -2981,7 +3159,9 @@
 	</game>
 	<game name="ssideki2\super sidekicks 2 (1994)(snk)(jp-us)[tokuten ou 2]" type="cd" sha1="e37c87eb81e24e485e9e7bce652bb03adb938244" size="300538797" crc="4e8bcc95" fullsha1="e7bf8617dadd80c6a65459b04b69578f18860406" dataSha1="1198aac4b91e06c96f960a74ac51d6d030ecf773">
 		<category>Games</category>
-		<description>ssideki2\super sidekicks 2 (1994)(snk)(jp-us)[tokuten ou 2]</description>
+		<description>Super Sidekicks 2 (USA) ~ Tokuten Ou 2 (Japan)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="super sidekicks 2 (1994)(snk)(jp-us)[tokuten ou 2] (Track 01).bin" size="41388032" crc="63ac21c3" md5="387d1068e2424a8dce51e2732efc58e1" sha1="97a0b23bc91b593008d4c4913bf81b418c479e27"/>
 		<rom name="super sidekicks 2 (1994)(snk)(jp-us)[tokuten ou 2] (Track 02).bin" size="3610320" crc="e87217fa" md5="28f78d48bade1fd27e1efd07660b6f9b" sha1="e45f34012e42ac83b1e84d8b94186fca20d4ba49"/>
 		<rom name="super sidekicks 2 (1994)(snk)(jp-us)[tokuten ou 2] (Track 03).bin" size="9125760" crc="3957f6e4" md5="66dc40d278b4f58984838647da2dd1d4" sha1="c084f4f01ee7de92aff755e28e74bf5b4ffca4fb"/>
@@ -3000,7 +3180,9 @@
 	</game>
 	<game name="ssideki3\super sidekicks 3 - the next glory (1995)(snk)(jp-us)[tokuten ou 3 - eikou e no chousen]" type="cd" sha1="732c5b2e8b2a893ca8f07f89335539f34c040666" size="280080343" crc="d0141202" fullsha1="b4b7fc128d637852267e9c11612c6a43bc28f173" dataSha1="eac26aea4ee0191428d6e485a97a2c05f241a584">
 		<category>Games</category>
-		<description>ssideki3\super sidekicks 3 - the next glory (1995)(snk)(jp-us)[tokuten ou 3 - eikou e no chousen]</description>
+		<description>Super Sidekicks 3 - The Next Glory (USA) ~ Tokuten Ou 3 - Eikou e no Chousen (Japan)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="super sidekicks 3 - the next glory (1995)(snk)(jp-us)[tokuten ou 3 - eikou e no chousen] (Track 01).bin" size="53065728" crc="7a0c6395" md5="bdaf807fce6bc5df6cf776dfc932090d" sha1="85bfe2c2e723e6d1a5018e5d0415387922a67172"/>
 		<rom name="super sidekicks 3 - the next glory (1995)(snk)(jp-us)[tokuten ou 3 - eikou e no chousen] (Track 02).bin" size="4880400" crc="8d3674fc" md5="dcfb8dd17d52e2c0561fcc8226a95928" sha1="fe429e6427f3a5fec22aa4164d0b3988035f0466"/>
 		<rom name="super sidekicks 3 - the next glory (1995)(snk)(jp-us)[tokuten ou 3 - eikou e no chousen] (Track 03).bin" size="22612128" crc="eb7183f9" md5="d4816733e6d9940adb61ae1595b739db" sha1="71ef8eee8fb3c85f3746d44f18cfb09860f8244c"/>
@@ -3026,7 +3208,9 @@
 	</game>
 	<game name="ssideki\super sidekicks (1995)(snk)(jp-us)[tokuten ou]" type="cd" sha1="f4219674484b80feb5e18ff0a0b87700ba16c898" size="130056096" crc="1ad26dca" fullsha1="4e36674010e2f668fee35a340c95b9a0f9b6dade" dataSha1="a33efbcbc346c0b15e4810cc8c952bb5beaa0e47">
 		<category>Games</category>
-		<description>ssideki\super sidekicks (1995)(snk)(jp-us)[tokuten ou]</description>
+		<description>Super Sidekicks (USA) ~ Tokuten Ou (Japan)</description>
+		<year>1995</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="super sidekicks (1995)(snk)(jp-us)[tokuten ou] (Track 01).bin" size="7532544" crc="afdf6677" md5="e655d50e967b5900f9fb60f1ad30c7f5" sha1="7b196fb244ccd470ac0ec86e02923b30e4f4ff84"/>
 		<rom name="super sidekicks (1995)(snk)(jp-us)[tokuten ou] (Track 02).bin" size="3890208" crc="ecb17ce4" md5="c586d53d951ee8e87e44cf1135228e32" sha1="1e83db2ec79048d1198be35c36da55923250dc5d"/>
 		<rom name="super sidekicks (1995)(snk)(jp-us)[tokuten ou] (Track 03).bin" size="13639248" crc="e68e1a78" md5="43c645226aae607d853e9cb9c40e01bb" sha1="67c4c7be68dbcd3c0294726e7963fd62fa5d2737"/>
@@ -3045,7 +3229,9 @@
 	</game>
 	<game name="stakwin\stakes winner - gi kanzen seiha e no machi (1996)(saurus)(jp)" type="cd" sha1="4f689033a51b70673c9df5ee741c5fbf47fffc9c" size="228538164" crc="2fcaebd0" fullsha1="276b76cc1afb8c5eee60ec0522f32806984c9085" dataSha1="11deaedb2da5dbdc0a8f3593c6e25073bbce71ee">
 		<category>Games</category>
-		<description>stakwin\stakes winner - gi kanzen seiha e no machi (1996)(saurus)(jp)</description>
+		<description>Stakes Winner - GI Kanzen Seiha e no Machi (Japan)</description>
+		<year>1996</year>
+		<manufacturer>Saurus</manufacturer>
 		<rom name="stakes winner - gi kanzen seiha e no machi (1996)(saurus)(jp) (Track 01).bin" size="8960000" crc="50c79cd4" md5="50a44a9d7833db97a73f3bfcf8e6fa0b" sha1="42f40ec2013c35fb346e8440225ccd1358855081"/>
 		<rom name="stakes winner - gi kanzen seiha e no machi (1996)(saurus)(jp) (Track 02).bin" size="9509136" crc="87eb6e19" md5="4ce2529f57ce102d5a45598803f7ee8e" sha1="ea2e3b8693d1a1e865e755e685c1532bf6052d2a"/>
 		<rom name="stakes winner - gi kanzen seiha e no machi (1996)(saurus)(jp) (Track 03).bin" size="4322976" crc="98c98bc6" md5="5314cc45da7ec50d09acf319d6c44006" sha1="d37039202979a5923cb93104d47b82a803db6165"/>
@@ -3076,7 +3262,9 @@
 	</game>
 	<game name="strhoop\street hoop (1995)(data east)(jp-us)[dunk dream]" type="cd" sha1="caa74349a7c809554abaa9f8eb7444d335eba3c8" size="208491365" crc="d37f9fe2" fullsha1="7d3388221c1aaf28df8b645637bf29102436ef9e" dataSha1="588f129b46e23e7950e4a9b063f1182d23ffefa8">
 		<category>Games</category>
-		<description>strhoop\street hoop (1995)(data east)(jp-us)[dunk dream]</description>
+		<description>Street Hoop (USA) ~ Dunk Dream (Japan)</description>
+		<year>1995</year>
+		<manufacturer>Data East</manufacturer>
 		<rom name="street hoop (1995)(data east)(jp-us)[dunk dream] (Track 01).bin" size="8828928" crc="bd0f30e7" md5="d7e57c7d7761261c0c241b9e5f92b387" sha1="96fc718e789a008c461282b8405cfadd9283e7b7"/>
 		<rom name="street hoop (1995)(data east)(jp-us)[dunk dream] (Track 02).bin" size="56231616" crc="0094bce5" md5="5c8229d00a79df8daffd2c082831c599" sha1="6687cc2abbf70fada680187c4f5e1cd620c582f1"/>
 		<rom name="street hoop (1995)(data east)(jp-us)[dunk dream] (Track 03).bin" size="56913696" crc="29090ed8" md5="45ca7908e0577b5c5304c2ed321a8378" sha1="72f81044b0d52e39e6191ca37989a900194bb64d"/>
@@ -3092,7 +3280,9 @@
 	</game>
 	<game name="superspy\super spy, the (1994)(snk)(jp-us)" type="cd" sha1="974a84ab830e6a1b9525944d584575480b99cf5c" size="235866343" crc="6ff5099e" fullsha1="41fed1e8db7a54eb9af0fe8d845abb469be43426" dataSha1="6f3a8c9c5ccfeea0b33851f6e0b5bfec502a2a4d">
 		<category>Games</category>
-		<description>superspy\super spy, the (1994)(snk)(jp-us)</description>
+		<description>The Super Spy (Japan, USA)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="super spy, the (1994)(snk)(jp-us) (Track 01).bin" size="7682048" crc="38223857" md5="32ae1925f00fed5e3f4cfc9cfde47981" sha1="52dd20919a8f13bd38e6cab6be3751390dd1ac06"/>
 		<rom name="super spy, the (1994)(snk)(jp-us) (Track 02).bin" size="4294752" crc="8249b3dd" md5="79890cbf61b54cbb24a819e99001a643" sha1="dca929452fb1c5f893404eeaf896d5dd49be5641"/>
 		<rom name="super spy, the (1994)(snk)(jp-us) (Track 03).bin" size="44024736" crc="ac226b40" md5="a4481598803f325f7ca97fbc430a7719" sha1="b291dc31d55a2c275be9e41a90c1eed71b7b383d"/>
@@ -3112,7 +3302,9 @@
 	</game>
 	<game name="tophuntr\top hunter - roddy &amp; cathy (1994)(snk)(jp-us)[ngcd-046 mt b02, ngcd-046e]" type="cd" sha1="a533fccaa2e39fa5007673df9cf48b6b7e53abef" size="315374192" crc="fe860e32" fullsha1="97f4026a09f345e41abc9d1e7d88bf0790961ec3" dataSha1="4ba3ec98b6ad626e3b199935a2caff2e463291fc">
 		<category>Games</category>
-		<description>tophuntr\top hunter - roddy &amp; cathy (1994)(snk)(jp-us)[ngcd-046 mt b02, ngcd-046e]</description>
+		<description> Cathy (Japan, USA)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="top hunter - roddy &amp; cathy (1994)(snk)(jp-us)[ngcd-046 mt b02, ngcd-046e] (Track 01).bin" size="19099648" crc="f84a18a7" md5="aa29e7b3d900bc5b592deadce459d6b7" sha1="720429f3902188104afc0591eb69e0970135a05c"/>
 		<rom name="top hunter - roddy &amp; cathy (1994)(snk)(jp-us)[ngcd-046 mt b02, ngcd-046e] (Track 02).bin" size="4842768" crc="c45a96e0" md5="03fe85fd56633594ab807484b3c8b59c" sha1="fec824462dfa0f71a7eb0e7843e8674f7d85a0c8"/>
 		<rom name="top hunter - roddy &amp; cathy (1994)(snk)(jp-us)[ngcd-046 mt b02, ngcd-046e] (Track 03).bin" size="6364512" crc="2b646187" md5="5e70c0825ba0655afec991f1286a7edd" sha1="c783c9ecb3f5e9d3337297d5c7d5e79aad2d0299"/>
@@ -3153,7 +3345,9 @@
 	</game>
 	<game name="totc\cd-rom [ngcd-500] [v2011-12-22]" type="cd" sha1="a9364cc8b7b4e60f4f3f397cbdd4acdc1bb96332" size="174023537" crc="87950163" fullsha1="5e2e2126fc657a8dbc969b05f7e8d0adea68e298" dataSha1="a4e4f12c45202fcc8ea80f9990a96c00f965055a">
 		<category>Games</category>
-		<description>totc\cd-rom [ngcd-500] [v2011-12-22]</description>
+		<description>Treasure of the Caribbean (France)</description>
+		<year>2011?</year>
+		<manufacturer>Neo Conception International</manufacturer>
 		<rom name="cd-rom [ngcd-500] [v2011-12-22] (Track 01).bin" size="8166144" crc="c3808ad5" md5="841d46a357aaa34b01431461d9a765d0" sha1="0e12cdd5e50497f35dcaee35125cd86c6c2de61e"/>
 		<rom name="cd-rom [ngcd-500] [v2011-12-22] (Track 02).bin" size="10781568" crc="155f25e2" md5="1f2272bc9ee4ac2bd903e00ea1992e13" sha1="e6e7ee2316fecee7e3c9276844b9adeda5c25b73"/>
 		<rom name="cd-rom [ngcd-500] [v2011-12-22] (Track 03).bin" size="73380048" crc="2d2f93cd" md5="5c0a6f1109025ef422b01aefcc5783f5" sha1="615f1fbcb583799d9d8aceb7431e879850e0fcff"/>
@@ -3172,7 +3366,9 @@
 	</game>
 	<game name="tpgolf\top player's golf (1994)(snk)(jp-us)" type="cd" sha1="94afe998dacdb9131c5270ceda5800fa96f07b22" size="164040108" crc="4e85fec6" fullsha1="c5eba09ea978b64fb9864ff8cddefb520786205e" dataSha1="dbc0f119e102e855c678d1dee6c49dc6f932c349">
 		<category>Games</category>
-		<description>tpgolf\top player's golf (1994)(snk)(jp-us)</description>
+		<description>s Golf (Japan, USA)</description>
+		<year>1994</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="top player's golf (1994)(snk)(jp-us) (Track 01).bin" size="9916416" crc="52f5d05b" md5="e95be76fa0331e763f450db03cc42894" sha1="b71b2b0c9dd549fe07ffd40826db2336a1a563ce"/>
 		<rom name="top player's golf (1994)(snk)(jp-us) (Track 02).bin" size="2561328" crc="3d13d00d" md5="b067062260d73126cbea604bc912f92e" sha1="c43f972011874dde6f23bf53b948705dcfc3128e"/>
 		<rom name="top player's golf (1994)(snk)(jp-us) (Track 03).bin" size="2424912" crc="24f9efc2" md5="71493182536ef3befa7adce5d2f0abbc" sha1="b05428e5772aefaa495bf2a90c393f83b22e280e"/>
@@ -3193,7 +3389,9 @@
 	</game>
 	<game name="trally\rally chase (1994)(adk)(jp)" type="cd" sha1="a89fa222d9c860a6be0fbb4f7120bcef127f4ab3" size="169265109" crc="8c5a2250" fullsha1="2ca344b0ad7d4c5afa7be92f9281a56d6e6cb485" dataSha1="03f3fec63b68aec72b35ae5f6e0ac7efc51ac065">
 		<category>Games</category>
-		<description>trally\rally chase (1994)(adk)(jp)</description>
+		<description>Rally Chase (Japan)</description>
+		<year>1994</year>
+		<manufacturer>ADK</manufacturer>
 		<rom name="rally chase (1994)(adk)(jp) (Track 01).bin" size="5820416" crc="74eafab1" md5="8a288dcea12584c6ec6ad3863e22a26d" sha1="22635ff07b942adf6b1a5ba93b25a602a6c09276"/>
 		<rom name="rally chase (1994)(adk)(jp) (Track 02).bin" size="4939200" crc="3925eb00" md5="165ff0126c3c821c46dd83cbe2b63cd8" sha1="75953b813a2147d57530a9933c0b064fd40cc0c0"/>
 		<rom name="rally chase (1994)(adk)(jp) (Track 03).bin" size="12383280" crc="7d5f8559" md5="9a5fcc6486125ca2bbccbda383ef42e3" sha1="bfaa7e425ae3853998f39c3625be6df60ac181be"/>
@@ -3213,7 +3411,9 @@
 	</game>
 	<game name="turfmast\neo turf masters (1996)(snk)(jp)[big tournament golf]" type="cd" sha1="78ccfa05f44f6b8eb728e36bdfac7ba2902860f9" size="219739778" crc="ed936b59" fullsha1="f76d49542005456397820d4ea0ee94ffdd926faa" dataSha1="aeac8712f8cad4ce33ef497fb8f42aff4d2a9209">
 		<category>Games</category>
-		<description>turfmast\neo turf masters (1996)(snk)(jp)[big tournament golf]</description>
+		<description>Big Tournament Golf (Japan)</description>
+		<year>1996</year>
+		<manufacturer>SNK</manufacturer>
 		<rom name="neo turf masters (1996)(snk)(jp)[big tournament golf] (Track 01).bin" size="38719488" crc="b955a965" md5="3c7bf199fc057e312497df3d1e63b194" sha1="be4943f95d5432d34cf1f9738e090af4d2a4340a"/>
 		<rom name="neo turf masters (1996)(snk)(jp)[big tournament golf] (Track 02).bin" size="4417056" crc="bcb09b63" md5="ae19a46e2a69d8d98c66eb3a33d336ee" sha1="c10d8dd2cc11d5013f3aa927ae95f1dc9aae30c1"/>
 		<rom name="neo turf masters (1996)(snk)(jp)[big tournament golf] (Track 03).bin" size="5296704" crc="d7fc47e5" md5="ad2d4df797327ee05af04d8af4246c59" sha1="0d2c7985abff5134778d5d139ed914dbd13b6111"/>
@@ -3238,7 +3438,9 @@
 	</game>
 	<game name="twinspri\twinkle star sprites (1997)(adk)(jp)" type="cd" sha1="a62f44b9f108c3e9a0dd04f452e284566f8af378" size="366400985" crc="f3deeb44" fullsha1="ba9426e41f6fdce59e5f5983512d550415837d32" dataSha1="8cdbc7a48cf2ca5d0884ee6f5bb12cba1d442a04">
 		<category>Games</category>
-		<description>twinspri\twinkle star sprites (1997)(adk)(jp)</description>
+		<description>Twinkle Star Sprites (Japan)</description>
+		<year>1997</year>
+		<manufacturer>ADK</manufacturer>
 		<rom name="twinkle star sprites (1997)(adk)(jp) (Track 01).bin" size="17035264" crc="abd6cd4a" md5="c75fc0793f79aa4434320cc48e5dd311" sha1="e9c18501065334dcf3bb074c6eb67a17b464fb97"/>
 		<rom name="twinkle star sprites (1997)(adk)(jp) (Track 02).bin" size="13178256" crc="9b6fe632" md5="b0a6ef28e1422cec86fe290e57220810" sha1="386598f0d7b2c14acb8afbf0519e31bbaa83064c"/>
 		<rom name="twinkle star sprites (1997)(adk)(jp) (Track 03).bin" size="3012912" crc="3ea267b7" md5="5ebaed7ba151af791ae3f8c80e524209" sha1="007a054954a4ef0d3656a2cebc00937a68cc3960"/>
@@ -3269,7 +3471,9 @@
 	</game>
 	<game name="viewpoin\viewpoint (1995)(snk)(jp-us)" type="cd" sha1="6fc41789b34dd026bdc6c8d5b83fa056b7ffa2d6" size="191284589" crc="9c54a140" fullsha1="5ca28cc74bc7db693e87b75d851f9ad194e7d4d8" dataSha1="b00a7af9ecd83cdf8853bebde1a20e288130978f">
 		<category>Games</category>
-		<description>viewpoin\viewpoint (1995)(snk)(jp-us)</description>
+		<description>Viewpoint (Japan, USA)</description>
+		<year>1995</year>
+		<manufacturer>Aicom</manufacturer>
 		<rom name="viewpoint (1995)(snk)(jp-us) (Track 01).bin" size="6553600" crc="024c800a" md5="2e939b4ae67f7752ce0202314ff50e0f" sha1="6bb8fc719240e42274a0734b4dfd25315ac465ef"/>
 		<rom name="viewpoint (1995)(snk)(jp-us) (Track 02).bin" size="6703200" crc="64606f92" md5="7b429b2af7b618b74a6dadfedca39105" sha1="d30a0ba5873764c1c952ee34c44b63c2fe8c2fed"/>
 		<rom name="viewpoint (1995)(snk)(jp-us) (Track 03).bin" size="1942752" crc="154301ff" md5="a5ba48cf1729e59af4549a698dc8a9b8" sha1="224098578d305faa2dece4cb0e52c2a256f32ba3"/>
@@ -3287,7 +3491,9 @@
 	</game>
 	<game name="wh1\world heroes (1995)(adk)(jp-us)" type="cd" sha1="63339eedb5a83ad84bec4e976fbd543fecae40b8" size="328232624" crc="f089f1f4" fullsha1="bcdf0f0dddc85f2a04f06c83ef344af23cb9f5ec" dataSha1="afe9c91c785001ebba1c5e7f75600687ec70e788">
 		<category>Games</category>
-		<description>wh1\world heroes (1995)(adk)(jp-us)</description>
+		<description>World Heroes (Japan, USA)</description>
+		<year>1995</year>
+		<manufacturer>ADK</manufacturer>
 		<rom name="world heroes (1995)(adk)(jp-us) (Track 01).bin" size="7499776" crc="ad2c53b8" md5="3009a2088d032bd5019af13ef7d90e92" sha1="7673c7bcfaef756e198510c12da571de28cee220"/>
 		<rom name="world heroes (1995)(adk)(jp-us) (Track 02).bin" size="5440176" crc="9d7ff915" md5="0d18076ea069facf482f9e48e52b28b6" sha1="3f738b9a2c8167f2ffeecaa6f80281ebf6ebd6e8"/>
 		<rom name="world heroes (1995)(adk)(jp-us) (Track 03).bin" size="38307024" crc="429f81a3" md5="804836bd889afaaf71e523c41b7b9354" sha1="afe9249a068cdcc45092481b82c7baec72a4306e"/>
@@ -3327,7 +3533,9 @@
 	</game>
 	<game name="wh2\world heroes 2 (1995)(adk)(jp-us)" type="cd" sha1="27871f5312b5571823b5fa99bb0b9d1bdf9ca540" size="346247193" crc="3024c941" fullsha1="841896ad9ff83a62240c737c95ce968188eb0d74" dataSha1="62ebd82212919e60d8419b31603d8ef254bc0b52">
 		<category>Games</category>
-		<description>wh2\world heroes 2 (1995)(adk)(jp-us)</description>
+		<description>World Heroes 2 (Japan, USA)</description>
+		<year>1995</year>
+		<manufacturer>ADK</manufacturer>
 		<rom name="world heroes 2 (1995)(adk)(jp-us) (Track 01).bin" size="17272832" crc="526236b0" md5="0d2223fea049bfb1171b045fce74ebac" sha1="6118c20f567738bc537493ee78593e9cd795f22a"/>
 		<rom name="world heroes 2 (1995)(adk)(jp-us) (Track 02).bin" size="6686736" crc="ec0b626e" md5="20ccca2896db1e8e613bbb4b17a03247" sha1="5178936a1fe54c9515a85a49b3c777bc88d6232f"/>
 		<rom name="world heroes 2 (1995)(adk)(jp-us) (Track 03).bin" size="22748544" crc="a38e5067" md5="07e17220acfa8416876fd9f0a327c834" sha1="d4f0691d74516f2de2fcb5ad41bafa439d6b0503"/>
@@ -3378,7 +3586,9 @@
 	</game>
 	<game name="wh2j\world heroes 2 jet (1994)(adk)(jp)" type="cd" sha1="af5417b42d079cac2d121d24ebfb4bef74546d29" size="252323030" crc="ad43e1da" fullsha1="82b8ef7e05931cd89da36cff8c96d871efabbe46" dataSha1="66687ee05adf8e730bc6824ad03119b71da0ebb0">
 		<category>Games</category>
-		<description>wh2j\world heroes 2 jet (1994)(adk)(jp)</description>
+		<description>World Heroes 2 Jet (Japan)</description>
+		<year>1994</year>
+		<manufacturer>ADK</manufacturer>
 		<rom name="world heroes 2 jet (1994)(adk)(jp) (Track 01).bin" size="23351296" crc="fc556ad8" md5="abe974cccb632f7dd402b8716cfb8df7" sha1="bb527bce4f840532a6cfeb8871f564776f2b4baf"/>
 		<rom name="world heroes 2 jet (1994)(adk)(jp) (Track 02).bin" size="6350400" crc="366666e1" md5="6abdbd4c0efd519291c8063abdcee32e" sha1="4d700e9c6ba3bd32edee912d422688f52491fe17"/>
 		<rom name="world heroes 2 jet (1994)(adk)(jp) (Track 03).bin" size="10901520" crc="a6d57cb6" md5="882caad816b1e3e9ca8be2f982fc52ff" sha1="5b7cda88528a43fe70bf4097280fc57654bdb2e6"/>
@@ -3416,7 +3626,9 @@
 	</game>
 	<game name="whp\world heroes perfect (1995)(adk)(jp-us)" type="cd" sha1="1d7b02c6f73854de3c6b3d02979b3906f0e79048" size="393954484" crc="11b45a44" fullsha1="16193ac2b7ebf52f7edf0c11b999c46306a31d86" dataSha1="0c8410fca3def808433fdb4d31d6cb8f6b6fdd43">
 		<category>Games</category>
-		<description>whp\world heroes perfect (1995)(adk)(jp-us)</description>
+		<description>World Heroes Perfect (Japan, USA)</description>
+		<year>1995</year>
+		<manufacturer>ADK</manufacturer>
 		<rom name="world heroes perfect (1995)(adk)(jp-us) (Track 01).bin" size="26095616" crc="7c44918d" md5="86b2854abc8627dd23660ba55c52f767" sha1="4f6b7f1ffd2411ed4ac97d7307c5572f8dbe82d7"/>
 		<rom name="world heroes perfect (1995)(adk)(jp-us) (Track 02).bin" size="3059952" crc="9daae12b" md5="510bfc08880e9708835c6dfaf8d324eb" sha1="952f85922580305259e5c7a6c9f21f8a7adf4d88"/>
 		<rom name="world heroes perfect (1995)(adk)(jp-us) (Track 03).bin" size="6482112" crc="462cb65b" md5="f57ef57fba1a5158c0a976e43bc85750" sha1="0a3e45ce974d5ed05b64832453b5cd0c50c875ce"/>
@@ -3467,7 +3679,9 @@
 	</game>
 	<game name="wjammers\windjammers (1995)(snk)(jp-us)[flying power disc]" type="cd" sha1="8a69828c5a2fd03eb2477d3c08ae364c924f575f" size="121462664" crc="2447622a" fullsha1="38b08a3909dc4436462af3831d11851881995eae" dataSha1="5cefe16117f3aab85cc0918e065d91ccac64391b">
 		<category>Games</category>
-		<description>wjammers\windjammers (1995)(snk)(jp-us)[flying power disc]</description>
+		<description>Windjammers (USA) ~ Flying Power Disc (Japan)</description>
+		<year>1995</year>
+		<manufacturer>Data East</manufacturer>
 		<rom name="windjammers (1995)(snk)(jp-us)[flying power disc] (Track 01).bin" size="6762496" crc="0b8d870b" md5="1d03ee6966b9fbb9b0626967c7cc59f4" sha1="e2b72603cb0ce2b3ea0e98459de32679ebf49acf"/>
 		<rom name="windjammers (1995)(snk)(jp-us)[flying power disc] (Track 02).bin" size="25620336" crc="9a8c8ce3" md5="b0e716cbb4fe3e26ecded65f71ac9e59" sha1="6671a45ab9c55f6d73e79ebead2a8519fac23036"/>
 		<rom name="windjammers (1995)(snk)(jp-us)[flying power disc] (Track 03).bin" size="26568192" crc="a5b2867e" md5="a16d55f9b6a9f598b449ff12ff8a07f7" sha1="904ac216aca18ae46b1615f32cd590ca7ff1ea83"/>
@@ -3491,7 +3705,9 @@
 	</game>
 	<game name="xenocris\Xeno Crisis (World) (Unl)" type="cd" sha1="00729df6e0e58216321bf3623b0c1fb1848583ae" size="437825357" crc="10e40518" fullsha1="792ee3aa806d06163b4d613f47d8ac9802a20c92" dataSha1="81f962d9960e210977e15b0e19b292ef1fc6a421">
 		<category>Games</category>
-		<description>xenocris\Xeno Crisis (World) (Unl)</description>
+		<description>Xeno Crisis</description>
+		<year>2021</year>
+		<manufacturer>Bitmap Bureau</manufacturer>
 		<rom name="Xeno Crisis (World) (Unl) (Track 01).bin" size="8069712" crc="97db440b" md5="c2c501cd243c8c6100acc73afcdc062e" sha1="11c58e0271e88e92c100211b512bd03c88a0818c"/>
 		<rom name="Xeno Crisis (World) (Unl) (Track 02).bin" size="3083472" crc="1694009d" md5="485021d22840e55ed3f8725bd5e6e87a" sha1="570914f1f9aa2b7c58ef9e988b3c619cc428336d"/>
 		<rom name="Xeno Crisis (World) (Unl) (Track 03).bin" size="7399392" crc="fa71c92c" md5="95f9641d167d2cf946806f1e84d259a5" sha1="6f55998ecb7b0c04aeabc83d4d9f739464638d3c"/>
@@ -3549,7 +3765,9 @@
 	</game>
 	<game name="zintrick\oshidashi zintrick (1996)(adk)(jp)[zintrick]" type="cd" sha1="d1717aa8fab31df7fa2aafbd0c90352295164428" size="230346681" crc="f39f1934" fullsha1="04d714b6f79cbe92d828abb1c3be8c3184175511" dataSha1="09f0d0b6103f662e061dd04f1935734afe2d46d4">
 		<category>Games</category>
-		<description>zintrick\oshidashi zintrick (1996)(adk)(jp)[zintrick]</description>
+		<description>Oshidashi Zintrick (Japan)</description>
+		<year>1996</year>
+		<manufacturer>ADK</manufacturer>
 		<rom name="oshidashi zintrick (1996)(adk)(jp)[zintrick] (Track 01).bin" size="9529344" crc="04ed3e37" md5="86432f78d9f5ed8ad2a163e757aa3d2e" sha1="9afd8c93927277eb8200ce84cef920af4e273851"/>
 		<rom name="oshidashi zintrick (1996)(adk)(jp)[zintrick] (Track 02).bin" size="12653760" crc="61f0fd6e" md5="e6f26e610c728380554f0538392cc331" sha1="6570d93c5e953069e38e75e111818349eec76713"/>
 		<rom name="oshidashi zintrick (1996)(adk)(jp)[zintrick] (Track 03).bin" size="58717680" crc="b3d6ee32" md5="d687bf84c62f43a8a5db04681874012f" sha1="19485f186e0eb524ab021f1a92802ba85cac327b"/>

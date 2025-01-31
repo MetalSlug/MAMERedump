@@ -4,24 +4,30 @@
 	<header>
 		<name>3do_m2</name>
 		<description>3do_m2</description>
-		<version>0.266</version>
+		<version>0.274</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
 	<game name="imsarcng\imsa racing" type="cd" sha1="705a25fa776d76cfd9b1293250610cfc714dfa31" size="487564667" crc="676560f2" fullsha1="533f8ed17f684b2798c9fae5d7e834a7d4d81147" dataSha1="7ec065d1d17a69c01938587f49054b0c753f3aae">
 		<category>Games</category>
-		<description>imsarcng\imsa racing</description>
+		<description>IMSA Racing (Unreleased)</description>
+		<year>199?</year>
+		<manufacturer>3DO</manufacturer>
 		<rom name="imsa racing (Track 01).bin" size="671399568" crc="f52c2e38" md5="a6c649ef6415d71b30552941f8783ba3" sha1="630d12b8368cb84952a7603ecf598f1f277ea442"/>
 	</game>
 	<game name="olds\oldsmobile (disc 2)" type="cd" sha1="4d444d64e85450765eac706b5ff392daecb40cd1" size="247819149" crc="03c14e8d" fullsha1="b1f5ad85818ca628c5d7e41d7dd321e69934cf2a" dataSha1="a98a7d69037ce47e0891508135cb39cf9479e01b">
 		<category>Games</category>
-		<description>olds\oldsmobile (disc 2)</description>
+		<description>Oldsmobile (USA)</description>
+		<year>199?</year>
+		<manufacturer>GM</manufacturer>
 		<rom name="oldsmobile (disc 2) (Track 01).bin" size="337182720" crc="fd0ad6bb" md5="1303463e35b2881ddf46c2c92d307816" sha1="61ed9f22e0baaae35624bbeb094822b1bbbf12bb"/>
 	</game>
 	<game name="shootr2d\shootr2d" type="cd" sha1="b5ed90bdba6174f952add15bbdbf239377be3b5a" size="3104014" crc="f76b936f" fullsha1="b53e4186fcb496282584bead5cdaad9fef2293d9" dataSha1="6032e080c89d944be681cdf882f5167aef2d145e">
 		<category>Games</category>
-		<description>shootr2d\shootr2d</description>
+		<description>Shooter 2D</description>
+		<year>2008</year>
+		<manufacturer>t</manufacturer>
 		<rom name="shootr2d (Track 01).bin" size="8388608" crc="c65f2b93" md5="fc5f317ce5049e1d65a4505ca64fee1b" sha1="2d1f42cb10e34c83bc7a77a37797d6a921aadb7f"/>
 	</game>
 </datafile>
