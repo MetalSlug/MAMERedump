@@ -3,8 +3,8 @@
 <datafile>
 	<header>
 		<name>Panasonic - 3DO Interactive Multiplayer</name>
-		<description>MAME Redump - Panasonic - 3DO Interactive Multiplayer - Discs (646) (2024-08-21 09-38-37)</description>
-		<version>0.268</version>
+		<description>MAME Redump - Panasonic - 3DO Interactive Multiplayer - Discs (662) (2025-01-16 12-29-24)</description>
+		<version>0.274</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -429,10 +429,10 @@
 		<description>Crime Patrol (USA)</description>
 		<disk name="Crime Patrol (USA).chd" sha1="0ac0393fa80918cb0dcdd55887986d640b49d4e5" />
 	</machine>
-	<machine name="Crime Patrol (USA) (3DO Developer Services)">
-		<category>Games</category>
-		<description>Crime Patrol (USA) (3DO Developer Services)</description>
-		<disk name="Crime Patrol (USA) (3DO Developer Services).chd" sha1="c09194a693dc51d394318c7ccf4e640b62fa6ea4" />
+	<machine name="Crime Patrol (USA) (Beta) (1994-11-23)">
+		<category>Preproduction</category>
+		<description>Crime Patrol (USA) (Beta) (1994-11-23)</description>
+		<disk name="Crime Patrol (USA) (Beta) (1994-11-23).chd" sha1="c09194a693dc51d394318c7ccf4e640b62fa6ea4" />
 	</machine>
 	<machine name="Crystal Dynamics Best Selection ~ Sample This! (USA, Japan)">
 		<category>Demos</category>
@@ -589,10 +589,10 @@
 		<description>Demolition Man (Japan)</description>
 		<disk name="Demolition Man (Japan).chd" sha1="d7680690029a7baef495e4d5bf416825ee88f6a9" />
 	</machine>
-	<machine name="Demolition Man (USA)">
+	<machine name="Demolition Man (USA, Europe)">
 		<category>Games</category>
-		<description>Demolition Man (USA)</description>
-		<disk name="Demolition Man (USA).chd" sha1="22c8381b3d7ff8c4f537c461c685da5777956ab3" />
+		<description>Demolition Man (USA, Europe)</description>
+		<disk name="Demolition Man (USA, Europe).chd" sha1="22c8381b3d7ff8c4f537c461c685da5777956ab3" />
 	</machine>
 	<machine name="Dennis Miller - That's News to Me (USA)">
 		<category>Multimedia</category>
@@ -2399,10 +2399,10 @@
 		<description>Slam 'n Jam '95 (USA) (Alt)</description>
 		<disk name="Slam 'n Jam '95 (USA) (Alt).chd" sha1="206ba46bad973d427dfe7074a111adf9f76041fc" />
 	</machine>
-	<machine name="Slam 'N Jam '95 (USA, Europe)">
+	<machine name="Slam 'n Jam '95 (USA, Europe)">
 		<category>Games</category>
-		<description>Slam 'N Jam '95 (USA, Europe)</description>
-		<disk name="Slam 'N Jam '95 (USA, Europe).chd" sha1="b5b35f2c541f159a26a1a89a98b67adae92aa98c" />
+		<description>Slam 'n Jam '95 (USA, Europe)</description>
+		<disk name="Slam 'n Jam '95 (USA, Europe).chd" sha1="b5b35f2c541f159a26a1a89a98b67adae92aa98c" />
 	</machine>
 	<machine name="Slayer (Europe)">
 		<category>Games</category>
@@ -2509,10 +2509,10 @@
 		<description>Star Control II - The Ur-Quan Masters (Japan)</description>
 		<disk name="Star Control II - The Ur-Quan Masters (Japan).chd" sha1="aaf3a7d4d42248e9bbabacba4cd4df2773a41648" />
 	</machine>
-	<machine name="Star Control II (USA)">
+	<machine name="Star Control II (USA, Europe)">
 		<category>Games</category>
-		<description>Star Control II (USA)</description>
-		<disk name="Star Control II (USA).chd" sha1="fb0996a9a9ed2da94f75eb1078700771a5e63ffc" />
+		<description>Star Control II (USA, Europe)</description>
+		<disk name="Star Control II (USA, Europe).chd" sha1="fb0996a9a9ed2da94f75eb1078700771a5e63ffc" />
 	</machine>
 	<machine name="Star Fighter (Europe) (Demo)">
 		<category>Demos</category>

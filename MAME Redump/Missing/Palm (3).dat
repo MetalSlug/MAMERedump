@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Palm</name>
+		<description>MAME Redump - Palm - Discs (157) (2024-10-29 03-01-38)</description>
+		<version>0.274</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Madden NFL 06 (USA)" type="">
+		<category>Games</category>
+		<description>Madden NFL 06 (USA)</description>
+		<rom name="Madden NFL 06 (USA).cue" size="85" crc="41BEDA48" md5="7D4E011FD9832FDFCFBDE3CA4160C786" sha1="F3EF71B3AA532B0027CA6A4D0D48AE70C2E0E4C0" />
+		<rom name="Madden NFL 06 (USA).bin" size="65917152" crc="F5CC8B7D" md5="A4F21B7E5DD3123AE162CB0078581EA0" sha1="AA545DF890164CF7AF273311657F75E96840CDF9" />
+	</game>
+	<game name="Pilot Computing 99 - Software for PalmPilots &amp; Compatibles (USA)" type="">
+		<category>Multimedia</category>
+		<description>Pilot Computing 99 - Software for PalmPilots &amp; Compatibles (USA)</description>
+		<rom name="Pilot Computing 99 - Software for PalmPilots &amp; Compatibles (USA).cue" size="130" crc="59B543B4" md5="88B171192816D3E3FE1889324EC80862" sha1="6BA958AAA5459FBD0F644D4C8288808F36183085" />
+		<rom name="Pilot Computing 99 - Software for PalmPilots &amp; Compatibles (USA).bin" size="334560240" crc="D45FBD4A" md5="4E7C88A0D5F917C2E985EF80F205F8F0" sha1="C9588F791C0D267B56EAEF28E2F316A08CDAF1DF" />
+	</game>
+	<game name="Pocket Express Entertainment Pack Plus (USA)" type="">
+		<category>Games</category>
+		<description>Pocket Express Entertainment Pack Plus (USA)</description>
+		<rom name="Pocket Express Entertainment Pack Plus (USA).cue" size="110" crc="5A045BC7" md5="FE7BC73F09187C5DB52F744884480533" sha1="4B2BD58F141F57A2852EE7369032CF57021154E3" />
+		<rom name="Pocket Express Entertainment Pack Plus (USA).bin" size="1714608" crc="184D762F" md5="0ED25419BA9CA8830A5975A67D8A5E19" sha1="AA1D80D88F89BA3007A39424B7C563E9300186B2" />
+	</game>
+</datafile>

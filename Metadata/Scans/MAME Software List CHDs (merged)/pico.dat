@@ -4,14 +4,16 @@
 	<header>
 		<name>pico</name>
 		<description>pico</description>
-		<version>0.266</version>
+		<version>0.274</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
 	<game name="sanouk5\imgpico-001" type="cd" sha1="8250fca89053363dc53890eba06c10543d37d38b" size="174889482" crc="1a0417c7" fullsha1="c9330bbf118405c02347bd83a1cc24ab2bb4310d" dataSha1="53055f719ac4848c9309364a737e23a2f07ac6e1">
 		<category>Games</category>
-		<description>sanouk5\imgpico-001</description>
+		<description>Sanou Kaihatsu Series 5 Meiro - Kioku (Japan, CD Tsuki)</description>
+		<year>1995</year>
+		<manufacturer>Imagineer</manufacturer>
 		<rom name="imgpico-001 (Track 01).bin" size="9767520" crc="980e1f3b" md5="59ebdca3477ce00e9bcf8dc078b0bd22" sha1="aa3bd6688fdc5372a859f52e8c4924ececfce156"/>
 		<rom name="imgpico-001 (Track 02).bin" size="14668416" crc="313a380f" md5="98bd0de0ab39d08ab3ec7ae3708c2c74" sha1="35663029876ba7845b7ea37336ae24a06592ff4b"/>
 		<rom name="imgpico-001 (Track 03).bin" size="13618224" crc="4c1578bf" md5="165b252d816483a778e7fd96f96cc434" sha1="c7d1695e1bae21919d831beefd3f7f83ae12c551"/>
