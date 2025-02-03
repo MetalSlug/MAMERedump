@@ -4,7 +4,7 @@
 	<header>
 		<name>Sega - Dreamcast</name>
 		<description>Sega - Dreamcast</description>
-		<version>0.267</version>
+		<version>0.274</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -207,7 +207,7 @@
 	</game>
 	<game name="Alone in the Dark - The New Nightmare (Germany) (En,De) (Disc 1)" type="gd" sha1="83fad862045a8fc5f7308721a69335d75466190d" size="850639963" crc="4efee72d" fullsha1="fa0fb0215024a2b5bd25a551eb034aaccacc5921" dataSha1="b45c053f7ab7ac963e96e70e9e4038d76882d367">
 		<category>Games</category>
-		<description>Alone in the Dark - The New Nightmare (Germany) (En,De) (Disc 1)</description>
+		<description>he Dark - The New Nightmare (Germany) (En,De) (Disc 1)</description>
 		<rom name="Alone in the Dark - The New Nightmare (Germany) (En,De) (Disc 1) (Track 01).bin" size="16075920" crc="e78c0ea2" md5="4e49daced7d62506af058d9245f95f9b" sha1="acd62514d438aa5525167f0c5a03cd78e936bfc7"/>
 		<rom name="Alone in the Dark - The New Nightmare (Germany) (En,De) (Disc 1) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Alone in the Dark - The New Nightmare (Germany) (En,De) (Disc 1) (Track 03).bin" size="117153120" crc="acafa40a" md5="e9ebc3cd1040505b6aff7ba961621224" sha1="5aefb72b8469d94df487fc670880d1f10d6d8144"/>
@@ -342,6 +342,13 @@
 		<rom name="Atsumare! Guru Guru Onsen (Japan) (Demo 2) (Track 01).bin" size="1470000" crc="2aadb6d7" md5="6b599ced39a8e949449d7d243ffb7130" sha1="50a33639a742a83ac3a19ea89e18943c47f429c1"/>
 		<rom name="Atsumare! Guru Guru Onsen (Japan) (Demo 2) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Atsumare! Guru Guru Onsen (Japan) (Demo 2) (Track 03).bin" size="1185760800" crc="c2e71479" md5="2a8fdd8d917cd223167728e6b790bed2" sha1="405b4776f715e07402986a55d2c1078bcb6df4b4"/>
+	</game>
+	<game name="Atsumare! Guru Guru Onsen BB (Japan) (Rev A)" type="gd" sha1="8b674d8d790bd6771f0dfa27c8897a968bada453" size="149402762" crc="f154f4a4" fullsha1="e9e9a55ecfaa0815fc8d0631bc18a0cd0e8f70e9" dataSha1="7e98c4e3597aaee6172d8cd9d259ed80f7c570d1">
+		<category>Games</category>
+		<description>Atsumare! Guru Guru Onsen BB (Japan) (Rev A)</description>
+		<rom name="Atsumare! Guru Guru Onsen BB (Japan) (Rev A) (Track 01).bin" size="1470000" crc="1cc63f73" md5="ff834a1826c187b4eb7411a7ac4b70d6" sha1="044a38c9dc8a1271726bae46143b279583486543"/>
+		<rom name="Atsumare! Guru Guru Onsen BB (Japan) (Rev A) (Track 02).bin" size="4297104" crc="1712a53e" md5="b53dd3a58e747c68d13b930e37d57065" sha1="1cbe48ea88829cd456805fb578cf353683807d55"/>
+		<rom name="Atsumare! Guru Guru Onsen BB (Japan) (Rev A) (Track 03).bin" size="1185760800" crc="27b09404" md5="e93395b6d83ce3df44fb663016ffac37" sha1="660c4e34721058a0e033e977d6cd6eca2ce078bf"/>
 	</game>
 	<game name="Bakumatsu Roman Daini Maku - Gekka no Kenshi - Final Edition (Japan)" type="gd" sha1="662c4f6eca2abb5fc128b8477d27de3a87eb2997" size="515278828" crc="7a53c442" fullsha1="de2086813a04231bd7ab9c7545d3ab59f1a32fe5" dataSha1="621dbf0e75ffdf89ac830d0ed1f28fae4bd1210b">
 		<category>Games</category>
@@ -612,7 +619,7 @@
 	</game>
 	<game name="Black-Matrix Advanced (Japan) (Disc 2)" type="gd" sha1="a846c4908b117f391b1c35714e522939dca7d3fd" size="508797546" crc="cbd93d06" fullsha1="b7debc2d89c5417b1a785634451895ddba2cf6c6" dataSha1="e00c8c7ed0f57258e436a809d89498d2a0da340a">
 		<category>Games</category>
-		<description>Black-Matrix Advanced (Japan) (Disc 2)</description>
+		<description>nced (Japan) (Disc 2)</description>
 		<rom name="Black-Matrix Advanced (Japan) (Disc 2) (Track 01).bin" size="705600" crc="dc0132a4" md5="939acbc2427221c8102afe0f1b88fdc1" sha1="a98e774cdddb415bcecc2d2d36b9b8ff99c1f777"/>
 		<rom name="Black-Matrix Advanced (Japan) (Disc 2) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Black-Matrix Advanced (Japan) (Disc 2) (Track 03).bin" size="1185760800" crc="86f4f9a5" md5="05c3b2fd76483435da47a32321565a1b" sha1="5867dabd4c556196618defbd7f373e091c3484d3"/>
@@ -841,7 +848,7 @@
 	</game>
 	<game name="Canary - Kono Omoi o Uta ni Nosete (Japan)" type="gd" sha1="7ac762e2f1eb555de08aa5ac93aca9528235bade" size="861122446" crc="47b435e3" fullsha1="82ab39d584dd601b80472e0192fefabdddb23531" dataSha1="d9f18d7f2515f8a1969c1a5a5db425dd78826f6d">
 		<category>Games</category>
-		<description>Canary - Kono Omoi o Uta ni Nosete (Japan)</description>
+		<description>oi o Uta ni Nosete (Japan)</description>
 		<rom name="Canary - Kono Omoi o Uta ni Nosete (Japan) (Track 01).bin" size="705600" crc="a437a30e" md5="afe6aa3d28a8d819826d9fe7a38745fd" sha1="6178edc84dfef52a34dbabd169423d6a381c311b"/>
 		<rom name="Canary - Kono Omoi o Uta ni Nosete (Japan) (Track 02).bin" size="12891312" crc="dd95ec76" md5="e01bf6060861ee22fa471482ae80c01c" sha1="4c8757e058ca3047ef61e796960de1dde57fb3b0"/>
 		<rom name="Canary - Kono Omoi o Uta ni Nosete (Japan) (Track 03).bin" size="1185760800" crc="1db0c4ae" md5="8f94f9795a683d43d8067f22af7466c0" sha1="62d834a5f1a2bf64c222ab9b11cf499ff6a02558"/>
@@ -1070,7 +1077,7 @@
 	</game>
 	<game name="Checkicco no Miru CD (Japan)" type="gd" sha1="7599cdc3ae3c2b50bcd6a6b911a73840ca51a936" size="531852708" crc="0e07f743" fullsha1="f5bb02216b49b1f2c3fd4ef4362b28254bc32aef" dataSha1="cc796ec6ac163516c149c420a63643c033c9d44d">
 		<category>Games</category>
-		<description>Checkicco no Miru CD (Japan)</description>
+		<description>Miru CD (Japan)</description>
 		<rom name="Checkicco no Miru CD (Japan) (Track 01).bin" size="52948224" crc="4ae17aa6" md5="72cb7b7a5acac9b3221be1e11dc714b9" sha1="eb786685eff908f0c874af092eeb8cb27217ab0b"/>
 		<rom name="Checkicco no Miru CD (Japan) (Track 02).bin" size="43606080" crc="9d372743" md5="b7d417ce09ca01008cc7934c9a8b010e" sha1="b87f685c688af50cff7649d9f623a3cb9a96eb6e"/>
 		<rom name="Checkicco no Miru CD (Japan) (Track 03).bin" size="48458256" crc="77c3a616" md5="dd6c4b9a9202636908533f5e53ad2793" sha1="046f472a2a66e52b8f5f64c866ee0e65d1079ed2"/>
@@ -1085,6 +1092,15 @@
 		<rom name="Chicken Run (Europe) (Fr,De,Es,It) (Track 03).bin" size="1155267120" crc="71067789" md5="4595db4ab40332f4ff4bc08d96d451ec" sha1="807ee422c0f190fa40d11e22a555e2099454376d"/>
 		<rom name="Chicken Run (Europe) (Fr,De,Es,It) (Track 04).bin" size="12858384" crc="f7597266" md5="9c4443bd522b783d0eb6e08762143fff" sha1="7b03835a7e92b2fedf1755370d3737d031b822af"/>
 		<rom name="Chicken Run (Europe) (Fr,De,Es,It) (Track 05).bin" size="17635296" crc="9c511845" md5="c3f659828efff6cad2ff169471901361" sha1="31251dbcc9229bfb97331a83d4e27db556b064b6"/>
+	</game>
+	<game name="Chicken Run (Japan) (Beta) (2000-08-01)" type="gd" sha1="3b32312e9c421a926007da9d2d537059f6b89ae5" size="388434676" crc="5be0f9c7" fullsha1="b74c0418e424b4c9ed6f2255e87cdf4e8fe0c739" dataSha1="d6a5835ca0a30f9cd6e36d4cf2b33379156cd0a5">
+		<category>Games</category>
+		<description>Chicken Run (Japan) (Beta) (2000-08-01)</description>
+		<rom name="Chicken Run (Japan) (Beta) (2000-08-01) (Track 01).bin" size="16151184" crc="b6e508d8" md5="191f860557bdc9db8534fe5c8d7ac94d" sha1="af96d4615103bba11a090b72f8f995cb353d3c7f"/>
+		<rom name="Chicken Run (Japan) (Beta) (2000-08-01) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
+		<rom name="Chicken Run (Japan) (Beta) (2000-08-01) (Track 03).bin" size="1154267520" crc="7a49d67a" md5="cf8829333724d25318f0f987ca2fe4b9" sha1="3705970c90e85aa56b8fb7158d02af3bf5b63e61"/>
+		<rom name="Chicken Run (Japan) (Beta) (2000-08-01) (Track 04).bin" size="13994400" crc="2d9c8342" md5="e2427674658e068c5cc4bde0542e334b" sha1="1953372e0e2c90d4e92b1dc69a2426e439806262"/>
+		<rom name="Chicken Run (Japan) (Beta) (2000-08-01) (Track 05).bin" size="17498880" crc="0063a7ba" md5="ff3f47622090a0703f7ab415a7137948" sha1="f07455c2e32eeba207c45ffcd5bc792078c7f542"/>
 	</game>
 	<game name="Chicken Run (UK)" type="gd" sha1="b4d60d8147ebe2196ecd7ad25fe646af305a55b3" size="965956211" crc="c94e0b9e" fullsha1="d46de0ac8e9d585a34f6324a4de5830bda0b6ae5" dataSha1="ff8b17220d172d8cdb1bbacaf2b64c694c225803">
 		<category>Games</category>
@@ -1271,7 +1287,7 @@
 	</game>
 	<game name="Climax Landers (Japan)" type="gd" sha1="077b06cfd5750627f8644a734de208e7fbfcdd43" size="175250107" crc="cd15c21c" fullsha1="e39ffbfadb9b2ebc200ae565e25c5e5bb5696bba" dataSha1="14887d21a9f4280d206020e7e1badde3f04792dd">
 		<category>Games</category>
-		<description>Climax Landers (Japan)</description>
+		<description>nders (Japan)</description>
 		<rom name="Climax Landers (Japan) (Track 01).bin" size="8544816" crc="a68fdc08" md5="2bbfb51fface3aa3da3fd74d0aac8a9e" sha1="511dd60bab2aa52fdaacccde4c2383d4e9913af5"/>
 		<rom name="Climax Landers (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Climax Landers (Japan) (Track 03).bin" size="1185760800" crc="bab8bb9f" md5="26eb6794122c988f18d693f259c7ffa3" sha1="925c48d5dff928b4f00faf4eec7a912f56cda78e"/>
@@ -1450,7 +1466,7 @@
 	</game>
 	<game name="Crazy Taxi (USA)" type="gd" sha1="afd84df5fe94c081f1c5e47e598f6b5e0061d2af" size="70096857" crc="b03950bb" fullsha1="a6d60321bb33d541edb6611516f92ccc095608af" dataSha1="3ccfc630d8b8131ec63050303b81d8077a46f182">
 		<category>Games</category>
-		<description>Crazy Taxi (USA)</description>
+		<description>azy Taxi (USA)</description>
 		<rom name="Crazy Taxi (USA) (Track 01).bin" size="1058400" crc="f8bb5b3c" md5="be87b59616171c57d9fd252acdda806b" sha1="cf38f6c262f304729870f443fce69ffd182214e1"/>
 		<rom name="Crazy Taxi (USA) (Track 02).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
 		<rom name="Crazy Taxi (USA) (Track 03).bin" size="1185760800" crc="ede401b9" md5="a127c8645b365990d8ec74a24dfc97c2" sha1="082c341f140904b9a63b984c2dce1ea276f7afdb"/>
@@ -1582,7 +1598,7 @@
 	</game>
 	<game name="D2 - D no Shokutaku 2 (Japan) (Disc 1)" type="gd" sha1="d49388d40736a5bb6f956c8379b28422738fa0e7" size="597249696" crc="ca6cc34e" fullsha1="099d7d455f07e336b8224b7012d71b23f45377a6" dataSha1="ef365e2b9a53a3cabe9910d0d4a7ea7a8869833b">
 		<category>Games</category>
-		<description>D2 - D no Shokutaku 2 (Japan) (Disc 1)</description>
+		<description>2 (Japan) (Disc 1)</description>
 		<rom name="D2 - D no Shokutaku 2 (Japan) (Disc 1) (Track 01).bin" size="1058400" crc="299c06dd" md5="3c1ac26b5aef0aa0dd0dcfccba7b3874" sha1="e7a233fec40e8d07b83c10b524b6593018f0070f"/>
 		<rom name="D2 - D no Shokutaku 2 (Japan) (Disc 1) (Track 02).bin" size="2878848" crc="d3430230" md5="2a5e6d8fc990f3002e0c14427b079707" sha1="74233ba79541eac76cb74c49b3fc7e79611a399f"/>
 		<rom name="D2 - D no Shokutaku 2 (Japan) (Disc 1) (Track 03).bin" size="1185760800" crc="b1194575" md5="ce78b3b22eba64107ddeb40392140d4a" sha1="604e700c851ba2a3695d686d2e5231bf2017d161"/>
@@ -1630,7 +1646,7 @@
 	</game>
 	<game name="DC-IE Import Enabler (USA) (Unl)" type="gd" sha1="e470669027837ff05374a06e5c786e4d18893cc7" size="1271466" crc="f9772988" fullsha1="f52682fbbd58ddb1c555391e2a7f2a6097831d69" dataSha1="6383671a8d0086b015416477ef9c00dee6c428cb">
 		<category>Games</category>
-		<description>DC-IE Import Enabler (USA) (Unl)</description>
+		<description>er (USA) (Unl)</description>
 		<rom name="DC-IE Import Enabler (USA) (Unl) (Track 01).bin" size="5729472" crc="26d8f384" md5="59f0298f427611bbdf0ee5d77a67237d" sha1="f27f6633aa3edf09f1bda5a8112ea080a9223f4a"/>
 		<rom name="DC-IE Import Enabler (USA) (Unl) (Track 02).bin" size="2972928" crc="934e1459" md5="b0b978e8a2443989bd3ed72fb22119f1" sha1="5185279b29d92a4813f58862b1e840fbdb068668"/>
 	</game>
@@ -1918,7 +1934,7 @@
 	</game>
 	<game name="Deep Fighter (Europe) (En,It) (Disc 1)" type="gd" sha1="d319054ad8a13e8f6ee47bf246e77f01c83cb693" size="341522465" crc="804acdfc" fullsha1="d6273d6d39d3cc68489e8aaa809ce99956093729" dataSha1="bdd9ee4ab7431993346ce0af5d6f2d570f70d5b0">
 		<category>Games</category>
-		<description>Deep Fighter (Europe) (En,It) (Disc 1)</description>
+		<description>n,It) (Disc 1)</description>
 		<rom name="Deep Fighter (Europe) (En,It) (Disc 1) (Track 01).bin" size="705600" crc="a3dc438f" md5="df9538825152d364407fb9afacc0ad47" sha1="3364a3b05c78a0b41c6dad23b6c710015b2a4ac3"/>
 		<rom name="Deep Fighter (Europe) (En,It) (Disc 1) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Deep Fighter (Europe) (En,It) (Disc 1) (Track 03).bin" size="326208288" crc="ef6c67b1" md5="530eec7117f5f9c9c1d4c4c31df0a0b2" sha1="2b7be86e8523c7cfb5fd071a5a2e0d017a06e173"/>
@@ -1942,7 +1958,7 @@
 	</game>
 	<game name="Deep Fighter (Europe) (En,It) (Disc 2)" type="gd" sha1="13e40fd8f4394f1a3482c6a2c12e1185c74fde8c" size="379200044" crc="bd8aba34" fullsha1="78b773f40d085122ad4e3ec22c8bb634af48e992" dataSha1="0e7632a6a4297858d27a5ec9fde2cbf1906246ad">
 		<category>Games</category>
-		<description>Deep Fighter (Europe) (En,It) (Disc 2)</description>
+		<description>ter (Europe) (En,It) (Disc 2)</description>
 		<rom name="Deep Fighter (Europe) (En,It) (Disc 2) (Track 01).bin" size="705600" crc="5949eb15" md5="eaee65b0c9142e3f535fb5da881a5a15" sha1="6befbceb1cb4fe895ad694b5ce0d5894b17d5481"/>
 		<rom name="Deep Fighter (Europe) (En,It) (Disc 2) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Deep Fighter (Europe) (En,It) (Disc 2) (Track 03).bin" size="320949216" crc="b21ec73d" md5="ee90b7b1f47f1ad29a6f1f9e524183b7" sha1="c290ab8d192cf9d73c382851ddbffcf9f2df4d88"/>
@@ -1996,7 +2012,7 @@
 	</game>
 	<game name="Deep Fighter (France) (Disc 2)" type="gd" sha1="a4437ba2840381e300246c807f1021a24d40ce68" size="378551762" crc="84588e70" fullsha1="bc6ef20fa419c7519d4d90f6a4428c977e0f949b" dataSha1="921c6e57088a1a9dc9367a44ca3f670f9be3df4f">
 		<category>Games</category>
-		<description>Deep Fighter (France) (Disc 2)</description>
+		<description>Disc 2)</description>
 		<rom name="Deep Fighter (France) (Disc 2) (Track 01).bin" size="705600" crc="b99ee5b0" md5="cdd8f32f046380032cefce36c386a33c" sha1="afe36cd153efda114e55afc3ef1acf503c4087d6"/>
 		<rom name="Deep Fighter (France) (Disc 2) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Deep Fighter (France) (Disc 2) (Track 03).bin" size="323980944" crc="7f16172f" md5="6f36c43e016b58781c04c93d672523a5" sha1="c2f954c9f0012d082f3aaa48a370148e6c4c56be"/>
@@ -2312,9 +2328,16 @@
 		<rom name="Disney's Dinosaur (Europe) (En,Fr,De,Es,It) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Disney's Dinosaur (Europe) (En,Fr,De,Es,It) (Track 03).bin" size="1185760800" crc="9b8c0f95" md5="73858b49be3ebca32b9fa8d908c98a0d" sha1="912f18a95e184cb27577c9c296b1140db073d3ca"/>
 	</game>
+	<game name="Disney's Dinosaur (Europe) (En,Fr,De,Es,It) (Beta) (2000-10-05)" type="gd" sha1="19011dd3f7297cf5a51396aab30ecbfe10d20eca" size="886680222" crc="969e5023" fullsha1="55eab0e222c66dd8e8b28f437998f45c1fabb5d2" dataSha1="4d39ca3ec2615511c531b1196f095a2db50f41b1">
+		<category>Games</category>
+		<description>Disney's Dinosaur (Europe) (En,Fr,De,Es,It) (Beta) (2000-10-05)</description>
+		<rom name="Disney's Dinosaur (Europe) (En,Fr,De,Es,It) (Beta) (2000-10-05) (Track 01).bin" size="16075920" crc="a0dee888" md5="47703ff4a5ffc1465580143575b32171" sha1="b5dfe6b5d8f90d8fa648f294a0449645589e6f97"/>
+		<rom name="Disney's Dinosaur (Europe) (En,Fr,De,Es,It) (Beta) (2000-10-05) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
+		<rom name="Disney's Dinosaur (Europe) (En,Fr,De,Es,It) (Beta) (2000-10-05) (Track 03).bin" size="1185760800" crc="04d5fcd1" md5="15459bd768bd99d63d401de0b7ffb07a" sha1="cf2e416e40171e14a60e1398bdda177439e7a160"/>
+	</game>
 	<game name="Disney's Dinosaur (USA)" type="gd" sha1="eb56e9607741d113c241ece5363fffebb06a2738" size="900078873" crc="5f5073d6" fullsha1="602ad7129a7002c2de984d239591861669bd70a9" dataSha1="1a70388c4311d08569ce30563d613d87b0970696">
 		<category>Games</category>
-		<description>Disney's Dinosaur (USA)</description>
+		<description> (USA)</description>
 		<rom name="Disney's Dinosaur (USA) (Track 01).bin" size="16075920" crc="8d106d2a" md5="ccfd02cc0bf99dd475ba3434e1f47354" sha1="cd5c94f19124cfa70f1c9b8b2d8a29bf4910d613"/>
 		<rom name="Disney's Dinosaur (USA) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Disney's Dinosaur (USA) (Track 03).bin" size="1185760800" crc="de497540" md5="1c42a19c769eabfcf7f3966ef261f89d" sha1="d807e448024af4ee422688ecf3d10e3954612573"/>
@@ -2441,7 +2464,7 @@
 	</game>
 	<game name="Dousoukai 2 - Again &amp; Refrain (Japan)" type="gd" sha1="2884524cc4b5384600e4eb78ce6e42210e5545dd" size="911322628" crc="e3821899" fullsha1="43075cb00ca07ca79d1bc5c2b36606c6c4a35143" dataSha1="c7a58b87d45b98ea23ec3bc40e601b28f672ef3d">
 		<category>Games</category>
-		<description>Dousoukai 2 - Again &amp; Refrain (Japan)</description>
+		<description> Refrain (Japan)</description>
 		<rom name="Dousoukai 2 - Again &amp; Refrain (Japan) (Track 01).bin" size="1994496" crc="2b037f7d" md5="1d64cc200af369e1ffd5429a53de0714" sha1="94e52f6aedc5c8f19c53862eca2805c2a41fd2d9"/>
 		<rom name="Dousoukai 2 - Again &amp; Refrain (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Dousoukai 2 - Again &amp; Refrain (Japan) (Track 03).bin" size="1185760800" crc="fced896d" md5="4d53effd87b9e1dd5b2111d927e5f1e6" sha1="65b2ad91b35da0fcdcbfda6d12ba35f79f027c51"/>
@@ -2484,7 +2507,7 @@
 	</game>
 	<game name="Dream Passport 2 (Japan) (Rev A)" type="gd" sha1="ec92b07ce9f9d2e85fce7774905974539d4f150a" size="83701526" crc="1c61b46b" fullsha1="1c7a36c60b6aff2de5cf3b7752bd8d6830f01674" dataSha1="3f1cab0fdc4a972bf2d9199087a005e604ccc579">
 		<category>Games</category>
-		<description>Dream Passport 2 (Japan) (Rev A)</description>
+		<description>t 2 (Japan) (Rev A)</description>
 		<rom name="Dream Passport 2 (Japan) (Rev A) (Track 01).bin" size="5802384" crc="cf32ffb0" md5="beb805ba9f4ca1cce47496760d9adc67" sha1="96b5ac1cee375ba0332c234c1138b4ea27130c76"/>
 		<rom name="Dream Passport 2 (Japan) (Rev A) (Track 02).bin" size="1994496" crc="295a221d" md5="6b970200bc800ac1f7d9ea9943f23e96" sha1="feff872e02c286e924a3baca945646b55f7a48d9"/>
 		<rom name="Dream Passport 2 (Japan) (Rev A) (Track 03).bin" size="1185760800" crc="8a1c7e3f" md5="ec5d2b21be6fb3d6e2828d61db34c731" sha1="73e4860fb43dc82478b5c87ca39582e8400e47f8"/>
@@ -2554,9 +2577,16 @@
 		<rom name="Dream Preview Vol. 3 (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Dream Preview Vol. 3 (Japan) (Track 03).bin" size="1185760800" crc="5177cd16" md5="7a460ffc3030f062ccdf2e4a0c97f41d" sha1="86c15c61af83c040c9ef6d651f8903f21e59d28a"/>
 	</game>
+	<game name="Dream Preview Vol. 4 (Japan)" type="gd" sha1="fefc5d27566534f7f5661b8ef26edad1cce02303" size="398635650" crc="143e9b7c" fullsha1="75f6f60f7bfae6fc1bf34b9512c6a4f3c7b30cd0" dataSha1="4721c11d24dac9b22de3dec385c6d1340d5b9e42">
+		<category>Games</category>
+		<description>Dream Preview Vol. 4 (Japan)</description>
+		<rom name="Dream Preview Vol. 4 (Japan) (Track 01).bin" size="705600" crc="0d57f3f9" md5="772e452093a55ba668167b30561e6408" sha1="221c2f3f41f7cf4206b82daa677aaa36a6fdf2a8"/>
+		<rom name="Dream Preview Vol. 4 (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
+		<rom name="Dream Preview Vol. 4 (Japan) (Track 03).bin" size="1185760800" crc="687c88c6" md5="13c403b253524206b0f762ef08aa1382" sha1="839a6ff78401de90137561bc7148ecbbae152810"/>
+	</game>
 	<game name="Dream Preview Vol. 5 (Japan)" type="gd" sha1="f240f9c54e3871bc55152f8d408ed95dff66aa1b" size="420912657" crc="0eeb71d8" fullsha1="2dc2fc58b0a3f549ad4b645be5c29a8a867e7e42" dataSha1="c270b978673adae5bf0dfdaba9f30eadfa75792a">
 		<category>Games</category>
-		<description>Dream Preview Vol. 5 (Japan)</description>
+		<description> (Japan)</description>
 		<rom name="Dream Preview Vol. 5 (Japan) (Track 01).bin" size="705600" crc="292b2d35" md5="e054ba4f336abc8ddcbd52ca015b9f8c" sha1="4e84903656bb4a6e26350666ebf860cfd64a63b5"/>
 		<rom name="Dream Preview Vol. 5 (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Dream Preview Vol. 5 (Japan) (Track 03).bin" size="1185760800" crc="db70ef1e" md5="4e7a65a650e9de3726f85cb8c74bd617" sha1="97eeb9ead2499b2c05a68e0618a85fedba4e329a"/>
@@ -2694,7 +2724,7 @@
 	</game>
 	<game name="Dreamcast Express Vol. 6 (Japan) (Disc 2) (Trial &amp; Movie Disk)" type="gd" sha1="d26824fd26377200674ff1659ace6da8d66d66e1" size="741239969" crc="30e24f48" fullsha1="29cd91ef5760d08439501e98f62576a91e801775" dataSha1="6130a4a04cd0c16918a5fba4ce8af76c145b1644">
 		<category>Games</category>
-		<description>Dreamcast Express Vol. 6 (Japan) (Disc 2) (Trial &amp; Movie Disk)</description>
+		<description> Movie Disk)</description>
 		<rom name="Dreamcast Express Vol. 6 (Japan) (Disc 2) (Trial &amp; Movie Disk) (Track 01).bin" size="1058400" crc="0e2ab535" md5="bab1a97491bbca06dfa8690b606c80de" sha1="f6252aadda28ba07c3c54584c5167c795ad38e0d"/>
 		<rom name="Dreamcast Express Vol. 6 (Japan) (Disc 2) (Trial &amp; Movie Disk) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Dreamcast Express Vol. 6 (Japan) (Disc 2) (Trial &amp; Movie Disk) (Track 03).bin" size="86701776" crc="0abacdbf" md5="bdf238a4af0f78eda762d722f19df9b5" sha1="41b7bc3578a647ccff6b92b03424590dfd1e22ed"/>
@@ -2824,7 +2854,7 @@
 	</game>
 	<game name="Dreamkey Version 2.0 (Europe)" type="gd" sha1="92ebd07a3dd1bf97a7613b1eedb3d32fe9362c20" size="53305467" crc="a06605cf" fullsha1="4ee7d1e2b16ea7d83d13d0b8e2d76e0d5be4a1b0" dataSha1="de1a361f4aebb64b2be97c7d509cc807be007453">
 		<category>Games</category>
-		<description>Dreamkey Version 2.0 (Europe)</description>
+		<description>n 2.0 (Europe)</description>
 		<rom name="Dreamkey Version 2.0 (Europe) (Track 01).bin" size="1420608" crc="2f7c6f62" md5="d0930b38e52939b2e05a428f767dc7fa" sha1="53a90d121c188ca28fa11312f87bf56cbb378db5"/>
 		<rom name="Dreamkey Version 2.0 (Europe) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Dreamkey Version 2.0 (Europe) (Track 03).bin" size="1056981744" crc="e30bdcef" md5="e81de27305cf06bc2790a30fb0788efc" sha1="592a78cf56631f5f42b67c878f26fe2046b9765e"/>
@@ -2915,7 +2945,7 @@
 	</game>
 	<game name="Dreamon Volume 14 (Europe) (En,Fr,De,Es)" type="gd" sha1="42efead5df4e319dd78815b91404e65b075bdeec" size="338467756" crc="496ba46f" fullsha1="97d8e21cf9247f9c51a6e5b3b137a80df155bfba" dataSha1="aac959361a896284776ea60cd3eb3819382979c6">
 		<category>Games</category>
-		<description>Dreamon Volume 14 (Europe) (En,Fr,De,Es)</description>
+		<description>Fr,De,Es)</description>
 		<rom name="Dreamon Volume 14 (Europe) (En,Fr,De,Es) (Track 01).bin" size="705600" crc="4b95ce54" md5="fe7342253e5be81b4ede5f73aa926e49" sha1="2c7028c4eb03ce4adc6311be65fdd7b3e6bd5646"/>
 		<rom name="Dreamon Volume 14 (Europe) (En,Fr,De,Es) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Dreamon Volume 14 (Europe) (En,Fr,De,Es) (Track 03).bin" size="528616704" crc="656d0bb7" md5="d0dbc3d4ec36970c1c73fc75c73dbbcd" sha1="5d8ba2002bce8f98c7d82fb786f948eba82d1edd"/>
@@ -3051,7 +3081,7 @@
 	</game>
 	<game name="Dreamon Volume 7 &amp; 8 (France)" type="gd" sha1="027a428c505769c5cc65022e21c3fb58fe912be1" size="623057577" crc="8a3da9cc" fullsha1="64ddb52f66289d96160d55ed284bc809cb30f183" dataSha1="c4ff31d88a1aae02a2142f09a3bff4bd628d7924">
 		<category>Games</category>
-		<description>Dreamon Volume 7 &amp; 8 (France)</description>
+		<description> 8 (France)</description>
 		<rom name="Dreamon Volume 7 &amp; 8 (France) (Track 01).bin" size="705600" crc="538b1654" md5="28b15bd47a1733f49e10e18195c84329" sha1="228e316d4c4b5cf7ea86f5651c1ae261890d5048"/>
 		<rom name="Dreamon Volume 7 &amp; 8 (France) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Dreamon Volume 7 &amp; 8 (France) (Track 03).bin" size="1185760800" crc="b6455f33" md5="9ac6c9c170d372eccf296b1c097f1474" sha1="07e62d3191393b888692670a25a5a3958502b3f6"/>
@@ -3110,7 +3140,7 @@
 	</game>
 	<game name="Ducati World - Racing Challenge (USA)" type="gd" sha1="e1665cacbf5d2f22ae2ce9338797732c3f5f47ac" size="439794740" crc="77455f0d" fullsha1="5e41d843d27043492d91b45e190c321b69be8cde" dataSha1="26900d6f8e39f8d8a574b5fb1a568b1a3d1b9955">
 		<category>Games</category>
-		<description>Ducati World - Racing Challenge (USA)</description>
+		<description>World - Racing Challenge (USA)</description>
 		<rom name="Ducati World - Racing Challenge (USA) (Track 01).bin" size="1425312" crc="8a273963" md5="bbded085462bef657d8ab02d162af932" sha1="48e9841d032d5d0d1105aa6c7371e41b44a2f341"/>
 		<rom name="Ducati World - Racing Challenge (USA) (Track 02).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
 		<rom name="Ducati World - Racing Challenge (USA) (Track 03).bin" size="561742272" crc="972af11a" md5="d73a4a9f6e00773208db947b077d0fc8" sha1="af3480bf0a64fca3b4e16d328acaae138f9325d4"/>
@@ -3268,14 +3298,14 @@
 	</game>
 	<game name="ESPN International Track &amp; Field (Europe) (En,Fr,De)" type="gd" sha1="2c0412c43f5e9957478c3f47aefbf96356f55d98" size="124014438" crc="6017eee6" fullsha1="5ea31da9e151758f0a00b1212f46968de854968e" dataSha1="03fd880ba1aab19190ac9a5b06b7d8386c6fb2cd">
 		<category>Games</category>
-		<description>ESPN International Track &amp; Field (Europe) (En,Fr,De)</description>
+		<description>En,Fr,De)</description>
 		<rom name="ESPN International Track &amp; Field (Europe) (En,Fr,De) (Track 01).bin" size="1058400" crc="4b23564d" md5="5d3f2e0d9601d568c47da5704791a395" sha1="3aaba507a869cdc1710c81a675f7b38765512bcd"/>
 		<rom name="ESPN International Track &amp; Field (Europe) (En,Fr,De) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="ESPN International Track &amp; Field (Europe) (En,Fr,De) (Track 03).bin" size="1185760800" crc="a6208b7e" md5="981d0ef61a5b1023fd478e7db6cc49f6" sha1="01927170c4a4c9236aac9062f499f4e829e5c343"/>
 	</game>
 	<game name="ESPN International Track &amp; Field (USA)" type="gd" sha1="bffc1766a5030100f64d042f65ccf003945adf3c" size="117191972" crc="57dcb460" fullsha1="40ac0ababecfeccd6cf8a73c1fd3e441fbe233e5" dataSha1="cb62f30cd8fd722a481be6276543ad5dc57cf05c">
 		<category>Games</category>
-		<description>ESPN International Track &amp; Field (USA)</description>
+		<description> Field (USA)</description>
 		<rom name="ESPN International Track &amp; Field (USA) (Track 01).bin" size="1058400" crc="cedad4fa" md5="cdebba73e833b9975efa3d27dca9bcf9" sha1="d47227ddf696702b397d459a84cf0429e8c4e183"/>
 		<rom name="ESPN International Track &amp; Field (USA) (Track 02).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
 		<rom name="ESPN International Track &amp; Field (USA) (Track 03).bin" size="1185760800" crc="638cb87b" md5="fb68d3abb99b62045f1d3cd484577d04" sha1="e13cb2022436ea3f2d697589d144919710206333"/>
@@ -3291,7 +3321,7 @@
 	</game>
 	<game name="Ecco the Dolphin - Defender of the Future (Europe) (En,Fr,De,Es)" type="gd" sha1="bcc0709343fdc871df7b17bc71b14cd6d20ce91a" size="578074431" crc="92aec8bc" fullsha1="473ed7faef2ac3a5c547183d31354a2b7cef03ee" dataSha1="566f55cef92798fe94e9438a0c9649dab2c7d534">
 		<category>Games</category>
-		<description>Ecco the Dolphin - Defender of the Future (Europe) (En,Fr,De,Es)</description>
+		<description>efender of the Future (Europe) (En,Fr,De,Es)</description>
 		<rom name="Ecco the Dolphin - Defender of the Future (Europe) (En,Fr,De,Es) (Track 01).bin" size="1237152" crc="200d5995" md5="d0d5a43cd45ec5202176ae8e94c26354" sha1="eb7e595d6141d8e6613bb8d2e7d578b87b95750a"/>
 		<rom name="Ecco the Dolphin - Defender of the Future (Europe) (En,Fr,De,Es) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Ecco the Dolphin - Defender of the Future (Europe) (En,Fr,De,Es) (Track 03).bin" size="109638480" crc="83daf301" md5="fea7ad4f102b6f41f44800d113f5c18b" sha1="242ae60f1d37bf4156da1e87b43e1242418c6122"/>
@@ -3309,7 +3339,7 @@
 	</game>
 	<game name="Ecco the Dolphin - Defender of the Future (USA) (En,Fr,De,Es)" type="gd" sha1="ade2b9afba57ee8f25b9197305bf0741f90fdb3b" size="579632566" crc="208d2c9a" fullsha1="d04e3f20b4273481df0264286e593d572bf5497c" dataSha1="0bc69efd0f960177aa9faa11b77d06fedd597e2a">
 		<category>Games</category>
-		<description>Ecco the Dolphin - Defender of the Future (USA) (En,Fr,De,Es)</description>
+		<description>olphin - Defender of the Future (USA) (En,Fr,De,Es)</description>
 		<rom name="Ecco the Dolphin - Defender of the Future (USA) (En,Fr,De,Es) (Track 01).bin" size="1237152" crc="c4d3ed76" md5="bbdbc68e425b7a0361ee6c29aba49e12" sha1="4d53615997b12d4c31f7344ad594bfe6fafa07b2"/>
 		<rom name="Ecco the Dolphin - Defender of the Future (USA) (En,Fr,De,Es) (Track 02).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
 		<rom name="Ecco the Dolphin - Defender of the Future (USA) (En,Fr,De,Es) (Track 03).bin" size="96422592" crc="63d1c637" md5="2f82f16ca36136abdd15fe81b5bb1d21" sha1="43f22cfa99eaa57db8e196b05db9851d0ce85410"/>
@@ -3380,7 +3410,7 @@
 	</game>
 	<game name="Escapee, The (USA, Japan) (En,Ja,Fr,De,Es,It) (Unl)" type="gd" sha1="40f90a281ec53796ea8393526cd9c3b9926aacf3" size="117110777" crc="ee361040" fullsha1="3af7c55b599601c4a59ae7ea4a2a11b2ab80292e" dataSha1="65da651fe56805557513860b7529896952077f32">
 		<category>Games</category>
-		<description>Escapee, The (USA, Japan) (En,Ja,Fr,De,Es,It) (Unl)</description>
+		<description> The (USA, Japan) (En,Ja,Fr,De,Es,It) (Unl)</description>
 		<rom name="Escapee, The (USA, Japan) (En,Ja,Fr,De,Es,It) (Unl) (Track 01).bin" size="171982944" crc="d68895de" md5="8b2f994c97593ee1366ed848e96d450a" sha1="e1919fea488a8907457b532b050dce90f2203b1e"/>
 		<rom name="Escapee, The (USA, Japan) (En,Ja,Fr,De,Es,It) (Unl) (Track 02).bin" size="710304" crc="850d7ea8" md5="526bfbbef256199f0a3fd99a62e41f5d" sha1="b9884e3e6c82da037a3d341959817321a7973c57"/>
 	</game>
@@ -3508,7 +3538,7 @@
 	</game>
 	<game name="Evolution - The World of Sacred Device (USA)" type="gd" sha1="83d755068ce49a3d2b944c2d84e87ba891d22206" size="420481806" crc="d63aaea3" fullsha1="8efb73da899d37145709abb6c55da1b0159d92fc" dataSha1="ed307a5a19c2e8a48c84513640cf7411a7ba7877">
 		<category>Games</category>
-		<description>Evolution - The World of Sacred Device (USA)</description>
+		<description>ice (USA)</description>
 		<rom name="Evolution - The World of Sacred Device (USA) (Track 01).bin" size="4021920" crc="0870dc10" md5="3ca6152d5396c3528889962576e4f167" sha1="4db64256fd40001390a8785faf660baf6164c69a"/>
 		<rom name="Evolution - The World of Sacred Device (USA) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Evolution - The World of Sacred Device (USA) (Track 03).bin" size="1185760800" crc="fad606cb" md5="321e3da9a31290b56b4617583fb95ca2" sha1="9e080294896b08cb68f0d8c7946b3db35e8d6330"/>
@@ -3702,7 +3732,7 @@
 	</game>
 	<game name="F1 World Grand Prix II for Dreamcast (Japan) (Demo)" type="gd" sha1="49c9ae93ad816ebe69b67e246fadbccd0ae1b557" size="136050159" crc="a4179b8e" fullsha1="d9af182cc622d8f9419266093de6932b0628af27" dataSha1="4dbff40f97556cce0fe9ef14466ae58a020cb279">
 		<category>Games</category>
-		<description>F1 World Grand Prix II for Dreamcast (Japan) (Demo)</description>
+		<description> (Japan) (Demo)</description>
 		<rom name="F1 World Grand Prix II for Dreamcast (Japan) (Demo) (Track 01).bin" size="1321824" crc="c448c558" md5="b07562b8d6f0421c7f2c921845992283" sha1="0a94ac07f48704e438019486bda5d7b45418fe7b"/>
 		<rom name="F1 World Grand Prix II for Dreamcast (Japan) (Demo) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="F1 World Grand Prix II for Dreamcast (Japan) (Demo) (Track 03).bin" size="895559280" crc="9751f5c2" md5="7065cec29bea2917eadb17721efa8717" sha1="d881b4e3b2dc8cff8c9b1248852c5f7f6a177e98"/>
@@ -3774,7 +3804,7 @@
 	</game>
 	<game name="F355 Challenge (Japan) (Taikenban)" type="gd" sha1="c96ab02a9d781dc87f7d89eae82badf44ab29dc6" size="239907187" crc="ff0d10da" fullsha1="44c637a73518159cc3ecad62dda97c2de65f29b8" dataSha1="f6b649c2d3898386958f5ea308204f8255eec4eb">
 		<category>Games</category>
-		<description>F355 Challenge (Japan) (Taikenban)</description>
+		<description>(Japan) (Taikenban)</description>
 		<rom name="F355 Challenge (Japan) (Taikenban) (Track 01).bin" size="705600" crc="16fe56e5" md5="962f463176bd4e88448c72f2eb7a57e3" sha1="3c8d954a633b51a86e1cdb2cd1b311e5feebefde"/>
 		<rom name="F355 Challenge (Japan) (Taikenban) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="F355 Challenge (Japan) (Taikenban) (Track 03).bin" size="1185760800" crc="9f6bb0fd" md5="0e0e1793dd3e5dfbd87c0ae493b94ab8" sha1="277483a9f56da66f489fe7a851dac99765d9494b"/>
@@ -4077,7 +4107,7 @@
 	</game>
 	<game name="GaiaMaster - Kessen! Seiki-ou Densetsu (Japan)" type="gd" sha1="9c362a4f8614376088c38bfab18373ee965f1d19" size="288909503" crc="ca2927cf" fullsha1="905378a0cbb4e6482945d6d294013ca2cc23b153" dataSha1="71b95d41173fcf21c8d8081ae16930bb4ddd8bb3">
 		<category>Games</category>
-		<description>GaiaMaster - Kessen! Seiki-ou Densetsu (Japan)</description>
+		<description>n)</description>
 		<rom name="GaiaMaster - Kessen! Seiki-ou Densetsu (Japan) (Track 01).bin" size="1232448" crc="bd0d8a10" md5="428d6198f83b77530b45296e74b7b0b3" sha1="05439beab4059459da5a4a17e84c313c73a2190e"/>
 		<rom name="GaiaMaster - Kessen! Seiki-ou Densetsu (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="GaiaMaster - Kessen! Seiki-ou Densetsu (Japan) (Track 03).bin" size="1185760800" crc="2d3f84ae" md5="38109222777a55f0d31295311d129673" sha1="e551c26058ef1ad290ca4fe09c8e9e2ecdb9980d"/>
@@ -4242,7 +4272,7 @@
 	</game>
 	<game name="Gauntlet Legends (USA)" type="gd" sha1="5fc435220084175fc7512b92e9364726f26fba98" size="405636370" crc="ed5e2b34" fullsha1="7ee890387e5b34100321b18ba071bee665ab8cc2" dataSha1="bed9b8f7760b3edcef76c2c5b3b33829710e8e66">
 		<category>Games</category>
-		<description>Gauntlet Legends (USA)</description>
+		<description>)</description>
 		<rom name="Gauntlet Legends (USA) (Track 01).bin" size="1999200" crc="e37798d8" md5="7f516a556811b2ae71379e32358f11eb" sha1="782f3ffdaa2bfc658a63fc460cfe20522731e288"/>
 		<rom name="Gauntlet Legends (USA) (Track 02).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
 		<rom name="Gauntlet Legends (USA) (Track 03).bin" size="487889472" crc="978dc532" md5="760cfbf8150c3c628eb678850db4ce79" sha1="7bc01a1b8bff156923b328e67556e95b2e4f65f6"/>
@@ -4636,7 +4666,7 @@
 	</game>
 	<game name="Gundam Battle Online (Japan)" type="gd" sha1="b10dff3dbfbd5f2a3fa190a1c09a6e9bb339aa14" size="369144666" crc="52f61c17" fullsha1="3e21a60f68403808408440d122f60c7fd93339d4" dataSha1="619e84790b437bd3d7d6753fee5b4665116cf44e">
 		<category>Games</category>
-		<description>Gundam Battle Online (Japan)</description>
+		<description>ine (Japan)</description>
 		<rom name="Gundam Battle Online (Japan) (Track 01).bin" size="1058400" crc="00eda306" md5="7fe43b9a30b1bb29002fef68a3bd5e81" sha1="6a17626a960764c426497c3a8cb4b793c2809ae2"/>
 		<rom name="Gundam Battle Online (Japan) (Track 02).bin" size="2149728" crc="36ff9d8b" md5="b4fe1617ffcde03b7f568f0b46d0c220" sha1="9bbbf4ccfc62522b75dbaef65fcd946042f216d3"/>
 		<rom name="Gundam Battle Online (Japan) (Track 03).bin" size="376637520" crc="35df03e1" md5="c5889e22d1034c833f9f5e8f272abb36" sha1="bd4d4ddb6b26a0c81876ea534a5da8bd7f556257"/>
@@ -4755,7 +4785,7 @@
 	</game>
 	<game name="Heavy Metal - Geomatrix (Europe) (En,Fr,De,Es)" type="gd" sha1="c16c424142e26283a8437f1b12aeaffc35407bf5" size="192991673" crc="5e1ceee7" fullsha1="416003d46a95e6cf0b68ec57963531a3c7df699f" dataSha1="949f6de785045ecf39f0a592740cdfccb855136c">
 		<category>Games</category>
-		<description>Heavy Metal - Geomatrix (Europe) (En,Fr,De,Es)</description>
+		<description>y Metal - Geomatrix (Europe) (En,Fr,De,Es)</description>
 		<rom name="Heavy Metal - Geomatrix (Europe) (En,Fr,De,Es) (Track 01).bin" size="1058400" crc="8645431a" md5="555278ecfdea9fb6fa534e0ace5231e6" sha1="ca02d44267c4a244d1652e3abd414ef11abdb68e"/>
 		<rom name="Heavy Metal - Geomatrix (Europe) (En,Fr,De,Es) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Heavy Metal - Geomatrix (Europe) (En,Fr,De,Es) (Track 03).bin" size="1185760800" crc="9e89eaea" md5="e9a5f4e0bfe240dc17adc6e609007bf0" sha1="6a9919ac192966e5f461640d821a71108c91a31c"/>
@@ -4789,7 +4819,7 @@
 	</game>
 	<game name="Hello Kitty no Otonaru Mail (Japan)" type="gd" sha1="238cef1c351b951bd1bed899d07b12ae98bdc39d" size="41853920" crc="8e70d416" fullsha1="f3d48403fdcccd54c0163796a1b3ddfae87fe4e2" dataSha1="01b5e178af60617ce1570d2c35289a2155d7ea53">
 		<category>Games</category>
-		<description>Hello Kitty no Otonaru Mail (Japan)</description>
+		<description>pan)</description>
 		<rom name="Hello Kitty no Otonaru Mail (Japan) (Track 01).bin" size="1058400" crc="e25a9727" md5="5d862fb9fea822960c5c17d088645ba8" sha1="9ae801b6992e41607432e53d267e25537cab6c0d"/>
 		<rom name="Hello Kitty no Otonaru Mail (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Hello Kitty no Otonaru Mail (Japan) (Track 03).bin" size="1185760800" crc="920e0190" md5="070a9e78c4b4d435f98945df8c825114" sha1="8db7546272037bbed5a349b150d904736cb242f5"/>
@@ -4827,7 +4857,7 @@
 	</game>
 	<game name="Hidden &amp; Dangerous (Europe) (En,Fr,De,Es)" type="gd" sha1="3b09bef4e893bdc601927d96397f73848735046e" size="352635608" crc="047103d6" fullsha1="da60ab5e34a4f3a5cf8b0d97ebd7c3b117e85237" dataSha1="88ec3bb731623db1876ab3547264e2d72477fbfd">
 		<category>Games</category>
-		<description>Hidden &amp; Dangerous (Europe) (En,Fr,De,Es)</description>
+		<description> Dangerous (Europe) (En,Fr,De,Es)</description>
 		<rom name="Hidden &amp; Dangerous (Europe) (En,Fr,De,Es) (Track 01).bin" size="16075920" crc="1a0781bf" md5="9c15bc8e0846e8c7f02575b576cdd1d8" sha1="924c04a338b1ca598013d4c0f5f2b07244ad6dbf"/>
 		<rom name="Hidden &amp; Dangerous (Europe) (En,Fr,De,Es) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Hidden &amp; Dangerous (Europe) (En,Fr,De,Es) (Track 03).bin" size="506098656" crc="2cb71bf9" md5="2cf7c5922605d676f7da468ed820dd9f" sha1="dc726d5026f2e43a1bb0c4ed3febff271753ea28"/>
@@ -4836,7 +4866,7 @@
 	</game>
 	<game name="Hidden &amp; Dangerous (USA)" type="gd" sha1="6ecdc7d27734bb821adaeab5db1bd853659bb9d5" size="329250596" crc="fb3c83c1" fullsha1="43d22190163f548b4ccfc0afbd4c4560f5473738" dataSha1="2c88c22167dce090e1e760036fd43692b6de37f4">
 		<category>Games</category>
-		<description>Hidden &amp; Dangerous (USA)</description>
+		<description> Dangerous (USA)</description>
 		<rom name="Hidden &amp; Dangerous (USA) (Track 01).bin" size="1462944" crc="8ec41584" md5="780d87558def296ae97e2870869ec8b2" sha1="c273325efed2d101b0fe1499e40ba338b38c352c"/>
 		<rom name="Hidden &amp; Dangerous (USA) (Track 02).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
 		<rom name="Hidden &amp; Dangerous (USA) (Track 03).bin" size="503099856" crc="645db1ac" md5="6ffc237548224b85709d03c7862ca809" sha1="a7bfbabe8605af10bd061cbdad405f9b5179f18d"/>
@@ -5127,7 +5157,7 @@
 	</game>
 	<game name="Industrial Spy - Operation Espionage (USA)" type="gd" sha1="7d6d5708231facd04285dec66d18d63a266e0824" size="82674870" crc="e4b42464" fullsha1="be282384ad275a25b96566480cb5450b9919ca7f" dataSha1="3216ed8a7da7b96d6b07eeb305267641b3b18d1b">
 		<category>Games</category>
-		<description>Industrial Spy - Operation Espionage (USA)</description>
+		<description>peration Espionage (USA)</description>
 		<rom name="Industrial Spy - Operation Espionage (USA) (Track 01).bin" size="39033792" crc="ebbd8805" md5="c7edc0c98a5a08c34d508c90a6feaa9c" sha1="22b6ea72db6f7f181ddecc871fb6aa2d79289d16"/>
 		<rom name="Industrial Spy - Operation Espionage (USA) (Track 02).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
 		<rom name="Industrial Spy - Operation Espionage (USA) (Track 03).bin" size="1185760800" crc="3bd9b76b" md5="e474718b020611c91697320c161888f1" sha1="cd0ae7277e1ee590c4080d73e6337f6695012a35"/>
@@ -5624,14 +5654,14 @@
 	</game>
 	<game name="Kidou Senshi Gundam - Renpou vs. Zeon &amp; DX (Japan) (Disc 1) (Kidou Senshi Gundam - Renpou vs. Zeon)" type="gd" sha1="9dd27a3ddfb2281afc8637fe778daf0528a113d0" size="160908603" crc="f74c8107" fullsha1="3ab5c536dbda7769997d035b30ca93d2330f932d" dataSha1="d37e8560e2a1a7e9c547be39354f299ad65244b7">
 		<category>Games</category>
-		<description>Kidou Senshi Gundam - Renpou vs. Zeon &amp; DX (Japan) (Disc 1) (Kidou Senshi Gundam - Renpou vs. Zeon)</description>
+		<description> DX (Japan) (Disc 1) (Kidou Senshi Gundam - Renpou vs. Zeon)</description>
 		<rom name="Kidou Senshi Gundam - Renpou vs. Zeon &amp; DX (Japan) (Disc 1) (Kidou Senshi Gundam - Renpou vs. Zeon) (Track 01).bin" size="705600" crc="c99ea23c" md5="6ab6412039bf08908148764678153112" sha1="c95625972f8e9786dcf509762d9110ec6f6da2cb"/>
 		<rom name="Kidou Senshi Gundam - Renpou vs. Zeon &amp; DX (Japan) (Disc 1) (Kidou Senshi Gundam - Renpou vs. Zeon) (Track 02).bin" size="2302608" crc="a9684d33" md5="3a23931b29da109b04737c79cbcc18fc" sha1="1312a9ce85a306e731945dc0e97a047b2a7c6187"/>
 		<rom name="Kidou Senshi Gundam - Renpou vs. Zeon &amp; DX (Japan) (Disc 1) (Kidou Senshi Gundam - Renpou vs. Zeon) (Track 03).bin" size="1185760800" crc="dcc18f1e" md5="5b8092cd7faf8954f96b3e918c840ad3" sha1="2c7f213020d716133275f04c9437b95fb38acb1a"/>
 	</game>
 	<game name="Kidou Senshi Gundam - Renpou vs. Zeon &amp; DX (Japan) (Disc 2) (Kidou Senshi Gundam - Renpou vs. Zeon DX)" type="gd" sha1="f3b171fdcb7ab12c2d5cf5588c96104ae43a2032" size="172310927" crc="234448b6" fullsha1="f28d2df6e6ff3f51cc8835356fb14dd3e8a26eed" dataSha1="0a0ca5d1a6f6d582bafab865d68233be40d2b369">
 		<category>Games</category>
-		<description>Kidou Senshi Gundam - Renpou vs. Zeon &amp; DX (Japan) (Disc 2) (Kidou Senshi Gundam - Renpou vs. Zeon DX)</description>
+		<description> DX (Japan) (Disc 2) (Kidou Senshi Gundam - Renpou vs. Zeon DX)</description>
 		<rom name="Kidou Senshi Gundam - Renpou vs. Zeon &amp; DX (Japan) (Disc 2) (Kidou Senshi Gundam - Renpou vs. Zeon DX) (Track 01).bin" size="705600" crc="6b2119ee" md5="9b33ec2974723fe58c45d6ecfe022103" sha1="c169132dc31105d62a1be30867ab851deeaf0f61"/>
 		<rom name="Kidou Senshi Gundam - Renpou vs. Zeon &amp; DX (Japan) (Disc 2) (Kidou Senshi Gundam - Renpou vs. Zeon DX) (Track 02).bin" size="2302608" crc="a9684d33" md5="3a23931b29da109b04737c79cbcc18fc" sha1="1312a9ce85a306e731945dc0e97a047b2a7c6187"/>
 		<rom name="Kidou Senshi Gundam - Renpou vs. Zeon &amp; DX (Japan) (Disc 2) (Kidou Senshi Gundam - Renpou vs. Zeon DX) (Track 03).bin" size="1185760800" crc="23f15c2e" md5="f3306ef9c874929685f0950a48cf5189" sha1="0b092be96deaa551a2984fee94f913c5b99693d0"/>
@@ -5900,7 +5930,7 @@
 	</game>
 	<game name="Lake Masters Pro - Dreamcast Plus! (Japan)" type="gd" sha1="b49f3330d0a29871bb48b1069532048985fe8733" size="321503754" crc="a6d278f6" fullsha1="2d0011e7e92a10b62e23d05c6692f41107abb5c5" dataSha1="838ef73240fb5c3cf35d3418ce1860681847656c">
 		<category>Games</category>
-		<description>Lake Masters Pro - Dreamcast Plus! (Japan)</description>
+		<description>us! (Japan)</description>
 		<rom name="Lake Masters Pro - Dreamcast Plus! (Japan) (Track 01).bin" size="705600" crc="a882c23e" md5="5d8da5483e22c1e5c0eadbccb7ac621f" sha1="c861f84b7b7bcf600af17d1123be23d5838c5954"/>
 		<rom name="Lake Masters Pro - Dreamcast Plus! (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Lake Masters Pro - Dreamcast Plus! (Japan) (Track 03).bin" size="218587824" crc="660b088a" md5="5d38dd00e95d4cc8a65ce2458be436b2" sha1="81ee716b7c06eb5698480a49f8fae9bc98a6e2bf"/>
@@ -6395,28 +6425,28 @@
 	</game>
 	<game name="Marie &amp; Elie no Atelier - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (Game Disc)" type="gd" sha1="a155b9e7d148dc0467b6837801851aff90f651a8" size="478321744" crc="8007317e" fullsha1="23811b8847ef8e3211b0d58527126765a9b543a3" dataSha1="6baabe45c14cc4d7de0da96d3a19a2a93db27f63">
 		<category>Games</category>
-		<description>Marie &amp; Elie no Atelier - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (Game Disc)</description>
+		<description> 2 (Japan) (Game Disc)</description>
 		<rom name="Marie &amp; Elie no Atelier - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (Game Disc) (Track 01).bin" size="26829264" crc="9c6e6f4e" md5="c0611ac82a3c35062e3125587c3c6c21" sha1="84aaaee78b7781e9a89357b390c6d63997997df5"/>
 		<rom name="Marie &amp; Elie no Atelier - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (Game Disc) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Marie &amp; Elie no Atelier - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (Game Disc) (Track 03).bin" size="1185760800" crc="8e62c127" md5="d713916ff2cb1a4875f35ae9881f94e1" sha1="a312077ec1d1aebeafc42e57cbf9d9d8ea0d664d"/>
 	</game>
 	<game name="Marie &amp; Elie no Atelier - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (Game Disc) (Rev A)" type="gd" sha1="f3526ccfa579da5165e502211b8789ec2a1d6dd1" size="478276939" crc="0bf1cd3e" fullsha1="0cc704548a710d39930f56701284c6458b698c93" dataSha1="0cedb320e0c2b1b077bf8619f728c05a281f6b84">
 		<category>Games</category>
-		<description>Marie &amp; Elie no Atelier - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (Game Disc) (Rev A)</description>
+		<description> 2 (Japan) (Game Disc) (Rev A)</description>
 		<rom name="Marie &amp; Elie no Atelier - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (Game Disc) (Rev A) (Track 01).bin" size="26758704" crc="86b943a6" md5="5e7ed553c412e8fc088b3cd3732c5053" sha1="d348919bb118bbb561559f7a1bbb7aec8b666977"/>
 		<rom name="Marie &amp; Elie no Atelier - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (Game Disc) (Rev A) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Marie &amp; Elie no Atelier - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (Game Disc) (Rev A) (Track 03).bin" size="1185760800" crc="82ba3f2a" md5="c36bca2e7e40ff3dea566ba0903b37f0" sha1="d9275c71a3bad7398741b9c44f3811d9f7692e50"/>
 	</game>
 	<game name="Marie &amp; Elie no Atelier - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (Omake Disc)" type="gd" sha1="361c8123a93a7bf8da790fc41029f86f61e9806e" size="225257558" crc="94ad25e4" fullsha1="1881c8da90427a24ed68fb90250327cc9810d3c5" dataSha1="d805499758473414b372425f6f39469b4be67be1">
 		<category>Games</category>
-		<description>Marie &amp; Elie no Atelier - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (Omake Disc)</description>
+		<description> 2 (Japan) (Omake Disc)</description>
 		<rom name="Marie &amp; Elie no Atelier - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (Omake Disc) (Track 01).bin" size="29510544" crc="1ef18a30" md5="a874415037d02aeaab93b12eb09fd88b" sha1="7ae34fea5279934fe09e953456d3e39335f9d86c"/>
 		<rom name="Marie &amp; Elie no Atelier - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (Omake Disc) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Marie &amp; Elie no Atelier - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (Omake Disc) (Track 03).bin" size="1185760800" crc="0c584568" md5="5e8c7946b5c6d082bab4711bac33e407" sha1="15fd9148f066a79c5a141ba51194827501a595a4"/>
 	</game>
 	<game name="Marie &amp; Elie no Atelier - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (Omake Disc) (Rev A)" type="gd" sha1="9c03b7c5189302eaebd48056c0c37121f4073e64" size="225214413" crc="37f81b00" fullsha1="291c861fffcb2e9458b99c4dd690f16b0a1c9fae" dataSha1="f63eebb777554e17fcfdb6366309c276bba49416">
 		<category>Games</category>
-		<description>Marie &amp; Elie no Atelier - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (Omake Disc) (Rev A)</description>
+		<description>e Disc) (Rev A)</description>
 		<rom name="Marie &amp; Elie no Atelier - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (Omake Disc) (Rev A) (Track 01).bin" size="29439984" crc="d15381ae" md5="144e9100438afca5221d325ffa0a6c61" sha1="23bf172c5eab288b94871a04aaa455870b4262de"/>
 		<rom name="Marie &amp; Elie no Atelier - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (Omake Disc) (Rev A) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Marie &amp; Elie no Atelier - Salburg no Renkinjutsushi 1 &amp; 2 (Japan) (Omake Disc) (Rev A) (Track 03).bin" size="1185760800" crc="b1f20f08" md5="33cef9adfc101b8afab662f70acfcda9" sha1="64d461f5b4638e199aae8403551764d8e32576c9"/>
@@ -6543,14 +6573,14 @@
 	</game>
 	<game name="Marvel vs. Capcom 2 - New Age of Heroes (Japan) (Tentou Taikenban)" type="gd" sha1="487cba31baf071180c3b8b3878c265156a6f0b90" size="128299103" crc="6d071124" fullsha1="6ae2066fbbcdd1721ab9239283b184394976459d" dataSha1="bc8154034bac805f44169656f917a745ff1e022c">
 		<category>Games</category>
-		<description>Marvel vs. Capcom 2 - New Age of Heroes (Japan) (Tentou Taikenban)</description>
+		<description>rvel vs. Capcom 2 - New Age of Heroes (Japan) (Tentou Taikenban)</description>
 		<rom name="Marvel vs. Capcom 2 - New Age of Heroes (Japan) (Tentou Taikenban) (Track 01).bin" size="1058400" crc="53936f36" md5="0b7e7cf5b50f56d59ad035e6e3f947c1" sha1="708ac21e0cef31843dcafa0b07e4c6c9d5bf575d"/>
 		<rom name="Marvel vs. Capcom 2 - New Age of Heroes (Japan) (Tentou Taikenban) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Marvel vs. Capcom 2 - New Age of Heroes (Japan) (Tentou Taikenban) (Track 03).bin" size="1185760800" crc="1fc0327c" md5="0df5b55d3d8ef194e113fa208a6a97a4" sha1="2636b137b960239455b995121e1de725c59a7e6b"/>
 	</game>
 	<game name="Mat Hoffman's Pro BMX (USA)" type="gd" sha1="bb6d5501db52eeadfab6d09f2fa81ccb9da7ed11" size="760701882" crc="5de370b6" fullsha1="3dc62c2a811c812b2479c7bef7c06267453fc5bb" dataSha1="d3249eda7c201d9f7d80eaa2d485684c9be82b2a">
 		<category>Games</category>
-		<description>Mat Hoffman's Pro BMX (USA)</description>
+		<description>fman's Pro BMX (USA)</description>
 		<rom name="Mat Hoffman's Pro BMX (USA) (Track 01).bin" size="705600" crc="1f101ad6" md5="17934fc28c011a011c98abbb6e08a2f2" sha1="a0e32c088816f48b6cc0d62a8ac6cd9aa00b5849"/>
 		<rom name="Mat Hoffman's Pro BMX (USA) (Track 02).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
 		<rom name="Mat Hoffman's Pro BMX (USA) (Track 03).bin" size="1182625584" crc="b1019e55" md5="db329cdcc2f2ff9984b790785cfdb965" sha1="dfd548b9d1f586148f6ac095d697ceda6ba484f5"/>
@@ -6663,7 +6693,7 @@
 	</game>
 	<game name="Midway's Greatest Arcade Hits - Volume 2 (USA)" type="gd" sha1="25d44ba075ca7c00e5e756bcf316207aae53b325" size="170753786" crc="70420ea4" fullsha1="952dde848b95a478060d6d38973bbb3d8261f500" dataSha1="e4c9afa3410b830d447b7c018cb1e03b2101613f">
 		<category>Games</category>
-		<description>Midway's Greatest Arcade Hits - Volume 2 (USA)</description>
+		<description>y's Greatest Arcade Hits - Volume 2 (USA)</description>
 		<rom name="Midway's Greatest Arcade Hits - Volume 2 (USA) (Track 01).bin" size="1425312" crc="109933fa" md5="2a503092463c362493fda1610ff5e2f6" sha1="4630f719428294410b32d0e89ad3f9e1598e9510"/>
 		<rom name="Midway's Greatest Arcade Hits - Volume 2 (USA) (Track 02).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
 		<rom name="Midway's Greatest Arcade Hits - Volume 2 (USA) (Track 03).bin" size="791607936" crc="1393fdf6" md5="19b3dc333d2a0b0c6f2f94698987b35b" sha1="edf9f206cd4afd497af487e420df390575f6606e"/>
@@ -6752,7 +6782,7 @@
 	</game>
 	<game name="Missing Parts 2 - The Tantei Stories (Japan)" type="gd" sha1="5bd51db48665a047f46f1dd62f6ffc4c98d4b8dc" size="692863791" crc="b300e66c" fullsha1="db233d54934a33c84cbce6ade03f04f029a8eb36" dataSha1="fdc33c45ebe0705204900c3de68e1b305377ad4a">
 		<category>Games</category>
-		<description>Missing Parts 2 - The Tantei Stories (Japan)</description>
+		<description>g Parts 2 - The Tantei Stories (Japan)</description>
 		<rom name="Missing Parts 2 - The Tantei Stories (Japan) (Track 01).bin" size="1058400" crc="6cc5cb63" md5="62dd17048536a8e66b3544b10c7f9c9b" sha1="9bbd6c3f4e91076c2114ecb149542f48d71a62b2"/>
 		<rom name="Missing Parts 2 - The Tantei Stories (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Missing Parts 2 - The Tantei Stories (Japan) (Track 03).bin" size="1185760800" crc="322ea483" md5="8142f2c52efec1d583d4683b034f859c" sha1="f3daad00a0f34f385f0db908dca12a2b28bc18e5"/>
@@ -7048,7 +7078,7 @@
 	</game>
 	<game name="Motto Pro Yakyuu Team o Tsukurou! (Japan) (Rev A)" type="gd" sha1="d6d7ecc2f895973d64f3e53a63e511492e3abf15" size="437509147" crc="1dbc15bd" fullsha1="2a688bf4385e56b32b345b76efa10caa8237678e" dataSha1="03e219f4233646e10352e55de8dc3a8e12b69f0a">
 		<category>Games</category>
-		<description>Motto Pro Yakyuu Team o Tsukurou! (Japan) (Rev A)</description>
+		<description>Rev A)</description>
 		<rom name="Motto Pro Yakyuu Team o Tsukurou! (Japan) (Rev A) (Track 01).bin" size="1470000" crc="c5c73441" md5="af64d905ca32a2f9b9bbb648080c6639" sha1="d8d3dc59c93560d391e4d984c114e2d1a4e77b75"/>
 		<rom name="Motto Pro Yakyuu Team o Tsukurou! (Japan) (Rev A) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Motto Pro Yakyuu Team o Tsukurou! (Japan) (Rev A) (Track 03).bin" size="1140564768" crc="b4cf0b07" md5="3f184cb459234fba42e070db5e5d0344" sha1="ea5604238d44cf5ea9535e3c96931db0f4eaa0a1"/>
@@ -7286,7 +7316,7 @@
 	</game>
 	<game name="NBA Hoopz (Europe) (En,Fr,De)" type="gd" sha1="3d7b9925ddbbcdd3de51f48724e3e985e9427de7" size="302949343" crc="b4feb5d4" fullsha1="5362ec8a69b028b6e54781b51331157e2bcae5ce" dataSha1="99da08c7627e489c05a4a38582e8298edab1a478">
 		<category>Games</category>
-		<description>NBA Hoopz (Europe) (En,Fr,De)</description>
+		<description>Hoopz (Europe) (En,Fr,De)</description>
 		<rom name="NBA Hoopz (Europe) (En,Fr,De) (Track 01).bin" size="1425312" crc="905e215c" md5="e0eebca1c3b639c827319ddeb02614cf" sha1="3955649ec881a3314ba00c9489ec62f8d85e71b4"/>
 		<rom name="NBA Hoopz (Europe) (En,Fr,De) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="NBA Hoopz (Europe) (En,Fr,De) (Track 03).bin" size="169449840" crc="64abfd85" md5="4e8f771fefb79716041e3f6fa01b91f8" sha1="87108d425063c86a3d0677d40eba1e3a027808f9"/>
@@ -7547,7 +7577,7 @@
 	</game>
 	<game name="Neppachi III - CR Dokonjou Gaeru 2 - CR Dokonjou Gaeru H (Japan)" type="gd" sha1="2b0a32a8b1828cb66fdace8b0162439148134af7" size="274116617" crc="0a66c4d5" fullsha1="ae167a3e75c3e691619ae3e2edf636c590ab68fa" dataSha1="a07060447b4a87764ec48501bdf20695332a8529">
 		<category>Games</category>
-		<description>Neppachi III - CR Dokonjou Gaeru 2 - CR Dokonjou Gaeru H (Japan)</description>
+		<description> (Japan)</description>
 		<rom name="Neppachi III - CR Dokonjou Gaeru 2 - CR Dokonjou Gaeru H (Japan) (Track 01).bin" size="1992144" crc="5ada914b" md5="ebddc7af8461b2f109819f611b8adbbb" sha1="8c1642722184856047dd26b382204d77b21d1e4b"/>
 		<rom name="Neppachi III - CR Dokonjou Gaeru 2 - CR Dokonjou Gaeru H (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Neppachi III - CR Dokonjou Gaeru 2 - CR Dokonjou Gaeru H (Japan) (Track 03).bin" size="1185760800" crc="a84ae5c0" md5="1cf8740bcbd2c147349feab7dc674e13" sha1="40ea9ffb6afe85294c331fcc360e8873a9bb9d78"/>
@@ -7958,7 +7988,7 @@
 	</game>
 	<game name="Nomad Soul, The (France) (En,Fr,De,Es,It)" type="gd" sha1="52a944c96ca309ca3645351589fbfa43a0bd26d9" size="626921538" crc="7b710240" fullsha1="8625d998a43c81e45053157b9000bc0d80e5977b" dataSha1="0a329d8c4394193ce519b79b3820cedc859d0022">
 		<category>Games</category>
-		<description>Nomad Soul, The (France) (En,Fr,De,Es,It)</description>
+		<description>n,Fr,De,Es,It)</description>
 		<rom name="Nomad Soul, The (France) (En,Fr,De,Es,It) (Track 01).bin" size="4929792" crc="29545a2e" md5="a2f35ee6d803bda4bb1f482097e76717" sha1="a949a70e6ca6ce4ea376837b093a979d13664949"/>
 		<rom name="Nomad Soul, The (France) (En,Fr,De,Es,It) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Nomad Soul, The (France) (En,Fr,De,Es,It) (Track 03).bin" size="767716320" crc="694e16b0" md5="bf483f7fe21e4688a7f54e05226fc459" sha1="a8cc5aae194bbc0b8d501d1715f6968935f7f370"/>
@@ -8128,7 +8158,7 @@
 	</game>
 	<game name="Omikron - The Nomad Soul (USA) (En,Fr,De,Es,It)" type="gd" sha1="6177e887e5bc2b3a34162b814ba39f81180db9e1" size="616826337" crc="90e1a536" fullsha1="5a8e4b25c45b76525e4a99dd756d4c67154b06ca" dataSha1="b5861ee2bdc3e85525234571311a9af29ea72381">
 		<category>Games</category>
-		<description>Omikron - The Nomad Soul (USA) (En,Fr,De,Es,It)</description>
+		<description>(USA) (En,Fr,De,Es,It)</description>
 		<rom name="Omikron - The Nomad Soul (USA) (En,Fr,De,Es,It) (Track 01).bin" size="4929792" crc="e382b9d2" md5="101e5d1bb3f4000f34355f5653c81387" sha1="7c3676a93608129f91548fcc434f45d0a5d5f070"/>
 		<rom name="Omikron - The Nomad Soul (USA) (En,Fr,De,Es,It) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Omikron - The Nomad Soul (USA) (En,Fr,De,Es,It) (Track 03).bin" size="767713968" crc="1ff722c2" md5="d104e0aded07edcede81e57191b38dbb" sha1="84a99367e0af239133362e012fdc08322c54fb4b"/>
@@ -8245,7 +8275,7 @@
 	</game>
 	<game name="Pachi-Slot Teiou - Dream Slot - Olympia SP (Japan)" type="gd" sha1="46a93bb1e1c8f6c67cf43f454ab79a3f7fb84f57" size="37192110" crc="8767f251" fullsha1="8f7e54371a9061eec85133e1a9fe54ad645ec104" dataSha1="8807280da5b010c09d1b55af5678ed313a8e05bb">
 		<category>Games</category>
-		<description>Pachi-Slot Teiou - Dream Slot - Olympia SP (Japan)</description>
+		<description>SP (Japan)</description>
 		<rom name="Pachi-Slot Teiou - Dream Slot - Olympia SP (Japan) (Track 01).bin" size="705600" crc="eefbb0e2" md5="f8a7de7f7b0a13cb76977bb267fc247b" sha1="f57520ed48fffe38b032d5ba9b1d33f7eb4ac3dc"/>
 		<rom name="Pachi-Slot Teiou - Dream Slot - Olympia SP (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Pachi-Slot Teiou - Dream Slot - Olympia SP (Japan) (Track 03).bin" size="1185760800" crc="a6489316" md5="003e99d297c19dc7d6e9a1ea0f2d9ebe" sha1="a3b0f6a57f3044ca50b15998bce3fcd119e5ebd5"/>
@@ -8560,7 +8590,7 @@
 	</game>
 	<game name="Phantasy Star Online (Japan) (En,Ja,Fr,De,Es)" type="gd" sha1="0363fcd8a02a09424f2a43c32569e1b6d467a5fd" size="605112807" crc="849a76a5" fullsha1="cb963f624981bd506a3ac369123b8f3000ca312c" dataSha1="51f789ae6e5dc71bad8564fc3c347944511d6fbb">
 		<category>Games</category>
-		<description>Phantasy Star Online (Japan) (En,Ja,Fr,De,Es)</description>
+		<description>Star Online (Japan) (En,Ja,Fr,De,Es)</description>
 		<rom name="Phantasy Star Online (Japan) (En,Ja,Fr,De,Es) (Track 01).bin" size="38057712" crc="d960f187" md5="74d41db38b392d3a9cb376f61d8be3c2" sha1="8a750a1decd8cc5dd292124a79de8a73674c0de6"/>
 		<rom name="Phantasy Star Online (Japan) (En,Ja,Fr,De,Es) (Track 02).bin" size="2302608" crc="a9684d33" md5="3a23931b29da109b04737c79cbcc18fc" sha1="1312a9ce85a306e731945dc0e97a047b2a7c6187"/>
 		<rom name="Phantasy Star Online (Japan) (En,Ja,Fr,De,Es) (Track 03).bin" size="1185760800" crc="e113cdb3" md5="81a50041594a289595e96a7358f958aa" sha1="d505fc0ba3aabb93767f3263ab915d3f5a4c66c4"/>
@@ -8610,7 +8640,7 @@
 	</game>
 	<game name="Pia Carrot e Youkoso!! 2.5 (Japan) (Disc 1) (Pia Carrot e Youkoso!! 2)" type="gd" sha1="d6e88e42a135c7878186df3a926bda58ddece469" size="839446571" crc="15e1b7c1" fullsha1="a0bdea1533158a24d9338561988fea1cf21df0c5" dataSha1="83d14288429e6190108c011adbfaf159e356f573">
 		<category>Games</category>
-		<description>Pia Carrot e Youkoso!! 2.5 (Japan) (Disc 1) (Pia Carrot e Youkoso!! 2)</description>
+		<description>Disc 1) (Pia Carrot e Youkoso!! 2)</description>
 		<rom name="Pia Carrot e Youkoso!! 2.5 (Japan) (Disc 1) (Pia Carrot e Youkoso!! 2) (Track 01).bin" size="6183408" crc="f20144d2" md5="4701b68c98bdad3391ee2ab88506435a" sha1="655e30eefdf718040b38ab1670f2dd5928180938"/>
 		<rom name="Pia Carrot e Youkoso!! 2.5 (Japan) (Disc 1) (Pia Carrot e Youkoso!! 2) (Track 02).bin" size="2302608" crc="a9684d33" md5="3a23931b29da109b04737c79cbcc18fc" sha1="1312a9ce85a306e731945dc0e97a047b2a7c6187"/>
 		<rom name="Pia Carrot e Youkoso!! 2.5 (Japan) (Disc 1) (Pia Carrot e Youkoso!! 2) (Track 03).bin" size="187964784" crc="2e3680d0" md5="40d119ff3b0051cec5b471c4b522b67a" sha1="6731c500eb7c3258e33d1bfa0cc3621926378818"/>
@@ -8650,7 +8680,7 @@
 	</game>
 	<game name="Planet DC Cheats Band 1 fuer Dreamcast (Germany) (Unl)" type="gd" sha1="1584e2c13c52d89120442a170878fd7504cde12a" size="1769856" crc="dd3ecb41" fullsha1="eabac77dc9fe63012575f0267eeb15b9b9a37dfd" dataSha1="9747d78462bb374bd39190a03520db93f0fac2fa">
 		<category>Games</category>
-		<description>Planet DC Cheats Band 1 fuer Dreamcast (Germany) (Unl)</description>
+		<description>and 1 fuer Dreamcast (Germany) (Unl)</description>
 		<rom name="Planet DC Cheats Band 1 fuer Dreamcast (Germany) (Unl) (Track 01).bin" size="5729472" crc="dcc21abe" md5="456b46fb694d83aaa9da3595efc52277" sha1="743992a6d3db58327ccfbbeed73578734ef0970c"/>
 		<rom name="Planet DC Cheats Band 1 fuer Dreamcast (Germany) (Unl) (Track 02).bin" size="2972928" crc="9cb2676f" md5="eb4147e2acf91665eb6f112f99cddc82" sha1="e8166112906813ebb8f32f0d8bc706797fc57e79"/>
 	</game>
@@ -8745,7 +8775,7 @@
 	</game>
 	<game name="Plasma Sword - Nightmare of Bilstein (USA)" type="gd" sha1="231f185a331f68cd49dcbacd728400180a6bce31" size="675435419" crc="738f6474" fullsha1="8b7b0cb2814bf246f9fb34a9abbcfef7e6e2dc7a" dataSha1="65adf150e030d2b3e01dd6d2cbcc80dc28e14e9b">
 		<category>Games</category>
-		<description>Plasma Sword - Nightmare of Bilstein (USA)</description>
+		<description>USA)</description>
 		<rom name="Plasma Sword - Nightmare of Bilstein (USA) (Track 01).bin" size="1232448" crc="4314a10c" md5="b212195cd1fa6025a4320c202d62f9ca" sha1="477e284882f5e142258deb062757cebdeb7d5a14"/>
 		<rom name="Plasma Sword - Nightmare of Bilstein (USA) (Track 02).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
 		<rom name="Plasma Sword - Nightmare of Bilstein (USA) (Track 03).bin" size="33645360" crc="3868ad06" md5="8d54cf07905c336e335afd7e2c8defed" sha1="75aaec62d71aa060db197e21b9b76aca506b1bfe"/>
@@ -8843,7 +8873,7 @@
 	</game>
 	<game name="Pop'n Music 3 - Append Disc (Japan)" type="gd" sha1="daf8dbcaa702a780d1f5c28e3ac657d644aff739" size="199945723" crc="daddb116" fullsha1="93b0dacb1678cb78ed040989422a5409d9c0627a" dataSha1="f67a2b7e2f49d7cdc89edf0c88859c93340e2925">
 		<category>Games</category>
-		<description>Pop'n Music 3 - Append Disc (Japan)</description>
+		<description>p'n Music 3 - Append Disc (Japan)</description>
 		<rom name="Pop'n Music 3 - Append Disc (Japan) (Track 01).bin" size="1058400" crc="2e02d88f" md5="66dfd28ab1f354bba9ce0b15fb5eef6a" sha1="d3620918b3fb819c38349899915acadfbcc563c3"/>
 		<rom name="Pop'n Music 3 - Append Disc (Japan) (Track 02).bin" size="6924288" crc="59b0718f" md5="cd9009cddde67962cacfd21f729a3894" sha1="820ac3183947074d3cea3f1dd2feaaeb10c67384"/>
 		<rom name="Pop'n Music 3 - Append Disc (Japan) (Track 03).bin" size="1185760800" crc="d44de701" md5="06e8e03bb98bf6be4a91933d71a09791" sha1="f98eda9b5692a8c77b7b220a2a1060d4dc05cb24"/>
@@ -8866,21 +8896,21 @@
 	</game>
 	<game name="Power Smash - Sega Professional Tennis (Japan)" type="gd" sha1="7e94dcfe44830d1807aa5bdd2a4350fac653d717" size="167962237" crc="151e8594" fullsha1="b83027d8287a87a8b587b4923319fdf6e7a85513" dataSha1="42577f3025e8237d62478e0e14429aeff980cc31">
 		<category>Games</category>
-		<description>Power Smash - Sega Professional Tennis (Japan)</description>
+		<description>nal Tennis (Japan)</description>
 		<rom name="Power Smash - Sega Professional Tennis (Japan) (Track 01).bin" size="705600" crc="f27fc6fc" md5="a67899752e9b4bd1a4b695ba1a3887b9" sha1="36b35643f3a24738934a643d6c4e4c3066f7ccee"/>
 		<rom name="Power Smash - Sega Professional Tennis (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Power Smash - Sega Professional Tennis (Japan) (Track 03).bin" size="1185760800" crc="e586b77c" md5="250848c354af5c79ff8a74ea76aab807" sha1="ac9294df295f74ae7157f13f4d88bd01a2860210"/>
 	</game>
 	<game name="Power Smash - Sega Professional Tennis (Japan) (Demo 1)" type="gd" sha1="96408c6fa366a09567360b6152c9c31fba6e3908" size="167976379" crc="c01d2881" fullsha1="ed89b1cfe4b19d745f7217d28e01f63aafb6da4f" dataSha1="35b2258ff8c11ced34dc5eb134836dafa8a19eec">
 		<category>Games</category>
-		<description>Power Smash - Sega Professional Tennis (Japan) (Demo 1)</description>
+		<description>ennis (Japan) (Demo 1)</description>
 		<rom name="Power Smash - Sega Professional Tennis (Japan) (Demo 1) (Track 01).bin" size="1058400" crc="132bdf91" md5="d974a31c4b0fddd0b2c39d909b449eea" sha1="ee9a0bf2b4841ec461a96abeb085b6fce987a36d"/>
 		<rom name="Power Smash - Sega Professional Tennis (Japan) (Demo 1) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Power Smash - Sega Professional Tennis (Japan) (Demo 1) (Track 03).bin" size="1185760800" crc="6e796d29" md5="c12f12d4f2cb767e74f6bcae6424a61b" sha1="079d2049efc944d800b890717273b6cbc3fa102b"/>
 	</game>
 	<game name="Power Smash - Sega Professional Tennis (Japan) (Demo 2)" type="gd" sha1="68236509fb5793364b720a35d77d93e509974a73" size="167963577" crc="43b492ab" fullsha1="28fbbf12c3118a7b3684ea8f6e6e8dc2907f957e" dataSha1="1a6823cfa86de5337ac242bb797491959329fb83">
 		<category>Games</category>
-		<description>Power Smash - Sega Professional Tennis (Japan) (Demo 2)</description>
+		<description>)</description>
 		<rom name="Power Smash - Sega Professional Tennis (Japan) (Demo 2) (Track 01).bin" size="1058400" crc="d7a41a26" md5="f3d144b6212b2285300f3a9c11e09479" sha1="c3ffc0f539e149622695b31432537947922ef6ae"/>
 		<rom name="Power Smash - Sega Professional Tennis (Japan) (Demo 2) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Power Smash - Sega Professional Tennis (Japan) (Demo 2) (Track 03).bin" size="1185760800" crc="4b1084b4" md5="c95da27faf3054e21914d626f53ebd47" sha1="ce4e26090fb5dc6066dacf61ab0ff9d38663a654"/>
@@ -9071,7 +9101,7 @@
 	</game>
 	<game name="Pro Yakyuu Team o Tsukurou! &amp; Asobou! (Japan)" type="gd" sha1="8ab1247bc13a26f955da9083cfe8b14ab9614084" size="500894811" crc="110f1f2a" fullsha1="abd797bd1f675112ea2097976fd5255f0cda8efc" dataSha1="6a1e0aa979791cced42a0f41363eae08dcc5d2d6">
 		<category>Games</category>
-		<description>Pro Yakyuu Team o Tsukurou! &amp; Asobou! (Japan)</description>
+		<description> Asobou! (Japan)</description>
 		<rom name="Pro Yakyuu Team o Tsukurou! &amp; Asobou! (Japan) (Track 01).bin" size="1470000" crc="10d34b6d" md5="b8df3a4a843080cfa356a5cce1887486" sha1="1b277a274771014fdaf1d9e1d946e59f2fff137b"/>
 		<rom name="Pro Yakyuu Team o Tsukurou! &amp; Asobou! (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Pro Yakyuu Team o Tsukurou! &amp; Asobou! (Japan) (Track 03).bin" size="1141079856" crc="b1094583" md5="d24d839e719cb4ef58d94352bb7854c9" sha1="2567eb0468568fd805aa07d79060ebe6e335197e"/>
@@ -9218,7 +9248,7 @@
 	</game>
 	<game name="Puzzle Bobble 4 (Japan)" type="gd" sha1="c94caf405835d49d73f9490335bdbf4bd32f8861" size="233965187" crc="74268f2d" fullsha1="7c5f5361241ecd093f386774227b28cc45242c9a" dataSha1="779910f712ba936c2197feecb75a39bde82c80f6">
 		<category>Games</category>
-		<description>Puzzle Bobble 4 (Japan)</description>
+		<description>e Bobble 4 (Japan)</description>
 		<rom name="Puzzle Bobble 4 (Japan) (Track 01).bin" size="5299056" crc="6d51dca3" md5="6a0fc3958d421b42313ff977987e99e6" sha1="c27ec072e72bec99a45ba14f76e7deefc157d404"/>
 		<rom name="Puzzle Bobble 4 (Japan) (Track 02).bin" size="2215584" crc="7c4c093f" md5="d30b8f1b4b4bcde1f1af459eff9b4f56" sha1="76d884c59c6198a54bd0daf13d80241a659f1354"/>
 		<rom name="Puzzle Bobble 4 (Japan) (Track 03).bin" size="765630096" crc="10aff900" md5="9c793487734daa79ef663269e3433451" sha1="667f5ded7284ce9a837de1704685ae50398fb003"/>
@@ -9343,7 +9373,7 @@
 	</game>
 	<game name="Racing Simulation - Monaco Grand Prix (Europe) (En,Fr,De,Es,It)" type="gd" sha1="28d60c278d8e9be9c8e44912a6c8d1f2645a392d" size="657540246" crc="b8ab2a86" fullsha1="e55b2ec6042da5d05191c2463814c484ea296970" dataSha1="f5b7b864c7cecb68f4de739fdc9a1cb2a84541f3">
 		<category>Games</category>
-		<description>Racing Simulation - Monaco Grand Prix (Europe) (En,Fr,De,Es,It)</description>
+		<description>ion - Monaco Grand Prix (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Racing Simulation - Monaco Grand Prix (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="16075920" crc="5d14bf29" md5="39bb31f84f47a1537b0ed119505f7e2e" sha1="b0267ca60e2d5dd9a8d4862b542bdf88f9788d44"/>
 		<rom name="Racing Simulation - Monaco Grand Prix (Europe) (En,Fr,De,Es,It) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Racing Simulation - Monaco Grand Prix (Europe) (En,Fr,De,Es,It) (Track 03).bin" size="252978768" crc="1915afb7" md5="aea582eaced22d002d9049512b4c64f3" sha1="225e9acd7eaf45a2682fce59602a9c2ba0e4bfb1"/>
@@ -9604,7 +9634,7 @@
 	</game>
 	<game name="Ready 2 Rumble Boxing (USA) (RE)" type="gd" sha1="c4722ab0f5a286ca3aa821216754c0d5bfa14b59" size="377162934" crc="1803fe13" fullsha1="b5c95fe239af04b99d0e62d1d243436c550caa15" dataSha1="96756f85d83cf26b8ef3995a4d49f3964bcb112b">
 		<category>Games</category>
-		<description>Ready 2 Rumble Boxing (USA) (RE)</description>
+		<description>ing (USA) (RE)</description>
 		<rom name="Ready 2 Rumble Boxing (USA) (RE) (Track 01).bin" size="21626640" crc="82f2a6a0" md5="1d1cd38c5c2ab6f72da32ac34b2e6f15" sha1="e735169ccab3d92d4d167590640b42ec626a05b9"/>
 		<rom name="Ready 2 Rumble Boxing (USA) (RE) (Track 02).bin" size="1589952" crc="a0642833" md5="a5958859c1e0fc3a61edfb3d3245d890" sha1="cf5d80a70009fd6502857f12bee0690619f121ab"/>
 		<rom name="Ready 2 Rumble Boxing (USA) (RE) (Track 03).bin" size="569772000" crc="c7a89a27" md5="533e7c8c566a56a39f8cebbec38c6e81" sha1="ab8d679bc780464a5c83ffe56447e38a73a95715"/>
@@ -9624,7 +9654,7 @@
 	</game>
 	<game name="Ready 2 Rumble Boxing - Round 2 (Europe) (En,Fr,De)" type="gd" sha1="22e0476688a89e8c25a73c69dbf9f60a917b013b" size="791329246" crc="d0d37aa4" fullsha1="30534f8cb4c9f5686cef9a7c2bc993a73cca0caf" dataSha1="dea61d9861efff0c6a948746ad645d44a3f7c3d0">
 		<category>Games</category>
-		<description>Ready 2 Rumble Boxing - Round 2 (Europe) (En,Fr,De)</description>
+		<description>Rumble Boxing - Round 2 (Europe) (En,Fr,De)</description>
 		<rom name="Ready 2 Rumble Boxing - Round 2 (Europe) (En,Fr,De) (Track 01).bin" size="1225392" crc="068144d8" md5="667c6d1b8642e2f9d8a0e5ac7d14f06b" sha1="a6c85dc3ba535f508fed4887a8de406f628ceabf"/>
 		<rom name="Ready 2 Rumble Boxing - Round 2 (Europe) (En,Fr,De) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Ready 2 Rumble Boxing - Round 2 (Europe) (En,Fr,De) (Track 03).bin" size="64012032" crc="fc4d60f9" md5="f6ec6255c7b03f1fa74984f78981bb3d" sha1="ebf20d546c4d366d608e6c9d8801d16f94a7c439"/>
@@ -9850,7 +9880,7 @@
 	</game>
 	<game name="Resident Evil - Code - Veronica (Europe) (Disc 1)" type="gd" sha1="c767fc2c02ced59f3b3a6dc289d51937e87d6b34" size="598315759" crc="a2c1b561" fullsha1="d2bd440a1e018d94aa884d84158c1c530c172686" dataSha1="a4f394e4107e1cd6940867be7bf4b314d74318c7">
 		<category>Games</category>
-		<description>Resident Evil - Code - Veronica (Europe) (Disc 1)</description>
+		<description>nica (Europe) (Disc 1)</description>
 		<rom name="Resident Evil - Code - Veronica (Europe) (Disc 1) (Track 01).bin" size="705600" crc="08a2ed0e" md5="276f33dc4af23483ca7599db1d614fae" sha1="c031596f44de0da615763b0d036424e25c7582d9"/>
 		<rom name="Resident Evil - Code - Veronica (Europe) (Disc 1) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Resident Evil - Code - Veronica (Europe) (Disc 1) (Track 03).bin" size="1185760800" crc="70076b06" md5="ec3c04635963f75a5f56773a7848e494" sha1="9db71ba8886a18d4bfeaba02b645dff80bd15749"/>
@@ -9923,7 +9953,7 @@
 	</game>
 	<game name="Resident Evil 2 (Europe) (En,Fr) (Disc 2)" type="gd" sha1="349dea122af0a77545ee32d72afaac537f75ebc1" size="780497066" crc="42dd193e" fullsha1="b492cfb63054ac17f6499cb15c67285aa2af7300" dataSha1="f946fe19b8e9e448280e74a85dc4b8f018c7fc14">
 		<category>Games</category>
-		<description>Resident Evil 2 (Europe) (En,Fr) (Disc 2)</description>
+		<description>e) (En,Fr) (Disc 2)</description>
 		<rom name="Resident Evil 2 (Europe) (En,Fr) (Disc 2) (Track 01).bin" size="1928640" crc="2dabbc09" md5="e1cf2f740ffce3956b27dfc896105b21" sha1="87b0eb5a736346b5e7253cae0ca5376c9ce962fa"/>
 		<rom name="Resident Evil 2 (Europe) (En,Fr) (Disc 2) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Resident Evil 2 (Europe) (En,Fr) (Disc 2) (Track 03).bin" size="252654192" crc="ee6f55f3" md5="9faf09eced2cb85028fd7b17db06b321" sha1="cf6da8815008e19623897fc0df02cb09c6ef5e67"/>
@@ -9967,7 +9997,7 @@
 	</game>
 	<game name="Resident Evil 3 - Nemesis (Germany)" type="gd" sha1="b18a2d210457c063386062583fc959c796eb941d" size="586893882" crc="4acdc2c3" fullsha1="7326ac705b8ea173464bacf7af36e2d2c9f4b42b" dataSha1="cca21a898e5e4faffe695b522ebc983a14970715">
 		<category>Games</category>
-		<description>Resident Evil 3 - Nemesis (Germany)</description>
+		<description>y)</description>
 		<rom name="Resident Evil 3 - Nemesis (Germany) (Track 01).bin" size="1232448" crc="8002108a" md5="9e5e872402b300eb263bbc7f40c47301" sha1="4b3422e585429fe7fe8fcc7f0932fa660aa28f8a"/>
 		<rom name="Resident Evil 3 - Nemesis (Germany) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Resident Evil 3 - Nemesis (Germany) (Track 03).bin" size="1185760800" crc="bbbc40b9" md5="5808bbeb48128ad5d42edb084813b5b9" sha1="bd38553ceba8f725546d096850057ddf5e07503c"/>
@@ -10174,7 +10204,7 @@
 	</game>
 	<game name="Saka Tsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A)" type="gd" sha1="4952d0df4caad01c96140a6c42bf46db6e69e1b2" size="734759363" crc="abb9511b" fullsha1="5937d5f483f61a12382390006eb544d4f22f6b96" dataSha1="935a3d60e3440aa4be8b20e0bfb9118ff4a79aca">
 		<category>Games</category>
-		<description>Saka Tsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A)</description>
+		<description>-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A)</description>
 		<rom name="Saka Tsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A) (Track 01).bin" size="5597760" crc="a72f1eb3" md5="036aae93be15c465fa529471def6c721" sha1="c36f47186a280e0f084dcf526df60040aeeb9613"/>
 		<rom name="Saka Tsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Saka Tsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A) (Track 03).bin" size="19737984" crc="63777ef4" md5="67a996b49ce2320642341c35db5643bc" sha1="597a1a1610471f79eb82712d6c628b27137a7d28"/>
@@ -10192,7 +10222,7 @@
 	</game>
 	<game name="Sakura Momoko Gekijou - Coji-Coji (Japan)" type="gd" sha1="c1113ca815d4f9892d929070401c97e9c3d11db0" size="827785743" crc="936bb58b" fullsha1="7187d7e5d341fdf4af8ba32b3887b7cf63c3671d" dataSha1="0af2b627fdef6fa3635a7fdd13df188c13391c31">
 		<category>Games</category>
-		<description>Sakura Momoko Gekijou - Coji-Coji (Japan)</description>
+		<description>(Japan)</description>
 		<rom name="Sakura Momoko Gekijou - Coji-Coji (Japan) (Track 01).bin" size="705600" crc="03a38178" md5="0cabb3c1392cee96bce5020b48340f8e" sha1="a4ad212d546b0b3c34ae09394bb412f851a3f531"/>
 		<rom name="Sakura Momoko Gekijou - Coji-Coji (Japan) (Track 02).bin" size="2617776" crc="9290c0ff" md5="9741b41b21b5de6afb2f8c4241202968" sha1="c5169ed1db6580cf1f15d4a8b9ff976fef30d85d"/>
 		<rom name="Sakura Momoko Gekijou - Coji-Coji (Japan) (Track 03).bin" size="1185760800" crc="553f2c14" md5="963e9d9a31f9f4cb5a86188ead50690f" sha1="dd1d8cee1d683f41a29af3cc85cff74bb9412a66"/>
@@ -10313,14 +10343,14 @@
 	</game>
 	<game name="Sakura Taisen 3 - Paris wa Moeteiru ka - Drama Download Disc (Japan)" type="gd" sha1="6e75a88bed94ae31600eec8603e28dfc38139d85" size="54881291" crc="e971ce2b" fullsha1="9cd5dc285560f15ed0341ffa225b965692251ad9" dataSha1="39be4766cfbb4f2fea31d897279452ce1581eb9f">
 		<category>Games</category>
-		<description>Sakura Taisen 3 - Paris wa Moeteiru ka - Drama Download Disc (Japan)</description>
+		<description>oad Disc (Japan)</description>
 		<rom name="Sakura Taisen 3 - Paris wa Moeteiru ka - Drama Download Disc (Japan) (Track 01).bin" size="1220688" crc="d34bf5d6" md5="7a3acb9b49b2355bcc39f18b00c73bf5" sha1="53da8d1aa2540d540648e63e03c3e23b7eae5bce"/>
 		<rom name="Sakura Taisen 3 - Paris wa Moeteiru ka - Drama Download Disc (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Sakura Taisen 3 - Paris wa Moeteiru ka - Drama Download Disc (Japan) (Track 03).bin" size="1185760800" crc="523f4615" md5="066ab56c3bfa4290b6be101099176e62" sha1="7f4906d2ba97bad48d29e58c609fa03ba2797fb4"/>
 	</game>
 	<game name="Sakura Taisen 3 - Paris wa Moeteiru ka - Sakura Taisen 3 Movie Disc (Japan)" type="gd" sha1="7612ed772e626abb4940a5f0d902bc485c909121" size="531244981" crc="9c38edeb" fullsha1="c94050a6204f6f5c31db989c6d9befde106af520" dataSha1="806670b82b24c00537ac15c27d39dfa8d1655f1a">
 		<category>Games</category>
-		<description>Sakura Taisen 3 - Paris wa Moeteiru ka - Sakura Taisen 3 Movie Disc (Japan)</description>
+		<description>akura Taisen 3 - Paris wa Moeteiru ka - Sakura Taisen 3 Movie Disc (Japan)</description>
 		<rom name="Sakura Taisen 3 - Paris wa Moeteiru ka - Sakura Taisen 3 Movie Disc (Japan) (Track 01).bin" size="1058400" crc="9520e1d0" md5="e8bb376e40768d8cbedf6e03d0e060a7" sha1="10a5bb4929687df9079cd7ad04a67bd09db24a4c"/>
 		<rom name="Sakura Taisen 3 - Paris wa Moeteiru ka - Sakura Taisen 3 Movie Disc (Japan) (Track 02).bin" size="16285248" crc="51b5c29f" md5="dfb4721121c9513c52d2ca6f22ce6334" sha1="fe0e4f18c8f2df0d272aa3312c5e246dbde06a32"/>
 		<rom name="Sakura Taisen 3 - Paris wa Moeteiru ka - Sakura Taisen 3 Movie Disc (Japan) (Track 03).bin" size="1185760800" crc="46d33a68" md5="122c4cc71af24723ee94978fda4ebff0" sha1="bd3bd2760186c5c0a37f9493db0af8fd41891d6e"/>
@@ -10334,14 +10364,14 @@
 	</game>
 	<game name="Sakura Taisen 4 - Koi seyo Otome (Japan) (Tentou-you Demo Movie)" type="gd" sha1="c7f1d0ebe5e048637673e17f32a6a139f9a76591" size="106733898" crc="d5eaa8c9" fullsha1="1eb2e031d9abdec99c043cf1998216cdba64e7e1" dataSha1="ea174bcd2909a14163aff56b00072aa25d609d2b">
 		<category>Games</category>
-		<description>Sakura Taisen 4 - Koi seyo Otome (Japan) (Tentou-you Demo Movie)</description>
+		<description>tome (Japan) (Tentou-you Demo Movie)</description>
 		<rom name="Sakura Taisen 4 - Koi seyo Otome (Japan) (Tentou-you Demo Movie) (Track 01).bin" size="705600" crc="229bba0b" md5="6992fb22c6fccb6177664da8526f545a" sha1="909f5bbe4cd3a4020db7b9e5e38886aa2619c423"/>
 		<rom name="Sakura Taisen 4 - Koi seyo Otome (Japan) (Tentou-you Demo Movie) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Sakura Taisen 4 - Koi seyo Otome (Japan) (Tentou-you Demo Movie) (Track 03).bin" size="1185760800" crc="101690a3" md5="ded8f0490ad1ce28ea9a9fb85d956879" sha1="6e3263f0a938730c8811f9a0e3ce5e56ec8c2ba5"/>
 	</game>
 	<game name="Sakura Taisen 4 - Koi seyo Otome - Preview Disc (Japan)" type="gd" sha1="c2258027e0d1922f0ffd9657514ed890193acb67" size="756412916" crc="37ce9293" fullsha1="2f28ca0307f4f0ff6763109fed0cc8e11f826e2f" dataSha1="d12823f467ff428578ed9ec157c0425a64152c9a">
 		<category>Games</category>
-		<description>Sakura Taisen 4 - Koi seyo Otome - Preview Disc (Japan)</description>
+		<description>4 - Koi seyo Otome - Preview Disc (Japan)</description>
 		<rom name="Sakura Taisen 4 - Koi seyo Otome - Preview Disc (Japan) (Track 01).bin" size="1220688" crc="b68b3f74" md5="54b8e074ac61b8854140582c01ba4f66" sha1="8bcad04e1d1583ccd5408e8acf8a81b3d7a3c33c"/>
 		<rom name="Sakura Taisen 4 - Koi seyo Otome - Preview Disc (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Sakura Taisen 4 - Koi seyo Otome - Preview Disc (Japan) (Track 03).bin" size="1185760800" crc="83a46a8d" md5="6ca854ac53681562153481907138c032" sha1="77abce197a5c4d554e6adbcd1d8340b9c50a3f1f"/>
@@ -10646,7 +10676,7 @@
 	</game>
 	<game name="Sega Marine Fishing (Japan)" type="gd" sha1="b360f67f7c8a1c6ad732c0a243e1e2ab9c289e4c" size="99395777" crc="99d3631d" fullsha1="42520b8edaa5bd68be9e73ab17f633fec04420f6" dataSha1="f8204db0d2635108130900038d792f28832909bb">
 		<category>Games</category>
-		<description>Sega Marine Fishing (Japan)</description>
+		<description>ine Fishing (Japan)</description>
 		<rom name="Sega Marine Fishing (Japan) (Track 01).bin" size="1058400" crc="c7ed2cb3" md5="35e42f751f953b38bda2a7648df1b353" sha1="f6a824a5ee7599c51bd83cafbcc09fe66f52d831"/>
 		<rom name="Sega Marine Fishing (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Sega Marine Fishing (Japan) (Track 03).bin" size="1185760800" crc="178c2ddb" md5="9a1ce3509c78a44112ff37f8bb086038" sha1="d89d23b5169fd46342b9caaeb81b9f6eaee1a568"/>
@@ -10764,7 +10794,7 @@
 	</game>
 	<game name="Sega Rally 2 (USA)" type="gd" sha1="ffbce363c9967cd38c3e7e77b88febe8cdc35565" size="596643490" crc="9754ae60" fullsha1="901889e892f284e652ef01e477c101ce133d298e" dataSha1="aac24ffaa7ee4756c1629d02f759fe23635ae512">
 		<category>Games</category>
-		<description>Sega Rally 2 (USA)</description>
+		<description>ga Rally 2 (USA)</description>
 		<rom name="Sega Rally 2 (USA) (Track 01).bin" size="705600" crc="294f0495" md5="3ce64896d6800de568c54afa3ca68a17" sha1="55e613230ca66bcdddcf58f69301d6f92b318059"/>
 		<rom name="Sega Rally 2 (USA) (Track 02).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
 		<rom name="Sega Rally 2 (USA) (Track 03).bin" size="185264688" crc="25242337" md5="9c7c92e17458ccbaca62ae842ff50602" sha1="26aff7db54c590e512bb7e18ff6941cc31b7dde1"/>
@@ -11133,7 +11163,7 @@
 	</game>
 	<game name="Shenmue (USA) (Disc 3)" type="gd" sha1="d966e5e7723c29e57f2de24c29b22aa383c95eba" size="434250676" crc="56ba6f15" fullsha1="b2036e233a3721a40923de8482d7e63c7ad9b952" dataSha1="2eeec1eecb9dc16238a7a119728c9c02679fdb53">
 		<category>Games</category>
-		<description>Shenmue (USA) (Disc 3)</description>
+		<description>USA) (Disc 3)</description>
 		<rom name="Shenmue (USA) (Disc 3) (Track 01).bin" size="705600" crc="d942ae84" md5="f37953d817c75581dd167d52423139e7" sha1="9850c58e87d658c9b3a234bb244e0f9a51fc6a86"/>
 		<rom name="Shenmue (USA) (Disc 3) (Track 02).bin" size="2836512" crc="a9fd94eb" md5="17a10d173a99e1eceddf1b9d38e2fbe5" sha1="ac4ad55af4fa470f89790b58652040f1d35dc6fb"/>
 		<rom name="Shenmue (USA) (Disc 3) (Track 03).bin" size="317886912" crc="65a342e8" md5="a07bbf441e46875bf57cd66dc427635c" sha1="de2a5470df24b5042c4474c1ba42f91c7cdcbe28"/>
@@ -11329,14 +11359,14 @@
 	</game>
 	<game name="Shinki Sekai Evolution (Japan)" type="gd" sha1="6e94d6f70a9f2f7f4e7e33f2d40e8fae7d18ce30" size="396368048" crc="cad3d5a8" fullsha1="c2553ed012a6084382764a08016da3696006e030" dataSha1="3108729a0742ba67c4d6901c4df40c881b9c9079">
 		<category>Games</category>
-		<description>Shinki Sekai Evolution (Japan)</description>
+		<description>apan)</description>
 		<rom name="Shinki Sekai Evolution (Japan) (Track 01).bin" size="705600" crc="347521a8" md5="22c87d2957f17da22bcd88f350880296" sha1="006543381acecdb91c506c00367eecd9853faec6"/>
 		<rom name="Shinki Sekai Evolution (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Shinki Sekai Evolution (Japan) (Track 03).bin" size="1185760800" crc="11f91ff0" md5="cae5061232be3e78da9f5155ae6e8790" sha1="f39091a46f8e689ea02f6dcc7d3873109c7a4aa6"/>
 	</game>
 	<game name="Shinki Sekai Evolution (Japan) (Taikenban)" type="gd" sha1="71321619a0141d7ed9746b1028bf1b9fa0a79274" size="396426973" crc="2d3a7114" fullsha1="db717fd86481d3bf54aae790000c9f650be5008d" dataSha1="7ae13fa0c31532a69b049c21806c2ddfec446a7a">
 		<category>Games</category>
-		<description>Shinki Sekai Evolution (Japan) (Taikenban)</description>
+		<description>olution (Japan) (Taikenban)</description>
 		<rom name="Shinki Sekai Evolution (Japan) (Taikenban) (Track 01).bin" size="705600" crc="75dc9e32" md5="e4a1beb68a4737d5d2e80f8564286935" sha1="95cee5a14f51a7b0edd3390a206294c134f4d972"/>
 		<rom name="Shinki Sekai Evolution (Japan) (Taikenban) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Shinki Sekai Evolution (Japan) (Taikenban) (Track 03).bin" size="1185760800" crc="a4f4dbd7" md5="6c979c6490c22aa77672821e55219bd7" sha1="62b7debaaa703ef689d0260675daa747c5ff3eec"/>
@@ -11683,7 +11713,7 @@
 	</game>
 	<game name="Sonic Adventure (USA) (Demo)" type="gd" sha1="5598984d2c82f306af35705ff25bca90876f1175" size="840722576" crc="77253009" fullsha1="c2d6b4995c75515240a4be2a7f2b5c83b89d4e23" dataSha1="24307a1bf556d5283d81e7047d2a12c074e0d81b">
 		<category>Games</category>
-		<description>Sonic Adventure (USA) (Demo)</description>
+		<description>e (USA) (Demo)</description>
 		<rom name="Sonic Adventure (USA) (Demo) (Track 01).bin" size="27530160" crc="69037cfe" md5="e7c1907d348bd7fca6cdfd1982159b61" sha1="5781c4f4d3442800205a8b552637d6d959cf7de1"/>
 		<rom name="Sonic Adventure (USA) (Demo) (Track 02).bin" size="2500176" crc="acfb1b45" md5="d0fafc66cb795cd679b7ac5b387160d8" sha1="0fbfde20b242982862a011ba8ed8031e2c6f24a4"/>
 		<rom name="Sonic Adventure (USA) (Demo) (Track 03).bin" size="1185760800" crc="6c6ad494" md5="04b6b1f980e2db4d94a8100a305e189c" sha1="afbd36911ecff9b08f80e815838e0ad28214307e"/>
@@ -11781,7 +11811,7 @@
 	</game>
 	<game name="Sorcerian - Shichisei Mahou no Shito (Japan)" type="gd" sha1="6ed87d94e145bf2af64146cc45fb5dede5079417" size="558284707" crc="4d797ef4" fullsha1="4b0a0b64922fa19ce9db8674e894bd3c3d0f7179" dataSha1="c7aac8b6f55672b19a888883755c157dcdc085bb">
 		<category>Games</category>
-		<description>Sorcerian - Shichisei Mahou no Shito (Japan)</description>
+		<description>an)</description>
 		<rom name="Sorcerian - Shichisei Mahou no Shito (Japan) (Track 01).bin" size="1996848" crc="7417ce37" md5="c0b39342c6dd7f4e1e3b94c2430b52e4" sha1="efc650d6823dccc0a9122823548bdcdc5cfa6cd1"/>
 		<rom name="Sorcerian - Shichisei Mahou no Shito (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Sorcerian - Shichisei Mahou no Shito (Japan) (Track 03).bin" size="1185760800" crc="f910e9dd" md5="9916985ca93624371ee02fb749e34697" sha1="8980dd56f5faa85937636f5d07802f860cb99e1e"/>
@@ -11863,7 +11893,7 @@
 	</game>
 	<game name="Soulcalibur (USA)" type="gd" sha1="ba3f763a734962b92a5e00693dc6f0361d8cff6b" size="621158635" crc="35e5e5f1" fullsha1="7734508a59d55931292a1eeec8f11ff68d0122fc" dataSha1="a8d74533b32c936db4462f5b125632d5630fed60">
 		<category>Games</category>
-		<description>Soulcalibur (USA)</description>
+		<description>lcalibur (USA)</description>
 		<rom name="Soulcalibur (USA) (Track 01).bin" size="705600" crc="15d6abf6" md5="674e418633d471d4f78739ba600ac454" sha1="59b82de09a5c356396307219e6b1d9c5a832acd2"/>
 		<rom name="Soulcalibur (USA) (Track 02).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
 		<rom name="Soulcalibur (USA) (Track 03).bin" size="1185760800" crc="af84e1c4" md5="72be732a962a8210fc8dfcd80e37a53b" sha1="69ea11904e9fd25819379767a9452cc7b2d12ca6"/>
@@ -12353,7 +12383,7 @@
 	</game>
 	<game name="Star Wars - Episode I - Jedi Power Battles (Europe)" type="gd" sha1="af698688754fe8628909c8fd7a62ca756262cd8d" size="421376881" crc="aba51aed" fullsha1="88b9d57482ea3f99363d7c74f50a89acc6caf0cf" dataSha1="f0bbcc40af84c1313b7a0a6229231f7850c5dd48">
 		<category>Games</category>
-		<description>Star Wars - Episode I - Jedi Power Battles (Europe)</description>
+		<description>I - Jedi Power Battles (Europe)</description>
 		<rom name="Star Wars - Episode I - Jedi Power Battles (Europe) (Track 01).bin" size="16071216" crc="45acf56f" md5="737147aa002453a9c8133a3c71160630" sha1="e040d773e2e241e9e6fa501067ac904d6139be9d"/>
 		<rom name="Star Wars - Episode I - Jedi Power Battles (Europe) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Star Wars - Episode I - Jedi Power Battles (Europe) (Track 03).bin" size="469887264" crc="e17a45de" md5="0ad25eba5d9f9c4dad6469c3586f0d52" sha1="3f35a0cb21b5bf0acadec6433b4647b0d7077bb8"/>
@@ -12820,7 +12850,7 @@
 	</game>
 	<game name="Super Runabout - San Francisco Edition (Japan)" type="gd" sha1="649fd9024a2974151aa400cde7e1be0dba1ba7c2" size="481943696" crc="f5adc2a5" fullsha1="f5fcdae5e4e99906852d0f5b7a353e3c022d07db" dataSha1="c4a8110cc4a7398a8377f0b2c21203eff3e4744c">
 		<category>Games</category>
-		<description>Super Runabout - San Francisco Edition (Japan)</description>
+		<description>per Runabout - San Francisco Edition (Japan)</description>
 		<rom name="Super Runabout - San Francisco Edition (Japan) (Track 01).bin" size="705600" crc="bf344c25" md5="bd812752e99bef4a1e16b224c3d555fe" sha1="cf0c0f3b4338824a183ff4b4bd9f2c33ccee5853"/>
 		<rom name="Super Runabout - San Francisco Edition (Japan) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Super Runabout - San Francisco Edition (Japan) (Track 03).bin" size="243450816" crc="c0fa5b62" md5="355013cc96715281220571e5cf46a737" sha1="415c5ede7d4035c46811f145ec7a5cc0cdfdde23"/>
@@ -13066,14 +13096,14 @@
 	</game>
 	<game name="TNN Motorsports Hardcore Heat (USA)" type="gd" sha1="53c71a07f93ecfb35aea9a332227fb12b0cee385" size="471450254" crc="83bd5956" fullsha1="d6fb048a5ed5c951c58a52453d258ba8fb95070f" dataSha1="ecc95fb473857a570c6dc03f71b725a6ec50061d">
 		<category>Games</category>
-		<description>TNN Motorsports Hardcore Heat (USA)</description>
+		<description>rsports Hardcore Heat (USA)</description>
 		<rom name="TNN Motorsports Hardcore Heat (USA) (Track 01).bin" size="1058400" crc="048a006d" md5="c65c3e7172c54d7e137bfe30de2e5c6f" sha1="b19e819857635f4c78b118d6372d94ad2ef8222a"/>
 		<rom name="TNN Motorsports Hardcore Heat (USA) (Track 02).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
 		<rom name="TNN Motorsports Hardcore Heat (USA) (Track 03).bin" size="1185760800" crc="7ed1477b" md5="cef9ea4041861b9679c3db6004110e22" sha1="b30d43ddae47d762b0b84fcbd433b07d135303b7"/>
 	</game>
 	<game name="Taisen Net Gimmick - Capcom &amp; Psikyo All Stars (Japan)" type="gd" sha1="02bc56013e8c59d20b8e7e5bb7dc87725e4b8405" size="316089094" crc="ffba4904" fullsha1="ae973d00a3afe06112cc9571c55dc4deeb514b55" dataSha1="943a076e68ff70a4e81cec6ae04b3990d3a2a5bf">
 		<category>Games</category>
-		<description>Taisen Net Gimmick - Capcom &amp; Psikyo All Stars (Japan)</description>
+		<description> Psikyo All Stars (Japan)</description>
 		<rom name="Taisen Net Gimmick - Capcom &amp; Psikyo All Stars (Japan) (Track 01).bin" size="705600" crc="8baf7e14" md5="7d3be2a398e928a444a0feb7aaefa6a2" sha1="8a2b6187c7e34c4c53e35ffc7b54308100daca54"/>
 		<rom name="Taisen Net Gimmick - Capcom &amp; Psikyo All Stars (Japan) (Track 02).bin" size="2410800" crc="becf087f" md5="f3f45c69748af8249b6b8014105b0753" sha1="72f870e023affdbf12cf89b881efcc6f7413250b"/>
 		<rom name="Taisen Net Gimmick - Capcom &amp; Psikyo All Stars (Japan) (Track 03).bin" size="1185760800" crc="0826c034" md5="12ba7c54c596735f5ed4ba94b2f4e1e5" sha1="7e9c771c5aa60670c4997e4cdcf9199845c81106"/>
@@ -13268,7 +13298,7 @@
 	</game>
 	<game name="Tokyo Highway Challenge (Europe)" type="gd" sha1="b268b50a90f77df61ae00ddfee36757990634ab7" size="456785217" crc="7b9714c0" fullsha1="b6a4d8a8957e2bd736b07e8cc4c7e3b0edff8374" dataSha1="38f641eed4770a05f894e557b615b1b3bdee35bb">
 		<category>Games</category>
-		<description>Tokyo Highway Challenge (Europe)</description>
+		<description>o Highway Challenge (Europe)</description>
 		<rom name="Tokyo Highway Challenge (Europe) (Track 01).bin" size="1425312" crc="1c0129ca" md5="6e96771fa4f8f76c75c9ea9467b56e9f" sha1="72cfa5f2026a6418540df409f898aced56d04e15"/>
 		<rom name="Tokyo Highway Challenge (Europe) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Tokyo Highway Challenge (Europe) (Track 03).bin" size="464169552" crc="c9e37dcd" md5="f164c50d0c2ed1d5c7c89fad13f5ac74" sha1="d6a14c652b1c7f0bd6db727cbfc100c5d7aadab7"/>
@@ -13332,7 +13362,7 @@
 	</game>
 	<game name="Tom Clancy's Rainbow Six - Rogue Spear + Mission Pack - Urban Operations (Europe)" type="gd" sha1="c76f23544858ab60a896e593a96437aa35972e79" size="488626409" crc="6fc8c061" fullsha1="fc4fdcef0318f1053112a86507d150970298874b" dataSha1="6643f43374975a3f2e4011e5f29176f26f5a1530">
 		<category>Games</category>
-		<description>Tom Clancy's Rainbow Six - Rogue Spear + Mission Pack - Urban Operations (Europe)</description>
+		<description>k - Urban Operations (Europe)</description>
 		<rom name="Tom Clancy's Rainbow Six - Rogue Spear + Mission Pack - Urban Operations (Europe) (Track 01).bin" size="705600" crc="8289e571" md5="7af896f63ff35c973295374d9bda50c0" sha1="4c66b926386e991657b288251db11b78e398eed3"/>
 		<rom name="Tom Clancy's Rainbow Six - Rogue Spear + Mission Pack - Urban Operations (Europe) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Tom Clancy's Rainbow Six - Rogue Spear + Mission Pack - Urban Operations (Europe) (Track 03).bin" size="164004960" crc="94ac45d4" md5="433f7a21c2f789bf0b6332b907532faf" sha1="58674f8a0b6f7568e1f749b5557a04c155f48aee"/>
@@ -13924,7 +13954,7 @@
 	</game>
 	<game name="Tomb Raider - The Last Revelation (Italy)" type="gd" sha1="2a80452cdb3ef367f080ab9dedd1a931a0f91415" size="687734455" crc="cb60dc31" fullsha1="652d9628bf23781f967d80e123ba71c86ea109de" dataSha1="490dcc1dc793a02b1b4f6ecf240ebcae54384ca1">
 		<category>Games</category>
-		<description>Tomb Raider - The Last Revelation (Italy)</description>
+		<description>ly)</description>
 		<rom name="Tomb Raider - The Last Revelation (Italy) (Track 01).bin" size="1058400" crc="df9dec77" md5="118e34e0740b02568e8c3da6c89e5817" sha1="f009e36e8d754ca05bcfa56e17ceea75b9313b15"/>
 		<rom name="Tomb Raider - The Last Revelation (Italy) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Tomb Raider - The Last Revelation (Italy) (Track 03).bin" size="1185760800" crc="aa3063a1" md5="3e7d7a4e9732f501b9da992d9d9fde3b" sha1="db5e2ee3e44aafb85f28b93c5c526358ce0fd6cb"/>
@@ -14219,7 +14249,7 @@
 	</game>
 	<game name="Typing of the Dead, The (Japan)" type="gd" sha1="d0b5d699004cd764a935e06e49d19322b608b22a" size="193977083" crc="e40a7c38" fullsha1="9067cbfd6715b11e3790301afc45af88d00eeeaa" dataSha1="34536f01b57fb0555c99618484d0965fa811ed77">
 		<category>Games</category>
-		<description>Typing of the Dead, The (Japan)</description>
+		<description>The (Japan)</description>
 		<rom name="Typing of the Dead, The (Japan) (Track 01).bin" size="705600" crc="4129a677" md5="fbab05775b9ca8361888f46c36955f85" sha1="4259da0f18e820814f2849d25226c62f7bbc93ad"/>
 		<rom name="Typing of the Dead, The (Japan) (Track 02).bin" size="2389632" crc="b818e036" md5="f976717bc49a7decf3ec6f2a20e26092" sha1="70ff7ffbfc1e66bdf5596578a1b2fb49f7dfb592"/>
 		<rom name="Typing of the Dead, The (Japan) (Track 03).bin" size="894837216" crc="bd41ca63" md5="901ba36ac0b9a488af2576ef6abbb207" sha1="4bf2532b8c8f3cd880f8f67b29d1c3f5404078ec"/>
@@ -14296,7 +14326,7 @@
 	</game>
 	<game name="UEFA Striker (Europe) (En,Fr,De,Es,It,Nl) (Beta) (1999-09-01)" type="gd" sha1="0a7de119df6958589bb60ef5fe6232f206b0f5f7" size="316916062" crc="7157b222" fullsha1="fba4feb8fc88e95e46b309b65115163ec2126ad9" dataSha1="f6d029a70905ea6c223730dd89fe1cdad057cb94">
 		<category>Games</category>
-		<description>UEFA Striker (Europe) (En,Fr,De,Es,It,Nl) (Beta) (1999-09-01)</description>
+		<description>En,Fr,De,Es,It,Nl) (Beta) (1999-09-01)</description>
 		<rom name="UEFA Striker (Europe) (En,Fr,De,Es,It,Nl) (Beta) (1999-09-01) (Track 01).bin" size="1213632" crc="7b37ad90" md5="0dba19d60cba4bb51508940d03099dcb" sha1="1b0548279e84da65396e580102ca78a6ebbd5319"/>
 		<rom name="UEFA Striker (Europe) (En,Fr,De,Es,It,Nl) (Beta) (1999-09-01) (Track 02).bin" size="1413552" crc="d30bd894" md5="2420978565bcf271dd5a942b7d517fe0" sha1="31037ef1027cc75ef655e01d8a8f0a32b2a12458"/>
 		<rom name="UEFA Striker (Europe) (En,Fr,De,Es,It,Nl) (Beta) (1999-09-01) (Track 03).bin" size="1185760800" crc="a36f96ad" md5="ca9784f643e549f0bdca711506bb9dbd" sha1="676f734444f4c9a78214a3fada1bb815c30c2124"/>
@@ -14468,7 +14498,7 @@
 	</game>
 	<game name="Urban Chaos (USA) (En,Fr)" type="gd" sha1="02acd2a5aea6536456a71b232468741a45971424" size="525814486" crc="373e67ee" fullsha1="9dab9055a6523220e6ee64eb4c54d2b04fe5ac94" dataSha1="b219445b886e87b8a14e4b28e111d48ab26596a0">
 		<category>Games</category>
-		<description>Urban Chaos (USA) (En,Fr)</description>
+		<description>,Fr)</description>
 		<rom name="Urban Chaos (USA) (En,Fr) (Track 01).bin" size="3993696" crc="6aac994a" md5="1bd25bc27f077b0873e910cd826adc6f" sha1="02e84e876a56e6e07d69172b274d1af3b2fa7476"/>
 		<rom name="Urban Chaos (USA) (En,Fr) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Urban Chaos (USA) (En,Fr) (Track 03).bin" size="67547088" crc="3f274491" md5="191ceb4d857f96fad214a63383c0e2ec" sha1="9737cdaa4915acfdce31575e018ecff56361b91a"/>
@@ -14631,7 +14661,7 @@
 	</game>
 	<game name="Virtua Athlete 2K (Europe) (En,Fr,De,Es)" type="gd" sha1="295ec38a2f889e4b756da71db7c8e573b3fb58ef" size="57771375" crc="566d1969" fullsha1="ffa7d22594715e5c9c18e9a1409baf3bb9b9cbf6" dataSha1="6f72d0799fc1de30f5d5c7a80be33508d4306417">
 		<category>Games</category>
-		<description>Virtua Athlete 2K (Europe) (En,Fr,De,Es)</description>
+		<description>s)</description>
 		<rom name="Virtua Athlete 2K (Europe) (En,Fr,De,Es) (Track 01).bin" size="705600" crc="060eee5e" md5="0a78bf7cdf721b72d6bf4c0a8d98624e" sha1="b4aecfa3cf2a9cb267fd855bd3822371255f6c96"/>
 		<rom name="Virtua Athlete 2K (Europe) (En,Fr,De,Es) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Virtua Athlete 2K (Europe) (En,Fr,De,Es) (Track 03).bin" size="1185760800" crc="b49fe3b5" md5="14bdf032d912090bc3b249d34127f3a6" sha1="0e8a3db9e33f5e4b7b40896e9e2427c1269b8ebe"/>
@@ -14645,7 +14675,7 @@
 	</game>
 	<game name="Virtua Cop 2 (Japan)" type="gd" sha1="f023f964763ce55338e24782fc3777c45c432080" size="221947143" crc="f516526a" fullsha1="0478f80c86d8a28c7a05038872830135dfc9ddd6" dataSha1="e076a69aa7e4242d46caacc2d23a1d87936ce694">
 		<category>Games</category>
-		<description>Virtua Cop 2 (Japan)</description>
+		<description>(Japan)</description>
 		<rom name="Virtua Cop 2 (Japan) (Track 01).bin" size="705600" crc="aa8e9b9c" md5="55a5db640c29f4a37b21b511b0875786" sha1="a2e09ead3d5329969ed1b767d39f359dd03d9f86"/>
 		<rom name="Virtua Cop 2 (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Virtua Cop 2 (Japan) (Track 03).bin" size="776244672" crc="31d8b8bc" md5="60ebcdd82b2b5b307b2af6d64b1305ff" sha1="14eeb3fcc6452516dfea8e63b53cc879ee6546e8"/>
@@ -14709,7 +14739,7 @@
 	</game>
 	<game name="Virtua Fighter 3tb (USA)" type="gd" sha1="b5c408e7fbfc4416568b9ecc416036425b7c6d55" size="487887377" crc="1bfe86cd" fullsha1="94651ec0765df33707f30f1222b106b383f8e870" dataSha1="140737faceebd2def3a1cef27adef639466c0766">
 		<category>Games</category>
-		<description>Virtua Fighter 3tb (USA)</description>
+		<description>a Fighter 3tb (USA)</description>
 		<rom name="Virtua Fighter 3tb (USA) (Track 01).bin" size="705600" crc="7e33a4db" md5="93bdf9349dfbe0f6a5f490b2f3fbadc8" sha1="bb30bc9d46c58c14475895ccc9bdba3cc7184f36"/>
 		<rom name="Virtua Fighter 3tb (USA) (Track 02).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
 		<rom name="Virtua Fighter 3tb (USA) (Track 03).bin" size="1185760800" crc="2812870a" md5="a0022e7c84e998defca2a8549d14fbfb" sha1="831b616be8eb2ed2f98bbeea271a4e8a9e3c152a"/>
@@ -14788,7 +14818,7 @@
 	</game>
 	<game name="Virtua Tennis - Sega Professional Tennis (Europe) (En,Fr,De,Es) (Beta) (2000-07-14)" type="gd" sha1="2782d3b9f0de9b5081a6254d9b0982f5774d81cb" size="164857787" crc="bf781829" fullsha1="92df88d05164baf2eaa1798dd64fd33fa6f3d11c" dataSha1="f422575688a7a18a7ff3d50d0b144c3688779fec">
 		<category>Games</category>
-		<description>Virtua Tennis - Sega Professional Tennis (Europe) (En,Fr,De,Es) (Beta) (2000-07-14)</description>
+		<description>Fr,De,Es) (Beta) (2000-07-14)</description>
 		<rom name="Virtua Tennis - Sega Professional Tennis (Europe) (En,Fr,De,Es) (Beta) (2000-07-14) (Track 01).bin" size="1058400" crc="f7d2fe8b" md5="e446c2a16c132686c079fb44393bb8de" sha1="d63a2a2cfe8ee093aa7f763ecae7888a9ce71a4b"/>
 		<rom name="Virtua Tennis - Sega Professional Tennis (Europe) (En,Fr,De,Es) (Beta) (2000-07-14) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Virtua Tennis - Sega Professional Tennis (Europe) (En,Fr,De,Es) (Beta) (2000-07-14) (Track 03).bin" size="1185760800" crc="8766da77" md5="7a56686cc9fdb176a4c517b04338ee6b" sha1="a7ddb84cb476331797a943728964daf6bf18849c"/>
@@ -14858,7 +14888,7 @@
 	</game>
 	<game name="WWF Royal Rumble (Europe)" type="gd" sha1="60a09159b84dc3ab6a1c63943fcff9809957e5f3" size="203357364" crc="9e564737" fullsha1="99658d6838c40aaee7a02edbcecabc94419b88a2" dataSha1="7d12646cf07ea652a7087dbdf5935e25070b23da">
 		<category>Games</category>
-		<description>WWF Royal Rumble (Europe)</description>
+		<description>(Europe)</description>
 		<rom name="WWF Royal Rumble (Europe) (Track 01).bin" size="1058400" crc="329df3ff" md5="5702a792844d2935802e4b786855ffe4" sha1="7ffb76fffb58807b8985e09d3a8a9a2c7277639c"/>
 		<rom name="WWF Royal Rumble (Europe) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="WWF Royal Rumble (Europe) (Track 03).bin" size="1185760800" crc="cffd9527" md5="c6cfdab5280d70996ab86ccb7b82f25c" sha1="c1ffe381c2389cbe21f1d4806c0174875971a04d"/>
@@ -15001,14 +15031,14 @@
 	</game>
 	<game name="Web Mystery - Yochimu o Miru Neko (Japan) (Disc 1)" type="gd" sha1="1bdafe35392e3d4eda158ee2f1daad2b998db662" size="957610482" crc="61293bbb" fullsha1="2df9164538b3a42c095fdec820c69f006836932e" dataSha1="1608ad6d3a28a804ad926fe5bc83d0cf4d1f9dd5">
 		<category>Games</category>
-		<description>Web Mystery - Yochimu o Miru Neko (Japan) (Disc 1)</description>
+		<description> Mystery - Yochimu o Miru Neko (Japan) (Disc 1)</description>
 		<rom name="Web Mystery - Yochimu o Miru Neko (Japan) (Disc 1) (Track 01).bin" size="1613472" crc="5fdccfbc" md5="6da4ad2fcd66aef82d2c16c9b4544d6f" sha1="053cc1866989f61e150473ff4accf86e08097d8d"/>
 		<rom name="Web Mystery - Yochimu o Miru Neko (Japan) (Disc 1) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Web Mystery - Yochimu o Miru Neko (Japan) (Disc 1) (Track 03).bin" size="1185760800" crc="0b0219be" md5="2ed39f2a22a57fd9dcdd228122ba0008" sha1="4b60048f226d48bd33dff49a0564b81b3bbb990b"/>
 	</game>
 	<game name="Web Mystery - Yochimu o Miru Neko (Japan) (Disc 2)" type="gd" sha1="6fe118fd36ccabea2ac593e36aeed06477284839" size="951343278" crc="6404328c" fullsha1="916fcc55ac84f6052371ba6d28b823d5e7d697a9" dataSha1="37f83f32357b639468c20d89e256fa4fe250fb22">
 		<category>Games</category>
-		<description>Web Mystery - Yochimu o Miru Neko (Japan) (Disc 2)</description>
+		<description>)</description>
 		<rom name="Web Mystery - Yochimu o Miru Neko (Japan) (Disc 2) (Track 01).bin" size="1613472" crc="0028c1ed" md5="08b201f3d00d5c8eba283e2ff6a70fa5" sha1="cc4f04cfb47122205e5fe9173666245918f4b05d"/>
 		<rom name="Web Mystery - Yochimu o Miru Neko (Japan) (Disc 2) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Web Mystery - Yochimu o Miru Neko (Japan) (Disc 2) (Track 03).bin" size="1185760800" crc="162185f1" md5="56f245c92fb564b1448253c09bf07362" sha1="f3c3002ba84fac9956c00518569b2e58e0d342a9"/>
@@ -15062,7 +15092,7 @@
 	</game>
 	<game name="Who Wants to Be a Millionaire (Europe)" type="gd" sha1="89d3850558a446a38744073f24ec47e005181c24" size="218623198" crc="62403346" fullsha1="c9b7fa615dfdd450095939ac974cdd55f2e7c148" dataSha1="96f33893780e6b82b9de6829d9e9967c01e07b0b">
 		<category>Games</category>
-		<description>Who Wants to Be a Millionaire (Europe)</description>
+		<description>o Be a Millionaire (Europe)</description>
 		<rom name="Who Wants to Be a Millionaire (Europe) (Track 01).bin" size="6489168" crc="f7fc457b" md5="13b7472fc534cae395f84828cafc9e6c" sha1="00b0f56b013a548ec870b5000d8e485a72d803f4"/>
 		<rom name="Who Wants to Be a Millionaire (Europe) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
 		<rom name="Who Wants to Be a Millionaire (Europe) (Track 03).bin" size="744516192" crc="910943c7" md5="8dc85533732f04c22e3716f91fc53b94" sha1="e148686a9106fa2660802e4e6285f46e908c724a"/>
@@ -15204,14 +15234,14 @@
 	</game>
 	<game name="World Neverland 2 Plus - The Waktic Republic of Pluto (Japan)" type="gd" sha1="16fa2280e90f0f2cc5dad985a4289dc6be9ac79f" size="182025040" crc="5b18a2f4" fullsha1="7a7e33a6efb03f86b2e7922dcfea94cd9057ed00" dataSha1="bda49e55cd2a3ab681aba81458b07357570f1f8e">
 		<category>Games</category>
-		<description>World Neverland 2 Plus - The Waktic Republic of Pluto (Japan)</description>
+		<description> Plus - The Waktic Republic of Pluto (Japan)</description>
 		<rom name="World Neverland 2 Plus - The Waktic Republic of Pluto (Japan) (Track 01).bin" size="2236752" crc="bd32e5ca" md5="beb8c25bffd76105e68211f4b9a2484c" sha1="a3579ca72dced00fd253e8c232eaf0620d5b494a"/>
 		<rom name="World Neverland 2 Plus - The Waktic Republic of Pluto (Japan) (Track 02).bin" size="2302608" crc="a9684d33" md5="3a23931b29da109b04737c79cbcc18fc" sha1="1312a9ce85a306e731945dc0e97a047b2a7c6187"/>
 		<rom name="World Neverland 2 Plus - The Waktic Republic of Pluto (Japan) (Track 03).bin" size="1185760800" crc="26df5784" md5="b9ffafc62bae266412210b664bf11f2d" sha1="a0cbbb9880eca177b97e1fae132530f1c5dc78dd"/>
 	</game>
 	<game name="World Neverland Plus - The Olerud Kingdom Stories (Japan)" type="gd" sha1="abac4f097845b99b50f757f9e34ae49163c07e57" size="123426714" crc="70dfc99d" fullsha1="4757d2b72665d8a7181ae457ae8b7fb890d0956b" dataSha1="8ae01b6b5e1ee9961aeb0d0156ae5f120fbed88f">
 		<category>Games</category>
-		<description>World Neverland Plus - The Olerud Kingdom Stories (Japan)</description>
+		<description>and Plus - The Olerud Kingdom Stories (Japan)</description>
 		<rom name="World Neverland Plus - The Olerud Kingdom Stories (Japan) (Track 01).bin" size="1058400" crc="f76dedc5" md5="4eaf9181c97b05930cee7fa49a46ffa8" sha1="2e05cfd44917a8aff32e4a06e0764b1e3b2c3fe3"/>
 		<rom name="World Neverland Plus - The Olerud Kingdom Stories (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="World Neverland Plus - The Olerud Kingdom Stories (Japan) (Track 03).bin" size="1185760800" crc="7b604441" md5="32318382fb9b46d5d844c89eff0ef4e1" sha1="b84687b85bea90c37d103bb50bca6f201661f383"/>

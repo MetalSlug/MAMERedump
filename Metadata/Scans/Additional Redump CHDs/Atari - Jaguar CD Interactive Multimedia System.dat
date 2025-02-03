@@ -4,7 +4,7 @@
 	<header>
 		<name>Atari - Jaguar CD Interactive Multimedia System</name>
 		<description>Atari - Jaguar CD Interactive Multimedia System</description>
-		<version>0.267</version>
+		<version>0.274</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -47,6 +47,20 @@
 		<rom name="Battle Morph (USA) (Track 08).bin" size="81997776" crc="634dd753" md5="94de2b93c19002d2c2217a40da9c5a48" sha1="4b5a5fdc5abb9d386b67071a5a9e9fbc5f79a1f7"/>
 		<rom name="Battle Morph (USA) (Track 09).bin" size="82762176" crc="d707c189" md5="5e95dbef9b7160a144f96b3ef72ca314" sha1="0cbf360e78b6798071b1b01a790729d4ee3645ab"/>
 		<rom name="Battle Morph (USA) (Track 10).bin" size="1401792" crc="0744d24f" md5="95d7f4ddf9f0ea1f36da1d69ec69732f" sha1="ceee0c8acb98bb043e8147ac668363eb63e592db"/>
+	</game>
+	<game name="Battle Morph (USA) (Songbird)" type="cd" sha1="759bc0d6ec95a0b93a81fe77950c9a603b1ffce9" size="310701608" crc="547a32b6" fullsha1="a8347b11b40d3afd70b79449322b8437d2a2d3ef" dataSha1="23a29c4818fbb407d57b789f9534f51f4c9487af">
+		<category>Games</category>
+		<description>Battle Morph (USA) (Songbird)</description>
+		<rom name="Battle Morph (USA) (Songbird) (Track 01).bin" size="9699648" crc="10ba56a4" md5="4e629cf21deaf09ce21e6c43487b0b6f" sha1="0d3c73be5642e47383002ad4c32bf4e7e3d26e59"/>
+		<rom name="Battle Morph (USA) (Songbird) (Track 02).bin" size="1051344" crc="e5c477e1" md5="3870d0b5ab3fad81db05cc832f6ebadf" sha1="7a2244365392e427218f0b4803cdc8cc7d867dd4"/>
+		<rom name="Battle Morph (USA) (Songbird) (Track 03).bin" size="138314064" crc="d5fee311" md5="fb25a0ee515f0ea46f786f4447cb58d5" sha1="382d16cb3f7cd45e6b551296b1f5c444c5d95e48"/>
+		<rom name="Battle Morph (USA) (Songbird) (Track 04).bin" size="52094448" crc="a2a06280" md5="ef294fe7dd2cec3ef1215b50efa2b7b1" sha1="ce5d4b7a618c40c34b12b47244018884205de6eb"/>
+		<rom name="Battle Morph (USA) (Songbird) (Track 05).bin" size="82762176" crc="5f0fdc5c" md5="273ca7b5684f4788fe0c20611477ddd0" sha1="53f2522841913c33307ee77d90ad59bb84334c21"/>
+		<rom name="Battle Morph (USA) (Songbird) (Track 06).bin" size="82644576" crc="65beb838" md5="73f85023bf9d327715d1e8862fd8db60" sha1="4d06543b67f05855cbcdcaa7497d8e26317767d0"/>
+		<rom name="Battle Morph (USA) (Songbird) (Track 07).bin" size="82809216" crc="9c27e13d" md5="73f86a8ddea0b1225fd300d15c0a137c" sha1="7d88736f66fdd97d473946ece1c2069472ea508b"/>
+		<rom name="Battle Morph (USA) (Songbird) (Track 08).bin" size="81997776" crc="c20ae17d" md5="bacc2ac0386dcf42e20c4712d1f01b4a" sha1="ebd1170071d60c5dc4560373d588863037ec047d"/>
+		<rom name="Battle Morph (USA) (Songbird) (Track 09).bin" size="82762176" crc="f21938b4" md5="206bd0dc18a0a8e20078594b5768ee54" sha1="4744a783310fb3dddab71945936e35104db218be"/>
+		<rom name="Battle Morph (USA) (Songbird) (Track 10).bin" size="1404144" crc="d9bf0bc7" md5="7ace80499ebd18842cbaf41f23f8da18" sha1="e3950190504f661afc3b9f550317e2ff795c3997"/>
 	</game>
 	<game name="Blue Lightning (USA)" type="cd" sha1="ba58fe1c73068004cde6a70c3a5f68682ccd6143" size="239899496" crc="0a9f8ff9" fullsha1="db2d1f487b3f2aaacf06ea1d9d618d503d0531b7" dataSha1="e388af943f036cbcc2e81e3641be8b25800c69e9">
 		<category>Games</category>

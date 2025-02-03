@@ -4,7 +4,7 @@
 	<header>
 		<name>PlayStation GameShark Updates</name>
 		<description>PlayStation GameShark Updates</description>
-		<version>0.267</version>
+		<version>0.274</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -95,6 +95,39 @@
 		<rom name="Action Replay - Vol. 1 (Japan) (Track 27).bin" size="7895664" crc="e141da47" md5="aa41d7f1bf6fa6c4ad5a0c60902b479a" sha1="8cdfa07c6615d32cd1136778fa4a5a9a94f299b6"/>
 		<rom name="Action Replay - Vol. 1 (Japan) (Track 28).bin" size="7895664" crc="f2bc3506" md5="5774bffd03b2cc47bc22d4e33272cf1b" sha1="55d976879966b58d96477b489e87b3a32a5ee26f"/>
 		<rom name="Action Replay - Vol. 1 (Japan) (Track 29).bin" size="7895664" crc="c6c0541f" md5="184161bdfe97be6a4f7799d5e15cfd23" sha1="c742fe04d8708397807c92d02cf28fab48c59098"/>
+	</game>
+	<game name="Action Replay - Vol. 1 (Japan) (Alt)" type="" sha1="f518b501d68ad9a28ca98a6e55df34a5e1387b2d" size="12365102" crc="5e7753b5" fullsha1="015fc766c1a5995bd15766bbca9e87b2035a5f35" dataSha1="4b338ce185cb6532542b203a6594d03e212f853e">
+		<category>Games</category>
+		<description>Action Replay - Vol. 1 (Japan) (Alt)</description>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 01).bin" size="1185408" crc="522e50fe" md5="876d17c2daa470d4014205caaf2bc669" sha1="6869f98c15f22e06fd4be9dd406c7a27d93cba7d"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 02).bin" size="6061104" crc="ed0edbb6" md5="190adc1b05ba15ed895d46a3c13e3672" sha1="71293d9bf3267225edff76a2a23a6466082a0fc8"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 03).bin" size="7239456" crc="0c7a8514" md5="1d7965e1fe6bbfcf30f65780f70bca71" sha1="8b71e2ed1151db3475b7962639f6128902875e05"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 04).bin" size="7239456" crc="8ebad483" md5="98d64c3092c89c103bacb16ac56596a9" sha1="3b3480aa196f2227ad2e21c65b15042abd288ae3"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 05).bin" size="2260272" crc="84b2bc07" md5="3aad46bfb6e97479144b8185c99509b5" sha1="06338c85a354b77af5acbb0ea1a14b05efadace6"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 06).bin" size="2260272" crc="004519cc" md5="962518db3c7b5730b1320068e6d9f104" sha1="13f043cfced45f3073da15bb6b25b05aed3c4c02"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 07).bin" size="2260272" crc="7ccabf5e" md5="264f5fd5e397c5086ca62689335c1570" sha1="bbfb517e1478da09c340769659f9088a95c5a57a"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 08).bin" size="7895664" crc="16a50ded" md5="326e5549fa130285683db37baf59aef1" sha1="632f06681a7eff78c1d44fe15ddb8716591bedd5"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 09).bin" size="7895664" crc="fa0bf9ba" md5="702d30a542574e724dbb8d3d8ca336be" sha1="a0a1c17ea8e5932ace3559799a62eba90984fd2f"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 10).bin" size="7895664" crc="415c273e" md5="176322b0ecd93482e7c2f64aba9a3673" sha1="3ca50f06b5bedc0a9d1b60c642c5e617876d4d27"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 11).bin" size="7895664" crc="c49eebde" md5="27a462cc29706c9bd84943e05dbadf08" sha1="216c56e8d5875aeeba06cd77259e2bf8fa097912"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 12).bin" size="7895664" crc="6a5e9448" md5="bd98a670955bb5253da2d8080e3198f2" sha1="3d7d744ccb828d3b6813e425d61ee1beef5ab161"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 13).bin" size="7895664" crc="ece4c9d5" md5="74c47168e82b325b5cf1a8cc6bf1c88f" sha1="4fd3cd31b19f9244c6ec0b1235db628dea0b754a"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 14).bin" size="7895664" crc="bc3fd10c" md5="909f389d5a086c1dcb92e1049d7969dc" sha1="4c4e6c90c042bb0c643e16cc1453062f0839eee5"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 15).bin" size="7895664" crc="e711cf08" md5="fcc0d3dea89eb24ec24d69aaef50fb62" sha1="007b8a6ef50bc43acc570be4487b1a06ca451134"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 16).bin" size="7895664" crc="69dd2c97" md5="b5b45c57fc4d8aabc3c5424419070d65" sha1="d6f54bb4fdaa50d439b8dec9f23d348e5f129b85"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 17).bin" size="7895664" crc="11d67a6c" md5="641549437e393f796ff09fc9c1d1e0fe" sha1="556a680e820cf6eba4c5712f3e6c5a785a4f6629"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 18).bin" size="7895664" crc="2a0b2702" md5="07b54dcbae224e221bd299ec8f37ff36" sha1="6f84a03e9202032c6d225f25a4ebca44079935a9"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 19).bin" size="7893312" crc="b8f99d06" md5="c0a9b07f23f13db86dd0f1adf96d1ee9" sha1="14f44bbf6c4d5b800c3b260e3afcfc7f03f40f82"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 20).bin" size="8947008" crc="bc460780" md5="bafc38d079c27a247170d720b8d04f30" sha1="e89a563b2d50ce22441c56b0ca693f8363281221"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 21).bin" size="8747088" crc="9f179963" md5="8fc53305d9f99cbee3c03399ff45b4a6" sha1="3c0145d0a5a493a0a890d26877319f2587db4f55"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 22).bin" size="8420160" crc="0c932653" md5="d4fa376567f88973515e1afd4cdcc340" sha1="1493212ed187345d05bb52a172940be66aa3ebd5"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 23).bin" size="2260272" crc="d3ad578c" md5="8dc856d446b8d310bade09ebf53369e4" sha1="bb2a4aee93b7619686ad93a90831b5a71d9c9cb5"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 24).bin" size="2521344" crc="7c744a28" md5="45bd74fbfdb4e58e95ef295f6b03d031" sha1="98a0f79feacdba0e4d0a914b34ef231c64ba55d3"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 25).bin" size="7437024" crc="cbd25e7a" md5="c9ded2945b4922436fbea8ce59c61a65" sha1="c832bb19d997c85cd3211d61e43806c0a756d2ff"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 26).bin" size="9598512" crc="9b5abf57" md5="5fe6ee7f083bcc0d83f4a19cad6a9754" sha1="fbac9f1ad925d31009ab4364168d3c3d21679bcc"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 27).bin" size="7895664" crc="42e03e96" md5="e6d05d57cb526355906c4aafbf7aa10b" sha1="2feb4cd5e867d4f9e78c239c86a6866ee2959f55"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 28).bin" size="7895664" crc="b5e49fc8" md5="b469a185e1f3c53722e307c32d91d040" sha1="a8e184d92dd1ca3a09422cb01ca95e656d10fe74"/>
+		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 29).bin" size="7895664" crc="d7e443dd" md5="4bfb3dd81609bb494300846380fb5c8f" sha1="36ce6ee017c2a770f779ecbb6c396e8cd5213551"/>
 	</game>
 	<game name="Action Replay Higi Code CD (Japan)" type="cd" sha1="278529bbef698d758ad544cede76170dbe47d8c2" size="11323149" crc="4ad6dbbc" fullsha1="31608c769e74ca0d2e16a3e897e779a8416168eb" dataSha1="32d2ce5dbb486f129b676c53a98e0cf93e22fbc9">
 		<category>Games</category>
@@ -747,7 +780,7 @@
 	</game>
 	<game name="Game Champion - Game Save Download CD for Tekken 3 (Europe)" type="cd" sha1="1a660b3edd4d3a890017222ba2420be29fa9eb09" size="10647450" crc="c42bd684" fullsha1="457b4f36f1bc2416e0e756bc61ee3ffbe40a3927" dataSha1="dedfb940ecbf3e2f68fe5b180c1f8a96732430f0">
 		<category>Games</category>
-		<description>Game Champion - Game Save Download CD for Tekken 3 (Europe)</description>
+		<description>Europe)</description>
 		<rom name="Game Champion - Game Save Download CD for Tekken 3 (Europe) (Track 01).bin" size="1185408" crc="386c0c7c" md5="aa1c9d3772cea2bcee5bb04c65f7c936" sha1="0b873b56d2e3a4a224d52cb74c68211687275e5c"/>
 		<rom name="Game Champion - Game Save Download CD for Tekken 3 (Europe) (Track 02).bin" size="6061104" crc="19cfbf32" md5="a60fe3f0ad4f3672300c15700ef9962a" sha1="db42ad2ed77f4aaad8fccff49b68bad315b9fb23"/>
 		<rom name="Game Champion - Game Save Download CD for Tekken 3 (Europe) (Track 03).bin" size="7183008" crc="48f324f3" md5="bb19fae5577cb172ea01698d8f659230" sha1="eb159ddd3a655866876f1ef450b92976dcd6f998"/>
@@ -1056,7 +1089,7 @@
 	</game>
 	<game name="GameShark Upgrade CD Version 2.1 (USA)" type="cd" sha1="574509901cb5fa251a5366137caa007d25edba75" size="3714892" crc="d66bb450" fullsha1="ba1927e306757be68207cfd85700e497afb6a58f" dataSha1="0414ca3b18883c483142371a3994d679961413e6">
 		<category>Games</category>
-		<description>GameShark Upgrade CD Version 2.1 (USA)</description>
+		<description>e CD Version 2.1 (USA)</description>
 		<rom name="GameShark Upgrade CD Version 2.1 (USA) (Track 01).bin" size="1185408" crc="4437930f" md5="332ea9d5e159c37a7ec8fffd040a6ae4" sha1="c98fc589ae619095b104e2863b725daba4fe18db"/>
 		<rom name="GameShark Upgrade CD Version 2.1 (USA) (Track 02).bin" size="10647504" crc="ba94fa24" md5="f32587ea72e97fbc50bf19360387e412" sha1="54aba6aa92ec48385b2a328e25f5b8d9eed9946b"/>
 		<rom name="GameShark Upgrade CD Version 2.1 (USA) (Track 03).bin" size="3045840" crc="74343bc1" md5="f2168aed55260955b2a7df00662c7251" sha1="59ecc7ce8105185a3b3ac561f5cd8fb23921fb4a"/>
@@ -1291,7 +1324,7 @@
 	</game>
 	<game name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt)" type="cd" sha1="95c9e0db2fe30f7b4ca6dfc532c5da43d9ba52c0" size="24445128" crc="8bb70e8c" fullsha1="27289019c3c8f08fb717323f6bb0bcf45d67b329" dataSha1="acdf55b650e11c5055bf2a7ea609e7e478058d72">
 		<category>Games</category>
-		<description>GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt)</description>
+		<description>t)</description>
 		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt) (Track 01).bin" size="1187760" crc="ee11681c" md5="ad6c0e826e9caa24b6c11dde40960de1" sha1="24e6ea92b387ffa08996b207f1793095f6547a12"/>
 		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt) (Track 02).bin" size="4285344" crc="d65bfed9" md5="92035ec7b624d72475a0158db85cc9bc" sha1="9ab630da0cf5224aefe49da9e07519c8ff8cb406"/>
 		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt) (Track 03).bin" size="4823952" crc="2404dc49" md5="b51630934553cb04d1384199e188eaf9" sha1="743c30f247d9c8af422bf23c723a6f002d89905f"/>

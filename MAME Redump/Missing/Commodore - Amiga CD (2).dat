@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore - Amiga CD</name>
+		<description>MAME Redump - Commodore - Amiga CD - Discs (584) (2024-12-25 16-51-50)</description>
+		<version>0.274</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Astro Blox Revisited (Poland)" type="">
+		<category>Games</category>
+		<description>Astro Blox Revisited (Poland)</description>
+		<rom name="Astro Blox Revisited (Poland).cue" size="95" crc="570B8D87" md5="BC1698B9B63D43176DB7395A91E2EBC0" sha1="D53CA8E8F70998FDA9E4B324BBE9D7353D4B96F8" />
+		<rom name="Astro Blox Revisited (Poland).bin" size="1662864" crc="712C4748" md5="4E0539FB43CB982F6733F458E69189B3" sha1="466470E494572C588E3452AE7FE93C49E4F89E65" />
+	</game>
+	<game name="ZGR3D (Poland)" type="">
+		<category>Games</category>
+		<description>ZGR3D (Poland)</description>
+		<rom name="ZGR3D (Poland).cue" size="80" crc="84FD277A" md5="93AC6634111722B2C669D81F98F6764E" sha1="ED2F0E1CFF51DA03AADD96D0844D6722E53155C1" />
+		<rom name="ZGR3D (Poland).bin" size="1441776" crc="1F205C95" md5="9B6907CDF0509BC88219EBBA8A4FB502" sha1="4E8646A5D808FAB76C0531FF5B79CE47756B6AE3" />
+	</game>
+</datafile>
