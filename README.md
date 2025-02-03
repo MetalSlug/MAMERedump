@@ -77,7 +77,7 @@ Apple - Macintosh|2025-01-11|963|253|545 GB|mac_cdrom|
 Arcade - Konami - e-Amusement|2024-08-26|20|17|22 GB||
 **Arcade - Konami - FireBeat**|2024-03-16|10|0|8 GB||
 **Arcade - Konami - System 573**|2024-04-22|44|0|8 GB||
-Arcade - Konami - System GV|2024-09-06|1|1|321 MB||
+**Arcade - Konami - System GV**|2024-09-06|2|0|641 MB||
 **Arcade - Namco - Sega - Nintendo - Triforce**|2024-03-27|22|0|7 GB||
 **Arcade - Namco - System 246**|2024-03-16|9|0|5 GB||
 Arcade - Sega - Chihiro|2021-01-08|17|1|11 GB||
@@ -86,14 +86,14 @@ Arcade - Sega - Lindbergh|2024-11-30|25|16|63 GB||
 **Arcade - Sega - Naomi**|2024-03-27|30|0|4 GB||
 Arcade - Sega - RingEdge 2|2025-01-08|13|13|54 GB||
 Arcade - Sega - RingEdge|2024-12-07|21|10|98 GB||
-Atari - Jaguar CD Interactive Multimedia System|2024-12-11|25|1|4 GB||
+**Atari - Jaguar CD Interactive Multimedia System**|2024-12-11|26|0|5 GB||
 **Bandai - Pippin**|2024-08-15|91|0|19 GB|pippin|4 GB
 Bandai - Playdia Quick Interactive System|2022-07-06|37|1|18 GB||
-Commodore - Amiga CD|2024-12-25|574|10|201 GB||
-Commodore - Amiga CD32|2024-09-02|232|1|27 GB|cd32|9 GB
-Commodore - Amiga CDTV|2024-12-29|159|1|21 GB|cdtv|5 GB
+Commodore - Amiga CD|2024-12-25|582|2|203 GB||
+**Commodore - Amiga CD32**|2024-09-02|233|0|27 GB|cd32|9 GB
+**Commodore - Amiga CDTV**|2024-12-29|160|0|21 GB|cdtv|5 GB
 Fujitsu - FM-Towns|2025-01-12|958|8|141 GB|fmtowns_cd|132 GB
-funworld - Photo Play|2024-07-01|14|3|4 GB||4 GB
+**funworld - Photo Play**|2024-07-01|17|0|5 GB||5 GB
 IBM - PC compatible|2025-01-20|36500|14498|37 TB|ibm5170_cdrom|21 GB
 **Incredible Technologies - Eagle**|2023-04-07|7|0|3 GB||
 **Mattel - Fisher-Price iXL**|2023-08-07|26|0|2 GB||
@@ -101,22 +101,22 @@ IBM - PC compatible|2025-01-20|36500|14498|37 TB|ibm5170_cdrom|21 GB
 **Memorex - Visual Information System**|2024-05-22|72|0|8 GB||
 ~~Microsoft - Xbox 360~~|2025-01-20|0|3487|||
 ~~Microsoft - Xbox~~|2025-01-17|0|2627|||
-NEC - PC Engine CD & TurboGrafx CD|2024-12-16|1036|1|226 GB|pcecd|3 GB
+**NEC - PC Engine CD & TurboGrafx CD**|2024-12-16|1037|0|226 GB|pcecd|3 GB
 NEC - PC-88 series|2024-10-24|1|1|288 MB|pc8801_cdrom|288 MB
 NEC - PC-98 series|2024-11-29|302|10|49 GB|pc98_cd|12 GB
 **NEC - PC-FX**|2024-11-08|79|0|30 GB|pcfx|5 GB
 Nintendo - GameCube|2025-01-18|1972|31|1 TB||
 Nintendo - Wii|2025-01-17|3748|28|6 TB||
-Palm|2024-10-29|154|3|13 GB||
-Panasonic - 3DO Interactive Multiplayer|2025-01-16|646|16|183 GB||
+**Palm**|2024-10-29|157|0|13 GB||
+Panasonic - 3DO Interactive Multiplayer|2025-01-16|661|1|187 GB||
 Philips - CD-i|2025-01-17|2338|65|689 GB|cdi|138 GB
 Photo CD|2025-01-16|215|15|40 GB||
-PlayStation GameShark Updates|2025-01-16|32|1|556 MB||
-Pocket PC|2024-09-26|63|6|8 GB||
-Sega - Dreamcast|2024-12-23|2084|5|836 GB|dc|72 GB
+**PlayStation GameShark Updates**|2025-01-16|33|0|567 MB||
+**Pocket PC**|2024-09-26|69|0|10 GB||
+Sega - Dreamcast|2024-12-23|2088|1|838 GB|dc|72 GB
 **Sega - Mega-CD - Sega CD**|2025-01-11|809|0|184 GB|megacd, megacdj, segacd|61 GB
 **Sega - Prologue 21**|2024-02-25|30|0|17 GB||
-Sega - Saturn|2025-01-12|4417|9|1 TB|saturn|129 GB
+Sega - Saturn|2025-01-12|4424|2|1 TB|saturn|129 GB
 **Sharp - X68000**|2024-03-14|29|0|6 GB||
 **SNK - Neo Geo CD**|2024-08-27|217|0|59 GB|neocd|847 MB
 Sony - PlayStation 2|2025-01-19|11488|92|15 TB||
@@ -128,4 +128,4 @@ Sony - PlayStation|2025-01-19|11585|48|3 TB|psx|552 GB
 VM Labs - NUON|2024-12-11|8|2|5 GB|nuon|5 GB
 **VTech - V.Flash & V.Smile Pro**|2024-03-01|50|0|8 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2024-02-02|16|0|50 GB||
-Total||84232|25865|68 TB||1 TB
+Total||84284|25813|68 TB||1 TB

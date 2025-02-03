@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega - Saturn</name>
+		<description>MAME Redump - Sega - Saturn - Discs (2376) (2025-01-12 14-12-47)</description>
+		<version>0.274</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Game-Ware (Japan) (Soukan Junbigou Hibaihin)" type="">
+		<category>Multimedia</category>
+		<description>Game-Ware (Japan) (Soukan Junbigou Hibaihin)</description>
+		<rom name="Game-Ware (Japan) (Soukan Junbigou Hibaihin).cue" size="419" crc="6C0E2EB3" md5="8296E4E98CD6C38C92DCBBA8F349E19D" sha1="88ED4307EADF8A336C80CC7EE7616B6F9F206A46" />
+		<rom name="Game-Ware (Japan) (Soukan Junbigou Hibaihin) (Track 1).bin" size="181492080" crc="22BBE733" md5="9AFA8BED7E51BEA21EBF9F172A9EDC17" sha1="508B4D43CF6AA96F8060D1E942C8C58261C24DD6" />
+		<rom name="Game-Ware (Japan) (Soukan Junbigou Hibaihin) (Track 2).bin" size="17703504" crc="5643FB99" md5="8487AC28E959B67EAC70E366052749F1" sha1="EAE259D56B718B82812888D0778AA6366613206B" />
+		<rom name="Game-Ware (Japan) (Soukan Junbigou Hibaihin) (Track 3).bin" size="10939152" crc="5FB71A82" md5="DE068759C82D987E3DE7FAC8600A5010" sha1="9E0ECB0A9196D2CEED23AA233ACA9AA872190122" />
+	</game>
+	<game name="Hyper Golf, The - Devil's Course (Japan) (Demo)" type="">
+		<category>Demos</category>
+		<description>Hyper Golf, The - Devil's Course (Japan) (Demo)</description>
+		<rom name="Hyper Golf, The - Devil's Course (Japan) (Demo).cue" size="136" crc="5FE84B39" md5="EBC593F95758DB1AE1682F849FD1035C" sha1="FBEA403E53501A9F287D9A6608E72C8D4018277C" />
+		<rom name="Hyper Golf, The - Devil's Course (Japan) (Demo).bin" size="83533632" crc="C635A73B" md5="35B1F803AE5337E0A8CE4F5081C15636" sha1="81B7AB4DA459264A4437DBD3EEFA14B50DB3AB75" />
+	</game>
+</datafile>
