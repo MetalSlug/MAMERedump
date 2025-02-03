@@ -4761,54 +4761,80 @@
 	</machine>
 	<machine name="aplegrec\aplegrec">
 		<description>Apple Legacy Recovery</description>
+		<year>1998</year>
+		<manufacturer>Apple</manufacturer>
 		<disk name="aplegrec\aplegrec.chd" sha1="888ceee315e0f11f9a5f1a0db527f296470c80ea" />
 	</machine>
 	<machine name="mac70a9\mac70a9">
 		<description> pre-release)</description>
+		<year>1991</year>
+		<manufacturer>Apple</manufacturer>
 		<disk name="mac70a9\mac70a9.chd" sha1="b56813d7227e4844243bd1e0acec63c254f9daf3" />
 	</machine>
 	<machine name="mac71\mac71">
 		<description>System Software 7.1 (US English)</description>
+		<year>1992</year>
+		<manufacturer>Apple</manufacturer>
 		<disk name="mac71\mac71.chd" sha1="2e7e36cd94b82d447b0481007080195d316a8c4c" />
 	</machine>
 	<machine name="mac712p_q630\mac712p_q630">
 		<description> 630 and LC/Performa 580) (US English)</description>
+		<year>1994</year>
+		<manufacturer>Apple</manufacturer>
 		<disk name="mac712p_q630\mac712p_q630.chd" sha1="f367d20f76e8eb891dd5cdf14540f7cb2cc4516e" />
 	</machine>
 	<machine name="mac75\mac75">
 		<description>System Software 7.5 (US English)</description>
+		<year>1994</year>
+		<manufacturer>Apple</manufacturer>
 		<disk name="mac75\mac75.chd" sha1="9cff3aac53454405e37cd880acc5d2bbd33e1de4" />
 	</machine>
 	<machine name="mac753\mac753">
 		<description>System Software 7.5.3 (US English)</description>
+		<year>1996</year>
+		<manufacturer>Apple</manufacturer>
 		<disk name="mac753\mac753.chd" sha1="67536c42db6c69491072a48a4a02f02e7956e644" />
 	</machine>
 	<machine name="mac76\mac76">
 		<description>Mac OS 7.6 (US English)</description>
+		<year>1997</year>
+		<manufacturer>Apple</manufacturer>
 		<disk name="mac76\mac76.chd" sha1="dd400ae4776f9258dbebc2a5d06ce58e7a10d54f" />
 	</machine>
 	<machine name="mac76_de\mac76_de">
 		<description>Mac OS 7.6 (German)</description>
+		<year>1997</year>
+		<manufacturer>Apple</manufacturer>
 		<disk name="mac76_de\mac76_de.chd" sha1="b5a0d5a826a130808c07473f78fe205d92eb3151" />
 	</machine>
 	<machine name="mac761\mac761">
 		<description>Mac OS 7.6.1 (US English)</description>
+		<year>1997</year>
+		<manufacturer>Apple</manufacturer>
 		<disk name="mac761\mac761.chd" sha1="ce0c2c7810be05a033c80cdf36bae0e5a5b3d22a" />
 	</machine>
 	<machine name="mac80_jp\mac80_jp">
 		<description>Mac OS 8 (Japanese)</description>
+		<year>1997</year>
+		<manufacturer>Apple</manufacturer>
 		<disk name="mac80_jp\mac80_jp.chd" sha1="a2702185e6ac03d068375554e7709405dc5e39fd" />
 	</machine>
 	<machine name="mac81\mac81">
 		<description>Mac OS 8.1 (US English)</description>
+		<year>1998</year>
+		<manufacturer>Apple</manufacturer>
 		<disk name="mac81\mac81.chd" sha1="cd3d8a45c20b271c27f80d957559071f525759f7" />
 	</machine>
 	<machine name="mfma_addsub\my first math adventure - adding and subtracting">
 		<description>My First Math Adventure: Adding and Subtracting</description>
+		<year>1998</year>
+		<manufacturer>Global Software Publishing</manufacturer>
 		<disk name="mfma_addsub\my first math adventure - adding and subtracting.chd" sha1="860fe59ec122aff801de2c724e40a5f0045f88be" />
 	</machine>
 	<machine name="pwrmaccd\pwrmaccd">
 		<description>Macintosh 6100/7100/8100 CD (System Software 7.1.2P) (US English)</description>
+		<year>1994</year>
+		<manufacturer>Apple</manufacturer>
 		<disk name="pwrmaccd\pwrmaccd.chd" sha1="8fd11f42298af430a4b7e3b056336f2e6eec5ce2" />
 	</machine>
 </datafile>
