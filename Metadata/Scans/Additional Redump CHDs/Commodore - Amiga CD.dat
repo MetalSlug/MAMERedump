@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<!DOCTYPE datafile PUBLIC " -//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
 		<name>Commodore - Amiga CD</name>
@@ -54,24 +54,24 @@
 		<description>AGA Toolkit '97 (UK)</description>
 		<rom name="AGA Toolkit '97 (UK) (Track 01).bin" size="782816160" crc="8f4798f7" md5="dc0180eefb3359b8699385f61c59ea92" sha1="2ccbaf05cc4cdf380ba2a14023c47627dc3e8480"/>
 	</game>
-	<game name="APC&amp;TCP Volume 5 (Germany)" type="" sha1="f32f9a5babbf2676bfb602a7c1b593ab22122644" size="378293580" crc="328346b4" fullsha1="40a689f68be391e35d847495b01f05752ee26ff5" dataSha1="341454b0517bacb9587b6d81ff4dbb1e8a765612">
+	<game name="APC&amp;TCP Volume 5 (Germany)" type="cd" sha1="f32f9a5babbf2676bfb602a7c1b593ab22122644" size="378293580" crc="328346b4" fullsha1="40a689f68be391e35d847495b01f05752ee26ff5" dataSha1="341454b0517bacb9587b6d81ff4dbb1e8a765612">
 		<category>Games</category>
-		<description>TCP Volume 5 (Germany)</description>
+		<description>APC&amp;TCP Volume 5 (Germany)</description>
 		<rom name="APC&amp;TCP Volume 5 (Germany) (Track 01).bin" size="767382336" crc="61816198" md5="52dec68a4985e99fc337224c9c3e5ec8" sha1="b98f0367cbe56d0dddcfb575cc85f1f6fbd5edd6"/>
 	</game>
-	<game name="APC&amp;TCP Volume 6 (Germany)" type="" sha1="e84cca7b87e1ae05f9c42800ed41dc53e4b44b7e" size="307253644" crc="512babbf" fullsha1="0343af3ff291a553b7aedf5ee324fa449b9b74cd" dataSha1="95a705de70fba52d163b1ba0029872ff2d8d9ca8">
+	<game name="APC&amp;TCP Volume 6 (Germany)" type="cd" sha1="e84cca7b87e1ae05f9c42800ed41dc53e4b44b7e" size="307253644" crc="512babbf" fullsha1="0343af3ff291a553b7aedf5ee324fa449b9b74cd" dataSha1="95a705de70fba52d163b1ba0029872ff2d8d9ca8">
 		<category>Games</category>
-		<description>TCP Volume 6 (Germany)</description>
+		<description>APC&amp;TCP Volume 6 (Germany)</description>
 		<rom name="APC&amp;TCP Volume 6 (Germany) (Track 01).bin" size="754610976" crc="b530c33c" md5="51db9bbea6cbe12d8fdfffa64afc114f" sha1="c910a6402cf3415e4f9902b97138e526843cdcd2"/>
 	</game>
 	<game name="Almathera Clipart &amp; Fonts CD, The (Europe)" type="cd" sha1="329a05442042f1aa109017527a4de7962306028e" size="85011754" crc="89508981" fullsha1="dba531dac0190bd355b8a7cd4128355c3b077641" dataSha1="daae684a7282fdda2c9801642592bd171b506b97">
 		<category>Games</category>
-		<description> Fonts CD, The (Europe)</description>
+		<description>Almathera Clipart &amp; Fonts CD, The (Europe)</description>
 		<rom name="Almathera Clipart &amp; Fonts CD, The (Europe) (Track 01).bin" size="230662992" crc="89ab1b59" md5="efcc9acae92fe1cf7975c41c38ad30a1" sha1="039ab9c11793fd66ac74e34fbc44d138babfb666"/>
 	</game>
 	<game name="Almathera Comms &amp; Networking CD (Europe)" type="cd" sha1="4094c02278fd34473b1142c0d33fef4595c0ccea" size="76044236" crc="68ad4e2d" fullsha1="9996f33406c3c26b4e2be9d7f86d59156fdd48d0" dataSha1="7ca894a5cdc4c76f9b3219d941fd2d6c716e81b9">
 		<category>Games</category>
-		<description> Networking CD (Europe)</description>
+		<description>Almathera Comms &amp; Networking CD (Europe)</description>
 		<rom name="Almathera Comms &amp; Networking CD (Europe) (Track 01).bin" size="248571120" crc="f9991efe" md5="cca00b0125a0f164b6bc73fb6339ee11" sha1="b4520eb166407bd00e54b9cbaf31212b3f54bc7a"/>
 	</game>
 	<game name="Almathera Photo Library CD, The (Europe)" type="cd" sha1="c7ef3622d39d721b82bb93d83584774d811d3cae" size="487896521" crc="f6c78430" fullsha1="abcba2861161369b3394344792d491c85f6cb24d" dataSha1="e2e369b6511a3f1919164a096a4bf8a65e0c1f2d">
@@ -101,7 +101,7 @@
 	</game>
 	<game name="Amiga Active - Cover Disc 13 - October 2000 (UK)" type="cd" sha1="d4367402c6fac3f091bed68db71778b889710e66" size="336679275" crc="7cfcc34d" fullsha1="786dbf0b09007a87f01e7951ed27fb08a500e549" dataSha1="27d02a312b13e007d96907a47b1a0e4faf5115ea">
 		<category>Games</category>
-		<description>tober 2000 (UK)</description>
+		<description>Amiga Active - Cover Disc 13 - October 2000 (UK)</description>
 		<rom name="Amiga Active - Cover Disc 13 - October 2000 (UK) (Track 01).bin" size="781658976" crc="5e92c4e3" md5="b432195e956e82fd31792c1e8a75e35a" sha1="1fbea3db20d451f53f6eff5fa0bf87ce47ea5783"/>
 	</game>
 	<game name="Amiga Active - Cover Disc 15 - December 2000 (UK)" type="cd" sha1="6c2f768ee87def71628cb5c7c93769a24ffcf58b" size="251664541" crc="0343316b" fullsha1="43ea9e582b1254fe6de52b408dc94b0f91c0b88d" dataSha1="8e5d32191f69f8439d8d2f188d4108e07dc8d8c8">
@@ -144,7 +144,7 @@
 	</game>
 	<game name="Amiga Active - Cover Disc 22 - July 2001 (UK)" type="cd" sha1="0240522447ffe25916828a20e5b729a50eed9b05" size="365225583" crc="a9b86f91" fullsha1="66e33a2c634d105f0dd3998b0e4a9039395de649" dataSha1="55bad328298c3fad8bf48cd311908243a6ab4a9d">
 		<category>Games</category>
-		<description> - Cover Disc 22 - July 2001 (UK)</description>
+		<description>Amiga Active - Cover Disc 22 - July 2001 (UK)</description>
 		<rom name="Amiga Active - Cover Disc 22 - July 2001 (UK) (Track 01).bin" size="793169664" crc="d2a4017d" md5="9952390c6981dc24a655a309391cac76" sha1="ac214093e05e21dcd7aa8c355f5eb2b63f9a49a0"/>
 	</game>
 	<game name="Amiga Active - Cover Disc 23 - August 2001 (UK)" type="cd" sha1="65d1ebea44a1bb419bc5705ef2bc7a4195c78b78" size="413679034" crc="b26e24d5" fullsha1="921faf57462b554a3b418ee18f882729ad9beead" dataSha1="3fffdb53736affe5479a13af3eeec459bb5f715a">
@@ -204,7 +204,7 @@
 	</game>
 	<game name="Amiga CD! Magazine No. 2 (Europe)" type="cd" sha1="b92d4789b50f1a36a521f8d19b265406e3f788a9" size="274842663" crc="4a9208cb" fullsha1="a7410701c598d173f029e0d495de7f2d2217b145" dataSha1="3a5b5e126f8823ac0827cabbe2b71c89d58e9e8b">
 		<category>Games</category>
-		<description>urope)</description>
+		<description>Amiga CD! Magazine No. 2 (Europe)</description>
 		<rom name="Amiga CD! Magazine No. 2 (Europe) (Track 01).bin" size="324606576" crc="e9590b0c" md5="a1fb0050ec3f4fdf8a1e3d90ec21abe9" sha1="e78c5eced2020034c08b0b911228ffa77239a69e"/>
 		<rom name="Amiga CD! Magazine No. 2 (Europe) (Track 02).bin" size="30488976" crc="4c274872" md5="36f87abd91f2867d2096b58409d6ab99" sha1="272dc0f03afe5c50c5d4b80dc5b291a4a28efc74"/>
 		<rom name="Amiga CD! Magazine No. 2 (Europe) (Track 03).bin" size="40527312" crc="acb2a1e6" md5="31612c9aa7eccd54a5ce166228a70e74" sha1="1837995ec71ee574f3b979dc198b72e6322a8066"/>
@@ -242,7 +242,7 @@
 	</game>
 	<game name="Amiga Computer Studio Cover CD 6 (Poland)" type="cd" sha1="03f5cef7390d9dc5e2f4127e4727821d689515ad" size="383926060" crc="bec4c512" fullsha1="0abce95542394cccd6024951d9fe7d795cb47a47" dataSha1="116491cb59ddf517206812e2b34d4125c1573bdb">
 		<category>Games</category>
-		<description>r CD 6 (Poland)</description>
+		<description>Amiga Computer Studio Cover CD 6 (Poland)</description>
 		<rom name="Amiga Computer Studio Cover CD 6 (Poland) (Track 01).bin" size="722797824" crc="b8e03ead" md5="cef27ce8aadb4947fbf9718632358b1f" sha1="c4d33e4416a08c8d802a4b9587baacb63357753f"/>
 	</game>
 	<game name="Amiga Computer Studio Cover CD 6-98 (Poland)" type="cd" sha1="45cba5104c3986675f322e167d40e8101e2dd0e1" size="339406254" crc="89dc87f8" fullsha1="25f84fd13bbd2fa95b2f083d7658ba17884b3c7d" dataSha1="a779f4e055b924a0b65ff6df0124fded3a90aa23">
@@ -252,7 +252,7 @@
 	</game>
 	<game name="Amiga Computer Studio Cover CD 7-8-98 (Poland)" type="cd" sha1="d1a4be415d7c8bd66724acabf38b8e4f39e84966" size="298812650" crc="875ab955" fullsha1="df8e81fc865890d2953779b5c0c0862bde88c826" dataSha1="6e3ce4986705fde10ae34a3632c9c073641bf961">
 		<category>Games</category>
-		<description>a Computer Studio Cover CD 7-8-98 (Poland)</description>
+		<description>Amiga Computer Studio Cover CD 7-8-98 (Poland)</description>
 		<rom name="Amiga Computer Studio Cover CD 7-8-98 (Poland) (Track 01).bin" size="630415968" crc="0a947858" md5="a4459f31580e938c631907d6757bc1bc" sha1="c7d5d0c00d2cfe6c89dfedd1466af71f9cef66cb"/>
 	</game>
 	<game name="Amiga Computer Studio Nr 01-00 (Poland)" type="cd" sha1="9d6ce9d38556803006cf1aa410112fb50fe00d38" size="446043813" crc="db1b78af" fullsha1="fe4288661e0d1c66c4541ca90eda920c8680ce88" dataSha1="aeef0b6e0486a9b3d10ecf0070ece16839778db4">
@@ -307,7 +307,7 @@
 	</game>
 	<game name="Amiga Computer Studio Nr 06-99 (Poland)" type="cd" sha1="6e2dbb5c006ee62c8ebb967c06287c493c501ced" size="300004929" crc="7ad548db" fullsha1="6ddf8591a5aab20c16f0c1a65d80596be1efa5c2" dataSha1="2fb6213e90292a8028ef9635a781c769773f46e7">
 		<category>Games</category>
-		<description>er Studio Nr 06-99 (Poland)</description>
+		<description>Amiga Computer Studio Nr 06-99 (Poland)</description>
 		<rom name="Amiga Computer Studio Nr 06-99 (Poland) (Track 01).bin" size="653910096" crc="077cb4fe" md5="ae44141fc20a2fb7c32ce81effac70a8" sha1="48c54c57a048613220b3ee1432859c09d25678b4"/>
 	</game>
 	<game name="Amiga Computer Studio Nr 07-99 (Poland)" type="cd" sha1="fe663c0b63643c850d0e4180b5223d371667ef04" size="305996866" crc="34a6fb9d" fullsha1="5d0432fcebc7b36fb2574611b26a08a6218f39ab" dataSha1="0177eb4a16ec75de457c2c9b1660546c0daa8475">
@@ -416,7 +416,7 @@
 	</game>
 	<game name="Amiga Format Disc 21 - Christmas 1997 (UK)" type="cd" sha1="3dee0b06d46aac24c96339682d755ae3f574fc2b" size="454366219" crc="b824cab5" fullsha1="d07624e737ac5c7e79dca5d1e70bb726e3bc8338" dataSha1="0307f2b1f417ba030a430790a987acf0d5410280">
 		<category>Games</category>
-		<description>tmas 1997 (UK)</description>
+		<description>Amiga Format Disc 21 - Christmas 1997 (UK)</description>
 		<rom name="Amiga Format Disc 21 - Christmas 1997 (UK) (Track 01).bin" size="780915744" crc="9a836357" md5="f3f20b4f19cf903056fdad8ad3969119" sha1="2db2eee92803307b1066e1fc6b0275665f77d948"/>
 	</game>
 	<game name="Amiga Format Disc 22 - January 1998 (UK)" type="cd" sha1="507b6fd8b6f6c954eec932c21ae732128a71b81e" size="416113486" crc="4e8f5b72" fullsha1="f9cdd88e0f08c15bd84255005945b80ef7ec357c" dataSha1="f633280eed9e5013bc8481422d4052aa5beb64e3">
@@ -497,7 +497,7 @@
 	</game>
 	<game name="Amiga Format Disc 35 - January 1999 (UK)" type="cd" sha1="dffec6997494e228e03ed9684153cb4e9c8bd713" size="424486975" crc="c7632877" fullsha1="076761f9449894af0615954afbb2f7f0f1f666c0" dataSha1="20b47209dd9eee5e05be7749e4ef40d00557ebfe">
 		<category>Games</category>
-		<description>ormat Disc 35 - January 1999 (UK)</description>
+		<description>Amiga Format Disc 35 - January 1999 (UK)</description>
 		<rom name="Amiga Format Disc 35 - January 1999 (UK) (Track 01).bin" size="774501840" crc="9d526fa5" md5="74ab59df3d9d97c9687177c225b9ca8b" sha1="90a0c17a70c89b59ad26c24aea40be665421ef49"/>
 	</game>
 	<game name="Amiga Format Disc 36 - February 1999 (UK)" type="cd" sha1="f71d8f656b6a9ca74fb47d46214f4b4d2c24cc60" size="439732146" crc="abe02441" fullsha1="d74297bd07e2b9365c16b133055565b5b795c9f6" dataSha1="e971c85266c49b30d039167c9f09f4fa4ec2a867">
@@ -514,7 +514,7 @@
 	</game>
 	<game name="Amiga Format Disc 38 - April 1999 (UK)" type="cd" sha1="51b9ed65d676fe6b2d07c15c3791596156145513" size="357291612" crc="b70aff38" fullsha1="925b5bc40dfcf8f0cb9b7ff7b27d34a0b1ff08f9" dataSha1="acbbf63c5ff16b6deeb3ea4f7e84e71d129dee81">
 		<category>Games</category>
-		<description>)</description>
+		<description>Amiga Format Disc 38 - April 1999 (UK)</description>
 		<rom name="Amiga Format Disc 38 - April 1999 (UK) (Track 01).bin" size="673878576" crc="69c1bb57" md5="e50e0f381e8bcb71b97ac0d7fb84c6e6" sha1="110f8a621e390cbf47cccc697b478c7b75c4c621"/>
 		<rom name="Amiga Format Disc 38 - April 1999 (UK) (Track 02).bin" size="10346448" crc="55a0b8d5" md5="3f0b31b27bf47ae585bd3c4078e4cb11" sha1="36a44178cf346042043df92acdcec29176132f7a"/>
 		<rom name="Amiga Format Disc 38 - April 1999 (UK) (Track 03).bin" size="57275904" crc="49b6ab87" md5="ae0dea443566c049c49de9ed035546fb" sha1="b1d29c35ad994bdf92b0c3923aa19a1d5710e56e"/>
@@ -538,7 +538,7 @@
 	</game>
 	<game name="Amiga Format Disc 41 - July 1999 (UK)" type="cd" sha1="e8b4edd83e2875ab71eec0cdbdbaf3d035e6f596" size="425414996" crc="c2e9291d" fullsha1="39fcafad6182109a3ee0a4be05b7526a322e820c" dataSha1="834eba0d945c2f2e08946841ee2593e025be0ac9">
 		<category>Games</category>
-		<description> (UK)</description>
+		<description>Amiga Format Disc 41 - July 1999 (UK)</description>
 		<rom name="Amiga Format Disc 41 - July 1999 (UK) (Track 01).bin" size="771655920" crc="e2d51a69" md5="ecd8c6d7b818de6ee5410f3e797251a4" sha1="e5c9de191dfb12fa625986a9cb4b0bb3d8284dad"/>
 	</game>
 	<game name="Amiga Format Disc 42 - August 1999 (UK)" type="cd" sha1="4d9da8bb1ba5b644186a8c11696a78f52254d057" size="392901289" crc="763e2102" fullsha1="66d1bfb806f22eac31fdd7bc35de07a92c1c9b1b" dataSha1="97455c4bf926ab5a4e70a1ac3d6ea73c04fd60d5">
@@ -600,7 +600,7 @@
 	</game>
 	<game name="Amiga Format Disc 51 - April 2000 (UK)" type="cd" sha1="1a1af9f5faccafe5ae6cc64719a5fdcaf07debd6" size="356245640" crc="d273c5a2" fullsha1="8617b4cdb0939c7c27cf06d6c2cfc18d35f1856e" dataSha1="92716a7c2969f84a81bc8efd9845feefcc94c72a">
 		<category>Games</category>
-		<description>Disc 51 - April 2000 (UK)</description>
+		<description>Amiga Format Disc 51 - April 2000 (UK)</description>
 		<rom name="Amiga Format Disc 51 - April 2000 (UK) (Track 01).bin" size="777528864" crc="1edd72c3" md5="6f05a4ff8aeb250dc042720f2a9beebc" sha1="1f4106526722044986f997765767bdab43c88161"/>
 	</game>
 	<game name="Amiga Format Disc 52 - May 2000 (UK)" type="cd" sha1="dcf0b87357de506747cd00ba2e13fa9229e71385" size="369333653" crc="4a86bda2" fullsha1="6e745b805532ff9c401e749359fb1f4b51b17ba2" dataSha1="d7381eac4a0d5426c46070acfdae310933e6e875">
@@ -630,32 +630,32 @@
 	</game>
 	<game name="Amiga Games CD-ROM &amp; Mag 12-96 (Germany)" type="cd" sha1="d3450e5a74def501b41521267bf59272f9aaca12" size="225793796" crc="e89c20e4" fullsha1="2d9ee052fe0416971b9452adc043b2c1941dc429" dataSha1="2395038d9a571e76b5acb6607f2e97d001e385e7">
 		<category>Games</category>
-		<description> Mag 12-96 (Germany)</description>
+		<description>Amiga Games CD-ROM &amp; Mag 12-96 (Germany)</description>
 		<rom name="Amiga Games CD-ROM &amp; Mag 12-96 (Germany) (Track 01).bin" size="435127056" crc="af58194d" md5="fd0b4038efbb4af8b4156dc5db376e24" sha1="5a5438eba33d55394561726dd1026bb11705b287"/>
 	</game>
 	<game name="Amiga Games CD-ROM &amp; Mag 6-96 (Germany)" type="cd" sha1="f974d83d4105330759f71308ddbb304d4b5597f3" size="114323154" crc="be0fe026" fullsha1="b9ec3e3c73964c00b41daa20a62bd6f3e062cc59" dataSha1="7a4558ce9cc13e6af9288ca27529943fe8766651">
 		<category>Games</category>
-		<description> Mag 6-96 (Germany)</description>
+		<description>Amiga Games CD-ROM &amp; Mag 6-96 (Germany)</description>
 		<rom name="Amiga Games CD-ROM &amp; Mag 6-96 (Germany) (Track 01).bin" size="214779936" crc="a99ff98a" md5="d6bfccbe39f02488600f9201be47f9e2" sha1="4837444befcf6e53b34404fad5589c8f615ed965"/>
 	</game>
 	<game name="Amiga Games CD-ROM &amp; Mag 7-96 (Germany)" type="cd" sha1="e5a41b38502be71a05ca1cf39facef46e12aa8d4" size="158685077" crc="a1944561" fullsha1="4cf8e1ffb2d078728abf5da8e7a40c74f03963b1" dataSha1="7f1c8851ac42361b693f372cd1cbdaf60be88adf">
 		<category>Games</category>
-		<description> Mag 7-96 (Germany)</description>
+		<description>Amiga Games CD-ROM &amp; Mag 7-96 (Germany)</description>
 		<rom name="Amiga Games CD-ROM &amp; Mag 7-96 (Germany) (Track 01).bin" size="276785712" crc="513bc5d6" md5="bf1a5c8c527da8789b24947327e551c7" sha1="60d80129ed68204a7b2efa950109ff4ddd7d3f62"/>
 	</game>
 	<game name="Amiga Games CD-ROM &amp; Mag 8-96 (Germany)" type="cd" sha1="4766c4cbfb9dcc7c1766f2ae4d4db1f21bbd04ee" size="219045362" crc="d0522db8" fullsha1="656c52298f9ee238916035231b5836787a76d2a8" dataSha1="75abc3868d8f9dee9477984ac9149bc8af6dbe67">
 		<category>Games</category>
-		<description> Mag 8-96 (Germany)</description>
+		<description>Amiga Games CD-ROM &amp; Mag 8-96 (Germany)</description>
 		<rom name="Amiga Games CD-ROM &amp; Mag 8-96 (Germany) (Track 01).bin" size="409048080" crc="3001df6a" md5="97971179b0ee029116a6a11df174288f" sha1="24bf0310174fe1c9773a3eaf634161790ce4eddb"/>
 	</game>
 	<game name="Amiga Games CD-ROM &amp; Mag 9-96 (Germany)" type="cd" sha1="1d03846caae805058fbc7e3cba32724ac8bb3378" size="117011223" crc="ce19d651" fullsha1="0eddb7d69e4ec578197029d36ec08a6ec5be39ba" dataSha1="0e90c5e45f45fef4d630c7476428c29b786a5950">
 		<category>Games</category>
-		<description> Mag 9-96 (Germany)</description>
+		<description>Amiga Games CD-ROM &amp; Mag 9-96 (Germany)</description>
 		<rom name="Amiga Games CD-ROM &amp; Mag 9-96 (Germany) (Track 01).bin" size="215128032" crc="b2fee833" md5="2556eca18609f60d59464429593a0456" sha1="1adc6b2a03c1335998ceac6db84b73fb641fab92"/>
 	</game>
 	<game name="Amiga Games CD-ROM &amp; Mag Extra (Germany) (100% Amiga &amp; Soundtrack)" type="cd" sha1="8066d16ae593b584fabaa716deaddbf3eedc1f31" size="243142661" crc="b65a420e" fullsha1="879f3b1765a340f4fa90e386c0d3097c0fec04a1" dataSha1="7f657e5cc2288981ad6fb0e653a8ebb3688fe910">
 		<category>Games</category>
-		<description> Soundtrack)</description>
+		<description>Amiga Games CD-ROM &amp; Mag Extra (Germany) (100% Amiga &amp; Soundtrack)</description>
 		<rom name="Amiga Games CD-ROM &amp; Mag Extra (Germany) (100% Amiga &amp; Soundtrack) (Track 01).bin" size="85008336" crc="54c7eb1f" md5="891438f409348750f6fd5569f05f31b0" sha1="e0ce3c529a7ce66942ec9502d4d4dfd3f4eb8f68"/>
 		<rom name="Amiga Games CD-ROM &amp; Mag Extra (Germany) (100% Amiga &amp; Soundtrack) (Track 02).bin" size="62452656" crc="d09bf9e2" md5="7a751371d64ad761211622563f4e2557" sha1="19b393a384041b2270e6ce947abd86f570dc3aff"/>
 		<rom name="Amiga Games CD-ROM &amp; Mag Extra (Germany) (100% Amiga &amp; Soundtrack) (Track 03).bin" size="51339456" crc="4857de93" md5="7995a3bfb60d7e6d0f5079811a348491" sha1="1e845038182cb028390831e589010e2118a0d70e"/>
@@ -676,17 +676,17 @@
 	</game>
 	<game name="Amiga Games CD-ROM &amp; Mag Extra 3-96 (Germany)" type="cd" sha1="726768386d152d8d8fb15f5694df76dd9c98c9d9" size="64232696" crc="acbee95c" fullsha1="144ef89b853bcfb4c0198cf7ad5cd733c6f3bb0f" dataSha1="a59e4e2647987d696ac91d689cbc97998227f78f">
 		<category>Games</category>
-		<description>ny)</description>
+		<description>Amiga Games CD-ROM &amp; Mag Extra 3-96 (Germany)</description>
 		<rom name="Amiga Games CD-ROM &amp; Mag Extra 3-96 (Germany) (Track 01).bin" size="126424704" crc="a9f8469b" md5="36422b431a5f21d75e5c613e99711730" sha1="154bee43c80c6760fe10d1be5a61c55623897d77"/>
 	</game>
 	<game name="Amiga Games Disc &amp; Mag CD ROM 1-96 (Germany)" type="cd" sha1="92d0c479eb96b75a20eaf202b88b1fed64110ad8" size="271127388" crc="abdbca0c" fullsha1="ec63f912dd66fb0de84b72c5a5a84e66d065442e" dataSha1="c5108f6d1478713003de37e151451a299dc5e0ab">
 		<category>Games</category>
-		<description> Mag CD ROM 1-96 (Germany)</description>
+		<description>Amiga Games Disc &amp; Mag CD ROM 1-96 (Germany)</description>
 		<rom name="Amiga Games Disc &amp; Mag CD ROM 1-96 (Germany) (Track 01).bin" size="443196768" crc="036b4d40" md5="e34c9f7c430f658c8f354af2dd8b2005" sha1="783db451f29d82744f5ec7da0e73f311b8cdc013"/>
 	</game>
 	<game name="Amiga Games Disc &amp; Mag CD ROM 2-96 (Germany)" type="cd" sha1="d1d9ef515d4958021d6b2ec0bcf4f1d96a733212" size="439857873" crc="83a45990" fullsha1="fcf860a399986fb55265d872413843525502f57e" dataSha1="cac24d55fdc9edd239abe48692cd98b463fdb17a">
 		<category>Games</category>
-		<description> Mag CD ROM 2-96 (Germany)</description>
+		<description>Amiga Games Disc &amp; Mag CD ROM 2-96 (Germany)</description>
 		<rom name="Amiga Games Disc &amp; Mag CD ROM 2-96 (Germany) (Track 01).bin" size="490867104" crc="065afb15" md5="c088a20b085a0c7c7d8b70adc0b6bbf0" sha1="d1911a170071b02d4cacede58f15e985338ec53e"/>
 		<rom name="Amiga Games Disc &amp; Mag CD ROM 2-96 (Germany) (Track 02).bin" size="35287056" crc="871b803a" md5="6cfbfdf46c8a394311d0dae8e150edab" sha1="f2ca8ca17d5e9001d4a4cc0e99d1f40a358b15c2"/>
 		<rom name="Amiga Games Disc &amp; Mag CD ROM 2-96 (Germany) (Track 03).bin" size="27349056" crc="c0235141" md5="0458c658f65c19ce518b1e076d490f4d" sha1="34b312052da1cb2b116063fba589d53e200814bc"/>
@@ -698,22 +698,22 @@
 	</game>
 	<game name="Amiga Games Disc &amp; Mag CD ROM 3-96 (Germany)" type="cd" sha1="dd91afb3f700ffeaf1e1dca24b32509139ba9a32" size="443363509" crc="12283fcd" fullsha1="4e60d29bade5d84a3d29816b7aba7c2eeb1726ac" dataSha1="841c12e076c3e706c83f52e7eea371d48c10a08e">
 		<category>Games</category>
-		<description> Mag CD ROM 3-96 (Germany)</description>
+		<description>Amiga Games Disc &amp; Mag CD ROM 3-96 (Germany)</description>
 		<rom name="Amiga Games Disc &amp; Mag CD ROM 3-96 (Germany) (Track 01).bin" size="742568736" crc="7331a508" md5="84f4bd5b58c2f4d02e25da42e8012f1c" sha1="10174c6eded96dd6deea899c742fad3705da3a2b"/>
 	</game>
 	<game name="Amiga Games Disc &amp; Mag CD ROM 4-96 (Germany)" type="cd" sha1="335d5b1c966f87479bb6247680786da7434643c3" size="421123148" crc="9a3e7ee2" fullsha1="9e83e9ab578855d816c1e90e59d600e935e79b6e" dataSha1="d22f553a1e17498aaa3dd5335cfacdce38315a73">
 		<category>Games</category>
-		<description> Mag CD ROM 4-96 (Germany)</description>
+		<description>Amiga Games Disc &amp; Mag CD ROM 4-96 (Germany)</description>
 		<rom name="Amiga Games Disc &amp; Mag CD ROM 4-96 (Germany) (Track 01).bin" size="737688336" crc="03259902" md5="b06dd53e21240fa8759110b57ed13704" sha1="35d7c45d0ac940470324548f6d8062d5a0275594"/>
 	</game>
 	<game name="Amiga Games Disc &amp; Mag CD ROM Sonderheft 1-95 (Germany)" type="cd" sha1="5f5ed4f44b0223f2eca1cb42de5d0abe924ca67c" size="129635766" crc="52bc8ab1" fullsha1="f8693b24e715811a25eac8f9125870cd1325e273" dataSha1="2d3211e10d7f2a4564afcf9a632812c3716e4507">
 		<category>Games</category>
-		<description> Mag CD ROM Sonderheft 1-95 (Germany)</description>
+		<description>Amiga Games Disc &amp; Mag CD ROM Sonderheft 1-95 (Germany)</description>
 		<rom name="Amiga Games Disc &amp; Mag CD ROM Sonderheft 1-95 (Germany) (Track 01).bin" size="197321040" crc="883708d0" md5="0cc049dac0d7123594c40a0713516427" sha1="a503701904edcdfc3f28035895127f4cb5aa10b4"/>
 	</game>
 	<game name="Amiga Giga Graphic CD Collection 1-4 (Germany) (Disc 1)" type="cd" sha1="85c5e68cf1983d46138074d30e835076d6512b96" size="466390725" crc="4113e364" fullsha1="46800c98812249063ca50c36ad2a1283c8547c1d" dataSha1="a35bd5209e852d403c35718c0e7d274b7a4f76f8">
 		<category>Games</category>
-		<description>Giga Graphic CD Collection 1-4 (Germany) (Disc 1)</description>
+		<description>Amiga Giga Graphic CD Collection 1-4 (Germany) (Disc 1)</description>
 		<rom name="Amiga Giga Graphic CD Collection 1-4 (Germany) (Disc 1) (Track 01).bin" size="677368944" crc="313fb7b7" md5="ae9e6728f491646f057bfccd3ec4c18f" sha1="fa746db1f679b05b297e972ab6b023cdba1acc2d"/>
 	</game>
 	<game name="Amiga Giga Graphic CD Collection 1-4 (Germany) (Disc 2)" type="cd" sha1="10c71587de155e2a4640e444a6bd227becc1aa7d" size="422308214" crc="c704ad44" fullsha1="d5727782c1d7eb3fd78c69b120b1c818ad6b52db" dataSha1="66b056f76ace908290dfad70a7f949d472d9164c">
@@ -753,7 +753,7 @@
 	</game>
 	<game name="Amiga Magazin CD 10-11 1998 (Germany)" type="cd" sha1="5fef57c29285311df3fb4f7b976aca8ce40eb0c0" size="326139189" crc="7dc14b37" fullsha1="444b95ffceb03409ae70ea50fba777c0faea7e1a" dataSha1="8f61862008406c7d257c2e3cf6fe2328f436cf43">
 		<category>Games</category>
-		<description>ermany)</description>
+		<description>Amiga Magazin CD 10-11 1998 (Germany)</description>
 		<rom name="Amiga Magazin CD 10-11 1998 (Germany) (Track 01).bin" size="536105472" crc="8f91af4f" md5="21caf9219bd1d5de88186d4b6461278b" sha1="c20973443f7ab1f96a29e4920b241a875cb8b1e8"/>
 	</game>
 	<game name="Amiga Magazin CD 10-11 1999 (Germany)" type="cd" sha1="ce8f9d2fe4534e8e23b3d7881a2da79a24fe0f9c" size="244468136" crc="d4d2f530" fullsha1="c1b89f2e80c1197cd5693a153b43a9a2cee6357f" dataSha1="97caa1c7093c41c83956bad0694decc76b6bdd45">
@@ -783,7 +783,7 @@
 	</game>
 	<game name="Amiga Magazin CD 10-2004 (Germany)" type="cd" sha1="0e6caff25ce7bdb5139451b27e25afb4d2af9db8" size="235571629" crc="baf03ed2" fullsha1="f18ec141c5a913181a81e51a08136c671499653b" dataSha1="aa83a12b37713d9d13a78d3ecebd886c9e4c8802">
 		<category>Games</category>
-		<description>10-2004 (Germany)</description>
+		<description>Amiga Magazin CD 10-2004 (Germany)</description>
 		<rom name="Amiga Magazin CD 10-2004 (Germany) (Track 01).bin" size="338179968" crc="eb8967b5" md5="a7a07620059f90c6386ce45c077309c4" sha1="84c808e2dba31de29f9faa3fec576c61d96b0946"/>
 	</game>
 	<game name="Amiga Magazin CD 10-95 (Germany)" type="cd" sha1="61233093898318de7f496bf1e716f5b23dad9281" size="432553948" crc="520f4d77" fullsha1="824a81414d21aa23447233c3685365c13abca8e8" dataSha1="18d14f121c00db052f0c7696f0d295596d9be6e5">
@@ -838,7 +838,7 @@
 	</game>
 	<game name="Amiga Magazin CD 12-2002 1-2003 (Germany)" type="cd" sha1="ba878983c43877e6e7fc42bc874875544f93b33e" size="372119499" crc="bd4f0e91" fullsha1="4174edfe363c939df8948ec4d7999f942f88ecf2" dataSha1="33304ff78ee0d9bae48b90d5f9c4d0e782aba665">
 		<category>Games</category>
-		<description>iga Magazin CD 12-2002 1-2003 (Germany)</description>
+		<description>Amiga Magazin CD 12-2002 1-2003 (Germany)</description>
 		<rom name="Amiga Magazin CD 12-2002 1-2003 (Germany) (Track 01).bin" size="535096464" crc="c7d14101" md5="1855d0ca6a8c8a915aa3b44c97f0ef01" sha1="0b30f6c6325aa1e5878471ee9428bf1c765318cf"/>
 	</game>
 	<game name="Amiga Magazin CD 12-2003 1-2004 (Germany)" type="cd" sha1="36c6c28e82821e5db4842f9f76b0107a9671e2ca" size="258025475" crc="3843b92c" fullsha1="98a20492073205c071a6854e2a5bedaf47a39156" dataSha1="4139e40985e96b830cba6c3e1bda63c91f755b0c">
@@ -858,7 +858,7 @@
 	</game>
 	<game name="Amiga Magazin CD 2 1998 (Germany)" type="cd" sha1="6f81d01695a80090d37fe754545cd8f551543b6f" size="206119881" crc="c0f3399a" fullsha1="27cd2d24553a7e38128d6dadd1224185c7735abf" dataSha1="b5586e0f5ba62b02c37637b8a349fc8f124fe314">
 		<category>Games</category>
-		<description> 2 1998 (Germany)</description>
+		<description>Amiga Magazin CD 2 1998 (Germany)</description>
 		<rom name="Amiga Magazin CD 2 1998 (Germany) (Track 01).bin" size="321398448" crc="dbd606d3" md5="98b105d2781d2e5037e6587d6ce37eb7" sha1="06e4486ed28c5c4ecb0c2db2405f8b7239011e31"/>
 	</game>
 	<game name="Amiga Magazin CD 2-2003 3-2003 (Germany)" type="cd" sha1="c9e00dabbd78dee58f39ca825bb5695bc1fc0142" size="247698085" crc="85abab25" fullsha1="d786780ad0be8e50320c2617594787a9dbed1201" dataSha1="cac54801ef7b72f8e03cb3df8ae1708b9b054815">
@@ -933,7 +933,7 @@
 	</game>
 	<game name="Amiga Magazin CD 4-5 2000 (Germany)" type="cd" sha1="e01c8fc737fc0636f4ce45f1a5ed355a041d2c3d" size="312993548" crc="bedd5ea1" fullsha1="b213dc1544a09bf36a5b4d896668d5661de6b541" dataSha1="1830b6c3e79710183f460729dd8260930f4b14e3">
 		<category>Games</category>
-		<description>many)</description>
+		<description>Amiga Magazin CD 4-5 2000 (Germany)</description>
 		<rom name="Amiga Magazin CD 4-5 2000 (Germany) (Track 01).bin" size="466187568" crc="e09fd4bd" md5="45a85062314b91c7caf0e1c7606fcd18" sha1="28e925e2cd3bda0ab80e65679ad142a51371f71d"/>
 	</game>
 	<game name="Amiga Magazin CD 4-5 2001 (Germany)" type="cd" sha1="2082693f22ad13e5b108b7edac0e7f4115c68b42" size="395286591" crc="e5bdbdc4" fullsha1="2058bd39a5c62ffe467f3730449e253c5c4388f3" dataSha1="50704f27d4f8acb850024a86fe788f3f19c82e3c">
@@ -958,7 +958,7 @@
 	</game>
 	<game name="Amiga Magazin CD 5-2008-7-2008 (Germany)" type="cd" sha1="b431927949f3b24ac587951a426d46949d29f58f" size="282453711" crc="744ad6f9" fullsha1="034e27bfaf58279a147758ab619240b2e3c7486e" dataSha1="868c8c5d556ce51bcdca9d5e4d805dc34bef3a2f">
 		<category>Games</category>
-		<description>5-2008-7-2008 (Germany)</description>
+		<description>Amiga Magazin CD 5-2008-7-2008 (Germany)</description>
 		<rom name="Amiga Magazin CD 5-2008-7-2008 (Germany) (Track 01).bin" size="411496512" crc="5c6c5ce6" md5="d98d9538a801e907b7004acc3b456adc" sha1="496243eeb7508c08011a2a7920f491c32cb9105c"/>
 	</game>
 	<game name="Amiga Magazin CD 5-6 1997 (Germany)" type="cd" sha1="918d92159241f5afb3b76f5173cd1ac15cdf52c6" size="237212633" crc="2f74af84" fullsha1="98d6cfbd641a681d33dff2ec735b98915b651f1b" dataSha1="efc233f7ed20e21584c0d820f876a9dc7fb530e2">
@@ -983,7 +983,7 @@
 	</game>
 	<game name="Amiga Magazin CD 5-7-2006 (Germany)" type="cd" sha1="144b46f670ebd1da570bfd672f5a183c8352537d" size="265316962" crc="13916236" fullsha1="f405d7256a4164629c648d74f2c1b21d64a26b5f" dataSha1="0a02c12f80c0d439274aa0efe8916a5cbe460c6e">
 		<category>Games</category>
-		<description>iga Magazin CD 5-7-2006 (Germany)</description>
+		<description>Amiga Magazin CD 5-7-2006 (Germany)</description>
 		<rom name="Amiga Magazin CD 5-7-2006 (Germany) (Track 01).bin" size="402057936" crc="8fcdcc74" md5="42d085724064fb45302f5c80db69eb4b" sha1="0ce06e0d93dff1e177f99a97af69ba02eb60a7d1"/>
 	</game>
 	<game name="Amiga Magazin CD 6-7 1998 (Germany)" type="cd" sha1="aa68dabecb5b5cc5e986d23863facdb1c16c13a7" size="262499139" crc="c7564378" fullsha1="0a9c62a78991828688cc4a25fa14049d62c81021" dataSha1="e7c3d241c4aa7b362b5e0abc5a36a800f5908c11">
@@ -1117,7 +1117,7 @@
 	</game>
 	<game name="Amiga Magazin CD Vol. 1 - Bilder und Animationen (Germany)" type="cd" sha1="29979c0f189e1ca058c0abfcd5a2a3dab7d842de" size="376642187" crc="1c826d99" fullsha1="52b42db651bc567c877766078268b72bd2f623ca" dataSha1="471753a44501b3025c116976fcbc6ce41e9c1cce">
 		<category>Games</category>
-		<description>d Animationen (Germany)</description>
+		<description>Amiga Magazin CD Vol. 1 - Bilder und Animationen (Germany)</description>
 		<rom name="Amiga Magazin CD Vol. 1 - Bilder und Animationen (Germany) (Track 01).bin" size="612625440" crc="311167e2" md5="59709b2d696acc741a1e8b44543e94b1" sha1="0d713fde0b9fb9e4d9bec876a836b48615ba50c6"/>
 	</game>
 	<game name="Amiga Magazin CD Vol. 2 - Amiga Magazin PD-Software (Germany)" type="cd" sha1="1b646666353f06caa7e7c54d0097cd042ccc5e82" size="470239344" crc="41e8eddc" fullsha1="22a959f9768d3ac0b96a56d6e354f14b97b49664" dataSha1="4e4b988643bcccff8577e5de40cbf66a4ae148cc">
@@ -1146,7 +1146,7 @@
 		<rom name="Amiga OS 3.9 (Europe) (Track 01).bin" size="563539200" crc="c9fead89" md5="7d0e33b53a0da4c264b27e1d20d95f86" sha1="eacdaf7b9a4356c5a8020ebe37f6d6d097a33326"/>
 		<rom name="Amiga OS 3.9 (Europe) (Track 02).bin" size="53272800" crc="a45c696b" md5="3ad05869ff861cddfc62ac589d25b581" sha1="6a1dfbf103fa75272c5673554ef61895699b3314"/>
 	</game>
-	<game name="Amiga OS 4.0 Developer Pre-Release (USA)" type="" sha1="f3498386809e3158b2fccf69513fc74c38d85b14" size="291826505" crc="2d99cbd7" fullsha1="32bd9cd712d5a43fc3211bb9be4e4e9056f5f200" dataSha1="de4b2ee4f5d354180efbfd13fe69dc78d30fe44a">
+	<game name="Amiga OS 4.0 Developer Pre-Release (USA)" type="cd" sha1="f3498386809e3158b2fccf69513fc74c38d85b14" size="291826505" crc="2d99cbd7" fullsha1="32bd9cd712d5a43fc3211bb9be4e4e9056f5f200" dataSha1="de4b2ee4f5d354180efbfd13fe69dc78d30fe44a">
 		<category>Games</category>
 		<description>Amiga OS 4.0 Developer Pre-Release (USA)</description>
 		<rom name="Amiga OS 4.0 Developer Pre-Release (USA) (Track 01).bin" size="423851568" crc="c9b2c228" md5="7cc3795be3e8306b5d9b157ab3438d10" sha1="9b1782fc66ac97f60351901da533d03c2a7012af"/>
@@ -1237,12 +1237,12 @@
 	</game>
 	<game name="Amiga Plus CD ROM Extra No. 5-96 (Germany)" type="cd" sha1="271436f2f92e97e504760369cd696b58bc0dc88f" size="360983462" crc="33ffe652" fullsha1="d28ec170a3028d8df223a1616db98dcdeaa7d906" dataSha1="6dc679702fe124a996f50707a9d8c1edc12d3e78">
 		<category>Games</category>
-		<description>CD ROM Extra No. 5-96 (Germany)</description>
+		<description>Amiga Plus CD ROM Extra No. 5-96 (Germany)</description>
 		<rom name="Amiga Plus CD ROM Extra No. 5-96 (Germany) (Track 01).bin" size="723350544" crc="6f2c6eb0" md5="0a96f0f5c65bf0687addd9d17581d545" sha1="18aed60b0dbb0a6a7ed3479a21f197040c8d094d"/>
 	</game>
 	<game name="Amiga Plus CD ROM Extra No. 5-97 (Germany)" type="cd" sha1="08a3bce057993a00f02c8ccc855e57acd4e6ab7e" size="275249076" crc="86c4eb2e" fullsha1="716f95026062fcdf14a4440264ba502b0bea880f" dataSha1="83cc392c5cb63ede3f99c203c5459f6ffaff06bf">
 		<category>Games</category>
-		<description>Extra No. 5-97 (Germany)</description>
+		<description>Amiga Plus CD ROM Extra No. 5-97 (Germany)</description>
 		<rom name="Amiga Plus CD ROM Extra No. 5-97 (Germany) (Track 01).bin" size="765378432" crc="d025c20c" md5="69249ee616661405e94685ae422b3922" sha1="3364b182111b16bba49bd4672b564541c6c93844"/>
 	</game>
 	<game name="Amiga Plus CD ROM Extra No. 6-96 (Germany)" type="cd" sha1="6687416fe0412f61f074cd44bfd19915f30e3d72" size="467351392" crc="642c2e73" fullsha1="8a20b493e79cd135efae671507e9defd2a5503e3" dataSha1="0f647c1ef33fdc4747a56e83cbdc1c2d9e846234">
@@ -1332,7 +1332,7 @@
 	</game>
 	<game name="Amiga Plus CD ROM No. 5 September &amp; Oktober '98 (Germany)" type="cd" sha1="d7caf85368e230ae3403ab2b0530fc22cc9edafa" size="361007235" crc="b52eae8a" fullsha1="db0695c44a0b8c44679fa48553c673626f92be53" dataSha1="bd88cf4a708a895596c2250d6d260070dcfae0e4">
 		<category>Games</category>
-		<description> Oktober '98 (Germany)</description>
+		<description>Amiga Plus CD ROM No. 5 September &amp; Oktober '98 (Germany)</description>
 		<rom name="Amiga Plus CD ROM No. 5 September &amp; Oktober '98 (Germany) (Track 01).bin" size="743869392" crc="05e48486" md5="e1190f80bac81f714ff62c939a945c43" sha1="4091cf8473ba72760d923279bbb280fcf182b2be"/>
 	</game>
 	<game name="Amiga Plus CD ROM No. 5-96 (Germany)" type="cd" sha1="e3cdac65a75bac334485140ea2f42a9d973b0141" size="440377884" crc="6857b24c" fullsha1="843c900f75232910f55585faca1bbfddfb1601ff" dataSha1="72320c186951c447243e30c43a2b605020b7aad2">
@@ -1347,7 +1347,7 @@
 	</game>
 	<game name="Amiga Plus CD ROM No. 6 November &amp; Dezember '98 (Germany)" type="cd" sha1="6dfb57854c00813adc01840e9d580704904f33ad" size="366942518" crc="cbf407bc" fullsha1="0266506fd203101a02acf6261f4e75aff947c0e7" dataSha1="0c1ae107aab88fb5ab5cf04f593bfad31d733e00">
 		<category>Games</category>
-		<description>)</description>
+		<description>Amiga Plus CD ROM No. 6 November &amp; Dezember '98 (Germany)</description>
 		<rom name="Amiga Plus CD ROM No. 6 November &amp; Dezember '98 (Germany) (Track 01).bin" size="769760208" crc="123c6f2c" md5="ada5072c7be666af3368b4ad53b81160" sha1="d354e4040e138ceac23f9bdb6ef5b215af9511ff"/>
 	</game>
 	<game name="Amiga Plus CD ROM No. 6 November-Dezember '97 (Germany)" type="cd" sha1="810a762db93bfaf9d5c2cf89224fd3646bbd369c" size="368419208" crc="77b34535" fullsha1="572e5d1ed5627e8cd5f2afaa98e07e9a6e26d001" dataSha1="d60b450342896d33c3f96f4735409a355a009e4d">
@@ -1392,7 +1392,7 @@
 	</game>
 	<game name="Amiga Plus Sonderheft 15 (Germany)" type="cd" sha1="43f11b4557d6fe8c7d3748bced62c2d10c16b117" size="354069300" crc="97f17589" fullsha1="f43579cea914fb6ae7c3eb745924d9ec0da1e17a" dataSha1="46f90abe5b856bb0b3d2fc085a2516b55b026fc0">
 		<category>Games</category>
-		<description> 15 (Germany)</description>
+		<description>Amiga Plus Sonderheft 15 (Germany)</description>
 		<rom name="Amiga Plus Sonderheft 15 (Germany) (Track 01).bin" size="725584944" crc="506bfc4e" md5="0f36eef013c738b8b6e6f61d0628f3ca" sha1="648d0932ba3f61a72b9e0c35ce73e9cf6453923d"/>
 	</game>
 	<game name="Amiga Plus Sonderheft 16 (Germany)" type="cd" sha1="7a8eb1db150b3338f91f68d345cca0d999fb79ee" size="346188782" crc="afc393ad" fullsha1="ca7da3523bb4ccdb00beb3e4d356a6aff38e9fef" dataSha1="27dba5f85cd538b5009612e9e50582c378bbe3fd">
@@ -1407,7 +1407,7 @@
 	</game>
 	<game name="Amiga Plus Sonderheft 18 (Germany)" type="cd" sha1="4bcd48e624c5d565657f37520402f38c3c6ecd01" size="358406805" crc="e67f42fc" fullsha1="ec80c55b6dc5a0689e6de7129ccd6228240613c7" dataSha1="e6755bb4c53dc178ddef214c5655a51b91ec0294">
 		<category>Games</category>
-		<description>any)</description>
+		<description>Amiga Plus Sonderheft 18 (Germany)</description>
 		<rom name="Amiga Plus Sonderheft 18 (Germany) (Track 01).bin" size="729305808" crc="4e439311" md5="b9df5fe7cf0266757d88fca666e115da" sha1="de5a1aca8d846d5d02e2d71d5448e214bb180c7c"/>
 	</game>
 	<game name="Amiga Plus Sonderheft 19 (Germany)" type="cd" sha1="c6b912ece02a5084db609781a02eb37e16ffa696" size="351433214" crc="8879c6ca" fullsha1="b4ec1b9d4bbf9818c6f8665a0a8d7f420c4495de" dataSha1="dc5d476d6f108288465e772f95aeeb521761152b">
@@ -1466,7 +1466,7 @@
 	</game>
 	<game name="Amiga Plus Sonderheft 7 (Germany)" type="cd" sha1="250b04d122afe4cd100b09a47dc7b5e680fe4ae2" size="430763790" crc="7ffee7a1" fullsha1="2b6b3e9821cb5a6b10b40bf0684e54b1bd263d6c" dataSha1="c46d088efff602c69aa146599374a5ebf9a976e2">
 		<category>Games</category>
-		<description>ermany)</description>
+		<description>Amiga Plus Sonderheft 7 (Germany)</description>
 		<rom name="Amiga Plus Sonderheft 7 (Germany) (Track 01).bin" size="780250128" crc="9abd5934" md5="8b9c29b660ddc2a0cfaf52c4129d901e" sha1="6101dff1f7f23602986ca6fe022c368745a69524"/>
 	</game>
 	<game name="Amiga Plus Sonderheft 8 (Germany)" type="cd" sha1="1db80ce5ec562ea9e803ff129f47af85897e06db" size="422893740" crc="7eb3695f" fullsha1="5f891fecabe7b17ed70ec2e24b5f6721984f65a4" dataSha1="275308e3a2399efb2c552e5fd139df2f3a6bd055">
@@ -1491,7 +1491,7 @@
 	</game>
 	<game name="Amiga Special Spiele Hits 1-98 (Germany)" type="cd" sha1="59ade8f0715549ce8137b08734a0b5572f62caa7" size="200822471" crc="fc0b1d65" fullsha1="8b08cc0e905fdc4b49cb548cb5e687276b85b2e7" dataSha1="744b8f6654e7261e6d17b29570b8937a4fccd07d">
 		<category>Games</category>
-		<description>s 1-98 (Germany)</description>
+		<description>Amiga Special Spiele Hits 1-98 (Germany)</description>
 		<rom name="Amiga Special Spiele Hits 1-98 (Germany) (Track 01).bin" size="322002912" crc="bd38af85" md5="39be857c202f83f3cb08d2aab1b97db2" sha1="1a9ef521fb149c25b03cdc87d6ea0edc9ee3dd11"/>
 	</game>
 	<game name="Amiga Times (Germany)" type="cd" sha1="9e0122da6b9844d3ef4b317e9f08d3f78ba2b570" size="369548570" crc="acc9bec9" fullsha1="a150098ea2abd14bb9bc369d874b325395c2bce0" dataSha1="abfe8cde73f770a8e252b491c19137e9373adb6c">
@@ -1499,19 +1499,19 @@
 		<description>Amiga Times (Germany)</description>
 		<rom name="Amiga Times (Germany) (Track 01).bin" size="770315280" crc="7eadd083" md5="bd7398783cc2ca6c5b50d0d2c7fdfb4f" sha1="7047e7b5cbe0fb2c12b619e5b6b1b6683508e1ff"/>
 	</game>
-	<game name="Amiga Tools (Germany)" type="" sha1="a0613c1adfafc440163178681923a27a440689cb" size="370674271" crc="99d25bff" fullsha1="1acec895b3001c4e8813caa43dd846e64a9dcac8" dataSha1="7f36de6ddb55028d29d66c3cb79c946fa9b37673">
+	<game name="Amiga Tools (Germany)" type="cd" sha1="a0613c1adfafc440163178681923a27a440689cb" size="370674271" crc="99d25bff" fullsha1="1acec895b3001c4e8813caa43dd846e64a9dcac8" dataSha1="7f36de6ddb55028d29d66c3cb79c946fa9b37673">
 		<category>Games</category>
 		<description>Amiga Tools (Germany)</description>
 		<rom name="Amiga Tools (Germany) (Track 01).bin" size="752346000" crc="ea2f57f9" md5="f386b03b98898dac1f6e44261d2a76cf" sha1="37c4ab3fe7e19c25b22868bc8c52b69c7cc92b96"/>
 	</game>
-	<game name="Amiga Tools 2 (Germany)" type="" sha1="d84f29aa9b43d0d09a9cfc85ec48f18f14465b0a" size="334542308" crc="7730e5a0" fullsha1="31f5225114e2def749781628536089829c91c2f3" dataSha1="728cdbcf3693261d63d7e8e721db4cafbfb4b88a">
+	<game name="Amiga Tools 2 (Germany)" type="cd" sha1="d84f29aa9b43d0d09a9cfc85ec48f18f14465b0a" size="334542308" crc="7730e5a0" fullsha1="31f5225114e2def749781628536089829c91c2f3" dataSha1="728cdbcf3693261d63d7e8e721db4cafbfb4b88a">
 		<category>Games</category>
 		<description>Amiga Tools 2 (Germany)</description>
 		<rom name="Amiga Tools 2 (Germany) (Track 01).bin" size="759552528" crc="80697767" md5="25a1b89e7927a5ba0e9d6acbad983324" sha1="2cd858c6819fb394212c00365f92a9a64d26926c"/>
 	</game>
 	<game name="Amiga Vademecum Numer 2 (Poland)" type="cd" sha1="f7f9c3f5a5b125d169ec6b6caae535294a708b05" size="382681108" crc="b1680900" fullsha1="f11266c1283f64a05698ed9e1fa17f2cffd62259" dataSha1="6d17a4de9ac75335565d7385bb9c9398b07182a9">
 		<category>Games</category>
-		<description> Numer 2 (Poland)</description>
+		<description>Amiga Vademecum Numer 2 (Poland)</description>
 		<rom name="Amiga Vademecum Numer 2 (Poland) (Track 01).bin" size="542199504" crc="098d0b39" md5="ff84f797323753ff5e756835e16a89d3" sha1="45f60704af8b5cab4b2ccf2689803e2b03175ac9"/>
 		<rom name="Amiga Vademecum Numer 2 (Poland) (Track 02).bin" size="7938000" crc="26a6e14d" md5="adfc1a87fb2bcad4b07e578469c93836" sha1="7596ca41d3e2b90df20af3a84bd20e47e007868a"/>
 		<rom name="Amiga Vademecum Numer 2 (Poland) (Track 03).bin" size="5468400" crc="ce3bfd25" md5="4b1c659d63b553faa1361f6677fc28ee" sha1="fa33cab948fe35875048d03141fdb97a5093da4e"/>
@@ -1536,7 +1536,7 @@
 	</game>
 	<game name="Aminet 12 - June 1996 (Europe) (En,De)" type="cd" sha1="d703464a6030def8213c6218f28452f74486e8e5" size="610056416" crc="ae15db5d" fullsha1="4566a9d50dd93b4f7dc13dc909b0ad66017bbb9b" dataSha1="55852863da85e988876d316f3b2e65f4e9b39d75">
 		<category>Games</category>
-		<description>(Europe) (En,De)</description>
+		<description>Aminet 12 - June 1996 (Europe) (En,De)</description>
 		<rom name="Aminet 12 - June 1996 (Europe) (En,De) (Track 01).bin" size="768675936" crc="c561c16c" md5="e0b3784beb794605879be2ef3d728f9d" sha1="305d6c9c5a0e4f9b952461d4fa218a1ed8a825f6"/>
 	</game>
 	<game name="Aminet 13 - August 1996 (Europe) (En,De)" type="cd" sha1="9f7654359bf37d96a951560f89ee262bfac77695" size="598071016" crc="88ac1590" fullsha1="1d098bc31ac996ee222f2b25b378b3540886d235" dataSha1="95656571ccc5f08b3df0cc65a052406f20118818">
@@ -1741,7 +1741,7 @@
 	</game>
 	<game name="Aminet 5 - March 1995 (Europe) (En,De)" type="cd" sha1="87e38a29a62c7b7349ba74aa0b84c913347ff79a" size="628502367" crc="ced76747" fullsha1="be74913eb9652b2fe144bb99eeae9c022c55c5c0" dataSha1="81fc8488b0e9e4444f60ca9c7269d8cff3720ca6">
 		<category>Games</category>
-		<description>Europe) (En,De)</description>
+		<description>Aminet 5 - March 1995 (Europe) (En,De)</description>
 		<rom name="Aminet 5 - March 1995 (Europe) (En,De) (Track 01).bin" size="767546976" crc="8d3beb55" md5="b8a521541a46f5e0bdd2c7a2f5f28bb1" sha1="1a758e3ca4e26f787d72630ce5f1c719d3a75b7a"/>
 	</game>
 	<game name="Aminet 50 - August 2002 (Europe) (En,De)" type="cd" sha1="ea43d0c3bb308214894f97f50363eecfdef25263" size="511317289" crc="ce870786" fullsha1="7a6f6920600f65ca7e306a4ea09c1c0a9bc7812a" dataSha1="1e49b0acf95cbd5dbb8965b73d3256191dc81b07">
@@ -1786,7 +1786,7 @@
 	</game>
 	<game name="Aminet Amiga CD-ROM - February 1994 (USA) (Alt)" type="cd" sha1="dbdf07e77040c80620dfac20228198b86883f542" size="617588769" crc="d764efe8" fullsha1="27c9853100a8544e24d3538728cd6a34d40b61e8" dataSha1="42f6b648553b289128135a087e865a37b2cd5a4c">
 		<category>Games</category>
-		<description>miga CD-ROM - February 1994 (USA) (Alt)</description>
+		<description>Aminet Amiga CD-ROM - February 1994 (USA) (Alt)</description>
 		<rom name="Aminet Amiga CD-ROM - February 1994 (USA) (Alt) (Track 01).bin" size="732238752" crc="b9d502c7" md5="bc307ba674a1854393eab6e1377d4c64" sha1="ebd37c1672452c6a7470a2a8d1443d24d68df0d2"/>
 	</game>
 	<game name="Aminet Set 1 (Europe) (En,De) (Disc A)" type="cd" sha1="298b947443456af0c3ff320defbd4aee21d64948" size="607620352" crc="dd332add" fullsha1="6344e9ba4648804e16b78686c540b3e981e2d728" dataSha1="456385ef67a485a6a76bee9ca8e3ae9ee915ed49">
@@ -1801,7 +1801,7 @@
 	</game>
 	<game name="Aminet Set 1 (Europe) (En,De) (Disc C)" type="cd" sha1="e356fc8bb4a182cfa39b1a3751c1f3b12ef6dfbc" size="591847516" crc="accce69a" fullsha1="a1c07565e8a67a46223b48a1b70587acff68b8bf" dataSha1="a4f625d3657323df8a4d923c1f08e77b625c1b18">
 		<category>Games</category>
-		<description>1 (Europe) (En,De) (Disc C)</description>
+		<description>Aminet Set 1 (Europe) (En,De) (Disc C)</description>
 		<rom name="Aminet Set 1 (Europe) (En,De) (Disc C) (Track 01).bin" size="720177696" crc="540ced64" md5="329b8544a852fe413d3f4ff1c10ae275" sha1="daecf398dd36dd66559ca6b44fac671f059dcc34"/>
 	</game>
 	<game name="Aminet Set 1 (Europe) (En,De) (Disc D)" type="cd" sha1="5ff3ca4130fe912422e6b4aaf8fde9583649c823" size="580589180" crc="ded07a79" fullsha1="8b5d69e74c1bdde1a100bbb59aa9879d0b2afc1c" dataSha1="05d67618f993899e886a03be86f9c7fb3171fcb7">
@@ -1841,7 +1841,7 @@
 	</game>
 	<game name="Aminet Set 3 (Europe) (En,De) (Disc C) (Fun)" type="cd" sha1="93ac04e03fe6b5372b3724dd609040eda2c80552" size="612809674" crc="f4230dc5" fullsha1="ad8689570a126aa6f276f2e983f90ab3d3678be7" dataSha1="af2f7ced47fc1e728b81d6312a7434b1fdf83cb2">
 		<category>Games</category>
-		<description>)</description>
+		<description>Aminet Set 3 (Europe) (En,De) (Disc C) (Fun)</description>
 		<rom name="Aminet Set 3 (Europe) (En,De) (Disc C) (Fun) (Track 01).bin" size="753999456" crc="ac8c4ee1" md5="d4a880a3fb407cf81f9e113c9685c35f" sha1="b2d26da1356aea63fe2cdea82e690467728767d9"/>
 	</game>
 	<game name="Aminet Set 3 (Europe) (En,De) (Disc D) (Mods)" type="cd" sha1="a8ea07786f01a2f80b857de34048a252df504486" size="613015208" crc="e8f39f3b" fullsha1="65681dadae5722dff81030c324246abe8b5b6210" dataSha1="0e6254b2ff52f1dff0874f9369d29adab015e854">
@@ -1901,7 +1901,7 @@
 	</game>
 	<game name="Aminet Set 6 (Europe) (En,De) (Disc C) (Fun)" type="cd" sha1="b2f1355f8d8b52b589a1489e18762f72f699aacf" size="622596707" crc="c6fbecab" fullsha1="7f0317572ea901dad87766aaae544493170e239b" dataSha1="4503d7b49d7a4904cccf094d9f92f588d27a8620">
 		<category>Games</category>
-		<description>)</description>
+		<description>Aminet Set 6 (Europe) (En,De) (Disc C) (Fun)</description>
 		<rom name="Aminet Set 6 (Europe) (En,De) (Disc C) (Fun) (Track 01).bin" size="753472608" crc="ae5c61a6" md5="e3806ef0785ec6a802faaf38a9e5593c" sha1="5080fe70c610af9e552d648fec93141c6ff2ec7c"/>
 	</game>
 	<game name="Aminet Set 6 (Europe) (En,De) (Disc D) (Mods)" type="cd" sha1="fcb275a5e6a798bcfe587770f2e69ca6e6c596f6" size="631570575" crc="7cd52498" fullsha1="7674b705bc6c85874df6813b4974fd706ac384ea" dataSha1="f06b3be92d1c41cc0ec52caf0fc00b6505e795b3">
@@ -1916,7 +1916,7 @@
 	</game>
 	<game name="Aminet Set 7 (Europe) (En,De) (Disc B) (Gfx)" type="cd" sha1="f5d0a1b6dfa64677f6ca8349e5b5b1e63d158ed6" size="616728855" crc="b89d7f12" fullsha1="b0bcbbe577ef12319c7d76d53ea53037b7a0ef77" dataSha1="bf64bb5d0e7b50ffcbfc1e43ec60dc75e76d7096">
 		<category>Games</category>
-		<description>sc B) (Gfx)</description>
+		<description>Aminet Set 7 (Europe) (En,De) (Disc B) (Gfx)</description>
 		<rom name="Aminet Set 7 (Europe) (En,De) (Disc B) (Gfx) (Track 01).bin" size="746259024" crc="8342793e" md5="ab7c6c5ab4fd71074745f9c48c2b9e45" sha1="6aa38c41039bc4daac949efeabb130f673443425"/>
 	</game>
 	<game name="Aminet Set 7 (Europe) (En,De) (Disc C) (Fun)" type="cd" sha1="a0e321cec4165db9e4ee4c813105cec5f17c3172" size="625595463" crc="d7cafda4" fullsha1="3457b36a17b3c6963afb1342b203e3c646cc7ea7" dataSha1="d87673b56661586a1888c8a5fcf545601a5290c8">
@@ -1951,7 +1951,7 @@
 	</game>
 	<game name="Aminet Set 9 (Europe) (En,De) (Disc A) (Tools)" type="cd" sha1="08f915e747972e507886dd1409aa9d7f15ec51b6" size="443157638" crc="74b7d409" fullsha1="1db6d03ab09d96c9e62cf9a330a000bf93b9edb8" dataSha1="9488c65257d4ff7bcce12cd51156a8714e61d8ef">
 		<category>Games</category>
-		<description>urope) (En,De) (Disc A) (Tools)</description>
+		<description>Aminet Set 9 (Europe) (En,De) (Disc A) (Tools)</description>
 		<rom name="Aminet Set 9 (Europe) (En,De) (Disc A) (Tools) (Track 01).bin" size="752256624" crc="dd252cd8" md5="2dfcd9abcd218780b96f6ad8ab8e98b6" sha1="8b162821434af90c2c01625bb88db746f445471f"/>
 	</game>
 	<game name="Aminet Set 9 (Europe) (En,De) (Disc B) (Gfx)" type="cd" sha1="4480718cff6602a6f2de7c5e0d29fa3aa2336a38" size="563632383" crc="4d496934" fullsha1="bd1a189f0d49da03e29f5c59254b99664ed3799b" dataSha1="80822ca7fb416f444eb59c89801a22476ffba4bc">
@@ -1971,7 +1971,7 @@
 	</game>
 	<game name="Animatic (Germany)" type="cd" sha1="f477e2e22ab33823ffa01629b187c78be2f6decb" size="406663660" crc="a283c751" fullsha1="e7aafadccba7b1ca403ea3a5aad6e6af4653734e" dataSha1="875ab433877ae4a1c0556c80d67fde33c8e6fcd6">
 		<category>Games</category>
-		<description>ermany)</description>
+		<description>Animatic (Germany)</description>
 		<rom name="Animatic (Germany) (Track 01).bin" size="715998192" crc="c46ea7ed" md5="e7f428c238fe286bfe576465847df435" sha1="c72981a423af376c20e9a8f8350863b9243b026a"/>
 		<rom name="Animatic (Germany) (Track 02).bin" size="66159408" crc="eb553e4c" md5="f2b2091a055b32fea1c54d1a31f7fd16" sha1="9ac3b1c265e60c0a262b25bcbc1dce5a86f4a9f3"/>
 	</game>
@@ -2027,7 +2027,7 @@
 	</game>
 	<game name="CU Amiga Magazine Super CD-ROM 10 - May 1997 (UK)" type="cd" sha1="f0691bf6fb820557bede1c8d7c10d2348edefab5" size="374458343" crc="244c18c8" fullsha1="d844f0041dce4f97a86e16cf2589f49459d44ba2" dataSha1="bb394c10ce639a8ed088eac46e8a080b0394fb4f">
 		<category>Games</category>
-		<description> Magazine Super CD-ROM 10 - May 1997 (UK)</description>
+		<description>CU Amiga Magazine Super CD-ROM 10 - May 1997 (UK)</description>
 		<rom name="CU Amiga Magazine Super CD-ROM 10 - May 1997 (UK) (Track 01).bin" size="688122288" crc="16dca806" md5="8fcdd06c83e5ee81efe756a943fa6ef8" sha1="bc295bda7bcb7f9625f8bf9f0a56b2543b8237e7"/>
 		<rom name="CU Amiga Magazine Super CD-ROM 10 - May 1997 (UK) (Track 02).bin" size="46252080" crc="00eaf809" md5="66988700ff531f311730c4caa70e6211" sha1="174d12464f41b4573bbcf75e1ab9397b13456749"/>
 		<rom name="CU Amiga Magazine Super CD-ROM 10 - May 1997 (UK) (Track 03).bin" size="44887920" crc="211012a4" md5="e64b9be80744fb54bfac1046aa76d7dc" sha1="2677b522271444a1c2b2d070848fd454d7a688bc"/>
@@ -2046,7 +2046,7 @@
 	</game>
 	<game name="CU Amiga Magazine Super CD-ROM 13 - August 1997 (UK)" type="cd" sha1="aa08a05fd8c4454db5a0bb77c001469d789685f2" size="316439060" crc="694f0c71" fullsha1="3a547dcc40f42787588640865a976b83e7cfb5f7" dataSha1="0b6cd74c2a65f4eb0b79e8479c74121d2ce2daa0">
 		<category>Games</category>
-		<description>UK)</description>
+		<description>CU Amiga Magazine Super CD-ROM 13 - August 1997 (UK)</description>
 		<rom name="CU Amiga Magazine Super CD-ROM 13 - August 1997 (UK) (Track 01).bin" size="729576288" crc="d28c6ea9" md5="de86673276a45c5e9d8991318b0ef558" sha1="e719f7089ab9980761808169ef1b5304e722c91e"/>
 		<rom name="CU Amiga Magazine Super CD-ROM 13 - August 1997 (UK) (Track 02).bin" size="49961184" crc="66d61753" md5="50c35b8d81a2a99f87ca922dcea94192" sha1="25f1bcfdefd756be9e3bdef5b1655d4e8d6dc127"/>
 	</game>
@@ -2121,12 +2121,12 @@
 	</game>
 	<game name="CU Amiga Magazine Super CD-ROM 27 - October 1998 (UK)" type="cd" sha1="37943aaa80fecc502e594bb4cd9e8ecedf53d182" size="377111219" crc="a388e19c" fullsha1="66fe5dfdb76a946d08019f83240cf9846d3a36ba" dataSha1="1e4c9e17c205ccb1f06325f35b4d19bff94dae9a">
 		<category>Games</category>
-		<description>98 (UK)</description>
+		<description>CU Amiga Magazine Super CD-ROM 27 - October 1998 (UK)</description>
 		<rom name="CU Amiga Magazine Super CD-ROM 27 - October 1998 (UK) (Track 01).bin" size="777408912" crc="5b96426c" md5="c0829bb2b71193f678fddf43bfb0db89" sha1="1d425c39a40899dcc4259c60ebb5b137c6bb96e1"/>
 	</game>
 	<game name="CU Amiga Magazine Super CD-ROM 4 - November 1996 (UK)" type="cd" sha1="1be3f6e955ad67f63efdab4b297b3e9cced5fa11" size="313183553" crc="7468a5df" fullsha1="cacd2a84d4c0a10f342ef882b401c41f3b64f521" dataSha1="6bc80ef68d96a9eea076dc95f056643ca5716ae5">
 		<category>Games</category>
-		<description>(UK)</description>
+		<description>CU Amiga Magazine Super CD-ROM 4 - November 1996 (UK)</description>
 		<rom name="CU Amiga Magazine Super CD-ROM 4 - November 1996 (UK) (Track 01).bin" size="548582832" crc="8eb98cf0" md5="d4605b16990c6f8195b744d016d61fd8" sha1="1b25c49e9f993548f886ad44af6313e5ede6ea6c"/>
 		<rom name="CU Amiga Magazine Super CD-ROM 4 - November 1996 (UK) (Track 02).bin" size="70623504" crc="4fd0f6ba" md5="ae82a407f041abbd7073343e8e7f40e4" sha1="d4ffc21eee149f1f273f4cb1b26fb1c00496029d"/>
 		<rom name="CU Amiga Magazine Super CD-ROM 4 - November 1996 (UK) (Track 03).bin" size="34783728" crc="5c267f7c" md5="bddfb368b199c0d16677834a813da320" sha1="ec3f277727726b4da4dd8fade1f0cce01626a9e1"/>
@@ -2220,7 +2220,7 @@
 	</game>
 	<game name="Diamond's &amp; Pearl's are the Users Best Friends - Grafik Volume Nr. 1 (Germany) (Grafik Collection 94 Nr. 1)" type="cd" sha1="2c5bd06a6d181d29ce417a9ff1365ff1cc7fc033" size="63478142" crc="b4fbb81f" fullsha1="5d04c3e432815ac2d9a75f74c4493a83d6497be4" dataSha1="1268e7b4b47731f96406f7a60044da863a3d2634">
 		<category>Games</category>
-		<description> Pearl's are the Users Best Friends - Grafik Volume Nr. 1 (Germany) (Grafik Collection 94 Nr. 1)</description>
+		<description>Diamond's &amp; Pearl's are the Users Best Friends - Grafik Volume Nr. 1 (Germany) (Grafik Collection 94 Nr. 1)</description>
 		<rom name="Diamond's &amp; Pearl's are the Users Best Friends - Grafik Volume Nr. 1 (Germany) (Grafik Collection 94 Nr. 1) (Track 01).bin" size="98863968" crc="9108c732" md5="2eda6a2871f70a1d8496664174da53ca" sha1="8ed85e1165c9368f97e291562ca1133ed7f444b2"/>
 	</game>
 	<game name="Dream Numero 41 (France)" type="cd" sha1="dc8da70492ef37ae65c8f1f1cc919552356fe418" size="582310388" crc="e41ffe01" fullsha1="7010ab5c818943986005a8c76de6a6576f9c5f69" dataSha1="f8387d79fc336c9ed7d5f58fab302bee6e8b11a0">
@@ -2285,7 +2285,7 @@
 	</game>
 	<game name="Final Odyssey - Theseus Verses the Minotaur (Europe) (En,De,Es,It,No,Da,Fi)" type="cd" sha1="d6e9e0fda0dc237dd749f47b19d459c2288e0a56" size="128640958" crc="614d3efa" fullsha1="db1763b926a90175470871361e02047d0cc457f8" dataSha1="a6d471cd0176ff7dd178d2801e5bfd3484925a8e">
 		<category>Games</category>
-		<description>,It,No,Da,Fi)</description>
+		<description>Final Odyssey - Theseus Verses the Minotaur (Europe) (En,De,Es,It,No,Da,Fi)</description>
 		<rom name="Final Odyssey - Theseus Verses the Minotaur (Europe) (En,De,Es,It,No,Da,Fi) (Track 01).bin" size="227304336" crc="c1877303" md5="1edb65afd509b81568618178fb2272a0" sha1="fa37698bfa1853dfb5fa15c17e6e35751a0e81c7"/>
 	</game>
 	<game name="Forest Dumb Forever!!! (Europe)" type="cd" sha1="241edda38b89abcaabd74e23d4f8c73eebb2f620" size="1312350" crc="ff129ffa" fullsha1="1dd27444c102a876a5add27d96f06a183252cd59" dataSha1="d13e2ad35fe85776cb166a079cde171baf89b634">
@@ -2370,7 +2370,7 @@
 	</game>
 	<game name="Fresh Fish Volume 8 (USA) (Disc 1)" type="cd" sha1="1b415ffc3764ebcbf0bebb9a78688fec0c1e12f1" size="309799205" crc="3db7fb2a" fullsha1="e576de1042605bab0bf3478e7860f78fbbf6abe7" dataSha1="6904f102e87fa56f9023bef58ceb1464df2a8869">
 		<category>Games</category>
-		<description>SA) (Disc 1)</description>
+		<description>Fresh Fish Volume 8 (USA) (Disc 1)</description>
 		<rom name="Fresh Fish Volume 8 (USA) (Disc 1) (Track 01).bin" size="693376656" crc="93a4484e" md5="0bec45758c23b4d50b76b30a94b38cbe" sha1="3835680a5bc692762dc84fe6b83a2d3a77fbfa8d"/>
 	</game>
 	<game name="Fresh Fish Volume 8 (USA) (Disc 2)" type="cd" sha1="bc5f703b234c07090e365c34c9694ff6a4acf95d" size="489355928" crc="8199d77e" fullsha1="ab961c9766277c6eb79207a296b650ec59bf2575" dataSha1="e34db269f49b7c57e83806c711647aebd5b06833">
@@ -2453,7 +2453,7 @@
 	</game>
 	<game name="GigaPD V2.0 - The Biggest Collection of Freely Distributable Software for the Amiga with CD-ROM Drive - In ISO Level 1 (Germany)" type="cd" sha1="399ebef02d3a2e46e222ab4dd6aca2c29c5408f6" size="690680910" crc="0414ee57" fullsha1="f894eb1b6d8f535bc9c4c2c19e20c354e8b8808a" dataSha1="37fc5536ab8bf81cfdddb6c38906709031641a52">
 		<category>Games</category>
-		<description>tware for the Amiga with CD-ROM Drive - In ISO Level 1 (Germany)</description>
+		<description>GigaPD V2.0 - The Biggest Collection of Freely Distributable Software for the Amiga with CD-ROM Drive - In ISO Level 1 (Germany)</description>
 		<rom name="GigaPD V2.0 - The Biggest Collection of Freely Distributable Software for the Amiga with CD-ROM Drive - In ISO Level 1 (Germany) (Track 01).bin" size="806500800" crc="82c76797" md5="ffbb6a9f9a2160c817726a77881cd5be" sha1="182eacbc27562aca912572be71d783d42172d6d3"/>
 	</game>
 	<game name="GigaPD V3.0 - 3-CD ROM Set fuer Amiga Computer mit CD-ROM Laufwerk (Germany) (Disc 1)" type="cd" sha1="6509e27a8868aeb418eae4b52f4a1fc218292c20" size="579138665" crc="1d9f85e7" fullsha1="aa086ffef2f14e744bce890b4075525b7080e381" dataSha1="5aabfce0cf643d327653ca11b554d99d041c3885">
@@ -2463,12 +2463,12 @@
 	</game>
 	<game name="GigaPD V3.0 - 3-CD ROM Set fuer Amiga Computer mit CD-ROM Laufwerk (Germany) (Disc 2) (Update 1)" type="cd" sha1="8e781782a773d8c6633ff0008c3c2a264069bde3" size="554282384" crc="58682aae" fullsha1="5af19a2e079222eca0fbf4fd9b72cebd217e672c" dataSha1="6d5bc2c02b43e9ff7bdcb99ecd5fa8df19bd18bf">
 		<category>Games</category>
-		<description>ROM Set fuer Amiga Computer mit CD-ROM Laufwerk (Germany) (Disc 2) (Update 1)</description>
+		<description>GigaPD V3.0 - 3-CD ROM Set fuer Amiga Computer mit CD-ROM Laufwerk (Germany) (Disc 2) (Update 1)</description>
 		<rom name="GigaPD V3.0 - 3-CD ROM Set fuer Amiga Computer mit CD-ROM Laufwerk (Germany) (Disc 2) (Update 1) (Track 01).bin" size="768222000" crc="26f29af8" md5="b3e63a62f22071e790e0d6c944a0c183" sha1="80b7c4c098b44111cc732fc520e204fb073d1e14"/>
 	</game>
 	<game name="GigaPD V3.0 - 3-CD ROM Set fuer Amiga Computer mit CD-ROM Laufwerk (Germany) (Disc 3) (Update 2)" type="cd" sha1="53fddf31494d9126aff0f9bd7d0fd0eb1d550328" size="472486082" crc="8d60ecba" fullsha1="e0dcae9be9b7195dc40b73f3ca22ede655fdcfa6" dataSha1="17b19ec4078dee0ceaa64cd2fc8c294278bf791b">
 		<category>Games</category>
-		<description>date 2)</description>
+		<description>GigaPD V3.0 - 3-CD ROM Set fuer Amiga Computer mit CD-ROM Laufwerk (Germany) (Disc 3) (Update 2)</description>
 		<rom name="GigaPD V3.0 - 3-CD ROM Set fuer Amiga Computer mit CD-ROM Laufwerk (Germany) (Disc 3) (Update 2) (Track 01).bin" size="699421296" crc="f68a5a09" md5="3dceba4aad1bffb8c6518e2b03569e5d" sha1="ed2acafdb94f4f29cb0ad7a9bd20877ce3775516"/>
 	</game>
 	<game name="Global Amiga Experience, The (Europe)" type="cd" sha1="7c82e26652212602b9761f3a71bef920e5ce10c9" size="318261510" crc="8dba5faf" fullsha1="dad606e2d31153a52ae5761cf1e87b107d70db1e" dataSha1="01ebc340b23258159ce6aca06933598b151b9900">
@@ -2506,7 +2506,7 @@
 		<description>GoldFish Volume 2 (USA) (Disc 2)</description>
 		<rom name="GoldFish Volume 2 (USA) (Disc 2) (Track 01).bin" size="745195920" crc="fb95fe82" md5="144e6fd36abc369db705c205b30ff22b" sha1="aaa8cb78e0e60d6467027ccaa7d06bd28f1ca498"/>
 	</game>
-	<game name="Golden Demos - The Amiga Demo Collection! (Germany) (En,De)" type="" sha1="e575b52bb1b0d6422361a5d6fb6dd3b5b7a4e7a5" size="636154453" crc="d5dc56c9" fullsha1="1f8812e28fd665786b0c2b44c0c9128ad6b11cc6" dataSha1="1a3ad5038fe5b98c0b7a18f1b183c6bf4228bd53">
+	<game name="Golden Demos - The Amiga Demo Collection! (Germany) (En,De)" type="cd" sha1="e575b52bb1b0d6422361a5d6fb6dd3b5b7a4e7a5" size="636154453" crc="d5dc56c9" fullsha1="1f8812e28fd665786b0c2b44c0c9128ad6b11cc6" dataSha1="1a3ad5038fe5b98c0b7a18f1b183c6bf4228bd53">
 		<category>Games</category>
 		<description>Golden Demos - The Amiga Demo Collection! (Germany) (En,De)</description>
 		<rom name="Golden Demos - The Amiga Demo Collection! (Germany) (En,De) (Track 01).bin" size="758190720" crc="ee0c87c8" md5="15e353d224b230f873a8cec9f12bccde" sha1="0d70a379122d79b2f89531be23c4adaccca6d10a"/>
@@ -2516,7 +2516,7 @@
 		<description>Gorky 17 (Europe) (En,Fr,De,Es)</description>
 		<rom name="Gorky 17 (Europe) (En,Fr,De,Es) (Track 01).bin" size="797605536" crc="521501be" md5="1041f52a67226860d1ce5cddad9d0473" sha1="fa3d94734052b9134cecdbf742d8ac77eec7dcc2"/>
 	</game>
-	<game name="Gremlin Classix (UK)" type="" sha1="129b2ce96f5a2749bae98a5fb8bb64f3ffe7d924" size="172958009" crc="3c9669fb" fullsha1="9d7b3bcf845c6c4fd74db41792a76cabb13f908b" dataSha1="32cffd02e082a7646cd5d9db763277fc2000ea83">
+	<game name="Gremlin Classix (UK)" type="cd" sha1="129b2ce96f5a2749bae98a5fb8bb64f3ffe7d924" size="172958009" crc="3c9669fb" fullsha1="9d7b3bcf845c6c4fd74db41792a76cabb13f908b" dataSha1="32cffd02e082a7646cd5d9db763277fc2000ea83">
 		<category>Games</category>
 		<description>Gremlin Classix (UK)</description>
 		<rom name="Gremlin Classix (UK) (Track 01).bin" size="286887552" crc="df3ffae6" md5="c5c304af0d273eec32e5ab51f08f2e39" sha1="b32875b5fb18178c7f9657e0024aeb6113feed6d"/>
@@ -2533,7 +2533,7 @@
 	</game>
 	<game name="Illustrated Works of Shakespeare (Europe)" type="cd" sha1="37a0beb544378997afbe519f9363e767adcada8f" size="17211185" crc="93d34507" fullsha1="5e54c12eda0c560b48f96df7dfba53990a6cdeea" dataSha1="894bda47a5780eff27381d3b39c811235bc0dd29">
 		<category>Games</category>
-		<description>akespeare (Europe)</description>
+		<description>Illustrated Works of Shakespeare (Europe)</description>
 		<rom name="Illustrated Works of Shakespeare (Europe) (Track 01).bin" size="53214000" crc="29c9634c" md5="a6984256d64d0daad5423575a805b41e" sha1="bab8b78ce7c95da36b650394cfbc285af7726da0"/>
 	</game>
 	<game name="Kang Fu (Europe)" type="cd" sha1="d9c8839eb5992322da8eb7a0ede8b0a1340845fb" size="379185313" crc="9cccb13b" fullsha1="cec7d186efa92da78437bf7fe6d749ad19da849f" dataSha1="f8971a88a7faefbf9550db28973986a46829c831">
@@ -2627,7 +2627,7 @@
 	</game>
 	<game name="Linux (Europe)" type="cd" sha1="9d78d96fe4bf18f58d916a9f70bb81dbcb9767f6" size="622015293" crc="a944f7e4" fullsha1="9e603b9a7a9c7d1a4f8e9beafd6b50920e81f05c" dataSha1="222e36a868b790bb5d9f6f05fad931b4e13f9250">
 		<category>Games</category>
-		<description>ux (Europe)</description>
+		<description>Linux (Europe)</description>
 		<rom name="Linux (Europe) (Track 01).bin" size="734376720" crc="e1e59dc2" md5="9359a61e5af279d5897f90703546191a" sha1="559cd701a2773abee009acd7340e4b73bdb42e58"/>
 	</game>
 	<game name="Lock-N-Load Games Compilation (USA)" type="cd" sha1="be3c11f5d9ca57a8c89b25f4180c5a205facf3b7" size="162985884" crc="890e8858" fullsha1="0ef4e0f52ff3543cfd2c4dac57321a4e28a5a481" dataSha1="173f278ba8da42d5cb745386aac0997ca3f427eb">
@@ -2681,7 +2681,7 @@
 	</game>
 	<game name="Megahits 1 (Germany)" type="cd" sha1="80b7ec763c75ac437cb0f6592a2f78b94b125edf" size="367235458" crc="aec472db" fullsha1="30614986b25f515c174633d8a4ed233d2633a5ef" dataSha1="dcb955cf7bf6df03ed25d8520247bb30acc174e1">
 		<category>Games</category>
-		<description>any)</description>
+		<description>Megahits 1 (Germany)</description>
 		<rom name="Megahits 1 (Germany) (Track 01).bin" size="608050800" crc="1e0fd7d3" md5="f10f49684d9277344ab982ff282294a1" sha1="b523f4889fad7173ecdf73bf1951f13f1b03693e"/>
 	</game>
 	<game name="Megahits 2 (Germany)" type="cd" sha1="e0d40dd0167dcbae85e91af36a3375ac1c0bf428" size="428370638" crc="7db770d6" fullsha1="656a50ebee2b0137ff12fe7806ad72aaca26c4aa" dataSha1="651ebf75c21d7226dde8936e226ec1e191e3f4b9">
@@ -2736,7 +2736,7 @@
 	</game>
 	<game name="Napalm (Europe)" type="cd" sha1="63f2584fefdd87883ea6414600075e2813bca52e" size="362329918" crc="18bf35b1" fullsha1="8b14fcde7d0fa45325cc2f555c8113e9d0aeb94b" dataSha1="95a284d03454278612783bdff3940d26e508b8d5">
 		<category>Games</category>
-		<description>m (Europe)</description>
+		<description>Napalm (Europe)</description>
 		<rom name="Napalm (Europe) (Track 01).bin" size="210353472" crc="a2be921d" md5="c6c1b80a96cece829d350321fd1a2f84" sha1="7afa24d7d7a62ec3f489fea3e923298cf863dbbb"/>
 		<rom name="Napalm (Europe) (Track 02).bin" size="39080832" crc="c21e5084" md5="9d8147db3b83b6253a7a416543ec83cf" sha1="3d5ec8830741aacb17feed77533efe45558dbb2c"/>
 		<rom name="Napalm (Europe) (Track 03).bin" size="43615488" crc="fe0ed9c0" md5="48d3a73770ea448bb51d9e8b9ec5ef00" sha1="61f1e400d1fa07bb2eb875d8c5a3b7d6f3d30737"/>
@@ -2816,7 +2816,7 @@
 	</game>
 	<game name="Oh Yes... More Worms! Volume 1 (UK)" type="cd" sha1="6cb48087c334872f43f3dc2e22396c52e27b1d75" size="39318761" crc="aeff764b" fullsha1="16ed633ffdcd05eaebb3547e0ff75223fafc6c46" dataSha1="e14bf715376f58f844424eb7eb8f464846bbfdde">
 		<category>Games</category>
-		<description>Volume 1 (UK)</description>
+		<description>Oh Yes... More Worms! Volume 1 (UK)</description>
 		<rom name="Oh Yes... More Worms! Volume 1 (UK) (Track 01).bin" size="103937232" crc="a4cbe52e" md5="40d4815754d278958bce6a31932703e9" sha1="a1c1aee7116ba5f99d2f591c634abe23ab36403e"/>
 	</game>
 	<game name="Oldtimer (Germany)" type="cd" sha1="727142ebccd5e61ca4579021999c0dbf7849170b" size="10011846" crc="d91b45ad" fullsha1="9904e49c08d0c420c1efd10e0eb11dc491d9c51f" dataSha1="ad12dd04e90ff762537372e4688a497d44191fb4">
@@ -2826,7 +2826,7 @@
 	</game>
 	<game name="OnEscapee (Europe) (En,Fr,De,It,Nl,Pt,Sv,Da,Fi,Hr,Sk,Tr)" type="cd" sha1="bd993a32c5daaff07eec6d653f874bd4d9234270" size="115231305" crc="eba35c28" fullsha1="8c14c03148b81f474f33fc2a6009d35e3d9ced61" dataSha1="f7db0061d5aed2c3ff7275251961eda1e11061a8">
 		<category>Games</category>
-		<description>(Europe) (En,Fr,De,It,Nl,Pt,Sv,Da,Fi,Hr,Sk,Tr)</description>
+		<description>OnEscapee (Europe) (En,Fr,De,It,Nl,Pt,Sv,Da,Fi,Hr,Sk,Tr)</description>
 		<rom name="OnEscapee (Europe) (En,Fr,De,It,Nl,Pt,Sv,Da,Fi,Hr,Sk,Tr) (Track 01).bin" size="203497392" crc="9a7c1bc7" md5="e1df089063a849595bdc74c710d19840" sha1="02e6a6659d1aa570384adb5f7f371389e306f2c1"/>
 	</game>
 	<game name="P.OS PreRelease (Germany) (En,De)" type="cd" sha1="ed8fbe6725f521ad93c69c491437aff8f03482eb" size="17742790" crc="e725877a" fullsha1="857466e94433cab9f8282f1365c88afa4006520e" dataSha1="b64e9a9f022dc39f66a8a3247223bf86387c2887">
@@ -2866,7 +2866,7 @@
 	</game>
 	<game name="Phase 1 - Fonts, Clipart and Images (UK)" type="cd" sha1="54da40fba7ab0860af003556084eeb3714da4f3b" size="467535877" crc="637a6b20" fullsha1="45909338a244fe4386597fccaf061c0bce44b1eb" dataSha1="6329b55997970e589ca3136d15a1e5c42797f714">
 		<category>Games</category>
-		<description>and Images (UK)</description>
+		<description>Phase 1 - Fonts, Clipart and Images (UK)</description>
 		<rom name="Phase 1 - Fonts, Clipart and Images (UK) (Track 01).bin" size="780812256" crc="d950d975" md5="08f0710e2693c548310a05b47ed71114" sha1="51717a58b238a4734f15167a760215755898c811"/>
 	</game>
 	<game name="Phase 2 - Fonts, Clipart and Images (UK)" type="cd" sha1="aa0e7d7d3949106d05e598a0414ddac08c06bc1d" size="483135844" crc="eca5c811" fullsha1="fd41174e28bbf8bce3f9dd845c406ad56bd1809f" dataSha1="01a91254078b2e482fa617576fcf4549fcd84055">
@@ -2874,7 +2874,7 @@
 		<description>Phase 2 - Fonts, Clipart and Images (UK)</description>
 		<rom name="Phase 2 - Fonts, Clipart and Images (UK) (Track 01).bin" size="778210944" crc="1502b1fc" md5="b9d949dac3f9e7935b8c6557526a63cc" sha1="5a215ccd78c13d7bc70ac39e9b4b7dacdcb38562"/>
 	</game>
-	<game name="Phoenix Fighters (Europe)" type="" sha1="46a93437a5d5ba09034160bd39f6b35d18a6da82" size="1931951" crc="2cdaed9a" fullsha1="d06cb135ef24119371fd13444caa2dd0693ed080" dataSha1="c073fec4194530fb666b5d936e9dce07db665638">
+	<game name="Phoenix Fighters (Europe)" type="cd" sha1="46a93437a5d5ba09034160bd39f6b35d18a6da82" size="1931951" crc="2cdaed9a" fullsha1="d06cb135ef24119371fd13444caa2dd0693ed080" dataSha1="c073fec4194530fb666b5d936e9dce07db665638">
 		<category>Games</category>
 		<description>Phoenix Fighters (Europe)</description>
 		<rom name="Phoenix Fighters (Europe) (Track 01).bin" size="3177552" crc="97eb0638" md5="a40148b1ce248934fae0bf3e4db80506" sha1="048ff1cf10988044bb3278b883496d6e12c78fcf"/>
@@ -2961,7 +2961,7 @@
 	</game>
 	<game name="Scene Archive, The - 1988-1998 (Germany)" type="cd" sha1="400f0a65a888a796ab803771ac07aad9109d54d7" size="460889771" crc="4bf03042" fullsha1="843fd02618271fb77f69022205dfbed2999b21d9" dataSha1="4f024d7619b51733275ac0433bc78a24a89b2f0a">
 		<category>Games</category>
-		<description> - 1988-1998 (Germany)</description>
+		<description>Scene Archive, The - 1988-1998 (Germany)</description>
 		<rom name="Scene Archive, The - 1988-1998 (Germany) (Track 01).bin" size="784422576" crc="5a2bc04c" md5="9031e001cbc1cb49c9686e78ff68ba0f" sha1="80d59150425148ba44d464274abd6b56ce23fb79"/>
 	</game>
 	<game name="Scene Storm (UK)" type="cd" sha1="ec6481194510a271832096ebb518e77eff63de37" size="445614338" crc="6131fb83" fullsha1="2d0500bd5816102bb0edc2a0011c78edc27a5d07" dataSha1="d3e473a75a5b1a74d5f12d9028a236e32060251d">
@@ -2981,7 +2981,7 @@
 	</game>
 	<game name="Shadow of the Third Moon, The (Europe)" type="cd" sha1="df0fb41e5247c9a1171d24ea27d3a1c91c38c89c" size="364250304" crc="640bf251" fullsha1="2b5501da8c994549f4eb1c21b07d046f8f82d7dc" dataSha1="e79db4706e681f703f02c61b8a75b26ee07a70a5">
 		<category>Games</category>
-		<description>on, The (Europe)</description>
+		<description>Shadow of the Third Moon, The (Europe)</description>
 		<rom name="Shadow of the Third Moon, The (Europe) (Track 01).bin" size="123825744" crc="afeee496" md5="7793679d756408c8a5558ad7b53df158" sha1="a28a87ab5fd3958af5fec82ba568c2b27cdcb38f"/>
 		<rom name="Shadow of the Third Moon, The (Europe) (Track 02).bin" size="37528512" crc="3bdce045" md5="c1d89862ecf210aa4657816f7939b9d4" sha1="2aa01c28d08e388015c2a5ad4c2dd94970cef941"/>
 		<rom name="Shadow of the Third Moon, The (Europe) (Track 03).bin" size="55937616" crc="c193e5db" md5="052aacbd478986251db11b788727735b" sha1="e0ae835704ff9d8f536be9e9dc84d83a8c3f3eed"/>
@@ -3135,12 +3135,12 @@
 	</game>
 	<game name="Ultimedia II (Germany) (En,De)" type="cd" sha1="b1ebbcf08aa557edc019e43556851f87c30b2d24" size="329375185" crc="e6cf37d4" fullsha1="0ebaee13293f00b1567333c04d65788b5088ae61" dataSha1="b9bf28d119b95890b8e3c64ce00679abdaf99297">
 		<category>Games</category>
-		<description>n,De)</description>
+		<description>Ultimedia II (Germany) (En,De)</description>
 		<rom name="Ultimedia II (Germany) (En,De) (Track 01).bin" size="558021408" crc="0c230936" md5="c5ddb37406b50b69bd9ebca11ab6e759" sha1="0c283d3900bede4850ee07ecf49b140f5f587178"/>
 	</game>
 	<game name="Ultimedia III + IV (Germany) (En,De) (Disc 1) (Ultimedia 3)" type="cd" sha1="01f58c6bc1c93bc816384dd22516fd17a73f9bfd" size="472096613" crc="0fb5c476" fullsha1="7bdebfe11cb9428aa33e4eb5211e3b9a2e2f61d1" dataSha1="053cf3af3e41a53ed540e44f2100afccfe9398ed">
 		<category>Games</category>
-		<description>(Germany) (En,De) (Disc 1) (Ultimedia 3)</description>
+		<description>Ultimedia III + IV (Germany) (En,De) (Disc 1) (Ultimedia 3)</description>
 		<rom name="Ultimedia III + IV (Germany) (En,De) (Disc 1) (Ultimedia 3) (Track 01).bin" size="625829568" crc="0a923188" md5="015e44962dd8f2931b44a623c03ab543" sha1="de091b70d6cad074aafd16006f0d73956a11170f"/>
 		<rom name="Ultimedia III + IV (Germany) (En,De) (Disc 1) (Ultimedia 3) (Track 02).bin" size="41009472" crc="76e16df8" md5="ccb517b7120c8e1a0f8bd43fffd27aff" sha1="7ab7f747b0ff399d1853c99c958c67994ef9c336"/>
 		<rom name="Ultimedia III + IV (Germany) (En,De) (Disc 1) (Ultimedia 3) (Track 03).bin" size="21621936" crc="6262c8d9" md5="92e29f0edd9bf8d275b96b744c9900bf" sha1="2411b19a7bc4b4400f26b0d0b696baf70b15a2ba"/>
