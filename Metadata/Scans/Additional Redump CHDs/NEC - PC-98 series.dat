@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0"?>
-<!DOCTYPE datafile PUBLIC " -//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
 		<name>NEC - PC-98 series</name>
 		<description>NEC - PC-98 series</description>
-		<version>0.267</version>
+		<version>0.274</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -18,6 +18,11 @@
 		<category>Games</category>
 		<description>Ardor Aeternus - Wasureenu Honoo (Japan)</description>
 		<rom name="Ardor Aeternus - Wasureenu Honoo (Japan) (Track 01).bin" size="16266432" crc="c3e0e0e0" md5="c39301016c5f5c77e599cd7930fbc816" sha1="4edd9fc8419c59640997e2b6bfdaf95ef9506962"/>
+	</game>
+	<game name="Cyberia (Japan)" type="cd" sha1="251b1e427f36a5c83db7992c9c348263a08a008a" size="197654011" crc="f86e957b" fullsha1="5df86e1821ae05ab29a38701d81d7d50148e3f54" dataSha1="09577489e39984a2b908fa32f7f74b7b67a35677">
+		<category>Games</category>
+		<description>Cyberia (Japan)</description>
+		<rom name="Cyberia (Japan) (Track 01).bin" size="349102656" crc="e0efad2e" md5="73a05bb5fd0caed41194dcf585be3d30" sha1="c9631b85006c3c64891acf0dd754fdda0e6f6d9e"/>
 	</game>
 	<game name="Demonstration CD-ROM (Japan)" type="cd" sha1="fb29184f8ae9a6191c86d2390a957a9d37302bb5" size="131761703" crc="5f3bcae5" fullsha1="ea5ad19874621df2b2bef26f5e5121bf687a2b09" dataSha1="17317586e41d9c57f286a80aa107464322b61ca5">
 		<category>Games</category>
@@ -34,6 +39,50 @@
 		<description>Dragon Lore (Japan) (Disc 2)</description>
 		<rom name="Dragon Lore (Japan) (Disc 2) (Track 01).bin" size="662584272" crc="3810a02d" md5="f1edb55b16cc6c683983405e66452ead" sha1="7d441002d572e0eb403e934dab381760ac63f948"/>
 	</game>
+	<game name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan)" type="cd" sha1="0060b581903bda8c2903dd422fa5c6e2a021f774" size="269042676" crc="3fe3c291" fullsha1="b76e14824344afe563a5697904d2c6318f3da2ad" dataSha1="b205cc5a3e058625d5a9407edc9620fbcf40f242">
+		<category>Games</category>
+		<description>Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan)</description>
+		<rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 01).bin" size="10936800" crc="975fdd32" md5="4b7c60fc3a07a2f464923cffcc700ab3" sha1="68935d11e247ee1ecbb25264ee6354abbdba10c6"/>
+		<rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 02).bin" size="34480320" crc="ada95e5d" md5="218b809b62e821b34b029b20333a693c" sha1="5f9bc2462602e23a7c97c6b8deb8419d75c138c0"/>
+		<rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 03).bin" size="37044000" crc="5e77a43e" md5="06225883187a13abf8f7f8a65bcf39d6" sha1="bdff5130c9667d7935c71573a27c4a1441bfffd2"/>
+		<rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 04).bin" size="48427680" crc="11066d0a" md5="83459efddad44c8ef38b4a7b5e53afd1" sha1="51ec417bdbf347f954bb6c2631261a2f031a8c7e"/>
+		<rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 05).bin" size="39866400" crc="9158f5ac" md5="5450b2ca4affbc384d73b71a5990b963" sha1="731d4aa45a072f893f684e3cd3d240e05125bb49"/>
+		<rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 06).bin" size="39513600" crc="f7db8459" md5="5642ae4d778a76a12ad21956767c905a" sha1="3ab18e2a6088b3b76be619b31100a0be49e0b450"/>
+		<rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 07).bin" size="26601120" crc="29dfd4dc" md5="e8c98012da509848cdfadfb176ffb973" sha1="fe655a186127037624d25602ae7c35e73a3e7652"/>
+		<rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 08).bin" size="24460800" crc="f0034668" md5="a01051cf4772e28116414a860231e37b" sha1="4d50d6dc378cc67e9d3b179d019b96f39eeec312"/>
+		<rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 09).bin" size="18792480" crc="1346e786" md5="5cdd55cbc20717bcdc5dbdc384092331" sha1="5416561ce1ffff424995ca8e18b3cf97e90a9a83"/>
+		<rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 10).bin" size="15876000" crc="806ee8e9" md5="fbfe74e649311e054619a8ccf99aead6" sha1="67b202553cdf0c60d23e03c0b40faeb85e9e9c9b"/>
+		<rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 11).bin" size="30376080" crc="121cd091" md5="bc85a66122a2ab66ca8265055de77231" sha1="d5e6c2597e342424e31cb8e097713ef8770b5faf"/>
+		<rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 12).bin" size="26601120" crc="266936b4" md5="8af58025d38befeda40fe8477926f514" sha1="e113671ab196c5f20baa039461a118a1139d4a19"/>
+		<rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 13).bin" size="10231200" crc="11dcefb5" md5="b45b66e2ad9a4b4d5fc6c469d6a60114" sha1="9a0eeabc3b12306e29b9ac45677c5e9e559f45b4"/>
+		<rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 14).bin" size="19227600" crc="2797150a" md5="0179ba41a8f00ad4a813dc27934f0605" sha1="5eba1fa5e02111c37aa0fdbc499c911049c9fb57"/>
+		<rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 15).bin" size="26895120" crc="ea1a7002" md5="4bcb8d287faa4cbba0e5da6fade76169" sha1="3816303efa7ecbcbf347cda6e743b74e2de9b04a"/>
+		<rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 16).bin" size="22849680" crc="67521c7c" md5="4f2c93432f2297f3a894f07f2ca1faa8" sha1="f3bd5df21de0f22d6fbfc1658e10bc35e2c7fdfc"/>
+		<rom name="Eiyuu Densetsu 3 Renewal - Shiroki Majo (Japan) (Track 17).bin" size="34927200" crc="4532b827" md5="6c0e5b683c5cf221ee5fe3fea6c3b14d" sha1="373f99898262ded28a84da3c59a6bcca5cebab29"/>
+	</game>
+	<game name="Eiyuu Densetsu Material Collection for Windows (Japan)" type="cd" sha1="5308abc9c4e8146a5d7b0aa8545d6031281801b4" size="337281834" crc="2b2bddce" fullsha1="ebc1f5b7285c74e295f48a63ab13771ab3d3fd58" dataSha1="67bcf821f3be5829c0dd3d994ceea8f8e8c75930">
+		<category>Games</category>
+		<description>Eiyuu Densetsu Material Collection for Windows (Japan)</description>
+		<rom name="Eiyuu Densetsu Material Collection for Windows (Japan) (Track 01).bin" size="187515552" crc="555eea51" md5="40306e554cd2edb5a20de1965b93ce0d" sha1="04369e569c28b3c9e20f5082bc02b460e4b3310f"/>
+		<rom name="Eiyuu Densetsu Material Collection for Windows (Japan) (Track 02).bin" size="24340848" crc="31916806" md5="46ec251c1f87e2bcf1c3aaa0af115945" sha1="ac049cef67db10e66d2c4d79a00775ce2ea06ebe"/>
+		<rom name="Eiyuu Densetsu Material Collection for Windows (Japan) (Track 03).bin" size="21697200" crc="a82a559f" md5="6e26e1630fa4eeca265827d1357ee4f3" sha1="9996aedac312bc46ce826f72cdd8464bb857a6ed"/>
+		<rom name="Eiyuu Densetsu Material Collection for Windows (Japan) (Track 04).bin" size="25048800" crc="88a6157b" md5="3bb2d4576e00f4076f01701b6fca410d" sha1="1565e42ee9567b75fce0e59e4358c89edc3dbc53"/>
+		<rom name="Eiyuu Densetsu Material Collection for Windows (Japan) (Track 05).bin" size="31752000" crc="4598c09d" md5="e73c324051b24e4f10f3123c207227eb" sha1="a5cdbd1f1a7f0edbc1e2d6438042edfa36d0ba09"/>
+		<rom name="Eiyuu Densetsu Material Collection for Windows (Japan) (Track 06).bin" size="17816400" crc="0cb5077f" md5="0bf596afaa8fbe3d8ee0bf0c844b1390" sha1="ee3a0dfef4b54a1aa3112ee048ada3f5853e5112"/>
+		<rom name="Eiyuu Densetsu Material Collection for Windows (Japan) (Track 07).bin" size="28224000" crc="d36f35e5" md5="c7b41d91a4c7757732231b53b6160f0f" sha1="068e07d429669002e1789813512f4fba0a6f37b8"/>
+		<rom name="Eiyuu Densetsu Material Collection for Windows (Japan) (Track 08).bin" size="22050000" crc="10c98d1e" md5="b9d394a244a0c9a6219486a6602b497d" sha1="5323b10ae36ce64989be0788cf8fb07d050a2120"/>
+		<rom name="Eiyuu Densetsu Material Collection for Windows (Japan) (Track 09).bin" size="28753200" crc="d8b21650" md5="75f8b7adc5c9318020673d61c6ea9cf8" sha1="11b2de8dbd4194e8b88803d90586e54982b14edd"/>
+		<rom name="Eiyuu Densetsu Material Collection for Windows (Japan) (Track 10).bin" size="23461200" crc="4a763ce7" md5="da8ca7d73248beee35f5af6bcc7912a5" sha1="151dc9a9c878777b3a5d633dc5514c82ac85f142"/>
+		<rom name="Eiyuu Densetsu Material Collection for Windows (Japan) (Track 11).bin" size="31752000" crc="5683c655" md5="872252b59619e2a8ca6e0f7ae14fb578" sha1="99de4d7b4768573b1ef33650a115bb08111f3b33"/>
+		<rom name="Eiyuu Densetsu Material Collection for Windows (Japan) (Track 12).bin" size="33339600" crc="a7789c97" md5="ad56599dfceb9c8a4ef1860bb9dee83e" sha1="b66e769682be660b413dfec8ce1577b594726b77"/>
+		<rom name="Eiyuu Densetsu Material Collection for Windows (Japan) (Track 13).bin" size="18522000" crc="6f49d3a8" md5="5978b8d24e6f82f42299b0fde5e27442" sha1="2b946c0d7b972a27cc00f2c4060ee0803d85b4d2"/>
+		<rom name="Eiyuu Densetsu Material Collection for Windows (Japan) (Track 14).bin" size="31399200" crc="51c65d94" md5="1c3f40c6994c2fc041c68d81cd8301d3" sha1="f4e075deeebb43c6a9e272edcee39697bf822037"/>
+		<rom name="Eiyuu Densetsu Material Collection for Windows (Japan) (Track 15).bin" size="22579200" crc="9ca35f60" md5="808bc7853d1cd4b07eafdcbcc8dc57ba" sha1="3df8a8862ea8f2fb4bd61ac8e90172eea14e069c"/>
+		<rom name="Eiyuu Densetsu Material Collection for Windows (Japan) (Track 16).bin" size="26636400" crc="409989ae" md5="4a4f21947ef87aea9175e5ae1c2c71d1" sha1="efa34d7fa2c4d451c899c15b2428ae71f137967e"/>
+		<rom name="Eiyuu Densetsu Material Collection for Windows (Japan) (Track 17).bin" size="23637600" crc="a60bf529" md5="05cdc5cc1538d6b53fcd0d3d32d297bc" sha1="d7b9bbbcf199c88fb844f1d8090c5467401454b8"/>
+		<rom name="Eiyuu Densetsu Material Collection for Windows (Japan) (Track 18).bin" size="23637600" crc="af1c2306" md5="8515c93932d6895c35a1e76a10cec689" sha1="c31a91cf3b1d8c8b1be16b3a088bc65d95028ac4"/>
+		<rom name="Eiyuu Densetsu Material Collection for Windows (Japan) (Track 19).bin" size="22932000" crc="24dd88d6" md5="0a0e9616d23f4c34749a16564207714c" sha1="19b435fb2d8e432881740a2d4046e08c2e56e976"/>
+	</game>
 	<game name="Etemible - Tenjou Mukyuu (Japan)" type="cd" sha1="879d89ad6966f291459d6e8cba96f134109fb4a7" size="9418874" crc="60f3b1aa" fullsha1="fc9cdcf7004d98675bc49f215491e09a5afd09bf" dataSha1="645689ff17c8415603626689edd922ec8b8f3ab6">
 		<category>Games</category>
 		<description>Etemible - Tenjou Mukyuu (Japan)</description>
@@ -43,6 +92,16 @@
 		<category>Games</category>
 		<description>Inherit the Earth - Quest for the Orb (Japan)</description>
 		<rom name="Inherit the Earth - Quest for the Orb (Japan) (Track 01).bin" size="17004960" crc="1b6283a0" md5="75d2692d2d2829691d29ef6594435a4c" sha1="6f39ce213984400ba5c950cbadbe5328104a74e2"/>
+	</game>
+	<game name="Jurassic Park (Japan)" type="cd" sha1="70b21d24b6fb7fa689ec2beb4946570d838aadbb" size="24630904" crc="a7fb38e2" fullsha1="2e7c24139d663b2ecf578d34a8ab40624ec013a2" dataSha1="a90d327198b7689bf5038a6045f810917630b8da">
+		<category>Games</category>
+		<description>Jurassic Park (Japan)</description>
+		<rom name="Jurassic Park (Japan) (Track 01).bin" size="172613280" crc="feb8d757" md5="1d09b285da4b08c3aa6d3f84d00d1afc" sha1="591ab566ec9dc4c91fecfad43b0b790a1d9bebb2"/>
+	</game>
+	<game name="Madoll (Japan)" type="cd" sha1="2c598b7065adbe7f825a62e2df80cac3ae9eb34a" size="9316306" crc="82258288" fullsha1="08f2f4a732c38e3fdefa4910413c06f7abf89862" dataSha1="ec6f47049bef4866a3b6c3e30a06e7f655a68127">
+		<category>Games</category>
+		<description>Madoll (Japan)</description>
+		<rom name="Madoll (Japan) (Track 01).bin" size="12225696" crc="9371a167" md5="9278e371d677a4127c0a4a425cc0665d" sha1="3639d175641c818820c353f1292206a1fa492e90"/>
 	</game>
 	<game name="Mahou Shoujotai Wars - Magical Jam (Japan)" type="cd" sha1="34bf01a26523a3894d2b81c166ca9920cb8e1a5f" size="8615335" crc="d308879f" fullsha1="8848ead1019869f24d305a0631dbe28fd4f42f96" dataSha1="3edfe333294de39cc674e9cd2693b51765ef7f1e">
 		<category>Games</category>
@@ -69,6 +128,16 @@
 		<description>N-nyuu - PC-FXGA Game ga Asoberu Tsukureru Hon (Japan) (Disc 2)</description>
 		<rom name="N-nyuu - PC-FXGA Game ga Asoberu Tsukureru Hon (Japan) (Disc 2) (Track 01).bin" size="22332240" crc="f3a1acc6" md5="cf83fb46a4515c52f4fbadb740ec8c80" sha1="990c7fa4e323a5aa6682b3efb08a0f2660119801"/>
 	</game>
+	<game name="NEC PC-9821 Ce2 System Install CD-ROM (Japan)" type="cd" sha1="75c93526b7370b0824f1b01c8fe15e77dcd263ac" size="31231359" crc="72fbed5d" fullsha1="faa2ebb134bd3bba60e55ef1b68f1b0e1a360908" dataSha1="8ad8e1e5fd78534e1f20078f3f4e9577e974220b">
+		<category>Games</category>
+		<description>NEC PC-9821 Ce2 System Install CD-ROM (Japan)</description>
+		<rom name="NEC PC-9821 Ce2 System Install CD-ROM (Japan) (Track 01).bin" size="65449104" crc="724d26f8" md5="428de6ae847dd4db67486490639b279e" sha1="0732e1e360789fee651a0b24802910edbbd62ecd"/>
+	</game>
+	<game name="NEC PC-9821Cb2-B System Install CD-ROM (Japan)" type="cd" sha1="62e1f1d54d8743b15341f212ca986e0a536a82b6" size="154769003" crc="b95c31bf" fullsha1="fb4505fbf63c11d0fce7189597b80191bd915ca8" dataSha1="e4c65da11d105922767a886578ed4af2543f25a0">
+		<category>Games</category>
+		<description>NEC PC-9821Cb2-B System Install CD-ROM (Japan)</description>
+		<rom name="NEC PC-9821Cb2-B System Install CD-ROM (Japan) (Track 01).bin" size="427417200" crc="0e9b82fe" md5="ee3236d64077de6d6b82ce86b175a679" sha1="4f790b66f04dcf4b9112bd81f29f476fd57997fa"/>
+	</game>
 	<game name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)" type="cd" sha1="c3337340ce2d7027a48cc0331814fa0bc89a98bb" size="293043706" crc="f35b9e10" fullsha1="4844bba0cafe5ce9cd0011b623217d11d97ff063" dataSha1="adf0333df54d2e530b26166c3e0d6029ea7db48a">
 		<category>Games</category>
 		<description>Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)</description>
@@ -87,6 +156,11 @@
 		<rom name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (Track 13).bin" size="30157344" crc="02020f20" md5="af32d20d6d233366a52b4c6be71f9bdd" sha1="f86d235ec0883c49fc6f7b19df24ff7c2b03523f"/>
 		<rom name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (Track 14).bin" size="29381184" crc="53348c54" md5="d62c497be214ffc1f21114a54ab64fde" sha1="cef51c0b19e0befa95ec75d763962403bd10f77d"/>
 		<rom name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (Track 15).bin" size="31535616" crc="9f808a69" md5="8bf1e9d862d03b0cfb97c709ed3a9d15" sha1="a8ae494f26fd9d37d293f3375c6d639887dc3210"/>
+	</game>
+	<game name="Re-No - Stayin' Alive (Japan)" type="cd" sha1="e882c54e38d858dbfd7ff95f1f7eef3fd3c713df" size="18302191" crc="4e7489c1" fullsha1="037fcbb0e37c4e71eedb449728ffbec85ea044fc" dataSha1="010ba34fdaf56cadcb5a2e9604fb4435a2c7a92d">
+		<category>Games</category>
+		<description>Re-No - Stayin' Alive (Japan)</description>
+		<rom name="Re-No - Stayin' Alive (Japan) (Track 01).bin" size="41905584" crc="46163d3f" md5="3cd872bafc0fc3c1181332101cbe59c8" sha1="1a95ede986b028ee8584367e0f3504262f9cec54"/>
 	</game>
 	<game name="Sangokushi V (Japan) (Alt)" type="cd" sha1="b7ab9b5f8fcbb1f3cc17810e3d84b3bc566b1429" size="358869086" crc="3ba9d669" fullsha1="3fbabaca5e8db7c37921f3a27f2a9e10feaeef67" dataSha1="8c6c8edae740e719ae1f56f4229ea23e74377bda">
 		<category>Games</category>
@@ -112,6 +186,11 @@
 		<rom name="Sangokushi V (Japan) (Alt) (Track 19).bin" size="22917888" crc="a9eb195d" md5="6c1eeec7cc9aa1f50918778fe119f9ff" sha1="198c88ffa346a9c2cc9b2c5662e9059c156b71c8"/>
 		<rom name="Sangokushi V (Japan) (Alt) (Track 20).bin" size="26920992" crc="f566bd9d" md5="6c8493123ea5ab05b06e099486331d43" sha1="1577161f08caf50647ec957d77de0209405beb65"/>
 		<rom name="Sangokushi V (Japan) (Alt) (Track 21).bin" size="27584256" crc="bd676f4f" md5="5a21300a84546799dc0ce7b68ae672e2" sha1="a3325090a99a7b7f5d24502e064997fcc3af46f2"/>
+	</game>
+	<game name="True Love - Jun'ai Monogatari (Japan)" type="cd" sha1="4f93642f0b9607e5e2b5b9331d6a45eb459c55ed" size="8971553" crc="891d7af3" fullsha1="4e884b265b7e3a9efcd050ef0aac0e13f3f90eb6" dataSha1="0f514fd214779d2769178a461598eda32ab2a14a">
+		<category>Games</category>
+		<description>True Love - Jun'ai Monogatari (Japan)</description>
+		<rom name="True Love - Jun'ai Monogatari (Japan) (Track 01).bin" size="14525952" crc="5ae35e62" md5="0008679c378ad580147e2af14bdfa72e" sha1="e5c5f5d365dc6d3fe6f336d2564efec8b544f980"/>
 	</game>
 	<game name="Yatsu no Na wa Diamond - His Name Is Diamond (Japan)" type="cd" sha1="0072f0ddd4203eeafcfc21c7c13819106b5d1060" size="7056892" crc="8a421ea7" fullsha1="d10845ef09aae32b77bb563c165fdb442bba9d9d" dataSha1="c55effd68505d578d837b90b9f0e3ac21e8f33e3">
 		<category>Games</category>

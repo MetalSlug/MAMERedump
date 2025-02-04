@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0"?>
-<!DOCTYPE datafile PUBLIC " -//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
 		<name>Fujitsu - FM-Towns</name>
 		<description>Fujitsu - FM-Towns</description>
-		<version>0.267</version>
+		<version>0.274</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -69,6 +69,11 @@
 		<description>CRI StacCard (Japan)</description>
 		<rom name="CRI StacCard (Japan) (Track 01).bin" size="31399200" crc="7dc82293" md5="4f21ae5548ec0dbc0d60775a98e3b185" sha1="e7e854db13c74452a8cc7424e0e966e40b532a5c"/>
 	</game>
+	<game name="Digital Pinup Girls Vol. 2 - Lovely Shooting (Japan)" type="cd" sha1="919a0d2029897e54c7df4adb1932a6eb1ce1259a" size="136131316" crc="ec3c0387" fullsha1="b8b7fc58f7dffe8fc7fa2ccbf54929dcd47d2a30" dataSha1="bc735f5b6f9f125685cebac7480f5abb6ce5f41b">
+		<category>Games</category>
+		<description>Digital Pinup Girls Vol. 2 - Lovely Shooting (Japan)</description>
+		<rom name="Digital Pinup Girls Vol. 2 - Lovely Shooting (Japan) (Track 01).bin" size="344885520" crc="63a5c540" md5="a4afbcf29a1bc022bc6fa33a96a32645" sha1="26c9d7fab3b1e55e0f95cedd5e0d75372fc7725c"/>
+	</game>
 	<game name="F-BASIC386 Compiler V2.1 L20 (Japan)" type="cd" sha1="8445323578763c4c40c60533c4ff6cd221715739" size="207018825" crc="d500c5e5" fullsha1="75fc3656b6764d49ad00dd1f6a4fc356bf880136" dataSha1="aa92962193e78fb2dceb0ac45bc1248778f7041e">
 		<category>Games</category>
 		<description>F-BASIC386 Compiler V2.1 L20 (Japan)</description>
@@ -106,6 +111,11 @@
 		<rom name="FM Towns Marty Tentou Auto Demo '93 Natsu (Japan) (Fixed Dump) (Track 05).bin" size="2168544" crc="fbb909b2" md5="3046983fa3b67c98aef98d4d4ba69ad4" sha1="12f96af661b0e87c38e3a9f4221d352246cf2939"/>
 		<rom name="FM Towns Marty Tentou Auto Demo '93 Natsu (Japan) (Fixed Dump) (Track 06).bin" size="5503680" crc="2cb876d4" md5="0c1aaab4a986d56b7ab9164c73ae71ca" sha1="a2dd990d07da97f599a2011c32a5abb72845d327"/>
 		<rom name="FM Towns Marty Tentou Auto Demo '93 Natsu (Japan) (Fixed Dump) (Track 07).bin" size="7808640" crc="ec714b1a" md5="94d93415b0d03fd80acd6217f332dd49" sha1="687af04b5e87a3df802cd5d99292c5c9cde7855a"/>
+	</game>
+	<game name="Fujitsu Journal Special Edition By CD-ROM (Japan)" type="cd" sha1="ad02f9a97d6e0129528d1771bf5f27f1cfef4345" size="104770687" crc="c984ba87" fullsha1="5657ff2ef22daa497d3841a7c1fd00f6e1ff8d45" dataSha1="fb753b9251492acfca9efff39d21615e0b88491b">
+		<category>Games</category>
+		<description>Fujitsu Journal Special Edition By CD-ROM (Japan)</description>
+		<rom name="Fujitsu Journal Special Edition By CD-ROM (Japan) (Track 01).bin" size="232495200" crc="8e7edc8a" md5="78d34357eda39393c1129e0fb748dff6" sha1="2fc9b16f7851220184aab0c035c3c15ed24ecdf7"/>
 	</game>
 	<game name="Heike Monogatari (Joukan) (Japan) (Rerelease)" type="cd" sha1="e99806398053162cf9b6fb15eb00ed122aa670be" size="234104741" crc="ab6d176d" fullsha1="a31831bcd17f24b70fd0d2c11502c425d8b88ee0" dataSha1="d53190ed5f6887858e9e4892a2e61254f81b8a76">
 		<category>Games</category>
@@ -170,6 +180,21 @@
 		<rom name="Hishouzame - Flying Shark (Japan) (Track 09).bin" size="3363360" crc="df844bd8" md5="446282105fb5712148c97a978ce1c2e5" sha1="e4f9b11ff457b55f194dfc540303607efb0a8a8c"/>
 		<rom name="Hishouzame - Flying Shark (Japan) (Track 10).bin" size="10654560" crc="64ccacb2" md5="f2b2e10dc5d003a3ec94149cfd86251a" sha1="04cdbf1224095d32b1ffa09c9199da835fd2c51b"/>
 	</game>
+	<game name="Iwanami Bungakukan - Natsume Souseki (Japan) (Dougen Zenji no Shougai to Shisou)" type="cd" sha1="33d6f9e62a6fb8eab8e43d20330b72ba367c1d12" size="178192758" crc="a5d625b1" fullsha1="5c3fa3cc2a7eb147fc98ba3583bd31b87defc7dd" dataSha1="eaab9e1766f1233f856a65c43171897b63b708c9">
+		<category>Games</category>
+		<description>Iwanami Bungakukan - Natsume Souseki (Japan) (Dougen Zenji no Shougai to Shisou)</description>
+		<rom name="Iwanami Bungakukan - Natsume Souseki (Japan) (Dougen Zenji no Shougai to Shisou) (Track 01).bin" size="338335200" crc="d567309b" md5="24485c32624ae1d1d1ecb4af19c8c822" sha1="8187f33c9a77eb065188b04589d7521d64a7b8c3"/>
+	</game>
+	<game name="Iwanami Bungakukan - Natsume Souseki (Japan) (Dougen Zenshi-cho - Shouhougenzou)" type="cd" sha1="d6a803b09352a8e84d5660ff22fd295f79d4a163" size="4069711" crc="d100edb5" fullsha1="26581b3bd70a996ec02b5e9b20e171b15c8be81c" dataSha1="589e0a70eaa86246df4ab1712b9aad7274da15c8">
+		<category>Games</category>
+		<description>Iwanami Bungakukan - Natsume Souseki (Japan) (Dougen Zenshi-cho - Shouhougenzou)</description>
+		<rom name="Iwanami Bungakukan - Natsume Souseki (Japan) (Dougen Zenshi-cho - Shouhougenzou) (Track 01).bin" size="20815200" crc="aea1e0f2" md5="c3e348537f1747d8b0e7f22655a2520b" sha1="ee86f25d3df2f1d5db7afed0d9a6fc5ecd4c3b32"/>
+	</game>
+	<game name="Iwanami Bungakukan - Natsume Souseki (Japan) (Eiheiji ni Ima mo Ikiru Dougen Zenshi)" type="cd" sha1="00cb7f759bc975ca767e255d5740c962b4be3950" size="192358861" crc="031a4e24" fullsha1="68b18be0fd1714b74debf3602d2af0e63e5ed02f" dataSha1="dd8b437df28eefe235a4ec090bae7e382510e663">
+		<category>Games</category>
+		<description>Iwanami Bungakukan - Natsume Souseki (Japan) (Eiheiji ni Ima mo Ikiru Dougen Zenshi)</description>
+		<rom name="Iwanami Bungakukan - Natsume Souseki (Japan) (Eiheiji ni Ima mo Ikiru Dougen Zenshi) (Track 01).bin" size="391255200" crc="311beaf6" md5="22c2d355f4e3bf7d4fc1d76e8f8dacb9" sha1="312b216517f890685975e319a10c7762238ef08d"/>
+	</game>
 	<game name="Legend of Kyrandia, The (Japan)" type="cd" sha1="0e33a78ba9cac28815c4faabc534cb0315ece42b" size="258592806" crc="b3bf11bc" fullsha1="c5b8ccb2a80a2053c0cb1ae0b0546ba5a0fe6677" dataSha1="e47720904cb940bcff7d152dbd25f5b9826fc7bb">
 		<category>Games</category>
 		<description>Legend of Kyrandia, The (Japan)</description>
@@ -196,6 +221,16 @@
 		<rom name="Legend of Kyrandia, The (Japan) (Track 21).bin" size="12136320" crc="973875fa" md5="99a70cfdb2078f881bc25a723a4df93b" sha1="5e887dd49336fab522991343ee68b999fa7fc690"/>
 		<rom name="Legend of Kyrandia, The (Japan) (Track 22).bin" size="49904736" crc="f4fc1800" md5="35daaaa665b760436a3f60778c68a92e" sha1="3e14d6e4d3143f51dd4b20b29617748bf669ea48"/>
 	</game>
+	<game name="LiveMovie V1.1 L10 (Japan)" type="cd" sha1="055d4bb42ae4f49179fbfc78f8578eb3daae66ef" size="2172428" crc="6621a943" fullsha1="feeab19eb349bdf7bbfc4f4c9500912d5e66ca57" dataSha1="fc344d530397ff26b2e7bcd445a972035c323bf9">
+		<category>Games</category>
+		<description>LiveMovie V1.1 L10 (Japan)</description>
+		<rom name="LiveMovie V1.1 L10 (Japan) (Track 01).bin" size="10231200" crc="9d14acca" md5="e323fcacc3e252ec77ffb7eda0326b27" sha1="95ac4f5c94988456debcc8dc32f5f8dc96887c3b"/>
+	</game>
+	<game name="Many Colors (Japan)" type="cd" sha1="d0838cde9794806d5ad6c1b6c16cf879903a1457" size="3116536" crc="4119f091" fullsha1="4e0ac73bbf195dbdc99ee63682a4c5a2beb0c785" dataSha1="4ae10184a4de2e067c8cf5cc8f387f77e94afe48">
+		<category>Games</category>
+		<description>Many Colors (Japan)</description>
+		<rom name="Many Colors (Japan) (Track 01).bin" size="20815200" crc="9abab34b" md5="0f2892cede7b54860349ecd82bbcfea4" sha1="1cf5256eb2dfbde9eab858cb6548ef5172352711"/>
+	</game>
 	<game name="Music Pro-Towns v1.3 (MIDI Ongenban) (Japan)" type="cd" sha1="2bcd90e5ce254e449add7cac438e5d163b6bcc61" size="6391441" crc="71b11b50" fullsha1="6610dd1cb2c7c7d6736fd695c085c2b726eff191" dataSha1="e498e988b649daddf13c68886159aadcdeb21bac">
 		<category>Games</category>
 		<description>Music Pro-Towns v1.3 (MIDI Ongenban) (Japan)</description>
@@ -216,5 +251,10 @@
 		<rom name="Tele Harmonium - City Lights (Japan) (Track 10).bin" size="35785680" crc="4aeb528e" md5="e9973f86fe80451e73a5612626786b98" sha1="aa2856aa8dc2aa02b1b4e8607873185b9678e287"/>
 		<rom name="Tele Harmonium - City Lights (Japan) (Track 11).bin" size="36296064" crc="414b8972" md5="545ee2a112e8125af48a2b764e5071c3" sha1="98764d714d551d32a23832333e7488a2f8dbd36b"/>
 		<rom name="Tele Harmonium - City Lights (Japan) (Track 12).bin" size="39254880" crc="7b32c440" md5="a9b05b7c951844f061bc43a1abbb76c2" sha1="30ad958e87336546289b2ca054288a383490679d"/>
+	</game>
+	<game name="Towns Graph V2.1 L10 (Japan)" type="cd" sha1="336f73ef19b9994c18be32843757df489937df0c" size="14552229" crc="559206ae" fullsha1="9fba85cf25aaaa508ae1e7efb867752b991e066c" dataSha1="b330f48439deb50a9d4bcc2ea12e85e831791b33">
+		<category>Games</category>
+		<description>Towns Graph V2.1 L10 (Japan)</description>
+		<rom name="Towns Graph V2.1 L10 (Japan) (Track 01).bin" size="44100000" crc="c079f186" md5="24db6328643c390dfa8b1779e554b57b" sha1="9498bd9434f18954b1d679d2fee0d44195c1641b"/>
 	</game>
 </datafile>

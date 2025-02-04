@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>NEC - PC-88 series</name>
+		<description>NEC - PC-88 series</description>
+		<version>0.274</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="DIOS (Japan)" type="cd" sha1="ecb2b6af4bd64c823dbd42cf91b0159ad4df4fe5" size="35900894" crc="883e1b83" fullsha1="d7023222681862904756422c1465abeb3b09bd07" dataSha1="976957d12f4193a75724e455c796daa7d5c6e9b6">
+		<category>Games</category>
+		<description>DIOS (Japan)</description>
+		<rom name="DIOS (Japan) (Track 01).bin" size="30517200" crc="324ba477" md5="d967ed268199dfbaff8e0c3a0d8abb55" sha1="07d617f9c9a163a535fa1750a3eb11ca83ff4a25"/>
+		<rom name="DIOS (Japan) (Track 02).bin" size="9937200" crc="728e8ebd" md5="e91572330029e817467177b4d76ff512" sha1="b6cd2270f964fc29a3679896039d75d7fc68a26f"/>
+		<rom name="DIOS (Japan) (Track 03).bin" size="116932032" crc="b73b2425" md5="93bdd1770889525e6762177dd282fde5" sha1="3090b6883dc952832d5770f56abe6943a87bdc94"/>
+	</game>
+</datafile>

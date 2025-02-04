@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<!DOCTYPE datafile PUBLIC " -//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
 		<name>PlayStation GameShark Updates</name>
@@ -96,7 +96,7 @@
 		<rom name="Action Replay - Vol. 1 (Japan) (Track 28).bin" size="7895664" crc="f2bc3506" md5="5774bffd03b2cc47bc22d4e33272cf1b" sha1="55d976879966b58d96477b489e87b3a32a5ee26f"/>
 		<rom name="Action Replay - Vol. 1 (Japan) (Track 29).bin" size="7895664" crc="c6c0541f" md5="184161bdfe97be6a4f7799d5e15cfd23" sha1="c742fe04d8708397807c92d02cf28fab48c59098"/>
 	</game>
-	<game name="Action Replay - Vol. 1 (Japan) (Alt)" type="" sha1="f518b501d68ad9a28ca98a6e55df34a5e1387b2d" size="12365102" crc="5e7753b5" fullsha1="015fc766c1a5995bd15766bbca9e87b2035a5f35" dataSha1="4b338ce185cb6532542b203a6594d03e212f853e">
+	<game name="Action Replay - Vol. 1 (Japan) (Alt)" type="cd" sha1="f518b501d68ad9a28ca98a6e55df34a5e1387b2d" size="12365102" crc="5e7753b5" fullsha1="015fc766c1a5995bd15766bbca9e87b2035a5f35" dataSha1="4b338ce185cb6532542b203a6594d03e212f853e">
 		<category>Games</category>
 		<description>Action Replay - Vol. 1 (Japan) (Alt)</description>
 		<rom name="Action Replay - Vol. 1 (Japan) (Alt) (Track 01).bin" size="1185408" crc="522e50fe" md5="876d17c2daa470d4014205caaf2bc669" sha1="6869f98c15f22e06fd4be9dd406c7a27d93cba7d"/>
@@ -780,7 +780,7 @@
 	</game>
 	<game name="Game Champion - Game Save Download CD for Tekken 3 (Europe)" type="cd" sha1="1a660b3edd4d3a890017222ba2420be29fa9eb09" size="10647450" crc="c42bd684" fullsha1="457b4f36f1bc2416e0e756bc61ee3ffbe40a3927" dataSha1="dedfb940ecbf3e2f68fe5b180c1f8a96732430f0">
 		<category>Games</category>
-		<description>Europe)</description>
+		<description>Game Champion - Game Save Download CD for Tekken 3 (Europe)</description>
 		<rom name="Game Champion - Game Save Download CD for Tekken 3 (Europe) (Track 01).bin" size="1185408" crc="386c0c7c" md5="aa1c9d3772cea2bcee5bb04c65f7c936" sha1="0b873b56d2e3a4a224d52cb74c68211687275e5c"/>
 		<rom name="Game Champion - Game Save Download CD for Tekken 3 (Europe) (Track 02).bin" size="6061104" crc="19cfbf32" md5="a60fe3f0ad4f3672300c15700ef9962a" sha1="db42ad2ed77f4aaad8fccff49b68bad315b9fb23"/>
 		<rom name="Game Champion - Game Save Download CD for Tekken 3 (Europe) (Track 03).bin" size="7183008" crc="48f324f3" md5="bb19fae5577cb172ea01698d8f659230" sha1="eb159ddd3a655866876f1ef450b92976dcd6f998"/>
@@ -1089,7 +1089,7 @@
 	</game>
 	<game name="GameShark Upgrade CD Version 2.1 (USA)" type="cd" sha1="574509901cb5fa251a5366137caa007d25edba75" size="3714892" crc="d66bb450" fullsha1="ba1927e306757be68207cfd85700e497afb6a58f" dataSha1="0414ca3b18883c483142371a3994d679961413e6">
 		<category>Games</category>
-		<description>e CD Version 2.1 (USA)</description>
+		<description>GameShark Upgrade CD Version 2.1 (USA)</description>
 		<rom name="GameShark Upgrade CD Version 2.1 (USA) (Track 01).bin" size="1185408" crc="4437930f" md5="332ea9d5e159c37a7ec8fffd040a6ae4" sha1="c98fc589ae619095b104e2863b725daba4fe18db"/>
 		<rom name="GameShark Upgrade CD Version 2.1 (USA) (Track 02).bin" size="10647504" crc="ba94fa24" md5="f32587ea72e97fbc50bf19360387e412" sha1="54aba6aa92ec48385b2a328e25f5b8d9eed9946b"/>
 		<rom name="GameShark Upgrade CD Version 2.1 (USA) (Track 03).bin" size="3045840" crc="74343bc1" md5="f2168aed55260955b2a7df00662c7251" sha1="59ecc7ce8105185a3b3ac561f5cd8fb23921fb4a"/>
@@ -1324,7 +1324,7 @@
 	</game>
 	<game name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt)" type="cd" sha1="95c9e0db2fe30f7b4ca6dfc532c5da43d9ba52c0" size="24445128" crc="8bb70e8c" fullsha1="27289019c3c8f08fb717323f6bb0bcf45d67b329" dataSha1="acdf55b650e11c5055bf2a7ea609e7e478058d72">
 		<category>Games</category>
-		<description>t)</description>
+		<description>GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt)</description>
 		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt) (Track 01).bin" size="1187760" crc="ee11681c" md5="ad6c0e826e9caa24b6c11dde40960de1" sha1="24e6ea92b387ffa08996b207f1793095f6547a12"/>
 		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt) (Track 02).bin" size="4285344" crc="d65bfed9" md5="92035ec7b624d72475a0158db85cc9bc" sha1="9ab630da0cf5224aefe49da9e07519c8ff8cb406"/>
 		<rom name="GameShark Upgrade CD Version 2.42-3.2 (USA) (Alt) (Track 03).bin" size="4823952" crc="2404dc49" md5="b51630934553cb04d1384199e188eaf9" sha1="743c30f247d9c8af422bf23c723a6f002d89905f"/>

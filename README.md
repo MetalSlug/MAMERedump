@@ -92,7 +92,7 @@ Bandai - Playdia Quick Interactive System|2022-07-06|37|1|18 GB||
 Commodore - Amiga CD|2024-12-25|582|2|203 GB||
 **Commodore - Amiga CD32**|2024-09-02|233|0|27 GB|cd32|9 GB
 **Commodore - Amiga CDTV**|2024-12-29|160|0|21 GB|cdtv|5 GB
-Fujitsu - FM-Towns|2025-01-12|958|8|141 GB|fmtowns_cd|132 GB
+**Fujitsu - FM-Towns**|2025-01-12|966|0|142 GB|fmtowns_cd|132 GB
 **funworld - Photo Play**|2024-07-01|17|0|5 GB||5 GB
 IBM - PC compatible|2025-01-20|36500|14498|37 TB|ibm5170_cdrom|21 GB
 **Incredible Technologies - Eagle**|2023-04-07|7|0|3 GB||
@@ -102,8 +102,8 @@ IBM - PC compatible|2025-01-20|36500|14498|37 TB|ibm5170_cdrom|21 GB
 ~~Microsoft - Xbox 360~~|2025-01-20|0|3487|||
 ~~Microsoft - Xbox~~|2025-01-17|0|2627|||
 **NEC - PC Engine CD & TurboGrafx CD**|2024-12-16|1037|0|226 GB|pcecd|3 GB
-NEC - PC-88 series|2024-10-24|1|1|288 MB|pc8801_cdrom|288 MB
-NEC - PC-98 series|2024-11-29|302|10|49 GB|pc98_cd|12 GB
+**NEC - PC-88 series**|2024-10-24|2|0|322 MB|pc8801_cdrom|288 MB
+NEC - PC-98 series|2024-11-29|311|1|50 GB|pc98_cd|12 GB
 **NEC - PC-FX**|2024-11-08|79|0|30 GB|pcfx|5 GB
 Nintendo - GameCube|2025-01-18|1972|31|1 TB||
 Nintendo - Wii|2025-01-17|3748|28|6 TB||
@@ -128,4 +128,4 @@ Sony - PlayStation|2025-01-19|11585|48|3 TB|psx|552 GB
 VM Labs - NUON|2024-12-11|8|2|5 GB|nuon|5 GB
 **VTech - V.Flash & V.Smile Pro**|2024-03-01|50|0|8 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2024-02-02|16|0|50 GB||
-Total||84284|25813|68 TB||1 TB
+Total||84302|25795|68 TB||1 TB
