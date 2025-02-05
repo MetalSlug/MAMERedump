@@ -81,7 +81,7 @@ Arcade - Konami - e-Amusement|2024-08-26|20|17|22 GB||
 **Arcade - Namco - Sega - Nintendo - Triforce**|2024-03-27|22|0|7 GB||
 **Arcade - Namco - System 246**|2024-03-16|9|0|5 GB||
 Arcade - Sega - Chihiro|2021-01-08|17|1|11 GB||
-Arcade - Sega - Lindbergh|2024-11-30|25|16|63 GB||
+Arcade - Sega - Lindbergh|2024-11-30|37|4|104 GB||
 **Arcade - Sega - Naomi 2**|2024-04-12|9|0|2 GB||
 **Arcade - Sega - Naomi**|2024-03-27|30|0|4 GB||
 Arcade - Sega - RingEdge 2|2025-01-08|13|13|54 GB||
@@ -109,7 +109,7 @@ Nintendo - GameCube|2025-01-18|1972|31|1 TB||
 Nintendo - Wii|2025-01-17|3748|28|6 TB||
 **Palm**|2024-10-29|157|0|13 GB||
 Panasonic - 3DO Interactive Multiplayer|2025-01-16|661|1|187 GB||
-Philips - CD-i|2025-01-17|2338|65|689 GB|cdi|138 GB
+Philips - CD-i|2025-01-17|2391|11|711 GB|cdi|138 GB
 **Photo CD**|2025-01-16|230|0|44 GB||
 **PlayStation GameShark Updates**|2025-01-16|33|0|567 MB||
 **Pocket PC**|2024-09-26|69|0|10 GB||
@@ -128,4 +128,4 @@ Sony - PlayStation|2025-01-19|11585|48|3 TB|psx|552 GB
 VM Labs - NUON|2024-12-11|8|2|5 GB|nuon|5 GB
 **VTech - V.Flash & V.Smile Pro**|2024-03-01|50|0|8 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2024-02-02|16|0|50 GB||
-Total||84322|25775|69 TB||1 TB
+Total||84387|25709|69 TB||1 TB

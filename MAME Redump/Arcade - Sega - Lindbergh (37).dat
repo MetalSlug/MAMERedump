@@ -9,10 +9,20 @@
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
+	<machine name="2 Spicy (World) (Lindbergh Red) (Rev A)">
+		<category>Games</category>
+		<description>2 Spicy (World) (Lindbergh Red) (Rev A)</description>
+		<disk name="2 Spicy (World) (Lindbergh Red) (Rev A).chd" sha1="064b7ffb778761624c3869d979b2fc76d992ead2" />
+	</machine>
 	<machine name="Ami-Gyo (Japan) (Lindbergh Yellow) (Rev C)">
 		<category>Games</category>
 		<description>Ami-Gyo (Japan) (Lindbergh Yellow) (Rev C)</description>
 		<disk name="Ami-Gyo (Japan) (Lindbergh Yellow) (Rev C).chd" sha1="77f32e1bb536749a5eecef5816c3212e2f1f3027" />
+	</machine>
+	<machine name="Derby Owners Club 2008 - Feel the Rush (Japan) (Lindbergh Blue) (Rev C)">
+		<category>Games</category>
+		<description>Derby Owners Club 2008 - Feel the Rush (Japan) (Lindbergh Blue) (Rev C)</description>
+		<disk name="Derby Owners Club 2008 - Feel the Rush (Japan) (Lindbergh Blue) (Rev C).chd" sha1="4b4afcfd96d9d660abaab6af51a32e6be5c4f245" />
 	</machine>
 	<machine name="House of The Dead 4, The (Japan) (En,Ja) (Lindbergh Yellow) (Rev A)">
 		<category>Games</category>
@@ -28,6 +38,11 @@
 		<category>Games</category>
 		<description>House of The Dead 4, The (Japan) (En,Ja) (Lindbergh Yellow) (Rev C)</description>
 		<disk name="House of The Dead 4, The (Japan) (En,Ja) (Lindbergh Yellow) (Rev C).chd" sha1="da82c87a79d000b845df126eb8eba9b846160266" />
+	</machine>
+	<machine name="Hummer - Extreme Edition [STD] (World) (En,Ja,Zh) (Lindbergh Yellow)">
+		<category>Games</category>
+		<description>Hummer - Extreme Edition [STD] (World) (En,Ja,Zh) (Lindbergh Yellow)</description>
+		<disk name="Hummer - Extreme Edition [STD] (World) (En,Ja,Zh) (Lindbergh Yellow).chd" sha1="0f7ba14b61a972c3a6d89cd306d0a405f97be151" />
 	</machine>
 	<machine name="Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev A)">
 		<category>Games</category>
@@ -58,6 +73,16 @@
 		<category>Games</category>
 		<description>Initial D 4 (Export) (Lindbergh Yellow) (Rev D)</description>
 		<disk name="Initial D 4 (Export) (Lindbergh Yellow) (Rev D).chd" sha1="140c1ca1e43ec91dff058991b8740d48e88da64a" />
+	</machine>
+	<machine name="Let's Go Jungle (World) (En,Ja) (Lindbergh Yellow) (Rev A)">
+		<category>Games</category>
+		<description>Let's Go Jungle (World) (En,Ja) (Lindbergh Yellow) (Rev A)</description>
+		<disk name="Let's Go Jungle (World) (En,Ja) (Lindbergh Yellow) (Rev A).chd" sha1="f94cc56595fbb5c6c57449b0f9f0fc2e879dd193" />
+	</machine>
+	<machine name="Loving Deads - The House of the Dead EX (World) (Lindbergh Red)">
+		<category>Games</category>
+		<description>Loving Deads - The House of the Dead EX (World) (Lindbergh Red)</description>
+		<disk name="Loving Deads - The House of the Dead EX (World) (Lindbergh Red).chd" sha1="45bb2e6d590a901cabaec75a0d85d652bf07114c" />
 	</machine>
 	<machine name="Rambo (Export) (Lindbergh Red EX)">
 		<category>Games</category>
@@ -114,24 +139,59 @@
 		<description>Virtua Fighter 5 - Final Showdown (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev A)</description>
 		<disk name="Virtua Fighter 5 - Final Showdown (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev A).chd" sha1="22c0109d3a12e585723a10133af6a4cb133c6c92" />
 	</machine>
+	<machine name="Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev A)">
+		<category>Games</category>
+		<description>Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev A)</description>
+		<disk name="Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev A).chd" sha1="144b2fd6132e6a90c5873dc7003246534d31e824" />
+	</machine>
+	<machine name="Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev B)">
+		<category>Games</category>
+		<description>Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev B)</description>
+		<disk name="Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev B).chd" sha1="d8650d060112a1e0545e49892a66b0850503ca6c" />
+	</machine>
 	<machine name="Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev E)">
 		<category>Games</category>
 		<description>Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev E)</description>
 		<disk name="Virtua Fighter 5 (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev E).chd" sha1="564bcb1baed594dc32c8baf7939b8c87fd926fad" />
+	</machine>
+	<machine name="Virtua Fighter 5 R (Japan) (Lindbergh Yellow) (ALL.Net P-ras)">
+		<category>Games</category>
+		<description>Virtua Fighter 5 R (Japan) (Lindbergh Yellow) (ALL.Net P-ras)</description>
+		<disk name="Virtua Fighter 5 R (Japan) (Lindbergh Yellow) (ALL.Net P-ras).chd" sha1="439f80d81bee09160c6cdd771117b550c8121292" />
 	</machine>
 	<machine name="Virtua Fighter 5 R (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev D)">
 		<category>Games</category>
 		<description>Virtua Fighter 5 R (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev D)</description>
 		<disk name="Virtua Fighter 5 R (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev D).chd" sha1="2674b20f7349eb45b00b15d139e844cb52bfeee8" />
 	</machine>
+	<machine name="Virtua Fighter 5 R (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev G)">
+		<category>Games</category>
+		<description>Virtua Fighter 5 R (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev G)</description>
+		<disk name="Virtua Fighter 5 R (Japan) (Lindbergh Yellow) (ALL.Net P-ras) (Rev G).chd" sha1="7032a84e9c13290f573535d27cd3ae91e00a795c" />
+	</machine>
 	<machine name="Virtua Tennis 3 (World) (En,Ja) (Lindbergh Yellow) (Rev A)">
 		<category>Games</category>
 		<description>Virtua Tennis 3 (World) (En,Ja) (Lindbergh Yellow) (Rev A)</description>
 		<disk name="Virtua Tennis 3 (World) (En,Ja) (Lindbergh Yellow) (Rev A).chd" sha1="fdc80539cf8f2950bfd3370e7271637be222aa1f" />
 	</machine>
+	<machine name="Virtua Tennis 3 (World) (En,Ja) (Lindbergh Yellow) (Rev B)">
+		<category>Games</category>
+		<description>Virtua Tennis 3 (World) (En,Ja) (Lindbergh Yellow) (Rev B)</description>
+		<disk name="Virtua Tennis 3 (World) (En,Ja) (Lindbergh Yellow) (Rev B).chd" sha1="6ab5c5841bb4190cfc484ce2c94dc0c429f1c1a5" />
+	</machine>
 	<machine name="Virtua Tennis 3 (World) (En,Ja) (Lindbergh Yellow) (Rev C)">
 		<category>Games</category>
 		<description>Virtua Tennis 3 (World) (En,Ja) (Lindbergh Yellow) (Rev C)</description>
 		<disk name="Virtua Tennis 3 (World) (En,Ja) (Lindbergh Yellow) (Rev C).chd" sha1="9d49700023ab5bdb68a73df62814230a80530c53" />
+	</machine>
+	<machine name="World Club Champion Football - Intercontinental Clubs 2006-2007 (Japan) (Lindbergh Blue)">
+		<category>Games</category>
+		<description>World Club Champion Football - Intercontinental Clubs 2006-2007 (Japan) (Lindbergh Blue)</description>
+		<disk name="World Club Champion Football - Intercontinental Clubs 2006-2007 (Japan) (Lindbergh Blue).chd" sha1="e94e5002aacb235d0d91cb3a20709173f8626e48" />
+	</machine>
+	<machine name="World Club Champion Football - Intercontinental Clubs 2009-2010 (Japan) (Lindbergh Blue)">
+		<category>Games</category>
+		<description>World Club Champion Football - Intercontinental Clubs 2009-2010 (Japan) (Lindbergh Blue)</description>
+		<disk name="World Club Champion Football - Intercontinental Clubs 2009-2010 (Japan) (Lindbergh Blue).chd" sha1="daf203f3b9e689cd5887eda151edbeb1e2f72933" />
 	</machine>
 </datafile>
