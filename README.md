@@ -84,7 +84,7 @@ Arcade - Sega - Chihiro|2021-01-08|17|1|11 GB||
 Arcade - Sega - Lindbergh|2024-11-30|38|3|110 GB||
 **Arcade - Sega - Naomi 2**|2024-04-12|9|0|2 GB||
 **Arcade - Sega - Naomi**|2024-03-27|30|0|4 GB||
-Arcade - Sega - RingEdge 2|2025-01-08|13|13|54 GB||
+Arcade - Sega - RingEdge 2|2025-01-08|23|3|107 GB||
 Arcade - Sega - RingEdge|2024-12-07|26|5|112 GB||
 **Atari - Jaguar CD Interactive Multimedia System**|2024-12-11|26|0|5 GB||
 **Bandai - Pippin**|2024-08-15|91|0|19 GB|pippin|4 GB
@@ -128,4 +128,4 @@ Sony - PlayStation|2025-01-19|11585|48|3 TB|psx|552 GB
 VM Labs - NUON|2024-12-11|8|2|5 GB|nuon|5 GB
 **VTech - V.Flash & V.Smile Pro**|2024-03-01|50|0|8 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2024-02-02|16|0|50 GB||
-Total||84388|25708|69 TB||1 TB
+Total||84398|25698|69 TB||1 TB
