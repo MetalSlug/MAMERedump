@@ -94,7 +94,7 @@ Commodore - Amiga CD|2024-12-25|582|2|203 GB||
 **Commodore - Amiga CDTV**|2024-12-29|160|0|21 GB|cdtv|5 GB
 **Fujitsu - FM-Towns**|2025-01-12|966|0|142 GB|fmtowns_cd|132 GB
 **funworld - Photo Play**|2024-07-01|17|0|5 GB||5 GB
-IBM - PC compatible|2025-01-20|36500|14498|37 TB|ibm5170_cdrom|21 GB
+IBM - PC compatible|2025-01-20|36492|14498|37 TB|ibm5170_cdrom|21 GB
 **Incredible Technologies - Eagle**|2023-04-07|7|0|3 GB||
 **Mattel - Fisher-Price iXL**|2023-08-07|26|0|2 GB||
 **Mattel - HyperScan**|2024-02-26|8|0|505 MB||
@@ -119,13 +119,13 @@ Sega - Dreamcast|2024-12-23|2088|1|838 GB|dc|72 GB
 Sega - Saturn|2025-01-12|4424|2|1 TB|saturn|129 GB
 **Sharp - X68000**|2024-03-14|29|0|6 GB||
 **SNK - Neo Geo CD**|2024-08-27|217|0|59 GB|neocd|847 MB
-Sony - PlayStation 2|2025-01-19|11488|92|15 TB||
+Sony - PlayStation 2|2025-01-19|11487|92|15 TB||
 ~~Sony - PlayStation 3~~|2025-01-20|0|4418|||
 Sony - PlayStation Portable|2025-01-20|2909|166|2 TB||
-Sony - PlayStation|2025-01-19|11585|48|3 TB|psx|552 GB
+Sony - PlayStation|2025-01-19|11583|48|3 TB|psx|552 GB
 **TAB-Austria - Quizard**|2023-09-13|15|0|4 GB||
 **Tomy - Kiss-Site**|2024-07-11|30|0|3 GB|kisssite_cd|3 GB
 VM Labs - NUON|2024-12-11|8|2|5 GB|nuon|5 GB
 **VTech - V.Flash & V.Smile Pro**|2024-03-01|50|0|8 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2024-02-02|16|0|50 GB||
-Total||84398|25698|69 TB||1 TB
+Total||84387|25698|69 TB||1 TB
