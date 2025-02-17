@@ -74,7 +74,7 @@ Following Sets contains ISO Files
 |---------------------------------------------------|----------|------------------------|-----------|-----------|-----------|-----------|
 **Acorn - Archimedes**|2024-11-15|72|0|15 GB||
 Apple - Macintosh|2025-01-11|1042|174|576 GB|mac_cdrom|
-Arcade - Konami - e-Amusement|2024-08-26|20|17|22 GB||
+Arcade - Konami - e-Amusement|2024-08-26|22|15|24 GB||
 **Arcade - Konami - FireBeat**|2024-03-16|10|0|8 GB||
 **Arcade - Konami - System 573**|2024-04-22|44|0|8 GB||
 **Arcade - Konami - System GV**|2024-09-06|2|0|641 MB||
@@ -128,4 +128,4 @@ Sony - PlayStation|2025-01-19|11621|10|3 TB|psx|552 GB
 VM Labs - NUON|2024-12-11|8|2|5 GB|nuon|5 GB
 **VTech - V.Flash & V.Smile Pro**|2024-03-01|50|0|8 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2024-02-02|16|0|50 GB||
-Total||84776|25309|69 TB||1 TB
+Total||84778|25307|69 TB||1 TB
