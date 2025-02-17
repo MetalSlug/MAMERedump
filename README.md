@@ -105,8 +105,8 @@ IBM - PC compatible|2025-01-20|36492|14498|37 TB|ibm5170_cdrom|21 GB
 **NEC - PC-88 series**|2024-10-24|2|0|322 MB|pc8801_cdrom|288 MB
 NEC - PC-98 series|2024-11-29|311|1|50 GB|pc98_cd|12 GB
 **NEC - PC-FX**|2024-11-08|79|0|30 GB|pcfx|5 GB
-Nintendo - GameCube|2025-01-18|1972|31|1 TB||
-Nintendo - Wii|2025-01-17|3748|28|6 TB||
+Nintendo - GameCube|2025-01-18|1998|5|1 TB||
+Nintendo - Wii|2025-01-17|3759|17|6 TB||
 **Palm**|2024-10-29|157|0|13 GB||
 Panasonic - 3DO Interactive Multiplayer|2025-01-16|661|1|187 GB||
 Philips - CD-i|2025-01-17|2391|11|711 GB|cdi|138 GB
@@ -128,4 +128,4 @@ Sony - PlayStation|2025-01-19|11621|10|3 TB|psx|552 GB
 VM Labs - NUON|2024-12-11|8|2|5 GB|nuon|5 GB
 **VTech - V.Flash & V.Smile Pro**|2024-03-01|50|0|8 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2024-02-02|16|0|50 GB||
-Total||84660|25425|69 TB||1 TB
+Total||84697|25388|69 TB||1 TB
