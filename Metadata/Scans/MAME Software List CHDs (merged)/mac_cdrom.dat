@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<!DOCTYPE datafile PUBLIC " -//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
 		<name>mac_cdrom</name>
@@ -15,6 +15,27 @@
 		<year>1998</year>
 		<manufacturer>Apple</manufacturer>
 		<rom name="aplegrec (Track 01).bin" size="679405568" crc="c15bca41" md5="4354f0fc58dffdec6e4bd425a514e720" sha1="09ed9d16842b27482ee3f800cd17affa484c1049"/>
+	</game>
+	<game name="chexquest\chex quest" type="cd" sha1="06fe7303b628e58a33f0de06ed1c2a5ba16e277e" size="217426853" crc="c3649c60" fullsha1="c90476cc54dfee86bf358c2eb06091ac5859d63a" dataSha1="f1cc181f45e17df53e788f7b442e002102e372a6">
+		<category>Games</category>
+		<description>Chex Quest</description>
+		<year>1996</year>
+		<manufacturer>General Mills</manufacturer>
+		<rom name="chex quest (Track 01).bin" size="283723776" crc="447c9488" md5="3a9d8f8c651f2be82c0a5c49d54432e9" sha1="876e6690e1e269c4a909db6d667a18fccd73f2a1"/>
+	</game>
+	<game name="hexen\hexen" type="cd" sha1="71833728eb8a2c80c652a8602da6f043b28d45a5" size="33026434" crc="e761d263" fullsha1="5a77d58f1a7e648779d681ca9136539104e8b6ae" dataSha1="7595a0a6fdd6feb749935c823a02ecaa298d51c8">
+		<category>Games</category>
+		<description>Hexen: Beyond Heretic</description>
+		<year>1995</year>
+		<manufacturer>GT Interactive</manufacturer>
+		<rom name="hexen (Track 01).bin" size="54550528" crc="53343aba" md5="1b6ea5c849f4a05f55026a6fd89ca0af" sha1="ee9396326624b4d6bf45e5d30721d3dcadf5a22c"/>
+	</game>
+	<game name="idanthol\id Anthology (USA) (Disc 4) (Mac)" type="cd" sha1="f823ee95643708859ae8e7e6db2fe76461248401" size="184368588" crc="7950cecd" fullsha1="d9c3e998e17fa56fcb5abbdd0a924de78dacb2e8" dataSha1="5563b2e95322610214eab6561336c32ea02d87eb">
+		<category>Games</category>
+		<description>id Anthology</description>
+		<year>1996</year>
+		<manufacturer>id Software</manufacturer>
+		<rom name="id Anthology (USA) (Disc 4) (Mac) (Track 01).bin" size="507441152" crc="2bcf4dcc" md5="9db1d3a8cde17a268eb421435cd5ef7b" sha1="afdf8c50ad0a35c0ea70a59ca1693e40d85a186c"/>
 	</game>
 	<game name="mac70a9\mac70a9" type="cd" sha1="d4064f8c11274b43fad8cdb50e5b2b3e0c59b3ac" size="71516809" crc="bb141b01" fullsha1="b56813d7227e4844243bd1e0acec63c254f9daf3" dataSha1="1203d612b97be8e4fd3815e81fc19fc3737b5e0d">
 		<category>Games</category>
@@ -95,9 +116,16 @@
 	</game>
 	<game name="pwrmaccd\pwrmaccd" type="cd" sha1="d7dc73de60727c2f464bc8867221b50d164d86bc" size="196021248" crc="d701db70" fullsha1="8fd11f42298af430a4b7e3b056336f2e6eec5ce2" dataSha1="c23324fc683b2d0b2e16c6719b946519a7a82db6">
 		<category>Games</category>
-		<description>Macintosh 6100/7100/8100 CD (System Software 7.1.2P) (US English)</description>
+		<description>Power Macintosh 6100/7100/8100 CD (System Software 7.1.2P) (US English)</description>
 		<year>1994</year>
 		<manufacturer>Apple</manufacturer>
 		<rom name="pwrmaccd (Track 01).bin" size="380176384" crc="43da0906" md5="ef17bc5b097a6318f7b61a0b0126f57a" sha1="ab6c240e6c3f232d7debf2297c511e1d88d2a3fb"/>
+	</game>
+	<game name="ultdoom\ultimate doom" type="cd" sha1="e7a1f4a94df6d60f6853ae3683e0c27375469d56" size="20722008" crc="313e7789" fullsha1="145cbe5e43e7d4eb223602e7be6009e09c051f94" dataSha1="2f9fc3e2a51194352ea43044ff55487fbc79401b">
+		<category>Games</category>
+		<description>The Ultimate Doom</description>
+		<year>1995</year>
+		<manufacturer>GT Interactive</manufacturer>
+		<rom name="ultimate doom (Track 01).bin" size="42563584" crc="c2a9580f" md5="c427d5b330d2fa72a0557d0f55e07a88" sha1="d1898d33b66fe61564754547b230332baaccf1e3"/>
 	</game>
 </datafile>

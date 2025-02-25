@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<!DOCTYPE datafile PUBLIC " -//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
 		<name>next_cdrom</name>
@@ -41,7 +41,7 @@
 		<category>Games</category>
 		<description>NeXT Education Software Sampler 1992</description>
 		<year>1992</year>
-		<manufacturer>eXT</manufacturer>
+		<manufacturer>NeXT</manufacturer>
 		<rom name="education_1992_sampler (Track 01).bin" size="676143104" crc="18d86ef7" md5="d31cd8c037e0c009dbf0a35095c95f83" sha1="f69472858955a7836175c99779eca5f137cb0b0a"/>
 	</game>
 	<game name="softpc_3_0\softpc30_win" type="cd" sha1="5a3cef335d4e0d21e7ca1e348ea54a00a725baf5" size="27760078" crc="1bba2693" fullsha1="530a900663a1a49498c7f779385da98c6f363293" dataSha1="f2465ba0dcc3487fd247c2ac5629505048b58ba5">

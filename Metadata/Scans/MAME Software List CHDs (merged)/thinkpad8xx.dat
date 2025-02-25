@@ -1,0 +1,96 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>thinkpad8xx</name>
+		<description>thinkpad8xx</description>
+		<version>0.274</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="aix_4\aix-v4-cd1" type="cd" sha1="083c351326cbdf9e1de93fc80b97aac52d0861b1" size="466463834" crc="08d429f3" fullsha1="f4a123d7a05de29a43d72b96cbf724ef07855529" dataSha1="5ac7ac83e7ea60383d1880d582fd83ad150f5f2b">
+		<category>Games</category>
+		<description>AIX 4</description>
+		<year>1995</year>
+		<manufacturer>IBM</manufacturer>
+		<rom name="aix-v4-cd1 (Track 01).bin" size="641587200" crc="c384c821" md5="b803b3e83917679d0aea0aee77738b29" sha1="91523edbf860008097262022a3974b0a0042d83f"/>
+	</game>
+	<game name="aix_4\aix-v4-cd2" type="cd" sha1="3bba76250f1ce757960f0de559e561033ec10459" size="186664117" crc="5605b78f" fullsha1="4e02e0ab831031972774bc7c915bed9af9be2d63" dataSha1="b4771ed6a6fa38ed5bfaf9f43da958f53b487caf">
+		<category>Games</category>
+		<description>AIX 4</description>
+		<year>1995</year>
+		<manufacturer>IBM</manufacturer>
+		<rom name="aix-v4-cd2 (Track 01).bin" size="251193344" crc="bba1a504" md5="8c0d550d3ecf4b2364f396744b6ba6ae" sha1="57c8c4f9a493e06ea41ea34a89202cceb2c58028"/>
+	</game>
+	<game name="aix_4\pers-conf-cd" type="cd" sha1="fb3d94e271d0637048bd0b9a3c6ba99e24ea5077" size="5536110" crc="ce547153" fullsha1="a04abd5319b493bd80be4b7c9cdcf6955d93f655" dataSha1="84368d9c5988a16ffbe29e20962aa6cbf82fd0d2">
+		<category>Games</category>
+		<description>AIX 4</description>
+		<year>1995</year>
+		<manufacturer>IBM</manufacturer>
+		<rom name="pers-conf-cd (Track 01).bin" size="7530496" crc="d154f99f" md5="2b1e9ea43fe7cc4a80f69d5c2742d592" sha1="91c5ffcf1cdba1087ad9bdd403fcc74267e2842e"/>
+	</game>
+	<game name="aix_4\prog-pack-cd" type="cd" sha1="7540dcc9109972acf6fd3146e761e85bc84c1143" size="183638710" crc="d39d92e6" fullsha1="e0b3c31db2bb6f62a23ba557a882a1c64e46a0cf" dataSha1="355248e77bda3a376511eb433ebed1b90b085631">
+		<category>Games</category>
+		<description>AIX 4</description>
+		<year>1995</year>
+		<manufacturer>IBM</manufacturer>
+		<rom name="prog-pack-cd (Track 01).bin" size="363567104" crc="488ca837" md5="9f02e7b6035bde1dbe8c20480b3e9379" sha1="71b72c28c4bd01f507c1188e218e6082fa563777"/>
+	</game>
+	<game name="aix_4\voicetype-aix-cd" type="cd" sha1="b7698e9359babe21874796be7a191aebce71523f" size="16284213" crc="e425a006" fullsha1="117ca460aa35d7000072ce2bb4ea6647c9b5c8eb" dataSha1="f31e520406224c7e12d7de333fa2e522b39f92b7">
+		<category>Games</category>
+		<description>AIX 4</description>
+		<year>1995</year>
+		<manufacturer>IBM</manufacturer>
+		<rom name="voicetype-aix-cd (Track 01).bin" size="17985536" crc="9b108abd" md5="c09350118afbe9c17b1bd818d8c4a0fd" sha1="b9475e472016471e2d9862d00b4703f3dcd24d41"/>
+	</game>
+	<game name="aix_4_1_5\aix_4.1.5_disc_01" type="cd" sha1="7b0a59e45424bd058d9ef748aed49d11300387bf" size="449685127" crc="18f345ab" fullsha1="4c49c8190e33c2c7f13a74d7332d384edd6b3042" dataSha1="e3da55e030134d49a0d75fbb548061cb703eac16">
+		<category>Games</category>
+		<description>AIX 4.1.5</description>
+		<year>1997</year>
+		<manufacturer>IBM</manufacturer>
+		<rom name="aix_4.1.5_disc_01 (Track 01).bin" size="635494400" crc="01ff5b5a" md5="a21f570a5021abf125aadbe941b6a161" sha1="32fbd4658da706f8ffa900552b36e0bb393a9b27"/>
+	</game>
+	<game name="aix_4_1_5\aix_4.1.5_disc_02" type="cd" sha1="b345f1a55436202d553eddb6259a92ec6bb8bb91" size="48723999" crc="d54e537c" fullsha1="228afedd90619e89c6b466b4970bda0e5a3e9a13" dataSha1="8e48f9e947332a44cefe342df2f13c3f9f8d91e0">
+		<category>Games</category>
+		<description>AIX 4.1.5</description>
+		<year>1997</year>
+		<manufacturer>IBM</manufacturer>
+		<rom name="aix_4.1.5_disc_02 (Track 01).bin" size="58351616" crc="38397310" md5="ea0ed0f8644892ca412c49d9f2389d89" sha1="7846c7d1636a255e573887265ee6edc487be856e"/>
+	</game>
+	<game name="os2w_ppc\os2-ppc-cd1-os" type="cd" sha1="288f5aba9560ef0b35c4b88a9b6be7cbe78bb5ee" size="78580777" crc="45859e85" fullsha1="b646fdb3ab5f982304e7cbaf6bd735e20cc66198" dataSha1="62f7a4b71096c1f445742b7de60dde4989302ea8">
+		<category>Games</category>
+		<description>OS/2 Warp PowerPC Edition</description>
+		<year>1995</year>
+		<manufacturer>IBM</manufacturer>
+		<rom name="os2-ppc-cd1-os (Track 01).bin" size="230313984" crc="c89ae3f5" md5="0305c6da83a40257c05dd8f19d1268e0" sha1="feac082f9c5511b6259499df2c1583142e686123"/>
+	</game>
+	<game name="os2w_ppc\os2-ppc-cd2-sampler" type="cd" sha1="a08bd5f4252bb69d62128e3bcf373158a44436ee" size="189298077" crc="25e5979b" fullsha1="e1fd3631c353b2903d35658a59e8a79b6306c1d2" dataSha1="ed9dcbf9c1440f0080f64e96c3ec728cb704ffcc">
+		<category>Games</category>
+		<description>OS/2 Warp PowerPC Edition</description>
+		<year>1995</year>
+		<manufacturer>IBM</manufacturer>
+		<rom name="os2-ppc-cd2-sampler (Track 01).bin" size="312758272" crc="04b8b543" md5="122dba27a74b177d324a3352815cc3c6" sha1="03be333625c487371899d86d3c950f15ddf18652"/>
+	</game>
+	<game name="sol_2_5_1_ppc\solaris_2.5.1_powerpc" type="cd" sha1="cd5383e659a40011e67fb382ad1d67b1c80ec8b1" size="134085374" crc="d4ccea31" fullsha1="61f003bf259e472673b6f65b18ed9b2629ea396b" dataSha1="001d1761a6b22e83216a79b96f605ed44ca71648">
+		<category>Games</category>
+		<description>Solaris 2.5.1 Limited Availability PowerPC Platform Edition</description>
+		<year>1996</year>
+		<manufacturer>Sun Microsystem</manufacturer>
+		<rom name="solaris_2.5.1_powerpc (Track 01).bin" size="580845568" crc="e881b2b7" md5="7fc38cd521c1e78bd090cba8653abff0" sha1="fd1e94838347aecdd1a50ae0cd764924bf983b97"/>
+	</game>
+	<game name="sol_2_5_1_ppc\solaris_desktop_1.1_powerpc" type="cd" sha1="56f365e0fddfa6cad47b7db36716f7040e967747" size="87126002" crc="47986b1e" fullsha1="00502ae94b626f0fc3a080ba1c419397b8aaaae3" dataSha1="132ac8ec4b871ed89e79d26a7542c591d0d9f228">
+		<category>Games</category>
+		<description>Solaris 2.5.1 Limited Availability PowerPC Platform Edition</description>
+		<year>1996</year>
+		<manufacturer>Sun Microsystem</manufacturer>
+		<rom name="solaris_desktop_1.1_powerpc (Track 01).bin" size="381526016" crc="95450e6b" md5="c89b25871717158761d5feeefc44d014" sha1="403a42b74897fbae4fa8b18b1c29f8adbf7c1ed0"/>
+	</game>
+	<game name="win_nt_3_5_ppc\windows_nt_3.5_workstation_powerpc" type="cd" sha1="899cef0abc9ea159bc5966b37915a13710027c67" size="51098635" crc="e7d33c4b" fullsha1="ea1035d1c7f68d8237926125e9a9ccae83fa3f82" dataSha1="5b4e2c543ce9842b9fe7d83907c81faa894ae70c">
+		<category>Games</category>
+		<description>Windows NT Workstation 3.5 PowerPC Edition</description>
+		<year>1994</year>
+		<manufacturer>IBM</manufacturer>
+		<rom name="windows_nt_3.5_workstation_powerpc (Track 01).bin" size="98637824" crc="36f10b14" md5="2880a9c6b934a13bd748a148debae7dd" sha1="176738ec23aa64d3d145ed253c87ab2df72ad7db"/>
+	</game>
+</datafile>

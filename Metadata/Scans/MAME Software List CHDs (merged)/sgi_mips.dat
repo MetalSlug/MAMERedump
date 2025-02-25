@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<!DOCTYPE datafile PUBLIC " -//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
 		<name>sgi_mips</name>
@@ -74,7 +74,7 @@
 	</game>
 	<game name="aux_apps_6_2\irix_6_2_auxiliary_applications" type="cd" sha1="d696aebcd218731f44f13190460bc2282423e31d" size="122955912" crc="8f9e03c7" fullsha1="148b6535461596a144cb4ba03abe1e3a808aa813" dataSha1="8890153811dbb5cb052f94868012145ff75e48d2">
 		<category>Games</category>
-		<description>.2 Auxiliary Applications</description>
+		<description>IRIX 6.2 Auxiliary Applications</description>
 		<year>1997</year>
 		<manufacturer>Silicon Graphics</manufacturer>
 		<rom name="irix_6_2_auxiliary_applications (Track 01).bin" size="160227328" crc="cd77b964" md5="8c939b0b862b46751880e7d48fb7454b" sha1="e5f3a510423aa2593ee4547e6980afbaa9281441"/>
@@ -209,7 +209,7 @@
 		<category>Games</category>
 		<description>Desktop Special Edition 1.0</description>
 		<year>1995</year>
-		<manufacturer>on Graphics</manufacturer>
+		<manufacturer>Silicon Graphics</manufacturer>
 		<rom name="Desktop_Special_Edition_1_0 (Track 01).bin" size="391702080" crc="c4cdddeb" md5="46a9052688c8dc97e64adaa88426e1da" sha1="583464b2591c5a0b5c0880d57ca6163f12fffe90"/>
 	</game>
 	<game name="deskse_1_1\desktop_special_edition_1_1" type="cd" sha1="c38090094706936e4db61550be2c506f1970e67b" size="257363191" crc="324aab30" fullsha1="4f740d11eb60da5fadcd4a3003aca88ff81d7ae3" dataSha1="4aa6d4e676c69ce84bc2318e72f4ecc4f4678f61">
@@ -426,7 +426,7 @@
 		<category>Games</category>
 		<description>European Language Module 1.3</description>
 		<year>1995</year>
-		<manufacturer> Graphics</manufacturer>
+		<manufacturer>Silicon Graphics</manufacturer>
 		<rom name="European_Language_Module_1_3 (Track 01).bin" size="75724992" crc="99adae74" md5="6c38d6a173b62b9950e95abf6d793403" sha1="cb66b5707d816ac25ba4c23f5a04aa53095e7935"/>
 	</game>
 	<game name="eurlang_1_3_1\European_Language_Module_1_3_1" type="cd" sha1="7d86b405dfd82909caf8797cd74a309681416097" size="25549860" crc="0588e057" fullsha1="9c4931ef0d3030ed4998f2992c6c3a70338136f7" dataSha1="4ae562d881063179af21696105c17c51e683ba4e">
@@ -740,7 +740,7 @@
 	<game name="ido_5_0\iris_development_option_5_0" type="cd" sha1="02071ffc192f55a1cee7e07ae79f1ab07ff60d64" size="97656163" crc="02c50ab6" fullsha1="ebc09b055774696fb92a8af7c5aeed9a3cceae94" dataSha1="287e3ba96f917b135f6c6a8301093f4b3a10ed16">
 		<category>Games</category>
 		<description>IRIS Development Option 5.0</description>
-		<year>93</year>
+		<year>1993</year>
 		<manufacturer>Silicon Graphics</manufacturer>
 		<rom name="iris_development_option_5_0 (Track 01).bin" size="121769984" crc="cbe93a78" md5="37676e1ea4a22ce63f5a5ccedf799ca1" sha1="08f33dc5ffff8060c7dd55bad66547808839829a"/>
 	</game>
@@ -887,7 +887,7 @@
 	<game name="iperf_2_2\iris_performer_2_2_for_irix_6_2_and_later" type="cd" sha1="1f7552fceab26f59be8562dfd5eaf14a3b0f9ebe" size="448580194" crc="3eda1782" fullsha1="943362a9fa775e27eb73355a70ec46ada877e261" dataSha1="ad30a0d06e4085d10df60afe00cdb4e6679ca10f">
 		<category>Games</category>
 		<description>IRIS Performer 2.2 for IRIX 6.2 and later</description>
-		<year>97</year>
+		<year>1997</year>
 		<manufacturer>Silicon Graphics</manufacturer>
 		<rom name="iris_performer_2_2_for_irix_6_2_and_later (Track 01).bin" size="521199616" crc="9cfb1da4" md5="885cebd5a3b9729d5ee2a1a43b3b880d" sha1="a556686869b86a0bc73657c06a3480db22ef150e"/>
 	</game>
@@ -921,7 +921,7 @@
 	</game>
 	<game name="irix_4_0_1\network_file_system_4_0_1" type="cd" sha1="87a8435599317c9c9cb518511b1337b2c585520d" size="2391990" crc="293284d6" fullsha1="911a5e995c5b313b455c9a4a1151a1ec7817fc29" dataSha1="bd32ce0ece009cb217946a6cf12d3829ac348b43">
 		<category>Games</category>
-		<description> 4.0.1</description>
+		<description>IRIX 4.0.1</description>
 		<year>1991</year>
 		<manufacturer>Silicon Graphics</manufacturer>
 		<rom name="network_file_system_4_0_1 (Track 01).bin" size="11005952" crc="53b93357" md5="6635af8a4d1982346bb878d83312b630" sha1="4db4f7d1f184a19d9f6b739c9d02d8db805ab432"/>
@@ -1049,7 +1049,7 @@
 		<category>Games</category>
 		<description>IRIX 5.2 Beta II</description>
 		<year>1994</year>
-		<manufacturer>s</manufacturer>
+		<manufacturer>Silicon Graphics</manufacturer>
 		<rom name="irix_5_2_beta_ii (Track 01).bin" size="605245440" crc="9bf4093f" md5="15d0a50d1cd99f9ef410f833d87b5758" sha1="c1c4b67eaf6d9edb29f3e009eab6b7f941038831"/>
 	</game>
 	<game name="irix_5_2_patches\irix_5_2_patches" type="cd" sha1="8554448169459cb4f03440ddfaa3dc8d66d450cf" size="221567376" crc="5b7907b9" fullsha1="fb7e6b45f0cc96d40f9e2634882345f4846bfb60" dataSha1="8bf71695cee8df02f00387f85b905454b95a7127">
@@ -1236,7 +1236,7 @@
 	</game>
 	<game name="irix_6_5\irix_6_5_installation_tools_june_1998" type="cd" sha1="e851b7600daff462ad613bfa6fec9e750cb26c8f" size="214975362" crc="6b299c75" fullsha1="2123c5477c3533214a95dc7c801b7306d821d184" dataSha1="9a25a009d5eb077fe030ecdb1848e34ebd5e4887">
 		<category>Games</category>
-		<description> 6.5</description>
+		<description>IRIX 6.5</description>
 		<year>1998</year>
 		<manufacturer>Silicon Graphics</manufacturer>
 		<rom name="irix_6_5_installation_tools_june_1998 (Track 01).bin" size="357325248" crc="9f8b19ac" md5="de209c730f1bd4006f03cc5bf28cc24e" sha1="fc7cbf96d59a87b8e904031e1cdb700a34cf2666"/>
@@ -1509,7 +1509,7 @@
 	</game>
 	<game name="irix_6_5_16\irix_6_5_16_overlays_may_2002__4of4__812_1123_016" type="cd" sha1="0955eea50246d560e821a3faaea9fff4067bff0d" size="309243233" crc="fc7e9716" fullsha1="9b14c32f307994378db12f7925ed48995ae918ec" dataSha1="6303ae37ec21e53e8e6528f85a42fcb9d579bfc9">
 		<category>Games</category>
-		<description>5.16</description>
+		<description>IRIX 6.5.16</description>
 		<year>2002</year>
 		<manufacturer>SGI</manufacturer>
 		<rom name="irix_6_5_16_overlays_may_2002__4of4__812_1123_016 (Track 01).bin" size="342525952" crc="66f9c7b3" md5="b0e6c70a1f09a1d3f6e76fa1d08e2e63" sha1="70a08cc9bb79013c70c123beb999fb494ebddcfb"/>
@@ -2181,7 +2181,7 @@
 	</game>
 	<game name="irix_6_5_30\irix_6_5_30_doc" type="cd" sha1="b49051c8fe17860317919557aceda671367afae5" size="204583390" crc="8a459a0a" fullsha1="795dd124fdb2cc32eac0e44187718902e42b87d3" dataSha1="947351ec1d86d50d3cb0743f11d5fb233331b378">
 		<category>Games</category>
-		<description>0</description>
+		<description>IRIX 6.5.30</description>
 		<year>2006</year>
 		<manufacturer>SGI</manufacturer>
 		<rom name="irix_6_5_30_doc (Track 01).bin" size="370247680" crc="e6c9cb1b" md5="88b35ab24559b0f3d5b619d27bb7debf" sha1="de9154de92420fa83536cb4781d2f5cab9d1d072"/>
@@ -2260,7 +2260,7 @@
 		<category>Games</category>
 		<description>IRIX 6.5.4</description>
 		<year>1999</year>
-		<manufacturer>con Graphics</manufacturer>
+		<manufacturer>Silicon Graphics</manufacturer>
 		<rom name="irix_6_5_4_overlays_1_2_may_1999 (Track 01).bin" size="700171584" crc="846ba878" md5="eb57dba0d0007d42ade1780f0c07ff96" sha1="7b721a0d0e619c471875d592082d4a0fd9ea6b3c"/>
 	</game>
 	<game name="irix_6_5_4\irix_6_5_4_overlays_2_2_may_1999" type="cd" sha1="b1a27033d832adae4ba4cdaf487fe120338e838b" size="531687791" crc="bad5d351" fullsha1="f5d8423e82a9eb8bae748d9df6f92644e79b941b" dataSha1="07c1dc99ed3aed1ef0f93d3666da0967d5911085">
@@ -2309,7 +2309,7 @@
 		<category>Games</category>
 		<description>IRIX 6.5.5</description>
 		<year>1999</year>
-		<manufacturer>icon Graphics</manufacturer>
+		<manufacturer>Silicon Graphics</manufacturer>
 		<rom name="irix_6_5_5_base_documentation (Track 01).bin" size="361670656" crc="0bafaaa5" md5="0494263f07b1de1fab48c7ab96184cd4" sha1="58ecaacaf423f64961bd63d56e20d3bfe8722c9a"/>
 	</game>
 	<game name="irix_6_5_6\freeware_part_1_of_2_november_1999" type="cd" sha1="8ab2a018c0ea7e7d14c3b84d21bb8a7e988f1a0f" size="531210755" crc="92f03039" fullsha1="1dc5d59e55605c7960d1a21b40cf0fa774e229cc" dataSha1="d5dfee6898cc65536ff3f51eef4a678a886f2e2d">
@@ -2767,12 +2767,40 @@
 		<manufacturer>The NetBSD Project</manufacturer>
 		<rom name="sgimipscd (Track 01).bin" size="162365440" crc="8f026ef3" md5="b9b2efcafb916139280d635cc32c996b" sha1="13e0cfdb63df1c9079582d55560f5f0f385ad87e"/>
 	</game>
+	<game name="netbsd_2_0_2\sgimipscd_2_0" type="cd" sha1="9a8b4423a505edd9b5e9aba7ad000380bdd1bcd0" size="145062964" crc="e7eaea63" fullsha1="d8960cfffc55d87f8e83074346e0f670b7a7f024" dataSha1="e21e22aff3d937133a31444533b8daa2c53e2af7">
+		<category>Games</category>
+		<description>NetBSD 2.0.2</description>
+		<year>2005</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sgimipscd_2_0 (Track 01).bin" size="146112512" crc="e361399c" md5="e0a21a29d03a5b3c848bc1d4298dd4a5" sha1="1e784af17e908202447bd34579872c31e8ec6e1e"/>
+	</game>
+	<game name="netbsd_2_0_2\sgimipscd_2_0_2" type="cd" sha1="c7cb7771170bb35666714e259e323bea10bd69f1" size="161191518" crc="d10150fe" fullsha1="45b78a683010aa75476ca987e48fa469b4cfa127" dataSha1="32723bf8091c65f96bc30a1ff37595e1052ae130">
+		<category>Games</category>
+		<description>NetBSD 2.0.2</description>
+		<year>2005</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sgimipscd_2_0_2 (Track 01).bin" size="162365440" crc="8f026ef3" md5="b9b2efcafb916139280d635cc32c996b" sha1="13e0cfdb63df1c9079582d55560f5f0f385ad87e"/>
+	</game>
 	<game name="netbsd_2_0_2\sourcecd" type="cd" sha1="bbc67447abf06a4afdf506b62efb7d4c5dbc1a8b" size="242731596" crc="27b744d6" fullsha1="e74be0fe637d4ddc8e5bbe818d6c3876fce2f6ae" dataSha1="a28ee7d4c788baee38c9736c85d60e8ad8bdb291">
 		<category>Games</category>
 		<description>NetBSD 2.0.2</description>
 		<year>2005</year>
 		<manufacturer>The NetBSD Project</manufacturer>
 		<rom name="sourcecd (Track 01).bin" size="243826688" crc="b6a7780a" md5="6fbb3b236530b84197201be2f5bbc539" sha1="d5ec054dc426da24dfe244fd535447ad69efe4cd"/>
+	</game>
+	<game name="netbsd_2_0_2\sourcecd_2_0" type="cd" sha1="23b38128bab629b305a5bf736359fa2b02f0be23" size="261409057" crc="9ecd7b0d" fullsha1="073ceaa3db068938e11a4893fcec81ce533e1016" dataSha1="4a3cccf8965e1684d0808def0be2b374b8839ed3">
+		<category>Games</category>
+		<description>NetBSD 2.0.2</description>
+		<year>2005</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sourcecd_2_0 (Track 01).bin" size="262569984" crc="4ab56fca" md5="fe4fe498114f6fcf8c6579465adf49d6" sha1="4ebed0cb4d4e8410eeb7ffb5c263d7ea55916a35"/>
+	</game>
+	<game name="netbsd_2_0_2\sourcecd_2_0_2" type="cd" sha1="bbc67447abf06a4afdf506b62efb7d4c5dbc1a8b" size="242731596" crc="27b744d6" fullsha1="e74be0fe637d4ddc8e5bbe818d6c3876fce2f6ae" dataSha1="a28ee7d4c788baee38c9736c85d60e8ad8bdb291">
+		<category>Games</category>
+		<description>NetBSD 2.0.2</description>
+		<year>2005</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sourcecd_2_0_2 (Track 01).bin" size="243826688" crc="b6a7780a" md5="6fbb3b236530b84197201be2f5bbc539" sha1="d5ec054dc426da24dfe244fd535447ad69efe4cd"/>
 	</game>
 	<game name="netbsd_2_1\sgimipscd" type="cd" sha1="451d0c35b2c5c54741244e7bc53ca81685b7d507" size="145254166" crc="13c08a3d" fullsha1="dd160526c51fc4976639a5ca872b6a38f8da9088" dataSha1="932a8ca6820f08cc259c36a7d8945e98159e601e">
 		<category>Games</category>
@@ -2783,7 +2811,7 @@
 	</game>
 	<game name="netbsd_2_1\sourcecd" type="cd" sha1="62e2ca1ed47de4cd15f227c6f264bf25f3b30d5f" size="262573584" crc="714001e0" fullsha1="9c1dd6ae595aa44f68b21b574e4ede12ad23a6b1" dataSha1="d63cdf4c7684079d3b64fb210668bdc31c728d0b">
 		<category>Games</category>
-		<description>tBSD 2.1</description>
+		<description>NetBSD 2.1</description>
 		<year>2005</year>
 		<manufacturer>The NetBSD Project</manufacturer>
 		<rom name="sourcecd (Track 01).bin" size="263782400" crc="0ebe22e9" md5="71c66d6d53de00f7677d684f1e99b55a" sha1="3f393938c733b141a01fa1b840299b4fef386fe3"/>
@@ -2816,12 +2844,40 @@
 		<manufacturer>The NetBSD Project</manufacturer>
 		<rom name="sourcecd_3_0_1 (Track 01).bin" size="218693632" crc="58311443" md5="11e044a02736141767afb1c046968246" sha1="8ea56064366523dad909d55dd27c9e83b7ed5998"/>
 	</game>
+	<game name="netbsd_3_0_2\sgimipscd_3_0" type="cd" sha1="db574277c3cd368b1620b0ceddadd53feae8af0e" size="184883885" crc="b3024ed8" fullsha1="ce20c8a04f2013bf826bad0535931082535d564e" dataSha1="1f8aa7983dbbdf42d809416ed403bf9af0bf8749">
+		<category>Games</category>
+		<description>NetBSD 3.0.2</description>
+		<year>6</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sgimipscd_3_0 (Track 01).bin" size="186777600" crc="554049db" md5="1950dd47f21d4e8a279e01b6e29302d6" sha1="6df5c9f78662c1191d91984f9f0f183cacfb8957"/>
+	</game>
+	<game name="netbsd_3_0_2\sgimipscd_3_0_1" type="cd" sha1="635a0db06ec6a2a356d54a001a33cea87fd73df1" size="184829125" crc="c4da2b49" fullsha1="8c9fbcdfe31006d19c43cf1afdafa6a0926f868a" dataSha1="30c5ffc093367e7996cfba06420c8ec659d8b9dd">
+		<category>Games</category>
+		<description>NetBSD 3.0.2</description>
+		<year>6</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sgimipscd_3_0_1 (Track 01).bin" size="186744832" crc="1f1ca8fc" md5="89d0f53d32dd212ba97da2fad692b02e" sha1="077a68dbb316f8f74dbd8fc8f58b3e7762f83cb8"/>
+	</game>
 	<game name="netbsd_3_0_2\sgimipscd_3_0_2" type="cd" sha1="4d08ab1ec9c89846c90daca0d2211843f5c19387" size="184843746" crc="03b284b6" fullsha1="8785e73b09d99ee9eab7a6821c61fd6154ad1f0c" dataSha1="475218a4d6e3041187b2b4fa9837f481a2162fab">
 		<category>Games</category>
 		<description>NetBSD 3.0.2</description>
 		<year>6</year>
 		<manufacturer>The NetBSD Project</manufacturer>
 		<rom name="sgimipscd_3_0_2 (Track 01).bin" size="186744832" crc="b533da9f" md5="9f1339e0d8dfe940e94f8c5fdabbb4c2" sha1="cfd5f3380426bcc884632415be68ade219e8b5a0"/>
+	</game>
+	<game name="netbsd_3_0_2\sourcecd_3_0" type="cd" sha1="11f4982d1dbea203789ce9fa5c85639dbff8449e" size="217484060" crc="e6705b4b" fullsha1="9ab700a635e1816a8f1120b915b97875299686c7" dataSha1="36b5ed8fc38fe4db5b79705494bb65efbd098e2d">
+		<category>Games</category>
+		<description>NetBSD 3.0.2</description>
+		<year>6</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sourcecd_3_0 (Track 01).bin" size="218660864" crc="8cbdae99" md5="e7e9a0a5ccb7be0a14f2d2fab080f620" sha1="5f8f5d57a376394058091a488557a59afe5a6d21"/>
+	</game>
+	<game name="netbsd_3_0_2\sourcecd_3_0_1" type="cd" sha1="26c74cd8239da433994f06160ecf1a3dfde6ad8b" size="217519366" crc="5dc1d578" fullsha1="476c37f1154169a1443a82baf4cf5cde6847f1e1" dataSha1="a752073d5a6c46d81392605fffc1f359e1da7ba1">
+		<category>Games</category>
+		<description>NetBSD 3.0.2</description>
+		<year>6</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sourcecd_3_0_1 (Track 01).bin" size="218693632" crc="58311443" md5="11e044a02736141767afb1c046968246" sha1="8ea56064366523dad909d55dd27c9e83b7ed5998"/>
 	</game>
 	<game name="netbsd_3_0_2\sourcecd_3_0_2" type="cd" sha1="7d7f3a502fc5f272817df636821db832107d7282" size="217556175" crc="28de4454" fullsha1="86038dcdfeb5a4ad74c83a7cf0d37e2bfbc2e9f2" dataSha1="5996f542eb9062cc1949fec726dac038d282e347">
 		<category>Games</category>
@@ -2843,6 +2899,272 @@
 		<year>2006</year>
 		<manufacturer>The NetBSD Project</manufacturer>
 		<rom name="sourcecd_3_1 (Track 01).bin" size="212533248" crc="06f60ef2" md5="b292d8a1a94c7cba1b74f2372309d5fd" sha1="685694566a2ca67dc2ceb37643b1f1f5efd3545d"/>
+	</game>
+	<game name="netbsd_4_0_1\sgimipscd_4_0" type="cd" sha1="3f49f701a69c547ada5a0ac746735b24422f2632" size="170009739" crc="3d0dcb30" fullsha1="79162b579664323bf6ec63c62736c0d363b91604" dataSha1="0bc67f85aee76e24e4e144a1080dfc09639dbf2c">
+		<category>Games</category>
+		<description>NetBSD 4.0.1</description>
+		<year>2008</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sgimipscd_4_0 (Track 01).bin" size="173015040" crc="f26ef1a4" md5="a283617c4fc1d0cfe1bbe67db92936a7" sha1="735c94ccaade65ddc06ada55091641faf36a9c2b"/>
+	</game>
+	<game name="netbsd_4_0_1\sgimipscd_4_0_1" type="cd" sha1="ac4f5170d2e4eed1cd460da270f768fb35226415" size="170046314" crc="882efd88" fullsha1="7129817456b6e3a253b917ea609641c05c3293df" dataSha1="0e3632fc2121a4efa6728c358a49ccd41a7bfc83">
+		<category>Games</category>
+		<description>NetBSD 4.0.1</description>
+		<year>2008</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sgimipscd_4_0_1 (Track 01).bin" size="173080576" crc="d1656d12" md5="efd8a9ac5cc3a790e88cdebeb0580e15" sha1="f8fa1a92f6c5debaea8d116f36ff3353ec0746db"/>
+	</game>
+	<game name="netbsd_4_0_1\sourcecd_4_0" type="cd" sha1="987a2c5c0f8c9eb4c7ceb2865621e89584cab1af" size="298463888" crc="ecf33ddd" fullsha1="a649bb8d59dbbcef85e48b083a0e51224596b2e8" dataSha1="81827724a22b01db745afc15186c92182ae2bfd5">
+		<category>Games</category>
+		<description>NetBSD 4.0.1</description>
+		<year>2008</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sourcecd_4_0 (Track 01).bin" size="300333056" crc="c70960a1" md5="a584bf9f068871147fe8dc361d215364" sha1="a10b08babd0b21b75067d5f07e898b20ed672dd6"/>
+	</game>
+	<game name="netbsd_4_0_1\sourcecd_4_0_1" type="cd" sha1="f6ac8925b47c8b7099213a82f7af4c935ce9ff71" size="244570468" crc="4ab461e2" fullsha1="63a8161f94c54def82c9ad82ced16e4bf819b992" dataSha1="2f01b3979d8dcd45d49967c62d96072a0b0b0bba">
+		<category>Games</category>
+		<description>NetBSD 4.0.1</description>
+		<year>2008</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sourcecd_4_0_1 (Track 01).bin" size="246054912" crc="be3476d2" md5="affbfb35398da4875454909309f34afa" sha1="83eae3e538b144c32c1598326be5fefe57b9cdba"/>
+	</game>
+	<game name="netbsd_5_0_2\sgimipscd_5_0" type="cd" sha1="69076851c3d24da4ab91824e526cfb729db2a4ed" size="193646149" crc="8655ee0d" fullsha1="f787914c6efc83b071f256d36b494035e885693a" dataSha1="fd6d7ad23fd1706a4fa6b19c4bb575be97d9abff">
+		<category>Games</category>
+		<description>NetBSD 5.0.2</description>
+		<year>2010</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sgimipscd_5_0 (Track 01).bin" size="196648960" crc="499489fb" md5="0ba3941687999034facfe6f386b059de" sha1="6dd6c61b6a82458ed94a6167a17d50947e9ad0cd"/>
+	</game>
+	<game name="netbsd_5_0_2\sgimipscd_5_0_1" type="cd" sha1="0d2f2792f7f76418fc4b5738be5785cdfa3f0fd2" size="194149261" crc="5fc0ab67" fullsha1="c937d0882dacbd6adfb023d59f719803f064cb90" dataSha1="b8cff7cb84200f5675daa05995d07023cf1f9d16">
+		<category>Games</category>
+		<description>NetBSD 5.0.2</description>
+		<year>2010</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sgimipscd_5_0_1 (Track 01).bin" size="197171200" crc="61c7435a" md5="54c7ba55f0b5c977f91f1897f3715eaf" sha1="8d7785568607a9a0d8ac121afb444b5ca3d5cf47"/>
+	</game>
+	<game name="netbsd_5_0_2\sgimipscd_5_0_2" type="cd" sha1="b5de1faab5cc72c05da44a79819038a8f721229c" size="194245925" crc="3326e65d" fullsha1="451a6340e59e0ec5a9ba6ddb7c07c22ab57fc614" dataSha1="51f878cb37e0625cabba2ce9bc8f128cafc6b427">
+		<category>Games</category>
+		<description>NetBSD 5.0.2</description>
+		<year>2010</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sgimipscd_5_0_2 (Track 01).bin" size="197279744" crc="82d2a589" md5="b05bae2042765101739c352b76dbace0" sha1="bf1a908090d5024d54076748865af79aa5896d6c"/>
+	</game>
+	<game name="netbsd_5_0_2\sourcecd_5_0" type="cd" sha1="daf45dedfb390aa13effc738547fa4a99151b02c" size="328939866" crc="256db47f" fullsha1="96b40555702133610bbcb1af5c586058aaba09bd" dataSha1="efe6d1cc01a116da7fce12446aafe5919c3c7f29">
+		<category>Games</category>
+		<description>NetBSD 5.0.2</description>
+		<year>2010</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sourcecd_5_0 (Track 01).bin" size="330203136" crc="8659cf33" md5="0e7198525bdd192ff56d8c23a1c7f304" sha1="ab38f5ceaa3abbf69f72630e329ce210f5e7d281"/>
+	</game>
+	<game name="netbsd_5_0_2\sourcecd_5_0_1" type="cd" sha1="a81a1c7650590d9e55b6cf4dcc84a22072a40d3f" size="329746536" crc="22d75a16" fullsha1="6217cfe8bf1cb6088825581d872b37bebf3d2ce0" dataSha1="45accc8f8356f39a08d5fcb99967727f041cf03f">
+		<category>Games</category>
+		<description>NetBSD 5.0.2</description>
+		<year>2010</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sourcecd_5_0_1 (Track 01).bin" size="330989568" crc="35407af1" md5="bf5710273fd421698c15d77d0cef074e" sha1="3b4e9e2b182537d18748d46835d029be36c38891"/>
+	</game>
+	<game name="netbsd_5_0_2\sourcecd_5_0_2" type="cd" sha1="62e11b6e5f1c7562b0175f60a940eeb748e3be21" size="329805075" crc="1b689c1f" fullsha1="b0e2a7e26c05f8416703fb68e1b96e3eb794a62f" dataSha1="f9c815da27e092a80fe2140bab19c9d8d534fb7c">
+		<category>Games</category>
+		<description>NetBSD 5.0.2</description>
+		<year>2010</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sourcecd_5_0_2 (Track 01).bin" size="331055104" crc="707ea6fb" md5="a055e6bcc3a06d3a70d9c014362262ed" sha1="aba2bea5f5396d2c4043cbcf38a7ed7ea3b0df9b"/>
+	</game>
+	<game name="netbsd_5_1_5\netbsd_5_1_5_sgimips" type="cd" sha1="858fb9e57bcf732a1522f0c981ef5f8cdfc7c7b5" size="193795400" crc="7a2d4187" fullsha1="976913212dbdc92aa5fc29dfeea846d0b4bcee59" dataSha1="543449978fe8cf3daab995209dc9683354a6d5c2">
+		<category>Games</category>
+		<description>NetBSD 5.1.5</description>
+		<year>2014</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="netbsd_5_1_5_sgimips (Track 01).bin" size="196538368" crc="a64c4c7f" md5="36f44b65d8677f4b7ddd8dca5a927f1a" sha1="0b45e6b0e30a5b5072a7a1bec333226cb529deaa"/>
+	</game>
+	<game name="netbsd_5_1_5\netbsd_5_1_5_source" type="cd" sha1="4b9963487801ff2972668154fd6aeb1e929bd2d0" size="323423460" crc="fdc012e5" fullsha1="ffcb447ed15d92500a1daed069cfa50f4c41e511" dataSha1="de70f042891d16387d6a65b1a38032ebc1fab07d">
+		<category>Games</category>
+		<description>NetBSD 5.1.5</description>
+		<year>2014</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="netbsd_5_1_5_source (Track 01).bin" size="324599808" crc="3e83f9b7" md5="4a111f2a696f31202faf662feec2a73e" sha1="c0d6dee403f190d2de300002cb385c70126a5ca0"/>
+	</game>
+	<game name="netbsd_5_1_5\sgimipscd_5_1" type="cd" sha1="03cb8bcf65b8b1c0b1a0bb5c50f0f6b832d18e4e" size="189760170" crc="8dfb43a3" fullsha1="b5e1a72f1b341735078ffe06806e9f2a3c105f14" dataSha1="b4f4cf84f1b64eb197a5b8496ac8e47e5538c336">
+		<category>Games</category>
+		<description>NetBSD 5.1.5</description>
+		<year>2014</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sgimipscd_5_1 (Track 01).bin" size="196022272" crc="b9e51c68" md5="abdafd172453c5f8b5d6bbd96779a466" sha1="cf0e1e39240dd1367b9fc3a240655f19e3ec0d97"/>
+	</game>
+	<game name="netbsd_5_1_5\sgimipscd_5_1_1" type="cd" sha1="7019351b3c1810a7ff20fafdc3f950878631d8af" size="193692687" crc="6f6f7452" fullsha1="a806807636a9dbb96e294c7eea640b628792bcf6" dataSha1="ada5ca77a104bbfc7a555dadf07b1589018b852e">
+		<category>Games</category>
+		<description>NetBSD 5.1.5</description>
+		<year>2014</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sgimipscd_5_1_1 (Track 01).bin" size="196478976" crc="7b327871" md5="84e5bca1c734858b112829c7446c22a0" sha1="24952f24e8ba49537ce04026124db49f8a6619b7"/>
+	</game>
+	<game name="netbsd_5_1_5\sgimipscd_5_1_2" type="cd" sha1="3eada0517598536d68658fa5f133e8384825169f" size="193731407" crc="2716e946" fullsha1="1103b6323252690613e04de48410b96fa93e35f4" dataSha1="280b3934e1ef6db44f43f4699abbca775e06ff05">
+		<category>Games</category>
+		<description>NetBSD 5.1.5</description>
+		<year>2014</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sgimipscd_5_1_2 (Track 01).bin" size="196489216" crc="0a83a9bf" md5="6d7a77b09d0cb0732546b9259c8c05c6" sha1="d476686928a0791fcebde6eecf7139632a091555"/>
+	</game>
+	<game name="netbsd_5_1_5\sgimipscd_5_1_3" type="cd" sha1="c042e4e59d4efab25b91cfe10697e720c94bdf8c" size="193766683" crc="e6999e7c" fullsha1="9543963fb768d293e63dd0e3c37968eaafa27125" dataSha1="4030acd0e44f999e736fb738ec7718f28c153ead">
+		<category>Games</category>
+		<description>NetBSD 5.1.5</description>
+		<year>2014</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sgimipscd_5_1_3 (Track 01).bin" size="196505600" crc="bc94be00" md5="55f02c7dac524c1d227489ff797c23d1" sha1="d5ebe1870f425c583e96f79ff19f24c3058ed588"/>
+	</game>
+	<game name="netbsd_5_1_5\sgimipscd_5_1_4" type="cd" sha1="f002558048795fc65f3f1d171f3b4282525b87b1" size="190343301" crc="657db57d" fullsha1="aa1c0978148ec057b1e0acf9287ec139c4210d9a" dataSha1="bcb4934bdbc00a6c9229b110e6ff89822856c7c6">
+		<category>Games</category>
+		<description>NetBSD 5.1.5</description>
+		<year>2014</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sgimipscd_5_1_4 (Track 01).bin" size="196501504" crc="c6d52039" md5="8d63639fd02fa42136a4263ff9db6100" sha1="d889dd620b04b2475d2bcaf42be96ad6f3ef7ee8"/>
+	</game>
+	<game name="netbsd_5_1_5\sourcecd_5_1" type="cd" sha1="0fb5b636f0bd69a73f3fe1e7b4c213566e49b4cb" size="321561621" crc="8dcf81a4" fullsha1="4a8470247f739a37e79e8a1c6c1e52fd9e257f6b" dataSha1="6300996ab0abfc623132f4ed759f68e5a9221e01">
+		<category>Games</category>
+		<description>NetBSD 5.1.5</description>
+		<year>2014</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sourcecd_5_1 (Track 01).bin" size="322732032" crc="b88ed3ce" md5="787821259e7faff752abc81ed925f1a0" sha1="03fdfa7750b55ff989fc0e6e156606acdd3ba75f"/>
+	</game>
+	<game name="netbsd_5_1_5\sourcecd_5_1_1" type="cd" sha1="a5d437c72925845a3205b097a19b94f6bdd26116" size="323297147" crc="0dd8f973" fullsha1="3fe54699303309feb32fb7d6ffba76543cd4b9e4" dataSha1="bac593365d51014ef2f9f4967e481a291d5c3f2b">
+		<category>Games</category>
+		<description>NetBSD 5.1.5</description>
+		<year>2014</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sourcecd_5_1_1 (Track 01).bin" size="324468736" crc="1675d623" md5="0aae0c6c5801615e973c0990ce7d4f75" sha1="0da2924961dd90b1cc6e228c24e777b1ead155df"/>
+	</game>
+	<game name="netbsd_5_1_5\sourcecd_5_1_2" type="cd" sha1="819f87c4fe2b3a602555080247ab5b913d6a1fe7" size="323276456" crc="fd68cb97" fullsha1="5d6d84f197791697e5935a46a5d377ac46a0644e" dataSha1="9f43e4ec947872f62450f83052b21390b1762142">
+		<category>Games</category>
+		<description>NetBSD 5.1.5</description>
+		<year>2014</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sourcecd_5_1_2 (Track 01).bin" size="324468736" crc="2e5caf54" md5="9c3b54457b50ddba45bb3b92613c81e3" sha1="fd00b211dd035e281b391518f38af5ac3041b22b"/>
+	</game>
+	<game name="netbsd_5_1_5\sourcecd_5_1_3" type="cd" sha1="bd701aaebb264d7adc1042d5175fd8a54aed183e" size="323353964" crc="4d4b8f05" fullsha1="1b955486ba935eb75468d18d5c691851bcb650a1" dataSha1="8bb0517a2c765404494dcb872c03796248ac21ac">
+		<category>Games</category>
+		<description>NetBSD 5.1.5</description>
+		<year>2014</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sourcecd_5_1_3 (Track 01).bin" size="324534272" crc="3d9f5b94" md5="b6a76b9faf2bf866a49adad4a7561923" sha1="c941827e32827a20e61e664672c467ae55e20070"/>
+	</game>
+	<game name="netbsd_5_1_5\sourcecd_5_1_4" type="cd" sha1="fe4a2bd838c08cd6e78236a8ef82edef3cb94d67" size="323342034" crc="0b06dba5" fullsha1="3daba7ee0d9adbce0ec2279a2da44ddf29273bea" dataSha1="38437408f9ab60c9790920838629c12749cb7788">
+		<category>Games</category>
+		<description>NetBSD 5.1.5</description>
+		<year>2014</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sourcecd_5_1_4 (Track 01).bin" size="324534272" crc="8cf8b49c" md5="e453de4bc67f6d9d8c924726bef83fce" sha1="a6a5535b443b43aba392bedea17e792000387be9"/>
+	</game>
+	<game name="netbsd_5_2_3\netbsd_5_2_3_sgimips" type="cd" sha1="c23b419ec22376e3e6e88a111e7094a66f73dd48" size="191297587" crc="614d930d" fullsha1="2b64882d448452914eb13e699d8792f33657f3de" dataSha1="87e0574a3e5b8bc3806450c037df95e3e92423fa">
+		<category>Games</category>
+		<description>NetBSD 5.2.3</description>
+		<year>2014</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="netbsd_5_2_3_sgimips (Track 01).bin" size="196601856" crc="33d3eddb" md5="a2cb67a47b58de7c788aa44c39ae4884" sha1="1965060fd3bb5cae684faedce33a3678e978396a"/>
+	</game>
+	<game name="netbsd_5_2_3\netbsd_5_2_3_source" type="cd" sha1="22ef7aa3f734d09627f7cbdda6630542d469fb18" size="324047403" crc="a52e1691" fullsha1="989f310d558deb08d97981a2e3cd794db080634e" dataSha1="3d7f8c1c0153b85c4148119472f3005ad9b25802">
+		<category>Games</category>
+		<description>NetBSD 5.2.3</description>
+		<year>2014</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="netbsd_5_2_3_source (Track 01).bin" size="325222400" crc="9b5feafa" md5="f0e2033a2ccd2e0915833082f82dc043" sha1="be5036729f43046ef7feeef553db617a01080be7"/>
+	</game>
+	<game name="netbsd_5_2_3\sgimipscd_5_2" type="cd" sha1="37479f3cf460b5915f9116e5ce68acf6d6b1ff77" size="193833817" crc="e7d797a4" fullsha1="52f5ebad0e01ad5c724bb4c304e1a75fb11cca8a" dataSha1="7edde2437e750866b7e8cd3dfba382f8d50afcfc">
+		<category>Games</category>
+		<description>NetBSD 5.2.3</description>
+		<year>2014</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sgimipscd_5_2 (Track 01).bin" size="196601856" crc="bdc8f85f" md5="253ab81e973c63fa60983a80322b2688" sha1="939fd92ed9cb36bdfc50ef8b40986d028aec6478"/>
+	</game>
+	<game name="netbsd_5_2_3\sgimipscd_5_2_1" type="cd" sha1="e3cbb0eb0c7dd350ee1af6f907b2514b2a625701" size="193838267" crc="0fbc01b7" fullsha1="5d5765ddb9bb3cbff5b04125eb059796ca86cfbc" dataSha1="412fb73c1cc38e4f553c61cc26b07b635c015ead">
+		<category>Games</category>
+		<description>NetBSD 5.2.3</description>
+		<year>2014</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sgimipscd_5_2_1 (Track 01).bin" size="196577280" crc="96fc748b" md5="7d636b2216b8cc8282e734590e03361d" sha1="b2a8045a1329a27574a61b699f87f507eb95e425"/>
+	</game>
+	<game name="netbsd_5_2_3\sgimipscd_5_2_2" type="cd" sha1="5e875141ec1cb78e642bc771ca5fba61b01d9dfc" size="193848008" crc="1178d00c" fullsha1="d993a23870bf5b245f8d3f01d7ef701644be3321" dataSha1="d047d1b1f248b68f212118125568199188545247">
+		<category>Games</category>
+		<description>NetBSD 5.2.3</description>
+		<year>2014</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sgimipscd_5_2_2 (Track 01).bin" size="196577280" crc="03d7206f" md5="0e5dee58f1c1637d060db6e94c193c49" sha1="09d5a02b89b8f48196b6ab4381103372fc05a89f"/>
+	</game>
+	<game name="netbsd_5_2_3\sourcecd_5_2" type="cd" sha1="5bd85f3bc475f61ad7a2b3ce2bb6049d6061e346" size="323955275" crc="8aec2538" fullsha1="1becd3bec36a6ac7b80dfae682028069d83edbd6" dataSha1="0ff7e1ea80066043c6e21566615732be162cf63f">
+		<category>Games</category>
+		<description>NetBSD 5.2.3</description>
+		<year>2014</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sourcecd_5_2 (Track 01).bin" size="325124096" crc="10b2154b" md5="0cc1423d0c900eecdd488103cd0dbe7a" sha1="c5bd3d59aabe035bae36dcbbe1dabe2560ab4476"/>
+	</game>
+	<game name="netbsd_5_2_3\sourcecd_5_2_1" type="cd" sha1="f8cfd7928c485fa889f41dcffb4b887caa00d0b3" size="323953778" crc="d8eb0268" fullsha1="72e9f9817ca28557d642723bcafe849b1766e2fc" dataSha1="c9c4c1d9ed18debc15404a12c051103c01d7f395">
+		<category>Games</category>
+		<description>NetBSD 5.2.3</description>
+		<year>2014</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sourcecd_5_2_1 (Track 01).bin" size="325156864" crc="e880afba" md5="f698f0ca747757a632aab40a96391292" sha1="92252dd5c8b1adf6e4030a1e3e3786237fe982ca"/>
+	</game>
+	<game name="netbsd_5_2_3\sourcecd_5_2_2" type="cd" sha1="02d30e09f5c007a6650dabc53482107657ffd90c" size="323956569" crc="0dfacdc0" fullsha1="e047b176caed6e18b345df5588eaf9b287fba457" dataSha1="f9249de86e8870fd0741d9770688cf01ec728634">
+		<category>Games</category>
+		<description>NetBSD 5.2.3</description>
+		<year>2014</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="sourcecd_5_2_2 (Track 01).bin" size="325124096" crc="d86baf08" md5="cf3fc4b8075aaf6dcc1a865207f2c60f" sha1="00c6a4ae6de174bd0557aa7236c76f6901b1f571"/>
+	</game>
+	<game name="netbsd_6_0_3\netbsd_6_0_1_sgimips" type="cd" sha1="3bb03b6159225d4231e8d3e6a41b1abd40bd102b" size="235880586" crc="9587d57f" fullsha1="86ded4a19b407ca3ffdb47ca20e4c716545def50" dataSha1="32977e5db8e367f633cf89d9863d9f0ceb134245">
+		<category>Games</category>
+		<description>NetBSD 6.0.3</description>
+		<year>2013</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="netbsd_6_0_1_sgimips (Track 01).bin" size="238518272" crc="2a0c099a" md5="882856d4a6e279c74c5ea6bc28ab9953" sha1="e370b02a2710d432e444dce89ac897c2af9c1b22"/>
+	</game>
+	<game name="netbsd_6_0_3\netbsd_6_0_1_source" type="cd" sha1="b11406af22fa2463e436c9cfa273f93326151d69" size="469853806" crc="e3c006c4" fullsha1="746744903fb9a1930b5d3a9f3f62beec9e3e8a4a" dataSha1="926a05432c4d542f3bdc0bf5d641d83d060d82da">
+		<category>Games</category>
+		<description>NetBSD 6.0.3</description>
+		<year>2013</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="netbsd_6_0_1_source (Track 01).bin" size="470876160" crc="a22a7838" md5="3abc2ffb50b48c2563d04da6a98453a5" sha1="cad200cfb379921b8fdb9c1f0997f21ae55ce7df"/>
+	</game>
+	<game name="netbsd_6_0_3\netbsd_6_0_2_sgimips" type="cd" sha1="eecb92f1cb75da5a4f22c91353a450a4c8737405" size="235920425" crc="b9d40ac0" fullsha1="f25f0f42b688699f42617533e2d83d5a662fbb6e" dataSha1="f77f8fb5d52a2f1efb811c4a3bbd0d5c20d526e5">
+		<category>Games</category>
+		<description>NetBSD 6.0.3</description>
+		<year>2013</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="netbsd_6_0_2_sgimips (Track 01).bin" size="238518272" crc="59565a77" md5="92e65d5b2022792e2a7ae92690f008c7" sha1="740a4c96b834fdc28474951d2672a9e049f077fd"/>
+	</game>
+	<game name="netbsd_6_0_3\netbsd_6_0_2_source" type="cd" sha1="cb1bd47e49bd554c020944de705e7be32ccd9078" size="469871813" crc="627cc5cc" fullsha1="84a7d1986bc87b278cbdc584bfeb7f8ab9ad306b" dataSha1="9cc9a3c6fd206f45ac69ad398322ee663e874d77">
+		<category>Games</category>
+		<description>NetBSD 6.0.3</description>
+		<year>2013</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="netbsd_6_0_2_source (Track 01).bin" size="470876160" crc="90c093fa" md5="a3026354b2c11c11b04780a3820cdecb" sha1="54cb186072d724ea7dc4e0de8f8de4ecd97b055a"/>
+	</game>
+	<game name="netbsd_6_0_3\netbsd_6_0_3_sgimips" type="cd" sha1="0ed6973579a4e52a3dd84ab3e2e1390bd2c7ab97" size="235956969" crc="f2bba2e3" fullsha1="0820d0a6de44e349c9ed7f4eafb50e8a9bb136bd" dataSha1="aaa9ac4868c69d7133757206a476a5784e32dd59">
+		<category>Games</category>
+		<description>NetBSD 6.0.3</description>
+		<year>2013</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="netbsd_6_0_3_sgimips (Track 01).bin" size="238555136" crc="8e331942" md5="61d451a3f5874a376ab4201d87ab5c4d" sha1="8581d2059240295327256b1715f91dc8f08647af"/>
+	</game>
+	<game name="netbsd_6_0_3\netbsd_6_0_3_source" type="cd" sha1="038e88f3e11f3d57582a840f5cad15b11ccb84be" size="469882810" crc="1460f20a" fullsha1="51d58482845e2af07bc784af5442a8a3a8347e9c" dataSha1="89e2dc2b9eda83cc8e43f65eea31f0bc3bc2fab1">
+		<category>Games</category>
+		<description>NetBSD 6.0.3</description>
+		<year>2013</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="netbsd_6_0_3_source (Track 01).bin" size="470876160" crc="bd6fa67d" md5="9f265804780b05ccffbce1a4b2c90724" sha1="1e8db2e9a0be7f5fb2d293a598f30deed11e5926"/>
+	</game>
+	<game name="netbsd_6_0_3\netbsd_6_0_sgimips" type="cd" sha1="a089ee23c726ce21af3e4bd7f79378cdbf41da99" size="235912999" crc="f9b557c6" fullsha1="e52d19044c4b0dedd4f88e8f2eaeabee2dd3a16d" dataSha1="72179dddbc326b44a642d58ba7d504fc03c4bf61">
+		<category>Games</category>
+		<description>NetBSD 6.0.3</description>
+		<year>2013</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="netbsd_6_0_sgimips (Track 01).bin" size="238626816" crc="fcb6a46e" md5="73c4e4f6723ef82859be32abb34b9367" sha1="eee6aecc9d478d101b20756b5438e858d43f2700"/>
+	</game>
+	<game name="netbsd_6_0_3\netbsd_6_0_source" type="cd" sha1="4d2812154a3ed95acf2a2f5cd5e76b9b26768533" size="469840379" crc="2fbe52a9" fullsha1="94fa65f6ab786616ab5658ee144bfe4ea802460a" dataSha1="22bf9dfc2ca31f5711dc331f2b50949d555240a7">
+		<category>Games</category>
+		<description>NetBSD 6.0.3</description>
+		<year>2013</year>
+		<manufacturer>The NetBSD Project</manufacturer>
+		<rom name="netbsd_6_0_source (Track 01).bin" size="470843392" crc="539b6efa" md5="4d63a05600813e5588720da5328967ac" sha1="09749966ddaadad296254adec70d4f4c01f20fdf"/>
 	</game>
 	<game name="networker_4_1_3\irix_networker_4_1_3" type="cd" sha1="112f394b1360036dbb52607e2c27fc08731e5fb0" size="28147747" crc="0851f161" fullsha1="6071494d71557d6f14001534f59f980b556eba06" dataSha1="07f940e43082ce5534719492cf2876f1ce2b8f0d">
 		<category>Games</category>
@@ -2909,7 +3231,7 @@
 	</game>
 	<game name="nfs_6_0\network_file_system_6_0" type="cd" sha1="b94bcfde8e82d36322b8686a8fb484b1dd526882" size="6648799" crc="a86c83b0" fullsha1="e298a2a02a6407ef33b20fc054f13f55aaaf9a7c" dataSha1="cbcf9c6f4434342a66944a54490ad42acbc2b17e">
 		<category>Games</category>
-		<description>e System 6.0</description>
+		<description>Network File System 6.0</description>
 		<year>1994</year>
 		<manufacturer>Silicon Graphics</manufacturer>
 		<rom name="network_file_system_6_0 (Track 01).bin" size="30318592" crc="d371df68" md5="afa2d43752d2e21177539499d8bea6d9" sha1="8efc0c62895f39e0dc9a11e780421e42945c0eb2"/>
@@ -2958,7 +3280,7 @@
 	</game>
 	<game name="o2demos_1_3\o2_demos_1_3" type="cd" sha1="1390aa1ef8350609ea152f6a0f4780c0b8482ce5" size="466486530" crc="b84ca9af" fullsha1="6d41022f6f62d3ed83772f1f19f685a12ca4b9d0" dataSha1="53c34da38c9674bfe5f23a5aecf849a5a707d917">
 		<category>Games</category>
-		<description> for IRIX 6.5 and later</description>
+		<description>O2 Demos 1.3 for IRIX 6.5 and later</description>
 		<year>1999</year>
 		<manufacturer>Silicon Graphics</manufacturer>
 		<rom name="o2_demos_1_3 (Track 01).bin" size="512188416" crc="72695f87" md5="309e16291f9b2ce0615434e86b942a69" sha1="81b97d37b309e1fa401f4327d6dd7bb0a996d0ff"/>
@@ -3028,7 +3350,7 @@
 	</game>
 	<game name="onyx2demo1\sgi-onyx2-demo-1" type="cd" sha1="128d6a508d7a97327ad11c017c39d4ba64a39809" size="624092713" crc="ae76218f" fullsha1="42a6d6e968e1c97be0aa28e32834fd127a423ccb" dataSha1="84f4950eb8070e3a7b91f79dbd6179e25fd830d0">
 		<category>Games</category>
-		<description>ets Demo CD - Volume 1</description>
+		<description>Onyx2 - As Real As it Gets Demo CD - Volume 1</description>
 		<year>1998</year>
 		<manufacturer>Silicon Graphics</manufacturer>
 		<rom name="sgi-onyx2-demo-1 (Track 01).bin" size="636450816" crc="19feb43d" md5="5c2268336d6d3acc70c08917da992b0a" sha1="1654ff3d97681b2c9700ad11d306879e234977c7"/>
@@ -3364,7 +3686,7 @@
 	</game>
 	<game name="power_f77_6_1\812_0395_001_power_fortran_77_6_1_jul1995" type="cd" sha1="e5ba7093e22b07e98bb337255a4ea6e34135bf01" size="6199129" crc="7c8002e1" fullsha1="2b82800e92231b546335317d68f2e3489ed2d442" dataSha1="30c0ef2572f38985fb506c3b66457dbb60db8437">
 		<category>Games</category>
-		<description> 6.1</description>
+		<description>PSpro Power Fortran 77 6.1</description>
 		<year>1995</year>
 		<manufacturer>Silicon Graphics</manufacturer>
 		<rom name="812_0395_001_power_fortran_77_6_1_jul1995 (Track 01).bin" size="30187520" crc="c6e927fb" md5="9f0fb2dd32ea7c2d0ba9373985d616ff" sha1="6eb89a3eb306207b2bdeb04f8e2603f61a3f0750"/>
