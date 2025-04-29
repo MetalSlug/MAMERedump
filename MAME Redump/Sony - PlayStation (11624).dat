@@ -21014,9 +21014,7 @@
 	<machine name="Growlanser (Japan) (Disc 2)">
 		<category>Games</category>
 		<description>Growlanser (Japan) (Disc 2)</description>
-		<year>1999</year>
-		<manufacturer>Atlus</manufacturer>
-		<disk name="Growlanser (Japan) (Disc 2).chd" sha1="0daa2fa94699aa388a400ba421763d8994d1b336" />
+		<disk name="Growlanser (Japan) (Disc 2).chd" sha1="303f91538bd46bd821e75329713d83764b670e97" />
 	</machine>
 	<machine name="Grudge Warriors (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -25671,9 +25669,7 @@
 	<machine name="Kids Station - Barbapapa (Japan) (Controller Set)">
 		<category>Games</category>
 		<description>Kids Station - Barbapapa (Japan) (Controller Set)</description>
-		<year>2001</year>
-		<manufacturer>Sunsoft</manufacturer>
-		<disk name="Kids Station - Barbapapa (Japan) (Controller Set).chd" sha1="6cc8b47dfbd8fc11889b25b5d60062ea6f083180" />
+		<disk name="Kids Station - Barbapapa (Japan) (Controller Set).chd" sha1="37b82f321c91503bcbf71181e1a67f78701df7d4" />
 	</machine>
 	<machine name="Kids Station - Basic Soft (Japan)">
 		<category>Games</category>
@@ -30568,9 +30564,7 @@
 	<machine name="Metal Gear Solid (Japan) (Demo 1)">
 		<category>Demos</category>
 		<description>Metal Gear Solid (Japan) (Demo 1)</description>
-		<year>1998</year>
-		<manufacturer>Konami</manufacturer>
-		<disk name="Metal Gear Solid (Japan) (Demo 1).chd" sha1="39d820e915f20f2ab3bcf57627d67c7a07189fdc" />
+		<disk name="Metal Gear Solid (Japan) (Demo 1).chd" sha1="5dd3c799a790287d1e7acd315f25e9a44979cb48" />
 	</machine>
 	<machine name="Metal Gear Solid (Japan) (Demo 2)">
 		<category>Demos</category>
@@ -58873,6 +58867,12 @@
 		<manufacturer>Acclaim Entertainment</manufacturer>
 		<disk name="bam99\puzzle bobble 3 dx (japan) [slps-01065].chd" sha1="264382982b62f789c9ada7db86c33e4df31ff783" />
 	</machine>
+	<machine name="barbapap\barbapapa - the mumins (japan) [slps-03301]">
+		<description>Barbapapa (Japan)</description>
+		<year>2001</year>
+		<manufacturer>Sunsoft</manufacturer>
+		<disk name="barbapap\barbapapa - the mumins (japan) [slps-03301].chd" sha1="6cc8b47dfbd8fc11889b25b5d60062ea6f083180" />
+	</machine>
 	<machine name="baroqsyn\baroque syndrome (japan) [slpm-86540]">
 		<description>Baroque Syndrome (Japan)</description>
 		<year>2000</year>
@@ -60259,6 +60259,12 @@
 		<manufacturer>Kioon Sony Records</manufacturer>
 		<disk name="groovejv\groove jigoku v (japan) [slps-01205].chd" sha1="8096acdbc3f5bd0f21cbf17cbe3e47a1a81595ad" />
 	</machine>
+	<machine name="growlans\growlanser (japan) (disc 2) [slps-02381]">
+		<description>Growlanser (Japan)</description>
+		<year>1999</year>
+		<manufacturer>Atlus</manufacturer>
+		<disk name="growlans\growlanser (japan) (disc 2) [slps-02381].chd" sha1="0daa2fa94699aa388a400ba421763d8994d1b336" />
+	</machine>
 	<machine name="gshark22\gameshark enhancement cd version 2.2 (usa)">
 		<description>Shark Enhancement CD Version 2.2 (USA)</description>
 		<year>199?</year>
@@ -61164,6 +61170,12 @@
 		<year>1996</year>
 		<manufacturer>Seibu Kaihatsu</manufacturer>
 		<disk name="mezasenk\mezase senkyuuou (japan) [slps-00313].chd" sha1="1644a9c9f47788ac4bb638fdfe0f340bd0da05ce" />
+	</machine>
+	<machine name="mgspilot\slpm-80254">
+		<description>Metal Gear Solid (pilot disk)</description>
+		<year>1998</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="mgspilot\slpm-80254.chd" sha1="39d820e915f20f2ab3bcf57627d67c7a07189fdc" />
 	</machine>
 	<machine name="michibhk\michinoku hitou koi monogatari - bishoujo hanafuda kikou (japan) [slps-00941]">
 		<description>Michinoku Hitou Koi Monogatari - Bishoujo Hanafuda Kikou (Japan)</description>
