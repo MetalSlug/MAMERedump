@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Arcade - Sega - Naomi</name>
+		<description>MAME Redump - Arcade - Sega - Naomi - Discs (31) (2025-03-30 19-07-31)</description>
+		<version>0.274</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="DIMM Firm Update (Japan) (Rev E)" type="">
+		<category>Applications</category>
+		<description>DIMM Firm Update (Japan) (Rev E)</description>
+		<rom name="DIMM Firm Update (Japan) (Rev E).cue" size="390" crc="DCD41D07" md5="5FDBF055286C4F51A8220890D578DF38" sha1="32E8B5B91253AD31C4F570A0A065F7CABD57A79F" />
+		<rom name="DIMM Firm Update (Japan) (Rev E) (Track 1).bin" size="1058400" crc="1239A201" md5="51ADF16C6E695A5FB4FDE98A96FA6732" sha1="42ACBEFA43D2D0CF617D4BD39E5AFD6B708A3F94" />
+		<rom name="DIMM Firm Update (Japan) (Rev E) (Track 2).bin" size="3532704" crc="211CDB93" md5="2238142A7F82218EDEEB4CC89A562EE6" sha1="80783E504E8E5DB70944702B3D90AA14A9F73A41" />
+		<rom name="DIMM Firm Update (Japan) (Rev E) (Track 3).bin" size="1185760800" crc="886E154C" md5="7A33E7C8AA242E90569FE9D16FD62B6F" sha1="5B993CA3693654CF2BA1782787FF1154E02E4179" />
+	</game>
+</datafile>

@@ -3,7 +3,7 @@
 <datafile>
 	<header>
 		<name>Panasonic - 3DO Interactive Multiplayer</name>
-		<description>MAME Redump - Panasonic - 3DO Interactive Multiplayer - Discs (662) (2025-01-16 12-29-24)</description>
+		<description>MAME Redump - Panasonic - 3DO Interactive Multiplayer - Discs (665) (2025-07-12 04-48-39)</description>
 		<version>0.274</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
@@ -444,11 +444,6 @@
 		<description>Crime Patrol (USA) (Beta) (1994-11-23)</description>
 		<disk name="Crime Patrol (USA) (Beta) (1994-11-23).chd" sha1="c09194a693dc51d394318c7ccf4e640b62fa6ea4" />
 	</machine>
-	<machine name="Crystal Dynamics Best Selection ~ Sample This! (USA, Japan)">
-		<category>Demos</category>
-		<description>Crystal Dynamics Best Selection ~ Sample This! (USA, Japan)</description>
-		<disk name="Crystal Dynamics Best Selection ~ Sample This! (USA, Japan).chd" sha1="8db7593b7173a44198fbe51ef5f0d04f216907c8" />
-	</machine>
 	<machine name="CyberDillo (USA)">
 		<category>Games</category>
 		<description>CyberDillo (USA)</description>
@@ -634,10 +629,10 @@
 		<description>Doctor Hauzer (Japan)</description>
 		<disk name="Doctor Hauzer (Japan).chd" sha1="cd5c04d6bdd2f4284bf5816a009987fb48501239" />
 	</machine>
-	<machine name="Doom (USA)">
+	<machine name="Doom (USA, Japan)">
 		<category>Games</category>
-		<description>Doom (USA)</description>
-		<disk name="Doom (USA).chd" sha1="a90a3a65d56833cd5c9a07de192e5be5362a9c2c" />
+		<description>Doom (USA, Japan)</description>
+		<disk name="Doom (USA, Japan).chd" sha1="a90a3a65d56833cd5c9a07de192e5be5362a9c2c" />
 	</machine>
 	<machine name="Dragon Lore - The Legend Begins (USA, Europe) (Disc 1)">
 		<category>Games</category>
@@ -799,20 +794,20 @@
 		<description>ESPN Let's Play Tennis with Tracy Austin (USA)</description>
 		<disk name="ESPN Let's Play Tennis with Tracy Austin (USA).chd" sha1="c8b97a1b8aced990ffe4f12db519c03fb1811564" />
 	</machine>
-	<machine name="Eye of Typhoon (Korea)">
-		<category>Games</category>
-		<description>Eye of Typhoon (Korea)</description>
-		<disk name="Eye of Typhoon (Korea).chd" sha1="0b8576dc8f31790ca77443556019ff9a6ddd6c0b" />
-	</machine>
 	<machine name="Eye of Typhoon, The (Korea)">
 		<category>Games</category>
 		<description>Eye of Typhoon, The (Korea)</description>
 		<disk name="Eye of Typhoon, The (Korea).chd" sha1="d3597c8fb3bd239a16bbf4a0562a3baa91946330" />
 	</machine>
-	<machine name="Eye of Typhoon, The (Korea) (Disc 1)">
+	<machine name="Eye of Typhoon, The (Korea) (Ko) (Disc 1)">
 		<category>Games</category>
-		<description>Eye of Typhoon, The (Korea) (Disc 1)</description>
-		<disk name="Eye of Typhoon, The (Korea) (Disc 1).chd" sha1="560bee2fd54695683297aa0dae3cb2440b3fa906" />
+		<description>Eye of Typhoon, The (Korea) (Ko) (Disc 1)</description>
+		<disk name="Eye of Typhoon, The (Korea) (Ko) (Disc 1).chd" sha1="560bee2fd54695683297aa0dae3cb2440b3fa906" />
+	</machine>
+	<machine name="Eye of Typhoon, The (Korea) (Rerelease)">
+		<category>Games</category>
+		<description>Eye of Typhoon, The (Korea) (Rerelease)</description>
+		<disk name="Eye of Typhoon, The (Korea) (Rerelease).chd" sha1="0b8576dc8f31790ca77443556019ff9a6ddd6c0b" />
 	</machine>
 	<machine name="F1GP (Japan)">
 		<category>Games</category>
@@ -2233,6 +2228,11 @@
 		<category>Games</category>
 		<description>Royal Pro Wrestling - Jikkyou Live!! (Japan)</description>
 		<disk name="Royal Pro Wrestling - Jikkyou Live!! (Japan).chd" sha1="6ed3bde69d3b5fb399d2f920f0575578ddbebe3a" />
+	</machine>
+	<machine name="Sample This! (USA, Japan)">
+		<category>Demos</category>
+		<description>Sample This! (USA, Japan)</description>
+		<disk name="Sample This! (USA, Japan).chd" sha1="8db7593b7173a44198fbe51ef5f0d04f216907c8" />
 	</machine>
 	<machine name="Samurai Shodown (Japan) (En,Ja)">
 		<category>Games</category>

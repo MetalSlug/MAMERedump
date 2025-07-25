@@ -3,7 +3,7 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh</name>
-		<description>MAME Redump - Apple - Macintosh - Discs (1203) (2025-01-11 14-34-09)</description>
+		<description>MAME Redump - Apple - Macintosh - Discs (1255) (2025-07-10 18-49-12)</description>
 		<version>0.274</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
@@ -2229,10 +2229,10 @@
 		<description>Journeyman Project 2, The - Buried in Time (Japan) (Disc 3)</description>
 		<disk name="Journeyman Project 2, The - Buried in Time (Japan) (Disc 3).chd" sha1="3aa8a855b87eb089fbea8b02a0ed4867e8e456fc" />
 	</machine>
-	<machine name="Journeyman Project, The (Japan)">
+	<machine name="Journeyman Project, The (Japan) (v1.1J)">
 		<category>Games</category>
-		<description>Journeyman Project, The (Japan)</description>
-		<disk name="Journeyman Project, The (Japan).chd" sha1="a93627732d471868bde51a225a71850b10dcb8c0" />
+		<description>Journeyman Project, The (Japan) (v1.1J)</description>
+		<disk name="Journeyman Project, The (Japan) (v1.1J).chd" sha1="a93627732d471868bde51a225a71850b10dcb8c0" />
 	</machine>
 	<machine name="Jump Raven (Japan)">
 		<category>Games</category>
@@ -3214,10 +3214,10 @@
 		<description>Marathon 2 - Durandal (USA)</description>
 		<disk name="Marathon 2 - Durandal (USA).chd" sha1="b4b1fe90c6fd216fbce2459398e3ba22cdfbb5d4" />
 	</machine>
-	<machine name="Marathon Infinity (USA)">
+	<machine name="Marathon Infinity (USA) (v1.2)">
 		<category>Games</category>
-		<description>Marathon Infinity (USA)</description>
-		<disk name="Marathon Infinity (USA).chd" sha1="6b37ddebbf8bfd388f7754944db7085819a71f1f" />
+		<description>Marathon Infinity (USA) (v1.2)</description>
+		<disk name="Marathon Infinity (USA) (v1.2).chd" sha1="6b37ddebbf8bfd388f7754944db7085819a71f1f" />
 	</machine>
 	<machine name="Ma-ri-a - Ningyoukan no Noroi (Japan) (Disc 1)">
 		<category>Games</category>
@@ -4089,10 +4089,10 @@
 		<description>Secret du Templier, Le (France) (Covermount)</description>
 		<disk name="Secret du Templier, Le (France) (Covermount).chd" sha1="12eeb792391dcf0153407be90075c12f325aa914" />
 	</machine>
-	<machine name="Sesame Street - Let's Make A Word! (USA)">
+	<machine name="Sesame Street - Let's Make a Word! (USA)">
 		<category>Educational</category>
-		<description>Sesame Street - Let's Make A Word! (USA)</description>
-		<disk name="Sesame Street - Let's Make A Word! (USA).chd" sha1="4ea8df718f4bac5635a9f29ca3187d25876dc32f" />
+		<description>Sesame Street - Let's Make a Word! (USA)</description>
+		<disk name="Sesame Street - Let's Make a Word! (USA).chd" sha1="4ea8df718f4bac5635a9f29ca3187d25876dc32f" />
 	</machine>
 	<machine name="Sesame Street - Numbers (USA)">
 		<category>Educational</category>
@@ -5034,10 +5034,9 @@
 		<description>Worms 3D (USA)</description>
 		<disk name="Worms 3D (USA).chd" sha1="0c31e07f4563a0769adbbad19f729c85a5b48883" />
 	</machine>
-	<machine name="Worms Blast (USA) (En,Fr,De,Es,It)">
-		<category>Games</category>
+	<machine name="Worms Blast (USA) (En,Fr,De,Es,It)_2">
 		<description>Worms Blast (USA) (En,Fr,De,Es,It)</description>
-		<disk name="Worms Blast (USA) (En,Fr,De,Es,It).chd" sha1="501e36047d8a212cebe71d64c37f7fcad188c774" />
+		<disk name="Worms Blast (USA) (En,Fr,De,Es,It)_2.chd" sha1="501e36047d8a212cebe71d64c37f7fcad188c774" />
 	</machine>
 	<machine name="Worms World Party (Europe) (Art Assets)">
 		<category>Multimedia</category>
@@ -5179,7 +5178,7 @@
 		<disk name="idanthol\id Anthology (USA) (Disc 4) (Mac).chd" sha1="d9c3e998e17fa56fcb5abbdd0a924de78dacb2e8" />
 	</machine>
 	<machine name="mac70a9\mac70a9">
-		<description> pre-release)</description>
+		<description>System Software 7.0a9 ("Big Bang" pre-release)</description>
 		<year>1991</year>
 		<manufacturer>Apple</manufacturer>
 		<disk name="mac70a9\mac70a9.chd" sha1="b56813d7227e4844243bd1e0acec63c254f9daf3" />
@@ -5191,7 +5190,7 @@
 		<disk name="mac71\mac71.chd" sha1="2e7e36cd94b82d447b0481007080195d316a8c4c" />
 	</machine>
 	<machine name="mac712p_q630\mac712p_q630">
-		<description> 630 and LC/Performa 580) (US English)</description>
+		<description>Performa CD (System 7.1.2P for Quadra 630 and LC/Performa 580) (US English)</description>
 		<year>1994</year>
 		<manufacturer>Apple</manufacturer>
 		<disk name="mac712p_q630\mac712p_q630.chd" sha1="f367d20f76e8eb891dd5cdf14540f7cb2cc4516e" />

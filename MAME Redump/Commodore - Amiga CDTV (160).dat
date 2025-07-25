@@ -3,7 +3,7 @@
 <datafile>
 	<header>
 		<name>Commodore - Amiga CDTV</name>
-		<description>MAME Redump - Commodore - Amiga CDTV - Discs (59) (2024-12-29 15-43-14)</description>
+		<description>MAME Redump - Commodore - Amiga CDTV - Discs (59) (2025-06-25 16-57-02)</description>
 		<version>0.274</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
@@ -39,7 +39,7 @@
 		<category>Multimedia</category>
 		<description>Advanced Military Systems (Europe)</description>
 		<year>1991</year>
-		<manufacturer> Design</manufacturer>
+		<manufacturer>Dominion Software &amp; Design</manufacturer>
 		<disk name="Advanced Military Systems (Europe).chd" sha1="2346440660220d05abf7906a9c107e05eef0eb59" />
 	</machine>
 	<machine name="American Heritage - Illustrated Encyclopedic Dictionary - 1991a Edition (USA)">
@@ -171,7 +171,7 @@
 		<category>Multimedia</category>
 		<description>Deutschland Kompakt (Germany)</description>
 		<year>1991</year>
-		<manufacturer>T Software Partner International</manufacturer>
+		<manufacturer>M&amp;T Software Partner International</manufacturer>
 		<disk name="Deutschland Kompakt (Germany).chd" sha1="3c203d8e3dcbf1dbbf6bd951c92de0e8fe03c2a0" />
 	</machine>
 	<machine name="Fantastic Voyage (USA)">
@@ -355,7 +355,7 @@
 		<category>Games</category>
 		<description>Turrican II - The Final Fight (Germany)</description>
 		<year>1991</year>
-		<manufacturer>s</manufacturer>
+		<manufacturer>Rainbow Arts</manufacturer>
 		<disk name="Turrican II - The Final Fight (Germany).chd" sha1="940d854e943f3c0db3a61168f12b52a029056047" />
 	</machine>
 	<machine name="Welcome to CDTV Multimedia (USA)">
@@ -429,7 +429,7 @@
 	<machine name="advmisys\advanced_military_systems">
 		<description>Advanced Military Systems</description>
 		<year>1991</year>
-		<manufacturer> Design</manufacturer>
+		<manufacturer>Dominion Software &amp; Design</manufacturer>
 		<disk name="advmisys\advanced_military_systems.chd" sha1="5de21a4c86ece16bd5b37b803530287072998c8f" />
 	</machine>
 	<machine name="animot\animals in motion - eadweard muybridge (1991)(on-line)">
@@ -463,13 +463,13 @@
 		<disk name="assass4\assassins 4 (1999)(weird science).chd" sha1="d096be854362bb7053ea9406ffb5f30bc685426e" />
 	</machine>
 	<machine name="asterix1\apprenez l'anglais avec asterix - asterix and son - disque 1 (1991)(eurotalk)(fr)">
-		<description>Anglais Avec Astérix - Asterix and Son</description>
+		<description>Apprenez l'Anglais Avec Astérix - Asterix and Son</description>
 		<year>1991</year>
 		<manufacturer>EuroTalk</manufacturer>
 		<disk name="asterix1\apprenez l'anglais avec asterix - asterix and son - disque 1 (1991)(eurotalk)(fr).chd" sha1="71a9d4130ea8fb8d693befc8d3766df5befcced0" />
 	</machine>
 	<machine name="asterix1\read with asterix - asterix and son (1991)(eurotalk)">
-		<description>Anglais Avec Astérix - Asterix and Son</description>
+		<description>Apprenez l'Anglais Avec Astérix - Asterix and Son</description>
 		<year>1991</year>
 		<manufacturer>EuroTalk</manufacturer>
 		<disk name="asterix1\read with asterix - asterix and son (1991)(eurotalk).chd" sha1="5357aadbd94ee9c7610f858bc8131b9b82e082fd" />
@@ -481,7 +481,7 @@
 		<disk name="barneycp\barney bear goes camping (1991)(free spirit software).chd" sha1="985517e4ec27d4b4a23f364652c2ac8ee9d4b319" />
 	</machine>
 	<machine name="blkviper\black viper (1996)(neo)">
-		<description>er (CDTV?)</description>
+		<description>Black Viper (CDTV?)</description>
 		<year>1996</year>
 		<manufacturer>Neo</manufacturer>
 		<disk name="blkviper\black viper (1996)(neo).chd" sha1="8fed0ebdf54f749d8099560ef2423fbc1493a054" />
@@ -571,13 +571,13 @@
 		<disk name="covgrlsp\covergirlstrippoker.chd" sha1="773d750c9d580e17a1f40c1ed05fe3daadeae919" />
 	</machine>
 	<machine name="cubulus\cubulus &amp; magic serpent (1991)(software 2000)(de)(en)[compilation]">
-		<description> Magic Serpent</description>
+		<description>Cubulus &amp; Magic Serpent</description>
 		<year>1991</year>
 		<manufacturer>Software 2000</manufacturer>
 		<disk name="cubulus\cubulus &amp; magic serpent (1991)(software 2000)(de)(en)[compilation].chd" sha1="1451b1fc9f3a36208c5ed87d70469f810126d01f" />
 	</machine>
 	<machine name="cubulus\cubulus_magic_serpent">
-		<description> Magic Serpent</description>
+		<description>Cubulus &amp; Magic Serpent</description>
 		<year>1991</year>
 		<manufacturer>Software 2000</manufacturer>
 		<disk name="cubulus\cubulus_magic_serpent.chd" sha1="c9beba578c2a294485031fc0ea4b4870ab450efb" />
@@ -601,7 +601,7 @@
 		<disk name="dinohire\dinosaurs for hire (1992)(wright works iii).chd" sha1="7cd03f4e0b33462ac5c9358be7dca46481e95a9b" />
 	</machine>
 	<machine name="drwellm\dr. wellman - a guide to good health for you &amp; your family (1991)(cdtv publishing)">
-		<description>r. Wellman - A Guide to Good Health for You and Your Family</description>
+		<description>Dr. Wellman - A Guide to Good Health for You and Your Family</description>
 		<year>1991</year>
 		<manufacturer>CDTV Publishing</manufacturer>
 		<disk name="drwellm\dr. wellman - a guide to good health for you &amp; your family (1991)(cdtv publishing).chd" sha1="13e6ab09a6ca7bde28d2f1af1b77ee3d4fbb7b0c" />
@@ -655,7 +655,7 @@
 		<disk name="funsch32\fun school 3 - for the over 7s (1991)(europress software).chd" sha1="4d5806a120acbba0d837e95588a759a8901390e7" />
 	</machine>
 	<machine name="gamerdel\gamers' delight (1994)(gti - schatztruhe)(en-de)[amiga-cd32-cdtv]">
-		<description> Delight (UK, Germany)</description>
+		<description>Gamers' Delight (UK, Germany)</description>
 		<year>1994</year>
 		<manufacturer>GTI - Schatztruhe</manufacturer>
 		<disk name="gamerdel\gamers' delight (1994)(gti - schatztruhe)(en-de)[amiga-cd32-cdtv].chd" sha1="3fa256584eed79c90ce7067dd29acf9e3df73878" />
@@ -847,13 +847,13 @@
 		<disk name="scarpoem\scary poems for rotten kids (1991)(discis)(en-es).chd" sha1="84673e933254b0cd6f2b1d8af154e26616666aa2" />
 	</machine>
 	<machine name="shiftrix\shiftrix &amp; lettrix (1991)(software 2000)(de)">
-		<description> Lettrix</description>
+		<description>Shiftrix &amp; Lettrix</description>
 		<year>1991</year>
 		<manufacturer>Software 2000</manufacturer>
 		<disk name="shiftrix\shiftrix &amp; lettrix (1991)(software 2000)(de).chd" sha1="dce97e3440cf678ad2a4fbd2fc4a927ca7989088" />
 	</machine>
 	<machine name="shiftrix\shiftrix_lettrix">
-		<description> Lettrix</description>
+		<description>Shiftrix &amp; Lettrix</description>
 		<year>1991</year>
 		<manufacturer>Software 2000</manufacturer>
 		<disk name="shiftrix\shiftrix_lettrix.chd" sha1="d4351b53df43ad0b26376d1c68a1e323b0b41f70" />
@@ -889,7 +889,7 @@
 		<disk name="talpeter\tale of peter rabbit, the (1992)(discis)(m5)[cdrm-734900 1].chd" sha1="94c7cfe32a3fa78e0cd2e7d8d0f8256708b9ac8d" />
 	</machine>
 	<machine name="thomsnow\thomas' snowsuit (1991)(discis)(en-es)">
-		<description> Snowsuit</description>
+		<description>Thomas' Snowsuit</description>
 		<year>1991</year>
 		<manufacturer>Discis Knowledge Research</manufacturer>
 		<disk name="thomsnow\thomas' snowsuit (1991)(discis)(en-es).chd" sha1="605b89e18d745235d09fabcf7f7d11cfc1924aa5" />
@@ -961,7 +961,7 @@
 		<disk name="willbdg5f\will bridge - practice 5 - haute competition (1991)(will bridge)(fr).chd" sha1="efa6a451b520ee334c20b74a58a11cf2bf1119ee" />
 	</machine>
 	<machine name="womenmot\women in motion - eadweard muybridge (1991)(on-line)[u29y010ua]">
-		<description>s Women in Motion</description>
+		<description>Eadweard Muybridge's Women in Motion</description>
 		<year>1991</year>
 		<manufacturer>On-line</manufacturer>
 		<disk name="womenmot\women in motion - eadweard muybridge (1991)(on-line)[u29y010ua].chd" sha1="6919ffc83496fce3c3f820f8cafe8ee33c5046e4" />

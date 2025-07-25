@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Pocket PC</name>
+		<description>MAME Redump - Pocket PC - Discs (72) (2025-06-13 11-01-33)</description>
+		<version>0.274</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Microsoft Streets &amp; Trips 2003 (USA) (Run)" type="">
+		<category>Applications</category>
+		<description>Microsoft Streets &amp; Trips 2003 (USA) (Run)</description>
+		<rom name="Microsoft Streets &amp; Trips 2003 (USA) (Run).cue" size="108" crc="E2C8F767" md5="6B3399A83A0762F710AB48E2CAB83C52" sha1="A7250F5A3EE31C5215E851A218AEF67FCD677E60" />
+		<rom name="Microsoft Streets &amp; Trips 2003 (USA) (Run).bin" size="730124304" crc="072E986F" md5="04F3CC25B19B8FEA0D98002EE42EC62F" sha1="2939ACE8BB6C39F40E6C97FC9B0EB6610ED547E8" />
+	</game>
+	<game name="Microsoft Streets &amp; Trips 2003 (USA) (Setup)" type="">
+		<category>Applications</category>
+		<description>Microsoft Streets &amp; Trips 2003 (USA) (Setup)</description>
+		<rom name="Microsoft Streets &amp; Trips 2003 (USA) (Setup).cue" size="110" crc="148F7832" md5="BC2CBF115E128DB72E1C57443ABD503F" sha1="076AA67E78E80C54670291388F9AA91E0EEA7134" />
+		<rom name="Microsoft Streets &amp; Trips 2003 (USA) (Setup).bin" size="445200672" crc="5D58A594" md5="843B9963DBBA0182434F52F2FE0335DD" sha1="E381CE5268435419C5B93146D37E7C512F94E1AD" />
+	</game>
+	<game name="Rayman (Europe)" type="">
+		<category>Games</category>
+		<description>Rayman (Europe)</description>
+		<rom name="Rayman (Europe).cue" size="81" crc="10A02442" md5="C6002DFBFB1A635BA9F779FBDCDF4A39" sha1="B5F20E43694F8F9530ECB072A545840C3EE32F2D" />
+		<rom name="Rayman (Europe).bin" size="44640960" crc="3A6E1910" md5="E95F33D4D1D751160CD02A29FD80BFA1" sha1="CD990CAB348C59C188391714E64173D3348A7A1F" />
+	</game>
+</datafile>

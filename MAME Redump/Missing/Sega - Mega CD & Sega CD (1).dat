@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega - Mega CD &amp; Sega CD</name>
+		<description>MAME Redump - Sega - Mega CD &amp; Sega CD - Discs (544) (2025-07-08 00-02-23)</description>
+		<version>0.274</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Loadstar - The Legend of Tully Bodine (USA) (Beta)" type="">
+		<category>Preproduction</category>
+		<description>Loadstar - The Legend of Tully Bodine (USA) (Beta)</description>
+		<rom name="Loadstar - The Legend of Tully Bodine (USA) (Beta).cue" size="308" crc="ECD1539D" md5="9884739FAAE9FDE68908F95D7A626F51" sha1="0D2A2091BC42E314BACBB76346A523810DED6D37" />
+		<rom name="Loadstar - The Legend of Tully Bodine (USA) (Beta) (Track 1).bin" size="656137440" crc="764E8C85" md5="1118D66EB68EFC0CA9F3E5C373CBCADB" sha1="C57082EF7344C44ACB2463BC4CF3DE88F0FFE8D3" />
+		<rom name="Loadstar - The Legend of Tully Bodine (USA) (Beta) (Track 2).bin" size="1258320" crc="A32F8A84" md5="1EB2E5BC68C67C4429F642FC34C31E6A" sha1="2855D99357B775A54B8BBCE17D1B000E6C2D2023" />
+	</game>
+</datafile>

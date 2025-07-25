@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore - Amiga CD32</name>
+		<description>MAME Redump - Commodore - Amiga CD32 - Discs (202) (2025-06-09 23-50-49)</description>
+		<version>0.274</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Gulp! (Europe) (En,Fr,De,Es,It) (Alt)" type="">
+		<category>Games</category>
+		<description>Gulp! (Europe) (En,Fr,De,Es,It) (Alt)</description>
+		<rom name="Gulp! (Europe) (En,Fr,De,Es,It) (Alt).cue" size="103" crc="7C534957" md5="E82BDABB0C27471F0CAD5FD93E6A9372" sha1="48F19383018F181B7549BF03AB9B03729816442E" />
+		<rom name="Gulp! (Europe) (En,Fr,De,Es,It) (Alt).bin" size="3015264" crc="ED84404E" md5="1ECF52D6D9E3EC2EB46225DE9E56A28B" sha1="5D8D2C7878E437830A7AB812AA27EC384CD7B96A" />
+	</game>
+	<game name="Microcosm (Europe) (Demo)" type="">
+		<category>Demos</category>
+		<description>Microcosm (Europe) (Demo)</description>
+		<rom name="Microcosm (Europe) (Demo).cue" size="114" crc="D7F7F5E9" md5="2E165D407FCCD6C2AC67A5A8161D1183" sha1="7E3D061343FF78662186F57C70F6835AFC6226FD" />
+		<rom name="Microcosm (Europe) (Demo).bin" size="323028384" crc="4E76D87F" md5="C3FF4F2FD4CBC8AFDFC28279032C00CE" sha1="64FAE71070B21D19238D96DCDD5A3D48C32303CE" />
+	</game>
+</datafile>

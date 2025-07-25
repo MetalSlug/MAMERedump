@@ -3,7 +3,7 @@
 <datafile>
 	<header>
 		<name>SNK - Neo Geo CD</name>
-		<description>MAME Redump - SNK - Neo Geo CD - Discs (111) (2024-08-27 17-30-12)</description>
+		<description>MAME Redump - SNK - Neo Geo CD - Discs (111) (2025-06-09 23-44-36)</description>
 		<version>0.274</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
@@ -76,10 +76,10 @@
 		<description>Burning Fight (Japan) (En,Ja)</description>
 		<disk name="Burning Fight (Japan) (En,Ja).chd" sha1="b54990f79cedd92e4419c3bab3bc16bd27458342" />
 	</machine>
-	<machine name="Choujin Gakuen - Gowcaizer (World) (En,Ja)">
+	<machine name="Choujin Gakuen - Gowcaizer ~ Voltage Fighter - Gowcaizer (World) (En,Ja)">
 		<category>Games</category>
-		<description>Choujin Gakuen - Gowcaizer (World) (En,Ja)</description>
-		<disk name="Choujin Gakuen - Gowcaizer (World) (En,Ja).chd" sha1="4b2f6334d6eaf16d5b63a9d703841ea3bb19823d" />
+		<description>Choujin Gakuen - Gowcaizer ~ Voltage Fighter - Gowcaizer (World) (En,Ja)</description>
+		<disk name="Choujin Gakuen - Gowcaizer ~ Voltage Fighter - Gowcaizer (World) (En,Ja).chd" sha1="4b2f6334d6eaf16d5b63a9d703841ea3bb19823d" />
 	</machine>
 	<machine name="Choutetsu Brikin'ger ~ Ironclad - Tesshou Rusha (Japan) (En,Ja)">
 		<category>Games</category>
@@ -193,10 +193,9 @@
 		<description>Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (World) (En,Ja,Es,Pt) (Rev 1)</description>
 		<disk name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (World) (En,Ja,Es,Pt) (Rev 1).chd" sha1="1a18c1591ab8152169bf4e45701575ee1b323aee" />
 	</machine>
-	<machine name="Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja)">
-		<category>Games</category>
+	<machine name="Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja)_2">
 		<description>Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja)</description>
-		<disk name="Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja).chd" sha1="95396edc732c0389c0eec639b75e01d6c8866c9a" />
+		<disk name="Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja)_2.chd" sha1="95396edc732c0389c0eec639b75e01d6c8866c9a" />
 	</machine>
 	<machine name="Garou Densetsu Special ~ Fatal Fury Special (World) (En,Ja) (Rev 1)">
 		<category>Games</category>
@@ -388,15 +387,15 @@
 		<description>Rally Chase (Japan) (En,Ja)</description>
 		<disk name="Rally Chase (Japan) (En,Ja).chd" sha1="63a451a03212d224d3d01901e8242a0e93960134" />
 	</machine>
-	<machine name="RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja)">
-		<category>Games</category>
-		<description>RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja)</description>
-		<disk name="RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja).chd" sha1="f3e62e5ac95a616a5026fa95c689a480107ab2f0" />
-	</machine>
 	<machine name="Real Bout Garou Densetsu ~ Real Bout Fatal Fury (World) (En,Ja,Es,Pt)">
 		<category>Games</category>
 		<description>Real Bout Garou Densetsu ~ Real Bout Fatal Fury (World) (En,Ja,Es,Pt)</description>
 		<disk name="Real Bout Garou Densetsu ~ Real Bout Fatal Fury (World) (En,Ja,Es,Pt).chd" sha1="59c9daea435612e196d9b73d6fe53158481c2f1e" />
+	</machine>
+	<machine name="Real Bout Garou Densetsu 2 - The Newcomers ~ Real Bout Fatal Fury 2 - The Newcomers (Japan) (En,Ja)">
+		<category>Games</category>
+		<description>Real Bout Garou Densetsu 2 - The Newcomers ~ Real Bout Fatal Fury 2 - The Newcomers (Japan) (En,Ja)</description>
+		<disk name="Real Bout Garou Densetsu 2 - The Newcomers ~ Real Bout Fatal Fury 2 - The Newcomers (Japan) (En,Ja).chd" sha1="f3e62e5ac95a616a5026fa95c689a480107ab2f0" />
 	</machine>
 	<machine name="Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special (World) (En,Ja,Es,Pt)">
 		<category>Games</category>
@@ -739,7 +738,7 @@
 		<disk name="gpilots\ghost pilots (1995)(snk)(jp).chd" sha1="83d0e1544564da314e36b5d0eb5230d17928666b" />
 	</machine>
 	<machine name="ironclad\choutetsu brikin'ger (1996)(saurus)(jp)[ironclad]">
-		<description>ger (Japan)</description>
+		<description>Choutetsu Brikin'ger (Japan)</description>
 		<year>1996</year>
 		<manufacturer>Saurus</manufacturer>
 		<disk name="ironclad\choutetsu brikin'ger (1996)(saurus)(jp)[ironclad].chd" sha1="d80912d4473d6fa9066d3b1e91224acd521e20d7" />
@@ -763,67 +762,67 @@
 		<disk name="kabukikl\tengai makyou shinden - far east of eden (1995)(hudson)(jp)[kabuki klash].chd" sha1="07753113277268498a9a31b895bd1f00ef4133a9" />
 	</machine>
 	<machine name="karnovr\karnov's revenge (1994)(snk)(jp-us)[fighter's history dynamite]">
-		<description>s History Dynamite (Japan)</description>
+		<description>Karnov's Revenge (USA) ~ Fighter's History Dynamite (Japan)</description>
 		<year>1994</year>
 		<manufacturer>Data East</manufacturer>
 		<disk name="karnovr\karnov's revenge (1994)(snk)(jp-us)[fighter's history dynamite].chd" sha1="5ee9ff3233ee1cbc5dc39ce026edfd4e1a3964ba" />
 	</machine>
 	<machine name="kof94\king of fighters '94, the (1994)(snk)(jp-us)[ngcd-055 mt b01+b04, ngcd-055e mt b01]">
-		<description>94 (Japan, USA)</description>
+		<description>The King of Fighters '94 (Japan, USA)</description>
 		<year>1994</year>
 		<manufacturer>SNK</manufacturer>
 		<disk name="kof94\king of fighters '94, the (1994)(snk)(jp-us)[ngcd-055 mt b01+b04, ngcd-055e mt b01].chd" sha1="909a2a6b8e6be20418d795ab67ab63060f8fcdff" />
 	</machine>
 	<machine name="kof94\king of fighters '94, the (1994)(snk)(jp-us)[ngcd-055 mt b12, ngcd-055e]">
-		<description>94 (Japan, USA)</description>
+		<description>The King of Fighters '94 (Japan, USA)</description>
 		<year>1994</year>
 		<manufacturer>SNK</manufacturer>
 		<disk name="kof94\king of fighters '94, the (1994)(snk)(jp-us)[ngcd-055 mt b12, ngcd-055e].chd" sha1="fd042654267b6812557fee856c46d3aa63797b71" />
 	</machine>
 	<machine name="kof95\king of fighters '95, the (1995)(snk)(jp-us)[ngcd-084 mt b01+b03+b06, ngcd-084e mt b01]">
-		<description>95 (Japan, USA)</description>
+		<description>The King of Fighters '95 (Japan, USA)</description>
 		<year>1995</year>
 		<manufacturer>SNK</manufacturer>
 		<disk name="kof95\king of fighters '95, the (1995)(snk)(jp-us)[ngcd-084 mt b01+b03+b06, ngcd-084e mt b01].chd" sha1="4262d171eab92afd986e32e71d11da2dd7b6ba90" />
 	</machine>
 	<machine name="kof95\king of fighters '95, the (1995)(snk)(jp-us)[ngcd-084 mt b10, ngcd-084e mt b03]">
-		<description>95 (Japan, USA)</description>
+		<description>The King of Fighters '95 (Japan, USA)</description>
 		<year>1995</year>
 		<manufacturer>SNK</manufacturer>
 		<disk name="kof95\king of fighters '95, the (1995)(snk)(jp-us)[ngcd-084 mt b10, ngcd-084e mt b03].chd" sha1="7f405026f6dd708b6a49cd0fe7f8ae5ef2ca0358" />
 	</machine>
 	<machine name="kof96\king of fighters '96, the (1996)(snk)(jp)[ngcd-214 mt a02+a03]">
-		<description>96 (Japan)</description>
+		<description>The King of Fighters '96 (Japan)</description>
 		<year>1996</year>
 		<manufacturer>SNK</manufacturer>
 		<disk name="kof96\king of fighters '96, the (1996)(snk)(jp)[ngcd-214 mt a02+a03].chd" sha1="85747c1c5a105a64c9c971feda92a716e3bf77c7" />
 	</machine>
 	<machine name="kof96\king of fighters '96, the (1996)(snk)(jp-us)[ngcd-214 mt a01, ngcd-214e]">
-		<description>96 (Japan)</description>
+		<description>The King of Fighters '96 (Japan)</description>
 		<year>1996</year>
 		<manufacturer>SNK</manufacturer>
 		<disk name="kof96\king of fighters '96, the (1996)(snk)(jp-us)[ngcd-214 mt a01, ngcd-214e].chd" sha1="c560056dcf48bd8fe26b037707aeace03b2f4572" />
 	</machine>
 	<machine name="kof96col\king of fighters '96 neogeo collection, the (1997)(snk)(jp)[ngcd-229 mt b07]">
-		<description>96 NEOGEO Collection (Japan)</description>
+		<description>The King of Fighters '96 NEOGEO Collection (Japan)</description>
 		<year>1997</year>
 		<manufacturer>SNK</manufacturer>
 		<disk name="kof96col\king of fighters '96 neogeo collection, the (1997)(snk)(jp)[ngcd-229 mt b07].chd" sha1="aad7ef710a1600e7a6084c64d5a1a374f3f04972" />
 	</machine>
 	<machine name="kof97\king of fighters '97, the (1997)(snk)(jp)">
-		<description>97 (Japan)</description>
+		<description>The King of Fighters '97 (Japan)</description>
 		<year>1997</year>
 		<manufacturer>SNK</manufacturer>
 		<disk name="kof97\king of fighters '97, the (1997)(snk)(jp).chd" sha1="60772e1f929900907179389cf0fbcecb3fe38289" />
 	</machine>
 	<machine name="kof98\king of fighters '98, the - the slugfest (1998)(snk)(jp)[king of fighters '98, the - dream match never ends]">
-		<description>98 - Dream Match Never Ends (Japan)</description>
+		<description>The King of Fighters '98 - Dream Match Never Ends (Japan)</description>
 		<year>1998</year>
 		<manufacturer>SNK</manufacturer>
 		<disk name="kof98\king of fighters '98, the - the slugfest (1998)(snk)(jp)[king of fighters '98, the - dream match never ends].chd" sha1="e116a6b21e0c588e497720a03434df5c800232df" />
 	</machine>
 	<machine name="kof99\king of fighters '99, the - millennium battle (1999)(snk)(jp)[king of fighters '99, the]">
-		<description>99 - Millennium Battle (Japan)</description>
+		<description>The King of Fighters '99 - Millennium Battle (Japan)</description>
 		<year>1999</year>
 		<manufacturer>SNK</manufacturer>
 		<disk name="kof99\king of fighters '99, the - millennium battle (1999)(snk)(jp)[king of fighters '99, the].chd" sha1="b42cf77611e908638ef4c3195f47b8fe00a47095" />
@@ -949,7 +948,7 @@
 		<disk name="ngcdspec\neo geo cd special (1996)(snk)(jp).chd" sha1="fc3cb9049f5b16b38c3d856ce92193e447f29f55" />
 	</machine>
 	<machine name="ninjamas\ninja master's - haou ninpou-chou (1996)(adk)(jp)">
-		<description>s - Haou Ninpou-Chou (Japan)</description>
+		<description>Ninja Master's - Haou Ninpou-Chou (Japan)</description>
 		<year>1996</year>
 		<manufacturer>ADK</manufacturer>
 		<disk name="ninjamas\ninja master's - haou ninpou-chou (1996)(adk)(jp).chd" sha1="1e585591853cc4b9f81ff6f439c9f1503b44fb1d" />
@@ -1045,7 +1044,7 @@
 		<disk name="samsho3\samurai shodown iii (1995)(snk)(jp)[samurai spirits - zankurou musouken][ngcd-087 mt a04].chd" sha1="13e9fad23c9880cecf3dc8b14668ba9515d7b407" />
 	</machine>
 	<machine name="samsho4\samurai shodown iv - amakusa's revenge (1996)(snk)(jp-us)[samurai spirits - amakusa kourin]">
-		<description>s Revenge (USA) ~ Samurai Spirits - Amakusa Kourin (Japan)</description>
+		<description>Samurai Shodown IV - Amakusa's Revenge (USA) ~ Samurai Spirits - Amakusa Kourin (Japan)</description>
 		<year>1996</year>
 		<manufacturer>SNK</manufacturer>
 		<disk name="samsho4\samurai shodown iv - amakusa's revenge (1996)(snk)(jp-us)[samurai spirits - amakusa kourin].chd" sha1="ca83dec473fa9b4d8c3b448b521fe4f73be00302" />
@@ -1057,7 +1056,7 @@
 		<disk name="samsprpg\shinsetsu samurai spirits - bushidohretsuden (1997)(snk)(jp)[ngcd-0850 mt a01].chd" sha1="bd8ec28e9b90f9ca137c92475e5ef67d6d539a08" />
 	</machine>
 	<machine name="savagere\savage reign (1995)(snk)(jp-us)[fu'un mokujiroku - kakutou sousei]">
-		<description>un Mokujiroku - Kakutou Sousei (Japan)</description>
+		<description>Savage Reign (USA) ~ Fu'un Mokujiroku - Kakutou Sousei (Japan)</description>
 		<year>1995</year>
 		<manufacturer>SNK</manufacturer>
 		<disk name="savagere\savage reign (1995)(snk)(jp-us)[fu'un mokujiroku - kakutou sousei].chd" sha1="d130d15bbbaae53c95ac533f584bad51802e7d20" />
@@ -1129,7 +1128,7 @@
 		<disk name="superspy\super spy, the (1994)(snk)(jp-us).chd" sha1="41fed1e8db7a54eb9af0fe8d845abb469be43426" />
 	</machine>
 	<machine name="tophuntr\top hunter - roddy &amp; cathy (1994)(snk)(jp-us)[ngcd-046 mt b02, ngcd-046e]">
-		<description> Cathy (Japan, USA)</description>
+		<description>Top Hunter - Roddy &amp; Cathy (Japan, USA)</description>
 		<year>1994</year>
 		<manufacturer>SNK</manufacturer>
 		<disk name="tophuntr\top hunter - roddy &amp; cathy (1994)(snk)(jp-us)[ngcd-046 mt b02, ngcd-046e].chd" sha1="97f4026a09f345e41abc9d1e7d88bf0790961ec3" />
@@ -1141,7 +1140,7 @@
 		<disk name="totc\cd-rom [ngcd-500] [v2011-12-22].chd" sha1="5e2e2126fc657a8dbc969b05f7e8d0adea68e298" />
 	</machine>
 	<machine name="tpgolf\top player's golf (1994)(snk)(jp-us)">
-		<description>s Golf (Japan, USA)</description>
+		<description>Top Player's Golf (Japan, USA)</description>
 		<year>1994</year>
 		<manufacturer>SNK</manufacturer>
 		<disk name="tpgolf\top player's golf (1994)(snk)(jp-us).chd" sha1="c5eba09ea978b64fb9864ff8cddefb520786205e" />

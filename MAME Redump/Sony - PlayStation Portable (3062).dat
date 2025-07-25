@@ -3,7 +3,7 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable</name>
-		<description>MAME Redump - Sony - PlayStation Portable - Discs (3075) (2025-01-20 11-03-11)</description>
+		<description>MAME Redump - Sony - PlayStation Portable - Discs (3208) (2025-07-21 15-14-54)</description>
 		<version>0.274</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
@@ -89,10 +89,10 @@
 		<description>2010 FIFA World Cup South Africa (Europe) (Fr,De) (Beta) (2010-02-10)</description>
 		<disk name="2010 FIFA World Cup South Africa (Europe) (Fr,De) (Beta) (2010-02-10).chd" sha1="6dada0245e1a231fd459209e6c8dac9d5296c6d4" />
 	</machine>
-	<machine name="2010 FIFA World Cup South Africa (USA)">
+	<machine name="2010 FIFA World Cup South Africa (USA) (En,Es)">
 		<category>Games</category>
-		<description>2010 FIFA World Cup South Africa (USA)</description>
-		<disk name="2010 FIFA World Cup South Africa (USA).chd" sha1="d674b0b0aa6af305fd79d6e62e4f8b79470f3228" />
+		<description>2010 FIFA World Cup South Africa (USA) (En,Es)</description>
+		<disk name="2010 FIFA World Cup South Africa (USA) (En,Es).chd" sha1="d674b0b0aa6af305fd79d6e62e4f8b79470f3228" />
 	</machine>
 	<machine name="300 - March to Glory (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -379,10 +379,10 @@
 		<description>Akiba's Trip Plus (Japan)</description>
 		<disk name="Akiba's Trip Plus (Japan).chd" sha1="47d20b491787de658315853f6c367f2ee2616a06" />
 	</machine>
-	<machine name="Aku Daikan Manyuki (Japan)">
+	<machine name="Akudaikan Manyuuki (Japan)">
 		<category>Games</category>
-		<description>Aku Daikan Manyuki (Japan)</description>
-		<disk name="Aku Daikan Manyuki (Japan).chd" sha1="238d89baae67d18147a15e2048a08b032fcfafb5" />
+		<description>Akudaikan Manyuuki (Japan)</description>
+		<disk name="Akudaikan Manyuuki (Japan).chd" sha1="238d89baae67d18147a15e2048a08b032fcfafb5" />
 	</machine>
 	<machine name="Akumajou Dracula X - Chronicle (Japan)">
 		<category>Games</category>
@@ -1444,10 +1444,10 @@
 		<description>Buzz! Brain Bender (Scandinavia) (Sv,No,Da,Fi)</description>
 		<disk name="Buzz! Brain Bender (Scandinavia) (Sv,No,Da,Fi).chd" sha1="9f2e1fc522b47a86ec489035f13adb6aaada36f1" />
 	</machine>
-	<machine name="Buzz! Brain of Oz ~ Buzz! Brain of New Zealand (Australia, New Zealand)">
+	<machine name="Buzz! Brain of Oz (Australia, New Zealand)">
 		<category>Games</category>
-		<description>Buzz! Brain of Oz ~ Buzz! Brain of New Zealand (Australia, New Zealand)</description>
-		<disk name="Buzz! Brain of Oz ~ Buzz! Brain of New Zealand (Australia, New Zealand).chd" sha1="d95b48a2429ac33b71791098d57dbdf5a109000c" />
+		<description>Buzz! Brain of Oz (Australia, New Zealand)</description>
+		<disk name="Buzz! Brain of Oz (Australia, New Zealand).chd" sha1="d95b48a2429ac33b71791098d57dbdf5a109000c" />
 	</machine>
 	<machine name="Buzz! Brain of Switzerland (Switzerland) (Fr,De)">
 		<category>Games</category>
@@ -1468,11 +1468,6 @@
 		<category>Games</category>
 		<description>Buzz! Concurso Universal (Europe) (Es,Pt)</description>
 		<disk name="Buzz! Concurso Universal (Europe) (Es,Pt).chd" sha1="2cc834182063249ca715eb310d79341894d280d1" />
-	</machine>
-	<machine name="Buzz! Danske Genier ~ Buzz! Norgesmester (Europe) (No,Da)">
-		<category>Games</category>
-		<description>Buzz! Danske Genier ~ Buzz! Norgesmester (Europe) (No,Da)</description>
-		<disk name="Buzz! Danske Genier ~ Buzz! Norgesmester (Europe) (No,Da).chd" sha1="8477047c8303e870d824b8ca60436e51afba742c" />
 	</machine>
 	<machine name="Buzz! Das grosse Laenderquiz (Europe) (De,It)">
 		<category>Games</category>
@@ -1544,20 +1539,25 @@
 		<description>Buzz! Master Quiz (USA)</description>
 		<disk name="Buzz! Master Quiz (USA).chd" sha1="a9c61189b5745070786ad1146b21226a23642232" />
 	</machine>
-	<machine name="Buzz! Polskie Lamiglowki ~ Buzz! Mozak Hrvatske (Europe) (Pl,Hr)">
+	<machine name="Buzz! Norgesmester (Europe) (No,Da)">
 		<category>Games</category>
-		<description>Buzz! Polskie Lamiglowki ~ Buzz! Mozak Hrvatske (Europe) (Pl,Hr)</description>
-		<disk name="Buzz! Polskie Lamiglowki ~ Buzz! Mozak Hrvatske (Europe) (Pl,Hr).chd" sha1="de87dd65314f2f455fe6e50f5144e05a4f118128" />
+		<description>Buzz! Norgesmester (Europe) (No,Da)</description>
+		<disk name="Buzz! Norgesmester (Europe) (No,Da).chd" sha1="8477047c8303e870d824b8ca60436e51afba742c" />
+	</machine>
+	<machine name="Buzz! Polskie Lamiglowki (Europe) (Pl,Hr)">
+		<category>Games</category>
+		<description>Buzz! Polskie Lamiglowki (Europe) (Pl,Hr)</description>
+		<disk name="Buzz! Polskie Lamiglowki (Europe) (Pl,Hr).chd" sha1="de87dd65314f2f455fe6e50f5144e05a4f118128" />
 	</machine>
 	<machine name="Buzz! Que Sabes de tu Pais (Spain)">
 		<category>Games</category>
 		<description>Buzz! Que Sabes de tu Pais (Spain)</description>
 		<disk name="Buzz! Que Sabes de tu Pais (Spain).chd" sha1="ba41b64b6404e148a6443331261ff76258e994e7" />
 	</machine>
-	<machine name="Buzz! Quem e o Genio Portugues ~ Buzz! Sokrovishha nacii (Europe) (Pt,Ru)">
+	<machine name="Buzz! Quem e o Genio Portugues (Europe) (Pt,Ru)">
 		<category>Games</category>
-		<description>Buzz! Quem e o Genio Portugues ~ Buzz! Sokrovishha nacii (Europe) (Pt,Ru)</description>
-		<disk name="Buzz! Quem e o Genio Portugues ~ Buzz! Sokrovishha nacii (Europe) (Pt,Ru).chd" sha1="2b80983d2b923d6b520199097c1f5c2e01c5eeeb" />
+		<description>Buzz! Quem e o Genio Portugues (Europe) (Pt,Ru)</description>
+		<disk name="Buzz! Quem e o Genio Portugues (Europe) (Pt,Ru).chd" sha1="2b80983d2b923d6b520199097c1f5c2e01c5eeeb" />
 	</machine>
 	<machine name="Buzz! Quiz World (Australia)">
 		<category>Games</category>
@@ -1599,10 +1599,10 @@
 		<description>Buzz! Quiz World (Europe) (Sv,Fi)</description>
 		<disk name="Buzz! Quiz World (Europe) (Sv,Fi).chd" sha1="ed9cec2ee33402bf45f5540515178510615aa314" />
 	</machine>
-	<machine name="Buzz! Svenska Genier ~ Buzz! Suomen Neropatti (Europe) (Sv,Fi)">
+	<machine name="Buzz! Svenska Genier (Europe) (Sv,Fi)">
 		<category>Games</category>
-		<description>Buzz! Svenska Genier ~ Buzz! Suomen Neropatti (Europe) (Sv,Fi)</description>
-		<disk name="Buzz! Svenska Genier ~ Buzz! Suomen Neropatti (Europe) (Sv,Fi).chd" sha1="2ff412eed6e81cfe5d86e22f825186554f6893dd" />
+		<description>Buzz! Svenska Genier (Europe) (Sv,Fi)</description>
+		<disk name="Buzz! Svenska Genier (Europe) (Sv,Fi).chd" sha1="2ff412eed6e81cfe5d86e22f825186554f6893dd" />
 	</machine>
 	<machine name="Buzz! The Ultimate Music Quiz (Australia)">
 		<category>Games</category>
@@ -1759,15 +1759,15 @@
 		<description>Cart Kings (India) (En,Hi)</description>
 		<disk name="Cart Kings (India) (En,Hi).chd" sha1="01dda550448d50f6caa7c4adf2fa4410929ad63c" />
 	</machine>
+	<machine name="Castlevania - The Dracula X Chronicles (Asia)">
+		<category>Games</category>
+		<description>Castlevania - The Dracula X Chronicles (Asia)</description>
+		<disk name="Castlevania - The Dracula X Chronicles (Asia).chd" sha1="3a50da16af52c743605b05209bdf8ab8c8662a7d" />
+	</machine>
 	<machine name="Castlevania - The Dracula X Chronicles (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Castlevania - The Dracula X Chronicles (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Castlevania - The Dracula X Chronicles (Europe) (En,Fr,De,Es,It).chd" sha1="6744ef3d7644c831184a59f68b77069de4c8fb9d" />
-	</machine>
-	<machine name="Castlevania - The Dracula X Chronicles (Korea)">
-		<category>Games</category>
-		<description>Castlevania - The Dracula X Chronicles (Korea)</description>
-		<disk name="Castlevania - The Dracula X Chronicles (Korea).chd" sha1="3a50da16af52c743605b05209bdf8ab8c8662a7d" />
 	</machine>
 	<machine name="Castlevania - The Dracula X Chronicles (USA)">
 		<category>Games</category>
@@ -1939,10 +1939,10 @@
 		<description>Cloudy with a Chance of Meatballs (Europe, Australia)</description>
 		<disk name="Cloudy with a Chance of Meatballs (Europe, Australia).chd" sha1="2e8152b34597f741df0ea9a8a776695a6492bacd" />
 	</machine>
-	<machine name="Cloudy with a Chance of Meatballs (USA)">
+	<machine name="Cloudy with a Chance of Meatballs (USA) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Cloudy with a Chance of Meatballs (USA)</description>
-		<disk name="Cloudy with a Chance of Meatballs (USA).chd" sha1="9d4d905189ee30b1d01612876c1c440bf4bec30f" />
+		<description>Cloudy with a Chance of Meatballs (USA) (En,Fr,De,Es,It)</description>
+		<disk name="Cloudy with a Chance of Meatballs (USA) (En,Fr,De,Es,It).chd" sha1="9d4d905189ee30b1d01612876c1c440bf4bec30f" />
 	</machine>
 	<machine name="Code Geass - Hangyaku no Lelouch - Lost Colors (Japan) (v2.00)">
 		<category>Games</category>
@@ -2739,25 +2739,30 @@
 		<description>Disney - Pixar Rottatouille (Norway)</description>
 		<disk name="Disney - Pixar Rottatouille (Norway).chd" sha1="9ccb85c210f7b2e4cc4a9453fad3432811e3e770" />
 	</machine>
+	<machine name="Disney - Pixar Up (Russia)">
+		<category>Games</category>
+		<description>Disney - Pixar Up (Russia)</description>
+		<disk name="Disney - Pixar Up (Russia).chd" sha1="bf702006183e5ff4d2ce6b8b85da88c326722fae" />
+	</machine>
 	<machine name="Disney G-Force (Europe) (De,It)">
 		<category>Games</category>
 		<description>Disney G-Force (Europe) (De,It)</description>
 		<disk name="Disney G-Force (Europe) (De,It).chd" sha1="251312c876900a2765c46abaaf66ff1e16c43677" />
 	</machine>
-	<machine name="Disney G-Force (Europe) (En,Fr,Es)">
+	<machine name="Disney G-Force (Europe) (En,Fr,Es,Nl)">
 		<category>Games</category>
-		<description>Disney G-Force (Europe) (En,Fr,Es)</description>
-		<disk name="Disney G-Force (Europe) (En,Fr,Es).chd" sha1="47cd0cf9a47603efe9295d43c8ad550b9932ca78" />
+		<description>Disney G-Force (Europe) (En,Fr,Es,Nl)</description>
+		<disk name="Disney G-Force (Europe) (En,Fr,Es,Nl).chd" sha1="47cd0cf9a47603efe9295d43c8ad550b9932ca78" />
 	</machine>
 	<machine name="Disney G-Force (Russia)">
 		<category>Games</category>
 		<description>Disney G-Force (Russia)</description>
 		<disk name="Disney G-Force (Russia).chd" sha1="c42758a85e9933ccb157c8ed82baf774f535e895" />
 	</machine>
-	<machine name="Disney G-Force (USA)">
+	<machine name="Disney G-Force (USA) (En,Fr,Es)">
 		<category>Games</category>
-		<description>Disney G-Force (USA)</description>
-		<disk name="Disney G-Force (USA).chd" sha1="0072113f5c2b336971819cc297d5c27a25aff02e" />
+		<description>Disney G-Force (USA) (En,Fr,Es)</description>
+		<disk name="Disney G-Force (USA) (En,Fr,Es).chd" sha1="0072113f5c2b336971819cc297d5c27a25aff02e" />
 	</machine>
 	<machine name="Disney Phineas and Ferb - Across the 2nd Dimension (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru,El)">
 		<category>Games</category>
@@ -2779,20 +2784,20 @@
 		<description>Disney Pirates of the Caribbean - At World's End (USA)</description>
 		<disk name="Disney Pirates of the Caribbean - At World's End (USA).chd" sha1="9d7ae5fadf397c7c749ed04d858a1e6c1412240a" />
 	</machine>
-	<machine name="Disney TRON - Evolution (Europe) (En,Fr,De,Es,It,Nl)">
+	<machine name="Disney Tron - Evolution (Europe) (En,Fr,De,Es,It,Nl)">
 		<category>Games</category>
-		<description>Disney TRON - Evolution (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<disk name="Disney TRON - Evolution (Europe) (En,Fr,De,Es,It,Nl).chd" sha1="574b555d1fa487144fd9bf1920e7109d1f8814b1" />
+		<description>Disney Tron - Evolution (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<disk name="Disney Tron - Evolution (Europe) (En,Fr,De,Es,It,Nl).chd" sha1="574b555d1fa487144fd9bf1920e7109d1f8814b1" />
 	</machine>
-	<machine name="Disney TRON - Evolution (Russia)">
+	<machine name="Disney Tron - Evolution (Russia)">
 		<category>Games</category>
-		<description>Disney TRON - Evolution (Russia)</description>
-		<disk name="Disney TRON - Evolution (Russia).chd" sha1="fa2960a573adae936c9a728f60ed61d668698aee" />
+		<description>Disney Tron - Evolution (Russia)</description>
+		<disk name="Disney Tron - Evolution (Russia).chd" sha1="fa2960a573adae936c9a728f60ed61d668698aee" />
 	</machine>
-	<machine name="Disney TRON - Evolution (USA) (En,Fr,Es)">
+	<machine name="Disney Tron - Evolution (USA) (En,Fr,Es)">
 		<category>Games</category>
-		<description>Disney TRON - Evolution (USA) (En,Fr,Es)</description>
-		<disk name="Disney TRON - Evolution (USA) (En,Fr,Es).chd" sha1="112bf25f86697649dfb2fab6785a44c5bece30aa" />
+		<description>Disney Tron - Evolution (USA) (En,Fr,Es)</description>
+		<disk name="Disney Tron - Evolution (USA) (En,Fr,Es).chd" sha1="112bf25f86697649dfb2fab6785a44c5bece30aa" />
 	</machine>
 	<machine name="Disney-Pixar Cars - Race-O-Rama (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -2884,6 +2889,11 @@
 		<description>Disney-Pixar Oben (Germany)</description>
 		<disk name="Disney-Pixar Oben (Germany).chd" sha1="5d468313f126fac1199b0a9527a9eed1aeeca5b3" />
 	</machine>
+	<machine name="Disney-Pixar Psila ston Ourano (Greece)">
+		<category>Games</category>
+		<description>Disney-Pixar Psila ston Ourano (Greece)</description>
+		<disk name="Disney-Pixar Psila ston Ourano (Greece).chd" sha1="ae97fb259afde4ed642379d92800eeb3319dd6c8" />
+	</machine>
 	<machine name="Disney-Pixar Ratatouille (Denmark)">
 		<category>Games</category>
 		<description>Disney-Pixar Ratatouille (Denmark)</description>
@@ -2974,20 +2984,10 @@
 		<description>Disney-Pixar Up (Europe) (Fr,Nl)</description>
 		<disk name="Disney-Pixar Up (Europe) (Fr,Nl).chd" sha1="36c869b1de36f791783903e7185156d7dc401b46" />
 	</machine>
-	<machine name="Disney-Pixar Up (Greece)">
-		<category>Games</category>
-		<description>Disney-Pixar Up (Greece)</description>
-		<disk name="Disney-Pixar Up (Greece).chd" sha1="ae97fb259afde4ed642379d92800eeb3319dd6c8" />
-	</machine>
 	<machine name="Disney-Pixar Up (Italy)">
 		<category>Games</category>
 		<description>Disney-Pixar Up (Italy)</description>
 		<disk name="Disney-Pixar Up (Italy).chd" sha1="e94f018cfa3a1838dc2cff908725bf2c196c7e99" />
-	</machine>
-	<machine name="Disney-Pixar Up (Russia)">
-		<category>Games</category>
-		<description>Disney-Pixar Up (Russia)</description>
-		<disk name="Disney-Pixar Up (Russia).chd" sha1="bf702006183e5ff4d2ce6b8b85da88c326722fae" />
 	</machine>
 	<machine name="Disney-Pixar Up (Spain)">
 		<category>Games</category>
@@ -3464,10 +3464,10 @@
 		<description>Dynasty Warriors - Strikeforce (Europe) (En,Fr,De)</description>
 		<disk name="Dynasty Warriors - Strikeforce (Europe) (En,Fr,De).chd" sha1="86423079b5f912db98c9522c1ddebb3f95735e3d" />
 	</machine>
-	<machine name="Dynasty Warriors - Strikeforce (USA)">
+	<machine name="Dynasty Warriors - Strikeforce (USA) (En,Fr)">
 		<category>Games</category>
-		<description>Dynasty Warriors - Strikeforce (USA)</description>
-		<disk name="Dynasty Warriors - Strikeforce (USA).chd" sha1="c54fb0dd7efc2dbaef31d5c3e8aae9ef0726d02e" />
+		<description>Dynasty Warriors - Strikeforce (USA) (En,Fr)</description>
+		<disk name="Dynasty Warriors - Strikeforce (USA) (En,Fr).chd" sha1="c54fb0dd7efc2dbaef31d5c3e8aae9ef0726d02e" />
 	</machine>
 	<machine name="Dynasty Warriors (Europe)">
 		<category>Games</category>
@@ -3559,10 +3559,10 @@
 		<description>Eikoku Tantei Mysteria (Japan)</description>
 		<disk name="Eikoku Tantei Mysteria (Japan).chd" sha1="d3b1b78509f46f8bf61094cea6f85c2bad7d48e4" />
 	</machine>
-	<machine name="Eiyuu Densetsu - Ao no Kiseki (Japan)">
+	<machine name="Eiyuu Densetsu - Ao no Kiseki (Japan) (v1.01)">
 		<category>Games</category>
-		<description>Eiyuu Densetsu - Ao no Kiseki (Japan)</description>
-		<disk name="Eiyuu Densetsu - Ao no Kiseki (Japan).chd" sha1="7f8e9546711bcd87a75bba90023938ebc982c972" />
+		<description>Eiyuu Densetsu - Ao no Kiseki (Japan) (v1.01)</description>
+		<disk name="Eiyuu Densetsu - Ao no Kiseki (Japan) (v1.01).chd" sha1="7f8e9546711bcd87a75bba90023938ebc982c972" />
 	</machine>
 	<machine name="Eiyuu Densetsu - Sora no Kiseki FC (Japan)">
 		<category>Games</category>
@@ -6284,10 +6284,10 @@
 		<description>Invizimals - Shadow Zone (Greece) (En,Es,Pt,El)</description>
 		<disk name="Invizimals - Shadow Zone (Greece) (En,Es,Pt,El).chd" sha1="1963611932c61789ab95baf4fd8100ef219c5d2f" />
 	</machine>
-	<machine name="Invizimals - Shadow Zone (USA)">
+	<machine name="Invizimals - Shadow Zone (USA) (En,Fr,Es,Pt)">
 		<category>Games</category>
-		<description>Invizimals - Shadow Zone (USA)</description>
-		<disk name="Invizimals - Shadow Zone (USA).chd" sha1="1ad5e7b52cff64f4dab690ee8f49f55737d3de7b" />
+		<description>Invizimals - Shadow Zone (USA) (En,Fr,Es,Pt)</description>
+		<disk name="Invizimals - Shadow Zone (USA) (En,Fr,Es,Pt).chd" sha1="1ad5e7b52cff64f4dab690ee8f49f55737d3de7b" />
 	</machine>
 	<machine name="Invizimals - The Lost Tribes (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru)">
 		<category>Games</category>
@@ -6299,10 +6299,10 @@
 		<description>Invizimals (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
 		<disk name="Invizimals (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).chd" sha1="6e8c0dba336bb42ec13fd872e93edc6e9bd14c68" />
 	</machine>
-	<machine name="Invizimals (USA) (En,Fr,Es)">
+	<machine name="Invizimals (USA) (En,Fr,Es,Pt)">
 		<category>Games</category>
-		<description>Invizimals (USA) (En,Fr,Es)</description>
-		<disk name="Invizimals (USA) (En,Fr,Es).chd" sha1="3e7b10efc93f454477823ce1625f911ed172d68a" />
+		<description>Invizimals (USA) (En,Fr,Es,Pt)</description>
+		<disk name="Invizimals (USA) (En,Fr,Es,Pt).chd" sha1="3e7b10efc93f454477823ce1625f911ed172d68a" />
 	</machine>
 	<machine name="Irem Taikenban-shuu - 2007 Kaki Tokubetsugou (Japan)">
 		<category>Demos</category>
@@ -6979,10 +6979,10 @@
 		<description>Kin'iro no Corda (Japan)</description>
 		<disk name="Kin'iro no Corda (Japan).chd" sha1="ddf40c701a9c0fd3cef5abebdb91e916ccd1fe6b" />
 	</machine>
-	<machine name="Kiniro no Corda 2f Encore (Japan)">
+	<machine name="Kin'iro no Corda 2f Encore (Japan)">
 		<category>Games</category>
-		<description>Kiniro no Corda 2f Encore (Japan)</description>
-		<disk name="Kiniro no Corda 2f Encore (Japan).chd" sha1="e46a0b3daf5a243ad13e0ae8ec7e0a5fa020e144" />
+		<description>Kin'iro no Corda 2f Encore (Japan)</description>
+		<disk name="Kin'iro no Corda 2f Encore (Japan).chd" sha1="e46a0b3daf5a243ad13e0ae8ec7e0a5fa020e144" />
 	</machine>
 	<machine name="Kin'iro no Corda 3 - Another Sky feat. Jinnan (Japan)">
 		<category>Games</category>
@@ -7139,10 +7139,10 @@
 		<description>L.A. Rush (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="L.A. Rush (Europe) (En,Fr,De,Es,It).chd" sha1="35dba720c3c7f8aab65194a6e0988d1860ae8a04" />
 	</machine>
-	<machine name="L.G.S - Shinsetsu Fuushin Engi (Japan)">
+	<machine name="L.G.S - Shinsetsu Houshin Engi (Japan)">
 		<category>Games</category>
-		<description>L.G.S - Shinsetsu Fuushin Engi (Japan)</description>
-		<disk name="L.G.S - Shinsetsu Fuushin Engi (Japan).chd" sha1="5d6ec764e67ae24e44a90bd7da9e1e627c355c5f" />
+		<description>L.G.S - Shinsetsu Houshin Engi (Japan)</description>
+		<disk name="L.G.S - Shinsetsu Houshin Engi (Japan).chd" sha1="5d6ec764e67ae24e44a90bd7da9e1e627c355c5f" />
 	</machine>
 	<machine name="L@ve Once (Japan) (Shokai Genteiban)">
 		<category>Games</category>
@@ -7689,10 +7689,10 @@
 		<description>Magna Carta Portable (Japan)</description>
 		<disk name="Magna Carta Portable (Japan).chd" sha1="77e66e4ab09c15a31da15405fdb6aff6aa30fe2c" />
 	</machine>
-	<machine name="MagusTale Eternity - Sekaiju to Koi suru Mahoutsukai (Japan)">
+	<machine name="MagusTale Eternity - Sekaiju to Koi Suru Mahoutsukai (Japan)">
 		<category>Games</category>
-		<description>MagusTale Eternity - Sekaiju to Koi suru Mahoutsukai (Japan)</description>
-		<disk name="MagusTale Eternity - Sekaiju to Koi suru Mahoutsukai (Japan).chd" sha1="a94931ef514957fb427e646fc213ff9087002cc7" />
+		<description>MagusTale Eternity - Sekaiju to Koi Suru Mahoutsukai (Japan)</description>
+		<disk name="MagusTale Eternity - Sekaiju to Koi Suru Mahoutsukai (Japan).chd" sha1="a94931ef514957fb427e646fc213ff9087002cc7" />
 	</machine>
 	<machine name="Mahjong Fight Club - Zenkoku Taisenban (Japan)">
 		<category>Games</category>
@@ -7834,10 +7834,10 @@
 		<description>Marriage Royale - Prism Story (Japan)</description>
 		<disk name="Marriage Royale - Prism Story (Japan).chd" sha1="1201850da3d7bc4627b01226c2bbb7c5a2516ed1" />
 	</machine>
-	<machine name="Maru Goukaku Shikaku Dasshu! - Care Manager Shiken Portable (Japan)">
+	<machine name="Maru Goukaku Shikaku Dasshu! Care Manager Shiken Portable (Japan)">
 		<category>Games</category>
-		<description>Maru Goukaku Shikaku Dasshu! - Care Manager Shiken Portable (Japan)</description>
-		<disk name="Maru Goukaku Shikaku Dasshu! - Care Manager Shiken Portable (Japan).chd" sha1="32d4a3ad6bd4e1b5092732e7de5d959dc815f616" />
+		<description>Maru Goukaku Shikaku Dasshu! Care Manager Shiken Portable (Japan)</description>
+		<disk name="Maru Goukaku Shikaku Dasshu! Care Manager Shiken Portable (Japan).chd" sha1="32d4a3ad6bd4e1b5092732e7de5d959dc815f616" />
 	</machine>
 	<machine name="Marvel - Ultimate Alliance (Europe) (En,It)">
 		<category>Games</category>
@@ -7879,10 +7879,10 @@
 		<description>Marvel Super Hero Squad (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Marvel Super Hero Squad (Europe) (En,Fr,De,Es,It).chd" sha1="e8907783b35687b21c3fa10f6979e8e55c221c1e" />
 	</machine>
-	<machine name="Marvel Super Hero Squad (USA)">
+	<machine name="Marvel Super Hero Squad (USA) (En,Fr,Es)">
 		<category>Games</category>
-		<description>Marvel Super Hero Squad (USA)</description>
-		<disk name="Marvel Super Hero Squad (USA).chd" sha1="51cad3a39ea3e1b2e5a68d96fa5826ec6892ad3f" />
+		<description>Marvel Super Hero Squad (USA) (En,Fr,Es)</description>
+		<disk name="Marvel Super Hero Squad (USA) (En,Fr,Es).chd" sha1="51cad3a39ea3e1b2e5a68d96fa5826ec6892ad3f" />
 	</machine>
 	<machine name="Marvel Trading Card Game (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -9429,10 +9429,10 @@
 		<description>Need for Speed - Undercover (Europe) (En,Fr,De,Es,It,Nl,Pl,Ru,Cs,Hu)</description>
 		<disk name="Need for Speed - Undercover (Europe) (En,Fr,De,Es,It,Nl,Pl,Ru,Cs,Hu).chd" sha1="116ce2419462e8ab2f8214b842a054f3d5e50df3" />
 	</machine>
-	<machine name="Need for Speed - Undercover (USA)">
+	<machine name="Need for Speed - Undercover (USA) (En,Fr)">
 		<category>Games</category>
-		<description>Need for Speed - Undercover (USA)</description>
-		<disk name="Need for Speed - Undercover (USA).chd" sha1="b9a76a91ab7bd2d84ccb5323fe44a04239c5e9a6" />
+		<description>Need for Speed - Undercover (USA) (En,Fr)</description>
+		<disk name="Need for Speed - Undercover (USA) (En,Fr).chd" sha1="b9a76a91ab7bd2d84ccb5323fe44a04239c5e9a6" />
 	</machine>
 	<machine name="Need for Speed - Underground Rivals (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -9569,10 +9569,10 @@
 		<description>Nickelodeon SpongeBob's Truth or Square (USA)</description>
 		<disk name="Nickelodeon SpongeBob's Truth or Square (USA).chd" sha1="e340b22a596eca61bb4cc438acad2061dc07c2b6" />
 	</machine>
-	<machine name="Nikoli no Sudoku Lite Daisan-shuu (Japan)">
+	<machine name="Nikoli no Sudoku Lite Daisanshuu (Japan)">
 		<category>Games</category>
-		<description>Nikoli no Sudoku Lite Daisan-shuu (Japan)</description>
-		<disk name="Nikoli no Sudoku Lite Daisan-shuu (Japan).chd" sha1="d1ade70ebf57fd692d75ec266dac0a854a7820ee" />
+		<description>Nikoli no Sudoku Lite Daisanshuu (Japan)</description>
+		<disk name="Nikoli no Sudoku Lite Daisanshuu (Japan).chd" sha1="d1ade70ebf57fd692d75ec266dac0a854a7820ee" />
 	</machine>
 	<machine name="Nippon no Asoko de (Japan)">
 		<category>Games</category>
@@ -9769,10 +9769,10 @@
 		<description>P3P - Yeosin Jeonsaeng - Persona 3 Portable (Korea)</description>
 		<disk name="P3P - Yeosin Jeonsaeng - Persona 3 Portable (Korea).chd" sha1="d454c6fbca8c3b0acdf866c70f17e7bc49468a5c" />
 	</machine>
-	<machine name="Pac-Man Rally (Europe) (En,Fr,De,Es,It) (Beta) (2007-05-01)">
+	<machine name="Pac-Man Rally (Europe) (En,Fr,De,Es,It) (Proto) (2007-05-01)">
 		<category>Preproduction</category>
-		<description>Pac-Man Rally (Europe) (En,Fr,De,Es,It) (Beta) (2007-05-01)</description>
-		<disk name="Pac-Man Rally (Europe) (En,Fr,De,Es,It) (Beta) (2007-05-01).chd" sha1="6a50e656d9bcfad9e609d7850d0f99cd3acecb1a" />
+		<description>Pac-Man Rally (Europe) (En,Fr,De,Es,It) (Proto) (2007-05-01)</description>
+		<disk name="Pac-Man Rally (Europe) (En,Fr,De,Es,It) (Proto) (2007-05-01).chd" sha1="6a50e656d9bcfad9e609d7850d0f99cd3acecb1a" />
 	</machine>
 	<machine name="Pac-Man World 3 (Asia)">
 		<category>Games</category>
@@ -10009,10 +10009,10 @@
 		<description>Persona 2 - Tsumi - Innocent Sin (Japan)</description>
 		<disk name="Persona 2 - Tsumi - Innocent Sin (Japan).chd" sha1="37492cd02986f321daf58b5f53c5cc7f381252ea" />
 	</machine>
-	<machine name="Persona 3 Portable (Japan)">
+	<machine name="Persona 3 Portable (Japan, Asia)">
 		<category>Games</category>
-		<description>Persona 3 Portable (Japan)</description>
-		<disk name="Persona 3 Portable (Japan).chd" sha1="cbfe6e1c2ccd40ff5a85326a43109406c2842cc1" />
+		<description>Persona 3 Portable (Japan, Asia)</description>
+		<disk name="Persona 3 Portable (Japan, Asia).chd" sha1="cbfe6e1c2ccd40ff5a85326a43109406c2842cc1" />
 	</machine>
 	<machine name="Personal Utility Disc Ver. 1.0 (Korea)">
 		<category>Applications</category>
@@ -10024,20 +10024,20 @@
 		<description>PES 2008 - Pro Evolution Soccer (Europe) (En,Fr,De,Es,It,Pt)</description>
 		<disk name="PES 2008 - Pro Evolution Soccer (Europe) (En,Fr,De,Es,It,Pt).chd" sha1="53fbb683b54d4e3a8037767351e09c681b5d98a2" />
 	</machine>
-	<machine name="PES 2008 - Pro Evolution Soccer (USA)">
+	<machine name="PES 2008 - Pro Evolution Soccer (USA) (En,Fr,Es)">
 		<category>Games</category>
-		<description>PES 2008 - Pro Evolution Soccer (USA)</description>
-		<disk name="PES 2008 - Pro Evolution Soccer (USA).chd" sha1="31d2a15502fa17c78f8c18c7e33882953a8d2159" />
+		<description>PES 2008 - Pro Evolution Soccer (USA) (En,Fr,Es)</description>
+		<disk name="PES 2008 - Pro Evolution Soccer (USA) (En,Fr,Es).chd" sha1="31d2a15502fa17c78f8c18c7e33882953a8d2159" />
 	</machine>
 	<machine name="PES 2009 - Pro Evolution Soccer (Europe) (En,Fr,De,Es,It,Pt)">
 		<category>Games</category>
 		<description>PES 2009 - Pro Evolution Soccer (Europe) (En,Fr,De,Es,It,Pt)</description>
 		<disk name="PES 2009 - Pro Evolution Soccer (Europe) (En,Fr,De,Es,It,Pt).chd" sha1="7e5daa8fed1411fa182f860c2d9ee3f325f9bb04" />
 	</machine>
-	<machine name="PES 2009 - Pro Evolution Soccer (USA)">
+	<machine name="PES 2009 - Pro Evolution Soccer (USA) (En,Fr,Es,Pt)">
 		<category>Games</category>
-		<description>PES 2009 - Pro Evolution Soccer (USA)</description>
-		<disk name="PES 2009 - Pro Evolution Soccer (USA).chd" sha1="fb1e7d47d2e2beb267c2363bf9fd80e35fd39df3" />
+		<description>PES 2009 - Pro Evolution Soccer (USA) (En,Fr,Es,Pt)</description>
+		<disk name="PES 2009 - Pro Evolution Soccer (USA) (En,Fr,Es,Pt).chd" sha1="fb1e7d47d2e2beb267c2363bf9fd80e35fd39df3" />
 	</machine>
 	<machine name="PES 2010 - Pro Evolution Soccer (Europe) (En,Nl,Sv,Ru)">
 		<category>Games</category>
@@ -10104,10 +10104,10 @@
 		<description>PES 2012 - Pro Evolution Soccer (Europe) (Fr,De)</description>
 		<disk name="PES 2012 - Pro Evolution Soccer (Europe) (Fr,De).chd" sha1="a14edeb04a17063e6b97a55bd2784cc0b9c7639d" />
 	</machine>
-	<machine name="PES 2012 - Pro Evolution Soccer (USA)">
+	<machine name="PES 2012 - Pro Evolution Soccer (USA) (En,Fr,Es,Pt)">
 		<category>Games</category>
-		<description>PES 2012 - Pro Evolution Soccer (USA)</description>
-		<disk name="PES 2012 - Pro Evolution Soccer (USA).chd" sha1="ca3fceb0c8bfd1f277598d4da395bdbbcc8434f0" />
+		<description>PES 2012 - Pro Evolution Soccer (USA) (En,Fr,Es,Pt)</description>
+		<disk name="PES 2012 - Pro Evolution Soccer (USA) (En,Fr,Es,Pt).chd" sha1="ca3fceb0c8bfd1f277598d4da395bdbbcc8434f0" />
 	</machine>
 	<machine name="PES 2013 - Pro Evolution Soccer (Europe) (En,Nl,Sv,Ru,Tr)">
 		<category>Games</category>
@@ -10118,6 +10118,11 @@
 		<category>Games</category>
 		<description>PES 2013 - Pro Evolution Soccer (Europe) (Es,Pt)</description>
 		<disk name="PES 2013 - Pro Evolution Soccer (Europe) (Es,Pt).chd" sha1="9cbe604f4e0442957ac2c1c734e7202fe1d038ce" />
+	</machine>
+	<machine name="PES 2013 - Pro Evolution Soccer (Europe) (Fr,De)">
+		<category>Games</category>
+		<description>PES 2013 - Pro Evolution Soccer (Europe) (Fr,De)</description>
+		<disk name="PES 2013 - Pro Evolution Soccer (Europe) (Fr,De).chd" sha1="73c7d862f0421cbba82cc48496b213a8d368ab1d" />
 	</machine>
 	<machine name="PES 2013 - Pro Evolution Soccer (Europe) (It,El)">
 		<category>Games</category>
@@ -10164,10 +10169,10 @@
 		<description>Peter Jackson's King Kong - The Official Game of the Movie (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
 		<disk name="Peter Jackson's King Kong - The Official Game of the Movie (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).chd" sha1="10289be655907e19b0b70c09fc8ef62d2671ba0f" />
 	</machine>
-	<machine name="Peter Jackson's King Kong - The Official Game of the Movie (USA)">
+	<machine name="Peter Jackson's King Kong - The Official Game of the Movie (USA) (En,Fr,Es)">
 		<category>Games</category>
-		<description>Peter Jackson's King Kong - The Official Game of the Movie (USA)</description>
-		<disk name="Peter Jackson's King Kong - The Official Game of the Movie (USA).chd" sha1="cdf8e0c7d4b58bfc7c8dd62f14f12b0dfd0e0a08" />
+		<description>Peter Jackson's King Kong - The Official Game of the Movie (USA) (En,Fr,Es)</description>
+		<disk name="Peter Jackson's King Kong - The Official Game of the Movie (USA) (En,Fr,Es).chd" sha1="cdf8e0c7d4b58bfc7c8dd62f14f12b0dfd0e0a08" />
 	</machine>
 	<machine name="Petz - Dogz Family (USA)">
 		<category>Games</category>
@@ -10639,11 +10644,6 @@
 		<description>Pro Cycling Season 2010 - Le Tour de France (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<disk name="Pro Cycling Season 2010 - Le Tour de France (Europe) (En,Fr,De,Es,It,Nl).chd" sha1="6769671971b54dcbae4073052131865184780ba4" />
 	</machine>
-	<machine name="Pro Evolution Soccer 2013 (Europe) (Fr,De)">
-		<category>Games</category>
-		<description>Pro Evolution Soccer 2013 (Europe) (Fr,De)</description>
-		<disk name="Pro Evolution Soccer 2013 (Europe) (Fr,De).chd" sha1="73c7d862f0421cbba82cc48496b213a8d368ab1d" />
-	</machine>
 	<machine name="Pro Evolution Soccer 5 (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Pro Evolution Soccer 5 (Europe) (En,Fr,De,Es,It)</description>
@@ -10954,10 +10954,10 @@
 		<description>Ragnarok Tactics (USA)</description>
 		<disk name="Ragnarok Tactics (USA).chd" sha1="d01c73aa65a3b932b8f7ccdf74522c15aeca6957" />
 	</machine>
-	<machine name="Rainbow Islands Evolution (Europe) (En,Ja,Fr,De,Es,It)">
+	<machine name="Rainbow Islands Evolution (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Rainbow Islands Evolution (Europe) (En,Ja,Fr,De,Es,It)</description>
-		<disk name="Rainbow Islands Evolution (Europe) (En,Ja,Fr,De,Es,It).chd" sha1="d295f5d850af0c6b3a95bd6bbc017f6609c71180" />
+		<description>Rainbow Islands Evolution (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="Rainbow Islands Evolution (Europe) (En,Fr,De,Es,It).chd" sha1="d295f5d850af0c6b3a95bd6bbc017f6609c71180" />
 	</machine>
 	<machine name="Rainbow Islands Evolution (USA) (En,Fr,Es)">
 		<category>Games</category>
@@ -11374,10 +11374,10 @@
 		<description>Samurai Warriors - State of War (USA)</description>
 		<disk name="Samurai Warriors - State of War (USA).chd" sha1="d97d9c0cd159d52db2ef171a09819df3cd1ac90d" />
 	</machine>
-	<machine name="Sangoku-hime - Sangoku Ransei - Haten no Saihai (Japan)">
+	<machine name="Sangoku-hime - Sangoku Ranse - Haten no Saihai (Japan)">
 		<category>Games</category>
-		<description>Sangoku-hime - Sangoku Ransei - Haten no Saihai (Japan)</description>
-		<disk name="Sangoku-hime - Sangoku Ransei - Haten no Saihai (Japan).chd" sha1="e58f5d164617c03b2045c01334aa79d41d56f090" />
+		<description>Sangoku-hime - Sangoku Ranse - Haten no Saihai (Japan)</description>
+		<disk name="Sangoku-hime - Sangoku Ranse - Haten no Saihai (Japan).chd" sha1="e58f5d164617c03b2045c01334aa79d41d56f090" />
 	</machine>
 	<machine name="Sangoku-hime 2 - Tenka Hatou - Shishi no Keishousha (Japan)">
 		<category>Games</category>
@@ -11684,10 +11684,10 @@
 		<description>Sengoku Musou 3 Z Special (Japan)</description>
 		<disk name="Sengoku Musou 3 Z Special (Japan).chd" sha1="6a29b414aa6f0604cc2affe7e599ddcd8aca6f06" />
 	</machine>
-	<machine name="Sengoku Tenka Touitsu (Japan)">
+	<machine name="Sengoku Tenka Touitsu (Japan) (v1.01)">
 		<category>Games</category>
-		<description>Sengoku Tenka Touitsu (Japan)</description>
-		<disk name="Sengoku Tenka Touitsu (Japan).chd" sha1="49eae2b16c604d963d7da722a25e6790b2dc9724" />
+		<description>Sengoku Tenka Touitsu (Japan) (v1.01)</description>
+		<disk name="Sengoku Tenka Touitsu (Japan) (v1.01).chd" sha1="49eae2b16c604d963d7da722a25e6790b2dc9724" />
 	</machine>
 	<machine name="Sengoku-hime - Senran ni Mau Otome-tachi (Japan)">
 		<category>Games</category>
@@ -11904,10 +11904,10 @@
 		<description>Shinki Gensou - SSII Unlimited Side (Japan, Asia)</description>
 		<disk name="Shinki Gensou - SSII Unlimited Side (Japan, Asia).chd" sha1="fdb8d7e4a0f4e469ea3852e9079e3f8bbd95b424" />
 	</machine>
-	<machine name="Shinkyoku Soukai Polyphonica - 0~4 wa Full Pack (Japan)">
+	<machine name="Shinkyoku Soukai Polyphonica - 0-4 wa Full Pack (Japan)">
 		<category>Games</category>
-		<description>Shinkyoku Soukai Polyphonica - 0~4 wa Full Pack (Japan)</description>
-		<disk name="Shinkyoku Soukai Polyphonica - 0~4 wa Full Pack (Japan).chd" sha1="737369889169ff03e4ccccf45b8a16632baf56c8" />
+		<description>Shinkyoku Soukai Polyphonica - 0-4 wa Full Pack (Japan)</description>
+		<disk name="Shinkyoku Soukai Polyphonica - 0-4 wa Full Pack (Japan).chd" sha1="737369889169ff03e4ccccf45b8a16632baf56c8" />
 	</machine>
 	<machine name="Shinkyoku Soukai Polyphonica - After School (Japan)">
 		<category>Games</category>
@@ -11979,10 +11979,10 @@
 		<description>Sid Meier's Pirates! (Europe) (En,Fr,De,Es,It) (Beta) (2006-11-30)</description>
 		<disk name="Sid Meier's Pirates! (Europe) (En,Fr,De,Es,It) (Beta) (2006-11-30).chd" sha1="645507282cede70f3f00c873a1b8209875812a6d" />
 	</machine>
-	<machine name="Sid Meier's Pirates! (USA) (En,Fr,De,Es,It)">
+	<machine name="Sid Meier's Pirates! (USA)">
 		<category>Games</category>
-		<description>Sid Meier's Pirates! (USA) (En,Fr,De,Es,It)</description>
-		<disk name="Sid Meier's Pirates! (USA) (En,Fr,De,Es,It).chd" sha1="27eaacf4e58eb99e162805b52b5c7998bdd583b3" />
+		<description>Sid Meier's Pirates! (USA)</description>
+		<disk name="Sid Meier's Pirates! (USA).chd" sha1="27eaacf4e58eb99e162805b52b5c7998bdd583b3" />
 	</machine>
 	<machine name="Signore degli Anelli, Il - Tactics (Italy)">
 		<category>Games</category>
@@ -12614,6 +12614,31 @@
 		<description>Star Trek - Tactical Assault (USA)</description>
 		<disk name="Star Trek - Tactical Assault (USA).chd" sha1="9cee618d6593443020f4716e3239e49d6ddb1cf8" />
 	</machine>
+	<machine name="Star Wars - Battlefront - Elite Squadron (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Star Wars - Battlefront - Elite Squadron (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="Star Wars - Battlefront - Elite Squadron (Europe) (En,Fr,De,Es,It).chd" sha1="1cffb7b208dc3b1ac170a9223b9540b694749cb9" />
+	</machine>
+	<machine name="Star Wars - Battlefront - Elite Squadron (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Star Wars - Battlefront - Elite Squadron (USA) (En,Fr,Es)</description>
+		<disk name="Star Wars - Battlefront - Elite Squadron (USA) (En,Fr,Es).chd" sha1="7d5a459d1a90b2b64602eacb8093f35bb91a65ff" />
+	</machine>
+	<machine name="Star Wars - Battlefront - Renegade Squadron (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Star Wars - Battlefront - Renegade Squadron (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="Star Wars - Battlefront - Renegade Squadron (Europe) (En,Fr,De,Es,It).chd" sha1="9e48ea2700a38ffd875f077de8ff2cc708f20588" />
+	</machine>
+	<machine name="Star Wars - Battlefront - Renegade Squadron (Korea)">
+		<category>Games</category>
+		<description>Star Wars - Battlefront - Renegade Squadron (Korea)</description>
+		<disk name="Star Wars - Battlefront - Renegade Squadron (Korea).chd" sha1="ccf6a505d1d41c40b9d46a21b0abfdbb47ed10c0" />
+	</machine>
+	<machine name="Star Wars - Battlefront - Renegade Squadron (USA)">
+		<category>Games</category>
+		<description>Star Wars - Battlefront - Renegade Squadron (USA)</description>
+		<disk name="Star Wars - Battlefront - Renegade Squadron (USA).chd" sha1="bac87cc56d85b7f286354be2ac93ee69fab5f2dd" />
+	</machine>
 	<machine name="Star Wars - Battlefront II (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Star Wars - Battlefront II (Europe, Australia) (En,Fr,De,Es,It)</description>
@@ -12668,31 +12693,6 @@
 		<category>Games</category>
 		<description>Star Wars - The Force Unleashed (USA) (En,Fr)</description>
 		<disk name="Star Wars - The Force Unleashed (USA) (En,Fr).chd" sha1="4f08d71921ccb8e6ee099283f5609292093864ed" />
-	</machine>
-	<machine name="Star Wars Battlefront - Elite Squadron (Europe) (En,Fr,De,Es,It)">
-		<category>Games</category>
-		<description>Star Wars Battlefront - Elite Squadron (Europe) (En,Fr,De,Es,It)</description>
-		<disk name="Star Wars Battlefront - Elite Squadron (Europe) (En,Fr,De,Es,It).chd" sha1="1cffb7b208dc3b1ac170a9223b9540b694749cb9" />
-	</machine>
-	<machine name="Star Wars Battlefront - Elite Squadron (USA) (En,Fr,Es)">
-		<category>Games</category>
-		<description>Star Wars Battlefront - Elite Squadron (USA) (En,Fr,Es)</description>
-		<disk name="Star Wars Battlefront - Elite Squadron (USA) (En,Fr,Es).chd" sha1="7d5a459d1a90b2b64602eacb8093f35bb91a65ff" />
-	</machine>
-	<machine name="Star Wars Battlefront - Renegade Squadron (Europe) (En,Fr,De,Es,It)">
-		<category>Games</category>
-		<description>Star Wars Battlefront - Renegade Squadron (Europe) (En,Fr,De,Es,It)</description>
-		<disk name="Star Wars Battlefront - Renegade Squadron (Europe) (En,Fr,De,Es,It).chd" sha1="9e48ea2700a38ffd875f077de8ff2cc708f20588" />
-	</machine>
-	<machine name="Star Wars Battlefront - Renegade Squadron (Korea)">
-		<category>Games</category>
-		<description>Star Wars Battlefront - Renegade Squadron (Korea)</description>
-		<disk name="Star Wars Battlefront - Renegade Squadron (Korea).chd" sha1="ccf6a505d1d41c40b9d46a21b0abfdbb47ed10c0" />
-	</machine>
-	<machine name="Star Wars Battlefront - Renegade Squadron (USA)">
-		<category>Games</category>
-		<description>Star Wars Battlefront - Renegade Squadron (USA)</description>
-		<disk name="Star Wars Battlefront - Renegade Squadron (USA).chd" sha1="bac87cc56d85b7f286354be2ac93ee69fab5f2dd" />
 	</machine>
 	<machine name="Starry Sky - After Autumn Portable - Etsuran Shite Please - Etsu Plea 2 (Japan)">
 		<category>Bonus Discs</category>
@@ -13239,15 +13239,15 @@
 		<description>TalkMan (Japan, Asia) (En,Ja,Zh,Ko) (Microphone Doukonban)</description>
 		<disk name="TalkMan (Japan, Asia) (En,Ja,Zh,Ko) (Microphone Doukonban).chd" sha1="979940a1d5d4efd0c92c045416a230695b877d29" />
 	</machine>
+	<machine name="TalkMan Euro! TalkMan Europa Gengo Ban (Japan) (En,Ja,Fr,De,Es,It) (Microphone Doukonban)">
+		<category>Educational</category>
+		<description>TalkMan Euro! TalkMan Europa Gengo Ban (Japan) (En,Ja,Fr,De,Es,It) (Microphone Doukonban)</description>
+		<disk name="TalkMan Euro! TalkMan Europa Gengo Ban (Japan) (En,Ja,Fr,De,Es,It) (Microphone Doukonban).chd" sha1="1ad9eaf14ad0185e4b1b69c4aaee54d3edfa8e2f" />
+	</machine>
 	<machine name="TalkMan Euro! TalkMan Europa Gengo-ban (Japan) (En,Ja,Fr,De,Es,It)">
 		<category>Educational</category>
 		<description>TalkMan Euro! TalkMan Europa Gengo-ban (Japan) (En,Ja,Fr,De,Es,It)</description>
 		<disk name="TalkMan Euro! TalkMan Europa Gengo-ban (Japan) (En,Ja,Fr,De,Es,It).chd" sha1="eac139adfb7fe72f2a6d0d0892d97c26d68e84ac" />
-	</machine>
-	<machine name="TalkMan Euro! TalkMan Europa Gengo-ban (Japan) (Microphone Doukonban)">
-		<category>Educational</category>
-		<description>TalkMan Euro! TalkMan Europa Gengo-ban (Japan) (Microphone Doukonban)</description>
-		<disk name="TalkMan Euro! TalkMan Europa Gengo-ban (Japan) (Microphone Doukonban).chd" sha1="1ad9eaf14ad0185e4b1b69c4aaee54d3edfa8e2f" />
 	</machine>
 	<machine name="Talkman Yeongeohoehwa Sudajaeng English (Korea)">
 		<category>Educational</category>
@@ -13994,20 +13994,20 @@
 		<description>UEFA Euro 2008 - Austria-Switzerland (Europe) (Es,It)</description>
 		<disk name="UEFA Euro 2008 - Austria-Switzerland (Europe) (Es,It).chd" sha1="cd64be193a8a2f7d540368ab553b32458ab20dd2" />
 	</machine>
-	<machine name="UEFA Euro 2008 - Austria-Switzerland (USA)">
+	<machine name="UEFA Euro 2008 - Austria-Switzerland (USA) (En,Fr)">
 		<category>Games</category>
-		<description>UEFA Euro 2008 - Austria-Switzerland (USA)</description>
-		<disk name="UEFA Euro 2008 - Austria-Switzerland (USA).chd" sha1="d36e534d78cd588fee78243d96a343de482f3160" />
+		<description>UEFA Euro 2008 - Austria-Switzerland (USA) (En,Fr)</description>
+		<disk name="UEFA Euro 2008 - Austria-Switzerland (USA) (En,Fr).chd" sha1="d36e534d78cd588fee78243d96a343de482f3160" />
 	</machine>
 	<machine name="UFC Undisputed 2010 (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>UFC Undisputed 2010 (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="UFC Undisputed 2010 (Europe) (En,Fr,De,Es,It).chd" sha1="62a6da86c8cb8475d9c85656a986c71fd4d7b720" />
 	</machine>
-	<machine name="UFC Undisputed 2010 (USA)">
+	<machine name="UFC Undisputed 2010 (USA) (En,Fr)">
 		<category>Games</category>
-		<description>UFC Undisputed 2010 (USA)</description>
-		<disk name="UFC Undisputed 2010 (USA).chd" sha1="c0a830bf382519f88494fc21b12752ff89595c08" />
+		<description>UFC Undisputed 2010 (USA) (En,Fr)</description>
+		<disk name="UFC Undisputed 2010 (USA) (En,Fr).chd" sha1="c0a830bf382519f88494fc21b12752ff89595c08" />
 	</machine>
 	<machine name="Ultimate Block Party (USA)">
 		<category>Games</category>
@@ -14319,30 +14319,30 @@
 		<description>Virtua Tennis 3 (USA) (En,Ja,Fr,De,Es,It)</description>
 		<disk name="Virtua Tennis 3 (USA) (En,Ja,Fr,De,Es,It).chd" sha1="65dd8847466869a10fe4f45f32270496c705a1dd" />
 	</machine>
-	<machine name="Vitamin R (Japan)">
+	<machine name="VitaminR (Japan)">
 		<category>Games</category>
-		<description>Vitamin R (Japan)</description>
-		<disk name="Vitamin R (Japan).chd" sha1="82f56a69197ae3c4fc4fb15352ab72a6787315e0" />
+		<description>VitaminR (Japan)</description>
+		<disk name="VitaminR (Japan).chd" sha1="82f56a69197ae3c4fc4fb15352ab72a6787315e0" />
 	</machine>
-	<machine name="Vitamin X - Detective B6 (Japan)">
+	<machine name="VitaminX - Detective B6 (Japan) (v1.01)">
 		<category>Games</category>
-		<description>Vitamin X - Detective B6 (Japan)</description>
-		<disk name="Vitamin X - Detective B6 (Japan).chd" sha1="28520d005668b847c5e27913236ab13f35908747" />
+		<description>VitaminX - Detective B6 (Japan) (v1.01)</description>
+		<disk name="VitaminX - Detective B6 (Japan) (v1.01).chd" sha1="28520d005668b847c5e27913236ab13f35908747" />
 	</machine>
-	<machine name="Vitamin X - Evolution Plus (Japan)">
+	<machine name="VitaminX - Evolution Plus (Japan) (v1.01)">
 		<category>Games</category>
-		<description>Vitamin X - Evolution Plus (Japan)</description>
-		<disk name="Vitamin X - Evolution Plus (Japan).chd" sha1="445356c634228adb48210da191055a4c435c35a6" />
+		<description>VitaminX - Evolution Plus (Japan) (v1.01)</description>
+		<disk name="VitaminX - Evolution Plus (Japan) (v1.01).chd" sha1="445356c634228adb48210da191055a4c435c35a6" />
 	</machine>
-	<machine name="Vitamin X to Z (Japan)">
+	<machine name="VitaminXtoZ (Japan)">
 		<category>Games</category>
-		<description>Vitamin X to Z (Japan)</description>
-		<disk name="Vitamin X to Z (Japan).chd" sha1="0f9db2d139560583216da62b7c9fad5b9cf74b48" />
+		<description>VitaminXtoZ (Japan)</description>
+		<disk name="VitaminXtoZ (Japan).chd" sha1="0f9db2d139560583216da62b7c9fad5b9cf74b48" />
 	</machine>
-	<machine name="Vitamin Z Revolution (Japan)">
+	<machine name="VitaminZ Revolution (Japan)">
 		<category>Games</category>
-		<description>Vitamin Z Revolution (Japan)</description>
-		<disk name="Vitamin Z Revolution (Japan).chd" sha1="5ccd2b6c654dfb6f44c07e1b13df08b391ac121d" />
+		<description>VitaminZ Revolution (Japan)</description>
+		<disk name="VitaminZ Revolution (Japan).chd" sha1="5ccd2b6c654dfb6f44c07e1b13df08b391ac121d" />
 	</machine>
 	<machine name="Vulcanus - Seek &amp; Destroy (Japan)">
 		<category>Games</category>
@@ -14504,10 +14504,10 @@
 		<description>Who Wants to Be a Millionaire - Party Edition (Europe)</description>
 		<disk name="Who Wants to Be a Millionaire - Party Edition (Europe).chd" sha1="06e5f55429acfb340c5874b9e3dd64c2dc327c3d" />
 	</machine>
-	<machine name="Wild Arms - Crossfire (Asia)">
+	<machine name="Wild Arms - Crossfire (Japan, Asia)">
 		<category>Games</category>
-		<description>Wild Arms - Crossfire (Asia)</description>
-		<disk name="Wild Arms - Crossfire (Asia).chd" sha1="bac54d7fe4153d787f638dc8bc890e893e9bffdd" />
+		<description>Wild Arms - Crossfire (Japan, Asia)</description>
+		<disk name="Wild Arms - Crossfire (Japan, Asia).chd" sha1="bac54d7fe4153d787f638dc8bc890e893e9bffdd" />
 	</machine>
 	<machine name="Wild Arms XF (Europe)">
 		<category>Games</category>

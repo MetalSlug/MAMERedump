@@ -3,7 +3,7 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast</name>
-		<description>MAME Redump - Sega - Dreamcast - Discs (1489) (2024-12-23 15-29-59)</description>
+		<description>MAME Redump - Sega - Dreamcast - Discs (1502) (2025-07-17 09-57-03)</description>
 		<version>0.274</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
@@ -13,11 +13,6 @@
 		<category>Multimedia</category>
 		<description>09 Chairs (Japan)</description>
 		<disk name="09 Chairs (Japan).chd" sha1="ef765c32f36e8926768f2078049f7189b4f2d9cd" />
-	</machine>
-	<machine name="102 Dalmatians - Puppies to the Rescue (UK)">
-		<category>Games</category>
-		<description>102 Dalmatians - Puppies to the Rescue (UK)</description>
-		<disk name="102 Dalmatians - Puppies to the Rescue (UK).chd" sha1="6af9a35e9cbea6c677543dc11d00da9dca6a972f" />
 	</machine>
 	<machine name="18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es)">
 		<category>Games</category>
@@ -141,12 +136,12 @@
 		<description>Aero Dancing featuring Blue Impulse (Japan) (Tentou Taikenban)</description>
 		<disk name="Aero Dancing featuring Blue Impulse (Japan) (Tentou Taikenban).chd" sha1="5d1c79f0b2870a9b8d21070be4909d9c88367118" />
 	</machine>
-	<machine name="Aero Dancing i - Jikai-saku made Matemasen (Japan)">
+	<machine name="Aero Dancing i - Jikai Saku made Matemasen (Japan)">
 		<category>Games</category>
-		<description>Aero Dancing i - Jikai-saku made Matemasen (Japan)</description>
+		<description>Aero Dancing i - Jikai Saku made Matemasen (Japan)</description>
 		<year>2001</year>
 		<manufacturer>CRI</manufacturer>
-		<disk name="Aero Dancing i - Jikai-saku made Matemasen (Japan).chd" sha1="a06d7f06ba0b94785ea40cbd29119ba1061a738f" />
+		<disk name="Aero Dancing i - Jikai Saku made Matemasen (Japan).chd" sha1="a06d7f06ba0b94785ea40cbd29119ba1061a738f" />
 	</machine>
 	<machine name="Aero Dancing i (Japan)">
 		<category>Games</category>
@@ -388,10 +383,10 @@
 		<description>Baldr Force EXE (Japan)</description>
 		<disk name="Baldr Force EXE (Japan).chd" sha1="ff09b6bb273a62f57316a932e7eaefda6e1663bf" />
 	</machine>
-	<machine name="Bang! Gunship Elite (USA)">
+	<machine name="Bang! Gunship Elite (USA) (En,Fr,De)">
 		<category>Games</category>
-		<description>Bang! Gunship Elite (USA)</description>
-		<disk name="Bang! Gunship Elite (USA).chd" sha1="540dd174db23f08b8b0470bf9f27d9022ebac090" />
+		<description>Bang! Gunship Elite (USA) (En,Fr,De)</description>
+		<disk name="Bang! Gunship Elite (USA) (En,Fr,De).chd" sha1="540dd174db23f08b8b0470bf9f27d9022ebac090" />
 	</machine>
 	<machine name="Bangai-O (Europe) (En,Fr,De)">
 		<category>Games</category>
@@ -875,10 +870,10 @@
 		<description>ChuChu Rocket! (USA) (En,Ja,Fr,De,Es)</description>
 		<disk name="ChuChu Rocket! (USA) (En,Ja,Fr,De,Es).chd" sha1="cbd87699cf9c479023ed8444a58fc8c3b73c07a9" />
 	</machine>
-	<machine name="Cleopatra Fortune (Japan) (Rev A)">
+	<machine name="Cleopatra Fortune (Japan)">
 		<category>Games</category>
-		<description>Cleopatra Fortune (Japan) (Rev A)</description>
-		<disk name="Cleopatra Fortune (Japan) (Rev A).chd" sha1="d7eeb873340ec764b05ca66eee4dd386174085c7" />
+		<description>Cleopatra Fortune (Japan)</description>
+		<disk name="Cleopatra Fortune (Japan).chd" sha1="d7eeb873340ec764b05ca66eee4dd386174085c7" />
 	</machine>
 	<machine name="Climax Landers - Motte ke! Minige Campaign (Japan)">
 		<category>Applications</category>
@@ -928,7 +923,7 @@
 		<category>Games</category>
 		<description>Confidential Mission (Japan) (En,Ja,Fr,De,Es)</description>
 		<year>2001</year>
-		<manufacturer>a</manufacturer>
+		<manufacturer>Sega</manufacturer>
 		<disk name="Confidential Mission (Japan) (En,Ja,Fr,De,Es).chd" sha1="be5a2cc59ee335b29821607c617c19ade454fcea" />
 	</machine>
 	<machine name="Confidential Mission (USA)">
@@ -1400,10 +1395,10 @@
 		<description>Disney-Pixar Les Aventures de Buzz L'Eclair (France)</description>
 		<disk name="Disney-Pixar Les Aventures de Buzz L'Eclair (France).chd" sha1="3c70e93a258369dc6a37a378bb055b9c2c5a6a82" />
 	</machine>
-	<machine name="Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse! (France)">
+	<machine name="Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse ! (France)">
 		<category>Games</category>
-		<description>Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse! (France)</description>
-		<disk name="Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse! (France).chd" sha1="7841a3e04b48a71a4cf989cada9feb5ba0e7bb73" />
+		<description>Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse ! (France)</description>
+		<disk name="Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse ! (France).chd" sha1="7841a3e04b48a71a4cf989cada9feb5ba0e7bb73" />
 	</machine>
 	<machine name="Disney-Pixar Toy Story 2 - Buzz Lightyear eilt zur Hilfe! (Germany)">
 		<category>Games</category>
@@ -1424,6 +1419,11 @@
 		<category>Games</category>
 		<description>Disney's 102 Dalmatians - Puppies to the Rescue (Europe) (Fr,De,Es,It)</description>
 		<disk name="Disney's 102 Dalmatians - Puppies to the Rescue (Europe) (Fr,De,Es,It).chd" sha1="9695a6bb9a13d7cfdb37747fc305cc44d9efb164" />
+	</machine>
+	<machine name="Disney's 102 Dalmatians - Puppies to the Rescue (UK)">
+		<category>Games</category>
+		<description>Disney's 102 Dalmatians - Puppies to the Rescue (UK)</description>
+		<disk name="Disney's 102 Dalmatians - Puppies to the Rescue (UK).chd" sha1="6af9a35e9cbea6c677543dc11d00da9dca6a972f" />
 	</machine>
 	<machine name="Disney's 102 Dalmatians - Puppies to the Rescue (USA)">
 		<category>Games</category>
@@ -1626,10 +1626,10 @@
 		<description>Dream Passport Premier (Japan)</description>
 		<disk name="Dream Passport Premier (Japan).chd" sha1="7f9e1c97c95a8623b849497e0afca5213c9939d2" />
 	</machine>
-	<machine name="Dream Passport Ver.1.01 (Japan) (Rev A)">
+	<machine name="Dream Passport Ver.1.01 (Japan)">
 		<category>Applications</category>
-		<description>Dream Passport Ver.1.01 (Japan) (Rev A)</description>
-		<disk name="Dream Passport Ver.1.01 (Japan) (Rev A).chd" sha1="902124f7980f5e3661f51e96a5aa9d034b1bfd17" />
+		<description>Dream Passport Ver.1.01 (Japan)</description>
+		<disk name="Dream Passport Ver.1.01 (Japan).chd" sha1="902124f7980f5e3661f51e96a5aa9d034b1bfd17" />
 	</machine>
 	<machine name="Dream Preview Vol. 0 (Japan)">
 		<category>Demos</category>
@@ -1698,10 +1698,10 @@
 		<description>Dreamcast Express Vol. 4 (Japan) (Disc 1) (Trial Disk)</description>
 		<disk name="Dreamcast Express Vol. 4 (Japan) (Disc 1) (Trial Disk).chd" sha1="1ecd0f86ac4a004c01c86256343082d5280d2982" />
 	</machine>
-	<machine name="Dreamcast Express Vol. 4 (Japan) (Disc 2) (Tokyo Game Show '99 Autumn - Special Disk)">
+	<machine name="Dreamcast Express Vol. 4 (Japan) (Disc 2) (Tokyo Game Show'99 Autumn - Special Disk)">
 		<category>Demos</category>
-		<description>Dreamcast Express Vol. 4 (Japan) (Disc 2) (Tokyo Game Show '99 Autumn - Special Disk)</description>
-		<disk name="Dreamcast Express Vol. 4 (Japan) (Disc 2) (Tokyo Game Show '99 Autumn - Special Disk).chd" sha1="c70468d07f4a0779724155d50a580bf95312c732" />
+		<description>Dreamcast Express Vol. 4 (Japan) (Disc 2) (Tokyo Game Show'99 Autumn - Special Disk)</description>
+		<disk name="Dreamcast Express Vol. 4 (Japan) (Disc 2) (Tokyo Game Show'99 Autumn - Special Disk).chd" sha1="c70468d07f4a0779724155d50a580bf95312c732" />
 	</machine>
 	<machine name="Dreamcast Express Vol. 5 (Japan) (Disc 1) (Trial Disk)">
 		<category>Demos</category>
@@ -1864,124 +1864,124 @@
 		<disk name="Dreamon Volume 1 (Europe) (En,Fr,De,Es).chd" sha1="c7532a577e28764f2e7e8f7f00c4e94d60a5fa3d" />
 	</machine>
 	<machine name="Dreamon Volume 10 (Europe) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 10 (Europe) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 10 (Europe) (En,Fr,De,Es).chd" sha1="ea194f56d8d01a538619e19aa721ed4171220247" />
 	</machine>
 	<machine name="Dreamon Volume 10 (France)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 10 (France)</description>
 		<year>2000</year>
 		<manufacturer>Sega</manufacturer>
 		<disk name="Dreamon Volume 10 (France).chd" sha1="c74d3cb406df16e3cf3cda2b6ad8648ee9869677" />
 	</machine>
 	<machine name="Dreamon Volume 10 (Germany) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 10 (Germany) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 10 (Germany) (En,Fr,De,Es).chd" sha1="18bfacaf1bea040b383c4552649ab4665513f35e" />
 	</machine>
 	<machine name="Dreamon Volume 11 (Europe) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 11 (Europe) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 11 (Europe) (En,Fr,De,Es).chd" sha1="e013dd16a2d2739eb969f62883e6737b8b698fce" />
 	</machine>
 	<machine name="Dreamon Volume 12 (Europe) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 12 (Europe) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 12 (Europe) (En,Fr,De,Es).chd" sha1="b6af5d3887e3e18cd9ca2fc8cdd14c6888204344" />
 	</machine>
 	<machine name="Dreamon Volume 13 (Europe) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 13 (Europe) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 13 (Europe) (En,Fr,De,Es).chd" sha1="0f3edad317c0f0de4bdf08c607ecb0dcb924748b" />
 	</machine>
 	<machine name="Dreamon Volume 14 (Europe) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 14 (Europe) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 14 (Europe) (En,Fr,De,Es).chd" sha1="97d8e21cf9247f9c51a6e5b3b137a80df155bfba" />
 	</machine>
 	<machine name="Dreamon Volume 15 (Europe) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 15 (Europe) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 15 (Europe) (En,Fr,De,Es).chd" sha1="7a1f2d529e255d6fe60fb2357f7c3685a83abcbe" />
 	</machine>
 	<machine name="Dreamon Volume 16 (Europe) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 16 (Europe) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 16 (Europe) (En,Fr,De,Es).chd" sha1="f70db076a9541c6423104c5b3bab38b40f6439d5" />
 	</machine>
 	<machine name="Dreamon Volume 17 (Europe) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 17 (Europe) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 17 (Europe) (En,Fr,De,Es).chd" sha1="95b015201f91a0d24780b481e893ba4adc492294" />
 	</machine>
 	<machine name="Dreamon Volume 18 (Europe) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 18 (Europe) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 18 (Europe) (En,Fr,De,Es).chd" sha1="dd9bfdbc9e89e665eeb9e2f4bf3886643dca88dd" />
 	</machine>
 	<machine name="Dreamon Volume 19 (Europe) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 19 (Europe) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 19 (Europe) (En,Fr,De,Es).chd" sha1="d4b2b1364420eec52e3a0bed26764bef3f04d397" />
 	</machine>
 	<machine name="Dreamon Volume 2 (Europe) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 2 (Europe) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 2 (Europe) (En,Fr,De,Es).chd" sha1="134e348b5242a91d6a2227750c49b1ca0d60778f" />
 	</machine>
 	<machine name="Dreamon Volume 20 (Europe) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 20 (Europe) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 20 (Europe) (En,Fr,De,Es).chd" sha1="b6f37d6feb382511b241a15965c5b112f83ec740" />
 	</machine>
 	<machine name="Dreamon Volume 21 (Europe) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 21 (Europe) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 21 (Europe) (En,Fr,De,Es).chd" sha1="83dea15dd9639172e9c6ff26edaee80613831ce5" />
 	</machine>
 	<machine name="Dreamon Volume 22 (Europe) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 22 (Europe) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 22 (Europe) (En,Fr,De,Es).chd" sha1="8a477e64ed49d3de0793527e1ad54dfff10ca3ae" />
 	</machine>
 	<machine name="Dreamon Volume 3 (Europe) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 3 (Europe) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 3 (Europe) (En,Fr,De,Es).chd" sha1="fdaec9e4e302bb8e001b15b2725cf65a1bf48fb1" />
 	</machine>
 	<machine name="Dreamon Volume 4 (Europe) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 4 (Europe) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 4 (Europe) (En,Fr,De,Es).chd" sha1="3e15307387805cea05b475172334a4ec66dc4793" />
 	</machine>
 	<machine name="Dreamon Volume 5 (Europe) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 5 (Europe) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 5 (Europe) (En,Fr,De,Es).chd" sha1="b0bd9415763e66c195964e0fb3d975a5e43e080a" />
 	</machine>
 	<machine name="Dreamon Volume 6 (Europe) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 6 (Europe) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 6 (Europe) (En,Fr,De,Es).chd" sha1="35cc555f42f9d415c487aa6f0488aa6711103e98" />
 	</machine>
 	<machine name="Dreamon Volume 7 &amp; 8 (France)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 7 &amp; 8 (France)</description>
 		<disk name="Dreamon Volume 7 &amp; 8 (France).chd" sha1="64ddb52f66289d96160d55ed284bc809cb30f183" />
 	</machine>
 	<machine name="Dreamon Volume 7 (Europe) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 7 (Europe) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 7 (Europe) (En,Fr,De,Es).chd" sha1="c8bdc5adea85768d03dd5ab5a154c0ee14d32c38" />
 	</machine>
 	<machine name="Dreamon Volume 8 (Europe) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 8 (Europe) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 8 (Europe) (En,Fr,De,Es).chd" sha1="c3fc948f35349d60b5e4f7b51575855a5cc766c1" />
 	</machine>
 	<machine name="Dreamon Volume 9 (Europe) (En,Fr,De,Es)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Dreamon Volume 9 (Europe) (En,Fr,De,Es)</description>
 		<disk name="Dreamon Volume 9 (Europe) (En,Fr,De,Es).chd" sha1="b9ab7045fbaac3a81f3f0b3ababf23cc90dd5a31" />
 	</machine>
@@ -2032,15 +2032,15 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="Dynamite Deka 2 (Japan).chd" sha1="5667e2f3281a9f526ee804516039833a69484144" />
 	</machine>
-	<machine name="Dynamite Deka 2 (Japan) (Demo 1)">
+	<machine name="Dynamite Deka 2 (Japan) (Taikenban) (610-7146)">
 		<category>Demos</category>
-		<description>Dynamite Deka 2 (Japan) (Demo 1)</description>
-		<disk name="Dynamite Deka 2 (Japan) (Demo 1).chd" sha1="d3400e0448716fc03b6c3d76b3ee2c02e1ccf44f" />
+		<description>Dynamite Deka 2 (Japan) (Taikenban) (610-7146)</description>
+		<disk name="Dynamite Deka 2 (Japan) (Taikenban) (610-7146).chd" sha1="d3400e0448716fc03b6c3d76b3ee2c02e1ccf44f" />
 	</machine>
-	<machine name="Dynamite Deka 2 (Japan) (Demo 2)">
+	<machine name="Dynamite Deka 2 (Japan) (Taikenban) (610-7150)">
 		<category>Demos</category>
-		<description>Dynamite Deka 2 (Japan) (Demo 2)</description>
-		<disk name="Dynamite Deka 2 (Japan) (Demo 2).chd" sha1="d5fb218d88766c7f34e2f13707f3bb1db7e290bb" />
+		<description>Dynamite Deka 2 (Japan) (Taikenban) (610-7150)</description>
+		<disk name="Dynamite Deka 2 (Japan) (Taikenban) (610-7150).chd" sha1="d5fb218d88766c7f34e2f13707f3bb1db7e290bb" />
 	</machine>
 	<machine name="Ecco the Dolphin - Defender of the Future (Europe) (En,Fr,De,Es)">
 		<category>Games</category>
@@ -2553,10 +2553,10 @@
 		<description>Fur Fighters (Europe) (En,Fr,De,Es)</description>
 		<disk name="Fur Fighters (Europe) (En,Fr,De,Es).chd" sha1="3357eaeac01f7f7f58e0e60117bab9a6c4030ec1" />
 	</machine>
-	<machine name="Fur Fighters (USA) (En,Fr,De,Es) (Rev B)">
+	<machine name="Fur Fighters (USA) (En,Fr,De,Es)">
 		<category>Games</category>
-		<description>Fur Fighters (USA) (En,Fr,De,Es) (Rev B)</description>
-		<disk name="Fur Fighters (USA) (En,Fr,De,Es) (Rev B).chd" sha1="5074ff6470da50414f6fe9229ec291196fe83298" />
+		<description>Fur Fighters (USA) (En,Fr,De,Es)</description>
+		<disk name="Fur Fighters (USA) (En,Fr,De,Es).chd" sha1="5074ff6470da50414f6fe9229ec291196fe83298" />
 	</machine>
 	<machine name="Fur Fighters + Dead or Alive 2 (Europe) (Demo)">
 		<category>Demos</category>
@@ -2595,10 +2595,10 @@
 		<description>GameShark CDX (USA) (Unl) (Final Version)</description>
 		<disk name="GameShark CDX (USA) (Unl) (Final Version).chd" sha1="97817e9e153f802a40eaf262199ffa82cf940fe0" />
 	</machine>
-	<machine name="GameShark Lite Version 4.0 (USA) (Unl)">
+	<machine name="GameShark Lite (USA) (Unl)">
 		<category>Applications</category>
-		<description>GameShark Lite Version 4.0 (USA) (Unl)</description>
-		<disk name="GameShark Lite Version 4.0 (USA) (Unl).chd" sha1="8a4158274ceab8c275637eeab62228acf3b5c041" />
+		<description>GameShark Lite (USA) (Unl)</description>
+		<disk name="GameShark Lite (USA) (Unl).chd" sha1="8a4158274ceab8c275637eeab62228acf3b5c041" />
 	</machine>
 	<machine name="GameShark Video Game Enhancer - Upgrade Disk (USA) (Unl)">
 		<category>Applications</category>
@@ -2856,12 +2856,12 @@
 		<description>Grinch, The (USA) (En,Fr,Es)</description>
 		<disk name="Grinch, The (USA) (En,Fr,Es).chd" sha1="197fecdee997365b422184b52aab09a51aec26c5" />
 	</machine>
-	<machine name="Guilty Gear X (Japan) (Rev A)">
+	<machine name="Guilty Gear X (Japan)">
 		<category>Games</category>
-		<description>Guilty Gear X (Japan) (Rev A)</description>
+		<description>Guilty Gear X (Japan)</description>
 		<year>2000</year>
 		<manufacturer>Sammy</manufacturer>
-		<disk name="Guilty Gear X (Japan) (Rev A).chd" sha1="6f2d7b2da9300e3db6cf9a4921af8dca728b3679" />
+		<disk name="Guilty Gear X (Japan).chd" sha1="6f2d7b2da9300e3db6cf9a4921af8dca728b3679" />
 	</machine>
 	<machine name="Guilty Gear X (Japan) (Taikenban)">
 		<category>Demos</category>
@@ -3165,12 +3165,12 @@
 		<description>Imperial no Taka - Fighter of Zero (Japan)</description>
 		<disk name="Imperial no Taka - Fighter of Zero (Japan).chd" sha1="77932411c375b86f653fb8d50fd6c7bfd1bb8cce" />
 	</machine>
-	<machine name="Incoming - Jinrui Saishuu Kessen (Japan)">
+	<machine name="Incoming - Jinrui Saishuu Kessen (Japan) (Rev A)">
 		<category>Games</category>
-		<description>Incoming - Jinrui Saishuu Kessen (Japan)</description>
+		<description>Incoming - Jinrui Saishuu Kessen (Japan) (Rev A)</description>
 		<year>1999</year>
 		<manufacturer>Interplay</manufacturer>
-		<disk name="Incoming - Jinrui Saishuu Kessen (Japan).chd" sha1="c718d45279efdf9397bc7bed2c79d4bc4174a2d5" />
+		<disk name="Incoming - Jinrui Saishuu Kessen (Japan) (Rev A).chd" sha1="c718d45279efdf9397bc7bed2c79d4bc4174a2d5" />
 	</machine>
 	<machine name="Incoming (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -3508,10 +3508,10 @@
 		<description>Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Japan)</description>
 		<disk name="Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Japan).chd" sha1="674caf72c5005baaa4e9764ab0ca63dbfa8a921f" />
 	</machine>
-	<machine name="Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Japan) (2001-nen Taiouban) (Rev A)">
+	<machine name="Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Japan) (2001-nen Taiouban)">
 		<category>Games</category>
-		<description>Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Japan) (2001-nen Taiouban) (Rev A)</description>
-		<disk name="Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Japan) (2001-nen Taiouban) (Rev A).chd" sha1="db7edc52b3cf33ab7d33d26219c5ec315d20129f" />
+		<description>Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Japan) (2001-nen Taiouban)</description>
+		<disk name="Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Japan) (2001-nen Taiouban).chd" sha1="db7edc52b3cf33ab7d33d26219c5ec315d20129f" />
 	</machine>
 	<machine name="Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Japan) (Rev A)">
 		<category>Games</category>
@@ -4112,10 +4112,10 @@
 		<description>MSR - Metropolis Street Racer (Europe) (En,Fr,De,Es) (Rev B)</description>
 		<disk name="MSR - Metropolis Street Racer (Europe) (En,Fr,De,Es) (Rev B).chd" sha1="07fbf7b645d9e020feb9041a50681096242ddeb4" />
 	</machine>
-	<machine name="MSR - Metropolis Street Racer (USA) (Rev A)">
+	<machine name="MSR - Metropolis Street Racer (USA)">
 		<category>Games</category>
-		<description>MSR - Metropolis Street Racer (USA) (Rev A)</description>
-		<disk name="MSR - Metropolis Street Racer (USA) (Rev A).chd" sha1="c2873450c742e610c9d98825db7391daaa5025e9" />
+		<description>MSR - Metropolis Street Racer (USA)</description>
+		<disk name="MSR - Metropolis Street Racer (USA).chd" sha1="c2873450c742e610c9d98825db7391daaa5025e9" />
 	</machine>
 	<machine name="MSR Opel Challenge (Europe) (Beta) (1999-05-19)">
 		<category>Preproduction</category>
@@ -4247,10 +4247,10 @@
 		<description>Neo XYX (Europe) (Unl)</description>
 		<disk name="Neo XYX (Europe) (Unl).chd" sha1="db5f3eba7858f5b0df66cd9682d6a42184267a99" />
 	</machine>
-	<machine name="Neppachi - 10-ren Chan de Las Vegas Ryokou (Japan) (Rev A)">
+	<machine name="Neppachi - 10-renchan de Las Vegas Ryokou (Japan) (Rev A)">
 		<category>Games</category>
-		<description>Neppachi - 10-ren Chan de Las Vegas Ryokou (Japan) (Rev A)</description>
-		<disk name="Neppachi - 10-ren Chan de Las Vegas Ryokou (Japan) (Rev A).chd" sha1="c680a6a18052fabb756833d31689e42ad25a82c2" />
+		<description>Neppachi - 10-renchan de Las Vegas Ryokou (Japan) (Rev A)</description>
+		<disk name="Neppachi - 10-renchan de Las Vegas Ryokou (Japan) (Rev A).chd" sha1="c680a6a18052fabb756833d31689e42ad25a82c2" />
 	</machine>
 	<machine name="Neppachi II - CR Harenchi Gakuen (Japan)">
 		<category>Games</category>
@@ -4332,10 +4332,10 @@
 		<description>Never 7 - The End of Infinity (Japan)</description>
 		<disk name="Never 7 - The End of Infinity (Japan).chd" sha1="690180159134d9ca6f65f85afb2dee0eb2b6bf79" />
 	</machine>
-	<machine name="Newpowered Generation 1 (UK)">
+	<machine name="Newpowered Generation 1 (UK) (Unl)">
 		<category>Demos</category>
-		<description>Newpowered Generation 1 (UK)</description>
-		<disk name="Newpowered Generation 1 (UK).chd" sha1="413c6bb293e3f865f48ddd6b5610b20a2bf5da33" />
+		<description>Newpowered Generation 1 (UK) (Unl)</description>
+		<disk name="Newpowered Generation 1 (UK) (Unl).chd" sha1="413c6bb293e3f865f48ddd6b5610b20a2bf5da33" />
 	</machine>
 	<machine name="Next Tetris, The - On-Line Edition (USA)">
 		<category>Games</category>
@@ -4483,52 +4483,52 @@
 		<disk name="Non Casual Encounter - Prologue (USA, Europe) (Unl).chd" sha1="184b45bda0562652ff3700c45be5889f6399b25c" />
 	</machine>
 	<machine name="Official Sega Dreamcast Magazine Vol. 10 - January 2001 (USA)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Official Sega Dreamcast Magazine Vol. 10 - January 2001 (USA)</description>
 		<disk name="Official Sega Dreamcast Magazine Vol. 10 - January 2001 (USA).chd" sha1="5f95ddca02f7527bfed88d0d0c4e79a6e163d8c2" />
 	</machine>
 	<machine name="Official Sega Dreamcast Magazine Vol. 11 - February 2001 (USA)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Official Sega Dreamcast Magazine Vol. 11 - February 2001 (USA)</description>
 		<disk name="Official Sega Dreamcast Magazine Vol. 11 - February 2001 (USA).chd" sha1="f19bf04788f11ff36868f3ae6cdce7304fabb6fe" />
 	</machine>
 	<machine name="Official Sega Dreamcast Magazine Vol. 2 - November 1999 (USA)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Official Sega Dreamcast Magazine Vol. 2 - November 1999 (USA)</description>
 		<disk name="Official Sega Dreamcast Magazine Vol. 2 - November 1999 (USA).chd" sha1="fddf870ca800bd59f6cd2effdfe6c9589333d336" />
 	</machine>
 	<machine name="Official Sega Dreamcast Magazine Vol. 3 - January 2000 (USA)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Official Sega Dreamcast Magazine Vol. 3 - January 2000 (USA)</description>
 		<disk name="Official Sega Dreamcast Magazine Vol. 3 - January 2000 (USA).chd" sha1="4788f0cdda36fea86b8fb1b9b5030840cf1c6cae" />
 	</machine>
 	<machine name="Official Sega Dreamcast Magazine Vol. 4 - March 2000 (USA)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Official Sega Dreamcast Magazine Vol. 4 - March 2000 (USA)</description>
 		<disk name="Official Sega Dreamcast Magazine Vol. 4 - March 2000 (USA).chd" sha1="0c520e8fd10d0cb711ca7bad626ea9010c3c00da" />
 	</machine>
 	<machine name="Official Sega Dreamcast Magazine Vol. 5 - May 2000 (USA)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Official Sega Dreamcast Magazine Vol. 5 - May 2000 (USA)</description>
 		<disk name="Official Sega Dreamcast Magazine Vol. 5 - May 2000 (USA).chd" sha1="c05cd223f734e710c64aedcb2ea0fa40774c963b" />
 	</machine>
 	<machine name="Official Sega Dreamcast Magazine Vol. 6 - July 2000 (USA)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Official Sega Dreamcast Magazine Vol. 6 - July 2000 (USA)</description>
 		<disk name="Official Sega Dreamcast Magazine Vol. 6 - July 2000 (USA).chd" sha1="4a8298d2ba847c4b6831d587dfcd1b84f72bfaf0" />
 	</machine>
 	<machine name="Official Sega Dreamcast Magazine Vol. 7 - September 2000 (USA)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Official Sega Dreamcast Magazine Vol. 7 - September 2000 (USA)</description>
 		<disk name="Official Sega Dreamcast Magazine Vol. 7 - September 2000 (USA).chd" sha1="21aaefd005c19ca4e0dacfb5d38d81c017f17298" />
 	</machine>
 	<machine name="Official Sega Dreamcast Magazine Vol. 8 - November 2000 (USA)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Official Sega Dreamcast Magazine Vol. 8 - November 2000 (USA)</description>
 		<disk name="Official Sega Dreamcast Magazine Vol. 8 - November 2000 (USA).chd" sha1="65c03c22ca4a8674a69353127a3df0157454370c" />
 	</machine>
 	<machine name="Official Sega Dreamcast Magazine Vol. 9 - December 2000 (USA)">
-		<category>Demos</category>
+		<category>Coverdiscs</category>
 		<description>Official Sega Dreamcast Magazine Vol. 9 - December 2000 (USA)</description>
 		<disk name="Official Sega Dreamcast Magazine Vol. 9 - December 2000 (USA).chd" sha1="c4c130dac0e4376e003b56fa849ba2b544ed3ab2" />
 	</machine>
@@ -4547,15 +4547,15 @@
 		<description>Ooga Booga (USA)</description>
 		<disk name="Ooga Booga (USA).chd" sha1="1c8b5aa9aba9edcdf7a2ad30725d826ad10cf415" />
 	</machine>
-	<machine name="Oogami Ichirou Funtou-ki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 1)">
+	<machine name="Oogami Ichirou Funtouki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 1)">
 		<category>Games</category>
-		<description>Oogami Ichirou Funtou-ki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 1)</description>
-		<disk name="Oogami Ichirou Funtou-ki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 1).chd" sha1="bd14b5166792a97eccd659ba3d5666e712fff4ac" />
+		<description>Oogami Ichirou Funtouki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 1)</description>
+		<disk name="Oogami Ichirou Funtouki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 1).chd" sha1="bd14b5166792a97eccd659ba3d5666e712fff4ac" />
 	</machine>
-	<machine name="Oogami Ichirou Funtou-ki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 2)">
+	<machine name="Oogami Ichirou Funtouki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 2)">
 		<category>Games</category>
-		<description>Oogami Ichirou Funtou-ki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 2)</description>
-		<disk name="Oogami Ichirou Funtou-ki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 2).chd" sha1="7d76b6ea6baf2d63e2cea217cd7f264d0cf14e88" />
+		<description>Oogami Ichirou Funtouki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 2)</description>
+		<disk name="Oogami Ichirou Funtouki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 2).chd" sha1="7d76b6ea6baf2d63e2cea217cd7f264d0cf14e88" />
 	</machine>
 	<machine name="Orange Pocket - Cornet (Japan)">
 		<category>Games</category>
@@ -4647,10 +4647,10 @@
 		<description>PenPen TriIcelon (USA)</description>
 		<disk name="PenPen TriIcelon (USA).chd" sha1="5bd22ec39cd401652896c2642a9dfbf570bd2f62" />
 	</machine>
-	<machine name="Phantasy Star Online (Europe) (En,Ja,Fr,De,Es) (Rev 1)">
+	<machine name="Phantasy Star Online (Europe) (En,Ja,Fr,De,Es)">
 		<category>Games</category>
-		<description>Phantasy Star Online (Europe) (En,Ja,Fr,De,Es) (Rev 1)</description>
-		<disk name="Phantasy Star Online (Europe) (En,Ja,Fr,De,Es) (Rev 1).chd" sha1="3b9bb59d105f3d8a79969caece32180e2359329e" />
+		<description>Phantasy Star Online (Europe) (En,Ja,Fr,De,Es)</description>
+		<disk name="Phantasy Star Online (Europe) (En,Ja,Fr,De,Es).chd" sha1="3b9bb59d105f3d8a79969caece32180e2359329e" />
 	</machine>
 	<machine name="Phantasy Star Online (Japan) (Demo)">
 		<category>Demos</category>
@@ -4667,10 +4667,10 @@
 		<description>Phantasy Star Online (Japan) (Tentou-you Demo Movie)</description>
 		<disk name="Phantasy Star Online (Japan) (Tentou-you Demo Movie).chd" sha1="fb52814324357224ad47a07762a2dfa22a2a25e8" />
 	</machine>
-	<machine name="Phantasy Star Online (USA) (En,Ja,Fr,De,Es) (Rev B)">
+	<machine name="Phantasy Star Online (USA) (En,Ja,Fr,De,Es)">
 		<category>Games</category>
-		<description>Phantasy Star Online (USA) (En,Ja,Fr,De,Es) (Rev B)</description>
-		<disk name="Phantasy Star Online (USA) (En,Ja,Fr,De,Es) (Rev B).chd" sha1="64f907ecaabda4669ebff865c15513c27376aae6" />
+		<description>Phantasy Star Online (USA) (En,Ja,Fr,De,Es)</description>
+		<disk name="Phantasy Star Online (USA) (En,Ja,Fr,De,Es).chd" sha1="64f907ecaabda4669ebff865c15513c27376aae6" />
 	</machine>
 	<machine name="Phantasy Star Online Ver. 2 (Europe) (En,Ja,Fr,De,Es)">
 		<category>Games</category>
@@ -4902,10 +4902,10 @@
 		<description>Pro Pinball Trilogy (Europe)</description>
 		<disk name="Pro Pinball Trilogy (Europe).chd" sha1="46985fc2bf5497582ac0edc18a83d20a33f4fc0c" />
 	</machine>
-	<machine name="Pro Yakyuu Team de Asobou Net! (Japan) (Rev A)">
+	<machine name="Pro Yakyuu Team de Asobou Net! (Japan)">
 		<category>Games</category>
-		<description>Pro Yakyuu Team de Asobou Net! (Japan) (Rev A)</description>
-		<disk name="Pro Yakyuu Team de Asobou Net! (Japan) (Rev A).chd" sha1="130d83c43693a7756e4b1a5a06652e04ef882e23" />
+		<description>Pro Yakyuu Team de Asobou Net! (Japan)</description>
+		<disk name="Pro Yakyuu Team de Asobou Net! (Japan).chd" sha1="130d83c43693a7756e4b1a5a06652e04ef882e23" />
 	</machine>
 	<machine name="Pro Yakyuu Team de Asobou! (Japan)">
 		<category>Games</category>
@@ -5143,7 +5143,6 @@
 		<disk name="Ready 2 Rumble Boxing (USA) (Demo).chd" sha1="44d843aba2b88e10a3616d33b85f11690bcb6d08" />
 	</machine>
 	<machine name="Ready 2 Rumble Boxing (USA) (RE)">
-		<category>Games</category>
 		<description>Ready 2 Rumble Boxing (USA) (RE)</description>
 		<disk name="Ready 2 Rumble Boxing (USA) (RE).chd" sha1="b5c95fe239af04b99d0e62d1d243436c550caa15" />
 	</machine>
@@ -5874,30 +5873,30 @@
 		<description>Shanghai - Dynasty (Japan)</description>
 		<disk name="Shanghai - Dynasty (Japan).chd" sha1="c128655a43610e05225ea25296a4943d50dd03f6" />
 	</machine>
-	<machine name="Shenmue - Ichishou Yokosuka (Japan) (Disc 1)">
+	<machine name="Shenmue - Isshou Yokosuka (Japan) (Disc 1)">
 		<category>Games</category>
-		<description>Shenmue - Ichishou Yokosuka (Japan) (Disc 1)</description>
-		<disk name="Shenmue - Ichishou Yokosuka (Japan) (Disc 1).chd" sha1="ce6e40ec7a7bcc4b93de83e23cd494653734ebf9" />
+		<description>Shenmue - Isshou Yokosuka (Japan) (Disc 1)</description>
+		<disk name="Shenmue - Isshou Yokosuka (Japan) (Disc 1).chd" sha1="ce6e40ec7a7bcc4b93de83e23cd494653734ebf9" />
 	</machine>
-	<machine name="Shenmue - Ichishou Yokosuka (Japan) (Disc 2)">
+	<machine name="Shenmue - Isshou Yokosuka (Japan) (Disc 2)">
 		<category>Games</category>
-		<description>Shenmue - Ichishou Yokosuka (Japan) (Disc 2)</description>
-		<disk name="Shenmue - Ichishou Yokosuka (Japan) (Disc 2).chd" sha1="5e31e1b89309efc55ee2b3a950cc07cecc9e59ab" />
+		<description>Shenmue - Isshou Yokosuka (Japan) (Disc 2)</description>
+		<disk name="Shenmue - Isshou Yokosuka (Japan) (Disc 2).chd" sha1="5e31e1b89309efc55ee2b3a950cc07cecc9e59ab" />
 	</machine>
-	<machine name="Shenmue - Ichishou Yokosuka (Japan) (Disc 3)">
+	<machine name="Shenmue - Isshou Yokosuka (Japan) (Disc 3)">
 		<category>Games</category>
-		<description>Shenmue - Ichishou Yokosuka (Japan) (Disc 3)</description>
-		<disk name="Shenmue - Ichishou Yokosuka (Japan) (Disc 3).chd" sha1="d516e6cf48776eebd917974eec2d129538720d0f" />
+		<description>Shenmue - Isshou Yokosuka (Japan) (Disc 3)</description>
+		<disk name="Shenmue - Isshou Yokosuka (Japan) (Disc 3).chd" sha1="d516e6cf48776eebd917974eec2d129538720d0f" />
 	</machine>
-	<machine name="Shenmue - Ichishou Yokosuka (Japan) (Shenmue Passport) (Rev C)">
+	<machine name="Shenmue - Isshou Yokosuka (Japan) (Shenmue Passport) (Rev C)">
 		<category>Applications</category>
-		<description>Shenmue - Ichishou Yokosuka (Japan) (Shenmue Passport) (Rev C)</description>
-		<disk name="Shenmue - Ichishou Yokosuka (Japan) (Shenmue Passport) (Rev C).chd" sha1="ee265ab87f5e6cbc53200939129483766a4e2da6" />
+		<description>Shenmue - Isshou Yokosuka (Japan) (Shenmue Passport) (Rev C)</description>
+		<disk name="Shenmue - Isshou Yokosuka (Japan) (Shenmue Passport) (Rev C).chd" sha1="ee265ab87f5e6cbc53200939129483766a4e2da6" />
 	</machine>
-	<machine name="Shenmue - Ichishou Yokosuka (Japan) (Shenmue Passport) (Rev D)">
+	<machine name="Shenmue - Isshou Yokosuka (Japan) (Shenmue Passport) (Rev D)">
 		<category>Applications</category>
-		<description>Shenmue - Ichishou Yokosuka (Japan) (Shenmue Passport) (Rev D)</description>
-		<disk name="Shenmue - Ichishou Yokosuka (Japan) (Shenmue Passport) (Rev D).chd" sha1="ebbe4f4c606989cffa0f3e29ad1e5065063f2e0e" />
+		<description>Shenmue - Isshou Yokosuka (Japan) (Shenmue Passport) (Rev D)</description>
+		<disk name="Shenmue - Isshou Yokosuka (Japan) (Shenmue Passport) (Rev D).chd" sha1="ebbe4f4c606989cffa0f3e29ad1e5065063f2e0e" />
 	</machine>
 	<machine name="Shenmue (Europe) (En,Fr,De,Es) (Disc 1)">
 		<category>Games</category>
@@ -7726,25 +7725,25 @@
 		<disk name="100sword\hundred swords (jpn).chd" sha1="8129b62601a19eff64f6ecc8fbeaca6b3f31aefe" />
 	</machine>
 	<machine name="102dalm\disney les 102 dalmatiens a la rescousse (fra, ger, ita, spa)">
-		<description>s 102 Dalmatians: Puppies to the Rescue (USA)</description>
+		<description>Disney's 102 Dalmatians: Puppies to the Rescue (USA)</description>
 		<year>2000</year>
 		<manufacturer>Eidos</manufacturer>
 		<disk name="102dalm\disney les 102 dalmatiens a la rescousse (fra, ger, ita, spa).chd" sha1="89854cde030ae64fedcec57bafd1ded6dc46c000" />
 	</machine>
 	<machine name="102dalm\disney's 102 dalmatians puppies to the rescue (euro)">
-		<description>s 102 Dalmatians: Puppies to the Rescue (USA)</description>
+		<description>Disney's 102 Dalmatians: Puppies to the Rescue (USA)</description>
 		<year>2000</year>
 		<manufacturer>Eidos</manufacturer>
 		<disk name="102dalm\disney's 102 dalmatians puppies to the rescue (euro).chd" sha1="e008c3c68bd5307a55455ed40b1b3de41ed03326" />
 	</machine>
 	<machine name="102dalm\disney's 102 dalmatians puppies to the rescue (euro, prototype 20000110)">
-		<description>s 102 Dalmatians: Puppies to the Rescue (USA)</description>
+		<description>Disney's 102 Dalmatians: Puppies to the Rescue (USA)</description>
 		<year>2000</year>
 		<manufacturer>Eidos</manufacturer>
 		<disk name="102dalm\disney's 102 dalmatians puppies to the rescue (euro, prototype 20000110).chd" sha1="5a436e0d04d8b015420eb3a0aaf324bab8fd4ab3" />
 	</machine>
 	<machine name="102dalm\disney's 102 dalmatians puppies to the rescue (usa)">
-		<description>s 102 Dalmatians: Puppies to the Rescue (USA)</description>
+		<description>Disney's 102 Dalmatians: Puppies to the Rescue (USA)</description>
 		<year>2000</year>
 		<manufacturer>Eidos</manufacturer>
 		<disk name="102dalm\disney's 102 dalmatians puppies to the rescue (usa).chd" sha1="9961ba5338484ab739331f03105936f1c0e17be3" />
@@ -7864,13 +7863,13 @@
 		<disk name="alienfnto\alien front online (usa, prototype 20010625).chd" sha1="97dd8256fa70526cb7e266d1d77a5e44093a533a" />
 	</machine>
 	<machine name="amensarg\army men sarge's heroes (euro)">
-		<description>s Heroes (USA)</description>
+		<description>Army Men: Sarge's Heroes (USA)</description>
 		<year>2000</year>
 		<manufacturer>Midway</manufacturer>
 		<disk name="amensarg\army men sarge's heroes (euro).chd" sha1="046d34b8ba2f2d20c8719387010aa84367b9eeb3" />
 	</machine>
 	<machine name="amensarg\army men sarge's heroes (usa)">
-		<description>s Heroes (USA)</description>
+		<description>Army Men: Sarge's Heroes (USA)</description>
 		<year>2000</year>
 		<manufacturer>Midway</manufacturer>
 		<disk name="amensarg\army men sarge's heroes (usa).chd" sha1="5d66f134946fc21ba54fbb61d5a99a2608a97937" />
@@ -8176,7 +8175,7 @@
 		<disk name="capsnk\capcom vs. snk millennium fight 2000 pro (jpn).chd" sha1="29fb13b8d1f3e756c43f5d12661b672c0341c339" />
 	</machine>
 	<machine name="cardofdg\card of destiny hikari to yami no tougousha - genteiban (jpn) (special talk cd)">
-		<description>ari to Yami no Tougousha - Genteiban (Japan)</description>
+		<description>Card of Destiny: Hikari to Yami no Tougousha - Genteiban (Japan)</description>
 		<year>2002</year>
 		<manufacturer>Abel</manufacturer>
 		<disk name="cardofdg\card of destiny hikari to yami no tougousha - genteiban (jpn) (special talk cd).chd" sha1="c8dba781762c063d543370a2797c5c4a3a933742" />
@@ -8260,7 +8259,7 @@
 		<disk name="chmpsurf\championship surfer (usa).chd" sha1="04e86d258eea1455e6ade6ec51ef472527216d81" />
 	</machine>
 	<machine name="chocolat\chocolat maid cafe curio - taikenban (jpn)">
-		<description> (Japan)</description>
+		<description>Chocolat: Maid Cafe "Curio" (Japan)</description>
 		<year>2003</year>
 		<manufacturer>Alchemist</manufacturer>
 		<disk name="chocolat\chocolat maid cafe curio - taikenban (jpn).chd" sha1="6ec98879235f0eed30629e2ab02b03f20468845c" />
@@ -8302,13 +8301,13 @@
 		<disk name="closeto\close to inori no oka (jpn).chd" sha1="41e95e2577c9833f7764f361846d87a4bd4941af" />
 	</machine>
 	<machine name="cnb\charge 'n blast (euro)">
-		<description>n Blast (USA)</description>
+		<description>Charge 'n Blast (USA)</description>
 		<year>2001</year>
 		<manufacturer>Xicat Interactive</manufacturer>
 		<disk name="cnb\charge 'n blast (euro).chd" sha1="0b246a6e7ba05dc8a2dedb883e2acb6eab20cf36" />
 	</machine>
 	<machine name="cnb\charge 'n blast (usa)">
-		<description>n Blast (USA)</description>
+		<description>Charge 'n Blast (USA)</description>
 		<year>2001</year>
 		<manufacturer>Xicat Interactive</manufacturer>
 		<disk name="cnb\charge 'n blast (usa).chd" sha1="eda5837d57a15dd512ecb8e8f7e91d805e553555" />
@@ -8340,30 +8339,30 @@
 	<machine name="confmiss\confidential mission (euro)">
 		<description>Confidential Mission (USA)</description>
 		<year>2001</year>
-		<manufacturer>a</manufacturer>
+		<manufacturer>Sega</manufacturer>
 		<disk name="confmiss\confidential mission (euro).chd" sha1="4795c48e01bf71dc9b5df0d7b8592c6ec843723d" />
 	</machine>
 	<machine name="confmiss\confidential mission (euro, prototype 20010409)">
 		<description>Confidential Mission (USA)</description>
 		<year>2001</year>
-		<manufacturer>a</manufacturer>
+		<manufacturer>Sega</manufacturer>
 		<disk name="confmiss\confidential mission (euro, prototype 20010409).chd" sha1="b49594bdec7fca55d17569c2e9d13ca3c6a9f55f" />
 	</machine>
 	<machine name="confmiss\confidential mission (usa)">
 		<description>Confidential Mission (USA)</description>
 		<year>2001</year>
-		<manufacturer>a</manufacturer>
+		<manufacturer>Sega</manufacturer>
 		<disk name="confmiss\confidential mission (usa).chd" sha1="f6d71f0cd4a9434dd094cf935218bfecb7fff7dc" />
 	</machine>
 	<machine name="confzone\conflict zone (euro)">
 		<description>Conflict Zone (USA)</description>
-		<year>1</year>
+		<year>2001</year>
 		<manufacturer>Ubisoft</manufacturer>
 		<disk name="confzone\conflict zone (euro).chd" sha1="867a079d622cd23f40e2962011656148695ed92f" />
 	</machine>
 	<machine name="confzone\conflict zone (usa)">
 		<description>Conflict Zone (USA)</description>
-		<year>1</year>
+		<year>2001</year>
 		<manufacturer>Ubisoft</manufacturer>
 		<disk name="confzone\conflict zone (usa).chd" sha1="9d78e4275d1315bf86d65f5e8b463d2bd4499dd2" />
 	</machine>
@@ -8572,7 +8571,7 @@
 		<disk name="dbytsuku\derby tsuku derby ba wo tsukurou (jpn).chd" sha1="df61435d57dff9b9a10bf18e042078e7e18c650c" />
 	</machine>
 	<machine name="dbytsuku2\derby tsuku 2 (jpn)">
-		<description> 2 (Japan)</description>
+		<description>Derby Tsuku 2 (Japan)</description>
 		<year>2001</year>
 		<manufacturer>Sega</manufacturer>
 		<disk name="dbytsuku2\derby tsuku 2 (jpn).chd" sha1="f7362267ff9cfbae5bbe43de5725ef127544874b" />
@@ -8788,13 +8787,13 @@
 		<disk name="dinocris\dino crisis (usa).chd" sha1="0cde65088f2c30d3c582162a2cf507b82721e4f5" />
 	</machine>
 	<machine name="dinosaur\disney's dinosaur (euro)">
-		<description>s Dinosaur (USA)</description>
+		<description>Disney's Dinosaur (USA)</description>
 		<year>2000</year>
 		<manufacturer>Ubisoft</manufacturer>
 		<disk name="dinosaur\disney's dinosaur (euro).chd" sha1="0d8e387c015156881b4e54efd69ebbac0eb75bea" />
 	</machine>
 	<machine name="dinosaur\disney's dinosaur (usa)">
-		<description>s Dinosaur (USA)</description>
+		<description>Disney's Dinosaur (USA)</description>
 		<year>2000</year>
 		<manufacturer>Ubisoft</manufacturer>
 		<disk name="dinosaur\disney's dinosaur (usa).chd" sha1="6068aded106af297595aa3b223e491f0b11564ce" />
@@ -9034,7 +9033,7 @@
 		<disk name="dreamonc2\dreamon collection 2 (euro).chd" sha1="6d141e1c2421b276eea5b3ff9b7f58e94d0621fd" />
 	</machine>
 	<machine name="dreamonc3\dreamon collection 3 (euro)">
-		<description> Collection 3 (Europe)</description>
+		<description>DreamOn Collection 3 (Europe)</description>
 		<year>2000</year>
 		<manufacturer>Sega</manufacturer>
 		<disk name="dreamonc3\dreamon collection 3 (euro).chd" sha1="52ddb82b82a8f8bae589d5ead32a9a640873c3f7" />
@@ -9118,7 +9117,7 @@
 		<disk name="dshaou\doguu senki haou (jpn).chd" sha1="cd65acb74d7c7d83482d5618db2a064140e3f164" />
 	</machine>
 	<machine name="dskai2\dousoukai 2 again and refrain (jpn)">
-		<description> Refrain (Japan)</description>
+		<description>Dousoukai 2: Again &amp; Refrain (Japan)</description>
 		<year>2002</year>
 		<manufacturer>NEC Interchannel</manufacturer>
 		<disk name="dskai2\dousoukai 2 again and refrain (jpn).chd" sha1="c7d3d3baf9b812fa13ff7bda797bb4d2d5963414" />
@@ -9286,13 +9285,13 @@
 		<disk name="egate6\eldorado gate vol. 6 (jpn).chd" sha1="930e0686ee99ea250039bccd1ee77944ee55f46e" />
 	</machine>
 	<machine name="egg\elemental gimmick gear (jpn)">
-		<description>immick Gear (USA)</description>
+		<description>Elemental Gimmick Gear (USA)</description>
 		<year>1999</year>
 		<manufacturer>Vatical Entertainment</manufacturer>
 		<disk name="egg\elemental gimmick gear (jpn).chd" sha1="193b6a465372e28de4329eb92d0b1d2893cdfb2b" />
 	</machine>
 	<machine name="egg\elemental gimmick gear (usa)">
-		<description>immick Gear (USA)</description>
+		<description>Elemental Gimmick Gear (USA)</description>
 		<year>1999</year>
 		<manufacturer>Vatical Entertainment</manufacturer>
 		<disk name="egg\elemental gimmick gear (usa).chd" sha1="8554ccbd293b1efd59b1ae1252ea3c68d245af1e" />
@@ -9328,7 +9327,7 @@
 		<disk name="evildead\evil dead hail to the king (usa).chd" sha1="daf958499b8df5ea9dec6aeab0b9090bfb322776" />
 	</machine>
 	<machine name="eviltwin\evil twin cyprien's chronicles (euro)">
-		<description>s Chronicles (Europe)</description>
+		<description>Evil Twin: Cyprien's Chronicles (Europe)</description>
 		<year>2002</year>
 		<manufacturer>Bigben Interactive</manufacturer>
 		<disk name="eviltwin\evil twin cyprien's chronicles (euro).chd" sha1="d83c0515cce6a787fab7efc89b80c519a9fe9c2f" />
@@ -9550,7 +9549,7 @@
 		<disk name="framgrid\frame gride (jpn).chd" sha1="56dc6bf079aab34c1e0fe0ac1596d98dd1cfe711" />
 	</machine>
 	<machine name="frogger2\frogger 2 swampy's revenge (usa)">
-		<description>s Revenge (USA)</description>
+		<description>Frogger 2: Swampy's Revenge (USA)</description>
 		<year>2000</year>
 		<manufacturer>Hasbro Interactive</manufacturer>
 		<disk name="frogger2\frogger 2 swampy's revenge (usa).chd" sha1="1247bcf146059bc0a2de23b93442190f0fecf78c" />
@@ -9610,7 +9609,7 @@
 		<disk name="gaiamstr\gaiamaster kessen seiki-ou densetsu (jpn).chd" sha1="4b63aee3574b51f3b2a32ffcec52544361ff0641" />
 	</machine>
 	<machine name="gangagan\kiteretsu boy's gangagan (jpn)">
-		<description>s Gangagan (Japan)</description>
+		<description>Kiteretsu Boy's Gangagan (Japan)</description>
 		<year>2000</year>
 		<manufacturer>Sega</manufacturer>
 		<disk name="gangagan\kiteretsu boy's gangagan (jpn).chd" sha1="4d379f961775213014f8e1df45cd9dab0ead2109" />
@@ -9742,13 +9741,13 @@
 		<disk name="godzilla2\godzilla generations maximum impact (jpn).chd" sha1="993f73c23ddad60574d0394ccb0adbabc92036e6" />
 	</machine>
 	<machine name="goinquak\disney's donald duck goin' quackers (usa)">
-		<description> (USA)</description>
+		<description>Disney's Donald Duck "Goin' Qu@ckers" (USA)</description>
 		<year>2000</year>
 		<manufacturer>Ubisoft</manufacturer>
 		<disk name="goinquak\disney's donald duck goin' quackers (usa).chd" sha1="9f17329ee29a35c0a3e5f4c9ce2f3080d1ae2e3f" />
 	</machine>
 	<machine name="goinquak\disney's donald duck quack attack (euro)">
-		<description> (USA)</description>
+		<description>Disney's Donald Duck "Goin' Qu@ckers" (USA)</description>
 		<year>2000</year>
 		<manufacturer>Ubisoft</manufacturer>
 		<disk name="goinquak\disney's donald duck quack attack (euro).chd" sha1="1eaceff3cfee491ee8ee93da6ca39d96675c3d4f" />
@@ -9874,13 +9873,13 @@
 		<disk name="gundamsspd\gundam side story 0079 rise from the ashes - premium disc (jpn).chd" sha1="9b1bc8aff4b75295cc2062e088a4731bb0ed0f56" />
 	</machine>
 	<machine name="gundmgddx\kidou senshi gundam renpou vs. zeon and dx (jpn) (disc 1)">
-		<description> DX (Japan)</description>
+		<description>Kidou Senshi Gundam: Renpou vs. Zeon &amp; DX (Japan)</description>
 		<year>2002</year>
 		<manufacturer>Bandai</manufacturer>
 		<disk name="gundmgddx\kidou senshi gundam renpou vs. zeon and dx (jpn) (disc 1).chd" sha1="df04d6ad35b025032621924f6cd94f5267aaaa5b" />
 	</machine>
 	<machine name="gundmgddx\kidou senshi gundam renpou vs. zeon and dx (jpn) (disc 2)">
-		<description> DX (Japan)</description>
+		<description>Kidou Senshi Gundam: Renpou vs. Zeon &amp; DX (Japan)</description>
 		<year>2002</year>
 		<manufacturer>Bandai</manufacturer>
 		<disk name="gundmgddx\kidou senshi gundam renpou vs. zeon and dx (jpn) (disc 2).chd" sha1="3e5fc536ac65889d8028d079922b363cd49e36b4" />
@@ -9958,7 +9957,7 @@
 		<disk name="hkfruit\hello kitty no lovely fruit park (jpn).chd" sha1="504d39d39074b24f7d5638e032b11bcbc50437dd" />
 	</machine>
 	<machine name="hkmail\hello kitty no otonaru mail (jpn)">
-		<description> Mail (Japan)</description>
+		<description>Hello Kitty no "Otonaru" Mail (Japan)</description>
 		<year>2000</year>
 		<manufacturer>Sega</manufacturer>
 		<disk name="hkmail\hello kitty no otonaru mail (jpn).chd" sha1="fe3818ed2607916bb3b4a8410170ac8ae1dc74c6" />
@@ -9976,19 +9975,19 @@
 		<disk name="hmgeo\heavy metal geomatrix (usa).chd" sha1="f2852d56fcd93f4adb19337371baf1e45a9eceee" />
 	</machine>
 	<machine name="hnd\hidden and dangerous (euro)">
-		<description> Dangerous (USA)</description>
+		<description>Hidden &amp; Dangerous (USA)</description>
 		<year>2000</year>
 		<manufacturer>Take-Two Interactive</manufacturer>
 		<disk name="hnd\hidden and dangerous (euro).chd" sha1="6c7356de0d46db85a03af3075f6576c2907bc09c" />
 	</machine>
 	<machine name="hnd\hidden and dangerous (usa)">
-		<description> Dangerous (USA)</description>
+		<description>Hidden &amp; Dangerous (USA)</description>
 		<year>2000</year>
 		<manufacturer>Take-Two Interactive</manufacturer>
 		<disk name="hnd\hidden and dangerous (usa).chd" sha1="2899e80628b08c59f7a95275641f951e5f648394" />
 	</machine>
 	<machine name="hoffbmx\mat hoffman's pro bmx (usa)">
-		<description>s Pro BMX (USA)</description>
+		<description>Mat Hoffman's Pro BMX (USA)</description>
 		<year>2001</year>
 		<manufacturer>Activision</manufacturer>
 		<disk name="hoffbmx\mat hoffman's pro bmx (usa).chd" sha1="0c01a75d815ec47a4ce946c0ce61515a7f5aed85" />
@@ -10000,31 +9999,31 @@
 		<disk name="hoylecas\hoyle casino (usa).chd" sha1="55ce69f2fa46e604c887aff5bdf35c1ca024c0b7" />
 	</machine>
 	<machine name="hydrthnd\hydro thunder (euro)">
-		<description>)</description>
+		<description>Hydro Thunder (USA, rev. 1)</description>
 		<year>200?</year>
 		<manufacturer>Midway</manufacturer>
 		<disk name="hydrthnd\hydro thunder (euro).chd" sha1="72fa6e59d5d880d403e98ccb0741bc4e931b1928" />
 	</machine>
 	<machine name="hydrthnd\hydro thunder (euro, prototype 19990908)">
-		<description>)</description>
+		<description>Hydro Thunder (USA, rev. 1)</description>
 		<year>200?</year>
 		<manufacturer>Midway</manufacturer>
 		<disk name="hydrthnd\hydro thunder (euro, prototype 19990908).chd" sha1="f71d4392a769e35b7f18b7edf53e40194d2e356f" />
 	</machine>
 	<machine name="hydrthnd\hydro thunder (usa)">
-		<description>)</description>
+		<description>Hydro Thunder (USA, rev. 1)</description>
 		<year>200?</year>
 		<manufacturer>Midway</manufacturer>
 		<disk name="hydrthnd\hydro thunder (usa).chd" sha1="ca2e5fd7c2c9088fc4f1a0bcd6de22b25dff1887" />
 	</machine>
 	<machine name="hydrthnd\hydro thunder (usa, rev. 1)">
-		<description>)</description>
+		<description>Hydro Thunder (USA, rev. 1)</description>
 		<year>200?</year>
 		<manufacturer>Midway</manufacturer>
 		<disk name="hydrthnd\hydro thunder (usa, rev. 1).chd" sha1="e4cb2781d38d1e35d4e3a9a57ee0dbc7e965a04a" />
 	</machine>
 	<machine name="hydrthnd\hydro thunder (world, prototype 19990616)">
-		<description>)</description>
+		<description>Hydro Thunder (USA, rev. 1)</description>
 		<year>200?</year>
 		<manufacturer>Midway</manufacturer>
 		<disk name="hydrthnd\hydro thunder (world, prototype 19990616).chd" sha1="0aa57bc2db92a6dc53ae1b1f99cec83fabe6953d" />
@@ -10096,19 +10095,19 @@
 		<disk name="ironaces\iron aces (usa).chd" sha1="663990fd2605bd5168150664003624fd8b72d6de" />
 	</machine>
 	<machine name="itf\espn international track and field (euro)">
-		<description> Field (USA)</description>
+		<description>ESPN International Track &amp; Field (USA)</description>
 		<year>2000</year>
 		<manufacturer>Konami</manufacturer>
 		<disk name="itf\espn international track and field (euro).chd" sha1="9ba2c46cae8ac8bbf22ba42fe7aa45991fb5ac0d" />
 	</machine>
 	<machine name="itf\espn international track and field (usa)">
-		<description> Field (USA)</description>
+		<description>ESPN International Track &amp; Field (USA)</description>
 		<year>2000</year>
 		<manufacturer>Konami</manufacturer>
 		<disk name="itf\espn international track and field (usa).chd" sha1="a806e753de8bbdea4faee804c9af0a962cb722bc" />
 	</machine>
 	<machine name="itf\ganbare nippon olympics 2000 (jpn)">
-		<description> Field (USA)</description>
+		<description>ESPN International Track &amp; Field (USA)</description>
 		<year>2000</year>
 		<manufacturer>Konami</manufacturer>
 		<disk name="itf\ganbare nippon olympics 2000 (jpn).chd" sha1="db159e40e4fd72cd80d7804363d5603e6b5465c3" />
@@ -10168,25 +10167,25 @@
 		<disk name="jmg2k\jeremy mcgrath supercross 2000 (usa).chd" sha1="b2ae0a2cf429d9f1752cb61af59e99342cf7778e" />
 	</machine>
 	<machine name="jojoba\jojo no kimyou na bouken mirai e no isan (jpn)">
-		<description>s Bizarre Adventure (USA)</description>
+		<description>Jojo's Bizarre Adventure (USA)</description>
 		<year>1999</year>
 		<manufacturer>Capcom</manufacturer>
 		<disk name="jojoba\jojo no kimyou na bouken mirai e no isan (jpn).chd" sha1="14dd7b84d0196bacc664ea9914939ab18315348c" />
 	</machine>
 	<machine name="jojoba\jojo no kimyou na bouken mirai e no isan for matching service (jpn)">
-		<description>s Bizarre Adventure (USA)</description>
+		<description>Jojo's Bizarre Adventure (USA)</description>
 		<year>1999</year>
 		<manufacturer>Capcom</manufacturer>
 		<disk name="jojoba\jojo no kimyou na bouken mirai e no isan for matching service (jpn).chd" sha1="a4010dcad32d47bcf9dd5ac3168ca5640f306007" />
 	</machine>
 	<machine name="jojoba\jojo's bizarre adventure (euro)">
-		<description>s Bizarre Adventure (USA)</description>
+		<description>Jojo's Bizarre Adventure (USA)</description>
 		<year>1999</year>
 		<manufacturer>Capcom</manufacturer>
 		<disk name="jojoba\jojo's bizarre adventure (euro).chd" sha1="263b09bac283d77c5805f119902434c5086a65bb" />
 	</machine>
 	<machine name="jojoba\jojo's bizarre adventure (usa)">
-		<description>s Bizarre Adventure (USA)</description>
+		<description>Jojo's Bizarre Adventure (USA)</description>
 		<year>1999</year>
 		<manufacturer>Capcom</manufacturer>
 		<disk name="jojoba\jojo's bizarre adventure (usa).chd" sha1="40cccac2746f3175833f8c99fbf4f93dc732b4c4" />
@@ -10204,7 +10203,7 @@
 		<disk name="july\july (jpn, rev. 1).chd" sha1="4265f137c03c4d98ad3d28aeee8c3ca4c306a578" />
 	</machine>
 	<machine name="jwhite2\jimmy white's 2 cueball (euro)">
-		<description>s 2: Cueball (Europe)</description>
+		<description>Jimmy White's 2: Cueball (Europe)</description>
 		<year>1999</year>
 		<manufacturer>Virgin Interactive</manufacturer>
 		<disk name="jwhite2\jimmy white's 2 cueball (euro).chd" sha1="51995d91c6667cc4d28247921e4005e5c74a4bfd" />
@@ -10403,7 +10402,7 @@
 	</machine>
 	<machine name="maxsteel\max steel covert missions (usa)">
 		<description>Max Steel: Covert Missions (USA)</description>
-		<year>001</year>
+		<year>2001</year>
 		<manufacturer>Mattel Interactive</manufacturer>
 		<disk name="maxsteel\max steel covert missions (usa).chd" sha1="cb7d3debba494ebe71fcfd50ae8bd504838aa685" />
 	</machine>
@@ -10456,19 +10455,19 @@
 		<disk name="mercur\mercurius pretty end of the century (jpn).chd" sha1="2627e9d248fe6a4f25d1ef22d9cf779c3000b7e9" />
 	</machine>
 	<machine name="midwaygh\midway's greatest arcade hits volume 1 (euro)">
-		<description>s Greatest Arcade Hits Volume 1 (USA)</description>
+		<description>Midway's Greatest Arcade Hits Volume 1 (USA)</description>
 		<year>2000</year>
 		<manufacturer>Midway</manufacturer>
 		<disk name="midwaygh\midway's greatest arcade hits volume 1 (euro).chd" sha1="5ad1b81930229d6e3070d81a54b5d1e36e9a1377" />
 	</machine>
 	<machine name="midwaygh\midway's greatest arcade hits volume 1 (usa)">
-		<description>s Greatest Arcade Hits Volume 1 (USA)</description>
+		<description>Midway's Greatest Arcade Hits Volume 1 (USA)</description>
 		<year>2000</year>
 		<manufacturer>Midway</manufacturer>
 		<disk name="midwaygh\midway's greatest arcade hits volume 1 (usa).chd" sha1="43e0a2fb64f07107639b97a6ce1676f47c60f103" />
 	</machine>
 	<machine name="midwaygh2\midway's greatest arcade hits volume 2 (usa)">
-		<description>s Greatest Arcade Hits Volume 2 (USA)</description>
+		<description>Midway's Greatest Arcade Hits Volume 2 (USA)</description>
 		<year>2001</year>
 		<manufacturer>Midway</manufacturer>
 		<disk name="midwaygh2\midway's greatest arcade hits volume 2 (usa).chd" sha1="2a386ff9a5a2e2c161dad11ea9aebb51b2c4c413" />
@@ -10594,7 +10593,7 @@
 		<disk name="monacogp\monaco grand prix racing simulation 2 (jpn, prototype 19990106).chd" sha1="2e2abedb988f48ceb080c3ec94b8307bfc34bc18" />
 	</machine>
 	<machine name="mottopyt\motto pro yakyu team wo tsukurou (jpn)">
-		<description>m wo Tsukurou! (Japan)</description>
+		<description>Motto Pro Yakyu Team wo Tsukurou! (Japan)</description>
 		<year>2000</year>
 		<manufacturer>Sega</manufacturer>
 		<disk name="mottopyt\motto pro yakyu team wo tsukurou (jpn).chd" sha1="69838e03fa3656a8b53e0ae95eaa41fa9b1e85a1" />
@@ -10996,7 +10995,7 @@
 		<disk name="nvchess\net versus chess (jpn).chd" sha1="cf8cb6cdaae80693169e3f423686e15db95f91d2" />
 	</machine>
 	<machine name="nvgomoku\net versus gomoku narabe to renju (jpn)">
-		<description> Gomoku Narabe to Renju (Japan)</description>
+		<description>Net Versus: Gomoku Narabe to Renju (Japan)</description>
 		<year>2001</year>
 		<manufacturer>Atmark</manufacturer>
 		<disk name="nvgomoku\net versus gomoku narabe to renju (jpn).chd" sha1="d7c85f2372507c9b6559cd148ec68253030b2e28" />
@@ -11021,7 +11020,7 @@
 	</machine>
 	<machine name="nvshougi\net versus shougi (jpn)">
 		<description>Net Versus: Shougi (Japan)</description>
-		<year>1</year>
+		<year>2001</year>
 		<manufacturer>Atmark</manufacturer>
 		<disk name="nvshougi\net versus shougi (jpn).chd" sha1="759f6f0cbfc4202c3d356b9f057b7a0b1b391adf" />
 	</machine>
@@ -11038,7 +11037,7 @@
 		<disk name="powyak\jikkyou powerful pro yakyuu - dreamcast edition (jpn).chd" sha1="07e2e64eaa62690b431998750e7d3976d36db6a0" />
 	</machine>
 	<machine name="promodisc\promotion disc (jpn)">
-		<description> Disc (Japan)</description>
+		<description>Promotion Disc (Japan)</description>
 		<year>1998</year>
 		<manufacturer>Sega</manufacturer>
 		<disk name="promodisc\promotion disc (jpn).chd" sha1="5c95467e31125913d4f4d0a9fd5c8cd7570860aa" />
@@ -11194,7 +11193,7 @@
 		<disk name="spcerace\looney tunes space race (world, prototype 20000731).chd" sha1="87e504982f6b45179a80b2292fb3f1c60bec923f" />
 	</machine>
 	<machine name="symphony\for symphony with all one's heart (jpn)">
-		<description>s Heart (Japan)</description>
+		<description>For Symphony: With All One's Heart (Japan)</description>
 		<year>2003</year>
 		<manufacturer>Takuyo</manufacturer>
 		<disk name="symphony\for symphony with all one's heart (jpn).chd" sha1="d8faaefe8ac0400da5b970380dc3f114308a9bfe" />

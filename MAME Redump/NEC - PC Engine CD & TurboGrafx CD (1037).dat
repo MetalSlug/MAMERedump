@@ -3,7 +3,7 @@
 <datafile>
 	<header>
 		<name>NEC - PC Engine CD &amp; TurboGrafx CD</name>
-		<description>MAME Redump - NEC - PC Engine CD &amp; TurboGrafx CD - Discs (548) (2024-12-16 01-43-02)</description>
+		<description>MAME Redump - NEC - PC Engine CD &amp; TurboGrafx CD - Discs (551) (2025-07-21 03-16-39)</description>
 		<version>0.274</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
@@ -146,10 +146,10 @@
 		<description>Basted (Japan)</description>
 		<disk name="Basted (Japan).chd" sha1="ee1ed2fc6c7d4c03810f06463c7454b1fb1448f4" />
 	</machine>
-	<machine name="Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan)">
+	<machine name="Battle Shanghai - Dragon's Eye (Japan)">
 		<category>Games</category>
-		<description>Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan)</description>
-		<disk name="Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan).chd" sha1="fd010d32e9b80424d28b5c1f79add8a9fa415c84" />
+		<description>Battle Shanghai - Dragon's Eye (Japan)</description>
+		<disk name="Battle Shanghai - Dragon's Eye (Japan).chd" sha1="fd010d32e9b80424d28b5c1f79add8a9fa415c84" />
 	</machine>
 	<machine name="Bazar de Gozarre no Game de Gozarre (Japan)">
 		<category>Games</category>
@@ -281,11 +281,6 @@
 		<description>Camp California (USA)</description>
 		<disk name="Camp California (USA).chd" sha1="cba6df2c550a4fd48a42e5e454be0124a8541c5d" />
 	</machine>
-	<machine name="Campaign Version - Daisenryaku II (Japan)">
-		<category>Games</category>
-		<description>Campaign Version - Daisenryaku II (Japan)</description>
-		<disk name="Campaign Version - Daisenryaku II (Japan).chd" sha1="3de2e4d3de1b31517fbf0c5fd0ce4a1283205cd9" />
-	</machine>
 	<machine name="Cardangels (Japan)">
 		<category>Games</category>
 		<description>Cardangels (Japan)</description>
@@ -400,6 +395,11 @@
 		<category>Games</category>
 		<description>Daisenpuu Custom (Japan)</description>
 		<disk name="Daisenpuu Custom (Japan).chd" sha1="80ed6f08cc13a7b5eee7c391854f95dd3e2ab3d8" />
+	</machine>
+	<machine name="Daisenryaku II - Campaign Version (Japan)">
+		<category>Games</category>
+		<description>Daisenryaku II - Campaign Version (Japan)</description>
+		<disk name="Daisenryaku II - Campaign Version (Japan).chd" sha1="3de2e4d3de1b31517fbf0c5fd0ce4a1283205cd9" />
 	</machine>
 	<machine name="Davis Cup Tennis, The (Japan)">
 		<category>Games</category>
@@ -1026,7 +1026,7 @@
 		<category>Games</category>
 		<description>Hypernova Blast (USA) (Unl)</description>
 		<year>2014</year>
-		<manufacturer> VodSound</manufacturer>
+		<manufacturer>MindRec &amp; VodSound</manufacturer>
 		<disk name="Hypernova Blast (USA) (Unl).chd" sha1="2d5059fc38ba24d9ee434a33eb76bf3d3a919b02" />
 	</machine>
 	<machine name="Iga Ninden Gaiou (Japan)">
@@ -1290,15 +1290,15 @@
 		<description>Legend of Xanadu - Kaze no Densetsu Xanadu II (Japan)</description>
 		<disk name="Legend of Xanadu - Kaze no Densetsu Xanadu II (Japan).chd" sha1="96f038fc6d3be06affa834a9b83b52febd37bb4e" />
 	</machine>
-	<machine name="Legion (Japan) (Alt)">
-		<category>Games</category>
-		<description>Legion (Japan) (Alt)</description>
-		<disk name="Legion (Japan) (Alt).chd" sha1="7f85b549cb282ce1797bd84e0d0a0d621861c5e9" />
-	</machine>
 	<machine name="Legion (Japan) (Rev 4)">
 		<category>Games</category>
 		<description>Legion (Japan) (Rev 4)</description>
 		<disk name="Legion (Japan) (Rev 4).chd" sha1="789cf2211cfe0e3bbee3eef7889ee80b401a2a33" />
+	</machine>
+	<machine name="Legion (Japan) (Rev 4) (Alt)">
+		<category>Games</category>
+		<description>Legion (Japan) (Rev 4) (Alt)</description>
+		<disk name="Legion (Japan) (Rev 4) (Alt).chd" sha1="7f85b549cb282ce1797bd84e0d0a0d621861c5e9" />
 	</machine>
 	<machine name="Lemmings (Japan)">
 		<category>Games</category>
@@ -2149,10 +2149,10 @@
 		<description>Shiawase Usagi II - Toraware Usagi Sailor Z (Japan) (Unl)</description>
 		<disk name="Shiawase Usagi II - Toraware Usagi Sailor Z (Japan) (Unl).chd" sha1="4af511202a1277de7caac42e871e1c495cd723b3" />
 	</machine>
-	<machine name="Shin Megami Tensei (Japan)">
+	<machine name="Shin Megami Tensei (Japan) (Rev 1)">
 		<category>Games</category>
-		<description>Shin Megami Tensei (Japan)</description>
-		<disk name="Shin Megami Tensei (Japan).chd" sha1="9cfce3f7464e6ca1f23527f3dfd216ec94772532" />
+		<description>Shin Megami Tensei (Japan) (Rev 1)</description>
+		<disk name="Shin Megami Tensei (Japan) (Rev 1).chd" sha1="9cfce3f7464e6ca1f23527f3dfd216ec94772532" />
 	</machine>
 	<machine name="Shin Nihon Pro Wrestling - '94 Battlefield in Tokyo Dome (Japan)">
 		<category>Games</category>
@@ -2459,10 +2459,10 @@
 		<description>Tenchi o Kurau (Japan)</description>
 		<disk name="Tenchi o Kurau (Japan).chd" sha1="149c747ff277e473bc37a59fb80de8064f85c1e7" />
 	</machine>
-	<machine name="Tengai Makyou - Deden no Kabuki-den (Japan)">
+	<machine name="Tengai Makyou - Deden no Den (Japan)">
 		<category>Games</category>
-		<description>Tengai Makyou - Deden no Kabuki-den (Japan)</description>
-		<disk name="Tengai Makyou - Deden no Kabuki-den (Japan).chd" sha1="92e7836faeee23f17c20fbd56a0a50033497d8d4" />
+		<description>Tengai Makyou - Deden no Den (Japan)</description>
+		<disk name="Tengai Makyou - Deden no Den (Japan).chd" sha1="92e7836faeee23f17c20fbd56a0a50033497d8d4" />
 	</machine>
 	<machine name="Tenshi no Uta (Japan)">
 		<category>Games</category>
@@ -2878,7 +2878,7 @@
 	<machine name="avenger\avenger (cd)(jpn)">
 		<description>Avenger (Japan)</description>
 		<year>1990</year>
-		<manufacturer> Telenet</manufacturer>
+		<manufacturer>Nihon Telenet</manufacturer>
 		<disk name="avenger\avenger (cd)(jpn).chd" sha1="3e46d72fb9de5c085757d3c2321c496960b4631b" />
 	</machine>
 	<machine name="avgeo\advanced variable geo (scd)(jpn)">
@@ -2996,13 +2996,13 @@
 		<disk name="bnzabros\bonanza bros. (scd)(jpn).chd" sha1="62a47d4e48515a82c72ef0e5981223ae7fbb6b7c" />
 	</machine>
 	<machine name="bombmn94\bomberman '94 taikenban (scd)(jpn)">
-		<description>94 Taikenban (Japan)</description>
+		<description>Bomberman '94 Taikenban (Japan)</description>
 		<year>1993</year>
 		<manufacturer>Hudson</manufacturer>
 		<disk name="bombmn94\bomberman '94 taikenban (scd)(jpn).chd" sha1="0554847cd9ed55c06de16566729b2fc35a5ad596" />
 	</machine>
 	<machine name="bonk3\bonk iii - bonk's big adventure (scd)(usa)">
-		<description>s Big Adventure (USA)</description>
+		<description>Bonk III - Bonk's Big Adventure (USA)</description>
 		<year>1993</year>
 		<manufacturer>Hudson Soft / Red</manufacturer>
 		<disk name="bonk3\bonk iii - bonk's big adventure (scd)(usa).chd" sha1="bf2d19e58e6ee9142042fcf494f0c58671ba2f9d" />
@@ -3100,7 +3100,7 @@
 	<machine name="chrisbkn\hihou densetsu chris no bouken (cd)(jpn)">
 		<description>Hihou Densetsu Chris no Bouken (Japan)</description>
 		<year>1991</year>
-		<manufacturer>In-Video</manufacturer>
+		<manufacturer>Pack-In-Video</manufacturer>
 		<disk name="chrisbkn\hihou densetsu chris no bouken (cd)(jpn).chd" sha1="74b4be91868d5b6198682b052dde0db6892dfb19" />
 	</machine>
 	<machine name="cobra\cobra - kokuryuuou no densetsu (cd)(jpn)">
@@ -3290,19 +3290,19 @@
 		<disk name="dknight3\dragon knight iii (scd)(jpn).chd" sha1="308533dc751b1da44572f57f0f0abbb034c04da2" />
 	</machine>
 	<machine name="dknightg\dragon knight grafitti (scd)(jpn)">
-		<description> Grafitti (Japan)</description>
+		<description>Dragon Knight &amp; Grafitti (Japan)</description>
 		<year>1995</year>
 		<manufacturer>NEC Avenue</manufacturer>
 		<disk name="dknightg\dragon knight grafitti (scd)(jpn).chd" sha1="e760a7931a507340d06aa3547a9fe2b8f8cac027" />
 	</machine>
 	<machine name="dmaster\dungeon master - theron's quest (scd)(jpn)">
-		<description>s Quest (USA)</description>
+		<description>Dungeon Master - Theron's Quest (USA)</description>
 		<year>1993</year>
 		<manufacturer>FTL Games</manufacturer>
 		<disk name="dmaster\dungeon master - theron's quest (scd)(jpn).chd" sha1="ee93aec88d7960714fdd46ac9f90043c7b540340" />
 	</machine>
 	<machine name="dmaster\dungeon master - theron's quest (scd)(usa)">
-		<description>s Quest (USA)</description>
+		<description>Dungeon Master - Theron's Quest (USA)</description>
 		<year>1993</year>
 		<manufacturer>FTL Games</manufacturer>
 		<disk name="dmaster\dungeon master - theron's quest (scd)(usa).chd" sha1="0b76285006cf9b4a8ae4bbc8f03c798ad7f4f41b" />
@@ -3386,7 +3386,7 @@
 		<disk name="dynhero\the dynastic hero (scd)(usa).chd" sha1="18855cf1d6e27b897033a4f11fdf34217d0e5095" />
 	</machine>
 	<machine name="eferajil\efera jiliora - the emblem from darkness (cd)(jpn)">
-		<description> Jiliora - The Emblem from Darkness (Japan)</description>
+		<description>Efera &amp; Jiliora - The Emblem from Darkness (Japan)</description>
 		<year>1991</year>
 		<manufacturer>Brain Gray</manufacturer>
 		<disk name="eferajil\efera jiliora - the emblem from darkness (cd)(jpn).chd" sha1="aa6269af5a311da823e93abb2291838f981212be" />
@@ -3490,7 +3490,7 @@
 	<machine name="fireproj\fire pro joshi - dome choujo taisen (acd)(jpn)">
 		<description>Wrestling Universe - Fire Pro Joshi - Dome Choujo Taisen - WOWOW vs. JWP (Japan)</description>
 		<year>1995</year>
-		<manufacturer>tertainment</manufacturer>
+		<manufacturer>Human Entertainment</manufacturer>
 		<disk name="fireproj\fire pro joshi - dome choujo taisen (acd)(jpn).chd" sha1="5fa0e5786e368905e73aed8664b7f12795bb6ccf" />
 	</machine>
 	<machine name="flashhid\flash hiders (scd)(jpn)">
@@ -3524,7 +3524,7 @@
 		<disk name="fraycd\fray cd xak gaiden (scd)(jpn).chd" sha1="3703e536e5a7290f47777da2c17c34b6308ff143" />
 	</machine>
 	<machine name="fsoccr95\formation soccer '95 - della serie a (acd, scd)(jpn)">
-		<description>95 - Della Serie A (ACD, SCD)(Japan)</description>
+		<description>Formation Soccer '95 - Della Serie A (ACD, SCD)(Japan)</description>
 		<year>1995</year>
 		<manufacturer>Human Entertainment</manufacturer>
 		<disk name="fsoccr95\formation soccer '95 - della serie a (acd, scd)(jpn).chd" sha1="dcca70322c1b6e308772a60ed1e6ce7daebf49ea" />
@@ -3644,7 +3644,7 @@
 		<disk name="goldnaxe\golden axe (cd)(jpn).chd" sha1="04c7d585b68f49d76e951401359512a1967f1dd1" />
 	</machine>
 	<machine name="gotzendi\gotzendiener (scd)(jpn)">
-		<description>er (Japan)</description>
+		<description>Götzendiener (Japan)</description>
 		<year>1994</year>
 		<manufacturer>NEC Home Electronics</manufacturer>
 		<disk name="gotzendi\gotzendiener (scd)(jpn).chd" sha1="4274a63b8d3a47840eb4018e6e6b2bff4e8494f4" />
@@ -3760,7 +3760,7 @@
 	<machine name="humanspt\human sports festival (scd)(jpn)">
 		<description>Human Sports Festival (Japan)</description>
 		<year>1992</year>
-		<manufacturer>ainment</manufacturer>
+		<manufacturer>Human Entertainment</manufacturer>
 		<disk name="humanspt\human sports festival (scd)(jpn).chd" sha1="c16332caca64e564efad3102b9bc8a7e1ae1cd26" />
 	</machine>
 	<machine name="hupga2\hu pga tour power golf 2 - golfer (scd)(jpn)">
@@ -3920,19 +3920,19 @@
 		<disk name="jimpower\jim power - in mutant planet (scd)(jpn).chd" sha1="81cc656de1ec4a253b9c7ac7f0771ed6ec618867" />
 	</machine>
 	<machine name="jjcleopa\CleopatrasCurseDemo">
-		<description>s Curse</description>
+		<description>Jessie Jaeger in Cleopatra's Curse</description>
 		<year>2021</year>
 		<manufacturer>Bold Game Studio</manufacturer>
 		<disk name="jjcleopa\CleopatrasCurseDemo.chd" sha1="31a98a477683cc503817b4403213251d4b64a189" />
 	</machine>
 	<machine name="jleagt94\j. league tremendous soccer '94 (acd, scd)(jpn)">
-		<description>94 (ACD, SCD)(Japan)</description>
+		<description>J. League Tremendous Soccer '94 (ACD, SCD)(Japan)</description>
 		<year>1994</year>
 		<manufacturer>NEC Home Electronics</manufacturer>
 		<disk name="jleagt94\j. league tremendous soccer '94 (acd, scd)(jpn).chd" sha1="86dfb2c2fb22cbe09a710d40cdc2d2400f866b83" />
 	</machine>
 	<machine name="jongmstr\janshin densetsu - quest of jongmaster (acd)(jpn)">
-		<description>su - Quest of Jongmaster (Japan)</description>
+		<description>Janshin Densetsu - Quest of Jongmaster (Japan)</description>
 		<year>1995</year>
 		<manufacturer>NEC Home Electronics</manufacturer>
 		<disk name="jongmstr\janshin densetsu - quest of jongmaster (acd)(jpn).chd" sha1="a3aa8572273579803e83db3107a583fce3a96ae7" />
@@ -3940,7 +3940,7 @@
 	<machine name="jthunder\j thunder (scd)(jpn)">
 		<description>J Thunder (Japan)</description>
 		<year>1990</year>
-		<manufacturer>&gt;</manufacturer>
+		<manufacturer>&lt;unknown&gt;</manufacturer>
 		<disk name="jthunder\j thunder (scd)(jpn).chd" sha1="53f4a50254c82eb87fdd31db703f42176e544170" />
 	</machine>
 	<machine name="juuouki\juuouki (cd)(jpn)">
@@ -3964,7 +3964,7 @@
 	<machine name="karao2ni\rom karaoke - volume ii - nattoku idol (cd)(jpn)">
 		<description>Rom² Karaoke - Volume II - Nattoku Idol (Japan)</description>
 		<year>1990</year>
-		<manufacturer>ndustries</manufacturer>
+		<manufacturer>Victor Musical Industries</manufacturer>
 		<disk name="karao2ni\rom karaoke - volume ii - nattoku idol (cd)(jpn).chd" sha1="b5759eee4a7490ddd655c7fd592f7467f314bad8" />
 	</machine>
 	<machine name="karao3yb\rom karaoke - volume iii - yappashi band (cd)(jpn)">
@@ -3974,7 +3974,7 @@
 		<disk name="karao3yb\rom karaoke - volume iii - yappashi band (cd)(jpn).chd" sha1="4c2c7b242f45191be94919751abfb7e3d915b917" />
 	</machine>
 	<machine name="karao4co\rom karaoke - volume iv - choito otona (cd)(jpn)">
-		<description> - Volume IV - Choito Otona! (Japan)</description>
+		<description>Rom² Karaoke - Volume IV - Choito Otona! (Japan)</description>
 		<year>1990</year>
 		<manufacturer>Victor Musical Industries</manufacturer>
 		<disk name="karao4co\rom karaoke - volume iv - choito otona (cd)(jpn).chd" sha1="c993f4dd77fc97521aeba40ab27d42040e884bed" />
@@ -4412,7 +4412,7 @@
 		<disk name="motoroad\motoroader mc (scd)(jpn).chd" sha1="e165adc5cbbae629433c8a261ae293408e412544" />
 	</machine>
 	<machine name="motteke\motteke tamago [imperfect] (scd)(jpn)">
-		<description>amago (Japan)</description>
+		<description>Motteke Tamago (Japan)</description>
 		<year>1997</year>
 		<manufacturer>Naxat Soft</manufacturer>
 		<disk name="motteke\motteke tamago [imperfect] (scd)(jpn).chd" sha1="79af992acd8299972a6b11f3a0e80d31e5cccd64" />
@@ -4466,13 +4466,13 @@
 		<disk name="nexzr\nexzr (scd)(jpn).chd" sha1="89a69bd1549937ecadea8b990d422a0ef1cb2665" />
 	</machine>
 	<machine name="nicklaus\jack nicklaus turbo golf (cd)(usa)">
-		<description>ack Nicklaus Turbo Golf (USA)</description>
+		<description>Jack Nicklaus Turbo Golf (USA)</description>
 		<year>1990</year>
 		<manufacturer>Accolade</manufacturer>
 		<disk name="nicklaus\jack nicklaus turbo golf (cd)(usa).chd" sha1="60262f3dbbd929507c7beba31549aebb9a6902ff" />
 	</machine>
 	<machine name="nicklaus\jack nicklaus world tour golf (cd)(jpn)">
-		<description>ack Nicklaus Turbo Golf (USA)</description>
+		<description>Jack Nicklaus Turbo Golf (USA)</description>
 		<year>1990</year>
 		<manufacturer>Accolade</manufacturer>
 		<disk name="nicklaus\jack nicklaus world tour golf (cd)(jpn).chd" sha1="08397baeb914de11e7d8ac4afa4fa04b3e3daa3f" />
@@ -4568,7 +4568,7 @@
 		<disk name="popful\magical fantasy adventure - popful mail (acd, scd)(jpn).chd" sha1="d67f86fdf797afab868ee8779c9f4ac65977b3ed" />
 	</machine>
 	<machine name="popnmagi\pop'n magic (scd)(jpn)">
-		<description>n Magic (Japan)</description>
+		<description>Pop'n Magic (Japan)</description>
 		<year>1992</year>
 		<manufacturer>Nihon Telenet</manufacturer>
 		<disk name="popnmagi\pop'n magic (scd)(jpn).chd" sha1="e2460ffa0b7a5631c171a6c57fe2410355e2d93a" />
@@ -4612,7 +4612,7 @@
 	<machine name="prinmak2\princess maker ii (acd, scd)(jpn)">
 		<description>Princess Maker 2 (ACD, SCD)(Japan)</description>
 		<year>1995</year>
-		<manufacturer> Home Electronics</manufacturer>
+		<manufacturer>NEC Home Electronics</manufacturer>
 		<disk name="prinmak2\princess maker ii (acd, scd)(jpn).chd" sha1="ec9ff9322bff4520fd371092e736d384274272ea" />
 	</machine>
 	<machine name="priveyed\private eyedol (acd, scd)(jpn)">
@@ -4622,7 +4622,7 @@
 		<disk name="priveyed\private eyedol (acd, scd)(jpn).chd" sha1="5f974ff0ade8d37f8d02375d8e3d734fb624f451" />
 	</machine>
 	<machine name="proyak94\the pro yakyuu super '94 (scd)(jpn)">
-		<description>94 (Japan)</description>
+		<description>The Pro Yakyuu Super '94 (Japan)</description>
 		<year>1994</year>
 		<manufacturer>Intec</manufacturer>
 		<disk name="proyak94\the pro yakyuu super '94 (scd)(jpn).chd" sha1="b6f3a7444726842ce73f17da26e62674243f6150" />
@@ -4718,7 +4718,7 @@
 		<disk name="quizmaru\quiz marugoto the world (cd)(jpn).chd" sha1="8caecd401974605379ada1725dce8341b7fd7bd1" />
 	</machine>
 	<machine name="quiznoho\quiz no hoshi (scd)(jpn)">
-		<description>an)</description>
+		<description>Quiz no Hoshi (Japan)</description>
 		<year>1992</year>
 		<manufacturer>Sunsoft</manufacturer>
 		<disk name="quiznoho\quiz no hoshi (scd)(jpn).chd" sha1="0fafb26949d9d0f8721d3d247111b59bc57a7c56" />
@@ -4845,7 +4845,7 @@
 	</machine>
 	<machine name="scdrpgs\super cd-rom rpg sampler (scd)(jpn)">
 		<description>Super CD-ROM² Taiken Soft-shuu (Japan)</description>
-		<year>991</year>
+		<year>1991</year>
 		<manufacturer>Hudson</manufacturer>
 		<disk name="scdrpgs\super cd-rom rpg sampler (scd)(jpn).chd" sha1="da6b969f0fd8c4d08c6f66ebb96c54fef4936554" />
 	</machine>
@@ -4916,7 +4916,7 @@
 		<disk name="shangh2\shanghai ii (cd)(jpn).chd" sha1="40d1c55f99c04da6aecdf003e674a064b4187265" />
 	</machine>
 	<machine name="shangh3\shanghai iii - dragon's eye (cd)(jpn)">
-		<description>s Eye (Japan)</description>
+		<description>Shanghai III - Dragon's Eye (Japan)</description>
 		<year>1992</year>
 		<manufacturer>ASK Kodansha</manufacturer>
 		<disk name="shangh3\shanghai iii - dragon's eye (cd)(jpn).chd" sha1="4f97d67136490d8ac9d480b749637e660bc74ffd" />
@@ -4936,13 +4936,13 @@
 	<machine name="shiawas2\shiawase usagi ii - toraware usagi sailor z (scd)(jpn)">
 		<description>Shiawase Usagi II - Toraware Usagi Sailor Z (Japan)</description>
 		<year>1995</year>
-		<manufacturer>&gt;</manufacturer>
+		<manufacturer>&lt;unknown&gt;</manufacturer>
 		<disk name="shiawas2\shiawase usagi ii - toraware usagi sailor z (scd)(jpn).chd" sha1="e0d707cd280470c997bd5936bbe6bdee346b0c4c" />
 	</machine>
 	<machine name="shiawase\shiawase usagi - nureta bishoujo ichi hajimete na no ni [imperfect] (scd)(jpn)">
 		<description>Shiawase Usagi - Nureta Bishoujo Ichi Hajimete na no ni (Japan)</description>
 		<year>19??</year>
-		<manufacturer>&gt;</manufacturer>
+		<manufacturer>&lt;unknown&gt;</manufacturer>
 		<disk name="shiawase\shiawase usagi - nureta bishoujo ichi hajimete na no ni [imperfect] (scd)(jpn).chd" sha1="716f86c8aab53334bbca16f701cccbba6ef17134" />
 	</machine>
 	<machine name="shinmt\shin megami tensei (scd)(jpn)">
@@ -4966,19 +4966,19 @@
 	<machine name="shinset2\shinsetsu shiawase usagi 2 - kairaku e no invitation (scd)(jpn)">
 		<description>Shinsetsu Shiawase Usagi 2 - Kairaku e no Invitation (Japan)</description>
 		<year>1996</year>
-		<manufacturer>&gt;</manufacturer>
+		<manufacturer>&lt;unknown&gt;</manufacturer>
 		<disk name="shinset2\shinsetsu shiawase usagi 2 - kairaku e no invitation (scd)(jpn).chd" sha1="29f53d0d7595a5c8e084eb9105f24e4acf956213" />
 	</machine>
 	<machine name="shinsetf\shinsetsu shiawase usagi f - yuujou yori mo aiyoku (scd)(jpn)">
 		<description>Shinsetsu Shiawase Usagi f - Yuujou Yori mo Aiyoku (Japan)</description>
 		<year>1997</year>
-		<manufacturer>&gt;</manufacturer>
+		<manufacturer>&lt;unknown&gt;</manufacturer>
 		<disk name="shinsetf\shinsetsu shiawase usagi f - yuujou yori mo aiyoku (scd)(jpn).chd" sha1="6e9702e1fc04e3da3284d2b4dedae52d903595f1" />
 	</machine>
 	<machine name="shinsets\shinsetsu shiawase usagi (scd)(jpn)">
 		<description>Shinsetsu Shiawase Usagi (Japan)</description>
 		<year>1995</year>
-		<manufacturer>&gt;</manufacturer>
+		<manufacturer>&lt;unknown&gt;</manufacturer>
 		<disk name="shinsets\shinsetsu shiawase usagi (scd)(jpn).chd" sha1="d4f78b420481bc6108ae8d9ade124be322a7f9c4" />
 	</machine>
 	<machine name="shougidb\shougi database kiyuu (scd)(jpn)">
@@ -4994,13 +4994,13 @@
 		<disk name="shubibi3\kaizou choujin shubibinman iii - ikai no princess (cd)(jpn).chd" sha1="9d57955ce4beeb6c2cb7f2183ca1b10633e06648" />
 	</machine>
 	<machine name="silkylip\mahou no shoujo silky lip [ver 3.1 prototype][backup] (scd)(jpn)">
-		<description>y Lip (Japan, prototype v5.0)</description>
+		<description>Mahou no Shoujo Silky Lip (Japan, prototype v5.0)</description>
 		<year>1994</year>
 		<manufacturer>Nihon Telenet</manufacturer>
 		<disk name="silkylip\mahou no shoujo silky lip [ver 3.1 prototype][backup] (scd)(jpn).chd" sha1="995b02caf5d074709da18c78ae1261b915b721cb" />
 	</machine>
 	<machine name="silkylip\mahou no shoujo silky lip [ver 5.0 prototype][backup][alt] (scd)(jpn)">
-		<description>y Lip (Japan, prototype v5.0)</description>
+		<description>Mahou no Shoujo Silky Lip (Japan, prototype v5.0)</description>
 		<year>1994</year>
 		<manufacturer>Nihon Telenet</manufacturer>
 		<disk name="silkylip\mahou no shoujo silky lip [ver 5.0 prototype][backup][alt] (scd)(jpn).chd" sha1="8d0362745be4d8e308a4147fc16981e35896c85c" />
@@ -5132,7 +5132,7 @@
 		<disk name="spriggn2\spriggan mark ii - re terraform project [imperfect] (scd)(jpn).chd" sha1="a0c099793487d06a3c8e21ab4460294370bd17fc" />
 	</machine>
 	<machine name="sprowr94\battlefield '94 in tokyo dome (acd)(jpn)">
-		<description>94 Battlefield in Tokyo Dome (Japan)</description>
+		<description>Shin Nihon Pro Wrestling Kounin - '94 Battlefield in Tokyo Dome (Japan)</description>
 		<year>1994</year>
 		<manufacturer>Fujicom</manufacturer>
 		<disk name="sprowr94\battlefield '94 in tokyo dome (acd)(jpn).chd" sha1="693965dba7f42e9c7b1d2cf5e3e357ed343159cb" />
@@ -5158,7 +5158,7 @@
 	<machine name="srmp5\super real mahjong p v custom (acd, scd)(jpn)">
 		<description>Super Real Mahjong P V Custom (ACD, SCD)(Japan)</description>
 		<year>1995</year>
-		<manufacturer>t</manufacturer>
+		<manufacturer>Naxat Soft</manufacturer>
 		<disk name="srmp5\super real mahjong p v custom (acd, scd)(jpn).chd" sha1="c15ac10405bf2411add3e16149f9378d99e505b1" />
 	</machine>
 	<machine name="srmspec\super real mahjong special (scd)(jpn)">
@@ -5204,7 +5204,7 @@
 		<disk name="startody\startling odyssey (scd)(jpn).chd" sha1="05266082d15ba611bb82f5f7a6fa4d2add7ca4ae" />
 	</machine>
 	<machine name="steamhea\steam heart's [imperfect] (scd)(jpn)">
-		<description>s (Japan)</description>
+		<description>Steam Heart's (Japan)</description>
 		<year>1996</year>
 		<manufacturer>TGL</manufacturer>
 		<disk name="steamhea\steam heart's [imperfect] (scd)(jpn).chd" sha1="3c334135c7c199928b7e96d2d4172672ca2fbcb0" />
@@ -5216,19 +5216,19 @@
 		<disk name="strider\strider hiryuu (acd)(jpn).chd" sha1="69cec05977c58645e6108255583f75a74c26d99c" />
 	</machine>
 	<machine name="sugoroku\sugoroku '92 nari tore nariagari trendy (cd)(jpn)">
-		<description>92 Nari Tore Nariagari Trendy (Japan)</description>
+		<description>Sugoroku '92 Nari Tore Nariagari Trendy (Japan)</description>
 		<year>1991</year>
 		<manufacturer>Nihon Telenet</manufacturer>
 		<disk name="sugoroku\sugoroku '92 nari tore nariagari trendy (cd)(jpn).chd" sha1="333004be389b5462855750cb16a86d5d52aaa51e" />
 	</machine>
 	<machine name="summer92\summer carnival '92 - alzadick (cd)(jpn)">
-		<description>92 - Alzadick (Japan)</description>
+		<description>Summer Carnival '92 - Alzadick (Japan)</description>
 		<year>1992</year>
 		<manufacturer>Naxat Soft</manufacturer>
 		<disk name="summer92\summer carnival '92 - alzadick (cd)(jpn).chd" sha1="aee667b43fc11e03510180c37ea423cf2b6a4a6f" />
 	</machine>
 	<machine name="summer93\summer carnival '93 - nexzr special (scd)(jpn)">
-		<description>93 - Nexzr Special (Japan)</description>
+		<description>Summer Carnival '93 - Nexzr Special (Japan)</description>
 		<year>1993</year>
 		<manufacturer>Naxat Soft</manufacturer>
 		<disk name="summer93\summer carnival '93 - nexzr special (scd)(jpn).chd" sha1="dfa703379db9e7ade84c94f490023720e35f0e92" />
@@ -5294,7 +5294,7 @@
 		<disk name="tadaima\tadaima yuusha boshuuchuu (scd)(jpn).chd" sha1="085f8dccdcacdd4bb4cefa0ed09035436e3595ff" />
 	</machine>
 	<machine name="taiheiki\taiheiki (cd)(jpn)">
-		<description>apan)</description>
+		<description>Taiheiki (Japan)</description>
 		<year>1991</year>
 		<manufacturer>Intec</manufacturer>
 		<disk name="taiheiki\taiheiki (cd)(jpn).chd" sha1="7e1b57ce31b12e28d3e9c46974e22e606b43207f" />
@@ -5318,7 +5318,7 @@
 		<disk name="tekiwork\tekipaki working love (scd)(jpn).chd" sha1="c78b0ef0c57ca47a2be5c50e6a894bc9d4fb261a" />
 	</machine>
 	<machine name="tenchi\tenchi muyou ryououki (scd)(jpn)">
-		<description>n)</description>
+		<description>Tenchi Muyou! Ryououki (Japan)</description>
 		<year>1995</year>
 		<manufacturer>NEC Avenue</manufacturer>
 		<disk name="tenchi\tenchi muyou ryououki (scd)(jpn).chd" sha1="d1ba86e073be9ee6674254a156f9e4f7df0b3d8b" />
@@ -5342,7 +5342,7 @@
 		<disk name="tengaima\tengai makyou - kabuki ittou ryoudan (acd)(jpn).chd" sha1="928264b8845d6c49a1e8059387f5c840a96d209f" />
 	</machine>
 	<machine name="tengaims\tengai makyou - fuuun kabuki den shutsugeki no sho (scd)(jpn)">
-		<description>un Kabuki Den Shutsugeki no Sho (Japan)</description>
+		<description>Tengai Makyou - Fuu'un Kabuki Den Shutsugeki no Sho (Japan)</description>
 		<year>1993</year>
 		<manufacturer>Hudson</manufacturer>
 		<disk name="tengaims\tengai makyou - fuuun kabuki den shutsugeki no sho (scd)(jpn).chd" sha1="6beb8c6bb93fef0f4ae2e47d80aecb4314b31b39" />
@@ -5372,13 +5372,13 @@
 		<disk name="tenshiut\tenshi no uta (scd)(jpn).chd" sha1="e3a04c956d6138fddc924c40ba39d6f6b62d772e" />
 	</machine>
 	<machine name="terrafor\syd mead's terra forming [imperfect] (cd, scd)(usa)">
-		<description>s Terra Forming (CD, SCD)(USA)</description>
+		<description>Syd Mead's Terra Forming (CD, SCD)(USA)</description>
 		<year>1993</year>
 		<manufacturer>Syd Mead</manufacturer>
 		<disk name="terrafor\syd mead's terra forming [imperfect] (cd, scd)(usa).chd" sha1="516ccf5175dacc0e5da25f536d48d4f045cd2411" />
 	</machine>
 	<machine name="terrafor\terraforming (cd, scd)(jpn)">
-		<description>s Terra Forming (CD, SCD)(USA)</description>
+		<description>Syd Mead's Terra Forming (CD, SCD)(USA)</description>
 		<year>1993</year>
 		<manufacturer>Syd Mead</manufacturer>
 		<disk name="terrafor\terraforming (cd, scd)(jpn).chd" sha1="21fbd5e662a6847b296228a445e43d7f04ac13b3" />
@@ -5428,7 +5428,7 @@
 	<machine name="ultrago3\ultrabox iii gou (cd)(jpn)">
 		<description>Ultrabox III Gou (Japan)</description>
 		<year>1990</year>
-		<manufacturer>tertainment</manufacturer>
+		<manufacturer>Victor Entertainment</manufacturer>
 		<disk name="ultrago3\ultrabox iii gou (cd)(jpn).chd" sha1="1892b574dcf81a24d2c00ab2d2a61f63c7c40da7" />
 	</machine>
 	<machine name="ultrago4\ultrabox iv gou (cd)(jpn)">
@@ -5576,7 +5576,7 @@
 		<disk name="wrestang\wrestling angels - double impact (acd, scd)(jpn).chd" sha1="7ae2cd586d0661f7ff3cfdce9d6d2aacc734ac67" />
 	</machine>
 	<machine name="xak12\xak i ii (scd)(jpn)">
-		<description> II (Japan)</description>
+		<description>Xak I &amp; II (Japan)</description>
 		<year>1992</year>
 		<manufacturer>Nihon Telenet</manufacturer>
 		<disk name="xak12\xak i ii (scd)(jpn).chd" sha1="777a641afaeec7d0b60a70daaee94b298e74e5d6" />
