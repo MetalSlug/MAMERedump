@@ -3,7 +3,7 @@
 <datafile>
 	<header>
 		<name>VTech - V.Flash &amp; V.Smile Pro</name>
-		<description>MAME Redump - VTech - V.Flash &amp; V.Smile Pro - Discs (50) (2024-03-01 15-44-21)</description>
+		<description>MAME Redump - VTech - V.Flash &amp; V.Smile Pro - Discs (51) (2025-04-09 20-52-47)</description>
 		<version>0.274</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
@@ -66,11 +66,6 @@
 		<manufacturer>VTech</manufacturer>
 		<disk name="Carrera Loca en la Isla de las Vainas Fritas (Spain) (Rev 1).chd" sha1="c3c98b37c6d235815698aaf67e796a34fb7ab577" />
 	</machine>
-	<machine name="Cars - A Fond la Caisse! (France)">
-		<category>Games</category>
-		<description>Cars - A Fond la Caisse! (France)</description>
-		<disk name="Cars - A Fond la Caisse! (France).chd" sha1="a7e24ebdf66819264b1148be9cd38b61c3503899" />
-	</machine>
 	<machine name="Cars - Auf der Ueberholspur (Germany)">
 		<category>Games</category>
 		<description>Cars - Auf der Ueberholspur (Germany)</description>
@@ -90,10 +85,15 @@
 		<description>Defis Sports (France)</description>
 		<disk name="Defis Sports (France).chd" sha1="4f21e8e0cc76f0a31c697425ef25b2dae496bf89" />
 	</machine>
-	<machine name="Dingo Rallye - Fou! Fou! Fou! (France)">
+	<machine name="Dingo Rallye - Fou ! Fou ! Fou ! (France)">
 		<category>Games</category>
-		<description>Dingo Rallye - Fou! Fou! Fou! (France)</description>
-		<disk name="Dingo Rallye - Fou! Fou! Fou! (France).chd" sha1="e911b1f54ba2ef2ebc945ae6f09c2df960811cd7" />
+		<description>Dingo Rallye - Fou ! Fou ! Fou ! (France)</description>
+		<disk name="Dingo Rallye - Fou ! Fou ! Fou ! (France).chd" sha1="e911b1f54ba2ef2ebc945ae6f09c2df960811cd7" />
+	</machine>
+	<machine name="Disney - Pixar Cars - A Fond la Caisse ! (France)">
+		<category>Games</category>
+		<description>Disney - Pixar Cars - A Fond la Caisse ! (France)</description>
+		<disk name="Disney - Pixar Cars - A Fond la Caisse ! (France).chd" sha1="a7e24ebdf66819264b1148be9cd38b61c3503899" />
 	</machine>
 	<machine name="Disney Princess - Das Zauberhafte Maerchen-Abenteuer (Germany)">
 		<category>Games</category>
