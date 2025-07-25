@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>amiga_cd</name>
+		<description>amiga_cd</description>
+		<version>0.274</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="wendetta\wendetta_2175_(europe)" type="gd" sha1="a19cc2801f0f21ab34478f46d5184214530358f9" size="16308116" crc="0c822871" fullsha1="c7a4e4c9cc2acbe6b561bf2230c22529d6592e8c" dataSha1="c0fc3d2e9c5173776ea15aac460d7a155f00cae7">
+		<category>Games</category>
+		<description>Wendetta 2175 (Europe)</description>
+		<year>1996</year>
+		<manufacturer>Skills</manufacturer>
+		<rom name="wendetta_2175_(europe) (Track 01).bin" size="40416768" crc="b760b503" md5="c011904deb3443ea611656b9517590df" sha1="ba140719abc2a72c1f45df3383e1b2ecfd959feb"/>
+	</game>
+</datafile>
