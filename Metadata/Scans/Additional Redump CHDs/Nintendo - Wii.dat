@@ -4,7 +4,7 @@
 	<header>
 		<name>Nintendo - Wii</name>
 		<description>Nintendo - Wii</description>
-		<version>0.274</version>
+		<version>0.278</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -104,6 +104,16 @@
 		<description>Disney Tron - Evolution - Battle Grids (USA) (En,Fr,Es) (Championship Edition)</description>
 		<rom name="Disney Tron - Evolution - Battle Grids (USA) (En,Fr,Es) (Championship Edition).rvz" size="1376540524" crc="f3d095f9" md5="4eb348c884760d38bf4451fab6d28fc6" sha1="1578d426a42884877e68e7d8b6ccc77618dc52d7"/>
 	</game>
+	<game name="Guitar Hero III - Legends of Rock (Japan) (En,Ja)" type="cd" sha1="" size="" crc="" fullsha1="" dataSha1="">
+		<category>Games</category>
+		<description>Guitar Hero III - Legends of Rock (Japan) (En,Ja)</description>
+		<rom name="Guitar Hero III - Legends of Rock (Japan) (En,Ja).rvz" size="2950264724" crc="adf13c58" md5="f7860a717c4e962930a5707c1f085132" sha1="1b7daad48d6074ceda1b4fef603f241bb4858b04"/>
+	</game>
+	<game name="Harry Potter-wa Honhyeol-Wangja (Korea)" type="cd" sha1="" size="" crc="" fullsha1="" dataSha1="">
+		<category>Games</category>
+		<description>Harry Potter-wa Honhyeol-Wangja (Korea)</description>
+		<rom name="Harry Potter-wa Honhyeol-Wangja (Korea).rvz" size="1829157592" crc="bc435c87" md5="3cf9fd9b769b547b8df814a6a6ef440f" sha1="4f6d8589a40167d03c2a68c03fa45ac1745425ae"/>
+	</game>
 	<game name="Need for Speed - Undercover (USA, Canada) (En,Fr,Es)" type="cd" sha1="" size="" crc="" fullsha1="" dataSha1="">
 		<category>Games</category>
 		<description>Need for Speed - Undercover (USA, Canada) (En,Fr,Es)</description>
@@ -164,6 +174,11 @@
 		<description>Tierliebe - Gross Geschrieben (Europe) (De,It)</description>
 		<rom name="Tierliebe - Gross Geschrieben (Europe) (De,It).rvz" size="732730840" crc="b718fe7f" md5="41e198435b8de8cffa442b05b8194505" sha1="90510300567694792000d7b5fe7e66109b937abe"/>
 	</game>
+	<game name="We Cheer (USA) (En,Fr,Es) (Rev 1)" type="cd" sha1="" size="" crc="" fullsha1="" dataSha1="">
+		<category>Games</category>
+		<description>We Cheer (USA) (En,Fr,Es) (Rev 1)</description>
+		<rom name="We Cheer (USA) (En,Fr,Es) (Rev 1).rvz" size="2603260876" crc="326aa4c3" md5="c9957c05a75a0d6655c2a1365a382ea3" sha1="00beca001be2af12316122beeec8895c5d585ed5"/>
+	</game>
 	<game name="We Sing Robbie Williams (Europe, Australia) (En,Fr,De,Es,It)" type="cd" sha1="" size="" crc="" fullsha1="" dataSha1="">
 		<category>Games</category>
 		<description>We Sing Robbie Williams (Europe, Australia) (En,Fr,De,Es,It)</description>
@@ -174,16 +189,4 @@
 		<description>World Sports Party (Europe, Australia) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
 		<rom name="World Sports Party (Europe, Australia) (En,Fr,De,Es,It,Nl,Sv,No,Da).rvz" size="925793628" crc="9175e42b" md5="5b976584f1b4189546a11de37a841693" sha1="8e455f51e0dc0c539a4490593b60104d66f46613"/>
 	</game>
-<machine name="Guitar Hero III - Legends of Rock (Japan) (En,Ja)">
-		<description>Guitar Hero III - Legends of Rock (Japan) (En,Ja)</description>
-		<rom name="Guitar Hero III - Legends of Rock (Japan) (En,Ja).rvz" size="2950264724" crc="adf13c58" md5="f7860a717c4e962930a5707c1f085132" sha1="1b7daad48d6074ceda1b4fef603f241bb4858b04"/>
-	</machine>
-	<machine name="Harry Potter-wa Honhyeol-Wangja (Korea)">
-		<description>Harry Potter-wa Honhyeol-Wangja (Korea)</description>
-		<rom name="Harry Potter-wa Honhyeol-Wangja (Korea).rvz" size="1829157592" crc="bc435c87" md5="3cf9fd9b769b547b8df814a6a6ef440f" sha1="4f6d8589a40167d03c2a68c03fa45ac1745425ae"/>
-	</machine>
-	<machine name="We Cheer (USA) (En,Fr,Es) (Rev 1)">
-		<description>We Cheer (USA) (En,Fr,Es) (Rev 1)</description>
-		<rom name="We Cheer (USA) (En,Fr,Es) (Rev 1).rvz" size="2603260876" crc="326aa4c3" md5="c9957c05a75a0d6655c2a1365a382ea3" sha1="00beca001be2af12316122beeec8895c5d585ed5"/>
-	</machine>
 </datafile>

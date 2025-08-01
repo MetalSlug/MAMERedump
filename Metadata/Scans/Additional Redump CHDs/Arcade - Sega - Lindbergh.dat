@@ -4,7 +4,7 @@
 	<header>
 		<name>Arcade - Sega - Lindbergh</name>
 		<description>Arcade - Sega - Lindbergh</description>
-		<version>0.274</version>
+		<version>0.278</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -84,15 +84,15 @@
 		<description>Initial D 4 (Export) (Lindbergh Yellow) (Rev D)</description>
 		<rom name="Initial D 4 (Export) (Lindbergh Yellow) (Rev D).bin" size="3376480256" crc="a8128afc" md5="1a0c6bb392c26eead8f2aa1c37e1b275" sha1="e092bb3d56c1b3977366b739600429001bb619fc"/>
 	</game>
-	<game name="Let's Go Jungle (World) (En,Ja) (Lindbergh Yellow) (Rev A)" type="dvd" sha1="873041bd2d8d5ce18ff76fc7c820741c387c0207" size="1069330652" crc="fc633cff" fullsha1="f94cc56595fbb5c6c57449b0f9f0fc2e879dd193" dataSha1="ccd5c058d1ce9039672c26b47305af62899bc2b6">
-		<category>Games</category>
-		<description>Let's Go Jungle (World) (En,Ja) (Lindbergh Yellow) (Rev A)</description>
-		<rom name="Let's Go Jungle (World) (En,Ja) (Lindbergh Yellow) (Rev A).bin" size="1073774592" crc="6e231af0" md5="cbecfe556fdd9f43fe03a3e171b2dbf1" sha1="ccd5c058d1ce9039672c26b47305af62899bc2b6"/>
-	</game>
 	<game name="Let's Go Jungle (World) (En,Ja) (Lindbergh Yellow)" type="dvd" sha1="2e701fbd0bd20730752cf2c03a9dbefe925c513c" size="1088064802" crc="23004969" fullsha1="e4469e0690ec8ac8a7e6208f86b586c467e1ac35" dataSha1="012a1e13179648315163cb9bdb107fcd8ba902aa">
 		<category>Games</category>
 		<description>Let's Go Jungle (World) (En,Ja) (Lindbergh Yellow)</description>
 		<rom name="Let's Go Jungle (World) (En,Ja) (Lindbergh Yellow).bin" size="1094582272" crc="79ffa904" md5="9aa35e737e0f198dcfb92682b8e860e5" sha1="012a1e13179648315163cb9bdb107fcd8ba902aa"/>
+	</game>
+	<game name="Let's Go Jungle (World) (En,Ja) (Lindbergh Yellow) (Rev A)" type="dvd" sha1="873041bd2d8d5ce18ff76fc7c820741c387c0207" size="1069330652" crc="fc633cff" fullsha1="f94cc56595fbb5c6c57449b0f9f0fc2e879dd193" dataSha1="ccd5c058d1ce9039672c26b47305af62899bc2b6">
+		<category>Games</category>
+		<description>Let's Go Jungle (World) (En,Ja) (Lindbergh Yellow) (Rev A)</description>
+		<rom name="Let's Go Jungle (World) (En,Ja) (Lindbergh Yellow) (Rev A).bin" size="1073774592" crc="6e231af0" md5="cbecfe556fdd9f43fe03a3e171b2dbf1" sha1="ccd5c058d1ce9039672c26b47305af62899bc2b6"/>
 	</game>
 	<game name="Loving Deads - The House of the Dead EX (World) (Lindbergh Red)" type="dvd" sha1="bb6c2aed724293b1a792368b2b3c3da52c50e536" size="3520201909" crc="a65a66f7" fullsha1="45bb2e6d590a901cabaec75a0d85d652bf07114c" dataSha1="711ef70c4b59a12d037b8fe0c220bbfe8d7aff0e">
 		<category>Games</category>

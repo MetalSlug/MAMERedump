@@ -1,17 +1,17 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
 		<name>VM Labs - NUON</name>
 		<description>VM Labs - NUON</description>
-		<version>0.274</version>
+		<version>0.278</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
-	<game name="Interactive Sampler (USA)" type="dvd" sha1="A91D9A507679DB87F07DED324E3506A82F144E5B" size="2240565623" crc="BD6693AB" fullsha1="20ec2232f7d0710ac8ee8c1d573932a449ef3579" dataSha1="1467660bbf00deb5909db444abc30662e43ebbd8">
+	<game name="Interactive Sampler (USA)" type="dvd" sha1="a91d9a507679db87f07ded324e3506a82f144e5b" size="2240565623" crc="bd6693ab" fullsha1="20ec2232f7d0710ac8ee8c1d573932a449ef3579" dataSha1="1467660bbf00deb5909db444abc30662e43ebbd8">
 		<category>Games</category>
-		<description>Interactive Sampler (USA)\Interactive Sampler (USA)</description>
-		<rom name="Interactive Sampler (USA).bin" size="2509242368" crc="4964B390" md5="77E73A796140C9F5431CC8E478044673" sha1="1467660BBF00DEB5909DB444ABC30662E43EBBD8" />
+		<description>Interactive Sampler (USA)</description>
+		<rom name="Interactive Sampler (USA).bin" size="2509242368" crc="4964b390" md5="77e73a796140c9f5431cc8e478044673" sha1="1467660bbf00deb5909db444abc30662e43ebbd8"/>
 	</game>
 </datafile>

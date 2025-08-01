@@ -1,151 +1,151 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
 		<name>Commodore - Amiga CDTV</name>
 		<description>Commodore - Amiga CDTV</description>
-		<version>0.274</version>
+		<version>0.278</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
-	<game name="17 Bit - Collection for Amiga CDTV (Europe) (Disc B) (The Latest Batch)" type="cd" sha1="AD360264E4AC823977E1A1C6E4CD01E0CB7A5FD3" size="404548090" crc="EC1A4F27" fullsha1="07975d301e9f80523fe81e2f79584f82148762dd" dataSha1="210878eb42377e676b079299136399f3eb6cd916">
+	<game name="17 Bit - Collection for Amiga CDTV (Europe) (Disc B) (The Latest Batch)" type="cd" sha1="ad360264e4ac823977e1a1c6e4cd01e0cb7a5fd3" size="404548090" crc="ec1a4f27" fullsha1="07975d301e9f80523fe81e2f79584f82148762dd" dataSha1="210878eb42377e676b079299136399f3eb6cd916">
 		<category>Games</category>
 		<description>17 Bit - Collection for Amiga CDTV (Europe) (Disc B) (The Latest Batch)</description>
-		<rom name="17 Bit - Collection for Amiga CDTV (Europe) (Disc B) (The Latest Batch) (Track 01).bin" size="520556400" crc="CF3523D2" md5="DDDDD464BA83808D6A0E8C386E88013B" sha1="796ABCD266F6F6366ED12FEC264BDEB7851C3E55" />
+		<rom name="17 Bit - Collection for Amiga CDTV (Europe) (Disc B) (The Latest Batch) (Track 01).bin" size="520556400" crc="cf3523d2" md5="ddddd464ba83808d6a0e8c386e88013b" sha1="796abcd266f6f6366ed12fec264bdeb7851c3e55"/>
 	</game>
-	<game name="AMOS PD (UK)" type="cd" sha1="AEEE9DE7545498D0A2396A2A692F81CF5D6A7545" size="299123284" crc="14097175" fullsha1="81b77ded4fe75a8d2ef0234707f80da58177509b" dataSha1="350a7d2fae8d1e45a783d807685b8a86632f4817">
+	<game name="AMOS PD (UK)" type="cd" sha1="aeee9de7545498d0a2396a2a692f81cf5d6a7545" size="299123284" crc="14097175" fullsha1="81b77ded4fe75a8d2ef0234707f80da58177509b" dataSha1="350a7d2fae8d1e45a783d807685b8a86632f4817">
 		<category>Games</category>
 		<description>AMOS PD (UK)</description>
-		<rom name="AMOS PD (UK) (Track 01).bin" size="681494352" crc="5D0EB96C" md5="E696FD1B3FCE229C6D55197DC24B115C" sha1="C2DAB466663A706590931A0E8AFC92A60876ED75" />
+		<rom name="AMOS PD (UK) (Track 01).bin" size="681494352" crc="5d0eb96c" md5="e696fd1b3fce229c6d55197dc24b115c" sha1="c2dab466663a706590931a0e8afc92a60876ed75"/>
 	</game>
-	<game name="Battlestorm (Europe)" type="cd" sha1="9A3FF369F77ACF2776E73C9A6D37932D30A65502" size="138520862" crc="14780606" fullsha1="ebe06d306735c8d462403ed9d72e1d6135f94080" dataSha1="e0ea8476cb92aa76b2af77f8dc5fb3408583bec0">
+	<game name="Battlestorm (Europe)" type="cd" sha1="9a3ff369f77acf2776e73c9a6d37932d30a65502" size="138520862" crc="14780606" fullsha1="ebe06d306735c8d462403ed9d72e1d6135f94080" dataSha1="e0ea8476cb92aa76b2af77f8dc5fb3408583bec0">
 		<category>Games</category>
 		<description>Battlestorm (Europe)</description>
-		<rom name="Battlestorm (Europe) (Track 01).bin" size="1822800" crc="175686ED" md5="33BEEEC5550D7FF07DA26E007AF35FF2" sha1="1AEFF50854B19F0810B3ABF3D6E010F420C8B8F8" />
-		<rom name="Battlestorm (Europe) (Track 02).bin" size="2888256" crc="F3585C58" md5="107E0D299F37A5659955616D3E8A1D03" sha1="3F784EFD55CACC7E09A6972AC16CF58599330CCF" />
-		<rom name="Battlestorm (Europe) (Track 03).bin" size="4367664" crc="F05F2B43" md5="823897FF9B3049ACDA6B0514D6B36A0F" sha1="0701EB992EF395ED4BBDC78C4F90081DA85E1140" />
-		<rom name="Battlestorm (Europe) (Track 04).bin" size="4417056" crc="D2DEDE96" md5="019A106CF047C330A030CC82EF43AFA4" sha1="C93F26AF8C96B56133FA3E4B319D495ECEA8C848" />
-		<rom name="Battlestorm (Europe) (Track 05).bin" size="4426464" crc="3BCE9366" md5="0F4789DDA9653D7B01872D351E914612" sha1="416A0F3B0A549F248817F0576AFE18EE6D330201" />
-		<rom name="Battlestorm (Europe) (Track 06).bin" size="3158736" crc="5128CC36" md5="C6807D9D910985791BA1EF9ACD51881F" sha1="4EAD44C3A1BE77BF7DB39553F1AA9CDE5311A105" />
-		<rom name="Battlestorm (Europe) (Track 07).bin" size="23912784" crc="C4A56DE4" md5="650EAD542D248C877A1059B0B2D14EA0" sha1="BCCE417E3BFE009A33C34C280C32BE6AEF73D85E" />
-		<rom name="Battlestorm (Europe) (Track 08).bin" size="18898320" crc="4138CDC2" md5="671DB596290F182A752DF4EE02F4A5CD" sha1="9787CDE56511228AC250641AC32B7F4F9F0198F0" />
-		<rom name="Battlestorm (Europe) (Track 09).bin" size="11513040" crc="7B8F90DB" md5="C46AADC6AFE2C4A1BEF2B619BDD59485" sha1="EEA608441090E6BAEC878EB4973A33D15982DEDA" />
-		<rom name="Battlestorm (Europe) (Track 10).bin" size="34938960" crc="42CFEC89" md5="BB6E36C46F54893B66FF93C6D05871B1" sha1="851508D77E21663603A71BC081B37CC7C1318F87" />
-		<rom name="Battlestorm (Europe) (Track 11).bin" size="38078880" crc="7E8992D3" md5="7A9590D7A3F8A596FEF3210AC38F3627" sha1="FE991B0E6F6F2FA61989F01D94B16E4A8C46FB24" />
-		<rom name="Battlestorm (Europe) (Track 12).bin" size="41759760" crc="6F7E91FE" md5="B0660936A7881CA24BE556DA0FB543B0" sha1="D50BBE02B94F2EE9710CC4A9E335C72BC6D60894" />
-		<rom name="Battlestorm (Europe) (Track 13).bin" size="38321136" crc="DB8B752E" md5="D4BF4B22AD6E251BDFF1D3B351465394" sha1="9F9C1C628CD5334A60C591E856A5F4D66246B57F" />
-		<rom name="Battlestorm (Europe) (Track 14).bin" size="32591664" crc="0FA48C99" md5="5DF5794A9167C7E97D638D2D0673B8B1" sha1="01C01979C2C819B6B64F93FB01271A26F44B6167" />
-		<rom name="Battlestorm (Europe) (Track 15).bin" size="2646000" crc="B8C4F957" md5="C93BE2E6989D4BD23B5B1D38A33F421D" sha1="4A01923E7D3276271353F66778A4E86BEDF73A85" />
+		<rom name="Battlestorm (Europe) (Track 01).bin" size="1822800" crc="175686ed" md5="33beeec5550d7ff07da26e007af35ff2" sha1="1aeff50854b19f0810b3abf3d6e010f420c8b8f8"/>
+		<rom name="Battlestorm (Europe) (Track 02).bin" size="2888256" crc="f3585c58" md5="107e0d299f37a5659955616d3e8a1d03" sha1="3f784efd55cacc7e09a6972ac16cf58599330ccf"/>
+		<rom name="Battlestorm (Europe) (Track 03).bin" size="4367664" crc="f05f2b43" md5="823897ff9b3049acda6b0514d6b36a0f" sha1="0701eb992ef395ed4bbdc78c4f90081da85e1140"/>
+		<rom name="Battlestorm (Europe) (Track 04).bin" size="4417056" crc="d2dede96" md5="019a106cf047c330a030cc82ef43afa4" sha1="c93f26af8c96b56133fa3e4b319d495ecea8c848"/>
+		<rom name="Battlestorm (Europe) (Track 05).bin" size="4426464" crc="3bce9366" md5="0f4789dda9653d7b01872d351e914612" sha1="416a0f3b0a549f248817f0576afe18ee6d330201"/>
+		<rom name="Battlestorm (Europe) (Track 06).bin" size="3158736" crc="5128cc36" md5="c6807d9d910985791ba1ef9acd51881f" sha1="4ead44c3a1be77bf7db39553f1aa9cde5311a105"/>
+		<rom name="Battlestorm (Europe) (Track 07).bin" size="23912784" crc="c4a56de4" md5="650ead542d248c877a1059b0b2d14ea0" sha1="bcce417e3bfe009a33c34c280c32be6aef73d85e"/>
+		<rom name="Battlestorm (Europe) (Track 08).bin" size="18898320" crc="4138cdc2" md5="671db596290f182a752df4ee02f4a5cd" sha1="9787cde56511228ac250641ac32b7f4f9f0198f0"/>
+		<rom name="Battlestorm (Europe) (Track 09).bin" size="11513040" crc="7b8f90db" md5="c46aadc6afe2c4a1bef2b619bdd59485" sha1="eea608441090e6baec878eb4973a33d15982deda"/>
+		<rom name="Battlestorm (Europe) (Track 10).bin" size="34938960" crc="42cfec89" md5="bb6e36c46f54893b66ff93c6d05871b1" sha1="851508d77e21663603a71bc081b37cc7c1318f87"/>
+		<rom name="Battlestorm (Europe) (Track 11).bin" size="38078880" crc="7e8992d3" md5="7a9590d7a3f8a596fef3210ac38f3627" sha1="fe991b0e6f6f2fa61989f01d94b16e4a8c46fb24"/>
+		<rom name="Battlestorm (Europe) (Track 12).bin" size="41759760" crc="6f7e91fe" md5="b0660936a7881ca24be556da0fb543b0" sha1="d50bbe02b94f2ee9710cc4a9e335c72bc6d60894"/>
+		<rom name="Battlestorm (Europe) (Track 13).bin" size="38321136" crc="db8b752e" md5="d4bf4b22ad6e251bdff1d3b351465394" sha1="9f9c1c628cd5334a60c591e856a5f4d66246b57f"/>
+		<rom name="Battlestorm (Europe) (Track 14).bin" size="32591664" crc="0fa48c99" md5="5df5794a9167c7e97d638d2d0673b8b1" sha1="01c01979c2c819b6b64f93fb01271a26f44b6167"/>
+		<rom name="Battlestorm (Europe) (Track 15).bin" size="2646000" crc="b8c4f957" md5="c93be2e6989d4bd23b5b1d38a33f421d" sha1="4a01923e7d3276271353f66778a4e86bedf73a85"/>
 	</game>
-	<game name="CD Remix Version II (Europe)" type="cd" sha1="9F96770EEB5F7C2A37561782A384E6656B02ABBC" size="9941634" crc="07FEF5F3" fullsha1="1080455a511647c8d96a094fc679f60677b9cc36" dataSha1="d3feee0996218335c36bb8fb35a40b1ba33f1085">
+	<game name="CD Remix Version II (Europe)" type="cd" sha1="9f96770eeb5f7c2a37561782a384e6656b02abbc" size="9941634" crc="07fef5f3" fullsha1="1080455a511647c8d96a094fc679f60677b9cc36" dataSha1="d3feee0996218335c36bb8fb35a40b1ba33f1085">
 		<category>Games</category>
 		<description>CD Remix Version II (Europe)</description>
-		<rom name="CD Remix Version II (Europe) (Track 01).bin" size="69325200" crc="5B69DA2D" md5="CB908FDFC8A2F85C33A5808E68993962" sha1="2712B4DD677DC87F76493F7FB382A9760600086D" />
+		<rom name="CD Remix Version II (Europe) (Track 01).bin" size="69325200" crc="5b69da2d" md5="cb908fdfc8a2f85c33a5808e68993962" sha1="2712b4dd677dc87f76493f7fb382a9760600086d"/>
 	</game>
-	<game name="CDPD 1 (Europe)" type="cd" sha1="483C5962F1DFD16D5766F2AA8D9A51A1E2F90E2F" size="275841259" crc="1EAF90FB" fullsha1="c5ce61d0400b373d5aba18e9df42d1d9763dbbc9" dataSha1="ac0ede13fbcdc19ba534aa0b3ba205c408825b7d">
+	<game name="CDPD 1 (Europe)" type="cd" sha1="483c5962f1dfd16d5766f2aa8d9a51a1e2f90e2f" size="275841259" crc="1eaf90fb" fullsha1="c5ce61d0400b373d5aba18e9df42d1d9763dbbc9" dataSha1="ac0ede13fbcdc19ba534aa0b3ba205c408825b7d">
 		<category>Games</category>
 		<description>CDPD 1 (Europe)</description>
-		<rom name="CDPD 1 (Europe) (Track 01).bin" size="719100480" crc="3A8B9C52" md5="48E3F0114FADBBBEDE435A914DCB2E2D" sha1="225AACB6444AC647E32A95181596AFF874996137" />
+		<rom name="CDPD 1 (Europe) (Track 01).bin" size="719100480" crc="3a8b9c52" md5="48e3f0114fadbbbede435a914dcb2e2d" sha1="225aacb6444ac647e32a95181596aff874996137"/>
 	</game>
-	<game name="CDPD 1 (Europe) (CD32 Compatible)" type="cd" sha1="D25D9E07D9870A574F29CCD92D8B0FC7B0104C64" size="280799425" crc="0634982B" fullsha1="b1030863295bdbc69c6031bae4338275c22e1000" dataSha1="6a81de6f1d0cdae8365d45f40c4070cd59ab6b0f">
+	<game name="CDPD 1 (Europe) (CD32 Compatible)" type="cd" sha1="d25d9e07d9870a574f29ccd92d8b0fc7b0104c64" size="280799425" crc="0634982b" fullsha1="b1030863295bdbc69c6031bae4338275c22e1000" dataSha1="6a81de6f1d0cdae8365d45f40c4070cd59ab6b0f">
 		<category>Games</category>
 		<description>CDPD 1 (Europe) (CD32 Compatible)</description>
-		<rom name="CDPD 1 (Europe) (CD32 Compatible) (Track 01).bin" size="735348096" crc="027037D7" md5="179890822E85C9990E50D0888370A73B" sha1="B7BFFFBA90DB15F4EFFD1FD27BF5D302411353C5" />
+		<rom name="CDPD 1 (Europe) (CD32 Compatible) (Track 01).bin" size="735348096" crc="027037d7" md5="179890822e85c9990e50d0888370a73b" sha1="b7bfffba90db15f4effd1fd27bf5d302411353c5"/>
 	</game>
-	<game name="CDPD 2 (Europe)" type="cd" sha1="3F7060BD31BE46891FD33E84A54234920F34C589" size="274031968" crc="3BCCDA81" fullsha1="a5bea7abf4e5302b7afa761e700246b7ce7943d4" dataSha1="cd6bc2787eb8ee59488ee0be1499df6b37342f66">
+	<game name="CDPD 2 (Europe)" type="cd" sha1="3f7060bd31be46891fd33e84a54234920f34c589" size="274031968" crc="3bccda81" fullsha1="a5bea7abf4e5302b7afa761e700246b7ce7943d4" dataSha1="cd6bc2787eb8ee59488ee0be1499df6b37342f66">
 		<category>Games</category>
 		<description>CDPD 2 (Europe)</description>
-		<rom name="CDPD 2 (Europe) (Track 01).bin" size="635216400" crc="D042057B" md5="9AA3D776A31DF428F5D507FF41D4C15F" sha1="C23883895864584040BCC03145C8F4A3FA77BB1B" />
+		<rom name="CDPD 2 (Europe) (Track 01).bin" size="635216400" crc="d042057b" md5="9aa3d776a31df428f5d507ff41d4c15f" sha1="c23883895864584040bcc03145c8f4a3fa77bb1b"/>
 	</game>
-	<game name="CDPD 3 (Europe)" type="cd" sha1="C92D1179CC11ABDE6B92A0D637BDFC6E88DE99DD" size="379763427" crc="7B788336" fullsha1="f9618916987ef0b4ba43bcd3eeb043386eded3ac" dataSha1="fbedd19c4addc4c468ee31dd0dfd2ab4e323ae52">
+	<game name="CDPD 3 (Europe)" type="cd" sha1="c92d1179cc11abde6b92a0d637bdfc6e88de99dd" size="379763427" crc="7b788336" fullsha1="f9618916987ef0b4ba43bcd3eeb043386eded3ac" dataSha1="fbedd19c4addc4c468ee31dd0dfd2ab4e323ae52">
 		<category>Games</category>
 		<description>CDPD 3 (Europe)</description>
-		<rom name="CDPD 3 (Europe) (Track 01).bin" size="707131152" crc="A1A24C58" md5="8712BE6E9745842A7C9AC72E6F4E8167" sha1="589860D5C9B97B4EE4BA14FAB6EC29247DA6E3D9" />
+		<rom name="CDPD 3 (Europe) (Track 01).bin" size="707131152" crc="a1a24c58" md5="8712be6e9745842a7c9ac72e6f4e8167" sha1="589860d5c9b97b4ee4ba14fab6ec29247da6e3d9"/>
 	</game>
-	<game name="Case of the Cautious Condor, The (Europe)" type="cd" sha1="EE1651447B936A9ED93B527B5BA61BD51AE2CB98" size="61348810" crc="F5E2CF9F" fullsha1="3e32eae38ff8fd917dded7973ed8e973a2035f65" dataSha1="501f23d8c74b96ec815b16f7fb8b6621560632e3">
+	<game name="Case of the Cautious Condor, The (Europe)" type="cd" sha1="ee1651447b936a9ed93b527b5ba61bd51ae2cb98" size="61348810" crc="f5e2cf9f" fullsha1="3e32eae38ff8fd917dded7973ed8e973a2035f65" dataSha1="501f23d8c74b96ec815b16f7fb8b6621560632e3">
 		<category>Games</category>
 		<description>Case of the Cautious Condor, The (Europe)</description>
-		<rom name="Case of the Cautious Condor, The (Europe) (Track 01).bin" size="153204576" crc="057A0F34" md5="B1EF10BD3234FBAFA04DCB477B1DA105" sha1="506500AC32BA1D775D4EF75968CD84E8967F0690" />
+		<rom name="Case of the Cautious Condor, The (Europe) (Track 01).bin" size="153204576" crc="057a0f34" md5="b1ef10bd3234fbafa04dcb477b1da105" sha1="506500ac32ba1d775d4ef75968cd84e8967f0690"/>
 	</game>
-	<game name="Defender of the Crown II (Europe)" type="cd" sha1="867C7B1F7717EAA9E288190AC2BB02D5873710BE" size="56664160" crc="D8A339BF" fullsha1="d32c46f9d93f2b536175db3567237463dfbc7ca9" dataSha1="159dbb12b2032d0d5c286423a367eff47096a0e5">
+	<game name="Defender of the Crown II (Europe)" type="cd" sha1="867c7b1f7717eaa9e288190ac2bb02d5873710be" size="56664160" crc="d8a339bf" fullsha1="d32c46f9d93f2b536175db3567237463dfbc7ca9" dataSha1="159dbb12b2032d0d5c286423a367eff47096a0e5">
 		<category>Games</category>
 		<description>Defender of the Crown II (Europe)</description>
-		<rom name="Defender of the Crown II (Europe) (Track 01).bin" size="65028096" crc="9A65E453" md5="1F01389EDB4A08E917F2E273E163183E" sha1="31342FD20F1B39F3704809B734F82F65BE8AB7E5" />
-		<rom name="Defender of the Crown II (Europe) (Track 02).bin" size="6228096" crc="17935A2B" md5="38C8CAE9B6C3E0CC2BB761F59FEFF0DA" sha1="F25F8CB32DA8B846A243D24DA500A2BE3D7C393F" />
-		<rom name="Defender of the Crown II (Europe) (Track 03).bin" size="10819200" crc="FBBAF51E" md5="222CF42E2554610BFC657D9A48254CE0" sha1="E9819116A0BA91B06E083167E52CE6868D910879" />
-		<rom name="Defender of the Crown II (Europe) (Track 04).bin" size="5851776" crc="DD8EDE84" md5="7A30607B2CC957B54965F9D1595A17C5" sha1="F7F169853DA74548FD1B36C039D0454EB16473D8" />
-		<rom name="Defender of the Crown II (Europe) (Track 05).bin" size="5400192" crc="9E2A2D5B" md5="E835FBABC4B3FB9AC3D6ECA0C5F3779E" sha1="1EAB87F60B64B4ABE70374ABCDAA778A89683D31" />
-		<rom name="Defender of the Crown II (Europe) (Track 06).bin" size="5475456" crc="CECA1058" md5="B37A5FED6C43DE6CDCF26A0EF9E45229" sha1="C7E24D95FD87703A1594D75A4B6D9BB3B29BD035" />
-		<rom name="Defender of the Crown II (Europe) (Track 07).bin" size="5550720" crc="4362C953" md5="C9D708C2DA4763F38EB2473C327DA5F0" sha1="00F632763BF200B14ABB7C8DB44296211DCE0D13" />
-		<rom name="Defender of the Crown II (Europe) (Track 08).bin" size="6679680" crc="AE794F71" md5="E7E13268BA08AF1BCDB8DF226B7EA272" sha1="F1DA4F29BA5A1494DB6B1AF14EADBC3DD2BF0DEF" />
-		<rom name="Defender of the Crown II (Europe) (Track 09).bin" size="10743936" crc="6C5258B1" md5="E4D02162295BFD13EB692FF0D8FB06C9" sha1="043AC5A38FCD43F2EC734CF3EAF41E074F06EA35" />
-		<rom name="Defender of the Crown II (Europe) (Track 10).bin" size="1862784" crc="F5F90979" md5="1EDD4FBCB18ACC8C9D40F955C1ABA470" sha1="9ECE151333D846D16254E2830B63437BC133EDAF" />
-		<rom name="Defender of the Crown II (Europe) (Track 11).bin" size="5475456" crc="E24B36E3" md5="1B9DB0A0E657749AAD4346CACB00CDF1" sha1="CF2A8AD96BD7D4575BFB685B2F20D3A76A448FEC" />
-		<rom name="Defender of the Crown II (Europe) (Track 12).bin" size="14358960" crc="EE634C1B" md5="1560A324F2F1F089D0831D43347365C7" sha1="E27C0A64F318148AE4ADE8750F0A4204432CA514" />
+		<rom name="Defender of the Crown II (Europe) (Track 01).bin" size="65028096" crc="9a65e453" md5="1f01389edb4a08e917f2e273e163183e" sha1="31342fd20f1b39f3704809b734f82f65be8ab7e5"/>
+		<rom name="Defender of the Crown II (Europe) (Track 02).bin" size="6228096" crc="17935a2b" md5="38c8cae9b6c3e0cc2bb761f59feff0da" sha1="f25f8cb32da8b846a243d24da500a2be3d7c393f"/>
+		<rom name="Defender of the Crown II (Europe) (Track 03).bin" size="10819200" crc="fbbaf51e" md5="222cf42e2554610bfc657d9a48254ce0" sha1="e9819116a0ba91b06e083167e52ce6868d910879"/>
+		<rom name="Defender of the Crown II (Europe) (Track 04).bin" size="5851776" crc="dd8ede84" md5="7a30607b2cc957b54965f9d1595a17c5" sha1="f7f169853da74548fd1b36c039d0454eb16473d8"/>
+		<rom name="Defender of the Crown II (Europe) (Track 05).bin" size="5400192" crc="9e2a2d5b" md5="e835fbabc4b3fb9ac3d6eca0c5f3779e" sha1="1eab87f60b64b4abe70374abcdaa778a89683d31"/>
+		<rom name="Defender of the Crown II (Europe) (Track 06).bin" size="5475456" crc="ceca1058" md5="b37a5fed6c43de6cdcf26a0ef9e45229" sha1="c7e24d95fd87703a1594d75a4b6d9bb3b29bd035"/>
+		<rom name="Defender of the Crown II (Europe) (Track 07).bin" size="5550720" crc="4362c953" md5="c9d708c2da4763f38eb2473c327da5f0" sha1="00f632763bf200b14abb7c8db44296211dce0d13"/>
+		<rom name="Defender of the Crown II (Europe) (Track 08).bin" size="6679680" crc="ae794f71" md5="e7e13268ba08af1bcdb8df226b7ea272" sha1="f1da4f29ba5a1494db6b1af14eadbc3dd2bf0def"/>
+		<rom name="Defender of the Crown II (Europe) (Track 09).bin" size="10743936" crc="6c5258b1" md5="e4d02162295bfd13eb692ff0d8fb06c9" sha1="043ac5a38fcd43f2ec734cf3eaf41e074f06ea35"/>
+		<rom name="Defender of the Crown II (Europe) (Track 10).bin" size="1862784" crc="f5f90979" md5="1edd4fbcb18acc8c9d40f955c1aba470" sha1="9ece151333d846d16254e2830b63437bc133edaf"/>
+		<rom name="Defender of the Crown II (Europe) (Track 11).bin" size="5475456" crc="e24b36e3" md5="1b9db0a0e657749aad4346cacb00cdf1" sha1="cf2a8ad96bd7d4575bfb685b2f20d3a76a448fec"/>
+		<rom name="Defender of the Crown II (Europe) (Track 12).bin" size="14358960" crc="ee634c1b" md5="1560a324f2f1f089d0831d43347365c7" sha1="e27c0a64f318148ae4ade8750f0a4204432ca514"/>
 	</game>
-	<game name="Defender of the Crown II (USA) (En,Fr,De,Es,It)" type="cd" sha1="BD28C417A91B26B7417AA732BDE001ABE00C27E0" size="56663717" crc="F9BCC9C1" fullsha1="e4255ce41c96925f886a0e01f846a1ee7ff405f4" dataSha1="a06d92479e06666ddcfab82284db9e94fe6f9876">
+	<game name="Defender of the Crown II (USA) (En,Fr,De,Es,It)" type="cd" sha1="bd28c417a91b26b7417aa732bde001abe00c27e0" size="56663717" crc="f9bcc9c1" fullsha1="e4255ce41c96925f886a0e01f846a1ee7ff405f4" dataSha1="a06d92479e06666ddcfab82284db9e94fe6f9876">
 		<category>Games</category>
 		<description>Defender of the Crown II (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 01).bin" size="65030448" crc="3C1BD1A7" md5="8D06279C2D025C37185BD930BEEF5C2A" sha1="DEF7D790861D74742596BC430CE6EE73F055CED5" />
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 02).bin" size="6225744" crc="EF8F115B" md5="3E2E895FFB6546941BDBF25CF365255B" sha1="78B4DDDFE28D1EB2539CC6BBDEA00723C421E4CA" />
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 03).bin" size="10819200" crc="73BABF1B" md5="8E24B06073CDC5EC155B2C1D0D101F04" sha1="8830ADFE6248BDC6CE0558E4B730184D18F29C30" />
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 04).bin" size="5851776" crc="F51597CC" md5="E36993C26EBB6236D73CA37CDA86B9C1" sha1="74439DBAB8C2F836A8C33D73A116108735D5E041" />
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 05).bin" size="5400192" crc="63A1CE42" md5="682B7A999E97043CA32ADC03ED10BE67" sha1="E7470E8040340C5D611BE3F3C9C07832BF8E7690" />
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 06).bin" size="5475456" crc="D4F28BD1" md5="FB055E587CD4DB8B3F8FB6EB5FBA784A" sha1="1B3D88AF19FF230C431457DC67DCF984DC7BB2F6" />
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 07).bin" size="5550720" crc="59058CF0" md5="18B85AFC5E0FDA42F24ED4130F8FFC8D" sha1="BA44EBB264FBA458C5FE35E6552C448002D13308" />
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 08).bin" size="6679680" crc="292AC899" md5="005ED4F316B1B39A08FF6C2116222B98" sha1="5219D872FD05C144490BA636C9B0FB53C0CBC58C" />
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 09).bin" size="10743936" crc="B509A742" md5="D1C1FD20F36948E72D9C5BA6DDCC004B" sha1="01DEC3D1373A465FA044B088C93C1B230BC40C78" />
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 10).bin" size="1862784" crc="C8D09149" md5="1E6694FE8AB15614649B3B431C8A2DD7" sha1="AAB89AE9668D0DB76DC842625FA4D0F7E9F69E17" />
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 11).bin" size="5475456" crc="C7F71FA2" md5="5AF03014D3382588A8125CDA9A7FC59D" sha1="2F5081347FF2478F6B313C5245C75FC871066244" />
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 12).bin" size="14711760" crc="F0A729F6" md5="2DE38DCDFE7C6409317FCCD33221607D" sha1="DF2FAFE0E61DCCB635AAB213C3C87284461639BD" />
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 01).bin" size="65030448" crc="3c1bd1a7" md5="8d06279c2d025c37185bd930beef5c2a" sha1="def7d790861d74742596bc430ce6ee73f055ced5"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 02).bin" size="6225744" crc="ef8f115b" md5="3e2e895ffb6546941bdbf25cf365255b" sha1="78b4dddfe28d1eb2539cc6bbdea00723c421e4ca"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 03).bin" size="10819200" crc="73babf1b" md5="8e24b06073cdc5ec155b2c1d0d101f04" sha1="8830adfe6248bdc6ce0558e4b730184d18f29c30"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 04).bin" size="5851776" crc="f51597cc" md5="e36993c26ebb6236d73ca37cda86b9c1" sha1="74439dbab8c2f836a8c33d73a116108735d5e041"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 05).bin" size="5400192" crc="63a1ce42" md5="682b7a999e97043ca32adc03ed10be67" sha1="e7470e8040340c5d611be3f3c9c07832bf8e7690"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 06).bin" size="5475456" crc="d4f28bd1" md5="fb055e587cd4db8b3f8fb6eb5fba784a" sha1="1b3d88af19ff230c431457dc67dcf984dc7bb2f6"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 07).bin" size="5550720" crc="59058cf0" md5="18b85afc5e0fda42f24ed4130f8ffc8d" sha1="ba44ebb264fba458c5fe35e6552c448002d13308"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 08).bin" size="6679680" crc="292ac899" md5="005ed4f316b1b39a08ff6c2116222b98" sha1="5219d872fd05c144490ba636c9b0fb53c0cbc58c"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 09).bin" size="10743936" crc="b509a742" md5="d1c1fd20f36948e72d9c5ba6ddcc004b" sha1="01dec3d1373a465fa044b088c93c1b230bc40c78"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 10).bin" size="1862784" crc="c8d09149" md5="1e6694fe8ab15614649b3b431c8a2dd7" sha1="aab89ae9668d0db76dc842625fa4d0f7e9f69e17"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 11).bin" size="5475456" crc="c7f71fa2" md5="5af03014d3382588a8125cda9a7fc59d" sha1="2f5081347ff2478f6b313c5245c75fc871066244"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 12).bin" size="14711760" crc="f0a729f6" md5="2de38dcdfe7c6409317fccd33221607d" sha1="df2fafe0e61dccb635aab213c3c87284461639bd"/>
 	</game>
-	<game name="Demo II - Amiga Public Domain Collection (Europe)" type="cd" sha1="E86A45814B5A715D48E38DBCBABD8DFC033A45C1" size="397623912" crc="5F12ED04" fullsha1="97fe7fdeb5a108c3e0279bda04ef2838d4e0134d" dataSha1="098d973a88b4cc0632ffca250ab5713d6a851666">
+	<game name="Demo II - Amiga Public Domain Collection (Europe)" type="cd" sha1="e86a45814b5a715d48e38dbcbabd8dfc033a45c1" size="397623912" crc="5f12ed04" fullsha1="97fe7fdeb5a108c3e0279bda04ef2838d4e0134d" dataSha1="098d973a88b4cc0632ffca250ab5713d6a851666">
 		<category>Games</category>
 		<description>Demo II - Amiga Public Domain Collection (Europe)</description>
-		<rom name="Demo II - Amiga Public Domain Collection (Europe) (Track 01).bin" size="699623568" crc="44E2CB21" md5="13E934B8E8A3660431AE8CCCEDCECACE" sha1="DD5CD17BA6B3AA81F23543803920FB348E760BE6" />
+		<rom name="Demo II - Amiga Public Domain Collection (Europe) (Track 01).bin" size="699623568" crc="44e2cb21" md5="13e934b8e8a3660431ae8cccedcecace" sha1="dd5cd17ba6b3aa81f23543803920fb348e760be6"/>
 	</game>
-	<game name="Games &amp; Goodies (UK)" type="cd" sha1="5D0F431F5A11DC1319EAEAE9B575B197424883E6" size="58633153" crc="CE2F8E63" fullsha1="3d382610ab12396dc425ab3968794cae77390b91" dataSha1="f4c8f99b57ab30801ab2f3bce47a75981ee58ada">
+	<game name="Games &amp; Goodies (UK)" type="cd" sha1="5d0f431f5a11dc1319eaeae9b575b197424883e6" size="58633153" crc="ce2f8e63" fullsha1="3d382610ab12396dc425ab3968794cae77390b91" dataSha1="f4c8f99b57ab30801ab2f3bce47a75981ee58ada">
 		<category>Games</category>
 		<description>Games &amp; Goodies (UK)</description>
-		<rom name="Games &amp; Goodies (UK) (Track 01).bin" size="125420400" crc="AA9F8B83" md5="C13282E67847C48343E4C26D8A6EAF4C" sha1="4BDCA5B99F720BDB38523064165E5BB83C926C85" />
+		<rom name="Games &amp; Goodies (UK) (Track 01).bin" size="125420400" crc="aa9f8b83" md5="c13282e67847c48343e4c26d8a6eaf4c" sha1="4bdca5b99f720bdb38523064165e5bb83c926c85"/>
 	</game>
-	<game name="Insight Dinosaurs (Europe)" type="cd" sha1="7EB9401D08F7FEBD92F55537F3115C3225E5BD60" size="466123910" crc="0D5A1051" fullsha1="ed0c93173d37b1597a30436d228ec7b2db5e4abb" dataSha1="4e3a4cd63f2f5a7e5aec6a06492e7bc0dcd6676b">
+	<game name="Insight Dinosaurs (Europe)" type="cd" sha1="7eb9401d08f7febd92f55537f3115c3225e5bd60" size="466123910" crc="0d5a1051" fullsha1="ed0c93173d37b1597a30436d228ec7b2db5e4abb" dataSha1="4e3a4cd63f2f5a7e5aec6a06492e7bc0dcd6676b">
 		<category>Games</category>
 		<description>Insight Dinosaurs (Europe)</description>
-		<rom name="Insight Dinosaurs (Europe) (Track 01).bin" size="766940160" crc="67F592D9" md5="D35BDB5D6EFA2B01B989AEFE2CDA044F" sha1="95DA49FFA6F6CFE3933F447272CCB9A2BD6D2619" />
+		<rom name="Insight Dinosaurs (Europe) (Track 01).bin" size="766940160" crc="67f592d9" md5="d35bdb5d6efa2b01b989aefe2cda044f" sha1="95da49ffa6f6cfe3933f447272ccb9a2bd6d2619"/>
 	</game>
-	<game name="Insight Technology (Europe)" type="cd" sha1="467A44A7DD7AEF5FB389213C67FEC86310213701" size="368182715" crc="6269078F" fullsha1="7ef8e1034f3b4b2a1ea3892df797f50b7ff7fec0" dataSha1="2329eddfa9844fd1bf57feadd19d307e43ecbddd">
+	<game name="Insight Technology (Europe)" type="cd" sha1="467a44a7dd7aef5fb389213c67fec86310213701" size="368182715" crc="6269078f" fullsha1="7ef8e1034f3b4b2a1ea3892df797f50b7ff7fec0" dataSha1="2329eddfa9844fd1bf57feadd19d307e43ecbddd">
 		<category>Games</category>
 		<description>Insight Technology (Europe)</description>
-		<rom name="Insight Technology (Europe) (Track 01).bin" size="619220448" crc="2FE34B98" md5="FB92EA4C4EF4A6AB30EA3CF921F9F1FB" sha1="597D0F1112E7C95748676E657948B180EBA9824D" />
+		<rom name="Insight Technology (Europe) (Track 01).bin" size="619220448" crc="2fe34b98" md5="fb92ea4c4ef4a6ab30ea3cf921f9f1fb" sha1="597d0f1112e7c95748676e657948b180eba9824d"/>
 	</game>
-	<game name="Now That's What I Call Games (UK)" type="cd" sha1="8EA8BB07F72E48D1A62547F0BD0BA3A72BEF7E5E" size="11948676" crc="C78C561B" fullsha1="93c983100b59b325cb0f01b2a5cb0e18689bff7e" dataSha1="b3560beba37d19ea8561ab78ba4616978fa23eed">
+	<game name="Now That's What I Call Games (UK)" type="cd" sha1="8ea8bb07f72e48d1a62547f0bd0ba3a72bef7e5e" size="11948676" crc="c78c561b" fullsha1="93c983100b59b325cb0f01b2a5cb0e18689bff7e" dataSha1="b3560beba37d19ea8561ab78ba4616978fa23eed">
 		<category>Games</category>
 		<description>Now That's What I Call Games (UK)</description>
-		<rom name="Now That's What I Call Games (UK) (Track 01).bin" size="29341200" crc="1163B18A" md5="FE5E6378777BDBE397CB8D34A0D22E18" sha1="97B2532FF7FBF2CF6898FFF06094C0330483A11E" />
+		<rom name="Now That's What I Call Games (UK) (Track 01).bin" size="29341200" crc="1163b18a" md5="fe5e6378777bdbe397cb8d34a0d22e18" sha1="97b2532ff7fbf2cf6898fff06094c0330483a11e"/>
 	</game>
-	<game name="Prehistorik (Europe)" type="cd" sha1="525601447CDD2D850FF14D60E92142246B7A3329" size="136819026" crc="B183F377" fullsha1="9202c820dc3511f4f6d999767b6019f4c6d8f993" dataSha1="9e11f803341c07720afcc1a5afd18f0b53b07f03">
+	<game name="Prehistorik (Europe)" type="cd" sha1="525601447cdd2d850ff14d60e92142246b7a3329" size="136819026" crc="b183f377" fullsha1="9202c820dc3511f4f6d999767b6019f4c6d8f993" dataSha1="9e11f803341c07720afcc1a5afd18f0b53b07f03">
 		<category>Games</category>
 		<description>Prehistorik (Europe)</description>
-		<rom name="Prehistorik (Europe) (Track 01).bin" size="20815200" crc="56B4D0FA" md5="4A064683C8E096A393953FA89E70F035" sha1="24E5AC0166BA71D8DAD2A9866EFFFF44E695069D" />
-		<rom name="Prehistorik (Europe) (Track 02).bin" size="16468704" crc="B037B721" md5="349C5F19FCDDA8D500CA4626E8A63303" sha1="85323E4BE1116BB9EA228652FAA38213825B049E" />
-		<rom name="Prehistorik (Europe) (Track 03).bin" size="34922496" crc="F04A918A" md5="3409E84FE46DE14A64D40CB83B725403" sha1="E226AFBD55DD1ED6F2A1DE9465958CDF60C25FE4" />
-		<rom name="Prehistorik (Europe) (Track 04).bin" size="30357264" crc="6E206333" md5="22CF4FE6F24877381A4A8DF88E9380B5" sha1="B1C31D9AB120DE4A089AF3E1F832671E96031CC1" />
-		<rom name="Prehistorik (Europe) (Track 05).bin" size="34550880" crc="BE6729D2" md5="E38A61FB655B1125F92319CD6880E29C" sha1="122FFAF38CA2F337F2CF7504150D15B58B246E42" />
-		<rom name="Prehistorik (Europe) (Track 06).bin" size="20622336" crc="DE6D3809" md5="1DFEF6AFDCE0AF91AC2A63513E2D1962" sha1="4F953E2315FB0822D41316756F7B9C0AA9D10388" />
-		<rom name="Prehistorik (Europe) (Track 07).bin" size="4767504" crc="8E8EC611" md5="A1CCA469272A4E3FFDCB3BB17205AA8E" sha1="AC0ABE748519F4F94A20882E9ED181C20D25D3CA" />
-		<rom name="Prehistorik (Europe) (Track 08).bin" size="33464256" crc="F8E596FC" md5="0199E0D75F96CC43AEEFE28E72A8093D" sha1="976F155F313FE0CA812DA698C434E340EC7BC13A" />
-		<rom name="Prehistorik (Europe) (Track 09).bin" size="3857280" crc="3333B3CD" md5="0E89D2C98A8A4D7556A6E27201E4C49A" sha1="0D48B81478FB9AB204B5AB9F6D89FA00082BFB86" />
-		<rom name="Prehistorik (Europe) (Track 10).bin" size="38114160" crc="3A3D72FF" md5="12674F3CD6F09139DC6F1EDCABC82694" sha1="66BF47EA12384C7BDEF7AAF4C5E23DAB439EC7C3" />
-		<rom name="Prehistorik (Europe) (Track 11).bin" size="3633840" crc="CD08893E" md5="226062AB6A048301F41EC7CDFACCA943" sha1="1F6F6461C8DF6E2A85E3EDFBDDCC597CE1CF172C" />
-		<rom name="Prehistorik (Europe) (Track 12).bin" size="2222640" crc="7611DF1B" md5="B1D9A5E82F5886A72EEB0C8E6756104A" sha1="F7134CB90BEC4139383723AD4EE2C0510174C588" />
+		<rom name="Prehistorik (Europe) (Track 01).bin" size="20815200" crc="56b4d0fa" md5="4a064683c8e096a393953fa89e70f035" sha1="24e5ac0166ba71d8dad2a9866effff44e695069d"/>
+		<rom name="Prehistorik (Europe) (Track 02).bin" size="16468704" crc="b037b721" md5="349c5f19fcdda8d500ca4626e8a63303" sha1="85323e4be1116bb9ea228652faa38213825b049e"/>
+		<rom name="Prehistorik (Europe) (Track 03).bin" size="34922496" crc="f04a918a" md5="3409e84fe46de14a64d40cb83b725403" sha1="e226afbd55dd1ed6f2a1de9465958cdf60c25fe4"/>
+		<rom name="Prehistorik (Europe) (Track 04).bin" size="30357264" crc="6e206333" md5="22cf4fe6f24877381a4a8df88e9380b5" sha1="b1c31d9ab120de4a089af3e1f832671e96031cc1"/>
+		<rom name="Prehistorik (Europe) (Track 05).bin" size="34550880" crc="be6729d2" md5="e38a61fb655b1125f92319cd6880e29c" sha1="122ffaf38ca2f337f2cf7504150d15b58b246e42"/>
+		<rom name="Prehistorik (Europe) (Track 06).bin" size="20622336" crc="de6d3809" md5="1dfef6afdce0af91ac2a63513e2d1962" sha1="4f953e2315fb0822d41316756f7b9c0aa9d10388"/>
+		<rom name="Prehistorik (Europe) (Track 07).bin" size="4767504" crc="8e8ec611" md5="a1cca469272a4e3ffdcb3bb17205aa8e" sha1="ac0abe748519f4f94a20882e9ed181c20d25d3ca"/>
+		<rom name="Prehistorik (Europe) (Track 08).bin" size="33464256" crc="f8e596fc" md5="0199e0d75f96cc43aeefe28e72a8093d" sha1="976f155f313fe0ca812da698c434e340ec7bc13a"/>
+		<rom name="Prehistorik (Europe) (Track 09).bin" size="3857280" crc="3333b3cd" md5="0e89d2c98a8a4d7556a6e27201e4c49a" sha1="0d48b81478fb9ab204b5ab9f6d89fa00082bfb86"/>
+		<rom name="Prehistorik (Europe) (Track 10).bin" size="38114160" crc="3a3d72ff" md5="12674f3cd6f09139dc6f1edcabc82694" sha1="66bf47ea12384c7bdef7aaf4c5e23dab439ec7c3"/>
+		<rom name="Prehistorik (Europe) (Track 11).bin" size="3633840" crc="cd08893e" md5="226062ab6a048301f41ec7cdfacca943" sha1="1f6f6461c8df6e2a85e3edfbddcc597ce1cf172c"/>
+		<rom name="Prehistorik (Europe) (Track 12).bin" size="2222640" crc="7611df1b" md5="b1d9a5e82f5886a72eeb0c8e6756104a" sha1="f7134cb90bec4139383723ad4ee2c0510174c588"/>
 	</game>
-	<game name="Town with No Name (Europe) (En,Fr,De,Es,It,Da)" type="cd" sha1="670D402C64C7BDF6247CC76F7A1D0F7C69AEC669" size="190722771" crc="C04E9F7B" fullsha1="d82b9dac18a793af5b176d0f31caa9d2138960cf" dataSha1="494d1c29751fb9ecdf50161e2183ca5614f9bc1b">
+	<game name="Town with No Name (Europe) (En,Fr,De,Es,It,Da)" type="cd" sha1="670d402c64c7bdf6247cc76f7a1d0f7c69aec669" size="190722771" crc="c04e9f7b" fullsha1="d82b9dac18a793af5b176d0f31caa9d2138960cf" dataSha1="494d1c29751fb9ecdf50161e2183ca5614f9bc1b">
 		<category>Games</category>
 		<description>Town with No Name (Europe) (En,Fr,De,Es,It,Da)</description>
-		<rom name="Town with No Name (Europe) (En,Fr,De,Es,It,Da) (Track 01).bin" size="80732400" crc="71F38F74" md5="C9819D1148D03786DF01EEDC6A9F2099" sha1="15E684F752C96D9F321F5A3B7458C2DA8156A4D7" />
-		<rom name="Town with No Name (Europe) (En,Fr,De,Es,It,Da) (Track 02).bin" size="208462464" crc="DE9C1618" md5="77DB85B690F51247E65ADDB6F3725E61" sha1="50904A0F15C9D64CFFB72BD94BE4863B0D5E07C3" />
-		<rom name="Town with No Name (Europe) (En,Fr,De,Es,It,Da) (Track 03).bin" size="164122560" crc="58B994DA" md5="C46748D1B99DAD022EFE924C358B38CE" sha1="2C5CD23516B908F14BC1B4ED459B2CDDC0721591" />
+		<rom name="Town with No Name (Europe) (En,Fr,De,Es,It,Da) (Track 01).bin" size="80732400" crc="71f38f74" md5="c9819d1148d03786df01eedc6a9f2099" sha1="15e684f752c96d9f321f5a3b7458c2da8156a4d7"/>
+		<rom name="Town with No Name (Europe) (En,Fr,De,Es,It,Da) (Track 02).bin" size="208462464" crc="de9c1618" md5="77db85b690f51247e65addb6f3725e61" sha1="50904a0f15c9d64cffb72bd94be4863b0d5e07c3"/>
+		<rom name="Town with No Name (Europe) (En,Fr,De,Es,It,Da) (Track 03).bin" size="164122560" crc="58b994da" md5="c46748d1b99dad022efe924c358b38ce" sha1="2c5cd23516b908f14bc1b4ed459b2cddc0721591"/>
 	</game>
 </datafile>
