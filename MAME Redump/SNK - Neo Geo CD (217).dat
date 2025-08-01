@@ -193,9 +193,10 @@
 		<description>Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (World) (En,Ja,Es,Pt) (Rev 1)</description>
 		<disk name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (World) (En,Ja,Es,Pt) (Rev 1).chd" sha1="1a18c1591ab8152169bf4e45701575ee1b323aee" />
 	</machine>
-	<machine name="Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja)_2">
+	<machine name="Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja)">
+		<category>Games</category>
 		<description>Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja)</description>
-		<disk name="Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja)_2.chd" sha1="95396edc732c0389c0eec639b75e01d6c8866c9a" />
+		<disk name="Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja).chd" sha1="e33bc1f21d35a16da59559885030f274069f565f" />
 	</machine>
 	<machine name="Garou Densetsu Special ~ Fatal Fury Special (World) (En,Ja) (Rev 1)">
 		<category>Games</category>
@@ -618,7 +619,7 @@
 		<disk name="aof3\art of fighting 3 - path of the warrior (1996)(snk)(jp)[art of fighting - ryuuko no ken gaiden][ngcd-0961].chd" sha1="f6717057956e6e15256936dfb0034d6d183ec5f5" />
 	</machine>
 	<machine name="aof3\art of fighting 3 - path of the warrior (1996)(snk)(jp-us)[art of fighting - ryuuko no ken gaiden][ngcd-096, ngcd-096e]">
-		<description>Art of Fighting - Ryuuko no Ken Gaiden (Japan)</description>
+		<description>Art of Fighting 3 - Path of the Warrior (USA) ~ Art of Fighting - Ryuuko no Ken Gaiden (Japan)</description>
 		<year>1996</year>
 		<manufacturer>SNK</manufacturer>
 		<disk name="aof3\art of fighting 3 - path of the warrior (1996)(snk)(jp-us)[art of fighting - ryuuko no ken gaiden][ngcd-096, ngcd-096e].chd" sha1="e43600551b1abcf5ae5ab425bb97e2e7e84a12a1" />
@@ -702,7 +703,7 @@
 		<disk name="fatfury3\fatal fury 3 - road to the final victory (1995)(snk)(jp-us)[garou densetsu 3 - harukanaru tatakai][ngcd-069, ngcd-069e mt b02].chd" sha1="6d1b7c3c07feda772daf8e4b8a8d9f55fb596ad9" />
 	</machine>
 	<machine name="fatfury3\fatal fury 3 - road to the final victory (1995)(snk)(us)[garou densetsu 3 - harukanaru tatakai][ngcd-069e mt b03]">
-		<description>Fatal Fury 3 - Road to the Final Victory (USA) ~ Garou Densetsu 3 - Harukanaru Tatakai (Japan)</description>
+		<description>Fatal Fury 3 - Road to the Final Victory (USA)</description>
 		<year>1995</year>
 		<manufacturer>SNK</manufacturer>
 		<disk name="fatfury3\fatal fury 3 - road to the final victory (1995)(snk)(us)[garou densetsu 3 - harukanaru tatakai][ngcd-069e mt b03].chd" sha1="ed5a63e5a434669d207af7ed63c8b6ab721283e0" />
@@ -774,7 +775,7 @@
 		<disk name="kof94\king of fighters '94, the (1994)(snk)(jp-us)[ngcd-055 mt b01+b04, ngcd-055e mt b01].chd" sha1="909a2a6b8e6be20418d795ab67ab63060f8fcdff" />
 	</machine>
 	<machine name="kof94\king of fighters '94, the (1994)(snk)(jp-us)[ngcd-055 mt b12, ngcd-055e]">
-		<description>The King of Fighters '94 (Japan, USA)</description>
+		<description>The King of Fighters '94 (Japan, USA, alt)</description>
 		<year>1994</year>
 		<manufacturer>SNK</manufacturer>
 		<disk name="kof94\king of fighters '94, the (1994)(snk)(jp-us)[ngcd-055 mt b12, ngcd-055e].chd" sha1="fd042654267b6812557fee856c46d3aa63797b71" />
@@ -786,7 +787,7 @@
 		<disk name="kof95\king of fighters '95, the (1995)(snk)(jp-us)[ngcd-084 mt b01+b03+b06, ngcd-084e mt b01].chd" sha1="4262d171eab92afd986e32e71d11da2dd7b6ba90" />
 	</machine>
 	<machine name="kof95\king of fighters '95, the (1995)(snk)(jp-us)[ngcd-084 mt b10, ngcd-084e mt b03]">
-		<description>The King of Fighters '95 (Japan, USA)</description>
+		<description>The King of Fighters '95 (Japan, USA, alt)</description>
 		<year>1995</year>
 		<manufacturer>SNK</manufacturer>
 		<disk name="kof95\king of fighters '95, the (1995)(snk)(jp-us)[ngcd-084 mt b10, ngcd-084e mt b03].chd" sha1="7f405026f6dd708b6a49cd0fe7f8ae5ef2ca0358" />
@@ -798,7 +799,7 @@
 		<disk name="kof96\king of fighters '96, the (1996)(snk)(jp)[ngcd-214 mt a02+a03].chd" sha1="85747c1c5a105a64c9c971feda92a716e3bf77c7" />
 	</machine>
 	<machine name="kof96\king of fighters '96, the (1996)(snk)(jp-us)[ngcd-214 mt a01, ngcd-214e]">
-		<description>The King of Fighters '96 (Japan)</description>
+		<description>The King of Fighters '96 (Japan, USA)</description>
 		<year>1996</year>
 		<manufacturer>SNK</manufacturer>
 		<disk name="kof96\king of fighters '96, the (1996)(snk)(jp-us)[ngcd-214 mt a01, ngcd-214e].chd" sha1="c560056dcf48bd8fe26b037707aeace03b2f4572" />

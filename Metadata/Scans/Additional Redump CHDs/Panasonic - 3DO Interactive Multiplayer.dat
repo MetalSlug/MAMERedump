@@ -69,6 +69,11 @@
 		<description>AI Shougi (Japan)</description>
 		<rom name="AI Shougi (Japan) (Track 01).bin" size="30811200" crc="7284d1ca" md5="749d3c61d1451bc411d32566d052903d" sha1="bb069b3064ebe0c38f49fb006a45fdfaba358e0d"/>
 	</game>
+	<game name="Adventures Of Captain J, The (USA) (Unl)" type="cd" sha1="4bb4b2028b6124bf2845a57c4b845869f7bdec50" size="131561638" crc="f142b401" fullsha1="17fa0b1cc48826c5167a040184c4557ed47c12ff" dataSha1="2870feca749a3e64da727d25538079a1e981c7e0">
+		<category>Games</category>
+		<description>Adventures Of Captain J, The (USA) (Unl)</description>
+		<rom name="Adventures Of Captain J, The (USA) (Unl) (Track 01).bin" size="174913536" crc="ae358cb7" md5="c79279f1869ad35cf9b0b53be150ddcc" sha1="edd703ce50833d55fd39c23825386b6b70d4cd4d"/>
+	</game>
 	<game name="Agi Gongnyong Goldie (Korea)" type="" sha1="4aa76810553f2e2810a2f7970710767751eb3893" size="341097939" crc="2c404b2c" fullsha1="c956b245c9f5c493dd30257336f17de7fe756669" dataSha1="6c50518538041f2ec34e1d215f691975bd59d700">
 		<category>Games</category>
 		<description>Agi Gongnyong Goldie (Korea)</description>
@@ -444,11 +449,6 @@
 		<description>Crime Patrol (USA) (Beta) (1994-11-23)</description>
 		<rom name="Crime Patrol (USA) (Beta) (1994-11-23) (Track 01).bin" size="657007680" crc="a78218ca" md5="9451e84a4843d28844454a22d43757b4" sha1="d869cfa4bfe4664e00b3273efc10d94fbe4ae7f8"/>
 	</game>
-	<game name="Crystal Dynamics Best Selection ~ Sample This! (USA, Japan)" type="cd" sha1="86c72f84844496d052cb59206eed406d1f92f942" size="335767275" crc="117fc271" fullsha1="8db7593b7173a44198fbe51ef5f0d04f216907c8" dataSha1="b3c86b6d2ac717b62cf7743b3f44341447daae28">
-		<category>Games</category>
-		<description>Crystal Dynamics Best Selection ~ Sample This! (USA, Japan)</description>
-		<rom name="Crystal Dynamics Best Selection ~ Sample This! (USA, Japan) (Track 01).bin" size="650986560" crc="434ce384" md5="3707ef593cfa692be61fc81bbd153606" sha1="4b671a6827cc038e1890ab130952c74f44b71403"/>
-	</game>
 	<game name="CyberDillo (USA)" type="cd" sha1="3505489ba5d2190eb60cd8aa8b2264e1643cb59a" size="113758933" crc="e733a8bc" fullsha1="4ad8bbe0244e4ae7f89a09c8fcfb3d23c76899f3" dataSha1="20b4f3057a90cf9fb5e8a4de83bf81a9966ade93">
 		<category>Games</category>
 		<description>CyberDillo (USA)</description>
@@ -649,10 +649,10 @@
 		<description>Doctor Hauzer (Japan)</description>
 		<rom name="Doctor Hauzer (Japan) (Track 01).bin" size="301761600" crc="e08539b3" md5="b58704c569479d4a94cb6a7ce1d1a97d" sha1="e2e06c69be167b88ae94c00e06d022a7da6a1cc1"/>
 	</game>
-	<game name="Doom (USA)" type="cd" sha1="42e31ac316f33ebd4c65d383f8674ed9c2bcc15a" size="110805109" crc="34f0c08a" fullsha1="a90a3a65d56833cd5c9a07de192e5be5362a9c2c" dataSha1="a7eceff1e95d35ca2725d08e012ca179d4fbdb4a">
+	<game name="Doom (USA, Japan)" type="cd" sha1="42e31ac316f33ebd4c65d383f8674ed9c2bcc15a" size="110805109" crc="34f0c08a" fullsha1="a90a3a65d56833cd5c9a07de192e5be5362a9c2c" dataSha1="a7eceff1e95d35ca2725d08e012ca179d4fbdb4a">
 		<category>Games</category>
-		<description>Doom (USA)</description>
-		<rom name="Doom (USA) (Track 01).bin" size="241903200" crc="c238cd13" md5="58bd8257d9c1a759923195439245e01e" sha1="e46733bb1401671ed76ca64894cd55b2098a57fa"/>
+		<description>Doom (USA, Japan)</description>
+		<rom name="Doom (USA, Japan) (Track 01).bin" size="241903200" crc="c238cd13" md5="58bd8257d9c1a759923195439245e01e" sha1="e46733bb1401671ed76ca64894cd55b2098a57fa"/>
 	</game>
 	<game name="Dragon Lore - The Legend Begins (USA, Europe) (Disc 1)" type="cd" sha1="fed6b9ff3e27cad80053fa7c32ceac2a24f43e7c" size="492016258" crc="1146cf1c" fullsha1="797a1c47c80c5dcf066c3cac8cc53f64da8062b0" dataSha1="0cc58496eaacd8d3bfbeb207d6f04b1c4eabc502">
 		<category>Games</category>
@@ -799,20 +799,20 @@
 		<description>Escape from Monster Manor (USA)</description>
 		<rom name="Escape from Monster Manor (USA) (Track 01).bin" size="542611104" crc="3bafd40d" md5="7387f48a956d43028444ef7259041107" sha1="5663315cfe066af79a03a9d5cc7a1cf52dd4e068"/>
 	</game>
-	<game name="Eye of Typhoon (Korea)" type="cd" sha1="a8deff8ca7dfefc892d819876553569b08979bec" size="48991826" crc="e1e841cd" fullsha1="0b8576dc8f31790ca77443556019ff9a6ddd6c0b" dataSha1="3a5b3a168f6b9dd787c4ab3ef53bf5cf545da9f9">
-		<category>Games</category>
-		<description>Eye of Typhoon (Korea)</description>
-		<rom name="Eye of Typhoon (Korea) (Track 01).bin" size="123094272" crc="f18fe0ba" md5="94a935ae0a5ea86bb15edb52d06b892a" sha1="95ee3c4a1e2b0f8faf30efc87e7cdc0ec463db5a"/>
-	</game>
 	<game name="Eye of Typhoon, The (Korea)" type="cd" sha1="df824c0abe5fdeff0c3e72f5fbf84838ce20c800" size="50065418" crc="081fab22" fullsha1="d3597c8fb3bd239a16bbf4a0562a3baa91946330" dataSha1="4e4bf10351da3a91a0599ff134e3533853ba14cf">
 		<category>Games</category>
 		<description>Eye of Typhoon, The (Korea)</description>
 		<rom name="Eye of Typhoon, The (Korea) (Track 01).bin" size="157254720" crc="8e3e3f13" md5="84c1f1689581a8ec4a8fee68c7a45bd0" sha1="46c72d1939b3acc3f1bfd7e86f6d3e0b4219fee2"/>
 	</game>
-	<game name="Eye of Typhoon, The (Korea) (Disc 1)" type="cd" sha1="16ddb498c24fccde46da2b64ac237fa171133218" size="48315737" crc="c62669d4" fullsha1="560bee2fd54695683297aa0dae3cb2440b3fa906" dataSha1="0ed18eaef03c7360bfd631f50621be5aaf4fc8aa">
+	<game name="Eye of Typhoon, The (Korea) (Ko) (Disc 1)" type="cd" sha1="16ddb498c24fccde46da2b64ac237fa171133218" size="48315737" crc="c62669d4" fullsha1="560bee2fd54695683297aa0dae3cb2440b3fa906" dataSha1="0ed18eaef03c7360bfd631f50621be5aaf4fc8aa">
 		<category>Games</category>
-		<description>Eye of Typhoon, The (Korea) (Disc 1)</description>
-		<rom name="Eye of Typhoon, The (Korea) (Disc 1) (Track 01).bin" size="126104832" crc="2a79deb4" md5="387fb01d2a80a1f0b646f37513c202db" sha1="78f9c2f093e8194e884d65428336c0da6a574a9e"/>
+		<description>Eye of Typhoon, The (Korea) (Ko) (Disc 1)</description>
+		<rom name="Eye of Typhoon, The (Korea) (Ko) (Disc 1) (Track 01).bin" size="126104832" crc="2a79deb4" md5="387fb01d2a80a1f0b646f37513c202db" sha1="78f9c2f093e8194e884d65428336c0da6a574a9e"/>
+	</game>
+	<game name="Eye of Typhoon, The (Korea) (Rerelease)" type="cd" sha1="a8deff8ca7dfefc892d819876553569b08979bec" size="48991826" crc="e1e841cd" fullsha1="0b8576dc8f31790ca77443556019ff9a6ddd6c0b" dataSha1="3a5b3a168f6b9dd787c4ab3ef53bf5cf545da9f9">
+		<category>Games</category>
+		<description>Eye of Typhoon, The (Korea) (Rerelease)</description>
+		<rom name="Eye of Typhoon, The (Korea) (Rerelease) (Track 01).bin" size="123094272" crc="f18fe0ba" md5="94a935ae0a5ea86bb15edb52d06b892a" sha1="95ee3c4a1e2b0f8faf30efc87e7cdc0ec463db5a"/>
 	</game>
 	<game name="F1GP (Japan)" type="cd" sha1="6351702388d5433e6adaa035a5cb22bd1c50212f" size="140056841" crc="323a9f4f" fullsha1="db9a97bb9999b10800024e1cc52699370d526bc2" dataSha1="f4e39933e2b3e1f33f9d6c9d109dd9a4845eae1a">
 		<category>Games</category>
@@ -1824,6 +1824,11 @@
 		<description>PGA Tour 96 (USA) (RE-1)</description>
 		<rom name="PGA Tour 96 (USA) (RE-1) (Track 01).bin" size="723244704" crc="89884e4d" md5="ff33636bc0f7a8617aa017feeb36aa3a" sha1="d26e959b0ef6388c3ef2a5c935785aba7eea4cab"/>
 	</game>
+	<game name="PO'ed (USA) (Beta) (1995-02-14)" type="cd" sha1="460b1c75b8820b3c3eb801f1ee78aef9d26814ec" size="1455646" crc="73966e72" fullsha1="3cb74371baae491df1cb2f57f8a57500207598f8" dataSha1="5227a94082ebbbdc4021a1eecd2cf982f9b1fbc3">
+		<category>Games</category>
+		<description>PO'ed (USA) (Beta) (1995-02-14)</description>
+		<rom name="PO'ed (USA) (Beta) (1995-02-14) (Track 01).bin" size="24441984" crc="4f0e9d80" md5="ad875d6a08cdf2ba2f808fe5a9b77d8f" sha1="b0b28c1a0151b43655c498f50d51bc7948284eea"/>
+	</game>
 	<game name="PO'ed (USA, Europe)" type="cd" sha1="75d0ce460e61e63c355761f3ee419a84c99398fa" size="73442373" crc="bb95c8e4" fullsha1="e116579e8887bd1ad3e46c7a32cbc26b4e696aa1" dataSha1="331a455d0020ca15856b7ea0a8f6591c8500ca37">
 		<category>Games</category>
 		<description>PO'ed (USA, Europe)</description>
@@ -2139,6 +2144,11 @@
 		<description>Real Pinball (USA)</description>
 		<rom name="Real Pinball (USA) (Track 01).bin" size="58858800" crc="a6c3a6ed" md5="13e529bd04349e4a82f4382e039a187a" sha1="224b0f767d9c5900c08f3ee3e238dad7c837f861"/>
 	</game>
+	<game name="Remute 3D (Europe) (En,De) (Unl)" type="cd" sha1="c34c17d818fd503f3a35109c934892f4d32a8a96" size="319187246" crc="0ad877d0" fullsha1="5d5826069f974a4af2a775ac017efc0e29c6f623" dataSha1="3d905c870259810827930f193de3a96b218e79a1">
+		<category>Games</category>
+		<description>Remute 3D (Europe) (En,De) (Unl)</description>
+		<rom name="Remute 3D (Europe) (En,De) (Unl) (Track 01).bin" size="573488160" crc="2b9e1cdf" md5="1689f213474b51272a65547602724110" sha1="c219e1a7c2f1f76ba9e466d8e0854c4196c8cffa"/>
+	</game>
 	<game name="Return Fire (Japan) (Demo)" type="cd" sha1="bc1ade974e225f5a66b23b6219a4555fbfea4f47" size="241491665" crc="8bd77332" fullsha1="77eb1f9a91f732f48bd4c80980d2bd2e191008dc" dataSha1="7f4bdda169e7ff50634e19e354dbc44263bc1e23">
 		<category>Games</category>
 		<description>Return Fire (Japan) (Demo)</description>
@@ -2243,6 +2253,11 @@
 		<category>Games</category>
 		<description>SHADOW Warriors (Japan)</description>
 		<rom name="SHADOW Warriors (Japan) (Track 01).bin" size="271656000" crc="5c2436a3" md5="390be20291562cef36f4ac55b82e25a9" sha1="934e706af45e88b8e22d42fe49203a5fbf67f559"/>
+	</game>
+	<game name="Sample This! (USA, Japan)" type="cd" sha1="86c72f84844496d052cb59206eed406d1f92f942" size="335767275" crc="117fc271" fullsha1="8db7593b7173a44198fbe51ef5f0d04f216907c8" dataSha1="b3c86b6d2ac717b62cf7743b3f44341447daae28">
+		<category>Games</category>
+		<description>Sample This! (USA, Japan)</description>
+		<rom name="Sample This! (USA, Japan) (Track 01).bin" size="650986560" crc="434ce384" md5="3707ef593cfa692be61fc81bbd153606" sha1="4b671a6827cc038e1890ab130952c74f44b71403"/>
 	</game>
 	<game name="Samurai Shodown (Japan) (En,Ja)" type="cd" sha1="9d7d8624269c7eab3844e76315f8e4e3dc921907" size="445942035" crc="12e3c10a" fullsha1="6a3a3094a56993775e1fd646163a45bb6ccc0f6e" dataSha1="094f6c19b28381f9ca7a4e5dece04a4a635422eb">
 		<category>Games</category>
@@ -3003,6 +3018,11 @@
 		<category>Games</category>
 		<description>Twisted - The Game Show (USA) (Alt)</description>
 		<rom name="Twisted - The Game Show (USA) (Alt) (Track 01).bin" size="746976384" crc="2cc6e83b" md5="01d0d86a66797a5a48ff227b6b4b0391" sha1="f9ccedc3d4fda12e38794d8eb6c7f5d1d47d5028"/>
+	</game>
+	<game name="Twisted - The Game Show (USA) (Beta) (1994-03-21)" type="cd" sha1="0063ac6bb75cdae28ac17ac09c3e9ea3305ec384" size="354844229" crc="4b457eac" fullsha1="bdb99d51809137d3bffbcb12a5cae4cddee24084" dataSha1="811d03644d4b59f5ac4be1dc8b123c109cf0c48b">
+		<category>Games</category>
+		<description>Twisted - The Game Show (USA) (Beta) (1994-03-21)</description>
+		<rom name="Twisted - The Game Show (USA) (Beta) (1994-03-21) (Track 01).bin" size="746976384" crc="1073b36a" md5="c01d8813fbabc7128bd5cada27f91a78" sha1="d6abfab2030268535daab8c0505f09178897e96f"/>
 	</game>
 	<game name="Uchuu Seibutsu Flopon-kun (Japan)" type="" sha1="cf1f0abdab3a9152a2ecae6679f1dc577fb26d81" size="106483541" crc="50bbace7" fullsha1="221410fea6f1aafa9383de0049297340f600d9d7" dataSha1="9881cd93f5ee6e9ed75b37ec7556e328fa67dd19">
 		<category>Games</category>

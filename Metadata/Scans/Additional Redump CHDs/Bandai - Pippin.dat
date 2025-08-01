@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
@@ -9,19 +9,29 @@
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
-	<game name="L-Zone (Japan)" type="cd" sha1="5a681f1915b986adab5b3550e683fa69a961f7df" size="138588318" crc="b6654c42" fullsha1="da544e68d30278b151f1d2386f8a0a8d16bce83e" dataSha1="a6624408c531cad13d0d5a1cef9b49d72162065f">
+	<game name="L-Zone (Japan)" type="cd" sha1="5A681F1915B986ADAB5B3550E683FA69A961F7DF" size="138588318" crc="B6654C42" fullsha1="da544e68d30278b151f1d2386f8a0a8d16bce83e" dataSha1="a6624408c531cad13d0d5a1cef9b49d72162065f">
 		<category>Games</category>
 		<description>L-Zone (Japan)</description>
-		<rom name="L-Zone (Japan) (Track 01).bin" size="327588912" crc="0c5934a5" md5="086a17b9ad7819dd0a5a603dd4001f2d" sha1="8ffe8bee6131edc46a8e448de70342ac5713ca79"/>
+		<rom name="L-Zone (Japan) (Track 01).bin" size="327588912" crc="0C5934A5" md5="086A17B9AD7819DD0A5A603DD4001F2D" sha1="8FFE8BEE6131EDC46A8E448DE70342AC5713CA79" />
 	</game>
-	<game name="Pippin Network CD (Japan) (Rev A)" type="cd" sha1="24ffe6fef929be628eb979a0ed8bca399b39569e" size="186042233" crc="2bbef7cf" fullsha1="f276e5ce7408a10a106aefba92a2b9e1e60ba80c" dataSha1="d1dd320e02065e4c578a558df8bcbe7e4619ff81">
+	<game name="Pippin Network CD (Japan) (Rev A)" type="cd" sha1="24FFE6FEF929BE628EB979A0ED8BCA399B39569E" size="186042233" crc="2BBEF7CF" fullsha1="f276e5ce7408a10a106aefba92a2b9e1e60ba80c" dataSha1="d1dd320e02065e4c578a558df8bcbe7e4619ff81">
 		<category>Games</category>
 		<description>Pippin Network CD (Japan) (Rev A)</description>
-		<rom name="Pippin Network CD (Japan) (Rev A) (Track 01).bin" size="301389984" crc="2419980f" md5="d13493707bf72dcb046af7aa1c7ad116" sha1="06e8934ecffb4ea12fa747c54eab48b4213aeb07"/>
+		<rom name="Pippin Network CD (Japan) (Rev A) (Track 01).bin" size="301389984" crc="2419980F" md5="D13493707BF72DCB046AF7AA1C7AD116" sha1="06E8934ECFFB4EA12FA747C54EAB48B4213AEB07" />
 	</game>
-	<game name="Shichi Sokusen (Japan) (Rev A)" type="cd" sha1="a2bf1d41d221cb4d14d605c719e6d5b3d809e2a5" size="174825708" crc="2d5d076c" fullsha1="123cfc602f923fd6484bf3fdfaab06798f66e908" dataSha1="ddabe54c4a9109d99e5632d9bbf0530449e10730">
+	<game name="Shichi Sokusen (Japan) (Rev A)" type="cd" sha1="A2BF1D41D221CB4D14D605C719E6D5B3D809E2A5" size="174825708" crc="2D5D076C" fullsha1="123cfc602f923fd6484bf3fdfaab06798f66e908" dataSha1="ddabe54c4a9109d99e5632d9bbf0530449e10730">
 		<category>Games</category>
 		<description>Shichi Sokusen (Japan) (Rev A)</description>
-		<rom name="Shichi Sokusen (Japan) (Rev A) (Track 01).bin" size="771020880" crc="ab0f01b3" md5="7aba9f331309720a518fe9d1639474ab" sha1="3d7e60027b3d25a7a6d4225ea86b5ce6267ae564"/>
+		<rom name="Shichi Sokusen (Japan) (Rev A) (Track 01).bin" size="771020880" crc="AB0F01B3" md5="7ABA9F331309720A518FE9D1639474AB" sha1="3D7E60027B3D25A7A6D4225EA86B5CE6267AE564" />
+	</game>
+	<game name="TV Works - Word Paint Mail Ver. 2.0 (Japan) (Rev A)" type="cd" sha1="C867BB23F17795200B234B2E37B34CCBC7BEF4CD" size="40476233" crc="17B80B60" fullsha1="38ccd928f397b625239275a4dab8a7acafb78ffc" dataSha1="15b2d32b61cdd1882e21ab760ecece65368bed1e">
+		<category>Games</category>
+		<description>TV Works - Word Paint Mail Ver. 2.0 (Japan) (Rev A)</description>
+		<rom name="TV Works - Word Paint Mail Ver. 2.0 (Japan) (Rev A) (Track 01).bin" size="361601184" crc="EEA75D34" md5="B8086CFF8CC6899536675F344C162DDB" sha1="30467BE22B7BED92368D1D23DB1907D5748586FB" />
+	</game>
+	<game name="Victorian Park (Japan) (Disc 2)" type="cd" sha1="58DC4BF75555B4CEFA1281DD08256B15119E5D8E" size="463006498" crc="7B34E482" fullsha1="69b7817eb2957c2b4d50040ab1b549127973abfd" dataSha1="88e2e6a697f21fd778bf33acafd6765636d79b74">
+		<category>Games</category>
+		<description>Victorian Park (Japan) (Disc 2)</description>
+		<rom name="Victorian Park (Japan) (Disc 2) (Track 01).bin" size="764722224" crc="5E343465" md5="5BC4E31FABF766DDA8F8EF7CA36D4F7A" sha1="3D5420297CCAF9B52E3F21B8DF9AF143E1F6E054" />
 	</game>
 </datafile>
