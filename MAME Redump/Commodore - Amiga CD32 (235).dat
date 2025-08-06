@@ -4,8 +4,8 @@
 	<header>
 		<name>Commodore - Amiga CD32</name>
 		<description>MAME Redump - Commodore - Amiga CD32 - Discs (202) (2025-06-09 23-50-49)</description>
-		<version>0.278</version>
-		<date>2025-08-05</date>
+		<version>0.279</version>
+		<date>2025-08-06</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -833,8 +833,6 @@
 	<machine name="Power Drive (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Power Drive (Europe) (En,Fr,De,Es,It)</description>
-		<year>1994</year>
-		<manufacturer>U.S. Gold</manufacturer>
 		<disk name="Power Drive (Europe) (En,Fr,De,Es,It).chd" sha1="10e66363ef495aa37b4ceac9590c77b77256d23a" />
 	</machine>
 	<machine name="Power-Games (Europe) (En,De)">

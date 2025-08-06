@@ -4,8 +4,8 @@
 	<header>
 		<name>Commodore - Amiga CDTV</name>
 		<description>MAME Redump - Commodore - Amiga CDTV - Discs (59) (2025-06-25 16-57-02)</description>
-		<version>0.278</version>
-		<date>2025-08-05</date>
+		<version>0.279</version>
+		<date>2025-08-06</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -177,8 +177,6 @@
 	<machine name="Fantastic Voyage (USA)">
 		<category>Games</category>
 		<description>Fantastic Voyage (USA)</description>
-		<year>1992</year>
-		<manufacturer>Centaur</manufacturer>
 		<disk name="Fantastic Voyage (USA).chd" sha1="c35cafd8639c9a19c63d19f2e6765106c83b9b8c" />
 	</machine>
 	<machine name="Games &amp; Goodies (UK)">
@@ -293,8 +291,6 @@
 	<machine name="Raffles (Sweden)">
 		<category>Games</category>
 		<description>Raffles (Sweden)</description>
-		<year>1991</year>
-		<manufacturer>Edge</manufacturer>
 		<disk name="Raffles (Sweden).chd" sha1="17a3c1ea794658e5ea08e321ee0800466ad0c1a0" />
 	</machine>
 	<machine name="SimCity (Europe) (En,Fr,De,Es,It)">
@@ -307,8 +303,6 @@
 	<machine name="Snoopy - The Case of the Missing Blanket (Sweden)">
 		<category>Games</category>
 		<description>Snoopy - The Case of the Missing Blanket (Sweden)</description>
-		<year>1991</year>
-		<manufacturer>Edge</manufacturer>
 		<disk name="Snoopy - The Case of the Missing Blanket (Sweden).chd" sha1="a02bfb81dd9640b492451d53c6c0a387f5cbe577" />
 	</machine>
 	<machine name="Team Yankee (Europe)">
@@ -753,7 +747,7 @@
 		<disk name="nbxmas\night before christmas, the (1991)(discis)(en-es).chd" sha1="16fa7fdcb8dab59b8ab7b5acb17be786fc47443f" />
 	</machine>
 	<machine name="newgroli\new grolier electronic encyclopedia, the (1991)(cdtv publishing)">
-		<description>The New Grolier Electronic Encyclopedia</description>
+		<description>The New Grolier Electronic Encyclopedia (5/6/91)</description>
 		<year>1991</year>
 		<manufacturer>CDTV Publishing</manufacturer>
 		<disk name="newgroli\new grolier electronic encyclopedia, the (1991)(cdtv publishing).chd" sha1="5316ab2211c731e6af7f735593a35c85c5719da5" />

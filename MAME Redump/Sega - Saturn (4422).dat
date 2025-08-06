@@ -4,8 +4,8 @@
 	<header>
 		<name>Sega - Saturn</name>
 		<description>MAME Redump - Sega - Saturn - Discs (2390) (2025-07-22 06-17-04)</description>
-		<version>0.278</version>
-		<date>2025-08-05</date>
+		<version>0.279</version>
+		<date>2025-08-06</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -125,8 +125,6 @@
 	<machine name="AI Shougi 2 (Japan)">
 		<category>Games</category>
 		<description>AI Shougi 2 (Japan)</description>
-		<year>1995</year>
-		<manufacturer>ASCII Something Good</manufacturer>
 		<disk name="AI Shougi 2 (Japan).chd" sha1="6c42d91ce7ace93baeccabf4aac80c39a93c4d21" />
 	</machine>
 	<machine name="Air Management '96 (Japan)">
@@ -1891,15 +1889,11 @@
 	<machine name="Dark Savior (Europe)">
 		<category>Games</category>
 		<description>Dark Savior (Europe)</description>
-		<year>1996</year>
-		<manufacturer>Climax</manufacturer>
 		<disk name="Dark Savior (Europe).chd" sha1="8bbb624a8f1f6b452ed5325ee58bc5a86dae7bca" />
 	</machine>
 	<machine name="Dark Savior (Japan)">
 		<category>Games</category>
 		<description>Dark Savior (Japan)</description>
-		<year>1996</year>
-		<manufacturer>Climax</manufacturer>
 		<disk name="Dark Savior (Japan).chd" sha1="0f47706fb5f2ccfdc00f86040196c24042f324a3" />
 	</machine>
 	<machine name="Dark Savior (Japan) (Demo 1)">
@@ -1919,8 +1913,6 @@
 	<machine name="Dark Savior (USA)">
 		<category>Games</category>
 		<description>Dark Savior (USA)</description>
-		<year>1996</year>
-		<manufacturer>Sega</manufacturer>
 		<disk name="Dark Savior (USA).chd" sha1="4c331f8360bd23a4117f14ace761aeac51c00f2c" />
 	</machine>
 	<machine name="Dark Seed II (Japan)">

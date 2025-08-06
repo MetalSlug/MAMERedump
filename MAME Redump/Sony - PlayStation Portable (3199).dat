@@ -4,8 +4,8 @@
 	<header>
 		<name>Sony - PlayStation Portable</name>
 		<description>MAME Redump - Sony - PlayStation Portable - Discs (3208) (2025-07-21 15-14-54)</description>
-		<version>0.278</version>
-		<date>2025-08-05</date>
+		<version>0.279</version>
+		<date>2025-08-06</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -9984,6 +9984,11 @@
 		<description>Ninja Katsugeki - Tenchu - Kurenai Portable (Japan)</description>
 		<disk name="Ninja Katsugeki - Tenchu - Kurenai Portable (Japan).chd" sha1="23ae17c4e094346e76e3cc16feae9221d2e5fac5" />
 	</machine>
+	<machine name="Ninja Katsugeki - Tenchu San Portable (Japan)">
+		<category>Games</category>
+		<description>Ninja Katsugeki - Tenchu San Portable (Japan)</description>
+		<disk name="Ninja Katsugeki - Tenchu San Portable (Japan).chd" sha1="1bf6a091ecc7b54053240f454c32f10a95072778" />
+	</machine>
 	<machine name="Nippon no Asoko de (Japan)">
 		<category>Games</category>
 		<description>Nippon no Asoko de (Japan)</description>
@@ -11573,6 +11578,11 @@
 		<category>Games</category>
 		<description>Resistance - Retribution (USA) (En,Fr,Es)</description>
 		<disk name="Resistance - Retribution (USA) (En,Fr,Es).chd" sha1="8446d3ea762de1aac7234b1f344b29acb878a15b" />
+	</machine>
+	<machine name="Retail Sampler No. 3 for PSP (Europe)">
+		<category>Demos</category>
+		<description>Retail Sampler No. 3 for PSP (Europe)</description>
+		<disk name="Retail Sampler No. 3 for PSP (Europe).chd" sha1="5fc8349947424564392412c0f59c53bc2c7b52af" />
 	</machine>
 	<machine name="Retail Sampler No. 4 (Europe) (v1.00)">
 		<category>Preproduction</category>

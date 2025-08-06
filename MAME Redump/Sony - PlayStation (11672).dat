@@ -4,8 +4,8 @@
 	<header>
 		<name>Sony - PlayStation</name>
 		<description>MAME Redump - Sony - PlayStation - Discs (10863) (2025-07-20 10-42-10)</description>
-		<version>0.278</version>
-		<date>2025-08-05</date>
+		<version>0.279</version>
+		<date>2025-08-06</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -134,8 +134,6 @@
 	<machine name="1 on 1 (Japan)">
 		<category>Games</category>
 		<description>1 on 1 (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Jorudan</manufacturer>
 		<disk name="1 on 1 (Japan).chd" sha1="f39f9fae87573f96d42d254b102b9638bec57f18" />
 	</machine>
 	<machine name="1 on 1 (Japan) (Demo)">
@@ -550,6 +548,8 @@
 	<machine name="A2 Racer - Europa Tour (Netherlands)">
 		<category>Games</category>
 		<description>A2 Racer - Europa Tour (Netherlands)</description>
+		<year>1996</year>
+		<manufacturer>Electronic Arts</manufacturer>
 		<disk name="A2 Racer - Europa Tour (Netherlands).chd" sha1="e1153247747521e799d3a612a926c147f028413b" />
 	</machine>
 	<machine name="A5 - A Ressha de Ikou 5 (Japan, Asia)">
@@ -575,8 +575,6 @@
 	<machine name="Abe a GoGo (Japan)">
 		<category>Games</category>
 		<description>Abe a GoGo (Japan)</description>
-		<year>1997</year>
-		<manufacturer>GameBank</manufacturer>
 		<disk name="Abe a GoGo (Japan).chd" sha1="1fcefe3d601e7972ccac9b9c4c03c0089b990529" />
 	</machine>
 	<machine name="Abe a GoGo (Japan) (Demo)">
@@ -599,26 +597,36 @@
 	<machine name="Ace Combat 2 (Europe)">
 		<category>Games</category>
 		<description>Ace Combat 2 (Europe)</description>
+		<year>1997</year>
+		<manufacturer>Sony</manufacturer>
 		<disk name="Ace Combat 2 (Europe).chd" sha1="5a30c1ad100fc8452c7ab839d3d6229d0762745f" />
 	</machine>
 	<machine name="Ace Combat 2 (France)">
 		<category>Games</category>
 		<description>Ace Combat 2 (France)</description>
+		<year>1997</year>
+		<manufacturer>Sony</manufacturer>
 		<disk name="Ace Combat 2 (France).chd" sha1="7a34c01808705f531c893cde030dc0984f773437" />
 	</machine>
 	<machine name="Ace Combat 2 (Germany)">
 		<category>Games</category>
 		<description>Ace Combat 2 (Germany)</description>
+		<year>1997</year>
+		<manufacturer>Sony</manufacturer>
 		<disk name="Ace Combat 2 (Germany).chd" sha1="90dc0518f4dcbd564e4037682585d4f47120351c" />
 	</machine>
 	<machine name="Ace Combat 2 (Japan)">
 		<category>Games</category>
 		<description>Ace Combat 2 (Japan)</description>
+		<year>1997</year>
+		<manufacturer>Namco</manufacturer>
 		<disk name="Ace Combat 2 (Japan).chd" sha1="316f297951be4506e8bdf51cecac789e0764bed7" />
 	</machine>
 	<machine name="Ace Combat 2 (Japan) (Rev 1)">
 		<category>Games</category>
 		<description>Ace Combat 2 (Japan) (Rev 1)</description>
+		<year>1999</year>
+		<manufacturer>Namco</manufacturer>
 		<disk name="Ace Combat 2 (Japan) (Rev 1).chd" sha1="6dd4db78769058ae1cb4d80fc36ceedec39122e4" />
 	</machine>
 	<machine name="Ace Combat 2 (USA)">
@@ -631,11 +639,15 @@
 	<machine name="Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc (Japan)">
 		<category>Add-Ons</category>
 		<description>Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc (Japan)</description>
+		<year>1999</year>
+		<manufacturer>Namco</manufacturer>
 		<disk name="Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc (Japan).chd" sha1="fb4ebde7044c90c6beabe512921e0f7d2f694604" />
 	</machine>
 	<machine name="Ace Combat 3 - Electrosphere (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Ace Combat 3 - Electrosphere (Europe) (En,Fr,De,Es,It)</description>
+		<year>2000</year>
+		<manufacturer>Sony</manufacturer>
 		<disk name="Ace Combat 3 - Electrosphere (Europe) (En,Fr,De,Es,It).chd" sha1="312a3dbf5734d12af214e648b12c4e9af6667720" />
 	</machine>
 	<machine name="Ace Combat 3 - Electrosphere (Japan) (Disc 1)">
@@ -646,6 +658,8 @@
 	<machine name="Ace Combat 3 - Electrosphere (Japan) (Disc 2)">
 		<category>Games</category>
 		<description>Ace Combat 3 - Electrosphere (Japan) (Disc 2)</description>
+		<year>1999</year>
+		<manufacturer>Namco</manufacturer>
 		<disk name="Ace Combat 3 - Electrosphere (Japan) (Disc 2).chd" sha1="f304f25f8aafd137aacf46bf39b5fa336e387256" />
 	</machine>
 	<machine name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1)">
@@ -656,13 +670,15 @@
 	<machine name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1)">
 		<category>Games</category>
 		<description>Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1)</description>
+		<year>1999</year>
+		<manufacturer>Namco</manufacturer>
 		<disk name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1).chd" sha1="5df1f20ab18c4473784613303f9077941f08b040" />
 	</machine>
 	<machine name="Ace Combat 3 - Electrosphere (USA)">
 		<category>Games</category>
 		<description>Ace Combat 3 - Electrosphere (USA)</description>
 		<year>1999</year>
-		<manufacturer>Namco Hometek</manufacturer>
+		<manufacturer>Namco</manufacturer>
 		<disk name="Ace Combat 3 - Electrosphere (USA).chd" sha1="9579e5d056d01e82679b350e89ff329f603e418b" />
 	</machine>
 	<machine name="Aces of the Air (USA)">
@@ -695,38 +711,50 @@
 	<machine name="Aconcagua (Japan) (Disc 2)">
 		<category>Games</category>
 		<description>Aconcagua (Japan) (Disc 2)</description>
+		<year>2000</year>
+		<manufacturer>Sony</manufacturer>
 		<disk name="Aconcagua (Japan) (Disc 2).chd" sha1="52cc3ce95fdd70ea05653df526a1a89c0f2f8380" />
 	</machine>
 	<machine name="Action Bass (Europe)">
 		<category>Games</category>
 		<description>Action Bass (Europe)</description>
+		<year>2000</year>
+		<manufacturer>Take-Two Interactive</manufacturer>
 		<disk name="Action Bass (Europe).chd" sha1="5aaa3dbea79753ba38bab41bba40ff6d3a22dc54" />
 	</machine>
 	<machine name="Action Bass (Japan)">
 		<category>Games</category>
 		<description>Action Bass (Japan)</description>
+		<year>1999</year>
+		<manufacturer>Syscom Entertainment</manufacturer>
 		<disk name="Action Bass (Japan).chd" sha1="faf9f588b57340bea2ba4dbb6237b035e14624f7" />
 	</machine>
 	<machine name="Action Bass (USA)">
 		<category>Games</category>
 		<description>Action Bass (USA)</description>
 		<year>2000</year>
-		<manufacturer>Take-Two Interactive Software</manufacturer>
+		<manufacturer>Take-Two Interactive</manufacturer>
 		<disk name="Action Bass (USA).chd" sha1="c05deccf73c1c73fbc15ca97d6133ea332fb8a14" />
 	</machine>
 	<machine name="Action Man - Destruction X (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Action Man - Destruction X (Europe) (En,Fr,De,Es,It)</description>
+		<year>2001</year>
+		<manufacturer>3DO / Hasbro Interactive</manufacturer>
 		<disk name="Action Man - Destruction X (Europe) (En,Fr,De,Es,It).chd" sha1="832a7d1483837319b6527ddc42eed85c6f1b296b" />
 	</machine>
 	<machine name="Action Man - Mission Xtreme (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)">
 		<category>Games</category>
 		<description>Action Man - Mission Xtreme (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
+		<year>2000</year>
+		<manufacturer>Hasbro Interactive</manufacturer>
 		<disk name="Action Man - Mission Xtreme (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).chd" sha1="6fd3474d4d93cb6c03d27bddd1b209141bac19fa" />
 	</machine>
 	<machine name="Action Man - Mission Xtreme (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (EDC)">
 		<category>Games</category>
 		<description>Action Man - Mission Xtreme (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (EDC)</description>
+		<year>2000</year>
+		<manufacturer>Hasbro Interactive</manufacturer>
 		<disk name="Action Man - Mission Xtreme (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (EDC).chd" sha1="c6d8382e68d8dd830d435de2835a13c61f2e9fd1" />
 	</machine>
 	<machine name="Action Man - Operation Extreme (USA)">
@@ -945,6 +973,8 @@
 	<machine name="Adidas Power Soccer (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Adidas Power Soccer (Europe) (En,Fr,De,Es,It)</description>
+		<year>1996</year>
+		<manufacturer>Psygnosis</manufacturer>
 		<disk name="Adidas Power Soccer (Europe) (En,Fr,De,Es,It).chd" sha1="e90c095ad2a72ae63f4fe36b38462b0e6ca6a90d" />
 	</machine>
 	<machine name="Adidas Power Soccer (UK) (En,Fr,De,Es,It) (Demo)">
@@ -972,6 +1002,8 @@
 	<machine name="Adidas Power Soccer 2 (Europe) (En,Fr,De,Es,It,Nl)">
 		<category>Games</category>
 		<description>Adidas Power Soccer 2 (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<year>1997</year>
+		<manufacturer>Psygnosis</manufacturer>
 		<disk name="Adidas Power Soccer 2 (Europe) (En,Fr,De,Es,It,Nl).chd" sha1="f8cb7bbfccc88879e72d551406e9c1a9b543d131" />
 	</machine>
 	<machine name="Adidas Power Soccer 98 (Europe) (En,Fr,De,Es,It,Nl)">
@@ -1090,6 +1122,8 @@
 	<machine name="AFL 99 (Australia)">
 		<category>Games</category>
 		<description>AFL 99 (Australia)</description>
+		<year>1996</year>
+		<manufacturer>Electronic Arts</manufacturer>
 		<disk name="AFL 99 (Australia).chd" sha1="f4a6fb58cfde4b9cdfb67ca44fdf561fbf67c824" />
 	</machine>
 	<machine name="Afraid Gear (Japan)">
@@ -1240,6 +1274,8 @@
 	<machine name="AirRace Championship (Japan)">
 		<category>Games</category>
 		<description>AirRace Championship (Japan)</description>
+		<year>1999</year>
+		<manufacturer>Xing Entertainment</manufacturer>
 		<disk name="AirRace Championship (Japan).chd" sha1="74f6d9150d6ab868c55db706f115fe56a77ebfb8" />
 	</machine>
 	<machine name="Airs, The (Japan)">
@@ -1384,8 +1420,6 @@
 	<machine name="Alice in Cyberland (Japan)">
 		<category>Games</category>
 		<description>Alice in Cyberland (Japan)</description>
-		<year>1996</year>
-		<manufacturer>Glams</manufacturer>
 		<disk name="Alice in Cyberland (Japan).chd" sha1="f6270815e00919f9c8c2812d05fd37c16b29ec80" />
 	</machine>
 	<machine name="Alien Resurrection (Europe) (En,Fr,De,Es,It)">
@@ -1881,6 +1915,8 @@
 	<machine name="Anastasia (Europe) (En,Fr,De,Nl)">
 		<category>Games</category>
 		<description>Anastasia (Europe) (En,Fr,De,Nl)</description>
+		<year>2001</year>
+		<manufacturer>Midas Interactive</manufacturer>
 		<disk name="Anastasia (Europe) (En,Fr,De,Nl).chd" sha1="fbefa124869a040d653301ee7ebc08d75e5e537d" />
 	</machine>
 	<machine name="Ancient Roman - Power of Dark Side (Japan) (Disc 1)">
@@ -1948,8 +1984,6 @@
 	<machine name="Angelique - Tenkuu no Requiem (Japan)">
 		<category>Games</category>
 		<description>Angelique - Tenkuu no Requiem (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Koei</manufacturer>
 		<disk name="Angelique - Tenkuu no Requiem (Japan).chd" sha1="f332015a0e65633211bb93ca264324a6918d9a43" />
 	</machine>
 	<machine name="Angelique - Tenkuu no Requiem (Japan) (Premium Box)">
@@ -1975,8 +2009,6 @@
 	<machine name="Angelique Special 2 (Japan)">
 		<category>Games</category>
 		<description>Angelique Special 2 (Japan)</description>
-		<year>1997</year>
-		<manufacturer>Koei</manufacturer>
 		<disk name="Angelique Special 2 (Japan).chd" sha1="e02a5cc6c30d5418fbab3de661d95f1e2e39a1e6" />
 	</machine>
 	<machine name="Angelique Special 2 (Japan) (Premium Box)">
@@ -2066,15 +2098,11 @@
 	<machine name="Ao no 6-gou - Antarctica (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>Ao no 6-gou - Antarctica (Japan) (Disc 1)</description>
-		<year>2000</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="Ao no 6-gou - Antarctica (Japan) (Disc 1).chd" sha1="7d74fa68b08b4dd93d8fe402683b3ab35a2eba88" />
 	</machine>
 	<machine name="Ao no 6-gou - Antarctica (Japan) (Disc 2)">
 		<category>Games</category>
 		<description>Ao no 6-gou - Antarctica (Japan) (Disc 2)</description>
-		<year>2000</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="Ao no 6-gou - Antarctica (Japan) (Disc 2).chd" sha1="dccf1c5248809b418e11e3ae16ae3cfd5ac5fa49" />
 	</machine>
 	<machine name="Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)">
@@ -2085,8 +2113,6 @@
 	<machine name="Aozora to Nakama-tachi - Yume no Bouken Plus (Japan)">
 		<category>Games</category>
 		<description>Aozora to Nakama-tachi - Yume no Bouken Plus (Japan)</description>
-		<year>2003</year>
-		<manufacturer>MTO</manufacturer>
 		<disk name="Aozora to Nakama-tachi - Yume no Bouken Plus (Japan).chd" sha1="c349bde964b34e9e01051f671a58cd71378761f3" />
 	</machine>
 	<machine name="Ape Escape - La Invasion de los Monos (Spain)">
@@ -2097,8 +2123,6 @@
 	<machine name="Ape Escape (Europe)">
 		<category>Games</category>
 		<description>Ape Escape (Europe)</description>
-		<year>1999</year>
-		<manufacturer>Sony Computer Entertainment Europe</manufacturer>
 		<disk name="Ape Escape (Europe).chd" sha1="4e7ed4caaaabbf57b2b137f2e7f67fa2849c5d08" />
 	</machine>
 	<machine name="Ape Escape (Europe) (Demo)">
@@ -2637,8 +2661,6 @@
 	<machine name="Armored Core (Japan) (Demo 2)">
 		<category>Demos</category>
 		<description>Armored Core (Japan) (Demo 2)</description>
-		<year>1997</year>
-		<manufacturer>From Software</manufacturer>
 		<disk name="Armored Core (Japan) (Demo 2).chd" sha1="203b0ff431f7870a785161a36cc40f8e57160bc1" />
 	</machine>
 	<machine name="Armored Core (Japan) (Demo 3)">
@@ -2953,8 +2975,6 @@
 	<machine name="Assault Suits Valken 2 (Japan)">
 		<category>Games</category>
 		<description>Assault Suits Valken 2 (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Masaya</manufacturer>
 		<disk name="Assault Suits Valken 2 (Japan).chd" sha1="4cdb4ae13e3194237ad4fa3b15f8fafa570f575b" />
 	</machine>
 	<machine name="Assault Suits Valken 2 (Japan) (Demo)">
@@ -3057,8 +3077,6 @@
 	<machine name="Astronoka (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>Astronoka (Japan) (Disc 1)</description>
-		<year>1998</year>
-		<manufacturer>Enix</manufacturer>
 		<disk name="Astronoka (Japan) (Disc 1).chd" sha1="3f744319d59399864717b1f939ec50040d14f340" />
 	</machine>
 	<machine name="Asuka 120% Excellent - Burning Fest. Excellent (Japan)">
@@ -3069,8 +3087,6 @@
 	<machine name="Asuka 120% Final - Burning Fest. Final (Japan)">
 		<category>Games</category>
 		<description>Asuka 120% Final - Burning Fest. Final (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Family Soft</manufacturer>
 		<disk name="Asuka 120% Final - Burning Fest. Final (Japan).chd" sha1="ba46e1d173adf26525b04eada01a46c94d904147" />
 	</machine>
 	<machine name="Asuka 120% Special - Burning Fest. Special (Japan)">
@@ -3494,15 +3510,11 @@
 	<machine name="BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1)</description>
-		<year>1998</year>
-		<manufacturer>Ving</manufacturer>
 		<disk name="BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 1).chd" sha1="134037a83e58f31273dd10dc6d5dd83c44426c8a" />
 	</machine>
 	<machine name="BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2)">
 		<category>Games</category>
 		<description>BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2)</description>
-		<year>1998</year>
-		<manufacturer>Ving</manufacturer>
 		<disk name="BackGuiner - Yomigaeru Yuusha-tachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2).chd" sha1="825e9d0f05ec6f2bb66c3a88cce9638d6626f46b" />
 	</machine>
 	<machine name="BackGuiner - Yomigaeru Yuusha-tachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1)">
@@ -3518,8 +3530,6 @@
 	<machine name="BackGuiner - Yomigaeru Yuusha-tachi - Service Disc (Japan)">
 		<category>Bonus Discs</category>
 		<description>BackGuiner - Yomigaeru Yuusha-tachi - Service Disc (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Ving</manufacturer>
 		<disk name="BackGuiner - Yomigaeru Yuusha-tachi - Service Disc (Japan).chd" sha1="f61ca46bce27a354faf1f59678b904dd5e98b618" />
 	</machine>
 	<machine name="Backstreet Billiards (USA)">
@@ -3817,8 +3827,6 @@
 	<machine name="Bardysh - Kromeford no Juunin (Japan)">
 		<category>Games</category>
 		<description>Bardysh - Kromeford no Juunin (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Imadio</manufacturer>
 		<disk name="Bardysh - Kromeford no Juunin (Japan).chd" sha1="de3d5893de9249ca110b5d55a22f64f5d60ccdeb" />
 	</machine>
 	<machine name="Baroque - Yuganda Mousou (Japan)">
@@ -3861,8 +3869,6 @@
 	<machine name="Bass Fisherman - Texas (Japan)">
 		<category>Games</category>
 		<description>Bass Fisherman - Texas (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Sammy</manufacturer>
 		<disk name="Bass Fisherman - Texas (Japan).chd" sha1="0fa5e70635d9999d0bb0038a20b3ff1b7170c1b0" />
 	</machine>
 	<machine name="Bass Landing (Japan)">
@@ -4196,8 +4202,6 @@
 	<machine name="Beat Mania - The Sound of Tokyo (Japan)">
 		<category>Games</category>
 		<description>Beat Mania - The Sound of Tokyo (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Konami</manufacturer>
 		<disk name="Beat Mania - The Sound of Tokyo (Japan).chd" sha1="699a9022503cbb1a49c46e44d165ed6929355d62" />
 	</machine>
 	<machine name="Beat Mania (Japan) (Disc 1) (Arcade)">
@@ -4275,8 +4279,6 @@
 	<machine name="Beatmania Append Club Mix (Japan)">
 		<category>Add-Ons</category>
 		<description>Beatmania Append Club Mix (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Konami</manufacturer>
 		<disk name="Beatmania Append Club Mix (Japan).chd" sha1="65c7e8979681a3f7b494e7b04bdf7b666ad61138" />
 	</machine>
 	<machine name="Beatmania Best Hits (Japan)">
@@ -4660,15 +4662,11 @@
 	<machine name="Blackjack vs. Matsuda Jun (Japan)">
 		<category>Games</category>
 		<description>Blackjack vs. Matsuda Jun (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Pony Canyon</manufacturer>
 		<disk name="Blackjack vs. Matsuda Jun (Japan).chd" sha1="8c9359227b2a88153ace1b69f1dfc5560a7c97e2" />
 	</machine>
 	<machine name="Black-Matrix + (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>Black-Matrix + (Japan) (Disc 1)</description>
-		<year>2000</year>
-		<manufacturer>NEC Interchannel</manufacturer>
 		<disk name="Black-Matrix + (Japan) (Disc 1).chd" sha1="5685304898fc3b776af9d1f48e46e863bccec92b" />
 	</machine>
 	<machine name="Black-Matrix + (Japan) (Disc 2)">
@@ -4684,8 +4682,6 @@
 	<machine name="Black-Matrix 00 (Japan) (Disc 1) (Shokai Genteiban)">
 		<category>Games</category>
 		<description>Black-Matrix 00 (Japan) (Disc 1) (Shokai Genteiban)</description>
-		<year>2004</year>
-		<manufacturer>NEC Interchannel</manufacturer>
 		<disk name="Black-Matrix 00 (Japan) (Disc 1) (Shokai Genteiban).chd" sha1="d7e93768e9cf177d37c5f8bedca411ec7a39750a" />
 	</machine>
 	<machine name="Black-Matrix 00 (Japan) (Disc 2)">
@@ -4696,8 +4692,6 @@
 	<machine name="Black-Matrix 00 (Japan) (Disc 2) (Shokai Genteiban)">
 		<category>Games</category>
 		<description>Black-Matrix 00 (Japan) (Disc 2) (Shokai Genteiban)</description>
-		<year>2004</year>
-		<manufacturer>NEC Interchannel</manufacturer>
 		<disk name="Black-Matrix 00 (Japan) (Disc 2) (Shokai Genteiban).chd" sha1="db571eb5bc824c975fca0c76e53a8fc5d8745b99" />
 	</machine>
 	<machine name="Blade (Europe)">
@@ -4845,15 +4839,11 @@
 	<machine name="Blaze &amp; Blade - Eternal Quest (Japan)">
 		<category>Games</category>
 		<description>Blaze &amp; Blade - Eternal Quest (Japan)</description>
-		<year>1998</year>
-		<manufacturer>T&amp;E Soft</manufacturer>
 		<disk name="Blaze &amp; Blade - Eternal Quest (Japan).chd" sha1="4e6755c858b6eb3fcadcf9b2894176f69551037e" />
 	</machine>
 	<machine name="Blaze &amp; Blade Busters (Japan)">
 		<category>Games</category>
 		<description>Blaze &amp; Blade Busters (Japan)</description>
-		<year>1998</year>
-		<manufacturer>T&amp;E Soft</manufacturer>
 		<disk name="Blaze &amp; Blade Busters (Japan).chd" sha1="5d1f02d8f95eafbbf50edc87cd613137e1ab18af" />
 	</machine>
 	<machine name="Blazing Dragons (Europe)">
@@ -4881,8 +4871,6 @@
 	<machine name="Blend x Brand - Odekake Gousei RPG (Japan)">
 		<category>Games</category>
 		<description>Blend x Brand - Odekake Gousei RPG (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Tonkin House</manufacturer>
 		<disk name="Blend x Brand - Odekake Gousei RPG (Japan).chd" sha1="7d3db14851dc0ce0428e7deb8e8af07653cf7177" />
 	</machine>
 	<machine name="Block Buster (Europe)">
@@ -5068,8 +5056,6 @@
 	<machine name="Blue Breaker Burst - Egao no Asu ni (Japan)">
 		<category>Games</category>
 		<description>Blue Breaker Burst - Egao no Asu ni (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Human</manufacturer>
 		<disk name="Blue Breaker Burst - Egao no Asu ni (Japan).chd" sha1="aa3f7079f7e06c42d3bbb0a5894cd6be3ee0b497" />
 	</machine>
 	<machine name="Blue Breaker Burst - Egao no Asu ni (Japan) (Major Wave)">
@@ -5156,8 +5142,6 @@
 	<machine name="Boku no Choro Q (Japan)">
 		<category>Educational</category>
 		<description>Boku no Choro Q (Japan)</description>
-		<year>2002</year>
-		<manufacturer>Takara</manufacturer>
 		<disk name="Boku no Choro Q (Japan).chd" sha1="9df462b43dc42009443a81fed1a71e06ec0b628b" />
 	</machine>
 	<machine name="Boku no Natsuyasumi - Summer Holiday 20th Century (Japan)">
@@ -5281,8 +5265,6 @@
 	<machine name="Bonogurashi - Kore de Kanpeki Disu (Japan)">
 		<category>Games</category>
 		<description>Bonogurashi - Kore de Kanpeki Disu (Japan)</description>
-		<year>1996</year>
-		<manufacturer>Amuse</manufacturer>
 		<disk name="Bonogurashi - Kore de Kanpeki Disu (Japan).chd" sha1="19b03d73351c014d114def7affcbc82cd2f1c396" />
 	</machine>
 	<machine name="Book of Watermarks, The (Japan) (Demo)">
@@ -6094,8 +6076,6 @@
 	<machine name="Buttsubushi (Japan)">
 		<category>Games</category>
 		<description>Buttsubushi (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Selen</manufacturer>
 		<disk name="Buttsubushi (Japan).chd" sha1="7033722e47129321cea05d196ccdc7de5e66b8e2" />
 	</machine>
 	<machine name="Byggare Bob - Kan Vi Fixa Det (Sweden)">
@@ -6510,8 +6490,6 @@
 	<machine name="Carom Shot 2 (Japan)">
 		<category>Games</category>
 		<description>Carom Shot 2 (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Argent</manufacturer>
 		<disk name="Carom Shot 2 (Japan).chd" sha1="4c667fc3ca8ce615662c1218c3083d9bb909fcc0" />
 	</machine>
 	<machine name="Carom Shot 2 (Japan) (Demo)">
@@ -7052,15 +7030,11 @@
 	<machine name="Chiisana Kyojin Microman (Japan)">
 		<category>Games</category>
 		<description>Chiisana Kyojin Microman (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Takara</manufacturer>
 		<disk name="Chiisana Kyojin Microman (Japan).chd" sha1="096b981556f4929279481639d347699ecaf85745" />
 	</machine>
 	<machine name="Chiisana Oukoku Erutoria (Japan)">
 		<category>Games</category>
 		<description>Chiisana Oukoku Erutoria (Japan)</description>
-		<year>2000</year>
-		<manufacturer>KSS</manufacturer>
 		<disk name="Chiisana Oukoku Erutoria (Japan).chd" sha1="35c271c35ab663a85d5eca1ee1d4981fb6c75474" />
 	</machine>
 	<machine name="Chill (Europe) (Demo)">
@@ -7195,8 +7169,6 @@
 	<machine name="Chou Hatsumei Boy Kanipan - Hirameki Wonderland (Japan)">
 		<category>Games</category>
 		<description>Chou Hatsumei Boy Kanipan - Hirameki Wonderland (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Taito</manufacturer>
 		<disk name="Chou Hatsumei Boy Kanipan - Hirameki Wonderland (Japan).chd" sha1="489ae566f9af5618c035c993a43f33f52de84af1" />
 	</machine>
 	<machine name="Chou Jikuu Yousai Macross - Ai Oboete Imasu ka (Japan) (Disc 1)">
@@ -7514,8 +7486,6 @@
 	<machine name="Circuit Beat (Japan)">
 		<category>Games</category>
 		<description>Circuit Beat (Japan)</description>
-		<year>1996</year>
-		<manufacturer>Prism Arts</manufacturer>
 		<disk name="Circuit Beat (Japan).chd" sha1="5e7d0f5b9c733225f32545261ce22f1973916715" />
 	</machine>
 	<machine name="Circuit Breakers (Europe) (En,Fr,De,Es,It)">
@@ -7657,8 +7627,6 @@
 	<machine name="Cleopatra Fortune (Japan)">
 		<category>Games</category>
 		<description>Cleopatra Fortune (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Altron</manufacturer>
 		<disk name="Cleopatra Fortune (Japan).chd" sha1="0e2d2af0cf4ed12be0ee60a686abd337f91d08a7" />
 	</machine>
 	<machine name="Cleopatra's Fortune (USA)">
@@ -7671,8 +7639,6 @@
 	<machine name="Click Manga - Click no Hi (Japan)">
 		<category>Games</category>
 		<description>Click Manga - Click no Hi (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Tokuma Shoten</manufacturer>
 		<disk name="Click Manga - Click no Hi (Japan).chd" sha1="8f61ab473451819a554939fc17340d85d8c90278" />
 	</machine>
 	<machine name="Click Manga - Dynamic Robot Taisen 1 - Shutsugeki! Kyoui no Robot Gundan!! (Japan)">
@@ -7683,8 +7649,6 @@
 	<machine name="Click Manga - Dynamic Robot Taisen 2 - Kyoufu! Akuma Zoku Fukkatsu (Japan)">
 		<category>Games</category>
 		<description>Click Manga - Dynamic Robot Taisen 2 - Kyoufu! Akuma Zoku Fukkatsu (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Tokuma Shoten</manufacturer>
 		<disk name="Click Manga - Dynamic Robot Taisen 2 - Kyoufu! Akuma Zoku Fukkatsu (Japan).chd" sha1="fd059fc46d5f1cc3d55f44ba3a9d676977848a39" />
 	</machine>
 	<machine name="Click Manga - Ginga Eiyuu Densetsu 1 - Eien no Yoru no Naka de (Japan)">
@@ -7715,8 +7679,6 @@
 	<machine name="Clock Tower - Ghost Head (Japan)">
 		<category>Games</category>
 		<description>Clock Tower - Ghost Head (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Human</manufacturer>
 		<disk name="Clock Tower - Ghost Head (Japan).chd" sha1="59b1f1ce5f1ed06659e44b6facf3e2816ba8c352" />
 	</machine>
 	<machine name="Clock Tower - Ghost Head (Japan) (Demo)">
@@ -7764,8 +7726,6 @@
 	<machine name="Clock Tower 2 (Japan) (Demo 2)">
 		<category>Demos</category>
 		<description>Clock Tower 2 (Japan) (Demo 2)</description>
-		<year>1996</year>
-		<manufacturer>Human</manufacturer>
 		<disk name="Clock Tower 2 (Japan) (Demo 2).chd" sha1="e5319aedc36d3aa4c64421e45eb280017a6e5a66" />
 	</machine>
 	<machine name="Clock Tower II - The Struggle Within (USA)">
@@ -8806,8 +8766,6 @@
 	<machine name="Crash Bash (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Crash Bash (Europe) (En,Fr,De,Es,It)</description>
-		<year>2000</year>
-		<manufacturer>Sony Computer Entertainment Europe</manufacturer>
 		<disk name="Crash Bash (Europe) (En,Fr,De,Es,It).chd" sha1="80c8fb1e7e14419fd1d1bbdd1c01c7e69ddeadb3" />
 	</machine>
 	<machine name="Crash Bash (USA)">
@@ -8825,8 +8783,6 @@
 	<machine name="Crazy Climber 2000 (Japan)">
 		<category>Games</category>
 		<description>Crazy Climber 2000 (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Nihon Bussan</manufacturer>
 		<disk name="Crazy Climber 2000 (Japan).chd" sha1="11d1f4ea32d0ab6fb1a9d823a8bb41f3a4712052" />
 	</machine>
 	<machine name="Creative Camp (USA)">
@@ -9077,8 +9033,6 @@
 	<machine name="Cross Tantei Monogatari 1 - Kouhen (Japan)">
 		<category>Games</category>
 		<description>Cross Tantei Monogatari 1 - Kouhen (Japan)</description>
-		<year>2000</year>
-		<manufacturer>WorkJam</manufacturer>
 		<disk name="Cross Tantei Monogatari 1 - Kouhen (Japan).chd" sha1="1bac69025283746811ffd013d50b857dab04dff7" />
 	</machine>
 	<machine name="Cross Tantei Monogatari 1 - Zenpen (Japan)">
@@ -9342,8 +9296,6 @@
 	<machine name="Cybernetic Empire (Japan) (Disc 2)">
 		<category>Games</category>
 		<description>Cybernetic Empire (Japan) (Disc 2)</description>
-		<year>1999</year>
-		<manufacturer>Telenet</manufacturer>
 		<disk name="Cybernetic Empire (Japan) (Disc 2).chd" sha1="84c8be84af22a891ee2e21128ca71bc11eb076b2" />
 	</machine>
 	<machine name="Cybernetic Tuning Master, The - Exhaust King (Japan)">
@@ -9543,8 +9495,6 @@
 	<machine name="Daibouken Deluxe - Haruka naru Umi (Japan)">
 		<category>Games</category>
 		<description>Daibouken Deluxe - Haruka naru Umi (Japan)</description>
-		<year>1997</year>
-		<manufacturer>Soft Office</manufacturer>
 		<disk name="Daibouken Deluxe - Haruka naru Umi (Japan).chd" sha1="9d8c0af969e22e10ae58471e75c330079dd27ac1" />
 	</machine>
 	<machine name="Daikoukai Jidai Gaiden (Japan)">
@@ -9741,15 +9691,11 @@
 	<machine name="Dancing Blade Katte ni Momotenshi! (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>Dancing Blade Katte ni Momotenshi! (Japan) (Disc 1)</description>
-		<year>1998</year>
-		<manufacturer>Konami</manufacturer>
 		<disk name="Dancing Blade Katte ni Momotenshi! (Japan) (Disc 1).chd" sha1="280112aaa55e00950f1eb661e90254ecf7a04a4f" />
 	</machine>
 	<machine name="Dancing Blade Katte ni Momotenshi! (Japan) (Disc 2)">
 		<category>Games</category>
 		<description>Dancing Blade Katte ni Momotenshi! (Japan) (Disc 2)</description>
-		<year>1998</year>
-		<manufacturer>Konami</manufacturer>
 		<disk name="Dancing Blade Katte ni Momotenshi! (Japan) (Disc 2).chd" sha1="a8d806c1023cd0957f217bba4dbc138b133363cb" />
 	</machine>
 	<machine name="Dancing Blade Katte ni Momotenshi! (Japan) (Disc 3)">
@@ -10692,8 +10638,6 @@
 	<machine name="Densetsu-juu no Ana - Monster Complete World Ver. 2 (Japan)">
 		<category>Games</category>
 		<description>Densetsu-juu no Ana - Monster Complete World Ver. 2 (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Idea Factory</manufacturer>
 		<disk name="Densetsu-juu no Ana - Monster Complete World Ver. 2 (Japan).chd" sha1="cc14a329f2f9d1757adc834a4c1fbf8776d70b29" />
 	</machine>
 	<machine name="Densha Daisuki - Plarail ga Ippai (Japan)">
@@ -10866,8 +10810,6 @@
 	<machine name="Descent (Japan)">
 		<category>Games</category>
 		<description>Descent (Japan)</description>
-		<year>1996</year>
-		<manufacturer>Interplay</manufacturer>
 		<disk name="Descent (Japan).chd" sha1="f81d35ba906739de4eafdcc6f1e4e105000950cb" />
 	</machine>
 	<machine name="Descent (USA)">
@@ -11261,8 +11203,6 @@
 	<machine name="DigimonTamers - Battle Evolution (Japan)">
 		<category>Games</category>
 		<description>DigimonTamers - Battle Evolution (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="DigimonTamers - Battle Evolution (Japan).chd" sha1="2e95f826b84c2d5badc3c589a7d90eaa355047aa" />
 	</machine>
 	<machine name="DigimonTamers - PocketCulumon (Japan)">
@@ -11283,8 +11223,6 @@
 	<machine name="DigimonWorld (Japan)">
 		<category>Games</category>
 		<description>DigimonWorld (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="DigimonWorld (Japan).chd" sha1="a20b23f1e5cf7439425a2e62c0e85cac508de6a1" />
 	</machine>
 	<machine name="DigimonWorld (Japan) (Rev 1)">
@@ -12872,8 +12810,6 @@
 	<machine name="Doko made mo Aoku... (Japan) (Shokai Genteiban)">
 		<category>Games</category>
 		<description>Doko made mo Aoku... (Japan) (Shokai Genteiban)</description>
-		<year>2002</year>
-		<manufacturer>KID</manufacturer>
 		<disk name="Doko made mo Aoku... (Japan) (Shokai Genteiban).chd" sha1="192aba447f51b9dd2e0f7db399cabdc66012c0cd" />
 	</machine>
 	<machine name="Dolphin's Dream (Japan)">
@@ -13391,8 +13327,6 @@
 	<machine name="Dragon Valor (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>Dragon Valor (Japan) (Disc 1)</description>
-		<year>2000</year>
-		<manufacturer>Namco Hometek</manufacturer>
 		<disk name="Dragon Valor (Japan) (Disc 1).chd" sha1="f93188ed1dd6c86d741c971966962d2f05fbfef9" />
 	</machine>
 	<machine name="Dragon Valor (Japan) (Disc 2)">
@@ -13413,15 +13347,11 @@
 	<machine name="Dragon Valor (USA) (Disc 1)">
 		<category>Games</category>
 		<description>Dragon Valor (USA) (Disc 1)</description>
-		<year>2000</year>
-		<manufacturer>Namco Hometek</manufacturer>
 		<disk name="Dragon Valor (USA) (Disc 1).chd" sha1="6dfed9b8e2690285e331bfd4674afc5722e2b82a" />
 	</machine>
 	<machine name="Dragon Valor (USA) (Disc 2)">
 		<category>Games</category>
 		<description>Dragon Valor (USA) (Disc 2)</description>
-		<year>2000</year>
-		<manufacturer>Namco Hometek</manufacturer>
 		<disk name="Dragon Valor (USA) (Disc 2).chd" sha1="f1e22f1c3077494f2c9fb54a0d67603a452e8767" />
 	</machine>
 	<machine name="Dragon Warrior VII (USA) (Disc 1)">
@@ -13703,8 +13633,6 @@
 	<machine name="Drug Store, The - MatsumotoKiyoshi de Okaimono! (Japan)">
 		<category>Games</category>
 		<description>Drug Store, The - MatsumotoKiyoshi de Okaimono! (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Human</manufacturer>
 		<disk name="Drug Store, The - MatsumotoKiyoshi de Okaimono! (Japan).chd" sha1="57cf2777cc67c5213cdf58c8817b8839be9f89b3" />
 	</machine>
 	<machine name="Drug Store, The (Japan)">
@@ -13933,8 +13861,6 @@
 	<machine name="DX Monopoly (Japan)">
 		<category>Games</category>
 		<description>DX Monopoly (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Takara</manufacturer>
 		<disk name="DX Monopoly (Japan).chd" sha1="50c4fca618e42a6eb71dab72ac5fe513f16a31a7" />
 	</machine>
 	<machine name="DX Nippon Tokkyuu Ryokou Game - Let's Travel in Japan (Japan)">
@@ -14352,8 +14278,6 @@
 	<machine name="Eikan wa Kimi ni 4 (Japan)">
 		<category>Games</category>
 		<description>Eikan wa Kimi ni 4 (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Artdink</manufacturer>
 		<disk name="Eikan wa Kimi ni 4 (Japan).chd" sha1="f3ef7379e35122af51c207edb22fa6e5fdc3eb96" />
 	</machine>
 	<machine name="Eikou no Fairway - Virtual Golf Simulation (Japan)">
@@ -14441,8 +14365,6 @@
 	<machine name="Elan (Japan)">
 		<category>Games</category>
 		<description>Elan (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Visco</manufacturer>
 		<disk name="Elan (Japan).chd" sha1="013b2b7eb189c771e57eb40ca56c65cd092bf9d4" />
 	</machine>
 	<machine name="Elan Plus (Japan)">
@@ -14542,8 +14464,6 @@
 	<machine name="Emmyrea (Japan)">
 		<category>Games</category>
 		<description>Emmyrea (Japan)</description>
-		<year>2001</year>
-		<manufacturer>KID</manufacturer>
 		<disk name="Emmyrea (Japan).chd" sha1="45ebb136886f9f8c73bc1842232c9cda8a47846f" />
 	</machine>
 	<machine name="En Busca del Valle Encantado - El Retorno al Gran Valle (Spain)">
@@ -14554,8 +14474,6 @@
 	<machine name="End Sector (Japan)">
 		<category>Games</category>
 		<description>End Sector (Japan)</description>
-		<year>1998</year>
-		<manufacturer>ASCII</manufacturer>
 		<disk name="End Sector (Japan).chd" sha1="60b86607990d2a5eadda888340c383f31de51c00" />
 	</machine>
 	<machine name="End Sector (Japan) (Demo)">
@@ -14586,8 +14504,6 @@
 	<machine name="Enomoto Kanako no Boke Shindan Game (Japan)">
 		<category>Games</category>
 		<description>Enomoto Kanako no Boke Shindan Game (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Oracion</manufacturer>
 		<disk name="Enomoto Kanako no Boke Shindan Game (Japan).chd" sha1="cac3e66afa4f517d395f456b86cce97171328596" />
 	</machine>
 	<machine name="Entertainment Jansou - That's Pon! (Japan)">
@@ -16664,8 +16580,6 @@
 	<machine name="Family Diamond (Japan)">
 		<category>Games</category>
 		<description>Family Diamond (Japan)</description>
-		<year>2002</year>
-		<manufacturer>Magnolia</manufacturer>
 		<disk name="Family Diamond (Japan).chd" sha1="fc63340b6b4e898f4b4980b37b81f28f11e23c36" />
 	</machine>
 	<machine name="Family Feud (USA)">
@@ -16730,8 +16644,6 @@
 	<machine name="Famires, The - Shijou Saikyou no Menu (Japan)">
 		<category>Games</category>
 		<description>Famires, The - Shijou Saikyou no Menu (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Human</manufacturer>
 		<disk name="Famires, The - Shijou Saikyou no Menu (Japan).chd" sha1="e2a7020dd7aa1538028ea71bbe8df16d8aeb4ce7" />
 	</machine>
 	<machine name="Famires, The - Shijou Saikyou no Menu (Japan) (Major Wave)">
@@ -16899,15 +16811,11 @@
 	<machine name="Favorite Dear - Enkan no Monogatari (Japan)">
 		<category>Games</category>
 		<description>Favorite Dear - Enkan no Monogatari (Japan)</description>
-		<year>2001</year>
-		<manufacturer>NEC Interchannel</manufacturer>
 		<disk name="Favorite Dear - Enkan no Monogatari (Japan).chd" sha1="019bd142c9ad754f71c354911b91944a946ad9fc" />
 	</machine>
 	<machine name="Favorite Dear - Junpaku no Yogensha (Japan)">
 		<category>Games</category>
 		<description>Favorite Dear - Junpaku no Yogensha (Japan)</description>
-		<year>2000</year>
-		<manufacturer>NEC Interchannel</manufacturer>
 		<disk name="Favorite Dear - Junpaku no Yogensha (Japan).chd" sha1="c72b9c739e326baa8942554ee671b8c2beefd06a" />
 	</machine>
 	<machine name="Favorite Dear (Japan)">
@@ -17653,8 +17561,6 @@
 	<machine name="Final Fantasy (Japan)">
 		<category>Games</category>
 		<description>Final Fantasy (Japan)</description>
-		<year>2002</year>
-		<manufacturer>Squaresoft</manufacturer>
 		<disk name="Final Fantasy (Japan).chd" sha1="2d9f324f6ba44b0d4fcea2cb11a91bae02d307d2" />
 	</machine>
 	<machine name="Final Fantasy (Japan) (Premium Package)">
@@ -18143,29 +18049,21 @@
 	<machine name="Final Fantasy VIII (Europe, Australia) (Disc 1)">
 		<category>Games</category>
 		<description>Final Fantasy VIII (Europe, Australia) (Disc 1)</description>
-		<year>1999</year>
-		<manufacturer>Square Electronic Arts</manufacturer>
 		<disk name="Final Fantasy VIII (Europe, Australia) (Disc 1).chd" sha1="9c3f21dce9f47f1d1aeb50fd7578af10aca521df" />
 	</machine>
 	<machine name="Final Fantasy VIII (Europe, Australia) (Disc 2)">
 		<category>Games</category>
 		<description>Final Fantasy VIII (Europe, Australia) (Disc 2)</description>
-		<year>1999</year>
-		<manufacturer>Square Electronic Arts</manufacturer>
 		<disk name="Final Fantasy VIII (Europe, Australia) (Disc 2).chd" sha1="a1082f610441d956c8d01e8049d7a781cf4bf29e" />
 	</machine>
 	<machine name="Final Fantasy VIII (Europe, Australia) (Disc 3)">
 		<category>Games</category>
 		<description>Final Fantasy VIII (Europe, Australia) (Disc 3)</description>
-		<year>1999</year>
-		<manufacturer>Square Electronic Arts</manufacturer>
 		<disk name="Final Fantasy VIII (Europe, Australia) (Disc 3).chd" sha1="879a484a072e075d6b62a8314b4fdb0dffdb965d" />
 	</machine>
 	<machine name="Final Fantasy VIII (Europe, Australia) (Disc 4)">
 		<category>Games</category>
 		<description>Final Fantasy VIII (Europe, Australia) (Disc 4)</description>
-		<year>1999</year>
-		<manufacturer>Sony Computer Entertainment Europe</manufacturer>
 		<disk name="Final Fantasy VIII (Europe, Australia) (Disc 4).chd" sha1="9aaa1bd33763e6cba9ccfcd44a6ff36c5a0008c9" />
 	</machine>
 	<machine name="Final Fantasy VIII (France) (Demo)">
@@ -18353,8 +18251,6 @@
 	<machine name="Fire Woman Matoigumi (Japan)">
 		<category>Games</category>
 		<description>Fire Woman Matoigumi (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Tokuma Shoten</manufacturer>
 		<disk name="Fire Woman Matoigumi (Japan).chd" sha1="461c24fbcc2c4313b2febaeca6854ad1c85c4218" />
 	</machine>
 	<machine name="Firebugs (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)">
@@ -18405,8 +18301,6 @@
 	<machine name="First Kiss Story (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>First Kiss Story (Japan) (Disc 1)</description>
-		<year>1998</year>
-		<manufacturer>HuneX</manufacturer>
 		<disk name="First Kiss Story (Japan) (Disc 1).chd" sha1="0b8c81edb6ba294f8065b239c286442e2355ea96" />
 	</machine>
 	<machine name="First Kiss Story (Japan) (Disc 2)">
@@ -18417,8 +18311,6 @@
 	<machine name="First Queen IV - Varcia Senki (Japan)">
 		<category>Games</category>
 		<description>First Queen IV - Varcia Senki (Japan)</description>
-		<year>1996</year>
-		<manufacturer>KSK</manufacturer>
 		<disk name="First Queen IV - Varcia Senki (Japan).chd" sha1="6fca3a9da01910a6eb685fbe4d9f3b965b99eeb1" />
 	</machine>
 	<machine name="Fish Eyes (Japan)">
@@ -18618,8 +18510,6 @@
 	<machine name="Forget Me Not - Palette (Japan)">
 		<category>Games</category>
 		<description>Forget Me Not - Palette (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Enterbrain</manufacturer>
 		<disk name="Forget Me Not - Palette (Japan).chd" sha1="838cbd64fa36855b46979f1f5543b970ed37de77" />
 	</machine>
 	<machine name="Formation Soccer '97 - The Road to France (Japan)">
@@ -18910,8 +18800,6 @@
 	<machine name="Fox Junction (Japan)">
 		<category>Games</category>
 		<description>Fox Junction (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Trips</manufacturer>
 		<disk name="Fox Junction (Japan).chd" sha1="901df013d0bcdf48d8908fa194036819d11d11ef" />
 	</machine>
 	<machine name="Fox Sports Golf '99 (USA)">
@@ -19229,8 +19117,6 @@
 	<machine name="Fushigi Deka (Japan)">
 		<category>Games</category>
 		<description>Fushigi Deka (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Capcom</manufacturer>
 		<disk name="Fushigi Deka (Japan).chd" sha1="55ad6b807f42ec7975bc48d3c67fcff67d6f7abb" />
 	</machine>
 	<machine name="Fushigi na Data Disc (Japan)">
@@ -19437,8 +19323,6 @@
 	<machine name="Gakkou o Tsukurou!! Kouchou Sensei Monogatari (Japan)">
 		<category>Games</category>
 		<description>Gakkou o Tsukurou!! Kouchou Sensei Monogatari (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Victor Interactive Software</manufacturer>
 		<disk name="Gakkou o Tsukurou!! Kouchou Sensei Monogatari (Japan).chd" sha1="d6ce76363a11c2b57ec849ee6a92c4201cd0a485" />
 	</machine>
 	<machine name="Gakkou o Tsukurou!! Let's Make a School!! (Japan)">
@@ -19684,8 +19568,6 @@
 	<machine name="Game Maker, The - Ureyuki 100-manbon Get da ze! (Japan)">
 		<category>Games</category>
 		<description>Game Maker, The - Ureyuki 100-manbon Get da ze! (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Axela</manufacturer>
 		<disk name="Game Maker, The - Ureyuki 100-manbon Get da ze! (Japan).chd" sha1="0fd4b99f80d0a611f2d30fd3826ad311a20c2dde" />
 	</machine>
 	<machine name="Game Nihonshi - Kakumeiji Oda Nobunaga (Japan)">
@@ -19753,8 +19635,6 @@
 	<machine name="Game Soft o Tsukurou - Let's Be a Super Game Creator!! (Japan)">
 		<category>Games</category>
 		<description>Game Soft o Tsukurou - Let's Be a Super Game Creator!! (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Imageneer</manufacturer>
 		<disk name="Game Soft o Tsukurou - Let's Be a Super Game Creator!! (Japan).chd" sha1="2fb805ce7f940ea010ea1decf107ccb1aded059e" />
 	</machine>
 	<machine name="Game Wizard Plus (China) (Unl)">
@@ -19946,15 +19826,11 @@
 	<machine name="Gate Keepers (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>Gate Keepers (Japan) (Disc 1)</description>
-		<year>1999</year>
-		<manufacturer>Kadokawa Shoten</manufacturer>
 		<disk name="Gate Keepers (Japan) (Disc 1).chd" sha1="b81f205a332baebc60b32e9ba6ce7e2097fef1d2" />
 	</machine>
 	<machine name="Gate Keepers (Japan) (Disc 2)">
 		<category>Games</category>
 		<description>Gate Keepers (Japan) (Disc 2)</description>
-		<year>1999</year>
-		<manufacturer>Kadokawa Shoten</manufacturer>
 		<disk name="Gate Keepers (Japan) (Disc 2).chd" sha1="0a796de80dd94e01bb6b7e0e88c41cd310a9bf04" />
 	</machine>
 	<machine name="Gauntlet Legends (Europe)">
@@ -19992,8 +19868,6 @@
 	<machine name="GeGeGe no Kitarou - Gyakushuu! Youma Daikessen (Japan)">
 		<category>Games</category>
 		<description>GeGeGe no Kitarou - Gyakushuu! Youma Daikessen (Japan)</description>
-		<year>2003</year>
-		<manufacturer>Konami</manufacturer>
 		<disk name="GeGeGe no Kitarou - Gyakushuu! Youma Daikessen (Japan).chd" sha1="f1eea045c29701d29efe1a116df665c891ebb756" />
 	</machine>
 	<machine name="GeGeGe no Kitarou (Japan)">
@@ -20098,8 +19972,6 @@
 	<machine name="Gensou no Artemis (Japan)">
 		<category>Games</category>
 		<description>Gensou no Artemis (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Shoeisha</manufacturer>
 		<disk name="Gensou no Artemis (Japan).chd" sha1="ff20e71558526c59c9263ec1b4a9ecf3a7aa555b" />
 	</machine>
 	<machine name="Gensou Suiko Gaiden Vol. 1 - Harmonia no Kenshi (Japan)">
@@ -20473,8 +20345,6 @@
 	<machine name="Gokuu Densetsu - Magic Beast Warriors (Japan)">
 		<category>Games</category>
 		<description>Gokuu Densetsu - Magic Beast Warriors (Japan)</description>
-		<year>1995</year>
-		<manufacturer>Allumer</manufacturer>
 		<disk name="Gokuu Densetsu - Magic Beast Warriors (Japan).chd" sha1="095c588297e348dc0ebf12d3a7c31fd0c7d3f69b" />
 	</machine>
 	<machine name="Gold and Glory - The Road to El Dorado (Europe)">
@@ -20683,15 +20553,11 @@
 	<machine name="G-Police (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>G-Police (Japan) (Disc 1)</description>
-		<year>1997</year>
-		<manufacturer>Psygnosis</manufacturer>
 		<disk name="G-Police (Japan) (Disc 1).chd" sha1="1352517e5673e296a8ea9f3177335953a9fe4b3e" />
 	</machine>
 	<machine name="G-Police (Japan) (Disc 2)">
 		<category>Games</category>
 		<description>G-Police (Japan) (Disc 2)</description>
-		<year>1998</year>
-		<manufacturer>SCEI</manufacturer>
 		<disk name="G-Police (Japan) (Disc 2).chd" sha1="be17f680d47c6730bde0f47a5879e5c27ee685c9" />
 	</machine>
 	<machine name="G-Police (Spain) (Disc 1)">
@@ -21051,8 +20917,6 @@
 	<machine name="Granstream Denki - The Granstream Saga (Japan) (Demo)">
 		<category>Demos</category>
 		<description>Granstream Denki - The Granstream Saga (Japan) (Demo)</description>
-		<year>1997</year>
-		<manufacturer>SCEI</manufacturer>
 		<disk name="Granstream Denki - The Granstream Saga (Japan) (Demo).chd" sha1="305193a0af5ce0928fd16f661ffabb7ce434eb74" />
 	</machine>
 	<machine name="Granstream Saga, The (Europe)">
@@ -21198,8 +21062,6 @@
 	<machine name="Growlanser (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>Growlanser (Japan) (Disc 1)</description>
-		<year>1999</year>
-		<manufacturer>Atlus</manufacturer>
 		<disk name="Growlanser (Japan) (Disc 1).chd" sha1="50424ccac01347706039365045a27ad35e446efa" />
 	</machine>
 	<machine name="Growlanser (Japan) (Disc 2)">
@@ -21538,8 +21400,6 @@
 	<machine name="Guuguuthropus (Japan)">
 		<category>Games</category>
 		<description>Guuguuthropus (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Enix</manufacturer>
 		<disk name="Guuguuthropus (Japan).chd" sha1="e6a6f82e1e838d4a740c39f4f69a4146e5fe92e9" />
 	</machine>
 	<machine name="Guuguuthropus (Japan) (Demo)">
@@ -21700,8 +21560,6 @@
 	<machine name="Happy Salvage (Japan)">
 		<category>Games</category>
 		<description>Happy Salvage (Japan)</description>
-		<year>2000</year>
-		<manufacturer>MediaWorks</manufacturer>
 		<disk name="Happy Salvage (Japan).chd" sha1="b35c86598e44de1e74b287bc55fd9a56f80c8d3a" />
 	</machine>
 	<machine name="Hard Blow (Japan)">
@@ -21870,15 +21728,11 @@
 	<machine name="Harukanaru Toki no Naka de - Banjou Yuugi (Japan) (Premium Box)">
 		<category>Games</category>
 		<description>Harukanaru Toki no Naka de - Banjou Yuugi (Japan) (Premium Box)</description>
-		<year>2003</year>
-		<manufacturer>Koei</manufacturer>
 		<disk name="Harukanaru Toki no Naka de - Banjou Yuugi (Japan) (Premium Box).chd" sha1="ce32e939b5a5ed31926c14fae9122240727673a0" />
 	</machine>
 	<machine name="Harukanaru Toki no Naka de (Japan)">
 		<category>Games</category>
 		<description>Harukanaru Toki no Naka de (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Koei</manufacturer>
 		<disk name="Harukanaru Toki no Naka de (Japan).chd" sha1="999e24856d829d4181955944db98a01ac8837cde" />
 	</machine>
 	<machine name="Harukanaru Toki no Naka de (Japan) (Premium Box)">
@@ -22102,8 +21956,6 @@
 	<machine name="Heiwa Parlor! Pro - Dolphin Ring Special (Japan)">
 		<category>Games</category>
 		<description>Heiwa Parlor! Pro - Dolphin Ring Special (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Nihon Telenet</manufacturer>
 		<disk name="Heiwa Parlor! Pro - Dolphin Ring Special (Japan).chd" sha1="7f8d0d53697ea50e50f0c41589e146fc449e410f" />
 	</machine>
 	<machine name="Heiwa Parlor! Pro - Fujiko ni O-Ma-Ka-Se Special (Japan)">
@@ -22124,8 +21976,6 @@
 	<machine name="Heiwa Parlor! Pro - Tsunatori Special (Japan)">
 		<category>Games</category>
 		<description>Heiwa Parlor! Pro - Tsunatori Special (Japan)</description>
-		<year>2002</year>
-		<manufacturer>Nihon Telenet</manufacturer>
 		<disk name="Heiwa Parlor! Pro - Tsunatori Special (Japan).chd" sha1="b72bd591a32a59b502ba624bd894d14dfe36e2d6" />
 	</machine>
 	<machine name="Heiwa Parlor! Pro - Western Special (Japan)">
@@ -22136,8 +21986,6 @@
 	<machine name="Heiwa, The - Otenki Studio (Japan)">
 		<category>Games</category>
 		<description>Heiwa, The - Otenki Studio (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Aqua Rouge</manufacturer>
 		<disk name="Heiwa, The - Otenki Studio (Japan).chd" sha1="6d3747acc7b44e259d939d61da6851a46ed67576" />
 	</machine>
 	<machine name="Helix - Fear Effect (Japan) (Disc 1)">
@@ -22350,8 +22198,6 @@
 	<machine name="Hikaru no Go - Insei Choujou Kessen (Japan)">
 		<category>Games</category>
 		<description>Hikaru no Go - Insei Choujou Kessen (Japan)</description>
-		<year>2002</year>
-		<manufacturer>Konami</manufacturer>
 		<disk name="Hikaru no Go - Insei Choujou Kessen (Japan).chd" sha1="bd16e7df4cd1de59e2e01886c2e85f4ffb71d1ec" />
 	</machine>
 	<machine name="Himiko-den - Renge (Japan) (Demo)">
@@ -22564,8 +22410,6 @@
 	<machine name="Hissatsu Pachi-Slot Station 2 - Bakuto! Joushiki Yaburi no 2 Types (Japan)">
 		<category>Games</category>
 		<description>Hissatsu Pachi-Slot Station 2 - Bakuto! Joushiki Yaburi no 2 Types (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Sunsoft</manufacturer>
 		<disk name="Hissatsu Pachi-Slot Station 2 - Bakuto! Joushiki Yaburi no 2 Types (Japan).chd" sha1="04a73343ca7d6756a67bddd415a2d1db30c6db7f" />
 	</machine>
 	<machine name="Hissatsu Pachi-Slot Station 3 - Tetra Reel e no Chousen (Japan)">
@@ -22601,8 +22445,6 @@
 	<machine name="Hit Back (Japan)">
 		<category>Games</category>
 		<description>Hit Back (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Tomy</manufacturer>
 		<disk name="Hit Back (Japan).chd" sha1="9c09797b7b93a0cf527b8fa0dcb3c7fd6ac91b7e" />
 	</machine>
 	<machine name="Hit Back (Japan) (Demo)">
@@ -22840,8 +22682,6 @@
 	<machine name="Houma Hunter Lime - Special Collection Vol. 1 (Japan)">
 		<category>Games</category>
 		<description>Houma Hunter Lime - Special Collection Vol. 1 (Japan)</description>
-		<year>1994</year>
-		<manufacturer>Asmik</manufacturer>
 		<disk name="Houma Hunter Lime - Special Collection Vol. 1 (Japan).chd" sha1="db447b7261d151dd68e3a203f7ab43ffa1ec6896" />
 	</machine>
 	<machine name="Houma Hunter Lime - Special Collection Vol. 2 (Japan)">
@@ -22852,8 +22692,6 @@
 	<machine name="Houshin Engi - Aizouban (Japan)">
 		<category>Games</category>
 		<description>Houshin Engi - Aizouban (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Koei</manufacturer>
 		<disk name="Houshin Engi - Aizouban (Japan).chd" sha1="f8aac23c2ca983f52babde661d3ec61dd0bdbb03" />
 	</machine>
 	<machine name="Houshin Engi (Japan)">
@@ -23051,15 +22889,11 @@
 	<machine name="Hunter x Hunter - Maboroshi no Greed Island (Japan)">
 		<category>Games</category>
 		<description>Hunter x Hunter - Maboroshi no Greed Island (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Konami</manufacturer>
 		<disk name="Hunter x Hunter - Maboroshi no Greed Island (Japan).chd" sha1="a3b2c8d1fa9bbde97745181ba87b773e25882da7" />
 	</machine>
 	<machine name="Hunter x Hunter - Ubawareta Aura Stone (Japan)">
 		<category>Games</category>
 		<description>Hunter x Hunter - Ubawareta Aura Stone (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Konami</manufacturer>
 		<disk name="Hunter x Hunter - Ubawareta Aura Stone (Japan).chd" sha1="311beb112f2b0313bc274933d4ff5682a80fe855" />
 	</machine>
 	<machine name="Hunter, The (Europe)">
@@ -23102,8 +22936,6 @@
 	<machine name="Hyouryuuki - The Reportage Beyond the Sea (Japan)">
 		<category>Games</category>
 		<description>Hyouryuuki - The Reportage Beyond the Sea (Japan)</description>
-		<year>1999</year>
-		<manufacturer>KSS</manufacturer>
 		<disk name="Hyouryuuki - The Reportage Beyond the Sea (Japan).chd" sha1="d73e01295083b1c6d7acb885f738dc8ca68b3a57" />
 	</machine>
 	<machine name="Hyouryuuki - The Reportage Beyond the Sea (Japan) (Major Wave)">
@@ -23354,8 +23186,6 @@
 	<machine name="Hyper Securities 2 (Japan)">
 		<category>Games</category>
 		<description>Hyper Securities 2 (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Victor Interactive Software</manufacturer>
 		<disk name="Hyper Securities 2 (Japan).chd" sha1="9b8dbe45c962c06b192592f4509188ebbefddca4" />
 	</machine>
 	<machine name="Hyper Tennis - Final Match (Europe)">
@@ -23440,8 +23270,6 @@
 	<machine name="Ichigeki - Hagane no Hito (Japan)">
 		<category>Games</category>
 		<description>Ichigeki - Hagane no Hito (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="Ichigeki - Hagane no Hito (Japan).chd" sha1="cbcaf521bad7a2bdb7bce0f52072ecc85bc6a976" />
 	</machine>
 	<machine name="Ide Yousuke Meijin no Shin Jissen Mahjong (Japan)">
@@ -23462,8 +23290,6 @@
 	<machine name="Ide Yousuke no Mahjong Kyoushitsu (Japan)">
 		<category>Games</category>
 		<description>Ide Yousuke no Mahjong Kyoushitsu (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Athena</manufacturer>
 		<disk name="Ide Yousuke no Mahjong Kyoushitsu (Japan).chd" sha1="f9abaefccdd732316b52e51c161f57c4dbd16187" />
 	</machine>
 	<machine name="Idol Janshi Suchie-Pai II Limited (Japan) (Disc 1)">
@@ -23589,8 +23415,6 @@
 	<machine name="Inagawa Junji - Kyoufu no Yashiki (Japan)">
 		<category>Games</category>
 		<description>Inagawa Junji - Kyoufu no Yashiki (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Visit</manufacturer>
 		<disk name="Inagawa Junji - Kyoufu no Yashiki (Japan).chd" sha1="0b6935bc29d5dcafd0adbc7c740cafcfdb0ce993" />
 	</machine>
 	<machine name="Inagawa Junji - Mayonaka no Taxi (Japan)">
@@ -24003,8 +23827,6 @@
 	<machine name="Inuyasha (Japan)">
 		<category>Games</category>
 		<description>Inuyasha (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="Inuyasha (Japan).chd" sha1="f0d6a8567cf4ba4f546b4ff0538f28987fdf851b" />
 	</machine>
 	<machine name="Inuyasha (Japan) (Rev 1)">
@@ -24155,8 +23977,6 @@
 	<machine name="Itadaki Street - Gorgeous King (Japan) (Disc 2) (Demo)">
 		<category>Demos</category>
 		<description>Itadaki Street - Gorgeous King (Japan) (Disc 2) (Demo)</description>
-		<year>1998</year>
-		<manufacturer>Enix</manufacturer>
 		<disk name="Itadaki Street - Gorgeous King (Japan) (Disc 2) (Demo).chd" sha1="ea90af83163d0be3b205237f2d3f3e586cca484a" />
 	</machine>
 	<machine name="Itadaki Street - Gorgeous King (Japan) (Rev 1)">
@@ -24350,22 +24170,16 @@
 	<machine name="JailBreaker (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>JailBreaker (Japan) (Disc 1)</description>
-		<year>1999</year>
-		<manufacturer>NEC Interchannel</manufacturer>
 		<disk name="JailBreaker (Japan) (Disc 1).chd" sha1="b4b5ef394125b59fe23d73eb50be99587f102be8" />
 	</machine>
 	<machine name="JailBreaker (Japan) (Disc 2)">
 		<category>Games</category>
 		<description>JailBreaker (Japan) (Disc 2)</description>
-		<year>1999</year>
-		<manufacturer>NEC Interchannel</manufacturer>
 		<disk name="JailBreaker (Japan) (Disc 2).chd" sha1="a39a94bbd1e5d3176c716cfb36e0f718801eb50d" />
 	</machine>
 	<machine name="Jaleco Collection Vol. 1 (Japan)">
 		<category>Games</category>
 		<description>Jaleco Collection Vol. 1 (Japan)</description>
-		<year>2003</year>
-		<manufacturer>PCCW</manufacturer>
 		<disk name="Jaleco Collection Vol. 1 (Japan).chd" sha1="3a6113537c705198704bad491531458220a93ccc" />
 	</machine>
 	<machine name="Jaleco Taikenban Special (Japan)">
@@ -24629,8 +24443,6 @@
 	<machine name="Jigsaw World (Japan)">
 		<category>Games</category>
 		<description>Jigsaw World (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Hect</manufacturer>
 		<disk name="Jigsaw World (Japan).chd" sha1="079ff355470f5fd31244575a0bba4bd467fbb99c" />
 	</machine>
 	<machine name="Jigsaw World (Japan) (Honkakuha de 1300)">
@@ -25270,8 +25082,6 @@
 	<machine name="Kaeru no Ehon - Nakushita Kioku o Motomete (Japan)">
 		<category>Games</category>
 		<description>Kaeru no Ehon - Nakushita Kioku o Motomete (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Victor Interactive Software</manufacturer>
 		<disk name="Kaeru no Ehon - Nakushita Kioku o Motomete (Japan).chd" sha1="5aaf29f2783197782c6707899ee668c915189495" />
 	</machine>
 	<machine name="Kaeru no Ehon - Nakushita Kioku o Motomete (Japan) (Demo)">
@@ -25348,8 +25158,6 @@
 	<machine name="Kaibutsu Para-Dice - Monster Paradise (Japan)">
 		<category>Games</category>
 		<description>Kaibutsu Para-Dice - Monster Paradise (Japan)</description>
-		<year>1997</year>
-		<manufacturer>Make Software</manufacturer>
 		<disk name="Kaibutsu Para-Dice - Monster Paradise (Japan).chd" sha1="735b1e99a082af9451ea1efbd01e81a7e9640680" />
 	</machine>
 	<machine name="Kaijuu Senki (Japan)">
@@ -25360,8 +25168,6 @@
 	<machine name="Kaikan Phrase - Datenshi Kourin (Japan)">
 		<category>Games</category>
 		<description>Kaikan Phrase - Datenshi Kourin (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Enix</manufacturer>
 		<disk name="Kaikan Phrase - Datenshi Kourin (Japan).chd" sha1="a3738e047e041e18246adc505eb7c3b46cdb7492" />
 	</machine>
 	<machine name="Kain the Vampire (Japan)">
@@ -25432,8 +25238,6 @@
 	<machine name="Kamen Rider Agito (Japan)">
 		<category>Games</category>
 		<description>Kamen Rider Agito (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="Kamen Rider Agito (Japan).chd" sha1="aca291265377e83c74b292dace997c50c54d096e" />
 	</machine>
 	<machine name="Kamen Rider Kuuga (Japan)">
@@ -25615,8 +25419,6 @@
 	<machine name="Keiba Eight '98 Haru Natsu (Japan)">
 		<category>Applications</category>
 		<description>Keiba Eight '98 Haru Natsu (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Shangri-La</manufacturer>
 		<disk name="Keiba Eight '98 Haru Natsu (Japan).chd" sha1="6306a2146c44b17eb992d1e458e4995e9aa15b1e" />
 	</machine>
 	<machine name="Keiba Eight '99 Haru Natsu (Japan)">
@@ -25627,8 +25429,6 @@
 	<machine name="Keiba Saishou no Housoku '95 (Japan)">
 		<category>Applications</category>
 		<description>Keiba Saishou no Housoku '95 (Japan)</description>
-		<year>1995</year>
-		<manufacturer>Copya System</manufacturer>
 		<disk name="Keiba Saishou no Housoku '95 (Japan).chd" sha1="a76909c10b60007b9711de4568b6e1ce2232bd5f" />
 	</machine>
 	<machine name="Keiba Saishou no Housoku '96 Vol. 1 (Japan)">
@@ -25694,8 +25494,6 @@
 	<machine name="Kenki Ippatsu! Crane Master ni Narou! (Japan)">
 		<category>Games</category>
 		<description>Kenki Ippatsu! Crane Master ni Narou! (Japan)</description>
-		<year>2000</year>
-		<manufacturer>FAB Communication</manufacturer>
 		<disk name="Kenki Ippatsu! Crane Master ni Narou! (Japan).chd" sha1="d40fc99562fa09a7ab923af7d1bf0ccf8b85f902" />
 	</machine>
 	<machine name="Kenki Ippatsu! Crane Master ni Narou! (Japan) (Major Wave)">
@@ -25875,8 +25673,6 @@
 	<machine name="Kids Station - Bishoujo Senshi Sailor Moon World - Chibiusa to Tanoshii Mainichi (Japan)">
 		<category>Games</category>
 		<description>Kids Station - Bishoujo Senshi Sailor Moon World - Chibiusa to Tanoshii Mainichi (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="Kids Station - Bishoujo Senshi Sailor Moon World - Chibiusa to Tanoshii Mainichi (Japan).chd" sha1="db0e747eed35265a92892f8402b92d52c3f54082" />
 	</machine>
 	<machine name="Kids Station - Bishoujo Senshi Sailor Moon World - Chibiusa to Tanoshii Mainichi (Japan) (Controller Set)">
@@ -25912,8 +25708,6 @@
 	<machine name="Kids Station - Digimon Park (Japan) (Controller Set)">
 		<category>Games</category>
 		<description>Kids Station - Digimon Park (Japan) (Controller Set)</description>
-		<year>2001</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="Kids Station - Digimon Park (Japan) (Controller Set).chd" sha1="e278bac3224432e5a32a97348748f5232dbae8e1" />
 	</machine>
 	<machine name="Kids Station - Doraemon - Himitsu no Yojigen Pocket (Japan)">
@@ -26076,8 +25870,6 @@
 	<machine name="Kids Station - Motto! Oja Majo DoReMi - Maho-dou Smile Party (Japan)">
 		<category>Games</category>
 		<description>Kids Station - Motto! Oja Majo DoReMi - Maho-dou Smile Party (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="Kids Station - Motto! Oja Majo DoReMi - Maho-dou Smile Party (Japan).chd" sha1="33b39949a9911faff4d89df476c3f953adc099c5" />
 	</machine>
 	<machine name="Kids Station - Motto! Oja Majo DoReMi - Maho-dou Smile Party (Japan) (Controller Set)">
@@ -26158,8 +25950,6 @@
 	<machine name="Kids Station - Soreike! Anpanman 2 - Anpanman to Daibouken! (Japan)">
 		<category>Games</category>
 		<description>Kids Station - Soreike! Anpanman 2 - Anpanman to Daibouken! (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="Kids Station - Soreike! Anpanman 2 - Anpanman to Daibouken! (Japan).chd" sha1="3f5c86e064090d8b61431f8efbc27b3937bd4ec2" />
 	</machine>
 	<machine name="Kids Station - Soreike! Anpanman 2 - Anpanman to Daibouken! (Japan) (Controller Set)">
@@ -26665,8 +26455,6 @@
 	<machine name="Knight &amp; Baby (Japan)">
 		<category>Games</category>
 		<description>Knight &amp; Baby (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Tamsoft</manufacturer>
 		<disk name="Knight &amp; Baby (Japan).chd" sha1="8c5aef708a1f4509cfcf42d7943c0702af887624" />
 	</machine>
 	<machine name="Knockout Kings (USA)">
@@ -26845,8 +26633,6 @@
 	<machine name="Kosodate Quiz Motto My Angel (Japan)">
 		<category>Games</category>
 		<description>Kosodate Quiz Motto My Angel (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Namco</manufacturer>
 		<disk name="Kosodate Quiz Motto My Angel (Japan).chd" sha1="3c4f36da6a40d736711580a6650453fc4b8a5361" />
 	</machine>
 	<machine name="Kosodate Quiz My Angel (Japan)">
@@ -26962,8 +26748,6 @@
 	<machine name="Koudelka (Japan) (Demo 2)">
 		<category>Demos</category>
 		<description>Koudelka (Japan) (Demo 2)</description>
-		<year>199?</year>
-		<manufacturer>SNK</manufacturer>
 		<disk name="Koudelka (Japan) (Demo 2).chd" sha1="919d2657d51ff4bf6ec9f1c2317ed14616b0b3b9" />
 	</machine>
 	<machine name="Koudelka (Japan) (Disc 1)">
@@ -27067,8 +26851,6 @@
 	<machine name="Kouklotheatro - Yuukyuu no Hitomi (Japan)">
 		<category>Games</category>
 		<description>Kouklotheatro - Yuukyuu no Hitomi (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Sunsoft</manufacturer>
 		<disk name="Kouklotheatro - Yuukyuu no Hitomi (Japan).chd" sha1="6f7419781bcaecc14eb04c51094517027a6bd321" />
 	</machine>
 	<machine name="Koukyaku Kikou Shidan - Bein Panzer (Japan)">
@@ -27079,8 +26861,6 @@
 	<machine name="Kouni Shougun (Japan)">
 		<category>Games</category>
 		<description>Kouni Shougun (Japan)</description>
-		<year>2000</year>
-		<manufacturer>ASK</manufacturer>
 		<disk name="Kouni Shougun (Japan).chd" sha1="b34307427f35bfd4056f08c048e4278553ffcc9c" />
 	</machine>
 	<machine name="Kouryuu Sangoku Engi (Japan)">
@@ -27258,8 +27038,6 @@
 	<machine name="Kunoichi Torimonochou (Japan)">
 		<category>Games</category>
 		<description>Kunoichi Torimonochou (Japan)</description>
-		<year>1999</year>
-		<manufacturer>GMF</manufacturer>
 		<disk name="Kunoichi Torimonochou (Japan).chd" sha1="be3800da5ee74aa48a45518fa74a54dac86f5cb1" />
 	</machine>
 	<machine name="Kuon no Kizuna (Japan)">
@@ -27280,8 +27058,6 @@
 	<machine name="Kuro no Ken - Blade of the Darkness (Japan)">
 		<category>Games</category>
 		<description>Kuro no Ken - Blade of the Darkness (Japan)</description>
-		<year>1997</year>
-		<manufacturer>CD Bros.</manufacturer>
 		<disk name="Kuro no Ken - Blade of the Darkness (Japan).chd" sha1="ab766453ec245649e7d47306461fd117d527c71b" />
 	</machine>
 	<machine name="Kuroi Hitomi no Noir - Cielgris Fantasm (Japan)">
@@ -27369,8 +27145,6 @@
 	<machine name="Kyoro-chan no Prikura Daisakusen (Japan)">
 		<category>Games</category>
 		<description>Kyoro-chan no Prikura Daisakusen (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Tomy</manufacturer>
 		<disk name="Kyoro-chan no Prikura Daisakusen (Japan).chd" sha1="90dda93cd3f9fc1839b313f1dd9ab4e6b296d0e2" />
 	</machine>
 	<machine name="Kyoto Maiko Monogatari (Japan)">
@@ -27476,8 +27250,6 @@
 	<machine name="Lalala PlayStation Trial Disc - 1998 Summer (Japan)">
 		<category>Demos</category>
 		<description>Lalala PlayStation Trial Disc - 1998 Summer (Japan)</description>
-		<year>199?</year>
-		<manufacturer>&lt;unknown&gt;</manufacturer>
 		<disk name="Lalala PlayStation Trial Disc - 1998 Summer (Japan).chd" sha1="de76b2b109b1a87569674c8e30d456d1f0277057" />
 	</machine>
 	<machine name="Land Before Time, The - Big Water Adventure (Europe)">
@@ -27626,8 +27398,6 @@
 	<machine name="Le Mans 24 Hours (Europe) (En,Fr,De,Es,It,Pt)">
 		<category>Games</category>
 		<description>Le Mans 24 Hours (Europe) (En,Fr,De,Es,It,Pt)</description>
-		<year>1999</year>
-		<manufacturer>Infogrames Europe</manufacturer>
 		<disk name="Le Mans 24 Hours (Europe) (En,Fr,De,Es,It,Pt).chd" sha1="7deed0644d1b0418bf0cb583ee09280385ed740b" />
 	</machine>
 	<machine name="Leading Jockey '99 (Japan)">
@@ -27697,8 +27467,6 @@
 	<machine name="Legaia Densetsu (Japan) (Demo 2)">
 		<category>Demos</category>
 		<description>Legaia Densetsu (Japan) (Demo 2)</description>
-		<year>1998</year>
-		<manufacturer>SCEI</manufacturer>
 		<disk name="Legaia Densetsu (Japan) (Demo 2).chd" sha1="860999f35e94c2dea3c732155354af61eea1f85c" />
 	</machine>
 	<machine name="Legend (Europe)">
@@ -28091,8 +27859,6 @@
 	<machine name="LiberoGrande 2 (Japan)">
 		<category>Games</category>
 		<description>LiberoGrande 2 (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Namco</manufacturer>
 		<disk name="LiberoGrande 2 (Japan).chd" sha1="12b055af492244b3c2876f0dc0ab951836e3da46" />
 	</machine>
 	<machine name="Liberogrande International (Europe) (En,Fr,De,Es,It)">
@@ -28173,8 +27939,6 @@
 	<machine name="Linda^3 Again (Japan) (Rev 1)">
 		<category>Games</category>
 		<description>Linda^3 Again (Japan) (Rev 1)</description>
-		<year>1997</year>
-		<manufacturer>Sony</manufacturer>
 		<disk name="Linda^3 Again (Japan) (Rev 1).chd" sha1="7104b4ad503a0b0af6fd9ba037e431d08d2ba766" />
 	</machine>
 	<machine name="Ling Rise (Japan)">
@@ -28262,8 +28026,6 @@
 	<machine name="Little Princess - Marl Oukoku no Ningyou-hime 2 (Japan)">
 		<category>Games</category>
 		<description>Little Princess - Marl Oukoku no Ningyou-hime 2 (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Nippon Ichi Software</manufacturer>
 		<disk name="Little Princess - Marl Oukoku no Ningyou-hime 2 (Japan).chd" sha1="339738947b494d6c1ef24c3da137ba9e1230091a" />
 	</machine>
 	<machine name="Little Princess - Marl Oukoku no Ningyou-hime 2 (Japan) (Demo)">
@@ -28274,15 +28036,11 @@
 	<machine name="Little Princess - Marl Oukoku no Ningyou-hime 2 (Japan) (Disc 1) (+1 Tasu Ichi)">
 		<category>Games</category>
 		<description>Little Princess - Marl Oukoku no Ningyou-hime 2 (Japan) (Disc 1) (+1 Tasu Ichi)</description>
-		<year>2000</year>
-		<manufacturer>Nippon Ichi Software</manufacturer>
 		<disk name="Little Princess - Marl Oukoku no Ningyou-hime 2 (Japan) (Disc 1) (+1 Tasu Ichi).chd" sha1="46c21fc0c4037c97defb942012f507e539181ea7" />
 	</machine>
 	<machine name="Little Princess - Marl Oukoku no Ningyou-hime 2 (Japan) (Disc 2) (+1 Tasu Ichi)">
 		<category>Bonus Discs</category>
 		<description>Little Princess - Marl Oukoku no Ningyou-hime 2 (Japan) (Disc 2) (+1 Tasu Ichi)</description>
-		<year>2000</year>
-		<manufacturer>Nippon Ichi Software</manufacturer>
 		<disk name="Little Princess - Marl Oukoku no Ningyou-hime 2 (Japan) (Disc 2) (+1 Tasu Ichi).chd" sha1="5bf2ff58b4a14aa02d50554d7010421733ae2611" />
 	</machine>
 	<machine name="Live Wire! (Europe) (Demo)">
@@ -28740,22 +28498,16 @@
 	<machine name="Lunar 2 - Eternal Blue (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>Lunar 2 - Eternal Blue (Japan) (Disc 1)</description>
-		<year>2000</year>
-		<manufacturer>Working Designs</manufacturer>
 		<disk name="Lunar 2 - Eternal Blue (Japan) (Disc 1).chd" sha1="5a859285f11ab84c86727675c59cd3991946206e" />
 	</machine>
 	<machine name="Lunar 2 - Eternal Blue (Japan) (Disc 2)">
 		<category>Games</category>
 		<description>Lunar 2 - Eternal Blue (Japan) (Disc 2)</description>
-		<year>2000</year>
-		<manufacturer>Working Designs</manufacturer>
 		<disk name="Lunar 2 - Eternal Blue (Japan) (Disc 2).chd" sha1="a24a0a2c67f43693363bf01b8d6e33189163797f" />
 	</machine>
 	<machine name="Lunar 2 - Eternal Blue (Japan) (Disc 3)">
 		<category>Games</category>
 		<description>Lunar 2 - Eternal Blue (Japan) (Disc 3)</description>
-		<year>1999</year>
-		<manufacturer>Kadokawa Shoten</manufacturer>
 		<disk name="Lunar 2 - Eternal Blue (Japan) (Disc 3).chd" sha1="62ae6e2193615a953835696ce70921c721aa87b4" />
 	</machine>
 	<machine name="Lunar 2 - Eternal Blue Complete (USA) (Demo)">
@@ -29509,8 +29261,6 @@
 	<machine name="Marl Jong!! (Japan) (Genteiban)">
 		<category>Games</category>
 		<description>Marl Jong!! (Japan) (Genteiban)</description>
-		<year>2003</year>
-		<manufacturer>Nippon Ichi Software</manufacturer>
 		<disk name="Marl Jong!! (Japan) (Genteiban).chd" sha1="4f206869671b59df139ce515ac519156dd4c7357" />
 	</machine>
 	<machine name="Marl Oukoku no Ningyou-hime - The Adventure of Puppet Princess (Japan)">
@@ -29891,8 +29641,6 @@
 	<machine name="Matsukata Hiroki no World Fishing (Japan) (BPS the Choice)">
 		<category>Games</category>
 		<description>Matsukata Hiroki no World Fishing (Japan) (BPS the Choice)</description>
-		<year>1999</year>
-		<manufacturer>BPS</manufacturer>
 		<disk name="Matsukata Hiroki no World Fishing (Japan) (BPS the Choice).chd" sha1="75f6daa9e9d5f0e86e1178401d229316125544ac" />
 	</machine>
 	<machine name="Matsumoto Reiji 999 - Story of Galaxy Express 999 (Japan) (Disc 1)">
@@ -29955,8 +29703,6 @@
 	<machine name="Maze Heroes - Meikyuu Densetsu (Japan)">
 		<category>Games</category>
 		<description>Maze Heroes - Meikyuu Densetsu (Japan)</description>
-		<year>2002</year>
-		<manufacturer>Media Entertainment</manufacturer>
 		<disk name="Maze Heroes - Meikyuu Densetsu (Japan).chd" sha1="5c715dabed3c22d121da6122bb132d24a3c56f28" />
 	</machine>
 	<machine name="McDonald's - Demo 01 (Europe)">
@@ -30384,8 +30130,6 @@
 	<machine name="Megatudo 2096 (Japan)">
 		<category>Games</category>
 		<description>Megatudo 2096 (Japan)</description>
-		<year>1996</year>
-		<manufacturer>Banpresto</manufacturer>
 		<disk name="Megatudo 2096 (Japan).chd" sha1="f74652b42e781d92b92b3de451ad8d5d089498c8" />
 	</machine>
 	<machine name="Meguri Ai shite (Japan)">
@@ -30396,8 +30140,6 @@
 	<machine name="Meisha Retsuden - Greatest 70's (Japan)">
 		<category>Games</category>
 		<description>Meisha Retsuden - Greatest 70's (Japan)</description>
-		<year>1997</year>
-		<manufacturer>Epoch</manufacturer>
 		<disk name="Meisha Retsuden - Greatest 70's (Japan).chd" sha1="8657c7a707ca3c8a08d91083bc0b7588a1389cdf" />
 	</machine>
 	<machine name="Meisha Retsuden - Greatest 70's (Japan) (Rev 1)">
@@ -30418,8 +30160,6 @@
 	<machine name="Meitantei Conan - Saikou no Partner (Japan)">
 		<category>Games</category>
 		<description>Meitantei Conan - Saikou no Partner (Japan)</description>
-		<year>2002</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="Meitantei Conan - Saikou no Partner (Japan).chd" sha1="29d3295f172d22cd73d78ab31961da55b6bdc358" />
 	</machine>
 	<machine name="Meitantei Conan - Trick Trick Vol. 0 - Meikyuu no Crossroad Special Disc (Japan)">
@@ -30430,8 +30170,6 @@
 	<machine name="Meitantei Conan - Trick Trick Vol. 1 (Japan)">
 		<category>Games</category>
 		<description>Meitantei Conan - Trick Trick Vol. 1 (Japan)</description>
-		<year>2003</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="Meitantei Conan - Trick Trick Vol. 1 (Japan).chd" sha1="ca75d322be36844acafc75e40963bf12885fd54a" />
 	</machine>
 	<machine name="Meitantei Conan (Japan)">
@@ -30497,8 +30235,6 @@
 	<machine name="Memorial Series - Sunsoft Vol. 5 (Japan)">
 		<category>Games</category>
 		<description>Memorial Series - Sunsoft Vol. 5 (Japan)</description>
-		<year>2002</year>
-		<manufacturer>Sunsoft</manufacturer>
 		<disk name="Memorial Series - Sunsoft Vol. 5 (Japan).chd" sha1="d3c9a455365948a8991d8faf66ec2f448b537d9e" />
 	</machine>
 	<machine name="Memorial Series - Sunsoft Vol. 6 (Japan)">
@@ -30676,15 +30412,11 @@
 	<machine name="Metal Angel 3 (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>Metal Angel 3 (Japan) (Disc 1)</description>
-		<year>1997</year>
-		<manufacturer>Pack-in-Soft</manufacturer>
 		<disk name="Metal Angel 3 (Japan) (Disc 1).chd" sha1="83cb926c94ce9b954fbc3bed393d355ddb8b01f5" />
 	</machine>
 	<machine name="Metal Angel 3 (Japan) (Disc 2)">
 		<category>Games</category>
 		<description>Metal Angel 3 (Japan) (Disc 2)</description>
-		<year>1997</year>
-		<manufacturer>Pack-in-Soft</manufacturer>
 		<disk name="Metal Angel 3 (Japan) (Disc 2).chd" sha1="1576008f377c0dcc8bfab8b56589b6af77f14e0f" />
 	</machine>
 	<machine name="Metal Fist (Japan)">
@@ -30907,15 +30639,11 @@
 	<machine name="Meta-Ph-List Mu.X.2297 (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>Meta-Ph-List Mu.X.2297 (Japan) (Disc 1)</description>
-		<year>1997</year>
-		<manufacturer>A.D.M</manufacturer>
 		<disk name="Meta-Ph-List Mu.X.2297 (Japan) (Disc 1).chd" sha1="b05273ee90cab458a8be854c66c8828c4231457e" />
 	</machine>
 	<machine name="Meta-Ph-List Mu.X.2297 (Japan) (Disc 2)">
 		<category>Games</category>
 		<description>Meta-Ph-List Mu.X.2297 (Japan) (Disc 2)</description>
-		<year>1997</year>
-		<manufacturer>A.D.M</manufacturer>
 		<disk name="Meta-Ph-List Mu.X.2297 (Japan) (Disc 2).chd" sha1="d775141a3acac5027d0573c2ce029e547690aba4" />
 	</machine>
 	<machine name="Mezase! Meimon Yakyuubu (Japan)">
@@ -30970,8 +30698,6 @@
 	<machine name="Michinoku Hitou Koi Monogatari Kai (Japan)">
 		<category>Games</category>
 		<description>Michinoku Hitou Koi Monogatari Kai (Japan)</description>
-		<year>1999</year>
-		<manufacturer>FOG</manufacturer>
 		<disk name="Michinoku Hitou Koi Monogatari Kai (Japan).chd" sha1="d49813ac331fbfdeb7ac06e1e7dfaeb8c8e9baec" />
 	</machine>
 	<machine name="Mickey's Wild Adventure (Europe)">
@@ -31153,8 +30879,6 @@
 	<machine name="Mini-Moni. Shakatto Tambourine! da Pyon! (Japan)">
 		<category>Games</category>
 		<description>Mini-Moni. Shakatto Tambourine! da Pyon! (Japan)</description>
-		<year>2002</year>
-		<manufacturer>Sega</manufacturer>
 		<disk name="Mini-Moni. Shakatto Tambourine! da Pyon! (Japan).chd" sha1="9a7ec2098b0ec34e3024af6b0bc00932c72533ba" />
 	</machine>
 	<machine name="Mini-Moni. Shakatto Tambourine! da Pyon! (Japan) (Doukonban)">
@@ -31170,8 +30894,6 @@
 	<machine name="Minna Atsumare! Igo Kyoushitsu (Japan)">
 		<category>Games</category>
 		<description>Minna Atsumare! Igo Kyoushitsu (Japan)</description>
-		<year>2003</year>
-		<manufacturer>I.Magic.</manufacturer>
 		<disk name="Minna Atsumare! Igo Kyoushitsu (Japan).chd" sha1="a7f4331389eb4275c0020c75f429d41a7ef4f7e4" />
 	</machine>
 	<machine name="Minna no Golf (Japan) (Demo)">
@@ -31426,8 +31148,6 @@
 	<machine name="Misaki Aggressive! (Japan)">
 		<category>Games</category>
 		<description>Misaki Aggressive! (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Shoeisha</manufacturer>
 		<disk name="Misaki Aggressive! (Japan).chd" sha1="6a0184b3a02817485cc955060165d2da43aeaaa7" />
 	</machine>
 	<machine name="Miss Spider's Tea Party (USA)">
@@ -31504,8 +31224,6 @@
 	<machine name="Mizzurna Falls (Japan)">
 		<category>Games</category>
 		<description>Mizzurna Falls (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Human</manufacturer>
 		<disk name="Mizzurna Falls (Japan).chd" sha1="dcfabaa95fd68dc74348fca78500c56fa0f3923f" />
 	</machine>
 	<machine name="MLB 2000 (USA)">
@@ -31630,8 +31348,6 @@
 	<machine name="Mobile Police Patlabor - Game Edition (Japan)">
 		<category>Games</category>
 		<description>Mobile Police Patlabor - Game Edition (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="Mobile Police Patlabor - Game Edition (Japan).chd" sha1="03250ed9d2f6a04246d75b23f04e68fffb82ca02" />
 	</machine>
 	<machine name="Mobile Police Patlabor - Game Edition (Japan) (Demo)">
@@ -31727,8 +31443,6 @@
 	<machine name="Momotarou Densetsu (Japan)">
 		<category>Games</category>
 		<description>Momotarou Densetsu (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Hudson</manufacturer>
 		<disk name="Momotarou Densetsu (Japan).chd" sha1="81107fd87ed88ed64921b72e0fb568b645f43ab2" />
 	</machine>
 	<machine name="Momotarou Dentetsu 7 (Japan)">
@@ -31888,8 +31602,6 @@
 	<machine name="Monster Collection - Kamen no Madoushi (Japan)">
 		<category>Games</category>
 		<description>Monster Collection - Kamen no Madoushi (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Kadokawa Shoten</manufacturer>
 		<disk name="Monster Collection - Kamen no Madoushi (Japan).chd" sha1="80a39a741a8a1565f0a7b67d856411995e036bc6" />
 	</machine>
 	<machine name="Monster Complete World (Japan)">
@@ -32434,8 +32146,6 @@
 	<machine name="Mouri Motonari - Chikai no Sanshi (Japan)">
 		<category>Games</category>
 		<description>Mouri Motonari - Chikai no Sanshi (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Koei</manufacturer>
 		<disk name="Mouri Motonari - Chikai no Sanshi (Japan).chd" sha1="c49ec936a1c499507c81437a738c8a7190a2ebc9" />
 	</machine>
 	<machine name="Mr. Driller (Europe) (En,Fr,De,Es,It)">
@@ -32781,8 +32491,6 @@
 	<machine name="My Home Dream 2 - Niwatsuki Ikkodate de, Ikou! (Japan)">
 		<category>Games</category>
 		<description>My Home Dream 2 - Niwatsuki Ikkodate de, Ikou! (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Victor</manufacturer>
 		<disk name="My Home Dream 2 - Niwatsuki Ikkodate de, Ikou! (Japan).chd" sha1="684bc465e5adcc95e701e03503c042d4ea768173" />
 	</machine>
 	<machine name="Myaon o Sagase (Japan)">
@@ -32820,8 +32528,6 @@
 	<machine name="Mystic Ark - Maboroshi Gekijou (Japan)">
 		<category>Games</category>
 		<description>Mystic Ark - Maboroshi Gekijou (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Enix</manufacturer>
 		<disk name="Mystic Ark - Maboroshi Gekijou (Japan).chd" sha1="0d61472c8d7cf3325056049ab0c8f07808e39803" />
 	</machine>
 	<machine name="Mystic Ark - Maboroshi Gekijou (Japan) (Demo)">
@@ -32832,8 +32538,6 @@
 	<machine name="Mystic Dragoons, The (Japan)">
 		<category>Games</category>
 		<description>Mystic Dragoons, The (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Xing</manufacturer>
 		<disk name="Mystic Dragoons, The (Japan).chd" sha1="dd3f4d3dadda8f1f0d598d5e18759839aecf8d5d" />
 	</machine>
 	<machine name="Mystic Mind - Yureru Omoi (Japan) (Disc 1)">
@@ -35128,8 +34832,6 @@
 	<machine name="Ningyo no Rakuin (Japan)">
 		<category>Games</category>
 		<description>Ningyo no Rakuin (Japan)</description>
-		<year>2000</year>
-		<manufacturer>NEC Interchannel</manufacturer>
 		<disk name="Ningyo no Rakuin (Japan).chd" sha1="d041b7e6d98187ae8fc7193a77f3818c96c27903" />
 	</machine>
 	<machine name="Ninja - L'Ombre des Tenebres (France)">
@@ -35418,8 +35120,6 @@
 	<machine name="Noel 3 - Mission on the Line (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>Noel 3 - Mission on the Line (Japan) (Disc 1)</description>
-		<year>1999</year>
-		<manufacturer>Pioneer LDC</manufacturer>
 		<disk name="Noel 3 - Mission on the Line (Japan) (Disc 1).chd" sha1="916fa83ff7d1dbcd0bdecd95977fb05be900aa89" />
 	</machine>
 	<machine name="Noel 3 - Mission on the Line (Japan) (Disc 1) (Major Wave)">
@@ -35462,8 +35162,6 @@
 	<machine name="Not Treasure Hunter (Japan)">
 		<category>Games</category>
 		<description>Not Treasure Hunter (Japan)</description>
-		<year>1996</year>
-		<manufacturer>Acti-Art</manufacturer>
 		<disk name="Not Treasure Hunter (Japan).chd" sha1="709ef1b282b93a2f7c67a0efcc2cc1e22d0a1959" />
 	</machine>
 	<machine name="Notam of Wind (Japan, Asia)">
@@ -36236,8 +35934,6 @@
 	<machine name="Oja Majo DoReMi Dokkan! Nijiiro ParaDice (Japan)">
 		<category>Games</category>
 		<description>Oja Majo DoReMi Dokkan! Nijiiro ParaDice (Japan)</description>
-		<year>2002</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="Oja Majo DoReMi Dokkan! Nijiiro ParaDice (Japan).chd" sha1="17afbd53ec44d16c917d2fa38b48918ffed4ea33" />
 	</machine>
 	<machine name="Ojousama Express (Japan) (Demo)">
@@ -36253,8 +35949,6 @@
 	<machine name="Ojousama Express (Japan) (Disc 2)">
 		<category>Games</category>
 		<description>Ojousama Express (Japan) (Disc 2)</description>
-		<year>1998</year>
-		<manufacturer>MediaWorks</manufacturer>
 		<disk name="Ojousama Express (Japan) (Disc 2).chd" sha1="a8c709caa0971f0df97ebd50a36defbb09792895" />
 	</machine>
 	<machine name="Okappari-ou (Japan)">
@@ -36331,8 +36025,6 @@
 	<machine name="Omiai Commando - Ba-Couple ni Tsukkomi o (Japan)">
 		<category>Games</category>
 		<description>Omiai Commando - Ba-Couple ni Tsukkomi o (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Enix</manufacturer>
 		<disk name="Omiai Commando - Ba-Couple ni Tsukkomi o (Japan).chd" sha1="69b68c79711631c4d6104d41b16d0bcb75ee8b90" />
 	</machine>
 	<machine name="Omise de Tenshu (Japan)">
@@ -36402,8 +36094,6 @@
 	<machine name="Ongaku Tkool 3 (Japan)">
 		<category>Games</category>
 		<description>Ongaku Tkool 3 (Japan)</description>
-		<year>2001</year>
-		<manufacturer>EnterBrain</manufacturer>
 		<disk name="Ongaku Tkool 3 (Japan).chd" sha1="d892ffc68f70b03de767234176f786e8e4505f9b" />
 	</machine>
 	<machine name="Oni Taiji!!, The - Mezase! Nidaime Momotarou (Japan)">
@@ -36564,8 +36254,6 @@
 	<machine name="Oshigoto-shiki Jinsei Game - Mezase Shokugyou King (Japan)">
 		<category>Games</category>
 		<description>Oshigoto-shiki Jinsei Game - Mezase Shokugyou King (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Takara</manufacturer>
 		<disk name="Oshigoto-shiki Jinsei Game - Mezase Shokugyou King (Japan).chd" sha1="f9c233b6ae28e5bb0e32b6fb45b241ce76c0c090" />
 	</machine>
 	<machine name="Otenki Kororin (Japan)">
@@ -36611,8 +36299,6 @@
 	<machine name="Oumagatoki (Japan)">
 		<category>Games</category>
 		<description>Oumagatoki (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Victor Interactive Software</manufacturer>
 		<disk name="Oumagatoki (Japan).chd" sha1="e7dffc5533ed88ac02bed3056fae57e9329f58cd" />
 	</machine>
 	<machine name="Oumagatoki (Japan) (Premium Fan Disc)">
@@ -36638,8 +36324,6 @@
 	<machine name="Out Live - Be Eliminate Yesterday (Japan)">
 		<category>Games</category>
 		<description>Out Live - Be Eliminate Yesterday (Japan)</description>
-		<year>1997</year>
-		<manufacturer>Sunsoft</manufacturer>
 		<disk name="Out Live - Be Eliminate Yesterday (Japan).chd" sha1="6983c5cf40ac52bffdd5030c6cd45fb7a505bf58" />
 	</machine>
 	<machine name="Over Drivin' DX - Rally Edition (Japan)">
@@ -36842,8 +36526,6 @@
 	<machine name="Paca Paca Passion (Japan)">
 		<category>Games</category>
 		<description>Paca Paca Passion (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Produce!</manufacturer>
 		<disk name="Paca Paca Passion (Japan).chd" sha1="9877e72f16e7b163d9ac5c72180cc826b022f2d8" />
 	</machine>
 	<machine name="Paca Paca Passion (Japan) (Demo)">
@@ -36854,8 +36536,6 @@
 	<machine name="Paca Paca Passion 2 (Japan)">
 		<category>Games</category>
 		<description>Paca Paca Passion 2 (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Produce!</manufacturer>
 		<disk name="Paca Paca Passion 2 (Japan).chd" sha1="22d25fe49c7f5335e5c1af98af484a93b693d437" />
 	</machine>
 	<machine name="Paca Paca Passion Special (Japan)">
@@ -36996,8 +36676,6 @@
 	<machine name="Pachi-Slot Teiou - Battle Knight, Atlantis Doom (Japan)">
 		<category>Games</category>
 		<description>Pachi-Slot Teiou - Battle Knight, Atlantis Doom (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Media Entertainment</manufacturer>
 		<disk name="Pachi-Slot Teiou - Battle Knight, Atlantis Doom (Japan).chd" sha1="282f7e26c4880c9d6b851076fca5d46ae3e5206b" />
 	</machine>
 	<machine name="Pachi-Slot Teiou - Beat the Dragon 2 (Japan)">
@@ -37028,8 +36706,6 @@
 	<machine name="Pachi-Slot Teiou - Maker Suishou Manual Vol. 3 - I'm Angel - White 2 &amp; Blue 2 (Japan)">
 		<category>Games</category>
 		<description>Pachi-Slot Teiou - Maker Suishou Manual Vol. 3 - I'm Angel - White 2 &amp; Blue 2 (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Media Entertainment</manufacturer>
 		<disk name="Pachi-Slot Teiou - Maker Suishou Manual Vol. 3 - I'm Angel - White 2 &amp; Blue 2 (Japan).chd" sha1="830c9fc155c0f53ab1cfd98ebaf35cc84484dd2b" />
 	</machine>
 	<machine name="Pachi-Slot Teiou - Maker Suishou Manual Vol. 4 - Exhaust, Ooedo Sakura Fubuki 2 (Japan)">
@@ -37040,22 +36716,16 @@
 	<machine name="Pachi-Slot Teiou - Maker Suishou Manual Vol. 5 - Race Queen 2, Tomcat (Japan)">
 		<category>Games</category>
 		<description>Pachi-Slot Teiou - Maker Suishou Manual Vol. 5 - Race Queen 2, Tomcat (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Media Entertainment</manufacturer>
 		<disk name="Pachi-Slot Teiou - Maker Suishou Manual Vol. 5 - Race Queen 2, Tomcat (Japan).chd" sha1="deb499d924716f5450f5400640e4fb9e9778a998" />
 	</machine>
 	<machine name="Pachi-Slot Teiou - Maker Suishou Manual Vol. 6 - Takarabune (Japan)">
 		<category>Games</category>
 		<description>Pachi-Slot Teiou - Maker Suishou Manual Vol. 6 - Takarabune (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Media Entertainment</manufacturer>
 		<disk name="Pachi-Slot Teiou - Maker Suishou Manual Vol. 6 - Takarabune (Japan).chd" sha1="460b7ec8e0318d75ef1d7b44a1bda2a246957f43" />
 	</machine>
 	<machine name="Pachi-Slot Teiou - Maker Suishou Manual Vol. 7 - Trick Monster 2 (Japan)">
 		<category>Games</category>
 		<description>Pachi-Slot Teiou - Maker Suishou Manual Vol. 7 - Trick Monster 2 (Japan)</description>
-		<year>2002</year>
-		<manufacturer>Media Entertainment</manufacturer>
 		<disk name="Pachi-Slot Teiou - Maker Suishou Manual Vol. 7 - Trick Monster 2 (Japan).chd" sha1="caa813e2c975b3cb8c2c6a121a0c2d215e5475ec" />
 	</machine>
 	<machine name="Pachi-Slot Teiou - Naniwa Sakura Fubuki (Japan)">
@@ -37066,8 +36736,6 @@
 	<machine name="Pachi-Slot Teiou - Shimauta-30, Twist, Nangoku Monogatari-30 (Japan)">
 		<category>Games</category>
 		<description>Pachi-Slot Teiou - Shimauta-30, Twist, Nangoku Monogatari-30 (Japan)</description>
-		<year>2002</year>
-		<manufacturer>Media Entertainment</manufacturer>
 		<disk name="Pachi-Slot Teiou - Shimauta-30, Twist, Nangoku Monogatari-30 (Japan).chd" sha1="a394d16f50e8d1d94574e91b427bfa97995f9206" />
 	</machine>
 	<machine name="Pachi-Slot Teiou - Yamasa Remix (Japan)">
@@ -37078,15 +36746,11 @@
 	<machine name="Pachi-Slot Teiou 2 - Kagetsu, Two Pair, Beaver X (Japan)">
 		<category>Games</category>
 		<description>Pachi-Slot Teiou 2 - Kagetsu, Two Pair, Beaver X (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Media Entertainment</manufacturer>
 		<disk name="Pachi-Slot Teiou 2 - Kagetsu, Two Pair, Beaver X (Japan).chd" sha1="b971aa0e242aad83137d0f0680022e07f0e832c2" />
 	</machine>
 	<machine name="Pachi-Slot Teiou 3 - Sea Master X, Epsilon R, Wai Wai Pulsar 2 (Japan)">
 		<category>Games</category>
 		<description>Pachi-Slot Teiou 3 - Sea Master X, Epsilon R, Wai Wai Pulsar 2 (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Media Entertainment</manufacturer>
 		<disk name="Pachi-Slot Teiou 3 - Sea Master X, Epsilon R, Wai Wai Pulsar 2 (Japan).chd" sha1="d7618691af8cd414a420a5d4180d21e1bafd5f3b" />
 	</machine>
 	<machine name="Pachi-Slot Teiou 4 - Oicho Kaba X, Magical Pops, LequiO-30 (Japan)">
@@ -37112,15 +36776,11 @@
 	<machine name="Pachi-Slot Teiou 6 - Kung-Fu Lady, BangBang, Prelude 2 (Japan)">
 		<category>Games</category>
 		<description>Pachi-Slot Teiou 6 - Kung-Fu Lady, BangBang, Prelude 2 (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Media Entertainment</manufacturer>
 		<disk name="Pachi-Slot Teiou 6 - Kung-Fu Lady, BangBang, Prelude 2 (Japan).chd" sha1="688e3e8759dadb8d510a041c72472b1d4ce2f322" />
 	</machine>
 	<machine name="Pachi-Slot Teiou 7 - Maker Suishou Manual Vol. 1 - Beat the Dragon 2, Lupin Sansei, Hot Rod Queen (Japan)">
 		<category>Games</category>
 		<description>Pachi-Slot Teiou 7 - Maker Suishou Manual Vol. 1 - Beat the Dragon 2, Lupin Sansei, Hot Rod Queen (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Media Entertainment</manufacturer>
 		<disk name="Pachi-Slot Teiou 7 - Maker Suishou Manual Vol. 1 - Beat the Dragon 2, Lupin Sansei, Hot Rod Queen (Japan).chd" sha1="26d07f85551c9f7a26a18756fd304ba37fd2a3c1" />
 	</machine>
 	<machine name="Pachi-Slot Teiou Mini - Dr. A7 (Japan)">
@@ -37276,8 +36936,6 @@
 	<machine name="Pandora Max Series Vol. 1 - Dragon Knights Glorious (Japan)">
 		<category>Games</category>
 		<description>Pandora Max Series Vol. 1 - Dragon Knights Glorious (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Pandora</manufacturer>
 		<disk name="Pandora Max Series Vol. 1 - Dragon Knights Glorious (Japan).chd" sha1="d5e2bd24de088e87bf1dde943f96bf7d4295fbd6" />
 	</machine>
 	<machine name="Pandora Max Series Vol. 2 - Shisha no Yobu Yakata (Japan)">
@@ -37629,8 +37287,6 @@
 	<machine name="Parlor! Pro Jr. Collection (Japan)">
 		<category>Games</category>
 		<description>Parlor! Pro Jr. Collection (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Nihon Telenet</manufacturer>
 		<disk name="Parlor! Pro Jr. Collection (Japan).chd" sha1="512be4e780f2ad1cea9639198f235fa2242905ae" />
 	</machine>
 	<machine name="Parlor! Pro Jr. Vol. 1 - CR Dera Maitta J-3 (Japan)">
@@ -38235,8 +37891,6 @@
 	<machine name="Planet Dob (Japan)">
 		<category>Games</category>
 		<description>Planet Dob (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Hudson</manufacturer>
 		<disk name="Planet Dob (Japan).chd" sha1="bbe501dcf7b5bd55c5c06f161d8a28416cadc5ff" />
 	</machine>
 	<machine name="Planet Dob (Japan) (Demo)">
@@ -38247,8 +37901,6 @@
 	<machine name="Planet Laika (Japan)">
 		<category>Games</category>
 		<description>Planet Laika (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Enix</manufacturer>
 		<disk name="Planet Laika (Japan).chd" sha1="d1e6cdba86299e101530f7b113036c9d5533b09f" />
 	</machine>
 	<machine name="Planet of the Apes (Europe) (En,Fr,De,Es,It)">
@@ -39402,8 +39054,6 @@
 	<machine name="Pocket MuuMuu (Japan)">
 		<category>Games</category>
 		<description>Pocket MuuMuu (Japan)</description>
-		<year>1999</year>
-		<manufacturer>SCEI</manufacturer>
 		<disk name="Pocket MuuMuu (Japan).chd" sha1="3460ce35992910f08f3ec6a486f5618aa159a19e" />
 	</machine>
 	<machine name="Pocket PowerStation PlayStation Cheats CD (UK) (Unl) (2001-02-19)">
@@ -39755,8 +39405,6 @@
 	<machine name="Potestas (Japan)">
 		<category>Games</category>
 		<description>Potestas (Japan)</description>
-		<year>1996</year>
-		<manufacturer>Nexus</manufacturer>
 		<disk name="Potestas (Japan).chd" sha1="3a2c0d55dbd34cc98d4d9247b5934f05148d3686" />
 	</machine>
 	<machine name="Pour l'Or et la Gloire - La Route d'Eldorado (France)">
@@ -39864,8 +39512,6 @@
 	<machine name="Power Stakes (Japan)">
 		<category>Games</category>
 		<description>Power Stakes (Japan)</description>
-		<year>1997</year>
-		<manufacturer>Squaresoft</manufacturer>
 		<disk name="Power Stakes (Japan).chd" sha1="7252d06f710a3ad63802e478bb428cc98cd36508" />
 	</machine>
 	<machine name="Power Stakes 2 (Japan)">
@@ -39979,8 +39625,6 @@
 	<machine name="Princess Maker - Go! Go! Princess (Japan)">
 		<category>Games</category>
 		<description>Princess Maker - Go! Go! Princess (Japan)</description>
-		<year>1999</year>
-		<manufacturer>NineLives</manufacturer>
 		<disk name="Princess Maker - Go! Go! Princess (Japan).chd" sha1="812b2b682663a2c9babcb13eec2cdb1e84baf9d3" />
 	</machine>
 	<machine name="Princess Maker - Go! Go! Princess (Japan) (Best Wing 2800)">
@@ -40011,8 +39655,6 @@
 	<machine name="Prism Court (Japan)">
 		<category>Games</category>
 		<description>Prism Court (Japan)</description>
-		<year>1998</year>
-		<manufacturer>FPS</manufacturer>
 		<disk name="Prism Court (Japan).chd" sha1="40049cbaa14f43d02640798857a43005dabaeeab" />
 	</machine>
 	<machine name="Prism Land (Japan)">
@@ -40038,8 +39680,6 @@
 	<machine name="Prisoner (Japan)">
 		<category>Games</category>
 		<description>Prisoner (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Mainichi</manufacturer>
 		<disk name="Prisoner (Japan).chd" sha1="5bcc4ef9f5eb1aac643f5b919fd9a568901eb2a6" />
 	</machine>
 	<machine name="Prisoner of Ice - Jashin Kourin (Japan)">
@@ -40050,8 +39690,6 @@
 	<machine name="Private Collection - Policenauts (Japan)">
 		<category>Games</category>
 		<description>Private Collection - Policenauts (Japan)</description>
-		<year>1996</year>
-		<manufacturer>Konami</manufacturer>
 		<disk name="Private Collection - Policenauts (Japan).chd" sha1="0e23ac77ec3dc4f2805a332e45b4755931543f56" />
 	</machine>
 	<machine name="Private Collection - Tokimeki Memorial (Japan)">
@@ -40119,8 +39757,6 @@
 	<machine name="Pro Mahjong Kiwame - Tengensen-hen (Japan)">
 		<category>Games</category>
 		<description>Pro Mahjong Kiwame - Tengensen-hen (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Athena</manufacturer>
 		<disk name="Pro Mahjong Kiwame - Tengensen-hen (Japan).chd" sha1="c20f9436c268bed36eaa547ec6ee5190e84f18e3" />
 	</machine>
 	<machine name="Pro Mahjong Kiwame Plus (Japan)">
@@ -40612,8 +40248,6 @@
 	<machine name="Puyo Puyo Box (Japan)">
 		<category>Games</category>
 		<description>Puyo Puyo Box (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Compile</manufacturer>
 		<disk name="Puyo Puyo Box (Japan).chd" sha1="ba94770209c09a285bccafeed7112a7f5bf06097" />
 	</machine>
 	<machine name="Puyo Puyo Sun - Ketteiban (Japan)">
@@ -40644,8 +40278,6 @@
 	<machine name="Puyo Puyoon - Car-kun to Issho (Japan)">
 		<category>Games</category>
 		<description>Puyo Puyoon - Car-kun to Issho (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Compile</manufacturer>
 		<disk name="Puyo Puyoon - Car-kun to Issho (Japan).chd" sha1="e3017164244594315d79e8e73c3573768e8a9f50" />
 	</machine>
 	<machine name="Puzz Loop (Japan)">
@@ -40820,15 +40452,11 @@
 	<machine name="Quiz Chara-Oke Don! Toei Tokusatsu Hero Part 2 (Japan)">
 		<category>Games</category>
 		<description>Quiz Chara-Oke Don! Toei Tokusatsu Hero Part 2 (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Banpresto</manufacturer>
 		<disk name="Quiz Chara-Oke Don! Toei Tokusatsu Hero Part 2 (Japan).chd" sha1="98f095fbbd987b0f78cfa3f463baf3f5dc453c23" />
 	</machine>
 	<machine name="Quiz Darake no Jinsei Game - Un to Atama de Daifugou! (Japan)">
 		<category>Games</category>
 		<description>Quiz Darake no Jinsei Game - Un to Atama de Daifugou! (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Takara</manufacturer>
 		<disk name="Quiz Darake no Jinsei Game - Un to Atama de Daifugou! (Japan).chd" sha1="634a370cefad33ce62103e5fcd0cef9f0f54cd52" />
 	</machine>
 	<machine name="Quiz Nanairo Dreams - Nijiiro-chou no Kiseki (Japan)">
@@ -40854,8 +40482,6 @@
 	<machine name="Quiz$Millionaire (Japan)">
 		<category>Games</category>
 		<description>Quiz$Millionaire (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Eidos</manufacturer>
 		<disk name="Quiz$Millionaire (Japan).chd" sha1="b8e98fe3decf0c4f5996645e3ca08a184368d526" />
 	</machine>
 	<machine name="Quiz$Millionaire (Japan) (PSone Books)">
@@ -41108,8 +40734,6 @@
 	<machine name="Rally de Europe (Japan)">
 		<category>Games</category>
 		<description>Rally de Europe (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Prism Arts</manufacturer>
 		<disk name="Rally de Europe (Japan).chd" sha1="d834e9d3367ac903765aa53c8d67716bf848387f" />
 	</machine>
 	<machine name="Rami-chan no Ooedo Sugoroku - Keiou Yuugekitai Gaiden (Japan)">
@@ -42076,8 +41700,6 @@
 	<machine name="Resident Evil 3 - Nemesis (Europe)">
 		<category>Games</category>
 		<description>Resident Evil 3 - Nemesis (Europe)</description>
-		<year>1999</year>
-		<manufacturer>Eidos Interactive</manufacturer>
 		<disk name="Resident Evil 3 - Nemesis (Europe).chd" sha1="a67b4bb929ac662c0e62349f2e7e16fcfacd4fdf" />
 	</machine>
 	<machine name="Resident Evil 3 - Nemesis (Europe) (Demo)">
@@ -42156,15 +41778,11 @@
 	<machine name="Return to Zork (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>Return to Zork (Japan) (Disc 1)</description>
-		<year>1996</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="Return to Zork (Japan) (Disc 1).chd" sha1="f2071557f61f94f57ce099f5457d2316910a2fbd" />
 	</machine>
 	<machine name="Return to Zork (Japan) (Disc 2)">
 		<category>Games</category>
 		<description>Return to Zork (Japan) (Disc 2)</description>
-		<year>1996</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="Return to Zork (Japan) (Disc 2).chd" sha1="ce8737cc8259a09bf5fd2516d0ecb64721c7ecdb" />
 	</machine>
 	<machine name="Reverthion (Japan)">
@@ -42342,8 +41960,6 @@
 	<machine name="Rikujou Boueitai Mao-chan (Japan) (DX Pack)">
 		<category>Games</category>
 		<description>Rikujou Boueitai Mao-chan (Japan) (DX Pack)</description>
-		<year>2003</year>
-		<manufacturer>Marvelous</manufacturer>
 		<disk name="Rikujou Boueitai Mao-chan (Japan) (DX Pack).chd" sha1="56094bde8e835a80eba5f80c95dbb083ffd05217" />
 	</machine>
 	<machine name="Ring of Sias (Japan)">
@@ -43499,15 +43115,11 @@
 	<machine name="Sakkyoku Surun da mon - Dance Remix-hen (Japan)">
 		<category>Applications</category>
 		<description>Sakkyoku Surun da mon - Dance Remix-hen (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Ving</manufacturer>
 		<disk name="Sakkyoku Surun da mon - Dance Remix-hen (Japan).chd" sha1="79ff2bb9cd550a67eef9b7884a27367006b414f8" />
 	</machine>
 	<machine name="Sakuma-shiki Jinsei Game (Japan)">
 		<category>Games</category>
 		<description>Sakuma-shiki Jinsei Game (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Takara</manufacturer>
 		<disk name="Sakuma-shiki Jinsei Game (Japan).chd" sha1="d4c1c3682ee23be992aa701292570f3cc3520506" />
 	</machine>
 	<machine name="Salamander Deluxe Pack Plus (Japan)">
@@ -43523,15 +43135,11 @@
 	<machine name="Salaryman Kintarou - The Game (Japan)">
 		<category>Games</category>
 		<description>Salaryman Kintarou - The Game (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="Salaryman Kintarou - The Game (Japan).chd" sha1="628a7f12b7822ed0d0cdd316a9853239c1b47c97" />
 	</machine>
 	<machine name="Salaryman Settai Mahjong (Japan)">
 		<category>Games</category>
 		<description>Salaryman Settai Mahjong (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Visit</manufacturer>
 		<disk name="Salaryman Settai Mahjong (Japan).chd" sha1="3c843729476d935df75a9fc09c0be1c69644aa0e" />
 	</machine>
 	<machine name="Saltwater Sportfishing (Europe) (En,Fr,De,Es,It)">
@@ -43578,8 +43186,6 @@
 	<machine name="Samurai Deeper Kyou (Japan) (Shokai Seisan Gentei Shiyou)">
 		<category>Games</category>
 		<description>Samurai Deeper Kyou (Japan) (Shokai Seisan Gentei Shiyou)</description>
-		<year>2002</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="Samurai Deeper Kyou (Japan) (Shokai Seisan Gentei Shiyou).chd" sha1="ece780963ef073f2ee0a38fa70f67b02985607c4" />
 	</machine>
 	<machine name="Samurai Shodown - Warriors Rage (USA)">
@@ -43651,8 +43257,6 @@
 	<machine name="Sangokushi II (Japan)">
 		<category>Games</category>
 		<description>Sangokushi II (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Koei</manufacturer>
 		<disk name="Sangokushi II (Japan).chd" sha1="5f22ea51aed090da63757c57962d12b47904e2c8" />
 	</machine>
 	<machine name="Sangokushi III (Japan)">
@@ -43763,8 +43367,6 @@
 	<machine name="Sanyo Pachinko Paradise 2 - Umi Monogatari Special (Japan)">
 		<category>Games</category>
 		<description>Sanyo Pachinko Paradise 2 - Umi Monogatari Special (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Irem</manufacturer>
 		<disk name="Sanyo Pachinko Paradise 2 - Umi Monogatari Special (Japan).chd" sha1="729e3c841b642be314fa17e001ea6339cb702bda" />
 	</machine>
 	<machine name="Sanyo Pachinko Paradise 3 - Wan Wan Daikoushin (Japan)">
@@ -43810,8 +43412,6 @@
 	<machine name="Saru! Get You! (Japan) (Rev 1)">
 		<category>Games</category>
 		<description>Saru! Get You! (Japan) (Rev 1)</description>
-		<year>1999</year>
-		<manufacturer>SCEI</manufacturer>
 		<disk name="Saru! Get You! (Japan) (Rev 1).chd" sha1="7c6867962924a9a76a46c7640ce517fed15b0475" />
 	</machine>
 	<machine name="Saru! Get You! (Japan, Asia) (Demo 1)">
@@ -43822,8 +43422,6 @@
 	<machine name="SatelliTV (Japan)">
 		<category>Games</category>
 		<description>SatelliTV (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Nippon Ichi</manufacturer>
 		<disk name="SatelliTV (Japan).chd" sha1="6cbf5c1728d6c228baeb5201d1c54dfe9d906b5d" />
 	</machine>
 	<machine name="Satomi no Nazo (Japan)">
@@ -44198,8 +43796,6 @@
 	<machine name="Senryaku Shidan - Tora! Tora! Tora! Rikusen-hen (Japan)">
 		<category>Games</category>
 		<description>Senryaku Shidan - Tora! Tora! Tora! Rikusen-hen (Japan)</description>
-		<year>2000</year>
-		<manufacturer>DaZZ</manufacturer>
 		<disk name="Senryaku Shidan - Tora! Tora! Tora! Rikusen-hen (Japan).chd" sha1="0a70c526da661eb475f03f9770e79e2cc6250922" />
 	</machine>
 	<machine name="Senryaku Shougi (Japan)">
@@ -44675,8 +44271,6 @@
 	<machine name="Shin Masou Kishin - Panzer Warfare (Japan)">
 		<category>Games</category>
 		<description>Shin Masou Kishin - Panzer Warfare (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Banpresto</manufacturer>
 		<disk name="Shin Masou Kishin - Panzer Warfare (Japan).chd" sha1="77db8d9565e2c1f16b7811c271c5dc1192ed871d" />
 	</machine>
 	<machine name="Shin Megami Tensei - Devil Children - Kuro no Sho, Aka no Sho (Japan)">
@@ -44687,8 +44281,6 @@
 	<machine name="Shin Megami Tensei (Japan)">
 		<category>Games</category>
 		<description>Shin Megami Tensei (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Atlus</manufacturer>
 		<disk name="Shin Megami Tensei (Japan).chd" sha1="4a9b8679528d51c3e1c8a4a30d3199da752101b8" />
 	</machine>
 	<machine name="Shin Megami Tensei If... (Japan)">
@@ -44854,8 +44446,6 @@
 	<machine name="Shinri Game, The (Japan)">
 		<category>Games</category>
 		<description>Shinri Game, The (Japan)</description>
-		<year>1996</year>
-		<manufacturer>Visit</manufacturer>
 		<disk name="Shinri Game, The (Japan).chd" sha1="3e028f3bcb6cf972ef6628f8d4a87f206947ad37" />
 	</machine>
 	<machine name="Shinseiden Megaseed - Fukkatsu-hen (Japan)">
@@ -44900,8 +44490,6 @@
 	<machine name="Shiritsu Justice Gakuen - Legion of Heroes (Japan) (Disc 1) (Evolution Disc)">
 		<category>Games</category>
 		<description>Shiritsu Justice Gakuen - Legion of Heroes (Japan) (Disc 1) (Evolution Disc)</description>
-		<year>1998</year>
-		<manufacturer>Capcom Entertainment</manufacturer>
 		<disk name="Shiritsu Justice Gakuen - Legion of Heroes (Japan) (Disc 1) (Evolution Disc).chd" sha1="6ebf70a638e6196dd25f80bb35e10cb8dab14de6" />
 	</machine>
 	<machine name="Shiritsu Justice Gakuen - Legion of Heroes (Japan) (Disc 2) (Arcade Disc)">
@@ -44981,8 +44569,6 @@
 	<machine name="Shouryuu Sangoku Engi (Japan)">
 		<category>Games</category>
 		<description>Shouryuu Sangoku Engi (Japan)</description>
-		<year>1996</year>
-		<manufacturer>Imageneer</manufacturer>
 		<disk name="Shouryuu Sangoku Engi (Japan).chd" sha1="280ac78c26b0c84f4a62fb2019d74890bc041ae6" />
 	</machine>
 	<machine name="Shrek Treasure Hunt (Europe) (En,Fr,De,Es)">
@@ -45195,8 +44781,6 @@
 	<machine name="Silent Moebius - Gen'ei no Datenshi (Japan)">
 		<category>Games</category>
 		<description>Silent Moebius - Gen'ei no Datenshi (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="Silent Moebius - Gen'ei no Datenshi (Japan).chd" sha1="f30794b6177415886f00ea5740dc15c0863ddcd0" />
 	</machine>
 	<machine name="Silhouette Mirage - Reprogrammed Hope (Japan)">
@@ -45278,15 +44862,11 @@
 	<machine name="Simple 1500 Jitsuyou Series Vol. 05 - Kusuri no Jiten - Pill Book 2001-nenban (Japan)">
 		<category>Applications</category>
 		<description>Simple 1500 Jitsuyou Series Vol. 05 - Kusuri no Jiten - Pill Book 2001-nenban (Japan)</description>
-		<year>2001</year>
-		<manufacturer>D3 Publisher</manufacturer>
 		<disk name="Simple 1500 Jitsuyou Series Vol. 05 - Kusuri no Jiten - Pill Book 2001-nenban (Japan).chd" sha1="6dfe7e7c6f0d3e390006020e573fb4fd9aca7168" />
 	</machine>
 	<machine name="Simple 1500 Jitsuyou Series Vol. 06 - Cocktail no Recipe (Japan)">
 		<category>Applications</category>
 		<description>Simple 1500 Jitsuyou Series Vol. 06 - Cocktail no Recipe (Japan)</description>
-		<year>2001</year>
-		<manufacturer>D3 Publisher</manufacturer>
 		<disk name="Simple 1500 Jitsuyou Series Vol. 06 - Cocktail no Recipe (Japan).chd" sha1="24201497b9675c9b486377b7ce32b58c3ca5d91d" />
 	</machine>
 	<machine name="Simple 1500 Jitsuyou Series Vol. 07 - Tanoshiku Manabu Unten Menkyo (Japan)">
@@ -45297,15 +44877,11 @@
 	<machine name="Simple 1500 Jitsuyou Series Vol. 08 - 1-jikan de Wakaru Kabushiki Toushi (Japan)">
 		<category>Applications</category>
 		<description>Simple 1500 Jitsuyou Series Vol. 08 - 1-jikan de Wakaru Kabushiki Toushi (Japan)</description>
-		<year>2001</year>
-		<manufacturer>D3 Publisher</manufacturer>
 		<disk name="Simple 1500 Jitsuyou Series Vol. 08 - 1-jikan de Wakaru Kabushiki Toushi (Japan).chd" sha1="00e515b58766839e8558e2a3c7b271d24ab54af6" />
 	</machine>
 	<machine name="Simple 1500 Jitsuyou Series Vol. 09 - Watashi Style no Aromatherapy (Japan)">
 		<category>Applications</category>
 		<description>Simple 1500 Jitsuyou Series Vol. 09 - Watashi Style no Aromatherapy (Japan)</description>
-		<year>2001</year>
-		<manufacturer>D3 Publisher</manufacturer>
 		<disk name="Simple 1500 Jitsuyou Series Vol. 09 - Watashi Style no Aromatherapy (Japan).chd" sha1="732aeebef3a067825a5b34045fa7bf1a522bc430" />
 	</machine>
 	<machine name="Simple 1500 Jitsuyou Series Vol. 10 - Tarot Uranai (Japan)">
@@ -45316,22 +44892,16 @@
 	<machine name="Simple 1500 Jitsuyou Series Vol. 11 - Katei de Dekiru Tsubo Shiatsu (Japan)">
 		<category>Applications</category>
 		<description>Simple 1500 Jitsuyou Series Vol. 11 - Katei de Dekiru Tsubo Shiatsu (Japan)</description>
-		<year>2001</year>
-		<manufacturer>D3 Publisher</manufacturer>
 		<disk name="Simple 1500 Jitsuyou Series Vol. 11 - Katei de Dekiru Tsubo Shiatsu (Japan).chd" sha1="99e83ee7ce9f67b40ad512bde5167964e6539bbd" />
 	</machine>
 	<machine name="Simple 1500 Jitsuyou Series Vol. 12 - Katei no Igaku - Shindan Jiten (Japan)">
 		<category>Applications</category>
 		<description>Simple 1500 Jitsuyou Series Vol. 12 - Katei no Igaku - Shindan Jiten (Japan)</description>
-		<year>2001</year>
-		<manufacturer>D3 Publisher</manufacturer>
 		<disk name="Simple 1500 Jitsuyou Series Vol. 12 - Katei no Igaku - Shindan Jiten (Japan).chd" sha1="76adc85e8d58599725b0cbaf761adbd775ad3b34" />
 	</machine>
 	<machine name="Simple 1500 Jitsuyou Series Vol. 13 - Shinri Game - Soreike x Kokology - Kokoro no Uso no Makafushigi (Japan)">
 		<category>Games</category>
 		<description>Simple 1500 Jitsuyou Series Vol. 13 - Shinri Game - Soreike x Kokology - Kokoro no Uso no Makafushigi (Japan)</description>
-		<year>2002</year>
-		<manufacturer>D3 Publisher</manufacturer>
 		<disk name="Simple 1500 Jitsuyou Series Vol. 13 - Shinri Game - Soreike x Kokology - Kokoro no Uso no Makafushigi (Japan).chd" sha1="0b4eca68684be09b7757f65f27493587b59d03fa" />
 	</machine>
 	<machine name="Simple 1500 Jitsuyou Series Vol. 14 - Kurashi no Manner - Kankon Sousai-hen (Japan)">
@@ -45344,15 +44914,11 @@
 	<machine name="Simple 1500 Jitsuyou Series Vol. 15 - Inu no Kai-kata - Sekai no Inu Catalog (Japan)">
 		<category>Games</category>
 		<description>Simple 1500 Jitsuyou Series Vol. 15 - Inu no Kai-kata - Sekai no Inu Catalog (Japan)</description>
-		<year>2002</year>
-		<manufacturer>D3 Publisher</manufacturer>
 		<disk name="Simple 1500 Jitsuyou Series Vol. 15 - Inu no Kai-kata - Sekai no Inu Catalog (Japan).chd" sha1="ef05e9623a505c107b9b2b4982b1f4bd8fec6a54" />
 	</machine>
 	<machine name="Simple 1500 Jitsuyou Series Vol. 16 - Neko no Kai-kata - Sekai no Neko Catalog (Japan)">
 		<category>Applications</category>
 		<description>Simple 1500 Jitsuyou Series Vol. 16 - Neko no Kai-kata - Sekai no Neko Catalog (Japan)</description>
-		<year>2002</year>
-		<manufacturer>D3 Publisher</manufacturer>
 		<disk name="Simple 1500 Jitsuyou Series Vol. 16 - Neko no Kai-kata - Sekai no Neko Catalog (Japan).chd" sha1="fe058e4fd0531974ce2bc77c6bf02f8bfc47e579" />
 	</machine>
 	<machine name="Simple 1500 Jitsuyou Series Vol. 17 - Planetarium (Japan)">
@@ -45438,8 +45004,6 @@
 	<machine name="Simple 1500 Series Vol. 103 - The Ganso Densha Untenshi - Densha de Go! (Japan)">
 		<category>Games</category>
 		<description>Simple 1500 Series Vol. 103 - The Ganso Densha Untenshi - Densha de Go! (Japan)</description>
-		<year>2003</year>
-		<manufacturer>D3 Publisher</manufacturer>
 		<disk name="Simple 1500 Series Vol. 103 - The Ganso Densha Untenshi - Densha de Go! (Japan).chd" sha1="a4f86774ddc84455037addba1c8e700f70dc3d31" />
 	</machine>
 	<machine name="Simple 1500 Series Vol. 104 - The Pink Panther - Pinkadelic Pursuit (Japan)">
@@ -45730,8 +45294,6 @@
 	<machine name="Simple 1500 Series Vol. 51 - The Jigsaw Puzzle (Japan)">
 		<category>Games</category>
 		<description>Simple 1500 Series Vol. 51 - The Jigsaw Puzzle (Japan)</description>
-		<year>2000</year>
-		<manufacturer>D3 Publisher</manufacturer>
 		<disk name="Simple 1500 Series Vol. 51 - The Jigsaw Puzzle (Japan).chd" sha1="2bb8be6d469da1169940cba3917f914180dae1fe" />
 	</machine>
 	<machine name="Simple 1500 Series Vol. 52 - The Pro Wrestling 2 (Japan)">
@@ -45802,8 +45364,6 @@
 	<machine name="Simple 1500 Series Vol. 63 - The Gun Shooting 2 (Japan)">
 		<category>Games</category>
 		<description>Simple 1500 Series Vol. 63 - The Gun Shooting 2 (Japan)</description>
-		<year>2001</year>
-		<manufacturer>D3 Publisher</manufacturer>
 		<disk name="Simple 1500 Series Vol. 63 - The Gun Shooting 2 (Japan).chd" sha1="32eda9582e2ddc45ee7fbed533ac6db3041d2891" />
 	</machine>
 	<machine name="Simple 1500 Series Vol. 64 - The Kick Boxing (Japan)">
@@ -45854,8 +45414,6 @@
 	<machine name="Simple 1500 Series Vol. 71 - The Ren'ai Simulation 2 - Fureai (Japan)">
 		<category>Games</category>
 		<description>Simple 1500 Series Vol. 71 - The Ren'ai Simulation 2 - Fureai (Japan)</description>
-		<year>2001</year>
-		<manufacturer>D3 Publisher</manufacturer>
 		<disk name="Simple 1500 Series Vol. 71 - The Ren'ai Simulation 2 - Fureai (Japan).chd" sha1="617815e2ef5ff89beb16e049fc2a22e3c8111243" />
 	</machine>
 	<machine name="Simple 1500 Series Vol. 72 - The Beach Volley (Japan)">
@@ -45926,8 +45484,6 @@
 	<machine name="Simple 1500 Series Vol. 83 - The Wakeboard - BursTrick - Wake Boarding!! (Japan)">
 		<category>Games</category>
 		<description>Simple 1500 Series Vol. 83 - The Wakeboard - BursTrick - Wake Boarding!! (Japan)</description>
-		<year>2001</year>
-		<manufacturer>D3 Publisher</manufacturer>
 		<disk name="Simple 1500 Series Vol. 83 - The Wakeboard - BursTrick - Wake Boarding!! (Japan).chd" sha1="cb4fae1b1e7a4bfcd7bec70399530a254b748dab" />
 	</machine>
 	<machine name="Simple 1500 Series Vol. 84 - The Intro Quiz (Japan)">
@@ -45938,8 +45494,6 @@
 	<machine name="Simple 1500 Series Vol. 85 - The Sengoku Bushou - Tenka Touitsu no Yabou (Japan)">
 		<category>Games</category>
 		<description>Simple 1500 Series Vol. 85 - The Sengoku Bushou - Tenka Touitsu no Yabou (Japan)</description>
-		<year>2002</year>
-		<manufacturer>D3 Publisher</manufacturer>
 		<disk name="Simple 1500 Series Vol. 85 - The Sengoku Bushou - Tenka Touitsu no Yabou (Japan).chd" sha1="aa4177ae9f44a9ea0dc864c6c7b58d155819a275" />
 	</machine>
 	<machine name="Simple 1500 Series Vol. 86 - The Onigokko (Japan)">
@@ -45960,8 +45514,6 @@
 	<machine name="Simple 1500 Series Vol. 89 - The Power Shovel ni Norou!! (Japan)">
 		<category>Games</category>
 		<description>Simple 1500 Series Vol. 89 - The Power Shovel ni Norou!! (Japan)</description>
-		<year>2002</year>
-		<manufacturer>D3 Publisher</manufacturer>
 		<disk name="Simple 1500 Series Vol. 89 - The Power Shovel ni Norou!! (Japan).chd" sha1="1d60c4307ddf4c82b9926ac1b1a3d2bbef18d07e" />
 	</machine>
 	<machine name="Simple 1500 Series Vol. 9 - The Chess (Japan)">
@@ -46022,8 +45574,6 @@
 	<machine name="Simple 1500 Series Vol. 99 - The Kendou - Ken no Hanamichi (Japan)">
 		<category>Games</category>
 		<description>Simple 1500 Series Vol. 99 - The Kendou - Ken no Hanamichi (Japan)</description>
-		<year>2002</year>
-		<manufacturer>D3 Publisher</manufacturer>
 		<disk name="Simple 1500 Series Vol. 99 - The Kendou - Ken no Hanamichi (Japan).chd" sha1="c8117e3bc5a7bbe060f5d1e27ae754e67104cda9" />
 	</machine>
 	<machine name="Simple Character 2000 Series Vol. 01 - Kidou Senshi Gundam - The Gunjin Shougi (Japan)">
@@ -46054,15 +45604,11 @@
 	<machine name="Simple Character 2000 Series Vol. 06 - Dokonjou Gaeru - The Mahjong (Japan)">
 		<category>Games</category>
 		<description>Simple Character 2000 Series Vol. 06 - Dokonjou Gaeru - The Mahjong (Japan)</description>
-		<year>2002</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="Simple Character 2000 Series Vol. 06 - Dokonjou Gaeru - The Mahjong (Japan).chd" sha1="00ba869de26074d04a7752dca63f61758c0876ce" />
 	</machine>
 	<machine name="Simple Character 2000 Series Vol. 07 - Ikkyuu-san - The Quiz (Japan)">
 		<category>Games</category>
 		<description>Simple Character 2000 Series Vol. 07 - Ikkyuu-san - The Quiz (Japan)</description>
-		<year>2002</year>
-		<manufacturer>Bandai</manufacturer>
 		<disk name="Simple Character 2000 Series Vol. 07 - Ikkyuu-san - The Quiz (Japan).chd" sha1="90879129dcf4cf9623873ddd57e64bf56aff625b" />
 	</machine>
 	<machine name="Simple Character 2000 Series Vol. 08 - Kagaku Ninja-tai Gatchaman - The Shooting (Japan)">
@@ -46078,8 +45624,6 @@
 	<machine name="Simple Character 2000 Series Vol. 10 - Sakigake!! Otokojuku - The Dodgeball (Japan)">
 		<category>Games</category>
 		<description>Simple Character 2000 Series Vol. 10 - Sakigake!! Otokojuku - The Dodgeball (Japan)</description>
-		<year>2002</year>
-		<manufacturer>Bandai / D3</manufacturer>
 		<disk name="Simple Character 2000 Series Vol. 10 - Sakigake!! Otokojuku - The Dodgeball (Japan).chd" sha1="4721fc70221c6547e36acba8f975e18b6b47d84d" />
 	</machine>
 	<machine name="Simple Character 2000 Series Vol. 11 - Meitantei Conan - The Board Game (Japan)">
@@ -46110,8 +45654,6 @@
 	<machine name="Simple Character 2000 Series Vol. 16 - Gamba no Bouken - The Puzzle Action (Japan)">
 		<category>Games</category>
 		<description>Simple Character 2000 Series Vol. 16 - Gamba no Bouken - The Puzzle Action (Japan)</description>
-		<year>2003</year>
-		<manufacturer>Bandai / D3</manufacturer>
 		<disk name="Simple Character 2000 Series Vol. 16 - Gamba no Bouken - The Puzzle Action (Japan).chd" sha1="5d8235bf6f913cbd4aff7d9dcaad27d143933fba" />
 	</machine>
 	<machine name="Simple Character 2000 Series Vol. 17 - Sentou Mecha Xabungle - The Race in Action (Japan)">
@@ -46548,8 +46090,6 @@
 	<machine name="Snobow Kids Plus (Japan)">
 		<category>Games</category>
 		<description>Snobow Kids Plus (Japan)</description>
-		<year>1999</year>
-		<manufacturer>ASCII</manufacturer>
 		<disk name="Snobow Kids Plus (Japan).chd" sha1="da7cfc97988ae715793d38023d73a33955fc4adb" />
 	</machine>
 	<machine name="SnoCross Championship Racing (Europe) (En,Fr,De,Es,It)">
@@ -46944,8 +46484,6 @@
 	<machine name="Sound Qube (Japan)">
 		<category>Games</category>
 		<description>Sound Qube (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Human</manufacturer>
 		<disk name="Sound Qube (Japan).chd" sha1="e4129c30f89b9f766ed3262f46af33a2c2045d65" />
 	</machine>
 	<machine name="Sound Qube (Japan) (Best of the Best)">
@@ -47155,8 +46693,6 @@
 	<machine name="Space Invaders X (Japan)">
 		<category>Games</category>
 		<description>Space Invaders X (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Taito</manufacturer>
 		<disk name="Space Invaders X (Japan).chd" sha1="b657b78d4ee0cc18cbe4fc75e365723fbe954858" />
 	</machine>
 	<machine name="Space Jam (Europe)">
@@ -47266,8 +46802,6 @@
 	<machine name="Spectral Blade (Japan)">
 		<category>Games</category>
 		<description>Spectral Blade (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Idea Factory</manufacturer>
 		<disk name="Spectral Blade (Japan).chd" sha1="6ab745a5c29997f31fe5d1b08846d155ed751f33" />
 	</machine>
 	<machine name="Spectral Force - Itoshiki Jaaku (Japan)">
@@ -47313,8 +46847,6 @@
 	<machine name="Speed King - Neo Kobe 2045 (Japan)">
 		<category>Games</category>
 		<description>Speed King - Neo Kobe 2045 (Japan)</description>
-		<year>1996</year>
-		<manufacturer>Konami</manufacturer>
 		<disk name="Speed King - Neo Kobe 2045 (Japan).chd" sha1="a8bc002b53357398a3e5ee8096163580f7b917f2" />
 	</machine>
 	<machine name="Speed Machines (Europe)">
@@ -47623,8 +47155,6 @@
 	<machine name="Spyro - Year of the Dragon (Europe) (En,Fr,De,Es,It) (Rev 1)">
 		<category>Games</category>
 		<description>Spyro - Year of the Dragon (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
-		<year>2001</year>
-		<manufacturer>Sony Computer Entertainment Europe</manufacturer>
 		<disk name="Spyro - Year of the Dragon (Europe) (En,Fr,De,Es,It) (Rev 1).chd" sha1="1019a28219d8f6137bc92414d2764e41dfe6b5f4" />
 	</machine>
 	<machine name="Spyro - Year of the Dragon (USA)">
@@ -47746,8 +47276,6 @@
 	<machine name="Square Memory Card Data Collection (Japan)">
 		<category>Applications</category>
 		<description>Square Memory Card Data Collection (Japan)</description>
-		<year>199?</year>
-		<manufacturer>Squaresoft</manufacturer>
 		<disk name="Square Memory Card Data Collection (Japan).chd" sha1="12c5056595d97ee0e973cb4faf787c166ed59c6b" />
 	</machine>
 	<machine name="Square's Preview (Japan)">
@@ -47768,8 +47296,6 @@
 	<machine name="Square's Preview 5 (Japan, Asia)">
 		<category>Demos</category>
 		<description>Square's Preview 5 (Japan, Asia)</description>
-		<year>1999</year>
-		<manufacturer>Squaresoft</manufacturer>
 		<disk name="Square's Preview 5 (Japan, Asia).chd" sha1="52e9a7b54007307d3eb927fa908e6fc9e03a7633" />
 	</machine>
 	<machine name="Square's Preview Extra - FF VII Sample &amp; SIGGRAPH '95 Works (Japan)">
@@ -49516,8 +49042,6 @@
 	<machine name="SuperLite 1500 Series - Angolmois 99 (Japan)">
 		<category>Games</category>
 		<description>SuperLite 1500 Series - Angolmois 99 (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Success</manufacturer>
 		<disk name="SuperLite 1500 Series - Angolmois 99 (Japan).chd" sha1="6e019568fc247dadbf70b21f637d3f58f9292f44" />
 	</machine>
 	<machine name="SuperLite 1500 Series - Ano Ko Doko no Ko - Endless Season (Japan)">
@@ -49553,8 +49077,6 @@
 	<machine name="SuperLite 1500 Series - Burn Out (Japan)">
 		<category>Games</category>
 		<description>SuperLite 1500 Series - Burn Out (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Success</manufacturer>
 		<disk name="SuperLite 1500 Series - Burn Out (Japan).chd" sha1="fca45548849a474d1083dc6495ad0d6f2023d369" />
 	</machine>
 	<machine name="SuperLite 1500 Series - Card II (Japan)">
@@ -49790,8 +49312,6 @@
 	<machine name="SuperLite 1500 Series - NumCro (Japan)">
 		<category>Games</category>
 		<description>SuperLite 1500 Series - NumCro (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Success</manufacturer>
 		<disk name="SuperLite 1500 Series - NumCro (Japan).chd" sha1="4c1be1132463f356f416f50a761561ffae1d62c4" />
 	</machine>
 	<machine name="SuperLite 1500 Series - NumCro 2 (Japan)">
@@ -49867,8 +49387,6 @@
 	<machine name="SuperLite 1500 Series - Qix 2000 (Japan)">
 		<category>Games</category>
 		<description>SuperLite 1500 Series - Qix 2000 (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Success</manufacturer>
 		<disk name="SuperLite 1500 Series - Qix 2000 (Japan).chd" sha1="ab6d0d56e1e62e34aa6adc4a8e68c9cce0d95156" />
 	</machine>
 	<machine name="SuperLite 1500 Series - Quiz Master - Blue (Japan)">
@@ -50819,8 +50337,6 @@
 	<machine name="Tales of Fandom Vol. 1 - Cless Version (Japan)">
 		<category>Games</category>
 		<description>Tales of Fandom Vol. 1 - Cless Version (Japan)</description>
-		<year>2002</year>
-		<manufacturer>Namco</manufacturer>
 		<disk name="Tales of Fandom Vol. 1 - Cless Version (Japan).chd" sha1="19a9ef42a39a8370650dc7a56f25a3589893234a" />
 	</machine>
 	<machine name="Tales of Fandom Vol. 1 - Mint Version (Japan)">
@@ -50878,8 +50394,6 @@
 	<machine name="Tamamayu Monogatari - Dennou Bijutsukan (Japan)">
 		<category>Multimedia</category>
 		<description>Tamamayu Monogatari - Dennou Bijutsukan (Japan)</description>
-		<year>199?</year>
-		<manufacturer>Genki</manufacturer>
 		<disk name="Tamamayu Monogatari - Dennou Bijutsukan (Japan).chd" sha1="f0981ae396d8e4b2e020e546c8b987e8fa35bf98" />
 	</machine>
 	<machine name="Tamamayu Monogatari (Japan)">
@@ -50915,8 +50429,6 @@
 	<machine name="Tantei Jinguuji Saburou - Early Collection (Japan)">
 		<category>Games</category>
 		<description>Tantei Jinguuji Saburou - Early Collection (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Data East</manufacturer>
 		<disk name="Tantei Jinguuji Saburou - Early Collection (Japan).chd" sha1="6b80503cf09c653022ae53120a597bd05e542fb1" />
 	</machine>
 	<machine name="Tantei Jinguuji Saburou - Early Collection (Japan) (Fukyuuban)">
@@ -50937,8 +50449,6 @@
 	<machine name="Tantei Jinguuji Saburou - Tomoshibi ga Kienu Ma ni (Japan)">
 		<category>Games</category>
 		<description>Tantei Jinguuji Saburou - Tomoshibi ga Kienu Ma ni (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Data East</manufacturer>
 		<disk name="Tantei Jinguuji Saburou - Tomoshibi ga Kienu Ma ni (Japan).chd" sha1="ff1dbd2822ebf7952cb1666b08e525c6faa7e29f" />
 	</machine>
 	<machine name="Tantei Jinguuji Saburou - Tomoshibi ga Kienu Ma ni (Japan) (Fukyuuban)">
@@ -51263,8 +50773,6 @@
 	<machine name="Tenant Wars (Japan)">
 		<category>Games</category>
 		<description>Tenant Wars (Japan)</description>
-		<year>1998</year>
-		<manufacturer>KID</manufacturer>
 		<disk name="Tenant Wars (Japan).chd" sha1="338b7d4537fd682a6e082838604e1c61f15e1f1c" />
 	</machine>
 	<machine name="Tenchi Muyou! Toukou Muyou (Japan) (Disc 1)">
@@ -51422,8 +50930,6 @@
 	<machine name="Tensen Nyannyan Gekijouban (Japan)">
 		<category>Games</category>
 		<description>Tensen Nyannyan Gekijouban (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Time Point</manufacturer>
 		<disk name="Tensen Nyannyan Gekijouban (Japan).chd" sha1="4280837b34fb82b260d15afd4909d4d627cdcc40" />
 	</machine>
 	<machine name="Tenshi Doumei (Japan)">
@@ -51670,8 +51176,6 @@
 	<machine name="Theme Park World (Europe) (En,Fr,De,Es,It,Nl,Sv)">
 		<category>Games</category>
 		<description>Theme Park World (Europe) (En,Fr,De,Es,It,Nl,Sv)</description>
-		<year>2000</year>
-		<manufacturer>Electronic Arts</manufacturer>
 		<disk name="Theme Park World (Europe) (En,Fr,De,Es,It,Nl,Sv).chd" sha1="b18e4948997cd80453b9f50203ff0a45983058c3" />
 	</machine>
 	<machine name="Theme Park World (Japan)">
@@ -52183,8 +51687,6 @@
 	<machine name="Tiny Bullets (Japan)">
 		<category>Games</category>
 		<description>Tiny Bullets (Japan)</description>
-		<year>2000</year>
-		<manufacturer>SCEI</manufacturer>
 		<disk name="Tiny Bullets (Japan).chd" sha1="1caa8dae5135283935139cf1d726f30f6d7c4ef2" />
 	</machine>
 	<machine name="Tiny Tank (Europe)">
@@ -52410,8 +51912,6 @@
 	<machine name="TOCA World Touring Cars (Europe) (En,Fr,De)">
 		<category>Games</category>
 		<description>TOCA World Touring Cars (Europe) (En,Fr,De)</description>
-		<year>2000</year>
-		<manufacturer>The Codemasters Software Company</manufacturer>
 		<disk name="TOCA World Touring Cars (Europe) (En,Fr,De).chd" sha1="c3b38d8dfe1c588d09dbbc1e14fd7c81043ac2c9" />
 	</machine>
 	<machine name="TOCA World Touring Cars (Europe) (Es,It)">
@@ -52427,15 +51927,11 @@
 	<machine name="ToHeart (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>ToHeart (Japan) (Disc 1)</description>
-		<year>1999</year>
-		<manufacturer>Aqua Plus</manufacturer>
 		<disk name="ToHeart (Japan) (Disc 1).chd" sha1="4a5d59ee3f7e27b09728903bddc2e4c9e2d955d4" />
 	</machine>
 	<machine name="ToHeart (Japan) (Disc 2)">
 		<category>Games</category>
 		<description>ToHeart (Japan) (Disc 2)</description>
-		<year>1999</year>
-		<manufacturer>Aqua Plus</manufacturer>
 		<disk name="ToHeart (Japan) (Disc 2).chd" sha1="8cd5a8e1de83b367eef1be8a8832bcc331c0a38e" />
 	</machine>
 	<machine name="Tokimeki Memorial - Forever with You (Japan) (Genteiban) (Rev 1)">
@@ -52551,22 +52047,16 @@
 	<machine name="Tokimeki Memorial 2 Emotional Voice System Append Disc (Japan) (Disc 1) (Minadzuki - Kotobuki - Sakura)">
 		<category>Add-Ons</category>
 		<description>Tokimeki Memorial 2 Emotional Voice System Append Disc (Japan) (Disc 1) (Minadzuki - Kotobuki - Sakura)</description>
-		<year>2000</year>
-		<manufacturer>Aspect</manufacturer>
 		<disk name="Tokimeki Memorial 2 Emotional Voice System Append Disc (Japan) (Disc 1) (Minadzuki - Kotobuki - Sakura).chd" sha1="153bf3e81bf8b46d00f2fce6d87215a69f635ec9" />
 	</machine>
 	<machine name="Tokimeki Memorial 2 Emotional Voice System Append Disc (Japan) (Disc 2) (Akai - Ichimonji - Yae)">
 		<category>Add-Ons</category>
 		<description>Tokimeki Memorial 2 Emotional Voice System Append Disc (Japan) (Disc 2) (Akai - Ichimonji - Yae)</description>
-		<year>2000</year>
-		<manufacturer>Aspect</manufacturer>
 		<disk name="Tokimeki Memorial 2 Emotional Voice System Append Disc (Japan) (Disc 2) (Akai - Ichimonji - Yae).chd" sha1="d2446f1b10485517963d7e068fe96713a78c41ba" />
 	</machine>
 	<machine name="Tokimeki Memorial 2 Emotional Voice System Append Disc (Japan) (Disc 3) (Shirayuki - Ijuin - Nozaki)">
 		<category>Add-Ons</category>
 		<description>Tokimeki Memorial 2 Emotional Voice System Append Disc (Japan) (Disc 3) (Shirayuki - Ijuin - Nozaki)</description>
-		<year>2000</year>
-		<manufacturer>Enterbrain</manufacturer>
 		<disk name="Tokimeki Memorial 2 Emotional Voice System Append Disc (Japan) (Disc 3) (Shirayuki - Ijuin - Nozaki).chd" sha1="a77315f6aadee2d92a5831467d086cf06d2507fc" />
 	</machine>
 	<machine name="Tokimeki Memorial 2 Substories - Dancing Summer Vacation (Japan) (Disc 1)">
@@ -52582,15 +52072,11 @@
 	<machine name="Tokimeki Memorial 2 Substories - Leaping School Festival (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>Tokimeki Memorial 2 Substories - Leaping School Festival (Japan) (Disc 1)</description>
-		<year>2001</year>
-		<manufacturer>Konami</manufacturer>
 		<disk name="Tokimeki Memorial 2 Substories - Leaping School Festival (Japan) (Disc 1).chd" sha1="39fbf6ca39dd9fb6d5def1e27c88ef2d8c08d91f" />
 	</machine>
 	<machine name="Tokimeki Memorial 2 Substories - Leaping School Festival (Japan) (Disc 2)">
 		<category>Games</category>
 		<description>Tokimeki Memorial 2 Substories - Leaping School Festival (Japan) (Disc 2)</description>
-		<year>2001</year>
-		<manufacturer>Konami</manufacturer>
 		<disk name="Tokimeki Memorial 2 Substories - Leaping School Festival (Japan) (Disc 2).chd" sha1="f14ba5a3940d84e5291ca9d1e745f3415e5f87a1" />
 	</machine>
 	<machine name="Tokimeki Memorial 2 Substories - Memories Ringing On (Japan) (Disc 1)">
@@ -52606,8 +52092,6 @@
 	<machine name="Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (Japan)">
 		<category>Games</category>
 		<description>Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Konami</manufacturer>
 		<disk name="Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (Japan).chd" sha1="fa952b99ae91dc77760ccd786b83f99d558878eb" />
 	</machine>
 	<machine name="Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (Japan) (Demo)">
@@ -52710,8 +52194,6 @@
 	<machine name="Tokyo Majin Gakuen - Gehouchou (Japan) (Disc 1) (You)">
 		<category>Games</category>
 		<description>Tokyo Majin Gakuen - Gehouchou (Japan) (Disc 1) (You)</description>
-		<year>2002</year>
-		<manufacturer>Asmik Ace</manufacturer>
 		<disk name="Tokyo Majin Gakuen - Gehouchou (Japan) (Disc 1) (You).chd" sha1="4f2440e37322c1bfff97e1d0fde1b3de0cc22f1b" />
 	</machine>
 	<machine name="Tokyo Majin Gakuen - Gehouchou (Japan) (Disc 1) (You) (Genteiban)">
@@ -52722,8 +52204,6 @@
 	<machine name="Tokyo Majin Gakuen - Gehouchou (Japan) (Disc 2) (In)">
 		<category>Games</category>
 		<description>Tokyo Majin Gakuen - Gehouchou (Japan) (Disc 2) (In)</description>
-		<year>2002</year>
-		<manufacturer>Asmik Ace</manufacturer>
 		<disk name="Tokyo Majin Gakuen - Gehouchou (Japan) (Disc 2) (In).chd" sha1="b8e3dc6879aae53014012fd9420c385ff3459560" />
 	</machine>
 	<machine name="Tokyo Majin Gakuen - Gehouchou (Japan) (Disc 2) (In) (Genteiban)">
@@ -52734,8 +52214,6 @@
 	<machine name="Tokyo Majin Gakuen - Gehouchou (Japan) (Disc 3) (Ja)">
 		<category>Games</category>
 		<description>Tokyo Majin Gakuen - Gehouchou (Japan) (Disc 3) (Ja)</description>
-		<year>2002</year>
-		<manufacturer>Asmik Ace</manufacturer>
 		<disk name="Tokyo Majin Gakuen - Gehouchou (Japan) (Disc 3) (Ja).chd" sha1="fc90c49c56387e1395b04600fe709067ffe4e0e3" />
 	</machine>
 	<machine name="Tokyo Majin Gakuen - Gehouchou (Japan) (Disc 3) (Ja) (Genteiban)">
@@ -53659,8 +53137,6 @@
 	<machine name="Touge Max G (Japan)">
 		<category>Games</category>
 		<description>Touge Max G (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Atlus</manufacturer>
 		<disk name="Touge Max G (Japan).chd" sha1="8e1ae2078090732baa356af2d956221236a0a042" />
 	</machine>
 	<machine name="Touge Max G (Japan) (Demo)">
@@ -54053,15 +53529,11 @@
 	<machine name="TsunTsun-gumi 2 - MojiMoji Pakkun (Japan)">
 		<category>Games</category>
 		<description>TsunTsun-gumi 2 - MojiMoji Pakkun (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Kodansha</manufacturer>
 		<disk name="TsunTsun-gumi 2 - MojiMoji Pakkun (Japan).chd" sha1="f053c38505d2d78d512f6e451527b0c47bc3ed80" />
 	</machine>
 	<machine name="TsunTsun-gumi 3 - Kanji Vader (Japan)">
 		<category>Games</category>
 		<description>TsunTsun-gumi 3 - Kanji Vader (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Kodansha</manufacturer>
 		<disk name="TsunTsun-gumi 3 - Kanji Vader (Japan).chd" sha1="3bfd1c6c80ac6995b383cb9294627036cd366486" />
 	</machine>
 	<machine name="Tsuri Baka Nisshi (Japan)">
@@ -54178,8 +53650,6 @@
 	<machine name="TwinBee RPG (Japan, Asia)">
 		<category>Games</category>
 		<description>TwinBee RPG (Japan, Asia)</description>
-		<year>1998</year>
-		<manufacturer>Konami</manufacturer>
 		<disk name="TwinBee RPG (Japan, Asia).chd" sha1="338f874fe237fba825e29e0978c31c55011587b2" />
 	</machine>
 	<machine name="TwinBee Taisen Puzzle-dama (Japan)">
@@ -54476,8 +53946,6 @@
 	<machine name="UFO - A Day in the Life (Japan)">
 		<category>Games</category>
 		<description>UFO - A Day in the Life (Japan)</description>
-		<year>1999</year>
-		<manufacturer>ASCII</manufacturer>
 		<disk name="UFO - A Day in the Life (Japan).chd" sha1="abbab7f41d9d485ae75dbc97ef6a612dc4098b93" />
 	</machine>
 	<machine name="Ugetsu Kitan (Japan)">
@@ -54603,8 +54071,6 @@
 	<machine name="Umapoly (Japan)">
 		<category>Games</category>
 		<description>Umapoly (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Konami</manufacturer>
 		<disk name="Umapoly (Japan).chd" sha1="6eadb9d0f4b31ed8fe02659f9b629bf84438dcfe" />
 	</machine>
 	<machine name="Umezawa Yukari no Taikyoku Igo - Heisei Kiin II (Japan)">
@@ -54650,8 +54116,6 @@
 	<machine name="UnGro Walker (Japan)">
 		<category>Games</category>
 		<description>UnGro Walker (Japan)</description>
-		<year>2002</year>
-		<manufacturer>Success</manufacturer>
 		<disk name="UnGro Walker (Japan).chd" sha1="797be9272ce21292b3d37d74250768b77da7e51b" />
 	</machine>
 	<machine name="Unholy War, The (Europe) (Demo)">
@@ -54768,15 +54232,11 @@
 	<machine name="Urawaza Mahjong - Korette Tenwatte Yatsukai (Japan)">
 		<category>Games</category>
 		<description>Urawaza Mahjong - Korette Tenwatte Yatsukai (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Spike</manufacturer>
 		<disk name="Urawaza Mahjong - Korette Tenwatte Yatsukai (Japan).chd" sha1="3b6d5291662584941feecb923a01ea0ab700269e" />
 	</machine>
 	<machine name="Urban Chaos (Europe) (En,Es,It)">
 		<category>Games</category>
 		<description>Urban Chaos (Europe) (En,Es,It)</description>
-		<year>2000</year>
-		<manufacturer>Eidos Interactive</manufacturer>
 		<disk name="Urban Chaos (Europe) (En,Es,It).chd" sha1="dc3bb0144dd5f89c1efbb73efdbbc9ac3bac38f7" />
 	</machine>
 	<machine name="Urban Chaos (France)">
@@ -55213,8 +54673,6 @@
 	<machine name="Victory Zone (Japan)">
 		<category>Games</category>
 		<description>Victory Zone (Japan)</description>
-		<year>1995</year>
-		<manufacturer>SCEI</manufacturer>
 		<disk name="Victory Zone (Japan).chd" sha1="a941e307f12d701040b8673a7bf5762c857d76c2" />
 	</machine>
 	<machine name="Victory Zone 2 (Japan)">
@@ -55488,8 +54946,6 @@
 	<machine name="Virus - The Battle Field (Japan)">
 		<category>Games</category>
 		<description>Virus - The Battle Field (Japan)</description>
-		<year>1999</year>
-		<manufacturer>PolyGram</manufacturer>
 		<disk name="Virus - The Battle Field (Japan).chd" sha1="7001ef6655a8400c487e0198be9ce93241b1f8c1" />
 	</machine>
 	<machine name="Visiteurs, Les - La Relique de Sainte Rolande (France)">
@@ -55574,8 +55030,6 @@
 	<machine name="Volfoss (Japan)">
 		<category>Games</category>
 		<description>Volfoss (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Namco</manufacturer>
 		<disk name="Volfoss (Japan).chd" sha1="371b50d5a55740832c8f53c323ca73c50356362b" />
 	</machine>
 	<machine name="VR Baseball '97 (Europe)">
@@ -56890,8 +56344,6 @@
 	<machine name="Wonder Trek (Japan)">
 		<category>Games</category>
 		<description>Wonder Trek (Japan)</description>
-		<year>1998</year>
-		<manufacturer>SCEI</manufacturer>
 		<disk name="Wonder Trek (Japan).chd" sha1="20ec593ade210d89cf9a0da3fd03c1ed9584f81f" />
 	</machine>
 	<machine name="Woody Woodpecker no Go! Go! Racing (Japan)">
@@ -57480,8 +56932,6 @@
 	<machine name="WWF WrestleMania - The Arcade Game (Japan)">
 		<category>Games</category>
 		<description>WWF WrestleMania - The Arcade Game (Japan)</description>
-		<year>1996</year>
-		<manufacturer>Acclaim</manufacturer>
 		<disk name="WWF WrestleMania - The Arcade Game (Japan).chd" sha1="40e1680cd20b5c2bb4ab96a53926cc8b6526089b" />
 	</machine>
 	<machine name="WWF WrestleMania - The Arcade Game (USA)">
@@ -58009,8 +57459,6 @@
 	<machine name="Yakiniku Action Game - Yakiniku Bugyou (Japan)">
 		<category>Games</category>
 		<description>Yakiniku Action Game - Yakiniku Bugyou (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Media Entertainment</manufacturer>
 		<disk name="Yakiniku Action Game - Yakiniku Bugyou (Japan).chd" sha1="4c4c7b0438d67727ac855f21f682a8a93a8b93a3" />
 	</machine>
 	<machine name="Yakiniku Action Game - Yakiniku Bugyou (Japan) (Demo)">
@@ -58021,8 +57469,6 @@
 	<machine name="Yakitori Musume - Sugoude Hanjouki (Japan)">
 		<category>Games</category>
 		<description>Yakitori Musume - Sugoude Hanjouki (Japan)</description>
-		<year>2002</year>
-		<manufacturer>Media Entertainment</manufacturer>
 		<disk name="Yakitori Musume - Sugoude Hanjouki (Japan).chd" sha1="462fb423b61e584a28ffd83f1b8f556dc55e52d5" />
 	</machine>
 	<machine name="Yakitori Musume - Sugoude Hanjouki (Japan) (Demo)">
@@ -58043,29 +57489,21 @@
 	<machine name="Yamagata Digital Museum (Japan) (Disc 1) (Spring)">
 		<category>Multimedia</category>
 		<description>Yamagata Digital Museum (Japan) (Disc 1) (Spring)</description>
-		<year>1999</year>
-		<manufacturer>Imagineer</manufacturer>
 		<disk name="Yamagata Digital Museum (Japan) (Disc 1) (Spring).chd" sha1="8beafdb7d27998d26bf4c446bc7119467c3aa110" />
 	</machine>
 	<machine name="Yamagata Digital Museum (Japan) (Disc 2) (Summer)">
 		<category>Multimedia</category>
 		<description>Yamagata Digital Museum (Japan) (Disc 2) (Summer)</description>
-		<year>1999</year>
-		<manufacturer>Imagineer</manufacturer>
 		<disk name="Yamagata Digital Museum (Japan) (Disc 2) (Summer).chd" sha1="3a8ef662fc37e21fc1e5d47b5020b8fec98939d0" />
 	</machine>
 	<machine name="Yamagata Digital Museum (Japan) (Disc 3) (Autumn)">
 		<category>Multimedia</category>
 		<description>Yamagata Digital Museum (Japan) (Disc 3) (Autumn)</description>
-		<year>1999</year>
-		<manufacturer>Imagineer</manufacturer>
 		<disk name="Yamagata Digital Museum (Japan) (Disc 3) (Autumn).chd" sha1="3aab0a4f66e0d7675ed209f3bf08c41853276f65" />
 	</machine>
 	<machine name="Yamagata Digital Museum (Japan) (Disc 4) (Winter)">
 		<category>Multimedia</category>
 		<description>Yamagata Digital Museum (Japan) (Disc 4) (Winter)</description>
-		<year>1999</year>
-		<manufacturer>Imagineer</manufacturer>
 		<disk name="Yamagata Digital Museum (Japan) (Disc 4) (Winter).chd" sha1="bec7552dffd36ad7d54849495667b6bdc7513a94" />
 	</machine>
 	<machine name="Yamasa Digi Guide - Faust (Japan)">
@@ -58426,8 +57864,6 @@
 	<machine name="Yuukyuu no Eden - The Eternal Eden (Japan)">
 		<category>Games</category>
 		<description>Yuukyuu no Eden - The Eternal Eden (Japan)</description>
-		<year>1999</year>
-		<manufacturer>ASCII</manufacturer>
 		<disk name="Yuukyuu no Eden - The Eternal Eden (Japan).chd" sha1="440ce41646d7f44bc17c97228971caf1beb6a0f5" />
 	</machine>
 	<machine name="Yuukyuu no Eden - The Eternal Eden (Japan) (Rev 1)">
@@ -58535,8 +57971,6 @@
 	<machine name="Zen Nihon Pro Wres - Ouja no Tamashii (Japan)">
 		<category>Games</category>
 		<description>Zen Nihon Pro Wres - Ouja no Tamashii (Japan)</description>
-		<year>1999</year>
-		<manufacturer>Human</manufacturer>
 		<disk name="Zen Nihon Pro Wres - Ouja no Tamashii (Japan).chd" sha1="ae23e29b076faf9b1f56e540560f3499db9a21f1" />
 	</machine>
 	<machine name="Zen Nihon Pro Wres - Ouja no Tamashii (Japan) (Spike Library)">
@@ -58711,15 +58145,11 @@
 	<machine name="Zoids - Battle Card Game - Seihou Tairiku Senki (Japan)">
 		<category>Games</category>
 		<description>Zoids - Battle Card Game - Seihou Tairiku Senki (Japan)</description>
-		<year>2001</year>
-		<manufacturer>Tomy</manufacturer>
 		<disk name="Zoids - Battle Card Game - Seihou Tairiku Senki (Japan).chd" sha1="65bd6ff6b893be5ade33d3e1edfb86ceb7591663" />
 	</machine>
 	<machine name="Zoids - Teikoku vs. Kyouwakoku - Meka Seitai no Idenshi (Japan)">
 		<category>Games</category>
 		<description>Zoids - Teikoku vs. Kyouwakoku - Meka Seitai no Idenshi (Japan)</description>
-		<year>2000</year>
-		<manufacturer>Tomy</manufacturer>
 		<disk name="Zoids - Teikoku vs. Kyouwakoku - Meka Seitai no Idenshi (Japan).chd" sha1="87dc280383d26a37903d086ce3ac50542702f032" />
 	</machine>
 	<machine name="Zoids 2 - Heric Kyouwakoku vs. Guylos Teikoku (Japan)">
@@ -58735,15 +58165,11 @@
 	<machine name="Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 1)</description>
-		<year>1998</year>
-		<manufacturer>Tokuma Shoten</manufacturer>
 		<disk name="Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 1).chd" sha1="60d8021323d111500566f811cb1d4ab6748ed11f" />
 	</machine>
 	<machine name="Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 2)">
 		<category>Games</category>
 		<description>Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 2)</description>
-		<year>1998</year>
-		<manufacturer>Tokuma Shoten</manufacturer>
 		<disk name="Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 2).chd" sha1="b849ccdaf03606190c8b946e08a39c15ab7523bd" />
 	</machine>
 	<machine name="Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 3)">
@@ -58754,8 +58180,6 @@
 	<machine name="Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 4)">
 		<category>Games</category>
 		<description>Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 4)</description>
-		<year>1998</year>
-		<manufacturer>Tokuma Shoten</manufacturer>
 		<disk name="Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 4).chd" sha1="b1f1ba129682c524c710551835910d92a0fdcc60" />
 	</machine>
 	<machine name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 1)">
@@ -58839,18 +58263,6 @@
 		<year>1999</year>
 		<manufacturer>Taki</manufacturer>
 		<disk name="acid\acid (japan) (slps-02119).chd" sha1="45f14b5df7c1baeebb31dcf0dea3761ef53e8597" />
-	</machine>
-	<machine name="aconcagu\aconcagua (japan) (disc 1) [scps-10131]">
-		<description>Aconcagua (Japan)</description>
-		<year>2000</year>
-		<manufacturer>SCEI</manufacturer>
-		<disk name="aconcagu\aconcagua (japan) (disc 1) [scps-10131].chd" sha1="52a711d431a8eda2333b003173f74831fe4d30a7" />
-	</machine>
-	<machine name="aconcagu\aconcagua (japan) (disc 2) [scps-10132]">
-		<description>Aconcagua (Japan)</description>
-		<year>2000</year>
-		<manufacturer>SCEI</manufacturer>
-		<disk name="aconcagu\aconcagua (japan) (disc 2) [scps-10132].chd" sha1="e5cac5e4df607b4af75d5d7164a20addfe00fe0b" />
 	</machine>
 	<machine name="adlibouj\ad lib ouji... to fuyukai na nakamatachi (japan) [slps-03510]">
 		<description>Ad Lib Ouji ...to Fuyukai na Nakamatachi!? (Japan)</description>

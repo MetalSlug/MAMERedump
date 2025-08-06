@@ -4,7 +4,7 @@
 	<header>
 		<name>psx</name>
 		<description>psx</description>
-		<version>0.278</version>
+		<version>0.279</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -540,6 +540,23 @@
 		<rom name="fifth element, the (usa) (Track 09).bin" size="19726224" crc="dfc75dcd" md5="a217e41b1851cec7c1b8a5c82dce22b6" sha1="676b85b0934e97149c9927a07e04793c75570a14"/>
 		<rom name="fifth element, the (usa) (Track 10).bin" size="32104800" crc="9b94ea54" md5="65aea234c174ee35fb574d981fe3fc4f" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a"/>
 	</game>
+	<game name="a2racer\A2 Racer - Europa Tour (Netherlands)" type="cd" sha1="f871014ae91b537f22ab8c4f383f1bc51c122bf1" size="67249205" crc="53356043" fullsha1="e1153247747521e799d3a612a926c147f028413b" dataSha1="dd6aaa39135010cace1ce0bb7a4f829a6b6fe96b">
+		<category>Games</category>
+		<description>A2 Racer: Europa Tour (Netherlands)</description>
+		<year>1996</year>
+		<manufacturer>Electronic Arts</manufacturer>
+		<rom name="A2 Racer - Europa Tour (Netherlands) (Track 01).bin" size="112039872" crc="0a9a490e" md5="41aef108421dfb690e3e698c6d98eaf4" sha1="7585131d4ad8556fecb84730c91f02c1122299a0"/>
+		<rom name="A2 Racer - Europa Tour (Netherlands) (Track 02).bin" size="10953264" crc="d5754a6d" md5="f59f0ee5042e66f5ed4796606146d2f3" sha1="5d8fc55934c8c862d71520b8fab1100145cc0a51"/>
+		<rom name="A2 Racer - Europa Tour (Netherlands) (Track 03).bin" size="7413504" crc="0637fba6" md5="5065f10573e97964f3ed95ca1551172e" sha1="15a3a66a72797e19e7154db02b2af2288c29a2bf"/>
+		<rom name="A2 Racer - Europa Tour (Netherlands) (Track 04).bin" size="6613824" crc="a31cac70" md5="562f048dcbeda29d374a0bfd689028e3" sha1="d9c2c29155e1b9d11c02682b6031f6128412cfd5"/>
+		<rom name="A2 Racer - Europa Tour (Netherlands) (Track 05).bin" size="6990144" crc="9d25b3c4" md5="48d7ecbcd310b35e7be2ba5bb12b9622" sha1="b44a481562fa92f716254c2b08da58b2cf9c13c9"/>
+		<rom name="A2 Racer - Europa Tour (Netherlands) (Track 06).bin" size="7272384" crc="45d7f7bb" md5="0845de6041b2aaf192ac1f723f3b7a69" sha1="7394575abb63b3c8ca300facc923c5b8a1f9cee3"/>
+		<rom name="A2 Racer - Europa Tour (Netherlands) (Track 07).bin" size="8824704" crc="3de2289e" md5="db8ed4a5fc8254a21e77c71918262696" sha1="df1680ada8857606e62098d9112ae7026a16d800"/>
+		<rom name="A2 Racer - Europa Tour (Netherlands) (Track 08).bin" size="7103040" crc="0d1bb2ca" md5="71698845477cfa7761b0a657b3bab01c" sha1="b7c36d5e5858629bf438ed5166d5a7758176328e"/>
+		<rom name="A2 Racer - Europa Tour (Netherlands) (Track 09).bin" size="6545616" crc="9e1a2d05" md5="ead1997e15593747010a4954aa514042" sha1="8839431c74087fe7f254af60fa4f5806a708f7ad"/>
+		<rom name="A2 Racer - Europa Tour (Netherlands) (Track 10).bin" size="6846672" crc="b5d0706e" md5="8e17356386a0279caac8964cf5059f40" sha1="50b92dafabb4a0b4e207ac8205d01c871d97e1ab"/>
+		<rom name="A2 Racer - Europa Tour (Netherlands) (Track 11).bin" size="32104800" crc="9b94ea54" md5="65aea234c174ee35fb574d981fe3fc4f" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a"/>
+	</game>
 	<game name="a4evolgl\A Ressha de Ikou 4 - Evolution Global (Japan) (En,Ja,Fr,De)" type="cd" sha1="e6b1fecbc6a55bd8201d6302f25559c7f3452cb4" size="39395858" crc="ade798a9" fullsha1="816d8e0e9b0c478e38a83c786a2a2ee938c6dd67" dataSha1="a551a77476bfd5101431e63394be3d00a2956f70">
 		<category>Games</category>
 		<description>A Ressha de Ikou 4 - Evolution Global (Japan)</description>
@@ -641,19 +658,107 @@
 		<manufacturer>GT Interactive Software</manufacturer>
 		<rom name="oddworld - abe's exoddus (usa) (disc 2) (Track 01).bin" size="483947520" crc="50f33c8d" md5="37a6261fa9d30b24855a3101f791b62f" sha1="ff160dda9cd026d6b1cc3bce9e81b4d25e4a93ce"/>
 	</game>
-	<game name="acecomb2\ace combat 2 (usa)" type="cd" sha1="24f6ccd2a6d12559677a103f5df25fe4d0296fca" size="336324767" crc="86b44d2e" fullsha1="80a5aaf5c4d0fac0cf46cebd8a54b8a9eb14e604" dataSha1="aedcbc7a7cf8f715284eea33679a507f8f292f29">
+	<game name="acecomb2\Ace Combat 2 (Europe)" type="cd" sha1="39cd9c74ed1790617d3dcb3a320f11d583227a9d" size="332827014" crc="0d1fa60a" fullsha1="5a30c1ad100fc8452c7ab839d3d6229d0762745f" dataSha1="ebfa595dac5ba8fa9bbda3b20980b97ee9d53062">
+		<category>Games</category>
+		<description>Ace Combat 2 (Europe)</description>
+		<year>1997</year>
+		<manufacturer>Sony</manufacturer>
+		<rom name="Ace Combat 2 (Europe) (Track 01).bin" size="580831104" crc="c8dd9a12" md5="0adc79dc69d5be4720825e4b1c1820a7" sha1="ba42b2b1486715ef87ef9615d9f29b2eeba28b32"/>
+	</game>
+	<game name="acecomb2\Ace Combat 2 (France)" type="cd" sha1="679036668f470edfe0ee637e79d626b340946013" size="332914881" crc="4620ee17" fullsha1="7a34c01808705f531c893cde030dc0984f773437" dataSha1="a97e0e9ca1f03efbd884f8584b1e52c95e2eb951">
+		<category>Games</category>
+		<description>Ace Combat 2 (France)</description>
+		<year>1997</year>
+		<manufacturer>Sony</manufacturer>
+		<rom name="Ace Combat 2 (France) (Track 01).bin" size="581028672" crc="9ca78f07" md5="965010a806f83228d950400d1cd58c16" sha1="638e7e1edb006a07554629cd2eb74af6d7c8ef95"/>
+	</game>
+	<game name="acecomb2\Ace Combat 2 (Germany)" type="cd" sha1="78f32784912ed415f56e8ad7191e82d94121ddc8" size="332932266" crc="c075f1ed" fullsha1="90dc0518f4dcbd564e4037682585d4f47120351c" dataSha1="01a6c7f14f3adc88cf26e6d45b251f1410c16c46">
+		<category>Games</category>
+		<description>Ace Combat 2 (Germany)</description>
+		<year>1997</year>
+		<manufacturer>Sony</manufacturer>
+		<rom name="Ace Combat 2 (Germany) (Track 01).bin" size="581038080" crc="96b3dbe6" md5="ac781b829eb31e3afbf269fc6974ed5a" sha1="500a51f90ebf3128b90bd9c388b11f09c8b176f8"/>
+	</game>
+	<game name="acecomb2\Ace Combat 2 (Japan)" type="cd" sha1="7b255871e593724d5f183e47767dbcdb106f2256" size="336558830" crc="2c5c96f5" fullsha1="316f297951be4506e8bdf51cecac789e0764bed7" dataSha1="81dc334195a5ca8c8f57cbdc20621bb791432dd9">
+		<category>Games</category>
+		<description>Ace Combat 2 (Japan)</description>
+		<year>1997</year>
+		<manufacturer>Namco</manufacturer>
+		<rom name="Ace Combat 2 (Japan) (Track 01).bin" size="580273680" crc="2f645ad6" md5="e4d25ff14d588a2ef8deafa4f7f6e130" sha1="311e51e978b26c971196cae2571b858e72c6d983"/>
+	</game>
+	<game name="acecomb2\Ace Combat 2 (Japan) (rev. 1)" type="cd" sha1="c97b37cfbe12fec6281c9f88a96350c8921642d0" size="336561638" crc="d2d49fc0" fullsha1="6dd4db78769058ae1cb4d80fc36ceedec39122e4" dataSha1="e0d8162604966309b7a0ce9882fae8d81cebf803">
+		<category>Games</category>
+		<description>Ace Combat 2 (Japan, rev. 1) (PlayStation the Best)</description>
+		<year>1999</year>
+		<manufacturer>Namco</manufacturer>
+		<rom name="Ace Combat 2 (Japan) (rev. 1) (Track 01).bin" size="580271328" crc="0eef1401" md5="ece1e7b3f995b67483b94f98401bb925" sha1="0c556057cda63d629f8950265016de8e27c6ab2f"/>
+	</game>
+	<game name="acecomb2\Ace Combat 2 (USA)" type="cd" sha1="e2f27e058ee2ef5b7c1a58c6fc7377a52fc42d80" size="336590406" crc="a0865f40" fullsha1="80a5aaf5c4d0fac0cf46cebd8a54b8a9eb14e604" dataSha1="aedcbc7a7cf8f715284eea33679a507f8f292f29">
 		<category>Games</category>
 		<description>Ace Combat 2 (USA)</description>
 		<year>1997</year>
 		<manufacturer>Namco Hometek</manufacturer>
-		<rom name="ace combat 2 (usa) (Track 01).bin" size="580760544" crc="852e5ded" md5="17803a9608ac2839ef89812f3714bfe0" sha1="a441bb9ace9434a6d05d9e846d2b23b9523e2867"/>
+		<rom name="Ace Combat 2 (USA) (Track 01).bin" size="580760544" crc="852e5ded" md5="17803a9608ac2839ef89812f3714bfe0" sha1="a441bb9ace9434a6d05d9e846d2b23b9523e2867"/>
 	</game>
-	<game name="acecomb3\ace combat 3 - electrosphere (usa)" type="cd" sha1="d0f2d38550b2eb21985de2f32cf1d9e91aa7e802" size="425125135" crc="1dabf9e8" fullsha1="9579e5d056d01e82679b350e89ff329f603e418b" dataSha1="109056f792a0b386547aa9ea62ea45bbcde6e04c">
+	<game name="acecomb3\Ace Combat 3 - Electrosphere (Europe) (En,Fr,De,Es,It)" type="cd" sha1="4826ff5febd74077339ac29e1e26e3de8c50f0af" size="278610854" crc="f9895f48" fullsha1="312a3dbf5734d12af214e648b12c4e9af6667720" dataSha1="69a54c6d1a3b7b8192f01bb3522e98a802225c70">
 		<category>Games</category>
-		<description>Ace Combat 3 - Electrosphere (USA)</description>
+		<description>Ace Combat 3: Electrosphere (Europe)</description>
+		<year>2000</year>
+		<manufacturer>Sony</manufacturer>
+		<rom name="Ace Combat 3 - Electrosphere (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="470999760" crc="91cad2df" md5="24c2f5a5e43e4bc4c41081f5ef4dc818" sha1="8c215d983ad7d7f5f8aa122981cbd79d846532ec"/>
+	</game>
+	<game name="acecomb3\Ace Combat 3 - Electrosphere (Japan) (Disc 1)" type="cd" sha1="72ea2579e2e6e5130d5406ac03d1a9b851caef65" size="433441479" crc="62f02dc4" fullsha1="e2c1981d5c3e3c10bd283826571783a8f3f44d34" dataSha1="6f2af082e5791111b768d190fc5132aa0dc05554">
+		<category>Games</category>
+		<description>acecomb3_jp\Ace Combat 3 - Electrosphere (Japan) (Disc 1)</description>
+		<rom name="Ace Combat 3 - Electrosphere (Japan) (Disc 1) (Track 01).bin" size="716240448" crc="b6faa72c" md5="86fd694677098d26909086895404f571" sha1="3b7f4def50008736370e83107a0d50246c1c0aa4"/>
+	</game>
+	<game name="acecomb3\Ace Combat 3 - Electrosphere (Japan) (Disc 2)" type="cd" sha1="578154958b39b983a93388bd4de7308b5432e210" size="453590937" crc="dd4b4938" fullsha1="f304f25f8aafd137aacf46bf39b5fa336e387256" dataSha1="b2ee1203a5b0520b29941eed082dad92da84a131">
+		<category>Games</category>
+		<description>Ace Combat 3: Electrosphere (Japan)</description>
 		<year>1999</year>
-		<manufacturer>Namco Hometek</manufacturer>
-		<rom name="ace combat 3 - electrosphere (usa) (Track 01).bin" size="644977200" crc="a9dbe00f" md5="9709b211d1e241147bcfe14e95547c5a" sha1="9b690c02cdb7754f2fa478c4974ec69600f2f269"/>
+		<manufacturer>Namco</manufacturer>
+		<rom name="Ace Combat 3 - Electrosphere (Japan) (Disc 2) (Track 01).bin" size="723766848" crc="c740c3ff" md5="c3909981452f1506290121b2763beb24" sha1="c86ee2f1970cc06c466a5555c8fe66c4f63a3ee7"/>
+	</game>
+	<game name="acecomb3\Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1)" type="cd" sha1="e13a23e0ccf27c21fe78ee3fb12a9baa462708d0" size="433730549" crc="e5e39d68" fullsha1="2932b1ba9307840a6a561bd66819b169715a61dd" dataSha1="c57b0f70038c357909cd2aa4d7d8a8dc560f8b75">
+		<category>Games</category>
+		<description>acecomb3_jp1\Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1)</description>
+		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1) (Track 01).bin" size="716287488" crc="ccdda3b5" md5="30f7dce98b6901290cb26c9baf27268f" sha1="8c6d58308eb389a7b18bc213a6d1e23d14fd3c10"/>
+	</game>
+	<game name="acecomb3\Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1)" type="cd" sha1="17a77311578296b5b42c20532dfb319fd5f1c96c" size="454110643" crc="807f0ee0" fullsha1="5df1f20ab18c4473784613303f9077941f08b040" dataSha1="118e3cb79cd0fac71e7dbefbf8c09ec2267ca7eb">
+		<category>Games</category>
+		<description>Ace Combat 3: Electrosphere (Japan, rev. 1)</description>
+		<year>1999</year>
+		<manufacturer>Namco</manufacturer>
+		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1) (Track 01).bin" size="723813888" crc="b86e0f52" md5="50760963ae8a26ea0188b165f05b33a1" sha1="a23e046b1eb695e02d214d269fca70dbe0a437f7"/>
+	</game>
+	<game name="acecomb3\Ace Combat 3 - Electrosphere (USA)" type="cd" sha1="e302f1e880e9e44dd5a450f79d924e1406e61378" size="425655872" crc="da77d68a" fullsha1="9579e5d056d01e82679b350e89ff329f603e418b" dataSha1="109056f792a0b386547aa9ea62ea45bbcde6e04c">
+		<category>Games</category>
+		<description>Ace Combat 3: Electrosphere (USA)</description>
+		<year>1999</year>
+		<manufacturer>Namco</manufacturer>
+		<rom name="Ace Combat 3 - Electrosphere (USA) (Track 01).bin" size="644977200" crc="a9dbe00f" md5="9709b211d1e241147bcfe14e95547c5a" sha1="9b690c02cdb7754f2fa478c4974ec69600f2f269"/>
+	</game>
+	<game name="acecomb3\Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc (Japan)" type="cd" sha1="ac125f4e0f1745c639142e113dbf469c25ce39df" size="352794478" crc="e4bc7373" fullsha1="fb4ebde7044c90c6beabe512921e0f7d2f694604" dataSha1="9fb8bc36d2629c3db7d0414feef4516e578d1111">
+		<category>Games</category>
+		<description>Ace Combat 3: Electrosphere (Direct Audio with AppenDisc) (Japan)</description>
+		<year>1999</year>
+		<manufacturer>Namco</manufacturer>
+		<rom name="Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc (Japan) (Track 01).bin" size="189738192" crc="d6636cac" md5="61064e44fb37ec75ad25a4b7d6a14916" sha1="168761ee81417fde52845faf7d8ec1141c26c97d"/>
+		<rom name="Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc (Japan) (Track 02).bin" size="7578144" crc="dd1c2f0b" md5="38f48832fae07f3853a660d5ec9c22ff" sha1="15e1a7409114304653159a82156d5301ca006e9e"/>
+		<rom name="Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc (Japan) (Track 03).bin" size="15600816" crc="988d22a5" md5="68c2af95e7590f0dfc1c5901d6c5eb44" sha1="1b011c680727ebffc65b74312070a32a9df310f1"/>
+		<rom name="Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc (Japan) (Track 04).bin" size="30239664" crc="ae4c854d" md5="7677d996c0769cf3815cc9593850f978" sha1="7b0de490599970b2ff1b92c4bcd74f87c5a18b1a"/>
+		<rom name="Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc (Japan) (Track 05).bin" size="34047552" crc="71e4b0f7" md5="be5f411f1fe74e9a81c3553618454de8" sha1="5b3b36f2fea4acdf291c3d8188d7e08d010cd7f8"/>
+		<rom name="Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc (Japan) (Track 06).bin" size="26111904" crc="392813e5" md5="ad45befdc8f8c44c7935ebcd19d6cc65" sha1="2655ddde639afa07958c1293a99fdbcbb73a3ddf"/>
+		<rom name="Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc (Japan) (Track 07).bin" size="30667728" crc="13191328" md5="35ddda8abae34895dff3e72d88f3177f" sha1="b895542ce8fdede698d113948ea015d527cf21fb"/>
+		<rom name="Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc (Japan) (Track 08).bin" size="24020976" crc="6137c2e6" md5="678d86f83ba77986aa1fc388e376460e" sha1="4bcab9780733d26f0eb7b7037f5cedc8b587ce05"/>
+		<rom name="Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc (Japan) (Track 09).bin" size="23552928" crc="c1cbac5f" md5="de67c6281f462dfa7d832a525d377304" sha1="4339f149cd25a747940e84e5572189f6bae27fb5"/>
+		<rom name="Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc (Japan) (Track 10).bin" size="32358816" crc="6bf24960" md5="dbfd1b2e0a9e51647b851e1472d5fe57" sha1="d39579c124a47a19b36639761c1581551792d1eb"/>
+		<rom name="Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc (Japan) (Track 11).bin" size="22863792" crc="3dbb911b" md5="0b06549bd14409df0b1d59e5c9b0b36c" sha1="38a994f0546473382b735dd666fbefddec4454ae"/>
+		<rom name="Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc (Japan) (Track 12).bin" size="28129920" crc="525b1ddd" md5="de77fafa78c4c010a6268beb769527b4" sha1="f9a3912ebd06a766a9430bdf69acea37af217be8"/>
+		<rom name="Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc (Japan) (Track 13).bin" size="33062064" crc="2884a6c3" md5="6ee30fababe2aa006711c1a4f65bb6a8" sha1="61cf3423a5d67360c25652abc821f6dff54a47cc"/>
+		<rom name="Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc (Japan) (Track 14).bin" size="29781024" crc="5ee633f5" md5="a6289e0f8e4b9cc5041155aaae555023" sha1="66ef5382f4b236c76bc6089af75c0b21865494ff"/>
+		<rom name="Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc (Japan) (Track 15).bin" size="23362416" crc="4b8be2b0" md5="019ded831af7453e0e0e3ceb68ece8c9" sha1="757e60ea242cd81f216dc7d29826501bacde76e6"/>
+		<rom name="Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc (Japan) (Track 16).bin" size="33908784" crc="857edda8" md5="369ff3006396bbca8d9a1fb9cc125af9" sha1="28a06c34d53442f736fed283c086340d7c56321e"/>
 	</game>
 	<game name="acesair\aces of the air (usa)" type="cd" sha1="460be1626f8c40c6d35e9765e3fc5b16f98db239" size="357200454" crc="60f7ed6d" fullsha1="68b1a73ed63146f06d225afed762f746ecc01074" dataSha1="102a93dc28ae4d3298d53f4c22d6f7b2c88c56f5">
 		<category>Games</category>
@@ -682,19 +787,17 @@
 		<manufacturer>Taki</manufacturer>
 		<rom name="acid (japan) (slps-02119) (Track 01).bin" size="749629440" crc="40900258" md5="bf7975b0651d7550b75125122e264760" sha1="a7182901dbb80d987a5a3f1b14b4a75f99f2d24e"/>
 	</game>
-	<game name="aconcagu\aconcagua (japan) (disc 1) [scps-10131]" type="cd" sha1="bfbc7fb64b993252a4e235462507b652f99c6f70" size="214049266" crc="e59e5973" fullsha1="52a711d431a8eda2333b003173f74831fe4d30a7" dataSha1="36ece793854a0dc95197aab4f00bc6b0b6aab8a6">
+	<game name="aconcagu\Aconcagua (Japan) (Disc 1)" type="cd" sha1="892a689412243fb0b9ef860e75d1792c0bb7f7f7" size="214383410" crc="234a9dd8" fullsha1="57ace3a37619ac37a4fb75de599858590b9e2b78" dataSha1="041489e16d5444ae2f85b251557a353cbe98cd9b">
 		<category>Games</category>
-		<description>Aconcagua (Japan)</description>
-		<year>2000</year>
-		<manufacturer>SCEI</manufacturer>
-		<rom name="aconcagua (japan) (disc 1) [scps-10131] (Track 01).bin" size="665006832" crc="fdb6cf3f" md5="69840325469af0fb3bba0855fffab4e3" sha1="05e574afd7acc08851f4cce77bcbc508ff40694e"/>
+		<description>aconcagu\Aconcagua (Japan) (Disc 1)</description>
+		<rom name="Aconcagua (Japan) (Disc 1) (Track 01).bin" size="665006832" crc="c262518d" md5="114568b1e8ede52142152defd4607314" sha1="ea94e096e687c8e8a7c3c99dcdc36d99cd27d8f1"/>
 	</game>
-	<game name="aconcagu\aconcagua (japan) (disc 2) [scps-10132]" type="cd" sha1="5409d69ada78372eeeedbe0cbe25d1d856de2a00" size="252184703" crc="c85bd754" fullsha1="e5cac5e4df607b4af75d5d7164a20addfe00fe0b" dataSha1="6ddab074399378304633caf6e1c80c077a52565b">
+	<game name="aconcagu\Aconcagua (Japan) (Disc 2)" type="cd" sha1="8210f0027598fe7a6731788363999be47e320194" size="252570703" crc="c052f514" fullsha1="52cc3ce95fdd70ea05653df526a1a89c0f2f8380" dataSha1="81b9d3f084b194d73934ad4359db8a9ec771f6f3">
 		<category>Games</category>
 		<description>Aconcagua (Japan)</description>
 		<year>2000</year>
-		<manufacturer>SCEI</manufacturer>
-		<rom name="aconcagua (japan) (disc 2) [scps-10132] (Track 01).bin" size="725476752" crc="272d1274" md5="6e09e833da1c6f4f815266f000fabb6f" sha1="91559ea21cfd32042c97c288b1d7e2c58392bc17"/>
+		<manufacturer>Sony</manufacturer>
+		<rom name="Aconcagua (Japan) (Disc 2) (Track 01).bin" size="725476752" crc="28783402" md5="28cbb8ac352b755af6754af3ebc5c06e" sha1="4150b207318d7f5376e43f6301552b28cbee6169"/>
 	</game>
 	<game name="acrels96\autumn-christmas releases '96 (europe)" type="cd" sha1="354db997f96f376afa7ee485088a2b88a895ef08" size="159439989" crc="b830ce43" fullsha1="21f49d294575dec485c24866508fe40c3c0c2728" dataSha1="15fddd8cd917949cb18cdee0beba8c01b1edcddc">
 		<category>Games</category>
@@ -705,12 +808,26 @@
 		<rom name="autumn-christmas releases '96 (europe) (Track 02).bin" size="55885872" crc="280d423e" md5="fb704fc0301394ed8a4afca0165814e0" sha1="601507f68eeae7df49384b7d968c5651a0f984d8"/>
 		<rom name="autumn-christmas releases '96 (europe) (Track 03).bin" size="48608784" crc="0ee64810" md5="d65e173dd0f761498ed665a57b6a27de" sha1="61bcdbf0573f2c2f687a58db42070b5b3e16379a"/>
 	</game>
-	<game name="actbass\action bass (usa)" type="cd" sha1="53b069d010695309ad9536a9b7a350634cacc604" size="75063486" crc="0d0e53fc" fullsha1="c05deccf73c1c73fbc15ca97d6133ea332fb8a14" dataSha1="f2c38287a7f8b8dab2ef49f9cbab4850f74f91e2">
+	<game name="actbass\Action Bass (Europe)" type="cd" sha1="801bb052268291c9c8200b33f75325d5583e5281" size="75125781" crc="827dd2f1" fullsha1="5aaa3dbea79753ba38bab41bba40ff6d3a22dc54" dataSha1="a3b93b6c786e377a8374b67e4cf04d29c2ce6fa7">
+		<category>Games</category>
+		<description>Action Bass (Europe)</description>
+		<year>2000</year>
+		<manufacturer>Take-Two Interactive</manufacturer>
+		<rom name="Action Bass (Europe) (Track 01).bin" size="171905328" crc="6c8e92d5" md5="62f2ea966329e1339c67f8cfccd5e638" sha1="18a7fa2146b29dcf7b892dcb6f87e4b31862e27d"/>
+	</game>
+	<game name="actbass\Action Bass (Japan)" type="cd" sha1="7a1e24a72ab8ec06056e62ada7285ee885567c9d" size="74288594" crc="f5fb9848" fullsha1="faf9f588b57340bea2ba4dbb6237b035e14624f7" dataSha1="c6c922eca3db1332b57d90446ecaa5e5268371b7">
+		<category>Games</category>
+		<description>Action Bass (Japan)</description>
+		<year>1999</year>
+		<manufacturer>Syscom Entertainment</manufacturer>
+		<rom name="Action Bass (Japan) (Track 01).bin" size="169750896" crc="235db629" md5="eae7d4bbd94f06b5b1b1be13b2a8fd40" sha1="8526c226b1a47286ccdc1bbe9dc1569ab89b8990"/>
+	</game>
+	<game name="actbass\Action Bass (USA)" type="cd" sha1="79f0fe8b03c7f14e2544b5a212caf0ef0640a589" size="75124450" crc="1f7bdd4a" fullsha1="c05deccf73c1c73fbc15ca97d6133ea332fb8a14" dataSha1="f2c38287a7f8b8dab2ef49f9cbab4850f74f91e2">
 		<category>Games</category>
 		<description>Action Bass (USA)</description>
 		<year>2000</year>
-		<manufacturer>Take-Two Interactive Software</manufacturer>
-		<rom name="action bass (usa) (Track 01).bin" size="171900624" crc="6796d740" md5="c753a0dcdddc0af21fb71981e36235b4" sha1="dd12151ef5a9bb8bf6ef9d41d9847341e4dd44e1"/>
+		<manufacturer>Take-Two Interactive</manufacturer>
+		<rom name="Action Bass (USA) (Track 01).bin" size="171900624" crc="6796d740" md5="c753a0dcdddc0af21fb71981e36235b4" sha1="dd12151ef5a9bb8bf6ef9d41d9847341e4dd44e1"/>
 	</game>
 	<game name="actgolf2\Actua Golf 2 (Europe)" type="cd" sha1="1ba15e88997490465a5665e3038313e87a37b667" size="196427763" crc="b7cf8a04" fullsha1="356be2129a8aface3ca5a31e674d5642343431ae" dataSha1="89d92bde9d931110ec4adb2b903fc2ad871b7f31">
 		<category>Games</category>
@@ -763,12 +880,33 @@
 		<rom name="vr golf '97 (usa) (en,fr) (Track 01).bin" size="419105232" crc="c816e736" md5="4cb7ff4d98e1df235ed62e92a440d6a1" sha1="8aa5f26c1af3b3fe10ee1ed9273fc62a26c31818"/>
 		<rom name="vr golf '97 (usa) (en,fr) (Track 02).bin" size="33739440" crc="fc158847" md5="45f23389881019055973bb125c592e0d" sha1="5f9770ac55adb1563f1e001c5bfb51c51e63c3ce"/>
 	</game>
-	<game name="actionmn\action man - operation extreme (usa)" type="cd" sha1="78cc1491da7536e4d020edf065b719a84b7c9a4e" size="267894206" crc="acc77bf6" fullsha1="52170ed7d2390e094dbcd49ece3df8660dcd9a49" dataSha1="33fc1201afca3b0deca305ac0fc545bd1c69805f">
+	<game name="actionmn2\Action Man - Destruction X (Europe) (En,Fr,De,Es,It)" type="cd" sha1="661dcf2c121b17fad3e9f9774b39aa47537ae4af" size="220766011" crc="11bf88f4" fullsha1="832a7d1483837319b6527ddc42eed85c6f1b296b" dataSha1="c5e30fbeb3a444b77dc5321b11d9380edfddc0d3">
 		<category>Games</category>
-		<description>Action Man - Operation Extreme (USA)</description>
+		<description>Action Man - Destruction X (Europe)</description>
+		<year>2001</year>
+		<manufacturer>3DO / Hasbro Interactive</manufacturer>
+		<rom name="Action Man - Destruction X (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="506507904" crc="0c793c93" md5="2f2d50bafeef14c8d0664fd0d5fc06d3" sha1="cc050c5bcbac11040c657947ecc8ea45f555ebbe"/>
+	</game>
+	<game name="actionmn\Action Man - Mission Xtreme (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" type="cd" sha1="5301a26f8c85fd5ed391bffbc41a14b38b47e610" size="284688593" crc="5d19f0d1" fullsha1="6fd3474d4d93cb6c03d27bddd1b209141bac19fa" dataSha1="22ce4da7e4befadf0cc9a4d0663fbb74c16b5488">
+		<category>Games</category>
+		<description>Action Man - Mission Xtreme (Europe)</description>
 		<year>2000</year>
 		<manufacturer>Hasbro Interactive</manufacturer>
-		<rom name="action man - operation extreme (usa) (Track 01).bin" size="553089264" crc="9d4dbbcb" md5="8b0b65e5ea7c3431ab0bb7391c81118d" sha1="d0e4834cb0ee6aca998223c8068872972da1c869"/>
+		<rom name="Action Man - Mission Xtreme (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Track 01).bin" size="552705888" crc="01b94ff1" md5="6058af0724f16da02b72e562aa7c2a6d" sha1="3cc7c5994cd9af5c177f2b766449bee1e79d8e39"/>
+	</game>
+	<game name="actionmn\Action Man - Mission Xtreme (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (EDC)" type="cd" sha1="931e9b0adcf3be35ee7f29e21166dac2e38d5351" size="285911714" crc="b79e9b76" fullsha1="c6d8382e68d8dd830d435de2835a13c61f2e9fd1" dataSha1="571392291337c736ca471a32c062f66e8335c5a7">
+		<category>Games</category>
+		<description>Action Man - Mission Xtreme (Europe) (with EDC)</description>
+		<year>2000</year>
+		<manufacturer>Hasbro Interactive</manufacturer>
+		<rom name="Action Man - Mission Xtreme (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (EDC) (Track 01).bin" size="552705888" crc="34eedfb3" md5="8e7ca51f688b0e4fa9e2e36bb6a4e8d1" sha1="0b259a00da8ff2f7d3c3da7eb7954e2b30dd0730"/>
+	</game>
+	<game name="actionmn\Action Man - Operation Extreme (USA)" type="cd" sha1="9c7f5460ba61768eadb1a8b761bb3f33211d63ed" size="268996551" crc="15e11469" fullsha1="52170ed7d2390e094dbcd49ece3df8660dcd9a49" dataSha1="33fc1201afca3b0deca305ac0fc545bd1c69805f">
+		<category>Games</category>
+		<description>Action Man - Operation eXtreme (USA)</description>
+		<year>2000</year>
+		<manufacturer>Hasbro Interactive</manufacturer>
+		<rom name="Action Man - Operation Extreme (USA) (Track 01).bin" size="553089264" crc="9d4dbbcb" md5="8b0b65e5ea7c3431ab0bb7391c81118d" sha1="d0e4834cb0ee6aca998223c8068872972da1c869"/>
 	</game>
 	<game name="activcls\activision classics (usa)" type="cd" sha1="f4de9764beb2873d42a9f4b087551df76e0ba0bc" size="51018837" crc="af05f178" fullsha1="f522d2cd5bb210731f9fd688c83fd5831fe87eb2" dataSha1="59327be7027d82e7488b2569cfcd2dad188f5249">
 		<category>Games</category>
@@ -779,6 +917,14 @@
 		<rom name="activision classics (usa) (Track 02).bin" size="9574992" crc="7a6e0644" md5="07bbd510869e1afd21c1e9457c823189" sha1="7052de3ff3189282bd973e46e3d3868900b991c2"/>
 		<rom name="activision classics (usa) (Track 03).bin" size="32634000" crc="9d424890" md5="f0d4ed65fe41ebf99b2273a3914e3eb5" sha1="f7eded280c5d5db877b324693e424690d3f740ab"/>
 	</game>
+	<game name="adidas2\Adidas Power Soccer 2 (Europe) (En,Fr,De,Es,It,Nl)" type="cd" sha1="96adf3834d1df6b2fc71ebf7d798685df054573a" size="362306451" crc="7e4da615" fullsha1="f8cb7bbfccc88879e72d551406e9c1a9b543d131" dataSha1="7cec3af88a6a547628880eb92e9e17b8a602c8dc">
+		<category>Games</category>
+		<description>Adidas Power Soccer 2 (Europe)</description>
+		<year>1997</year>
+		<manufacturer>Psygnosis</manufacturer>
+		<rom name="Adidas Power Soccer 2 (Europe) (En,Fr,De,Es,It,Nl) (Track 01).bin" size="580892256" crc="da1723d5" md5="3e79ef23fc8ed0482207a90e00e60668" sha1="812a954b2d5bf402b52b29fa27d138d3d1cd61af"/>
+		<rom name="Adidas Power Soccer 2 (Europe) (En,Fr,De,Es,It,Nl) (Track 02).bin" size="33908784" crc="857edda8" md5="369ff3006396bbca8d9a1fb9cc125af9" sha1="28a06c34d53442f736fed283c086340d7c56321e"/>
+	</game>
 	<game name="adidas98\adidas power soccer 98 (usa)" type="cd" sha1="4fe29ecedd262c009bc701d9757429daea137694" size="491039787" crc="fb1bf468" fullsha1="83905694b8453323a7e22ab2115633d575effade" dataSha1="8d7fabb163779d14473037962df7b6e565bf53e4">
 		<category>Games</category>
 		<description>Adidas Power Soccer 98 (USA)</description>
@@ -786,15 +932,25 @@
 		<manufacturer>Psygnosis</manufacturer>
 		<rom name="adidas power soccer 98 (usa) (Track 01).bin" size="733318320" crc="4dc8ad62" md5="c26dc2863480d58e3eacd6207c411ece" sha1="60638c2f0a088a8e9ab66953e9a1931cacc4cf7d"/>
 	</game>
-	<game name="adidas\adidas power soccer (usa)" type="cd" sha1="f1f79db0f2483cb3617f62062ec4d136cfa7641f" size="275523437" crc="a3e19ff3" fullsha1="f62226496c6e15726bf6cc342b3f7d66a63044ed" dataSha1="4f6a5e48e960428b0f6f63248485715274e444d2">
+	<game name="adidas\Adidas Power Soccer (Europe) (En,Fr,De,Es,It)" type="cd" sha1="f91010ed44b5888acbd2e2ca668fddbd50a55353" size="273335746" crc="fc28c16e" fullsha1="e90c095ad2a72ae63f4fe36b38462b0e6ca6a90d" dataSha1="3d64458c11346f426438bb2dd9fcd5e62764ce07">
+		<category>Games</category>
+		<description>Adidas Power Soccer (Europe)</description>
+		<year>1996</year>
+		<manufacturer>Psygnosis</manufacturer>
+		<rom name="Adidas Power Soccer (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="516115824" crc="4d359eb9" md5="80cbdbca0590e193db0e18446fb757ec" sha1="20f8f17c2ea76da36da85402980568679f99170a"/>
+		<rom name="Adidas Power Soccer (Europe) (En,Fr,De,Es,It) (Track 02).bin" size="43770720" crc="1034724f" md5="f0498f8c17ed89f2d1aadf569ffe9bf7" sha1="c8bca8677c75c88c35d06f56e3996af4f879f82b"/>
+		<rom name="Adidas Power Soccer (Europe) (En,Fr,De,Es,It) (Track 03).bin" size="40101600" crc="945ffdc2" md5="13928b3a4ad2da3b0ebff049fe43d416" sha1="4b1a6e38c6353123b917d702cbd9adbb5357c875"/>
+		<rom name="Adidas Power Soccer (Europe) (En,Fr,De,Es,It) (Track 04).bin" size="33031488" crc="c0d56881" md5="999de73a72738177a7ad0e07a2e6e484" sha1="27cb5e362fac2d04f1a6004578b4d1ce4c369f88"/>
+	</game>
+	<game name="adidas\Adidas Power Soccer (USA)" type="cd" sha1="110d8bc5e22ad44e790e1cafd0b8cd677c77b16f" size="275179588" crc="2ccf8b42" fullsha1="f62226496c6e15726bf6cc342b3f7d66a63044ed" dataSha1="4f6a5e48e960428b0f6f63248485715274e444d2">
 		<category>Games</category>
 		<description>Adidas Power Soccer (USA)</description>
 		<year>1996</year>
 		<manufacturer>Psygnosis</manufacturer>
-		<rom name="adidas power soccer (usa) (Track 01).bin" size="515506656" crc="86794679" md5="63d2fac7b267a1527b7d1ecf641a7ffb" sha1="bd8755ef1b00c18b417394b84ca28b5a51967c95"/>
-		<rom name="adidas power soccer (usa) (Track 02).bin" size="43770720" crc="38238ea6" md5="3966d974f6f0d68028d7c4801606f73b" sha1="265db818f73c0995aa1217e80b3b3c3139db0428"/>
-		<rom name="adidas power soccer (usa) (Track 03).bin" size="40101600" crc="2cda2396" md5="3d6a34ed2d682e9fb19d567329314dad" sha1="6aaa1766442e02289fb58918559c89f08ed31cdc"/>
-		<rom name="adidas power soccer (usa) (Track 04).bin" size="33031488" crc="4268c7d2" md5="5c2102a3b33775e20fde70ed59f6c2a0" sha1="4bcb9a6dbefca660d907aa241352b1a237b0d110"/>
+		<rom name="Adidas Power Soccer (USA) (Track 01).bin" size="515506656" crc="86794679" md5="63d2fac7b267a1527b7d1ecf641a7ffb" sha1="bd8755ef1b00c18b417394b84ca28b5a51967c95"/>
+		<rom name="Adidas Power Soccer (USA) (Track 02).bin" size="43770720" crc="38238ea6" md5="3966d974f6f0d68028d7c4801606f73b" sha1="265db818f73c0995aa1217e80b3b3c3139db0428"/>
+		<rom name="Adidas Power Soccer (USA) (Track 03).bin" size="40101600" crc="2cda2396" md5="3d6a34ed2d682e9fb19d567329314dad" sha1="6aaa1766442e02289fb58918559c89f08ed31cdc"/>
+		<rom name="Adidas Power Soccer (USA) (Track 04).bin" size="33031488" crc="4268c7d2" md5="5c2102a3b33775e20fde70ed59f6c2a0" sha1="4bcb9a6dbefca660d907aa241352b1a237b0d110"/>
 	</game>
 	<game name="adlibouj\ad lib ouji... to fuyukai na nakamatachi (japan) [slps-03510]" type="cd" sha1="0b7eb231ee52bcea4e7adea0365c36eb1e50540d" size="30881739" crc="1e092c2e" fullsha1="1a071e3839c999ad9ddd83ae839c8a3ca455f069" dataSha1="50ce81c4d936e1b6c6d86bf427c0ad1d97601e93">
 		<category>Games</category>
@@ -811,6 +967,14 @@
 		<manufacturer>Atlus</manufacturer>
 		<rom name="advan racing (japan) [slps-01689] (Track 01).bin" size="565898256" crc="2663d852" md5="7e33081b3efc4e78f9a890c31018c65e" sha1="651124fa56238f2f9504ccb9924e2ccb3d7c4646"/>
 		<rom name="advan racing (japan) [slps-01689] (Track 02).bin" size="33657120" crc="ba904e85" md5="c5a418e3033bfeb8378fe7fb57ddd1fd" sha1="11ab3b1eed7f08622bbf0dc33bb676f12da9fbfd"/>
+	</game>
+	<game name="afl99\AFL 99 (Australia)" type="cd" sha1="88efdd4f7bd2678fe5577a0b61abc610da245a3c" size="151355842" crc="b74e1e7f" fullsha1="f4a6fb58cfde4b9cdfb67ca44fdf561fbf67c824" dataSha1="67fb845001c0cd9f638fcdb1895d682f1800a569">
+		<category>Games</category>
+		<description>AFL '99 (Australia)</description>
+		<year>1996</year>
+		<manufacturer>Electronic Arts</manufacturer>
+		<rom name="AFL 99 (Australia) (Track 01).bin" size="338015328" crc="fc2a5352" md5="3d9d81e715245776fbae281cb6dcf33f" sha1="12aa2564f32874b3054b67b7fb62999794875b64"/>
+		<rom name="AFL 99 (Australia) (Track 02).bin" size="33508944" crc="82ccd767" md5="308db86e70bdb4192f6c3603a9451a45" sha1="26cd8247c03111249119495f64923196f85bc74e"/>
 	</game>
 	<game name="afragean\afraid gear another (japan) [slpm-86834]" type="cd" sha1="69ad7ff7fbf90e8f5feb0ec52378fca075217823" size="111161575" crc="55cd3cca" fullsha1="65b14cba1c23e14526cd4c0e8a6e31259d4d1832" dataSha1="2433cd02edc234d4335cc0f31cbd80d374c3e94b">
 		<category>Games</category>
@@ -976,7 +1140,7 @@
 	</game>
 	<game name="aircombt\Air Combat (Europe) (EDC)" type="gd" sha1="a619d5d441ad94cf3e683b7e8574635827b84f0d" size="340728777" crc="b73a5b04" fullsha1="850c846a275f1183d9afd6b1ff537c5f4e5b9730" dataSha1="88f7280d468a2edacb3c5da70ae127604db27df6">
 		<category>Games</category>
-		<description>Air Combat (Europe) (EDC)</description>
+		<description>Air Combat (Europe) (with EDC)</description>
 		<year>1995</year>
 		<manufacturer>Namco</manufacturer>
 		<rom name="Air Combat (Europe) (EDC) (Track 01).bin" size="106968960" crc="41d03f71" md5="a99723acc80a3f0605e36e787f3cc230" sha1="ee99101b8468966919169fe1172c032397761c49"/>
@@ -1152,6 +1316,14 @@
 		<year>2002</year>
 		<manufacturer>Mud Duck Productions</manufacturer>
 		<rom name="air hockey (usa) (Track 01).bin" size="157318224" crc="b453fcb9" md5="1c59e1f2da1d09a495f04541225ec705" sha1="4cdba4e968f03fe26ebe57d4cc02186ddccab64f"/>
+	</game>
+	<game name="airracec\AirRace Championship (Japan)" type="cd" sha1="b26b7a38b5331698281c5e035997612f9e99ba04" size="329445347" crc="8de8dbe4" fullsha1="74f6d9150d6ab868c55db706f115fe56a77ebfb8" dataSha1="ecf6a698fc0c7a6047921156193638e39a0333a0">
+		<category>Games</category>
+		<description>AirRace Championship (Japan)</description>
+		<year>1999</year>
+		<manufacturer>Xing Entertainment</manufacturer>
+		<rom name="AirRace Championship (Japan) (Track 01).bin" size="582985536" crc="0b749aa9" md5="e39df2396cf2f38158e044de972dfa4a" sha1="c651e847f69edf2c4fbeb8a32577d27ce34e6077"/>
+		<rom name="AirRace Championship (Japan) (Track 02).bin" size="2020368" crc="2896211e" md5="291ded87e676b1217d72ecd41334b1c7" sha1="ba97d343824bf559953d1fc0a6c868aedcbe29d4"/>
 	</game>
 	<game name="airs\airs, the (japan) [slps-01916]" type="cd" sha1="8589ed0ca88d155fdd322098151c513becf07f35" size="450325580" crc="f6712713" fullsha1="b8b9e8ee345a8155178f5d4eb46f01f18a9e769d" dataSha1="75143dda2f888b56b034492e8a7de057f94ed302">
 		<category>Games</category>
@@ -1478,6 +1650,13 @@
 		<year>1998</year>
 		<manufacturer>To One</manufacturer>
 		<rom name="annanjarin (japan) [slps-01424] (Track 01).bin" size="294616224" crc="9b6bf38a" md5="d065153dec2a63eb99fbb5dcd9441df2" sha1="06d8f8f33f6aaa8592e8e6d75e081334bcf8182b"/>
+	</game>
+	<game name="anastasia\Anastasia (Europe) (En,Fr,De,Nl)" type="cd" sha1="1e07c756a5caaf800da5fa8f2b031866b3288201" size="348840149" crc="01bfc48c" fullsha1="fbefa124869a040d653301ee7ebc08d75e5e537d" dataSha1="42fdef9f0b4462f772b6066c90572b746e1a8ae5">
+		<category>Games</category>
+		<description>Anastasia (Europe)</description>
+		<year>2001</year>
+		<manufacturer>Midas Interactive</manufacturer>
+		<rom name="Anastasia (Europe) (En,Fr,De,Nl) (Track 01).bin" size="512759520" crc="30735008" md5="47054110dd3aa772e4e2a6030b1a1665" sha1="70afcc8eb81584ac18d52f08a77f63e803cd822d"/>
 	</game>
 	<game name="ancroman\ancient roman - power of dark side (japan) (disc 1) [slps-01108]" type="cd" sha1="e1337a846bbec84e4641633833fc6d3d4c2bca5f" size="211977153" crc="4a302a6d" fullsha1="b17cd35b4a711c049f5df745895f57ce6609e74a" dataSha1="99c8175ac9429bd7b37a427d4cb3e9147005e6c2">
 		<category>Games</category>
@@ -16275,7 +16454,7 @@
 	</game>
 	<game name="micromc3\micro machines v3 (europe) (en,fr,de,es,it) (edc)" type="cd" sha1="5ecb645269397e302b2c752feaf83cb2ae021011" size="225493205" crc="de7cfb34" fullsha1="c70cc67aec0f81632cd785a0bfac087073fe8257" dataSha1="795e32a4d2aee4ffc1f712dc5cf226272b908511">
 		<category>Games</category>
-		<description>Micro Machines V3 (Europe, EDC)</description>
+		<description>Micro Machines V3 (Europe) (with EDC)</description>
 		<year>1997</year>
 		<manufacturer>The Codemasters Software Company</manufacturer>
 		<rom name="micro machines v3 (europe) (en,fr,de,es,it) (edc) (Track 01).bin" size="674461872" crc="67c01d70" md5="e7d75f2477ab7f976f665fce7dea3f66" sha1="198ecff2910c4e16678b0d50d08db90b8b67ce0c"/>
@@ -19774,7 +19953,7 @@
 	</game>
 	<game name="opm43\official u.s. playstation magazine demo disc 43 (usa) (edc)" type="cd" sha1="fa03f16998f1e9c59b3ad62791fabe9b52137d5a" size="145145234" crc="7f8b17a2" fullsha1="3ae6dbb8ce91a6d2cce4ec558131a8ee3f25b7e1" dataSha1="f84f4d6682a2e6a3d5ca38785ca966cbdc5a7a4b">
 		<category>Games</category>
-		<description>Official U.S. PlayStation Magazine Demo Disc 43 (USA, EDC)</description>
+		<description>Official U.S. PlayStation Magazine Demo Disc 43 (USA) (with EDC)</description>
 		<year>2001</year>
 		<manufacturer>Sony Computer Entertainment America</manufacturer>
 		<rom name="official u.s. playstation magazine demo disc 43 (usa) (edc) (Track 01).bin" size="240663696" crc="50b6da62" md5="eb540b52ced6cf06c085d3217024b2d4" sha1="dc7f72fd0ec8194f3d04d98fc8cdba1a3048962b"/>
@@ -19786,7 +19965,7 @@
 	</game>
 	<game name="opm43\official u.s. playstation magazine demo disc 43 (usa) (no edc)" type="cd" sha1="cacc8695011fd89c8ae4e7ece448917b7ffd1dca" size="145027198" crc="8dd8282b" fullsha1="5bb7f32577b47a5ae69dcb772ad720a3a3e1e2c4" dataSha1="03259bf52e2fbc52e6829d2b75ae974546c97c47">
 		<category>Games</category>
-		<description>Official U.S. PlayStation Magazine Demo Disc 43 (USA, No EDC)</description>
+		<description>Official U.S. PlayStation Magazine Demo Disc 43 (USA) (no EDC)</description>
 		<year>2001</year>
 		<manufacturer>Sony Computer Entertainment America</manufacturer>
 		<rom name="official u.s. playstation magazine demo disc 43 (usa) (no edc) (Track 01).bin" size="240663696" crc="15ce36f6" md5="84ff948990040ed42ee48b8f4edf4feb" sha1="d6dfe13443e3542f8b4d23f5eef9224e8b1753e5"/>

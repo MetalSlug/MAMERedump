@@ -4,7 +4,7 @@
 	<header>
 		<name>Sony - PlayStation Portable</name>
 		<description>Sony - PlayStation Portable</description>
-		<version>0.278</version>
+		<version>0.279</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -9984,6 +9984,11 @@
 		<description>Ninja Katsugeki - Tenchu - Kurenai Portable (Japan)</description>
 		<rom name="Ninja Katsugeki - Tenchu - Kurenai Portable (Japan).bin" size="1283227648" crc="1699b4fd" md5="cc8d5b4a92e06b5bff36f58a1afaae15" sha1="045787af8164f7e128a48ed093d79582a4d3c567"/>
 	</game>
+	<game name="Ninja Katsugeki - Tenchu San Portable (Japan)" type="dvd" sha1="8db4b69a228e98419b9f9c81739d09efc64513ef" size="1007758173" crc="5acd2b92" fullsha1="1bf6a091ecc7b54053240f454c32f10a95072778" dataSha1="0d356380e0fbf4d7aa8a06c26ac7b8c75b47f758">
+		<category>Games</category>
+		<description>Ninja Katsugeki - Tenchu San Portable (Japan)</description>
+		<rom name="Ninja Katsugeki - Tenchu San Portable (Japan).bin" size="1583284224" crc="6c97fbb7" md5="beb41afbe817bfc9230f2fc4d4a5d879" sha1="0d356380e0fbf4d7aa8a06c26ac7b8c75b47f758"/>
+	</game>
 	<game name="Nippon no Asoko de (Japan)" type="dvd" sha1="9a1e19e70f3574a55897945fcd5a014d2dc5df89" size="603306737" crc="c53f903c" fullsha1="6379a2242c44f6a23f91f34ee7c6202f98339b09" dataSha1="3984fbb2e1c835eb70cde5ae91042411b57f120f">
 		<category>Games</category>
 		<description>Nippon no Asoko de (Japan)</description>
@@ -11593,6 +11598,11 @@
 		<category>Games</category>
 		<description>Resistance - Retribution (USA) (En,Fr,Es)</description>
 		<rom name="Resistance - Retribution (USA) (En,Fr,Es).bin" size="1669726208" crc="45a3bb4b" md5="0a6c4fc815b8f77ba5d75382dab0eec0" sha1="5ea217aeedb537cf944581029796515737c270de"/>
+	</game>
+	<game name="Retail Sampler No. 3 for PSP (Europe)" type="dvd" sha1="5353e3a1966ff048e6e1d861a51c43f8142914ac" size="357271381" crc="eb0e42a5" fullsha1="5fc8349947424564392412c0f59c53bc2c7b52af" dataSha1="4b073c9493cda3c1e6934d0f270761dc27f3a4e5">
+		<category>Games</category>
+		<description>Retail Sampler No. 3 for PSP (Europe)</description>
+		<rom name="Retail Sampler No. 3 for PSP (Europe).bin" size="507510784" crc="81bb2dfa" md5="a4b42d29ed28776dafd87d70c76e89a2" sha1="4b073c9493cda3c1e6934d0f270761dc27f3a4e5"/>
 	</game>
 	<game name="Retail Sampler No. 4 (Europe) (v1.00)" type="dvd" sha1="281077b4dc291a76099e90fcb3156be4f0ae0153" size="1117162426" crc="39019c31" fullsha1="00f3e396af2224450f43814ed826146766ec84d6" dataSha1="6d2bc53fa12151f3f4082c687d5977870c5eef64">
 		<category>Games</category>
