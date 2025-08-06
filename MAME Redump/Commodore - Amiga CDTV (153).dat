@@ -341,7 +341,7 @@
 	<machine name="Turrican (Germany)">
 		<category>Games</category>
 		<description>Turrican (Germany)</description>
-		<year>1991</year>
+		<year>1992</year>
 		<manufacturer>Rainbow Arts</manufacturer>
 		<disk name="Turrican (Germany).chd" sha1="48c9423f28ed9b0bae866844c8647321612450e0" />
 	</machine>
@@ -758,6 +758,12 @@
 		<manufacturer>Virgin Multimedia</manufacturer>
 		<disk name="northpol\north polar expedition (1992)(virgin multimedia).chd" sha1="3373de60a4421058748616b90d5ec9a489b35045" />
 	</machine>
+	<machine name="pandora\pandoras_cd">
+		<description>Pandora's CD v1.0</description>
+		<year>1993</year>
+		<manufacturer>Optonica</manufacturer>
+		<disk name="pandora\pandoras_cd.chd" sha1="4a3b76e246bcc245053be1415ac26e7feab3c1aa" />
+	</machine>
 	<machine name="paperbag\paper bag princess, the (1992)(discis)(m5)[cdrm-734700 3]">
 		<description>The Paper Bag Princess</description>
 		<year>1991</year>
@@ -871,6 +877,18 @@
 		<year>1991</year>
 		<manufacturer>Xïphias</manufacturer>
 		<disk name="ttohsci\time table of history - science and innovation - 1991a edition (1991)(xiphias).chd" sha1="17b7c982a74fd4b58aaafd0411170652e17a4771" />
+	</machine>
+	<machine name="turrican\turrican">
+		<description>Turrican</description>
+		<year>1991</year>
+		<manufacturer>Rainbow Arts</manufacturer>
+		<disk name="turrican\turrican.chd" sha1="48c9423f28ed9b0bae866844c8647321612450e0" />
+	</machine>
+	<machine name="turricn2\turrican2">
+		<description>Turrican II: The Final Fight</description>
+		<year>1991</year>
+		<manufacturer>Rainbow Arts</manufacturer>
+		<disk name="turricn2\turrican2.chd" sha1="940d854e943f3c0db3a61168f12b52a029056047" />
 	</machine>
 	<machine name="ultbball\ultimate basketball (1991)(context systems)">
 		<description>Ultimate Basketball</description>
