@@ -5,7 +5,7 @@
 		<name>Apple - Macintosh</name>
 		<description>MAME Redump - Apple - Macintosh - Discs (1255) (2025-07-10 18-49-12)</description>
 		<version>0.279</version>
-		<date>2025-08-06</date>
+		<date>2025-08-08</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -519,12 +519,6 @@
 		<rom name="MacPeople 1998 No. 12 6.15 (Japan).cue" size="100" crc="E6607415" md5="8CD33084132DCAE29E32BA608BF59426" sha1="85E577E746D34B6B1DA759BE9025CC5B9F838270" />
 		<rom name="MacPeople 1998 No. 12 6.15 (Japan).bin" size="753364416" crc="C66B4D11" md5="AABABDF56FDA3411CD762901DD06706C" sha1="CAA4FEEA11F71BCCB3FB2B69E21B0332C41B2994" />
 	</game>
-	<game name="MacPeople 1998 No. 18 9.15 (Japan)" type="">
-		<category>Coverdiscs</category>
-		<description>MacPeople 1998 No. 18 9.15 (Japan)</description>
-		<rom name="MacPeople 1998 No. 18 9.15 (Japan).cue" size="100" crc="28EA9A37" md5="8576671B36D895D1A89B1AC2926B3922" sha1="6CA805466215B55BABC713F9F76AB85D1E16E373" />
-		<rom name="MacPeople 1998 No. 18 9.15 (Japan).bin" size="756925344" crc="BD99E43A" md5="DEA4AE7EC06BB85143DA69C91BB6F493" sha1="B2FD5BA5154A93B6154B82599B53566E3652A901" />
-	</game>
 	<game name="MacPeople 1998 No. 20 10.15 (Japan)" type="">
 		<category>Coverdiscs</category>
 		<description>MacPeople 1998 No. 20 10.15 (Japan)</description>
@@ -593,12 +587,6 @@
 		<description>Maniac Mansion - Day of the Tentacle (France)</description>
 		<rom name="Maniac Mansion - Day of the Tentacle (France).cue" size="134" crc="74B93BFD" md5="152E2C01B0ACB444DB44B987BB6445F6" sha1="00F408269726203EA33B4DDA6526FCBA75DBDCB6" />
 		<rom name="Maniac Mansion - Day of the Tentacle (France).bin" size="567196560" crc="B784DA91" md5="6A59B70F100899243C9585A485452AA9" sha1="63742A000821804E6698F41DE17B51FF353661ED" />
-	</game>
-	<game name="Marathon Trilogy - Map Collection (USA)" type="">
-		<category>Bonus Discs</category>
-		<description>Marathon Trilogy - Map Collection (USA)</description>
-		<rom name="Marathon Trilogy - Map Collection (USA).cue" size="105" crc="AFEE2149" md5="FDE5F00FCCCDCEF09AD4CC86A82408FB" sha1="C271AAC6BF42B2320A7E252787BD179C3BE03B73" />
-		<rom name="Marathon Trilogy - Map Collection (USA).bin" size="779316384" crc="5AA51F81" md5="CEE18B3796B81C1046A01F65DFC8D7EE" sha1="A94C77768201128F137404788E638376AC6D0A59" />
 	</game>
 	<game name="Medicom Vol. 1 (Japan)" type="">
 		<category>Multimedia</category>
@@ -801,30 +789,6 @@
 		<rom name="Safecracker (USA, Canada) (Rerelease).cue" size="103" crc="7CFE8F4F" md5="683FAB0CFB53E85E59013053400E7514" sha1="E8246D59429CDB6624F372FAEC7326D092DC5B23" />
 		<rom name="Safecracker (USA, Canada) (Rerelease).bin" size="695244144" crc="7B1383C0" md5="5916835ECF598F45C663768333A313E0" sha1="89FCDCDF926208C79165A1496B6968B9F8E7AEAE" />
 	</game>
-	<game name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc A)" type="">
-		<category>Games</category>
-		<description>Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc A)</description>
-		<rom name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc A).cue" size="152" crc="83962583" md5="952F22911CF4F17DC1CB68A88D8D8352" sha1="6CADC34DA1729BB9710C3164D16A5AE21D08EEDD" />
-		<rom name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc A).bin" size="684980016" crc="AD426FF3" md5="AB3217A65B7C62050895BEAF8CE0866D" sha1="99B494A763447F4CF74C7D8FE7C3B96A72224154" />
-	</game>
-	<game name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc B)" type="">
-		<category>Games</category>
-		<description>Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc B)</description>
-		<rom name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc B).cue" size="129" crc="1BDD6E9F" md5="0E27E88CFF4733E211BA7F5F44D28D68" sha1="0E45A74F7F1246BC766B5FB90C468F37B00E0E5C" />
-		<rom name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc B).bin" size="714685776" crc="62F3BE9F" md5="D3AE8B7B76850AE40E7AE8A3862A428C" sha1="A74F35D7159A4394037FD4CE0F48319C99BD4F0B" />
-	</game>
-	<game name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc C)" type="">
-		<category>Games</category>
-		<description>Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc C)</description>
-		<rom name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc C).cue" size="152" crc="34D0E322" md5="1F3F5E285DA9E317FBD40E93BBE73F1E" sha1="76DD20F2A0C4CFD0A6EBD507E6AA6EC7F96E0959" />
-		<rom name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc C).bin" size="737500176" crc="D5892273" md5="4F60A5410522E334A4C4CFD55FF1876D" sha1="0E507666537D839A07DD9E9335590934664B96EA" />
-	</game>
-	<game name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc D)" type="">
-		<category>Games</category>
-		<description>Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc D)</description>
-		<rom name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc D).cue" size="152" crc="80714EF0" md5="CB119FB3F90A141B0FE0A8419DE0C958" sha1="C0C577918A68D2DF39E0A7C3F72B827CB8D955EE" />
-		<rom name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc D).bin" size="643478976" crc="62B25BCF" md5="1E33A6A356D5027CCAC7CAC9C1AC7A54" sha1="B12E58230563BECFF41839B619FBC19AA2C9F86A" />
-	</game>
 	<game name="SimTown (Japan)" type="">
 		<category>Games</category>
 		<description>SimTown (Japan)</description>
@@ -836,12 +800,6 @@
 		<description>Sinkha (USA)</description>
 		<rom name="Sinkha (USA).cue" size="101" crc="6EBF8BF8" md5="477301A8A2FD953660E18D98BFF6BF47" sha1="E289B9A68CBA84F323E7766D0F159720CDB600B1" />
 		<rom name="Sinkha (USA).bin" size="602471856" crc="5B347810" md5="596FA9A2884B3E36A9FF4FD847C44AF5" sha1="7BBD2914E0DCF0DA780D7CCB7B7DB4DDA5753DFD" />
-	</game>
-	<game name="Star Trek - 25th Anniversary Enhanced CD-ROM (Japan)" type="">
-		<category>Games</category>
-		<description>Star Trek - 25th Anniversary Enhanced CD-ROM (Japan)</description>
-		<rom name="Star Trek - 25th Anniversary Enhanced CD-ROM (Japan).cue" size="141" crc="0A3F3376" md5="0BC6C70ED99AEFA448EBFCE708FEDD9D" sha1="134048F1692AE7861872B8566EAF1048B3D24E37" />
-		<rom name="Star Trek - 25th Anniversary Enhanced CD-ROM (Japan).bin" size="714586992" crc="87ADA810" md5="5B5D5325B2CB031D8864D5E847639C74" sha1="19DFE80BE58606B0AD9DCE18E8DB3ABC27B103BF" />
 	</game>
 	<game name="Star Wars - Rebel Assault (Europe)" type="">
 		<category>Games</category>

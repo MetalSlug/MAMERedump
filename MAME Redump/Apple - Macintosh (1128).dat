@@ -5,7 +5,7 @@
 		<name>Apple - Macintosh</name>
 		<description>MAME Redump - Apple - Macintosh - Discs (1255) (2025-07-10 18-49-12)</description>
 		<version>0.279</version>
-		<date>2025-08-06</date>
+		<date>2025-08-08</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -3189,6 +3189,11 @@
 		<description>MacPeople 1998 No. 16 8.15-9.1 (Japan)</description>
 		<disk name="MacPeople 1998 No. 16 8.15-9.1 (Japan).chd" sha1="36eceeb73292c75233f269e7631badd321e61014" />
 	</machine>
+	<machine name="MacPeople 1998 No. 18 9.15 (Japan)">
+		<category>Coverdiscs</category>
+		<description>MacPeople 1998 No. 18 9.15 (Japan)</description>
+		<disk name="MacPeople 1998 No. 18 9.15 (Japan).chd" sha1="6b5bf30a0c6ce48dff102d613fa854cf44dfbfaa" />
+	</machine>
 	<machine name="MacPeople 1998 No. 19 10.1 (Japan)">
 		<category>Coverdiscs</category>
 		<description>MacPeople 1998 No. 19 10.1 (Japan)</description>
@@ -3508,6 +3513,11 @@
 		<category>Games</category>
 		<description>Marathon Infinity (USA) (v1.2)</description>
 		<disk name="Marathon Infinity (USA) (v1.2).chd" sha1="6b37ddebbf8bfd388f7754944db7085819a71f1f" />
+	</machine>
+	<machine name="Marathon Trilogy - Map Collection (USA)">
+		<category>Bonus Discs</category>
+		<description>Marathon Trilogy - Map Collection (USA)</description>
+		<disk name="Marathon Trilogy - Map Collection (USA).chd" sha1="3044ea1cb156cc2c3be503c0e1ae9c1979445077" />
 	</machine>
 	<machine name="Marathon Trilogy (USA)">
 		<category>Games</category>
@@ -4464,6 +4474,26 @@
 		<description>Sherlock Holmes - Consulting Detective - Vol. III (USA)</description>
 		<disk name="Sherlock Holmes - Consulting Detective - Vol. III (USA).chd" sha1="8cee604e23f670b0747db151b4a7bfd24b35b551" />
 	</machine>
+	<machine name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc A)">
+		<category>Games</category>
+		<description>Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc A)</description>
+		<disk name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc A).chd" sha1="a62c0be24b8f39329a3113c9671b1de6aa7b9d3e" />
+	</machine>
+	<machine name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc B)">
+		<category>Games</category>
+		<description>Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc B)</description>
+		<disk name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc B).chd" sha1="afeb7bb4ab132fe25598aed1e5fc7d82ba7b5a8c" />
+	</machine>
+	<machine name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc C)">
+		<category>Games</category>
+		<description>Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc C)</description>
+		<disk name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc C).chd" sha1="5ecc5ff5fe4b8b0b9be494024f380a65252c4fe1" />
+	</machine>
+	<machine name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc D)">
+		<category>Games</category>
+		<description>Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc D)</description>
+		<disk name="Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc D).chd" sha1="e4aa215b56204d629ed26a581be9850bc0549185" />
+	</machine>
 	<machine name="Shrek 2 (USA)">
 		<category>Games</category>
 		<description>Shrek 2 (USA)</description>
@@ -4803,6 +4833,11 @@
 		<category>Games</category>
 		<description>Star Fighter (USA)</description>
 		<disk name="Star Fighter (USA).chd" sha1="a56b5b357a840cf9befc76e9f98a6c9a179f9784" />
+	</machine>
+	<machine name="Star Trek - 25th Anniversary Enhanced CD-ROM (Japan)">
+		<category>Games</category>
+		<description>Star Trek - 25th Anniversary Enhanced CD-ROM (Japan)</description>
+		<disk name="Star Trek - 25th Anniversary Enhanced CD-ROM (Japan).chd" sha1="7fe81f9f42d50cf396923d420eba1342c9278bca" />
 	</machine>
 	<machine name="Star Trek - Elite Force II (USA) (Disc 1)">
 		<category>Games</category>
