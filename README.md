@@ -122,10 +122,10 @@ Sega - Saturn|2025-07-22|4422|2|1 TB|saturn|132 GB
 Sony - PlayStation 2|2025-07-22|11564|126|15 TB||
 ~~Sony - PlayStation 3~~|2025-01-20|0|4418|||
 Sony - PlayStation Portable|2025-07-21|3199|9|2 TB||
-**Sony - PlayStation**|2025-07-20|11672|0|3 TB|psx|570 GB
+**Sony - PlayStation**|2025-07-20|11671|0|3 TB|psx|570 GB
 **TAB-Austria - Quizard**|2023-09-13|15|0|4 GB||
 **Tomy - Kiss-Site**|2024-07-11|30|0|3 GB|kisssite_cd|3 GB
 VM Labs - NUON|2025-01-23|9|2|8 GB|nuon|6 GB
 **VTech - V.Flash & V.Smile Pro**|2025-04-09|51|0|9 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2024-02-02|16|0|50 GB||
-Total||86619|27299|72 TB||1 TB
+Total||86618|27299|72 TB||1 TB
