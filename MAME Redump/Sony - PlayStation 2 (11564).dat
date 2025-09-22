@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2</name>
-		<description>MAME Redump - Sony - PlayStation 2 - Discs (11690) (2025-07-22 05-58-32)</description>
+		<description>MAME Redump - Sony - PlayStation 2 - Discs (11700) (2025-09-22 11-00-45)</description>
 		<version>0.279</version>
-		<date>2025-08-06</date>
+		<date>2025-09-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -1354,10 +1354,10 @@
 		<description>Akagi - Yami ni Oritatta Tensai (Japan)</description>
 		<disk name="Akagi - Yami ni Oritatta Tensai (Japan).chd" sha1="a4044ab4c01d5cea4a2be02ee1a319c1d603856c" />
 	</machine>
-	<machine name="Akane-iro ni Somaru Saka - Parallel (Japan)">
+	<machine name="Akaneiro ni Somaru Saka - Parallel (Japan)">
 		<category>Games</category>
-		<description>Akane-iro ni Somaru Saka - Parallel (Japan)</description>
-		<disk name="Akane-iro ni Somaru Saka - Parallel (Japan).chd" sha1="6c6075eab1d8ee425b9d0e7284b38e1c7712cc1c" />
+		<description>Akaneiro ni Somaru Saka - Parallel (Japan)</description>
+		<disk name="Akaneiro ni Somaru Saka - Parallel (Japan).chd" sha1="6c6075eab1d8ee425b9d0e7284b38e1c7712cc1c" />
 	</machine>
 	<machine name="Akira Psycho Ball (Europe)">
 		<category>Games</category>
@@ -3269,11 +3269,6 @@
 		<description>Band Hero (USA) (En,Fr)</description>
 		<disk name="Band Hero (USA) (En,Fr).chd" sha1="736d36e5d43bd08d40fe2c7e6296d24d18e791a8" />
 	</machine>
-	<machine name="Bansuk Yeongung vs. 3D (Korea)">
-		<category>Games</category>
-		<description>Bansuk Yeongung vs. 3D (Korea)</description>
-		<disk name="Bansuk Yeongung vs. 3D (Korea).chd" sha1="37d4c9924a114938dba2b234e0d13e03e7960dfe" />
-	</machine>
 	<machine name="Baphomets Fluch - Der Schlafende Drache (Germany)">
 		<category>Games</category>
 		<description>Baphomets Fluch - Der Schlafende Drache (Germany)</description>
@@ -4993,6 +4988,11 @@
 		<category>Games</category>
 		<description>Bujingai (Japan, Asia)</description>
 		<disk name="Bujingai (Japan, Asia).chd" sha1="81d362852559b844dcf6f8f92203b1f2272f991b" />
+	</machine>
+	<machine name="Bujingai (Korea)">
+		<category>Games</category>
+		<description>Bujingai (Korea)</description>
+		<disk name="Bujingai (Korea).chd" sha1="07dbe7f0b980b355a6be0b1fddae1e0be338305a" />
 	</machine>
 	<machine name="Bully (Japan)">
 		<category>Games</category>
@@ -8229,15 +8229,15 @@
 		<description>Da Vinci Code, The (USA) (En,Fr,Es)</description>
 		<disk name="Da Vinci Code, The (USA) (En,Fr,Es).chd" sha1="5773855245f807071ab9a695de96ac64101144f3" />
 	</machine>
-	<machine name="Dabi Tsuku 3 - Derby-ba o Tsukurou! (Japan)">
+	<machine name="Dabitsuku 3 - Derby-ba o Tsukurou! (Japan)">
 		<category>Games</category>
-		<description>Dabi Tsuku 3 - Derby-ba o Tsukurou! (Japan)</description>
-		<disk name="Dabi Tsuku 3 - Derby-ba o Tsukurou! (Japan).chd" sha1="e1d1b8836476fcf5e621d95760ee440eebc59506" />
+		<description>Dabitsuku 3 - Derby-ba o Tsukurou! (Japan)</description>
+		<disk name="Dabitsuku 3 - Derby-ba o Tsukurou! (Japan).chd" sha1="e1d1b8836476fcf5e621d95760ee440eebc59506" />
 	</machine>
-	<machine name="Dabi Tsuku 4 - Derby-ba o Tsukurou! (Japan)">
+	<machine name="Dabitsuku 4 - Derby-ba o Tsukurou! (Japan)">
 		<category>Games</category>
-		<description>Dabi Tsuku 4 - Derby-ba o Tsukurou! (Japan)</description>
-		<disk name="Dabi Tsuku 4 - Derby-ba o Tsukurou! (Japan).chd" sha1="b4343481d7817fa02f5eb311eb48a99861223b3f" />
+		<description>Dabitsuku 4 - Derby-ba o Tsukurou! (Japan)</description>
+		<disk name="Dabitsuku 4 - Derby-ba o Tsukurou! (Japan).chd" sha1="b4343481d7817fa02f5eb311eb48a99861223b3f" />
 	</machine>
 	<machine name="Daemon Summoner (Europe)">
 		<category>Games</category>
@@ -8249,20 +8249,20 @@
 		<description>Dai Senryaku VII - Modern Military Tactics Exceed (USA)</description>
 		<disk name="Dai Senryaku VII - Modern Military Tactics Exceed (USA).chd" sha1="1662bf31f605bd91164471252091a82e9d94e169" />
 	</machine>
-	<machine name="Dai-2-Ji Super Robot Taisen Alpha (Japan)">
+	<machine name="Dai-2-ji Super Robot Taisen Alpha (Japan)">
 		<category>Games</category>
-		<description>Dai-2-Ji Super Robot Taisen Alpha (Japan)</description>
-		<disk name="Dai-2-Ji Super Robot Taisen Alpha (Japan).chd" sha1="8329deab8c213ef7f73a70679bc0aab2e128dba0" />
+		<description>Dai-2-ji Super Robot Taisen Alpha (Japan)</description>
+		<disk name="Dai-2-ji Super Robot Taisen Alpha (Japan).chd" sha1="8329deab8c213ef7f73a70679bc0aab2e128dba0" />
 	</machine>
-	<machine name="Dai-2-Ji Super Robot Taisen Alpha (Japan) (Genteiban Collection Figure Box)">
+	<machine name="Dai-2-ji Super Robot Taisen Alpha (Japan) (Genteiban Collection Figure Box)">
 		<category>Games</category>
-		<description>Dai-2-Ji Super Robot Taisen Alpha (Japan) (Genteiban Collection Figure Box)</description>
-		<disk name="Dai-2-Ji Super Robot Taisen Alpha (Japan) (Genteiban Collection Figure Box).chd" sha1="7f0263a808d34a90ecd74d92d6a7fc4ed272a7b2" />
+		<description>Dai-2-ji Super Robot Taisen Alpha (Japan) (Genteiban Collection Figure Box)</description>
+		<disk name="Dai-2-ji Super Robot Taisen Alpha (Japan) (Genteiban Collection Figure Box).chd" sha1="7f0263a808d34a90ecd74d92d6a7fc4ed272a7b2" />
 	</machine>
-	<machine name="Dai-3-Ji Super Robot Taisen Alpha - Shuuen no Ginga e (Japan)">
+	<machine name="Dai-3-ji Super Robot Taisen Alpha - Shuuen no Ginga e (Japan)">
 		<category>Games</category>
-		<description>Dai-3-Ji Super Robot Taisen Alpha - Shuuen no Ginga e (Japan)</description>
-		<disk name="Dai-3-Ji Super Robot Taisen Alpha - Shuuen no Ginga e (Japan).chd" sha1="22e679b07fef844dce55cde276c34712e938ee99" />
+		<description>Dai-3-ji Super Robot Taisen Alpha - Shuuen no Ginga e (Japan)</description>
+		<disk name="Dai-3-ji Super Robot Taisen Alpha - Shuuen no Ginga e (Japan).chd" sha1="22e679b07fef844dce55cde276c34712e938ee99" />
 	</machine>
 	<machine name="Daidassou - The Great Escape (Japan)">
 		<category>Games</category>
@@ -14194,15 +14194,15 @@
 		<description>Fatal Fury - Battle Archives Volume 2 (USA, Canada)</description>
 		<disk name="Fatal Fury - Battle Archives Volume 2 (USA, Canada).chd" sha1="56bd87538304e4b1bdafe44903e932cb7574bf8f" />
 	</machine>
-	<machine name="Fate-stay night - Realta Nua (Japan)">
+	<machine name="Fate-Stay Night - Realta Nua (Japan)">
 		<category>Games</category>
-		<description>Fate-stay night - Realta Nua (Japan)</description>
-		<disk name="Fate-stay night - Realta Nua (Japan).chd" sha1="412aed06b7e486823ec1759e280b318c5bb7b53e" />
+		<description>Fate-Stay Night - Realta Nua (Japan)</description>
+		<disk name="Fate-Stay Night - Realta Nua (Japan).chd" sha1="412aed06b7e486823ec1759e280b318c5bb7b53e" />
 	</machine>
-	<machine name="Fate-stay night - Realta Nua (Japan) (Extra Edition)">
+	<machine name="Fate-Stay Night - Realta Nua (Japan) (Extra Edition)">
 		<category>Games</category>
-		<description>Fate-stay night - Realta Nua (Japan) (Extra Edition)</description>
-		<disk name="Fate-stay night - Realta Nua (Japan) (Extra Edition).chd" sha1="b0f861accebec35f71b74b46ec914ebc8b49db92" />
+		<description>Fate-Stay Night - Realta Nua (Japan) (Extra Edition)</description>
+		<disk name="Fate-Stay Night - Realta Nua (Japan) (Extra Edition).chd" sha1="b0f861accebec35f71b74b46ec914ebc8b49db92" />
 	</machine>
 	<machine name="Fate-Unlimited Codes (Japan)">
 		<category>Games</category>
@@ -19419,20 +19419,20 @@
 		<description>Gunparade Orchestra - Shiro no Shou - Aomori Penguin Densetsu (Japan) (Genteiban)</description>
 		<disk name="Gunparade Orchestra - Shiro no Shou - Aomori Penguin Densetsu (Japan) (Genteiban).chd" sha1="52c70bfaf5e80090e3ab301dc937f0410a7f7a8e" />
 	</machine>
-	<machine name="Gunslinger Girl. Volume.I (Japan)">
+	<machine name="Gunslinger Girl. Volume. I (Japan)">
 		<category>Games</category>
-		<description>Gunslinger Girl. Volume.I (Japan)</description>
-		<disk name="Gunslinger Girl. Volume.I (Japan).chd" sha1="adee627bb5d2dd91bea64991815007c7d08d792f" />
+		<description>Gunslinger Girl. Volume. I (Japan)</description>
+		<disk name="Gunslinger Girl. Volume. I (Japan).chd" sha1="adee627bb5d2dd91bea64991815007c7d08d792f" />
 	</machine>
-	<machine name="Gunslinger Girl. Volume.II (Japan)">
+	<machine name="Gunslinger Girl. Volume. II (Japan)">
 		<category>Games</category>
-		<description>Gunslinger Girl. Volume.II (Japan)</description>
-		<disk name="Gunslinger Girl. Volume.II (Japan).chd" sha1="52010d6d5b12232752980e78bfbfd2aab1d64756" />
+		<description>Gunslinger Girl. Volume. II (Japan)</description>
+		<disk name="Gunslinger Girl. Volume. II (Japan).chd" sha1="52010d6d5b12232752980e78bfbfd2aab1d64756" />
 	</machine>
-	<machine name="Gunslinger Girl. Volume.III (Japan)">
+	<machine name="Gunslinger Girl. Volume. III (Japan)">
 		<category>Games</category>
-		<description>Gunslinger Girl. Volume.III (Japan)</description>
-		<disk name="Gunslinger Girl. Volume.III (Japan).chd" sha1="748c902575e0c9a5182ccd6dc42e751141881551" />
+		<description>Gunslinger Girl. Volume. III (Japan)</description>
+		<disk name="Gunslinger Girl. Volume. III (Japan).chd" sha1="748c902575e0c9a5182ccd6dc42e751141881551" />
 	</machine>
 	<machine name="Gunvari Collection + Time Crisis (Japan) (With GunCon2)">
 		<category>Games</category>
@@ -21064,15 +21064,15 @@
 		<description>Hoshigari Empusa (Japan)</description>
 		<disk name="Hoshigari Empusa (Japan).chd" sha1="7f8d6492480507d5bbace20b4b36100e137a81da" />
 	</machine>
-	<machine name="Hoshi-iro no Okurimono (Japan)">
+	<machine name="Hoshiiro no Okurimono (Japan)">
 		<category>Games</category>
-		<description>Hoshi-iro no Okurimono (Japan)</description>
-		<disk name="Hoshi-iro no Okurimono (Japan).chd" sha1="e2983318218c72a3bf7197f247848bca8df4d4c7" />
+		<description>Hoshiiro no Okurimono (Japan)</description>
+		<disk name="Hoshiiro no Okurimono (Japan).chd" sha1="e2983318218c72a3bf7197f247848bca8df4d4c7" />
 	</machine>
-	<machine name="Hoshi-iro no Okurimono (Japan) (Shokai Special Genteiban)">
+	<machine name="Hoshiiro no Okurimono (Japan) (Shokai Special Genteiban)">
 		<category>Games</category>
-		<description>Hoshi-iro no Okurimono (Japan) (Shokai Special Genteiban)</description>
-		<disk name="Hoshi-iro no Okurimono (Japan) (Shokai Special Genteiban).chd" sha1="7d1989ab29ef8b2ecb9260fea1b9dceb13aa5673" />
+		<description>Hoshiiro no Okurimono (Japan) (Shokai Special Genteiban)</description>
+		<disk name="Hoshiiro no Okurimono (Japan) (Shokai Special Genteiban).chd" sha1="7d1989ab29ef8b2ecb9260fea1b9dceb13aa5673" />
 	</machine>
 	<machine name="Hot 100 Saves (USA) (Unl)">
 		<category>Applications</category>
@@ -22659,25 +22659,25 @@
 		<description>Jet Ion GP (Europe)</description>
 		<disk name="Jet Ion GP (Europe).chd" sha1="64efaec699dff44050f4d67dfcd69ed8dd5edbd0" />
 	</machine>
+	<machine name="Jet Li - Rise to Honor (USA)">
+		<category>Games</category>
+		<description>Jet Li - Rise to Honor (USA)</description>
+		<disk name="Jet Li - Rise to Honor (USA).chd" sha1="31d3b0d434c61853d62c6313ae8a3917d2c38542" />
+	</machine>
 	<machine name="Jet Li - Rise to Honor (USA) (Demo)">
 		<category>Demos</category>
 		<description>Jet Li - Rise to Honor (USA) (Demo)</description>
 		<disk name="Jet Li - Rise to Honor (USA) (Demo).chd" sha1="bdfa06340ea772b4d0a04bf063fe897a1fc11eb4" />
 	</machine>
-	<machine name="Jet Li - Rise to Honor (USA) (En,Zh)">
+	<machine name="Jet Li - Rise to Honour (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Jet Li - Rise to Honor (USA) (En,Zh)</description>
-		<disk name="Jet Li - Rise to Honor (USA) (En,Zh).chd" sha1="31d3b0d434c61853d62c6313ae8a3917d2c38542" />
+		<description>Jet Li - Rise to Honour (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="Jet Li - Rise to Honour (Europe) (En,Fr,De,Es,It).chd" sha1="178dcf3071ca95adab4cf7cffef47f3ff348b0f3" />
 	</machine>
 	<machine name="Jet Li - Rise to Honour (Europe) (En,Fr,De,Es,It) (Demo)">
 		<category>Demos</category>
 		<description>Jet Li - Rise to Honour (Europe) (En,Fr,De,Es,It) (Demo)</description>
 		<disk name="Jet Li - Rise to Honour (Europe) (En,Fr,De,Es,It) (Demo).chd" sha1="f61f1483572a45e9c906ce0dad8102fdfe00d62f" />
-	</machine>
-	<machine name="Jet Li - Rise to Honour (Europe) (En,Fr,De,Es,It,Zh)">
-		<category>Games</category>
-		<description>Jet Li - Rise to Honour (Europe) (En,Fr,De,Es,It,Zh)</description>
-		<disk name="Jet Li - Rise to Honour (Europe) (En,Fr,De,Es,It,Zh).chd" sha1="178dcf3071ca95adab4cf7cffef47f3ff348b0f3" />
 	</machine>
 	<machine name="Jet Ski Riders (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -22888,11 +22888,6 @@
 		<category>Games</category>
 		<description>Jim Henson's Muppets Party Cruise (USA)</description>
 		<disk name="Jim Henson's Muppets Party Cruise (USA).chd" sha1="420e68ea0032b7d6b7e92527a9412f150eb7cc7d" />
-	</machine>
-	<machine name="Jin Hondura (Korea) (En,Fr,De,Es,It)">
-		<category>Games</category>
-		<description>Jin Hondura (Korea) (En,Fr,De,Es,It)</description>
-		<disk name="Jin Hondura (Korea) (En,Fr,De,Es,It).chd" sha1="5a475bc35887c9198344235999b002171b24f39e" />
 	</machine>
 	<machine name="Jin Samguk Mussang (Korea)">
 		<category>Games</category>
@@ -23979,10 +23974,10 @@
 		<description>Kaze no Klonoa 2 - Sekai ga Nozonda Wasuremono (Japan) (Taikenban)</description>
 		<disk name="Kaze no Klonoa 2 - Sekai ga Nozonda Wasuremono (Japan) (Taikenban).chd" sha1="3a197105765623106d506a07edd5306857c3debe" />
 	</machine>
-	<machine name="Kaze-iro Surf (Japan)">
+	<machine name="Kazeiro Surf (Japan)">
 		<category>Games</category>
-		<description>Kaze-iro Surf (Japan)</description>
-		<disk name="Kaze-iro Surf (Japan).chd" sha1="6cedfe7bedb82d8bc25f0bc6fe6d22c8d7596315" />
+		<description>Kazeiro Surf (Japan)</description>
+		<disk name="Kazeiro Surf (Japan).chd" sha1="6cedfe7bedb82d8bc25f0bc6fe6d22c8d7596315" />
 	</machine>
 	<machine name="Kazoku Keikaku - Kokoro no Kizuna (Japan)">
 		<category>Games</category>
@@ -29639,20 +29634,20 @@
 		<description>Moderngroove - Ministry of Sound Edition (Europe)</description>
 		<disk name="Moderngroove - Ministry of Sound Edition (Europe).chd" sha1="94fc11cc5e57f1c36761b2e8356d2218cbbb85fa" />
 	</machine>
-	<machine name="Moe Moe 2-Ji Taisen (Ryaku) 2 (Japan)">
+	<machine name="Moe Moe 2-ji Taisen (Ryaku) 2 (Japan)">
 		<category>Games</category>
-		<description>Moe Moe 2-Ji Taisen (Ryaku) 2 (Japan)</description>
-		<disk name="Moe Moe 2-Ji Taisen (Ryaku) 2 (Japan).chd" sha1="c140832c303fa0951c9b10250f37feff22b5af27" />
+		<description>Moe Moe 2-ji Taisen (Ryaku) 2 (Japan)</description>
+		<disk name="Moe Moe 2-ji Taisen (Ryaku) 2 (Japan).chd" sha1="c140832c303fa0951c9b10250f37feff22b5af27" />
 	</machine>
-	<machine name="Moe Moe 2-Ji Taisen (Ryaku) Deluxe (Japan)">
+	<machine name="Moe Moe 2-ji Taisen (Ryaku) Deluxe (Japan)">
 		<category>Games</category>
-		<description>Moe Moe 2-Ji Taisen (Ryaku) Deluxe (Japan)</description>
-		<disk name="Moe Moe 2-Ji Taisen (Ryaku) Deluxe (Japan).chd" sha1="9a2e704f55fce3d2f0881b4ce24286850ee4b6a7" />
+		<description>Moe Moe 2-ji Taisen (Ryaku) Deluxe (Japan)</description>
+		<disk name="Moe Moe 2-ji Taisen (Ryaku) Deluxe (Japan).chd" sha1="9a2e704f55fce3d2f0881b4ce24286850ee4b6a7" />
 	</machine>
-	<machine name="Moekan - Moe Musume Shima e Youkoso (Japan)">
+	<machine name="Moekan - Moekko-jima e Youkoso (Japan)">
 		<category>Games</category>
-		<description>Moekan - Moe Musume Shima e Youkoso (Japan)</description>
-		<disk name="Moekan - Moe Musume Shima e Youkoso (Japan).chd" sha1="0306f35f6382bed6636583c6e3c5d84690e056e5" />
+		<description>Moekan - Moekko-jima e Youkoso (Japan)</description>
+		<disk name="Moekan - Moekko-jima e Youkoso (Japan).chd" sha1="0306f35f6382bed6636583c6e3c5d84690e056e5" />
 	</machine>
 	<machine name="Mojibribon (Japan)">
 		<category>Games</category>
@@ -30333,11 +30328,6 @@
 		<category>Games</category>
 		<description>MTX Mototrax (USA)</description>
 		<disk name="MTX Mototrax (USA).chd" sha1="a6aa459229f5cf6ee4fb218cdf5f990a2f151f9d" />
-	</machine>
-	<machine name="Muinga (Korea)">
-		<category>Games</category>
-		<description>Muinga (Korea)</description>
-		<disk name="Muinga (Korea).chd" sha1="07dbe7f0b980b355a6be0b1fddae1e0be338305a" />
 	</machine>
 	<machine name="Mummy Returns, The (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -31099,25 +31089,25 @@
 		<description>Natsuiro Komachi - Ichijitsu Senka (Japan) (Shokai Genteiban)</description>
 		<disk name="Natsuiro Komachi - Ichijitsu Senka (Japan) (Shokai Genteiban).chd" sha1="1eed585932d9a31ddc55fa106b3146749c3b43f5" />
 	</machine>
-	<machine name="Natsu-iro no Sunadokei (Japan)">
+	<machine name="Natsuiro no Sunadokei (Japan)">
 		<category>Games</category>
-		<description>Natsu-iro no Sunadokei (Japan)</description>
-		<disk name="Natsu-iro no Sunadokei (Japan).chd" sha1="9a2cdca115a9713909e3dcd97aa375eb2debd456" />
+		<description>Natsuiro no Sunadokei (Japan)</description>
+		<disk name="Natsuiro no Sunadokei (Japan).chd" sha1="9a2cdca115a9713909e3dcd97aa375eb2debd456" />
 	</machine>
 	<machine name="Natsuzora no Monologue (Japan)">
 		<category>Games</category>
 		<description>Natsuzora no Monologue (Japan)</description>
 		<disk name="Natsuzora no Monologue (Japan).chd" sha1="88624168c637144a2e53aef0c4666c1f0da1cdbd" />
 	</machine>
-	<machine name="Natural 2 - Duo - Sakura-iro no Kisetsu (Japan)">
+	<machine name="Natural 2 - Duo - Sakurairo no Kisetsu (Japan)">
 		<category>Games</category>
-		<description>Natural 2 - Duo - Sakura-iro no Kisetsu (Japan)</description>
-		<disk name="Natural 2 - Duo - Sakura-iro no Kisetsu (Japan).chd" sha1="2fe38f53c0e025283e587e52a24e05af74ca8a9e" />
+		<description>Natural 2 - Duo - Sakurairo no Kisetsu (Japan)</description>
+		<disk name="Natural 2 - Duo - Sakurairo no Kisetsu (Japan).chd" sha1="2fe38f53c0e025283e587e52a24e05af74ca8a9e" />
 	</machine>
-	<machine name="Natural 2 - Duo - Sakura-iro no Kisetsu (Japan) (DX Pack)">
+	<machine name="Natural 2 - Duo - Sakurairo no Kisetsu (Japan) (DX Pack)">
 		<category>Games</category>
-		<description>Natural 2 - Duo - Sakura-iro no Kisetsu (Japan) (DX Pack)</description>
-		<disk name="Natural 2 - Duo - Sakura-iro no Kisetsu (Japan) (DX Pack).chd" sha1="70f2f70f0390befa12e93fdd9b0c0b3b64402e7f" />
+		<description>Natural 2 - Duo - Sakurairo no Kisetsu (Japan) (DX Pack)</description>
+		<disk name="Natural 2 - Duo - Sakurairo no Kisetsu (Japan) (DX Pack).chd" sha1="70f2f70f0390befa12e93fdd9b0c0b3b64402e7f" />
 	</machine>
 	<machine name="Naval Ops - Commander (Europe)">
 		<category>Games</category>
@@ -36719,11 +36709,6 @@
 		<description>Persona 3 (Japan)</description>
 		<disk name="Persona 3 (Japan).chd" sha1="3348640f59f9d3916575a5d068b8f687156fd234" />
 	</machine>
-	<machine name="Persona 3 (Korea)">
-		<category>Games</category>
-		<description>Persona 3 (Korea)</description>
-		<disk name="Persona 3 (Korea).chd" sha1="1b0bd739fcc8fcb2c6591892bd561b16da7bc8e0" />
-	</machine>
 	<machine name="Persona 3 FES (Europe)">
 		<category>Games</category>
 		<description>Persona 3 FES (Europe)</description>
@@ -41719,10 +41704,10 @@
 		<description>Saiyuuki Reload Gunlock (Japan)</description>
 		<disk name="Saiyuuki Reload Gunlock (Japan).chd" sha1="00c80d66d70ada6777a78065c7cffe56f7377aad" />
 	</machine>
-	<machine name="Saka Tsuku 2002 - J.League Pro Soccer Club o Tsukurou! (Japan)">
+	<machine name="Sakatsuku 2002 - J.League Pro Soccer Club o Tsukurou! (Japan)">
 		<category>Games</category>
-		<description>Saka Tsuku 2002 - J.League Pro Soccer Club o Tsukurou! (Japan)</description>
-		<disk name="Saka Tsuku 2002 - J.League Pro Soccer Club o Tsukurou! (Japan).chd" sha1="d97eca89f2d69a4acb984e23942384efdb3796d5" />
+		<description>Sakatsuku 2002 - J.League Pro Soccer Club o Tsukurou! (Japan)</description>
+		<disk name="Sakatsuku 2002 - J.League Pro Soccer Club o Tsukurou! (Japan).chd" sha1="d97eca89f2d69a4acb984e23942384efdb3796d5" />
 	</machine>
 	<machine name="Sakigake!! Cromartie Koukou - Kore wa Hyotto Shite Game Nano ka! Hen (Japan)">
 		<category>Games</category>
@@ -43614,6 +43599,11 @@
 		<description>Shin Contra (Japan)</description>
 		<disk name="Shin Contra (Japan).chd" sha1="7e89388972de60f44351b3272dd683dfc2aca7e9" />
 	</machine>
+	<machine name="Shin Contra (Korea) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Shin Contra (Korea) (En,Fr,De,Es,It)</description>
+		<disk name="Shin Contra (Korea) (En,Fr,De,Es,It).chd" sha1="5a475bc35887c9198344235999b002171b24f39e" />
+	</machine>
 	<machine name="Shin Gouketsuji Ichizoku - Bonnou Kaihou (Japan)">
 		<category>Games</category>
 		<description>Shin Gouketsuji Ichizoku - Bonnou Kaihou (Japan)</description>
@@ -44383,16 +44373,6 @@
 		<category>Games</category>
 		<description>Shuumatsu Shoujo Gensou Alicematic - Apocalypse (Japan) (Genteiban)</description>
 		<disk name="Shuumatsu Shoujo Gensou Alicematic - Apocalypse (Japan) (Genteiban).chd" sha1="36584169de80c3d62190b51c54c7e467ecb3484c" />
-	</machine>
-	<machine name="Si Hun Qu (Asia)">
-		<category>Games</category>
-		<description>Si Hun Qu (Asia)</description>
-		<disk name="Si Hun Qu (Asia).chd" sha1="61b9e45b0579cb07472eba8a72bb73b1828781ad" />
-	</machine>
-	<machine name="Si Hun Qu 2 (Asia)">
-		<category>Games</category>
-		<description>Si Hun Qu 2 (Asia)</description>
-		<disk name="Si Hun Qu 2 (Asia).chd" sha1="b8c1293adc71ea42e0764755cddc8b49a64c3d75" />
 	</machine>
 	<machine name="Sidewinder F (Japan)">
 		<category>Games</category>
@@ -46584,6 +46564,11 @@
 		<description>Siren - Trial Disc (Japan) (Taikenban)</description>
 		<disk name="Siren - Trial Disc (Japan) (Taikenban).chd" sha1="f8a5bbadeeba8e75bd4b03e39ade280ed2881959" />
 	</machine>
+	<machine name="Siren (Asia)">
+		<category>Games</category>
+		<description>Siren (Asia)</description>
+		<disk name="Siren (Asia).chd" sha1="61b9e45b0579cb07472eba8a72bb73b1828781ad" />
+	</machine>
 	<machine name="Siren (Japan)">
 		<category>Games</category>
 		<description>Siren (Japan)</description>
@@ -46603,6 +46588,11 @@
 		<category>Demos</category>
 		<description>Siren (USA) (Demo)</description>
 		<disk name="Siren (USA) (Demo).chd" sha1="b37c83f8c5493e285c3400e75333a91127321f5a" />
+	</machine>
+	<machine name="Siren 2 (Asia)">
+		<category>Games</category>
+		<description>Siren 2 (Asia)</description>
+		<disk name="Siren 2 (Asia).chd" sha1="b8c1293adc71ea42e0764755cddc8b49a64c3d75" />
 	</machine>
 	<machine name="Siren 2 (Japan)">
 		<category>Games</category>
@@ -47353,6 +47343,11 @@
 		<category>Demos</category>
 		<description>SOCOM II - U.S. Navy SEALs (USA) (Demo)</description>
 		<disk name="SOCOM II - U.S. Navy SEALs (USA) (Demo).chd" sha1="895b814d7a75da0dec840d6007842b10c37cb9b2" />
+	</machine>
+	<machine name="Soft Boiled Hero vs. 3D (Korea)">
+		<category>Games</category>
+		<description>Soft Boiled Hero vs. 3D (Korea)</description>
+		<disk name="Soft Boiled Hero vs. 3D (Korea).chd" sha1="37d4c9924a114938dba2b234e0d13e03e7960dfe" />
 	</machine>
 	<machine name="Sokudoku Master (Japan)">
 		<category>Educational</category>
@@ -50379,10 +50374,10 @@
 		<description>Tabenasai - Demo + Video (Japan)</description>
 		<disk name="Tabenasai - Demo + Video (Japan).chd" sha1="8fed1e0e063bba72ab89ff598cc04162304e209f" />
 	</machine>
-	<machine name="Taiheiyou no Arashi - Senkan Yamato, Akatsuki ni Shutsugeki su! (Japan)">
+	<machine name="Taiheiyou no Arashi - Senkan Yamato, Akatsuki ni Shutsugeki Su! (Japan)">
 		<category>Games</category>
-		<description>Taiheiyou no Arashi - Senkan Yamato, Akatsuki ni Shutsugeki su! (Japan)</description>
-		<disk name="Taiheiyou no Arashi - Senkan Yamato, Akatsuki ni Shutsugeki su! (Japan).chd" sha1="f6d36d8be83d580a8b516878d3fa00d56925c1f6" />
+		<description>Taiheiyou no Arashi - Senkan Yamato, Akatsuki ni Shutsugeki Su! (Japan)</description>
+		<disk name="Taiheiyou no Arashi - Senkan Yamato, Akatsuki ni Shutsugeki Su! (Japan).chd" sha1="f6d36d8be83d580a8b516878d3fa00d56925c1f6" />
 	</machine>
 	<machine name="Taiko Drum Master (USA)">
 		<category>Games</category>
@@ -53679,35 +53674,35 @@
 		<description>Twisted Metal - Head-On - Extra Twisted Edition (USA)</description>
 		<disk name="Twisted Metal - Head-On - Extra Twisted Edition (USA).chd" sha1="9a4ddc3a328ab9b44700b299779ea61c2890804a" />
 	</machine>
-	<machine name="TY the Tasmanian Tiger - Night of the Quinkan (Australia)">
+	<machine name="Ty the Tasmanian Tiger - Night of the Quinkan (Australia)">
 		<category>Games</category>
-		<description>TY the Tasmanian Tiger - Night of the Quinkan (Australia)</description>
-		<disk name="TY the Tasmanian Tiger - Night of the Quinkan (Australia).chd" sha1="1a891f4c7e0404bdc34081ea0fbff9b9bd04fc54" />
+		<description>Ty the Tasmanian Tiger - Night of the Quinkan (Australia)</description>
+		<disk name="Ty the Tasmanian Tiger - Night of the Quinkan (Australia).chd" sha1="1a891f4c7e0404bdc34081ea0fbff9b9bd04fc54" />
 	</machine>
-	<machine name="TY the Tasmanian Tiger - Night of the Quinkan (USA)">
+	<machine name="Ty the Tasmanian Tiger - Night of the Quinkan (USA)">
 		<category>Games</category>
-		<description>TY the Tasmanian Tiger - Night of the Quinkan (USA)</description>
-		<disk name="TY the Tasmanian Tiger - Night of the Quinkan (USA).chd" sha1="850fecad10af6ad472b1efbb0074ab57554954db" />
+		<description>Ty the Tasmanian Tiger - Night of the Quinkan (USA)</description>
+		<disk name="Ty the Tasmanian Tiger - Night of the Quinkan (USA).chd" sha1="850fecad10af6ad472b1efbb0074ab57554954db" />
 	</machine>
-	<machine name="TY the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)">
+	<machine name="Ty the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>TY the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)</description>
-		<disk name="TY the Tasmanian Tiger (Europe) (En,Fr,De,Es,It).chd" sha1="5ff1c22077b8e0c0aa9a55b2a801939661d44581" />
+		<description>Ty the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="Ty the Tasmanian Tiger (Europe) (En,Fr,De,Es,It).chd" sha1="5ff1c22077b8e0c0aa9a55b2a801939661d44581" />
 	</machine>
-	<machine name="TY the Tasmanian Tiger (USA) (En,Fr,De,Es)">
+	<machine name="Ty the Tasmanian Tiger (USA) (En,Fr,De,Es)">
 		<category>Games</category>
-		<description>TY the Tasmanian Tiger (USA) (En,Fr,De,Es)</description>
-		<disk name="TY the Tasmanian Tiger (USA) (En,Fr,De,Es).chd" sha1="9dd0b51a2cb2f9a61641462d0d8b6331431db8bc" />
+		<description>Ty the Tasmanian Tiger (USA) (En,Fr,De,Es)</description>
+		<disk name="Ty the Tasmanian Tiger (USA) (En,Fr,De,Es).chd" sha1="9dd0b51a2cb2f9a61641462d0d8b6331431db8bc" />
 	</machine>
-	<machine name="TY the Tasmanian Tiger 2 - Bush Rescue (Europe) (En,Fr,De,Es,It,Sv,Da)">
+	<machine name="Ty the Tasmanian Tiger 2 - Bush Rescue (Europe) (En,Fr,De,Es,It,Sv,Da)">
 		<category>Games</category>
-		<description>TY the Tasmanian Tiger 2 - Bush Rescue (Europe) (En,Fr,De,Es,It,Sv,Da)</description>
-		<disk name="TY the Tasmanian Tiger 2 - Bush Rescue (Europe) (En,Fr,De,Es,It,Sv,Da).chd" sha1="26988e56c1e6b54e72e6e2c71a716334eb7d8b9a" />
+		<description>Ty the Tasmanian Tiger 2 - Bush Rescue (Europe) (En,Fr,De,Es,It,Sv,Da)</description>
+		<disk name="Ty the Tasmanian Tiger 2 - Bush Rescue (Europe) (En,Fr,De,Es,It,Sv,Da).chd" sha1="26988e56c1e6b54e72e6e2c71a716334eb7d8b9a" />
 	</machine>
-	<machine name="TY the Tasmanian Tiger 2 - Bush Rescue (USA)">
+	<machine name="Ty the Tasmanian Tiger 2 - Bush Rescue (USA)">
 		<category>Games</category>
-		<description>TY the Tasmanian Tiger 2 - Bush Rescue (USA)</description>
-		<disk name="TY the Tasmanian Tiger 2 - Bush Rescue (USA).chd" sha1="c8067c48554847e70e72245f82ecc9b46d37f61c" />
+		<description>Ty the Tasmanian Tiger 2 - Bush Rescue (USA)</description>
+		<disk name="Ty the Tasmanian Tiger 2 - Bush Rescue (USA).chd" sha1="c8067c48554847e70e72245f82ecc9b46d37f61c" />
 	</machine>
 	<machine name="Typing Namidabashi - Ashita no Joe Touda (Japan)">
 		<category>Games</category>
@@ -54364,15 +54359,15 @@
 		<description>Utau - Tumbling Dice - Watashitachi 3nin, A Ge Ru (Japan)</description>
 		<disk name="Utau - Tumbling Dice - Watashitachi 3nin, A Ge Ru (Japan).chd" sha1="ba3a3cd629310575ce82e5ecc8136bce88b3a770" />
 	</machine>
-	<machine name="Utawareru Mono - Chiri Yuku Mono e no Komori-uta (Japan)">
+	<machine name="Utawarerumono - Chiri Yuku Mono e no Komoriuta (Japan)">
 		<category>Games</category>
-		<description>Utawareru Mono - Chiri Yuku Mono e no Komori-uta (Japan)</description>
-		<disk name="Utawareru Mono - Chiri Yuku Mono e no Komori-uta (Japan).chd" sha1="e5e76497ecf4fb1cb940513f8b7bce74455c80bd" />
+		<description>Utawarerumono - Chiri Yuku Mono e no Komoriuta (Japan)</description>
+		<disk name="Utawarerumono - Chiri Yuku Mono e no Komoriuta (Japan).chd" sha1="e5e76497ecf4fb1cb940513f8b7bce74455c80bd" />
 	</machine>
-	<machine name="Utawareru Mono - Chiri Yuku Mono e no Komori-uta (Japan) (Shokai Genteiban)">
+	<machine name="Utawarerumono - Chiri Yuku Mono e no Komoriuta (Japan) (Shokai Genteiban)">
 		<category>Games</category>
-		<description>Utawareru Mono - Chiri Yuku Mono e no Komori-uta (Japan) (Shokai Genteiban)</description>
-		<disk name="Utawareru Mono - Chiri Yuku Mono e no Komori-uta (Japan) (Shokai Genteiban).chd" sha1="ccc3fdf36180215b5dcd414e5b8aa26dc9c031be" />
+		<description>Utawarerumono - Chiri Yuku Mono e no Komoriuta (Japan) (Shokai Genteiban)</description>
+		<disk name="Utawarerumono - Chiri Yuku Mono e no Komoriuta (Japan) (Shokai Genteiban).chd" sha1="ccc3fdf36180215b5dcd414e5b8aa26dc9c031be" />
 	</machine>
 	<machine name="Utility Disc (Japan)">
 		<category>Applications</category>
@@ -56254,10 +56249,10 @@
 		<description>WRC 3 - The Official Game of the FIA World Rally Championship (Europe) (En,Fr,De,Es,It,Pt,No,Fi) (Demo 2)</description>
 		<disk name="WRC 3 - The Official Game of the FIA World Rally Championship (Europe) (En,Fr,De,Es,It,Pt,No,Fi) (Demo 2).chd" sha1="1e98d0168305e32fb41cb4c0575d95163d50c3c2" />
 	</machine>
-	<machine name="WRC 3 - The Official Game of the FIA World Rally Championship (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi)">
+	<machine name="WRC 3 - The Official Game of the FIA World Rally Championship (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi) (v1.01)">
 		<category>Games</category>
-		<description>WRC 3 - The Official Game of the FIA World Rally Championship (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi)</description>
-		<disk name="WRC 3 - The Official Game of the FIA World Rally Championship (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi).chd" sha1="2255fac6622c041fb7feb50dce366f9b754521ec" />
+		<description>WRC 3 - The Official Game of the FIA World Rally Championship (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi) (v1.01)</description>
+		<disk name="WRC 3 - The Official Game of the FIA World Rally Championship (Europe, Australia) (En,Fr,De,Es,It,Pt,No,Fi) (v1.01).chd" sha1="2255fac6622c041fb7feb50dce366f9b754521ec" />
 	</machine>
 	<machine name="WRC 3 - The Official Game of the FIA World Rally Championship (Japan)">
 		<category>Games</category>
@@ -57258,6 +57253,11 @@
 		<category>Games</category>
 		<description>Yatohime Zankikou - Ken no Maki (Japan)</description>
 		<disk name="Yatohime Zankikou - Ken no Maki (Japan).chd" sha1="9e36639da4a2d80d4cc1266f3e3242803abe9f75" />
+	</machine>
+	<machine name="Yeosin Jeonsaeng Persona 3 (Korea)">
+		<category>Games</category>
+		<description>Yeosin Jeonsaeng Persona 3 (Korea)</description>
+		<disk name="Yeosin Jeonsaeng Persona 3 (Korea).chd" sha1="1b0bd739fcc8fcb2c6591892bd561b16da7bc8e0" />
 	</machine>
 	<machine name="Yeosin Jeonsaeng Persona 3 FES (Korea)">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast</name>
-		<description>MAME Redump - Sega - Dreamcast - Discs (1502) (2025-07-17 09-57-03)</description>
+		<description>MAME Redump - Sega - Dreamcast - Discs (1503) (2025-09-17 20-32-48)</description>
 		<version>0.279</version>
-		<date>2025-08-06</date>
+		<date>2025-09-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -71,7 +71,7 @@
 		<disk name="90 Minutes - Sega Championship Football (Europe) (En,Fr,De,Es,It).chd" sha1="295606d64f2700d497b640df7d6d56beb6fc4889" />
 	</machine>
 	<machine name="Action Replay CDX - Demo Version (UK) (Unl)">
-		<category>Applications</category>
+		<category>Coverdiscs</category>
 		<description>Action Replay CDX - Demo Version (UK) (Unl)</description>
 		<disk name="Action Replay CDX - Demo Version (UK) (Unl).chd" sha1="c0c86ebb01fd0aa323dee95a98c9af291e87a88b" />
 	</machine>
@@ -651,10 +651,10 @@
 		<description>Cannon Spike (USA)</description>
 		<disk name="Cannon Spike (USA).chd" sha1="151b893ca9a088f57a92961dafdbb147bca3448d" />
 	</machine>
-	<machine name="Canvas - Sepia Iro no Motif (Japan)">
+	<machine name="Canvas - Sepia-iro no Motif (Japan)">
 		<category>Games</category>
-		<description>Canvas - Sepia Iro no Motif (Japan)</description>
-		<disk name="Canvas - Sepia Iro no Motif (Japan).chd" sha1="9c5a654ad666f905ee624f1206915ff73444b564" />
+		<description>Canvas - Sepia-iro no Motif (Japan)</description>
+		<disk name="Canvas - Sepia-iro no Motif (Japan).chd" sha1="9c5a654ad666f905ee624f1206915ff73444b564" />
 	</machine>
 	<machine name="Capcom Taisen Fan Disc (Japan)">
 		<category>Demos</category>
@@ -1092,20 +1092,20 @@
 		<description>D2 Shock (Japan)</description>
 		<disk name="D2 Shock (Japan).chd" sha1="100fb6fdb3192dbf01052d2402c08366c0fe5967" />
 	</machine>
-	<machine name="Dabi Tsuku - Derby-ba o Tsukurou! (Japan)">
+	<machine name="Dabitsuku - Derby-ba o Tsukurou! (Japan)">
 		<category>Games</category>
-		<description>Dabi Tsuku - Derby-ba o Tsukurou! (Japan)</description>
-		<disk name="Dabi Tsuku - Derby-ba o Tsukurou! (Japan).chd" sha1="7e99f8c5c6316d8e6dfb62c2edd402f1a1db2b94" />
+		<description>Dabitsuku - Derby-ba o Tsukurou! (Japan)</description>
+		<disk name="Dabitsuku - Derby-ba o Tsukurou! (Japan).chd" sha1="7e99f8c5c6316d8e6dfb62c2edd402f1a1db2b94" />
 	</machine>
-	<machine name="Dabi Tsuku - Derby-ba o Tsukurou! (Japan) (Taikenban)">
+	<machine name="Dabitsuku - Derby-ba o Tsukurou! (Japan) (Taikenban)">
 		<category>Demos</category>
-		<description>Dabi Tsuku - Derby-ba o Tsukurou! (Japan) (Taikenban)</description>
-		<disk name="Dabi Tsuku - Derby-ba o Tsukurou! (Japan) (Taikenban).chd" sha1="da575ee18cbd8c7aea67c88131d3d2c87bf92b04" />
+		<description>Dabitsuku - Derby-ba o Tsukurou! (Japan) (Taikenban)</description>
+		<disk name="Dabitsuku - Derby-ba o Tsukurou! (Japan) (Taikenban).chd" sha1="da575ee18cbd8c7aea67c88131d3d2c87bf92b04" />
 	</machine>
-	<machine name="Dabi Tsuku 2 (Japan)">
+	<machine name="Dabitsuku 2 (Japan)">
 		<category>Games</category>
-		<description>Dabi Tsuku 2 (Japan)</description>
-		<disk name="Dabi Tsuku 2 (Japan).chd" sha1="3eee560c50bcb1930505518cf58a3190c0fcf13d" />
+		<description>Dabitsuku 2 (Japan)</description>
+		<disk name="Dabitsuku 2 (Japan).chd" sha1="3eee560c50bcb1930505518cf58a3190c0fcf13d" />
 	</machine>
 	<machine name="Dance Dance Revolution - Club Version - Dreamcast Edition (Japan)">
 		<category>Games</category>
@@ -1608,11 +1608,6 @@
 		<category>Games</category>
 		<description>Dousoukai 2 - Again &amp; Refrain (Japan)</description>
 		<disk name="Dousoukai 2 - Again &amp; Refrain (Japan).chd" sha1="43075cb00ca07ca79d1bc5c2b36606c6c4a35143" />
-	</machine>
-	<machine name="dps - Heartbreak Diary (Japan)">
-		<category>Multimedia</category>
-		<description>dps - Heartbreak Diary (Japan)</description>
-		<disk name="dps - Heartbreak Diary (Japan).chd" sha1="b7a88a6ee6192f699887c934721734c444c33994" />
 	</machine>
 	<machine name="Draconus - Cult of the Wyrm (USA)">
 		<category>Games</category>
@@ -2603,15 +2598,15 @@
 		<description>Frogger 2 - Swampy's Revenge (USA)</description>
 		<disk name="Frogger 2 - Swampy's Revenge (USA).chd" sha1="79e4d6fa51bffff9c083b153133b4671a7b751f7" />
 	</machine>
-	<machine name="Fur Fighters (Europe) (Demo)">
-		<category>Demos</category>
-		<description>Fur Fighters (Europe) (Demo)</description>
-		<disk name="Fur Fighters (Europe) (Demo).chd" sha1="e1825c1ccecc3303e36ced28bbe0b6b683514557" />
-	</machine>
 	<machine name="Fur Fighters (Europe) (En,Fr,De,Es)">
 		<category>Games</category>
 		<description>Fur Fighters (Europe) (En,Fr,De,Es)</description>
 		<disk name="Fur Fighters (Europe) (En,Fr,De,Es).chd" sha1="3357eaeac01f7f7f58e0e60117bab9a6c4030ec1" />
+	</machine>
+	<machine name="Fur Fighters (UK) (Demo)">
+		<category>Coverdiscs</category>
+		<description>Fur Fighters (UK) (Demo)</description>
+		<disk name="Fur Fighters (UK) (Demo).chd" sha1="e1825c1ccecc3303e36ced28bbe0b6b683514557" />
 	</machine>
 	<machine name="Fur Fighters (USA) (En,Fr,De,Es)">
 		<category>Games</category>
@@ -2735,10 +2730,10 @@
 		<description>Ghost Blade (USA, Japan) (Unl) (Rerelease)</description>
 		<disk name="Ghost Blade (USA, Japan) (Unl) (Rerelease).chd" sha1="3cab4da8191acc19180ac44293310c80827800f5" />
 	</machine>
-	<machine name="Giant Gram - Zen Nihon Pro Wres 2 in Nihon Budoukan (Japan)">
+	<machine name="Giant Gram - Zen Nihon Pro Wres 2 in Nippon Budoukan (Japan)">
 		<category>Games</category>
-		<description>Giant Gram - Zen Nihon Pro Wres 2 in Nihon Budoukan (Japan)</description>
-		<disk name="Giant Gram - Zen Nihon Pro Wres 2 in Nihon Budoukan (Japan).chd" sha1="80f95a71ad1ff85223e5e1cfeee9b9b4569e6590" />
+		<description>Giant Gram - Zen Nihon Pro Wres 2 in Nippon Budoukan (Japan)</description>
+		<disk name="Giant Gram - Zen Nihon Pro Wres 2 in Nippon Budoukan (Japan).chd" sha1="80f95a71ad1ff85223e5e1cfeee9b9b4569e6590" />
 	</machine>
 	<machine name="Giant Gram 2000 - Zen Nihon Pro Wres 3 Eikou no Yuusha-tachi (Japan)">
 		<category>Games</category>
@@ -3040,6 +3035,11 @@
 		<category>Games</category>
 		<description>Headhunter (Europe) (En,Fr,De,Es) (Disc 2)</description>
 		<disk name="Headhunter (Europe) (En,Fr,De,Es) (Disc 2).chd" sha1="3fb7902e963fb68844408c44ed91d5bc6862b0f8" />
+	</machine>
+	<machine name="Heartbreak Diary (Japan)">
+		<category>Multimedia</category>
+		<description>Heartbreak Diary (Japan)</description>
+		<disk name="Heartbreak Diary (Japan).chd" sha1="b7a88a6ee6192f699887c934721734c444c33994" />
 	</machine>
 	<machine name="Heavy Metal - Geomatrix (Europe) (En,Fr,De,Es)">
 		<category>Games</category>
@@ -4422,10 +4422,10 @@
 		<description>NFL 2K1 (Japan)</description>
 		<disk name="NFL 2K1 (Japan).chd" sha1="a472cb17295d42b54324045c76b664d6f37f7d61" />
 	</machine>
-	<machine name="NFL 2K1 (USA)">
+	<machine name="NFL 2K1 (USA, Canada)">
 		<category>Games</category>
-		<description>NFL 2K1 (USA)</description>
-		<disk name="NFL 2K1 (USA).chd" sha1="a869b2128862a5b73791048ecb138735a069b339" />
+		<description>NFL 2K1 (USA, Canada)</description>
+		<disk name="NFL 2K1 (USA, Canada).chd" sha1="a869b2128862a5b73791048ecb138735a069b339" />
 	</machine>
 	<machine name="NFL 2K2 (Japan)">
 		<category>Games</category>
@@ -5023,7 +5023,7 @@
 		<disk name="Project Justice (USA).chd" sha1="c83d5d7863362498de0a749bb6b6938c1d9f521b" />
 	</machine>
 	<machine name="Propeller Arena (USA) (Proto)">
-		<category>Games</category>
+		<category>Preproduction</category>
 		<description>Propeller Arena (USA) (Proto)</description>
 		<disk name="Propeller Arena (USA) (Proto).chd" sha1="5381ff45e0a5fbeff3c3ec784d9c7ad85a704582" />
 	</machine>
@@ -5167,15 +5167,15 @@
 		<description>Razor Freestyle Scooter (USA)</description>
 		<disk name="Razor Freestyle Scooter (USA).chd" sha1="00125ff40b6c4dee3ee0a3ee1ee36514a5ec8dc9" />
 	</machine>
-	<machine name="Ready 2 Rumble Boxing - Round 2 (Europe) (Beta) (2000-10-03)">
-		<category>Preproduction</category>
-		<description>Ready 2 Rumble Boxing - Round 2 (Europe) (Beta) (2000-10-03)</description>
-		<disk name="Ready 2 Rumble Boxing - Round 2 (Europe) (Beta) (2000-10-03).chd" sha1="cab9e6185572f86498c95fa1300c8de58ed8f7a4" />
-	</machine>
 	<machine name="Ready 2 Rumble Boxing - Round 2 (Europe) (En,Fr,De)">
 		<category>Games</category>
 		<description>Ready 2 Rumble Boxing - Round 2 (Europe) (En,Fr,De)</description>
 		<disk name="Ready 2 Rumble Boxing - Round 2 (Europe) (En,Fr,De).chd" sha1="30534f8cb4c9f5686cef9a7c2bc993a73cca0caf" />
+	</machine>
+	<machine name="Ready 2 Rumble Boxing - Round 2 (Europe) (En,Fr,De) (Beta) (2000-10-03)">
+		<category>Preproduction</category>
+		<description>Ready 2 Rumble Boxing - Round 2 (Europe) (En,Fr,De) (Beta) (2000-10-03)</description>
+		<disk name="Ready 2 Rumble Boxing - Round 2 (Europe) (En,Fr,De) (Beta) (2000-10-03).chd" sha1="cab9e6185572f86498c95fa1300c8de58ed8f7a4" />
 	</machine>
 	<machine name="Ready 2 Rumble Boxing - Round 2 (USA) (En,Fr,De)">
 		<category>Games</category>
@@ -5529,20 +5529,20 @@
 		<description>Rush Rush Rally Reloaded (USA) (En,Fr,De,Es,It,Nl) (Unl)</description>
 		<disk name="Rush Rush Rally Reloaded (USA) (En,Fr,De,Es,It,Nl) (Unl).chd" sha1="7f5143056d5ec97196eb87237fdabd776998ab43" />
 	</machine>
-	<machine name="Saka Tsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan)">
+	<machine name="Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan)">
 		<category>Games</category>
-		<description>Saka Tsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan)</description>
-		<disk name="Saka Tsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan).chd" sha1="36a077d7a09a8a8bb76a83e2816026f8f105094c" />
+		<description>Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan)</description>
+		<disk name="Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan).chd" sha1="36a077d7a09a8a8bb76a83e2816026f8f105094c" />
 	</machine>
-	<machine name="Saka Tsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A)">
+	<machine name="Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A)">
 		<category>Games</category>
-		<description>Saka Tsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A)</description>
-		<disk name="Saka Tsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A).chd" sha1="5937d5f483f61a12382390006eb544d4f22f6b96" />
+		<description>Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A)</description>
+		<disk name="Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A).chd" sha1="5937d5f483f61a12382390006eb544d4f22f6b96" />
 	</machine>
-	<machine name="Saka Tsuku Tokudai-gou 2 - J.League Pro Soccer Club o Tsukurou! (Japan)">
+	<machine name="Sakatsuku Tokudai-gou 2 - J.League Pro Soccer Club o Tsukurou! (Japan)">
 		<category>Games</category>
-		<description>Saka Tsuku Tokudai-gou 2 - J.League Pro Soccer Club o Tsukurou! (Japan)</description>
-		<disk name="Saka Tsuku Tokudai-gou 2 - J.League Pro Soccer Club o Tsukurou! (Japan).chd" sha1="f58d56871f453462fafc8adc4be74ed810a376ce" />
+		<description>Sakatsuku Tokudai-gou 2 - J.League Pro Soccer Club o Tsukurou! (Japan)</description>
+		<disk name="Sakatsuku Tokudai-gou 2 - J.League Pro Soccer Club o Tsukurou! (Japan).chd" sha1="f58d56871f453462fafc8adc4be74ed810a376ce" />
 	</machine>
 	<machine name="Sakura Momoko Gekijou - Coji-Coji (Japan)">
 		<category>Games</category>
@@ -7754,10 +7754,10 @@
 		<description>Zero Gunner 2 (Japan)</description>
 		<disk name="Zero Gunner 2 (Japan).chd" sha1="c92a58cc5880ef9b9d7146b0b2a8574906f223ee" />
 	</machine>
-	<machine name="Zombie Revenge (Europe) (En,Ja,Fr,De,Es)">
+	<machine name="Zombie Revenge (Europe) (En,Fr,De,Es)">
 		<category>Games</category>
-		<description>Zombie Revenge (Europe) (En,Ja,Fr,De,Es)</description>
-		<disk name="Zombie Revenge (Europe) (En,Ja,Fr,De,Es).chd" sha1="299bfbfc7a56535f80f7f5eef42b8280b8ffa643" />
+		<description>Zombie Revenge (Europe) (En,Fr,De,Es)</description>
+		<disk name="Zombie Revenge (Europe) (En,Fr,De,Es).chd" sha1="299bfbfc7a56535f80f7f5eef42b8280b8ffa643" />
 	</machine>
 	<machine name="Zombie Revenge (Japan)">
 		<category>Games</category>

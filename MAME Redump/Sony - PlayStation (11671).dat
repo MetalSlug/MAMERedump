@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>MAME Redump - Sony - PlayStation - Discs (10863) (2025-07-20 10-42-10)</description>
+		<description>MAME Redump - Sony - PlayStation - Discs (10868) (2025-09-22 12-06-31)</description>
 		<version>0.279</version>
-		<date>2025-08-15</date>
+		<date>2025-09-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -2152,22 +2152,22 @@
 		<manufacturer>Sony Computer Entertainment America</manufacturer>
 		<disk name="Ape Escape (USA).chd" sha1="11b04950f4300f0a44e3197cf6d57a34cc30f17c" />
 	</machine>
-	<machine name="Ape Escape (USA) (SCUS-94470)">
+	<machine name="Ape Escape (USA) (Demo) (SCUS-94470)">
 		<category>Demos</category>
-		<description>Ape Escape (USA) (SCUS-94470)</description>
-		<disk name="Ape Escape (USA) (SCUS-94470).chd" sha1="85d2507f5ef52af4ad1d2da636237fd9e9ff40ee" />
+		<description>Ape Escape (USA) (Demo) (SCUS-94470)</description>
+		<disk name="Ape Escape (USA) (Demo) (SCUS-94470).chd" sha1="85d2507f5ef52af4ad1d2da636237fd9e9ff40ee" />
 	</machine>
-	<machine name="Ape Escape (USA) (SCUS-94489)">
+	<machine name="Ape Escape (USA) (Demo) (SCUS-94489)">
 		<category>Demos</category>
-		<description>Ape Escape (USA) (SCUS-94489)</description>
-		<disk name="Ape Escape (USA) (SCUS-94489).chd" sha1="a0328edf1d72e8aaa453a4e88821455343591b56" />
+		<description>Ape Escape (USA) (Demo) (SCUS-94489)</description>
+		<disk name="Ape Escape (USA) (Demo) (SCUS-94489).chd" sha1="a0328edf1d72e8aaa453a4e88821455343591b56" />
 	</machine>
-	<machine name="Ape Escape (USA) (SCUS-94489) (EDC)">
+	<machine name="Ape Escape (USA) (Demo) (SCUS-94489) (EDC)">
 		<category>Demos</category>
-		<description>Ape Escape (USA) (SCUS-94489) (EDC)</description>
+		<description>Ape Escape (USA) (Demo) (SCUS-94489) (EDC)</description>
 		<year>1999</year>
 		<manufacturer>Sony Computer Entertainment America</manufacturer>
-		<disk name="Ape Escape (USA) (SCUS-94489) (EDC).chd" sha1="405ae3eefed863bd17692658b2e92d012ee2a157" />
+		<disk name="Ape Escape (USA) (Demo) (SCUS-94489) (EDC).chd" sha1="405ae3eefed863bd17692658b2e92d012ee2a157" />
 	</machine>
 	<machine name="Apocalypse (Europe)">
 		<category>Games</category>
@@ -8679,10 +8679,10 @@
 		<description>Crash Bandicoot (USA) (Beta) (1996-05-14)</description>
 		<disk name="Crash Bandicoot (USA) (Beta) (1996-05-14).chd" sha1="81233fa4206da380a2d1f6ef4e03dc9ad5700068" />
 	</machine>
-	<machine name="Crash Bandicoot 2 - Cortex no Gyakushuu! (Japan) (Demo)">
+	<machine name="Crash Bandicoot 2 - Cortex no Gyakushuu! (Japan) (Taikenban)">
 		<category>Demos</category>
-		<description>Crash Bandicoot 2 - Cortex no Gyakushuu! (Japan) (Demo)</description>
-		<disk name="Crash Bandicoot 2 - Cortex no Gyakushuu! (Japan) (Demo).chd" sha1="15a7368a321fe24c6193adb4d83c197501565960" />
+		<description>Crash Bandicoot 2 - Cortex no Gyakushuu! (Japan) (Taikenban)</description>
+		<disk name="Crash Bandicoot 2 - Cortex no Gyakushuu! (Japan) (Taikenban).chd" sha1="15a7368a321fe24c6193adb4d83c197501565960" />
 	</machine>
 	<machine name="Crash Bandicoot 2 - Cortex no Gyakushuu! (Japan, Asia)">
 		<category>Games</category>
@@ -9467,30 +9467,30 @@
 		<description>D-1 Grand Prix (Japan) (Demo)</description>
 		<disk name="D-1 Grand Prix (Japan) (Demo).chd" sha1="ff40412b7eded9701034b8df0eb8fe2be6202823" />
 	</machine>
-	<machine name="Dai-2-Ji Super Robot Taisen (Japan)">
+	<machine name="Dai-2-ji Super Robot Taisen (Japan)">
 		<category>Games</category>
-		<description>Dai-2-Ji Super Robot Taisen (Japan)</description>
-		<disk name="Dai-2-Ji Super Robot Taisen (Japan).chd" sha1="dcf7eea9b2b0db065f84ff817fb1c48fdfc36bd7" />
+		<description>Dai-2-ji Super Robot Taisen (Japan)</description>
+		<disk name="Dai-2-ji Super Robot Taisen (Japan).chd" sha1="dcf7eea9b2b0db065f84ff817fb1c48fdfc36bd7" />
 	</machine>
 	<machine name="Dai-2-kai! Quiz Darake no Jinsei Game (Japan)">
 		<category>Games</category>
 		<description>Dai-2-kai! Quiz Darake no Jinsei Game (Japan)</description>
 		<disk name="Dai-2-kai! Quiz Darake no Jinsei Game (Japan).chd" sha1="88f879e6a6f4aed1c043663f309570928f99d06d" />
 	</machine>
-	<machine name="Dai-3-Ji Super Robot Taisen (Japan)">
+	<machine name="Dai-3-ji Super Robot Taisen (Japan)">
 		<category>Games</category>
-		<description>Dai-3-Ji Super Robot Taisen (Japan)</description>
-		<disk name="Dai-3-Ji Super Robot Taisen (Japan).chd" sha1="eae5a7ffc56bf36ff58dbd51bb4514eea38e6fa3" />
+		<description>Dai-3-ji Super Robot Taisen (Japan)</description>
+		<disk name="Dai-3-ji Super Robot Taisen (Japan).chd" sha1="eae5a7ffc56bf36ff58dbd51bb4514eea38e6fa3" />
 	</machine>
-	<machine name="Dai-4-Ji Super Robot Taisen S (Japan)">
+	<machine name="Dai-4-ji Super Robot Taisen S (Japan)">
 		<category>Games</category>
-		<description>Dai-4-Ji Super Robot Taisen S (Japan)</description>
-		<disk name="Dai-4-Ji Super Robot Taisen S (Japan).chd" sha1="e6488ee759be3b2992fbead7f282c7e9e46cbc4b" />
+		<description>Dai-4-ji Super Robot Taisen S (Japan)</description>
+		<disk name="Dai-4-ji Super Robot Taisen S (Japan).chd" sha1="e6488ee759be3b2992fbead7f282c7e9e46cbc4b" />
 	</machine>
-	<machine name="Dai-4-Ji Super Robot Taisen S (Japan) (Rev 1)">
+	<machine name="Dai-4-ji Super Robot Taisen S (Japan) (Rev 1)">
 		<category>Games</category>
-		<description>Dai-4-Ji Super Robot Taisen S (Japan) (Rev 1)</description>
-		<disk name="Dai-4-Ji Super Robot Taisen S (Japan) (Rev 1).chd" sha1="d9c324cb11f795b88bcd5c4f3a191fd47a4acf22" />
+		<description>Dai-4-ji Super Robot Taisen S (Japan) (Rev 1)</description>
+		<disk name="Dai-4-ji Super Robot Taisen S (Japan) (Rev 1).chd" sha1="d9c324cb11f795b88bcd5c4f3a191fd47a4acf22" />
 	</machine>
 	<machine name="Daibouken Deluxe - Haruka naru Umi (Japan)">
 		<category>Games</category>
@@ -18586,12 +18586,12 @@
 		<description>Formula 1 98 (Europe) (En,Fr,De,Es,It,Fi) (Rev 1)</description>
 		<disk name="Formula 1 98 (Europe) (En,Fr,De,Es,It,Fi) (Rev 1).chd" sha1="4ae4d0cb59142a9f2f45570c142ef8231ba211de" />
 	</machine>
-	<machine name="Formula 1 98 (USA) (En,Fr,De,Es,It,Fi)">
+	<machine name="Formula 1 98 (USA, Canada) (En,Fr,De,Es,It,Fi)">
 		<category>Games</category>
-		<description>Formula 1 98 (USA) (En,Fr,De,Es,It,Fi)</description>
+		<description>Formula 1 98 (USA, Canada) (En,Fr,De,Es,It,Fi)</description>
 		<year>1998</year>
 		<manufacturer>Psygnosis</manufacturer>
-		<disk name="Formula 1 98 (USA) (En,Fr,De,Es,It,Fi).chd" sha1="5b8407c8c5a16a302cf945dc8280a1c0b0291d49" />
+		<disk name="Formula 1 98 (USA, Canada) (En,Fr,De,Es,It,Fi).chd" sha1="5b8407c8c5a16a302cf945dc8280a1c0b0291d49" />
 	</machine>
 	<machine name="Formula 1 Championship Edition (USA) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -20623,20 +20623,20 @@
 		<description>Gran Turismo (France) (Demo)</description>
 		<disk name="Gran Turismo (France) (Demo).chd" sha1="2d0860cfa494a75902187be04dd3219676c6f525" />
 	</machine>
-	<machine name="Gran Turismo (Japan) (Demo 1)">
+	<machine name="Gran Turismo (Japan) (Taikenban)">
 		<category>Demos</category>
-		<description>Gran Turismo (Japan) (Demo 1)</description>
-		<disk name="Gran Turismo (Japan) (Demo 1).chd" sha1="7966868fd3bc1d6f413c6e17922f189d36c605dc" />
+		<description>Gran Turismo (Japan) (Taikenban)</description>
+		<disk name="Gran Turismo (Japan) (Taikenban).chd" sha1="a06f3efc964a83c2419fa54913d5734aec6cb0ef" />
 	</machine>
-	<machine name="Gran Turismo (Japan) (Demo 2)">
+	<machine name="Gran Turismo (Japan) (Tentou Shiyuudai-you Disc)">
 		<category>Demos</category>
-		<description>Gran Turismo (Japan) (Demo 2)</description>
-		<disk name="Gran Turismo (Japan) (Demo 2).chd" sha1="8beb593b6f2ea6bd14fa75b2c3bade67e52cc513" />
+		<description>Gran Turismo (Japan) (Tentou Shiyuudai-you Disc)</description>
+		<disk name="Gran Turismo (Japan) (Tentou Shiyuudai-you Disc).chd" sha1="8beb593b6f2ea6bd14fa75b2c3bade67e52cc513" />
 	</machine>
-	<machine name="Gran Turismo (Japan) (Demo 3)">
+	<machine name="Gran Turismo (Japan) (Test Drive Disc)">
 		<category>Demos</category>
-		<description>Gran Turismo (Japan) (Demo 3)</description>
-		<disk name="Gran Turismo (Japan) (Demo 3).chd" sha1="a06f3efc964a83c2419fa54913d5734aec6cb0ef" />
+		<description>Gran Turismo (Japan) (Test Drive Disc)</description>
+		<disk name="Gran Turismo (Japan) (Test Drive Disc).chd" sha1="7966868fd3bc1d6f413c6e17922f189d36c605dc" />
 	</machine>
 	<machine name="Gran Turismo (Japan, Asia)">
 		<category>Games</category>
@@ -29425,10 +29425,10 @@
 		<description>Marvel Super Heroes vs. Street Fighter - EX Edition (Japan)</description>
 		<disk name="Marvel Super Heroes vs. Street Fighter - EX Edition (Japan).chd" sha1="c6344de9d76aca0f6e974440bf1764b769e75749" />
 	</machine>
-	<machine name="Marvel Super Heroes vs. Street Fighter - EX Edition (Japan) (Demo)">
+	<machine name="Marvel Super Heroes vs. Street Fighter - EX Edition (Japan) (Taikenban)">
 		<category>Demos</category>
-		<description>Marvel Super Heroes vs. Street Fighter - EX Edition (Japan) (Demo)</description>
-		<disk name="Marvel Super Heroes vs. Street Fighter - EX Edition (Japan) (Demo).chd" sha1="af969b3757cfdd266499e537561ff4c1734bd796" />
+		<description>Marvel Super Heroes vs. Street Fighter - EX Edition (Japan) (Taikenban)</description>
+		<disk name="Marvel Super Heroes vs. Street Fighter - EX Edition (Japan) (Taikenban).chd" sha1="af969b3757cfdd266499e537561ff4c1734bd796" />
 	</machine>
 	<machine name="Marvel Super Heroes vs. Street Fighter (Europe)">
 		<category>Games</category>
@@ -36803,6 +36803,26 @@
 		<description>Pachitte Chonmage 3 - Kyoraku Kounin Gladiator &amp; Tama-chan (Japan)</description>
 		<disk name="Pachitte Chonmage 3 - Kyoraku Kounin Gladiator &amp; Tama-chan (Japan).chd" sha1="dfb6078323f67d26377321baea31398c70fb8b36" />
 	</machine>
+	<machine name="Pac-Man World - 20th Anniversary (Europe)">
+		<category>Games</category>
+		<description>Pac-Man World - 20th Anniversary (Europe)</description>
+		<disk name="Pac-Man World - 20th Anniversary (Europe).chd" sha1="bde0538610e4d1d023d9b73f3b1e33eaa5442f0f" />
+	</machine>
+	<machine name="Pac-Man World - 20th Anniversary (France)">
+		<category>Games</category>
+		<description>Pac-Man World - 20th Anniversary (France)</description>
+		<disk name="Pac-Man World - 20th Anniversary (France).chd" sha1="1451f9991939a393bc3e6b310c57f92c6b1b124e" />
+	</machine>
+	<machine name="Pac-Man World - 20th Anniversary (Germany)">
+		<category>Games</category>
+		<description>Pac-Man World - 20th Anniversary (Germany)</description>
+		<disk name="Pac-Man World - 20th Anniversary (Germany).chd" sha1="d21f9e14be579e471323ae1bb7784280429756d6" />
+	</machine>
+	<machine name="Pac-Man World - 20th Anniversary (Italy)">
+		<category>Games</category>
+		<description>Pac-Man World - 20th Anniversary (Italy)</description>
+		<disk name="Pac-Man World - 20th Anniversary (Italy).chd" sha1="a532810a4d5badbb02e3bda7b4b9ba09027f57fb" />
+	</machine>
 	<machine name="Pac-Man World - 20th Anniversary (Japan)">
 		<category>Games</category>
 		<description>Pac-Man World - 20th Anniversary (Japan)</description>
@@ -36812,6 +36832,11 @@
 		<category>Demos</category>
 		<description>Pac-Man World - 20th Anniversary (Japan) (Demo)</description>
 		<disk name="Pac-Man World - 20th Anniversary (Japan) (Demo).chd" sha1="31bcbc8506033bb34bab67610402507ed41d6a6c" />
+	</machine>
+	<machine name="Pac-Man World - 20th Anniversary (Spain)">
+		<category>Games</category>
+		<description>Pac-Man World - 20th Anniversary (Spain)</description>
+		<disk name="Pac-Man World - 20th Anniversary (Spain).chd" sha1="a7d17827f8d45a10c6053baf9dec86bb59f53a4b" />
 	</machine>
 	<machine name="Pac-Man World - 20th Anniversary (USA)">
 		<category>Games</category>
@@ -36831,31 +36856,6 @@
 		<year>1999</year>
 		<manufacturer>Namco Hometek</manufacturer>
 		<disk name="Pac-Man World (USA) (Demo) (Rev 1).chd" sha1="d68d4bf76d6a7c63fd71a856092f6045bc08f483" />
-	</machine>
-	<machine name="Pac-Man World 20th Anniversary (Europe)">
-		<category>Games</category>
-		<description>Pac-Man World 20th Anniversary (Europe)</description>
-		<disk name="Pac-Man World 20th Anniversary (Europe).chd" sha1="bde0538610e4d1d023d9b73f3b1e33eaa5442f0f" />
-	</machine>
-	<machine name="Pac-Man World 20th Anniversary (France)">
-		<category>Games</category>
-		<description>Pac-Man World 20th Anniversary (France)</description>
-		<disk name="Pac-Man World 20th Anniversary (France).chd" sha1="1451f9991939a393bc3e6b310c57f92c6b1b124e" />
-	</machine>
-	<machine name="Pac-Man World 20th Anniversary (Germany)">
-		<category>Games</category>
-		<description>Pac-Man World 20th Anniversary (Germany)</description>
-		<disk name="Pac-Man World 20th Anniversary (Germany).chd" sha1="d21f9e14be579e471323ae1bb7784280429756d6" />
-	</machine>
-	<machine name="Pac-Man World 20th Anniversary (Italy)">
-		<category>Games</category>
-		<description>Pac-Man World 20th Anniversary (Italy)</description>
-		<disk name="Pac-Man World 20th Anniversary (Italy).chd" sha1="a532810a4d5badbb02e3bda7b4b9ba09027f57fb" />
-	</machine>
-	<machine name="Pac-Man World 20th Anniversary (Spain)">
-		<category>Games</category>
-		<description>Pac-Man World 20th Anniversary (Spain)</description>
-		<disk name="Pac-Man World 20th Anniversary (Spain).chd" sha1="a7d17827f8d45a10c6053baf9dec86bb59f53a4b" />
 	</machine>
 	<machine name="Pajama Sam - You Are What You Eat from Your Head to Your Feet (Europe)">
 		<category>Games</category>
@@ -40509,15 +40509,15 @@
 		<description>R (Japan) (Disc 2) (Photo Album) (Shokai Genteiban)</description>
 		<disk name="R (Japan) (Disc 2) (Photo Album) (Shokai Genteiban).chd" sha1="dbd682cf720b15aff79a0af5fb194658da7e3ff0" />
 	</machine>
-	<machine name="R4 - Ridge Racer Type 4 (Japan) (R4 + JogCon)">
-		<category>Games</category>
-		<description>R4 - Ridge Racer Type 4 (Japan) (R4 + JogCon)</description>
-		<disk name="R4 - Ridge Racer Type 4 (Japan) (R4 + JogCon).chd" sha1="042dd4f0caf4f43dfdd54ce0eea84d1510cfc4d9" />
-	</machine>
 	<machine name="R4 - Ridge Racer Type 4 (Japan, Asia)">
 		<category>Games</category>
 		<description>R4 - Ridge Racer Type 4 (Japan, Asia)</description>
 		<disk name="R4 - Ridge Racer Type 4 (Japan, Asia).chd" sha1="0f7546dec43db7298d6757697b1288600485ae9f" />
+	</machine>
+	<machine name="R4 - Ridge Racer Type 4 (Japan, Asia) (R4 + JogCon)">
+		<category>Games</category>
+		<description>R4 - Ridge Racer Type 4 (Japan, Asia) (R4 + JogCon)</description>
+		<disk name="R4 - Ridge Racer Type 4 (Japan, Asia) (R4 + JogCon).chd" sha1="042dd4f0caf4f43dfdd54ce0eea84d1510cfc4d9" />
 	</machine>
 	<machine name="R4 - Ridge Racer Type 4 (Korea)">
 		<category>Games</category>
@@ -41871,15 +41871,15 @@
 		<description>Ridegear Guybrave II (Japan) (Disc 2)</description>
 		<disk name="Ridegear Guybrave II (Japan) (Disc 2).chd" sha1="4ee0639a2371ce21077aa2266b9f4c529f2128fb" />
 	</machine>
-	<machine name="Ridge Racer - High Spec Ver. &amp; Namco Catalogue '98 (Japan) (R4 + JogCon)">
-		<category>Bonus Discs</category>
-		<description>Ridge Racer - High Spec Ver. &amp; Namco Catalogue '98 (Japan) (R4 + JogCon)</description>
-		<disk name="Ridge Racer - High Spec Ver. &amp; Namco Catalogue '98 (Japan) (R4 + JogCon).chd" sha1="a6b484e01b9db7c91f7165215ec492a5bfaee359" />
-	</machine>
 	<machine name="Ridge Racer - High Spec Ver. &amp; Namco Catalogue '98 (Japan, Asia)">
 		<category>Bonus Discs</category>
 		<description>Ridge Racer - High Spec Ver. &amp; Namco Catalogue '98 (Japan, Asia)</description>
 		<disk name="Ridge Racer - High Spec Ver. &amp; Namco Catalogue '98 (Japan, Asia).chd" sha1="79f5fad8f3fe9d43ac539922d317ec1b125b0931" />
+	</machine>
+	<machine name="Ridge Racer - High Spec Ver. &amp; Namco Catalogue '98 (Japan, Asia) (R4 + JogCon)">
+		<category>Bonus Discs</category>
+		<description>Ridge Racer - High Spec Ver. &amp; Namco Catalogue '98 (Japan, Asia) (R4 + JogCon)</description>
+		<disk name="Ridge Racer - High Spec Ver. &amp; Namco Catalogue '98 (Japan, Asia) (R4 + JogCon).chd" sha1="a6b484e01b9db7c91f7165215ec492a5bfaee359" />
 	</machine>
 	<machine name="Ridge Racer (Europe)">
 		<category>Games</category>
@@ -47239,19 +47239,19 @@
 		<description>Spyro the Dragon (USA) (Beta) (1998-07-19)</description>
 		<disk name="Spyro the Dragon (USA) (Beta) (1998-07-19).chd" sha1="120b9921e235a63d54415d67902eb4886ff57379" />
 	</machine>
-	<machine name="Spyro the Dragon (USA) (SCUS-94290)">
+	<machine name="Spyro the Dragon (USA) (Demo) (SCUS-94290)">
 		<category>Demos</category>
-		<description>Spyro the Dragon (USA) (SCUS-94290)</description>
+		<description>Spyro the Dragon (USA) (Demo) (SCUS-94290)</description>
 		<year>1998</year>
 		<manufacturer>Sony Computer Entertainment America</manufacturer>
-		<disk name="Spyro the Dragon (USA) (SCUS-94290).chd" sha1="e6da32250fc71f7ed025b19929c0bec63191413e" />
+		<disk name="Spyro the Dragon (USA) (Demo) (SCUS-94290).chd" sha1="e6da32250fc71f7ed025b19929c0bec63191413e" />
 	</machine>
-	<machine name="Spyro the Dragon (USA) (SCUS-94439)">
+	<machine name="Spyro the Dragon (USA) (Demo) (SCUS-94439)">
 		<category>Demos</category>
-		<description>Spyro the Dragon (USA) (SCUS-94439)</description>
+		<description>Spyro the Dragon (USA) (Demo) (SCUS-94439)</description>
 		<year>1999</year>
 		<manufacturer>Sony Computer Entertainment America</manufacturer>
-		<disk name="Spyro the Dragon (USA) (SCUS-94439).chd" sha1="fc5cf643addd83406524e02620f8ff68ce2458aa" />
+		<disk name="Spyro the Dragon (USA) (Demo) (SCUS-94439).chd" sha1="fc5cf643addd83406524e02620f8ff68ce2458aa" />
 	</machine>
 	<machine name="Spyro the Dragon Speciale (France)">
 		<category>Demos</category>
@@ -50471,10 +50471,10 @@
 		<description>Taregoro - Tarepanda no Iru Nichijou (Japan)</description>
 		<disk name="Taregoro - Tarepanda no Iru Nichijou (Japan).chd" sha1="3da99d9e3c9ae3a1d0f56e7360a9ee49cb1589ad" />
 	</machine>
-	<machine name="Tasogare no Ode - Ode to the Sunset Era (Japan)">
+	<machine name="Tasogare no Ode (Japan)">
 		<category>Games</category>
-		<description>Tasogare no Ode - Ode to the Sunset Era (Japan)</description>
-		<disk name="Tasogare no Ode - Ode to the Sunset Era (Japan).chd" sha1="20f6b18426c7b5a59496848714a974ff1fea220f" />
+		<description>Tasogare no Ode (Japan)</description>
+		<disk name="Tasogare no Ode (Japan).chd" sha1="20f6b18426c7b5a59496848714a974ff1fea220f" />
 	</machine>
 	<machine name="Tatsunoko Fight (Japan)">
 		<category>Games</category>
@@ -54570,10 +54570,10 @@
 		<description>Velldeselba Senki - Tsubasa no Kunshou (Japan) (Demo)</description>
 		<disk name="Velldeselba Senki - Tsubasa no Kunshou (Japan) (Demo).chd" sha1="fb02e8118f0eefb1e7092c3e5ad1cc3a0c65ee8a" />
 	</machine>
-	<machine name="Vem Vill Bli Miljonaer (Sweden)">
+	<machine name="Vem vill bli Miljonaer (Sweden)">
 		<category>Games</category>
-		<description>Vem Vill Bli Miljonaer (Sweden)</description>
-		<disk name="Vem Vill Bli Miljonaer (Sweden).chd" sha1="cfa92029e110cf58c0a6d232c6e9896267659d32" />
+		<description>Vem vill bli Miljonaer (Sweden)</description>
+		<disk name="Vem vill bli Miljonaer (Sweden).chd" sha1="cfa92029e110cf58c0a6d232c6e9896267659d32" />
 	</machine>
 	<machine name="Vermin Kids (Japan)">
 		<category>Games</category>
@@ -55608,10 +55608,10 @@
 		<description>Weakest Link, The (USA) (Rev 1)</description>
 		<disk name="Weakest Link, The (USA) (Rev 1).chd" sha1="e18e9324774679cffed3bbb9bc38ef91ba91bda5" />
 	</machine>
-	<machine name="Wedding Peach - Doki Doki Oiro-naoshi (Japan)">
+	<machine name="Wedding Peach - Doki Doki Oironaoshi (Japan)">
 		<category>Games</category>
-		<description>Wedding Peach - Doki Doki Oiro-naoshi (Japan)</description>
-		<disk name="Wedding Peach - Doki Doki Oiro-naoshi (Japan).chd" sha1="b0da6bde6dabca793b1b35d8f2711b2186a91c18" />
+		<description>Wedding Peach - Doki Doki Oironaoshi (Japan)</description>
+		<disk name="Wedding Peach - Doki Doki Oironaoshi (Japan).chd" sha1="b0da6bde6dabca793b1b35d8f2711b2186a91c18" />
 	</machine>
 	<machine name="Weekly the PlayStation Limited No. 1 (Japan)">
 		<category>Demos</category>

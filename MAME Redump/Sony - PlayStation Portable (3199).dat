@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable</name>
-		<description>MAME Redump - Sony - PlayStation Portable - Discs (3208) (2025-07-21 15-14-54)</description>
+		<description>MAME Redump - Sony - PlayStation Portable - Discs (3313) (2025-09-22 11-07-52)</description>
 		<version>0.279</version>
-		<date>2025-08-06</date>
+		<date>2025-09-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -219,20 +219,20 @@
 		<description>Ace Combat X - Skies of Deception (Japan, Asia) (En,Ja,Fr,De,Es,It,Ko) (v1.01)</description>
 		<disk name="Ace Combat X - Skies of Deception (Japan, Asia) (En,Ja,Fr,De,Es,It,Ko) (v1.01).chd" sha1="6203bb46ab64b11ad2db14804f66b9b2a436a9a4" />
 	</machine>
-	<machine name="Ace Combat X - Skies of Deception (Korea) (En,Ko)">
+	<machine name="Ace Combat X - Skies of Deception (Korea) (En,Ja,Fr,De,Es,It,Ko)">
 		<category>Games</category>
-		<description>Ace Combat X - Skies of Deception (Korea) (En,Ko)</description>
-		<disk name="Ace Combat X - Skies of Deception (Korea) (En,Ko).chd" sha1="7d9f03e2c3a280ad04d99cc6c178a08ce29e81c8" />
+		<description>Ace Combat X - Skies of Deception (Korea) (En,Ja,Fr,De,Es,It,Ko)</description>
+		<disk name="Ace Combat X - Skies of Deception (Korea) (En,Ja,Fr,De,Es,It,Ko).chd" sha1="7d9f03e2c3a280ad04d99cc6c178a08ce29e81c8" />
 	</machine>
 	<machine name="Ace Combat X - Skies of Deception (USA) (En,Ja,Fr,De,Es,It,Ko)">
 		<category>Games</category>
 		<description>Ace Combat X - Skies of Deception (USA) (En,Ja,Fr,De,Es,It,Ko)</description>
 		<disk name="Ace Combat X - Skies of Deception (USA) (En,Ja,Fr,De,Es,It,Ko).chd" sha1="31317802e86e703c3190168f338c16b51859a05b" />
 	</machine>
-	<machine name="Ace Combat X2 - Joint Assault (Japan)">
+	<machine name="Ace Combat X2 - Joint Assault (Japan, Korea) (En,Ja,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Ace Combat X2 - Joint Assault (Japan)</description>
-		<disk name="Ace Combat X2 - Joint Assault (Japan).chd" sha1="a6de755e34691f6c1e2d570774f66eb70070ed44" />
+		<description>Ace Combat X2 - Joint Assault (Japan, Korea) (En,Ja,Fr,De,Es,It)</description>
+		<disk name="Ace Combat X2 - Joint Assault (Japan, Korea) (En,Ja,Fr,De,Es,It).chd" sha1="a6de755e34691f6c1e2d570774f66eb70070ed44" />
 	</machine>
 	<machine name="Aces of War (Europe)">
 		<category>Games</category>
@@ -1269,6 +1269,16 @@
 		<description>Boxer's Road 2 - The Real (Japan)</description>
 		<disk name="Boxer's Road 2 - The Real (Japan).chd" sha1="dfa0256a062121245ac4122637cd6d63b329a9d0" />
 	</machine>
+	<machine name="Brain Trainer Portable (Japan)">
+		<category>Games</category>
+		<description>Brain Trainer Portable (Japan)</description>
+		<disk name="Brain Trainer Portable (Japan).chd" sha1="4d26c50723eeccd6c7f245bb2e241666c98cc038" />
+	</machine>
+	<machine name="Brain Trainer Portable 2 (Japan)">
+		<category>Games</category>
+		<description>Brain Trainer Portable 2 (Japan)</description>
+		<disk name="Brain Trainer Portable 2 (Japan).chd" sha1="b083b1aeec668a8c6f25ef1a358cc1315f209878" />
+	</machine>
 	<machine name="Brandish - The Dark Revenant (Japan)">
 		<category>Games</category>
 		<description>Brandish - The Dark Revenant (Japan)</description>
@@ -1839,6 +1849,11 @@
 		<description>Chase Cop - Pursuit Force (Korea)</description>
 		<disk name="Chase Cop - Pursuit Force (Korea).chd" sha1="cf3fb82eb6d227f0ed50102750d045a805aff792" />
 	</machine>
+	<machine name="Cheonjiui Mun (Korea)">
+		<category>Games</category>
+		<description>Cheonjiui Mun (Korea)</description>
+		<disk name="Cheonjiui Mun (Korea).chd" sha1="eaddc83090670d432feddba27e68fcc3e683c411" />
+	</machine>
 	<machine name="Chessmaster - The Art of Learning (Europe) (En,Fr,De,Es,It,Nl)">
 		<category>Games</category>
 		<description>Chessmaster - The Art of Learning (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -2359,15 +2374,15 @@
 		<description>D.C.I&amp;II P.S.P. - Da Capo I &amp; II - Plus Situation Portable (Japan) (Disc 2)</description>
 		<disk name="D.C.I&amp;II P.S.P. - Da Capo I &amp; II - Plus Situation Portable (Japan) (Disc 2).chd" sha1="67f8e3f7c0b3df6d4c2a459e4c66cd586108f313" />
 	</machine>
-	<machine name="Dai-2-Ji Super Robot Taisen Z Hakai-hen (Japan)">
+	<machine name="Dai-2-ji Super Robot Taisen Z Hakai-hen (Japan)">
 		<category>Games</category>
-		<description>Dai-2-Ji Super Robot Taisen Z Hakai-hen (Japan)</description>
-		<disk name="Dai-2-Ji Super Robot Taisen Z Hakai-hen (Japan).chd" sha1="883977ebeeba1bc0b0d1eb11fbc32b06c211228f" />
+		<description>Dai-2-ji Super Robot Taisen Z Hakai-hen (Japan)</description>
+		<disk name="Dai-2-ji Super Robot Taisen Z Hakai-hen (Japan).chd" sha1="883977ebeeba1bc0b0d1eb11fbc32b06c211228f" />
 	</machine>
-	<machine name="Dai-2-Ji Super Robot Taisen Z Saisei-hen (Japan)">
+	<machine name="Dai-2-ji Super Robot Taisen Z Saisei-hen (Japan)">
 		<category>Games</category>
-		<description>Dai-2-Ji Super Robot Taisen Z Saisei-hen (Japan)</description>
-		<disk name="Dai-2-Ji Super Robot Taisen Z Saisei-hen (Japan).chd" sha1="1562955c0fb81495fc184bfc6647052bef1415f0" />
+		<description>Dai-2-ji Super Robot Taisen Z Saisei-hen (Japan)</description>
+		<disk name="Dai-2-ji Super Robot Taisen Z Saisei-hen (Japan).chd" sha1="1562955c0fb81495fc184bfc6647052bef1415f0" />
 	</machine>
 	<machine name="Daikoukai Jidai IV - Rota Nova (Japan)">
 		<category>Games</category>
@@ -2764,10 +2779,10 @@
 		<description>Diner Dash (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Diner Dash (Europe) (En,Fr,De,Es,It).chd" sha1="d390ca4278e3e99292b14a894aeacffcdcc0c4ef" />
 	</machine>
-	<machine name="Dirt 2 (USA)">
+	<machine name="Dirt 2 (USA) (En,Fr,Es)">
 		<category>Games</category>
-		<description>Dirt 2 (USA)</description>
-		<disk name="Dirt 2 (USA).chd" sha1="6654391dc949f92e632f393f59c6d77ee72fcfc1" />
+		<description>Dirt 2 (USA) (En,Fr,Es)</description>
+		<disk name="Dirt 2 (USA) (En,Fr,Es).chd" sha1="6654391dc949f92e632f393f59c6d77ee72fcfc1" />
 	</machine>
 	<machine name="Disgaea - Afternoon of Darkness (Asia)">
 		<category>Games</category>
@@ -3983,6 +3998,11 @@
 		<category>Games</category>
 		<description>Fat Princess - Fistful of Cake (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
 		<disk name="Fat Princess - Fistful of Cake (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Ru).chd" sha1="d3e30885cd44508d2fb1c7793fff39cf961150d4" />
+	</machine>
+	<machine name="Fat Princess - Fistful of Cake (Korea) (En,Zh,Ko)">
+		<category>Games</category>
+		<description>Fat Princess - Fistful of Cake (Korea) (En,Zh,Ko)</description>
+		<disk name="Fat Princess - Fistful of Cake (Korea) (En,Zh,Ko).chd" sha1="36eb16ac83152ed4adf5f1c1d98ee5d0e215981b" />
 	</machine>
 	<machine name="Fat Princess - Fistful of Cake (USA)">
 		<category>Games</category>
@@ -5544,15 +5564,15 @@
 		<description>Gretzky NHL 06 (USA)</description>
 		<disk name="Gretzky NHL 06 (USA).chd" sha1="1cab7807197f0dfcb229dbdac667365141444db4" />
 	</machine>
-	<machine name="Gripshift (Europe) (En,Fr,De,Es,It)">
+	<machine name="GripShift (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Gripshift (Europe) (En,Fr,De,Es,It)</description>
-		<disk name="Gripshift (Europe) (En,Fr,De,Es,It).chd" sha1="8389f67064ab0dac4afd623bd6c975a174c1c741" />
+		<description>GripShift (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="GripShift (Europe) (En,Fr,De,Es,It).chd" sha1="8389f67064ab0dac4afd623bd6c975a174c1c741" />
 	</machine>
-	<machine name="Gripshift (USA)">
+	<machine name="GripShift (USA)">
 		<category>Games</category>
-		<description>Gripshift (USA)</description>
-		<disk name="Gripshift (USA).chd" sha1="f29f471bc6a776eef493951377b4700a0d314278" />
+		<description>GripShift (USA)</description>
+		<disk name="GripShift (USA).chd" sha1="f29f471bc6a776eef493951377b4700a0d314278" />
 	</machine>
 	<machine name="Grisaia no Kajitsu - Le Fruit de la Grisaia (Japan) (Disc 1)">
 		<category>Games</category>
@@ -5579,10 +5599,10 @@
 		<description>Growlanser - Wayfarer of Time (USA)</description>
 		<disk name="Growlanser - Wayfarer of Time (USA).chd" sha1="f9968a8334f13dd7943f494d3a09bb3b70fb33ce" />
 	</machine>
-	<machine name="Growlanser (Asia)">
+	<machine name="Growlanser (Japan, Asia)">
 		<category>Games</category>
-		<description>Growlanser (Asia)</description>
-		<disk name="Growlanser (Asia).chd" sha1="66b5c3feb011c96d9e97951249f817037d24e576" />
+		<description>Growlanser (Japan, Asia)</description>
+		<disk name="Growlanser (Japan, Asia).chd" sha1="66b5c3feb011c96d9e97951249f817037d24e576" />
 	</machine>
 	<machine name="Growlanser IV - Over Reloaded (Japan)">
 		<category>Games</category>
@@ -6559,10 +6579,10 @@
 		<description>J.League Pro Soccer Club o Tsukurou! 6 - Pride of J (Japan)</description>
 		<disk name="J.League Pro Soccer Club o Tsukurou! 6 - Pride of J (Japan).chd" sha1="b576ae5b81a692fa55d6097711cd33f708d9641e" />
 	</machine>
-	<machine name="J.League Pro Soccer Club o Tsukurou! 7 - Euro Plus (Japan)">
+	<machine name="J.League Pro Soccer Club o Tsukurou! 7 - Euro Plus (Japan) (v1.02)">
 		<category>Games</category>
-		<description>J.League Pro Soccer Club o Tsukurou! 7 - Euro Plus (Japan)</description>
-		<disk name="J.League Pro Soccer Club o Tsukurou! 7 - Euro Plus (Japan).chd" sha1="0458f5a557aaada8d5a49949de7d0e3dafa4b276" />
+		<description>J.League Pro Soccer Club o Tsukurou! 7 - Euro Plus (Japan) (v1.02)</description>
+		<disk name="J.League Pro Soccer Club o Tsukurou! 7 - Euro Plus (Japan) (v1.02).chd" sha1="0458f5a557aaada8d5a49949de7d0e3dafa4b276" />
 	</machine>
 	<machine name="J.League Pro Soccer Club o Tsukurou! 8 - Euro Plus (Japan)">
 		<category>Games</category>
@@ -6649,10 +6669,10 @@
 		<description>Jeanne d'Arc (USA) (Demo)</description>
 		<disk name="Jeanne d'Arc (USA) (Demo).chd" sha1="95774eb75f2c796dd1981603400d7ca3faf0a2e0" />
 	</machine>
-	<machine name="Jet de Go! Pocket (Asia)">
+	<machine name="Jet de Go! Pocket (Japan, Asia)">
 		<category>Games</category>
-		<description>Jet de Go! Pocket (Asia)</description>
-		<disk name="Jet de Go! Pocket (Asia).chd" sha1="cb39fbc8096636a89b8e3e289ab3b9719cd2bbb6" />
+		<description>Jet de Go! Pocket (Japan, Asia)</description>
+		<disk name="Jet de Go! Pocket (Japan, Asia).chd" sha1="cb39fbc8096636a89b8e3e289ab3b9719cd2bbb6" />
 	</machine>
 	<machine name="Jewelic Nightmare (Japan)">
 		<category>Games</category>
@@ -7284,10 +7304,10 @@
 		<description>Koezaru wa Akai Hana - Taiga wa Mirai o Tsumugu (Japan)</description>
 		<disk name="Koezaru wa Akai Hana - Taiga wa Mirai o Tsumugu (Japan).chd" sha1="9676f5a1150bf64955907aeabc66e5dd156f36e0" />
 	</machine>
-	<machine name="Koi Sentai - Love and Peace the P.S.P. - Power Zenkai! Special Youso Tenkomori de Portable Kadai Sakusendearu! (Japan)">
+	<machine name="Koi Sentai - Love and Peace the P.S.P. - Power Zenkai! Special Youso Tenkomori de Portable-ka Daisakusen de aru! (Japan)">
 		<category>Games</category>
-		<description>Koi Sentai - Love and Peace the P.S.P. - Power Zenkai! Special Youso Tenkomori de Portable Kadai Sakusendearu! (Japan)</description>
-		<disk name="Koi Sentai - Love and Peace the P.S.P. - Power Zenkai! Special Youso Tenkomori de Portable Kadai Sakusendearu! (Japan).chd" sha1="8e1812a10c06b949b31e863f2c6e31cbcc53bea2" />
+		<description>Koi Sentai - Love and Peace the P.S.P. - Power Zenkai! Special Youso Tenkomori de Portable-ka Daisakusen de aru! (Japan)</description>
+		<disk name="Koi Sentai - Love and Peace the P.S.P. - Power Zenkai! Special Youso Tenkomori de Portable-ka Daisakusen de aru! (Japan).chd" sha1="8e1812a10c06b949b31e863f2c6e31cbcc53bea2" />
 	</machine>
 	<machine name="Koi to Senkyo to Chocolate Portable - Limited Game Disc (Japan)">
 		<category>Bonus Discs</category>
@@ -7824,15 +7844,15 @@
 		<description>Lumines - Puzzle Fusion (USA) (En,Ja)</description>
 		<disk name="Lumines - Puzzle Fusion (USA) (En,Ja).chd" sha1="0b76dc99fb8288acb242a57716e9d83cd5acd86d" />
 	</machine>
-	<machine name="Lumines (Japan)">
-		<category>Games</category>
-		<description>Lumines (Japan)</description>
-		<disk name="Lumines (Japan).chd" sha1="8ac1025f51fd6ee3ff2b6340947c8b406d06e626" />
-	</machine>
 	<machine name="Lumines (Japan) (PSP the Best)">
 		<category>Games</category>
 		<description>Lumines (Japan) (PSP the Best)</description>
 		<disk name="Lumines (Japan) (PSP the Best).chd" sha1="6a6da914043db776771021361e47cada43bebe49" />
+	</machine>
+	<machine name="Lumines (Japan, Korea)">
+		<category>Games</category>
+		<description>Lumines (Japan, Korea)</description>
+		<disk name="Lumines (Japan, Korea).chd" sha1="8ac1025f51fd6ee3ff2b6340947c8b406d06e626" />
 	</machine>
 	<machine name="Lumines II (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -8219,10 +8239,10 @@
 		<description>Marvel Trading Card Game (USA)</description>
 		<disk name="Marvel Trading Card Game (USA).chd" sha1="aa9c3d704ce2d48870ec8342658042c259e82ccd" />
 	</machine>
-	<machine name="Mashiro Iro Symphony - Mutsu-no-hana (Japan)">
+	<machine name="Mashiroiro Symphony - Mutsu-no-hana (Japan)">
 		<category>Games</category>
-		<description>Mashiro Iro Symphony - Mutsu-no-hana (Japan)</description>
-		<disk name="Mashiro Iro Symphony - Mutsu-no-hana (Japan).chd" sha1="e67d8c59130cb2ec10df8d74d5715678c218d970" />
+		<description>Mashiroiro Symphony - Mutsu-no-hana (Japan)</description>
+		<disk name="Mashiroiro Symphony - Mutsu-no-hana (Japan).chd" sha1="e67d8c59130cb2ec10df8d74d5715678c218d970" />
 	</machine>
 	<machine name="Matching Maker 3 x Tousouchuu (Japan)">
 		<category>Games</category>
@@ -8509,15 +8529,15 @@
 		<description>Metal Gear Solid - Portable Ops (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Metal Gear Solid - Portable Ops (Europe) (En,Fr,De,Es,It).chd" sha1="65f0196a65fef9290129b3480d4afece6dcd5fd3" />
 	</machine>
-	<machine name="Metal Gear Solid - Portable Ops (Japan) (v1.00)">
+	<machine name="Metal Gear Solid - Portable Ops (Japan) (Deluxe Pack)">
 		<category>Games</category>
-		<description>Metal Gear Solid - Portable Ops (Japan) (v1.00)</description>
-		<disk name="Metal Gear Solid - Portable Ops (Japan) (v1.00).chd" sha1="0a05dcdcf9d8ed5ec8bcb0968537713c857d645c" />
+		<description>Metal Gear Solid - Portable Ops (Japan) (Deluxe Pack)</description>
+		<disk name="Metal Gear Solid - Portable Ops (Japan) (Deluxe Pack).chd" sha1="0a05dcdcf9d8ed5ec8bcb0968537713c857d645c" />
 	</machine>
-	<machine name="Metal Gear Solid - Portable Ops (Japan, Asia) (v1.02)">
+	<machine name="Metal Gear Solid - Portable Ops (Japan, Asia)">
 		<category>Games</category>
-		<description>Metal Gear Solid - Portable Ops (Japan, Asia) (v1.02)</description>
-		<disk name="Metal Gear Solid - Portable Ops (Japan, Asia) (v1.02).chd" sha1="6b25ce488359bd9ac706d4ac9cf62a8db7d5b58b" />
+		<description>Metal Gear Solid - Portable Ops (Japan, Asia)</description>
+		<disk name="Metal Gear Solid - Portable Ops (Japan, Asia).chd" sha1="6b25ce488359bd9ac706d4ac9cf62a8db7d5b58b" />
 	</machine>
 	<machine name="Metal Gear Solid - Portable Ops (Korea)">
 		<category>Games</category>
@@ -8869,10 +8889,10 @@
 		<description>Mobile Train Simulator plus Densha de Go! Tokyo Kyuukou-hen (Japan)</description>
 		<disk name="Mobile Train Simulator plus Densha de Go! Tokyo Kyuukou-hen (Japan).chd" sha1="3b3ee6ea0cd2619803aba01105b4defdfd6872a1" />
 	</machine>
-	<machine name="ModNation Racers (Asia) (En,Zh)">
+	<machine name="ModNation Racers (Asia) (En,Zh,Ko)">
 		<category>Games</category>
-		<description>ModNation Racers (Asia) (En,Zh)</description>
-		<disk name="ModNation Racers (Asia) (En,Zh).chd" sha1="dbca445400ce70ba54b1dea28915d2a7e9e361e8" />
+		<description>ModNation Racers (Asia) (En,Zh,Ko)</description>
+		<disk name="ModNation Racers (Asia) (En,Zh,Ko).chd" sha1="dbca445400ce70ba54b1dea28915d2a7e9e361e8" />
 	</machine>
 	<machine name="ModNation Racers (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)">
 		<category>Games</category>
@@ -9034,10 +9054,10 @@
 		<description>Mother Goose no Himitsu no Yakata - Nursery Rhymes for you (Japan)</description>
 		<disk name="Mother Goose no Himitsu no Yakata - Nursery Rhymes for you (Japan).chd" sha1="b330a5a970fff560091e60ebda85d0efa4ce390a" />
 	</machine>
-	<machine name="MotoGP (Europe) (En,Fr,De,It,Nl)">
+	<machine name="MotoGP (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>MotoGP (Europe) (En,Fr,De,It,Nl)</description>
-		<disk name="MotoGP (Europe) (En,Fr,De,It,Nl).chd" sha1="ed16070e5050f49ebd9018773a2c59053c16f5b9" />
+		<description>MotoGP (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="MotoGP (Europe) (En,Fr,De,Es,It).chd" sha1="ed16070e5050f49ebd9018773a2c59053c16f5b9" />
 	</machine>
 	<machine name="MotoGP (Japan)">
 		<category>Games</category>
@@ -10029,16 +10049,6 @@
 		<description>Nogizaka Haruka no Himitsu - Cosplay, Hajimemashita - Himitsu no Radio (Japan)</description>
 		<disk name="Nogizaka Haruka no Himitsu - Cosplay, Hajimemashita - Himitsu no Radio (Japan).chd" sha1="6eb1c4d2dde5c4463357cbc8776e9588b9083966" />
 	</machine>
-	<machine name="Nouryoku Trainer Portable (Japan)">
-		<category>Games</category>
-		<description>Nouryoku Trainer Portable (Japan)</description>
-		<disk name="Nouryoku Trainer Portable (Japan).chd" sha1="4d26c50723eeccd6c7f245bb2e241666c98cc038" />
-	</machine>
-	<machine name="Nouryoku Trainer Portable 2 (Japan)">
-		<category>Games</category>
-		<description>Nouryoku Trainer Portable 2 (Japan)</description>
-		<disk name="Nouryoku Trainer Portable 2 (Japan).chd" sha1="b083b1aeec668a8c6f25ef1a358cc1315f209878" />
-	</machine>
 	<machine name="Numpla &amp; Oekaki Puzzle (Japan)">
 		<category>Games</category>
 		<description>Numpla &amp; Oekaki Puzzle (Japan)</description>
@@ -10069,15 +10079,15 @@
 		<description>Off Road (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<disk name="Off Road (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="ae10a3c2f2a744d142a160b010bd7694e50eae7b" />
 	</machine>
-	<machine name="Oh's Talk English (Korea) (En,Ko) (Disc 1)">
+	<machine name="Oh Seoktae-ui Malhaneun Yeongeo (Korea) (Disc 1)">
 		<category>Games</category>
-		<description>Oh's Talk English (Korea) (En,Ko) (Disc 1)</description>
-		<disk name="Oh's Talk English (Korea) (En,Ko) (Disc 1).chd" sha1="30d1cab2b6140ff38129499fc0c446c90b37e31a" />
+		<description>Oh Seoktae-ui Malhaneun Yeongeo (Korea) (Disc 1)</description>
+		<disk name="Oh Seoktae-ui Malhaneun Yeongeo (Korea) (Disc 1).chd" sha1="30d1cab2b6140ff38129499fc0c446c90b37e31a" />
 	</machine>
-	<machine name="Oh's Talk English (Korea) (En,Ko) (Disc 2)">
+	<machine name="Oh Seoktae-ui Malhaneun Yeongeo (Korea) (Disc 2)">
 		<category>Games</category>
-		<description>Oh's Talk English (Korea) (En,Ko) (Disc 2)</description>
-		<disk name="Oh's Talk English (Korea) (En,Ko) (Disc 2).chd" sha1="4fd8455abd4afda0ec530a557befe204078e7c6c" />
+		<description>Oh Seoktae-ui Malhaneun Yeongeo (Korea) (Disc 2)</description>
+		<disk name="Oh Seoktae-ui Malhaneun Yeongeo (Korea) (Disc 2).chd" sha1="4fd8455abd4afda0ec530a557befe204078e7c6c" />
 	</machine>
 	<machine name="Omerta - Chinmoku no Okite - The Legacy (Japan)">
 		<category>Games</category>
@@ -10654,15 +10664,15 @@
 		<description>Phantasy Star Portable (Europe)</description>
 		<disk name="Phantasy Star Portable (Europe).chd" sha1="c60138c07d20a2302502519250f623cd0bb087fd" />
 	</machine>
-	<machine name="Phantasy Star Portable (Japan)">
-		<category>Games</category>
-		<description>Phantasy Star Portable (Japan)</description>
-		<disk name="Phantasy Star Portable (Japan).chd" sha1="fe5f1b9ed675e2ffbb8e4efe772bc4cc65abf82d" />
-	</machine>
 	<machine name="Phantasy Star Portable (Japan) (Taikenban)">
 		<category>Demos</category>
 		<description>Phantasy Star Portable (Japan) (Taikenban)</description>
 		<disk name="Phantasy Star Portable (Japan) (Taikenban).chd" sha1="fa06bb30934cb8c91b6e4bf4bca5366db7671125" />
+	</machine>
+	<machine name="Phantasy Star Portable (Japan, Korea)">
+		<category>Games</category>
+		<description>Phantasy Star Portable (Japan, Korea)</description>
+		<disk name="Phantasy Star Portable (Japan, Korea).chd" sha1="fe5f1b9ed675e2ffbb8e4efe772bc4cc65abf82d" />
 	</machine>
 	<machine name="Phantasy Star Portable (USA)">
 		<category>Games</category>
@@ -10779,20 +10789,20 @@
 		<description>Piposaru Academia - Dossari! Saruge Daizenshuu (Japan)</description>
 		<disk name="Piposaru Academia - Dossari! Saruge Daizenshuu (Japan).chd" sha1="422149e9a99d856dab885757707361be5457a33d" />
 	</machine>
-	<machine name="Piposaru Academia - Sagomungchi Neungryeokpyeongga Wanjeonjeongbog (Korea)">
+	<machine name="Piposaru Academia - Sagomungchi Neungryeokpyeongga Wanjeonjeongbok (Korea)">
 		<category>Games</category>
-		<description>Piposaru Academia - Sagomungchi Neungryeokpyeongga Wanjeonjeongbog (Korea)</description>
-		<disk name="Piposaru Academia - Sagomungchi Neungryeokpyeongga Wanjeonjeongbog (Korea).chd" sha1="ff779946324a252593674fe3092db4609d20ee36" />
+		<description>Piposaru Academia - Sagomungchi Neungryeokpyeongga Wanjeonjeongbok (Korea)</description>
+		<disk name="Piposaru Academia - Sagomungchi Neungryeokpyeongga Wanjeonjeongbok (Korea).chd" sha1="ff779946324a252593674fe3092db4609d20ee36" />
 	</machine>
 	<machine name="Piposaru Academia 2 - Aiai Saruge Janken Battle (Japan)">
 		<category>Games</category>
 		<description>Piposaru Academia 2 - Aiai Saruge Janken Battle (Japan)</description>
 		<disk name="Piposaru Academia 2 - Aiai Saruge Janken Battle (Japan).chd" sha1="a460cc46515950e5ff57c9795f6c470f64b33889" />
 	</machine>
-	<machine name="Piposarugetchu P (Korea)">
+	<machine name="Piposaru Get You P! (Korea)">
 		<category>Games</category>
-		<description>Piposarugetchu P (Korea)</description>
-		<disk name="Piposarugetchu P (Korea).chd" sha1="cf38cd202188b01598ffe9233ad654b12feed31a" />
+		<description>Piposaru Get You P! (Korea)</description>
+		<disk name="Piposaru Get You P! (Korea).chd" sha1="cf38cd202188b01598ffe9233ad654b12feed31a" />
 	</machine>
 	<machine name="Pirates of the Caribbean - Dead Man's Chest (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -10809,10 +10819,10 @@
 		<description>PixelJunk Monsters - Deluxe (USA)</description>
 		<disk name="PixelJunk Monsters - Deluxe (USA).chd" sha1="5103f9802a029c057a4c36fe7dfe77b88cb60892" />
 	</machine>
-	<machine name="PixelJunk Monsters UMD Limited Edition (Asia) (En,Ja)">
+	<machine name="PixelJunk Monsters - UMD Limited Edition (Asia) (En,Ja)">
 		<category>Games</category>
-		<description>PixelJunk Monsters UMD Limited Edition (Asia) (En,Ja)</description>
-		<disk name="PixelJunk Monsters UMD Limited Edition (Asia) (En,Ja).chd" sha1="3584ab9e948f64a2e21d5a25803b6ade61b4c53e" />
+		<description>PixelJunk Monsters - UMD Limited Edition (Asia) (En,Ja)</description>
+		<disk name="PixelJunk Monsters - UMD Limited Edition (Asia) (En,Ja).chd" sha1="3584ab9e948f64a2e21d5a25803b6ade61b4c53e" />
 	</machine>
 	<machine name="Planetarian - Chiisa na Hoshi no Yume (Japan) (v1.02)">
 		<category>Games</category>
@@ -11727,12 +11737,12 @@
 	<machine name="Routes Portable (Japan)">
 		<category>Games</category>
 		<description>Routes Portable (Japan)</description>
-		<disk name="Routes Portable (Japan).chd" sha1="5b85dbf84186401762249f6b7b8ff520d37e820f" />
+		<disk name="Routes Portable (Japan).chd" sha1="53116894532784928db9dca1897e25b4248f3826" />
 	</machine>
-	<machine name="Routes Portable (Japan) (AquaPrice 2800)">
+	<machine name="Routes Portable (Japan) (Kinou Genteiban)">
 		<category>Games</category>
-		<description>Routes Portable (Japan) (AquaPrice 2800)</description>
-		<disk name="Routes Portable (Japan) (AquaPrice 2800).chd" sha1="53116894532784928db9dca1897e25b4248f3826" />
+		<description>Routes Portable (Japan) (Kinou Genteiban)</description>
+		<disk name="Routes Portable (Japan) (Kinou Genteiban).chd" sha1="5b85dbf84186401762249f6b7b8ff520d37e820f" />
 	</machine>
 	<machine name="R-Type Command (USA)">
 		<category>Games</category>
@@ -12044,10 +12054,10 @@
 		<description>SD Gundam - GGeneration World (Japan, Korea)</description>
 		<disk name="SD Gundam - GGeneration World (Japan, Korea).chd" sha1="a35afbb62db85c0e1f214e9455d3c859630d763e" />
 	</machine>
-	<machine name="SD Gundam GGeneration Overworld (Japan)">
+	<machine name="SD Gundam GGeneration Overworld (Japan) (v1.01)">
 		<category>Games</category>
-		<description>SD Gundam GGeneration Overworld (Japan)</description>
-		<disk name="SD Gundam GGeneration Overworld (Japan).chd" sha1="7f9214b93d5f0b958a6cc4efe93949f52f0ac763" />
+		<description>SD Gundam GGeneration Overworld (Japan) (v1.01)</description>
+		<disk name="SD Gundam GGeneration Overworld (Japan) (v1.01).chd" sha1="7f9214b93d5f0b958a6cc4efe93949f52f0ac763" />
 	</machine>
 	<machine name="Secret Agent Clank (Asia) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -12119,10 +12129,10 @@
 		<description>Sega Rally (Europe) (En,Fr,De,Es,It) (v2.00)</description>
 		<disk name="Sega Rally (Europe) (En,Fr,De,Es,It) (v2.00).chd" sha1="47ac843bbcf367b4f6c9e567244f97d9d3838160" />
 	</machine>
-	<machine name="Sega Rally (Russia)">
+	<machine name="Sega Rally (Russia) (v1.00)">
 		<category>Games</category>
-		<description>Sega Rally (Russia)</description>
-		<disk name="Sega Rally (Russia).chd" sha1="fd9b8649cbec5402b9b97aef918b2bbc7b7415ec" />
+		<description>Sega Rally (Russia) (v1.00)</description>
+		<disk name="Sega Rally (Russia) (v1.00).chd" sha1="fd9b8649cbec5402b9b97aef918b2bbc7b7415ec" />
 	</machine>
 	<machine name="Sega Rally Revo (USA)">
 		<category>Games</category>
@@ -12799,10 +12809,10 @@
 		<description>SOCOM - U.S. Navy SEALs - Fireteam Bravo 2 (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="SOCOM - U.S. Navy SEALs - Fireteam Bravo 2 (Europe) (En,Fr,De,Es,It).chd" sha1="157fcb95f5f89e803c1a47bd7bcdda052ae4ad83" />
 	</machine>
-	<machine name="SOCOM - U.S. Navy SEALs - Fireteam Bravo 2 (Europe) (En,Fr,De,Es,It) (Press Disc)">
-		<category>Games</category>
-		<description>SOCOM - U.S. Navy SEALs - Fireteam Bravo 2 (Europe) (En,Fr,De,Es,It) (Press Disc)</description>
-		<disk name="SOCOM - U.S. Navy SEALs - Fireteam Bravo 2 (Europe) (En,Fr,De,Es,It) (Press Disc).chd" sha1="2970c22a753cd2f86757e26346910e0bc3ec4070" />
+	<machine name="SOCOM - U.S. Navy SEALs - Fireteam Bravo 2 (Europe) (En,Fr,De,Es,It) (Beta) (2007-03-13)">
+		<category>Preproduction</category>
+		<description>SOCOM - U.S. Navy SEALs - Fireteam Bravo 2 (Europe) (En,Fr,De,Es,It) (Beta) (2007-03-13)</description>
+		<disk name="SOCOM - U.S. Navy SEALs - Fireteam Bravo 2 (Europe) (En,Fr,De,Es,It) (Beta) (2007-03-13).chd" sha1="2970c22a753cd2f86757e26346910e0bc3ec4070" />
 	</machine>
 	<machine name="SOCOM - U.S. Navy SEALs - Fireteam Bravo 2 (Korea)">
 		<category>Games</category>
@@ -13134,10 +13144,10 @@
 		<description>Star Ocean - First Departure (Europe)</description>
 		<disk name="Star Ocean - First Departure (Europe).chd" sha1="5a909b3cdfd12719014a00f6bb8e1290243f3ef4" />
 	</machine>
-	<machine name="Star Ocean - First Departure (Japan)">
+	<machine name="Star Ocean - First Departure (Japan, Korea)">
 		<category>Games</category>
-		<description>Star Ocean - First Departure (Japan)</description>
-		<disk name="Star Ocean - First Departure (Japan).chd" sha1="5cca57e865d58fe45eaf9e0ff363d3f87e4ecbb8" />
+		<description>Star Ocean - First Departure (Japan, Korea)</description>
+		<disk name="Star Ocean - First Departure (Japan, Korea).chd" sha1="5cca57e865d58fe45eaf9e0ff363d3f87e4ecbb8" />
 	</machine>
 	<machine name="Star Ocean - First Departure (USA)">
 		<category>Games</category>
@@ -13479,10 +13489,10 @@
 		<description>Summon Night 3 (Japan) (v3.00)</description>
 		<disk name="Summon Night 3 (Japan) (v3.00).chd" sha1="2d254a4a4265fb14cd7225888f7787383ca0b235" />
 	</machine>
-	<machine name="Summon Night 4 (Japan)">
+	<machine name="Summon Night 4 (Japan) (v2.00)">
 		<category>Games</category>
-		<description>Summon Night 4 (Japan)</description>
-		<disk name="Summon Night 4 (Japan).chd" sha1="2c35cd8ee13a48da05dac4bb5864a186a0c6d44e" />
+		<description>Summon Night 4 (Japan) (v2.00)</description>
+		<disk name="Summon Night 4 (Japan) (v2.00).chd" sha1="2c35cd8ee13a48da05dac4bb5864a186a0c6d44e" />
 	</machine>
 	<machine name="Summon Night 5 (Japan)">
 		<category>Games</category>
@@ -13679,10 +13689,10 @@
 		<description>Tactics Ogre - Unmei no Wa (Japan)</description>
 		<disk name="Tactics Ogre - Unmei no Wa (Japan).chd" sha1="322dd1bdce89d2d9858cf2bfa41c42bdda14e779" />
 	</machine>
-	<machine name="Taiheiyou no Arashi - Senkan Yamato, Akatsuki ni Shutsugekisu! (Japan)">
+	<machine name="Taiheiyou no Arashi - Senkan Yamato, Akatsuki ni Shutsugeki Su! (Japan)">
 		<category>Games</category>
-		<description>Taiheiyou no Arashi - Senkan Yamato, Akatsuki ni Shutsugekisu! (Japan)</description>
-		<disk name="Taiheiyou no Arashi - Senkan Yamato, Akatsuki ni Shutsugekisu! (Japan).chd" sha1="3dc8dad0b3d969f4de0f901732359eed64633bcc" />
+		<description>Taiheiyou no Arashi - Senkan Yamato, Akatsuki ni Shutsugeki Su! (Japan)</description>
+		<disk name="Taiheiyou no Arashi - Senkan Yamato, Akatsuki ni Shutsugeki Su! (Japan).chd" sha1="3dc8dad0b3d969f4de0f901732359eed64633bcc" />
 	</machine>
 	<machine name="Taiko no Tatsujin Portable (Japan) (v1.01)">
 		<category>Games</category>
@@ -13989,11 +13999,6 @@
 		<description>Tenchi no Mon (Japan) (Taikenban)</description>
 		<disk name="Tenchi no Mon (Japan) (Taikenban).chd" sha1="f37f664b098d86520950515e7f5548f336b313d8" />
 	</machine>
-	<machine name="Tenchi no Mon (Korea)">
-		<category>Games</category>
-		<description>Tenchi no Mon (Korea)</description>
-		<disk name="Tenchi no Mon (Korea).chd" sha1="eaddc83090670d432feddba27e68fcc3e683c411" />
-	</machine>
 	<machine name="Tenchi no Mon 2 - Busouden (Asia)">
 		<category>Games</category>
 		<description>Tenchi no Mon 2 - Busouden (Asia)</description>
@@ -14034,10 +14039,10 @@
 		<description>Tenchu 4 Plus (Japan)</description>
 		<disk name="Tenchu 4 Plus (Japan).chd" sha1="cc854bc263b2c174743c30923b9737714290f1ac" />
 	</machine>
-	<machine name="Tengai Makyou - Dai Yon no Mokushiroku (Japan)">
+	<machine name="Tengai Makyou - Daiyon no Mokushiroku (Japan)">
 		<category>Games</category>
-		<description>Tengai Makyou - Dai Yon no Mokushiroku (Japan)</description>
-		<disk name="Tengai Makyou - Dai Yon no Mokushiroku (Japan).chd" sha1="cf12accb4e6875b0ff6708509ccf9eec04c25cb9" />
+		<description>Tengai Makyou - Daiyon no Mokushiroku (Japan)</description>
+		<disk name="Tengai Makyou - Daiyon no Mokushiroku (Japan).chd" sha1="cf12accb4e6875b0ff6708509ccf9eec04c25cb9" />
 	</machine>
 	<machine name="Test Drive Unlimited (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -14543,11 +14548,6 @@
 		<category>Games</category>
 		<description>Tsuyokiss 3-gakki Portable (Japan)</description>
 		<disk name="Tsuyokiss 3-gakki Portable (Japan).chd" sha1="b0370e1c4cfcb13573f04dd6fba8adba574f12b4" />
-	</machine>
-	<machine name="Ttungttungbo Gongju-wa Hanjumeog-ui Cake (Korea)">
-		<category>Games</category>
-		<description>Ttungttungbo Gongju-wa Hanjumeog-ui Cake (Korea)</description>
-		<disk name="Ttungttungbo Gongju-wa Hanjumeog-ui Cake (Korea).chd" sha1="36eb16ac83152ed4adf5f1c1d98ee5d0e215981b" />
 	</machine>
 	<machine name="Tube Mania (Europe) (Fr,Nl)">
 		<category>Games</category>
@@ -15219,10 +15219,10 @@
 		<description>Winning Post 7 2013 (Japan)</description>
 		<disk name="Winning Post 7 2013 (Japan).chd" sha1="66cec947dda750a0860703c5d7e17aa438a4dbce" />
 	</machine>
-	<machine name="Win-TOEIC Beginners' LC (Korea) (En,Ko)">
-		<category>Games</category>
-		<description>Win-TOEIC Beginners' LC (Korea) (En,Ko)</description>
-		<disk name="Win-TOEIC Beginners' LC (Korea) (En,Ko).chd" sha1="802a3c03fb483be5062704b55be8d0b7f7f349d6" />
+	<machine name="Win-TOEIC Chogeup LC (Korea)">
+		<category>Educational</category>
+		<description>Win-TOEIC Chogeup LC (Korea)</description>
+		<disk name="Win-TOEIC Chogeup LC (Korea).chd" sha1="802a3c03fb483be5062704b55be8d0b7f7f349d6" />
 	</machine>
 	<machine name="Winx Club - Join the Club (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>

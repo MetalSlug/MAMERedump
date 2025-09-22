@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Mega CD &amp; Sega CD</name>
-		<description>MAME Redump - Sega - Mega CD &amp; Sega CD - Discs (544) (2025-07-08 00-02-23)</description>
+		<description>MAME Redump - Sega - Mega CD &amp; Sega CD - Discs (545) (2025-08-23 18-16-45)</description>
 		<version>0.279</version>
-		<date>2025-08-19</date>
+		<date>2025-09-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -2414,13 +2414,6 @@
 		<manufacturer>Game Arts</manufacturer>
 		<disk name="Silpheed (Japan) (Demo).chd" sha1="18f438c6fce0f143046fc4eeb15eec6fb47a1631" />
 	</machine>
-	<machine name="Silpheed (Japan) (Demo) (Fixed Dump)">
-		<category>Demos</category>
-		<description>Silpheed (Japan) (Demo) (Fixed Dump)</description>
-		<year>1993</year>
-		<manufacturer>Game Arts</manufacturer>
-		<disk name="Silpheed (Japan) (Demo) (Fixed Dump).chd" sha1="12c371524399e53978e57b17673265a3d9cf9b80" />
-	</machine>
 	<machine name="Silpheed (USA)">
 		<category>Games</category>
 		<description>Silpheed (USA)</description>
@@ -2562,17 +2555,17 @@
 		<description>Snatcher (Europe)</description>
 		<disk name="Snatcher (Europe).chd" sha1="1ae59769cd996f1ed2a9b15f234b2c8363c5033e" />
 	</machine>
-	<machine name="Snatcher (Europe) (Beta) (1994-10-07)">
-		<category>Preproduction</category>
-		<description>Snatcher (Europe) (Beta) (1994-10-07)</description>
-		<disk name="Snatcher (Europe) (Beta) (1994-10-07).chd" sha1="6ed7458b427ebfd5b61bce5b7e87f1351e9c8201" />
-	</machine>
 	<machine name="Snatcher (USA)">
 		<category>Games</category>
 		<description>Snatcher (USA)</description>
 		<year>1994</year>
 		<manufacturer>Konami</manufacturer>
 		<disk name="Snatcher (USA).chd" sha1="d38ada693efc354c1d3c4c663214ab173985bf95" />
+	</machine>
+	<machine name="Snatcher (USA) (Beta) (1994-10-07)">
+		<category>Preproduction</category>
+		<description>Snatcher (USA) (Beta) (1994-10-07)</description>
+		<disk name="Snatcher (USA) (Beta) (1994-10-07).chd" sha1="6ed7458b427ebfd5b61bce5b7e87f1351e9c8201" />
 	</machine>
 	<machine name="Software Toolworks' Star Wars Chess, The (Europe)">
 		<category>Games</category>
@@ -4446,6 +4439,12 @@
 		<year>1992</year>
 		<manufacturer>Nihon Telenet</manufacturer>
 		<disk name="silkylip\mahou no shoujo - silky lip (1992)(riot)(ntsc)(jp)[t-49024p-00016-r2m].chd" sha1="8f1ae61b72f616f2f9dfbd5da63264d8a1b3eca4" />
+	</machine>
+	<machine name="silpheed\silpheed hibaihin (japan) (fixed)">
+		<description>Silpheed Hibaihin (Japan, fixed)</description>
+		<year>1993</year>
+		<manufacturer>Game Arts</manufacturer>
+		<disk name="silpheed\silpheed hibaihin (japan) (fixed).chd" sha1="12c371524399e53978e57b17673265a3d9cf9b80" />
 	</machine>
 	<machine name="simearth\simearth (1993)(sega)(ntsc)(jp)">
 		<description>SimEarth (Japan)</description>

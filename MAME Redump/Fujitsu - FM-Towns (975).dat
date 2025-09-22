@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Fujitsu - FM-Towns</name>
-		<description>MAME Redump - Fujitsu - FM-Towns - Discs (945) (2025-07-04 04-06-43)</description>
+		<description>MAME Redump - Fujitsu - FM-Towns - Discs (945) (2025-08-06 19-51-49)</description>
 		<version>0.279</version>
-		<date>2025-08-06</date>
+		<date>2025-09-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -4264,6 +4264,13 @@
 		<manufacturer>ファミリーソフト (Family Soft)</manufacturer>
 		<disk name="Para Para Paradise (Japan) (Disc C) (Makoto Siina).chd" sha1="c5662c8537f18ab976fb157274c0848f9bf858ef" />
 	</machine>
+	<machine name="Pasokon de Tanoshimu - Yama to Chizu Vol. 1 (Japan)">
+		<category>Multimedia</category>
+		<description>Pasokon de Tanoshimu - Yama to Chizu Vol. 1 (Japan)</description>
+		<year>1995</year>
+		<manufacturer>インターリミテッドロジック (Inter Limited Logic)</manufacturer>
+		<disk name="Pasokon de Tanoshimu - Yama to Chizu Vol. 1 (Japan).chd" sha1="82f96c44f6fd81d141cfa511bf501bb8bbc84006" />
+	</machine>
 	<machine name="Pegasus V1.1 L10 (Japan) (Rev A)">
 		<category>Applications</category>
 		<description>Pegasus V1.1 L10 (Japan) (Rev A)</description>
@@ -4284,13 +4291,6 @@
 		<year>1990</year>
 		<manufacturer>シンキングラビット (Thinking Rabbit)</manufacturer>
 		<disk name="Perfect Soko-ban (Japan).chd" sha1="0a6bcfb6ad92bead0bbfbd6ea91848e2e99cadf0" />
-	</machine>
-	<machine name="PersoCom de Tanoshimu - Yama to Chizu Vol. 1 (Japan)">
-		<category>Multimedia</category>
-		<description>PersoCom de Tanoshimu - Yama to Chizu Vol. 1 (Japan)</description>
-		<year>1995</year>
-		<manufacturer>インターリミテッドロジック (Inter Limited Logic)</manufacturer>
-		<disk name="PersoCom de Tanoshimu - Yama to Chizu Vol. 1 (Japan).chd" sha1="82f96c44f6fd81d141cfa511bf501bb8bbc84006" />
 	</machine>
 	<machine name="Phobos (Japan)">
 		<category>Games</category>
