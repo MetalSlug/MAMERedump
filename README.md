@@ -74,18 +74,18 @@ Following Sets contains ISO Files
 |---------------------------------------------------|----------|------------------------|-----------|-----------|-----------|-----------|
 **Acorn - Archimedes**|2025-07-17|77|0|16 GB||
 Apple - Macintosh|2025-09-05|1128|181|614 GB|mac_cdrom|
-Arcade - Konami - e-Amusement|2025-07-21|22|21|24 GB||
+Arcade - Konami - e-Amusement|2025-07-21|24|19|25 GB||
 **Arcade - Konami - FireBeat**|2024-03-16|10|0|8 GB||
 **Arcade - Konami - System 573**|2024-04-22|44|0|8 GB||
 **Arcade - Konami - System GV**|2024-09-06|2|0|641 MB||
 **Arcade - Namco - Sega - Nintendo - Triforce**|2024-03-27|22|0|7 GB||
 **Arcade - Namco - System 246**|2025-03-04|11|0|7 GB||
 Arcade - Sega - Chihiro|2021-01-08|17|1|11 GB||
-Arcade - Sega - Lindbergh|2025-09-14|48|22|136 GB||
+Arcade - Sega - Lindbergh|2025-09-14|68|2|174 GB||
 **Arcade - Sega - Naomi 2**|2024-04-12|9|0|2 GB||
 **Arcade - Sega - Naomi**|2025-08-24|31|0|4 GB||
-Arcade - Sega - RingEdge 2|2025-07-31|31|11|138 GB||
-Arcade - Sega - RingEdge|2025-07-28|32|15|129 GB||
+Arcade - Sega - RingEdge 2|2025-07-31|32|10|141 GB||
+Arcade - Sega - RingEdge|2025-07-28|33|14|132 GB||
 **Atari - Jaguar CD Interactive Multimedia System**|2025-06-12|26|0|5 GB||
 **Bandai - Pippin**|2025-05-22|93|0|20 GB|pippin|4 GB
 Bandai - Playdia Quick Interactive System|2025-05-14|37|1|18 GB||
@@ -103,29 +103,29 @@ IBM - PC compatible|2025-09-22|50846|4407|53 TB|ibm5170_cdrom|26 GB
 ~~Microsoft - Xbox~~|2025-09-14|0|2665|||
 **NEC - PC Engine CD & TurboGrafx CD**|2025-08-15|1040|0|227 GB|pcecd|3 GB
 **NEC - PC-88 series**|2025-05-19|4|0|842 MB|pc8801_cdrom|288 MB
-NEC - PC-98 series|2025-09-18|314|5|51 GB|pc98_cd|12 GB
+NEC - PC-98 series|2025-09-18|318|1|51 GB|pc98_cd|12 GB
 **NEC - PC-FX**|2025-05-14|79|0|30 GB|pcfx|5 GB
-Nintendo - GameCube|2025-09-19|2004|9|1 TB|Nintendo - GameCube|
-Nintendo - Wii|2025-09-20|3767|11|6 TB|Nintendo - Wii|
-Palm|2025-08-19|157|1|13 GB||
+Nintendo - GameCube|2025-09-19|2010|3|1 TB|Nintendo - GameCube|
+Nintendo - Wii|2025-09-20|3771|7|6 TB|Nintendo - Wii|
+**Palm**|2025-08-19|158|0|13 GB||
 **Panasonic - 3DO Interactive Multiplayer**|2025-09-07|665|0|188 GB||
-Philips - CD-i|2025-09-20|2445|38|732 GB|cdi|139 GB
-Photo CD|2025-09-12|243|7|46 GB|photo_cd|363 MB
+Philips - CD-i|2025-09-20|2468|15|737 GB|cdi|139 GB
+**Photo CD**|2025-09-12|250|0|47 GB|photo_cd|363 MB
 **PlayStation GameShark Updates**|2025-01-16|33|0|567 MB||
 **Pocket PC**|2025-06-13|72|0|11 GB||
-Sega - Dreamcast|2025-09-17|2102|1|842 GB|dc|72 GB
-Sega - Mega-CD - Sega CD|2025-08-23|810|2|184 GB|megacd|61 GB
+**Sega - Dreamcast**|2025-09-17|2103|0|842 GB|dc|72 GB
+**Sega - Mega-CD - Sega CD**|2025-08-23|812|0|184 GB|megacd|61 GB
 **Sega - Prologue 21**|2024-02-25|30|0|17 GB||
-Sega - Saturn|2025-09-15|4421|6|1 TB|saturn|132 GB
+Sega - Saturn|2025-09-15|4422|5|1 TB|saturn|132 GB
 **Sharp - X68000**|2025-06-16|30|0|6 GB||
 **SNK - Neo Geo CD**|2025-06-09|217|0|59 GB|neocd|847 MB
 Sony - PlayStation 2|2025-09-22|11564|136|15 TB||
 ~~Sony - PlayStation 3~~|2025-09-19|0|4435|||
 Sony - PlayStation Portable|2025-09-22|3199|114|2 TB||
-Sony - PlayStation|2025-09-22|11671|5|3 TB|psx|570 GB
+**Sony - PlayStation**|2025-09-22|11676|0|3 TB|psx|570 GB
 **TAB-Austria - Quizard**|2023-09-13|15|0|4 GB||
 **Tomy - Kiss-Site**|2024-07-11|30|0|3 GB|kisssite_cd|3 GB
 VM Labs - NUON|2025-01-23|9|2|8 GB|nuon|6 GB
 **VTech - V.Flash & V.Smile Pro**|2025-04-09|51|0|9 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2024-02-02|16|0|50 GB||
-Total||99555|15684|85 TB||1 TB
+Total||99633|15606|85 TB||1 TB
