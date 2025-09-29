@@ -5,7 +5,7 @@
 		<name>Sega - Mega CD &amp; Sega CD</name>
 		<description>MAME Redump - Sega - Mega CD &amp; Sega CD - Discs (545) (2025-08-23 18-16-45)</description>
 		<version>0.279</version>
-		<date>2025-09-24</date>
+		<date>2025-09-29</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -3360,12 +3360,6 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="bariarm\bari-arm (usa).chd" sha1="8870b5b246535b1fdbd4fd2cf41f2244d4e913e4" />
 	</machine>
-	<machine name="batlfant\battle fantasy (1994)(micronet)(ntsc)(jp)">
-		<description>Battle Fantasy (Japan)</description>
-		<year>1994</year>
-		<manufacturer>Micronet</manufacturer>
-		<disk name="batlfant\battle fantasy (1994)(micronet)(ntsc)(jp).chd" sha1="f3044cff22ba87ccd17ee13fff7d8c06ca3900fe" />
-	</machine>
 	<machine name="bcracers\bc racers (demo) (1994)(core)(pal)[mega power - issue 18]">
 		<description>BC Racers (Europe, demo) [Mega Power - issue 18]</description>
 		<year>1994</year>
@@ -3504,6 +3498,18 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="cobracom\cobra command (1993)(sega)(pal)[mk-4402p-00032-r1m].chd" sha1="8c97724c9daaaf94476271daf376fddcbfa61aec" />
 	</machine>
+	<machine name="cobracom\thunder storm fx (1992)(wolf team)(ntsc)(jp)(en)[t32064p-00022-r1m]">
+		<description>Thunder Storm FX (Japan, R1)</description>
+		<year>19??</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="cobracom\thunder storm fx (1992)(wolf team)(ntsc)(jp)(en)[t32064p-00022-r1m].chd" sha1="1e3aa4eb29fd896f6a2f59a966857978580aec82" />
+	</machine>
+	<machine name="cobracom\thunder storm fx (1992)(wolf team)(ntsc)(jp)(en)[t32064p-00022-r2m]">
+		<description>Thunder Storm FX (Japan, R2)</description>
+		<year>1992</year>
+		<manufacturer>Wolf Team</manufacturer>
+		<disk name="cobracom\thunder storm fx (1992)(wolf team)(ntsc)(jp)(en)[t32064p-00022-r2m].chd" sha1="0bcc78567469799aa7ad1fe3a705819595b6227d" />
+	</machine>
 	<machine name="comptons\compton's interactive encyclopedia v2.10 (usa)">
 		<description>Compton's Interactive Encyclopedia v2.10 (USA)</description>
 		<year>1994</year>
@@ -3618,17 +3624,17 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="ecco\ecco the dolphin (1993)(sega)(pal)[mk-4408p-00135 1].chd" sha1="22e4a9581a1de6c56c5189c4cb9e4f96bd4b349e" />
 	</machine>
-	<machine name="ecco\ecco the dolphin cd (1995)(sega)(ntsc)(jp)(disc 1 of 2)[ecco the dolphin]">
+	<machine name="eccoj\ecco the dolphin cd (1995)(sega)(ntsc)(jp)(disc 1 of 2)[ecco the dolphin]">
 		<description>Ecco the Dolphin CD (Japan, Disc 1 - Ecco the Dolphin)</description>
 		<year>1995</year>
 		<manufacturer>Sega</manufacturer>
-		<disk name="ecco\ecco the dolphin cd (1995)(sega)(ntsc)(jp)(disc 1 of 2)[ecco the dolphin].chd" sha1="93b20b22f4bf7e1affba01a4e18887b43ce230d8" />
+		<disk name="eccoj\ecco the dolphin cd (1995)(sega)(ntsc)(jp)(disc 1 of 2)[ecco the dolphin].chd" sha1="93b20b22f4bf7e1affba01a4e18887b43ce230d8" />
 	</machine>
-	<machine name="ecco2\ecco the dolphin cd (1995)(sega)(ntsc)(jp)(disc 2 of 2)[ecco the dolphin ii]">
+	<machine name="eccoj\ecco the dolphin cd (1995)(sega)(ntsc)(jp)(disc 2 of 2)[ecco the dolphin ii]">
 		<description>Ecco the Dolphin CD (Japan, Disc 2 - Ecco the Dolphin II)</description>
 		<year>1995</year>
 		<manufacturer>Sega</manufacturer>
-		<disk name="ecco2\ecco the dolphin cd (1995)(sega)(ntsc)(jp)(disc 2 of 2)[ecco the dolphin ii].chd" sha1="6c9c7bce78f4c324f96a0f64f0dd84a115709ad7" />
+		<disk name="eccoj\ecco the dolphin cd (1995)(sega)(ntsc)(jp)(disc 2 of 2)[ecco the dolphin ii].chd" sha1="6c9c7bce78f4c324f96a0f64f0dd84a115709ad7" />
 	</machine>
 	<machine name="espnhn\espn national hockey night (usa)">
 		<description>ESPN National Hockey Night (USA)</description>
@@ -3803,12 +3809,6 @@
 		<year>1992</year>
 		<manufacturer>Sony Imagesoft</manufacturer>
 		<disk name="hook\hook (usa, alt).chd" sha1="7f3908b62d18910a8ff3fb7e4bcc79606cc77824" />
-	</machine>
-	<machine name="hothits\hot hits - adventurous new music sampler (usa)">
-		<description>Hot Hits - Adventurous New Music Sampler (USA)</description>
-		<year>1992</year>
-		<manufacturer>Sega</manufacturer>
-		<disk name="hothits\hot hits - adventurous new music sampler (usa).chd" sha1="66fbc916efd18f0e523e966caa8f865dbaa9fbbd" />
 	</machine>
 	<machine name="illcity\denei toshi - illusion city (1993)(micro cabin)(ntsc)(jp)[t-51014p-00066-r2m]">
 		<description>Illusion City - Genei Toshi (Japan)</description>
@@ -4320,6 +4320,12 @@
 		<manufacturer>Wolf Team</manufacturer>
 		<disk name="rbfx\road blaster fx (1992)(wolf team)(ntsc)(jp)(en).chd" sha1="090ecf6e934c71f2e13135ea2fea3fd1aeaf17c2" />
 	</machine>
+	<machine name="revoveng\battle fantasy (1994)(micronet)(ntsc)(jp)">
+		<description>Battle Fantasy (Japan)</description>
+		<year>1994</year>
+		<manufacturer>Micronet</manufacturer>
+		<disk name="revoveng\battle fantasy (1994)(micronet)(ntsc)(jp).chd" sha1="f3044cff22ba87ccd17ee13fff7d8c06ca3900fe" />
+	</machine>
 	<machine name="roadrash\road rash (usa)">
 		<description>Road Rash (USA)</description>
 		<year>1995</year>
@@ -4337,6 +4343,12 @@
 		<year>1993</year>
 		<manufacturer>Sega</manufacturer>
 		<disk name="roboales\robo aleste (1993)(sega)(pal).chd" sha1="2740c582e3b558d54ff9f82e9553c54621780c77" />
+	</machine>
+	<machine name="rockpint\hot hits - adventurous new music sampler (usa)">
+		<description>Hot Hits - Adventurous New Music Sampler (USA)</description>
+		<year>1992</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="rockpint\hot hits - adventurous new music sampler (usa).chd" sha1="66fbc916efd18f0e523e966caa8f865dbaa9fbbd" />
 	</machine>
 	<machine name="rockpint\rock paintings (usa)">
 		<description>Rock Paintings (USA)</description>
@@ -4440,11 +4452,11 @@
 		<manufacturer>Nihon Telenet</manufacturer>
 		<disk name="silkylip\mahou no shoujo - silky lip (1992)(riot)(ntsc)(jp)[t-49024p-00016-r2m].chd" sha1="8f1ae61b72f616f2f9dfbd5da63264d8a1b3eca4" />
 	</machine>
-	<machine name="silpheed\silpheed hibaihin (japan) (fixed)">
+	<machine name="silpheedjdemo\silpheed hibaihin (japan) (fixed)">
 		<description>Silpheed Hibaihin (Japan, fixed)</description>
 		<year>1993</year>
 		<manufacturer>Game Arts</manufacturer>
-		<disk name="silpheed\silpheed hibaihin (japan) (fixed).chd" sha1="12c371524399e53978e57b17673265a3d9cf9b80" />
+		<disk name="silpheedjdemo\silpheed hibaihin (japan) (fixed).chd" sha1="12c371524399e53978e57b17673265a3d9cf9b80" />
 	</machine>
 	<machine name="simearth\simearth (1993)(sega)(ntsc)(jp)">
 		<description>SimEarth (Japan)</description>
@@ -4823,18 +4835,6 @@
 		<year>1993</year>
 		<manufacturer>Parker Brothers</manufacturer>
 		<disk name="trivial\trivial pursuit (usa).chd" sha1="2ac03eb348b4ab2880b10916e18d6d5be27d26a7" />
-	</machine>
-	<machine name="tstormfx\thunder storm fx (1992)(wolf team)(ntsc)(jp)(en)[t32064p-00022-r1m]">
-		<description>Thunder Storm FX (Japan, R1)</description>
-		<year>19??</year>
-		<manufacturer>Sega</manufacturer>
-		<disk name="tstormfx\thunder storm fx (1992)(wolf team)(ntsc)(jp)(en)[t32064p-00022-r1m].chd" sha1="1e3aa4eb29fd896f6a2f59a966857978580aec82" />
-	</machine>
-	<machine name="tstormfx\thunder storm fx (1992)(wolf team)(ntsc)(jp)(en)[t32064p-00022-r2m]">
-		<description>Thunder Storm FX (Japan, R2)</description>
-		<year>1992</year>
-		<manufacturer>Wolf Team</manufacturer>
-		<disk name="tstormfx\thunder storm fx (1992)(wolf team)(ntsc)(jp)(en)[t32064p-00022-r2m].chd" sha1="0bcc78567469799aa7ad1fe3a705819595b6227d" />
 	</machine>
 	<machine name="virtvcr\virtual vcr - the colors of modern rock (usa)">
 		<description>Virtual VCR - The Colors of Modern Rock (USA)</description>
