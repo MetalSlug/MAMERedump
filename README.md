@@ -1,4 +1,4 @@
-# MAME Redump 0.280
+# MAME Redump 0.281 (WIP)
 
 The aim of the MAME Redump project is to convert the redump sets to formats that take up little space, such as the chd format. Gamecube and Wii sets have been converted to the NKit2 RVZ format (zstd-19-128k).
 All MAME Software List CHDs are merged or included. You will need to re-compress any Mame CHDs that don't match since 0.263, as Mame uses outdated hashes.
@@ -114,18 +114,18 @@ Philips - CD-i|2025-09-20|2468|15|737 GB|cdi|139 GB
 **PlayStation GameShark Updates**|2025-01-16|33|0|567 MB||
 **Pocket PC**|2025-06-13|72|0|11 GB||
 **Sega - Dreamcast**|2025-09-17|2103|0|842 GB|dc|72 GB
-**Sega - Mega-CD - Sega CD**|2025-08-23|812|0|184 GB|megacd|61 GB
+**Sega - Mega-CD - Sega CD**|2025-08-23|812|0|184 GB|megacd|63 GB
 **Sega - Prologue 21**|2024-02-25|30|0|17 GB||
 Sega - Saturn|2025-09-15|4422|5|1 TB|saturn|132 GB
 **Sharp - X68000**|2025-06-16|30|0|6 GB||
 **SNK - Neo Geo CD**|2025-06-09|217|0|59 GB|neocd|847 MB
-Sony - PlayStation 2|2025-09-22|11564|136|15 TB||
+Sony - PlayStation 2|2025-09-22|11689|11|15 TB||
 ~~Sony - PlayStation 3~~|2025-09-19|0|4435|||
 Sony - PlayStation Portable|2025-09-22|3199|114|2 TB||
-**Sony - PlayStation**|2025-09-22|11676|0|3 TB|psx|570 GB
+**Sony - PlayStation**|2025-09-22|11676|0|3 TB|psx|578 GB
 **TAB-Austria - Quizard**|2023-09-13|15|0|4 GB||
 **Tomy - Kiss-Site**|2024-07-11|30|0|3 GB|kisssite_cd|3 GB
 VM Labs - NUON|2025-01-23|9|2|8 GB|nuon|6 GB
 **VTech - V.Flash & V.Smile Pro**|2025-04-09|51|0|9 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2024-02-02|16|0|50 GB||
-Total||99633|15606|85 TB||1 TB
+Total||99758|15481|85 TB||1 TB
