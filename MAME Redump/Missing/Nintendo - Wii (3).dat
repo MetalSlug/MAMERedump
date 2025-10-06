@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Nintendo - Wii</name>
+		<description>MAME Redump - Nintendo - Wii - Discs (3778) (2025-09-20 20-30-21)</description>
+		<version>0.279</version>
+		<date>2025-10-06</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Machi e Ikou yo - Doubutsu no Mori (Japan) (Rev 2)" type="">
+		<category>Games</category>
+		<description>Machi e Ikou yo - Doubutsu no Mori (Japan) (Rev 2)</description>
+		<rom name="Machi e Ikou yo - Doubutsu no Mori (Japan) (Rev 2).iso" size="4699979776" crc="F88FFE7B" md5="B185FCB8AC9AC4FFFF5D6DD52445F949" sha1="AAF9859FE9C001DFB060DA6B645BDA21FFB8109D" />
+	</game>
+	<game name="Racquet Sports (USA) (En,Fr,Es)" type="">
+		<category>Games</category>
+		<description>Racquet Sports (USA) (En,Fr,Es)</description>
+		<rom name="Racquet Sports (USA) (En,Fr,Es).iso" size="4699979776" crc="BEC259D5" md5="8DE403BB81369479D69E3FB88C5CF7AC" sha1="D22CF728A3798678D2DA4AD66C5FA5649983C020" />
+	</game>
+	<game name="X-Men Origins - Wolverine (Europe, Australia) (En,Fr)" type="">
+		<category>Games</category>
+		<description>X-Men Origins - Wolverine (Europe, Australia) (En,Fr)</description>
+		<rom name="X-Men Origins - Wolverine (Europe, Australia) (En,Fr).iso" size="4699979776" crc="39C4AB1B" md5="A8AA95BB0A2E2D00625A46323E361EFE" sha1="9D2DF7A63DE33FFC2A7307A04811558B2E0F07B0" />
+	</game>
+</datafile>
