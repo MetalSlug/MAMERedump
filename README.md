@@ -73,8 +73,8 @@ Following Sets contains ISO Files
 |Redump												|Version   |Have		|MIA		|Size		|MAME					|MAME Duplicates	|
 |---------------------------------------------------|----------|------------------------|-----------|-----------|-----------|-----------|
 **Acorn - Archimedes**|2025-07-17|77|0|16 GB||
-Apple - Macintosh|2025-09-05|1128|181|614 GB|mac_cdrom|
-Arcade - Konami - e-Amusement|2025-07-21|24|19|25 GB||
+Apple - Macintosh|2025-09-05|1169|140|640 GB|mac_cdrom|
+Arcade - Konami - e-Amusement|2025-07-21|26|17|25 GB||
 **Arcade - Konami - FireBeat**|2024-03-16|10|0|8 GB||
 **Arcade - Konami - System 573**|2024-04-22|44|0|8 GB||
 **Arcade - Konami - System GV**|2024-09-06|2|0|641 MB||
@@ -84,7 +84,7 @@ Arcade - Sega - Chihiro|2021-01-08|17|1|11 GB||
 Arcade - Sega - Lindbergh|2025-09-14|68|2|174 GB||
 **Arcade - Sega - Naomi 2**|2024-04-12|9|0|2 GB||
 **Arcade - Sega - Naomi**|2025-08-24|31|0|4 GB||
-Arcade - Sega - RingEdge 2|2025-07-31|32|10|141 GB||
+Arcade - Sega - RingEdge 2|2025-07-31|33|9|146 GB||
 Arcade - Sega - RingEdge|2025-07-28|33|14|132 GB||
 **Atari - Jaguar CD Interactive Multimedia System**|2025-06-12|26|0|5 GB||
 **Bandai - Pippin**|2025-05-22|93|0|20 GB|pippin|4 GB
@@ -94,7 +94,7 @@ Commodore - Amiga CD|2025-05-14|591|2|205 GB|amiga_cd|4 GB
 **Commodore - Amiga CDTV**|2025-06-25|150|0|19 GB|cdtv|5 GB
 **Fujitsu - FM-Towns**|2025-08-06|975|0|143 GB|fmtowns_cd|135 GB
 **funworld - Photo Play**|2025-09-09|17|0|5 GB||5 GB
-IBM - PC compatible|2025-09-22|50846|4407|53 TB|ibm5170_cdrom|26 GB
+IBM - PC compatible|2025-09-22|51439|3814|54 TB|ibm5170_cdrom|26 GB
 **Incredible Technologies - Eagle**|2023-04-07|7|0|3 GB||
 **Mattel - Fisher-Price iXL**|2023-08-07|26|0|2 GB||
 **Mattel - HyperScan**|2024-02-26|8|0|505 MB||
@@ -109,23 +109,23 @@ Nintendo - GameCube|2025-09-19|2010|3|1 TB|Nintendo - GameCube|
 Nintendo - Wii|2025-09-20|3771|7|6 TB|Nintendo - Wii|
 **Palm**|2025-08-19|158|0|13 GB||
 **Panasonic - 3DO Interactive Multiplayer**|2025-09-07|665|0|188 GB||
-Philips - CD-i|2025-09-20|2468|15|737 GB|cdi|139 GB
+Philips - CD-i|2025-09-20|2473|10|739 GB|cdi|139 GB
 **Photo CD**|2025-09-12|250|0|47 GB|photo_cd|363 MB
 **PlayStation GameShark Updates**|2025-01-16|33|0|567 MB||
 **Pocket PC**|2025-06-13|72|0|11 GB||
 **Sega - Dreamcast**|2025-09-17|2103|0|842 GB|dc|72 GB
 **Sega - Mega-CD - Sega CD**|2025-08-23|812|0|184 GB|megacd|63 GB
 **Sega - Prologue 21**|2024-02-25|30|0|17 GB||
-Sega - Saturn|2025-09-15|4422|5|1 TB|saturn|132 GB
+Sega - Saturn|2025-09-15|4423|4|1 TB|saturn|132 GB
 **Sharp - X68000**|2025-06-16|30|0|6 GB||
 **SNK - Neo Geo CD**|2025-06-09|217|0|59 GB|neocd|847 MB
-Sony - PlayStation 2|2025-09-22|11689|11|15 TB||
+Sony - PlayStation 2|2025-09-22|11699|1|15 TB||
 ~~Sony - PlayStation 3~~|2025-09-19|0|4435|||
-Sony - PlayStation Portable|2025-09-22|3199|114|2 TB||
+Sony - PlayStation Portable|2025-09-22|3307|6|2 TB||
 **Sony - PlayStation**|2025-09-22|11676|0|3 TB|psx|578 GB
 **TAB-Austria - Quizard**|2023-09-13|15|0|4 GB||
 **Tomy - Kiss-Site**|2024-07-11|30|0|3 GB|kisssite_cd|3 GB
 VM Labs - NUON|2025-01-23|9|2|8 GB|nuon|6 GB
 **VTech - V.Flash & V.Smile Pro**|2025-04-09|51|0|9 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2024-02-02|16|0|50 GB||
-Total||99758|15481|85 TB||1 TB
+Total||100519|14720|86 TB||1 TB
