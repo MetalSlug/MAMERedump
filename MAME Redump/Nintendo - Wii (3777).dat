@@ -5,7 +5,7 @@
 		<name>Nintendo - Wii</name>
 		<description>MAME Redump - Nintendo - Wii - Discs (3778) (2025-09-20 20-30-21)</description>
 		<version>0.279</version>
-		<date>2025-10-06</date>
+		<date>2025-10-08</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -13569,6 +13569,11 @@
 		<description>Racket Sports Party (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Racket Sports Party (Europe) (En,Fr,De,Es,It,Nl).rvz" size="885747556" crc="B14EC93E" sha1="686B4C3F2AA1C2C61F9C06172C8759B462342AEC" />
 	</game>
+	<game name="Racquet Sports (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Racquet Sports (USA) (En,Fr,Es)</description>
+		<rom name="Racquet Sports (USA) (En,Fr,Es).rvz" size="733530820" crc="5B66F107" sha1="3E7175593C0C526AB3EC24EBD3E636D04FCCC95E" />
+	</game>
 	<game name="Radio Helicopter (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Radio Helicopter (Europe) (En,Fr,De,Es,It)</description>
@@ -18628,6 +18633,11 @@
 		<category>Games</category>
 		<description>X-Men Origins - Wolverine (Europe) (De,Es,It)</description>
 		<rom name="X-Men Origins - Wolverine (Europe) (De,Es,It).rvz" size="3173246796" crc="B1F49982" sha1="5EFF373BC7A443D9D206C8EB91991128DEE2DC6B" />
+	</game>
+	<game name="X-Men Origins - Wolverine (Europe, Australia) (En,Fr)">
+		<category>Games</category>
+		<description>X-Men Origins - Wolverine (Europe, Australia) (En,Fr)</description>
+		<rom name="X-Men Origins - Wolverine (Europe, Australia) (En,Fr).rvz" size="3069998484" crc="BC85B4C3" sha1="0A2ADD8BE46A857D1081DE367D865A1B3E766BD3" />
 	</game>
 	<game name="X-Men Origins - Wolverine (USA) (En,Fr)">
 		<category>Games</category>
