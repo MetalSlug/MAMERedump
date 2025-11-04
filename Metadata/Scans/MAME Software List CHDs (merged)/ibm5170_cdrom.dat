@@ -4,7 +4,7 @@
 	<header>
 		<name>ibm5170_cdrom</name>
 		<description>ibm5170_cdrom</description>
-		<version>0.279</version>
+		<version>0.281</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -3070,7 +3070,7 @@
 		<manufacturer>Lotus Development Corporation</manufacturer>
 		<rom name="lotus_notes_express_v3_30_for_os2_special_promotion_copy_nfr_27h9175_lotus_development_corporation_1995 (Track 01).bin" size="40843264" crc="d64ab6fd" md5="a8cd34038c18079cbd094ecbbe58c41d" sha1="5958978cdf75f11faf82b35f03db9960e1f06159"/>
 	</game>
-	<game name="odosmrs701\opendosmrs" type="cd" sha1="e8af32e0db9044cfc89a854185db54d84f3446ae" size="1199795" crc="14865ece" fullsha1="f2fb6ad42d42aed26f54e2494ca92ba779458ace" dataSha1="877066535dabfe10f205e2ae82be6761ad127a12" status="baddump">
+	<game name="odosmrs701\opendosmrs" type="cd" sha1="e8af32e0db9044cfc89a854185db54d84f3446ae" size="1199795" crc="14865ece" fullsha1="f2fb6ad42d42aed26f54e2494ca92ba779458ace" dataSha1="877066535dabfe10f205e2ae82be6761ad127a12">
 		<category>Games</category>
 		<description>Caldera OpenDOS Machine Readable Source Kit (M.R.S) 7.01</description>
 		<year>1997</year>
@@ -3161,7 +3161,7 @@
 		<manufacturer>IBM</manufacturer>
 		<rom name="cd9_workspace_on_demand (Track 01).bin" size="430319616" crc="32e33d67" md5="3b45821830bc8239458c1d0f800b4c6e" sha1="b924f785530157a29d3e6914b2bf8ec0c93093c2"/>
 	</game>
-	<game name="os2special\os2_warp_special_cd" type="cd" sha1="710cf91d488c65520796427b264f275e46958143" size="462965790" crc="b61f5ddc" fullsha1="0959b6949fc7baab26df6c162ddbd22856701db7" dataSha1="bcb26af1f4bf4104a1c93175bc0b1c0ee1772b6c" status="baddump">
+	<game name="os2special\os2_warp_special_cd" type="cd" sha1="710cf91d488c65520796427b264f275e46958143" size="462965790" crc="b61f5ddc" fullsha1="0959b6949fc7baab26df6c162ddbd22856701db7" dataSha1="bcb26af1f4bf4104a1c93175bc0b1c0ee1772b6c">
 		<category>Games</category>
 		<description>OS/2 Warp Special CD - november 1995</description>
 		<year>1995</year>
@@ -4689,7 +4689,7 @@
 		<manufacturer>Microsoft</manufacturer>
 		<rom name="en-us windows 2000 server 5.00.2195.2951 (Track 01).bin" size="431745024" crc="ffffffff" md5="31afbd355033bb15a1bd04fd8f83e3b8" sha1="050534b46cd7ee77fe3b0bfae4c24a459424ca34"/>
 	</game>
-	<game name="win2k\en-us windows 2000 server 5.00.2195.5438" type="cd" sha1="bee6698b836fa1094bfce50416ea494e4cbd9a9c" size="390411222" crc="eb9dbf0a" fullsha1="530d52950c6cdde155aff2f499d957a7703b9f36" dataSha1="954769f0f8ed6bea0da446158e50208a4f38313f" status="baddump">
+	<game name="win2k\en-us windows 2000 server 5.00.2195.5438" type="cd" sha1="bee6698b836fa1094bfce50416ea494e4cbd9a9c" size="390411222" crc="eb9dbf0a" fullsha1="530d52950c6cdde155aff2f499d957a7703b9f36" dataSha1="954769f0f8ed6bea0da446158e50208a4f38313f">
 		<category>Games</category>
 		<description>Windows 2000 Professional with Service Pack 4 (5.00.2195.6717)</description>
 		<year>2003</year>

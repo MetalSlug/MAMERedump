@@ -4,8 +4,8 @@
 	<header>
 		<name>Sony - PlayStation</name>
 		<description>MAME Redump - Sony - PlayStation - Discs (10868) (2025-09-22 12-06-31)</description>
-		<version>0.279</version>
-		<date>2025-09-24</date>
+		<version>0.281</version>
+		<date>2025-11-04</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -1639,8 +1639,6 @@
 	<machine name="Alone in the Dark - One-Eyed Jack's Revenge (USA)">
 		<category>Games</category>
 		<description>Alone in the Dark - One-Eyed Jack's Revenge (USA)</description>
-		<year>1996</year>
-		<manufacturer>Kokopeli Digital Studios</manufacturer>
 		<disk name="Alone in the Dark - One-Eyed Jack's Revenge (USA).chd" sha1="e27406a6237dd80759188ae031904395ca7045e3" />
 	</machine>
 	<machine name="Alone in the Dark - The New Nightmare (Australia) (Disc 1) (Beta) (2001-03-13)">

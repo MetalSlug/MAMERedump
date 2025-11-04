@@ -74,7 +74,7 @@ Following Sets contains ISO Files
 |---------------------------------------------------|----------|------------------------|-----------|-----------|-----------|-----------|
 **Acorn - Archimedes**|2025-07-17|77|0|16 GB||
 Apple - Macintosh|2025-09-05|1169|140|640 GB|mac_cdrom|
-Arcade - Konami - e-Amusement|2025-07-21|26|17|25 GB||
+Arcade - Konami - e-Amusement|2025-07-21|27|16|26 GB||
 **Arcade - Konami - FireBeat**|2024-03-16|10|0|8 GB||
 **Arcade - Konami - System 573**|2024-04-22|44|0|8 GB||
 **Arcade - Konami - System GV**|2024-09-06|2|0|641 MB||
@@ -105,7 +105,7 @@ IBM - PC compatible|2025-09-22|51440|3813|54 TB|ibm5170_cdrom|26 GB
 **NEC - PC-88 series**|2025-05-19|4|0|842 MB|pc8801_cdrom|288 MB
 NEC - PC-98 series|2025-09-18|318|1|51 GB|pc98_cd|12 GB
 **NEC - PC-FX**|2025-05-14|79|0|30 GB|pcfx|5 GB
-Nintendo - GameCube|2025-09-19|2011|2|1 TB|Nintendo - GameCube|
+Nintendo - GameCube|2025-09-19|2012|1|1 TB|Nintendo - GameCube|
 Nintendo - Wii|2025-09-20|3777|1|6 TB|Nintendo - Wii|
 **Palm**|2025-08-19|158|0|13 GB||
 **Panasonic - 3DO Interactive Multiplayer**|2025-09-07|665|0|188 GB||
@@ -121,11 +121,11 @@ Sega - Saturn|2025-09-15|4423|4|1 TB|saturn|132 GB
 **SNK - Neo Geo CD**|2025-06-09|217|0|59 GB|neocd|847 MB
 Sony - PlayStation 2|2025-09-22|11699|1|15 TB||
 ~~Sony - PlayStation 3~~|2025-09-19|0|4435|||
-Sony - PlayStation Portable|2025-09-22|3307|6|2 TB||
+Sony - PlayStation Portable|2025-09-22|3309|4|2 TB||
 **Sony - PlayStation**|2025-09-22|11676|0|3 TB|psx|578 GB
 **TAB-Austria - Quizard**|2023-09-13|15|0|4 GB||
 **Tomy - Kiss-Site**|2024-07-11|30|0|3 GB|kisssite_cd|3 GB
 VM Labs - NUON|2025-01-23|9|2|8 GB|nuon|6 GB
 **VTech - V.Flash & V.Smile Pro**|2025-04-09|51|0|9 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2024-02-02|16|0|50 GB||
-Total||100527|14712|86 TB||1 TB
+Total||100531|14708|86 TB||1 TB

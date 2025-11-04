@@ -2,9 +2,9 @@
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
-		<name>Nintendo - Gamecube</name>
-		<description>Nintendo - Gamecube</description>
-		<version>0.279</version>
+		<name>Nintendo - GameCube</name>
+		<description>Nintendo - GameCube</description>
+		<version>0.281</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -113,6 +113,11 @@
 		<category>Games</category>
 		<description>Nickelodeon Bob L'eponge - Silence on Tourne ! (France)</description>
 		<rom name="Nickelodeon Bob L'eponge - Silence on Tourne ! (France).rvz" size="730647676" crc="fc5477c2" md5="d28958a374aae14d8c0ffa1c95c0f6bc" sha1="362f85756f56a8f835b5252855634393a83f02d1"/>
+	</game>
+	<game name="SD Media Launcher for GameCube &amp; Wii (USA) (Unl)" type="cd" sha1="" size="" crc="" fullsha1="" dataSha1="">
+		<category>Games</category>
+		<description>SD Media Launcher for GameCube &amp; Wii (USA) (Unl)</description>
+		<rom name="SD Media Launcher for GameCube &amp; Wii (USA) (Unl).rvz" size="390124" crc="9cdcfeb8" md5="53f7a8bea8cd0b89e27b6bd46be2522b" sha1="76b8b83a665eae8df404903ed3d7fe4f0d1bdefe"/>
 	</game>
 	<game name="Super Mario Sunshine (USA, Canada)" type="cd" sha1="" size="" crc="" fullsha1="" dataSha1="">
 		<category>Games</category>

@@ -4,7 +4,7 @@
 	<header>
 		<name>Arcade - Konami - e-Amusement</name>
 		<description>Arcade - Konami - e-Amusement</description>
-		<version>0.279</version>
+		<version>0.281</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -83,6 +83,11 @@
 		<category>Games</category>
 		<description>Toukyuu Oukoku Gashaaaan (Asia) (Application Disc)</description>
 		<rom name="Toukyuu Oukoku Gashaaaan (Asia) (Application Disc) (Track 01).bin" size="384088656" crc="2e12393c" md5="be8711785dacb3073450801ed1604a9c" sha1="a4c2217c804b2fe1a919ae03f135c6e79cf7bc0f"/>
+	</game>
+	<game name="Toukyuu Oukoku Gashaaaan (Asia) (System Disc)" type="cd" sha1="8ef409e045c5a1f57133b90381221921395d46d7" size="327065393" crc="5557a8ca" fullsha1="ecfa169128954948d7c5721fcf0882f3baf07f5e" dataSha1="da6e73acf97edee87aa2f9a0ad8404bd010da42d">
+		<category>Games</category>
+		<description>Toukyuu Oukoku Gashaaaan (Asia) (System Disc)</description>
+		<rom name="Toukyuu Oukoku Gashaaaan (Asia) (System Disc) (Track 01).bin" size="576091824" crc="3e48a862" md5="635eedf5ae579c0ca24556907d956f61" sha1="356c42df2d70b385ae6202ac3890f1725359855b"/>
 	</game>
 	<game name="World Soccer Winning Eleven - Arcade Championship 2008 (Japan) (Application Disc 1)" type="cd" sha1="f7b4fdf94197af5e4004933655fb7e449e3fc952" size="500965685" crc="1dcf10dc" fullsha1="ea983b3227773fec5a2083ce3fe28d23a86d5780" dataSha1="2643f402d97b1978b64e0888c308bfa2a0e8cc84">
 		<category>Games</category>

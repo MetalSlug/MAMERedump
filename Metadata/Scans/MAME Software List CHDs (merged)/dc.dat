@@ -4,7 +4,7 @@
 	<header>
 		<name>dc</name>
 		<description>dc</description>
-		<version>0.279</version>
+		<version>0.281</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -42,7 +42,7 @@
 		<rom name="disney's 102 dalmatians puppies to the rescue (euro) (Track 04).bin" size="1587600" crc="ff6272c0" md5="dc3bbcbf98aeccd2a6b4277a7d8168df" sha1="6f7e0d7d9695af0f65081b614d6afc3b4315b36a"/>
 		<rom name="disney's 102 dalmatians puppies to the rescue (euro) (Track 05).bin" size="662572512" crc="9ba9c1d0" md5="d7bd0e6867eafffab0a9419448f1476d" sha1="cca1e59cebb98ed602c4ad7c96c0f28190223628"/>
 	</game>
-	<game name="102dalm\disney's 102 dalmatians puppies to the rescue (euro, prototype 20000110)" type="cd" sha1="fd3657931bba16345adb32eb7c2963e6144950b5" size="545847032" crc="cfc98985" fullsha1="5a436e0d04d8b015420eb3a0aaf324bab8fd4ab3" dataSha1="a66aef1dc22a9bccdbf10d616d015fe72d8e3380" status="baddump">
+	<game name="102dalm\disney's 102 dalmatians puppies to the rescue (euro, prototype 20000110)" type="cd" sha1="fd3657931bba16345adb32eb7c2963e6144950b5" size="545847032" crc="cfc98985" fullsha1="5a436e0d04d8b015420eb3a0aaf324bab8fd4ab3" dataSha1="a66aef1dc22a9bccdbf10d616d015fe72d8e3380">
 		<category>Games</category>
 		<description>Disney's 102 Dalmatians: Puppies to the Rescue (Europe, prototype 20000110)</description>
 		<year>2000</year>
@@ -91,7 +91,7 @@
 		<rom name="18 wheeler american pro trucker (usa) (Track 02).bin" size="1589952" crc="8557fcaa" md5="824ff123fbce45b5883962eb3fa43cab" sha1="a3705cb0ce53c7adf906c5af76887406984de6a9"/>
 		<rom name="18 wheeler american pro trucker (usa) (Track 03).bin" size="1185760800" crc="41d83a31" md5="16b0672b221ed0d0eecb6a9d6e8783f9" sha1="fc4ce908933d90cf3624737349208caca5533700"/>
 	</game>
-	<game name="18wheelr\18 wheeler american pro trucker (usa, prototype 20010202)" type="cd" sha1="2cdaab132bcd2a8bcf7a31a2466d05d0d5278d30" size="156612864" crc="67e284e7" fullsha1="a8c971199902f637f4ea18b3ac65dfdff5060f7f" dataSha1="dac7a35da581c0b3e431952c24bb10e27185c3dd" status="baddump">
+	<game name="18wheelr\18 wheeler american pro trucker (usa, prototype 20010202)" type="cd" sha1="2cdaab132bcd2a8bcf7a31a2466d05d0d5278d30" size="156612864" crc="67e284e7" fullsha1="a8c971199902f637f4ea18b3ac65dfdff5060f7f" dataSha1="dac7a35da581c0b3e431952c24bb10e27185c3dd">
 		<category>Games</category>
 		<description>18 Wheeler: American Pro Trucker (USA, prototype 20010202)</description>
 		<year>2001</year>
@@ -166,7 +166,7 @@
 		<rom name="4 wheel thunder (usa) (Track 17).bin" size="42691152" crc="98d76c3a" md5="70a968acd12e3fbc6aceb342313df386" sha1="1a25c39dd895500fa5a5e167d760f95bab46a4c8"/>
 		<rom name="4 wheel thunder (usa) (Track 18).bin" size="339233664" crc="54f88ef2" md5="7e4ea373b09cab39913d87ec46080eef" sha1="ca0ae07298883059fcd9ad5ade2e93a3724c1fc1"/>
 	</game>
-	<game name="4x4evo\4x4 evo (euro, prototype 20010109)" type="cd" sha1="0cf448098253fafd05728ac5d8a729420438d66f" size="221892161" crc="1362b7fb" fullsha1="d793803151c444530dce8b1de858dc64e3ff3f99" dataSha1="54f3909b37eb1662996a57aae93ec492e8434a1e" status="baddump">
+	<game name="4x4evo\4x4 evo (euro, prototype 20010109)" type="cd" sha1="0cf448098253fafd05728ac5d8a729420438d66f" size="221892161" crc="1362b7fb" fullsha1="d793803151c444530dce8b1de858dc64e3ff3f99" dataSha1="54f3909b37eb1662996a57aae93ec492e8434a1e">
 		<category>Games</category>
 		<description>4x4 Evo (Europe, prototype 20010109)</description>
 		<year>2001</year>
@@ -646,7 +646,7 @@
 		<rom name="alien front online (usa) (Track 04).bin" size="13818000" crc="2c98bfec" md5="e081e4437e3193c4f9f712f5d607ce52" sha1="415049310c4e753b5554b75fc9fc484b9b946179"/>
 		<rom name="alien front online (usa) (Track 05).bin" size="164574144" crc="afbc1c4f" md5="845e881fb3a716044da157d48f9aaefe" sha1="b5b3bd178d1c41bc3a8baf8feaa788c5147cfc57"/>
 	</game>
-	<game name="alienfnto\alien front online (usa, prototype 20010625)" type="cd" sha1="5917d1c460f90fb3b3015bd90bff8913d0ed10d4" size="131558772" crc="9f5efbd8" fullsha1="97dd8256fa70526cb7e266d1d77a5e44093a533a" dataSha1="e9da937489056c1853f0103ece756ff4c0943e18" status="baddump">
+	<game name="alienfnto\alien front online (usa, prototype 20010625)" type="cd" sha1="5917d1c460f90fb3b3015bd90bff8913d0ed10d4" size="131558772" crc="9f5efbd8" fullsha1="97dd8256fa70526cb7e266d1d77a5e44093a533a" dataSha1="e9da937489056c1853f0103ece756ff4c0943e18">
 		<category>Games</category>
 		<description>Alien Front Online (USA, prototype 20010625)</description>
 		<year>2001</year>
@@ -1088,7 +1088,7 @@
 		<rom name="nfl blitz 2000 (euro) (Track 04).bin" size="117183696" crc="b40f5273" md5="8db8ab300d16e0a8d37d1f899b5a00a8" sha1="cccd28b44ec1f4a2d26771e8eb82a608589e34a1"/>
 		<rom name="nfl blitz 2000 (euro) (Track 05).bin" size="395484096" crc="5e1df9fa" md5="78628b563db71c99fabad2e73ba5d018" sha1="4c9c254ef6d7d13a91647832bcc473bc74435516"/>
 	</game>
-	<game name="blitz2k\nfl blitz 2000 (euro, prototype 19990908)" type="cd" sha1="f4d643989d61abd92bde8131f54a67f284a437c6" size="178945692" crc="0fd242e8" fullsha1="a839de42fb671d39fe7f0ea6b6a019f6fdc62721" dataSha1="d6fffcbb4f488b100db51ec8d3e4fd47f1a8a3c3" status="baddump">
+	<game name="blitz2k\nfl blitz 2000 (euro, prototype 19990908)" type="cd" sha1="f4d643989d61abd92bde8131f54a67f284a437c6" size="178945692" crc="0fd242e8" fullsha1="a839de42fb671d39fe7f0ea6b6a019f6fdc62721" dataSha1="d6fffcbb4f488b100db51ec8d3e4fd47f1a8a3c3">
 		<category>Games</category>
 		<description>NFL Blitz 2000 (Europe, prototype 19990908)</description>
 		<year>1999</year>
@@ -1139,7 +1139,7 @@
 		<rom name="blue stinger (fra) (Track 02).bin" size="2471952" crc="fd45fbe2" md5="079ba845b859ac77fa95232c9a6069ee" sha1="1aaa7d0297c252d9fd762f329ff491b7ba465c8e"/>
 		<rom name="blue stinger (fra) (Track 03).bin" size="1185760800" crc="e755fc2e" md5="eb09dfde4408014b09e525e335e88f3c" sha1="4cb99c88c8b3a5a3f2e019f7782b4fb4de94ef48"/>
 	</game>
-	<game name="blusting\blue stinger (fra, prototype 19990824)" type="cd" sha1="5f8ba0fe0cd70632abd84c78f9a3e11348f160b3" size="736413324" crc="acb78bd5" fullsha1="e4e0f095b4412451c50ee1f44f12b5d2a7966989" dataSha1="8f685a7600aab7ccaac2e78a273c7981767c555d" status="baddump">
+	<game name="blusting\blue stinger (fra, prototype 19990824)" type="cd" sha1="5f8ba0fe0cd70632abd84c78f9a3e11348f160b3" size="736413324" crc="acb78bd5" fullsha1="e4e0f095b4412451c50ee1f44f12b5d2a7966989" dataSha1="8f685a7600aab7ccaac2e78a273c7981767c555d">
 		<category>Games</category>
 		<description>Blue Stinger (France, prototype 19990824)</description>
 		<year>1999</year>
@@ -2263,7 +2263,7 @@
 		<rom name="daytona usa (usa) (Track 02).bin" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270"/>
 		<rom name="daytona usa (usa) (Track 03).bin" size="1185760800" crc="aa3f9cde" md5="90b454b7027f34f398fbd99077f566c2" sha1="9887fa0660d55bcb4d3c1a6b8a4473ab98abd2a7"/>
 	</game>
-	<game name="daytona\daytona usa (usa, prototype 20010214)" type="cd" sha1="e0e9e134a954ce22d2c63638583ccc66a5fc26d1" size="409137014" crc="4b506165" fullsha1="6b622af8262f9be0749e4e62011a8df299cacf43" dataSha1="aae49175f796a8aa999ce042544d7718726ae864" status="baddump">
+	<game name="daytona\daytona usa (usa, prototype 20010214)" type="cd" sha1="e0e9e134a954ce22d2c63638583ccc66a5fc26d1" size="409137014" crc="4b506165" fullsha1="6b622af8262f9be0749e4e62011a8df299cacf43" dataSha1="aae49175f796a8aa999ce042544d7718726ae864">
 		<category>Games</category>
 		<description>Daytona USA (USA, prototype 20010214)</description>
 		<year>200?</year>
@@ -2281,7 +2281,7 @@
 		<rom name="daytona usa 2001 (euro) (Track 02).bin" size="13994400" crc="15e73429" md5="d1838bcbca4a24b39deddeae2a9d371a" sha1="b643df4def042b6c23f90f54c690ac7df431233f"/>
 		<rom name="daytona usa 2001 (euro) (Track 03).bin" size="1185760800" crc="3de07187" md5="a697d6a5cacbaecf2d7f2a7c64305a97" sha1="274cb4272cc47cbe48e3ab9cd314aff4aaead709"/>
 	</game>
-	<game name="daytona\daytona usa 2001 (euro, prototype 20010227)" type="cd" sha1="6238a5c31a9e2b730e25a3500cdb1a5ae0bae076" size="407176025" crc="aa05a79c" fullsha1="9be9fdbf1acaa854acb4d177de062e5335eeb1b2" dataSha1="788fc69490344cb13d17fe983f5e3d87d26e7b27" status="baddump">
+	<game name="daytona\daytona usa 2001 (euro, prototype 20010227)" type="cd" sha1="6238a5c31a9e2b730e25a3500cdb1a5ae0bae076" size="407176025" crc="aa05a79c" fullsha1="9be9fdbf1acaa854acb4d177de062e5335eeb1b2" dataSha1="788fc69490344cb13d17fe983f5e3d87d26e7b27">
 		<category>Games</category>
 		<description>Daytona USA 2001 (Europe, prototype 20010227)</description>
 		<year>2001</year>
@@ -2663,7 +2663,7 @@
 		<rom name="deep fighter (fra) (disc 2) (Track 25).bin" size="28308672" crc="4e39a4ff" md5="c07e4177fe3f7ce98dfbc9410accf7a8" sha1="a4ad7f185925b917ffe9d7ee1f1907389a8c9687"/>
 		<rom name="deep fighter (fra) (disc 2) (Track 26).bin" size="350041104" crc="d9717255" md5="7ea7052aa62247fa9831befcd16c438e" sha1="0fc66b7d7440dd3c863ead68eacf0d9557ba6436"/>
 	</game>
-	<game name="deepfght\deep fighter (fra, prototype 20000505)" type="cd" sha1="a0c1f6ab6b7138d56899d3911eec62aa73282e76" size="324774718" crc="5739d16e" fullsha1="9bf2149743e2e90a8e58a29a1efd1038f15b5e16" dataSha1="33cd4d5d6215761af260ecd54a5f04d762fa4748" status="baddump">
+	<game name="deepfght\deep fighter (fra, prototype 20000505)" type="cd" sha1="a0c1f6ab6b7138d56899d3911eec62aa73282e76" size="324774718" crc="5739d16e" fullsha1="9bf2149743e2e90a8e58a29a1efd1038f15b5e16" dataSha1="33cd4d5d6215761af260ecd54a5f04d762fa4748">
 		<category>Games</category>
 		<description>Deep Fighter (France, prototype 20000505)</description>
 		<year>2000</year>
@@ -2960,7 +2960,7 @@
 		<rom name="dead or alive 2 (euro) (Track 02).bin" size="13994400" crc="15e73429" md5="d1838bcbca4a24b39deddeae2a9d371a" sha1="b643df4def042b6c23f90f54c690ac7df431233f"/>
 		<rom name="dead or alive 2 (euro) (Track 03).bin" size="1185760800" crc="e37f9530" md5="546f8b12631cd238f935e2d3ddf9eb98" sha1="13d39131a2b6b6fd05872ab132e43f6c16623ac5"/>
 	</game>
-	<game name="doa2\dead or alive 2 (euro, prototype 20000611)" type="cd" sha1="773bf716b1fc80837b71b2c507cff493d52ea054" size="236589757" crc="a5747e4e" fullsha1="273ae76047fdd4a6ff1571e8482518cb4985c35d" dataSha1="17c2e9aaa25a7135573389ccd4dc2fb49484833e" status="baddump">
+	<game name="doa2\dead or alive 2 (euro, prototype 20000611)" type="cd" sha1="773bf716b1fc80837b71b2c507cff493d52ea054" size="236589757" crc="a5747e4e" fullsha1="273ae76047fdd4a6ff1571e8482518cb4985c35d" dataSha1="17c2e9aaa25a7135573389ccd4dc2fb49484833e">
 		<category>Games</category>
 		<description>Dead or Alive 2 (Europe, prototype 20000611)</description>
 		<year>2000</year>
@@ -3202,7 +3202,7 @@
 		<rom name="draconus cult of the wyrm (usa) (Track 04).bin" size="1060752" crc="a44276f4" md5="3a892db029c4b1ba6ed24ccdaf5cff62" sha1="36b69ee3a5dd70637228feaa14528ac23f848ee7"/>
 		<rom name="draconus cult of the wyrm (usa) (Track 05).bin" size="1131925872" crc="236cbfac" md5="169c9b174bdeb412d8b1fe20006fc926" sha1="825ce36e2b347f3c9d02190ebb8901e8ef2c0694"/>
 	</game>
-	<game name="draconus\draconus cult of the wyrm (world, prototype 20000127)" type="cd" sha1="0cb8e12a300c7460a2e3b25983c586681fea1993" size="816515929" crc="e08e1358" fullsha1="2ffb7bf2243f197977f2c60e05fdf0a3c47b380c" dataSha1="43b72bcccc805f03a7feca4019bba37e6b4117ef" status="baddump">
+	<game name="draconus\draconus cult of the wyrm (world, prototype 20000127)" type="cd" sha1="0cb8e12a300c7460a2e3b25983c586681fea1993" size="816515929" crc="e08e1358" fullsha1="2ffb7bf2243f197977f2c60e05fdf0a3c47b380c" dataSha1="43b72bcccc805f03a7feca4019bba37e6b4117ef">
 		<category>Games</category>
 		<description>Draconus: Cult of the Wyrm (World, prototype 20000127)</description>
 		<year>2000</year>
@@ -4394,7 +4394,7 @@
 		<rom name="millennium soldier expendable (euro) (Track 27).bin" size="4494672" crc="207589f9" md5="6456bf4dad0f3e62c43a2caa034dd148" sha1="bf69b778e708385ceef0020221c6934658fb9c97"/>
 		<rom name="millennium soldier expendable (euro) (Track 28).bin" size="282757440" crc="060a8bfc" md5="d7530d4832f7745667eab0a875b3f570" sha1="2c9373686b6147049eca9c3cc77863c77db2077a"/>
 	</game>
-	<game name="expendbl\millennium soldier expendable (euro, prototype 19990715)" type="cd" sha1="d8206851c56442443deaf57edb5d7ad094774d46" size="529592878" crc="ad242076" fullsha1="05e0e7455a465af4ff74f4cf45edf3341a450424" dataSha1="ce4d513c891f2c8cfdca639a51191c93dabf2339" status="baddump">
+	<game name="expendbl\millennium soldier expendable (euro, prototype 19990715)" type="cd" sha1="d8206851c56442443deaf57edb5d7ad094774d46" size="529592878" crc="ad242076" fullsha1="05e0e7455a465af4ff74f4cf45edf3341a450424" dataSha1="ce4d513c891f2c8cfdca639a51191c93dabf2339">
 		<category>Games</category>
 		<description>Millennium Soldier: Expendable (Europe, prototype 19990715)</description>
 		<year>1999</year>
@@ -4594,7 +4594,7 @@
 		<rom name="f1 world grand prix for dreamcast (euro) (Track 22).bin" size="21716016" crc="cb0cf001" md5="1b7ea9549b4421609f75d1f532b5be5f" sha1="f167a8575a4b99ac73878f6b9fb3f1f27621e511"/>
 		<rom name="f1 world grand prix for dreamcast (euro) (Track 23).bin" size="239325408" crc="1ba0cdb4" md5="105436392ad25b0748f5d466508b2081" sha1="eed6d5f158d556fc36abb971df5462f3b452f9a9"/>
 	</game>
-	<game name="f1wgp\f1 world grand prix for dreamcast (euro, prototype 19990903)" type="cd" sha1="02efa4e004f1a432a1c8f4e3dc99980eef6f218d" size="301389579" crc="4f9afca6" fullsha1="a23a22c2a4ae52f5723dc6d15be4027c5f625c20" dataSha1="99e752fe521776f3c687154c44e3d18a987265c7" status="baddump">
+	<game name="f1wgp\f1 world grand prix for dreamcast (euro, prototype 19990903)" type="cd" sha1="02efa4e004f1a432a1c8f4e3dc99980eef6f218d" size="301389579" crc="4f9afca6" fullsha1="a23a22c2a4ae52f5723dc6d15be4027c5f625c20" dataSha1="99e752fe521776f3c687154c44e3d18a987265c7">
 		<category>Games</category>
 		<description>F1 World Grand Prix for Dreamcast (Europe, prototype 19990903)</description>
 		<year>1999</year>
@@ -4688,7 +4688,7 @@
 		<rom name="f355 challenge passione rossa (usa, alt) (Track 02).bin" size="1237152" crc="a92e5a85" md5="c0149abd5ae61eadb85ea67f84676d00" sha1="bcdc971432cd55516bf9f4de6f13c333d7386801"/>
 		<rom name="f355 challenge passione rossa (usa, alt) (Track 03).bin" size="1185760800" crc="264fbc77" md5="dd8449569e5ce5285cd57f89266e8b44" sha1="05022c6b2cdd4a51a7b77d5074029ece9f613ba7"/>
 	</game>
-	<game name="f355\f355 challenge passione rossa (usa, prototype 20000501)" type="cd" sha1="abb3d66fee1e87523fd33fefd60fa521fac5a5c6" size="142978081" crc="5949cd3f" fullsha1="bea67c83f50f632f3056f655e550b0008c7e516b" dataSha1="58f6b5d1c205b197728d1966ecf8953acbec2bf1" status="baddump">
+	<game name="f355\f355 challenge passione rossa (usa, prototype 20000501)" type="cd" sha1="abb3d66fee1e87523fd33fefd60fa521fac5a5c6" size="142978081" crc="5949cd3f" fullsha1="bea67c83f50f632f3056f655e550b0008c7e516b" dataSha1="58f6b5d1c205b197728d1966ecf8953acbec2bf1">
 		<category>Games</category>
 		<description>F355 Challenge: Passione Rossa (USA, prototype 20000501)</description>
 		<year>2000</year>
@@ -4697,7 +4697,7 @@
 		<rom name="f355 challenge passione rossa (usa, prototype 20000501) (Track 02).bin" size="1735776" crc="b191b505" md5="8659426a29f58924f5f0458cc720098b" sha1="e12b9ae5ebc79b7da5271bce29df450671ce5d93"/>
 		<rom name="f355 challenge passione rossa (usa, prototype 20000501) (Track 03).bin" size="1032499200" crc="8528d412" md5="1d6f32cf248c3c71ec13816c0760457a" sha1="a0987b02d59783769784f308829a5d19c1d55e69"/>
 	</game>
-	<game name="f355\f355 challenge passione rossa (usa, prototype 20000821)" type="cd" sha1="d44e698ca90905f443182b02c1b6ba9d25cc5454" size="165438172" crc="3ffeabf4" fullsha1="5051c48d6d51d0e8174ad1ede30e31a740cf18e3" dataSha1="1195b72be93f2a2a740fea3c7736094ad386010e" status="baddump">
+	<game name="f355\f355 challenge passione rossa (usa, prototype 20000821)" type="cd" sha1="d44e698ca90905f443182b02c1b6ba9d25cc5454" size="165438172" crc="3ffeabf4" fullsha1="5051c48d6d51d0e8174ad1ede30e31a740cf18e3" dataSha1="1195b72be93f2a2a740fea3c7736094ad386010e">
 		<category>Games</category>
 		<description>F355 Challenge: Passione Rossa (USA, prototype 20000821)</description>
 		<year>2000</year>
@@ -4773,7 +4773,7 @@
 		<rom name="fighting force 2 (euro) (Track 05).bin" size="13818000" crc="2c98bfec" md5="e081e4437e3193c4f9f712f5d607ce52" sha1="415049310c4e753b5554b75fc9fc484b9b946179"/>
 		<rom name="fighting force 2 (euro) (Track 06).bin" size="745148880" crc="6e5c9b94" md5="f7667b695ab4841ab8d2fca719776a38" sha1="b686099ffb1a5cb44b01a9e4cf86ab3ab34507af"/>
 	</game>
-	<game name="fforce2\fighting force 2 (euro, prototype 19991202)" type="cd" sha1="5633583294ad9e03b069a2c3fd63c39e90e2bf73" size="263648075" crc="d33a83c6" fullsha1="f9186a925fd847ad09479057f221a811b74c9d3e" dataSha1="ae1a69248ac681bc11d84acde85d8844b9a16c01" status="baddump">
+	<game name="fforce2\fighting force 2 (euro, prototype 19991202)" type="cd" sha1="5633583294ad9e03b069a2c3fd63c39e90e2bf73" size="263648075" crc="d33a83c6" fullsha1="f9186a925fd847ad09479057f221a811b74c9d3e" dataSha1="ae1a69248ac681bc11d84acde85d8844b9a16c01">
 		<category>Games</category>
 		<description>Fighting Force 2 (Europe, prototype 19991202)</description>
 		<year>1999</year>
@@ -5082,7 +5082,7 @@
 		<rom name="fur fighters (euro, demo) (Track 02).bin" size="1166592" crc="6e05f61e" md5="c1774d74e7f31b8f2ef74af2d7f28010" sha1="f1849e96005ebd0d4e0762ec2357a08a723cda1f"/>
 		<rom name="fur fighters (euro, demo) (Track 03).bin" size="1185760800" crc="7c0b9c11" md5="73b443f96a919282364ef02105b8be74" sha1="626144e0343150604f76e152a3d1d58e3a4d5858"/>
 	</game>
-	<game name="furfight\fur fighters (euro, prototype 20000602)" type="cd" sha1="8ba992345faf39ce51a9ad441cc2eccec481e090" size="665602555" crc="b9a46988" fullsha1="fc894c2a122a27f983f0f6a829f4353d046be028" dataSha1="cc11c0b936e84341957e4b5d3c0acd6c5489221b" status="baddump">
+	<game name="furfight\fur fighters (euro, prototype 20000602)" type="cd" sha1="8ba992345faf39ce51a9ad441cc2eccec481e090" size="665602555" crc="b9a46988" fullsha1="fc894c2a122a27f983f0f6a829f4353d046be028" dataSha1="cc11c0b936e84341957e4b5d3c0acd6c5489221b">
 		<category>Games</category>
 		<description>Fur Fighters (Europe, prototype 20000602)</description>
 		<year>2000</year>
@@ -5091,7 +5091,7 @@
 		<rom name="fur fighters (euro, prototype 20000602) (Track 02).bin" size="1237152" crc="48fff429" md5="87af6d21a8b10aeffb90874118531e29" sha1="b0d28980a64765c022b4b3e47244aad32a345270"/>
 		<rom name="fur fighters (euro, prototype 20000602) (Track 03).bin" size="1032499200" crc="78308d52" md5="770abc0397be7ff989ab546fc7db0443" sha1="674a4f65e587cefc12885c65702da8db16e0c1ad"/>
 	</game>
-	<game name="furfight\fur fighters (euro, prototype 20000612)" type="cd" sha1="96c05629453a5027bea9d03d5dd484271f2d1865" size="673850066" crc="9a271a43" fullsha1="d0634bbb732c90b5f90aa05f6002714801a570d4" dataSha1="711aa9ed51548d876d3d612883a0355c5ff31107" status="baddump">
+	<game name="furfight\fur fighters (euro, prototype 20000612)" type="cd" sha1="96c05629453a5027bea9d03d5dd484271f2d1865" size="673850066" crc="9a271a43" fullsha1="d0634bbb732c90b5f90aa05f6002714801a570d4" dataSha1="711aa9ed51548d876d3d612883a0355c5ff31107">
 		<category>Games</category>
 		<description>Fur Fighters (Europe, prototype 20000612)</description>
 		<year>2000</year>
@@ -5669,7 +5669,7 @@
 		<rom name="grandia ii (usa) (music selections) (Track 11).bin" size="51511152" crc="dcf59e13" md5="8258328a6a012776044ea446923cb9ca" sha1="846c931ceeb9c2f19220ff4ebb95dbd903431e94"/>
 		<rom name="grandia ii (usa) (music selections) (Track 12).bin" size="36688848" crc="31db20c5" md5="67e3bd9a8087029e3bc5b63aede083f5" sha1="9f230bd961795ced6eb00dae4474ec5a35be63ed"/>
 	</game>
-	<game name="grandia2\grandia ii - tentou-you demo (jpn)" type="cd" sha1="9c8dbcbc2b16753628adf13e1b55a196fd06977e" size="313388338" crc="0043e5aa" fullsha1="9c2847d2db0611ae067df10e323d3da3f2082bc0" dataSha1="428e28fa496b7ef7a100ab6b025e840cb4356bf5" status="baddump">
+	<game name="grandia2\grandia ii - tentou-you demo (jpn)" type="cd" sha1="9c8dbcbc2b16753628adf13e1b55a196fd06977e" size="313388338" crc="0043e5aa" fullsha1="9c2847d2db0611ae067df10e323d3da3f2082bc0" dataSha1="428e28fa496b7ef7a100ab6b025e840cb4356bf5">
 		<category>Games</category>
 		<description>Grandia II - Tentou-you (Japan, demo)</description>
 		<year>2000</year>
@@ -6162,7 +6162,7 @@
 		<rom name="hydro thunder (euro) (Track 36).bin" size="21344400" crc="ef90552a" md5="4f44542a4dc9ee8774a812dc5414244e" sha1="d7199adeea5dd7d289586ada5a54a855110b2228"/>
 		<rom name="hydro thunder (euro) (Track 37).bin" size="579088272" crc="3c45b39b" md5="24f42029230e355fe96c59e34e86e31e" sha1="6797cedf5a95714d2f2966678abfb2aab2213a87"/>
 	</game>
-	<game name="hydrthnd\hydro thunder (euro, prototype 19990908)" type="cd" sha1="35844589cec05ea93b53e667647c886b0bfc13c3" size="332028325" crc="a9a50431" fullsha1="f71d4392a769e35b7f18b7edf53e40194d2e356f" dataSha1="21a265e5b07fd685b58b7726e814f31e3577a180" status="baddump">
+	<game name="hydrthnd\hydro thunder (euro, prototype 19990908)" type="cd" sha1="35844589cec05ea93b53e667647c886b0bfc13c3" size="332028325" crc="a9a50431" fullsha1="f71d4392a769e35b7f18b7edf53e40194d2e356f" dataSha1="21a265e5b07fd685b58b7726e814f31e3577a180">
 		<category>Games</category>
 		<description>Hydro Thunder (Europe, prototype 19990908)</description>
 		<year>1999</year>
@@ -6291,7 +6291,7 @@
 		<rom name="hydro thunder (usa, rev. 1) (Track 36).bin" size="21344400" crc="c464e555" md5="10660b8ec46f85890b47cdcd86016a00" sha1="253a5c641601c3324be93dbc42a819f9628f39c8"/>
 		<rom name="hydro thunder (usa, rev. 1) (Track 37).bin" size="579088272" crc="a610a01c" md5="43524daaebcea89fcf08165e8735b3b9" sha1="eb597ea970c73b27199e5c6a1d44afe4ee4a7181"/>
 	</game>
-	<game name="hydrthnd\hydro thunder (world, prototype 19990616)" type="cd" sha1="d9692470829c87d0e9966cad9e9bb2373ac237b4" size="275229470" crc="d3f5470e" fullsha1="0aa57bc2db92a6dc53ae1b1f99cec83fabe6953d" dataSha1="08918707b0bda57289bd12fb07e1c1470c2cdd55" status="baddump">
+	<game name="hydrthnd\hydro thunder (world, prototype 19990616)" type="cd" sha1="d9692470829c87d0e9966cad9e9bb2373ac237b4" size="275229470" crc="d3f5470e" fullsha1="0aa57bc2db92a6dc53ae1b1f99cec83fabe6953d" dataSha1="08918707b0bda57289bd12fb07e1c1470c2cdd55">
 		<category>Games</category>
 		<description>Hydro Thunder (World, prototype 19990616)</description>
 		<year>1999</year>
@@ -6402,7 +6402,7 @@
 		<rom name="incoming (euro) (Track 13).bin" size="20739936" crc="c6db5acb" md5="cb07182601f245f8cfd6d8a34a354d4e" sha1="f8117af1eb563e8a5d986fd3e6dab0ce20f5217b"/>
 		<rom name="incoming (euro) (Track 14).bin" size="92259552" crc="8d22bcff" md5="edae4717e297a67676308660280c64aa" sha1="12849d565f52fd13e0e122f716627fbcd1c9912f"/>
 	</game>
-	<game name="incoming\incoming (euro, prototype 19990906)" type="cd" sha1="7fa77f792903d52c53e35dc34615c638e0588d37" size="238294036" crc="4a560638" fullsha1="4d4def1b1f2e632fcd4dff850e3d2a1beb4e9893" dataSha1="c416068d828ffdfdfc0139efa4107b1fec5c944e" status="baddump">
+	<game name="incoming\incoming (euro, prototype 19990906)" type="cd" sha1="7fa77f792903d52c53e35dc34615c638e0588d37" size="238294036" crc="4a560638" fullsha1="4d4def1b1f2e632fcd4dff850e3d2a1beb4e9893" dataSha1="c416068d828ffdfdfc0139efa4107b1fec5c944e">
 		<category>Games</category>
 		<description>Incoming (Europe, prototype 19990906)</description>
 		<year>1999</year>
@@ -6693,7 +6693,7 @@
 		<rom name="jet set radio (euro) (Track 02).bin" size="13994400" crc="15e73429" md5="d1838bcbca4a24b39deddeae2a9d371a" sha1="b643df4def042b6c23f90f54c690ac7df431233f"/>
 		<rom name="jet set radio (euro) (Track 03).bin" size="1185760800" crc="7672bc6f" md5="41e04e0db314d1719f4806d4e0ae1169" sha1="ce82e77c72389817b29cfa9b67770f1558f54f16"/>
 	</game>
-	<game name="jetgrind\jet set radio (euro, prototype 20001003)" type="cd" sha1="20d87b6b9852ad8427e7e2c05ddad4b0ee702f6b" size="637859642" crc="0377e7de" fullsha1="6f6056be0737b6caeba5d9545fd4704da4e30d85" dataSha1="c2993627e495d451e3df9e4e4d18e54427c7079a" status="baddump">
+	<game name="jetgrind\jet set radio (euro, prototype 20001003)" type="cd" sha1="20d87b6b9852ad8427e7e2c05ddad4b0ee702f6b" size="637859642" crc="0377e7de" fullsha1="6f6056be0737b6caeba5d9545fd4704da4e30d85" dataSha1="c2993627e495d451e3df9e4e4d18e54427c7079a">
 		<category>Games</category>
 		<description>Jet Set Radio (Europe, prototype 20001003)</description>
 		<year>2000</year>
@@ -7351,7 +7351,7 @@
 		<rom name="magforce racing (usa) (Track 12).bin" size="48422976" crc="8d065636" md5="16b9cfc248e2fa806a13878a7e47adac" sha1="d48c6b1ab2df3d245ecb9ecbfdfc03ae4c1dd125"/>
 		<rom name="magforce racing (usa) (Track 13).bin" size="274687728" crc="bd678080" md5="b9e6c8efb0ca2402cfc8f40b954eb9d1" sha1="de07b350735243c5b3073166712b483a92594400"/>
 	</game>
-	<game name="magforce\magforce racing (world, prototype 20000524)" type="cd" sha1="08783ffcfd44c939995e93e4b1580fcedc5471ca" size="322199761" crc="800d51cc" fullsha1="06005d34b9870d1ddc0a5ca92704032ffc9b0b61" dataSha1="efccd06f738a0b0804520c69fa1725e267550664" status="baddump">
+	<game name="magforce\magforce racing (world, prototype 20000524)" type="cd" sha1="08783ffcfd44c939995e93e4b1580fcedc5471ca" size="322199761" crc="800d51cc" fullsha1="06005d34b9870d1ddc0a5ca92704032ffc9b0b61" dataSha1="efccd06f738a0b0804520c69fa1725e267550664">
 		<category>Games</category>
 		<description>Magforce Racing (World, prototype 20000524)</description>
 		<year>2000</year>
@@ -7553,7 +7553,7 @@
 		<rom name="mdk 2 (usa) (Track 30).bin" size="10334688" crc="647dd299" md5="085ad760b9c74ee01ea7e5abdf701ea2" sha1="cc90ef18ed7742214dc0560f6f25fa63706a4726"/>
 		<rom name="mdk 2 (usa) (Track 31).bin" size="281421504" crc="b2d0ccdb" md5="a1910c0d748859286ccad955c1677ab0" sha1="5b9a7aa31e7e9aab5045020e4a950ccf8a6f4100"/>
 	</game>
-	<game name="mdk2\mdk 2 (world, prototype 20000126 5pm)" type="cd" sha1="c3e74ce9af59755bd6026db7b99cd07a6efcb032" size="140979351" crc="9a5692d5" fullsha1="693a03e4d900f9e0d9d6b0733cf7d780d8e23ccb" dataSha1="6decbc9fd35bdb3c078ddeeb5fd5d7d4f59bff13" status="baddump">
+	<game name="mdk2\mdk 2 (world, prototype 20000126 5pm)" type="cd" sha1="c3e74ce9af59755bd6026db7b99cd07a6efcb032" size="140979351" crc="9a5692d5" fullsha1="693a03e4d900f9e0d9d6b0733cf7d780d8e23ccb" dataSha1="6decbc9fd35bdb3c078ddeeb5fd5d7d4f59bff13">
 		<category>Games</category>
 		<description>MDK 2 (World, prototype 20000126 5PM)</description>
 		<year>2000</year>
@@ -7581,7 +7581,7 @@
 		<rom name="mdk 2 (world, prototype 20000126 7pm) (Track 07).bin" size="12089280" crc="421101f8" md5="f5969521da574d2fbf591ca13392ea7e" sha1="0eba22cef97196e1a2d91c43dd700f81c99b0c91"/>
 		<rom name="mdk 2 (world, prototype 20000126 7pm) (Track 08).bin" size="239962800" crc="2ccf51b4" md5="9dcbd2773c2f2e1570fe46290a534a14" sha1="54203e1c5423ff7e3fc9d7d7fa9bc485ab50d6ed"/>
 	</game>
-	<game name="megadriv\sega mega drive (world, prototype 20010115)" type="cd" sha1="95cec7473251dde433e3dadb1695017c98366f19" size="168766932" crc="5c9592a5" fullsha1="ebfec0c6b4ce8008ec9a99e0a8cc56fe3d10a110" dataSha1="01886a6b9caab52fba7ec196f0ee6427dfbaaf9f" status="baddump">
+	<game name="megadriv\sega mega drive (world, prototype 20010115)" type="cd" sha1="95cec7473251dde433e3dadb1695017c98366f19" size="168766932" crc="5c9592a5" fullsha1="ebfec0c6b4ce8008ec9a99e0a8cc56fe3d10a110" dataSha1="01886a6b9caab52fba7ec196f0ee6427dfbaaf9f">
 		<category>Games</category>
 		<description>Sega Mega Drive (World, prototype 20010115)</description>
 		<year>2001</year>
@@ -7740,7 +7740,7 @@
 		<rom name="dave mirra freestyle bmx (world, prototype 20000907) (Track 13).bin" size="22111152" crc="7f82cfc1" md5="cf1a3a276c6a5110e1d0b5be5852193f" sha1="839e9399375be6a47574e23ba899e2ca63419a42"/>
 		<rom name="dave mirra freestyle bmx (world, prototype 20000907) (Track 14).bin" size="314318928" crc="af72a08e" md5="649e235acf8f5c4cac4b3ab33033dac5" sha1="06c964aa8da324951cf0e2ccb922e8de09a989e5"/>
 	</game>
-	<game name="mirrabmx\dave mirra freestyle bmx (world, prototype 20001016)" type="cd" sha1="decc398f98a3913b1af9e436b39c22bf0efa6c59" size="295119791" crc="de5a84dd" fullsha1="f313541afea3072d85cc3f212b7cf2d4005761ff" dataSha1="d8e8be36ef34d0e385e91c975664d59aeaafea97" status="baddump">
+	<game name="mirrabmx\dave mirra freestyle bmx (world, prototype 20001016)" type="cd" sha1="decc398f98a3913b1af9e436b39c22bf0efa6c59" size="295119791" crc="de5a84dd" fullsha1="f313541afea3072d85cc3f212b7cf2d4005761ff" dataSha1="d8e8be36ef34d0e385e91c975664d59aeaafea97">
 		<category>Games</category>
 		<description>Dave Mirra Freestyle BMX (World, prototype 20001016)</description>
 		<year>2000</year>
@@ -7866,7 +7866,7 @@
 		<rom name="mortal kombat gold (euro) (Track 52).bin" size="882000" crc="afee0a35" md5="205cf0b6b1258b93c0c7f22b746fb658" sha1="43f4af06425c090fb04ecc85b3154c2162b9360f"/>
 		<rom name="mortal kombat gold (euro) (Track 53).bin" size="777176064" crc="1160d9a4" md5="f7b97d52c4478855fbdc7f26ab9ab352" sha1="33b345632cf6969aa28a705c613bbabd7a74e345"/>
 	</game>
-	<game name="mkgold\mortal kombat gold (euro, prototype 19990828)" type="cd" sha1="883bb366ce2f84ff72c1e604e993623484539fc3" size="592388249" crc="7761236f" fullsha1="ddd262325d1337c645512b6e6feae03c9abe4a46" dataSha1="a2c9ecb42f4ebdd2cb178c97e29a354ef9a6f37d" status="baddump">
+	<game name="mkgold\mortal kombat gold (euro, prototype 19990828)" type="cd" sha1="883bb366ce2f84ff72c1e604e993623484539fc3" size="592388249" crc="7761236f" fullsha1="ddd262325d1337c645512b6e6feae03c9abe4a46" dataSha1="a2c9ecb42f4ebdd2cb178c97e29a354ef9a6f37d">
 		<category>Games</category>
 		<description>Mortal Kombat Gold (Europe, prototype 19990828)</description>
 		<year>1999</year>
@@ -8160,7 +8160,7 @@
 		<rom name="monaco grand prix racing simulation 2 (jpn) (Track 21).bin" size="8072064" crc="ae6afa7d" md5="36bf481757f0ca8acd8b7c49a43519f3" sha1="28566d62264eb159c8f772feaddc52d657ba4b34"/>
 		<rom name="monaco grand prix racing simulation 2 (jpn) (Track 22).bin" size="143636640" crc="745d1a47" md5="dda8cad8441ddcd1c2889813b1da40f8" sha1="257c68104601935a54d251ff6eba8b19f9a69f65"/>
 	</game>
-	<game name="monacogp\monaco grand prix racing simulation 2 (jpn, prototype 19990106)" type="cd" sha1="0aa27989cb57e9b46ce520d32bcf0cc02be8994f" size="290992976" crc="9d2e510b" fullsha1="2e2abedb988f48ceb080c3ec94b8307bfc34bc18" dataSha1="8cc3dc34159ec3b77d1187949b2cabc93d0d5020" status="baddump">
+	<game name="monacogp\monaco grand prix racing simulation 2 (jpn, prototype 19990106)" type="cd" sha1="0aa27989cb57e9b46ce520d32bcf0cc02be8994f" size="290992976" crc="9d2e510b" fullsha1="2e2abedb988f48ceb080c3ec94b8307bfc34bc18" dataSha1="8cc3dc34159ec3b77d1187949b2cabc93d0d5020">
 		<category>Games</category>
 		<description>Monaco Grand Prix: Racing Simulation 2 (Japan, prototype 19990106)</description>
 		<year>1999</year>
@@ -8234,7 +8234,7 @@
 		<rom name="mr. driller (euro) (Track 28).bin" size="20888112" crc="df6787c8" md5="b7ae8fbcf537dd645d5348346338db16" sha1="2e63f05883af4e9e981e108f681f3504ffc930ee"/>
 		<rom name="mr. driller (euro) (Track 29).bin" size="11823504" crc="79f6f008" md5="f5fa72eeec6912a1d480906c80dc33e6" sha1="fbc7f9821fc599ed2701ddbed7ac08f93b14fb5e"/>
 	</game>
-	<game name="mrdrillr\mr. driller (euro, prototype 20000918)" type="cd" sha1="3b7a7ff28f20c92b069c33ad39fa82a94614d9f6" size="358490573" crc="8d6227fa" fullsha1="3830c67290acaf7c9fe022c8f77f8013a7aab280" dataSha1="39894d9341525ce4a3b13f39b52506bc7f6328ae" status="baddump">
+	<game name="mrdrillr\mr. driller (euro, prototype 20000918)" type="cd" sha1="3b7a7ff28f20c92b069c33ad39fa82a94614d9f6" size="358490573" crc="8d6227fa" fullsha1="3830c67290acaf7c9fe022c8f77f8013a7aab280" dataSha1="39894d9341525ce4a3b13f39b52506bc7f6328ae">
 		<category>Games</category>
 		<description>Mr. Driller (Europe, prototype 20000918)</description>
 		<year>2000</year>
@@ -8356,7 +8356,7 @@
 		<rom name="msr metropolis street racer (usa) (Track 02).bin" size="1237152" crc="59264efd" md5="04f5d0ec22acfa66858bef8c43a62237" sha1="42f7aab9b21c527783d4d8342eb1abd02d379866"/>
 		<rom name="msr metropolis street racer (usa) (Track 03).bin" size="1185760800" crc="acc0e048" md5="17a03b35e2e3156789429e37589b45df" sha1="61fbbd4d17d23ff0f5e166b45c32b0578005750d"/>
 	</game>
-	<game name="msr\msr metropolis street racer (world, prototype 20000509)" type="cd" sha1="375f1ad2e404d0b8184a5e02d3930414b1ec8288" size="124678555" crc="e52f6f92" fullsha1="10b2d496ea6753a2173ad2efc6aeea7141d996c8" dataSha1="ba41f89394f7c820e9a3f6d9a4514b89349c43dd" status="baddump">
+	<game name="msr\msr metropolis street racer (world, prototype 20000509)" type="cd" sha1="375f1ad2e404d0b8184a5e02d3930414b1ec8288" size="124678555" crc="e52f6f92" fullsha1="10b2d496ea6753a2173ad2efc6aeea7141d996c8" dataSha1="ba41f89394f7c820e9a3f6d9a4514b89349c43dd">
 		<category>Games</category>
 		<description>MSR: Metropolis Street Racer (World, prototype 20000509)</description>
 		<year>2000</year>
@@ -8559,7 +8559,7 @@
 		<rom name="nba 2k (usa) (Track 04).bin" size="1060752" crc="85bc189b" md5="cba9414974899f78904ad881bf30a234" sha1="d227f1b8faed1277b2e6d00eecc6628bc239c594"/>
 		<rom name="nba 2k (usa) (Track 05).bin" size="873911472" crc="8b9d00ec" md5="4449981a02b2439087868fd00a3a37e2" sha1="1f96881d5cf30d8c16d80f87b9c5bb650696d8fc"/>
 	</game>
-	<game name="nba2k\nba 2k (usa, prototype 19990922)" type="cd" sha1="52735efda29d6dfdecd65656c25ee6df5496fec3" size="231577257" crc="84ad5b29" fullsha1="5c950c938d4384003273030730a253a445ce47ce" dataSha1="10ce4ddc67035d863f45c757c283d1b936d37c78" status="baddump">
+	<game name="nba2k\nba 2k (usa, prototype 19990922)" type="cd" sha1="52735efda29d6dfdecd65656c25ee6df5496fec3" size="231577257" crc="84ad5b29" fullsha1="5c950c938d4384003273030730a253a445ce47ce" dataSha1="10ce4ddc67035d863f45c757c283d1b936d37c78">
 		<category>Games</category>
 		<description>NBA 2K (USA, prototype 19990922)</description>
 		<year>1999</year>
@@ -8570,7 +8570,7 @@
 		<rom name="nba 2k (usa, prototype 19990922) (Track 04).bin" size="1060752" crc="a44276f4" md5="3a892db029c4b1ba6ed24ccdaf5cff62" sha1="36b69ee3a5dd70637228feaa14528ac23f848ee7"/>
 		<rom name="nba 2k (usa, prototype 19990922) (Track 05).bin" size="427399168" crc="df0cf5c2" md5="9b5f5e0a9a1f4cf8e7514e5bd080649c" sha1="da375955766377659cf585944cef1308517dd70a"/>
 	</game>
-	<game name="nba2k\nba 2k (world, prototype 19991221)" type="cd" sha1="5829be8157ed299394bcc4d822ff0f86407a7b66" size="569639320" crc="35872a48" fullsha1="a3288081fc16f6ad36b54e5fd84e0dc110af9824" dataSha1="b9d0b7e6a4b8dcd5ce3f75ec50f49b03af696086" status="baddump">
+	<game name="nba2k\nba 2k (world, prototype 19991221)" type="cd" sha1="5829be8157ed299394bcc4d822ff0f86407a7b66" size="569639320" crc="35872a48" fullsha1="a3288081fc16f6ad36b54e5fd84e0dc110af9824" dataSha1="b9d0b7e6a4b8dcd5ce3f75ec50f49b03af696086">
 		<category>Games</category>
 		<description>NBA 2K (World, prototype 19991221)</description>
 		<year>1999</year>
@@ -8743,7 +8743,7 @@
 		<rom name="nightmare creatures ii (euro) (Track 89).bin" size="2116800" crc="6d127ff8" md5="8ac57390fa4ba17b0e138055267b3f6e" sha1="a74409044d54e3348432b3abaa4b99eb9fca08c7"/>
 		<rom name="nightmare creatures ii (euro) (Track 90).bin" size="709358496" crc="32d67181" md5="0cfe721462e028aa5419ab20e0a71906" sha1="f8c0effe1e5d7f8bf4d8363108fe918952073287"/>
 	</game>
-	<game name="ncreatr2\nightmare creatures ii (euro, prototype 20000721)" type="cd" sha1="e30e4224c663b6de3ac57cad038c07cdee378079" size="379272119" crc="a938e24e" fullsha1="a82c1489c0435c78f906c8c735561092045ac924" dataSha1="c74ef88bd59d7239a55cc81339839ebcc6e3fd4d" status="baddump">
+	<game name="ncreatr2\nightmare creatures ii (euro, prototype 20000721)" type="cd" sha1="e30e4224c663b6de3ac57cad038c07cdee378079" size="379272119" crc="a938e24e" fullsha1="a82c1489c0435c78f906c8c735561092045ac924" dataSha1="c74ef88bd59d7239a55cc81339839ebcc6e3fd4d">
 		<category>Games</category>
 		<description>Nightmare Creatures II (Europe, prototype 20000721)</description>
 		<year>2000</year>
@@ -9246,7 +9246,7 @@
 		<rom name="nhl 2k (euro) (Track 04).bin" size="16696848" crc="e90bc7ca" md5="477ddf28dcf25f2f34e4cc823f6baadd" sha1="57471fc523fb14f5ad52c06aaa3dd6b5858bc321"/>
 		<rom name="nhl 2k (euro) (Track 05).bin" size="750763104" crc="316d1374" md5="d0df13d87c02f8670c2237e5dc37cc5b" sha1="e6298e27f938127a163dc92a8bd3bbd608199fa1"/>
 	</game>
-	<game name="nhl2k\nhl 2k (euro, prototype 20000321)" type="cd" sha1="48210330f842835e3be1ff92063b30bb2f9cf33a" size="458458818" crc="66b9203a" fullsha1="b0751abd17fed917482c2a596c4c0f182173e520" dataSha1="c9d1ec898228b7e49e753b7045f7ca16122dc4af" status="baddump">
+	<game name="nhl2k\nhl 2k (euro, prototype 20000321)" type="cd" sha1="48210330f842835e3be1ff92063b30bb2f9cf33a" size="458458818" crc="66b9203a" fullsha1="b0751abd17fed917482c2a596c4c0f182173e520" dataSha1="c9d1ec898228b7e49e753b7045f7ca16122dc4af">
 		<category>Games</category>
 		<description>NHL 2K (Europe, prototype 20000321)</description>
 		<year>2000</year>
@@ -9279,7 +9279,7 @@
 		<rom name="nhl 2k (usa, prototype 20000131) (Track 04).bin" size="16696848" crc="e90bc7ca" md5="477ddf28dcf25f2f34e4cc823f6baadd" sha1="57471fc523fb14f5ad52c06aaa3dd6b5858bc321"/>
 		<rom name="nhl 2k (usa, prototype 20000131) (Track 05).bin" size="749843472" crc="7f9b65a6" md5="b769b2beceb69533282d8ee7d9de6e43" sha1="4a29feee03c01b1436fb7af1b028cafb5df92645"/>
 	</game>
-	<game name="nhl2k\nhl 2k (usa, prototype 20000131, alt)" type="cd" sha1="e30eb8cfba8308c7c5ebd0ee85d41261d2fa4cba" size="458335763" crc="003eb510" fullsha1="707511c8bdfac2ed7177172350ebb5f3f17bdfca" dataSha1="715d7211271c9ba941e18e46bb34722464e23cf8" status="baddump">
+	<game name="nhl2k\nhl 2k (usa, prototype 20000131, alt)" type="cd" sha1="e30eb8cfba8308c7c5ebd0ee85d41261d2fa4cba" size="458335763" crc="003eb510" fullsha1="707511c8bdfac2ed7177172350ebb5f3f17bdfca" dataSha1="715d7211271c9ba941e18e46bb34722464e23cf8">
 		<category>Games</category>
 		<description>NHL 2K (USA, prototype 20000131, alt)</description>
 		<year>2000</year>
@@ -9481,7 +9481,7 @@
 		<rom name="resident evil code veronica (euro) (disc 2) (Track 02).bin" size="13994400" crc="15e73429" md5="d1838bcbca4a24b39deddeae2a9d371a" sha1="b643df4def042b6c23f90f54c690ac7df431233f"/>
 		<rom name="resident evil code veronica (euro) (disc 2) (Track 03).bin" size="1185760800" crc="c2782ad2" md5="e79a30c0a0927dc01516f549aa096922" sha1="aac810ed314947701ae76b58d276e61d50187b38"/>
 	</game>
-	<game name="revilcv\resident evil code veronica (euro, prototype 20000415) (disc 1)" type="cd" sha1="3a2fb592075d7aa11b93a6a7571d21356a02111b" size="588145841" crc="0086c42d" fullsha1="6fafbdda122281ea77d62d9c943fe751493fa2b4" dataSha1="e8e2f629638a1e95f7e4a56046bf750abe69404d" status="baddump">
+	<game name="revilcv\resident evil code veronica (euro, prototype 20000415) (disc 1)" type="cd" sha1="3a2fb592075d7aa11b93a6a7571d21356a02111b" size="588145841" crc="0086c42d" fullsha1="6fafbdda122281ea77d62d9c943fe751493fa2b4" dataSha1="e8e2f629638a1e95f7e4a56046bf750abe69404d">
 		<category>Games</category>
 		<description>Resident Evil: Code: Veronica (USA)</description>
 		<year>2000</year>
@@ -9490,7 +9490,7 @@
 		<rom name="resident evil code veronica (euro, prototype 20000415) (disc 1) (Track 02).bin" size="13994400" crc="15e73429" md5="d1838bcbca4a24b39deddeae2a9d371a" sha1="b643df4def042b6c23f90f54c690ac7df431233f"/>
 		<rom name="resident evil code veronica (euro, prototype 20000415) (disc 1) (Track 03).bin" size="1032499200" crc="29752a5a" md5="8f7e585f72aed78f4300a02aac4a8d13" sha1="fbf8037fe47100a9b87501e058e1df35c4087c7f"/>
 	</game>
-	<game name="revilcv\resident evil code veronica (euro, prototype 20000415) (disc 2)" type="cd" sha1="829b38d00ad22488cc8b8ed29db166fa05241fd8" size="634343448" crc="2a933ac3" fullsha1="d3f2a7823e8ab96f06516ebd4b88e3a8f0e3fc07" dataSha1="d5152decf480fe5aa9915c4fc3949c7b64e068ec" status="baddump">
+	<game name="revilcv\resident evil code veronica (euro, prototype 20000415) (disc 2)" type="cd" sha1="829b38d00ad22488cc8b8ed29db166fa05241fd8" size="634343448" crc="2a933ac3" fullsha1="d3f2a7823e8ab96f06516ebd4b88e3a8f0e3fc07" dataSha1="d5152decf480fe5aa9915c4fc3949c7b64e068ec">
 		<category>Games</category>
 		<description>Resident Evil: Code: Veronica (Europe, prototype 20000415)</description>
 		<year>2000</year>

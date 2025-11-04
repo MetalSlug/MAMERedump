@@ -4,7 +4,7 @@
 	<header>
 		<name>Sony - PlayStation Portable</name>
 		<description>Sony - PlayStation Portable</description>
-		<version>0.279</version>
+		<version>0.281</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -2148,6 +2148,11 @@
 		<category>Games</category>
 		<description>Colin McRae - DiRT 2 (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Colin McRae - DiRT 2 (Europe) (En,Fr,De,Es,It).bin" size="365625344" crc="a3128372" md5="6e237376ab6ec5d4aea143d769923fa5" sha1="1ab7debc6e03914c246bde5a95d611e55830c777"/>
+	</game>
+	<game name="Colin McRae - Dirt 2 (Korea) (En,Fr,Es)" type="dvd" sha1="a9fc0cd9da8aa2bd7d19b0a5c120a28534b26007" size="271932294" crc="3933f671" fullsha1="538e2a17c9e2065f5ac66adf175a662bd854d6f0" dataSha1="b8e2d4467202d0b5469752c961003ddae2bc5275">
+		<category>Games</category>
+		<description>Colin McRae - Dirt 2 (Korea) (En,Fr,Es)</description>
+		<rom name="Colin McRae - Dirt 2 (Korea) (En,Fr,Es).bin" size="365035520" crc="efc30efe" md5="53f7eb9e46984864afeae503d3ae767e" sha1="b8e2d4467202d0b5469752c961003ddae2bc5275"/>
 	</game>
 	<game name="Colin McRae Rally 2005 Plus (Europe) (En,Fr,De,Es,It)" type="dvd" sha1="a57ec4740547ce0f71976c5069e41f96c165a6e3" size="727549218" crc="2d8049c4" fullsha1="2d31cd8bef336c3ce1476e0507803304926b790d" dataSha1="8b805d9e2520f3a2d816c965e5a4b77d93dc41df">
 		<category>Games</category>
@@ -15043,6 +15048,11 @@
 		<category>Games</category>
 		<description>Transformers - The Game (Europe) (Fr,Es)</description>
 		<rom name="Transformers - The Game (Europe) (Fr,Es).bin" size="1566605312" crc="0b814ae9" md5="9504d884957458b18c96666cee27e0bf" sha1="fdc70e4dffb2ba53c1bee5d1449e8b4de5312e4f"/>
+	</game>
+	<game name="Transformers - The Game (Korea)" type="dvd" sha1="363945495304cacd0192968c4b451310ff12bde0" size="409857803" crc="112193a9" fullsha1="edae53d24cfec1a0c9950bf2a21b875db47586d2" dataSha1="3b6faa741876a8dc82a643ec1d27d64eaa739a9f">
+		<category>Games</category>
+		<description>Transformers - The Game (Korea)</description>
+		<rom name="Transformers - The Game (Korea).bin" size="816676864" crc="5788d548" md5="6ac58dbf6dc868164dc40bb0be93fa4f" sha1="3b6faa741876a8dc82a643ec1d27d64eaa739a9f"/>
 	</game>
 	<game name="Transformers - The Game (USA)" type="dvd" sha1="bdc20a02937cb03bebb3672f824cf2adcf595030" size="409857804" crc="31448306" fullsha1="ebaa46079e59900deabda62bac2c8e6e1f4e499d" dataSha1="c4f5d72cf962a15f7c91bc82f9e9a5600adf3d85">
 		<category>Games</category>
