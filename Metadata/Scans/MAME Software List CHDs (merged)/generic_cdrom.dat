@@ -1,0 +1,105 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>generic_cdrom</name>
+		<description>generic_cdrom</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="arabkid\kid" type="cd" sha1="ee988fb276252e9c4944ba579a8a39a05e64dd47" size="14992322" crc="cacd3812" fullsha1="a837c3f4cde66b244bccbae22cb1cec83df6698d" dataSha1="7b4c22358eac96e3248a4b245d0ef6515c87d152">
+		<category>Games</category>
+		<description>arabkid\kid</description>
+		<rom name="kid (Track 01).bin" size="40583760" crc="bb4e2fef" md5="55c4d3833a486ec893a3323ae01a86e6" sha1="86c9787b626ea6d1a3ba02072201c56473f85a6a"/>
+	</game>
+	<game name="clawj\clawj" type="cd" sha1="7141101b3d1b6481781919e5894bdf5d9abf0611" size="472416664" crc="7cd01ed8" fullsha1="eb48e779ba6cb342fa661f3aa64df23149f16449" dataSha1="15394596d6d7b56663cae533cb584b5f0c926021">
+		<category>Games</category>
+		<description>clawj\clawj</description>
+		<rom name="clawj (Track 01).bin" size="715508976" crc="7ccedb02" md5="00ed85a587cb3b95b37b81ec15c6fa1a" sha1="673bb6673ba7fdf4dee614aedbacbdf71dfdfd87"/>
+	</game>
+	<game name="geolight\geolight" type="cd" sha1="43ef087306823451b3a6e7f70589b41276e2e4cf" size="332251302" crc="1e4cdefc" fullsha1="e49202c3ff76db5f7fb5f794655d40cc91acb4d9" dataSha1="71134d486bf4146c09dda7769057f7023395e6e5">
+		<category>Games</category>
+		<description>geolight\geolight</description>
+		<rom name="geolight (Track 01).bin" size="68581968" crc="974eba68" md5="f5d67f8de02cbaafa35bbdb8b7c38a1a" sha1="db3a902c3f38fa0b3e0ea5209fce7b14e50271ea"/>
+		<rom name="geolight (Track 02).bin" size="46080384" crc="02e2acb0" md5="1d365ae682a92c3b90e33753a2785dad" sha1="0246de502a6ef6a14cf1e7dc619f33c38a5a50b2"/>
+		<rom name="geolight (Track 03).bin" size="42044352" crc="8c06e193" md5="4b878fb62656aa91b1917571b0b98d41" sha1="1dac12cc1d59d8729ba5e697151a5c32d9275091"/>
+		<rom name="geolight (Track 04).bin" size="46148592" crc="45937271" md5="fa315c806385b528b818d1af0675da20" sha1="36afdc6a7b5fddd401e429e8ba9e806c89f8cc5a"/>
+		<rom name="geolight (Track 05).bin" size="42100800" crc="9d0ed678" md5="91d399a926beffe3ceb5ab370daa4778" sha1="9428e08b54df35b580cdfebf2e44adaba86453e2"/>
+		<rom name="geolight (Track 06).bin" size="51381792" crc="f348470e" md5="05307a7e1479761e76be0790571482e5" sha1="cdd9fd90e0056dcdfa99ea0274d1423593320500"/>
+		<rom name="geolight (Track 07).bin" size="37577904" crc="5aebb3b4" md5="94a4e5fbc8e7b456b0fe067d5a584480" sha1="4e9a9a19cea9f43a4054e12dd491d82d6b4f5836"/>
+		<rom name="geolight (Track 08).bin" size="41618640" crc="234b7efa" md5="e2d3a87b5f6efe8b9f2d729082dc9af0" sha1="dbc87aa32bfe93203f0866343085fdafd1c00f32"/>
+		<rom name="geolight (Track 09).bin" size="47195232" crc="14e4fa0c" md5="6fac1c61cf4a4b1bc38569924773a829" sha1="19e4f6af5ca9388a93375de57d480bb3ce59c1d4"/>
+		<rom name="geolight (Track 10).bin" size="47263440" crc="07cd7ab5" md5="e4f6806efba8dbb0966cd1f15df30ef7" sha1="fff73a62408e06785801ce3009de8283c7193735"/>
+		<rom name="geolight (Track 11).bin" size="4214784" crc="386b38d1" md5="d2f69842bfc2c93e40795d7bf1de3ea0" sha1="a835116c7156da39e0fba475bf6499f29d6d2649"/>
+		<rom name="geolight (Track 12).bin" size="36557136" crc="3e52b655" md5="d4e1ff23ce4c7d7e536a6dc734275ec3" sha1="0482003884f9b65ba645ff63cde541e7a68e4206"/>
+		<rom name="geolight (Track 13).bin" size="43448496" crc="40045b0c" md5="41deef2e7474aecd1ef854d6fd46ba67" sha1="3a0d916891c08cef124455881f43fe935a58148c"/>
+		<rom name="geolight (Track 14).bin" size="45864000" crc="eae8c67d" md5="a9fae959213669ae611b835b4199677c" sha1="5fcf92b27c33ec1bf4aff2b8a110766f573d99fc"/>
+		<rom name="geolight (Track 15).bin" size="41277600" crc="738759f8" md5="fe8876106fcd5b6e566cfb30a169ec80" sha1="0898476d64770c90fea20e99f2da7bdfb3902c33"/>
+		<rom name="geolight (Track 16).bin" size="705600" crc="50178406" md5="e5aaa42997560a8ea7fc23ea2af83040" sha1="dcc7fee2ae0bfea15ba9b73139582302094de567"/>
+	</game>
+	<game name="jakebrstj\jake_b" type="cd" sha1="577d6fad8d21aa95357276ad3930ebea67b65951" size="294769912" crc="73a1997d" fullsha1="5efd03633979db40cd37a4c1ba1176cdb8b35c83" dataSha1="7ccc5aa12b01d79bc5ad13fe236b7b87875177ca">
+		<category>Games</category>
+		<description>jakebrstj\jake_b</description>
+		<rom name="jake_b (Track 01).bin" size="179514048" crc="4655eef5" md5="4dc74ef1a1bde2bb44ac6aa1f91f1e83" sha1="ebd3045a3a180b7cfd27057ee86f8588bb74f764"/>
+		<rom name="jake_b (Track 02).bin" size="29073072" crc="40a6b033" md5="a441b7cbe97600f6ebf2ffec53b7cae3" sha1="46642badbdf4ca9e21655cc7b49f64739af7dc34"/>
+		<rom name="jake_b (Track 03).bin" size="29776320" crc="1b9649a2" md5="664b1f2eac8baba22e7bcf8c6cd7d7ff" sha1="80cb6a03ded641bb97fef75c6bba305438f931a2"/>
+		<rom name="jake_b (Track 04).bin" size="25926096" crc="744207e7" md5="78fd089e3ddb87e8702c27d7685409a0" sha1="fa554b1ccc1d5e1bc4812d2c04bed6ba78728278"/>
+		<rom name="jake_b (Track 05).bin" size="20551776" crc="1a141847" md5="af0ce4afc3ecbea3cb7e92f871e69290" sha1="ac295a131a594e08b98edf73822787a39c11d514"/>
+		<rom name="jake_b (Track 06).bin" size="30289056" crc="ea2b1d11" md5="84f782f0376b1ad234d4c4ae12212364" sha1="7c8a9d47f70245bfbb4dcf8967cc1341baf6c795"/>
+		<rom name="jake_b (Track 07).bin" size="30427824" crc="8d7b5787" md5="f1c5cff61122db72f1cf41049cb60e1e" sha1="a72b6701ab8e127400170d629fca8096d77d8fa5"/>
+		<rom name="jake_b (Track 08).bin" size="31215744" crc="e10212a8" md5="1a3cf3d57f23186106b1a2970f0637be" sha1="835b6587ec599e6e1fc9a6d5a73db2d2458e29b0"/>
+		<rom name="jake_b (Track 09).bin" size="32935056" crc="c271bf7c" md5="6fc66f51dc5b7d028e6d8a51f11e97cb" sha1="d4ea1f4e48635ba9dd628939428bd4538ea8f6c1"/>
+		<rom name="jake_b (Track 10).bin" size="27247920" crc="ed897c0d" md5="8d44eb2499de57030401caec9ab2e1fe" sha1="6faa93a34ac2ff16702fbd5c7f31b98b190bfce5"/>
+		<rom name="jake_b (Track 11).bin" size="29287104" crc="dc8c436a" md5="c07c909d503d60961098b929be6c992d" sha1="5bb6c824dc2d94ccc9bff95103eb29772f3dd9bb"/>
+	</game>
+	<game name="kotobuki\kotobuki" type="cd" sha1="33022da18fdbdeb49195b93f2bdf7daf89079a37" size="89312802" crc="e0868789" fullsha1="7b0afa327d4b4d4be2c1069e60d9679900db93b8" dataSha1="b45e430c8afbc1fd2c69183f8b0b3a2a9560c06a">
+		<category>Games</category>
+		<description>kotobuki\kotobuki</description>
+		<rom name="kotobuki (Track 01).bin" size="90093568" crc="ff036452" md5="846ccd4dcda94c5bad7ad9bd396239a6" sha1="ee62d7a2fa124b3535d0f1abc323a4aa3e1f1a35"/>
+	</game>
+	<game name="ku2impact\ku2impact" type="cd" sha1="8c11319ca523398f90f11a22f64acbd3b4db1b2d" size="463769467" crc="6f0af6b5" fullsha1="2e1f1c8ce81065fcdf2081daa97c72180243f1e0" dataSha1="cad67962a7bc4891a601dc39b37971615646dc91">
+		<category>Games</category>
+		<description>ku2impact\ku2impact</description>
+		<rom name="ku2impact (Track 01).bin" size="26342400" crc="b84c1637" md5="11f131730d67b121d0f18ecd99ab99f9" sha1="0ad7cd69aa2d38c78d5024c874f2c6036c81c86e"/>
+		<rom name="ku2impact (Track 02).bin" size="36037344" crc="84e82336" md5="3b66680530f3bce5bc5aa77536539c6d" sha1="c1e042132cf53c614f34f37936ed11c31e997a43"/>
+		<rom name="ku2impact (Track 03).bin" size="31846080" crc="bf8e4700" md5="4bd19cc00749868c1d3ccf4ec0197c7a" sha1="710dc6673b644f905ef2a5c249881f05a500e726"/>
+		<rom name="ku2impact (Track 04).bin" size="30187920" crc="a0f7d9cb" md5="73da9752e65c0534b96c360b9e44a694" sha1="d5f13b3ace70110ecc37af4f0dee824e4407cd69"/>
+		<rom name="ku2impact (Track 05).bin" size="29759856" crc="e1bd53de" md5="957c5ca86dab7350ad9f958933f5e01e" sha1="eee90453657ecaa04a1782f8c53f3a5e0019ea19"/>
+		<rom name="ku2impact (Track 06).bin" size="29545824" crc="30ff880c" md5="8b29ff829701acc9d75e337fa2db9dd9" sha1="3e2a918ae6c1e18ae5a6baa78984c38c3e854ee6"/>
+		<rom name="ku2impact (Track 07).bin" size="29552880" crc="5a22fb6c" md5="555ccdbfce473eaee909b57bf3a2f5df" sha1="e2ab0ad29fcb45672b25665d956a9a67e470d55c"/>
+		<rom name="ku2impact (Track 08).bin" size="29623440" crc="03a74eb5" md5="6d42ec14b56e5cd3fd084199abc705e7" sha1="9ee2e9ce2b5c41eec5c193edb36230ad3e5bb67c"/>
+		<rom name="ku2impact (Track 09).bin" size="30242016" crc="3b89ba61" md5="43ff053220c1ab4aa567054de5ed6a46" sha1="c8d7ff32a75eb979468a9ebd3c9e7f5d72cec625"/>
+		<rom name="ku2impact (Track 10).bin" size="29658720" crc="26c63a18" md5="4a5144243a867471abca2e5175bd2867" sha1="510ae4ca3a5c3e31a8506391651975ccdce78ff3"/>
+		<rom name="ku2impact (Track 11).bin" size="29717520" crc="97693f4d" md5="0ee67d0f67e0bb21767e24ab58c69e19" sha1="f2f41de0f378103f4916a507c04f4c4b7f8dc104"/>
+		<rom name="ku2impact (Track 12).bin" size="43218000" crc="54f4048e" md5="3c6bfdf6b96458c56fec31e586f10e7a" sha1="0d7a05e0addaf8a3a1571c39df78bcf193014066"/>
+		<rom name="ku2impact (Track 13).bin" size="2022720" crc="9fb178e2" md5="26bffee56b11e718a9229a9def1e5b75" sha1="75a7320a0a209eeff1652216ce8b96575d631c17"/>
+		<rom name="ku2impact (Track 14).bin" size="21901824" crc="ede0d471" md5="a38761c5c25963af4bce8ee96c83d8c4" sha1="ac03101fb34957db38edb0231d8dde18c3cf0a4e"/>
+		<rom name="ku2impact (Track 15).bin" size="53667936" crc="ce8cc3a4" md5="d4ad68946d380ce10fd16771a985ee5e" sha1="3cfd4f0408bfa0024be0f1c86bbbb57b61ce8c0f"/>
+		<rom name="ku2impact (Track 16).bin" size="58969344" crc="bb340e8e" md5="41ac8a393bcc3301ecdfcd95ba21c1bf" sha1="844cf72b7c8967b74ce8bd216676979ce3c74aa9"/>
+		<rom name="ku2impact (Track 17).bin" size="29489376" crc="ada80106" md5="cb94933152ab59a0d4e8ae51acbffa41" sha1="b8a5d0d15df9b507ed5ea6e3feb9fc9982c05281"/>
+		<rom name="ku2impact (Track 18).bin" size="29364720" crc="e847e576" md5="614afbb71e6bc2d027a336269facf19c" sha1="3cc8d847183331e7053ca045b971deff18750110"/>
+		<rom name="ku2impact (Track 19).bin" size="29534064" crc="d82389a0" md5="71b647bd22e65ecedbf1c5279630c53f" sha1="2841d8453daadc5d2d03c9e632604becaae61389"/>
+		<rom name="ku2impact (Track 20).bin" size="29618736" crc="e57e7fdd" md5="ed3487fa52657bbf30eed9f4b735fffe" sha1="eb3f72d495388c6f79f5562726006807d2a91395"/>
+		<rom name="ku2impact (Track 21).bin" size="29447040" crc="421a8328" md5="e03f1f842094de4bb97361b375c77a52" sha1="9519ca2588c87801921db7d7b423823da1735449"/>
+		<rom name="ku2impact (Track 22).bin" size="41700960" crc="a8d5a276" md5="f69db42356e869523c839debe52e6015" sha1="a0425aeb237aeaf027a5bb55ed443fc48153b0dc"/>
+		<rom name="ku2impact (Track 23).bin" size="1658160" crc="e721c60b" md5="c3202d540b45524ff46fd76449309e8e" sha1="3893cd8f6d026b87bb9de4e78e6f487648c0d1c7"/>
+		<rom name="ku2impact (Track 24).bin" size="21946512" crc="da7f5dfc" md5="3bd965e5e2bc4b18d20e7ec571ccfe7e" sha1="5545f35c18677173e81939d011978c6fe33b6f1f"/>
+	</game>
+	<game name="moon\moon" type="cd" sha1="9ffc473d8cf36cae319a3ef11ebc286067934e71" size="86561821" crc="89a47af4" fullsha1="fbed194fc5a070dd7be8dc20f990dda9e73a2322" dataSha1="75211e914e4430e71349171315c9c05f8ee42267">
+		<category>Games</category>
+		<description>moon\moon</description>
+		<rom name="moon (Track 01).bin" size="228774336" crc="dc354b9d" md5="03ba113d1ef2823679bed2ab4032a759" sha1="cbb36b8f2d9b53fa93991940bb393a0e74f39501"/>
+	</game>
+	<game name="moondrg\moondrg" type="cd" sha1="83c1cf04582e3d747b20b10e19057ecb476ef738" size="403814537" crc="e5265209" fullsha1="fc79ee0bbc66f22c32fa4a171ba7c97094b195e6" dataSha1="b93d74bea83d96b66288bbf860ccfa350e607926">
+		<category>Games</category>
+		<description>moondrg\moondrg</description>
+		<rom name="moondrg (Track 01).bin" size="711764592" crc="d2f1b51e" md5="0e1e69b4e50ed4b5d86c36afe623ac9e" sha1="937b7d500edc9fe849525458858bd42e93d88716"/>
+	</game>
+	<game name="thedig_jp\Dig, The (Japan)" type="cd" sha1="105039476a6fcc841f1b0a8519a27db40281ead6" size="517321896" crc="2c814404" fullsha1="0930e3f659a57797e81b8c4c4b3cce44948f7a8f" dataSha1="9b4207b80b01fbba4581b136a03c816fc59b9cc2">
+		<category>Games</category>
+		<description>thedig_jp\Dig, The (Japan)</description>
+		<rom name="Dig, The (Japan) (Track 01).bin" size="778196832" crc="550c8138" md5="85a1e4d60e04e6828c98aafc5f27c32f" sha1="3b3f8c72d86e380142299a91218139f32b34a682"/>
+	</game>
+</datafile>

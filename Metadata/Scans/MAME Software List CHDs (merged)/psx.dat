@@ -1403,12 +1403,23 @@
 		<rom name="airgrave (japan) [slps-00559] (Track 27).bin" size="16228800" crc="73a4b27c" md5="d3118a66d9db1c1171b18f248133f396" sha1="64a256358fc54e14a77d1b76f29128e6a99ecbe0"/>
 		<rom name="airgrave (japan) [slps-00559] (Track 28).bin" size="3175200" crc="07cb7933" md5="d503e12dd0db5ae791c655995035b40d" sha1="885ce85b4432bd355e6047ca14eeb95201b342b4"/>
 	</game>
+	<game name="airhckey\Air Hockey (Europe)" type="cd" sha1="4762207b31b9b5d4de91b642f294cad52208102b" size="5700486" crc="886efd26" fullsha1="412589972fa804407beacad2efc2d54598008292" dataSha1="10b5f871afe4d723d349fe1879f3fb2e333be841">
+		<category>Games</category>
+		<description>airhckey\Air Hockey (Europe)</description>
+		<rom name="Air Hockey (Europe) (Track 01).bin" size="159616128" crc="1f195cf0" md5="55d3a5432f5db99298c1dad388149b05" sha1="9146986485bc8c362f4aedbf962c77a0fec20cd3"/>
+		<rom name="Air Hockey (Europe) (Track 02).bin" size="42688800" crc="8a322cf1" md5="d3acdf1a08d047c72e595351fc548900" sha1="632cb32ce4c7edd6cd7e2aa88cd2b631f88d5b96"/>
+	</game>
 	<game name="airhckey\air hockey (usa)" type="cd" sha1="62350a36e62e3b6c5d6077173ebfe06399103bfe" size="3943361" crc="4bdf436a" fullsha1="48c1b98f5dc7f3c451e50714e473a454422a8a8c" dataSha1="10549c2c2d8d29ff6701106f3f9326b7894af87f">
 		<category>Games</category>
 		<description>Air Hockey (USA)</description>
 		<year>2002</year>
 		<manufacturer>Mud Duck Productions</manufacturer>
 		<rom name="air hockey (usa) (Track 01).bin" size="157318224" crc="b453fcb9" md5="1c59e1f2da1d09a495f04541225ec705" sha1="4cdba4e968f03fe26ebe57d4cc02186ddccab64f"/>
+	</game>
+	<game name="airhckey_us\Air Hockey (USA)" type="cd" sha1="38cf8c748f0bd718c7ab6d3fb99de0c18d5583b6" size="3946717" crc="116271b9" fullsha1="48c1b98f5dc7f3c451e50714e473a454422a8a8c" dataSha1="10549c2c2d8d29ff6701106f3f9326b7894af87f">
+		<category>Games</category>
+		<description>airhckey_us\Air Hockey (USA)</description>
+		<rom name="Air Hockey (USA) (Track 01).bin" size="157318224" crc="b453fcb9" md5="1c59e1f2da1d09a495f04541225ec705" sha1="4cdba4e968f03fe26ebe57d4cc02186ddccab64f"/>
 	</game>
 	<game name="airracec\AirRace Championship (Japan)" type="cd" sha1="b26b7a38b5331698281c5e035997612f9e99ba04" size="329445347" crc="8de8dbe4" fullsha1="74f6d9150d6ab868c55db706f115fe56a77ebfb8" dataSha1="ecf6a698fc0c7a6047921156193638e39a0333a0">
 		<category>Games</category>
@@ -1481,6 +1492,16 @@
 		<description>aitd2_jp\Alone in the Dark 2 (Japan)</description>
 		<rom name="Alone in the Dark 2 (Japan) (Track 01).bin" size="715297296" crc="2bffe515" md5="23e4998e5ff7474eef88e7dfc08adada" sha1="e78721a8c4b4d16d846e111928bd7701f85e243b"/>
 	</game>
+	<game name="aitd2_jp\Alone in the Dark 2 (Japan)" type="cd" sha1="446496be2be84c31749f884136b9d72de01ea669" size="214896664" crc="fd568dd1" fullsha1="3d03366a2d78f89cdcde2577a5baefa63ad864e1" dataSha1="f875097593c9ee4ffd4c03afe915164f2187e4bd">
+		<category>Games</category>
+		<description>aitd2_jp\Alone in the Dark 2 (Japan)</description>
+		<rom name="Alone in the Dark 2 (Japan) (Track 01).bin" size="715297296" crc="2bffe515" md5="23e4998e5ff7474eef88e7dfc08adada" sha1="e78721a8c4b4d16d846e111928bd7701f85e243b"/>
+	</game>
+	<game name="aitd2_us\Alone in the Dark - One-Eyed Jack's Revenge (USA)" type="cd" sha1="a6e6a51d8d459a29d32bbadf96c94456f9bf95ef" size="214898841" crc="8baffe04" fullsha1="e27406a6237dd80759188ae031904395ca7045e3" dataSha1="51be31d3f4b390d4c47c9cbcaa8c5d62866a6a50">
+		<category>Games</category>
+		<description>aitd2_us\Alone in the Dark - One-Eyed Jack's Revenge (USA)</description>
+		<rom name="Alone in the Dark - One-Eyed Jack's Revenge (USA) (Track 01).bin" size="715309056" crc="83f2a2d1" md5="4046cc634ae774e8cf39e658dcd2c78e" sha1="d928e147ca1ef265929e1c51d8f8ae39de2a24f9"/>
+	</game>
 	<game name="aitdnn\alone in the dark - the new nightmare (usa) (disc 1)" type="cd" sha1="bd08eccd964a4892ee29da3eaa4abf5cba9b1cc9" size="375904839" crc="4004a127" fullsha1="513cea356f7ba3337847d65b51d6be4caf704a55" dataSha1="7358c1da8186f2d13dd5d6eec1f9d211172c5cd9">
 		<category>Games</category>
 		<description>Alone in the Dark - The New Nightmare (USA)</description>
@@ -1545,12 +1566,42 @@
 		<rom name="arubarea no otome - uruwashi no seikishitachi (japan) [slps-01578] (Track 01).bin" size="718230240" crc="fb2a6837" md5="fc7bc1b2b82f6c274166fa8efdf8984c" sha1="be881bc4bec903fb5076276086c36a0a0262cf8d"/>
 		<rom name="arubarea no otome - uruwashi no seikishitachi (japan) [slps-01578] (Track 02).bin" size="23181312" crc="49d791c5" md5="c2b293e43b1f9f016fa1699b218b380e" sha1="38aaa75113b4943f4ad860d2aa22fbfb9cdbd4f1"/>
 	</game>
+	<game name="alfredch\Alfred Chicken (Europe) (En,Fr,De,Es,It)" type="cd" sha1="74cd4c36610fdd501da2b677f163c3454967c396" size="245833588" crc="6024f5cf" fullsha1="0477fc5989464df8526fcf98a8496225ca72eb1a" dataSha1="58a0452ad1e5133884a509eae2e2b548fdac8966">
+		<category>Games</category>
+		<description>alfredch\Alfred Chicken (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Alfred Chicken (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="43147440" crc="be439359" md5="dcf5c812779e3d325bdd9f177670c307" sha1="dcde4444488e64246888a665ce5553ef053105db"/>
+		<rom name="Alfred Chicken (Europe) (En,Fr,De,Es,It) (Track 02).bin" size="21316176" crc="9334a542" md5="83bf9571f25929cd86e3bf96e74217ee" sha1="b51f978c485b75f38c57411e77fca65f1652b36b"/>
+		<rom name="Alfred Chicken (Europe) (En,Fr,De,Es,It) (Track 03).bin" size="13818000" crc="8587df80" md5="3f89db2cf435f41bd8278cd3196714f6" sha1="0190ad3b08a8352c2b2ef93259b458db3c455c87"/>
+		<rom name="Alfred Chicken (Europe) (En,Fr,De,Es,It) (Track 04).bin" size="8467200" crc="efdacddf" md5="506a4046cb1534b4d699885ee4632a0e" sha1="9dcfcd1775785e1a0395e93ccc974deb74bb4503"/>
+		<rom name="Alfred Chicken (Europe) (En,Fr,De,Es,It) (Track 05).bin" size="20271888" crc="8e5eca88" md5="89b32cd71f78008fafd26ac47a2a8108" sha1="d1a2b11892426868fefffd9bbf2c81537974d52c"/>
+		<rom name="Alfred Chicken (Europe) (En,Fr,De,Es,It) (Track 06).bin" size="46722480" crc="181bc9f2" md5="531e57570de5281c605605710df0c85b" sha1="70713c3304186efe050e1a58969bed4c79406c4d"/>
+		<rom name="Alfred Chicken (Europe) (En,Fr,De,Es,It) (Track 07).bin" size="39722928" crc="3b798890" md5="c822e1f5c1415d2baa2ed23bb443fc8a" sha1="11eec39f97887be59820434cd267e3061cc39f3d"/>
+		<rom name="Alfred Chicken (Europe) (En,Fr,De,Es,It) (Track 08).bin" size="57369984" crc="700c7fe0" md5="dd51160bc1ccfaedf7be2650a7217e6c" sha1="4981f74b7241edb4538bebb88f2c4a5d3ab79ac1"/>
+		<rom name="Alfred Chicken (Europe) (En,Fr,De,Es,It) (Track 09).bin" size="39177264" crc="50d2b9a6" md5="121f16266f1f29d794f5133aeac4d3e1" sha1="ea9151bdc93d7ed89f3e965fbbd1b3b10374e1ef"/>
+		<rom name="Alfred Chicken (Europe) (En,Fr,De,Es,It) (Track 10).bin" size="46459056" crc="a5655167" md5="4b5de7c8bfd1d9d95cd138c3f02647c2" sha1="2eff21555a427a4bceeae728f976aca2280d08dd"/>
+		<rom name="Alfred Chicken (Europe) (En,Fr,De,Es,It) (Track 11).bin" size="25832016" crc="a3327949" md5="40b0a6b9c0cc30678726197f5af97407" sha1="da60e2d86de641e65b0a45ae2d9ee085d4c421a3"/>
+		<rom name="Alfred Chicken (Europe) (En,Fr,De,Es,It) (Track 12).bin" size="12432672" crc="e98a067f" md5="4673580dcf7861d4cad265f53c19c23e" sha1="f80182dad0a39d4c102167541ccb1f62abc2a205"/>
+		<rom name="Alfred Chicken (Europe) (En,Fr,De,Es,It) (Track 13).bin" size="37575552" crc="e381ddf5" md5="c814e4c1859e0ee54c456de132b55dd1" sha1="d7f2a17bb308b6e6d4a408c024abf64a35ee90b2"/>
+	</game>
+	<game name="alicecyb\Alice in Cyberland (Japan)" type="cd" sha1="0ddccc79b6d15ccf1a2e30e4ff0b4699ab416246" size="382100781" crc="4c925572" fullsha1="f6270815e00919f9c8c2812d05fd37c16b29ec80" dataSha1="b6bcb78a55f52d025df441c4c0e1081c05c6a015">
+		<category>Games</category>
+		<description>alicecyb\Alice in Cyberland (Japan)</description>
+		<rom name="Alice in Cyberland (Japan) (Track 01).bin" size="597330384" crc="393a14a9" md5="159e05f7fae792460cd0af4625dbd131" sha1="e4adfc633a6f2931fa224ef7a1798440d06ca7e4"/>
+	</game>
 	<game name="alicecyb\alice in cyberland (japan) [slps-00636]" type="cd" sha1="c7faf75c9a9747a814e737565151f2d3b01ea05d" size="381904431" crc="f0736450" fullsha1="f6270815e00919f9c8c2812d05fd37c16b29ec80" dataSha1="b6bcb78a55f52d025df441c4c0e1081c05c6a015">
 		<category>Games</category>
 		<description>Alice in Cyberland (Japan)</description>
 		<year>1996</year>
 		<manufacturer>Glams</manufacturer>
 		<rom name="alice in cyberland (japan) [slps-00636] (Track 01).bin" size="597330384" crc="393a14a9" md5="159e05f7fae792460cd0af4625dbd131" sha1="e4adfc633a6f2931fa224ef7a1798440d06ca7e4"/>
+	</game>
+	<game name="alienres\Alien Resurrection (Europe) (En,Fr,De,Es,It)" type="cd" sha1="ed67722d7928f364e7064d15413991bd1ea16323" size="334950103" crc="bd3a0309" fullsha1="06a51043f8163f3c96cc88ff25c900940d3427b8" dataSha1="5f3694f649dcf148fb9cf50516da29fe56d0f806">
+		<category>Games</category>
+		<description>alienres\Alien Resurrection (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Alien Resurrection (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="503850144" crc="03e470ae" md5="e4aa0eb1fe90b576cfa5850f19a31f5b" sha1="5642c4f4ba6f06323778ae29c59c6dc863d49f55"/>
+		<rom name="Alien Resurrection (Europe) (En,Fr,De,Es,It) (Track 02).bin" size="15292704" crc="f3c18581" md5="fc7df4b523038436294c3ae57b4eeb29" sha1="7e8fbb82eafff3b68c2a8ea8235af5bb3ddb5c2f"/>
+		<rom name="Alien Resurrection (Europe) (En,Fr,De,Es,It) (Track 03).bin" size="18545520" crc="f344ed5b" md5="7d0c177da97d7f95877ac9526a60d62a" sha1="6e55ee9c136cccb28c1b85c9b6c61be426a1b954"/>
+		<rom name="Alien Resurrection (Europe) (En,Fr,De,Es,It) (Track 04).bin" size="32104800" crc="9b94ea54" md5="65aea234c174ee35fb574d981fe3fc4f" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a"/>
 	</game>
 	<game name="alienres\alien resurrection (usa)" type="cd" sha1="21a3eceb4bb723cbc33d86ff90d82ab1286262d1" size="157977791" crc="d616ffad" fullsha1="79de3fd8c2541398a4f26f7a81a617946fd1cbfa" dataSha1="0a80e2b7b8113cf3e5fac284ba9d226f98dc4995">
 		<category>Games</category>
@@ -1561,6 +1612,44 @@
 		<rom name="alien resurrection (usa) (Track 02).bin" size="15292704" crc="f3c18581" md5="fc7df4b523038436294c3ae57b4eeb29" sha1="7e8fbb82eafff3b68c2a8ea8235af5bb3ddb5c2f"/>
 		<rom name="alien resurrection (usa) (Track 03).bin" size="18545520" crc="f344ed5b" md5="7d0c177da97d7f95877ac9526a60d62a" sha1="6e55ee9c136cccb28c1b85c9b6c61be426a1b954"/>
 		<rom name="alien resurrection (usa) (Track 04).bin" size="32104800" crc="9b94ea54" md5="65aea234c174ee35fb574d981fe3fc4f" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a"/>
+	</game>
+	<game name="alienres_us\Alien Resurrection (USA)" type="cd" sha1="18438638117772ed0b4e6829a607ca0d3b719b63" size="157896460" crc="8a6b294f" fullsha1="79de3fd8c2541398a4f26f7a81a617946fd1cbfa" dataSha1="0a80e2b7b8113cf3e5fac284ba9d226f98dc4995">
+		<category>Games</category>
+		<description>alienres_us\Alien Resurrection (USA)</description>
+		<rom name="Alien Resurrection (USA) (Track 01).bin" size="270035472" crc="f9b6964f" md5="0542c7e2ed28db4aaffc1534e8760d78" sha1="fd64d8357e90a1a9e9448519835ecee6b65c0cf4"/>
+		<rom name="Alien Resurrection (USA) (Track 02).bin" size="15292704" crc="f3c18581" md5="fc7df4b523038436294c3ae57b4eeb29" sha1="7e8fbb82eafff3b68c2a8ea8235af5bb3ddb5c2f"/>
+		<rom name="Alien Resurrection (USA) (Track 03).bin" size="18545520" crc="f344ed5b" md5="7d0c177da97d7f95877ac9526a60d62a" sha1="6e55ee9c136cccb28c1b85c9b6c61be426a1b954"/>
+		<rom name="Alien Resurrection (USA) (Track 04).bin" size="32104800" crc="9b94ea54" md5="65aea234c174ee35fb574d981fe3fc4f" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a"/>
+	</game>
+	<game name="alientri\Alien Trilogy (Europe) (En,Fr,Es,It)" type="cd" sha1="0c662704a4e4a2fa383851794fd9dfe52f0fa969" size="323955063" crc="fb56c819" fullsha1="3970f8a265c6bd77431310c6dca8691da0764f2c" dataSha1="00dd81ae91cd1f1ddda28d24889c342a841a8bb1">
+		<category>Games</category>
+		<description>alientri\Alien Trilogy (Europe) (En,Fr,Es,It)</description>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 01).bin" size="252882336" crc="fbc7c66d" md5="5f1b87f7b63e9c83a627800d98cc874b" sha1="edb3c1e0569bb5f7fc7af1b0edf665c686dd7004"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 02).bin" size="23708160" crc="da2e8129" md5="064cb68cbb2a5a12a1129f221f37554a" sha1="04ceb31999716a3088c4eb69b15982ad62bd226b"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 03).bin" size="1935696" crc="f6d728ba" md5="f92ead889f06b22c03eabfdd6af5edd1" sha1="c586974e3cd94550ed98d9eb3eb48e0eb55c8c94"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 04).bin" size="22939056" crc="97eefb15" md5="da6b7222c6b7c7ca8e19942b4db83294" sha1="db693d26d7b345381859c4f1d6ef51f2c98baaf1"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 05).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 06).bin" size="20878704" crc="3057a026" md5="f0dbf3389556bb1af370bc40d9336c25" sha1="7b06b643b1bff914b0ad0627f12e3cb387ed0384"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 07).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 08).bin" size="25156992" crc="a557b5b5" md5="66bbc304a585735e5abb9b76f82eef21" sha1="fa0fe4fdfd8529e65701b55356c213be5a6f00d7"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 09).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 10).bin" size="23656416" crc="9f903fd3" md5="aabb9593c6c2d149a528f71886e17a88" sha1="5c4a15890b5fb18e4af47692576cefd535447858"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 11).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 12).bin" size="23971584" crc="ea8087b9" md5="04e230b1f2ad3fb34b7ae6c15d2305df" sha1="98a830ed2f97ef6d10410ca9a74295d21be07304"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 13).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 14).bin" size="31338048" crc="8cc928c9" md5="dbe80e4e6716b595d169924e464e101a" sha1="0565310ce097532b59b49c2867e909b09a31b4f4"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 15).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 16).bin" size="45880464" crc="ea4ed819" md5="edb294a8fd69107fb0e0c805616a2ee1" sha1="31e7fd1ee8bf3369a2a577b0ab67eb17a5dcd433"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 17).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 18).bin" size="30093840" crc="6d8e3f22" md5="e7e351eaf9b29a1c4ed47aa1c6a86d05" sha1="961509c24b8d924e4a4149457c2daa78f69ec78a"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 19).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 20).bin" size="26281248" crc="f5497e7a" md5="df101483fe3e78b2143fa0176d6f35ec" sha1="cd31909c8cbf0492a7db558bbe07a2827f195384"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 21).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 22).bin" size="28826112" crc="41daff43" md5="a8580e1712291d89e4a45d05adc0ca8e" sha1="29a73ee12b68ab333c5f0ab2ed11a86a582764fc"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 23).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 24).bin" size="24079776" crc="66184a47" md5="9657d2582d4df69d068e2d0f47bfbbcc" sha1="57aa0fc6d02bc387973646243cd89afd24cab02e"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 25).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Europe) (En,Fr,Es,It) (Track 26).bin" size="32163600" crc="9eb22530" md5="88aa16698a904e9841f2279a4e9beb23" sha1="bea344b803475b463195df6fd60834069afe246e"/>
 	</game>
 	<game name="alientri\alien trilogy (usa)" type="cd" sha1="29d6dd5acd09a0f3fcd81b1ad4698952ac361987" size="274108720" crc="da105e0a" fullsha1="29b7f1384cef58ec2404a1aa53a30da71f2fa0fb" dataSha1="34adeed1c3f4cfba8f3c9896d91f1cc4dbf35765">
 		<category>Games</category>
@@ -1593,6 +1682,119 @@
 		<rom name="alien trilogy (usa) (Track 24).bin" size="24079776" crc="66184a47" md5="9657d2582d4df69d068e2d0f47bfbbcc" sha1="57aa0fc6d02bc387973646243cd89afd24cab02e"/>
 		<rom name="alien trilogy (usa) (Track 25).bin" size="969024" crc="3416f666" md5="9f19c2263d1d7f4e5e7d088bb45ebf10" sha1="662b3c49af0df592391fa04a45d5be9de2748d1c"/>
 		<rom name="alien trilogy (usa) (Track 26).bin" size="32163600" crc="9eb22530" md5="88aa16698a904e9841f2279a4e9beb23" sha1="bea344b803475b463195df6fd60834069afe246e"/>
+	</game>
+	<game name="alientri_de\Alien Trilogy (Germany)" type="cd" sha1="c092f7da463b6df84e6437bd6da05be72f933ac4" size="324375130" crc="4c93dc2b" fullsha1="de48d0af62d983d0d65859d00f49415ff12c3364" dataSha1="0b93408912c8899a754d3b84ab7f3afe5ee7508d">
+		<category>Games</category>
+		<description>alientri_de\Alien Trilogy (Germany)</description>
+		<rom name="Alien Trilogy (Germany) (Track 01).bin" size="251562864" crc="f9679915" md5="6536aed1088b50b78f0e27c2d23516aa" sha1="5cebf938d7ba9210958e49a5cc110e98ac435308"/>
+		<rom name="Alien Trilogy (Germany) (Track 02).bin" size="23708160" crc="da2e8129" md5="064cb68cbb2a5a12a1129f221f37554a" sha1="04ceb31999716a3088c4eb69b15982ad62bd226b"/>
+		<rom name="Alien Trilogy (Germany) (Track 03).bin" size="1935696" crc="f6d728ba" md5="f92ead889f06b22c03eabfdd6af5edd1" sha1="c586974e3cd94550ed98d9eb3eb48e0eb55c8c94"/>
+		<rom name="Alien Trilogy (Germany) (Track 04).bin" size="23291856" crc="287ade2c" md5="252e84def11c5a3f55491b584a3821d7" sha1="f227355211002fb443158c9e5f40363f4fccc542"/>
+		<rom name="Alien Trilogy (Germany) (Track 05).bin" size="1935696" crc="f6d728ba" md5="f92ead889f06b22c03eabfdd6af5edd1" sha1="c586974e3cd94550ed98d9eb3eb48e0eb55c8c94"/>
+		<rom name="Alien Trilogy (Germany) (Track 06).bin" size="21231504" crc="101aa55a" md5="22b9a44e8252289756e33d5074787e0a" sha1="5f5dfcfc605425f6870a0201c29e588fc92c83fe"/>
+		<rom name="Alien Trilogy (Germany) (Track 07).bin" size="1935696" crc="f6d728ba" md5="f92ead889f06b22c03eabfdd6af5edd1" sha1="c586974e3cd94550ed98d9eb3eb48e0eb55c8c94"/>
+		<rom name="Alien Trilogy (Germany) (Track 08).bin" size="25509792" crc="24b8a5c6" md5="a268b19ded63fec7b58783d1e3087ac1" sha1="8523eaf2e32602a790a6e6af2f01a49c69b0e526"/>
+		<rom name="Alien Trilogy (Germany) (Track 09).bin" size="1935696" crc="f6d728ba" md5="f92ead889f06b22c03eabfdd6af5edd1" sha1="c586974e3cd94550ed98d9eb3eb48e0eb55c8c94"/>
+		<rom name="Alien Trilogy (Germany) (Track 10).bin" size="24009216" crc="274aa48a" md5="9260877ad181b3d9fd8ffa7bf08021d4" sha1="0a761bde1c005f7118a09a692882e56982a884da"/>
+		<rom name="Alien Trilogy (Germany) (Track 11).bin" size="1935696" crc="f6d728ba" md5="f92ead889f06b22c03eabfdd6af5edd1" sha1="c586974e3cd94550ed98d9eb3eb48e0eb55c8c94"/>
+		<rom name="Alien Trilogy (Germany) (Track 12).bin" size="24324384" crc="df9ac939" md5="db011bc93dcb8e082c92263572ecff77" sha1="2f8d747227cfd6f607e2b50b16590ef3b68948e4"/>
+		<rom name="Alien Trilogy (Germany) (Track 13).bin" size="1935696" crc="f6d728ba" md5="f92ead889f06b22c03eabfdd6af5edd1" sha1="c586974e3cd94550ed98d9eb3eb48e0eb55c8c94"/>
+		<rom name="Alien Trilogy (Germany) (Track 14).bin" size="31690848" crc="401a5fa2" md5="287d347cfae25b35cea68c5f4d3956ac" sha1="8f04582c988616f54059e6d5d07c493919076fe1"/>
+		<rom name="Alien Trilogy (Germany) (Track 15).bin" size="1935696" crc="f6d728ba" md5="f92ead889f06b22c03eabfdd6af5edd1" sha1="c586974e3cd94550ed98d9eb3eb48e0eb55c8c94"/>
+		<rom name="Alien Trilogy (Germany) (Track 16).bin" size="46233264" crc="b1c534fe" md5="61b0eab5daabded15c6b54d0c567087e" sha1="05370b6c76dbcbf8d6e393bb54204787c6ba3f81"/>
+		<rom name="Alien Trilogy (Germany) (Track 17).bin" size="1935696" crc="f6d728ba" md5="f92ead889f06b22c03eabfdd6af5edd1" sha1="c586974e3cd94550ed98d9eb3eb48e0eb55c8c94"/>
+		<rom name="Alien Trilogy (Germany) (Track 18).bin" size="30446640" crc="af2034a3" md5="7b568cbb7dcc3abb1fb06012b9a8092b" sha1="74489c829f806b1b57446ce9ff3fbc170f0402cf"/>
+		<rom name="Alien Trilogy (Germany) (Track 19).bin" size="1935696" crc="f6d728ba" md5="f92ead889f06b22c03eabfdd6af5edd1" sha1="c586974e3cd94550ed98d9eb3eb48e0eb55c8c94"/>
+		<rom name="Alien Trilogy (Germany) (Track 20).bin" size="26634048" crc="f0d96675" md5="4c55a7a57a01d0c69a1da8c061a35a95" sha1="c0aae10a6883947bb09d1de8272160d318870e5c"/>
+		<rom name="Alien Trilogy (Germany) (Track 21).bin" size="1935696" crc="f6d728ba" md5="f92ead889f06b22c03eabfdd6af5edd1" sha1="c586974e3cd94550ed98d9eb3eb48e0eb55c8c94"/>
+		<rom name="Alien Trilogy (Germany) (Track 22).bin" size="29178912" crc="0f0d2d6c" md5="88c41b3d256ae9dd680ac680cedfd6ad" sha1="0f8963af3659e0609941210bd3f2331c8a2159d9"/>
+		<rom name="Alien Trilogy (Germany) (Track 23).bin" size="1935696" crc="f6d728ba" md5="f92ead889f06b22c03eabfdd6af5edd1" sha1="c586974e3cd94550ed98d9eb3eb48e0eb55c8c94"/>
+		<rom name="Alien Trilogy (Germany) (Track 24).bin" size="24432576" crc="9d970fa9" md5="07998423f1ba17a168bc67938e021bda" sha1="cbcb75162371475a97d6b2daed10ff4a77d68145"/>
+		<rom name="Alien Trilogy (Germany) (Track 25).bin" size="1935696" crc="f6d728ba" md5="f92ead889f06b22c03eabfdd6af5edd1" sha1="c586974e3cd94550ed98d9eb3eb48e0eb55c8c94"/>
+		<rom name="Alien Trilogy (Germany) (Track 26).bin" size="32516400" crc="e719f252" md5="f5483e1b5603cfd4679dec3f57fbbf4f" sha1="5fc838d653f0e4221b1048e88e5ba4117712e41d"/>
+	</game>
+	<game name="alientri_fr\Alien Trilogy (France) (Demo)" type="cd" sha1="388e530f6eccb8dcd183c5c4ea77c48cd6983f77" size="53931725" crc="6b9b9273" fullsha1="f0cba6204a0c765f272044252158e10002d186d0" dataSha1="c799dfecce56c4baec9be81c32b949bd258a9a96">
+		<category>Games</category>
+		<description>alientri_fr\Alien Trilogy (France) (Demo)</description>
+		<rom name="Alien Trilogy (France) (Demo) (Track 01).bin" size="63355824" crc="165b3bac" md5="0ed24e804bb075ccc5eb28a2511ab190" sha1="ec076843bb85e3053908f1b24166a0840919da62"/>
+		<rom name="Alien Trilogy (France) (Demo) (Track 02).bin" size="23708160" crc="da2e8129" md5="064cb68cbb2a5a12a1129f221f37554a" sha1="04ceb31999716a3088c4eb69b15982ad62bd226b"/>
+		<rom name="Alien Trilogy (France) (Demo) (Track 03).bin" size="1935696" crc="f6d728ba" md5="f92ead889f06b22c03eabfdd6af5edd1" sha1="c586974e3cd94550ed98d9eb3eb48e0eb55c8c94"/>
+		<rom name="Alien Trilogy (France) (Demo) (Track 04).bin" size="32459952" crc="8da33568" md5="27f281259c5a089d5f5f6585787d6dde" sha1="8ce4b9414b18d4860dfddbc83e7b175e4e12e8dd"/>
+	</game>
+	<game name="alientri_jp\Alien Trilogy (Japan)" type="cd" sha1="aefc36da2b772d7a54a001de1be7c82a6f579046" size="276719959" crc="cfce4ede" fullsha1="c0b2198fafec3c8412848f2a0aae39cb79fa1e6c" dataSha1="cf970be9d3a0a0203db67ff7887433169c97e9ee">
+		<category>Games</category>
+		<description>alientri_jp\Alien Trilogy (Japan)</description>
+		<rom name="Alien Trilogy (Japan) (Track 01).bin" size="175075824" crc="3fb0fc43" md5="8730d0201f95cb3c1a902fbb99cf45ca" sha1="cd55ce298f15de41e40ece720744fafbd0b37f52"/>
+		<rom name="Alien Trilogy (Japan) (Track 02).bin" size="23708160" crc="da2e8129" md5="064cb68cbb2a5a12a1129f221f37554a" sha1="04ceb31999716a3088c4eb69b15982ad62bd226b"/>
+		<rom name="Alien Trilogy (Japan) (Track 03).bin" size="1935696" crc="f6d728ba" md5="f92ead889f06b22c03eabfdd6af5edd1" sha1="c586974e3cd94550ed98d9eb3eb48e0eb55c8c94"/>
+		<rom name="Alien Trilogy (Japan) (Track 04).bin" size="23291856" crc="287ade2c" md5="252e84def11c5a3f55491b584a3821d7" sha1="f227355211002fb443158c9e5f40363f4fccc542"/>
+		<rom name="Alien Trilogy (Japan) (Track 05).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Japan) (Track 06).bin" size="20878704" crc="3057a026" md5="f0dbf3389556bb1af370bc40d9336c25" sha1="7b06b643b1bff914b0ad0627f12e3cb387ed0384"/>
+		<rom name="Alien Trilogy (Japan) (Track 07).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Japan) (Track 08).bin" size="25156992" crc="a557b5b5" md5="66bbc304a585735e5abb9b76f82eef21" sha1="fa0fe4fdfd8529e65701b55356c213be5a6f00d7"/>
+		<rom name="Alien Trilogy (Japan) (Track 09).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Japan) (Track 10).bin" size="23656416" crc="9f903fd3" md5="aabb9593c6c2d149a528f71886e17a88" sha1="5c4a15890b5fb18e4af47692576cefd535447858"/>
+		<rom name="Alien Trilogy (Japan) (Track 11).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Japan) (Track 12).bin" size="23971584" crc="ea8087b9" md5="04e230b1f2ad3fb34b7ae6c15d2305df" sha1="98a830ed2f97ef6d10410ca9a74295d21be07304"/>
+		<rom name="Alien Trilogy (Japan) (Track 13).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Japan) (Track 14).bin" size="31338048" crc="8cc928c9" md5="dbe80e4e6716b595d169924e464e101a" sha1="0565310ce097532b59b49c2867e909b09a31b4f4"/>
+		<rom name="Alien Trilogy (Japan) (Track 15).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Japan) (Track 16).bin" size="45880464" crc="ea4ed819" md5="edb294a8fd69107fb0e0c805616a2ee1" sha1="31e7fd1ee8bf3369a2a577b0ab67eb17a5dcd433"/>
+		<rom name="Alien Trilogy (Japan) (Track 17).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Japan) (Track 18).bin" size="30093840" crc="6d8e3f22" md5="e7e351eaf9b29a1c4ed47aa1c6a86d05" sha1="961509c24b8d924e4a4149457c2daa78f69ec78a"/>
+		<rom name="Alien Trilogy (Japan) (Track 19).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Japan) (Track 20).bin" size="26281248" crc="f5497e7a" md5="df101483fe3e78b2143fa0176d6f35ec" sha1="cd31909c8cbf0492a7db558bbe07a2827f195384"/>
+		<rom name="Alien Trilogy (Japan) (Track 21).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Japan) (Track 22).bin" size="28826112" crc="41daff43" md5="a8580e1712291d89e4a45d05adc0ca8e" sha1="29a73ee12b68ab333c5f0ab2ed11a86a582764fc"/>
+		<rom name="Alien Trilogy (Japan) (Track 23).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Japan) (Track 24).bin" size="24079776" crc="66184a47" md5="9657d2582d4df69d068e2d0f47bfbbcc" sha1="57aa0fc6d02bc387973646243cd89afd24cab02e"/>
+		<rom name="Alien Trilogy (Japan) (Track 25).bin" size="1582896" crc="e6570310" md5="a94d10bae8349b8980e5dcf890d89c64" sha1="56a9638194e68415099d6260ffcd91e374a24583"/>
+		<rom name="Alien Trilogy (Japan) (Track 26).bin" size="32163600" crc="9eb22530" md5="88aa16698a904e9841f2279a4e9beb23" sha1="bea344b803475b463195df6fd60834069afe246e"/>
+	</game>
+	<game name="alientri_us\Alien Trilogy (USA)" type="cd" sha1="bb8ced8d80de6f9d6e5159265e50cf23bbe25c1e" size="272366136" crc="60a6d336" fullsha1="29b7f1384cef58ec2404a1aa53a30da71f2fa0fb" dataSha1="34adeed1c3f4cfba8f3c9896d91f1cc4dbf35765">
+		<category>Games</category>
+		<description>alientri_us\Alien Trilogy (USA)</description>
+		<rom name="Alien Trilogy (USA) (Track 01).bin" size="160763904" crc="af79a74f" md5="35529541d03d1ba28959140acf50f76f" sha1="6e97cfeb41c9e60ec1b8d1f5c308c7ca450f1f58"/>
+		<rom name="Alien Trilogy (USA) (Track 02).bin" size="23708160" crc="da2e8129" md5="064cb68cbb2a5a12a1129f221f37554a" sha1="04ceb31999716a3088c4eb69b15982ad62bd226b"/>
+		<rom name="Alien Trilogy (USA) (Track 03).bin" size="1321824" crc="f0909bd2" md5="3c8a4a3aaa4f9556e28e379c79251d81" sha1="71bdb327be677485565c9f23cf235e1931bede98"/>
+		<rom name="Alien Trilogy (USA) (Track 04).bin" size="22939056" crc="97eefb15" md5="da6b7222c6b7c7ca8e19942b4db83294" sha1="db693d26d7b345381859c4f1d6ef51f2c98baaf1"/>
+		<rom name="Alien Trilogy (USA) (Track 05).bin" size="969024" crc="3416f666" md5="9f19c2263d1d7f4e5e7d088bb45ebf10" sha1="662b3c49af0df592391fa04a45d5be9de2748d1c"/>
+		<rom name="Alien Trilogy (USA) (Track 06).bin" size="20878704" crc="3057a026" md5="f0dbf3389556bb1af370bc40d9336c25" sha1="7b06b643b1bff914b0ad0627f12e3cb387ed0384"/>
+		<rom name="Alien Trilogy (USA) (Track 07).bin" size="969024" crc="3416f666" md5="9f19c2263d1d7f4e5e7d088bb45ebf10" sha1="662b3c49af0df592391fa04a45d5be9de2748d1c"/>
+		<rom name="Alien Trilogy (USA) (Track 08).bin" size="25156992" crc="a557b5b5" md5="66bbc304a585735e5abb9b76f82eef21" sha1="fa0fe4fdfd8529e65701b55356c213be5a6f00d7"/>
+		<rom name="Alien Trilogy (USA) (Track 09).bin" size="969024" crc="3416f666" md5="9f19c2263d1d7f4e5e7d088bb45ebf10" sha1="662b3c49af0df592391fa04a45d5be9de2748d1c"/>
+		<rom name="Alien Trilogy (USA) (Track 10).bin" size="23656416" crc="9f903fd3" md5="aabb9593c6c2d149a528f71886e17a88" sha1="5c4a15890b5fb18e4af47692576cefd535447858"/>
+		<rom name="Alien Trilogy (USA) (Track 11).bin" size="969024" crc="3416f666" md5="9f19c2263d1d7f4e5e7d088bb45ebf10" sha1="662b3c49af0df592391fa04a45d5be9de2748d1c"/>
+		<rom name="Alien Trilogy (USA) (Track 12).bin" size="23971584" crc="ea8087b9" md5="04e230b1f2ad3fb34b7ae6c15d2305df" sha1="98a830ed2f97ef6d10410ca9a74295d21be07304"/>
+		<rom name="Alien Trilogy (USA) (Track 13).bin" size="969024" crc="3416f666" md5="9f19c2263d1d7f4e5e7d088bb45ebf10" sha1="662b3c49af0df592391fa04a45d5be9de2748d1c"/>
+		<rom name="Alien Trilogy (USA) (Track 14).bin" size="31338048" crc="8cc928c9" md5="dbe80e4e6716b595d169924e464e101a" sha1="0565310ce097532b59b49c2867e909b09a31b4f4"/>
+		<rom name="Alien Trilogy (USA) (Track 15).bin" size="969024" crc="3416f666" md5="9f19c2263d1d7f4e5e7d088bb45ebf10" sha1="662b3c49af0df592391fa04a45d5be9de2748d1c"/>
+		<rom name="Alien Trilogy (USA) (Track 16).bin" size="45880464" crc="ea4ed819" md5="edb294a8fd69107fb0e0c805616a2ee1" sha1="31e7fd1ee8bf3369a2a577b0ab67eb17a5dcd433"/>
+		<rom name="Alien Trilogy (USA) (Track 17).bin" size="969024" crc="3416f666" md5="9f19c2263d1d7f4e5e7d088bb45ebf10" sha1="662b3c49af0df592391fa04a45d5be9de2748d1c"/>
+		<rom name="Alien Trilogy (USA) (Track 18).bin" size="30093840" crc="6d8e3f22" md5="e7e351eaf9b29a1c4ed47aa1c6a86d05" sha1="961509c24b8d924e4a4149457c2daa78f69ec78a"/>
+		<rom name="Alien Trilogy (USA) (Track 19).bin" size="969024" crc="3416f666" md5="9f19c2263d1d7f4e5e7d088bb45ebf10" sha1="662b3c49af0df592391fa04a45d5be9de2748d1c"/>
+		<rom name="Alien Trilogy (USA) (Track 20).bin" size="26281248" crc="f5497e7a" md5="df101483fe3e78b2143fa0176d6f35ec" sha1="cd31909c8cbf0492a7db558bbe07a2827f195384"/>
+		<rom name="Alien Trilogy (USA) (Track 21).bin" size="969024" crc="3416f666" md5="9f19c2263d1d7f4e5e7d088bb45ebf10" sha1="662b3c49af0df592391fa04a45d5be9de2748d1c"/>
+		<rom name="Alien Trilogy (USA) (Track 22).bin" size="28826112" crc="41daff43" md5="a8580e1712291d89e4a45d05adc0ca8e" sha1="29a73ee12b68ab333c5f0ab2ed11a86a582764fc"/>
+		<rom name="Alien Trilogy (USA) (Track 23).bin" size="969024" crc="3416f666" md5="9f19c2263d1d7f4e5e7d088bb45ebf10" sha1="662b3c49af0df592391fa04a45d5be9de2748d1c"/>
+		<rom name="Alien Trilogy (USA) (Track 24).bin" size="24079776" crc="66184a47" md5="9657d2582d4df69d068e2d0f47bfbbcc" sha1="57aa0fc6d02bc387973646243cd89afd24cab02e"/>
+		<rom name="Alien Trilogy (USA) (Track 25).bin" size="969024" crc="3416f666" md5="9f19c2263d1d7f4e5e7d088bb45ebf10" sha1="662b3c49af0df592391fa04a45d5be9de2748d1c"/>
+		<rom name="Alien Trilogy (USA) (Track 26).bin" size="32163600" crc="9eb22530" md5="88aa16698a904e9841f2279a4e9beb23" sha1="bea344b803475b463195df6fd60834069afe246e"/>
+	</game>
+	<game name="alive\Alive (Japan) (Disc 1)" type="cd" sha1="e0e97abf854d387ea093454829b748f2608f5533" size="486591437" crc="b5949306" fullsha1="e0f2c5cba5869a7f75596066b3a3fe6acd020bc9" dataSha1="ad4018cf6f05b551d9a4e67ab275d79398da9cf3">
+		<category>Games</category>
+		<description>alive\Alive (Japan) (Disc 1)</description>
+		<rom name="Alive (Japan) (Disc 1) (Track 01).bin" size="726314064" crc="558c21d6" md5="d43c87d7714874c0e4a20bc720d01f7d" sha1="85af83f53db08e60eafd18e5e557f265ad171a31"/>
+	</game>
+	<game name="alive\Alive (Japan) (Disc 2)" type="cd" sha1="922b8d7e7dbb10ab4c7bf55bb2c981423d20c88b" size="482631500" crc="7f9d065f" fullsha1="398e7acefa96953b9a82ca7c1858963fa6bb2b4d" dataSha1="763252f4db52adb7a87985dcb2231db94ae1bd3f">
+		<category>Games</category>
+		<description>alive\Alive (Japan) (Disc 2)</description>
+		<rom name="Alive (Japan) (Disc 2) (Track 01).bin" size="722473248" crc="5cc244bb" md5="471d9cd7d3540f9c0328b75e7b4c9fc1" sha1="986d8f4c0817af897c2980f6e92449d2ba858cf7"/>
+	</game>
+	<game name="alive\Alive (Japan) (Disc 3)" type="cd" sha1="3559e3f52cc98924c9126b14d30862efec84631c" size="510385257" crc="fe51fdcd" fullsha1="aa9bcab83043cdd1f109d22821c7df5b14381874" dataSha1="309987ebf3e926a568a74965e03e731c0f6bcf03">
+		<category>Games</category>
+		<description>alive\Alive (Japan) (Disc 3)</description>
+		<rom name="Alive (Japan) (Disc 3) (Track 01).bin" size="722242752" crc="ae8706ab" md5="364fad4efdb14afc089a9d7780fb86eb" sha1="b752103c873011b18cf9a181148bb38e434a3cac"/>
 	</game>
 	<game name="alive\alive (japan) (disc 1) [slps-01527]" type="cd" sha1="a5813eb107218b83a83baa7687fdc9cbd0d2ea47" size="486322367" crc="d3c63011" fullsha1="ecde2e9acaea18ca70e7d6359daab84afc1440a6" dataSha1="949f984420d1241b108fd001ca760ec802fbdcb1">
 		<category>Games</category>
@@ -1804,6 +2006,56 @@
 		<category>Games</category>
 		<description>amerzone_fr\Amerzone, L' (France) (Disc 2)</description>
 		<rom name="Amerzone, L' (France) (Disc 2) (Track 01).bin" size="519796704" crc="38bd90a4" md5="0413e85e0c09f6f9f6ca9881ff893a4f" sha1="e2bc390ed4d58aaa2185ebc5692329573e8c65f6"/>
+	</game>
+	<game name="amerzone_de\Amerzone - Das Testament des Forschungsreisenden (Germany) (Disc 1)" type="cd" sha1="601f910aac1ec7cf05471904258a4ce224b031c4" size="378037303" crc="0b1bfa2e" fullsha1="60f2c8e7c0175184d05d1d8b02cab989f7d5951f" dataSha1="2344b2e937885beb5fb049a10b054b33a9dbbe10">
+		<category>Games</category>
+		<description>amerzone_de\Amerzone - Das Testament des Forschungsreisenden (Germany) (Disc 1)</description>
+		<rom name="Amerzone - Das Testament des Forschungsreisenden (Germany) (Disc 1) (Track 01).bin" size="685165824" crc="d4bd767c" md5="8cb0ae3923d9d7cc4e7d448945c01fa8" sha1="1eeb77107e795252d50ba6f895d089bf16bc8965"/>
+	</game>
+	<game name="amerzone_de\Amerzone - Das Testament des Forschungsreisenden (Germany) (Disc 2)" type="cd" sha1="e12550f749f439533f34a93ef50abe0c16723a35" size="291272695" crc="a1241abc" fullsha1="81f473452a6342188fc86f9e594cd635a3b62dfa" dataSha1="25a51f2026a43b064b6d83ac4802850903cc7d47">
+		<category>Games</category>
+		<description>amerzone_de\Amerzone - Das Testament des Forschungsreisenden (Germany) (Disc 2)</description>
+		<rom name="Amerzone - Das Testament des Forschungsreisenden (Germany) (Disc 2) (Track 01).bin" size="517943328" crc="14ed1531" md5="53f2c9c89fb403e50f8dc24e34bca5b3" sha1="0619398db19e169dc1b9e6882b4615873e8db40e"/>
+	</game>
+	<game name="amerzone_es\Amerzone - El Legado del Explorador (Spain) (Disc 1)" type="cd" sha1="229b0b006ea0203a6b287b3f0a04df7023a1f88b" size="377347674" crc="67a0ad0d" fullsha1="812edd50affba6dfb5af9d61c29ccd42feb4ec64" dataSha1="509976e9b50c720793908d73b1736350bd17e57b">
+		<category>Games</category>
+		<description>amerzone_es\Amerzone - El Legado del Explorador (Spain) (Disc 1)</description>
+		<rom name="Amerzone - El Legado del Explorador (Spain) (Disc 1) (Track 01).bin" size="684107424" crc="e0527dec" md5="08407456ada211b531d2207bb2f5a8f4" sha1="a8e2df17df16095a710052e17fd78bb1298e133c"/>
+	</game>
+	<game name="amerzone_es\Amerzone - El Legado del Explorador (Spain) (Disc 2)" type="cd" sha1="250d06635d4aace4f33c638411b8c8610425b08e" size="290280462" crc="b396f1cb" fullsha1="ab67aba19ae0bfae75648540c01adaeb35150f1c" dataSha1="c336d7a62a3d363c98f0bd1db902be446c2b0504">
+		<category>Games</category>
+		<description>amerzone_es\Amerzone - El Legado del Explorador (Spain) (Disc 2)</description>
+		<rom name="Amerzone - El Legado del Explorador (Spain) (Disc 2) (Track 01).bin" size="516193440" crc="8fabe501" md5="0c27b6c49a40ed0609aeb3493ea133bc" sha1="88c44c7ea319ed1ce110e2afddf1a81a7c946d57"/>
+	</game>
+	<game name="amerzone_fr\Amerzone, L' (France) (Disc 1)" type="cd" sha1="4707bec128c0bdc657d9fe4bab1ed0722d7d52fc" size="378851223" crc="80f7cd45" fullsha1="79e96126d9bcbab13610812176814292b053c3c8" dataSha1="a2cea460195e385e992225691bba184170b7737c">
+		<category>Games</category>
+		<description>amerzone_fr\Amerzone, L' (France) (Disc 1)</description>
+		<rom name="Amerzone, L' (France) (Disc 1) (Track 01).bin" size="688301040" crc="cb3a508c" md5="241b9c65789b5ed717c3e6c8788f00f8" sha1="f96b2a612ba4c6cf4c21fcc0d2c1d62947c2b8a6"/>
+	</game>
+	<game name="amerzone_fr\Amerzone, L' (France) (Disc 2)" type="cd" sha1="75825ff7b7297ed7e49fb8a4a1cf598776288341" size="291352341" crc="6756f74b" fullsha1="a273182a6456932aca33fbdf6d44177ad731903f" dataSha1="ba9004c6b7bc61aaa50556733b7d0bd9accbcc62">
+		<category>Games</category>
+		<description>amerzone_fr\Amerzone, L' (France) (Disc 2)</description>
+		<rom name="Amerzone, L' (France) (Disc 2) (Track 01).bin" size="519796704" crc="38bd90a4" md5="0413e85e0c09f6f9f6ca9881ff893a4f" sha1="e2bc390ed4d58aaa2185ebc5692329573e8c65f6"/>
+	</game>
+	<game name="amerzone_it\Amerzone - Il Testamento dell'Esploratore (Italy) (Disc 1)" type="cd" sha1="a142a8ec707ba886be91c9f7c0b8294d5f8da873" size="376840161" crc="6822c2ab" fullsha1="32cebdc58162ff3ce80d27ae7ba55586656325ad" dataSha1="9a57ebc9b8f7eada3c043656a62f17cb91cc114a">
+		<category>Games</category>
+		<description>amerzone_it\Amerzone - Il Testamento dell'Esploratore (Italy) (Disc 1)</description>
+		<rom name="Amerzone - Il Testamento dell'Esploratore (Italy) (Disc 1) (Track 01).bin" size="682733856" crc="51d17a34" md5="aa4e16bb3812725391de374fb6b893bd" sha1="b26de149fab1251c41282fecec9370c28623d66b"/>
+	</game>
+	<game name="amerzone_it\Amerzone - Il Testamento dell'Esploratore (Italy) (Disc 2)" type="cd" sha1="c8375761d18fa3b28a1fd2b0f6f4fd5868dcb297" size="290700638" crc="ddd613b3" fullsha1="6fc94c06b1bb76c1575c435506a6ce516642cab2" dataSha1="9a225c37c601406a8534c31736d31889cd07f89e">
+		<category>Games</category>
+		<description>amerzone_it\Amerzone - Il Testamento dell'Esploratore (Italy) (Disc 2)</description>
+		<rom name="Amerzone - Il Testamento dell'Esploratore (Italy) (Disc 2) (Track 01).bin" size="516520368" crc="2961f496" md5="b14a253e62bff50f04ad6a8f04c2f53e" sha1="e4404580b86604feba74dc61627e0e6f2c8ffcb2"/>
+	</game>
+	<game name="amerzone_pt\Amerzone - O Testamento do Explorador (Portugal) (Disc 1)" type="cd" sha1="4cce8a70b54bcbd59c1c7edc3795dc7e009e7308" size="377525722" crc="5c1ee01a" fullsha1="e4179ab2c6e181506ea82f001377d78b6a4db44e" dataSha1="fc1927efcb6d14540b1dd10465d59b6b19b089a1">
+		<category>Games</category>
+		<description>amerzone_pt\Amerzone - O Testamento do Explorador (Portugal) (Disc 1)</description>
+		<rom name="Amerzone - O Testamento do Explorador (Portugal) (Disc 1) (Track 01).bin" size="685932576" crc="516f76b5" md5="8efeb86d350228a30945d3c6b05debed" sha1="093228b0a7f076816acfb1e954c94f851ff90a4f"/>
+	</game>
+	<game name="amerzone_pt\Amerzone - O Testamento do Explorador (Portugal) (Disc 2)" type="cd" sha1="57a0c4e2dabe07fa0dcc122703d6649c74dc7486" size="290904953" crc="ae643baa" fullsha1="31503e94890c0b1e87e3f5f8604f9baae0792277" dataSha1="7a68dfb95205d0dc428c97316eb5b76b391bf6b2">
+		<category>Games</category>
+		<description>amerzone_pt\Amerzone - O Testamento do Explorador (Portugal) (Disc 2)</description>
+		<rom name="Amerzone - O Testamento do Explorador (Portugal) (Disc 2) (Track 01).bin" size="518079744" crc="3954f868" md5="07def26725cc19aca9045b94873091e8" sha1="6e52dc70688c322829bf0b390fed52981a35b2f2"/>
 	</game>
 	<game name="ananjari\annanjarin (japan) [slps-01424]" type="cd" sha1="1a5b4c4cff61fbd9184a776b1d1f9a7e18f954ef" size="200597475" crc="32ad5cf2" fullsha1="d16921924f2d7af3ad044f0197d08f51b34fa271" dataSha1="c6022a3c8753aba1c0c1b06f2a55b884628afc29">
 		<category>Games</category>
@@ -10023,6 +10275,24 @@
 		<rom name="floating runner - quest for the 7 crystals (usa) (Track 01).bin" size="16144128" crc="c97df65a" md5="28e24f74a5dd1648f3d919bd434214a3" sha1="d695aba41e591f6457a6895421591f5e24353ee3"/>
 		<rom name="floating runner - quest for the 7 crystals (usa) (Track 02).bin" size="567725760" crc="1af74876" md5="1fdef581263a204804f2b27c9b973162" sha1="9f52293a995a388b6d77250e6b18f639acbd15b5"/>
 	</game>
+	<game name="fm2001\DSF Fussball Manager 2001 (Germany)" type="cd" sha1="e43b92326d90aeb1b648c3523071750698f6b52f" size="35491104" crc="e0e11122" fullsha1="6fc21f25a893ccf0384201f0d91321e6eb014404" dataSha1="c98255b9b1f0135c7439deb578a45e05b4631aeb">
+		<category>Games</category>
+		<description>fm2001\DSF Fussball Manager 2001 (Germany)</description>
+		<rom name="DSF Fussball Manager 2001 (Germany) (Track 01).bin" size="50116416" crc="623d4ace" md5="d8c52a64d3732a7e521ea778e157658b" sha1="935be040f610d2df84e4fc73a01095456da06ba2"/>
+		<rom name="DSF Fussball Manager 2001 (Germany) (Track 02).bin" size="1935696" crc="d77f3b66" md5="2b8c3114e759456b445647874d8c4b7c" sha1="189650fbab0313b7dce5b5ffbaaccb88cec6a4e0"/>
+		<rom name="DSF Fussball Manager 2001 (Germany) (Track 03).bin" size="10075968" crc="a6d2a92f" md5="151c6f83db009f176b4b1e17f5ae4da7" sha1="e6197b27bad9c8ce693930d70f7cb37139ab325f"/>
+		<rom name="DSF Fussball Manager 2001 (Germany) (Track 04).bin" size="27407856" crc="8c80937e" md5="b3cf5c3d1744eae97dec4b1a76232c99" sha1="4557895f4954be3a4ce3f802b7b493aed7b96f69"/>
+		<rom name="DSF Fussball Manager 2001 (Germany) (Track 05).bin" size="10936800" crc="d786ed68" md5="67e2198ef6dc4c6c234ef791ee13bc8a" sha1="ea3b156235b3554b5d522054f83c811a3fc3188e"/>
+	</game>
+	<game name="fm2002\DSF Fussball Manager 2002 (Germany)" type="cd" sha1="43023bc681c92ee041f6e0a9ec5962e3e6d7b90a" size="38962411" crc="04e693ec" fullsha1="0d6da63be41645d481bed83c094e33d63170263d" dataSha1="95eb3bd5cf3cb8ee810e025cbabf50303dd53099">
+		<category>Games</category>
+		<description>fm2002\DSF Fussball Manager 2002 (Germany)</description>
+		<rom name="DSF Fussball Manager 2002 (Germany) (Track 01).bin" size="63525168" crc="748ab177" md5="ddbcf0538a42806ddfa39b4793fa8d81" sha1="71deadf79aec782c44aeca5da36260b0aefd4fb7"/>
+		<rom name="DSF Fussball Manager 2002 (Germany) (Track 02).bin" size="1935696" crc="d77f3b66" md5="2b8c3114e759456b445647874d8c4b7c" sha1="189650fbab0313b7dce5b5ffbaaccb88cec6a4e0"/>
+		<rom name="DSF Fussball Manager 2002 (Germany) (Track 03).bin" size="10075968" crc="a6d2a92f" md5="151c6f83db009f176b4b1e17f5ae4da7" sha1="e6197b27bad9c8ce693930d70f7cb37139ab325f"/>
+		<rom name="DSF Fussball Manager 2002 (Germany) (Track 04).bin" size="27407856" crc="8c80937e" md5="b3cf5c3d1744eae97dec4b1a76232c99" sha1="4557895f4954be3a4ce3f802b7b493aed7b96f69"/>
+		<rom name="DSF Fussball Manager 2002 (Germany) (Track 05).bin" size="10936800" crc="d786ed68" md5="67e2198ef6dc4c6c234ef791ee13bc8a" sha1="ea3b156235b3554b5d522054f83c811a3fc3188e"/>
+	</game>
 	<game name="fn99\formula nippon '99 (japan) [slps-02259]" type="cd" sha1="e0ba49469ba5efa13e6017a09d0bfee5e0658f99" size="285855297" crc="d3b1f405" fullsha1="e39210903f36733f4f57a8ca162611ae474c4807" dataSha1="3efe1174593dcec7a36df262deb6cebe75411051">
 		<category>Games</category>
 		<description>Formula Nippon '99 (Japan)</description>
@@ -11285,6 +11555,15 @@
 		<rom name="gritz - the primordial adventure (japan) [slps-00615] (Track 14).bin" size="20387136" crc="43b28212" md5="9d0453fa9ce23255c7262e273b6b2523" sha1="bc3e13cf53c4c59aac35a93f1b9cfe1b9d3030a0"/>
 		<rom name="gritz - the primordial adventure (japan) [slps-00615] (Track 15).bin" size="20121360" crc="d72fb60e" md5="ad6d6bc778e1f2fe36fc5d0b1e51ab4d" sha1="3afe19b72d59725e464d01c0e4d78d8048ddb0af"/>
 		<rom name="gritz - the primordial adventure (japan) [slps-00615] (Track 16).bin" size="33513648" crc="bb542787" md5="df81cb8410bb788b8a33accf5631f2fb" sha1="357aef5245c84a6f9016c050bda1fae779b4382e"/>
+	</game>
+	<game name="grm2001\Guy Roux Manager 2001 (France)" type="cd" sha1="8507e70edaf06d6f7531d846f9e40f0e3c72664f" size="35479892" crc="6b1009ca" fullsha1="8c2eb38d226730f8d8fbaded9fbd7b8a566e4107" dataSha1="23863cd4701cad3cf189193b73cea58a2b251da2">
+		<category>Games</category>
+		<description>grm2001\Guy Roux Manager 2001 (France)</description>
+		<rom name="Guy Roux Manager 2001 (France) (Track 01).bin" size="50109360" crc="29941264" md5="a56d2bf18458c6a84dbe1bc946ba2f5b" sha1="e16f2ee2e3bbbd3527a0c31e67f91306c5e11e86"/>
+		<rom name="Guy Roux Manager 2001 (France) (Track 02).bin" size="1935696" crc="d77f3b66" md5="2b8c3114e759456b445647874d8c4b7c" sha1="189650fbab0313b7dce5b5ffbaaccb88cec6a4e0"/>
+		<rom name="Guy Roux Manager 2001 (France) (Track 03).bin" size="10075968" crc="a6d2a92f" md5="151c6f83db009f176b4b1e17f5ae4da7" sha1="e6197b27bad9c8ce693930d70f7cb37139ab325f"/>
+		<rom name="Guy Roux Manager 2001 (France) (Track 04).bin" size="27407856" crc="8c80937e" md5="b3cf5c3d1744eae97dec4b1a76232c99" sha1="4557895f4954be3a4ce3f802b7b493aed7b96f69"/>
+		<rom name="Guy Roux Manager 2001 (France) (Track 05).bin" size="10936800" crc="d786ed68" md5="67e2198ef6dc4c6c234ef791ee13bc8a" sha1="ea3b156235b3554b5d522054f83c811a3fc3188e"/>
 	</game>
 	<game name="groovejv\groove jigoku v (japan) [slps-01205]" type="cd" sha1="33d77a37d5d54bca175c1cd97b5f4b1d7bfb3749" size="165486506" crc="210cd298" fullsha1="8096acdbc3f5bd0f21cbf17cbe3e47a1a81595ad" dataSha1="f6b82dcba8dfd3ebce458406459b41d73bce0a51">
 		<category>Games</category>
@@ -20965,6 +21244,24 @@
 		<manufacturer>Enix</manufacturer>
 		<rom name="planet laika - kasei mokushiroku (japan) [slpm-86264] (Track 01).bin" size="647124576" crc="8d90b6cd" md5="fc28005b2646bcf43c07ed84e8e286a1" sha1="0c60406f5322431558da857f730d302891bac4dc"/>
 	</game>
+	<game name="pm2001\Alex Ferguson's Player Manager 2001 (Europe)" type="cd" sha1="92a684f2c23732b623cd52d754cfcfe962fdbe7b" size="35638736" crc="652a2dc8" fullsha1="40bb5ffb372c81f1e717b8de500dcfe2fe64cc35" dataSha1="09d4542fd0e4668c9c91bc46652b05acc6732093">
+		<category>Games</category>
+		<description>pm2001\Alex Ferguson's Player Manager 2001 (Europe)</description>
+		<rom name="Alex Ferguson's Player Manager 2001 (Europe) (Track 01).bin" size="52221456" crc="b7519ba5" md5="d6f39cb7e667f9afc5498ce527ff985c" sha1="70008a947c514d3303e230432aa177271755adf3"/>
+		<rom name="Alex Ferguson's Player Manager 2001 (Europe) (Track 02).bin" size="1935696" crc="d77f3b66" md5="2b8c3114e759456b445647874d8c4b7c" sha1="189650fbab0313b7dce5b5ffbaaccb88cec6a4e0"/>
+		<rom name="Alex Ferguson's Player Manager 2001 (Europe) (Track 03).bin" size="10075968" crc="a6d2a92f" md5="151c6f83db009f176b4b1e17f5ae4da7" sha1="e6197b27bad9c8ce693930d70f7cb37139ab325f"/>
+		<rom name="Alex Ferguson's Player Manager 2001 (Europe) (Track 04).bin" size="27407856" crc="8c80937e" md5="b3cf5c3d1744eae97dec4b1a76232c99" sha1="4557895f4954be3a4ce3f802b7b493aed7b96f69"/>
+		<rom name="Alex Ferguson's Player Manager 2001 (Europe) (Track 05).bin" size="10936800" crc="d786ed68" md5="67e2198ef6dc4c6c234ef791ee13bc8a" sha1="ea3b156235b3554b5d522054f83c811a3fc3188e"/>
+	</game>
+	<game name="pm2002\Alex Ferguson's Player Manager 2002 (Europe)" type="cd" sha1="02987e582092467161aee40eb3288bf10111033a" size="39015248" crc="2fe12627" fullsha1="12e0d5d5ff661e331a450fe9b79b309a1c07529c" dataSha1="df0d9453725f0d745727c90ff933e34a104ded94">
+		<category>Games</category>
+		<description>pm2002\Alex Ferguson's Player Manager 2002 (Europe)</description>
+		<rom name="Alex Ferguson's Player Manager 2002 (Europe) (Track 01).bin" size="63703920" crc="b2a33a55" md5="a34e74e83db179cf2230fcb001b2ed89" sha1="433d07c33bfe200bd9cd982318d1564483002d92"/>
+		<rom name="Alex Ferguson's Player Manager 2002 (Europe) (Track 02).bin" size="1935696" crc="d77f3b66" md5="2b8c3114e759456b445647874d8c4b7c" sha1="189650fbab0313b7dce5b5ffbaaccb88cec6a4e0"/>
+		<rom name="Alex Ferguson's Player Manager 2002 (Europe) (Track 03).bin" size="10075968" crc="a6d2a92f" md5="151c6f83db009f176b4b1e17f5ae4da7" sha1="e6197b27bad9c8ce693930d70f7cb37139ab325f"/>
+		<rom name="Alex Ferguson's Player Manager 2002 (Europe) (Track 04).bin" size="27407856" crc="8c80937e" md5="b3cf5c3d1744eae97dec4b1a76232c99" sha1="4557895f4954be3a4ce3f802b7b493aed7b96f69"/>
+		<rom name="Alex Ferguson's Player Manager 2002 (Europe) (Track 05).bin" size="10936800" crc="d786ed68" md5="67e2198ef6dc4c6c234ef791ee13bc8a" sha1="ea3b156235b3554b5d522054f83c811a3fc3188e"/>
+	</game>
 	<game name="pmpwrest\power move pro wrestling (usa)" type="cd" sha1="42f31fa530ca2bac158a9d37edff8abfc5c2ea88" size="150380475" crc="793760a7" fullsha1="2a409d1562cfa141ef1a304525f3053987a5b497" dataSha1="a9020ff4e57db46d2fce51877c14eb3f98274506">
 		<category>Games</category>
 		<description>Power Move Pro Wrestling (USA)</description>
@@ -21102,6 +21399,33 @@
 		<year>1998</year>
 		<manufacturer>Activision</manufacturer>
 		<rom name="pool hustler (usa) (Track 01).bin" size="698384064" crc="3a7c6fc5" md5="c6cbf6c83e5ea0e504db5398e3bb2b13" sha1="293dd8cdd8b8032063ae81d7dbb480e74b587021"/>
+	</game>
+	<game name="poolshrk\Pool Shark (Europe)" type="cd" sha1="f2bed74c1ff540cc41905b70b1d364a08c52331e" size="368661059" crc="c70eb5d8" fullsha1="5a2a773ecab72985a8a30e74e31e8dfde17af78a" dataSha1="95295c17399b4ff0cbe64dba7bba2fac644965ca">
+		<category>Games</category>
+		<description>poolshrk\Pool Shark (Europe)</description>
+		<rom name="Pool Shark (Europe) (Track 01).bin" size="59794896" crc="3a135b33" md5="68d5d72284ed2dc133b47fa40ffe7fab" sha1="7cda0d82668da6fc53c33bf80a9b1a3d61dda138"/>
+		<rom name="Pool Shark (Europe) (Track 02).bin" size="37140432" crc="b9632e21" md5="85ac7506137565986978cc516e62b116" sha1="9603ab3df84a77bbd5162776eb833ed3c4511edf"/>
+		<rom name="Pool Shark (Europe) (Track 03).bin" size="37417968" crc="e38e6b98" md5="e56ff210f044f057763b73ede98fb1a0" sha1="d7d7ded7ab6421faa2321f0d42bac8acaebdcce2"/>
+		<rom name="Pool Shark (Europe) (Track 04).bin" size="46675440" crc="d65301bb" md5="1de95a78dbd3789b2b1ad4ff0c078a45" sha1="91785a7e24ff5370ac96b757d4844d2932d2c904"/>
+		<rom name="Pool Shark (Europe) (Track 05).bin" size="42077280" crc="7b1a81cc" md5="da61d53acf18ded3a11e330e2557c2b6" sha1="ec69c718ca2c0e21f62398d7c4eecd208b106482"/>
+		<rom name="Pool Shark (Europe) (Track 06).bin" size="42060816" crc="951caa0a" md5="0e2857024abc45b3cd4563323cf436bb" sha1="4154161b2698be5cfa6f42a7b2dc1f4e4684b671"/>
+		<rom name="Pool Shark (Europe) (Track 07).bin" size="40270944" crc="1c3d3ccf" md5="6205b1547cf979794e6236c6ae660854" sha1="0cd9ba489de57b33091f4d41e1386f0980392a22"/>
+		<rom name="Pool Shark (Europe) (Track 08).bin" size="45515904" crc="0bd09957" md5="77850bb96d5b8a28267e4ac295368255" sha1="040491223dce547b314acc6b7fa0d71ee88e8ab7"/>
+		<rom name="Pool Shark (Europe) (Track 09).bin" size="41430480" crc="e4a92eb2" md5="82e1fdef28540b5bd52be6e13d580bc6" sha1="769b96c47b1004647a8b6efc951ee7b44fe3c8bb"/>
+		<rom name="Pool Shark (Europe) (Track 10).bin" size="45033744" crc="2c9bd10d" md5="f3aa1a05d63fab72a53ec45864861c9e" sha1="9666a943a8ec522096b36e7474324f770e5c1a4b"/>
+		<rom name="Pool Shark (Europe) (Track 11).bin" size="43126272" crc="68c4ccdd" md5="036d330e0d84b8f63c313f6386120f1a" sha1="8bee6ad50dbac68badb364061da80f2ed914ffd3"/>
+		<rom name="Pool Shark (Europe) (Track 12).bin" size="41070624" crc="eb0f30df" md5="36d45bf1b00e3222167289dc6e36a8d2" sha1="6ed02ccdf02b4a766df699bd4213fdcec14cec9c"/>
+		<rom name="Pool Shark (Europe) (Track 13).bin" size="7961520" crc="784b24c8" md5="4b960228da8ab817c25814bd0c88911e" sha1="b7886afcbedabc0c830e3c0d22bc534229d4a631"/>
+		<rom name="Pool Shark (Europe) (Track 14).bin" size="8968176" crc="04605c56" md5="dc62ec3f4660f81f7acdb8fb974e5c68" sha1="5d967eacb24e221ab650a6f883cb5c2ef900c5bf"/>
+		<rom name="Pool Shark (Europe) (Track 15).bin" size="8232000" crc="749bd5fc" md5="3f7d3323b3d3619fb2714860d2a2a76b" sha1="695d68862c29ecaa7d5e464512e1bd624f620f4c"/>
+		<rom name="Pool Shark (Europe) (Track 16).bin" size="8232000" crc="09b2b123" md5="eb61717c411947fc53928ba0e57ce22d" sha1="38aad6cd0de3a04ed182699795355a4db59051aa"/>
+		<rom name="Pool Shark (Europe) (Track 17).bin" size="8065008" crc="b20c9291" md5="8e2d334e630a0c88e5a5cd9e39fe634a" sha1="033147cf95b8c05c0e367694f1025028fa541011"/>
+		<rom name="Pool Shark (Europe) (Track 18).bin" size="7761600" crc="d7cf0fb6" md5="3e07187414c52479c664256fc6a5363e" sha1="97647d0107abaade6e118a0dfcad1a4255338b1d"/>
+		<rom name="Pool Shark (Europe) (Track 19).bin" size="7479360" crc="d6f9d940" md5="9392a8c028c2f3ebc397a0033dcef9d2" sha1="fc762c5da759f8286474df0d79a947dce21d0e72"/>
+		<rom name="Pool Shark (Europe) (Track 20).bin" size="7535808" crc="dc495e23" md5="e852a8f1b48a60034c50e97df4734ba9" sha1="299771a021644c8e398e17e0faa6de82c07d5708"/>
+		<rom name="Pool Shark (Europe) (Track 21).bin" size="8403696" crc="c5db598a" md5="99bea5d35be12207dfee7a7c9de946ac" sha1="b9050ef4ed7d6667daec1886d6fa45ce47173f54"/>
+		<rom name="Pool Shark (Europe) (Track 22).bin" size="7761600" crc="2d666534" md5="2b8a1e583598b9957996bc3817b1b061" sha1="5bad4562deaf05a193a29e35a26c1d7766b220f1"/>
+		<rom name="Pool Shark (Europe) (Track 23).bin" size="37140432" crc="b9632e21" md5="85ac7506137565986978cc516e62b116" sha1="9603ab3df84a77bbd5162776eb833ed3c4511edf"/>
 	</game>
 	<game name="popndt\pop'n music - disney tunes (japan) [slpm-86670]" type="cd" sha1="b3ee98a62870c19e7f44ebb31532cd2cccfdb2d9" size="112208520" crc="33ed9d91" fullsha1="3446d59080e14cb75be958e1e210b3c840b00b9d" dataSha1="5f55516be7518c72fb1114d101f0921abd14e57e">
 		<category>Games</category>
@@ -26328,6 +26652,36 @@
 		<rom name="small soldiers (usa) (Track 14).bin" size="22475712" crc="98600b64" md5="6bfd55a40423c7dcbf305294c95ec4b1" sha1="05aa90cd5f44b1e862fcfeefe5a01e434471a29c"/>
 		<rom name="small soldiers (usa) (Track 15).bin" size="6644400" crc="c56da6bb" md5="bf40ed1ff83d5bb5807b55e8413d938d" sha1="01afceb0049f35b3e50d89538d4f76a5c0c31b74"/>
 	</game>
+	<game name="smcourt2\Anna Kournikova's Smash Court Tennis (Europe) (Rev 1)" type="cd" sha1="7c21e8c2ad9aa39b016157c2e41f0ea630c9fbc9" size="247710793" crc="c3dc3c5c" fullsha1="300fc7a85c8f3a219a542a0e990ee50b811831b9" dataSha1="2703ada4df0ec91493c5555f2db47c2f60f2250f">
+		<category>Games</category>
+		<description>smcourt2\Anna Kournikova's Smash Court Tennis (Europe) (Rev 1)</description>
+		<rom name="Anna Kournikova's Smash Court Tennis (Europe) (Rev 1) (Track 01).bin" size="379662192" crc="9b59eec7" md5="c65251332259ae439b84e36a12e088d7" sha1="fe27bedeb0160af682be2573733118d52e480202"/>
+	</game>
+	<game name="smcourt2_a\Anna Kournikova's Smash Court Tennis (Europe)" type="cd" sha1="9efa1751a1a53306d5a403f0fcb60dcb46774aae" size="247713220" crc="b0f77f1a" fullsha1="63088c5219358430c0c7da72aa56cd265b49b600" dataSha1="d37ac165cda8af93e0e2303b413d23a83e0d602d">
+		<category>Games</category>
+		<description>smcourt2_a\Anna Kournikova's Smash Court Tennis (Europe)</description>
+		<rom name="Anna Kournikova's Smash Court Tennis (Europe) (Track 01).bin" size="379662192" crc="ae16491c" md5="468a6974027cdb4771acda3daa432bb6" sha1="a53cea5320ee73cb31ebde5b74d653a1c2183e36"/>
+	</game>
+	<game name="smcourt2_jp\Smash Court 2 (Japan)" type="cd" sha1="3442542310726bcdeee813674c6c006b11981038" size="245418774" crc="215b3481" fullsha1="a9b4d17c68357ea5f4382afe640ff088fd25da67" dataSha1="f123c7103bec784dd340b528a7f6240532135505">
+		<category>Games</category>
+		<description>smcourt2_jp\Smash Court 2 (Japan)</description>
+		<rom name="Smash Court 2 (Japan) (Track 01).bin" size="381950688" crc="349e8767" md5="5ab2738f2ef32ecc59ed27c818086110" sha1="85f98090ca52544d2fcf2c4ed63bd6dbd86dbbcb"/>
+	</game>
+	<game name="smcourt3\Smash Court 3 (Japan)" type="cd" sha1="3e50d714607c998f881697eb577a5569c03d014e" size="203862928" crc="55176a50" fullsha1="cd664dbda2b81b3aa4ed0727a948d2eec529ca60" dataSha1="c12ccde094a60eb4c36dcec98a719011f4ec2913">
+		<category>Games</category>
+		<description>smcourt3\Smash Court 3 (Japan)</description>
+		<rom name="Smash Court 3 (Japan) (Track 01).bin" size="366312240" crc="a6f77079" md5="b39bd58db8f7dfe6f2405ad1dfe7e8e7" sha1="de0d9dd58fea085b56702db6936c7e8697b0ba45"/>
+	</game>
+	<game name="smcourt\Namco Tennis Smash Court (Europe)" type="cd" sha1="89bc22e8c43f0408b583a7aa62724e456362745a" size="248957352" crc="84f34f13" fullsha1="b18e26cb2f9b4309e368ec7c845c933c9620b892" dataSha1="ff0d1f4e05456c2fb4cbc28d662473753f089bea">
+		<category>Games</category>
+		<description>smcourt\Namco Tennis Smash Court (Europe)</description>
+		<rom name="Namco Tennis Smash Court (Europe) (Track 01).bin" size="545515824" crc="d4560741" md5="9a550d0d95bd548d08090b8473b55a57" sha1="5d70c9c7a01027702e36ba06b02efd0da4fe0865"/>
+	</game>
+	<game name="smcourt_jp\Smash Court (Japan)" type="cd" sha1="9ca147c07dfc09e61cf5bcddb95c240df1bca4af" size="248983518" crc="67365751" fullsha1="c16696a92a477a859f2764635399aed680adc9e9" dataSha1="1437c27b434625b2673a082817124acf0e769956">
+		<category>Games</category>
+		<description>smcourt_jp\Smash Court (Japan)</description>
+		<rom name="Smash Court (Japan) (Track 01).bin" size="545515824" crc="5fcdbbe1" md5="31d86d56d13d02c95d740d6ac6948dcc" sha1="aebe42dc8937301a543e6969afb4016ceb9d06fa"/>
+	</game>
 	<game name="smilepty\kids station - motto oja majo dorami - maho-dou smile party (japan) [slps-03247]" type="cd" sha1="aad6ed948a7c20e1adb4ff4ac004954679f49709" size="153365695" crc="cb212448" fullsha1="33b39949a9911faff4d89df476c3f953adc099c5" dataSha1="e13b94f0b937f720c67653f00e922eef0a36762b">
 		<category>Games</category>
 		<description>Kids Station - Motto! Oja Majo Dorami - MAHO-dou Smile Party (Japan)</description>
@@ -26917,6 +27271,15 @@
 		<year>19??</year>
 		<manufacturer>Acclaim</manufacturer>
 		<rom name="spirit master (u) (prototype) (Track 01).bin" size="13547520" crc="92bf9773" md5="cffe46cd934a8c303e38cc6b40b9921d" sha1="98d5b62fed0ec04ba09577654f4366529bc0cab4"/>
+	</game>
+	<game name="spm2001\Sportweek Player Manager 2001 (Netherlands)" type="cd" sha1="bf1b181b883a922fd32eda74a69a1c3a56e74e32" size="35451209" crc="0651d176" fullsha1="00a0814523c857cc249d5f01859906725e59a677" dataSha1="102cdf6be75f64dfbec5ef195e895db226e88e8e">
+		<category>Games</category>
+		<description>spm2001\Sportweek Player Manager 2001 (Netherlands)</description>
+		<rom name="Sportweek Player Manager 2001 (Netherlands) (Track 01).bin" size="50045856" crc="6ba38d2c" md5="d8681aacccbb943d9804ba0a0e83d165" sha1="4bf70ce298440212a177ff6b75ce3ebe7c54be66"/>
+		<rom name="Sportweek Player Manager 2001 (Netherlands) (Track 02).bin" size="1935696" crc="d77f3b66" md5="2b8c3114e759456b445647874d8c4b7c" sha1="189650fbab0313b7dce5b5ffbaaccb88cec6a4e0"/>
+		<rom name="Sportweek Player Manager 2001 (Netherlands) (Track 03).bin" size="10075968" crc="a6d2a92f" md5="151c6f83db009f176b4b1e17f5ae4da7" sha1="e6197b27bad9c8ce693930d70f7cb37139ab325f"/>
+		<rom name="Sportweek Player Manager 2001 (Netherlands) (Track 04).bin" size="27407856" crc="8c80937e" md5="b3cf5c3d1744eae97dec4b1a76232c99" sha1="4557895f4954be3a4ce3f802b7b493aed7b96f69"/>
+		<rom name="Sportweek Player Manager 2001 (Netherlands) (Track 05).bin" size="10936800" crc="d786ed68" md5="67e2198ef6dc4c6c234ef791ee13bc8a" sha1="ea3b156235b3554b5d522054f83c811a3fc3188e"/>
 	</game>
 	<game name="spongbsp\nickelodeon spongebob squarepants - supersponge (usa)" type="cd" sha1="773fd67f34c8ea4b974bc5b0892c7c8d860ac32d" size="40768795" crc="8c5190f0" fullsha1="67b3b09f3fd7795cddc3d46366774f161c20ddcd" dataSha1="997c03a9146d7cd360ab9f4c296ce47549306aae">
 		<category>Games</category>
@@ -28374,6 +28737,31 @@
 		<category>Games</category>
 		<description>technomg_es\Technomage - El Retorno de la Eternidad (Spain)</description>
 		<rom name="Technomage - El Retorno de la Eternidad (Spain) (Track 01).bin" size="669393312" crc="0b82d025" md5="3adc93366cd7d44fc4fadbf524813fe1" sha1="02b2a823f207b1a3e42452a50df5259dbb7cf413"/>
+	</game>
+	<game name="technomg_de\TechnoMage - Die Rueckkehr der Ewigkeit (Germany)" type="cd" sha1="41031146e55cce8df36f4f1c1043f6f31b9281c5" size="411256507" crc="326ea046" fullsha1="28464bf227d75597a190f7a19db49f6efb164e30" dataSha1="3f3ad137e46b845b562782bee1dbee54f7bc6a41">
+		<category>Games</category>
+		<description>technomg_de\TechnoMage - Die Rueckkehr der Ewigkeit (Germany)</description>
+		<rom name="TechnoMage - Die Rueckkehr der Ewigkeit (Germany) (Track 01).bin" size="674652384" crc="9ccd3eac" md5="5fae69bb1037031be7551583609bd402" sha1="5f4727482ba67c11f20f1901c0cc1f382a2f3a09"/>
+	</game>
+	<game name="technomg_es\Technomage - El Retorno de la Eternidad (Spain)" type="cd" sha1="78a49f73895aaca71facddaa34bfd17eb21b2f11" size="397104740" crc="44c8ebb6" fullsha1="ec8de298b3308891ac3705ab010b721c686661e3" dataSha1="f90209f7a78a93647a345adbefcaa06c4aa3a1a6">
+		<category>Games</category>
+		<description>technomg_es\Technomage - El Retorno de la Eternidad (Spain)</description>
+		<rom name="Technomage - El Retorno de la Eternidad (Spain) (Track 01).bin" size="669393312" crc="0b82d025" md5="3adc93366cd7d44fc4fadbf524813fe1" sha1="02b2a823f207b1a3e42452a50df5259dbb7cf413"/>
+	</game>
+	<game name="technomg_fr\TechnoMage - En Quete de L'Eternite (France)" type="cd" sha1="1aa9a61591bb3af3cfcc1424cb5dc1912101dab3" size="407520526" crc="fba8623a" fullsha1="1f91b7fddbd089fa0304c2b3f35a96fca2235b44" dataSha1="1c0c9b2ccaae02988094b215cd2ee694daa1661f">
+		<category>Games</category>
+		<description>technomg_fr\TechnoMage - En Quete de L'Eternite (France)</description>
+		<rom name="TechnoMage - En Quete de L'Eternite (France) (Track 01).bin" size="679666848" crc="a111b887" md5="d73df9c091570a1489648bd63db43276" sha1="c54b68713ff2c4a0f43dff411243bb1ff538e6a8"/>
+	</game>
+	<game name="technomg_it\TechnoMage - Ritorno all'Eternita (Italy)" type="cd" sha1="3eb92d46f53fb0f35c01ccdd5254958214075960" size="412427315" crc="1d65ed76" fullsha1="4c21ba6694b26a2421a06f4c88cdc9e2fc3be6db" dataSha1="38dbecc8bc25f0cc66d5bf3f4ba3928ea7401511">
+		<category>Games</category>
+		<description>technomg_it\TechnoMage - Ritorno all'Eternita (Italy)</description>
+		<rom name="TechnoMage - Ritorno all'Eternita (Italy) (Track 01).bin" size="672236880" crc="c28f565a" md5="a65bdba63e8a30943912ddae2cf934d2" sha1="a84bdb4eab9571a3baa9a663ce7b93c8c3bb6e06"/>
+	</game>
+	<game name="technomg_nl\TechnoMage - De Terugkeer der Eeuwigheid (Netherlands)" type="cd" sha1="9d9f40a001584c2e940a1c97baeb73c22b1acef9" size="418345429" crc="448e2a9f" fullsha1="66181e2610e4a01fbc5111b48c13cc34ec19eeb4" dataSha1="94df4196484986ac9a83990a58fffd953c2050ef">
+		<category>Games</category>
+		<description>technomg_nl\TechnoMage - De Terugkeer der Eeuwigheid (Netherlands)</description>
+		<rom name="TechnoMage - De Terugkeer der Eeuwigheid (Netherlands) (Track 01).bin" size="714481152" crc="1e10a432" md5="79f85155dd87c28d254f943347da5107" sha1="6a9edb882ddaae2f1ae8913e179dc2be30b80e85"/>
 	</game>
 	<game name="tecmodec\tecmo's deception - invitation to darkness (usa)" type="cd" sha1="b5a58bd343632c3000fa2fe52a08115b4c019ee1" size="197225705" crc="ab8e3d9b" fullsha1="1ae5dea4f4210a78f9e509f7e17296e7c32d342b" dataSha1="7fcecc6528c9835da9db83b41e187546f6e106e7">
 		<category>Games</category>
@@ -31409,6 +31797,33 @@
 		<rom name="ukiuki tsuri tengoku - uogami densetsu wo oe (japan) [slps-02579] (Track 01).bin" size="167728176" crc="7b5a3c1e" md5="b1f11088ef581ce036e745f2164c16e0" sha1="49ae078882db5d6f31692fc0797554a8e8b219d9"/>
 		<rom name="ukiuki tsuri tengoku - uogami densetsu wo oe (japan) [slps-02579] (Track 02).bin" size="37044000" crc="c1332915" md5="0f80c313c3a3a366dfb0555a962f0427" sha1="f1c3a4a65ef3b6ae5c4b58d8b84bdd11e76fb500"/>
 	</game>
+	<game name="ult8ball\Ultimate 8 Ball (USA)" type="cd" sha1="44ff24a07e9d31d0f02d945854a47abeef5bc012" size="363879080" crc="3198efb2" fullsha1="fbd958ea16985b10b7cad0c1b4275d7e4731fe64" dataSha1="90ba7d10e1c96e370f20df4dce09ad43c2c77743">
+		<category>Games</category>
+		<description>ult8ball\Ultimate 8 Ball (USA)</description>
+		<rom name="Ultimate 8 Ball (USA) (Track 01).bin" size="63652176" crc="2dbd76d4" md5="70cd03fa4737cf7d342a1787a5d27188" sha1="3eebb555ff77f3e873741735155416cb7559d036"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 02).bin" size="37140432" crc="b9632e21" md5="85ac7506137565986978cc516e62b116" sha1="9603ab3df84a77bbd5162776eb833ed3c4511edf"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 03).bin" size="45219552" crc="efd26b5b" md5="86782a334301b27cf088cb8bda1c13d7" sha1="a66f99a3a9f8710a31bf9a08b2081ce444bdd861"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 04).bin" size="46675440" crc="d65301bb" md5="1de95a78dbd3789b2b1ad4ff0c078a45" sha1="91785a7e24ff5370ac96b757d4844d2932d2c904"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 05).bin" size="55617744" crc="594ccf0f" md5="b354bd67d315dc27e1b3189c0d5e5d59" sha1="8f260f7dca4d2b157bda1ece571877d3498b44be"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 06).bin" size="42060816" crc="7fac7432" md5="9fb5114498afb0c04937c27033bc2f1d" sha1="71cb8cf0f6233df8b1d8d67f90024366eead7331"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 07).bin" size="40270944" crc="9d421e56" md5="abf4ff322d237272eec3e4e70f396b71" sha1="04b02d02db7a966defaf10d131e3d0df13fe0d72"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 08).bin" size="45515904" crc="c112cfc4" md5="e6e894694e8450d39c911202b20ef339" sha1="9b4ca70e4c3f6460acd99a851992643630adf799"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 09).bin" size="41430480" crc="e4a92eb2" md5="82e1fdef28540b5bd52be6e13d580bc6" sha1="769b96c47b1004647a8b6efc951ee7b44fe3c8bb"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 10).bin" size="45033744" crc="2c9bd10d" md5="f3aa1a05d63fab72a53ec45864861c9e" sha1="9666a943a8ec522096b36e7474324f770e5c1a4b"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 11).bin" size="43126272" crc="68c4ccdd" md5="036d330e0d84b8f63c313f6386120f1a" sha1="8bee6ad50dbac68badb364061da80f2ed914ffd3"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 12).bin" size="41070624" crc="eb0f30df" md5="36d45bf1b00e3222167289dc6e36a8d2" sha1="6ed02ccdf02b4a766df699bd4213fdcec14cec9c"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 13).bin" size="8246112" crc="b2108017" md5="7ae7c72e15b832d4b1a6276841fbaac9" sha1="3b5115cd02f48090ea31f403002dd079d18d6d49"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 14).bin" size="8968176" crc="b2026aff" md5="691cab3e444428dfca752dc45dddd6dc" sha1="d29a395349d3e22e4ad67b10f28d17160e78122a"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 15).bin" size="8561280" crc="fee17147" md5="b4241bbbb3dc6f7c3b0c78d3c4e586f5" sha1="1dc0d71f0649e6051d93f79f00673d7d65832d11"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 16).bin" size="8234352" crc="7bb2fd54" md5="8ce0751a354edb20629081582a053951" sha1="9a86bf74f860bde038f1aa59a6714c5831c95fec"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 17).bin" size="8065008" crc="0ea6b833" md5="a92b02b31ba0629e5038818845b4beb8" sha1="88cad42fab39f1fd04cd87bffd81ce029f1670f5"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 18).bin" size="7763952" crc="3ed8fbd2" md5="229ccaff4a231cd54448d4b7e45ca43d" sha1="9e4c4d994710081b7d3c2bf63af46d45000e6a12"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 19).bin" size="7481712" crc="5df45816" md5="741cd73e21b71d1389a7517e4e557496" sha1="95d2d991e6f2bdc4988619f7701e9a239ccf598b"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 20).bin" size="7535808" crc="e3e37ec8" md5="bd5b9e973deb0c5fd45e2d8c1a66cedb" sha1="dc34910e8ab9add68d52a52944f1762c4f8e8ae1"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 21).bin" size="8403696" crc="167dabc8" md5="b12c76cb07e0554a54ccfe80cee7530d" sha1="da37d227fe93446eb60941ec355ee751e16f4226"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 22).bin" size="7763952" crc="f4486b59" md5="5af7a8220c4fd9e965407e7cf5f771a5" sha1="bea6c605893a717d13b8049842f45bc1fe3d79e8"/>
+		<rom name="Ultimate 8 Ball (USA) (Track 23).bin" size="37140432" crc="b9632e21" md5="85ac7506137565986978cc516e62b116" sha1="9603ab3df84a77bbd5162776eb833ed3c4511edf"/>
+	</game>
 	<game name="ultbrain\ultimate brain games (usa)" type="cd" sha1="d32310a42582c730a0982c795db61dc597778f72" size="281776921" crc="8b740242" fullsha1="ef1229098eb2ee7ee9d0b4c84625b3875b8c8a0c" dataSha1="d5271cb570d9c61abdb0a4ec8ea286543811f0c1">
 		<category>Games</category>
 		<description>Ultimate Brain Games (USA)</description>
@@ -33117,6 +33532,36 @@
 		<year>1999</year>
 		<manufacturer>Electronic Arts</manufacturer>
 		<rom name="xena - warrior princess (usa) (Track 01).bin" size="322790832" crc="3ff3122d" md5="cd3bd419b83deb658cff86ec356e965a" sha1="2f7ee5625aaa02c536938fb66fcf06d4d8f6b422"/>
+	</game>
+	<game name="xenaeu\xena - warrior princess (europe)" type="cd" sha1="85452bcbfffa869152b1d6c13e2b5c27d6c00bc8" size="173765744" crc="1e817243" fullsha1="905363eed4e63e7abc0c5332eb76a0f9833047e3" dataSha1="8e3033d0420bd40833ab17864ba2003a500149ce">
+		<category>Games</category>
+		<description>xenaeu\xena - warrior princess (europe)</description>
+		<rom name="xena - warrior princess (europe) (Track 01).bin" size="323089536" crc="fa261fdd" md5="1abff6c4c3bac8f027ece8d46eb74f4b" sha1="fc941396e2d66dbdeab50a3b46a29c504df46a9d"/>
+	</game>
+	<game name="xenaeup\xena - warrior princess (europe) (beta) (1999-08-19)" type="cd" sha1="cb5019d86322d8b560364ebedd844359109715e9" size="173762698" crc="a48c1489" fullsha1="7402e2d8ffbd5385665a39f9ca5765d2566a733d" dataSha1="e087f6775719f2d9fd34245f8f41b8805eb2928d">
+		<category>Games</category>
+		<description>xenaeup\xena - warrior princess (europe) (beta) (1999-08-19)</description>
+		<rom name="xena - warrior princess (europe) (beta) (1999-08-19) (Track 01).bin" size="323089536" crc="c62a1aed" md5="c3c36ac83facec00e3af23a44cfe3c30" sha1="b08008b525572a1881721841b23e9e9173c13f4f"/>
+	</game>
+	<game name="xenafr\xena - warrior princess (france)" type="cd" sha1="c0135f1e0325dc7a718e76f6af350af3220f2c1d" size="176381593" crc="7ac75464" fullsha1="88bae561994b64c321130b6e014d73b8c95075cd" dataSha1="da9296259ce0e171013dbb88175538d5e75885f3">
+		<category>Games</category>
+		<description>xenafr\xena - warrior princess (france)</description>
+		<rom name="xena - warrior princess (france) (Track 01).bin" size="322247520" crc="f0e624a4" md5="c8491f866b236c1f55e3391252db8e8e" sha1="c90d7746d4c04475b08396fc19123bed486223cf"/>
+	</game>
+	<game name="xenage\xena - warrior princess (germany)" type="cd" sha1="18b64d822629f52a4afc33e5e1d24046aa754257" size="176255326" crc="5b7c369e" fullsha1="fa99dca29d58cb8ba63bd92c61bd733ecf663c46" dataSha1="0db9adad3ddd1fa8f578cd4562c8b25e77f68137">
+		<category>Games</category>
+		<description>xenage\xena - warrior princess (germany)</description>
+		<rom name="xena - warrior princess (germany) (Track 01).bin" size="322322784" crc="3864ac15" md5="6c716afbe59bf37e71e56bed1a7ef595" sha1="fbaccb4a05f261b0357dd79ee4f6ee105c161e7f"/>
+	</game>
+	<game name="xenap\psx - xena warrior princess 8-11-99 beta 2" type="cd" sha1="c498f49f88ff15a99ba7d2d770da794c2103edcf" size="188930024" crc="61f2d648" fullsha1="7ac1ad84655b85a77b3c615781061c632790d6cd" dataSha1="672126354e37983274d18e76180ef5ba4a181907">
+		<category>Games</category>
+		<description>xenap\psx - xena warrior princess 8-11-99 beta 2</description>
+		<rom name="psx - xena warrior princess 8-11-99 beta 2 (Track 01).bin" size="344358672" crc="8b374bab" md5="cd749cb0e14eff6f2a7a59c62e47e308" sha1="7ed87334f2012441df585e603bffd28033530a8c"/>
+	</game>
+	<game name="xenasp\xena - warrior princess (spain)" type="cd" sha1="57bb1abcf3f91910c80f81887445abcd00e10ed3" size="176320921" crc="cf4cf231" fullsha1="b161ef9a8fdf12c063691b0c43b8e06c905599fa" dataSha1="3550ef394c9a7790c69f3df60cbe271d219b77ff">
+		<category>Games</category>
+		<description>xenasp\xena - warrior princess (spain)</description>
+		<rom name="xena - warrior princess (spain) (Track 01).bin" size="322647360" crc="ae926547" md5="c167d251a42dfcd54ee2f36c2d296be5" sha1="c29377d3a8a1de78a536461c4b9803fbccad48cb"/>
 	</game>
 	<game name="xenogear\xenogears (usa) (disc 1)" type="cd" sha1="80d23598a75019784a7337968092b300ce449c16" size="357651775" crc="ead31c41" fullsha1="64a49e3b3bcd14ef74f363d5a5ccf366e283d790" dataSha1="4c3d8621e4aaf431d5cac0f2da91e6cf45e68ef5">
 		<category>Games</category>
