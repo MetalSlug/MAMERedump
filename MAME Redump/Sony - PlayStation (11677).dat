@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>MAME Redump - Sony - PlayStation - Discs (10868) (2025-09-22 12-06-31)</description>
+		<description>MAME Redump - Sony - PlayStation - Discs (10889) (2026-01-05 06-17-30)</description>
 		<version>0.281</version>
-		<date>2026-01-06</date>
+		<date>2026-01-07</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -2678,12 +2678,12 @@
 		<manufacturer>Sony Computer Entertainment America</manufacturer>
 		<disk name="Armored Core (USA).chd" sha1="e02f70c6640b0872f8f80c8467fb90baf8ce6176" />
 	</machine>
-	<machine name="Armored Core (USA) (Reprint)">
+	<machine name="Armored Core (USA) (Rerelease)">
 		<category>Games</category>
-		<description>Armored Core (USA) (Reprint)</description>
+		<description>Armored Core (USA) (Rerelease)</description>
 		<year>1997</year>
 		<manufacturer>Sony Computer Entertainment America</manufacturer>
-		<disk name="Armored Core (USA) (Reprint).chd" sha1="641b56951f14d8f486e584745efb560c31988670" />
+		<disk name="Armored Core (USA) (Rerelease).chd" sha1="641b56951f14d8f486e584745efb560c31988670" />
 	</machine>
 	<machine name="Armorines - Project S.W.A.R.M. (Europe) (En,Fr,Es,It)">
 		<category>Games</category>
@@ -5061,15 +5061,15 @@
 		<description>Blue Breaker Burst - Egao no Asu ni (Japan) (Major Wave)</description>
 		<disk name="Blue Breaker Burst - Egao no Asu ni (Japan) (Major Wave).chd" sha1="af6c2d9bb073d0cab4a28c2c387b68a7a5669ed9" />
 	</machine>
-	<machine name="Blue Breaker Burst - Hohoemi o Anata to (Japan)">
-		<category>Games</category>
-		<description>Blue Breaker Burst - Hohoemi o Anata to (Japan)</description>
-		<disk name="Blue Breaker Burst - Hohoemi o Anata to (Japan).chd" sha1="57a5b31097a2ea0d4491e18edf98943b680c3dae" />
-	</machine>
 	<machine name="Blue Breaker Burst - Hohoemi o Anata to (Japan) (Major Wave)">
 		<category>Games</category>
 		<description>Blue Breaker Burst - Hohoemi o Anata to (Japan) (Major Wave)</description>
 		<disk name="Blue Breaker Burst - Hohoemi o Anata to (Japan) (Major Wave).chd" sha1="4c7652f79e3832c98abb46bb1969f20089047397" />
+	</machine>
+	<machine name="Blue Breaker Burst - Hohoemi o Anata to (Japan) (Shokai Genteiban)">
+		<category>Games</category>
+		<description>Blue Breaker Burst - Hohoemi o Anata to (Japan) (Shokai Genteiban)</description>
+		<disk name="Blue Breaker Burst - Hohoemi o Anata to (Japan) (Shokai Genteiban).chd" sha1="57a5b31097a2ea0d4491e18edf98943b680c3dae" />
 	</machine>
 	<machine name="Blue Marlin, The (Japan)">
 		<category>Games</category>
@@ -6013,10 +6013,10 @@
 		<description>Bust-A-Move 2 - Arcade Edition (Europe)</description>
 		<disk name="Bust-A-Move 2 - Arcade Edition (Europe).chd" sha1="9cb2a12a01a90c352894112ff041f4476eb311a4" />
 	</machine>
-	<machine name="Bust-A-Move 2 - Arcade Edition (Italy) (Reprint)">
+	<machine name="Bust-A-Move 2 - Arcade Edition (Italy) (2 Games)">
 		<category>Games</category>
-		<description>Bust-A-Move 2 - Arcade Edition (Italy) (Reprint)</description>
-		<disk name="Bust-A-Move 2 - Arcade Edition (Italy) (Reprint).chd" sha1="b1f463482865e7c0897db93ed098f0ad0a749e06" />
+		<description>Bust-A-Move 2 - Arcade Edition (Italy) (2 Games)</description>
+		<disk name="Bust-A-Move 2 - Arcade Edition (Italy) (2 Games).chd" sha1="b1f463482865e7c0897db93ed098f0ad0a749e06" />
 	</machine>
 	<machine name="Bust-A-Move 2 - Arcade Edition (USA)">
 		<category>Games</category>
@@ -6030,10 +6030,10 @@
 		<description>Bust-A-Move 3 DX (Europe)</description>
 		<disk name="Bust-A-Move 3 DX (Europe).chd" sha1="ba9c352a852880e89f098d5027dc9ed109a1ffb1" />
 	</machine>
-	<machine name="Bust-A-Move 3 DX (Italy) (Reprint)">
+	<machine name="Bust-A-Move 3 DX (Italy) (2 Games)">
 		<category>Games</category>
-		<description>Bust-A-Move 3 DX (Italy) (Reprint)</description>
-		<disk name="Bust-A-Move 3 DX (Italy) (Reprint).chd" sha1="a2462869a959c48ed9e2d2692eeb6b9efe4f93d4" />
+		<description>Bust-A-Move 3 DX (Italy) (2 Games)</description>
+		<disk name="Bust-A-Move 3 DX (Italy) (2 Games).chd" sha1="a2462869a959c48ed9e2d2692eeb6b9efe4f93d4" />
 	</machine>
 	<machine name="Bust-A-Move 4 (Europe)">
 		<category>Games</category>
@@ -8327,6 +8327,16 @@
 		<description>Complete Soccer Onside (Japan)</description>
 		<disk name="Complete Soccer Onside (Japan).chd" sha1="923a9331cda205597ff5c69594961be61b613904" />
 	</machine>
+	<machine name="Concert, Le - ff - Fortissimo (Japan)">
+		<category>Games</category>
+		<description>Concert, Le - ff - Fortissimo (Japan)</description>
+		<disk name="Concert, Le - ff - Fortissimo (Japan).chd" sha1="5065a5c3b062769d1e7024b6b69bb009f6ca9376" />
+	</machine>
+	<machine name="Concert, Le - pp - Pianissimo (Japan)">
+		<category>Games</category>
+		<description>Concert, Le - pp - Pianissimo (Japan)</description>
+		<disk name="Concert, Le - pp - Pianissimo (Japan).chd" sha1="866386089fe04cb404f29442227dff32808c4569" />
+	</machine>
 	<machine name="Constructor (Europe) (En,Fr,De,Es)">
 		<category>Games</category>
 		<description>Constructor (Europe) (En,Fr,De,Es)</description>
@@ -9460,10 +9470,10 @@
 		<description>D no Shokutaku - Complete Graphics (Japan) (Disc 3)</description>
 		<disk name="D no Shokutaku - Complete Graphics (Japan) (Disc 3).chd" sha1="bbc7ee34fdaa315e56a206414f6bc2712b7376b6" />
 	</machine>
-	<machine name="D-1 Grand Prix (Japan) (Demo)">
+	<machine name="D-1 Grand Prix (Japan) (Taikenban)">
 		<category>Demos</category>
-		<description>D-1 Grand Prix (Japan) (Demo)</description>
-		<disk name="D-1 Grand Prix (Japan) (Demo).chd" sha1="ff40412b7eded9701034b8df0eb8fe2be6202823" />
+		<description>D-1 Grand Prix (Japan) (Taikenban)</description>
+		<disk name="D-1 Grand Prix (Japan) (Taikenban).chd" sha1="ff40412b7eded9701034b8df0eb8fe2be6202823" />
 	</machine>
 	<machine name="Dai-2-ji Super Robot Taisen (Japan)">
 		<category>Games</category>
@@ -10903,12 +10913,12 @@
 		<description>Destruction Derby 2 (Japan)</description>
 		<disk name="Destruction Derby 2 (Japan).chd" sha1="13d88916f634ce46588da84f35c0fcd1d323d1ac" />
 	</machine>
-	<machine name="Destruction Derby 2 (USA)">
+	<machine name="Destruction Derby 2 (USA, Canada)">
 		<category>Games</category>
-		<description>Destruction Derby 2 (USA)</description>
+		<description>Destruction Derby 2 (USA, Canada)</description>
 		<year>1996</year>
 		<manufacturer>Sony Computer Entertainment America</manufacturer>
-		<disk name="Destruction Derby 2 (USA).chd" sha1="dd34233f6ecf6a588baf4d5762fddc1f5d9e6743" />
+		<disk name="Destruction Derby 2 (USA, Canada).chd" sha1="dd34233f6ecf6a588baf4d5762fddc1f5d9e6743" />
 	</machine>
 	<machine name="Destruction Derby Raw (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -12655,15 +12665,15 @@
 		<description>Dodgem Arena (Europe)</description>
 		<disk name="Dodgem Arena (Europe).chd" sha1="1244d8719d24aafaea13921e99e6c19f8f366bf5" />
 	</machine>
+	<machine name="DoDonPachi (Japan)">
+		<category>Games</category>
+		<description>DoDonPachi (Japan)</description>
+		<disk name="DoDonPachi (Japan).chd" sha1="ede5807641ee9d4a228e93e1f7b96411921f438e" />
+	</machine>
 	<machine name="DoDonPachi (Japan) (Demo)">
 		<category>Demos</category>
 		<description>DoDonPachi (Japan) (Demo)</description>
 		<disk name="DoDonPachi (Japan) (Demo).chd" sha1="7360e62de0b436d6a796aaa5b98ab1e33d57e2f6" />
-	</machine>
-	<machine name="DoDonPachi (Japan) (Rev 1)">
-		<category>Games</category>
-		<description>DoDonPachi (Japan) (Rev 1)</description>
-		<disk name="DoDonPachi (Japan) (Rev 1).chd" sha1="ede5807641ee9d4a228e93e1f7b96411921f438e" />
 	</machine>
 	<machine name="Dog Master, The (Japan)">
 		<category>Games</category>
@@ -14323,22 +14333,22 @@
 	<machine name="Eithea (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>Eithea (Japan) (Disc 1)</description>
-		<disk name="Eithea (Japan) (Disc 1).chd" sha1="2829dfb22792ddd904f4c1f1aadf57601f8e7b5c" />
+		<disk name="Eithea (Japan) (Disc 1).chd" sha1="dd060a5dd308b5705c5c3e3a02907c5c56c05032" />
 	</machine>
-	<machine name="Eithea (Japan) (Disc 1) (Rev 1)">
+	<machine name="Eithea (Japan) (Disc 1) (Deluxe Pack)">
 		<category>Games</category>
-		<description>Eithea (Japan) (Disc 1) (Rev 1)</description>
-		<disk name="Eithea (Japan) (Disc 1) (Rev 1).chd" sha1="dd060a5dd308b5705c5c3e3a02907c5c56c05032" />
+		<description>Eithea (Japan) (Disc 1) (Deluxe Pack)</description>
+		<disk name="Eithea (Japan) (Disc 1) (Deluxe Pack).chd" sha1="2829dfb22792ddd904f4c1f1aadf57601f8e7b5c" />
 	</machine>
 	<machine name="Eithea (Japan) (Disc 2)">
 		<category>Games</category>
 		<description>Eithea (Japan) (Disc 2)</description>
-		<disk name="Eithea (Japan) (Disc 2).chd" sha1="845e999410579dbe36b991c87e1c1a62c31cc67e" />
+		<disk name="Eithea (Japan) (Disc 2).chd" sha1="e6fe1a50cd6fd28f3c2c3726756cf390486cb116" />
 	</machine>
-	<machine name="Eithea (Japan) (Disc 2) (Rev 1)">
+	<machine name="Eithea (Japan) (Disc 2) (Deluxe Pack)">
 		<category>Games</category>
-		<description>Eithea (Japan) (Disc 2) (Rev 1)</description>
-		<disk name="Eithea (Japan) (Disc 2) (Rev 1).chd" sha1="e6fe1a50cd6fd28f3c2c3726756cf390486cb116" />
+		<description>Eithea (Japan) (Disc 2) (Deluxe Pack)</description>
+		<disk name="Eithea (Japan) (Disc 2) (Deluxe Pack).chd" sha1="845e999410579dbe36b991c87e1c1a62c31cc67e" />
 	</machine>
 	<machine name="e-Jump (Japan) (Disc 1)">
 		<category>Demos</category>
@@ -14354,11 +14364,6 @@
 		<category>Games</category>
 		<description>Eko Eko Azarak - Wizard of Darkness (Japan)</description>
 		<disk name="Eko Eko Azarak - Wizard of Darkness (Japan).chd" sha1="ae35c035883a3a613bda7e03637fa8160ab0f1f9" />
-	</machine>
-	<machine name="El Tetris Un Magico Desafio (Spain)">
-		<category>Games</category>
-		<description>El Tetris Un Magico Desafio (Spain)</description>
-		<disk name="El Tetris Un Magico Desafio (Spain).chd" sha1="3f556255ad153ea0361f75cf8555036d3e3ff612" />
 	</machine>
 	<machine name="Elan (Japan)">
 		<category>Games</category>
@@ -15410,20 +15415,20 @@
 		<description>Euro Demo 36 (France)</description>
 		<disk name="Euro Demo 36 (France).chd" sha1="7fb9f5f9c5efc2d6acbc103b0a549f8c7357f120" />
 	</machine>
-	<machine name="Euro Demo 37 (Europe)">
+	<machine name="Euro Demo 37 (Europe, Australia)">
 		<category>Coverdiscs</category>
-		<description>Euro Demo 37 (Europe)</description>
-		<disk name="Euro Demo 37 (Europe).chd" sha1="226a2fd320923e153d478dce7bc77e2117fd959d" />
+		<description>Euro Demo 37 (Europe, Australia)</description>
+		<disk name="Euro Demo 37 (Europe, Australia).chd" sha1="226a2fd320923e153d478dce7bc77e2117fd959d" />
 	</machine>
 	<machine name="Euro Demo 37 (France)">
 		<category>Demos</category>
 		<description>Euro Demo 37 (France)</description>
 		<disk name="Euro Demo 37 (France).chd" sha1="0eedf8dc69e398d3b20de8a19495b59848852df1" />
 	</machine>
-	<machine name="Euro Demo 38 (Europe)">
+	<machine name="Euro Demo 38 (Europe, Australia)">
 		<category>Coverdiscs</category>
-		<description>Euro Demo 38 (Europe)</description>
-		<disk name="Euro Demo 38 (Europe).chd" sha1="bfd8554ebdf8e9969a7a95d967d3139efe141301" />
+		<description>Euro Demo 38 (Europe, Australia)</description>
+		<disk name="Euro Demo 38 (Europe, Australia).chd" sha1="bfd8554ebdf8e9969a7a95d967d3139efe141301" />
 	</machine>
 	<machine name="Euro Demo 38 (France)">
 		<category>Demos</category>
@@ -16500,15 +16505,15 @@
 		<manufacturer>Eidos Interactive</manufacturer>
 		<disk name="F1 World Grand Prix (USA).chd" sha1="d8caa16b7e3e35c9b796a158e906c8d229759ff7" />
 	</machine>
-	<machine name="Fade to Black (Europe) (En,Fr,De,Es,It)">
+	<machine name="Fade to Black (Europe) (En,Fr,De,Es,It) (En,De)">
 		<category>Games</category>
-		<description>Fade to Black (Europe) (En,Fr,De,Es,It)</description>
-		<disk name="Fade to Black (Europe) (En,Fr,De,Es,It).chd" sha1="90a590cfbbcfadc66f74c347d3de385c6da00479" />
+		<description>Fade to Black (Europe) (En,Fr,De,Es,It) (En,De)</description>
+		<disk name="Fade to Black (Europe) (En,Fr,De,Es,It) (En,De).chd" sha1="90a590cfbbcfadc66f74c347d3de385c6da00479" />
 	</machine>
-	<machine name="Fade to Black (Europe) (En,Fr,De,Es,It) (SLES-00339)">
+	<machine name="Fade to Black (Europe) (En,Fr,De,Es,It) (En,Fr)">
 		<category>Games</category>
-		<description>Fade to Black (Europe) (En,Fr,De,Es,It) (SLES-00339)</description>
-		<disk name="Fade to Black (Europe) (En,Fr,De,Es,It) (SLES-00339).chd" sha1="cfa72d16eaec66457362dc28efb613eec7166f8d" />
+		<description>Fade to Black (Europe) (En,Fr,De,Es,It) (En,Fr)</description>
+		<disk name="Fade to Black (Europe) (En,Fr,De,Es,It) (En,Fr).chd" sha1="cfa72d16eaec66457362dc28efb613eec7166f8d" />
 	</machine>
 	<machine name="Fade to Black (Japan) (En,Ja)">
 		<category>Games</category>
@@ -21163,15 +21168,15 @@
 		<description>Guilty Gear (Japan)</description>
 		<disk name="Guilty Gear (Japan).chd" sha1="b37e88f75c79e0677578417c35642a5b78f510e0" />
 	</machine>
-	<machine name="Guilty Gear (Japan) (Demo)">
-		<category>Demos</category>
-		<description>Guilty Gear (Japan) (Demo)</description>
-		<disk name="Guilty Gear (Japan) (Demo).chd" sha1="b404d1712bff7940e932b986b995d40362e4e974" />
-	</machine>
 	<machine name="Guilty Gear (Japan) (Rev 1)">
 		<category>Games</category>
 		<description>Guilty Gear (Japan) (Rev 1)</description>
 		<disk name="Guilty Gear (Japan) (Rev 1).chd" sha1="82e927a7394153ac783b715df3eb7ab099a8aefd" />
+	</machine>
+	<machine name="Guilty Gear (Japan) (Taikenban)">
+		<category>Demos</category>
+		<description>Guilty Gear (Japan) (Taikenban)</description>
+		<disk name="Guilty Gear (Japan) (Taikenban).chd" sha1="b404d1712bff7940e932b986b995d40362e4e974" />
 	</machine>
 	<machine name="Guilty Gear (USA)">
 		<category>Games</category>
@@ -21210,10 +21215,10 @@
 		<description>Gunbare! Game Tengoku - The Game Paradise 2 (Japan) (Demo)</description>
 		<disk name="Gunbare! Game Tengoku - The Game Paradise 2 (Japan) (Demo).chd" sha1="0d0b63e027e539c9dad43135578289eb07f3a5bf" />
 	</machine>
-	<machine name="Gunbarl (Japan) (PlayStation the Best)">
+	<machine name="Gunbarl (Japan) (Rev 1)">
 		<category>Games</category>
-		<description>Gunbarl (Japan) (PlayStation the Best)</description>
-		<disk name="Gunbarl (Japan) (PlayStation the Best).chd" sha1="9a462947fc14548569dba23597e758f00a11f442" />
+		<description>Gunbarl (Japan) (Rev 1)</description>
+		<disk name="Gunbarl (Japan) (Rev 1).chd" sha1="9a462947fc14548569dba23597e758f00a11f442" />
 	</machine>
 	<machine name="Gunbarl (Japan, Asia)">
 		<category>Games</category>
@@ -21654,12 +21659,12 @@
 		<description>Harry Potter and the Chamber of Secrets (Scandinavia) (En,Sv,No)</description>
 		<disk name="Harry Potter and the Chamber of Secrets (Scandinavia) (En,Sv,No).chd" sha1="7d16f20d638cf177196885de9a5cd9f75746460a" />
 	</machine>
-	<machine name="Harry Potter and the Chamber of Secrets (USA) (En,Fr,Es)">
+	<machine name="Harry Potter and the Chamber of Secrets (USA, Canada) (En,Fr,Es)">
 		<category>Games</category>
-		<description>Harry Potter and the Chamber of Secrets (USA) (En,Fr,Es)</description>
+		<description>Harry Potter and the Chamber of Secrets (USA, Canada) (En,Fr,Es)</description>
 		<year>2002</year>
 		<manufacturer>Electronic Arts</manufacturer>
-		<disk name="Harry Potter and the Chamber of Secrets (USA) (En,Fr,Es).chd" sha1="fae3a878dac91a93e7b231d49288809b5b1654d0" />
+		<disk name="Harry Potter and the Chamber of Secrets (USA, Canada) (En,Fr,Es).chd" sha1="fae3a878dac91a93e7b231d49288809b5b1654d0" />
 	</machine>
 	<machine name="Harry Potter and the Philosopher's Stone (Canada) (En,Fr,De)">
 		<category>Games</category>
@@ -24903,11 +24908,6 @@
 		<description>Jumping Flash! (Europe)</description>
 		<disk name="Jumping Flash! (Europe).chd" sha1="5bfa1ae8d969493832c7e448df6b4df90154cf30" />
 	</machine>
-	<machine name="Jumping Flash! (Japan) (Demo)">
-		<category>Demos</category>
-		<description>Jumping Flash! (Japan) (Demo)</description>
-		<disk name="Jumping Flash! (Japan) (Demo).chd" sha1="7ea3e4f00c91e6d171e9284db27393e03e86c34e" />
-	</machine>
 	<machine name="Jumping Flash! (Japan) (Europe-ban)">
 		<category>Bonus Discs</category>
 		<description>Jumping Flash! (Japan) (Europe-ban)</description>
@@ -24941,6 +24941,11 @@
 		<category>Games</category>
 		<description>Jumping Flash! Aloha Danshaku Funky Daisakusen no Maki (Japan)</description>
 		<disk name="Jumping Flash! Aloha Danshaku Funky Daisakusen no Maki (Japan).chd" sha1="d161adb742a356f2c843c10bac262cd4754ddd48" />
+	</machine>
+	<machine name="Jumping Flash! Aloha Danshaku Funky Daisakusen no Maki (Japan) (Taikenban)">
+		<category>Demos</category>
+		<description>Jumping Flash! Aloha Danshaku Funky Daisakusen no Maki (Japan) (Taikenban)</description>
+		<disk name="Jumping Flash! Aloha Danshaku Funky Daisakusen no Maki (Japan) (Taikenban).chd" sha1="7ea3e4f00c91e6d171e9284db27393e03e86c34e" />
 	</machine>
 	<machine name="JumpStart Wildlife Safari - Field Trip (USA)">
 		<category>Games</category>
@@ -25233,10 +25238,10 @@
 		<description>Kamen Rider (Japan) (Demo)</description>
 		<disk name="Kamen Rider (Japan) (Demo).chd" sha1="65010a61811426bbd9aac6dadf8f9b467e828805" />
 	</machine>
-	<machine name="Kamen Rider Agito &amp; Hyakujuu Sentai GaoRanger (Japan) (Demo)">
+	<machine name="Kamen Rider Agito &amp; Hyakujuu Sentai GaoRanger (Japan) (2-dai Hero Special Disc Taikenban)">
 		<category>Demos</category>
-		<description>Kamen Rider Agito &amp; Hyakujuu Sentai GaoRanger (Japan) (Demo)</description>
-		<disk name="Kamen Rider Agito &amp; Hyakujuu Sentai GaoRanger (Japan) (Demo).chd" sha1="aa93d5fbafccf2a899c8c1228b99e19892b5cbdc" />
+		<description>Kamen Rider Agito &amp; Hyakujuu Sentai GaoRanger (Japan) (2-dai Hero Special Disc Taikenban)</description>
+		<disk name="Kamen Rider Agito &amp; Hyakujuu Sentai GaoRanger (Japan) (2-dai Hero Special Disc Taikenban).chd" sha1="aa93d5fbafccf2a899c8c1228b99e19892b5cbdc" />
 	</machine>
 	<machine name="Kamen Rider Agito (Japan)">
 		<category>Games</category>
@@ -25355,10 +25360,10 @@
 		<description>Katalog Spezial Demo (Germany)</description>
 		<disk name="Katalog Spezial Demo (Germany).chd" sha1="9ee33f2e677a2d78def14f45326c05052e2a35ee" />
 	</machine>
-	<machine name="Katou Hifumi Kudan - Shougi Club (Japan)">
+	<machine name="Katou Hifumi Kudan - Shougi Club (Japan) (Honkakuha de 1300)">
 		<category>Games</category>
-		<description>Katou Hifumi Kudan - Shougi Club (Japan)</description>
-		<disk name="Katou Hifumi Kudan - Shougi Club (Japan).chd" sha1="81ebce9e40062231a6aef36b7e6e51d4d103b4a3" />
+		<description>Katou Hifumi Kudan - Shougi Club (Japan) (Honkakuha de 1300)</description>
+		<disk name="Katou Hifumi Kudan - Shougi Club (Japan) (Honkakuha de 1300).chd" sha1="81ebce9e40062231a6aef36b7e6e51d4d103b4a3" />
 	</machine>
 	<machine name="Kattobi Tune (Japan)">
 		<category>Games</category>
@@ -26059,10 +26064,10 @@
 		<manufacturer>Crave Entertainment</manufacturer>
 		<disk name="Killer Loop (USA).chd" sha1="e04303266cd20f2891bb5ecc1083ad818b687f43" />
 	</machine>
-	<machine name="Killing Time (USA) (Beta) (1997-04-29)">
+	<machine name="Killing Time (USA) (Proto) (1997-04-29)">
 		<category>Preproduction</category>
-		<description>Killing Time (USA) (Beta) (1997-04-29)</description>
-		<disk name="Killing Time (USA) (Beta) (1997-04-29).chd" sha1="ae7380e8f4bf20b821904dcf562d43b96c4c1915" />
+		<description>Killing Time (USA) (Proto) (1997-04-29)</description>
+		<disk name="Killing Time (USA) (Proto) (1997-04-29).chd" sha1="ae7380e8f4bf20b821904dcf562d43b96c4c1915" />
 	</machine>
 	<machine name="Killing Zone (Europe)">
 		<category>Games</category>
@@ -27398,16 +27403,6 @@
 		<description>Lattice - 200EC7 (Japan)</description>
 		<disk name="Lattice - 200EC7 (Japan).chd" sha1="bfdca65e71dd667d86d8376d340cd3a8fa1dc221" />
 	</machine>
-	<machine name="Le Concert - ff - Fortissimo (Japan)">
-		<category>Games</category>
-		<description>Le Concert - ff - Fortissimo (Japan)</description>
-		<disk name="Le Concert - ff - Fortissimo (Japan).chd" sha1="5065a5c3b062769d1e7024b6b69bb009f6ca9376" />
-	</machine>
-	<machine name="Le Concert - pp - Pianissimo (Japan)">
-		<category>Games</category>
-		<description>Le Concert - pp - Pianissimo (Japan)</description>
-		<disk name="Le Concert - pp - Pianissimo (Japan).chd" sha1="866386089fe04cb404f29442227dff32808c4569" />
-	</machine>
 	<machine name="Le Mans 24 Hours (Europe) (En,Fr,De,Es,It,Pt)">
 		<category>Games</category>
 		<description>Le Mans 24 Hours (Europe) (En,Fr,De,Es,It,Pt)</description>
@@ -28597,11 +28592,6 @@
 		<category>Games</category>
 		<description>Lupin 3sei (Japan)</description>
 		<disk name="Lupin 3sei (Japan).chd" sha1="f989d2dfe2790d5f29b8b0d50e608a5efd6a13ae" />
-	</machine>
-	<machine name="Lupupu Cube - Lup Salad (Japan)">
-		<category>Games</category>
-		<description>Lupupu Cube - Lup Salad (Japan)</description>
-		<disk name="Lupupu Cube - Lup Salad (Japan).chd" sha1="b5517cf6f7bc1e0075dfd93d792ae8c83f856d59" />
 	</machine>
 	<machine name="Lussan Nathhorst Presenterar Riding Star (Sweden)">
 		<category>Games</category>
@@ -31383,10 +31373,10 @@
 		<description>Mobile Suit Gundam - Char's Counterattack (Japan)</description>
 		<disk name="Mobile Suit Gundam - Char's Counterattack (Japan).chd" sha1="a4e2f102aad941c94fb412cdb04cb1f1c8fea371" />
 	</machine>
-	<machine name="Mobile Suit Gundam - Char's Counterattack (Japan) (Tokubetsu-ban)">
+	<machine name="Mobile Suit Gundam - Char's Counterattack (Japan) (Tokubetsuban)">
 		<category>Games</category>
-		<description>Mobile Suit Gundam - Char's Counterattack (Japan) (Tokubetsu-ban)</description>
-		<disk name="Mobile Suit Gundam - Char's Counterattack (Japan) (Tokubetsu-ban).chd" sha1="e1a5dbd73b5dc14b47e9a5cefdff34a175e4a499" />
+		<description>Mobile Suit Gundam - Char's Counterattack (Japan) (Tokubetsuban)</description>
+		<disk name="Mobile Suit Gundam - Char's Counterattack (Japan) (Tokubetsuban).chd" sha1="e1a5dbd73b5dc14b47e9a5cefdff34a175e4a499" />
 	</machine>
 	<machine name="Mobile Suit Gundam - Perfect One Year War (Japan)">
 		<category>Games</category>
@@ -36234,10 +36224,10 @@
 		<description>Ore no Shikabane o Koete Yuke (Japan)</description>
 		<disk name="Ore no Shikabane o Koete Yuke (Japan).chd" sha1="bf6f01b47842f3ec804568490feb4133881ecc15" />
 	</machine>
-	<machine name="Ore no Shikabane o Koete Yuke (Japan) (Demo)">
+	<machine name="Ore no Shikabane o Koete Yuke (Japan) (Tentou-you Movie Disc)">
 		<category>Demos</category>
-		<description>Ore no Shikabane o Koete Yuke (Japan) (Demo)</description>
-		<disk name="Ore no Shikabane o Koete Yuke (Japan) (Demo).chd" sha1="5f95b58a3e0a2b4d0067f514053c023394a61669" />
+		<description>Ore no Shikabane o Koete Yuke (Japan) (Tentou-you Movie Disc)</description>
+		<disk name="Ore no Shikabane o Koete Yuke (Japan) (Tentou-you Movie Disc).chd" sha1="5f95b58a3e0a2b4d0067f514053c023394a61669" />
 	</machine>
 	<machine name="Ore no Yotto - Ganbare! Nippon Challenge (Japan) (En,Ja)">
 		<category>Games</category>
@@ -37048,10 +37038,10 @@
 		<manufacturer>Agetec</manufacturer>
 		<disk name="Panzer Front (USA).chd" sha1="add92411f64649eff3bf5feb0099ea9e1a1f321b" />
 	</machine>
-	<machine name="Panzer Front bis. (Europe) (En,Fr,De) (Beta) (2002-01-20)">
+	<machine name="Panzer Front bis. (Europe) (En,Fr,De) (Proto) (2002-01-20)">
 		<category>Preproduction</category>
-		<description>Panzer Front bis. (Europe) (En,Fr,De) (Beta) (2002-01-20)</description>
-		<disk name="Panzer Front bis. (Europe) (En,Fr,De) (Beta) (2002-01-20).chd" sha1="6e8e244d65931e68e8ceb3e2656fa8d3a58ac197" />
+		<description>Panzer Front bis. (Europe) (En,Fr,De) (Proto) (2002-01-20)</description>
+		<disk name="Panzer Front bis. (Europe) (En,Fr,De) (Proto) (2002-01-20).chd" sha1="6e8e244d65931e68e8ceb3e2656fa8d3a58ac197" />
 	</machine>
 	<machine name="Panzer Front bis. (Japan)">
 		<category>Games</category>
@@ -37252,10 +37242,10 @@
 		<description>Parlor Station (Japan)</description>
 		<disk name="Parlor Station (Japan).chd" sha1="26a5eb42acce635e85c70637885f12f3af3e8a64" />
 	</machine>
-	<machine name="Parlor Station (Japan) (Reprint)">
+	<machine name="Parlor Station (Japan) (Rerelease)">
 		<category>Games</category>
-		<description>Parlor Station (Japan) (Reprint)</description>
-		<disk name="Parlor Station (Japan) (Reprint).chd" sha1="7ade8dd7571579f552194974e37b3535d133b656" />
+		<description>Parlor Station (Japan) (Rerelease)</description>
+		<disk name="Parlor Station (Japan) (Rerelease).chd" sha1="7ade8dd7571579f552194974e37b3535d133b656" />
 	</machine>
 	<machine name="Parlor! Pro (Japan)">
 		<category>Games</category>
@@ -37993,10 +37983,10 @@
 		<description>Play de Oboeru Eitango Deruderu 1700 - Center Shiken Level Taiou (Japan) (Shotenban)</description>
 		<disk name="Play de Oboeru Eitango Deruderu 1700 - Center Shiken Level Taiou (Japan) (Shotenban).chd" sha1="42263443ace268fae208c18dfc44bf80a75ffaac" />
 	</machine>
-	<machine name="Play de Oboeru Series - Nihonshi Keyword Deruderu 1800 (Japan) (Rerelease)">
+	<machine name="Play de Oboeru Series - Nihonshi Keyword Deruderu 1800 (Japan)">
 		<category>Educational</category>
-		<description>Play de Oboeru Series - Nihonshi Keyword Deruderu 1800 (Japan) (Rerelease)</description>
-		<disk name="Play de Oboeru Series - Nihonshi Keyword Deruderu 1800 (Japan) (Rerelease).chd" sha1="f328dbae95df2a3217b69dd79ec189102ef0f9f7" />
+		<description>Play de Oboeru Series - Nihonshi Keyword Deruderu 1800 (Japan)</description>
+		<disk name="Play de Oboeru Series - Nihonshi Keyword Deruderu 1800 (Japan).chd" sha1="f328dbae95df2a3217b69dd79ec189102ef0f9f7" />
 	</machine>
 	<machine name="Play de Oboeru Series - Nihonshi Keyword Deruderu 1800 (Japan) (Shotenban)">
 		<category>Educational</category>
@@ -39435,6 +39425,11 @@
 		<description>Pour l'Or et la Gloire - La Route d'Eldorado (France)</description>
 		<disk name="Pour l'Or et la Gloire - La Route d'Eldorado (France).chd" sha1="15a787aace41205405d9170f00d05efc0b76da98" />
 	</machine>
+	<machine name="Power Cheats (Germany) (Unl)">
+		<category>Coverdiscs</category>
+		<description>Power Cheats (Germany) (Unl)</description>
+		<disk name="Power Cheats (Germany) (Unl).chd" sha1="3ac581eb3d75816ccaa8d70d8ff8e3ef1457c4d3" />
+	</machine>
 	<machine name="Power Cheats (UK) (Unl)">
 		<category>Applications</category>
 		<description>Power Cheats (UK) (Unl)</description>
@@ -40032,11 +40027,6 @@
 		<category>Applications</category>
 		<description>PSi2 Disc Zwei (Germany) (Unl)</description>
 		<disk name="PSi2 Disc Zwei (Germany) (Unl).chd" sha1="d1b418856f0af9db6a7e537641cd90f8f09c8d5d" />
-	</machine>
-	<machine name="PSi-2 Magazine 8-2001 Power Cheats (Germany) (Unl)">
-		<category>Coverdiscs</category>
-		<description>PSi-2 Magazine 8-2001 Power Cheats (Germany) (Unl)</description>
-		<disk name="PSi-2 Magazine 8-2001 Power Cheats (Germany) (Unl).chd" sha1="3ac581eb3d75816ccaa8d70d8ff8e3ef1457c4d3" />
 	</machine>
 	<machine name="PSone - Wherever, Whenever, Forever. (USA)">
 		<category>Demos</category>
@@ -42900,6 +42890,11 @@
 		<manufacturer>989 Studios</manufacturer>
 		<disk name="Running Wild (USA) (Demo).chd" sha1="479664cf0a84c54d1780338b8f7a75fcd88aedd8" />
 	</machine>
+	<machine name="Rupupu Cube - Lup Salad (Japan)">
+		<category>Games</category>
+		<description>Rupupu Cube - Lup Salad (Japan)</description>
+		<disk name="Rupupu Cube - Lup Salad (Japan).chd" sha1="b5517cf6f7bc1e0075dfd93d792ae8c83f856d59" />
+	</machine>
 	<machine name="Rurouni Kenshin - Meiji Kenkaku Romantan - Ishin Gekitou-hen (Japan)">
 		<category>Games</category>
 		<description>Rurouni Kenshin - Meiji Kenkaku Romantan - Ishin Gekitou-hen (Japan)</description>
@@ -43206,10 +43201,10 @@
 		<description>Samurai Deeper Kyo (Japan)</description>
 		<disk name="Samurai Deeper Kyo (Japan).chd" sha1="8ad1a047f98b029a06d404d4808523d4177a63f7" />
 	</machine>
-	<machine name="Samurai Deeper Kyou (Japan) (Shokai Seisan Gentei Shiyou)">
+	<machine name="Samurai Deeper Kyo (Japan) (Shokai Seisan Gentei Shiyou)">
 		<category>Games</category>
-		<description>Samurai Deeper Kyou (Japan) (Shokai Seisan Gentei Shiyou)</description>
-		<disk name="Samurai Deeper Kyou (Japan) (Shokai Seisan Gentei Shiyou).chd" sha1="ece780963ef073f2ee0a38fa70f67b02985607c4" />
+		<description>Samurai Deeper Kyo (Japan) (Shokai Seisan Gentei Shiyou)</description>
+		<disk name="Samurai Deeper Kyo (Japan) (Shokai Seisan Gentei Shiyou).chd" sha1="ece780963ef073f2ee0a38fa70f67b02985607c4" />
 	</machine>
 	<machine name="Samurai Shodown - Warriors Rage (USA)">
 		<category>Games</category>
@@ -43586,30 +43581,30 @@
 		<description>SD Gundam - GGeneration-F (Japan) (Disc 1)</description>
 		<disk name="SD Gundam - GGeneration-F (Japan) (Disc 1).chd" sha1="114db2fa9d2e95f27f67d08c3bf867d62138e875" />
 	</machine>
-	<machine name="SD Gundam - GGeneration-F (Japan) (Disc 1) (Tokubetsu-ban)">
+	<machine name="SD Gundam - GGeneration-F (Japan) (Disc 1) (Tokubetsuban)">
 		<category>Games</category>
-		<description>SD Gundam - GGeneration-F (Japan) (Disc 1) (Tokubetsu-ban)</description>
-		<disk name="SD Gundam - GGeneration-F (Japan) (Disc 1) (Tokubetsu-ban).chd" sha1="9933ba0511ce9dbd018471689120f36e1614e023" />
+		<description>SD Gundam - GGeneration-F (Japan) (Disc 1) (Tokubetsuban)</description>
+		<disk name="SD Gundam - GGeneration-F (Japan) (Disc 1) (Tokubetsuban).chd" sha1="9933ba0511ce9dbd018471689120f36e1614e023" />
 	</machine>
 	<machine name="SD Gundam - GGeneration-F (Japan) (Disc 2)">
 		<category>Games</category>
 		<description>SD Gundam - GGeneration-F (Japan) (Disc 2)</description>
 		<disk name="SD Gundam - GGeneration-F (Japan) (Disc 2).chd" sha1="1392b32b8af7b9476c3c27f3cac480b1bb439fc2" />
 	</machine>
-	<machine name="SD Gundam - GGeneration-F (Japan) (Disc 2) (Tokubetsu-ban)">
+	<machine name="SD Gundam - GGeneration-F (Japan) (Disc 2) (Tokubetsuban)">
 		<category>Games</category>
-		<description>SD Gundam - GGeneration-F (Japan) (Disc 2) (Tokubetsu-ban)</description>
-		<disk name="SD Gundam - GGeneration-F (Japan) (Disc 2) (Tokubetsu-ban).chd" sha1="add086962aa31ab28d391ce6eae7bbdbb8efdbb4" />
+		<description>SD Gundam - GGeneration-F (Japan) (Disc 2) (Tokubetsuban)</description>
+		<disk name="SD Gundam - GGeneration-F (Japan) (Disc 2) (Tokubetsuban).chd" sha1="add086962aa31ab28d391ce6eae7bbdbb8efdbb4" />
 	</machine>
 	<machine name="SD Gundam - GGeneration-F (Japan) (Disc 3)">
 		<category>Games</category>
 		<description>SD Gundam - GGeneration-F (Japan) (Disc 3)</description>
 		<disk name="SD Gundam - GGeneration-F (Japan) (Disc 3).chd" sha1="b70e290a5532e66b32dc4286cd48b4c25edf163c" />
 	</machine>
-	<machine name="SD Gundam - GGeneration-F (Japan) (Disc 3) (Tokubetsu-ban)">
+	<machine name="SD Gundam - GGeneration-F (Japan) (Disc 3) (Tokubetsuban)">
 		<category>Games</category>
-		<description>SD Gundam - GGeneration-F (Japan) (Disc 3) (Tokubetsu-ban)</description>
-		<disk name="SD Gundam - GGeneration-F (Japan) (Disc 3) (Tokubetsu-ban).chd" sha1="a5dcb644507432e02e841e38a728744a45177359" />
+		<description>SD Gundam - GGeneration-F (Japan) (Disc 3) (Tokubetsuban)</description>
+		<disk name="SD Gundam - GGeneration-F (Japan) (Disc 3) (Tokubetsuban).chd" sha1="a5dcb644507432e02e841e38a728744a45177359" />
 	</machine>
 	<machine name="SD Gundam - GGeneration-F (Japan) (Disc 4) (Premium Disc)">
 		<category>Bonus Discs</category>
@@ -43621,10 +43616,10 @@
 		<description>SD Gundam - GGeneration-F (Japan) (Disc 4) (Premium Disc) (Limited Edition)</description>
 		<disk name="SD Gundam - GGeneration-F (Japan) (Disc 4) (Premium Disc) (Limited Edition).chd" sha1="8e0d955581e637f09bd6a9e65aaef6d8bc557a79" />
 	</machine>
-	<machine name="SD Gundam - GGeneration-F (Japan) (Disc 4) (Premium Disc) (Tokubetsu-ban)">
+	<machine name="SD Gundam - GGeneration-F (Japan) (Disc 4) (Premium Disc) (Tokubetsuban)">
 		<category>Bonus Discs</category>
-		<description>SD Gundam - GGeneration-F (Japan) (Disc 4) (Premium Disc) (Tokubetsu-ban)</description>
-		<disk name="SD Gundam - GGeneration-F (Japan) (Disc 4) (Premium Disc) (Tokubetsu-ban).chd" sha1="5bd06f166c106af44aa2ffd069398a6df5d729b0" />
+		<description>SD Gundam - GGeneration-F (Japan) (Disc 4) (Premium Disc) (Tokubetsuban)</description>
+		<disk name="SD Gundam - GGeneration-F (Japan) (Disc 4) (Premium Disc) (Tokubetsuban).chd" sha1="5bd06f166c106af44aa2ffd069398a6df5d729b0" />
 	</machine>
 	<machine name="SD Gundam - GGeneration-F.I.F (Japan)">
 		<category>Add-Ons</category>
@@ -48905,7 +48900,7 @@
 	<machine name="Super Puzzle Fighter II Turbo (Europe)">
 		<category>Games</category>
 		<description>Super Puzzle Fighter II Turbo (Europe)</description>
-		<disk name="Super Puzzle Fighter II Turbo (Europe).chd" sha1="5c549cc08198286f4c43500a279c5abeabcd9ab8" />
+		<disk name="Super Puzzle Fighter II Turbo (Europe).chd" sha1="daa97c24cfab1fa915ec87fd41c479f6bcb08a6c" />
 	</machine>
 	<machine name="Super Puzzle Fighter II Turbo (USA)">
 		<category>Games</category>
@@ -50588,10 +50583,10 @@
 		<description>TechnoMage - Die Rueckkehr der Ewigkeit (Germany)</description>
 		<disk name="TechnoMage - Die Rueckkehr der Ewigkeit (Germany).chd" sha1="28464bf227d75597a190f7a19db49f6efb164e30" />
 	</machine>
-	<machine name="Technomage - El Retorno de la Eternidad (Spain)">
+	<machine name="TechnoMage - El Retorno de la Eternidad (Spain)">
 		<category>Games</category>
-		<description>Technomage - El Retorno de la Eternidad (Spain)</description>
-		<disk name="Technomage - El Retorno de la Eternidad (Spain).chd" sha1="ec8de298b3308891ac3705ab010b721c686661e3" />
+		<description>TechnoMage - El Retorno de la Eternidad (Spain)</description>
+		<disk name="TechnoMage - El Retorno de la Eternidad (Spain).chd" sha1="ec8de298b3308891ac3705ab010b721c686661e3" />
 	</machine>
 	<machine name="TechnoMage - En Quete de L'Eternite (France)">
 		<category>Games</category>
@@ -50712,10 +50707,10 @@
 		<manufacturer>Namco Hometek</manufacturer>
 		<disk name="Tekken 2 (USA) (Rev 1).chd" sha1="2d3c614e5278f9189b6fdc803fe1b942ec97c442" />
 	</machine>
-	<machine name="Tekken 2 + Fade to Black + F1 + V-CD (Germany)">
+	<machine name="Tekken 2 + Fade to Black + F1 + V-CD (Europe, Australia)">
 		<category>Demos</category>
-		<description>Tekken 2 + Fade to Black + F1 + V-CD (Germany)</description>
-		<disk name="Tekken 2 + Fade to Black + F1 + V-CD (Germany).chd" sha1="5ec650c52428f1cb13a974e544017d4e3c0eafb2" />
+		<description>Tekken 2 + Fade to Black + F1 + V-CD (Europe, Australia)</description>
+		<disk name="Tekken 2 + Fade to Black + F1 + V-CD (Europe, Australia).chd" sha1="5ec650c52428f1cb13a974e544017d4e3c0eafb2" />
 	</machine>
 	<machine name="Tekken 2 + Fade to Black + V-CD (France)">
 		<category>Demos</category>
@@ -51104,6 +51099,11 @@
 		<year>1996</year>
 		<manufacturer>Jaleco USA</manufacturer>
 		<disk name="Tetris Plus (USA).chd" sha1="26f26fc78fb2c507c9a72fdcdc2ed1910dcbc039" />
+	</machine>
+	<machine name="Tetris Un Magico Desafio, El (Spain)">
+		<category>Games</category>
+		<description>Tetris Un Magico Desafio, El (Spain)</description>
+		<disk name="Tetris Un Magico Desafio, El (Spain).chd" sha1="3f556255ad153ea0361f75cf8555036d3e3ff612" />
 	</machine>
 	<machine name="Tetris with Cardcaptor Sakura - Eternal Heart (Japan)">
 		<category>Games</category>
@@ -52841,16 +52841,6 @@
 		<description>Tommi Maekinen Rally (Italy)</description>
 		<disk name="Tommi Maekinen Rally (Italy).chd" sha1="7b6d43505ad1b24ae4516962a3fe20b73da9a573" />
 	</machine>
-	<machine name="Tomoyasu Hotei - Stolen Song (Japan) (Demo 1)">
-		<category>Demos</category>
-		<description>Tomoyasu Hotei - Stolen Song (Japan) (Demo 1)</description>
-		<disk name="Tomoyasu Hotei - Stolen Song (Japan) (Demo 1).chd" sha1="33bea3972efac8527f05bed055f874f3d1555203" />
-	</machine>
-	<machine name="Tomoyasu Hotei - Stolen Song (Japan) (Demo 2)">
-		<category>Demos</category>
-		<description>Tomoyasu Hotei - Stolen Song (Japan) (Demo 2)</description>
-		<disk name="Tomoyasu Hotei - Stolen Song (Japan) (Demo 2).chd" sha1="7d98ae60ef8cf1c58f97afceee4645a8c60e4040" />
-	</machine>
 	<machine name="Tomoyasu Hotei - Stolen Song (Japan) (Disc 1)">
 		<category>Games</category>
 		<description>Tomoyasu Hotei - Stolen Song (Japan) (Disc 1)</description>
@@ -52870,6 +52860,16 @@
 		<category>Games</category>
 		<description>Tomoyasu Hotei - Stolen Song (Japan) (Disc 2) (VPick Included)</description>
 		<disk name="Tomoyasu Hotei - Stolen Song (Japan) (Disc 2) (VPick Included).chd" sha1="10d4a5131e730d52c7ed499266a44d4ddf84e31f" />
+	</machine>
+	<machine name="Tomoyasu Hotei - Stolen Song (Japan) (Taikenban 1)">
+		<category>Demos</category>
+		<description>Tomoyasu Hotei - Stolen Song (Japan) (Taikenban 1)</description>
+		<disk name="Tomoyasu Hotei - Stolen Song (Japan) (Taikenban 1).chd" sha1="33bea3972efac8527f05bed055f874f3d1555203" />
+	</machine>
+	<machine name="Tomoyasu Hotei - Stolen Song (Japan) (Taikenban 2)">
+		<category>Demos</category>
+		<description>Tomoyasu Hotei - Stolen Song (Japan) (Taikenban 2)</description>
+		<disk name="Tomoyasu Hotei - Stolen Song (Japan) (Taikenban 2).chd" sha1="7d98ae60ef8cf1c58f97afceee4645a8c60e4040" />
 	</machine>
 	<machine name="Tonde! Tonde! Diet - Stepper Action Game (Japan)">
 		<category>Games</category>
@@ -54703,10 +54703,10 @@
 		<description>Victory Zone 2 (Japan)</description>
 		<disk name="Victory Zone 2 (Japan).chd" sha1="63487ca242fcf6c326a83274bf7abbbe3120d5a4" />
 	</machine>
-	<machine name="Video IDU Demo 06E (Europe) (Demo)">
+	<machine name="Video IDU Demo 06E (Europe)">
 		<category>Demos</category>
-		<description>Video IDU Demo 06E (Europe) (Demo)</description>
-		<disk name="Video IDU Demo 06E (Europe) (Demo).chd" sha1="8c9ddc35c9ae434f7e2f3bbb3098bb31152ee78d" />
+		<description>Video IDU Demo 06E (Europe)</description>
+		<disk name="Video IDU Demo 06E (Europe).chd" sha1="8c9ddc35c9ae434f7e2f3bbb3098bb31152ee78d" />
 	</machine>
 	<machine name="Video IDU Test v1.1 (Europe)">
 		<category>Demos</category>
@@ -54813,10 +54813,10 @@
 		<description>Vindicator Cheat System (Europe) (Unl)</description>
 		<disk name="Vindicator Cheat System (Europe) (Unl).chd" sha1="32efbfc24b1a973ac6775bd3e8ef539b3e7a470c" />
 	</machine>
-	<machine name="VIP Demo (Europe)">
+	<machine name="VIP Demo (Europe, Australia)">
 		<category>Demos</category>
-		<description>VIP Demo (Europe)</description>
-		<disk name="VIP Demo (Europe).chd" sha1="46c5f7063bf4ca44114842038afc48f8e347e24b" />
+		<description>VIP Demo (Europe, Australia)</description>
+		<disk name="VIP Demo (Europe, Australia).chd" sha1="46c5f7063bf4ca44114842038afc48f8e347e24b" />
 	</machine>
 	<machine name="VIP Demo (Germany)">
 		<category>Demos</category>
