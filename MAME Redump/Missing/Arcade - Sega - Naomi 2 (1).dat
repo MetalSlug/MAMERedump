@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Arcade - Sega - Naomi 2</name>
+		<description>MAME Redump - Arcade - Sega - Naomi 2 - Discs (13) (2025-09-28 21-28-00)</description>
+		<version>0.281</version>
+		<date>2026-01-11</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Virtua Fighter 4 (Japan) (Rev C)" type="">
+		<category>Games</category>
+		<description>Virtua Fighter 4 (Japan) (Rev C)</description>
+		<rom name="Virtua Fighter 4 (Japan) (Rev C).cue" size="390" crc="F690FA9F" md5="6FF2768510EB55AF4952DBAD5C833773" sha1="155E5682BE8342269FA83EBC8A8B3C5B2E1B1A92" />
+		<rom name="Virtua Fighter 4 (Japan) (Rev C) (Track 1).bin" size="705600" crc="D8750368" md5="C4A4AE729A192530AB77F250F094CF1E" sha1="96FBFDA4AFA65D5F736E90F9C1D843BEDC6CE507" />
+		<rom name="Virtua Fighter 4 (Japan) (Rev C) (Track 2).bin" size="5402544" crc="06F772C0" md5="7A9FE426C4050C8ED38254FA5630510C" sha1="496A35C83435F4558CED39CC66742DF3EF14422B" />
+		<rom name="Virtua Fighter 4 (Japan) (Rev C) (Track 3).bin" size="1185760800" crc="9DA675CD" md5="83EC1EAF9C858D9DA11C62511B525633" sha1="0097FB60750E61896F7B326EEDEFFEF4C1086CA1" />
+	</game>
+</datafile>
