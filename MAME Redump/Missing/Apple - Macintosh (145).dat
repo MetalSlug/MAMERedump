@@ -5,7 +5,7 @@
 		<name>Apple - Macintosh</name>
 		<description>MAME Redump - Apple - Macintosh - Discs (1324) (2025-12-30 21-33-31)</description>
 		<version>0.281</version>
-		<date>2026-01-11</date>
+		<date>2026-01-12</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -87,12 +87,6 @@
 		<rom name="3DO Content Library, The (USA) (Disc 99) (Music &amp; Sound Effects).cue" size="153" crc="8FC7953E" md5="3C9E4B633D8C8BC8EBA68838963AB799" sha1="1CBBBE997FB5C1BD413508881EE76F936762E603" />
 		<rom name="3DO Content Library, The (USA) (Disc 99) (Music &amp; Sound Effects).bin" size="769155744" crc="4CDB5ACE" md5="DBD9674DF85A577D4F24759C9B1AEBE0" sha1="B4A3C2D3F6F1983117E3455CEEDAFE61EBAF31BA" />
 	</game>
-	<game name="A-10 Attack! (USA)" type="">
-		<category>Games</category>
-		<description>A-10 Attack! (USA)</description>
-		<rom name="A-10 Attack! (USA).cue" size="107" crc="7E1FD1D8" md5="AC4FDFC8FF285F6EA3C189EE69BE20FF" sha1="FAFF2DD10DD60069634A23841DEB6CF2077B2467" />
-		<rom name="A-10 Attack! (USA).bin" size="172547424" crc="4E0FD60A" md5="E1AB88482BF7A305598AFCC3C397FB6D" sha1="F3836622D7F54CD70130B9E57D98EA6793D2F318" />
-	</game>
 	<game name="Afterlife (France)" type="">
 		<category>Games</category>
 		<description>Afterlife (France)</description>
@@ -171,30 +165,6 @@
 		<rom name="Arcade Battles (USA).cue" size="109" crc="1D447528" md5="287289AD0D487C1A7031DA1475BA49BB" sha1="4DEB84D1A53FBA20A6CA851F370E20DE5B073829" />
 		<rom name="Arcade Battles (USA).bin" size="52426080" crc="A007516D" md5="A29BA6A8F9D45C1C2EEAAE511CC3DD59" sha1="67148FBA831B8D6A9D88368C309661D14B781BBA" />
 	</game>
-	<game name="Atlantis - Det foersvunna riket (Sweden) (Disc 1)" type="">
-		<category>Games</category>
-		<description>Atlantis - Det foersvunna riket (Sweden) (Disc 1)</description>
-		<rom name="Atlantis - Det foersvunna riket (Sweden) (Disc 1).cue" size="138" crc="8A845D83" md5="3938B420DD71A6E387DA7E5BE2284E6B" sha1="231C6F5399DDB115D8020BAF78818F1552B51F95" />
-		<rom name="Atlantis - Det foersvunna riket (Sweden) (Disc 1).bin" size="783143088" crc="6D458977" md5="238B962A0BC8CFC70125B5AB35A36807" sha1="5BA7A8DF4CF1022552CFB1BDA2B94A2745F668AC" />
-	</game>
-	<game name="Atlantis - Det foersvunna riket (Sweden) (Disc 2)" type="">
-		<category>Games</category>
-		<description>Atlantis - Det foersvunna riket (Sweden) (Disc 2)</description>
-		<rom name="Atlantis - Det foersvunna riket (Sweden) (Disc 2).cue" size="115" crc="8544E0F7" md5="A178861983D9BC3EC7D2CAC5A7EA9C76" sha1="F7CDC8DF437DC0AB8EF0BCB8688ED8A0C9ED19ED" />
-		<rom name="Atlantis - Det foersvunna riket (Sweden) (Disc 2).bin" size="783143088" crc="B6E7BCC9" md5="C6BC9671333B96FC6915945F936FE7C2" sha1="FE315FD65ED8AD90BF43FFC0D9C27EBD34517BBE" />
-	</game>
-	<game name="Atlantis - Det foersvunna riket (Sweden) (Disc 3)" type="">
-		<category>Games</category>
-		<description>Atlantis - Det foersvunna riket (Sweden) (Disc 3)</description>
-		<rom name="Atlantis - Det foersvunna riket (Sweden) (Disc 3).cue" size="115" crc="335F0087" md5="445FF3F054EC687842D535017C2A6834" sha1="80157E35C88F5DB8EECEE55EA61626EF2669E3FC" />
-		<rom name="Atlantis - Det foersvunna riket (Sweden) (Disc 3).bin" size="783143088" crc="EB7D09C1" md5="BB4A3AFA7D532C42A8666351A6908C5A" sha1="837A692CA93F8E2A1AAF82573869EA8225372CC9" />
-	</game>
-	<game name="Atlantis - Det foersvunna riket (Sweden) (Disc 4)" type="">
-		<category>Games</category>
-		<description>Atlantis - Det foersvunna riket (Sweden) (Disc 4)</description>
-		<rom name="Atlantis - Det foersvunna riket (Sweden) (Disc 4).cue" size="115" crc="87FEAD55" md5="6CCF322BBBBEFDD8BAFF29292CB2749A" sha1="2854C75221D5E2843B37F745E73EDACBA83A204B" />
-		<rom name="Atlantis - Det foersvunna riket (Sweden) (Disc 4).bin" size="482082384" crc="B103F582" md5="0444D9FA199EDAB283BB3E33E8EAE995" sha1="8C2C95E08D5B91F5D2DAAF63CA7A7AF0F26355F0" />
-	</game>
 	<game name="Belzerion (Japan) (Alt)" type="">
 		<category>Games</category>
 		<description>Belzerion (Japan) (Alt)</description>
@@ -218,12 +188,6 @@
 		<description>BrainDead 13 (USA)</description>
 		<rom name="BrainDead 13 (USA).cue" size="107" crc="7F17F90C" md5="D644210647F4DEA0EA48C2AD87D075C9" sha1="1D75DB736B41B4F6CD0CCD4EF2C895EEDCAE5CB2" />
 		<rom name="BrainDead 13 (USA).bin" size="783891024" crc="6140CDA5" md5="EBE610BD542958D3FE2A2C7613A4E567" sha1="6D67E365659E1EB2D2A9B9B55D63A0E00B28B52D" />
-	</game>
-	<game name="CD4 - A CD to Explore (USA)" type="">
-		<category>Multimedia</category>
-		<description>CD4 - A CD to Explore (USA)</description>
-		<rom name="CD4 - A CD to Explore (USA).cue" size="116" crc="67448402" md5="BD0CCB5A1D833E1D974F18496AAF5BD8" sha1="F9D9336A1FBB60490FEB6357EF1A639C676CFFCF" />
-		<rom name="CD4 - A CD to Explore (USA).bin" size="622056960" crc="D00F28CF" md5="5491B18E7BD3AF0A22E50A11F936C7F3" sha1="0B50700B558AB85888AD53C49F6F6396DE6009CF" />
 	</game>
 	<game name="CD-ROM MacLife No. 1 (Japan)" type="">
 		<category>Coverdiscs</category>
@@ -352,44 +316,6 @@
 		<rom name="CD-ROM MacLife No. 6 (Japan) (Track 1).bin" size="647192784" crc="84E3016C" md5="47485B99E36BA1F940CD95FE163F82CD" sha1="61582F7C7C12549A3BEB407FE2F653F4B2B67CD5" />
 		<rom name="CD-ROM MacLife No. 6 (Japan) (Track 2).bin" size="45861648" crc="AD813C0F" md5="21E2707F4CE892F396BAE05BB85A549B" sha1="3F7AEC9CCC568E65205DA60BE25B65FB7E387D0E" />
 	</game>
-	<game name="Championship Manager 3 - Adverts (Europe)" type="">
-		<category>Multimedia</category>
-		<description>Championship Manager 3 - Adverts (Europe)</description>
-		<rom name="Championship Manager 3 - Adverts (Europe).cue" size="107" crc="997583EE" md5="E8B9B24EAC0E3A103D7C7642F50FCD3E" sha1="CB341E0557CB3CEABB2CB920FECCB38E7C65482A" />
-		<rom name="Championship Manager 3 - Adverts (Europe).bin" size="712385520" crc="575C07D0" md5="7FC61EDDA38AF4E7C18CD10AEC368D1B" sha1="7B35B6165EDAC57AB86838CFA5E394ADBEE91B12" />
-	</game>
-	<game name="Checkers Deluxe (USA)" type="">
-		<category>Games</category>
-		<description>Checkers Deluxe (USA)</description>
-		<rom name="Checkers Deluxe (USA).cue" size="110" crc="0245C33E" md5="DA596C10BDC11E805AA0B80A6BF21B38" sha1="9AA2C11063374AA157DBDFBD0E40B35DB5A3F8C1" />
-		<rom name="Checkers Deluxe (USA).bin" size="8561280" crc="CE093EF0" md5="FBB0EB3ED2C72B27714B05A88ECFB47E" sha1="ADEAF61B2570D04FD03302705A81E09CF88C7895" />
-	</game>
-	<game name="Cosmic Osmo (USA)" type="">
-		<category>Games</category>
-		<description>Cosmic Osmo (USA)</description>
-		<rom name="Cosmic Osmo (USA).cue" size="1897" crc="20F58850" md5="836A685F94BBCCFBECC5FE8980A1807D" sha1="F1E3A814631562D3A67A00406C9EB64C114D239C" />
-		<rom name="Cosmic Osmo (USA) (Track 01).bin" size="179575200" crc="38BE1962" md5="A14C2E78CEAA094D15EE20DF80C2B441" sha1="459A66511DFC9D7C3D369E6A7CE1CA3FABC13173" />
-		<rom name="Cosmic Osmo (USA) (Track 02).bin" size="12049296" crc="95ABE8DE" md5="C5B3AE4E24ADA3DA7DBFA9F21928CEBB" sha1="C5E450ABDAC910C6468F4C9D21690D08CA50295E" />
-		<rom name="Cosmic Osmo (USA) (Track 03).bin" size="13500480" crc="3CA5331D" md5="9E5BF078C1337A8473E55DA010EF74F8" sha1="1C7D9AF2ABCBF5AE8223D66942B5482EA2D6BB87" />
-		<rom name="Cosmic Osmo (USA) (Track 04).bin" size="14194320" crc="8ED002E6" md5="A944AB06FECDBAEACF853901822A655D" sha1="B9D40BF626518251610E865182C55DB1BAE45F22" />
-		<rom name="Cosmic Osmo (USA) (Track 05).bin" size="13912080" crc="5C8BAAAB" md5="8ED18A26B342893B3D58732725427C82" sha1="2B63E36EEC6429FAA4F2584551AA163AE856A512" />
-		<rom name="Cosmic Osmo (USA) (Track 06).bin" size="12877200" crc="806ABA3A" md5="70970A6FBD56B1061A74C8C36C3D0637" sha1="1D86F587E918AC58DAF6755B3268274000ADB96E" />
-		<rom name="Cosmic Osmo (USA) (Track 07).bin" size="22602720" crc="78AE0E23" md5="3B07D7B330A7E1A143C6268380101D5E" sha1="8EDF077E5B5DA37C6FE0FBA2BB906C3343FFEFA9" />
-		<rom name="Cosmic Osmo (USA) (Track 08).bin" size="16122960" crc="551A1468" md5="896FC0099733EB57C03B1484E273F5F6" sha1="5D34BCF52DD72E7C5F9C74BA0FE90FD0CA20A4AC" />
-		<rom name="Cosmic Osmo (USA) (Track 09).bin" size="24190320" crc="9AF7203C" md5="C091FDDDEAECB41BE015428E53B9288E" sha1="A96943153DBA74D91DBE95F4C1C64F7824AD300C" />
-		<rom name="Cosmic Osmo (USA) (Track 10).bin" size="10560480" crc="E674D757" md5="F753C20593331399EECBC42900FF55A1" sha1="323F3FB1B9A2C5623DC6C6F67959923ECC5B1C12" />
-		<rom name="Cosmic Osmo (USA) (Track 11).bin" size="32081280" crc="960CD89F" md5="0EF1C92E0E41BBA2DFB5C1F0DA58AD4B" sha1="9CBBC01595398B1406E5B00968A9044EA63FCA84" />
-		<rom name="Cosmic Osmo (USA) (Track 12).bin" size="7714560" crc="E3CE0539" md5="10461A5001EBF9C62F2404B42107DCA9" sha1="BDE86C79DAA60E16052D2081EBB14E4CD1250308" />
-		<rom name="Cosmic Osmo (USA) (Track 13).bin" size="12348000" crc="277AEDA6" md5="D9745555AFE93365370B94EC019A5DE2" sha1="1C928A2303B5BD855F4BCD007A4A6F6D0075BF0D" />
-		<rom name="Cosmic Osmo (USA) (Track 14).bin" size="10760400" crc="AECD12E4" md5="8B9C6C3A56599E18DE019D5E68F50EE4" sha1="24C2099BE8F87E5E90C1C50C1273A7EA5E9582F4" />
-		<rom name="Cosmic Osmo (USA) (Track 15).bin" size="17487120" crc="5F0D608F" md5="C7CC38B79D0E042B65BFBCB849BAFDEB" sha1="02896654C76E17EB0B9A4EEBDF0D98980FF70BCF" />
-		<rom name="Cosmic Osmo (USA) (Track 16).bin" size="26354160" crc="F1541F2F" md5="8C9F291EE13678A72EF67A92DAA178B9" sha1="3F8BC7EEE97828415426AAEB1752019DAB4FF84E" />
-		<rom name="Cosmic Osmo (USA) (Track 17).bin" size="14217840" crc="139CE972" md5="5B0D4AF6B381F1E2AE42552BCB677799" sha1="7202BDC33205D9D53CD22A154A17A1B746518420" />
-		<rom name="Cosmic Osmo (USA) (Track 18).bin" size="14112000" crc="C9D1EFF8" md5="7674A780A06FDE29E4D53A25BD4B7F64" sha1="0E2D835F0E3A464D00366B97C04034E6EE12F1D7" />
-		<rom name="Cosmic Osmo (USA) (Track 19).bin" size="14794080" crc="22FC3796" md5="0AB5B838329230928824318237C201C7" sha1="FB6065B26B8004960A6B82BC419EFBBDC8537B6E" />
-		<rom name="Cosmic Osmo (USA) (Track 20).bin" size="11595360" crc="14577430" md5="650A1C060382DE417CAE213F61E7BC7B" sha1="755697D1B1ADDEE013E6D715D5C5F73B4BCA48CC" />
-		<rom name="Cosmic Osmo (USA) (Track 21).bin" size="20462400" crc="7AE390AD" md5="CCD63952F3CCAC4194D90AED67120BA1" sha1="61303D9647BA22F17989D18A23D5ED2B623273E2" />
-	</game>
 	<game name="Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 1)" type="">
 		<category>Games</category>
 		<description>Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 1)</description>
@@ -438,34 +364,11 @@
 		<rom name="Dark Seed II (Japan).cue" size="109" crc="33170D73" md5="C7AFA0E6459F59D1779343DF67FE322C" sha1="C069480D777884859109CB637EA73DB123AE3271" />
 		<rom name="Dark Seed II (Japan).bin" size="387515520" crc="F9DC87DE" md5="0671C5CE959243813E91B87B5F42D369" sha1="3138B0BBC6E95A861ACAA842225FAFA378DF6499" />
 	</game>
-	<game name="Dark Vengeance (USA)" type="">
-		<category>Games</category>
-		<description>Dark Vengeance (USA)</description>
-		<rom name="Dark Vengeance (USA).cue" size="109" crc="E4796FD8" md5="6F870E45B61A8CB5B4CC30112A2F5F18" sha1="DED9248362C5248F5464FB2F445863274F987B2F" />
-		<rom name="Dark Vengeance (USA).bin" size="217124880" crc="A3FF4152" md5="B6094C2D337AD22016F7991061EF8BF6" sha1="1C36733992B9C075C3A906379CE292EB628B8A76" />
-	</game>
 	<game name="Darkseed (Europe) (Fr,De)" type="">
 		<category>Games</category>
 		<description>Darkseed (Europe) (Fr,De)</description>
 		<rom name="Darkseed (Europe) (Fr,De).cue" size="91" crc="9AF7CF18" md5="841CA71F2E1E89F4173C9ED041EB2E3B" sha1="418F351EDF8A35A011285A2B1340E7EF3E7BD015" />
 		<rom name="Darkseed (Europe) (Fr,De).bin" size="127311408" crc="0F8E39A2" md5="98753A595FB6FADD2FD679F3626C0D7D" sha1="CAD418B90033277996499CAFCDD055F9F076AB21" />
-	</game>
-	<game name="DarkStar (Europe) (Installer Disc 1)" type="">
-		<category>Games</category>
-		<description>DarkStar (Europe) (Installer Disc 1)</description>
-		<rom name="DarkStar (Europe) (Installer Disc 1).iso" size="8538030080" crc="A53B76F6" md5="072EDB975AC64BBBD6BB46E5F8A77A6D" sha1="88A671C0CBFC59CBD7B990E5DD86F7C88CCEE448" />
-	</game>
-	<game name="Diamonds 3D (USA)" type="">
-		<category>Games</category>
-		<description>Diamonds 3D (USA)</description>
-		<rom name="Diamonds 3D (USA).cue" size="83" crc="E0026227" md5="DAD44CC1BA21E1D4CD9B7781EAAAD377" sha1="CF9810228A6C9BEC9A75C598A0EFF47DBC5890E8" />
-		<rom name="Diamonds 3D (USA).bin" size="52581312" crc="1ABE7E73" md5="DCAB763A6C157CA8D706E8F1A1B2D524" sha1="F14AFDB00A6328B63C3E1CE64FB71C0CE20A72E2" />
-	</game>
-	<game name="Disney's Animated Storybook - Winnie the Pooh and the Honey Tree (USA)" type="">
-		<category>Educational</category>
-		<description>Disney's Animated Storybook - Winnie the Pooh and the Honey Tree (USA)</description>
-		<rom name="Disney's Animated Storybook - Winnie the Pooh and the Honey Tree (USA).cue" size="136" crc="B80D7C3A" md5="46B20920F6134E55803DC97652A4A61F" sha1="0E7C898BA22A1C270C8F35E79CF0F407AA7A75F1" />
-		<rom name="Disney's Animated Storybook - Winnie the Pooh and the Honey Tree (USA).bin" size="671858208" crc="8BFB1599" md5="333D6E599CED7A609AB9D12FD9549734" sha1="97E1A2D44540155C9FAA9D6F15584C82CE38954E" />
 	</game>
 	<game name="Eberouge (Japan)" type="">
 		<category>Games</category>
@@ -497,24 +400,6 @@
 		<rom name="Eberouge (Japan) (Track 24).bin" size="21523152" crc="5EF2DF1A" md5="AAEFAF49E24077F486267D4C76A02A14" sha1="87F0954B46296785289BDB5120EDBA4C22650139" />
 		<rom name="Eberouge (Japan) (Track 25).bin" size="8236704" crc="B1226AE8" md5="57194E706A0D6826636701680850675D" sha1="8074721B970118A84556A1AED5122ECD2521DA3E" />
 	</game>
-	<game name="Fly! II (USA) (Disc 1) (Install)" type="">
-		<category>Games</category>
-		<description>Fly! II (USA) (Disc 1) (Install)</description>
-		<rom name="Fly! II (USA) (Disc 1) (Install).cue" size="98" crc="1E4309E2" md5="E4884A3D1AFC40A62ADCE5D879DEA6E9" sha1="1763BBF453BC344658275344D727BD7BE065915F" />
-		<rom name="Fly! II (USA) (Disc 1) (Install).bin" size="787952928" crc="37FBCF14" md5="02DEEA9DC5B3FC2EDD3F46EC076EBAC2" sha1="E0999BDC358029CF2D7657DFC0D89A15DF4597A2" />
-	</game>
-	<game name="Fly! II (USA) (Disc 2) (Scenery)" type="">
-		<category>Games</category>
-		<description>Fly! II (USA) (Disc 2) (Scenery)</description>
-		<rom name="Fly! II (USA) (Disc 2) (Scenery).cue" size="98" crc="9F49B6F4" md5="84552E04431FC55BA1D69C53DD302E2B" sha1="9C0D6CB5F1BF34A229B29711743DFDEB72268D0D" />
-		<rom name="Fly! II (USA) (Disc 2) (Scenery).bin" size="754404000" crc="EB07EA97" md5="C37CB65BC40F04167CF99D8EF3FB4D87" sha1="CBF4CBCB19D9D954F32123DAFC8B8BD6532AFB2C" />
-	</game>
-	<game name="Fly! II (USA) (Disc 3) (Maps)" type="">
-		<category>Games</category>
-		<description>Fly! II (USA) (Disc 3) (Maps)</description>
-		<rom name="Fly! II (USA) (Disc 3) (Maps).cue" size="95" crc="0BC3F455" md5="61FF5409004915542EF73440B81075B9" sha1="F119DB02B665645C466C9D5B9F3A55F8A2CDB70B" />
-		<rom name="Fly! II (USA) (Disc 3) (Maps).bin" size="235559856" crc="FD0FFDBC" md5="59DB45A9E2498D985D3134105D4A6BCD" sha1="22F931A1D6CB411E320BE663586FED2188C469AC" />
-	</game>
 	<game name="Flying Nightmares (Japan)" type="">
 		<category>Games</category>
 		<description>Flying Nightmares (Japan)</description>
@@ -538,12 +423,6 @@
 		<description>Gridz (USA)</description>
 		<rom name="Gridz (USA).cue" size="100" crc="3CBB8383" md5="9798BD2BF40799A378F91F0274D89962" sha1="758CC03B1863B8A8769B13797A2DA34F72728062" />
 		<rom name="Gridz (USA).bin" size="68062176" crc="A408D2AC" md5="39DDB4FF12F3F23FE1942DB713C8F7BB" sha1="B8D41E962E955A7AF380090381DBE18CACD4F423" />
-	</game>
-	<game name="Gubble (USA)" type="">
-		<category>Games</category>
-		<description>Gubble (USA)</description>
-		<rom name="Gubble (USA).cue" size="78" crc="27DC355C" md5="3042A684481A87907EE9641C901A14E7" sha1="B06CA8DD1E67B6A28F78A33B85E27A799BFC62E2" />
-		<rom name="Gubble (USA).bin" size="542138352" crc="1485AA1A" md5="0D1801F517FD8113872261E4FBC6071B" sha1="78B39608831BF24625908B00DA18DDE554AF3A55" />
 	</game>
 	<game name="Guignols de l'Info, Les ...le Jeu ! (France)" type="">
 		<category>Games</category>
@@ -610,12 +489,6 @@
 		<rom name="Journeyman Project - Pegasus Prime, The (USA) (Disc 4).cue" size="143" crc="C56CD5D5" md5="4510203E7FA7D85C47E179E537B07C74" sha1="C268F8B424B7B8B22D0DE3895F256DB1B8CBD36B" />
 		<rom name="Journeyman Project - Pegasus Prime, The (USA) (Disc 4).bin" size="761699904" crc="31695050" md5="87DDED71C1C9A874C1B6230B95168C1A" sha1="4C114C4F1B1D61E8EFC8CBB33EB3D4D36CE66BAB" />
 	</game>
-	<game name="Kingdom - The Far Reaches (USA)" type="">
-		<category>Games</category>
-		<description>Kingdom - The Far Reaches (USA)</description>
-		<rom name="Kingdom - The Far Reaches (USA).cue" size="97" crc="3B82B2EF" md5="A3DBDB5DD724F272486D9A049E491BA9" sha1="BFED02F4E528E426571456B2D1E610C0B7E637AD" />
-		<rom name="Kingdom - The Far Reaches (USA).bin" size="745555776" crc="B0192A44" md5="098CFF88028184B4FD10E2752EDE741F" sha1="D60F3B9A0AAC61CFFB5258883F702903BFBE9E86" />
-	</game>
 	<game name="Klik &amp; Play (France)" type="">
 		<category>Applications</category>
 		<description>Klik &amp; Play (France)</description>
@@ -645,18 +518,6 @@
 		<description>Mac Fan Internet 1997 7 (Japan)</description>
 		<rom name="Mac Fan Internet 1997 7 (Japan).cue" size="120" crc="7DA11579" md5="28DF6D9D7A9C3CBAC5EF6566B42C9CE1" sha1="E48F4956745B008FCAA36E0E23CCE67A82740FAF" />
 		<rom name="Mac Fan Internet 1997 7 (Japan).bin" size="512303232" crc="E53B1BF1" md5="67D94EC7B3B7437A3C4B38B64FB75745" sha1="BDC2E3BD08E342E5AB9F922FC601A94EBEFF38D2" />
-	</game>
-	<game name="Mac FunPack (USA) (Disc 1)" type="">
-		<category>Games</category>
-		<description>Mac FunPack (USA) (Disc 1)</description>
-		<rom name="Mac FunPack (USA) (Disc 1).cue" size="115" crc="D422B3DA" md5="57AE1753C06273B23F5ABA2A11E55C4E" sha1="19AFF26ED14EAC3459557B9F5D8FA9593601B4A7" />
-		<rom name="Mac FunPack (USA) (Disc 1).bin" size="35835072" crc="98D70F2B" md5="B75E9F41D963A1623A87B1D0273D315D" sha1="E826185667B8810753D211E8CA4B9FB14B829A00" />
-	</game>
-	<game name="Mac FunPack (USA) (Disc 2)" type="">
-		<category>Games</category>
-		<description>Mac FunPack (USA) (Disc 2)</description>
-		<rom name="Mac FunPack (USA) (Disc 2).cue" size="115" crc="D57F950B" md5="838F9C6A4C196E73CBC29AD86DA323CD" sha1="FCEB1EBC2AFC77B0D5D58D6958EE25AE5CA57AC2" />
-		<rom name="Mac FunPack (USA) (Disc 2).bin" size="626302320" crc="BAA1E87A" md5="B569883F7AF70F386A796E0EA94FC75D" sha1="8686D5A18EFB17220E8DDF74922B7E28827DB4BD" />
 	</game>
 	<game name="MacAttack (Europe)" type="">
 		<category>Games</category>
@@ -722,12 +583,6 @@
 		<rom name="MacUser - MacBin 18 (Japan).cue" size="108" crc="BCCED67B" md5="C5C5E450712D760155F002407E65870B" sha1="90839DF796758726152BF7238BE8A543587CD4AD" />
 		<rom name="MacUser - MacBin 18 (Japan).bin" size="771058512" crc="13903296" md5="62176B5E02524E66E342BBBD7BF5BE92" sha1="EC99984EB3D78264D65D956B732EC51081BB2066" />
 	</game>
-	<game name="Macworld - January 2001 (Europe)" type="">
-		<category>Coverdiscs</category>
-		<description>Macworld - January 2001 (Europe)</description>
-		<rom name="Macworld - January 2001 (Europe).cue" size="98" crc="835A918E" md5="C60D3E0CAFB1BBE35111D067938231BF" sha1="9B05F405B8A332CC51E8A8D79149DC8B4943C515" />
-		<rom name="Macworld - January 2001 (Europe).bin" size="788886672" crc="076AA742" md5="BEA311D1E8EB0EA1E5A0A08D746DFFFB" sha1="2192E645FD81770AA997634551C22AD72BC67A81" />
-	</game>
 	<game name="Mad Dog McCree (USA)" type="">
 		<category>Games</category>
 		<description>Mad Dog McCree (USA)</description>
@@ -739,12 +594,6 @@
 		<description>Maniac Mansion - Day of the Tentacle (France)</description>
 		<rom name="Maniac Mansion - Day of the Tentacle (France).cue" size="134" crc="74B93BFD" md5="152E2C01B0ACB444DB44B987BB6445F6" sha1="00F408269726203EA33B4DDA6526FCBA75DBDCB6" />
 		<rom name="Maniac Mansion - Day of the Tentacle (France).bin" size="567196560" crc="B784DA91" md5="6A59B70F100899243C9585A485452AA9" sha1="63742A000821804E6698F41DE17B51FF353661ED" />
-	</game>
-	<game name="Medicom Vol. 1 (Japan)" type="">
-		<category>Multimedia</category>
-		<description>Medicom Vol. 1 (Japan)</description>
-		<rom name="Medicom Vol. 1 (Japan).cue" size="134" crc="8BDDFD55" md5="7CD9C00662642C7227D7C054763B0BAB" sha1="B46A4971F4D028F171D2B9B655681870E6A90624" />
-		<rom name="Medicom Vol. 1 (Japan).bin" size="617261232" crc="DDE483C6" md5="153D9EC0648090415E9246D3810DD2BC" sha1="3AAC4A5B5B91A424D32AA4B7040EC048E527A594" />
 	</game>
 	<game name="Myst - Masterpiece Edition (Germany) (Rerelease)" type="">
 		<category>Games</category>
@@ -769,18 +618,6 @@
 		<description>NASCAR Racing (USA)</description>
 		<rom name="NASCAR Racing (USA).cue" size="85" crc="5F1B2C03" md5="E88E4B3A2A89091FF97CEDE3C4E5C521" sha1="8863C757474F298E70462E79E09A7CF53028DA92" />
 		<rom name="NASCAR Racing (USA).bin" size="101373552" crc="1F90175F" md5="B3945F1168EA40F5BA7126A4E48CADD4" sha1="4007B736BA393B30F19980841DF7F8F4D9859FB9" />
-	</game>
-	<game name="National Lampoon's Blind Date (USA)" type="">
-		<category>Games</category>
-		<description>National Lampoon's Blind Date (USA)</description>
-		<rom name="National Lampoon's Blind Date (USA).cue" size="101" crc="84FDEBFA" md5="B37979E18FB3142020AAB49F36230B87" sha1="6ED945E0A5D3338CB2D2129F82D2A3C4A4BB7D98" />
-		<rom name="National Lampoon's Blind Date (USA).bin" size="517844544" crc="0449887F" md5="A6E8957FE9FD4C03C6648C72F3C7FFD3" sha1="35771B74C3DAC6988A0DA5E698DEA3222F080781" />
-	</game>
-	<game name="Nightfall (USA)" type="">
-		<category>Games</category>
-		<description>Nightfall (USA)</description>
-		<rom name="Nightfall (USA).cue" size="104" crc="BC7813B8" md5="9A3BBBB9528FF3B0C3E1A5E19C074C9E" sha1="4C19256AE4C0BB959DACBB9DCF0614D558804F1B" />
-		<rom name="Nightfall (USA).bin" size="500345664" crc="803B8549" md5="879C3E87F21610B0A61369A28E4F3F7D" sha1="6E295A808A31552BF974949D36A043AE0D4871DF" />
 	</game>
 	<game name="Nikkei Mac CD 1998.5 Volume 13 (Japan)" type="">
 		<category>Coverdiscs</category>
@@ -913,36 +750,6 @@
 		<rom name="Princess Maker 2 (Japan) (Rerelease).cue" size="102" crc="B584D854" md5="4C371FB02E783B8491078CD51882EA6B" sha1="74F5EEC9502CF4AF9CCDFB5A0D1E023746E513DC" />
 		<rom name="Princess Maker 2 (Japan) (Rerelease).bin" size="258468336" crc="3802B610" md5="61C7BB107DBFE9B97DAEA1F76A6C44E2" sha1="892A20F36A17681B552A39DED2C2B0523E2F3777" />
 	</game>
-	<game name="Pro Pinball - The Web (Europe)" type="">
-		<category>Games</category>
-		<description>Pro Pinball - The Web (Europe)</description>
-		<rom name="Pro Pinball - The Web (Europe).cue" size="3107" crc="2DBBB449" md5="C86AF367171501ABE611C5D1D007445F" sha1="CA45968D11A2B4464224774AD445D3D530FF57AF" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 01).bin" size="144866736" crc="CEAE8CBD" md5="833D4E681F6517E71E9B3BB54191EA7A" sha1="3E0F6DFC142DFBC6A1FAADC3BFA8D4A8929053FA" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 02).bin" size="8827056" crc="931E9E62" md5="C007A1ECFF7CDAD8A1E6D71006966055" sha1="07E152A09B500CFA758823FA4A3E0E2150B09F69" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 03).bin" size="11997552" crc="10748444" md5="74724206161E3B6041140D8D6A912103" sha1="D0D18097F26FDF9621D159611941C08327B0FB0D" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 04).bin" size="4061904" crc="C668FE08" md5="197E998091AA104463B60DB251850A78" sha1="305414C3CB5C51D61F2489E04BB17A773F4AB7D1" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 05).bin" size="8824704" crc="F16D4EC3" md5="350EAA1B939B4F8EAC7697A4059B2B51" sha1="1B5377B33977EEEF7F693DE8FCC5B5CECEBE9C61" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 06).bin" size="9177504" crc="59C3608B" md5="368B88E516A0581C7BA6968D29FF917A" sha1="2BD4131A0E486176F4286911553FE728B94B1048" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 07).bin" size="11647104" crc="0EB700CF" md5="03695EB9B80EB81C29E9088DE77786A6" sha1="70002F0CEFCE7F09FD7C22BA2A6EBE9415548CAE" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 08).bin" size="12176304" crc="7BCCA897" md5="1DC9F25C813747462198135B7C4F3159" sha1="F7A278A40BDEF86A9A30CD153A3F48EE3A39779E" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 09).bin" size="10941504" crc="39F96D82" md5="BB99B47C1A8A2C17DC93B1025D5D8C5A" sha1="A3E72FCA41ABC4E34C992BD5984E96B2E370EA89" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 10).bin" size="9177504" crc="6B759846" md5="CE9BB4E878A2263047A20E14A1BB4552" sha1="8259A7453AF761A2286FC10A00B616C523979423" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 11).bin" size="30874704" crc="578DA46E" md5="D8797BC29064F9E4A1100022C15BA39D" sha1="684BF69EFB4E368C0CDF90D7114860608F5FEBD2" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 12).bin" size="21172704" crc="07349A1E" md5="6709B301343BE6072129CE32D2D51223" sha1="D5127936FE2C6097EC90708DDCB1212F480B685A" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 13).bin" size="21175056" crc="5CD416B1" md5="86CB96600D11986DABAB2DA89ED19AB8" sha1="B9871D9ACC26DE6518EED5D483ECB4C9DB867C76" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 14).bin" size="11291952" crc="7D19997C" md5="69F9ACE772190B3695C1AFAF01554A40" sha1="0BA90AD268C6FE2D6DD25962A31208EB85AD9FC5" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 15).bin" size="22231104" crc="4DEA233A" md5="2C3E3897706D2785D4B598E7C9A3BCA3" sha1="1C58A18C65EB2FA5729D9450AE22502524639FF4" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 16).bin" size="22231104" crc="4DEA233A" md5="2C3E3897706D2785D4B598E7C9A3BCA3" sha1="1C58A18C65EB2FA5729D9450AE22502524639FF4" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 17).bin" size="6178704" crc="E5032B30" md5="0A3DDFA85586B685E93735DB68E0457B" sha1="9EEB5F21D3E92653E1FD2F78964C5AC744C50776" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 18).bin" size="12352704" crc="100DC0DF" md5="3ADA1F8E3B855B59E7A0DD88D608F3E9" sha1="3AC6B2B8F7F786D8C6E007DA8A8CA3B427C4B364" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 19).bin" size="2650704" crc="6CE4C915" md5="9B3457C4685E64BC4F55FD64A664E45E" sha1="5805A1D0FA620E16A7230C32665B3994B509B6EA" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 20).bin" size="3356304" crc="E0FCAE12" md5="BA0618FB73CDCDC44F4E901677CC09A1" sha1="03FAD339BB38A3811C8D350335A96B4A25B210B0" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 21).bin" size="28934304" crc="19F1F027" md5="A453553C67E6A843B1C9F0C947D0E7F8" sha1="A7DE7A93DA91B45E393D97236117DAC73C5B1215" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 22).bin" size="28934304" crc="DB5BFDA2" md5="F6B0DA4B5BE7AF9251918F1527F40AD3" sha1="A364F99B7999AAF7B7F165EB03083C79CDA588D0" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 23).bin" size="6531504" crc="BF3358CE" md5="2F86EC354D904AB4285808595289E28E" sha1="51F2CD4782F8F4CB31EC3263B46B33DA73E54B08" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 24).bin" size="2827104" crc="C9DF7881" md5="D24F70416AED82A0CEDF0064809BBD34" sha1="C65A5BFB0088418C83F70227E085D0F6E48CF4C0" />
-		<rom name="Pro Pinball - The Web (Europe) (Track 25).bin" size="5823552" crc="DBB91552" md5="B3531FDDA9F1041EC3130ECE3837CEF7" sha1="92D5368EF35F79509567697BC376EE2A1F979E04" />
-	</game>
 	<game name="Puyo Puyo Tsuu (Japan)" type="">
 		<category>Games</category>
 		<description>Puyo Puyo Tsuu (Japan)</description>
@@ -1000,12 +807,6 @@
 		<description>Spelunx (Japan)</description>
 		<rom name="Spelunx (Japan).cue" size="81" crc="EE5781CF" md5="F14408475A0A3D687002C1A1492DF826" sha1="F40D6F7F71D3DC223DCD949DDFD47BB842ECEC53" />
 		<rom name="Spelunx (Japan).bin" size="117995136" crc="BC4BE438" md5="5F70122DC97A037D0B8C386A5EAB5381" sha1="F80091E5FBFB7729B10C468EC35DE079F48EFF0E" />
-	</game>
-	<game name="Star Trek - 25th Anniversary Enhanced CD-ROM (USA)" type="">
-		<category>Games</category>
-		<description>Star Trek - 25th Anniversary Enhanced CD-ROM (USA)</description>
-		<rom name="Star Trek - 25th Anniversary Enhanced CD-ROM (USA).cue" size="139" crc="E45697C2" md5="E9DE726EE6B43BDBB7A1627DE62408E5" sha1="D89CF4BF1227A55E0C314AD40587BD8226719DB1" />
-		<rom name="Star Trek - 25th Anniversary Enhanced CD-ROM (USA).bin" size="765107952" crc="AB691CEC" md5="896994BD7FED6AB5FC49D16153299C9B" sha1="6BE44879841EA734AD7EF40BBC74F0BFD7D6AF09" />
 	</game>
 	<game name="Star Wars - Rebel Assault (Europe)" type="">
 		<category>Games</category>
@@ -1073,12 +874,6 @@
 		<rom name="Uki Uki Tsuri Tengoku 2 - Hato no Gomokuzuri (Japan).cue" size="118" crc="2F4DE810" md5="9794FB3A97164CF28582C3A9F45BD30C" sha1="FCC039F7EC9940A7A03B79A3F43FA44DA1B7D8D3" />
 		<rom name="Uki Uki Tsuri Tengoku 2 - Hato no Gomokuzuri (Japan).bin" size="617341200" crc="55802110" md5="2FD7667121035DD532A5190DE259609E" sha1="5AAF5602D3103596C17DEEE6BC58FAC7B205BE55" />
 	</game>
-	<game name="Under a Killing Moon (USA) (Disc 1)" type="">
-		<category>Games</category>
-		<description>Under a Killing Moon (USA) (Disc 1)</description>
-		<rom name="Under a Killing Moon (USA) (Disc 1).cue" size="124" crc="66AC1C0D" md5="EAE3B4723FF7AA89ECF71C2A31D1FE78" sha1="E69A79068AB34813E7444B14A3AEAFFDAF69C528" />
-		<rom name="Under a Killing Moon (USA) (Disc 1).bin" size="510830880" crc="D5388AB0" md5="B83890D52CEFB8C8E535850DBD2181B6" sha1="0739FD615DD03B862E5EB076319F7BD5ED038B23" />
-	</game>
 	<game name="URM - M15 Wakusei ni Umarete (Japan)" type="">
 		<category>Games</category>
 		<description>URM - M15 Wakusei ni Umarete (Japan)</description>
@@ -1102,12 +897,6 @@
 		<description>Vortex, The - Quantum Gate II (Japan) (Disc 3)</description>
 		<rom name="Vortex, The - Quantum Gate II (Japan) (Disc 3).cue" size="112" crc="C7E48E46" md5="44459C253E8B58DC854C727974C0A471" sha1="8D9DC4A9DEF2B006721450550E90F8D5E7AAE65B" />
 		<rom name="Vortex, The - Quantum Gate II (Japan) (Disc 3).bin" size="783136032" crc="ECFA7222" md5="1F57F6508E8268AAC5F8FBB8337966E7" sha1="4B0C5035D2A9E25C910BAFDFBD97ACE6FE334329" />
-	</game>
-	<game name="Wrath of the Gods (USA)" type="">
-		<category>Games</category>
-		<description>Wrath of the Gods (USA)</description>
-		<rom name="Wrath of the Gods (USA).cue" size="89" crc="A6EB564F" md5="864DF60BA45D9A6FF48DC77A3B00A67C" sha1="EEC2A9F22456AFBF4F6CEDD33C5561973B33711B" />
-		<rom name="Wrath of the Gods (USA).bin" size="505595328" crc="E1D97C0A" md5="3EE1B2B099B11AC061746053E7B9C587" sha1="0544C6BA7F0B1833CB6299EFE79708B5CE3CF9F2" />
 	</game>
 	<game name="Zork Nemesis (Japan) (Disc 1)" type="">
 		<category>Games</category>

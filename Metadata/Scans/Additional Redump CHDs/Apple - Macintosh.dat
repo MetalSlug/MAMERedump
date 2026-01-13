@@ -635,6 +635,11 @@
 		<description>7th Guest, The (USA) (Disc 1)</description>
 		<rom name="7th Guest, The (USA) (Disc 1) (Track 01).bin" size="770955024" crc="b2d68b3d" md5="7696d152f923be5e910e549f1ea63b3a" sha1="6d694d7e0725d8ba81c121883e108e0421ac2b7b"/>
 	</game>
+	<game name="A-10 Attack! (USA)" type="cd" sha1="e2205c91655a8f7b6defaf3f2e9480bec9a4295e" size="81428092" crc="7958d456" fullsha1="4a5a8212613bb9d5a8f34859023d923af8b80574" dataSha1="f234d77530b623f8b1acad30815fbf90f0fc06b5">
+		<category>Games</category>
+		<description>A-10 Attack! (USA)</description>
+		<rom name="A-10 Attack! (USA) (Track 01).bin" size="172547424" crc="4e0fd60a" md5="e1ab88482bf7a305598afcc3c397fb6d" sha1="f3836622d7f54cd70130b9e57d98ea6793d2f318"/>
+	</game>
 	<game name="A-10 Cuba! (USA)" type="cd" sha1="cb5c932f5581bc25162491da3ea8c58ad58ad8a5" size="77715811" crc="8cef9263" fullsha1="89f629cdbbf40bfbb24ab605504bd1c13c93dd8e" dataSha1="d00af554b26ef2e8a98e142be516e797d971a190">
 		<category>Games</category>
 		<description>A-10 Cuba! (USA)</description>
@@ -1200,6 +1205,26 @@
 		<category>Games</category>
 		<description>Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 4)</description>
 		<rom name="Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 4) (Track 01).bin" size="482082384" crc="25b64380" md5="35e6dabfe648b1c62db095848445957c" sha1="3fd8918c9c2a00c71b0e3e6bfaae3e34f3f4a745"/>
+	</game>
+	<game name="Atlantis - Det foersvunna riket (Sweden) (Disc 1)" type="cd" sha1="78c607540130fe20e91850cfa41e689512949748" size="525282859" crc="20220ac1" fullsha1="0f405b21d6a9c3787999ff945f8f8810d50674e4" dataSha1="96947374605c1038bc5dbe648ebd035f97d4b4f5">
+		<category>Games</category>
+		<description>Atlantis - Det foersvunna riket (Sweden) (Disc 1)</description>
+		<rom name="Atlantis - Det foersvunna riket (Sweden) (Disc 1) (Track 01).bin" size="783143088" crc="6d458977" md5="238b962a0bc8cfc70125b5ab35a36807" sha1="5ba7a8df4cf1022552cfb1bda2b94a2745f668ac"/>
+	</game>
+	<game name="Atlantis - Det foersvunna riket (Sweden) (Disc 2)" type="cd" sha1="3633159acd8c7033961660664f1ba9369aa66d04" size="560668585" crc="0d16500a" fullsha1="e2f798d6d26deb0ef564a9c02bd16a622fa0a84f" dataSha1="97710a92d7b9473f7cd2bbf4fb01d8ed72a41997">
+		<category>Games</category>
+		<description>Atlantis - Det foersvunna riket (Sweden) (Disc 2)</description>
+		<rom name="Atlantis - Det foersvunna riket (Sweden) (Disc 2) (Track 01).bin" size="783143088" crc="b6e7bcc9" md5="c6bc9671333b96fc6915945f936fe7c2" sha1="fe315fd65ed8ad90bf43ffc0d9c27ebd34517bbe"/>
+	</game>
+	<game name="Atlantis - Det foersvunna riket (Sweden) (Disc 3)" type="cd" sha1="18b31054ed08537c225bdd69c7d3de0935f14397" size="516036769" crc="20f145c8" fullsha1="032f2592adf7e4227bcdee463357a1d37e84e207" dataSha1="b3254686021040dbd33bf931895581b599cff6a2">
+		<category>Games</category>
+		<description>Atlantis - Det foersvunna riket (Sweden) (Disc 3)</description>
+		<rom name="Atlantis - Det foersvunna riket (Sweden) (Disc 3) (Track 01).bin" size="783143088" crc="eb7d09c1" md5="bb4a3afa7d532c42a8666351a6908c5a" sha1="837a692ca93f8e2a1aaf82573869ea8225372cc9"/>
+	</game>
+	<game name="Atlantis - Det foersvunna riket (Sweden) (Disc 4)" type="cd" sha1="db2e81c63981e11c4404084f1dfd2b220f99b6d4" size="322715386" crc="c32d1a95" fullsha1="ba2853aa5df937fd9bfcd0579b55943bcdce5b6f" dataSha1="a481f30b42d8c076b507080f88b0698a686ffc3b">
+		<category>Games</category>
+		<description>Atlantis - Det foersvunna riket (Sweden) (Disc 4)</description>
+		<rom name="Atlantis - Det foersvunna riket (Sweden) (Disc 4) (Track 01).bin" size="482082384" crc="b103f582" md5="0444d9fa199edab283bb3e33e8eae995" sha1="8c2c95e08d5b91f5d2daaf63ca7a7af0f26355f0"/>
 	</game>
 	<game name="Audition 2, The (Japan) (Disc 1)" type="cd" sha1="9681a2c0c4e881f9e7071d6c1820e617d526c6fa" size="295204850" crc="da2b6aa1" fullsha1="210e3d3b45886ffd7adf05f71a9f05a8dac2612c" dataSha1="b9b4b9bb73c7de0d16349428d5e88bac7c3156c6">
 		<category>Games</category>
@@ -1804,6 +1829,11 @@
 		<description>CD-ROM MacLife No. 9 (Japan)</description>
 		<rom name="CD-ROM MacLife No. 9 (Japan) (Track 01).bin" size="717750432" crc="7c9c3195" md5="5682607930063bf563971a73231001fc" sha1="0782db09c94142727481652c2467ded4c6abe29f"/>
 	</game>
+	<game name="CD4 - A CD to Explore (USA)" type="cd" sha1="69789a814d0d9d3885f17975e2dc3039ad4f3949" size="268988010" crc="313b2bf7" fullsha1="20bcd473a517c6325a287164f935d239aa3a4690" dataSha1="33a6eef0456a34c31f48be425c47592106f93b34">
+		<category>Games</category>
+		<description>CD4 - A CD to Explore (USA)</description>
+		<rom name="CD4 - A CD to Explore (USA) (Track 01).bin" size="622056960" crc="d00f28cf" md5="5491b18e7bd3af0a22e50a11f936c7f3" sha1="0b50700b558ab85888ad53c49f6f6396de6009cf"/>
+	</game>
 	<game name="CTR - Crash Team Racing - Hi-res Disc July 99 (Europe)" type="" sha1="58944bd2b323cc4aa02aaf43c6118e26f277a910" size="70344579" crc="295e60e2" fullsha1="9019eae30c872b93db29f14e3b33e463745d3155" dataSha1="d1a344f1ee886e4a5b6ac83f982b0e75b12b58ca">
 		<category>Games</category>
 		<description>CTR - Crash Team Racing - Hi-res Disc July 99 (Europe)</description>
@@ -1938,6 +1968,16 @@
 		<description>Championship Manager - Season 99-00 - PKG (Europe) (Art Assets)</description>
 		<rom name="Championship Manager - Season 99-00 - PKG (Europe) (Art Assets) (Track 01).bin" size="470026032" crc="8f2b6b3b" md5="45cce6de20b7d27a89b362ea2d885f13" sha1="6b0adbb7419753a226c50350a74e7cb51cb1cd8e"/>
 	</game>
+	<game name="Championship Manager 3 - Adverts (Europe)" type="cd" sha1="543e28c9ec01bc759d4ced572333cf637af59651" size="92672645" crc="75dbaf6c" fullsha1="acedb9a6c92eb74ace8aa4b11efb9b4839f28c39" dataSha1="04053decef46b3a0410e2743249177ac4f593fa8">
+		<category>Games</category>
+		<description>Championship Manager 3 - Adverts (Europe)</description>
+		<rom name="Championship Manager 3 - Adverts (Europe) (Track 01).bin" size="712385520" crc="575c07d0" md5="7fc61edda38af4e7c18cd10aec368d1b" sha1="7b35b6165edac57ab86838cfa5e394adbee91b12"/>
+	</game>
+	<game name="Checkers Deluxe (USA)" type="cd" sha1="0ea1649c76ab1fdcde3ef9e142002d2311f3200f" size="3118984" crc="a357fd0d" fullsha1="41ddb32a049d423fc68ce8586ddb69f9db508ab2" dataSha1="2b27e627c150b9a4296d8e9486964efa457652ae">
+		<category>Games</category>
+		<description>Checkers Deluxe (USA)</description>
+		<rom name="Checkers Deluxe (USA) (Track 01).bin" size="8561280" crc="ce093ef0" md5="fbb0eb3ed2c72b27714b05a88ecfb47e" sha1="adeaf61b2570d04fd03302705a81e09cf88c7895"/>
+	</game>
 	<game name="Cheerios - Play Time (USA)" type="cd" sha1="1d9cd0649390716651f630c91320a6081fcbce21" size="34748924" crc="20e1a106" fullsha1="dcf7daa89e6a4a12d8acb77e146fefd56c562264" dataSha1="b331b2dad08b2931b0f2b00397c289b0080d65a5">
 		<category>Games</category>
 		<description>Cheerios - Play Time (USA)</description>
@@ -2048,6 +2088,31 @@
 		<description>Corpse Killer (USA)</description>
 		<rom name="Corpse Killer (USA) (Track 01).bin" size="662412576" crc="f657f2af" md5="d17e0388e4fb3e3ce7687dda2196a51d" sha1="d4ae1b37cce1db71bf855effc3a486bce8964e9b"/>
 	</game>
+	<game name="Cosmic Osmo (USA)" type="cd" sha1="f1a0b6d3f972d038f15117db77dad816b098e598" size="263174790" crc="bd611aae" fullsha1="cbb5b473c43d90f34e11b73186770e5e7ae627b9" dataSha1="bbb5dc2380ac5d3cee7423619bfee12ee480bbb6">
+		<category>Games</category>
+		<description>Cosmic Osmo (USA)</description>
+		<rom name="Cosmic Osmo (USA) (Track 01).bin" size="179575200" crc="38be1962" md5="a14c2e78ceaa094d15ee20df80c2b441" sha1="459a66511dfc9d7c3d369e6a7ce1ca3fabc13173"/>
+		<rom name="Cosmic Osmo (USA) (Track 02).bin" size="12049296" crc="95abe8de" md5="c5b3ae4e24ada3da7dbfa9f21928cebb" sha1="c5e450abdac910c6468f4c9d21690d08ca50295e"/>
+		<rom name="Cosmic Osmo (USA) (Track 03).bin" size="13500480" crc="3ca5331d" md5="9e5bf078c1337a8473e55da010ef74f8" sha1="1c7d9af2abcbf5ae8223d66942b5482ea2d6bb87"/>
+		<rom name="Cosmic Osmo (USA) (Track 04).bin" size="14194320" crc="8ed002e6" md5="a944ab06fecdbaeacf853901822a655d" sha1="b9d40bf626518251610e865182c55db1bae45f22"/>
+		<rom name="Cosmic Osmo (USA) (Track 05).bin" size="13912080" crc="5c8baaab" md5="8ed18a26b342893b3d58732725427c82" sha1="2b63e36eec6429faa4f2584551aa163ae856a512"/>
+		<rom name="Cosmic Osmo (USA) (Track 06).bin" size="12877200" crc="806aba3a" md5="70970a6fbd56b1061a74c8c36c3d0637" sha1="1d86f587e918ac58daf6755b3268274000adb96e"/>
+		<rom name="Cosmic Osmo (USA) (Track 07).bin" size="22602720" crc="78ae0e23" md5="3b07d7b330a7e1a143c6268380101d5e" sha1="8edf077e5b5da37c6fe0fba2bb906c3343ffefa9"/>
+		<rom name="Cosmic Osmo (USA) (Track 08).bin" size="16122960" crc="551a1468" md5="896fc0099733eb57c03b1484e273f5f6" sha1="5d34bcf52dd72e7c5f9c74ba0fe90fd0ca20a4ac"/>
+		<rom name="Cosmic Osmo (USA) (Track 09).bin" size="24190320" crc="9af7203c" md5="c091fdddeaecb41be015428e53b9288e" sha1="a96943153dba74d91dbe95f4c1c64f7824ad300c"/>
+		<rom name="Cosmic Osmo (USA) (Track 10).bin" size="10560480" crc="e674d757" md5="f753c20593331399eecbc42900ff55a1" sha1="323f3fb1b9a2c5623dc6c6f67959923ecc5b1c12"/>
+		<rom name="Cosmic Osmo (USA) (Track 11).bin" size="32081280" crc="960cd89f" md5="0ef1c92e0e41bba2dfb5c1f0da58ad4b" sha1="9cbbc01595398b1406e5b00968a9044ea63fca84"/>
+		<rom name="Cosmic Osmo (USA) (Track 12).bin" size="7714560" crc="e3ce0539" md5="10461a5001ebf9c62f2404b42107dca9" sha1="bde86c79daa60e16052d2081ebb14e4cd1250308"/>
+		<rom name="Cosmic Osmo (USA) (Track 13).bin" size="12348000" crc="277aeda6" md5="d9745555afe93365370b94ec019a5de2" sha1="1c928a2303b5bd855f4bcd007a4a6f6d0075bf0d"/>
+		<rom name="Cosmic Osmo (USA) (Track 14).bin" size="10760400" crc="aecd12e4" md5="8b9c6c3a56599e18de019d5e68f50ee4" sha1="24c2099be8f87e5e90c1c50c1273a7ea5e9582f4"/>
+		<rom name="Cosmic Osmo (USA) (Track 15).bin" size="17487120" crc="5f0d608f" md5="c7cc38b79d0e042b65bfbcb849bafdeb" sha1="02896654c76e17eb0b9a4eebdf0d98980ff70bcf"/>
+		<rom name="Cosmic Osmo (USA) (Track 16).bin" size="26354160" crc="f1541f2f" md5="8c9f291ee13678a72ef67a92daa178b9" sha1="3f8bc7eee97828415426aaeb1752019dab4ff84e"/>
+		<rom name="Cosmic Osmo (USA) (Track 17).bin" size="14217840" crc="139ce972" md5="5b0d4af6b381f1e2ae42552bcb677799" sha1="7202bdc33205d9d53cd22a154a17a1b746518420"/>
+		<rom name="Cosmic Osmo (USA) (Track 18).bin" size="14112000" crc="c9d1eff8" md5="7674a780a06fde29e4d53a25bd4b7f64" sha1="0e2d835f0e3a464d00366b97c04034e6ee12f1d7"/>
+		<rom name="Cosmic Osmo (USA) (Track 19).bin" size="14794080" crc="22fc3796" md5="0ab5b838329230928824318237c201c7" sha1="fb6065b26b8004960a6b82bc419efbbdc8537b6e"/>
+		<rom name="Cosmic Osmo (USA) (Track 20).bin" size="11595360" crc="14577430" md5="650a1c060382de417cae213f61e7bc7b" sha1="755697d1b1addee013e6d715d5c5f73b4bca48cc"/>
+		<rom name="Cosmic Osmo (USA) (Track 21).bin" size="20462400" crc="7ae390ad" md5="ccd63952f3ccac4194d90aed67120ba1" sha1="61303d9647ba22f17989d18a23d5ed2b623273e2"/>
+	</game>
 	<game name="Counting on Frank - A Math Adventure Game (USA)" type="" sha1="3b5b96f95f03ba5b9bcd8638c63a75d35dbdbad5" size="223597625" crc="004ece3f" fullsha1="485874770c084eb04e1a0cce861ece3d586ab126" dataSha1="cf71d72a44a4cf4a4a25fd66fcb472c184d52bc9">
 		<category>Games</category>
 		<description>Counting on Frank - A Math Adventure Game (USA)</description>
@@ -2154,6 +2219,16 @@
 		<category>Games</category>
 		<description>Dark Seed II (USA)</description>
 		<rom name="Dark Seed II (USA) (Track 01).bin" size="531081600" crc="833cf468" md5="39a1583ee760ed0261a20805a699dfd2" sha1="0cace86760b3e8cc17bb558f498ffefaa749fc74"/>
+	</game>
+	<game name="Dark Vengeance (USA)" type="cd" sha1="f83764273e04590dc4ab21112c71cfe61c80b3e6" size="79408686" crc="3057f18b" fullsha1="865928531f43896e376803b402a6c60eb9e5fc17" dataSha1="f974f9528fc36f753ccf8222d645bd6356c7dbfd">
+		<category>Games</category>
+		<description>Dark Vengeance (USA)</description>
+		<rom name="Dark Vengeance (USA) (Track 01).bin" size="217124880" crc="a3ff4152" md5="b6094c2d337ad22016f7991061ef8bf6" sha1="1c36733992b9c075c3a906379ce292eb628b8a76"/>
+	</game>
+	<game name="DarkStar (Europe) (Installer Disc 1)" type="dvd" sha1="ffd508fd0661e74231d1a7dd8e59dfc257ad4042" size="6330997894" crc="008a3b38" fullsha1="f0156e18acc722e61dcbf2a9501cb19aa02643d1" dataSha1="88a671c0cbfc59cbd7b990e5dd86f7c88ccee448">
+		<category>Games</category>
+		<description>DarkStar (Europe) (Installer Disc 1)</description>
+		<rom name="DarkStar (Europe) (Installer Disc 1).bin" size="8538030080" crc="a53b76f6" md5="072edb975ac64bbbd6bb46e5f8a77a6d" sha1="88a671c0cbfc59cbd7b990e5dd86f7c88ccee448"/>
 	</game>
 	<game name="Darkseed (Japan)" type="" sha1="5babf8b3c44608d778015ba38563b2691286cc03" size="27115685" crc="7995c756" fullsha1="018f8f90304fcd8aaf39337a74d648e75b73c31a" dataSha1="9e60b6f160a90fcd3ba80c9c805ac2b697b966c6">
 		<category>Games</category>
@@ -2272,6 +2347,11 @@
 		<description>Deus Ex (USA)</description>
 		<rom name="Deus Ex (USA) (Track 01).bin" size="783477072" crc="9c096c85" md5="5c63c7f81a24473a643ee3960c27ffa0" sha1="a6f72f17fc0f9fd0196d9d159986b7bde838856d"/>
 	</game>
+	<game name="Diamonds 3D (USA)" type="cd" sha1="078b5646f4631e54ba9d29906744cac64f9a5877" size="21910374" crc="7a9e224a" fullsha1="1e5a980768ec22d6c3a58efeabcf3c0de4e0c83c" dataSha1="a8ecf91bea955b061c0a8039d3e9b3b9230c8b5d">
+		<category>Games</category>
+		<description>Diamonds 3D (USA)</description>
+		<rom name="Diamonds 3D (USA) (Track 01).bin" size="52581312" crc="1abe7e73" md5="dcab763a6c157ca8d706e8f1a1b2d524" sha1="f14afdb00a6328b63c3e1ce64fb71c0ce20a72e2"/>
+	</game>
 	<game name="Dig, The (Japan)" type="cd" sha1="a98909e308f08d32074d4d84b89fae7d468a50de" size="518200106" crc="ebf1ff3f" fullsha1="16ecb0890fe4870c07d58f8459d686e96495ee61" dataSha1="9bbf516baf3fc07970af5341e6572d3acdf03c2f">
 		<category>Games</category>
 		<description>Dig, The (Japan)</description>
@@ -2321,6 +2401,11 @@
 		<category>Games</category>
 		<description>Disney's Aladdin - Activity Center (USA) (Alt)</description>
 		<rom name="Disney's Aladdin - Activity Center (USA) (Alt) (Track 01).bin" size="253084608" crc="5a5a7759" md5="a17ce8e54b9f9a610d2f30cb2b8e4cae" sha1="c2388da7c767004e1eb0a2cc4b98223d3b9c30ff"/>
+	</game>
+	<game name="Disney's Animated Storybook - Winnie the Pooh and the Honey Tree (USA)" type="cd" sha1="7348c9c4cfe886bb69171485b835743de07836c2" size="326715363" crc="123d2676" fullsha1="b956368f23184436b9a9963e3ba5f7c4f159b907" dataSha1="849e4c457bee198261b69aea8ccfa334898fd4aa">
+		<category>Games</category>
+		<description>Disney's Animated Storybook - Winnie the Pooh and the Honey Tree (USA)</description>
+		<rom name="Disney's Animated Storybook - Winnie the Pooh and the Honey Tree (USA) (Track 01).bin" size="671858208" crc="8bfb1599" md5="333d6e599ced7a609ab9d12fd9549734" sha1="97e1a2d44540155c9faa9d6f15584c82ce38954e"/>
 	</game>
 	<game name="Disney's GameBreak! Timon &amp; Pumbaa's Jungle Games (USA)" type="cd" sha1="9c324a93dd2154dea2c6f4cfbe993349127c1f0c" size="100223952" crc="4baa8ddc" fullsha1="34e418068444ae88713f2b0e5062911a62284eb0" dataSha1="bc7ed9e0beedd97642ee9eb36c967ab6f4c06c0b">
 		<category>Games</category>
@@ -2767,6 +2852,21 @@
 		<description>Fly! 2K (USA) (Disc 3) (Sectional Charts)</description>
 		<rom name="Fly! 2K (USA) (Disc 3) (Sectional Charts) (Track 01).bin" size="611983344" crc="55fdd0f4" md5="5d30cf5d1a2003fbad2f75aa2b418ef6" sha1="4d43c3ded45eff98b3c6fdf0d892e0fd3dd63c2a"/>
 	</game>
+	<game name="Fly! II (USA) (Disc 1) (Install)" type="cd" sha1="7c38999db1e48c173ae01f591bdfd13157cd17af" size="689511202" crc="ee465482" fullsha1="15951be31b9fefb1f2b753a1cf3fc62ca520020b" dataSha1="a62ff5266fcb48c8969627c0651724db5fed2b21">
+		<category>Games</category>
+		<description>Fly! II (USA) (Disc 1) (Install)</description>
+		<rom name="Fly! II (USA) (Disc 1) (Install) (Track 01).bin" size="787952928" crc="37fbcf14" md5="02deea9dc5b3fc2edd3f46ec076ebac2" sha1="e0999bdc358029cf2d7657dfc0d89a15df4597a2"/>
+	</game>
+	<game name="Fly! II (USA) (Disc 2) (Scenery)" type="cd" sha1="09520accda1bc69b3f2201a18ada23005020c529" size="661477520" crc="737636e5" fullsha1="76af6858b2eab87170f3b1fc055c9c2be2952e6d" dataSha1="f79927519817211ef8497bf47c07a446a0729e58">
+		<category>Games</category>
+		<description>Fly! II (USA) (Disc 2) (Scenery)</description>
+		<rom name="Fly! II (USA) (Disc 2) (Scenery) (Track 01).bin" size="754404000" crc="eb07ea97" md5="c37cb65bc40f04167cf99d8ef3fb4d87" sha1="cbf4cbcb19d9d954f32123dafc8b8bd6532afb2c"/>
+	</game>
+	<game name="Fly! II (USA) (Disc 3) (Maps)" type="cd" sha1="c84fa6b35f7a09fe617f6306db37796416d56f9e" size="206064651" crc="13d77109" fullsha1="1fb34737af58057e7ed5f8cfcf20733027e84d0a" dataSha1="b728e2a5de42a079d9ea00b6cf13fe06f222d13c">
+		<category>Games</category>
+		<description>Fly! II (USA) (Disc 3) (Maps)</description>
+		<rom name="Fly! II (USA) (Disc 3) (Maps) (Track 01).bin" size="235559856" crc="fd0ffdbc" md5="59db45a9e2498d985d3134105d4a6bcd" sha1="22f931a1d6cb411e320be663586fed2188c469ac"/>
+	</game>
 	<game name="Flying Nightmares (USA)" type="cd" sha1="660af8f8c84e8eb766aff2918e26dac027b504eb" size="10083746" crc="2a34168a" fullsha1="e6fd63074e7270df4e76b9b26e1943710bc7d9f2" dataSha1="42b3862abfd24b1d283925fc1221d6d7cffed7e6">
 		<category>Games</category>
 		<description>Flying Nightmares (USA)</description>
@@ -2856,6 +2956,11 @@
 		<category>Games</category>
 		<description>Green Eggs and Ham (USA)</description>
 		<rom name="Green Eggs and Ham (USA) (Track 01).bin" size="779683296" crc="86e513bf" md5="d08e24b25218259e15f1f0190769c96c" sha1="e0cf9a7bd079abe191c0c8fcf294c83f7a5729be"/>
+	</game>
+	<game name="Gubble (USA)" type="cd" sha1="ed5b86557e1157c7380e04940af8028f762625d2" size="307700902" crc="11864fb6" fullsha1="830a1b326578616a914b2edea0bdd212b9da1851" dataSha1="7a75e524599508c856becd59462635abf141712b">
+		<category>Games</category>
+		<description>Gubble (USA)</description>
+		<rom name="Gubble (USA) (Track 01).bin" size="542138352" crc="1485aa1a" md5="0d1801f517fd8113872261e4fbc6071b" sha1="78b39608831bf24625908b00da18dde554af3a55"/>
 	</game>
 	<game name="Guitar Hero - Aerosmith (USA) (En,Fr,De,Es,It) (Mac Install Disc)" type="dvd" sha1="7eeecab56b79f110cdd593e82509136794106204" size="2804696276" crc="8501130d" fullsha1="543ee014c4476424dddb0a71dd20957a9a3ef4af" dataSha1="e1c1021b1b765a13b63261810236f1250b3970a1">
 		<category>Games</category>
@@ -3343,6 +3448,11 @@
 		<description>Kidou Senshi Gundam Illustration World Vol. 1 (Japan)</description>
 		<rom name="Kidou Senshi Gundam Illustration World Vol. 1 (Japan) (Track 01).bin" size="439609968" crc="8af506c3" md5="40ea73ff320299856100daacec890428" sha1="78b98cbe770e2146b647202037fb62847fbf05e3"/>
 	</game>
+	<game name="Kingdom - The Far Reaches (USA)" type="cd" sha1="bc9cb25a3ec4ad52ef64f65550fc0b4860627d36" size="505442812" crc="4d5cbc24" fullsha1="89433cb4a43cae67f5df219fd840a7c98cdc71e1" dataSha1="682900db5ed1740ae29b82d37fac8e55f145be90">
+		<category>Games</category>
+		<description>Kingdom - The Far Reaches (USA)</description>
+		<rom name="Kingdom - The Far Reaches (USA) (Track 01).bin" size="745555776" crc="b0192a44" md5="098cff88028184b4fd10e2752ede741f" sha1="d60f3b9a0aac61cffb5258883f702903bfbe9e86"/>
+	</game>
 	<game name="Klik &amp; Play (Japan)" type="" sha1="474cbeccb40f4859c9e6aef8e1c873d09a35fc77" size="50496213" crc="12b661e9" fullsha1="3edf36761854e0379f08991f5d96bb7ae32746e4" dataSha1="35cb0d03a8547b7b58c246a7a5985b77d751d8e8">
 		<category>Games</category>
 		<description>Klik &amp; Play (Japan)</description>
@@ -3667,6 +3777,16 @@
 		<category>Games</category>
 		<description>Mac Fan Internet 2001 5 (Japan)</description>
 		<rom name="Mac Fan Internet 2001 5 (Japan) (Track 01).bin" size="778537872" crc="2d199b64" md5="a359396fb0a463babb1b92d1895432a4" sha1="c1d70f979a19f5d399bc061c76bfe5e5b389e077"/>
+	</game>
+	<game name="Mac FunPack (USA) (Disc 1)" type="cd" sha1="0f296f372cb13f50c91323be9f2693ed81862495" size="15455560" crc="9d33f36f" fullsha1="8f8fc48ac823dead89cb48c5810cf661d52c46c0" dataSha1="c182d5465a7ffa22131bf22a547e85fd9b53464d">
+		<category>Games</category>
+		<description>Mac FunPack (USA) (Disc 1)</description>
+		<rom name="Mac FunPack (USA) (Disc 1) (Track 01).bin" size="35835072" crc="98d70f2b" md5="b75e9f41d963a1623a87b1d0273d315d" sha1="e826185667b8810753d211e8ca4b9fb14b829a00"/>
+	</game>
+	<game name="Mac FunPack (USA) (Disc 2)" type="cd" sha1="d79cb66ae8dabb52a823a0af0cb3184cad156c5c" size="415139906" crc="fcd67466" fullsha1="a758776a3a5dd31cef80c32649cbd2bb2630c1f4" dataSha1="6df52a63c4e8481a398552dc4fe1bdf8076fe456">
+		<category>Games</category>
+		<description>Mac FunPack (USA) (Disc 2)</description>
+		<rom name="Mac FunPack (USA) (Disc 2) (Track 01).bin" size="626302320" crc="baa1e87a" md5="b569883f7af70f386a796e0ea94fc75d" sha1="8686d5a18efb17220e8ddf74922b7e28827db4bd"/>
 	</game>
 	<game name="Mac Mega CD-ROM n. 1, El (Spain)" type="cd" sha1="d313737eefb5f57b4702a8a2eff38dc991706a67" size="428071498" crc="a576f2d8" fullsha1="32f863b0d1f85f1f8d5e5978ac0e231c5f7fce14" dataSha1="b7c33d81aec0141a29908b3211c909e26b5154aa">
 		<category>Games</category>
@@ -4453,6 +4573,11 @@
 		<description>Macintosh Taikenban Demo Soft Zenshuu (Japan)</description>
 		<rom name="Macintosh Taikenban Demo Soft Zenshuu (Japan) (Track 01).bin" size="778867152" crc="46e41a0d" md5="834c4af8cba2174d1c4578aef6112820" sha1="eb2a7ffa06ad0090566c37faf4b13778047be545"/>
 	</game>
+	<game name="Macworld - January 2001 (Europe)" type="cd" sha1="2965524bd45309a3368536d94af2784c381dc7a4" size="483491928" crc="ba0254e1" fullsha1="7b5ce9c4228e3202046148fc823611eede3bf774" dataSha1="56bcdc3d8bcaf4d2e13812934515949d55420bb5">
+		<category>Games</category>
+		<description>Macworld - January 2001 (Europe)</description>
+		<rom name="Macworld - January 2001 (Europe) (Track 01).bin" size="788886672" crc="076aa742" md5="bea311d1e8eb0ea1e5a0a08d746dfffb" sha1="2192e645fd81770aa997634551c22ad72bc67a81"/>
+	</game>
 	<game name="Mad Paradox (Japan)" type="cd" sha1="271477cf95a848f8621307d973f6933c336e4a2e" size="51151686" crc="2bc8c5c0" fullsha1="bf15d76e38feabbdc88dd3446324e7bd98103b17" dataSha1="101f955261d0edcaf3b7f95cfa32300718b5be60">
 		<category>Games</category>
 		<description>Mad Paradox (Japan)</description>
@@ -4745,6 +4870,11 @@
 		<category>Games</category>
 		<description>Medal of Honor - Allied Assault - War Chest (USA, Europe)</description>
 		<rom name="Medal of Honor - Allied Assault - War Chest (USA, Europe).bin" size="3250618368" crc="df3822b4" md5="79098c89a88c727c50865e1371abc114" sha1="727330434c09fb92117c85db998304773dce9095"/>
+	</game>
+	<game name="Medicom Vol. 1 (Japan)" type="cd" sha1="9a0e5d8cc488b55d48232cdccddc6fbc76fd2f5b" size="314043047" crc="6ff2b4c3" fullsha1="d1d1d40e545af641c3724c3b8e7657533f3d99a6" dataSha1="fbbd44a67485f7fe78210a398186ccee2d2dc772">
+		<category>Games</category>
+		<description>Medicom Vol. 1 (Japan)</description>
+		<rom name="Medicom Vol. 1 (Japan) (Track 01).bin" size="617261232" crc="dde483c6" md5="153d9ec0648090415e9246d3810dd2bc" sha1="3aac4a5b5b91a424d32aa4b7040ec048e527a594"/>
 	</game>
 	<game name="Meesterkok, De (Netherlands) (Assets)" type="cd" sha1="bfe99b976facbf67fe9a4c2a960e419b7e730788" size="28827497" crc="2670f3e3" fullsha1="26210eefb231591ea7f3e185553745c6b249d0de" dataSha1="ff2a62e4d7ca5a5534b2db00189387c7d68b45c2">
 		<category>Games</category>
@@ -5064,6 +5194,11 @@
 		<description>Nanpa, The - Tokyo Tadaman Monogatari (Japan)</description>
 		<rom name="Nanpa, The - Tokyo Tadaman Monogatari (Japan) (Track 01).bin" size="614488224" crc="88375cd9" md5="499aeef007e79778e8a687811bb5e268" sha1="a684e807a54edffdf8b31058e910540fefc28df0"/>
 	</game>
+	<game name="National Lampoon's Blind Date (USA)" type="cd" sha1="9073701c5561cde21aa7d2ef47a8b14f0a3be782" size="368445374" crc="237eb346" fullsha1="9e5398265a69e0ea8bd654b79a74cce5d126cc33" dataSha1="9f8d7ca9a8bc5b2a9a6216c29babf20497935374">
+		<category>Games</category>
+		<description>National Lampoon's Blind Date (USA)</description>
+		<rom name="National Lampoon's Blind Date (USA) (Track 01).bin" size="517844544" crc="0449887f" md5="a6e8957fe9fd4c03c6648c72f3c7ffd3" sha1="35771b74c3dac6988a0da5e698dea3222f080781"/>
+	</game>
 	<game name="Nautilus - Intro (USA) (Alt)" type="" sha1="6c4310233117922c8cc85a8f9c209d8b5404e9f3" size="263837214" crc="1b2ff9ba" fullsha1="e74884c570bbbe04ef186d95728f71ad12df2d95" dataSha1="2487505c0237a40ca03273fa98a08f68db8b17c3">
 		<category>Games</category>
 		<description>Nautilus - Intro (USA) (Alt)</description>
@@ -5110,6 +5245,11 @@
 		<category>Games</category>
 		<description>Night Trap (USA) (Disc 2)</description>
 		<rom name="Night Trap (USA) (Disc 2) (Track 01).bin" size="582077664" crc="27b61a40" md5="f8ad1cca0d76787bc4a5e1ddf3722fae" sha1="44fbaff49084bef4e2d9e74c7dbb326630f86350"/>
+	</game>
+	<game name="Nightfall (USA)" type="cd" sha1="4cac062f679e923a1f66e07606b0076ef4706340" size="188753637" crc="22f980ad" fullsha1="460aa492155cc6582e8c527f5e0e15b571e29fc3" dataSha1="a41936c169fadae69a19b853ce30f431acc7de96">
+		<category>Games</category>
+		<description>Nightfall (USA)</description>
+		<rom name="Nightfall (USA) (Track 01).bin" size="500345664" crc="803b8549" md5="879c3e87f21610b0a61369a28e4f3f7d" sha1="6e295a808a31552bf974949d36a043ae0d4871df"/>
 	</game>
 	<game name="Nikkei Mac CD 1998.10 Volume 18 (Japan)" type="" sha1="5c2fff3f3718e7947c426c54d240abed70ffca8e" size="404389855" crc="a333d988" fullsha1="ed00ba6d01ffec246a2abdb4b557439fa1240ed6" dataSha1="0ca158b5e2a9574ef7694fff722a9b66b4364ed7">
 		<category>Games</category>
@@ -5430,6 +5570,35 @@
 		<category>Games</category>
 		<description>Prisoner of Ice (France) (En,Fr,De,Nl,Sv) (Covermount)</description>
 		<rom name="Prisoner of Ice (France) (En,Fr,De,Nl,Sv) (Covermount) (Track 01).bin" size="645224160" crc="e7a6b097" md5="f11f01cd8f88b961c20849042f651cc9" sha1="d40c11d03eab672ad4f974cd2b89a5303eb6ad44"/>
+	</game>
+	<game name="Pro Pinball - The Web (Europe)" type="cd" sha1="236af95cd266c54255a903658034590567e517eb" size="209008993" crc="484c4320" fullsha1="c7d463ca447488741fc35d6e4bfa13117d8d83ad" dataSha1="93d0aa9f4c45d40cd5a31d77a8ea110726ae8ef8">
+		<category>Games</category>
+		<description>Pro Pinball - The Web (Europe)</description>
+		<rom name="Pro Pinball - The Web (Europe) (Track 01).bin" size="144866736" crc="ceae8cbd" md5="833d4e681f6517e71e9b3bb54191ea7a" sha1="3e0f6dfc142dfbc6a1faadc3bfa8d4a8929053fa"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 02).bin" size="8827056" crc="931e9e62" md5="c007a1ecff7cdad8a1e6d71006966055" sha1="07e152a09b500cfa758823fa4a3e0e2150b09f69"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 03).bin" size="11997552" crc="10748444" md5="74724206161e3b6041140d8d6a912103" sha1="d0d18097f26fdf9621d159611941c08327b0fb0d"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 04).bin" size="4061904" crc="c668fe08" md5="197e998091aa104463b60db251850a78" sha1="305414c3cb5c51d61f2489e04bb17a773f4ab7d1"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 05).bin" size="8824704" crc="f16d4ec3" md5="350eaa1b939b4f8eac7697a4059b2b51" sha1="1b5377b33977eeef7f693de8fcc5b5cecebe9c61"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 06).bin" size="9177504" crc="59c3608b" md5="368b88e516a0581c7ba6968d29ff917a" sha1="2bd4131a0e486176f4286911553fe728b94b1048"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 07).bin" size="11647104" crc="0eb700cf" md5="03695eb9b80eb81c29e9088de77786a6" sha1="70002f0cefce7f09fd7c22ba2a6ebe9415548cae"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 08).bin" size="12176304" crc="7bcca897" md5="1dc9f25c813747462198135b7c4f3159" sha1="f7a278a40bdef86a9a30cd153a3f48ee3a39779e"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 09).bin" size="10941504" crc="39f96d82" md5="bb99b47c1a8a2c17dc93b1025d5d8c5a" sha1="a3e72fca41abc4e34c992bd5984e96b2e370ea89"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 10).bin" size="9177504" crc="6b759846" md5="ce9bb4e878a2263047a20e14a1bb4552" sha1="8259a7453af761a2286fc10a00b616c523979423"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 11).bin" size="30874704" crc="578da46e" md5="d8797bc29064f9e4a1100022c15ba39d" sha1="684bf69efb4e368c0cdf90d7114860608f5febd2"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 12).bin" size="21172704" crc="07349a1e" md5="6709b301343be6072129ce32d2d51223" sha1="d5127936fe2c6097ec90708ddcb1212f480b685a"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 13).bin" size="21175056" crc="5cd416b1" md5="86cb96600d11986dabab2da89ed19ab8" sha1="b9871d9acc26de6518eed5d483ecb4c9db867c76"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 14).bin" size="11291952" crc="7d19997c" md5="69f9ace772190b3695c1afaf01554a40" sha1="0ba90ad268c6fe2d6dd25962a31208eb85ad9fc5"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 15).bin" size="22231104" crc="4dea233a" md5="2c3e3897706d2785d4b598e7c9a3bca3" sha1="1c58a18c65eb2fa5729d9450ae22502524639ff4"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 16).bin" size="22231104" crc="4dea233a" md5="2c3e3897706d2785d4b598e7c9a3bca3" sha1="1c58a18c65eb2fa5729d9450ae22502524639ff4"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 17).bin" size="6178704" crc="e5032b30" md5="0a3ddfa85586b685e93735db68e0457b" sha1="9eeb5f21d3e92653e1fd2f78964c5ac744c50776"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 18).bin" size="12352704" crc="100dc0df" md5="3ada1f8e3b855b59e7a0dd88d608f3e9" sha1="3ac6b2b8f7f786d8c6e007da8a8ca3b427c4b364"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 19).bin" size="2650704" crc="6ce4c915" md5="9b3457c4685e64bc4f55fd64a664e45e" sha1="5805a1d0fa620e16a7230c32665b3994b509b6ea"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 20).bin" size="3356304" crc="e0fcae12" md5="ba0618fb73cdcdc44f4e901677cc09a1" sha1="03fad339bb38a3811c8d350335a96b4a25b210b0"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 21).bin" size="28934304" crc="19f1f027" md5="a453553c67e6a843b1c9f0c947d0e7f8" sha1="a7de7a93da91b45e393d97236117dac73c5b1215"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 22).bin" size="28934304" crc="db5bfda2" md5="f6b0da4b5be7af9251918f1527f40ad3" sha1="a364f99b7999aaf7b7f165eb03083c79cda588d0"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 23).bin" size="6531504" crc="bf3358ce" md5="2f86ec354d904ab4285808595289e28e" sha1="51f2cd4782f8f4cb31ec3263b46b33da73e54b08"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 24).bin" size="2827104" crc="c9df7881" md5="d24f70416aed82a0cedf0064809bbd34" sha1="c65a5bfb0088418c83f70227e085d0f6e48cf4c0"/>
+		<rom name="Pro Pinball - The Web (Europe) (Track 25).bin" size="5823552" crc="dbb91552" md5="b3531fdda9f1041ec3130ece3837cef7" sha1="92d5368ef35f79509567697bc376ee2a1f979e04"/>
 	</game>
 	<game name="Putt-Putt Joins the Parade (USA)" type="cd" sha1="fc7b17d1186e947d38011c1fd48db6bdef2c5e06" size="69821132" crc="9a99d056" fullsha1="0b696f5a52c8f78cf4546473658f0e5adb599ea4" dataSha1="515a73470ab67edbbccfbf5914b02470f128c26d">
 		<category>Games</category>
@@ -6379,6 +6548,11 @@
 		<description>Star Trek - 25th Anniversary Enhanced CD-ROM (Japan)</description>
 		<rom name="Star Trek - 25th Anniversary Enhanced CD-ROM (Japan) (Track 01).bin" size="714586992" crc="87ada810" md5="5b5d5325b2cb031d8864d5e847639c74" sha1="19dfe80be58606b0ad9dce18e8db3abc27b103bf"/>
 	</game>
+	<game name="Star Trek - 25th Anniversary Enhanced CD-ROM (USA)" type="cd" sha1="67fd12ac292de1f53f7bc9572604aedb34f3e135" size="376895050" crc="58515dd1" fullsha1="e6e2de59adedd3b155b964e204a6212e31146e65" dataSha1="826aeb25f99994194fc75699b5f44fde81ff7a9c">
+		<category>Games</category>
+		<description>Star Trek - 25th Anniversary Enhanced CD-ROM (USA)</description>
+		<rom name="Star Trek - 25th Anniversary Enhanced CD-ROM (USA) (Track 01).bin" size="765107952" crc="ab691cec" md5="896994bd7fed6ab5fc49d16153299c9b" sha1="6be44879841ea734ad7ef40bbc74f0bfd7d6af09"/>
+	</game>
 	<game name="Star Trek - Elite Force II (USA) (Disc 1)" type="cd" sha1="e35fb646bd6db4f9ecae2e8161b874da86d1135e" size="675454449" crc="d204d1e3" fullsha1="84a8cdabcebe0989775132c5185f0ff3813d1d6d" dataSha1="bf14e56765817b43d07dfaef70b43c0fd11aa1fe">
 		<category>Games</category>
 		<description>Star Trek - Elite Force II (USA) (Disc 1)</description>
@@ -6857,6 +7031,11 @@
 		<description>Ultimate Doom, The (USA)</description>
 		<rom name="Ultimate Doom, The (USA) (Track 01).bin" size="48881616" crc="207b3f28" md5="99b896441ce87be151abb2c846e96b3e" sha1="0fe6cf19aae4f95685fdfb716db08def2c95b9f5"/>
 	</game>
+	<game name="Under a Killing Moon (USA) (Disc 1)" type="cd" sha1="bb61196ecfe0b9f1c849a923745d0ab78f57f0be" size="322172160" crc="6f93a152" fullsha1="8addc095ab97b47dbb2f6699711418e13ec23fd6" dataSha1="a26a98b9302873dd86fd057d1ebc505452c31a9e">
+		<category>Games</category>
+		<description>Under a Killing Moon (USA) (Disc 1)</description>
+		<rom name="Under a Killing Moon (USA) (Disc 1) (Track 01).bin" size="510830880" crc="d5388ab0" md5="b83890d52cefb8c8e535850dbd2181b6" sha1="0739fd615dd03b862e5eb076319f7bd5ed038b23"/>
+	</game>
 	<game name="Unreal (USA)" type="" sha1="5b30c8e0701dfb11db6e1712b69e6a15964f7131" size="474602207" crc="f691a93f" fullsha1="2969a84cbffcebc9ed833c92b6d2fe29de2900aa" dataSha1="45f4c7e3420c54b04a6e7eaa47a0ff92d05a9fda">
 		<category>Games</category>
 		<description>Unreal (USA)</description>
@@ -7095,6 +7274,11 @@
 		<category>Games</category>
 		<description>Worms World Party (Europe) (Art Assets)</description>
 		<rom name="Worms World Party (Europe) (Art Assets) (Track 01).bin" size="615033888" crc="779bb185" md5="367e77fe4db63964209cb6c44ab79f99" sha1="b8cbb237b36a1c010c2520d4cb875e35464aa526"/>
+	</game>
+	<game name="Wrath of the Gods (USA)" type="cd" sha1="0399448c236a6a6287920f679b3d3b476fc71191" size="238999654" crc="fa67c90d" fullsha1="a3ae108ef1271046db290e9e55470d1ec2d21aec" dataSha1="69c3b75ffe2c6f807341c91fa7be9ce222c7c044">
+		<category>Games</category>
+		<description>Wrath of the Gods (USA)</description>
+		<rom name="Wrath of the Gods (USA) (Track 01).bin" size="505595328" crc="e1d97c0a" md5="3ee1b2b099b11ac061746053e7b9c587" sha1="0544c6ba7f0b1833cb6299efe79708b5ce3cf9f2"/>
 	</game>
 	<game name="X-Plane 9 (USA) (Disc 1) (X-Plane 9 Program Plus U.S. Scenery)" type="dvd" sha1="e7187d5c9a560d5d2a9c0ff6cc13f4b9221d4590" size="7344671611" crc="642041ce" fullsha1="a31c2587085fdf422bb14cd961c7e136e1ba6a7d" dataSha1="1d6f8bb2543fe07bc48db5560e2ea26364d14259">
 		<category>Games</category>

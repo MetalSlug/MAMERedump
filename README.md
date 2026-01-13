@@ -73,7 +73,7 @@ Following Sets contains ISO Files
 |Redump												|Version   |Have		|MIA		|Size		|MAME					|MAME Duplicates	|
 |---------------------------------------------------|----------|------------------------|-----------|-----------|-----------|-----------|
 **Acorn - Archimedes**|2025-10-23|77|0|16 GB||
-Apple - Macintosh|2025-12-30|1168|173|640 GB|mac_cdrom|
+Apple - Macintosh|2025-12-30|1196|145|653 GB|mac_cdrom|
 Arcade - Konami - e-Amusement|2025-09-28|27|22|26 GB||
 **Arcade - Konami - FireBeat**|2024-03-16|10|0|8 GB||
 **Arcade - Konami - System 573**|2024-04-22|44|0|8 GB||
@@ -82,7 +82,7 @@ Arcade - Konami - e-Amusement|2025-09-28|27|22|26 GB||
 **Arcade - Namco - System 246**|2025-09-28|13|0|8 GB||
 Arcade - Sega - Chihiro|2025-10-07|17|2|11 GB||
 Arcade - Sega - Lindbergh|2025-09-14|68|2|174 GB||
-Arcade - Sega - Naomi 2|2025-09-28|12|1|3 GB||
+**Arcade - Sega - Naomi 2**|2025-09-28|13|0|3 GB||
 **Arcade - Sega - Naomi**|2025-11-08|34|0|4 GB||
 Arcade - Sega - RingEdge 2|2025-10-11|34|8|153 GB||
 Arcade - Sega - RingEdge|2025-11-09|33|16|132 GB||
@@ -128,4 +128,4 @@ Sony - PlayStation Portable|2026-01-05|3437|6|2 TB||
 VM Labs - NUON|2025-01-23|9|2|8 GB|nuon|6 GB
 **VTech - V.Flash & V.Smile Pro**|2025-11-04|51|0|9 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2025-12-08|16|0|50 GB||
-Total||100810|16339|86 TB||1 TB
+Total||100839|16310|86 TB||1 TB

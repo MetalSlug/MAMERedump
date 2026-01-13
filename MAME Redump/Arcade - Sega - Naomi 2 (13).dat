@@ -5,7 +5,7 @@
 		<name>Arcade - Sega - Naomi 2</name>
 		<description>MAME Redump - Arcade - Sega - Naomi 2 - Discs (13) (2025-09-28 21-28-00)</description>
 		<version>0.281</version>
-		<date>2026-01-11</date>
+		<date>2026-01-12</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -63,6 +63,11 @@
 		<category>Games</category>
 		<description>Virtua Fighter 4 (Japan) (Rev B)</description>
 		<disk name="Virtua Fighter 4 (Japan) (Rev B).chd" sha1="41f15b371efb0cee97291a7654452433fd4a7084" />
+	</machine>
+	<machine name="Virtua Fighter 4 (Japan) (Rev C)">
+		<category>Games</category>
+		<description>Virtua Fighter 4 (Japan) (Rev C)</description>
+		<disk name="Virtua Fighter 4 (Japan) (Rev C).chd" sha1="dd91e9cb020c5b8912e45c9e821497b24d0c3c1d" />
 	</machine>
 	<machine name="Virtua Striker 3 (World) (En,Ja)">
 		<category>Games</category>
