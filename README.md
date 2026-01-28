@@ -119,7 +119,7 @@ Philips - CD-i|2026-01-02|2530|10|759 GB|cdi|139 GB
 Sega - Saturn|2025-12-29|4427|12|1 TB|saturn|132 GB
 **Sharp - X68000**|2025-06-16|30|0|6 GB||
 **SNK - Neo Geo CD**|2025-11-07|218|0|60 GB|neocd|847 MB
-Sony - PlayStation 2|2026-01-06|11730|6|15 TB||
+Sony - PlayStation 2|2026-01-06|11735|1|15 TB||
 ~~Sony - PlayStation 3~~|2026-01-05|0|4466|||
 Sony - PlayStation Portable|2026-01-05|3437|6|2 TB||
 **Sony - PlayStation**|2026-01-05|11698|0|3 TB|psx|590 GB
@@ -128,4 +128,4 @@ Sony - PlayStation Portable|2026-01-05|3437|6|2 TB||
 VM Labs - NUON|2025-01-23|9|2|8 GB|nuon|6 GB
 **VTech - V.Flash & V.Smile Pro**|2025-11-04|51|0|9 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2025-12-08|16|0|50 GB||
-Total||102348|14801|88 TB||1 TB
+Total||102353|14796|88 TB||1 TB
