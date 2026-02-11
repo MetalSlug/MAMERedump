@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>3do</name>
+		<description>3do</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="cowcasn\cowboy casino (usa)" type="cd" sha1="5b6d8ea9b21f2994c509e0b89cd2fb5419404b7d" size="177930997" crc="86dde8ec" fullsha1="de6bec33f1e71f401be0c166fdb6a8a8129fd6a4" dataSha1="45aff51a12a5cc49c235cbe9be44f015f0f676d2">
+		<category>Games</category>
+		<description>cowcasn\cowboy casino (usa)</description>
+		<rom name="cowboy casino (usa) (Track 01).bin" size="313455744" crc="1d48b747" md5="a43f3d41da82b3e19e033946610ff99f" sha1="667a8a67ae4ae5415641cbe85fe554e63fcbcd03"/>
+	</game>
+	<game name="cpquazar\captain quazar (usa)" type="cd" sha1="71944d2e5422540040ee0a1e8b247386141a81b4" size="443366803" crc="e6e813b6" fullsha1="89614a3d92d839e50d2f49586a500a7e87550870" dataSha1="56e4c88f06c7f2bfabc20196a481e002b0b53c00">
+		<category>Games</category>
+		<description>cpquazar\captain quazar (usa)</description>
+		<rom name="captain quazar (usa) (Track 01).bin" size="776870304" crc="6d632812" md5="1c305cad878ab049d632f734bab833f3" sha1="9c2a3c94a205fa0e24c1a5446bac0e7048ff7aff"/>
+	</game>
+	<game name="espnfit\espn fitness pros - step aerobics (usa)" type="cd" sha1="4c45938cf0f6a38c86f211f0f058047b5159e294" size="458858835" crc="9f5e0c72" fullsha1="2edafbf67c30d57b6729e585b44ea513f4057e31" dataSha1="5dc4e9c63be1a8e6fadfffe7c978f6c2c0166932">
+		<category>Games</category>
+		<description>espnfit\espn fitness pros - step aerobics (usa)</description>
+		<rom name="espn fitness pros - step aerobics (usa) (Track 01).bin" size="675071040" crc="3b8580fa" md5="40576e667e3144227b4b10d70783b8bf" sha1="7190a7225710108a27b0119907b941d464407f89"/>
+	</game>
+	<game name="virtuoso\virtuoso (usa)" type="cd" sha1="6e79af1040c62783784ff57731cad98bdf4718d9" size="284387369" crc="96462cfa" fullsha1="53dae9f7bc34f28aeb27ac4060fdc7c12ca54dd9" dataSha1="f469a9024fe0dc2931ff924ad4b6fb31d8b43986">
+		<category>Games</category>
+		<description>virtuoso\virtuoso (usa)</description>
+		<rom name="virtuoso (usa) (Track 01).bin" size="422184000" crc="8d170e35" md5="41c09026409a368d682eb842f600471a" sha1="6b622fcb3863395ccb0ba10c45097cba6004ccf8"/>
+	</game>
+	<game name="vpreika\virtual puppet reika (japan)" type="cd" sha1="b90258fe6a9728896752f1d80538a8ecda711de8" size="380240042" crc="f47b3827" fullsha1="4ce00a80bcda8fd6db17c92d60f4bff8f8c2f8d5" dataSha1="315891095eee6b5755076c3a4aa75d82f26d51dc">
+		<category>Games</category>
+		<description>vpreika\virtual puppet reika (japan)</description>
+		<rom name="virtual puppet reika (japan) (Track 01).bin" size="572363904" crc="4cc06f05" md5="6155bb2cee884ac40de16a6c26829b8d" sha1="fe3957e04b4b76226788cf30b7ecf45ddc6d0ebd"/>
+	</game>
+</datafile>

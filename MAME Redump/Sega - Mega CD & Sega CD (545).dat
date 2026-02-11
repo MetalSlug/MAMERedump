@@ -5,7 +5,7 @@
 		<name>Sega - Mega CD &amp; Sega CD</name>
 		<description>MAME Redump - Sega - Mega CD &amp; Sega CD - Discs (545) (2025-11-07 05-10-25)</description>
 		<version>0.281</version>
-		<date>2026-01-28</date>
+		<date>2026-02-10</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -273,6 +273,8 @@
 	<machine name="Blackhole Assault (Europe)">
 		<category>Games</category>
 		<description>Blackhole Assault (Europe)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<disk name="Blackhole Assault (Europe).chd" sha1="cd75921e9b2227d6bc3eaf9b62fbd8f3e19df94e" />
 	</machine>
 	<machine name="Blackhole Assault (USA)">
@@ -1101,6 +1103,8 @@
 	<machine name="Heavy Nova (Japan) (Beta) (1991-11-02)">
 		<category>Preproduction</category>
 		<description>Heavy Nova (Japan) (Beta) (1991-11-02)</description>
+		<year>1991</year>
+		<manufacturer>Micronet</manufacturer>
 		<disk name="Heavy Nova (Japan) (Beta) (1991-11-02).chd" sha1="e088ac7523c78c860c7ed66484fc9873bc1d670e" />
 	</machine>
 	<machine name="Heimdall (Japan)">
@@ -1359,6 +1363,8 @@
 	<machine name="Loadstar - The Legend of Tully Bodine (USA) (Beta)">
 		<category>Preproduction</category>
 		<description>Loadstar - The Legend of Tully Bodine (USA) (Beta)</description>
+		<year>1994</year>
+		<manufacturer>Rocket Science Games</manufacturer>
 		<disk name="Loadstar - The Legend of Tully Bodine (USA) (Beta).chd" sha1="645762b7e610b93b28366b82dd1880d5e6d96dae" />
 	</machine>
 	<machine name="Loadstar - The Legend of Tully Bodine (USA, Brazil)">
@@ -1403,7 +1409,7 @@
 		<category>Games</category>
 		<description>Lunar - Eternal Blue (USA) (RE)</description>
 		<year>1995</year>
-		<manufacturer>Game Arts</manufacturer>
+		<manufacturer>Working Designs</manufacturer>
 		<disk name="Lunar - Eternal Blue (USA) (RE).chd" sha1="e93c3f2cd946e0ea1ea3cdecbf24e55d7acb5732" />
 	</machine>
 	<machine name="Lunar - The Silver Star (Japan)">
@@ -1879,7 +1885,7 @@
 		<category>Games</category>
 		<description>Popful Mail (USA) (RE)</description>
 		<year>1995</year>
-		<manufacturer>Sega</manufacturer>
+		<manufacturer>Working Designs</manufacturer>
 		<disk name="Popful Mail (USA) (RE).chd" sha1="b87c7ffd99dbd37e6a775f4edc296365b260deb3" />
 	</machine>
 	<machine name="PopfulMail (Japan)">
@@ -2177,6 +2183,8 @@
 	<machine name="Secret of Monkey Island, The (USA) (Limited Run Games)">
 		<category>Games</category>
 		<description>Secret of Monkey Island, The (USA) (Limited Run Games)</description>
+		<year>2020</year>
+		<manufacturer>Limited Run Games</manufacturer>
 		<disk name="Secret of Monkey Island, The (USA) (Limited Run Games).chd" sha1="565cfd79331466d126d1b98048af79ee20a545b5" />
 	</machine>
 	<machine name="Secret of Monkey Island, The (USA) (RE)">
@@ -3254,6 +3262,8 @@
 	<machine name="Yumemi Yakata no Monogatari (Japan)">
 		<category>Games</category>
 		<description>Yumemi Yakata no Monogatari (Japan)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
 		<disk name="Yumemi Yakata no Monogatari (Japan).chd" sha1="ae427586b9d20353461633b697bb29198dee77fb" />
 	</machine>
 	<machine name="Yumemi Yakata no Monogatari (Japan) (Demo)">

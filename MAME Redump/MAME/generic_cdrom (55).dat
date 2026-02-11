@@ -1,0 +1,295 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>generic_cdrom</name>
+		<description>MAME Redump - generic_cdrom</description>
+		<version>0.281</version>
+		<date>2026-02-10</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="geolight\geolight">
+		<category>Games</category>
+		<description>Geo Light Moon (Japan v1.00)</description>
+		<year>1997</year>
+		<manufacturer>Nihon Softec / J-Ware</manufacturer>
+		<disk name="geolight\geolight.chd" sha1="e49202c3ff76db5f7fb5f794655d40cc91acb4d9" />
+	</machine>
+	<machine name="jakebrstj\jake_b">
+		<category>Games</category>
+		<description>Jake Burst (Japan)</description>
+		<year>1997</year>
+		<manufacturer>Sierra / Pioneer Inc</manufacturer>
+		<disk name="jakebrstj\jake_b.chd" sha1="5efd03633979db40cd37a4c1ba1176cdb8b35c83" />
+	</machine>
+	<machine name="kotobuki\kotobuki">
+		<category>Games</category>
+		<description>Kotobuki (Japan)</description>
+		<year>1997</year>
+		<manufacturer>C's Ware</manufacturer>
+		<disk name="kotobuki\kotobuki.chd" sha1="7b0afa327d4b4d4be2c1069e60d9679900db93b8" />
+	</machine>
+	<machine name="ku2impact\ku2impact">
+		<category>Games</category>
+		<description>KU2 Impact (Japan)</description>
+		<year>1995</year>
+		<manufacturer>Panther Software</manufacturer>
+		<disk name="ku2impact\ku2impact.chd" sha1="2e1f1c8ce81065fcdf2081daa97c72180243f1e0" />
+	</machine>
+	<machine name="v16imagine\GX">
+		<category>Games</category>
+		<description>v16imagine\GX</description>
+		<disk name="v16imagine\GX.chd" sha1="5de4abf4a883a56ec389bb255d176b5a39a63420" />
+	</machine>
+	<machine name="v16rise\GX4">
+		<category>Games</category>
+		<description>v16rise\GX4</description>
+		<disk name="v16rise\GX4.chd" sha1="a600a961b5127d3a5ee368c20d9f54e6ede23b81" />
+	</machine>
+	<machine name="winnt31\da-dk windows nt 3.10.528.1">
+		<category>Games</category>
+		<description>winnt31_dadk\da-dk windows nt 3.10.528.1</description>
+		<disk name="winnt31\da-dk windows nt 3.10.528.1.chd" sha1="ae88ac0bbea68565189b6fdafe86f8e66ff9e9b4" />
+	</machine>
+	<machine name="winnt31\de-de windows nt 3.10.511.1">
+		<category>Games</category>
+		<description>winnt31_dede\de-de windows nt 3.10.511.1</description>
+		<disk name="winnt31\de-de windows nt 3.10.511.1.chd" sha1="5ea4098f8b0bf00bdb00af9d56a0ee2df01fdb13" />
+	</machine>
+	<machine name="winnt31\en-us windows nt 3.10.511.1">
+		<category>Games</category>
+		<description>winnt31o2\en-us windows nt 3.10.511.1</description>
+		<disk name="winnt31\en-us windows nt 3.10.511.1.chd" sha1="ce0cd139bf0b022e9d46d530b11cf0a7b32fa22b" />
+	</machine>
+	<machine name="winnt31\en-us windows nt 3.10.528.1">
+		<category>Games</category>
+		<description>winnt31o1\en-us windows nt 3.10.528.1</description>
+		<disk name="winnt31\en-us windows nt 3.10.528.1.chd" sha1="1601864708df96e3f4ff57329bc6e384cd000494" />
+	</machine>
+	<machine name="winnt31\en-us windows nt 3.10.528.1 1994">
+		<category>Games</category>
+		<description>winnt31\en-us windows nt 3.10.528.1 1994</description>
+		<disk name="winnt31\en-us windows nt 3.10.528.1 1994.chd" sha1="2076b06f7a975903265a1498b69e7fe4932d196e" />
+	</machine>
+	<machine name="winnt31\en-us windows nt advanced server 3.10.511.1">
+		<category>Games</category>
+		<description>winnt31aso\en-us windows nt advanced server 3.10.511.1</description>
+		<disk name="winnt31\en-us windows nt advanced server 3.10.511.1.chd" sha1="afe907bfd1593a4d86a189ea1dd168cc803b0385" />
+	</machine>
+	<machine name="winnt31\en-us windows nt advanced server 3.10.528.1">
+		<category>Games</category>
+		<description>winnt31as\en-us windows nt advanced server 3.10.528.1</description>
+		<disk name="winnt31\en-us windows nt advanced server 3.10.528.1.chd" sha1="ccdc9056a1343198d95d6513e90f6037f73c7507" />
+	</machine>
+	<machine name="winnt31\es-es windows nt 3.10.511.1">
+		<category>Games</category>
+		<description>winnt31_eses\es-es windows nt 3.10.511.1</description>
+		<disk name="winnt31\es-es windows nt 3.10.511.1.chd" sha1="ff032060d15982d3724ea17b683faab8c4c07e27" />
+	</machine>
+	<machine name="winnt31\fi-fi windows nt 3.10.528.1">
+		<category>Games</category>
+		<description>winnt31_fifi\fi-fi windows nt 3.10.528.1</description>
+		<disk name="winnt31\fi-fi windows nt 3.10.528.1.chd" sha1="9249745d9f6ed9bfd0a10e31e53b886adf6c4991" />
+	</machine>
+	<machine name="winnt31\fr-fr windows nt 3.10.511.1">
+		<category>Games</category>
+		<description>winnt31_frfr\fr-fr windows nt 3.10.511.1</description>
+		<disk name="winnt31\fr-fr windows nt 3.10.511.1.chd" sha1="9a6a6ade986a9ebaf2d84d0b47cb904496656e38" />
+	</machine>
+	<machine name="winnt31\it-it windows nt 3.10.511.1">
+		<category>Games</category>
+		<description>winnt31_itit\it-it windows nt 3.10.511.1</description>
+		<disk name="winnt31\it-it windows nt 3.10.511.1.chd" sha1="4756551eddc21f000194a63e7659078e945367d7" />
+	</machine>
+	<machine name="winnt31\nl-nl windows nt 3.10.511.1">
+		<category>Games</category>
+		<description>winnt31_nlnl\nl-nl windows nt 3.10.511.1</description>
+		<disk name="winnt31\nl-nl windows nt 3.10.511.1.chd" sha1="572eb82f0c2c964798857b117f96438630ddb99c" />
+	</machine>
+	<machine name="winnt31\no-no windows nt 3.10.528.1">
+		<category>Games</category>
+		<description>winnt31_nono\no-no windows nt 3.10.528.1</description>
+		<disk name="winnt31\no-no windows nt 3.10.528.1.chd" sha1="fd3c6c2156510b5128da4aba2aa6bad7821bdf30" />
+	</machine>
+	<machine name="winnt31\pt-br windows nt 3.10.528.1">
+		<category>Games</category>
+		<description>winnt31_ptbr\pt-br windows nt 3.10.528.1</description>
+		<disk name="winnt31\pt-br windows nt 3.10.528.1.chd" sha1="20d3cb0168629c019c33a493b1cc8c976c79523f" />
+	</machine>
+	<machine name="winnt31\sv-se windows nt 3.10.511.1">
+		<category>Games</category>
+		<description>winnt31_svse\sv-se windows nt 3.10.511.1</description>
+		<disk name="winnt31\sv-se windows nt 3.10.511.1.chd" sha1="1b184f2c14e14a43161201af8a5054fcda886c38" />
+	</machine>
+	<machine name="winnt31rk\en-us windows nt resource kit 3.1">
+		<category>Games</category>
+		<description>winnt31rk\en-us windows nt resource kit 3.1</description>
+		<disk name="winnt31rk\en-us windows nt resource kit 3.1.chd" sha1="47cf0f58d254837f6ccfcdbf9f97da2a18954ac0" />
+	</machine>
+	<machine name="winnt31sdk\en-us win32 sdk and ddk 3.10.528.1">
+		<category>Games</category>
+		<description>winnt31sdk\en-us win32 sdk and ddk 3.10.528.1</description>
+		<disk name="winnt31sdk\en-us win32 sdk and ddk 3.10.528.1.chd" sha1="57c11eed25ff459ee793ed8dea867c3e498436f7" />
+	</machine>
+	<machine name="winnt31sp2\de-de,es-es,fr-fr,it-it,nl-nl,sv-se windows nt 3.1 service pack 2">
+		<category>Games</category>
+		<description>winnt31sp2\de-de,es-es,fr-fr,it-it,nl-nl,sv-se windows nt 3.1 service pack 2</description>
+		<disk name="winnt31sp2\de-de,es-es,fr-fr,it-it,nl-nl,sv-se windows nt 3.1 service pack 2.chd" sha1="80a87b68916e88f737e51a97b25d7c7491bbca1a" />
+	</machine>
+	<machine name="winnt31sp2\en-us,no-no windows nt 3.1 service pack 2">
+		<category>Games</category>
+		<description>winnt31sp2\en-us,no-no windows nt 3.1 service pack 2</description>
+		<disk name="winnt31sp2\en-us,no-no windows nt 3.1 service pack 2.chd" sha1="f3fee15a27e2b12754780221557bcb45f94547f6" />
+	</machine>
+	<machine name="winnt31sp3\de-de,es-es,fr-fr,it-it,nl-nl windows nt 3.1 service pack 3">
+		<category>Games</category>
+		<description>winnt31sp3\de-de,es-es,fr-fr,it-it,nl-nl windows nt 3.1 service pack 3</description>
+		<disk name="winnt31sp3\de-de,es-es,fr-fr,it-it,nl-nl windows nt 3.1 service pack 3.chd" sha1="5df436edf008ca65ff52935c4a5648a9f0700bfa" />
+	</machine>
+	<machine name="winnt31sp3\en-us,sv-se windows nt 3.1 service pack 3">
+		<category>Games</category>
+		<description>winnt31sp3\en-us,sv-se windows nt 3.1 service pack 3</description>
+		<disk name="winnt31sp3\en-us,sv-se windows nt 3.1 service pack 3.chd" sha1="3694700981f128bce3c5ab0802804c5ce53437d5" />
+	</machine>
+	<machine name="winnt35\en-us windows nt server 3.50.807.1">
+		<category>Games</category>
+		<description>winnt35s\en-us windows nt server 3.50.807.1</description>
+		<disk name="winnt35\en-us windows nt server 3.50.807.1.chd" sha1="36f00cb5b6fbca8c78fd1a1f8af0f74fb885523a" />
+	</machine>
+	<machine name="winnt35\en-us windows nt workstation 3.50.807.1">
+		<category>Games</category>
+		<description>winnt35\en-us windows nt workstation 3.50.807.1</description>
+		<disk name="winnt35\en-us windows nt workstation 3.50.807.1.chd" sha1="aa5bb83088f0bc7638bceba6aafb2da37c3bfc84" />
+	</machine>
+	<machine name="winnt351\en-us windows nt server 3.51.1057.1">
+		<category>Games</category>
+		<description>winnt351s\en-us windows nt server 3.51.1057.1</description>
+		<disk name="winnt351\en-us windows nt server 3.51.1057.1.chd" sha1="0d2eb5f3b58b911b4add1c5e34b8de4bc7f10da0" />
+	</machine>
+	<machine name="winnt351\en-us windows nt workstation 3.51.1057.1">
+		<category>Games</category>
+		<description>winnt351\en-us windows nt workstation 3.51.1057.1</description>
+		<disk name="winnt351\en-us windows nt workstation 3.51.1057.1.chd" sha1="3e6cde1107d08e129d5dcdfa223b67ff9717e391" />
+	</machine>
+	<machine name="winnt351rk\en-us windows nt resource kit 3.51">
+		<category>Games</category>
+		<description>winnt351rk\en-us windows nt resource kit 3.51</description>
+		<disk name="winnt351rk\en-us windows nt resource kit 3.51.chd" sha1="ff198e230549abeaf45a5b5af9a5d414ac04a9ec" />
+	</machine>
+	<machine name="winnt351sp1\en-us windows nt 3.51 service pack 1">
+		<category>Games</category>
+		<description>winnt351sp1\en-us windows nt 3.51 service pack 1</description>
+		<disk name="winnt351sp1\en-us windows nt 3.51 service pack 1.chd" sha1="56cc61a75db266cfbfd3c84c750a567dd50ae6a5" />
+	</machine>
+	<machine name="winnt351sp3\en-us windows nt 3.51 service pack 3">
+		<category>Games</category>
+		<description>winnt351sp3\en-us windows nt 3.51 service pack 3</description>
+		<disk name="winnt351sp3\en-us windows nt 3.51 service pack 3.chd" sha1="07f0a5063a6de68ce45c48d50259925362cae7f3" />
+	</machine>
+	<machine name="winnt351sp4\de-de,en-us,fr-fr,it-it windows nt 3.51 service pack 4">
+		<category>Games</category>
+		<description>winnt351sp4\de-de,en-us,fr-fr,it-it windows nt 3.51 service pack 4</description>
+		<disk name="winnt351sp4\de-de,en-us,fr-fr,it-it windows nt 3.51 service pack 4.chd" sha1="cbb9f303b2c67d5a51a3c91c6026f1b0331db61d" />
+	</machine>
+	<machine name="winnt35rk\en-us windows nt resource kit 3.5">
+		<category>Games</category>
+		<description>winnt35rk\en-us windows nt resource kit 3.5</description>
+		<disk name="winnt35rk\en-us windows nt resource kit 3.5.chd" sha1="aadea0f25dae3f8030e490eb2d86a68be6530031" />
+	</machine>
+	<machine name="winnt35sp2\da-dk,fi-fi,no-no windows nt 3.5 service pack 2">
+		<category>Games</category>
+		<description>winnt35sp2\da-dk,fi-fi,no-no windows nt 3.5 service pack 2</description>
+		<disk name="winnt35sp2\da-dk,fi-fi,no-no windows nt 3.5 service pack 2.chd" sha1="edbe147248471922dad9ebbc0ef2078c489e8de6" />
+	</machine>
+	<machine name="winnt35sp2\de-de,es-es,fr-fr,it-it,nl-nl windows nt 3.5 service pack 2">
+		<category>Games</category>
+		<description>winnt35sp2\de-de,es-es,fr-fr,it-it,nl-nl windows nt 3.5 service pack 2</description>
+		<disk name="winnt35sp2\de-de,es-es,fr-fr,it-it,nl-nl windows nt 3.5 service pack 2.chd" sha1="7db03d847f44a9a4a9eec601b5c0f1065919a76e" />
+	</machine>
+	<machine name="winnt35sp2\en-us windows nt 3.5 service pack 2">
+		<category>Games</category>
+		<description>winnt35sp2\en-us windows nt 3.5 service pack 2</description>
+		<disk name="winnt35sp2\en-us windows nt 3.5 service pack 2.chd" sha1="e166f63dbb17ec2712b2838f00e932b6f61d9228" />
+	</machine>
+	<machine name="winnt35sp2\pt-br,sv-se windows nt 3.5 service pack 2">
+		<category>Games</category>
+		<description>winnt35sp2\pt-br,sv-se windows nt 3.5 service pack 2</description>
+		<disk name="winnt35sp2\pt-br,sv-se windows nt 3.5 service pack 2.chd" sha1="76f466c14433a5f5baed963e06d657ca1c06f8ef" />
+	</machine>
+	<machine name="winnt40\en-us windows nt enterprise server 4.0.1381.4 disc 1">
+		<category>Games</category>
+		<description>winnt40e\en-us windows nt enterprise server 4.0.1381.4 disc 1</description>
+		<disk name="winnt40\en-us windows nt enterprise server 4.0.1381.4 disc 1.chd" sha1="35f1693e9f40dee0d9019a0db3dbaa01812d596d" />
+	</machine>
+	<machine name="winnt40\en-us windows nt enterprise server 4.0.1381.4 disc 2">
+		<category>Games</category>
+		<description>winnt40e\en-us windows nt enterprise server 4.0.1381.4 disc 2</description>
+		<disk name="winnt40\en-us windows nt enterprise server 4.0.1381.4 disc 2.chd" sha1="80e4aebb1808a1c3ea43b2f401874612d0ff0394" />
+	</machine>
+	<machine name="winnt40\en-us windows nt server 4.0.1381.1">
+		<category>Games</category>
+		<description>winnt40so\en-us windows nt server 4.0.1381.1</description>
+		<disk name="winnt40\en-us windows nt server 4.0.1381.1.chd" sha1="c9d25d4abcb72653929624545c24f3ce7e09b63e" />
+	</machine>
+	<machine name="winnt40\en-us windows nt server 4.0.1381.2">
+		<category>Games</category>
+		<description>winnt40s\en-us windows nt server 4.0.1381.2</description>
+		<disk name="winnt40\en-us windows nt server 4.0.1381.2.chd" sha1="88d1b561763834b822fbcd28c3d3b32ad28b24c5" />
+	</machine>
+	<machine name="winnt40\en-us windows nt terminal server 4.0.419.1">
+		<category>Games</category>
+		<description>winnt40ts\en-us windows nt terminal server 4.0.419.1</description>
+		<disk name="winnt40\en-us windows nt terminal server 4.0.419.1.chd" sha1="31b87bdf7ad173ba1643c2b11acb08a45fa17ae1" />
+	</machine>
+	<machine name="winnt40\en-us windows nt workstation 4.0.1381.1">
+		<category>Games</category>
+		<description>winnt40o\en-us windows nt workstation 4.0.1381.1</description>
+		<disk name="winnt40\en-us windows nt workstation 4.0.1381.1.chd" sha1="250083b2b150b6930bc544f5b1dc135a6387f669" />
+	</machine>
+	<machine name="winnt40\en-us windows nt workstation 4.0.1381.2">
+		<category>Games</category>
+		<description>winnt40\en-us windows nt workstation 4.0.1381.2</description>
+		<disk name="winnt40\en-us windows nt workstation 4.0.1381.2.chd" sha1="fe7fa62edebcf2484b5ed0da4ea258498f6f36e0" />
+	</machine>
+	<machine name="winnt40opt\en-us windows nt 4.0 option pack">
+		<category>Games</category>
+		<description>winnt40opt\en-us windows nt 4.0 option pack</description>
+		<disk name="winnt40opt\en-us windows nt 4.0 option pack.chd" sha1="19fc52af4301a33a1a0e6cca6b815e8d19005a39" />
+	</machine>
+	<machine name="winnt40rk\en-us windows nt server resource kit 4.0">
+		<category>Games</category>
+		<description>winnt40srk\en-us windows nt server resource kit 4.0</description>
+		<disk name="winnt40rk\en-us windows nt server resource kit 4.0.chd" sha1="c1111892c995c76d0cba8c9667fab569ec3fd178" />
+	</machine>
+	<machine name="winnt40rk\en-us windows nt workstation resource kit 4.0">
+		<category>Games</category>
+		<description>winnt40rk\en-us windows nt workstation resource kit 4.0</description>
+		<disk name="winnt40rk\en-us windows nt workstation resource kit 4.0.chd" sha1="44631b02771339ae053366ad1766a272a57bd96f" />
+	</machine>
+	<machine name="winnt40sp2\en-us windows nt 4.0 service pack 2">
+		<category>Games</category>
+		<description>winnt40sp2\en-us windows nt 4.0 service pack 2</description>
+		<disk name="winnt40sp2\en-us windows nt 4.0 service pack 2.chd" sha1="e07721ee9bae4ca89af067b46115a65926c0c8ba" />
+	</machine>
+	<machine name="winnt40sp3\en-us windows nt 4.0 service pack 3">
+		<category>Games</category>
+		<description>winnt40sp3\en-us windows nt 4.0 service pack 3</description>
+		<disk name="winnt40sp3\en-us windows nt 4.0 service pack 3.chd" sha1="c23ad3b3d1fb8f1f9f81ed70e6c717b56344da04" />
+	</machine>
+	<machine name="winnt40sp4\en-us windows nt 4.0 service pack 4">
+		<category>Games</category>
+		<description>winnt40sp4\en-us windows nt 4.0 service pack 4</description>
+		<disk name="winnt40sp4\en-us windows nt 4.0 service pack 4.chd" sha1="10d1b7ce191612ca9412baa8e45eaa07737f7bd4" />
+	</machine>
+	<machine name="winnt40sp5\en-us windows nt 4.0 service pack 5">
+		<category>Games</category>
+		<description>winnt40sp5\en-us windows nt 4.0 service pack 5</description>
+		<disk name="winnt40sp5\en-us windows nt 4.0 service pack 5.chd" sha1="528de2cb8b9a08cb5f599e49042430b6f16138e4" />
+	</machine>
+	<machine name="winnt40sp6\en-us windows nt 4.0 service pack 6a">
+		<category>Games</category>
+		<description>winnt40sp6\en-us windows nt 4.0 service pack 6a</description>
+		<disk name="winnt40sp6\en-us windows nt 4.0 service pack 6a.chd" sha1="06f03cea52be42dc4c08390be3f031fc12a5434a" />
+	</machine>
+</datafile>

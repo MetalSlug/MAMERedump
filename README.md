@@ -1,4 +1,4 @@
-# MAME Redump 0.284 (WIP)
+# MAME Redump 0.285
 
 The aim of the MAME Redump project is to convert the redump sets to formats that take up little space, such as the chd format. Gamecube and Wii sets have been converted to the NKit2 RVZ format (zstd-19-128k).
 All MAME Software List CHDs are merged or included. You will need to re-compress any Mame CHDs that don't match since 0.263, as Mame uses outdated hashes.
@@ -17,7 +17,10 @@ The program to read the track information or merge the sets is not yet public as
 # Folders in this repository
 
 MAME Redump
-- Current CHD files (sha1 from chd header - combined raw+meta SHA1)
+- Redump CHD files (sha1 from chd header - combined raw+meta SHA1)
+
+MAME Redump / MAME
+- Exclusive MAME CHD files (sha1 from chd header - combined raw+meta SHA1)
 
 MAME Redump / Missing 
 - Missing Redump Games
@@ -94,7 +97,7 @@ Commodore - Amiga CD|2025-11-16|591|2|205 GB|amiga_cd|4 GB
 **Commodore - Amiga CDTV**|2025-10-17|150|0|19 GB|cdtv|5 GB
 **Fujitsu - FM-Towns**|2025-12-12|976|0|143 GB|fmtowns_cd|135 GB
 **funworld - Photo Play**|2025-09-09|17|0|5 GB||5 GB
-IBM - PC compatible|2026-01-06|52948|3822|55 TB|ibm5170_cdrom, generic_cdrom|29 GB
+IBM - PC compatible|2026-01-06|52948|3822|55 TB|ibm5170_cdrom, generic_cdrom|27 GB
 **Incredible Technologies - Eagle**|2023-04-07|7|0|3 GB||
 **Mattel - Fisher-Price iXL**|2023-08-07|26|0|2 GB||
 **Mattel - HyperScan**|2024-02-26|8|0|505 MB||
@@ -103,7 +106,7 @@ IBM - PC compatible|2026-01-06|52948|3822|55 TB|ibm5170_cdrom, generic_cdrom|29 
 ~~Microsoft - Xbox~~|2026-01-05|0|2671|||
 **NEC - PC Engine CD & TurboGrafx CD**|2026-01-06|1040|0|227 GB|pcecd|3 GB
 **NEC - PC-88 series**|2025-05-19|4|0|842 MB|pc8801_cdrom|842 MB
-NEC - PC-98 series|2025-09-18|322|1|53 GB|pc98_cd|12 GB
+NEC - PC-98 series|2025-09-18|323|1|53 GB|pc98_cd|12 GB
 **NEC - PC-FX**|2025-05-14|79|0|30 GB|pcfx|5 GB
 **Nintendo - GameCube**|2026-01-05|2018|0|1 TB||
 **Nintendo - Wii**|2026-01-06|3779|0|6 TB||
@@ -113,8 +116,8 @@ Philips - CD-i|2026-01-02|2530|10|759 GB|cdi|139 GB
 **Photo CD**|2025-12-18|251|0|48 GB|photo_cd|363 MB
 **PlayStation GameShark Updates**|2025-10-23|33|0|567 MB||
 **Pocket PC**|2025-10-09|73|0|11 GB||
-**Sega - Dreamcast**|2026-01-02|2106|0|843 GB|dc|72 GB
-**Sega - Mega-CD - Sega CD**|2025-11-07|812|0|184 GB|megacd|65 GB
+**Sega - Dreamcast**|2026-01-02|2109|0|843 GB|dc|72 GB
+**Sega - Mega-CD - Sega CD**|2025-11-07|812|0|184 GB|megacd|63 GB
 **Sega - Prologue 21**|2024-02-25|30|0|17 GB||
 Sega - Saturn|2025-12-29|4427|12|1 TB|saturn|132 GB
 **Sharp - X68000**|2025-06-16|30|0|6 GB||
@@ -122,10 +125,10 @@ Sega - Saturn|2025-12-29|4427|12|1 TB|saturn|132 GB
 Sony - PlayStation 2|2026-01-06|11735|1|15 TB||
 ~~Sony - PlayStation 3~~|2026-01-05|0|4466|||
 Sony - PlayStation Portable|2026-01-05|3437|6|2 TB||
-**Sony - PlayStation**|2026-01-05|11698|0|3 TB|psx|590 GB
+**Sony - PlayStation**|2026-01-05|11697|0|3 TB|psx|578 GB
 **TAB-Austria - Quizard**|2023-09-13|15|0|4 GB||
 **Tomy - Kiss-Site**|2024-07-11|30|0|3 GB|kisssite_cd|3 GB
 VM Labs - NUON|2025-01-23|9|2|8 GB|nuon|6 GB
 **VTech - V.Flash & V.Smile Pro**|2025-11-04|51|0|9 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2025-12-08|16|0|50 GB||
-Total||102353|14796|88 TB||1 TB
+Total||102356|14796|88 TB||1 TB

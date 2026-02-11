@@ -5,7 +5,7 @@
 		<name>NEC - PC-88 series</name>
 		<description>MAME Redump - NEC - PC-88 series - Discs (4) (2025-05-19 08-26-21)</description>
 		<version>0.281</version>
-		<date>2026-01-11</date>
+		<date>2026-02-10</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -24,11 +24,15 @@
 	<machine name="DIOS (Japan)">
 		<category>Games</category>
 		<description>DIOS (Japan)</description>
+		<year>1990</year>
+		<manufacturer>ザインソフト (Zain Soft)</manufacturer>
 		<disk name="DIOS (Japan).chd" sha1="d7023222681862904756422c1465abeb3b09bd07" />
 	</machine>
 	<machine name="Mirrors (Japan)">
 		<category>Games</category>
 		<description>Mirrors (Japan)</description>
+		<year>1990</year>
+		<manufacturer>ソフトスタジオWING (Soft Studio Wing)</manufacturer>
 		<disk name="Mirrors (Japan).chd" sha1="5ffb6dd65d125379ff020359454d11432ebdee6f" />
 	</machine>
 </datafile>
