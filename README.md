@@ -96,7 +96,7 @@ Commodore - Amiga CD|2025-11-16|591|2|205 GB|amiga_cd|4 GB
 **Commodore - Amiga CD32**|2025-11-13|236|0|27 GB|cd32|9 GB
 **Commodore - Amiga CDTV**|2025-10-17|150|0|19 GB|cdtv|5 GB
 **Fujitsu - FM-Towns**|2025-12-12|976|0|143 GB|fmtowns_cd|135 GB
-**funworld - Photo Play**|2025-09-09|17|0|5 GB||5 GB
+**funworld - Photo Play**|2025-09-09|17|0|5 GB||
 IBM - PC compatible|2026-01-06|52946|3823|55 TB|ibm5170_cdrom, generic_cdrom|28 GB
 **Incredible Technologies - Eagle**|2023-04-07|7|0|3 GB||
 **Mattel - Fisher-Price iXL**|2023-08-07|26|0|2 GB||
