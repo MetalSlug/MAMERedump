@@ -90,14 +90,14 @@ Arcade - Sega - Lindbergh|2025-09-14|68|2|174 GB||
 Arcade - Sega - RingEdge 2|2025-10-11|34|8|153 GB||
 Arcade - Sega - RingEdge|2025-11-09|33|16|132 GB||
 **Atari - Jaguar CD Interactive Multimedia System**|2025-11-06|27|0|5 GB||
-**Bandai - Pippin**|2025-10-23|96|0|21 GB|pippin|5 GB
+**Bandai - Pippin**|2025-10-23|95|0|21 GB|pippin|6 GB
 Bandai - Playdia Quick Interactive System|2025-05-14|37|1|18 GB||
 Commodore - Amiga CD|2025-11-16|591|2|205 GB|amiga_cd|4 GB
 **Commodore - Amiga CD32**|2025-11-13|236|0|27 GB|cd32|9 GB
 **Commodore - Amiga CDTV**|2025-10-17|150|0|19 GB|cdtv|5 GB
 **Fujitsu - FM-Towns**|2025-12-12|976|0|143 GB|fmtowns_cd|135 GB
 **funworld - Photo Play**|2025-09-09|17|0|5 GB||5 GB
-IBM - PC compatible|2026-01-06|52948|3822|55 TB|ibm5170_cdrom, generic_cdrom|27 GB
+IBM - PC compatible|2026-01-06|52946|3823|55 TB|ibm5170_cdrom, generic_cdrom|28 GB
 **Incredible Technologies - Eagle**|2023-04-07|7|0|3 GB||
 **Mattel - Fisher-Price iXL**|2023-08-07|26|0|2 GB||
 **Mattel - HyperScan**|2024-02-26|8|0|505 MB||
@@ -106,29 +106,29 @@ IBM - PC compatible|2026-01-06|52948|3822|55 TB|ibm5170_cdrom, generic_cdrom|27 
 ~~Microsoft - Xbox~~|2026-01-05|0|2671|||
 **NEC - PC Engine CD & TurboGrafx CD**|2026-01-06|1040|0|227 GB|pcecd|3 GB
 **NEC - PC-88 series**|2025-05-19|4|0|842 MB|pc8801_cdrom|842 MB
-NEC - PC-98 series|2025-09-18|323|1|53 GB|pc98_cd|12 GB
+NEC - PC-98 series|2025-09-18|245|1|53 GB|pc98_cd|26 GB
 **NEC - PC-FX**|2025-05-14|79|0|30 GB|pcfx|5 GB
 **Nintendo - GameCube**|2026-01-05|2018|0|1 TB||
 **Nintendo - Wii**|2026-01-06|3779|0|6 TB||
 **Palm**|2025-08-19|158|0|13 GB||
-**Panasonic - 3DO Interactive Multiplayer**|2026-01-06|671|0|188 GB||
-Philips - CD-i|2026-01-02|2530|10|759 GB|cdi|139 GB
+**Panasonic - 3DO Interactive Multiplayer**|2026-01-06|671|0|188 GB|3DO|2 GB
+Philips - CD-i|2026-01-02|2525|10|759 GB|cdi|140 GB
 **Photo CD**|2025-12-18|251|0|48 GB|photo_cd|363 MB
 **PlayStation GameShark Updates**|2025-10-23|33|0|567 MB||
 **Pocket PC**|2025-10-09|73|0|11 GB||
-**Sega - Dreamcast**|2026-01-02|2109|0|843 GB|dc|72 GB
+**Sega - Dreamcast**|2026-01-02|2106|0|843 GB|dc|72 GB
 **Sega - Mega-CD - Sega CD**|2025-11-07|812|0|184 GB|megacd|63 GB
 **Sega - Prologue 21**|2024-02-25|30|0|17 GB||
-Sega - Saturn|2025-12-29|4427|12|1 TB|saturn|132 GB
+Sega - Saturn|2025-12-29|4426|12|1 TB|saturn|132 GB
 **Sharp - X68000**|2025-06-16|30|0|6 GB||
 **SNK - Neo Geo CD**|2025-11-07|218|0|60 GB|neocd|847 MB
 Sony - PlayStation 2|2026-01-06|11735|1|15 TB||
 ~~Sony - PlayStation 3~~|2026-01-05|0|4466|||
 Sony - PlayStation Portable|2026-01-05|3437|6|2 TB||
-**Sony - PlayStation**|2026-01-05|11697|0|3 TB|psx|578 GB
+**Sony - PlayStation**|2026-01-05|11696|0|3 TB|psx|578 GB
 **TAB-Austria - Quizard**|2023-09-13|15|0|4 GB||
 **Tomy - Kiss-Site**|2024-07-11|30|0|3 GB|kisssite_cd|3 GB
 VM Labs - NUON|2025-01-23|9|2|8 GB|nuon|6 GB
 **VTech - V.Flash & V.Smile Pro**|2025-11-04|51|0|9 GB|vsmile_cd|6 GB
 **ZAPiT Games - Game Wave Family Entertainment System**|2025-12-08|16|0|50 GB||
-Total||102356|14796|88 TB||1 TB
+Total||102265|14797|88 TB||1 TB
