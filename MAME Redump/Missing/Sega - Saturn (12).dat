@@ -4,7 +4,7 @@
 	<header>
 		<name>Sega - Saturn</name>
 		<description>MAME Redump - Sega - Saturn - Discs (2405) (2025-12-29 08-15-07)</description>
-		<version>0.285</version>
+		<version>0.286</version>
 		<date>2026-02-12</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -12,7 +12,6 @@
 	<game name="Azel - Panzer Dragoon RPG (Japan) (Disc 4) (4M)" type="">
 		<category>Games</category>
 		<description>Azel - Panzer Dragoon RPG (Japan) (Disc 4) (4M)</description>
-		<rom name="Azel - Panzer Dragoon RPG (Japan) (Disc 4) (4M).cue" size="569" crc="F9BD05B4" md5="7707E3A661EC08AC7A38D4E583F0D402" sha1="E8F29CE333F42E740E5AA2551B81DB3145E6F4D1" />
 		<rom name="Azel - Panzer Dragoon RPG (Japan) (Disc 4) (4M) (Track 1).bin" size="582493968" crc="AE25113E" md5="955FFF0B1B00A24E8C7E2713E8AAB90E" sha1="D039B53491DCEAC55A7133BAF1DEEA2F6A3F3E37" />
 		<rom name="Azel - Panzer Dragoon RPG (Japan) (Disc 4) (4M) (Track 2).bin" size="1909824" crc="758818CC" md5="02CB8864C25E64FC0033FBB1D3686D21" sha1="B425319CC9FCD4E039E60849E50E977B3FBB07A0" />
 		<rom name="Azel - Panzer Dragoon RPG (Japan) (Disc 4) (4M) (Track 3).bin" size="16518096" crc="982D618D" md5="3A763A2D75255EBB97A610DB4D8BB36C" sha1="74C826435260BC583E7015ED9D2F2DCE4E2C4D36" />
@@ -21,7 +20,6 @@
 	<game name="Can Can Bunny Premiere (Japan) (2M)" type="">
 		<category>Games</category>
 		<description>Can Can Bunny Premiere (Japan) (2M)</description>
-		<rom name="Can Can Bunny Premiere (Japan) (2M).cue" size="1565" crc="BF22B2BF" md5="B1901C1F725D2285F16CF19802202FB4" sha1="F74D5218EFB2976BA2A1787D61AE71E9282A3ABD" />
 		<rom name="Can Can Bunny Premiere (Japan) (2M) (Track 01).bin" size="158219040" crc="2D17460A" md5="3E815C1A7AC505C07AF95FCE622981C5" sha1="374B507CD390D4FCDD72A16BF2AB7E637F8E16E9" />
 		<rom name="Can Can Bunny Premiere (Japan) (2M) (Track 02).bin" size="5562480" crc="932A2F89" md5="C2B3C7DD0FA6DC20A149F529CF1DF694" sha1="C5D341EAAC4499FF6F6015622DCA694A9DAE04C4" />
 		<rom name="Can Can Bunny Premiere (Japan) (2M) (Track 03).bin" size="39000864" crc="D9D4ECD5" md5="58E28135A5CBD6C663009DBCD3877261" sha1="0E3EE4D64A50519E12B7BB755E1DB199052E5EBC" />
@@ -38,7 +36,6 @@
 	<game name="Darius Gaiden (Japan) (Rev A)" type="">
 		<category>Games</category>
 		<description>Darius Gaiden (Japan) (Rev A)</description>
-		<rom name="Darius Gaiden (Japan) (Rev A).cue" size="1966" crc="F8CD2742" md5="53E976B4AA798C7B2CF2D4B2A47762AF" sha1="0A90E1B498D365015A65C853B7B17E8F6A473226" />
 		<rom name="Darius Gaiden (Japan) (Rev A) (Track 01).bin" size="23362416" crc="345A3E98" md5="E2704F11A104E8762F3017B2813D050A" sha1="77F69751F4D0DE3E17ECD5290E8430607DB53746" />
 		<rom name="Darius Gaiden (Japan) (Rev A) (Track 02).bin" size="49039200" crc="0BB74605" md5="148F6C9D68E0B21392C6625FAF12B355" sha1="FB15AECFC81BEEE575767F2DC3BB83735BF78FC0" />
 		<rom name="Darius Gaiden (Japan) (Rev A) (Track 03).bin" size="1058400" crc="EC24E11E" md5="0AD63C83B6586EC368E86CA7FFC6D06C" sha1="D5E1DDCD6218C77E4F0B9277629BD6165A8779E6" />
@@ -59,14 +56,12 @@
 	<game name="Desire (Japan) (Demo)" type="">
 		<category>Demos</category>
 		<description>Desire (Japan) (Demo)</description>
-		<rom name="Desire (Japan) (Demo).cue" size="235" crc="F0FDECD5" md5="258E687C4BA76B517AB8E58F207EA86C" sha1="4C7736A3FC1131ADDED8716BD3BE15521134DC7A" />
 		<rom name="Desire (Japan) (Demo) (Track 1).bin" size="46200336" crc="8806C6B4" md5="466B33853B38060F16C031F7D13287B8" sha1="A89857F97541E405386E3DD4853AF8A73492A4C5" />
 		<rom name="Desire (Japan) (Demo) (Track 2).bin" size="2831808" crc="11F8F2C7" md5="0F1E8A1A80C1DC8836612629F5C81448" sha1="9D9C8BA602C7BC2C517CDDA6C939BA4A7612A9B9" />
 	</game>
 	<game name="Game-Ware (Japan) (Soukan Junbigou Hibaihin)" type="">
 		<category>Multimedia</category>
 		<description>Game-Ware (Japan) (Soukan Junbigou Hibaihin)</description>
-		<rom name="Game-Ware (Japan) (Soukan Junbigou Hibaihin).cue" size="419" crc="6C0E2EB3" md5="8296E4E98CD6C38C92DCBBA8F349E19D" sha1="88ED4307EADF8A336C80CC7EE7616B6F9F206A46" />
 		<rom name="Game-Ware (Japan) (Soukan Junbigou Hibaihin) (Track 1).bin" size="181492080" crc="22BBE733" md5="9AFA8BED7E51BEA21EBF9F172A9EDC17" sha1="508B4D43CF6AA96F8060D1E942C8C58261C24DD6" />
 		<rom name="Game-Ware (Japan) (Soukan Junbigou Hibaihin) (Track 2).bin" size="17703504" crc="5643FB99" md5="8487AC28E959B67EAC70E366052749F1" sha1="EAE259D56B718B82812888D0778AA6366613206B" />
 		<rom name="Game-Ware (Japan) (Soukan Junbigou Hibaihin) (Track 3).bin" size="10939152" crc="5FB71A82" md5="DE068759C82D987E3DE7FAC8600A5010" sha1="9E0ECB0A9196D2CEED23AA233ACA9AA872190122" />
@@ -74,27 +69,23 @@
 	<game name="Hyper Golf, The - Devil's Course (Japan) (Demo)" type="">
 		<category>Demos</category>
 		<description>Hyper Golf, The - Devil's Course (Japan) (Demo)</description>
-		<rom name="Hyper Golf, The - Devil's Course (Japan) (Demo).cue" size="136" crc="5FE84B39" md5="EBC593F95758DB1AE1682F849FD1035C" sha1="FBEA403E53501A9F287D9A6608E72C8D4018277C" />
 		<rom name="Hyper Golf, The - Devil's Course (Japan) (Demo).bin" size="83533632" crc="C635A73B" md5="35B1F803AE5337E0A8CE4F5081C15636" sha1="81B7AB4DA459264A4437DBD3EEFA14B50DB3AB75" />
 	</game>
 	<game name="Ishin no Arashi (Japan) (Rev A)" type="">
 		<category>Games</category>
 		<description>Ishin no Arashi (Japan) (Rev A)</description>
-		<rom name="Ishin no Arashi (Japan) (Rev A).cue" size="255" crc="6E086444" md5="3B87F10B027E6313AD9018FF52DB26FD" sha1="2846DD5EAC88AC4C273AF9A33ED734F04F5B0C63" />
 		<rom name="Ishin no Arashi (Japan) (Rev A) (Track 1).bin" size="96217968" crc="C71737C2" md5="4DC8D5C39C220EF23968A94D6BB6FA92" sha1="19E0C9A0A72B7F824F7238EC177211D0D4462CEA" />
 		<rom name="Ishin no Arashi (Japan) (Rev A) (Track 2).bin" size="3880800" crc="7BFA94F5" md5="284B3445EDD7C6EA1A26B1E42B16A199" sha1="49D76ACD80E797D4349A95CFEB85ED3EF09C76C2" />
 	</game>
 	<game name="J.League Pro Soccer Club o Tsukurou! 2 (Japan) (Rev A)" type="">
 		<category>Games</category>
 		<description>J.League Pro Soccer Club o Tsukurou! 2 (Japan) (Rev A)</description>
-		<rom name="J.League Pro Soccer Club o Tsukurou! 2 (Japan) (Rev A).cue" size="301" crc="B839BBA1" md5="DEE3D949A7A9867F7DA274B2DDE83E9F" sha1="2866FBD75338BA98355380F9C3417247F6D1A914" />
 		<rom name="J.League Pro Soccer Club o Tsukurou! 2 (Japan) (Rev A) (Track 1).bin" size="476733936" crc="7D7D0470" md5="8F751E6B2797D3221F610440888E47F4" sha1="CC4AF19E6ADEF97A248E63E106AAB871A0627B13" />
 		<rom name="J.League Pro Soccer Club o Tsukurou! 2 (Japan) (Rev A) (Track 2).bin" size="24557232" crc="75E88504" md5="33D9F41BEE45A500AF08B5968C4C318F" sha1="54243B3D2FA21B17FABBA768F345D8020B381C13" />
 	</game>
 	<game name="J.League Victory Goal '96 (Japan) (Rev A)" type="">
 		<category>Games</category>
 		<description>J.League Victory Goal '96 (Japan) (Rev A)</description>
-		<rom name="J.League Victory Goal '96 (Japan) (Rev A).cue" size="2045" crc="47DA7051" md5="D0888C3C3CED5792A7A12CDD4E51A1FD" sha1="E0A2F86D8693C44DD2B1E2117B2D53FDD7A6C51D" />
 		<rom name="J.League Victory Goal '96 (Japan) (Rev A) (Track 01).bin" size="399282576" crc="D4E91438" md5="CF27E9BD90285E92FE8870683A54697A" sha1="AAF9322C67CEF4CB68CF76EC0FBB0C4AB1DA2E85" />
 		<rom name="J.League Victory Goal '96 (Japan) (Rev A) (Track 02).bin" size="6089328" crc="6FBF44C5" md5="0F372B7F8F3199C86DC2E232282C91A5" sha1="06E6E3442483AB11B96F36D0B892F405D8BF37D7" />
 		<rom name="J.League Victory Goal '96 (Japan) (Rev A) (Track 03).bin" size="33504240" crc="086E317F" md5="C042032CB15F2E69BC2FE58360504878" sha1="BBA8CA7B79E262B44CB8F0ED020777A5AC5AFC36" />
@@ -114,14 +105,12 @@
 	<game name="Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (1M)" type="">
 		<category>Games</category>
 		<description>Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (1M)</description>
-		<rom name="Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (1M).cue" size="309" crc="07659185" md5="3A28C157E2CD23BCFF5FEA85AC5ECAC4" sha1="B7D8DAFCF3D5DF4DE386493EAD9307596B026AD3" />
 		<rom name="Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (1M) (Track 1).bin" size="621875856" crc="681D45A8" md5="70894066FC8A8F7CA3A9EDD6F03CCC00" sha1="EB4E3D0D48EA0FD29C01C3451E870B7D75FF9422" />
 		<rom name="Pia Carrot e Youkoso!! 2 (Japan) (Disc 1) (Game Disc) (1M) (Track 2).bin" size="18338544" crc="59CB288C" md5="2A4D29052E479C891ED3C0B7DE4DECBA" sha1="871984F0F07049E2C636180BD979662626758F58" />
 	</game>
 	<game name="Wing Arms - Kareinaru Gekitsuiou (Japan) (Rev B)" type="">
 		<category>Games</category>
 		<description>Wing Arms - Kareinaru Gekitsuiou (Japan) (Rev B)</description>
-		<rom name="Wing Arms - Kareinaru Gekitsuiou (Japan) (Rev B).cue" size="2150" crc="816A52F0" md5="B6194D7C35EAD5D6BDF35B666DD7A21B" sha1="2EF9D73C2880A9DD41C207CCB9E7C2E5BD92152C" />
 		<rom name="Wing Arms - Kareinaru Gekitsuiou (Japan) (Rev B) (Track 01).bin" size="148437072" crc="022D5B3B" md5="74FC09F7B1FEEE4C8B39352397EF1324" sha1="C9E467C29094D031F1453AC6D590950D71582032" />
 		<rom name="Wing Arms - Kareinaru Gekitsuiou (Japan) (Rev B) (Track 02).bin" size="4050144" crc="5F14239B" md5="F40040FDD82AD0053527C1A38340719E" sha1="25985FA472829A9DBD106E921D3907349DBE61AF" />
 		<rom name="Wing Arms - Kareinaru Gekitsuiou (Japan) (Rev B) (Track 03).bin" size="11430720" crc="F7527AB4" md5="BF8B0C6CCAC23BB67C9C704543BF17A3" sha1="EE2D3DEEA3E1C86CCB8C192D605F16EF8332BAA3" />
@@ -141,7 +130,6 @@
 	<game name="Winning Post 2 - Program '96 (Japan) (Rev A)" type="">
 		<category>Games</category>
 		<description>Winning Post 2 - Program '96 (Japan) (Rev A)</description>
-		<rom name="Winning Post 2 - Program '96 (Japan) (Rev A).cue" size="281" crc="E5944D22" md5="F1B9D83100B40FF279935900E66BA6F8" sha1="81093D9F39BFB0B57EC72232CBAE6927B9FAC075" />
 		<rom name="Winning Post 2 - Program '96 (Japan) (Rev A) (Track 1).bin" size="137062800" crc="8B51FCA5" md5="61B5BF40FCA8E03FF3AEB559FE3DF8FB" sha1="C352195DD36D577E77C44A8502A51D2433CE5E2A" />
 		<rom name="Winning Post 2 - Program '96 (Japan) (Rev A) (Track 2).bin" size="1764000" crc="ABDC0302" md5="7C0F9B105165B013366B534B6F8BE141" sha1="5B02631E8AAF432F5815225FF1B92D9246C4CCDB" />
 	</game>

@@ -4,7 +4,7 @@
 	<header>
 		<name>NEC - PC Engine CD &amp; TurboGrafx CD</name>
 		<description>MAME Redump - NEC - PC Engine CD &amp; TurboGrafx CD - Discs (551) (2026-01-06 09-10-30)</description>
-		<version>0.285</version>
+		<version>0.286</version>
 		<date>2026-02-12</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -211,7 +211,7 @@
 		<description>Bomberman - Panic Bomber (Japan) (FABT)</description>
 		<disk name="Bomberman - Panic Bomber (Japan) (FABT).chd" sha1="4e0a565f4beaf756af473cb6486d5f4a58d17730" />
 	</machine>
-	<machine name="Bomberman '94 (Japan) (Demo)">
+	<machine name="Bomberman '94 (Japan) (Demo)" cloneof="Bonk III - Bonk's Big Adventure (USA)">
 		<category>Demos</category>
 		<description>Bomberman '94 (Japan) (Demo)</description>
 		<disk name="Bomberman '94 (Japan) (Demo).chd" sha1="622a7b92d0262710d28ff3b006ae2e15af791289" />
@@ -266,7 +266,7 @@
 		<description>CAL II (Japan)</description>
 		<disk name="CAL II (Japan).chd" sha1="1b3a0b6e0e4339683d21c92393df0f79183cc3f8" />
 	</machine>
-	<machine name="CAL II (Japan) (Alt)">
+	<machine name="CAL II (Japan) (Alt)" cloneof="CAL II (Japan)">
 		<category>Games</category>
 		<description>CAL II (Japan) (Alt)</description>
 		<disk name="CAL II (Japan) (Alt).chd" sha1="6f08a9fe505d403cb27317bba36be14737d98217" />
@@ -351,12 +351,12 @@
 		<description>Cosmic Fantasy - Bouken Shounen Yuu (Japan)</description>
 		<disk name="Cosmic Fantasy - Bouken Shounen Yuu (Japan).chd" sha1="8ad81cc0f4aa67e2d8902501d6bd46b8b6d6ed9c" />
 	</machine>
-	<machine name="Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 1)">
+	<machine name="Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 1)" cloneof="Cosmic Fantasy - Bouken Shounen Yuu (Japan)">
 		<category>Games</category>
 		<description>Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 1)</description>
 		<disk name="Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 1).chd" sha1="8621e24f90689d9c29509d7434d162c5f1ce788d" />
 	</machine>
-	<machine name="Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 2)">
+	<machine name="Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 2)" cloneof="Cosmic Fantasy - Bouken Shounen Yuu (Japan)">
 		<category>Games</category>
 		<description>Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 2)</description>
 		<disk name="Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Alt 2).chd" sha1="1da5d3a0ab42f72c5f1997e516eeacae1e927c88" />
@@ -521,7 +521,7 @@
 		<description>Dragon Slayer - The Legend of Heroes (Japan)</description>
 		<disk name="Dragon Slayer - The Legend of Heroes (Japan).chd" sha1="f576ef8874e2aa3132569e7ea7aabab9dc84339a" />
 	</machine>
-	<machine name="Dragon Slayer - The Legend of Heroes (USA)">
+	<machine name="Dragon Slayer - The Legend of Heroes (USA)" cloneof="Dragon Slayer - The Legend of Heroes (Japan)">
 		<category>Games</category>
 		<description>Dragon Slayer - The Legend of Heroes (USA)</description>
 		<disk name="Dragon Slayer - The Legend of Heroes (USA).chd" sha1="62e277c6ac6de00e698ecb19f8d9dc7695602315" />
@@ -536,7 +536,7 @@
 		<description>Dungeon Explorer II (Japan)</description>
 		<disk name="Dungeon Explorer II (Japan).chd" sha1="636f13641deac3944ac64bf5e388025c9fc8dc7a" />
 	</machine>
-	<machine name="Dungeon Explorer II (USA)">
+	<machine name="Dungeon Explorer II (USA)" cloneof="Dungeon Explorer II (Japan)">
 		<category>Games</category>
 		<description>Dungeon Explorer II (USA)</description>
 		<disk name="Dungeon Explorer II (USA).chd" sha1="6f3b57cdffec1d7dcc8d496e448a854decc01716" />
@@ -551,7 +551,7 @@
 		<description>Dungeon Master - Theron's Quest (USA)</description>
 		<disk name="Dungeon Master - Theron's Quest (USA).chd" sha1="5297c942e269f43991631c7455feff002c9c3024" />
 	</machine>
-	<machine name="Dungeon Master - Theron's Quest (USA) (RE)">
+	<machine name="Dungeon Master - Theron's Quest (USA) (RE)" cloneof="Dungeon Master - Theron's Quest (USA)">
 		<category>Games</category>
 		<description>Dungeon Master - Theron's Quest (USA) (RE)</description>
 		<disk name="Dungeon Master - Theron's Quest (USA) (RE).chd" sha1="f09ca28c4e9c1ba439b550da95dd72a1b7fe220b" />
@@ -561,7 +561,7 @@
 		<description>Duo Comic - Bakuretsu Hunter (Japan)</description>
 		<disk name="Duo Comic - Bakuretsu Hunter (Japan).chd" sha1="9445f3428f23183caf49de33e823af10e3858fb7" />
 	</machine>
-	<machine name="Dynastic Hero, The (USA)">
+	<machine name="Dynastic Hero, The (USA)" cloneof="Chou Eiyuu Densetsu - Dynastic Hero (Japan)">
 		<category>Games</category>
 		<description>Dynastic Hero, The (USA)</description>
 		<disk name="Dynastic Hero, The (USA).chd" sha1="5adae011c00d8b4d0c48cef1060d8b26bbbfc8cf" />
@@ -591,7 +591,7 @@
 		<description>Emerald Dragon (Japan) (Demo)</description>
 		<disk name="Emerald Dragon (Japan) (Demo).chd" sha1="a44dad17eed5f7cf68853d1284de58e54c39fa72" />
 	</machine>
-	<machine name="Emerald Dragon (Japan) (Rev 1)">
+	<machine name="Emerald Dragon (Japan) (Rev 1)" cloneof="Emerald Dragon (Japan)">
 		<category>Games</category>
 		<description>Emerald Dragon (Japan) (Rev 1)</description>
 		<disk name="Emerald Dragon (Japan) (Rev 1).chd" sha1="cb47e28384c82c25f4e4d9abbdb76eb242524a51" />
@@ -621,7 +621,7 @@
 		<description>F1 Circus Special - Pole to Win (Japan) (FAAT, FACT)</description>
 		<disk name="F1 Circus Special - Pole to Win (Japan) (FAAT, FACT).chd" sha1="30ec71419d60ed1f933e3beea70fef05352ef7c6" />
 	</machine>
-	<machine name="F1 Circus Special - Pole to Win (Japan) (FABT)">
+	<machine name="F1 Circus Special - Pole to Win (Japan) (FABT)" cloneof="F1 Circus Special - Pole to Win (Japan) (FAAT, FACT)">
 		<category>Games</category>
 		<description>F1 Circus Special - Pole to Win (Japan) (FABT)</description>
 		<disk name="F1 Circus Special - Pole to Win (Japan) (FABT).chd" sha1="9635ef0604deef54263aa2d95a02045386cded0e" />
@@ -636,7 +636,7 @@
 		<description>Faceball (Japan)</description>
 		<disk name="Faceball (Japan).chd" sha1="150d32f96047a6125c3ddd9a0a848984563657e1" />
 	</machine>
-	<machine name="Faceball (Japan) (Demo)">
+	<machine name="Faceball (Japan) (Demo)" cloneof="PC Engine Hyper Catalog CD-ROM 4 - 1993 Winter (Japan)">
 		<category>Demos</category>
 		<description>Faceball (Japan) (Demo)</description>
 		<disk name="Faceball (Japan) (Demo).chd" sha1="0bc38c5c9071e4a9eb7991d62814d959dc7881c8" />
@@ -651,7 +651,7 @@
 		<description>Fantastic Night Dreams - Cotton (Japan) (En,Ja,Zh)</description>
 		<disk name="Fantastic Night Dreams - Cotton (Japan) (En,Ja,Zh).chd" sha1="e48fa6827a7945180de4c6fa6011d89c343cdbf4" />
 	</machine>
-	<machine name="Fantastic Night Dreams - Cotton (USA)">
+	<machine name="Fantastic Night Dreams - Cotton (USA)" cloneof="Fantastic Night Dreams - Cotton (Japan) (En,Ja,Zh)">
 		<category>Games</category>
 		<description>Fantastic Night Dreams - Cotton (USA)</description>
 		<disk name="Fantastic Night Dreams - Cotton (USA).chd" sha1="8570f7c8d89f41fb0c83ea22025d6b9f7c6efb7d" />
@@ -691,7 +691,7 @@
 		<description>Farjius no Jakoutei - Neo Metal Fantasy (Japan)</description>
 		<disk name="Farjius no Jakoutei - Neo Metal Fantasy (Japan).chd" sha1="2aec2705f9b2acfc40569dbf446538b92bfa0f2a" />
 	</machine>
-	<machine name="Farjius no Jakoutei - Neo Metal Fantasy (Japan) (Rev 1)">
+	<machine name="Farjius no Jakoutei - Neo Metal Fantasy (Japan) (Rev 1)" cloneof="Farjius no Jakoutei - Neo Metal Fantasy (Japan)">
 		<category>Games</category>
 		<description>Farjius no Jakoutei - Neo Metal Fantasy (Japan) (Rev 1)</description>
 		<disk name="Farjius no Jakoutei - Neo Metal Fantasy (Japan) (Rev 1).chd" sha1="dc27e4f46b6346c46420a1a77593bb6566a2395c" />
@@ -711,12 +711,12 @@
 		<description>Fighting Street (Japan) (Rev 4)</description>
 		<disk name="Fighting Street (Japan) (Rev 4).chd" sha1="cc2934d469d12757752c91ba80581820a4e43db3" />
 	</machine>
-	<machine name="Fighting Street (Japan) (Rev 5)">
+	<machine name="Fighting Street (Japan) (Rev 5)" cloneof="Fighting Street (Japan) (Rev 4)">
 		<category>Games</category>
 		<description>Fighting Street (Japan) (Rev 5)</description>
 		<disk name="Fighting Street (Japan) (Rev 5).chd" sha1="049793a00677dcb9e60f90642499c772b6d449dc" />
 	</machine>
-	<machine name="Fighting Street (USA)">
+	<machine name="Fighting Street (USA)" cloneof="Fighting Street (Japan) (Rev 4)">
 		<category>Games</category>
 		<description>Fighting Street (USA)</description>
 		<disk name="Fighting Street (USA).chd" sha1="71e9bbab372d095b4654c1e351b7c7462d12b33c" />
@@ -741,7 +741,7 @@
 		<description>Forgotten Worlds (Japan)</description>
 		<disk name="Forgotten Worlds (Japan).chd" sha1="26379539171a44e065154f730b9935f15d29397d" />
 	</machine>
-	<machine name="Forgotten Worlds (USA) (En,Ja)">
+	<machine name="Forgotten Worlds (USA) (En,Ja)" cloneof="Forgotten Worlds (Japan)">
 		<category>Games</category>
 		<description>Forgotten Worlds (USA) (En,Ja)</description>
 		<disk name="Forgotten Worlds (USA) (En,Ja).chd" sha1="2d5a121b60d67f6b764b6a04a79f52236bd2677c" />
@@ -783,7 +783,7 @@
 		<description>Garou Densetsu 2 - Aratanaru Tatakai (Japan) (Demo) (SABS)</description>
 		<disk name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (Demo) (SABS).chd" sha1="c5de10bcb21bd231e731c93a1d16b3f21d5cd27d" />
 	</machine>
-	<machine name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT)">
+	<machine name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT)" cloneof="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (Demo) (SABS)">
 		<category>Games</category>
 		<description>Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT)</description>
 		<disk name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FACT, FAET, FAFT).chd" sha1="1df2de48ec745f63120682b2c39cfe09d9e4928d" />
@@ -803,7 +803,7 @@
 		<description>Gate of Thunder (Japan) (FACT, FADT)</description>
 		<disk name="Gate of Thunder (Japan) (FACT, FADT).chd" sha1="faafb3e39a02280e81c31a28b1a93650c7abb871" />
 	</machine>
-	<machine name="Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA)">
+	<machine name="Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA)" cloneof="Gate of Thunder (Japan) (FACT, FADT)">
 		<category>Games</category>
 		<description>Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA)</description>
 		<disk name="Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA).chd" sha1="e56888d5c3e07b944fef41ecde78b3b4145fbcbf" />
@@ -888,7 +888,7 @@
 		<description>Golden Axe (Japan)</description>
 		<disk name="Golden Axe (Japan).chd" sha1="8761ff3d1ef6440ac83876145c40daa456be7046" />
 	</machine>
-	<machine name="Golden Axe (Japan) (Alt)">
+	<machine name="Golden Axe (Japan) (Alt)" cloneof="Golden Axe (Japan)">
 		<category>Games</category>
 		<description>Golden Axe (Japan) (Alt)</description>
 		<disk name="Golden Axe (Japan) (Alt).chd" sha1="6fc8bdab240880b060a55d209e2634b8c683a88c" />
@@ -913,7 +913,7 @@
 		<description>Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan)</description>
 		<disk name="Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan).chd" sha1="9e8846a9e43d2b5e6c92c116387231e6d0c16be7" />
 	</machine>
-	<machine name="Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan) (Alt)">
+	<machine name="Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan) (Alt)" cloneof="Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan)">
 		<category>Games</category>
 		<description>Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan) (Alt)</description>
 		<disk name="Gyuwambler Jiko Chuushinha - Gekitou 36 Janshi (Japan) (Alt).chd" sha1="a97613c08cff37668757c0bd78aae0c7bf7eae79" />
@@ -1007,7 +1007,7 @@
 		<description>Hyper Dyne - SideArms Special (Japan)</description>
 		<disk name="Hyper Dyne - SideArms Special (Japan).chd" sha1="3cdda27b8e60edd8cdb056de7a1ba91fe841ed7e" />
 	</machine>
-	<machine name="Hyper Dyne - SideArms Special (Japan) (Alt)">
+	<machine name="Hyper Dyne - SideArms Special (Japan) (Alt)" cloneof="Hyper Dyne - SideArms Special (Japan)">
 		<category>Games</category>
 		<description>Hyper Dyne - SideArms Special (Japan) (Alt)</description>
 		<disk name="Hyper Dyne - SideArms Special (Japan) (Alt).chd" sha1="38a4937bcc2848572033b993b1096bcbb0053be4" />
@@ -1017,7 +1017,7 @@
 		<description>Hyper Wars (Japan) (SAAS)</description>
 		<disk name="Hyper Wars (Japan) (SAAS).chd" sha1="9c39d26e718abf4c69a903599bc846f70c2b96c8" />
 	</machine>
-	<machine name="Hyper Wars (Japan) (SABS)">
+	<machine name="Hyper Wars (Japan) (SABS)" cloneof="Hyper Wars (Japan) (SAAS)">
 		<category>Games</category>
 		<description>Hyper Wars (Japan) (SABS)</description>
 		<disk name="Hyper Wars (Japan) (SABS).chd" sha1="522b1b03647832bf42160f050db0234b3dc3a62a" />
@@ -1130,7 +1130,7 @@
 		<description>Jim Power in Mutant Planet (Japan)</description>
 		<disk name="Jim Power in Mutant Planet (Japan).chd" sha1="1c2bdfbb16ee0a9347fa3501b58a03d4d69a62b1" />
 	</machine>
-	<machine name="Jim Power in Mutant Planet (USA) (Unl)">
+	<machine name="Jim Power in Mutant Planet (USA) (Unl)" cloneof="Jim Power in Mutant Planet (Japan)">
 		<category>Games</category>
 		<description>Jim Power in Mutant Planet (USA) (Unl)</description>
 		<disk name="Jim Power in Mutant Planet (USA) (Unl).chd" sha1="4b328a88a0660e919a54705dfdfeaf63077849f4" />
@@ -1150,7 +1150,7 @@
 		<description>Juuouki (Japan) (Rev 4)</description>
 		<disk name="Juuouki (Japan) (Rev 4).chd" sha1="4007e00631eda99b342c94035cf575d5e3beb781" />
 	</machine>
-	<machine name="Juuouki (Japan) (Rev 5)">
+	<machine name="Juuouki (Japan) (Rev 5)" cloneof="Juuouki (Japan) (Rev 4)">
 		<category>Games</category>
 		<description>Juuouki (Japan) (Rev 5)</description>
 		<disk name="Juuouki (Japan) (Rev 5).chd" sha1="be876e61afe6d8c951819ab580563db3de93aa19" />
@@ -1215,7 +1215,7 @@
 		<description>Kisou Louga (Japan) (Demo)</description>
 		<disk name="Kisou Louga (Japan) (Demo).chd" sha1="a3d76ad0557fd20606ab8446ed89b6a6360b3d4c" />
 	</machine>
-	<machine name="Kisou Louga (Japan) (FABT)">
+	<machine name="Kisou Louga (Japan) (FABT)" cloneof="Kisou Louga (Japan) (Demo)">
 		<category>Games</category>
 		<description>Kisou Louga (Japan) (FABT)</description>
 		<disk name="Kisou Louga (Japan) (FABT).chd" sha1="db7408ec75632683df8b917ce2429a8eb2b111ae" />
@@ -1285,7 +1285,7 @@
 		<description>L-Dis (Japan)</description>
 		<disk name="L-Dis (Japan).chd" sha1="51ae8a807e5561700f36ca9410f8611e0801e46e" />
 	</machine>
-	<machine name="Legend of Xanadu - Kaze no Densetsu Xanadu (Japan)">
+	<machine name="Legend of Xanadu - Kaze no Densetsu Xanadu (Japan)" cloneof="Kaze no Densetsu Xanadu (Japan) (Demo)">
 		<category>Games</category>
 		<description>Legend of Xanadu - Kaze no Densetsu Xanadu (Japan)</description>
 		<disk name="Legend of Xanadu - Kaze no Densetsu Xanadu (Japan).chd" sha1="130b0b3a90b28d2b3b28e47ba22356b7196b85f8" />
@@ -1300,7 +1300,7 @@
 		<description>Legion (Japan) (Rev 4)</description>
 		<disk name="Legion (Japan) (Rev 4).chd" sha1="789cf2211cfe0e3bbee3eef7889ee80b401a2a33" />
 	</machine>
-	<machine name="Legion (Japan) (Rev 4) (Alt)">
+	<machine name="Legion (Japan) (Rev 4) (Alt)" cloneof="Legion (Japan) (Rev 4)">
 		<category>Games</category>
 		<description>Legion (Japan) (Rev 4) (Alt)</description>
 		<disk name="Legion (Japan) (Rev 4) (Alt).chd" sha1="7f85b549cb282ce1797bd84e0d0a0d621861c5e9" />
@@ -1330,7 +1330,7 @@
 		<description>Loom (Japan)</description>
 		<disk name="Loom (Japan).chd" sha1="f141f2b778e7f966da5ac46180d04cbdbbd11a2e" />
 	</machine>
-	<machine name="Loom (USA)">
+	<machine name="Loom (USA)" cloneof="Loom (Japan)">
 		<category>Games</category>
 		<description>Loom (USA)</description>
 		<disk name="Loom (USA).chd" sha1="814d5804da36c53890f85fc84da9216cdd68f574" />
@@ -1405,7 +1405,7 @@
 		<description>Mahjong Vanilla Syndrome (Japan)</description>
 		<disk name="Mahjong Vanilla Syndrome (Japan).chd" sha1="3a293d605cf4878086d3c34e83d58eaff335cde0" />
 	</machine>
-	<machine name="Mahjong Vanilla Syndrome (Japan) (Alt)">
+	<machine name="Mahjong Vanilla Syndrome (Japan) (Alt)" cloneof="Mahjong Vanilla Syndrome (Japan)">
 		<category>Games</category>
 		<description>Mahjong Vanilla Syndrome (Japan) (Alt)</description>
 		<disk name="Mahjong Vanilla Syndrome (Japan) (Alt).chd" sha1="c7b3db61824f5ba45779caa587f213133db531c3" />
@@ -1470,7 +1470,7 @@
 		<description>Metamor Jupiter (Japan)</description>
 		<disk name="Metamor Jupiter (Japan).chd" sha1="c74733339d7274380bd87e7927796e1dfc53dd86" />
 	</machine>
-	<machine name="Meteor Blaster DX (USA) (Unl)">
+	<machine name="Meteor Blaster DX (USA) (Unl)" cloneof="Meteor Blaster DX (USA) (Unl) (Alt)">
 		<category>Games</category>
 		<description>Meteor Blaster DX (USA) (Unl)</description>
 		<year>2004</year>
@@ -1499,7 +1499,7 @@
 		<description>Might and Magic III - Isles of Terra (Japan)</description>
 		<disk name="Might and Magic III - Isles of Terra (Japan).chd" sha1="b961720f53ed0e71a50879fc4c7e43ce254d673f" />
 	</machine>
-	<machine name="Might and Magic III - Isles of Terra (USA)">
+	<machine name="Might and Magic III - Isles of Terra (USA)" cloneof="Might and Magic III - Isles of Terra (Japan)">
 		<category>Games</category>
 		<description>Might and Magic III - Isles of Terra (USA)</description>
 		<disk name="Might and Magic III - Isles of Terra (USA).chd" sha1="f8da35f324d1bde06223cf6ba703b397f8332d51" />
@@ -1529,7 +1529,7 @@
 		<description>Monster Maker - Yami no Ryuukishi (Japan)</description>
 		<disk name="Monster Maker - Yami no Ryuukishi (Japan).chd" sha1="7f210b2c126b9a74a567784f0f69397e3d26cbfa" />
 	</machine>
-	<machine name="Monster Maker - Yami no Ryuukishi (Japan) (Alt)">
+	<machine name="Monster Maker - Yami no Ryuukishi (Japan) (Alt)" cloneof="Monster Maker - Yami no Ryuukishi (Japan)">
 		<category>Games</category>
 		<description>Monster Maker - Yami no Ryuukishi (Japan) (Alt)</description>
 		<disk name="Monster Maker - Yami no Ryuukishi (Japan) (Alt).chd" sha1="4e8f2c753f2c67b14fec414d437157cbc284a510" />
@@ -1628,7 +1628,7 @@
 		<description>Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 7)</description>
 		<disk name="Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 7).chd" sha1="bc708e21676b5050678b14afb9c10a63136e61eb" />
 	</machine>
-	<machine name="Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 8)">
+	<machine name="Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 8)" cloneof="Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 7)">
 		<category>Games</category>
 		<description>Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 8)</description>
 		<disk name="Pachio-kun - Maboroshi no Densetsu (Japan) (Rev 8).chd" sha1="6594270594c87c2ebdfddb294f419dcce5ff78e1" />
@@ -1698,12 +1698,12 @@
 		<description>PC Engine Hyper Catalog CD-ROM 5 - 1994 Spring (Japan)</description>
 		<disk name="PC Engine Hyper Catalog CD-ROM 5 - 1994 Spring (Japan).chd" sha1="95ca0cb5f1d1f1b9826723ac1c0390fe4884b783" />
 	</machine>
-	<machine name="PC Engine Hyper Catalog CD-ROM 6 - 1994 Summer (Japan) (Disc A)">
+	<machine name="PC Engine Hyper Catalog CD-ROM 6 - 1994 Summer (Japan) (Disc A)" cloneof="PC Engine Hyper Catalog CD-ROM - 1994 Summer (Japan) (Disc A)">
 		<category>Coverdiscs</category>
 		<description>PC Engine Hyper Catalog CD-ROM 6 - 1994 Summer (Japan) (Disc A)</description>
 		<disk name="PC Engine Hyper Catalog CD-ROM 6 - 1994 Summer (Japan) (Disc A).chd" sha1="2aa751ddccf19eb9de423e4fffa8e63214902503" />
 	</machine>
-	<machine name="PC Engine Hyper Catalog CD-ROM 6 - 1994 Summer (Japan) (Disc B)">
+	<machine name="PC Engine Hyper Catalog CD-ROM 6 - 1994 Summer (Japan) (Disc B)" cloneof="PC Engine Hyper Catalog CD-ROM - 1994 Summer (Japan) (Disc B)">
 		<category>Coverdiscs</category>
 		<description>PC Engine Hyper Catalog CD-ROM 6 - 1994 Summer (Japan) (Disc B)</description>
 		<disk name="PC Engine Hyper Catalog CD-ROM 6 - 1994 Summer (Japan) (Disc B).chd" sha1="271acaa854a7fe0938dca3a01cb626a744285d6a" />
@@ -1713,7 +1713,7 @@
 		<description>Police Connection (Japan)</description>
 		<disk name="Police Connection (Japan).chd" sha1="69b7abedbdc1e9bb4a664f30c8e1fe45252bb4da" />
 	</machine>
-	<machine name="Pomping World (Japan)">
+	<machine name="Pomping World (Japan)" cloneof="Buster Bros. (USA)">
 		<category>Games</category>
 		<description>Pomping World (Japan)</description>
 		<disk name="Pomping World (Japan).chd" sha1="682a408da113837cb7c5299d3842106e56c516b5" />
@@ -1723,7 +1723,7 @@
 		<description>PopfulMail (Japan)</description>
 		<disk name="PopfulMail (Japan).chd" sha1="adc79d3f1a1f675f9c08197e522d4d58aeff9ea6" />
 	</machine>
-	<machine name="PopfulMail (Japan) (Demo)">
+	<machine name="PopfulMail (Japan) (Demo)" cloneof="PopfulMail (Japan)">
 		<category>Demos</category>
 		<description>PopfulMail (Japan) (Demo)</description>
 		<disk name="PopfulMail (Japan) (Demo).chd" sha1="63832fd066c8413aafebd43db34127748260f4aa" />
@@ -1743,7 +1743,7 @@
 		<description>Prince of Persia (Japan)</description>
 		<disk name="Prince of Persia (Japan).chd" sha1="d89d18ff544f0bfbc99be58efb14f21f30dcb093" />
 	</machine>
-	<machine name="Prince of Persia (USA)">
+	<machine name="Prince of Persia (USA)" cloneof="Prince of Persia (Japan)">
 		<category>Games</category>
 		<description>Prince of Persia (USA)</description>
 		<disk name="Prince of Persia (USA).chd" sha1="999e28d70c37f85c76221d8180a05ff14f20349a" />
@@ -1942,7 +1942,7 @@
 		<manufacturer>Revival Games</manufacturer>
 		<disk name="Revival Chase (USA) (En,Fr) (Unl).chd" sha1="0fd96d24add088d1fea93e600bab7de724d21479" />
 	</machine>
-	<machine name="Riot Zone (USA)">
+	<machine name="Riot Zone (USA)" cloneof="Ookami-teki Monshou - Crest of Wolf (Japan)">
 		<category>Games</category>
 		<description>Riot Zone (USA)</description>
 		<disk name="Riot Zone (USA).chd" sha1="d55648c7c42a5f6fb9e072e84b91378ec84211fe" />
@@ -1992,7 +1992,7 @@
 		<description>ROM^2 Karaoke Volume 1 (Japan)</description>
 		<disk name="ROM^2 Karaoke Volume 1 (Japan).chd" sha1="b3feec52123ba59dc0550b2d3d9b5b79578a8639" />
 	</machine>
-	<machine name="ROM^2 Karaoke Volume 1 (Japan) (Alt)">
+	<machine name="ROM^2 Karaoke Volume 1 (Japan) (Alt)" cloneof="ROM^2 Karaoke Volume 1 (Japan)">
 		<category>Multimedia</category>
 		<description>ROM^2 Karaoke Volume 1 (Japan) (Alt)</description>
 		<disk name="ROM^2 Karaoke Volume 1 (Japan) (Alt).chd" sha1="e3d9ac6f8b7570ee2e7d4502850cbb76b8f28a94" />
@@ -2107,7 +2107,7 @@
 		<description>Sexy Idol Mahjong (Japan)</description>
 		<disk name="Sexy Idol Mahjong (Japan).chd" sha1="72754083352b5bfb268ce3fcec42da2f6b82a570" />
 	</machine>
-	<machine name="Shadow of the Beast - Mashou no Okite (Japan)">
+	<machine name="Shadow of the Beast - Mashou no Okite (Japan)" cloneof="Shadow of the Beast (USA)">
 		<category>Games</category>
 		<description>Shadow of the Beast - Mashou no Okite (Japan)</description>
 		<disk name="Shadow of the Beast - Mashou no Okite (Japan).chd" sha1="a72666b2a4dc9371247566d1f340a1ac2ee25ce1" />
@@ -2164,7 +2164,7 @@
 		<description>Shin Megami Tensei (Japan) (Rev 1)</description>
 		<disk name="Shin Megami Tensei (Japan) (Rev 1).chd" sha1="9cfce3f7464e6ca1f23527f3dfd216ec94772532" />
 	</machine>
-	<machine name="Shin Megami Tensei (Japan) (Rev 2)">
+	<machine name="Shin Megami Tensei (Japan) (Rev 2)" cloneof="Shin Megami Tensei (Japan) (Rev 1)">
 		<category>Games</category>
 		<description>Shin Megami Tensei (Japan) (Rev 2)</description>
 		<disk name="Shin Megami Tensei (Japan) (Rev 2).chd" sha1="b9e43f6e0884382b4795de4e6a926c10b7f2c2f7" />
@@ -2249,7 +2249,7 @@
 		<description>Sotsugyou - Graduation (Japan)</description>
 		<disk name="Sotsugyou - Graduation (Japan).chd" sha1="dbdd28192cdbc2e614ee8fd7f77954ae7d9a8898" />
 	</machine>
-	<machine name="Sotsugyou - Graduation (Japan) (Rev 1)">
+	<machine name="Sotsugyou - Graduation (Japan) (Rev 1)" cloneof="Sotsugyou - Graduation (Japan)">
 		<category>Games</category>
 		<description>Sotsugyou - Graduation (Japan) (Rev 1)</description>
 		<disk name="Sotsugyou - Graduation (Japan) (Rev 1).chd" sha1="22bb7dcfd9bf5f52e08cca0e92cc5a6f2c8b5f7f" />
@@ -2279,7 +2279,7 @@
 		<description>Space Invaders - The Original Game (Japan)</description>
 		<disk name="Space Invaders - The Original Game (Japan).chd" sha1="88e6d8e5b7cd90a9f4d846f3d69a00d1bea4c8bb" />
 	</machine>
-	<machine name="Splash Lake - Ostrich Daibouken (Japan)">
+	<machine name="Splash Lake - Ostrich Daibouken (Japan)" cloneof="Splash Lake (USA)">
 		<category>Games</category>
 		<description>Splash Lake - Ostrich Daibouken (Japan)</description>
 		<disk name="Splash Lake - Ostrich Daibouken (Japan).chd" sha1="72974a3e57b1ac7395b693e90fb2282970434635" />
@@ -2349,7 +2349,7 @@
 		<description>Summer Carnival '93 - NEXZR Special (Japan)</description>
 		<disk name="Summer Carnival '93 - NEXZR Special (Japan).chd" sha1="bdfc60b9a7a38e13f09d0205c4d788dbeacd2ddf" />
 	</machine>
-	<machine name="Super Air Zonk - Rockabilly-Paradise (USA)">
+	<machine name="Super Air Zonk - Rockabilly-Paradise (USA)" cloneof="CD Denjin - Rockabilly Tengoku (Japan)">
 		<category>Games</category>
 		<description>Super Air Zonk - Rockabilly-Paradise (USA)</description>
 		<disk name="Super Air Zonk - Rockabilly-Paradise (USA).chd" sha1="47d05c0b7428bbc1bc5e11a2d85bb9fff4100a1b" />
@@ -2374,7 +2374,7 @@
 		<description>Super Darius (Japan)</description>
 		<disk name="Super Darius (Japan).chd" sha1="3ec8ca38f6291611b6206f954fabed417e9ae6ff" />
 	</machine>
-	<machine name="Super Darius (Japan) (Alt)">
+	<machine name="Super Darius (Japan) (Alt)" cloneof="Super Darius (Japan)">
 		<category>Games</category>
 		<description>Super Darius (Japan) (Alt)</description>
 		<disk name="Super Darius (Japan) (Alt).chd" sha1="eb46e2826061d0122c350fb239a03453d1315242" />
@@ -2424,7 +2424,7 @@
 		<description>Super Schwarzschild 2 (Japan)</description>
 		<disk name="Super Schwarzschild 2 (Japan).chd" sha1="4e9b9f824eaf99e0a6e8b2e071391581f72b305a" />
 	</machine>
-	<machine name="Super-CD-Demo^2 (Japan)">
+	<machine name="Super-CD-Demo^2 (Japan)" cloneof="PC Engine Hyper Catalog CD-ROM 2 - 1993 Spring (Japan)">
 		<category>Demos</category>
 		<description>Super-CD-Demo^2 (Japan)</description>
 		<disk name="Super-CD-Demo^2 (Japan).chd" sha1="12ea20ca439f251cda20c7d96f76230abe1ca14e" />
@@ -2474,7 +2474,7 @@
 		<description>Tenchi o Kurau (Japan)</description>
 		<disk name="Tenchi o Kurau (Japan).chd" sha1="149c747ff277e473bc37a59fb80de8064f85c1e7" />
 	</machine>
-	<machine name="Tengai Makyou - Deden no Den (Japan)">
+	<machine name="Tengai Makyou - Deden no Den (Japan)" cloneof="Ys IV - The Dawn of Ys (Japan) (Rev 4)">
 		<category>Games</category>
 		<description>Tengai Makyou - Deden no Den (Japan)</description>
 		<disk name="Tengai Makyou - Deden no Den (Japan).chd" sha1="92e7836faeee23f17c20fbd56a0a50033497d8d4" />
@@ -2489,7 +2489,7 @@
 		<description>Tenshi no Uta II - Datenshi no Sentaku (Japan)</description>
 		<disk name="Tenshi no Uta II - Datenshi no Sentaku (Japan).chd" sha1="8d134786a09d558c0925a42a002b7b696841910c" />
 	</machine>
-	<machine name="TerraForming (Japan)">
+	<machine name="TerraForming (Japan)" cloneof="SydMead's TerraForming (USA)">
 		<category>Games</category>
 		<description>TerraForming (Japan)</description>
 		<disk name="TerraForming (Japan).chd" sha1="5e9fe6cc2e008cdad6f7d3d849c43d1bd863fffd" />
@@ -2504,12 +2504,12 @@
 		<description>Tokimeki Memorial (Japan)</description>
 		<disk name="Tokimeki Memorial (Japan).chd" sha1="5aea873154717702e3bb537d8d1931cb6e9759df" />
 	</machine>
-	<machine name="Tokimeki Memorial (Japan) (Rev 1)">
+	<machine name="Tokimeki Memorial (Japan) (Rev 1)" cloneof="Tokimeki Memorial (Japan)">
 		<category>Games</category>
 		<description>Tokimeki Memorial (Japan) (Rev 1)</description>
 		<disk name="Tokimeki Memorial (Japan) (Rev 1).chd" sha1="14bfb1bef27b62b8b245e21907742372dbf14a9a" />
 	</machine>
-	<machine name="Tokimeki Memorial (Japan) (Rev 2) (FABT)">
+	<machine name="Tokimeki Memorial (Japan) (Rev 2) (FABT)" cloneof="Tokimeki Memorial (Japan)">
 		<category>Games</category>
 		<description>Tokimeki Memorial (Japan) (Rev 2) (FABT)</description>
 		<disk name="Tokimeki Memorial (Japan) (Rev 2) (FABT).chd" sha1="fd3190340e8692a5e66883707209e48f97b492ff" />
@@ -2589,17 +2589,17 @@
 		<description>Valis II (Japan)</description>
 		<disk name="Valis II (Japan).chd" sha1="831b1b68711ae528cb26371f48ae39e37ba7541c" />
 	</machine>
-	<machine name="Valis II (Japan) (Alt 1)">
+	<machine name="Valis II (Japan) (Alt 1)" cloneof="Valis II (Japan)">
 		<category>Games</category>
 		<description>Valis II (Japan) (Alt 1)</description>
 		<disk name="Valis II (Japan) (Alt 1).chd" sha1="47ec31ace83572dc76be11ba7755ad60df9796a0" />
 	</machine>
-	<machine name="Valis II (Japan) (Alt 2)">
+	<machine name="Valis II (Japan) (Alt 2)" cloneof="Valis II (Japan)">
 		<category>Games</category>
 		<description>Valis II (Japan) (Alt 2)</description>
 		<disk name="Valis II (Japan) (Alt 2).chd" sha1="af56778a7f59511ee00fc7594301f18196e6834e" />
 	</machine>
-	<machine name="Valis II (USA)">
+	<machine name="Valis II (USA)" cloneof="Valis II (Japan)">
 		<category>Games</category>
 		<description>Valis II (USA)</description>
 		<disk name="Valis II (USA).chd" sha1="a2f4942585dd4ed0b32707798d8318460bb42dff" />
@@ -2609,7 +2609,7 @@
 		<description>Valis III (Japan)</description>
 		<disk name="Valis III (Japan).chd" sha1="c59366d0e3af4e2955a458456336123df0d47eb4" />
 	</machine>
-	<machine name="Valis III (Japan) (Alt)">
+	<machine name="Valis III (Japan) (Alt)" cloneof="Valis III (Japan)">
 		<category>Games</category>
 		<description>Valis III (Japan) (Alt)</description>
 		<disk name="Valis III (Japan) (Alt).chd" sha1="42150a6d54537bea20bb20e33e64ccee52f43ee1" />
@@ -2649,7 +2649,7 @@
 		<description>Where in the World Is Carmen Sandiego (Japan) (En,Ja)</description>
 		<disk name="Where in the World Is Carmen Sandiego (Japan) (En,Ja).chd" sha1="8460ea8b599e7fdcd6f6cce78c14c7561b7adf37" />
 	</machine>
-	<machine name="Winds of Thunder (Japan)">
+	<machine name="Winds of Thunder (Japan)" cloneof="Lords of Thunder (USA)">
 		<category>Games</category>
 		<description>Winds of Thunder (Japan)</description>
 		<disk name="Winds of Thunder (Japan).chd" sha1="6dd2ba66c708e3d3e8102cbbc52575221167ef32" />
@@ -2669,12 +2669,12 @@
 		<description>Wizardry V - Heart of the Maelstrom (Japan)</description>
 		<disk name="Wizardry V - Heart of the Maelstrom (Japan).chd" sha1="089933e9578f41419b4ae39c165fe412bb1dac49" />
 	</machine>
-	<machine name="Wonder Boy III - Monster Lair (Japan) (Rev 3)">
+	<machine name="Wonder Boy III - Monster Lair (Japan) (Rev 3)" cloneof="Monster Lair (USA)">
 		<category>Games</category>
 		<description>Wonder Boy III - Monster Lair (Japan) (Rev 3)</description>
 		<disk name="Wonder Boy III - Monster Lair (Japan) (Rev 3).chd" sha1="390b220b88d489d4af2a0b6b621c75542b550f24" />
 	</machine>
-	<machine name="Wonder Boy III - Monster Lair (Japan) (Rev 4)">
+	<machine name="Wonder Boy III - Monster Lair (Japan) (Rev 4)" cloneof="Monster Lair (USA)">
 		<category>Games</category>
 		<description>Wonder Boy III - Monster Lair (Japan) (Rev 4)</description>
 		<disk name="Wonder Boy III - Monster Lair (Japan) (Rev 4).chd" sha1="30791abcf62824865499f267f2a6fdadc3c867b6" />
@@ -2684,7 +2684,7 @@
 		<description>World Heroes 2 (Japan)</description>
 		<disk name="World Heroes 2 (Japan).chd" sha1="48db6c59449a632710bfe01a580378be61dab3cc" />
 	</machine>
-	<machine name="World Heroes 2 (Japan) (Demo) (SACS)">
+	<machine name="World Heroes 2 (Japan) (Demo) (SACS)" cloneof="World Heroes 2 (Japan)">
 		<category>Demos</category>
 		<description>World Heroes 2 (Japan) (Demo) (SACS)</description>
 		<disk name="World Heroes 2 (Japan) (Demo) (SACS).chd" sha1="1e0c5e1d8cbc987e3b49f41a6fd31b4574edd323" />
@@ -2739,22 +2739,22 @@
 		<description>Ys Book I &amp; II (USA)</description>
 		<disk name="Ys Book I &amp; II (USA).chd" sha1="15141480fbba5bb3461fbf7c4127902096b6f3cd" />
 	</machine>
-	<machine name="Ys Book I &amp; II (USA) (Alt)">
+	<machine name="Ys Book I &amp; II (USA) (Alt)" cloneof="Ys Book I &amp; II (USA)">
 		<category>Games</category>
 		<description>Ys Book I &amp; II (USA) (Alt)</description>
 		<disk name="Ys Book I &amp; II (USA) (Alt).chd" sha1="6b2081ba2889a7245be85a1f08a55d0caf2fa190" />
 	</machine>
-	<machine name="Ys I &amp; II (Japan)">
+	<machine name="Ys I &amp; II (Japan)" cloneof="Ys Book I &amp; II (USA)">
 		<category>Games</category>
 		<description>Ys I &amp; II (Japan)</description>
 		<disk name="Ys I &amp; II (Japan).chd" sha1="d316c7b8a09ee6507aabe545689655bf08d51e6a" />
 	</machine>
-	<machine name="Ys I &amp; II (Japan) (Alt)">
+	<machine name="Ys I &amp; II (Japan) (Alt)" cloneof="Ys Book I &amp; II (USA)">
 		<category>Games</category>
 		<description>Ys I &amp; II (Japan) (Alt)</description>
 		<disk name="Ys I &amp; II (Japan) (Alt).chd" sha1="c4b12ba036221e9fda8e9d1e581964c1f2709de8" />
 	</machine>
-	<machine name="Ys III - Wanderers from Ys (USA)">
+	<machine name="Ys III - Wanderers from Ys (USA)" cloneof="Ys III (Japan)">
 		<category>Games</category>
 		<description>Ys III - Wanderers from Ys (USA)</description>
 		<disk name="Ys III - Wanderers from Ys (USA).chd" sha1="d71cdeeffbdb8aabb0b349c257c0b7172df7e87f" />

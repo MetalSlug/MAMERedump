@@ -4,7 +4,7 @@
 	<header>
 		<name>Arcade - Konami - e-Amusement</name>
 		<description>MAME Redump - Arcade - Konami - e-Amusement - Discs (49) (2025-09-28 21-05-27)</description>
-		<version>0.285</version>
+		<version>0.286</version>
 		<date>2026-02-12</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -47,7 +47,6 @@
 	<game name="Mah-Jong Fight Club Series (Japan) (Client-you System Disc)" type="">
 		<category>Games</category>
 		<description>Mah-Jong Fight Club Series (Japan) (Client-you System Disc)</description>
-		<rom name="Mah-Jong Fight Club Series (Japan) (Client-you System Disc).cue" size="125" crc="213F8C03" md5="CE05E03C243D2E83E85AF4A1CF567D15" sha1="60A28CDA5FD373BCCBCAAFF5A0017286D63C0916" />
 		<rom name="Mah-Jong Fight Club Series (Japan) (Client-you System Disc).bin" size="712044480" crc="D5D8C841" md5="4EA48FA2E79F67ED4E5991A6DA1A0373" sha1="EDB46FB293B4D918643EC346C00E424B915E613C" />
 	</game>
 	<game name="Pride of Professionals - Baseball Heroes 2012 (Japan) (Application Disc 01 - Ekishou Wide Monitor Taiouban)" type="">
@@ -78,31 +77,26 @@
 	<game name="Quiz Magic Academy - Kenja no Tobira (Japan) (System Disc - Kuraianto Center Monitor Kyouyou)" type="">
 		<category>Games</category>
 		<description>Quiz Magic Academy - Kenja no Tobira (Japan) (System Disc - Kuraianto Center Monitor Kyouyou)</description>
-		<rom name="Quiz Magic Academy - Kenja no Tobira (Japan) (System Disc - Kuraianto Center Monitor Kyouyou).cue" size="159" crc="BE2E1C28" md5="3E1581EC58D744C23A188C7D58464267" sha1="50AD506B9BEE023B431451D39678AECA7A238398" />
 		<rom name="Quiz Magic Academy - Kenja no Tobira (Japan) (System Disc - Kuraianto Center Monitor Kyouyou).bin" size="664952736" crc="D0C67809" md5="8F27ACF04CB6E8EC84DD8DA9375246E0" sha1="162CB0BD7815A39283A6231395B000D0C51AE3DF" />
 	</game>
 	<game name="Quiz Magic Academy 6 (Japan) (Application Disc 1 - Kuraianto Center Monitor Kyouyou)" type="">
 		<category>Games</category>
 		<description>Quiz Magic Academy 6 (Japan) (Application Disc 1 - Kuraianto Center Monitor Kyouyou)</description>
-		<rom name="Quiz Magic Academy 6 (Japan) (Application Disc 1 - Kuraianto Center Monitor Kyouyou).cue" size="150" crc="AFD2AD8F" md5="78AA2F1ED379DBC0F6418B2F5116253B" sha1="D36AD8AE9B287D1482E27D40099C4D0E4FE7BDEC" />
 		<rom name="Quiz Magic Academy 6 (Japan) (Application Disc 1 - Kuraianto Center Monitor Kyouyou).bin" size="146574288" crc="277A76D1" md5="307FDEBEDB067211CF3526D2242A76D3" sha1="9D3B75C1D374F5364F76DFAB79BC847C85C52A96" />
 	</game>
 	<game name="Quiz Magic Academy 6 (Japan) (Application Disc 2 - Kuraianto Center Monitor Kyouyou)" type="">
 		<category>Games</category>
 		<description>Quiz Magic Academy 6 (Japan) (Application Disc 2 - Kuraianto Center Monitor Kyouyou)</description>
-		<rom name="Quiz Magic Academy 6 (Japan) (Application Disc 2 - Kuraianto Center Monitor Kyouyou).cue" size="150" crc="310C42BC" md5="9292D4398F0783170100E0CCB3C5E8F5" sha1="8729CFC3E4F629F0A79C92816CE5A3DDFF348E28" />
 		<rom name="Quiz Magic Academy 6 (Japan) (Application Disc 2 - Kuraianto Center Monitor Kyouyou).bin" size="650631408" crc="482B2F81" md5="11DEB52A5393DE28E0770E4B55B3C2B7" sha1="DDB13285D954CF7A41C2B6918FEDEFFE4CDFD947" />
 	</game>
 	<game name="Quiz Magic Academy 6 (Japan) (Application Disc 3 - Kuraianto Center Monitor Kyouyou)" type="">
 		<category>Games</category>
 		<description>Quiz Magic Academy 6 (Japan) (Application Disc 3 - Kuraianto Center Monitor Kyouyou)</description>
-		<rom name="Quiz Magic Academy 6 (Japan) (Application Disc 3 - Kuraianto Center Monitor Kyouyou).cue" size="150" crc="44B9E7AD" md5="B5AADF231333231E819EB8F8E3D3714C" sha1="C9C862F6197DA01A9DA6481DC2F589525DF20473" />
 		<rom name="Quiz Magic Academy 6 (Japan) (Application Disc 3 - Kuraianto Center Monitor Kyouyou).bin" size="517978608" crc="5CCCA49D" md5="963229AC0346F22C1571C3718BC6AEBA" sha1="8AD6C7E572B32EFB84BB4E45C4668D3A4A7A15AF" />
 	</game>
 	<game name="Quiz Magic Academy 6 (Japan) (System Disc - Kuraianto Center Monitor Kyouyou)" type="">
 		<category>Games</category>
 		<description>Quiz Magic Academy 6 (Japan) (System Disc - Kuraianto Center Monitor Kyouyou)</description>
-		<rom name="Quiz Magic Academy 6 (Japan) (System Disc - Kuraianto Center Monitor Kyouyou).cue" size="143" crc="A21C7262" md5="B21998C0711DE67A94C95D819C022AAD" sha1="D9350B289416BBA927E0ED788DACEAED26685971" />
 		<rom name="Quiz Magic Academy 6 (Japan) (System Disc - Kuraianto Center Monitor Kyouyou).bin" size="635957280" crc="F85F8798" md5="F093ADF331791D8988C65A2E9D5D53B8" sha1="B7D78694F27F07F79C87D71A42377F801F352215" />
 	</game>
 	<game name="Quiz Magic Academy 7 (Japan) (Application Disc - Kuraianto Center Monitor Kyouyou)" type="">
@@ -113,19 +107,16 @@
 	<game name="Quiz Magic Academy 7 (Japan) (System Disc - Kuraianto Center Monitor Kyouyou)" type="">
 		<category>Games</category>
 		<description>Quiz Magic Academy 7 (Japan) (System Disc - Kuraianto Center Monitor Kyouyou)</description>
-		<rom name="Quiz Magic Academy 7 (Japan) (System Disc - Kuraianto Center Monitor Kyouyou).cue" size="143" crc="906ACE73" md5="F49D4A1BEF522713D634247F2D8F8558" sha1="B52FECDEF65A1E86EA8A314CF8EF89FF7B554EBC" />
 		<rom name="Quiz Magic Academy 7 (Japan) (System Disc - Kuraianto Center Monitor Kyouyou).bin" size="637558992" crc="5825A177" md5="D6E2DD7F5585F75F8400D1A3E408FB52" sha1="794FB480AE424EB424ED8E72E9842C255A555B13" />
 	</game>
 	<game name="Toukyuu Oukoku Gashaaaan (Japan) (Application Disc)" type="">
 		<category>Games</category>
 		<description>Toukyuu Oukoku Gashaaaan (Japan) (Application Disc)</description>
-		<rom name="Toukyuu Oukoku Gashaaaan (Japan) (Application Disc).cue" size="117" crc="48544FC9" md5="1742BF3105D69B2FE6704BB8311442C0" sha1="60AA587F16BE5ABBAE74CE51BE2B7AFE1A10C637" />
 		<rom name="Toukyuu Oukoku Gashaaaan (Japan) (Application Disc).bin" size="384170976" crc="FE817EE6" md5="7A3F5C33B0B813066690D14D53C168F3" sha1="13D6FE651656491BD58822627AA02239CB2F45A3" />
 	</game>
 	<game name="Toukyuu Oukoku Gashaaaan (Japan) (System Disc)" type="">
 		<category>Games</category>
 		<description>Toukyuu Oukoku Gashaaaan (Japan) (System Disc)</description>
-		<rom name="Toukyuu Oukoku Gashaaaan (Japan) (System Disc).cue" size="112" crc="7F81381F" md5="E57F8C0D1C6B956A643B1B207E3FF6A5" sha1="98D45535EFEED11CCB890FBCF3201854104F38A0" />
 		<rom name="Toukyuu Oukoku Gashaaaan (Japan) (System Disc).bin" size="575734320" crc="ADD68325" md5="216669658105EAD756B547656FD906B8" sha1="5C98DD506123E79CA26B916D6323953FD9D57958" />
 	</game>
 </datafile>

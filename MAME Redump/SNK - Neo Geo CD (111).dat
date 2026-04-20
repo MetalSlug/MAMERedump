@@ -4,7 +4,7 @@
 	<header>
 		<name>SNK - Neo Geo CD</name>
 		<description>MAME Redump - SNK - Neo Geo CD - Discs (111) (2025-11-07 05-21-35)</description>
-		<version>0.285</version>
+		<version>0.286</version>
 		<date>2026-02-12</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -106,7 +106,7 @@
 		<description>Double Dragon (Export) (En,Ja)</description>
 		<disk name="Double Dragon (Export) (En,Ja).chd" sha1="04dcb46a1b1356ca2f041c0c1240968fc4596422" />
 	</machine>
-	<machine name="Double Dragon (Japan) (En,Ja) (Rev 1)">
+	<machine name="Double Dragon (Japan) (En,Ja) (Rev 1)" cloneof="Double Dragon (Export) (En,Ja)">
 		<category>Games</category>
 		<description>Double Dragon (Japan) (En,Ja) (Rev 1)</description>
 		<year>1995</year>
@@ -153,7 +153,7 @@
 		<description>Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt)</description>
 		<disk name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt).chd" sha1="8a0d2a0f0114ae4bbdeb902a102b57a4a5bd83f8" />
 	</machine>
-	<machine name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Rev 1)">
+	<machine name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Rev 1)" cloneof="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt)">
 		<category>Games</category>
 		<description>Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Rev 1)</description>
 		<disk name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Rev 1).chd" sha1="91335dec05027605836d56260347670c7f03e766" />
@@ -178,27 +178,27 @@
 		<description>Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 2)</description>
 		<disk name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 2).chd" sha1="3f7c4d3c815f76e53bca7deef19d6058073e90ea" />
 	</machine>
-	<machine name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 3)">
+	<machine name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 3)" cloneof="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 2)">
 		<category>Games</category>
 		<description>Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 3)</description>
 		<disk name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 3).chd" sha1="1c30ca7b6a33e6a8e69fcf9fc27205ba50fdaaff" />
 	</machine>
-	<machine name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt)">
+	<machine name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt)" cloneof="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 2)">
 		<category>Games</category>
 		<description>Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt)</description>
 		<disk name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt).chd" sha1="27ce699e05d354fb3990cf63323afe1f6ae23c0e" />
 	</machine>
-	<machine name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (World) (En,Ja,Es,Pt) (Rev 1)">
+	<machine name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (World) (En,Ja,Es,Pt) (Rev 1)" cloneof="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 2)">
 		<category>Games</category>
 		<description>Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (World) (En,Ja,Es,Pt) (Rev 1)</description>
 		<disk name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (World) (En,Ja,Es,Pt) (Rev 1).chd" sha1="1a18c1591ab8152169bf4e45701575ee1b323aee" />
 	</machine>
-	<machine name="Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja)">
+	<machine name="Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja)" cloneof="Garou Densetsu 2 ~ Fatal Fury 2 (Japan) (En,Ja)">
 		<category>Games</category>
 		<description>Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja)</description>
 		<disk name="Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja).chd" sha1="e33bc1f21d35a16da59559885030f274069f565f" />
 	</machine>
-	<machine name="Garou Densetsu Special ~ Fatal Fury Special (World) (En,Ja) (Rev 1)">
+	<machine name="Garou Densetsu Special ~ Fatal Fury Special (World) (En,Ja) (Rev 1)" cloneof="Garou Densetsu 2 ~ Fatal Fury 2 (Japan) (En,Ja)">
 		<category>Games</category>
 		<description>Garou Densetsu Special ~ Fatal Fury Special (World) (En,Ja) (Rev 1)</description>
 		<disk name="Garou Densetsu Special ~ Fatal Fury Special (World) (En,Ja) (Rev 1).chd" sha1="97c841cac17b5ffe97317f9407c05003750961ae" />
@@ -228,7 +228,7 @@
 		<description>King of Fighters '94, The (World) (En,Ja)</description>
 		<disk name="King of Fighters '94, The (World) (En,Ja).chd" sha1="fa875fb77f5e6c87993620b36a7a09d1215f4542" />
 	</machine>
-	<machine name="King of Fighters '94, The (World) (En,Ja) (Rev 1)">
+	<machine name="King of Fighters '94, The (World) (En,Ja) (Rev 1)" cloneof="King of Fighters '94, The (World) (En,Ja)">
 		<category>Games</category>
 		<description>King of Fighters '94, The (World) (En,Ja) (Rev 1)</description>
 		<disk name="King of Fighters '94, The (World) (En,Ja) (Rev 1).chd" sha1="ed9fb78aeab2c8dd3aba7be916d2f68ca10f8860" />
@@ -238,7 +238,7 @@
 		<description>King of Fighters '95, The (Japan) (En,Ja) (Rev 1)</description>
 		<disk name="King of Fighters '95, The (Japan) (En,Ja) (Rev 1).chd" sha1="1faa367917f1a55c18751b27e91f96b3e5c07fb8" />
 	</machine>
-	<machine name="King of Fighters '95, The (World) (En,Ja)">
+	<machine name="King of Fighters '95, The (World) (En,Ja)" cloneof="King of Fighters '95, The (Japan) (En,Ja) (Rev 1)">
 		<category>Games</category>
 		<description>King of Fighters '95, The (World) (En,Ja)</description>
 		<disk name="King of Fighters '95, The (World) (En,Ja).chd" sha1="871fd69a3424f11ef8bb8e7df4003be5f177b89d" />
@@ -558,7 +558,7 @@
 		<description>World Heroes Perfect (Export) (En,Ja) (Rev 1)</description>
 		<disk name="World Heroes Perfect (Export) (En,Ja) (Rev 1).chd" sha1="bd9dcf62a4b87d1e72b555eabd4c983981a5f14d" />
 	</machine>
-	<machine name="World Heroes Perfect (World) (En,Ja)">
+	<machine name="World Heroes Perfect (World) (En,Ja)" cloneof="World Heroes Perfect (Export) (En,Ja) (Rev 1)">
 		<category>Games</category>
 		<description>World Heroes Perfect (World) (En,Ja)</description>
 		<disk name="World Heroes Perfect (World) (En,Ja).chd" sha1="b3230719506c43b00154e4c4c4e34b852ad1ac27" />

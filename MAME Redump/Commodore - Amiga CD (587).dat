@@ -4,7 +4,7 @@
 	<header>
 		<name>Commodore - Amiga CD</name>
 		<description>MAME Redump - Commodore - Amiga CD - Discs (589) (2025-11-16 18-19-14)</description>
-		<version>0.285</version>
+		<version>0.286</version>
 		<date>2026-02-12</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -2694,7 +2694,7 @@
 		<description>Quake (Europe)</description>
 		<disk name="Quake (Europe).chd" sha1="7d58e9e7c6b356e0201e42b33769b4cee2c4e92b" />
 	</machine>
-	<machine name="Quake (USA)">
+	<machine name="Quake (USA)" cloneof="Quake (Europe)">
 		<category>Games</category>
 		<description>Quake (USA)</description>
 		<disk name="Quake (USA).chd" sha1="bd8dfc46226196ffb4d3c4a83a3ba0a6ab40916e" />

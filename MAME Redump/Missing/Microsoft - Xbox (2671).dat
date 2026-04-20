@@ -4,7 +4,7 @@
 	<header>
 		<name>Microsoft - Xbox</name>
 		<description>MAME Redump - Microsoft - Xbox - Discs (2671) (2026-01-05 04-32-10)</description>
-		<version>0.285</version>
+		<version>0.286</version>
 		<date>2026-02-12</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -487,7 +487,6 @@
 	<game name="August 2003 External Recovery (Build 5659) (USA)" type="">
 		<category>Applications</category>
 		<description>August 2003 External Recovery (Build 5659) (USA)</description>
-		<rom name="August 2003 External Recovery (Build 5659) (USA).cue" size="114" crc="AC48677F" md5="711E2D1376106D8A30D4008E4D84AEA0" sha1="889A0EC74F7A808682AFA42D3C695882B32BDCAF" />
 		<rom name="August 2003 External Recovery (Build 5659) (USA).bin" size="228426240" crc="DCD94E39" md5="DC91D67B066AA038C9439C562CAE1EDB" sha1="CC84F3F3727C7D2B5BE882D99D03226F51631B25" />
 	</game>
 	<game name="Auto Modellista (USA, Japan) (En,Ja,Fr,De,Es,It)" type="">
@@ -3923,7 +3922,6 @@
 	<game name="GangBusters (Canada) (Proto) (2002-08-16)" type="">
 		<category>Preproduction</category>
 		<description>GangBusters (Canada) (Proto) (2002-08-16)</description>
-		<rom name="GangBusters (Canada) (Proto) (2002-08-16).cue" size="107" crc="C6918EDA" md5="A9B1E4ABDCDD5EE3827F4F33EDF1685E" sha1="3441CAEE5FAA4E7C475B89A21D7B6B3F0ED6E506" />
 		<rom name="GangBusters (Canada) (Proto) (2002-08-16).bin" size="114481248" crc="93D903CE" md5="767558E129F37656F57303E52D1EF3BD" sha1="54753F2A45A7514BF6E06194EBB7F87AF345A84A" />
 	</game>
 	<game name="Gauntlet - Dark Legacy (Europe) (En,Fr,De)" type="">
@@ -11084,7 +11082,6 @@
 	<game name="Taz - Wanted (Europe) (Beta) (2002-04-02)" type="">
 		<category>Preproduction</category>
 		<description>Taz - Wanted (Europe) (Beta) (2002-04-02)</description>
-		<rom name="Taz - Wanted (Europe) (Beta) (2002-04-02).cue" size="107" crc="7BBB5BA1" md5="BE5949F97FF9420596C0D9AF8016EFF1" sha1="225143AC26B1F584FC3E4CB80FFD174C2656F80A" />
 		<rom name="Taz - Wanted (Europe) (Beta) (2002-04-02).bin" size="774396000" crc="CEE6F067" md5="92599C3AC4B997D8D4F71C1D27E905E0" sha1="6DFC2E52B389A324C311E81913EBCDF96F51B380" />
 	</game>
 	<game name="Taz - Wanted (Europe) (En,Fr,De,Es,It)" type="">
@@ -13020,13 +13017,11 @@
 	<game name="Xbox Live Arcade (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)" type="">
 		<category>Applications</category>
 		<description>Xbox Live Arcade (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)</description>
-		<rom name="Xbox Live Arcade (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko).cue" size="117" crc="2C1B8D73" md5="1FC95EA01C7F376C99B60E366EC0552F" sha1="296F904DD90C2278CDC63C6A5109F149CA39E7A3" />
 		<rom name="Xbox Live Arcade (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko).bin" size="763176960" crc="58682CC2" md5="91E38918169FF1219CC92BEE504733F1" sha1="426F3916C1F69099F557115A8868DDCBD6947A39" />
 	</game>
 	<game name="Xbox Live Arcade (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Alt)" type="">
 		<category>Applications</category>
 		<description>Xbox Live Arcade (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Alt)</description>
-		<rom name="Xbox Live Arcade (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Alt).cue" size="123" crc="5DCB4042" md5="CA63420ED255E84C29D0E8BB7E25688D" sha1="F351317407AB6657AC09BC73DE15BAE25414856A" />
 		<rom name="Xbox Live Arcade (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Alt).bin" size="763529760" crc="2A3C01D3" md5="2D10A6E4B1BB9D624FCA28DE9DB877B4" sha1="D94FA6D8C90BE0535A1BC067A6062675396ED3E0" />
 	</game>
 	<game name="Xbox Live Arcade (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Rev 1)" type="">
@@ -13122,7 +13117,6 @@
 	<game name="Xbox Wireless Adapter Setup v1.0 (USA)" type="">
 		<category>Applications</category>
 		<description>Xbox Wireless Adapter Setup v1.0 (USA)</description>
-		<rom name="Xbox Wireless Adapter Setup v1.0 (USA).cue" size="127" crc="B8ED1ED1" md5="BB23EC9B4EA52DDDA9AC2077BBD4FE84" sha1="1926335B76A827804DB6FF334A7EA755AE552FA9" />
 		<rom name="Xbox Wireless Adapter Setup v1.0 (USA).bin" size="62092800" crc="FDE000AE" md5="CEA1E6ECB5A34E7750DBC7E062337721" sha1="C0C2F717AC3F31A7EA63867B7F3751B4FD3F868C" />
 	</game>
 	<game name="Xbox-ism - February 2003 (Japan)" type="">

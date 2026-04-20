@@ -4,7 +4,7 @@
 	<header>
 		<name>NEC - PC-98 series</name>
 		<description>MAME Redump - NEC - PC-98 series - Discs (127) (2025-09-18 15-34-04)</description>
-		<version>0.285</version>
+		<version>0.286</version>
 		<date>2026-02-12</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -12,7 +12,6 @@
 	<game name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan)" type="">
 		<category>Applications</category>
 		<description>Demonstration CD-ROM &amp; System Install CD-ROM (Japan)</description>
-		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan).cue" size="1787" crc="2AA3DE94" md5="250496250A23D7EE485D8A46329B6376" sha1="CE22805BB5052C10D2873F1489CEEF4FE346F145" />
 		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 01).bin" size="168462000" crc="8D2ABCAC" md5="1546918D2ECAEC81EA5AE7C41329DBA3" sha1="458CEFFBBB70AB30D8FA5E29AAE2A4F020D4AA79" />
 		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 02).bin" size="4123056" crc="0BC3B978" md5="7FF6EF062E6556E28C57F3E119B70507" sha1="59E564365E435A2E6D9B76FA040EE35C940AF2BD" />
 		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 03).bin" size="4880400" crc="6E50C1EE" md5="A4CAADB17AE61ECAA8CD57677EDD35AD" sha1="11477DF91F97D56A20F0D0412836FC8FDC040445" />

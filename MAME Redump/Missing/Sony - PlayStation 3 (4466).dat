@@ -4,7 +4,7 @@
 	<header>
 		<name>Sony - PlayStation 3</name>
 		<description>MAME Redump - Sony - PlayStation 3 - Discs (4466) (2026-01-05 10-07-27)</description>
-		<version>0.285</version>
+		<version>0.286</version>
 		<date>2026-02-12</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -117,13 +117,11 @@
 	<game name="3.40 IDU-IDU FW Update (USA)" type="">
 		<category>Applications</category>
 		<description>3.40 IDU-IDU FW Update (USA)</description>
-		<rom name="3.40 IDU-IDU FW Update (USA).cue" size="94" crc="0FA5EAE9" md5="ED96C2463CCBFFAC9ED56B8D0928DCF9" sha1="BC8C4792493E270D67D93C51ECE3479DAEF69145" />
 		<rom name="3.40 IDU-IDU FW Update (USA).bin" size="201088944" crc="4FFE66C4" md5="47428DDC56D7E1F1C495C3DE089D10FD" sha1="3D6E3F2E95E4A58AE13B074DEC841C96EF4133F4" />
 	</game>
 	<game name="3.66 IDU FW (USA)" type="">
 		<category>Applications</category>
 		<description>3.66 IDU FW (USA)</description>
-		<rom name="3.66 IDU FW (USA).cue" size="83" crc="55478587" md5="732FA7612CAB31D29D8D2BECAFBDAC8E" sha1="D0C14B528A70C251B90CE1B5088EBFC5CB1345AF" />
 		<rom name="3.66 IDU FW (USA).bin" size="214572960" crc="7964FFA0" md5="9E19E811995F1E70FE2FBD8E085E96E4" sha1="3574FBEA8A2B9B1B841E09D9856B1AEC0BBEA81D" />
 	</game>
 	<game name="3D Collection (Asia)" type="">
@@ -8564,7 +8562,6 @@
 	<game name="Guitar Hero - Smash Hits - May 2.76 IDU Update (USA)" type="">
 		<category>Demos</category>
 		<description>Guitar Hero - Smash Hits - May 2.76 IDU Update (USA)</description>
-		<rom name="Guitar Hero - Smash Hits - May 2.76 IDU Update (USA).cue" size="118" crc="77F92323" md5="1BF5328B82B62942A0AEB2F351FF64A0" sha1="CE751E46CB8F087BAAA2CCCC6195F9FDD44D9AFB" />
 		<rom name="Guitar Hero - Smash Hits - May 2.76 IDU Update (USA).bin" size="767097744" crc="CE8B6526" md5="03AE82522588946DF059C7AA7A163A78" sha1="5FF6CD2E05B77EEC2A4A68EFE9D732BACE5B6E8D" />
 	</game>
 	<game name="Guitar Hero - Smash Hits (USA) (En,Fr)" type="">
@@ -15040,13 +15037,11 @@
 	<game name="PlayStation 3 System Software Update (Version 2.0) (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Tr)" type="">
 		<category>Applications</category>
 		<description>PlayStation 3 System Software Update (Version 2.0) (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Tr)</description>
-		<rom name="PlayStation 3 System Software Update (Version 2.0) (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Tr).cue" size="178" crc="0D45F150" md5="D84B5390D61F88BE5064BB1BDF3716E8" sha1="1F6167D18C65B8523CDB15004851DEF3197868EF" />
 		<rom name="PlayStation 3 System Software Update (Version 2.0) (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Tr).bin" size="143641344" crc="55CDD1FC" md5="B1DBD0CF4827419CDCAE3488E3C9FE8B" sha1="A0354A96D66114199D2A8CE5677A7148B6E4727D" />
 	</game>
 	<game name="PlayStation 3 System Software Update (Version 2.0) (USA) (En,Fr)" type="">
 		<category>Applications</category>
 		<description>PlayStation 3 System Software Update (Version 2.0) (USA) (En,Fr)</description>
-		<rom name="PlayStation 3 System Software Update (Version 2.0) (USA) (En,Fr).cue" size="130" crc="A854F9AD" md5="865CBBB96685702CED70EB995D517819" sha1="CE15B0C0D770DFB722E2DE0D2AA681A71ECC2F6C" />
 		<rom name="PlayStation 3 System Software Update (Version 2.0) (USA) (En,Fr).bin" size="143634288" crc="97055A93" md5="5B0AFD13E4933F649BD3933E2C85399D" sha1="30A0FCA89A389C063ADF6830EECD02AE09D757B9" />
 	</game>
 	<game name="PlayStation All-Stars Battle Royale (Asia)" type="">
@@ -15422,37 +15417,31 @@
 	<game name="PS3 IDU 3.50 FW - Oct 2010 (USA)" type="">
 		<category>Applications</category>
 		<description>PS3 IDU 3.50 FW - Oct 2010 (USA)</description>
-		<rom name="PS3 IDU 3.50 FW - Oct 2010 (USA).cue" size="98" crc="113C64D1" md5="B56D7431DBEEB5560601737AFF97553A" sha1="931712AB7C900470B2147457CDAB4859F487F907" />
 		<rom name="PS3 IDU 3.50 FW - Oct 2010 (USA).bin" size="204125376" crc="6B7B7ED7" md5="4AD76AE13DDA721A2BD08684A9C180DD" sha1="DC2171C927EE098E41C7B7CFCB285879DC8FA90D" />
 	</game>
 	<game name="PS3 IDU 3.56 FW (USA)" type="">
 		<category>Applications</category>
 		<description>PS3 IDU 3.56 FW (USA)</description>
-		<rom name="PS3 IDU 3.56 FW (USA).cue" size="87" crc="C7B97F4F" md5="386BB5D14B076675CCB64B9B76B97BE7" sha1="38E2F17F87D637C9A8461E77F556AE4212BF9C89" />
 		<rom name="PS3 IDU 3.56 FW (USA).bin" size="212018688" crc="7B531E07" md5="70FCB5B7600199260F2F85D28BD57929" sha1="9E587F3F506FEEC67418C779254CFF2D34316211" />
 	</game>
 	<game name="PS3 IDU 3.72 PS 3D Display Update (USA)" type="">
 		<category>Applications</category>
 		<description>PS3 IDU 3.72 PS 3D Display Update (USA)</description>
-		<rom name="PS3 IDU 3.72 PS 3D Display Update (USA).cue" size="105" crc="114D84F6" md5="F5F75A47D0A0917B3AF351388093A1D5" sha1="1FEC86B8ECF48D3C7B2E00DD1A21DD84F3371BEE" />
 		<rom name="PS3 IDU 3.72 PS 3D Display Update (USA).bin" size="404720400" crc="42F8C603" md5="70A6F9D07D7E178172A36B444A7EFAA0" sha1="26D479AFA7F933C95AFF87EB1258507BCA7B8FCF" />
 	</game>
 	<game name="PS3 IDU 431 (USA)" type="">
 		<category>Applications</category>
 		<description>PS3 IDU 431 (USA)</description>
-		<rom name="PS3 IDU 431 (USA).cue" size="83" crc="18C70E33" md5="62BA680ECCCE0C0AE9FB341978E014CC" sha1="6333CEC9244E7F4DDE2E64A0E1F640C3161E0361" />
 		<rom name="PS3 IDU 431 (USA).bin" size="231617904" crc="13496BB0" md5="FFCD2D4EB5A031D8FF93156D74B1F72A" sha1="A2F0601EB131DB4A65BA1A8A9391999A26C8CB32" />
 	</game>
 	<game name="PS3 IDU Update 4.10 (USA)" type="">
 		<category>Applications</category>
 		<description>PS3 IDU Update 4.10 (USA)</description>
-		<rom name="PS3 IDU Update 4.10 (USA).cue" size="91" crc="BF005913" md5="A8775491BDE696953C19ABBE6DC18D3D" sha1="B8EC4E47B1520ECE4455E815886ADFF035552F65" />
 		<rom name="PS3 IDU Update 4.10 (USA).bin" size="228278064" crc="1BDB2F8B" md5="7149453AAE71DDB2D22ED9793FB71D5E" sha1="DC44EDFA43A6F95A7009ED6DE6C8C924873A3589" />
 	</game>
 	<game name="PS3 IDU Update 430 (USA)" type="">
 		<category>Applications</category>
 		<description>PS3 IDU Update 430 (USA)</description>
-		<rom name="PS3 IDU Update 430 (USA).cue" size="90" crc="AE19C45C" md5="D6C2184C95A7BB235F6FF3F9B7D05CA8" sha1="EA4AA08DA69F93E2FE2D7055A05C04F33BAA5D0A" />
 		<rom name="PS3 IDU Update 430 (USA).bin" size="231617904" crc="54178262" md5="118786B4091B5C2A95B7285AE68391C6" sha1="3AAAB22E3FAF8822B5739CD719C42DD991389C28" />
 	</game>
 	<game name="PS3 IDU V.1.93 - Oct.-Nov. 2007 (USA)" type="">
@@ -15468,7 +15457,6 @@
 	<game name="PS3 System Software v.4.21 - F-W Only (USA)" type="">
 		<category>Applications</category>
 		<description>PS3 System Software v.4.21 - F-W Only (USA)</description>
-		<rom name="PS3 System Software v.4.21 - F-W Only (USA).cue" size="109" crc="BE304A09" md5="BC5CC5B57A26D576B68468BF38E334E7" sha1="65B8AC2E519212EEAE0F642E92CECCFF5CD70E25" />
 		<rom name="PS3 System Software v.4.21 - F-W Only (USA).bin" size="231406224" crc="A59AC250" md5="A1C52D7086F280F43D21859B01A98714" sha1="69493BF08C1C11BE46A7D5DFF57B5DDB8FE44163" />
 	</game>
 	<game name="Psycho Break (Japan) (En,Ja)" type="">

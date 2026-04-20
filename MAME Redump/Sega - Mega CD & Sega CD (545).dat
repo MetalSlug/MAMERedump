@@ -4,7 +4,7 @@
 	<header>
 		<name>Sega - Mega CD &amp; Sega CD</name>
 		<description>MAME Redump - Sega - Mega CD &amp; Sega CD - Discs (545) (2025-11-07 05-10-25)</description>
-		<version>0.285</version>
+		<version>0.286</version>
 		<date>2026-02-12</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
@@ -28,7 +28,7 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="Adventures of Batman and Robin, The (USA).chd" sha1="1fd748ba4a759ca4bd6d4b5962e17ce3ee06934f" />
 	</machine>
-	<machine name="Adventures of Willy Beamish, The (USA)">
+	<machine name="Adventures of Willy Beamish, The (USA)" cloneof="Adventures of Willy Beamish, The (USA) (Alt)">
 		<category>Games</category>
 		<description>Adventures of Willy Beamish, The (USA)</description>
 		<year>1993</year>
@@ -579,7 +579,7 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="Double Switch (USA).chd" sha1="550ef74c39eb6dd55b4410012ad8b1cf83c92e6e" />
 	</machine>
-	<machine name="Dracula Unleashed (Europe) (Disc 1) (Made in E.U.)">
+	<machine name="Dracula Unleashed (Europe) (Disc 1) (Made in E.U.)" cloneof="Dracula Unleashed (Europe) (Disc 1) (Made in Japan)">
 		<category>Games</category>
 		<description>Dracula Unleashed (Europe) (Disc 1) (Made in E.U.)</description>
 		<year>1994</year>
@@ -591,7 +591,7 @@
 		<description>Dracula Unleashed (Europe) (Disc 1) (Made in Japan)</description>
 		<disk name="Dracula Unleashed (Europe) (Disc 1) (Made in Japan).chd" sha1="2a3fe33e6e42f31b7cc65eaa445a47bd479acb86" />
 	</machine>
-	<machine name="Dracula Unleashed (Europe) (Disc 2) (Made in E.U.)">
+	<machine name="Dracula Unleashed (Europe) (Disc 2) (Made in E.U.)" cloneof="Dracula Unleashed (Europe) (Disc 2) (Made in Japan)">
 		<category>Games</category>
 		<description>Dracula Unleashed (Europe) (Disc 2) (Made in E.U.)</description>
 		<year>1994</year>
@@ -931,14 +931,14 @@
 		<manufacturer>Electronic Arts</manufacturer>
 		<disk name="FIFA International Soccer (USA) (En,Fr,De,Es).chd" sha1="a38b06e9812b31ab1bfb2ae10b3422c993d5fc2e" />
 	</machine>
-	<machine name="Final Fight CD (Europe)">
+	<machine name="Final Fight CD (Europe)" cloneof="Final Fight CD (Japan) (Rev A)">
 		<category>Games</category>
 		<description>Final Fight CD (Europe)</description>
 		<year>1993</year>
 		<manufacturer>Sega</manufacturer>
 		<disk name="Final Fight CD (Europe).chd" sha1="8156ebd06b1479c2381c8eca074ee23b7da09c75" />
 	</machine>
-	<machine name="Final Fight CD (Japan)">
+	<machine name="Final Fight CD (Japan)" cloneof="Final Fight CD (Japan) (Rev A)">
 		<category>Games</category>
 		<description>Final Fight CD (Japan)</description>
 		<year>1993</year>
@@ -955,7 +955,7 @@
 		<description>Final Fight CD (USA)</description>
 		<disk name="Final Fight CD (USA).chd" sha1="fcf313ebdc316d1c69c8daa0a58116c0e72e8e6c" />
 	</machine>
-	<machine name="Final Fight CD (USA) (Alt 1)">
+	<machine name="Final Fight CD (USA) (Alt 1)" cloneof="Final Fight CD (USA) (Alt 2)">
 		<category>Games</category>
 		<description>Final Fight CD (USA) (Alt 1)</description>
 		<year>1993</year>
@@ -1053,7 +1053,7 @@
 		<manufacturer>Sony Imagesoft</manufacturer>
 		<disk name="Ground Zero Texas (USA) (Disc 1).chd" sha1="a4f140fb429d5ed9623aa0860d6aee0db78f0c87" />
 	</machine>
-	<machine name="Ground Zero Texas (USA) (Disc 2)">
+	<machine name="Ground Zero Texas (USA) (Disc 2)" cloneof="Ground Zero Texas (USA) (Disc 2) (Alt)">
 		<category>Games</category>
 		<description>Ground Zero Texas (USA) (Disc 2)</description>
 		<year>1993</year>
@@ -1162,7 +1162,7 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="Jaguar XJ220 (Europe) (En,Ja).chd" sha1="736532c5682b7bab5d0f8bcc336bfc0b0440c713" />
 	</machine>
-	<machine name="Jaguar XJ220 (Japan) (En,Ja)">
+	<machine name="Jaguar XJ220 (Japan) (En,Ja)" cloneof="Jaguar XJ220 (Europe) (En,Ja)">
 		<category>Games</category>
 		<description>Jaguar XJ220 (Japan) (En,Ja)</description>
 		<year>1993</year>
@@ -1294,7 +1294,7 @@
 		<description>Lawnmower Man, The (Europe) (Demo)</description>
 		<disk name="Lawnmower Man, The (Europe) (Demo).chd" sha1="b5d8b4d79cfaa686765afe1767d9a0efe8e187d4" />
 	</machine>
-	<machine name="Lawnmower Man, The (USA)">
+	<machine name="Lawnmower Man, The (USA)" cloneof="Lawnmower Man, The (Europe)">
 		<category>Games</category>
 		<description>Lawnmower Man, The (USA)</description>
 		<disk name="Lawnmower Man, The (USA).chd" sha1="42310399cdc394c8e8044fc2bbedc469f003f4cb" />
@@ -1304,7 +1304,7 @@
 		<description>Lethal Enforcers (Europe)</description>
 		<disk name="Lethal Enforcers (Europe).chd" sha1="d16d05ef4374455471f8ecc0dc421b06e6a3edaf" />
 	</machine>
-	<machine name="Lethal Enforcers (Japan)">
+	<machine name="Lethal Enforcers (Japan)" cloneof="Lethal Enforcers (Europe)">
 		<category>Games</category>
 		<description>Lethal Enforcers (Japan)</description>
 		<disk name="Lethal Enforcers (Japan).chd" sha1="7523b4125fdab943a1c01b398b68207499096fef" />
@@ -1321,7 +1321,7 @@
 		<manufacturer>Konami</manufacturer>
 		<disk name="Lethal Enforcers (USA) (Alt).chd" sha1="f1057470c58263524479fb500bb556ada97dfbaf" />
 	</machine>
-	<machine name="Lethal Enforcers II - Gun Fighters (Europe)">
+	<machine name="Lethal Enforcers II - Gun Fighters (Europe)" cloneof="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23)">
 		<category>Games</category>
 		<description>Lethal Enforcers II - Gun Fighters (Europe)</description>
 		<year>1994</year>
@@ -1338,14 +1338,14 @@
 		<description>Lethal Enforcers II - Gun Fighters (Europe) (Demo)</description>
 		<disk name="Lethal Enforcers II - Gun Fighters (Europe) (Demo).chd" sha1="b7a555fa57290f100ba4bb757d2a6b94931eb704" />
 	</machine>
-	<machine name="Lethal Enforcers II - Gun Fighters (USA)">
+	<machine name="Lethal Enforcers II - Gun Fighters (USA)" cloneof="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23)">
 		<category>Games</category>
 		<description>Lethal Enforcers II - Gun Fighters (USA)</description>
 		<year>1994</year>
 		<manufacturer>Konami</manufacturer>
 		<disk name="Lethal Enforcers II - Gun Fighters (USA).chd" sha1="6f9fbcf9f5ab7bcbbb2740cbe72af63183112855" />
 	</machine>
-	<machine name="Lethal Enforcers II - The Western (Japan)">
+	<machine name="Lethal Enforcers II - The Western (Japan)" cloneof="Lethal Enforcers II - Gun Fighters (Europe) (Beta) (1994-09-23)">
 		<category>Games</category>
 		<description>Lethal Enforcers II - The Western (Japan)</description>
 		<disk name="Lethal Enforcers II - The Western (Japan).chd" sha1="43804bd8a922bfb8df57fe2162c8b2c21ac945ac" />
@@ -1424,7 +1424,7 @@
 		<description>Lunar - The Silver Star (USA)</description>
 		<disk name="Lunar - The Silver Star (USA).chd" sha1="3e19391bbef794b9f14a8ef1fd05fd3e8479c070" />
 	</machine>
-	<machine name="Lunar - The Silver Star (USA) (RE)">
+	<machine name="Lunar - The Silver Star (USA) (RE)" cloneof="Lunar - The Silver Star (USA)">
 		<category>Games</category>
 		<description>Lunar - The Silver Star (USA) (RE)</description>
 		<disk name="Lunar - The Silver Star (USA) (RE).chd" sha1="8b7b94964362094e4d92adc6373351f47f1b84ba" />
@@ -1618,7 +1618,7 @@
 		<manufacturer>Arena</manufacturer>
 		<disk name="Mortal Kombat (Europe).chd" sha1="660b69ce804b21de869ed10c4548d27d608320ae" />
 	</machine>
-	<machine name="Mortal Kombat (USA)">
+	<machine name="Mortal Kombat (USA)" cloneof="Mortal Kombat Kanzenban (Japan)">
 		<category>Games</category>
 		<description>Mortal Kombat (USA)</description>
 		<year>1994</year>
@@ -1647,7 +1647,7 @@
 		<description>NBA Jam (Japan)</description>
 		<disk name="NBA Jam (Japan).chd" sha1="af321517cf0ace6b4434dcd39ff88af92b94f336" />
 	</machine>
-	<machine name="NBA Jam (USA)">
+	<machine name="NBA Jam (USA)" cloneof="NBA Jam (Japan)">
 		<category>Games</category>
 		<description>NBA Jam (USA)</description>
 		<year>1994</year>
@@ -1761,7 +1761,7 @@
 		<description>Night Trap (USA) (Disc 1) (Rerelease)</description>
 		<disk name="Night Trap (USA) (Disc 1) (Rerelease).chd" sha1="62c6e2db69cd934c7d08205a5bae20d4665cc6e3" />
 	</machine>
-	<machine name="Night Trap (USA) (Disc 1) (Rerelease) (Alt)">
+	<machine name="Night Trap (USA) (Disc 1) (Rerelease) (Alt)" cloneof="Night Trap (USA) (Disc 1) (Rerelease)">
 		<category>Games</category>
 		<description>Night Trap (USA) (Disc 1) (Rerelease) (Alt)</description>
 		<year>1993</year>
@@ -1787,7 +1787,7 @@
 		<description>Night Trap (USA) (Disc 2) (Rerelease)</description>
 		<disk name="Night Trap (USA) (Disc 2) (Rerelease).chd" sha1="b3147c8a5b76f21c81689428d6b73193d1f5ddbe" />
 	</machine>
-	<machine name="Night Trap (USA) (Disc 2) (Rerelease) (Alt)">
+	<machine name="Night Trap (USA) (Disc 2) (Rerelease) (Alt)" cloneof="Night Trap (USA) (Disc 2) (Rerelease)">
 		<category>Games</category>
 		<description>Night Trap (USA) (Disc 2) (Rerelease) (Alt)</description>
 		<year>1995</year>
@@ -1968,7 +1968,7 @@
 		<description>Prize Fighter (USA) (Disc 1)</description>
 		<disk name="Prize Fighter (USA) (Disc 1).chd" sha1="c90ab7a196388cf077f76ebd952d65f61e1b33d5" />
 	</machine>
-	<machine name="Prize Fighter (USA) (Disc 1) (Alt)">
+	<machine name="Prize Fighter (USA) (Disc 1) (Alt)" cloneof="Prize Fighter (USA) (Disc 1)">
 		<category>Games</category>
 		<description>Prize Fighter (USA) (Disc 1) (Alt)</description>
 		<year>1993</year>
@@ -2230,7 +2230,7 @@
 		<description>Sega Classics Arcade Collection (USA) (4-in-1) (RE2)</description>
 		<disk name="Sega Classics Arcade Collection (USA) (4-in-1) (RE2).chd" sha1="d37de64e85e79383448e89d5bbcf6552d61e9b88" />
 	</machine>
-	<machine name="Sega Classics Arcade Collection (USA) (5-in-1)">
+	<machine name="Sega Classics Arcade Collection (USA) (5-in-1)" cloneof="Sega Classics Arcade Collection - Limited Edition (Europe) (Rev A) (Alt)">
 		<category>Games</category>
 		<description>Sega Classics Arcade Collection (USA) (5-in-1)</description>
 		<year>1993</year>
@@ -2287,14 +2287,14 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="Sewer Shark (USA) (Not for Resale).chd" sha1="54a3e59912be6a6fc0295a634f69313f4956eae0" />
 	</machine>
-	<machine name="Sewer Shark (USA) (Not for Resale) (Alt 1)">
+	<machine name="Sewer Shark (USA) (Not for Resale) (Alt 1)" cloneof="Sewer Shark (USA) (Not for Resale)">
 		<category>Games</category>
 		<description>Sewer Shark (USA) (Not for Resale) (Alt 1)</description>
 		<year>1992</year>
 		<manufacturer>Sega</manufacturer>
 		<disk name="Sewer Shark (USA) (Not for Resale) (Alt 1).chd" sha1="62207f379d64d0839da8f8eed0729a21686d9eaa" />
 	</machine>
-	<machine name="Sewer Shark (USA) (Not for Resale) (Alt 2)">
+	<machine name="Sewer Shark (USA) (Not for Resale) (Alt 2)" cloneof="Sewer Shark (USA) (Not for Resale)">
 		<category>Games</category>
 		<description>Sewer Shark (USA) (Not for Resale) (Alt 2)</description>
 		<year>1992</year>
@@ -2515,7 +2515,7 @@
 		<description>Slam City with Scottie Pippen (USA) (Disc 3) (Mad Dog) (Sega CD 32X)</description>
 		<disk name="Slam City with Scottie Pippen (USA) (Disc 3) (Mad Dog) (Sega CD 32X).chd" sha1="6298a39a0464a6e514eda917f7c9ed2917e65803" />
 	</machine>
-	<machine name="Slam City with Scottie Pippen (USA) (Disc 4) (Smash) (RE-1)">
+	<machine name="Slam City with Scottie Pippen (USA) (Disc 4) (Smash) (RE-1)" cloneof="Slam City with Scottie Pippen (USA, Brazil) (Disc 4) (Smash)">
 		<category>Games</category>
 		<description>Slam City with Scottie Pippen (USA) (Disc 4) (Smash) (RE-1)</description>
 		<year>1994</year>
@@ -2527,7 +2527,7 @@
 		<description>Slam City with Scottie Pippen (USA) (Disc 4) (Smash) (Sega CD 32X)</description>
 		<disk name="Slam City with Scottie Pippen (USA) (Disc 4) (Smash) (Sega CD 32X).chd" sha1="7c032d87f4135cf2205b4dca94ead68c9e90cd10" />
 	</machine>
-	<machine name="Slam City with Scottie Pippen (USA, Brazil) (Disc 1) (Fingers) (RE-1)">
+	<machine name="Slam City with Scottie Pippen (USA, Brazil) (Disc 1) (Fingers) (RE-1)" cloneof="Slam City with Scottie Pippen (USA) (Disc 1) (Fingers)">
 		<category>Games</category>
 		<description>Slam City with Scottie Pippen (USA, Brazil) (Disc 1) (Fingers) (RE-1)</description>
 		<year>1994</year>
@@ -2541,7 +2541,7 @@
 		<manufacturer>Digital Pictures</manufacturer>
 		<disk name="Slam City with Scottie Pippen (USA, Brazil) (Disc 2) (Juice) (RE-1).chd" sha1="226686938e9c73827f9a6edb6711742379012a77" />
 	</machine>
-	<machine name="Slam City with Scottie Pippen (USA, Brazil) (Disc 3) (Mad Dog) (RE-1)">
+	<machine name="Slam City with Scottie Pippen (USA, Brazil) (Disc 3) (Mad Dog) (RE-1)" cloneof="Slam City with Scottie Pippen (USA) (Disc 3) (Mad Dog)">
 		<category>Games</category>
 		<description>Slam City with Scottie Pippen (USA, Brazil) (Disc 3) (Mad Dog) (RE-1)</description>
 		<year>1994</year>
@@ -2572,7 +2572,7 @@
 		<manufacturer>Konami</manufacturer>
 		<disk name="Snatcher (USA).chd" sha1="d38ada693efc354c1d3c4c663214ab173985bf95" />
 	</machine>
-	<machine name="Snatcher (USA) (Beta) (1994-10-07)">
+	<machine name="Snatcher (USA) (Beta) (1994-10-07)" cloneof="Snatcher (Europe)">
 		<category>Preproduction</category>
 		<description>Snatcher (USA) (Beta) (1994-10-07)</description>
 		<disk name="Snatcher (USA) (Beta) (1994-10-07).chd" sha1="6ed7458b427ebfd5b61bce5b7e87f1351e9c8201" />
@@ -2613,12 +2613,12 @@
 		<manufacturer>Wolf Team</manufacturer>
 		<disk name="Sol-Feace (Japan).chd" sha1="29bbb1878b3e62513cf87d1b8da8159ed7a4f110" />
 	</machine>
-	<machine name="Sol-Feace (USA) (RE)">
+	<machine name="Sol-Feace (USA) (RE)" cloneof="Sol-Feace (Europe) (Alt)">
 		<category>Games</category>
 		<description>Sol-Feace (USA) (RE)</description>
 		<disk name="Sol-Feace (USA) (RE).chd" sha1="650c0ba889d109b28fb9a27bd9193ec80679f56c" />
 	</machine>
-	<machine name="Sol-Feace (USA) (RE2)">
+	<machine name="Sol-Feace (USA) (RE2)" cloneof="Sol-Feace (Europe) (Alt)">
 		<category>Games</category>
 		<description>Sol-Feace (USA) (RE2)</description>
 		<year>1992</year>
@@ -2637,7 +2637,7 @@
 		<description>Sonic CD (Europe) (Beta) (1993-08-06)</description>
 		<disk name="Sonic CD (Europe) (Beta) (1993-08-06).chd" sha1="d284cbaec9d5405c272023b55616aac1049f1bad" />
 	</machine>
-	<machine name="Sonic CD (Europe) (Beta) (1993-08-19)">
+	<machine name="Sonic CD (Europe) (Beta) (1993-08-19)" cloneof="Sonic CD (Europe) (Beta) (1993-08-06)">
 		<category>Preproduction</category>
 		<description>Sonic CD (Europe) (Beta) (1993-08-19)</description>
 		<disk name="Sonic CD (Europe) (Beta) (1993-08-19).chd" sha1="fc4a0f47d109a7dfa534381141e1d01ec21c5fbb" />
@@ -2647,7 +2647,7 @@
 		<description>Sonic CD (USA)</description>
 		<disk name="Sonic CD (USA).chd" sha1="50ac97e3220f0c81f5585716fb0f2aa622e6602b" />
 	</machine>
-	<machine name="Sonic CD (USA) (Alt)">
+	<machine name="Sonic CD (USA) (Alt)" cloneof="Sonic CD (USA)">
 		<category>Games</category>
 		<description>Sonic CD (USA) (Alt)</description>
 		<disk name="Sonic CD (USA) (Alt).chd" sha1="be8a309e8b548c8a6adbdaef786abdc4449ab437" />
@@ -2657,21 +2657,21 @@
 		<description>Sonic CD (USA) (Beta) (1993-10-12)</description>
 		<disk name="Sonic CD (USA) (Beta) (1993-10-12).chd" sha1="5d551565b82fc5e9d86639b0c50f5d3ad6a264eb" />
 	</machine>
-	<machine name="Sonic CD (USA) (RE125)">
+	<machine name="Sonic CD (USA) (RE125)" cloneof="Sonic CD (USA)">
 		<category>Games</category>
 		<description>Sonic CD (USA) (RE125)</description>
 		<year>1993</year>
 		<manufacturer>Sega</manufacturer>
 		<disk name="Sonic CD (USA) (RE125).chd" sha1="1645128fc656aaba3ea5da176e5430ef9e65a05e" />
 	</machine>
-	<machine name="Sonic CD (USA) (RE125) (Alt 1)">
+	<machine name="Sonic CD (USA) (RE125) (Alt 1)" cloneof="Sonic CD (USA)">
 		<category>Games</category>
 		<description>Sonic CD (USA) (RE125) (Alt 1)</description>
 		<year>1993</year>
 		<manufacturer>Sega</manufacturer>
 		<disk name="Sonic CD (USA) (RE125) (Alt 1).chd" sha1="910272d40949d7653199fce53dbf04957d7488af" />
 	</machine>
-	<machine name="Sonic CD (USA) (RE125) (Alt 2)">
+	<machine name="Sonic CD (USA) (RE125) (Alt 2)" cloneof="Sonic CD (USA)">
 		<category>Games</category>
 		<description>Sonic CD (USA) (RE125) (Alt 2)</description>
 		<year>1993</year>
@@ -2690,17 +2690,17 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="Sonic the Hedgehog CD (Japan).chd" sha1="87102e7bf70981d33ae2aa4b04e2e7fe2bcab17b" />
 	</machine>
-	<machine name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12)">
+	<machine name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12)" cloneof="CD Sonic the Hedgehog (Japan) (Beta) (1993-06-21)">
 		<category>Preproduction</category>
 		<description>Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12)</description>
 		<disk name="Sonic the Hedgehog CD (Japan) (Beta) (1993-07-12).chd" sha1="7e4ba8d0c14ea401e6c920b1bb079a73fefb51bb" />
 	</machine>
-	<machine name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01)">
+	<machine name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01)" cloneof="Sonic CD (Europe) (Beta) (1993-08-06)">
 		<category>Preproduction</category>
 		<description>Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01)</description>
 		<disk name="Sonic the Hedgehog CD (Japan) (Beta) (1993-08-01).chd" sha1="acaeb667eeb5225dec4b0b647faa7bb033d3e1d5" />
 	</machine>
-	<machine name="Sonic the Hedgehog CD (Japan) (Demo)">
+	<machine name="Sonic the Hedgehog CD (Japan) (Demo)" cloneof="Sonic the Hedgehog CD (Japan)">
 		<category>Demos</category>
 		<description>Sonic the Hedgehog CD (Japan) (Demo)</description>
 		<year>1993</year>
@@ -2786,7 +2786,7 @@
 		<manufacturer>Victor Entertainment</manufacturer>
 		<disk name="Star Wars - Rebel Assault (Japan).chd" sha1="19114266d4b1f6e211383a900e34977c1b09fb25" />
 	</machine>
-	<machine name="Star Wars - Rebel Assault (USA)">
+	<machine name="Star Wars - Rebel Assault (USA)" cloneof="Star Wars - Rebel Assault (USA) (Limited Run Games)">
 		<category>Games</category>
 		<description>Star Wars - Rebel Assault (USA)</description>
 		<year>1994</year>
@@ -2854,7 +2854,7 @@
 		<description>Supreme Warrior (USA) (Disc 1) (Fire &amp; Earth)</description>
 		<disk name="Supreme Warrior (USA) (Disc 1) (Fire &amp; Earth).chd" sha1="132450fbbf1cf9104625a33f195bc3ee8b6a8997" />
 	</machine>
-	<machine name="Supreme Warrior (USA) (Disc 1) (Fire &amp; Earth) (Alt)">
+	<machine name="Supreme Warrior (USA) (Disc 1) (Fire &amp; Earth) (Alt)" cloneof="Supreme Warrior (USA) (Disc 1) (Fire &amp; Earth)">
 		<category>Games</category>
 		<description>Supreme Warrior (USA) (Disc 1) (Fire &amp; Earth) (Alt)</description>
 		<disk name="Supreme Warrior (USA) (Disc 1) (Fire &amp; Earth) (Alt).chd" sha1="97541353ff6208abcd6a485c8739aeebde383cbc" />
@@ -3177,7 +3177,7 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="Wolfchild (Europe).chd" sha1="0f9d05fefb0eeaaa90695f4efab91f17620ea765" />
 	</machine>
-	<machine name="Wolfchild (Japan)">
+	<machine name="Wolfchild (Japan)" cloneof="Wolfchild (Europe)">
 		<category>Games</category>
 		<description>Wolfchild (Japan)</description>
 		<year>1993</year>
@@ -3254,7 +3254,7 @@
 		<description>Yumemi Mystery Mansion (Europe) (Made in EU)</description>
 		<disk name="Yumemi Mystery Mansion (Europe) (Made in EU).chd" sha1="673081ad8647fa5438183f6490b17822170e1e38" />
 	</machine>
-	<machine name="Yumemi Mystery Mansion (Europe) (Made in Japan)">
+	<machine name="Yumemi Mystery Mansion (Europe) (Made in Japan)" cloneof="Yumemi Mystery Mansion (Europe) (Made in EU)">
 		<category>Games</category>
 		<description>Yumemi Mystery Mansion (Europe) (Made in Japan)</description>
 		<disk name="Yumemi Mystery Mansion (Europe) (Made in Japan).chd" sha1="241014a60359faf317d5fae2d0d173894d84617e" />
