@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>3DO 3DO Interactive Multiplayer - Applications - [ISO]</name>
+		<description>MAME Redump - 3DO 3DO Interactive Multiplayer - Applications - [ISO] (TOSEC-v2012-07-05)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="3DO Game Guru (1995)(3DO Company)(EU-US)[!]">
+		<description>3DO Game Guru (1995)(3DO Company)(EU-US)[!]</description>
+		<disk name="3DO Game Guru (1995)(3DO Company)(EU-US)[!].chd" sha1="095ed6907b77cfdb81d0d2f5de2c61f0aa65fef3" />
+	</machine>
+	<machine name="3DO Storage Manager v2.1 (1994)(3DO Company)(JP)(en)">
+		<description>3DO Storage Manager v2.1 (1994)(3DO Company)(JP)(en)</description>
+		<disk name="3DO Storage Manager v2.1 (1994)(3DO Company)(JP)(en).chd" sha1="c35f38a6d404ff39bf17bd16829642337fadb030" />
+	</machine>
+	<machine name="FB Battery Navi Ver.II (1996)(Dai Nippon Printing)(JP)">
+		<description>FB Battery Navi Ver.II (1996)(Dai Nippon Printing)(JP)</description>
+		<disk name="FB Battery Navi Ver.II (1996)(Dai Nippon Printing)(JP).chd" sha1="279175bbe982dcf3188d867ab6b33f163a3dfeb4" />
+	</machine>
+	<machine name="Nais How's 1 - Front How's '95-'96 v1.0 R2.0 (1995)(National)(JP)">
+		<description>Nais How's 1 - Front How's '95-'96 v1.0 R2.0 (1995)(National)(JP)</description>
+		<disk name="Nais How's 1 - Front How's '95-'96 v1.0 R2.0 (1995)(National)(JP).chd" sha1="5d7978cd3b3b0f4a49c6119c779e757399a078ba" />
+	</machine>
+	<machine name="New How's 1 - Front How's '94-'95 v1.0 (1994)(National)(JP)[!]">
+		<description>New How's 1 - Front How's '94-'95 v1.0 (1994)(National)(JP)[!]</description>
+		<disk name="New How's 1 - Front How's '94-'95 v1.0 (1994)(National)(JP)[!].chd" sha1="cb93f57a11d0ee99ae8bc67c6be4cf6f93f1fee8" />
+	</machine>
+	<machine name="TOYOPET OutDoor World (1995)(Toyota)(JP)">
+		<description>TOYOPET OutDoor World (1995)(Toyota)(JP)</description>
+		<disk name="TOYOPET OutDoor World (1995)(Toyota)(JP).chd" sha1="405a74db0e6ec6a66482e07da58b6e0f21aa6fcd" />
+	</machine>
+	<machine name="TOYOPET RV Paddock (1995)(Toyota)(JP)">
+		<description>TOYOPET RV Paddock (1995)(Toyota)(JP)</description>
+		<disk name="TOYOPET RV Paddock (1995)(Toyota)(JP).chd" sha1="357b1f52a4c41ea2623e354201d72007d4232223" />
+	</machine>
+</datafile>

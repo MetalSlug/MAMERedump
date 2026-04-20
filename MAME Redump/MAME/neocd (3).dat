@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>neocd</name>
+		<description>MAME Redump - neocd</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="cpbarrel\cbarrel_Neocd">
+		<category>Games</category>
+		<description>Captain Barrel</description>
+		<year>2024</year>
+		<manufacturer>Neo Byte Force</manufacturer>
+		<disk name="cpbarrel\cbarrel_Neocd.chd" sha1="c36ef17f7c00a25ca443f3aac01afffa24539de6" />
+	</machine>
+	<machine name="looptris\looptris">
+		<category>Games</category>
+		<description>Looptris</description>
+		<year>2021</year>
+		<manufacturer>Blastar</manufacturer>
+		<disk name="looptris\looptris.chd" sha1="890b3a08bf9a88d5ae6d4fbd73bd903ad929af64" />
+	</machine>
+	<machine name="looptrsp\Looptris Plus">
+		<category>Games</category>
+		<description>Looptris Plus</description>
+		<year>2022</year>
+		<manufacturer>Blastar</manufacturer>
+		<disk name="looptrsp\Looptris Plus.chd" sha1="154085e56b1bbbba4a866796c3f385da7cb6a3ed" />
+	</machine>
+</datafile>

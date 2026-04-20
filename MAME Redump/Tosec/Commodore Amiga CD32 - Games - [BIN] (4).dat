@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Games - [BIN]</name>
+		<description>MAME Redump - Commodore Amiga CD32 - Games - [BIN] (TOSEC-v2019-09-07)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Alien Breed 3D (1995)(Ocean - Team 17)[cp code]">
+		<description>Alien Breed 3D (1995)(Ocean - Team 17)[cp code]</description>
+		<disk name="Alien Breed 3D (1995)(Ocean - Team 17)[cp code].chd" sha1="309555ddefd7e077c95d8d025741edc2a55903d0" />
+	</machine>
+	<machine name="Arabian Nights (1993)(Buzz)(M4)">
+		<description>Arabian Nights (1993)(Buzz)(M4)</description>
+		<disk name="Arabian Nights (1993)(Buzz)(M4).chd" sha1="10308dd767080cf67cca92602b4fa807a82a34c7" />
+	</machine>
+	<machine name="Candy Puzzle (1996)(Gevin)[CUBO]">
+		<description>Candy Puzzle (1996)(Gevin)[CUBO]</description>
+		<disk name="Candy Puzzle (1996)(Gevin)[CUBO].chd" sha1="8569f04689f7002f290572705c232a5f69887f76" />
+	</machine>
+	<machine name="Emerald Mines (1994)(Almathera)[compilation]">
+		<description>Emerald Mines (1994)(Almathera)[compilation]</description>
+		<disk name="Emerald Mines (1994)(Almathera)[compilation].chd" sha1="cbb7d723c9e1a923915487aa95d10b8bfc495caf" />
+	</machine>
+</datafile>

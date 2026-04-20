@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga - CD - Applications - [IMG]</name>
+		<description>MAME Redump - Commodore Amiga - CD - Applications - [IMG] (TOSEC-v2018-07-02)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="BurnIT DAO-Version v2.65 (2000)(Titan Computers)(de-en)[serial]">
+		<description>BurnIT DAO-Version v2.65 (2000)(Titan Computers)(de-en)[serial]</description>
+		<disk name="BurnIT DAO-Version v2.65 (2000)(Titan Computers)(de-en)[serial].chd" sha1="2f6a6f51ee32e52df9df7fe5e7c04c3a50f2ee49" />
+	</machine>
+	<machine name="CyberGraphX v4 (1999)(Schatztruhe)">
+		<description>CyberGraphX v4 (1999)(Schatztruhe)</description>
+		<disk name="CyberGraphX v4 (1999)(Schatztruhe).chd" sha1="d621c027be85b5b435c4f1d177fa447405c5f330" />
+	</machine>
+</datafile>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Demos</name>
+		<description>MAME Redump - Commodore Amiga CD32 - Demos (TOSEC-v2017-10-23)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="4 Decades of Amiga Demos (2017-04-30)(AmigaJay)">
+		<description>4 Decades of Amiga Demos (2017-04-30)(AmigaJay)</description>
+		<disk name="4 Decades of Amiga Demos (2017-04-30)(AmigaJay).chd" sha1="49d8136ab64ef3bb9c7825152d8bff0fc2fce355" />
+	</machine>
+	<machine name="Press Play on Pad - Demo Scene Disc Amiga CD32 (2016-12-20)(Cobe)">
+		<description>Press Play on Pad - Demo Scene Disc Amiga CD32 (2016-12-20)(Cobe)</description>
+		<disk name="Press Play on Pad - Demo Scene Disc Amiga CD32 (2016-12-20)(Cobe).chd" sha1="96f37227c700ebb2b3cafe1d6a1628cec064c803" />
+	</machine>
+</datafile>

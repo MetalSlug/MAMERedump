@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga - CD - Homebrew - [IMG]</name>
+		<description>MAME Redump - Commodore Amiga - CD - Homebrew - [IMG] (TOSEC-v2018-07-02)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Amiga Doom (1998)(-)">
+		<description>Amiga Doom (1998)(-)</description>
+		<disk name="Amiga Doom (1998)(-).chd" sha1="6cfa9ae39b1e420a59a84e3c39d39237f676d9a4" />
+	</machine>
+</datafile>

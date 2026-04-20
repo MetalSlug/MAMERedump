@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga - CD - Games - [MDF]</name>
+		<description>MAME Redump - Commodore Amiga - CD - Games - [MDF] (TOSEC-v2018-07-03)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Exodus - The Last War (2000)(Sland Media)(M3)[PPC][AGA-RTG]" type="">
+		<description>Exodus - The Last War (2000)(Sland Media)(M3)[PPC][AGA-RTG]</description>
+		<rom name="EXODUS_THELASTWAR.mdf" size="780995712" crc="06753F90" md5="2ED3C55CB1AACDD92EAF06885586062F" sha1="506A00A7E3E51F02CD943D097897783D89BCB5D6" />
+		<rom name="EXODUS_THELASTWAR.mds" size="1278" crc="A01720C2" md5="E5FA835D7DAEFA5C76BFF078084E5E73" sha1="F981AF529068D794004629CA6C1A7901EB00122A" />
+	</game>
+	<game name="Shadow of the 3rd Moon, The (1997)(Titan Computer)(M3)[AGA-RTG]" type="">
+		<description>Shadow of the 3rd Moon, The (1997)(Titan Computer)(M3)[AGA-RTG]</description>
+		<rom name="Shadow of the 3rd Moon, The (1997)(Titan Computer)(M3)[AGA-RTG].mdf" size="638702064" crc="90DF4EB0" md5="8E6D8CA3C519F114C67A901D60C12023" sha1="DDD455AA880897C1C9FB70807C7138B383FE508A" />
+		<rom name="Shadow of the 3rd Moon, The (1997)(Titan Computer)(M3)[AGA-RTG].mds" size="1454" crc="56068DDC" md5="5484793BE62F4A826F9F4C6A0BBFDF0A" sha1="B925E370CDC775304B0E95D8AA8BF34A1CA8B6BA" />
+	</game>
+	<game name="Virtual Ball Fighters (2000)(Epic)[AGA-RTG]" type="">
+		<description>Virtual Ball Fighters (2000)(Epic)[AGA-RTG]</description>
+		<rom name="Virtual Ball Fighters (2000)(Epic)[AGA-RTG].mdf" size="712282032" crc="7B973666" md5="67FEB643AD9768591A632C3411DCA112" sha1="1697EFAE1E8C2D7E27E516EA632EFE02AB95242D" />
+		<rom name="Virtual Ball Fighters (2000)(Epic)[AGA-RTG].mds" size="1454" crc="7F5F1A88" md5="C19B8997C6FF54713645F6D8E7F92BB0" sha1="00BD76A22BCDB398048D62B2046E00E3D9B5BACD" />
+	</game>
+</datafile>

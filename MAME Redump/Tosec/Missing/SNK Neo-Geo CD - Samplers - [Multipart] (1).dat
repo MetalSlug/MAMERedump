@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>SNK Neo-Geo CD - Samplers - [Multipart]</name>
+		<description>MAME Redump - SNK Neo-Geo CD - Samplers - [Multipart] (TOSEC-v2012-09-08)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Frog Feast (demo) (2005-04-24)(RasterSoft)(PD)" type="">
+		<description>Frog Feast (demo) (2005-04-24)(RasterSoft)(PD)</description>
+		<rom name="063_FROG.FIX" size="131072" crc="CDB8046B" md5="D311DD9A8312E801A1D583D7C7B41172" sha1="7E00B3CCAE32073CBAF938FF6AEAEB2490CE1A08" />
+		<rom name="063_FROG.PCM" size="1048576" crc="EC001618" md5="3104634784537096A5BBA4ED66A2EE99" sha1="359E831A7AA4913DD13BE727B1BF3C86352D2B19" />
+		<rom name="063_FROG.PRG" size="524288" crc="9437635C" md5="1E655E6D1F720015E1B7C9E59D4B34DE" sha1="4C7A42038C6E96305BA40A25DF1E65C4D7ED8F17" />
+		<rom name="063_FROG.SPR" size="1048576" crc="075018B0" md5="BD28731505F6EF40A078617C0F50B191" sha1="195F3C8AA4F1332FC1132D2B0DDE8F2C8B909A02" />
+		<rom name="063_FROG.Z80" size="65536" crc="51C4EA52" md5="8539492D40C96CC71FB5762E6C41AB46" sha1="C09AC8A49D792F022B406370D025B2FB9386947D" />
+		<rom name="ABS.TXT" size="30" crc="C4AD414A" md5="F0D91AE03492C0531A9F960C45588112" sha1="BA0101F87B7BB7455A093E8456F8B7B18A961D70" />
+		<rom name="BIB.TXT" size="35" crc="C7A66A0B" md5="0C6DF774D70673EA8E3F29EDF674E413" sha1="71A22C0052BB08124949F6F4CADD83A0F6DDF906" />
+		<rom name="CPY.TXT" size="29" crc="20D6116B" md5="4FF22328FE4B77AD20E302DBA0BF46AD" sha1="EE9F35D7452860827B01A0F93E59BD78AB9E157E" />
+		<rom name="IPL.TXT" size="91" crc="0CE0FD0E" md5="DF5D6A6BD9B6DB7942D55E2DAB64E4B9" sha1="725471A2B4E8E494C8521DBE5BF3CAEE9F9B0D1A" />
+	</game>
+</datafile>

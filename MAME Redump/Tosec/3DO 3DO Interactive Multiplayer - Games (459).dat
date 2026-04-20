@@ -1,0 +1,1848 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>3DO 3DO Interactive Multiplayer - Games</name>
+		<description>MAME Redump - 3DO 3DO Interactive Multiplayer - Games (TOSEC-v2020-11-20)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="AI Shougi (1995)(Taito)(JP)">
+		<description>AI Shougi (1995)(Taito)(JP)</description>
+		<disk name="AI Shougi (1995)(Taito)(JP).chd" sha1="ea5487bc9d00b639c37b207c03dbb2f9dbf7838d" />
+	</machine>
+	<machine name="Alone in the Dark (1994)(Infogrames)(EU)">
+		<description>Alone in the Dark (1994)(Infogrames)(EU)</description>
+		<disk name="Alone in the Dark (1994)(Infogrames)(EU).chd" sha1="e5d760bc4f3fbc5974f861662e845d62f1dbd63a" />
+	</machine>
+	<machine name="Alone in the Dark (1994)(Interplay)(US)[!]">
+		<description>Alone in the Dark (1994)(Interplay)(US)[!]</description>
+		<disk name="Alone in the Dark (1994)(Interplay)(US)[!].chd" sha1="50bcecb8e4fd91d5238a89dea8084ffaf41213bd" />
+	</machine>
+	<machine name="Alone in the Dark (1994)(Pony Canyon)(JP)[!]">
+		<description>Alone in the Dark (1994)(Pony Canyon)(JP)[!]</description>
+		<disk name="Alone in the Dark (1994)(Pony Canyon)(JP)[!].chd" sha1="fa75891b46151df3b8b36b36c03a74d1a051a8d8" />
+	</machine>
+	<machine name="Alone in the Dark (1994)(Pony Canyon)(JP)[tr ru aliast - aspyd - FantasyNik][v20170807]">
+		<description>Alone in the Dark (1994)(Pony Canyon)(JP)[tr ru aliast - aspyd - FantasyNik][v20170807]</description>
+		<disk name="Alone in the Dark (1994)(Pony Canyon)(JP)[tr ru aliast - aspyd - FantasyNik][v20170807].chd" sha1="d072958aa151bbe71bf2a3998390957bd0dd16cd" />
+	</machine>
+	<machine name="Alone in the Dark (1994)(Pony Canyon)(JP)[tr ru aliast - aspyd - FantasyNik][v20170912]">
+		<description>Alone in the Dark (1994)(Pony Canyon)(JP)[tr ru aliast - aspyd - FantasyNik][v20170912]</description>
+		<disk name="Alone in the Dark (1994)(Pony Canyon)(JP)[tr ru aliast - aspyd - FantasyNik][v20170912].chd" sha1="e7be705a206482ba6d6c3c3269e293e15d44bb3e" />
+	</machine>
+	<machine name="Alone in the Dark 2 (1995)(Electronic Arts)(JP)[!]">
+		<description>Alone in the Dark 2 (1995)(Electronic Arts)(JP)[!]</description>
+		<disk name="Alone in the Dark 2 (1995)(Electronic Arts)(JP)[!].chd" sha1="e141f5092a0a924f9d22f15a1383d9bcb5174f11" />
+	</machine>
+	<machine name="Alone in the Dark 2 (1995)(Infogrames)(EU)">
+		<description>Alone in the Dark 2 (1995)(Infogrames)(EU)</description>
+		<disk name="Alone in the Dark 2 (1995)(Infogrames)(EU).chd" sha1="51ee417f0030b986ec342344a7f6c0e6e2ae62af" />
+	</machine>
+	<machine name="Alone in the Dark 2 (1995)(Infogrames)(FR)">
+		<description>Alone in the Dark 2 (1995)(Infogrames)(FR)</description>
+		<disk name="Alone in the Dark 2 (1995)(Infogrames)(FR).chd" sha1="05ab11677d3cb34114129d7b82bf64b41d572c46" />
+	</machine>
+	<machine name="Alone in the Dark 2 (1995)(Interplay)(US)[!]">
+		<description>Alone in the Dark 2 (1995)(Interplay)(US)[!]</description>
+		<disk name="Alone in the Dark 2 (1995)(Interplay)(US)[!].chd" sha1="4a1b2156e33fd343b2c6ecff64ec5a568f0b8d20" />
+	</machine>
+	<machine name="Alone in the Dark 2 (1995)(Interplay)(US)[tr ru aliast - FantasyNik][1.0]">
+		<description>Alone in the Dark 2 (1995)(Interplay)(US)[tr ru aliast - FantasyNik][1.0]</description>
+		<disk name="Alone in the Dark 2 (1995)(Interplay)(US)[tr ru aliast - FantasyNik][1.0].chd" sha1="176a2395cf77a6c0817becc36aaf188e4c7a2de6" />
+	</machine>
+	<machine name="Alone in the Dark 2 (1995)(Interplay)(US)[tr ru aliast - FantasyNik][1.6]">
+		<description>Alone in the Dark 2 (1995)(Interplay)(US)[tr ru aliast - FantasyNik][1.6]</description>
+		<disk name="Alone in the Dark 2 (1995)(Interplay)(US)[tr ru aliast - FantasyNik][1.6].chd" sha1="33622f6bc67d011cc44426a2de43f2e3b62548dc" />
+	</machine>
+	<machine name="Another World (1994)(Interplay)(EU)[!]">
+		<description>Another World (1994)(Interplay)(EU)[!]</description>
+		<disk name="Another World (1994)(Interplay)(EU)[!].chd" sha1="7950973d2cc9ec7cac5218b6bfe4e70f4189282f" />
+	</machine>
+	<machine name="Armageddon (1996)(LG)(KR)">
+		<description>Armageddon (1996)(LG)(KR)</description>
+		<disk name="Armageddon (1996)(LG)(KR).chd" sha1="77d6b2ddd698effb2fec440e53e69e7e2bc60496" />
+	</machine>
+	<machine name="AutoBahn Tokio (1995)(Panasonic)(JP)(en)[!]">
+		<description>AutoBahn Tokio (1995)(Panasonic)(JP)(en)[!]</description>
+		<disk name="AutoBahn Tokio (1995)(Panasonic)(JP)(en)[!].chd" sha1="f9b48af5f5095da9d74bd1bcf80568808c0a1133" />
+	</machine>
+	<machine name="Bakushou!! All Yoshimoto Quiz ou Ketteisen (1995)(Yoshimoto Kogyo)(JP)[!]">
+		<description>Bakushou!! All Yoshimoto Quiz ou Ketteisen (1995)(Yoshimoto Kogyo)(JP)[!]</description>
+		<disk name="Bakushou!! All Yoshimoto Quiz ou Ketteisen (1995)(Yoshimoto Kogyo)(JP)[!].chd" sha1="c6d8f6ccdf67e641c698dbdca39b65b27a0d628d" />
+	</machine>
+	<machine name="Ballz - The Director's Cut (1995)(Panasonic)[!]">
+		<description>Ballz - The Director's Cut (1995)(Panasonic)[!]</description>
+		<disk name="Ballz - The Director's Cut (1995)(Panasonic)[!].chd" sha1="9ea58e1b4ca810a009297ba63d4f0d674894c85a" />
+	</machine>
+	<machine name="Battle Blues (1996)(LG)(KR)">
+		<description>Battle Blues (1996)(LG)(KR)</description>
+		<disk name="Battle Blues (1996)(LG)(KR).chd" sha1="4f9ca0765d0852b4033c4c43b65e059f0e4e518c" />
+	</machine>
+	<machine name="Battle Chess (1993)(Interplay)(JP)[!]">
+		<description>Battle Chess (1993)(Interplay)(JP)[!]</description>
+		<disk name="Battle Chess (1993)(Interplay)(JP)[!].chd" sha1="77cece5d63df36e1433c4f6c32da9944f0c804e2" />
+	</machine>
+	<machine name="Battle Chess (1993)(Interplay)(US)[!]">
+		<description>Battle Chess (1993)(Interplay)(US)[!]</description>
+		<disk name="Battle Chess (1993)(Interplay)(US)[!].chd" sha1="5869698887519b2a8bcc897360683c88372b0e9f" />
+	</machine>
+	<machine name="Battle Chess (1994)(Interplay)(PAL)(EU)[!]">
+		<description>Battle Chess (1994)(Interplay)(PAL)(EU)[!]</description>
+		<disk name="Battle Chess (1994)(Interplay)(PAL)(EU)[!].chd" sha1="d275a6d157bd76acc04f8bd0a05663838fcb5185" />
+	</machine>
+	<machine name="Battle Pinball (1994)(Panasonic)(JP)[!]">
+		<description>Battle Pinball (1994)(Panasonic)(JP)[!]</description>
+		<disk name="Battle Pinball (1994)(Panasonic)(JP)[!].chd" sha1="00b67137ca9822c852cfc0cda3343297ff501c1f" />
+	</machine>
+	<machine name="BattleSport (1995)(Studio 3DO)(EU)[!]">
+		<description>BattleSport (1995)(Studio 3DO)(EU)[!]</description>
+		<disk name="BattleSport (1995)(Studio 3DO)(EU)[!].chd" sha1="b3549ac6521f86221fa03970a3e2a3778122d75c" />
+	</machine>
+	<machine name="BattleSport (1995)(Studio 3DO)(US)[!]">
+		<description>BattleSport (1995)(Studio 3DO)(US)[!]</description>
+		<disk name="BattleSport (1995)(Studio 3DO)(US)[!].chd" sha1="89b7e2216b12e768586b39e5849036575bef4c9a" />
+	</machine>
+	<machine name="BC Racers (1995)(GoldStar)(EU-US)[!]">
+		<description>BC Racers (1995)(GoldStar)(EU-US)[!]</description>
+		<disk name="BC Racers (1995)(GoldStar)(EU-US)[!].chd" sha1="53329b2d5fa3db3ca4373cad5f77ec3afca8b3e2" />
+	</machine>
+	<machine name="Belzerion (1994)(Human)(JP)[!]">
+		<description>Belzerion (1994)(Human)(JP)[!]</description>
+		<disk name="Belzerion (1994)(Human)(JP)[!].chd" sha1="b566a67a4cf6ef30efb4f883c1c1bc0f93c8ef53" />
+	</machine>
+	<machine name="Bishoujo Senshi Sailor Moon S (1995)(Bandai)(JP)[!]">
+		<description>Bishoujo Senshi Sailor Moon S (1995)(Bandai)(JP)[!]</description>
+		<disk name="Bishoujo Senshi Sailor Moon S (1995)(Bandai)(JP)[!].chd" sha1="01af5a05fa6f72d3cfa13e7c1cca30e43ffa1ba9" />
+	</machine>
+	<machine name="Bishoujo Senshi Sailor Moon S (1995)(Bandai)(JP)[tr ru Spider]">
+		<description>Bishoujo Senshi Sailor Moon S (1995)(Bandai)(JP)[tr ru Spider]</description>
+		<disk name="Bishoujo Senshi Sailor Moon S (1995)(Bandai)(JP)[tr ru Spider].chd" sha1="7b9738e161cba6bbaf769fb91f2ae0e90031a12b" />
+	</machine>
+	<machine name="BladeForce (1995)(Studio 3DO)(EU)[!]">
+		<description>BladeForce (1995)(Studio 3DO)(EU)[!]</description>
+		<disk name="BladeForce (1995)(Studio 3DO)(EU)[!].chd" sha1="d08a798c020f1365098209dc1e94970280c432cb" />
+	</machine>
+	<machine name="BladeForce (1995)(Studio 3DO)(JP)[!]">
+		<description>BladeForce (1995)(Studio 3DO)(JP)[!]</description>
+		<disk name="BladeForce (1995)(Studio 3DO)(JP)[!].chd" sha1="cecb8874e21b712bcffb7e5f259595f1834dfc50" />
+	</machine>
+	<machine name="BladeForce (1995)(Studio 3DO)(US)[!]">
+		<description>BladeForce (1995)(Studio 3DO)(US)[!]</description>
+		<disk name="BladeForce (1995)(Studio 3DO)(US)[!].chd" sha1="155df559c8ad3c81701023064bdf2a6cccde0b9c" />
+	</machine>
+	<machine name="Blood Angels - Space Hulk (1995)(Electronic Arts)(JP)">
+		<description>Blood Angels - Space Hulk (1995)(Electronic Arts)(JP)</description>
+		<disk name="Blood Angels - Space Hulk (1995)(Electronic Arts)(JP).chd" sha1="84fe12909f10d3451a2bc682c8e7f3391a38bbb4" />
+	</machine>
+	<machine name="Blue Forest Monogatari (1996)(Panasonic)(JP)[!]">
+		<description>Blue Forest Monogatari (1996)(Panasonic)(JP)[!]</description>
+		<disk name="Blue Forest Monogatari (1996)(Panasonic)(JP)[!].chd" sha1="6c0fb7875bd5694df6a62564c0fc583bde07ae66" />
+	</machine>
+	<machine name="Brain Dead 13 Starring Fritz (1995)(ReadySoft)(US)(Disc 1 of 2)[!]">
+		<description>Brain Dead 13 Starring Fritz (1995)(ReadySoft)(US)(Disc 1 of 2)[!]</description>
+		<disk name="Brain Dead 13 Starring Fritz (1995)(ReadySoft)(US)(Disc 1 of 2)[!].chd" sha1="cd4b08c9a20f88a10ba6cb131eeee805b7b2b5b8" />
+	</machine>
+	<machine name="Brain Dead 13 Starring Fritz (1995)(ReadySoft)(US)(Disc 2 of 2)[!]">
+		<description>Brain Dead 13 Starring Fritz (1995)(ReadySoft)(US)(Disc 2 of 2)[!]</description>
+		<disk name="Brain Dead 13 Starring Fritz (1995)(ReadySoft)(US)(Disc 2 of 2)[!].chd" sha1="04f4c1d8e864ab330c69339de80d98e1c2269d86" />
+	</machine>
+	<machine name="Brain Dead 13 Starring Fritz v1.1 (1995)(ReadySoft)(US)(Disc 1 of 2)[!]">
+		<description>Brain Dead 13 Starring Fritz v1.1 (1995)(ReadySoft)(US)(Disc 1 of 2)[!]</description>
+		<disk name="Brain Dead 13 Starring Fritz v1.1 (1995)(ReadySoft)(US)(Disc 1 of 2)[!].chd" sha1="1fcd1e354b518a8295a6b3f5d81b828917fa550f" />
+	</machine>
+	<machine name="Burning Soldier (1994)(Panasonic)(CA)">
+		<description>Burning Soldier (1994)(Panasonic)(CA)</description>
+		<disk name="Burning Soldier (1994)(Panasonic)(CA).chd" sha1="1179877dead4f55c20f24e6aa6304fae576d113b" />
+	</machine>
+	<machine name="Burning Soldier (1994)(Panasonic)(EU)[!]">
+		<description>Burning Soldier (1994)(Panasonic)(EU)[!]</description>
+		<disk name="Burning Soldier (1994)(Panasonic)(EU)[!].chd" sha1="c450cf1313c31c32d60c9c41febce8ec6ab980f4" />
+	</machine>
+	<machine name="Burning Soldier (1994)(Panasonic)(JP)(en)[!]">
+		<description>Burning Soldier (1994)(Panasonic)(JP)(en)[!]</description>
+		<disk name="Burning Soldier (1994)(Panasonic)(JP)(en)[!].chd" sha1="3e02ce7b012ea4941d9a40eaf5665d704a1d6d96" />
+	</machine>
+	<machine name="Burning Soldier (1994)(Panasonic)(US)[!]">
+		<description>Burning Soldier (1994)(Panasonic)(US)[!]</description>
+		<disk name="Burning Soldier (1994)(Panasonic)(US)[!].chd" sha1="16e62ef343b008e74ff09c9ba19825ebefc8e422" />
+	</machine>
+	<machine name="Bust-A-Move (1995)(Taito)(US)">
+		<description>Bust-A-Move (1995)(Taito)(US)</description>
+		<disk name="Bust-A-Move (1995)(Taito)(US).chd" sha1="a581590c760942ef47cfd7926b68883d272cc590" />
+	</machine>
+	<machine name="Cannon Fodder (1994)(Virgin)(EU)[!]">
+		<description>Cannon Fodder (1994)(Virgin)(EU)[!]</description>
+		<disk name="Cannon Fodder (1994)(Virgin)(EU)[!].chd" sha1="e5707e2db1666ad3eb85bf610504eed5200f4a1a" />
+	</machine>
+	<machine name="Cannon Fodder (1994)(Virgin)(US)[!]">
+		<description>Cannon Fodder (1994)(Virgin)(US)[!]</description>
+		<disk name="Cannon Fodder (1994)(Virgin)(US)[!].chd" sha1="c10de99e1364128f4c4cf5463e7e10e149bd6ae5" />
+	</machine>
+	<machine name="Captain Quazar (1995)(Studio 3DO)(EU)[!]">
+		<description>Captain Quazar (1995)(Studio 3DO)(EU)[!]</description>
+		<disk name="Captain Quazar (1995)(Studio 3DO)(EU)[!].chd" sha1="a0441a77e2f81262cc8c6b1cdabac3a2b3ac5057" />
+	</machine>
+	<machine name="Captain Quazar (1996)(Studio 3DO)(JP)">
+		<description>Captain Quazar (1996)(Studio 3DO)(JP)</description>
+		<disk name="Captain Quazar (1996)(Studio 3DO)(JP).chd" sha1="958697c8d1ace040bfba23621f753bc609fce7b8" />
+	</machine>
+	<machine name="Captain Quazar (1996)(Studio 3DO)(US)[!]">
+		<description>Captain Quazar (1996)(Studio 3DO)(US)[!]</description>
+		<disk name="Captain Quazar (1996)(Studio 3DO)(US)[!].chd" sha1="6a6da6f8b5296bb3381973f5994b4ffa7f81ef7e" />
+	</machine>
+	<machine name="Casper (1996)(Interplay)(US)[!]">
+		<description>Casper (1996)(Interplay)(US)[!]</description>
+		<disk name="Casper (1996)(Interplay)(US)[!].chd" sha1="3fb911465f14143aa3bb867c7cf0f447e521cf4a" />
+	</machine>
+	<machine name="Casper (1996)(Interplay)(US)[f PAL aliast]">
+		<description>Casper (1996)(Interplay)(US)[f PAL aliast]</description>
+		<disk name="Casper (1996)(Interplay)(US)[f PAL aliast].chd" sha1="3d087cc8eec26b32a4bbbfc47404cff3f0f15556" />
+	</machine>
+	<machine name="Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (1994)(Future Pirates)(JP)[!]">
+		<description>Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (1994)(Future Pirates)(JP)[!]</description>
+		<disk name="Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (1994)(Future Pirates)(JP)[!].chd" sha1="ba1f8b920b1eae6e61d1e3c34a5f88129aacae0b" />
+	</machine>
+	<machine name="Chiki Chiki Machine Mou Race 2 - In Space (1995)(Future Pirates)(JP)[!]">
+		<description>Chiki Chiki Machine Mou Race 2 - In Space (1995)(Future Pirates)(JP)[!]</description>
+		<disk name="Chiki Chiki Machine Mou Race 2 - In Space (1995)(Future Pirates)(JP)[!].chd" sha1="dd03e9da17195973c8e328a24333b0292cc4fbdb" />
+	</machine>
+	<machine name="Club 3DO - Station Invasion (1994)(Studio 3DO)(US)[!]">
+		<description>Club 3DO - Station Invasion (1994)(Studio 3DO)(US)[!]</description>
+		<disk name="Club 3DO - Station Invasion (1994)(Studio 3DO)(US)[!].chd" sha1="684674ec16a9c17dc584421de3fec9ad87ca3871" />
+	</machine>
+	<machine name="Corpse Killer (1994)(Digital Pictures)(JP)">
+		<description>Corpse Killer (1994)(Digital Pictures)(JP)</description>
+		<disk name="Corpse Killer (1994)(Digital Pictures)(JP).chd" sha1="b484d648975a3e909a7bc31e03796296e61419cb" />
+	</machine>
+	<machine name="Corpse Killer (1994)(Digital Pictures)(US)[!]">
+		<description>Corpse Killer (1994)(Digital Pictures)(US)[!]</description>
+		<disk name="Corpse Killer (1994)(Digital Pictures)(US)[!].chd" sha1="5e3abd1bde8dfb1a87b127263814566be2bada06" />
+	</machine>
+	<machine name="Cowboy Casino - Interactive Poker (1994)(IntelliPlay)(US)[!]">
+		<description>Cowboy Casino - Interactive Poker (1994)(IntelliPlay)(US)[!]</description>
+		<disk name="Cowboy Casino - Interactive Poker (1994)(IntelliPlay)(US)[!].chd" sha1="99baa28a431349e124fed368b63de30d69b19be6" />
+	</machine>
+	<machine name="Crash 'n Burn (1993)(Crystal Dynamics)(US)[!][3DRM-1239120 1]">
+		<description>Crash 'n Burn (1993)(Crystal Dynamics)(US)[!][3DRM-1239120 1]</description>
+		<disk name="Crash 'n Burn (1993)(Crystal Dynamics)(US)[!][3DRM-1239120 1].chd" sha1="ff810259c600cc4d18b8c79af32c584ae18a4de5" />
+	</machine>
+	<machine name="Crash 'n Burn (1993)(Crystal Dynamics)(US)[!][DFJN5002ZAZ]">
+		<description>Crash 'n Burn (1993)(Crystal Dynamics)(US)[!][DFJN5002ZAZ]</description>
+		<disk name="Crash 'n Burn (1993)(Crystal Dynamics)(US)[!][DFJN5002ZAZ].chd" sha1="7cca3e10f297527efde11a743c56a53b8f819c6a" />
+	</machine>
+	<machine name="Crash 'n Burn (1994)(Crystal Dynamics)(JP)[!]">
+		<description>Crash 'n Burn (1994)(Crystal Dynamics)(JP)[!]</description>
+		<disk name="Crash 'n Burn (1994)(Crystal Dynamics)(JP)[!].chd" sha1="3be9fb9718d8cf3cc76e27affc951c490f35407b" />
+	</machine>
+	<machine name="Crayon Shin-chan - Puzzle Daimaou no Nazo (1995)(Bandai)(JP)">
+		<description>Crayon Shin-chan - Puzzle Daimaou no Nazo (1995)(Bandai)(JP)</description>
+		<disk name="Crayon Shin-chan - Puzzle Daimaou no Nazo (1995)(Bandai)(JP).chd" sha1="1d1a5622b30b9ea1bfa0a9a396b7020bd57a4553" />
+	</machine>
+	<machine name="Creature Shock (1995)(Virgin)(US)(Disc 1 of 2)[!]">
+		<description>Creature Shock (1995)(Virgin)(US)(Disc 1 of 2)[!]</description>
+		<disk name="Creature Shock (1995)(Virgin)(US)(Disc 1 of 2)[!].chd" sha1="c61bf9355baadac5c89800ec52c93762ad1311f5" />
+	</machine>
+	<machine name="Creature Shock (1995)(Virgin)(US)(Disc 2 of 2)[!]">
+		<description>Creature Shock (1995)(Virgin)(US)(Disc 2 of 2)[!]</description>
+		<disk name="Creature Shock (1995)(Virgin)(US)(Disc 2 of 2)[!].chd" sha1="f68c82c7d86ba06d85c0445c565d40ef53f4b062" />
+	</machine>
+	<machine name="Crime Patrol (1994)(American Laser Games)(US)[!]">
+		<description>Crime Patrol (1994)(American Laser Games)(US)[!]</description>
+		<disk name="Crime Patrol (1994)(American Laser Games)(US)[!].chd" sha1="321f79917dfeed0957690de721a877ce670e368e" />
+	</machine>
+	<machine name="Cyberdillo (1995)(Panasonic)(US)[!]">
+		<description>Cyberdillo (1995)(Panasonic)(US)[!]</description>
+		<disk name="Cyberdillo (1995)(Panasonic)(US)[!].chd" sha1="6fecef058a885734fb188f1da7ca6aa4a6ad116c" />
+	</machine>
+	<machine name="Cyberia (1996)(Interplay)(JP)">
+		<description>Cyberia (1996)(Interplay)(JP)</description>
+		<disk name="Cyberia (1996)(Interplay)(JP).chd" sha1="2ab34d8dfc89b8c7e06891068f3c4914238ce91b" />
+	</machine>
+	<machine name="Cyberia (1996)(Interplay)(US)[!]">
+		<description>Cyberia (1996)(Interplay)(US)[!]</description>
+		<disk name="Cyberia (1996)(Interplay)(US)[!].chd" sha1="d2da84670930176d2ad22b5badcb0d98fd69e2aa" />
+	</machine>
+	<machine name="D (1995)(Panasonic)(EU-US)(Disc 1 of 2)[!]">
+		<description>D (1995)(Panasonic)(EU-US)(Disc 1 of 2)[!]</description>
+		<disk name="D (1995)(Panasonic)(EU-US)(Disc 1 of 2)[!].chd" sha1="6aeb7265cb08ced0be00b3c50172562b078f9899" />
+	</machine>
+	<machine name="D (1995)(Panasonic)(EU-US)(Disc 2 of 2)[!]">
+		<description>D (1995)(Panasonic)(EU-US)(Disc 2 of 2)[!]</description>
+		<disk name="D (1995)(Panasonic)(EU-US)(Disc 2 of 2)[!].chd" sha1="94440d740a3186cfdd914d63462ebb3ee870c5fb" />
+	</machine>
+	<machine name="D no Shokutaku (1995)(San-Ei Shobo Publishing)(JP)(Disc 1 of 2)[!]">
+		<description>D no Shokutaku (1995)(San-Ei Shobo Publishing)(JP)(Disc 1 of 2)[!]</description>
+		<disk name="D no Shokutaku (1995)(San-Ei Shobo Publishing)(JP)(Disc 1 of 2)[!].chd" sha1="7df6a203d2e279b4f1e99dec1767191023410a74" />
+	</machine>
+	<machine name="D no Shokutaku (1995)(San-Ei Shobo Publishing)(JP)(Disc 2 of 2)[!]">
+		<description>D no Shokutaku (1995)(San-Ei Shobo Publishing)(JP)(Disc 2 of 2)[!]</description>
+		<disk name="D no Shokutaku (1995)(San-Ei Shobo Publishing)(JP)(Disc 2 of 2)[!].chd" sha1="903254440e491b302a40df49b8907b45dfa32f0a" />
+	</machine>
+	<machine name="Daedalus Encounter - Episode 1 - Nanpasen no Alien (1995)(HATNET)(JP)(Disc 1 of 4)[!]">
+		<description>Daedalus Encounter - Episode 1 - Nanpasen no Alien (1995)(HATNET)(JP)(Disc 1 of 4)[!]</description>
+		<disk name="Daedalus Encounter - Episode 1 - Nanpasen no Alien (1995)(HATNET)(JP)(Disc 1 of 4)[!].chd" sha1="fbe04e9ba4b249c096d81c367c1041bd8650f35d" />
+	</machine>
+	<machine name="Daedalus Encounter - Episode 1 - Nanpasen no Alien (1995)(HATNET)(JP)(Disc 2 of 4)[!]">
+		<description>Daedalus Encounter - Episode 1 - Nanpasen no Alien (1995)(HATNET)(JP)(Disc 2 of 4)[!]</description>
+		<disk name="Daedalus Encounter - Episode 1 - Nanpasen no Alien (1995)(HATNET)(JP)(Disc 2 of 4)[!].chd" sha1="c3a9aceadeea5d33b2661aa6a38ea3ad1cffb5b3" />
+	</machine>
+	<machine name="Daedalus Encounter - Episode 1 - Nanpasen no Alien (1995)(HATNET)(JP)(Disc 3 of 4)[!]">
+		<description>Daedalus Encounter - Episode 1 - Nanpasen no Alien (1995)(HATNET)(JP)(Disc 3 of 4)[!]</description>
+		<disk name="Daedalus Encounter - Episode 1 - Nanpasen no Alien (1995)(HATNET)(JP)(Disc 3 of 4)[!].chd" sha1="1c29982256c11e19330ce2210f1b9a09f870cd42" />
+	</machine>
+	<machine name="Daedalus Encounter - Episode 1 - Nanpasen no Alien (1995)(HATNET)(JP)(Disc 4 of 4)[!]">
+		<description>Daedalus Encounter - Episode 1 - Nanpasen no Alien (1995)(HATNET)(JP)(Disc 4 of 4)[!]</description>
+		<disk name="Daedalus Encounter - Episode 1 - Nanpasen no Alien (1995)(HATNET)(JP)(Disc 4 of 4)[!].chd" sha1="abdcc95fb6bc172197bc6a87dcc8b9faba83ad6c" />
+	</machine>
+	<machine name="Daedalus Encounter, The (1995)(Panasonic)(US)(Disc 1 of 4)[!]">
+		<description>Daedalus Encounter, The (1995)(Panasonic)(US)(Disc 1 of 4)[!]</description>
+		<disk name="Daedalus Encounter, The (1995)(Panasonic)(US)(Disc 1 of 4)[!].chd" sha1="938964df08f4f611fb23269dc03f2b563dee1d49" />
+	</machine>
+	<machine name="Daedalus Encounter, The (1995)(Panasonic)(US)(Disc 2 of 4)[!]">
+		<description>Daedalus Encounter, The (1995)(Panasonic)(US)(Disc 2 of 4)[!]</description>
+		<disk name="Daedalus Encounter, The (1995)(Panasonic)(US)(Disc 2 of 4)[!].chd" sha1="bea92612dbe28b0a2188955b31208a08b984ee02" />
+	</machine>
+	<machine name="Daedalus Encounter, The (1995)(Panasonic)(US)(Disc 3 of 4)[!]">
+		<description>Daedalus Encounter, The (1995)(Panasonic)(US)(Disc 3 of 4)[!]</description>
+		<disk name="Daedalus Encounter, The (1995)(Panasonic)(US)(Disc 3 of 4)[!].chd" sha1="f823066d56a2a2dada674634a8c1bb5b632cdc88" />
+	</machine>
+	<machine name="Daedalus Encounter, The (1995)(Panasonic)(US)(Disc 4 of 4)[!]">
+		<description>Daedalus Encounter, The (1995)(Panasonic)(US)(Disc 4 of 4)[!]</description>
+		<disk name="Daedalus Encounter, The (1995)(Panasonic)(US)(Disc 4 of 4)[!].chd" sha1="c7d2c7e62ef12f5af60c349b3c235855db14402e" />
+	</machine>
+	<machine name="DeathKeep (1995)(SSi)(US)[!]">
+		<description>DeathKeep (1995)(SSi)(US)[!]</description>
+		<disk name="DeathKeep (1995)(SSi)(US)[!].chd" sha1="5b3276e102c0e720657ff49ace1a4ffd988a6616" />
+	</machine>
+	<machine name="Decathlon (1996)(Studio 3DO)(proto)[unencrypted, req. RSA disable]">
+		<description>Decathlon (1996)(Studio 3DO)(proto)[unencrypted, req. RSA disable]</description>
+		<disk name="Decathlon (1996)(Studio 3DO)(proto)[unencrypted, req. RSA disable].chd" sha1="35c58a6a0968988642123117b85d713c54a4bb37" />
+	</machine>
+	<machine name="Decathlon (2007)(Oldergames)[!]">
+		<description>Decathlon (2007)(Oldergames)[!]</description>
+		<disk name="Decathlon (2007)(Oldergames)[!].chd" sha1="8b3b846e3823a570061ad111e7cf5ec398715815" />
+	</machine>
+	<machine name="Defcon 5 (1995)(GoldStar)(EU)[!]">
+		<description>Defcon 5 (1995)(GoldStar)(EU)[!]</description>
+		<disk name="Defcon 5 (1995)(GoldStar)(EU)[!].chd" sha1="f25b34c99e9280bd87bd795f7c34484786762946" />
+	</machine>
+	<machine name="Defcon 5 (1996)(Multisoft)(JP)">
+		<description>Defcon 5 (1996)(Multisoft)(JP)</description>
+		<disk name="Defcon 5 (1996)(Multisoft)(JP).chd" sha1="a8de9d488f86c68ec0205563ef79fc877aa25909" />
+	</machine>
+	<machine name="Demolition Man (1994)(Virgin Games)(JP)(en)[!]">
+		<description>Demolition Man (1994)(Virgin Games)(JP)(en)[!]</description>
+		<disk name="Demolition Man (1994)(Virgin Games)(JP)(en)[!].chd" sha1="0225432258a5027a636aca79c3e8df49c607a896" />
+	</machine>
+	<machine name="Demolition Man (1994)(Virgin)(US)[!]">
+		<description>Demolition Man (1994)(Virgin)(US)[!]</description>
+		<disk name="Demolition Man (1994)(Virgin)(US)[!].chd" sha1="4c1038d4a72929a71723edb69b504c07fbc8e9dc" />
+	</machine>
+	<machine name="Dennou Hyouryuu - Multimedia Cruising (1995)(Hamlet)(JP)[!]">
+		<description>Dennou Hyouryuu - Multimedia Cruising (1995)(Hamlet)(JP)[!]</description>
+		<disk name="Dennou Hyouryuu - Multimedia Cruising (1995)(Hamlet)(JP)[!].chd" sha1="9730a22ec161809dd9b20c4bbe677acf9588cc05" />
+	</machine>
+	<machine name="Devil's Course (1995)(Panasonic)(JP)[!]">
+		<description>Devil's Course (1995)(Panasonic)(JP)[!]</description>
+		<disk name="Devil's Course (1995)(Panasonic)(JP)[!].chd" sha1="3fc7e9c749a064fc8a773244a6eef211f37d5b8e" />
+	</machine>
+	<machine name="Doctor Hauzer (1994)(Panasonic)(JP)[!]">
+		<description>Doctor Hauzer (1994)(Panasonic)(JP)[!]</description>
+		<disk name="Doctor Hauzer (1994)(Panasonic)(JP)[!].chd" sha1="d45771507c74ae67d4dba8e19f713a9a8b491ea7" />
+	</machine>
+	<machine name="Doctor Hauzer (1994)(Panasonic)(JP)[h custom music ArcaneAria][tr en ArcaneAria][v1.0]">
+		<description>Doctor Hauzer (1994)(Panasonic)(JP)[h custom music ArcaneAria][tr en ArcaneAria][v1.0]</description>
+		<disk name="Doctor Hauzer (1994)(Panasonic)(JP)[h custom music ArcaneAria][tr en ArcaneAria][v1.0].chd" sha1="362006449ea0db4cac7407d1b777e9bc576224c5" />
+	</machine>
+	<machine name="Doctor Hauzer (1994)(Panasonic)(JP)[tr en ArcaneAria][v1.0]">
+		<description>Doctor Hauzer (1994)(Panasonic)(JP)[tr en ArcaneAria][v1.0]</description>
+		<disk name="Doctor Hauzer (1994)(Panasonic)(JP)[tr en ArcaneAria][v1.0].chd" sha1="9dddb38ef776d9996f9b0eb8cdb5610631eea81e" />
+	</machine>
+	<machine name="Doctor Hauzer (1994)(Panasonic)(JP)[tr en ArcaneAria][v1.1]">
+		<description>Doctor Hauzer (1994)(Panasonic)(JP)[tr en ArcaneAria][v1.1]</description>
+		<disk name="Doctor Hauzer (1994)(Panasonic)(JP)[tr en ArcaneAria][v1.1].chd" sha1="d0efa6793a03e64af752bc3b5bc4bbf76aaff981" />
+	</machine>
+	<machine name="Doctor Hauzer (1994)(Panasonic)(JP)[tr es Mr.Nobody]">
+		<description>Doctor Hauzer (1994)(Panasonic)(JP)[tr es Mr.Nobody]</description>
+		<disk name="Doctor Hauzer (1994)(Panasonic)(JP)[tr es Mr.Nobody].chd" sha1="76494bb1007df4a6bfcaa8c69be51200c0a13fc4" />
+	</machine>
+	<machine name="Doctor Hauzer (1994)(Panasonic)(JP)[tr ru Spider]">
+		<description>Doctor Hauzer (1994)(Panasonic)(JP)[tr ru Spider]</description>
+		<disk name="Doctor Hauzer (1994)(Panasonic)(JP)[tr ru Spider].chd" sha1="843b773eeb123cde9644cce438077abc2f401672" />
+	</machine>
+	<machine name="Doom (1995)(Art Data)(US)[!]">
+		<description>Doom (1995)(Art Data)(US)[!]</description>
+		<disk name="Doom (1995)(Art Data)(US)[!].chd" sha1="1f58e68f006e3d877829a217f80323305551e2a7" />
+	</machine>
+	<machine name="Doraemons, The - Yuujou Densetsu (1995)(ShoPro)(JP)[!]">
+		<description>Doraemons, The - Yuujou Densetsu (1995)(ShoPro)(JP)[!]</description>
+		<disk name="Doraemons, The - Yuujou Densetsu (1995)(ShoPro)(JP)[!].chd" sha1="7a0bc8e91cd4ae5e84341f7b351c40800f696dff" />
+	</machine>
+	<machine name="Dragon Lore - The Legend Begins (1995)(Mindscape)(EU-US)(M4)(Disc 1 of 3)[!]">
+		<description>Dragon Lore - The Legend Begins (1995)(Mindscape)(EU-US)(M4)(Disc 1 of 3)[!]</description>
+		<disk name="Dragon Lore - The Legend Begins (1995)(Mindscape)(EU-US)(M4)(Disc 1 of 3)[!].chd" sha1="7c2051d290285e9cb99697b841ba8a27b977d61c" />
+	</machine>
+	<machine name="Dragon Lore - The Legend Begins (1995)(Mindscape)(EU-US)(M4)(Disc 1 of 3)[tr ru FantasyNik - Swilly]">
+		<description>Dragon Lore - The Legend Begins (1995)(Mindscape)(EU-US)(M4)(Disc 1 of 3)[tr ru FantasyNik - Swilly]</description>
+		<disk name="Dragon Lore - The Legend Begins (1995)(Mindscape)(EU-US)(M4)(Disc 1 of 3)[tr ru FantasyNik - Swilly].chd" sha1="ad8c333787b43dd23a876b18cade5d293dd054ea" />
+	</machine>
+	<machine name="Dragon Lore - The Legend Begins (1995)(Mindscape)(EU-US)(M4)(Disc 2 of 3)[!]">
+		<description>Dragon Lore - The Legend Begins (1995)(Mindscape)(EU-US)(M4)(Disc 2 of 3)[!]</description>
+		<disk name="Dragon Lore - The Legend Begins (1995)(Mindscape)(EU-US)(M4)(Disc 2 of 3)[!].chd" sha1="cebfa74da282f57f35aa781ab848405a0ab00ad3" />
+	</machine>
+	<machine name="Dragon Lore - The Legend Begins (1995)(Mindscape)(EU-US)(M4)(Disc 2 of 3)[tr ru FantasyNik - Swilly]">
+		<description>Dragon Lore - The Legend Begins (1995)(Mindscape)(EU-US)(M4)(Disc 2 of 3)[tr ru FantasyNik - Swilly]</description>
+		<disk name="Dragon Lore - The Legend Begins (1995)(Mindscape)(EU-US)(M4)(Disc 2 of 3)[tr ru FantasyNik - Swilly].chd" sha1="50f06c1dadd64626ae895c473032fbc47a732f35" />
+	</machine>
+	<machine name="Dragon Lore - The Legend Begins (1995)(Mindscape)(EU-US)(M4)(Disc 3 of 3)[!]">
+		<description>Dragon Lore - The Legend Begins (1995)(Mindscape)(EU-US)(M4)(Disc 3 of 3)[!]</description>
+		<disk name="Dragon Lore - The Legend Begins (1995)(Mindscape)(EU-US)(M4)(Disc 3 of 3)[!].chd" sha1="61c2e82bcfdf806b16fcb51a8c69f8782887a490" />
+	</machine>
+	<machine name="Dragon Lore - The Legend Begins (1995)(Mindscape)(EU-US)(M4)(Disc 3 of 3)[tr ru FantasyNik - Swilly]">
+		<description>Dragon Lore - The Legend Begins (1995)(Mindscape)(EU-US)(M4)(Disc 3 of 3)[tr ru FantasyNik - Swilly]</description>
+		<disk name="Dragon Lore - The Legend Begins (1995)(Mindscape)(EU-US)(M4)(Disc 3 of 3)[tr ru FantasyNik - Swilly].chd" sha1="7f4fa71bd7f33b2ec3bb110bd63db81bdc0c82f9" />
+	</machine>
+	<machine name="Dragon Tycoon Edge (1995)(Sanyo)(JP)[!]">
+		<description>Dragon Tycoon Edge (1995)(Sanyo)(JP)[!]</description>
+		<disk name="Dragon Tycoon Edge (1995)(Sanyo)(JP)[!].chd" sha1="80c2c81d608293ffbbf3e15ece15d91af52189cf" />
+	</machine>
+	<machine name="Dragon's Lair (1993)(ReadySoft)(JP)[!]">
+		<description>Dragon's Lair (1993)(ReadySoft)(JP)[!]</description>
+		<disk name="Dragon's Lair (1993)(ReadySoft)(JP)[!].chd" sha1="13aed636eea36598982e4134fc85135a96b250b5" />
+	</machine>
+	<machine name="Dragon's Lair (1993)(ReadySoft)(US)[!][DH 65003]">
+		<description>Dragon's Lair (1993)(ReadySoft)(US)[!][DH 65003]</description>
+		<disk name="Dragon's Lair (1993)(ReadySoft)(US)[!][DH 65003].chd" sha1="51271400a9a4190b250e99ba1ee1ffe936ee3d72" />
+	</machine>
+	<machine name="Dragon's Lair (1993)(ReadySoft)(US)[!][DH 65003-2]">
+		<description>Dragon's Lair (1993)(ReadySoft)(US)[!][DH 65003-2]</description>
+		<disk name="Dragon's Lair (1993)(ReadySoft)(US)[!][DH 65003-2].chd" sha1="5528a2715eaaf3f504e9dcd06dc3805ae4640b12" />
+	</machine>
+	<machine name="Dragon's Lair (1994)(Elite - ReadySoft)(EU)(M4)">
+		<description>Dragon's Lair (1994)(Elite - ReadySoft)(EU)(M4)</description>
+		<disk name="Dragon's Lair (1994)(Elite - ReadySoft)(EU)(M4).chd" sha1="fc4c79b19d94bfe736dcd5254ee66fcfc6ca539d" />
+	</machine>
+	<machine name="Drug Wars (1995)(American Laser Games)(US)[!]">
+		<description>Drug Wars (1995)(American Laser Games)(US)[!]</description>
+		<disk name="Drug Wars (1995)(American Laser Games)(US)[!].chd" sha1="0937f6f281ce4be6aee5e5dbb28b108403b50a27" />
+	</machine>
+	<machine name="D's Diner - The Director's Cut (1996)(Warp)(JP)(Disc 1 of 2)[tr ru aliast - aspyd - DS]">
+		<description>D's Diner - The Director's Cut (1996)(Warp)(JP)(Disc 1 of 2)[tr ru aliast - aspyd - DS]</description>
+		<disk name="D's Diner - The Director's Cut (1996)(Warp)(JP)(Disc 1 of 2)[tr ru aliast - aspyd - DS].chd" sha1="6cf53664e2e73cdf7c5249ae70e672864268a7fb" />
+	</machine>
+	<machine name="D's Diner - The Director's Cut (1996)(Warp)(JP)(Disc 1 of 3)[!][Disk A]">
+		<description>D's Diner - The Director's Cut (1996)(Warp)(JP)(Disc 1 of 3)[!][Disk A]</description>
+		<disk name="D's Diner - The Director's Cut (1996)(Warp)(JP)(Disc 1 of 3)[!][Disk A].chd" sha1="c5387b1414411c96c7e58aa064e12bf51ec4c038" />
+	</machine>
+	<machine name="D's Diner - The Director's Cut (1996)(Warp)(JP)(Disc 2 of 2)[tr ru aliast - aspyd - DS]">
+		<description>D's Diner - The Director's Cut (1996)(Warp)(JP)(Disc 2 of 2)[tr ru aliast - aspyd - DS]</description>
+		<disk name="D's Diner - The Director's Cut (1996)(Warp)(JP)(Disc 2 of 2)[tr ru aliast - aspyd - DS].chd" sha1="18f8f23755ab585ca2365a3512cdd3a68ab936ef" />
+	</machine>
+	<machine name="D's Diner - The Director's Cut (1996)(Warp)(JP)(Disc 2 of 3)[!][Disk B]">
+		<description>D's Diner - The Director's Cut (1996)(Warp)(JP)(Disc 2 of 3)[!][Disk B]</description>
+		<disk name="D's Diner - The Director's Cut (1996)(Warp)(JP)(Disc 2 of 3)[!][Disk B].chd" sha1="1da174e0d5cffd5cd2ec2b240408e90e3e24538f" />
+	</machine>
+	<machine name="D's Diner - The Director's Cut (1996)(Warp)(JP)(Disc 3 of 3)[!][Disk C]">
+		<description>D's Diner - The Director's Cut (1996)(Warp)(JP)(Disc 3 of 3)[!][Disk C]</description>
+		<disk name="D's Diner - The Director's Cut (1996)(Warp)(JP)(Disc 3 of 3)[!][Disk C].chd" sha1="35f7aea64fee5c5e314a6c37d25f0b4076076531" />
+	</machine>
+	<machine name="EMIT Vol. 1 - Toki no Maigo (1995)(KOEI)(JP)[!]">
+		<description>EMIT Vol. 1 - Toki no Maigo (1995)(KOEI)(JP)[!]</description>
+		<disk name="EMIT Vol. 1 - Toki no Maigo (1995)(KOEI)(JP)[!].chd" sha1="d43fd36597beddf6df5126718e25839022174050" />
+	</machine>
+	<machine name="EMIT Vol. 2 - Meigake no Tabi (1995)(KOEI)(JP)[!]">
+		<description>EMIT Vol. 2 - Meigake no Tabi (1995)(KOEI)(JP)[!]</description>
+		<disk name="EMIT Vol. 2 - Meigake no Tabi (1995)(KOEI)(JP)[!].chd" sha1="5383a7f042ea56c8323009f323cc5f2f24c84dc6" />
+	</machine>
+	<machine name="EMIT Vol. 3 - Watashi ni Sayonara o (1995)(KOEI)(JP)[!]">
+		<description>EMIT Vol. 3 - Watashi ni Sayonara o (1995)(KOEI)(JP)[!]</description>
+		<disk name="EMIT Vol. 3 - Watashi ni Sayonara o (1995)(KOEI)(JP)[!].chd" sha1="dc3242fd7c36b78425adb3220e9b11a79ee4dbdb" />
+	</machine>
+	<machine name="Escape from Monster Manor - A Terrifying Hunt for the Undead (1993)(Electronic Arts)(EU)[!]">
+		<description>Escape from Monster Manor - A Terrifying Hunt for the Undead (1993)(Electronic Arts)(EU)[!]</description>
+		<disk name="Escape from Monster Manor - A Terrifying Hunt for the Undead (1993)(Electronic Arts)(EU)[!].chd" sha1="d00dbd9744d0aefa427ca6b76d760287b5f667b2" />
+	</machine>
+	<machine name="Escape from Monster Manor - A Terrifying Hunt for the Undead (1993)(Electronic Arts)(US)[!]">
+		<description>Escape from Monster Manor - A Terrifying Hunt for the Undead (1993)(Electronic Arts)(US)[!]</description>
+		<disk name="Escape from Monster Manor - A Terrifying Hunt for the Undead (1993)(Electronic Arts)(US)[!].chd" sha1="a2e308bbc1e075d2aa2279762eaac619240c85a1" />
+	</machine>
+	<machine name="F1GP (1995)(Pony Canyon)(JP)">
+		<description>F1GP (1995)(Pony Canyon)(JP)</description>
+		<disk name="F1GP (1995)(Pony Canyon)(JP).chd" sha1="db3a13168250035318198ae50ffb8bded95c09e3" />
+	</machine>
+	<machine name="Family Feud (1994)(Gametek)(US)[!]">
+		<description>Family Feud (1994)(Gametek)(US)[!]</description>
+		<disk name="Family Feud (1994)(Gametek)(US)[!].chd" sha1="a994879e20eeecdbffce2c6d1b11162ef4ff83a3" />
+	</machine>
+	<machine name="FIFA International Soccer (1994)(EA Sports)(EU)[!]">
+		<description>FIFA International Soccer (1994)(EA Sports)(EU)[!]</description>
+		<disk name="FIFA International Soccer (1994)(EA Sports)(EU)[!].chd" sha1="86e74396121742ee91e7346f9fca865a9584551b" />
+	</machine>
+	<machine name="FIFA International Soccer (1994)(EA Sports)(US)[!]">
+		<description>FIFA International Soccer (1994)(EA Sports)(US)[!]</description>
+		<disk name="FIFA International Soccer (1994)(EA Sports)(US)[!].chd" sha1="d8a57210ba68823267a9708b7d98e0307439b5fa" />
+	</machine>
+	<machine name="Fire Ball!! (1994)(Panasonic)(JP)[!][FZ-SJ0801 2]">
+		<description>Fire Ball!! (1994)(Panasonic)(JP)[!][FZ-SJ0801 2]</description>
+		<disk name="Fire Ball!! (1994)(Panasonic)(JP)[!][FZ-SJ0801 2].chd" sha1="e20ad104f8a48cb42b7828272713e024aae6ba60" />
+	</machine>
+	<machine name="Fire Ball!! (1994)(Panasonic)(JP)[FZ-SJ0801 1]">
+		<description>Fire Ball!! (1994)(Panasonic)(JP)[FZ-SJ0801 1]</description>
+		<disk name="Fire Ball!! (1994)(Panasonic)(JP)[FZ-SJ0801 1].chd" sha1="e1351ba9147b406684ef69da2c2753bfc3b3b401" />
+	</machine>
+	<machine name="Flashback - The Quest for Identity (1994)(Interplay)(JP)(M6)">
+		<description>Flashback - The Quest for Identity (1994)(Interplay)(JP)(M6)</description>
+		<disk name="Flashback - The Quest for Identity (1994)(Interplay)(JP)(M6).chd" sha1="2eb95c648bb70db63b015b4097a17ddea4b59cb7" />
+	</machine>
+	<machine name="Flashback - The Quest for Identity (1994)(Interplay)(JP)(M6)[tr ru Spider]">
+		<description>Flashback - The Quest for Identity (1994)(Interplay)(JP)(M6)[tr ru Spider]</description>
+		<disk name="Flashback - The Quest for Identity (1994)(Interplay)(JP)(M6)[tr ru Spider].chd" sha1="b6ff573ba0a2d56256d3b6279d88d69c0b4b317c" />
+	</machine>
+	<machine name="Flashback - The Quest for Identity (1994)(U.S. Gold)(EU)(en-fr)">
+		<description>Flashback - The Quest for Identity (1994)(U.S. Gold)(EU)(en-fr)</description>
+		<disk name="Flashback - The Quest for Identity (1994)(U.S. Gold)(EU)(en-fr).chd" sha1="35048a0636ca6062cdcb060b0bb638321c4a1c0d" />
+	</machine>
+	<machine name="Flashback - The Quest for Identity (1994)(U.S. Gold)(US)(en-fr)[!]">
+		<description>Flashback - The Quest for Identity (1994)(U.S. Gold)(US)(en-fr)[!]</description>
+		<disk name="Flashback - The Quest for Identity (1994)(U.S. Gold)(US)(en-fr)[!].chd" sha1="f94af89a05d229a928356be122b6d81f2e05646d" />
+	</machine>
+	<machine name="Flying Nightmares (1995)(Domark)(EU)[!]">
+		<description>Flying Nightmares (1995)(Domark)(EU)[!]</description>
+		<disk name="Flying Nightmares (1995)(Domark)(EU)[!].chd" sha1="e21e3c947c2e7fa7a489544410f900ada3eebb13" />
+	</machine>
+	<machine name="Flying Nightmares (1995)(Domark)(US)[!]">
+		<description>Flying Nightmares (1995)(Domark)(US)[!]</description>
+		<disk name="Flying Nightmares (1995)(Domark)(US)[!].chd" sha1="1b4aba7f1d059ccbb0d2782711a0317d9a430f27" />
+	</machine>
+	<machine name="Foes of Ali (1995)(EA Sports)(US)[!]">
+		<description>Foes of Ali (1995)(EA Sports)(US)[!]</description>
+		<disk name="Foes of Ali (1995)(EA Sports)(US)[!].chd" sha1="28b5aa9d55e09d5eea385af1f9acf20eb226de3e" />
+	</machine>
+	<machine name="Furopon World (1995)(Warp)(JP)">
+		<description>Furopon World (1995)(Warp)(JP)</description>
+		<disk name="Furopon World (1995)(Warp)(JP).chd" sha1="dc36e5e800b0b6b561ab19c52e79396aff84275a" />
+	</machine>
+	<machine name="Game no Tatsujin (1995)(Sunsoft)(JP)[!]">
+		<description>Game no Tatsujin (1995)(Sunsoft)(JP)[!]</description>
+		<disk name="Game no Tatsujin (1995)(Sunsoft)(JP)[!].chd" sha1="0a37578342f5f364161cbc6fd0714f93c8d4728c" />
+	</machine>
+	<machine name="Gex (1995)(BMG Interactive Entertainment)(JP)[!]">
+		<description>Gex (1995)(BMG Interactive Entertainment)(JP)[!]</description>
+		<disk name="Gex (1995)(BMG Interactive Entertainment)(JP)[!].chd" sha1="616377c6eb0ef73396ee058d2206d22604598179" />
+	</machine>
+	<machine name="Gex (1995)(Crystal Dynamics)(EU-US)[!]">
+		<description>Gex (1995)(Crystal Dynamics)(EU-US)[!]</description>
+		<disk name="Gex (1995)(Crystal Dynamics)(EU-US)[!].chd" sha1="dcde3a6c72a3aac22be81977f446683e38f1fd65" />
+	</machine>
+	<machine name="Ghost Hunter Series - Kuroki Shi no Kamen (1994)(Panasonic)(JP)[!][FZ-SJ0501 #1 3]">
+		<description>Ghost Hunter Series - Kuroki Shi no Kamen (1994)(Panasonic)(JP)[!][FZ-SJ0501 #1 3]</description>
+		<disk name="Ghost Hunter Series - Kuroki Shi no Kamen (1994)(Panasonic)(JP)[!][FZ-SJ0501 #1 3].chd" sha1="0081a4d1bc6b86ddc2fa53080da16eb4947c73cc" />
+	</machine>
+	<machine name="Ghost Hunter Series - Kuroki Shi no Kamen (1994)(Panasonic)(JP)[!][FZ-SJ0501 1]">
+		<description>Ghost Hunter Series - Kuroki Shi no Kamen (1994)(Panasonic)(JP)[!][FZ-SJ0501 1]</description>
+		<disk name="Ghost Hunter Series - Kuroki Shi no Kamen (1994)(Panasonic)(JP)[!][FZ-SJ0501 1].chd" sha1="443147e6e4549384917d7c50c5069703841ad0b5" />
+	</machine>
+	<machine name="Goal FH (1995)(Carrozzeria Japan)(JP)[!]">
+		<description>Goal FH (1995)(Carrozzeria Japan)(JP)[!]</description>
+		<disk name="Goal FH (1995)(Carrozzeria Japan)(JP)[!].chd" sha1="a379c768bb9c3b897f074dca0f7caa4ac66cae06" />
+	</machine>
+	<machine name="Great! Soccer Kid (1994)(Studio 3DO)(JP)">
+		<description>Great! Soccer Kid (1994)(Studio 3DO)(JP)</description>
+		<disk name="Great! Soccer Kid (1994)(Studio 3DO)(JP).chd" sha1="c400ed828b42cd9773a8accf85003f88a5ccb900" />
+	</machine>
+	<machine name="Gridders (1994)(GoldStar - Tetragon)(KR-US)(en)[!]">
+		<description>Gridders (1994)(GoldStar - Tetragon)(KR-US)(en)[!]</description>
+		<disk name="Gridders (1994)(GoldStar - Tetragon)(KR-US)(en)[!].chd" sha1="4de64e0aaab4f70cee121b8b2fffa33e93b3fcb5" />
+	</machine>
+	<machine name="Gridders v1.1 (1994)(Studio 3DO)(EU)">
+		<description>Gridders v1.1 (1994)(Studio 3DO)(EU)</description>
+		<disk name="Gridders v1.1 (1994)(Studio 3DO)(EU).chd" sha1="ee665d65d77545f45f6daa90ae95ea54fe276e56" />
+	</machine>
+	<machine name="Gridders v1.1 (1994)(Studio 3DO)(JP)">
+		<description>Gridders v1.1 (1994)(Studio 3DO)(JP)</description>
+		<disk name="Gridders v1.1 (1994)(Studio 3DO)(JP).chd" sha1="32a222599037a2cffb68542e0186ac34970db90c" />
+	</machine>
+	<machine name="Guardian War (1994)(Panasonic)(CA)">
+		<description>Guardian War (1994)(Panasonic)(CA)</description>
+		<disk name="Guardian War (1994)(Panasonic)(CA).chd" sha1="fe8b5d980bc438383483c6166293f3b488993c3c" />
+	</machine>
+	<machine name="Guardian War (1994)(Panasonic)(US)[!]">
+		<description>Guardian War (1994)(Panasonic)(US)[!]</description>
+		<disk name="Guardian War (1994)(Panasonic)(US)[!].chd" sha1="c6f5121d96ea5460f50d2bae03845d237a82b413" />
+	</machine>
+	<machine name="Hell - A Cyberpunk Thriller (1994)(Take 2)(US)[!]">
+		<description>Hell - A Cyberpunk Thriller (1994)(Take 2)(US)[!]</description>
+		<disk name="Hell - A Cyberpunk Thriller (1994)(Take 2)(US)[!].chd" sha1="f25c09b2509f8412d27e4bf5f3f250b5f4f28c5d" />
+	</machine>
+	<machine name="Horde, The (1994)(Crystal Dynamics)(EU-US)[!]">
+		<description>Horde, The (1994)(Crystal Dynamics)(EU-US)[!]</description>
+		<disk name="Horde, The (1994)(Crystal Dynamics)(EU-US)[!].chd" sha1="aee9bfe0177cefb38d5280a1c5c03ceb82e69a04" />
+	</machine>
+	<machine name="Horde, The (1994)(Crystal Dynamics)(JP)[!]">
+		<description>Horde, The (1994)(Crystal Dynamics)(JP)[!]</description>
+		<disk name="Horde, The (1994)(Crystal Dynamics)(JP)[!].chd" sha1="41d3de3be0b14edd58d16425d309b83f7d32898c" />
+	</machine>
+	<machine name="Horde, The (1994)(Crystal Dynamics)(US)[!]">
+		<description>Horde, The (1994)(Crystal Dynamics)(US)[!]</description>
+		<disk name="Horde, The (1994)(Crystal Dynamics)(US)[!].chd" sha1="bb771d82d9f1ef16dcbff8904ff5a67373c52f52" />
+	</machine>
+	<machine name="Icebreaker (1995)(Panasonic)(US)[!]">
+		<description>Icebreaker (1995)(Panasonic)(US)[!]</description>
+		<disk name="Icebreaker (1995)(Panasonic)(US)[!].chd" sha1="d26f786c75bd539597be10d67b2d8bc4f6f2406c" />
+	</machine>
+	<machine name="Icebreaker II - The Game (2007)(Oldergames)">
+		<description>Icebreaker II - The Game (2007)(Oldergames)</description>
+		<disk name="Icebreaker II - The Game (2007)(Oldergames).chd" sha1="b4c05a5be6dca7bce339e2e54819dd53abd1ed92" />
+	</machine>
+	<machine name="Icebreaker II - The Game (2007)(Oldergames)[f 3DO Experience][AKA Icebreaker 2 2011 Edition]">
+		<description>Icebreaker II - The Game (2007)(Oldergames)[f 3DO Experience][AKA Icebreaker 2 2011 Edition]</description>
+		<disk name="Icebreaker II - The Game (2007)(Oldergames)[f 3DO Experience][AKA Icebreaker 2 2011 Edition].chd" sha1="b1780de61f9a44a5c1b706e12534ecd28fc9a3f9" />
+	</machine>
+	<machine name="Ida Jiyouji Nightmare Interactive - Moon Cradle - Igyou no Hanayome (1995)(Panasonic)(JP)[!]">
+		<description>Ida Jiyouji Nightmare Interactive - Moon Cradle - Igyou no Hanayome (1995)(Panasonic)(JP)[!]</description>
+		<disk name="Ida Jiyouji Nightmare Interactive - Moon Cradle - Igyou no Hanayome (1995)(Panasonic)(JP)[!].chd" sha1="8364a82c91672cee04dc5a9854454248a8beceb1" />
+	</machine>
+	<machine name="Ide Yousuke Meijin no Shin Jissen Mahjong (1996)(Capcom)(JP)">
+		<description>Ide Yousuke Meijin no Shin Jissen Mahjong (1996)(Capcom)(JP)</description>
+		<disk name="Ide Yousuke Meijin no Shin Jissen Mahjong (1996)(Capcom)(JP).chd" sha1="5be5cd53e00079a2b39bb096cec3d4868679dd56" />
+	</machine>
+	<machine name="Idol Janshi Suchie-Pai Special (1994)(Jaleco)(JP)[!]">
+		<description>Idol Janshi Suchie-Pai Special (1994)(Jaleco)(JP)[!]</description>
+		<disk name="Idol Janshi Suchie-Pai Special (1994)(Jaleco)(JP)[!].chd" sha1="a97ef4cd8fa1168a5fe6c9c8e41942196d5d1680" />
+	</machine>
+	<machine name="Idol Mahjong Final Romance 2 - Hyper Edition (1996)(Infini)(JP)">
+		<description>Idol Mahjong Final Romance 2 - Hyper Edition (1996)(Infini)(JP)</description>
+		<disk name="Idol Mahjong Final Romance 2 - Hyper Edition (1996)(Infini)(JP).chd" sha1="8cdc78ff549eb3188f43298ddf13cded0c37953a" />
+	</machine>
+	<machine name="Igo Time Trial Najigo I (1994)(Ematec)(JP)[!]">
+		<description>Igo Time Trial Najigo I (1994)(Ematec)(JP)[!]</description>
+		<disk name="Igo Time Trial Najigo I (1994)(Ematec)(JP)[!].chd" sha1="cb908b04b03e73908a6e397d7e499514841f009d" />
+	</machine>
+	<machine name="Igo Time Trial Shikatsudai Hyakka (1995)(Ematec)(JP)">
+		<description>Igo Time Trial Shikatsudai Hyakka (1995)(Ematec)(JP)</description>
+		<disk name="Igo Time Trial Shikatsudai Hyakka (1995)(Ematec)(JP).chd" sha1="dba3755609ec6b2acc774d79b18451a097a8f0e6" />
+	</machine>
+	<machine name="Immercenary (1995)(Electronic Arts)(EU)[!]">
+		<description>Immercenary (1995)(Electronic Arts)(EU)[!]</description>
+		<disk name="Immercenary (1995)(Electronic Arts)(EU)[!].chd" sha1="e3ea382bc015d9292b6eb5cd97bad73189d18e51" />
+	</machine>
+	<machine name="Immercenary (1995)(Electronic Arts)(US)[!]">
+		<description>Immercenary (1995)(Electronic Arts)(US)[!]</description>
+		<disk name="Immercenary (1995)(Electronic Arts)(US)[!].chd" sha1="775ab63ed33d6f3a7d7c3922095cb0c7e4c850a3" />
+	</machine>
+	<machine name="Incredible Machine, The (1994)(Dynamix)(EU)[!]">
+		<description>Incredible Machine, The (1994)(Dynamix)(EU)[!]</description>
+		<disk name="Incredible Machine, The (1994)(Dynamix)(EU)[!].chd" sha1="30e2f695fe6809757e980ed2d6260bdb44f2bbf6" />
+	</machine>
+	<machine name="Incredible Machine, The (1994)(Dynamix)(US)[!]">
+		<description>Incredible Machine, The (1994)(Dynamix)(US)[!]</description>
+		<disk name="Incredible Machine, The (1994)(Dynamix)(US)[!].chd" sha1="b3143b294e79cd6c81cd533a2a8b4405a78c6aeb" />
+	</machine>
+	<machine name="Insect War (1994)(Panasonic)(JP)[!]">
+		<description>Insect War (1994)(Panasonic)(JP)[!]</description>
+		<disk name="Insect War (1994)(Panasonic)(JP)[!].chd" sha1="1a1c1f99db1214c7cc585db790a3970f86cee5e4" />
+	</machine>
+	<machine name="Iron Angel of the Apocalypse - The Return (1995)(Synergy)(US)[!]">
+		<description>Iron Angel of the Apocalypse - The Return (1995)(Synergy)(US)[!]</description>
+		<disk name="Iron Angel of the Apocalypse - The Return (1995)(Synergy)(US)[!].chd" sha1="d3be4574e08791d42c955f7c7afd6536c1090183" />
+	</machine>
+	<machine name="Iron Angel of the Apocalypse (1994)(Synergy)(US)[!]">
+		<description>Iron Angel of the Apocalypse (1994)(Synergy)(US)[!]</description>
+		<disk name="Iron Angel of the Apocalypse (1994)(Synergy)(US)[!].chd" sha1="6cf3568342e7f8751ea1ccdee9545ac738f24a8a" />
+	</machine>
+	<machine name="Ishida Yoshio Kudan no Igo Seiha (1995)(Electronic Arts)(JP)">
+		<description>Ishida Yoshio Kudan no Igo Seiha (1995)(Electronic Arts)(JP)</description>
+		<disk name="Ishida Yoshio Kudan no Igo Seiha (1995)(Electronic Arts)(JP).chd" sha1="3b49d4d1b7af4cb2830ce92f9e997a3e41f2e713" />
+	</machine>
+	<machine name="J. B. Harold - Blue Chicago Blues (1995)(Riverhill Soft)(JP)(Disc 1 of 2)[!]">
+		<description>J. B. Harold - Blue Chicago Blues (1995)(Riverhill Soft)(JP)(Disc 1 of 2)[!]</description>
+		<disk name="J. B. Harold - Blue Chicago Blues (1995)(Riverhill Soft)(JP)(Disc 1 of 2)[!].chd" sha1="590187985be6920125bd0e2c16cddf3bdedf2607" />
+	</machine>
+	<machine name="J. B. Harold - Blue Chicago Blues (1995)(Riverhill Soft)(JP)(Disc 2 of 2)[!]">
+		<description>J. B. Harold - Blue Chicago Blues (1995)(Riverhill Soft)(JP)(Disc 2 of 2)[!]</description>
+		<disk name="J. B. Harold - Blue Chicago Blues (1995)(Riverhill Soft)(JP)(Disc 2 of 2)[!].chd" sha1="814126204b8481cc3d9b894b9b7225fb85c31d81" />
+	</machine>
+	<machine name="J.League Virtual Stadium (1994)(EA Sports)(JP)[!]">
+		<description>J.League Virtual Stadium (1994)(EA Sports)(JP)[!]</description>
+		<disk name="J.League Virtual Stadium (1994)(EA Sports)(JP)[!].chd" sha1="6b275a1e2885a0b9cca96d0c299653c7b0266e81" />
+	</machine>
+	<machine name="J.League Virtual Stadium '95 (1995)(EA Sports)(JP)[!]">
+		<description>J.League Virtual Stadium '95 (1995)(EA Sports)(JP)[!]</description>
+		<disk name="J.League Virtual Stadium '95 (1995)(EA Sports)(JP)[!].chd" sha1="87657fe798d18a407b9d921de15e7c6d337c1ab0" />
+	</machine>
+	<machine name="Jammit (1994)(GTE)(US)[!]">
+		<description>Jammit (1994)(GTE)(US)[!]</description>
+		<disk name="Jammit (1994)(GTE)(US)[!].chd" sha1="56a8d41765f2f5eea08357c4e829cef188e0348a" />
+	</machine>
+	<machine name="Jikki Pachi Slot Simulator Vol. 1 (1995)(Electronic Arts)(JP)">
+		<description>Jikki Pachi Slot Simulator Vol. 1 (1995)(Electronic Arts)(JP)</description>
+		<disk name="Jikki Pachi Slot Simulator Vol. 1 (1995)(Electronic Arts)(JP).chd" sha1="5884e00db1219045307383ec4a9536ac5b88e042" />
+	</machine>
+	<machine name="John Madden Football (1994)(EA Sports)(US)[!][722007-2 70]">
+		<description>John Madden Football (1994)(EA Sports)(US)[!][722007-2 70]</description>
+		<disk name="John Madden Football (1994)(EA Sports)(US)[!][722007-2 70].chd" sha1="e5036de87f3432abf2dd2b79a46250eab858117d" />
+	</machine>
+	<machine name="John Madden Football (1994)(EA Sports)(US)[!][722007-2 R73]">
+		<description>John Madden Football (1994)(EA Sports)(US)[!][722007-2 R73]</description>
+		<disk name="John Madden Football (1994)(EA Sports)(US)[!][722007-2 R73].chd" sha1="a83be7b5a8abe9afac4b377ae65be176719646d5" />
+	</machine>
+	<machine name="John Madden NFL Football (1994)(EA Sports)(EU)[!]">
+		<description>John Madden NFL Football (1994)(EA Sports)(EU)[!]</description>
+		<disk name="John Madden NFL Football (1994)(EA Sports)(EU)[!].chd" sha1="dcc073d2adfde09ea8f74e361dee20e763ae89b7" />
+	</machine>
+	<machine name="Johnny Bazookatone (1995)(U.S. Gold)(EU)">
+		<description>Johnny Bazookatone (1995)(U.S. Gold)(EU)</description>
+		<disk name="Johnny Bazookatone (1995)(U.S. Gold)(EU).chd" sha1="74af88fb3073c1979dafc191ee7107fea18baaf0" />
+	</machine>
+	<machine name="Johnny Bazookatone (1996)(U.S. Gold)(US)[!]">
+		<description>Johnny Bazookatone (1996)(U.S. Gold)(US)[!]</description>
+		<disk name="Johnny Bazookatone (1996)(U.S. Gold)(US)[!].chd" sha1="eb6e8600c2c2c3c35ddf2973002c9c6c46a33df8" />
+	</machine>
+	<machine name="Jurassic Park Interactive (1994)(Panasonic)(JP)[!]">
+		<description>Jurassic Park Interactive (1994)(Panasonic)(JP)[!]</description>
+		<disk name="Jurassic Park Interactive (1994)(Panasonic)(JP)[!].chd" sha1="f223c160e172e8b94a0b939cf1ecad51f84edc75" />
+	</machine>
+	<machine name="Jurassic Park Interactive (1994)(Universal Interactive Studios)(US)[!]">
+		<description>Jurassic Park Interactive (1994)(Universal Interactive Studios)(US)[!]</description>
+		<disk name="Jurassic Park Interactive (1994)(Universal Interactive Studios)(US)[!].chd" sha1="a961ff53d8caa601f7f0ff57d6c03b26b8536e69" />
+	</machine>
+	<machine name="Kakinoki Shogi (1994)(Panasonic)(JP)[!]">
+		<description>Kakinoki Shogi (1994)(Panasonic)(JP)[!]</description>
+		<disk name="Kakinoki Shogi (1994)(Panasonic)(JP)[!].chd" sha1="f33b88c037fdd8777eb5e7d233fb85d0e71481aa" />
+	</machine>
+	<machine name="Keiba Saishou no Housoku (1994)(Copya)(JP)[!]">
+		<description>Keiba Saishou no Housoku (1994)(Copya)(JP)[!]</description>
+		<disk name="Keiba Saishou no Housoku (1994)(Copya)(JP)[!].chd" sha1="4b10c83dc01ea9b10b0d1b5fdf197e18b7aa2032" />
+	</machine>
+	<machine name="Killing Time (1995)(Studio 3DO)(EU)[!]">
+		<description>Killing Time (1995)(Studio 3DO)(EU)[!]</description>
+		<disk name="Killing Time (1995)(Studio 3DO)(EU)[!].chd" sha1="02b6a09140626ede16c9fdb4d3a47a0fada3e24e" />
+	</machine>
+	<machine name="Killing Time v2.2 (1995)(Studio 3DO)(US)(alpha)">
+		<description>Killing Time v2.2 (1995)(Studio 3DO)(US)(alpha)</description>
+		<disk name="Killing Time v2.2 (1995)(Studio 3DO)(US)(alpha).chd" sha1="44f3e10c54e6424741ea21d3ce0cd35bd578f317" />
+	</machine>
+	<machine name="Killing Time v2.7 (1995-08-28)(Studio 3DO)(US)(beta)">
+		<description>Killing Time v2.7 (1995-08-28)(Studio 3DO)(US)(beta)</description>
+		<disk name="Killing Time v2.7 (1995-08-28)(Studio 3DO)(US)(beta).chd" sha1="0c9f2eea38ee8a7675898f6f0153a73d72a11089" />
+	</machine>
+	<machine name="Killing Time v2.7 (1995-08-28)(Studio 3DO)(US)(beta)[unencrypted, req. RSA disable]">
+		<description>Killing Time v2.7 (1995-08-28)(Studio 3DO)(US)(beta)[unencrypted, req. RSA disable]</description>
+		<disk name="Killing Time v2.7 (1995-08-28)(Studio 3DO)(US)(beta)[unencrypted, req. RSA disable].chd" sha1="6643d4e93038d69b3ae53247da18f9c38ebeeca0" />
+	</machine>
+	<machine name="Killing Time v3.10 (1995)(Studio 3DO)(US)[mail-in disc]">
+		<description>Killing Time v3.10 (1995)(Studio 3DO)(US)[mail-in disc]</description>
+		<disk name="Killing Time v3.10 (1995)(Studio 3DO)(US)[mail-in disc].chd" sha1="0ae41a2d1c94d26f6435cff1ee46433e9f02540b" />
+	</machine>
+	<machine name="Killing Time v3.5 (1995)(Studio 3DO)(US)[!]">
+		<description>Killing Time v3.5 (1995)(Studio 3DO)(US)[!]</description>
+		<disk name="Killing Time v3.5 (1995)(Studio 3DO)(US)[!].chd" sha1="2439b67be8a53bff4c47a5a169df3bed143359d7" />
+	</machine>
+	<machine name="Kingdom - The Far Reaches (1994)(Interplay)(EU-US)[!]">
+		<description>Kingdom - The Far Reaches (1994)(Interplay)(EU-US)[!]</description>
+		<disk name="Kingdom - The Far Reaches (1994)(Interplay)(EU-US)[!].chd" sha1="dcccae620664a971bf36edf292d470dd1daee9f3" />
+	</machine>
+	<machine name="Konpeki no Kantai (1995)(Micro Cabin - Tokuma Shoten)(JP)[!][FZ-SJ5751-2-R1C]">
+		<description>Konpeki no Kantai (1995)(Micro Cabin - Tokuma Shoten)(JP)[!][FZ-SJ5751-2-R1C]</description>
+		<disk name="Konpeki no Kantai (1995)(Micro Cabin - Tokuma Shoten)(JP)[!][FZ-SJ5751-2-R1C].chd" sha1="a9d657cebddc1588816eac3b4b0def1f7be2d7ef" />
+	</machine>
+	<machine name="Konpeki no Kantai (1995)(Micro Cabin - Tokuma Shoten)(JP)[!][FZ-SJ5751-R1M]">
+		<description>Konpeki no Kantai (1995)(Micro Cabin - Tokuma Shoten)(JP)[!][FZ-SJ5751-R1M]</description>
+		<disk name="Konpeki no Kantai (1995)(Micro Cabin - Tokuma Shoten)(JP)[!][FZ-SJ5751-R1M].chd" sha1="1a07def5e96d35c6a9e2155edcafd88955754362" />
+	</machine>
+	<machine name="Kyuusei Senjutsu ni Yoru - Heisei Kaiun Koyomi (1994)(Ariadne)(JP)[!]">
+		<description>Kyuusei Senjutsu ni Yoru - Heisei Kaiun Koyomi (1994)(Ariadne)(JP)[!]</description>
+		<disk name="Kyuusei Senjutsu ni Yoru - Heisei Kaiun Koyomi (1994)(Ariadne)(JP)[!].chd" sha1="2b400174af12e9c88fe9be02b95556b48b08cca3" />
+	</machine>
+	<machine name="Last Bounty Hunter, The (1994)(American Laser Games)(US)[!]">
+		<description>Last Bounty Hunter, The (1994)(American Laser Games)(US)[!]</description>
+		<disk name="Last Bounty Hunter, The (1994)(American Laser Games)(US)[!].chd" sha1="5d63bc142b10e2ad06c538a4c06b16d27ab11863" />
+	</machine>
+	<machine name="Lemmings (1993)(Psygnosis)(US)[!]">
+		<description>Lemmings (1993)(Psygnosis)(US)[!]</description>
+		<disk name="Lemmings (1993)(Psygnosis)(US)[!].chd" sha1="f1c3f07a2bb8ce25a13eb1d4a84b91d190b88050" />
+	</machine>
+	<machine name="Lemmings (1994)(Electronic Arts)(JP)(en)[!]">
+		<description>Lemmings (1994)(Electronic Arts)(JP)(en)[!]</description>
+		<disk name="Lemmings (1994)(Electronic Arts)(JP)(en)[!].chd" sha1="1b379034bc3fb2c8527f3fcd1a22d89aafc70a4a" />
+	</machine>
+	<machine name="Lost Dungeon (1995)(T&amp;E Soft)(JP)[!]">
+		<description>Lost Dungeon (1995)(T&amp;E Soft)(JP)[!]</description>
+		<disk name="Lost Dungeon (1995)(T&amp;E Soft)(JP)[!].chd" sha1="ca882b1397abfa8ce9593ad4991bffb42b05d953" />
+	</machine>
+	<machine name="Lost Eden (1993)(Virgin)(US)(M5)">
+		<description>Lost Eden (1993)(Virgin)(US)(M5)</description>
+		<disk name="Lost Eden (1993)(Virgin)(US)(M5).chd" sha1="0775b3ac5e73c52ac9f1a988ab7542dff174c1db" />
+	</machine>
+	<machine name="Lost Eden (1993)(Virgin)(US)(M5)[tr ru aspyd - Everyday - samael - Silentman - Swilly - Versus][v2015-05-03]">
+		<description>Lost Eden (1993)(Virgin)(US)(M5)[tr ru aspyd - Everyday - samael - Silentman - Swilly - Versus][v2015-05-03]</description>
+		<disk name="Lost Eden (1993)(Virgin)(US)(M5)[tr ru aspyd - Everyday - samael - Silentman - Swilly - Versus][v2015-05-03].chd" sha1="feecf97edf9a2f7c74dabf3df353e5c342bc3019" />
+	</machine>
+	<machine name="Lost Eden (1993)(Virgin)(US)(M5)[tr ru aspyd - Everyday - samael - Silentman - Swilly - Versus][v2015-12-27]">
+		<description>Lost Eden (1993)(Virgin)(US)(M5)[tr ru aspyd - Everyday - samael - Silentman - Swilly - Versus][v2015-12-27]</description>
+		<disk name="Lost Eden (1993)(Virgin)(US)(M5)[tr ru aspyd - Everyday - samael - Silentman - Swilly - Versus][v2015-12-27].chd" sha1="9e7d71e8e0be691dce62f1961c0c16f07866269c" />
+	</machine>
+	<machine name="Lost Files of Sherlock Holmes, The (1994)(Electronic Arts)(US)[!]">
+		<description>Lost Files of Sherlock Holmes, The (1994)(Electronic Arts)(US)[!]</description>
+		<disk name="Lost Files of Sherlock Holmes, The (1994)(Electronic Arts)(US)[!].chd" sha1="64932b30090f78ac0617efc30343eed720aa9608" />
+	</machine>
+	<machine name="Lost Files of Sherlock Holmes, The (1994)(Electronic Arts)(US)[tr ru aliast - aspyd - Gektor_rus][v2016-06-05]">
+		<description>Lost Files of Sherlock Holmes, The (1994)(Electronic Arts)(US)[tr ru aliast - aspyd - Gektor_rus][v2016-06-05]</description>
+		<disk name="Lost Files of Sherlock Holmes, The (1994)(Electronic Arts)(US)[tr ru aliast - aspyd - Gektor_rus][v2016-06-05].chd" sha1="6d3072defbd4b7a9ba1f414e5d6be44393e7f376" />
+	</machine>
+	<machine name="Lost Files of Sherlock Holmes, The (1994)(Electronic Arts)(US)[tr ru aliast - aspyd - Gektor_rus][v2017-04-22]">
+		<description>Lost Files of Sherlock Holmes, The (1994)(Electronic Arts)(US)[tr ru aliast - aspyd - Gektor_rus][v2017-04-22]</description>
+		<disk name="Lost Files of Sherlock Holmes, The (1994)(Electronic Arts)(US)[tr ru aliast - aspyd - Gektor_rus][v2017-04-22].chd" sha1="5ec994dcbce6c9e9ec1f63b5aa073dfcf625d1ea" />
+	</machine>
+	<machine name="Lost Files of Sherlock Holmes, The (1994)(Electronic Arts)(US)[tr ru aliast - aspyd - Gektor_rus][v2019-09-20]">
+		<description>Lost Files of Sherlock Holmes, The (1994)(Electronic Arts)(US)[tr ru aliast - aspyd - Gektor_rus][v2019-09-20]</description>
+		<disk name="Lost Files of Sherlock Holmes, The (1994)(Electronic Arts)(US)[tr ru aliast - aspyd - Gektor_rus][v2019-09-20].chd" sha1="26e387e77067eb23df396836a214c2e325ccf73b" />
+	</machine>
+	<machine name="Lucienne's Quest (1996)(Panasonic)(US)[!]">
+		<description>Lucienne's Quest (1996)(Panasonic)(US)[!]</description>
+		<disk name="Lucienne's Quest (1996)(Panasonic)(US)[!].chd" sha1="49defcdccb750318b13aa7a374ae63cdcf674993" />
+	</machine>
+	<machine name="Lucienne's Quest (1996)(Panasonic)(US)[tr ru Spider]">
+		<description>Lucienne's Quest (1996)(Panasonic)(US)[tr ru Spider]</description>
+		<disk name="Lucienne's Quest (1996)(Panasonic)(US)[tr ru Spider].chd" sha1="8f18519e9c0352aaacafcb82a3b122cac1a974d5" />
+	</machine>
+	<machine name="Macaroni Houren Shou Interactive (1995)(Toshiba EMI)(JP)[!]">
+		<description>Macaroni Houren Shou Interactive (1995)(Toshiba EMI)(JP)[!]</description>
+		<disk name="Macaroni Houren Shou Interactive (1995)(Toshiba EMI)(JP)[!].chd" sha1="73e8a6e498c9c99a07c805d383b2b86387102578" />
+	</machine>
+	<machine name="Mad Dog II - The Lost Gold (1994)(American Laser Games)(US)[!]">
+		<description>Mad Dog II - The Lost Gold (1994)(American Laser Games)(US)[!]</description>
+		<disk name="Mad Dog II - The Lost Gold (1994)(American Laser Games)(US)[!].chd" sha1="84fad4b844bedf51aed6192b79c675cccc8a5331" />
+	</machine>
+	<machine name="Mad Dog II - The Lost Gold (1994)(American Laser Games)(US)[tr ru aliast - Gektor_rus]">
+		<description>Mad Dog II - The Lost Gold (1994)(American Laser Games)(US)[tr ru aliast - Gektor_rus]</description>
+		<disk name="Mad Dog II - The Lost Gold (1994)(American Laser Games)(US)[tr ru aliast - Gektor_rus].chd" sha1="000ee871556076cd54b785fcbe4274aad179bec6" />
+	</machine>
+	<machine name="Mad Dog McCree (1993)(American Laser Games)(US)[!]">
+		<description>Mad Dog McCree (1993)(American Laser Games)(US)[!]</description>
+		<disk name="Mad Dog McCree (1993)(American Laser Games)(US)[!].chd" sha1="e7acff05b4db33df745954d9eaf9ae9e1ea9394e" />
+	</machine>
+	<machine name="Mahjong Gokuu Tenjiku (1994)(ASCII)(JP)[!]">
+		<description>Mahjong Gokuu Tenjiku (1994)(ASCII)(JP)[!]</description>
+		<disk name="Mahjong Gokuu Tenjiku (1994)(ASCII)(JP)[!].chd" sha1="7b21222779b842215ab5f0b3052d27ca2baf21cd" />
+	</machine>
+	<machine name="Mahjong Kyou Jidai - AV Gal Seifuku Hen (1994)(Micronet)(JP)[!]">
+		<description>Mahjong Kyou Jidai - AV Gal Seifuku Hen (1994)(Micronet)(JP)[!]</description>
+		<disk name="Mahjong Kyou Jidai - AV Gal Seifuku Hen (1994)(Micronet)(JP)[!].chd" sha1="defa67a170a3f74888b22ef556c22887acc92b09" />
+	</machine>
+	<machine name="Mahjong Kyou Jidai - Cogal Houkago Hen (1995)(Micronet)(JP)">
+		<description>Mahjong Kyou Jidai - Cogal Houkago Hen (1995)(Micronet)(JP)</description>
+		<disk name="Mahjong Kyou Jidai - Cogal Houkago Hen (1995)(Micronet)(JP).chd" sha1="5b794489d4f970e448a6ef316029aa79aa9ab756" />
+	</machine>
+	<machine name="Masters Harukanaru Augusta 3 (1994)(Panasonic)(JP)[!]">
+		<description>Masters Harukanaru Augusta 3 (1994)(Panasonic)(JP)[!]</description>
+		<disk name="Masters Harukanaru Augusta 3 (1994)(Panasonic)(JP)[!].chd" sha1="931f541e3a533b0560afcf4ba2b21af3902d5c25" />
+	</machine>
+	<machine name="Mazer (1995)(American Laser Games)(US)[!]">
+		<description>Mazer (1995)(American Laser Games)(US)[!]</description>
+		<disk name="Mazer (1995)(American Laser Games)(US)[!].chd" sha1="d9dce5c9196e699ecd49e279a0dc0a1192b3f3bd" />
+	</machine>
+	<machine name="MegaRace (1994)(Mindscape)(EU)(M5)">
+		<description>MegaRace (1994)(Mindscape)(EU)(M5)</description>
+		<disk name="MegaRace (1994)(Mindscape)(EU)(M5).chd" sha1="5d55408e4f4ef9cf9ed62a5fbce15f65dc755da7" />
+	</machine>
+	<machine name="MegaRace (1994)(Mindscape)(EU-US)(M5)[!]">
+		<description>MegaRace (1994)(Mindscape)(EU-US)(M5)[!]</description>
+		<disk name="MegaRace (1994)(Mindscape)(EU-US)(M5)[!].chd" sha1="4b76f9c91ae5b759da15bbc1df9cb9d12e32f09e" />
+	</machine>
+	<machine name="MegaRace (1994)(Mindscape)(US)(M5)">
+		<description>MegaRace (1994)(Mindscape)(US)(M5)</description>
+		<disk name="MegaRace (1994)(Mindscape)(US)(M5).chd" sha1="613f4caf0745cfbff8219e111d3940a187ac3f58" />
+	</machine>
+	<machine name="MegaRace (1994)(Multisoft)(JP)[!]">
+		<description>MegaRace (1994)(Multisoft)(JP)[!]</description>
+		<disk name="MegaRace (1994)(Multisoft)(JP)[!].chd" sha1="b32a2ca6455f5d6f676e44aa5638706bc045711a" />
+	</machine>
+	<machine name="Microcosm (1994)(Psygnosis)(US)[!]">
+		<description>Microcosm (1994)(Psygnosis)(US)[!]</description>
+		<disk name="Microcosm (1994)(Psygnosis)(US)[!].chd" sha1="768d776e471e90fc38e740377faab5ee57dfaec9" />
+	</machine>
+	<machine name="Microcosm (1994)(T&amp;E Soft)(JP)[!]">
+		<description>Microcosm (1994)(T&amp;E Soft)(JP)[!]</description>
+		<disk name="Microcosm (1994)(T&amp;E Soft)(JP)[!].chd" sha1="0c17b3ffd328af69a2f0c12ba75f41c39cc7e7d3" />
+	</machine>
+	<machine name="Mind Teazzer (1994)(Vivid Interactive)(US)[!]">
+		<description>Mind Teazzer (1994)(Vivid Interactive)(US)[!]</description>
+		<disk name="Mind Teazzer (1994)(Vivid Interactive)(US)[!].chd" sha1="9a5532e714f19be2aff9d940e5e36205d8081ed9" />
+	</machine>
+	<machine name="Myst (1994)(Panasonic)(US)[!]">
+		<description>Myst (1994)(Panasonic)(US)[!]</description>
+		<disk name="Myst (1994)(Panasonic)(US)[!].chd" sha1="a161cc433d61e4a816267f9195808b1e9fafb0cd" />
+	</machine>
+	<machine name="Myst (1994)(Panasonic)(US)[tr ru aspyd - Gektor_rus]">
+		<description>Myst (1994)(Panasonic)(US)[tr ru aspyd - Gektor_rus]</description>
+		<disk name="Myst (1994)(Panasonic)(US)[tr ru aspyd - Gektor_rus].chd" sha1="aadff5be09a739b53858d1af247501eeb26206b4" />
+	</machine>
+	<machine name="Myst (1995)(Panasonic)(JP)[!][FZ-SJ0204 1]">
+		<description>Myst (1995)(Panasonic)(JP)[!][FZ-SJ0204 1]</description>
+		<disk name="Myst (1995)(Panasonic)(JP)[!][FZ-SJ0204 1].chd" sha1="58bb162ce2ba20c6d4d02898b08a9776cbb5d828" />
+	</machine>
+	<machine name="Myst (1995)(Panasonic)(JP)[FZ-SJ0204A 3]">
+		<description>Myst (1995)(Panasonic)(JP)[FZ-SJ0204A 3]</description>
+		<disk name="Myst (1995)(Panasonic)(JP)[FZ-SJ0204A 3].chd" sha1="3c668b16806eedae861c552b09a8d85a34693efc" />
+	</machine>
+	<machine name="N. O. B. - Neo Organic Bioform (1995)(Sanyo)(JP)">
+		<description>N. O. B. - Neo Organic Bioform (1995)(Sanyo)(JP)</description>
+		<disk name="N. O. B. - Neo Organic Bioform (1995)(Sanyo)(JP).chd" sha1="da265950739986c5b1ed6fb9679f5e6d8fc638e5" />
+	</machine>
+	<machine name="Need for Speed, The (1994)(Electronic Arts)(EU-US)[!]">
+		<description>Need for Speed, The (1994)(Electronic Arts)(EU-US)[!]</description>
+		<disk name="Need for Speed, The (1994)(Electronic Arts)(EU-US)[!].chd" sha1="6253060989dab94dcd525077d6e16ef83230414c" />
+	</machine>
+	<machine name="Need for Speed, The (1994)(Electronic Arts)(EU-US)[h speed Versus]">
+		<description>Need for Speed, The (1994)(Electronic Arts)(EU-US)[h speed Versus]</description>
+		<disk name="Need for Speed, The (1994)(Electronic Arts)(EU-US)[h speed Versus].chd" sha1="2e998bcae2323d0a28b3c7f94efdaff94d114981" />
+	</machine>
+	<machine name="NeuroDancer - Journey Into The Neuronet (1994)(Pixis Interactive)(US)">
+		<description>NeuroDancer - Journey Into The Neuronet (1994)(Pixis Interactive)(US)</description>
+		<disk name="NeuroDancer - Journey Into The Neuronet (1994)(Pixis Interactive)(US).chd" sha1="7ed8e6a173b62d03b745cea96683d4d4f3c69d2a" />
+	</machine>
+	<machine name="NFL Madden Football (1994)(EA Sports)(JP)[!]">
+		<description>NFL Madden Football (1994)(EA Sports)(JP)[!]</description>
+		<disk name="NFL Madden Football (1994)(EA Sports)(JP)[!].chd" sha1="61891149270583ad48eabd7e7d9eff8abb0fcb85" />
+	</machine>
+	<machine name="Nice Body - For Professional Use - Oar Star Suieitaikai Official CD-ROM (1995)(Fuji Television)(JP)[!]">
+		<description>Nice Body - For Professional Use - Oar Star Suieitaikai Official CD-ROM (1995)(Fuji Television)(JP)[!]</description>
+		<disk name="Nice Body - For Professional Use - Oar Star Suieitaikai Official CD-ROM (1995)(Fuji Television)(JP)[!].chd" sha1="1e8f1076d59486f92b32373a8e906e3e5960533d" />
+	</machine>
+	<machine name="Night Trap (1993)(Digital Pictures)(US)(Disc 1 of 2)[!]">
+		<description>Night Trap (1993)(Digital Pictures)(US)(Disc 1 of 2)[!]</description>
+		<disk name="Night Trap (1993)(Digital Pictures)(US)(Disc 1 of 2)[!].chd" sha1="731c93639694eb140a34213e7099479a9103c000" />
+	</machine>
+	<machine name="Night Trap (1993)(Digital Pictures)(US)(Disc 2 of 2)[!]">
+		<description>Night Trap (1993)(Digital Pictures)(US)(Disc 2 of 2)[!]</description>
+		<disk name="Night Trap (1993)(Digital Pictures)(US)(Disc 2 of 2)[!].chd" sha1="23a2bdcc8acde80a58c7b1b1d83addb32cba5aaf" />
+	</machine>
+	<machine name="Night Trap (1994)(Virgin Games)(JP)(Disc 1 of 2)[!]">
+		<description>Night Trap (1994)(Virgin Games)(JP)(Disc 1 of 2)[!]</description>
+		<disk name="Night Trap (1994)(Virgin Games)(JP)(Disc 1 of 2)[!].chd" sha1="af63cdbe39ae31cfd40d0f21d5ac47eccbf15d4b" />
+	</machine>
+	<machine name="Night Trap (1994)(Virgin Games)(JP)(Disc 2 of 2)[!]">
+		<description>Night Trap (1994)(Virgin Games)(JP)(Disc 2 of 2)[!]</description>
+		<disk name="Night Trap (1994)(Virgin Games)(JP)(Disc 2 of 2)[!].chd" sha1="e401a274f87443e15e88e7dc571000fbb2b039f8" />
+	</machine>
+	<machine name="Nishimura Keitarou Travel Mystery - Akugyaku no Kisetsu (1994)(Panasonic)(JP)(Disc 1 of 2)[!]">
+		<description>Nishimura Keitarou Travel Mystery - Akugyaku no Kisetsu (1994)(Panasonic)(JP)(Disc 1 of 2)[!]</description>
+		<disk name="Nishimura Keitarou Travel Mystery - Akugyaku no Kisetsu (1994)(Panasonic)(JP)(Disc 1 of 2)[!].chd" sha1="5bff9252f54f361a9f0696067839a459297e29d7" />
+	</machine>
+	<machine name="Nishimura Keitarou Travel Mystery - Akugyaku no Kisetsu (1994)(Panasonic)(JP)(Disc 2 of 2)[!]">
+		<description>Nishimura Keitarou Travel Mystery - Akugyaku no Kisetsu (1994)(Panasonic)(JP)(Disc 2 of 2)[!]</description>
+		<disk name="Nishimura Keitarou Travel Mystery - Akugyaku no Kisetsu (1994)(Panasonic)(JP)(Disc 2 of 2)[!].chd" sha1="7fd474536b19bdf77f7bb5704bd8217f07a0daa6" />
+	</machine>
+	<machine name="Nobunaga no Yabou - Haouden (1994)(KOEI)(JP)[!]">
+		<description>Nobunaga no Yabou - Haouden (1994)(KOEI)(JP)[!]</description>
+		<disk name="Nobunaga no Yabou - Haouden (1994)(KOEI)(JP)[!].chd" sha1="8f5aa672b35796e975d213cafb7a50a63f622cbb" />
+	</machine>
+	<machine name="Novastorm (1994)(Psygnosis)(US)[!]">
+		<description>Novastorm (1994)(Psygnosis)(US)[!]</description>
+		<disk name="Novastorm (1994)(Psygnosis)(US)[!].chd" sha1="abc202a2223ea65bd11cf5506eb4d2990bf22add" />
+	</machine>
+	<machine name="Nova-Storm (1994)(T&amp;E Soft)(JP)[!]">
+		<description>Nova-Storm (1994)(T&amp;E Soft)(JP)[!]</description>
+		<disk name="Nova-Storm (1994)(T&amp;E Soft)(JP)[!].chd" sha1="de83f9526bad656091bbc2ef7add87f91dbaa865" />
+	</machine>
+	<machine name="Off-world Interceptor (1994)(BMG Interactive Entertainment)(JP)(en)[!]">
+		<description>Off-world Interceptor (1994)(BMG Interactive Entertainment)(JP)(en)[!]</description>
+		<disk name="Off-world Interceptor (1994)(BMG Interactive Entertainment)(JP)(en)[!].chd" sha1="85364415c9e5dc3bc3badbccdcd0bcb4ba5e7def" />
+	</machine>
+	<machine name="Off-world Interceptor (1994)(Crystal Dynamics)(EU-US)[!]">
+		<description>Off-world Interceptor (1994)(Crystal Dynamics)(EU-US)[!]</description>
+		<disk name="Off-world Interceptor (1994)(Crystal Dynamics)(EU-US)[!].chd" sha1="1683fc3ced6145a8446c4202f0a4a9eb36d28c46" />
+	</machine>
+	<machine name="Off-world Interceptor (1994)(LG)(KR)">
+		<description>Off-world Interceptor (1994)(LG)(KR)</description>
+		<disk name="Off-world Interceptor (1994)(LG)(KR).chd" sha1="e3fc3873e271f74a0b245e7d0d782245c8a04869" />
+	</machine>
+	<machine name="Ogura Hyakunin Isshuu (1995)(Vansoft)(JP)">
+		<description>Ogura Hyakunin Isshuu (1995)(Vansoft)(JP)</description>
+		<disk name="Ogura Hyakunin Isshuu (1995)(Vansoft)(JP).chd" sha1="391b998d9d0d7e59e9dc6ccbae087db1295f91ce" />
+	</machine>
+	<machine name="Olympic Soccer (1996)(Panasonic)(US)(M5)[!]">
+		<description>Olympic Soccer (1996)(Panasonic)(US)(M5)[!]</description>
+		<disk name="Olympic Soccer (1996)(Panasonic)(US)(M5)[!].chd" sha1="61020cc90ffade9d2951259bb03e4e0363ec01a1" />
+	</machine>
+	<machine name="Olympic Summer Games (1996)(Panasonic)(US)[!]">
+		<description>Olympic Summer Games (1996)(Panasonic)(US)[!]</description>
+		<disk name="Olympic Summer Games (1996)(Panasonic)(US)[!].chd" sha1="cfaa69b0e2f8d40f9a31c8316f8b302170e52f19" />
+	</machine>
+	<machine name="Onee-san to Isshoo! Kise Kae Paradise (1995)(BSS)(JP)">
+		<description>Onee-san to Isshoo! Kise Kae Paradise (1995)(BSS)(JP)</description>
+		<disk name="Onee-san to Isshoo! Kise Kae Paradise (1995)(BSS)(JP).chd" sha1="d770b9c0ab337cd0ce62aaa3e2f8dfeb41bb7bd7" />
+	</machine>
+	<machine name="Onee-san to Isshoo! Shanken Paradise (1994)(Intarus)(JP)">
+		<description>Onee-san to Isshoo! Shanken Paradise (1994)(Intarus)(JP)</description>
+		<disk name="Onee-san to Isshoo! Shanken Paradise (1994)(Intarus)(JP).chd" sha1="46290fc712f531e5c719e9c2869256549a97f44d" />
+	</machine>
+	<machine name="OnSide Soccer (2007)(Oldergames)[!]">
+		<description>OnSide Soccer (2007)(Oldergames)[!]</description>
+		<disk name="OnSide Soccer (2007)(Oldergames)[!].chd" sha1="7cb7ea66c1c180219d9e212d23a18ed222bd93fb" />
+	</machine>
+	<machine name="Oukoku no Grand Chef (1996)(Sala International)(JP)">
+		<description>Oukoku no Grand Chef (1996)(Sala International)(JP)</description>
+		<disk name="Oukoku no Grand Chef (1996)(Sala International)(JP).chd" sha1="2c55f55be415bf452a7764d9313cdf9d4fe5ce24" />
+	</machine>
+	<machine name="Out of this World (1993)(Interplay)(US)[!][45097-1]">
+		<description>Out of this World (1993)(Interplay)(US)[!][45097-1]</description>
+		<disk name="Out of this World (1993)(Interplay)(US)[!][45097-1].chd" sha1="01b81a8410030570b615264bda58187685c8e126" />
+	</machine>
+	<machine name="Out of this World (1993)(Interplay)(US)[!][CD3DO0230RE]">
+		<description>Out of this World (1993)(Interplay)(US)[!][CD3DO0230RE]</description>
+		<disk name="Out of this World (1993)(Interplay)(US)[!][CD3DO0230RE].chd" sha1="e8aa71cbde355ba08c8061c5f576e535f5acd6c9" />
+	</machine>
+	<machine name="Outer World (1994)(Electronic Arts)(JP)(en)[!]">
+		<description>Outer World (1994)(Electronic Arts)(JP)(en)[!]</description>
+		<disk name="Outer World (1994)(Electronic Arts)(JP)(en)[!].chd" sha1="8bb3408707b37a75e92944afecc833d67423b1b1" />
+	</machine>
+	<machine name="OverDrivin' (1994)(Electronic Arts)(JP)[!]">
+		<description>OverDrivin' (1994)(Electronic Arts)(JP)[!]</description>
+		<disk name="OverDrivin' (1994)(Electronic Arts)(JP)[!].chd" sha1="72500be652ff4df5f63453254b0e4f695ffcf652" />
+	</machine>
+	<machine name="Oyaji Hunter Mahjong (1995)(Warp)(JP)[!]">
+		<description>Oyaji Hunter Mahjong (1995)(Warp)(JP)[!]</description>
+		<disk name="Oyaji Hunter Mahjong (1995)(Warp)(JP)[!].chd" sha1="08dfcfb89bfc8b70abe238a66968703eb55c0112" />
+	</machine>
+	<machine name="Paddock Note '95 (1995)(Fuji Television)(JP)[!]">
+		<description>Paddock Note '95 (1995)(Fuji Television)(JP)[!]</description>
+		<disk name="Paddock Note '95 (1995)(Fuji Television)(JP)[!].chd" sha1="eefcbe8a03af248bf59f34489b8a79f2c3476fc2" />
+	</machine>
+	<machine name="Panzer General (1995)(Mindscape - SSi)(EU-US)[!]">
+		<description>Panzer General (1995)(Mindscape - SSi)(EU-US)[!]</description>
+		<disk name="Panzer General (1995)(Mindscape - SSi)(EU-US)[!].chd" sha1="0ef70dec02b6dcebcb9d625877a5b12eef6d2e0b" />
+	</machine>
+	<machine name="Pararancho - The Incredible Machine (1994)(T&amp;E Soft)(JP)[!]">
+		<description>Pararancho - The Incredible Machine (1994)(T&amp;E Soft)(JP)[!]</description>
+		<disk name="Pararancho - The Incredible Machine (1994)(T&amp;E Soft)(JP)[!].chd" sha1="41a559786ae3553ba79b1db19b0c6df5b903677e" />
+	</machine>
+	<machine name="PaTaank (1994)(BMG Interactive Entertainment)(JP)[!]">
+		<description>PaTaank (1994)(BMG Interactive Entertainment)(JP)[!]</description>
+		<disk name="PaTaank (1994)(BMG Interactive Entertainment)(JP)[!].chd" sha1="94507adcff8da178b9a6b7191191299af0d29a96" />
+	</machine>
+	<machine name="PaTaank (1994)(PF.Magic)(EU-US)[!]">
+		<description>PaTaank (1994)(PF.Magic)(EU-US)[!]</description>
+		<disk name="PaTaank (1994)(PF.Magic)(EU-US)[!].chd" sha1="3120c85b1af23141a26a490610e3588a79058a53" />
+	</machine>
+	<machine name="Pebble Beach Golf Links (1993)(GoldStar - Panasonic)(KR-US)(en)[!]">
+		<description>Pebble Beach Golf Links (1993)(GoldStar - Panasonic)(KR-US)(en)[!]</description>
+		<disk name="Pebble Beach Golf Links (1993)(GoldStar - Panasonic)(KR-US)(en)[!].chd" sha1="41b7942caf099c420820a3169eb4c78fd6b9da81" />
+	</machine>
+	<machine name="Pebble Beach Golf Links (1993)(Panasonic)(CA)">
+		<description>Pebble Beach Golf Links (1993)(Panasonic)(CA)</description>
+		<disk name="Pebble Beach Golf Links (1993)(Panasonic)(CA).chd" sha1="5624468f95e53ecf953432d951ec790d2fe91140" />
+	</machine>
+	<machine name="Pebble Beach Golf Links (1994)(Panasonic)(EU)[!]">
+		<description>Pebble Beach Golf Links (1994)(Panasonic)(EU)[!]</description>
+		<disk name="Pebble Beach Golf Links (1994)(Panasonic)(EU)[!].chd" sha1="0cb6091811a9a49dc45dcd5107b67c7326309beb" />
+	</machine>
+	<machine name="Pebble Beach no Hatou (1994)(Panasonic)(JP)[!]">
+		<description>Pebble Beach no Hatou (1994)(Panasonic)(JP)[!]</description>
+		<disk name="Pebble Beach no Hatou (1994)(Panasonic)(JP)[!].chd" sha1="0a55b3e800be31f80fccc22300ce7db8a6672c96" />
+	</machine>
+	<machine name="Penthouse Interactive - Virtual Photo Shoot Vol. 1 (1994)(GAGA)(JP)">
+		<description>Penthouse Interactive - Virtual Photo Shoot Vol. 1 (1994)(GAGA)(JP)</description>
+		<disk name="Penthouse Interactive - Virtual Photo Shoot Vol. 1 (1994)(GAGA)(JP).chd" sha1="f9453cd51ad309b8b051e2a98b8a07d86775c451" />
+	</machine>
+	<machine name="Perfect General, The (1995)(Kirin Entertainment)(US)[!]">
+		<description>Perfect General, The (1995)(Kirin Entertainment)(US)[!]</description>
+		<disk name="Perfect General, The (1995)(Kirin Entertainment)(US)[!].chd" sha1="d4fba86a5e467b91a162e0d19f8fbbf8b5413436" />
+	</machine>
+	<machine name="Perfect World - Combat in a Digital World (1995)(Electronic Arts)(JP)[!]">
+		<description>Perfect World - Combat in a Digital World (1995)(Electronic Arts)(JP)[!]</description>
+		<disk name="Perfect World - Combat in a Digital World (1995)(Electronic Arts)(JP)[!].chd" sha1="3a662f6f84024abd299ac8af53ce97ddac7ba230" />
+	</machine>
+	<machine name="Peter Frankl - Puzzle no Tou (1995)(TBS Multimedia)(JP)(en-ja)[!]">
+		<description>Peter Frankl - Puzzle no Tou (1995)(TBS Multimedia)(JP)(en-ja)[!]</description>
+		<disk name="Peter Frankl - Puzzle no Tou (1995)(TBS Multimedia)(JP)(en-ja)[!].chd" sha1="df6d40363e569aa1df0b8727fc3018453dcd35a3" />
+	</machine>
+	<machine name="PGA Tour 96 (1995)(EA Sports)(EU)[!]">
+		<description>PGA Tour 96 (1995)(EA Sports)(EU)[!]</description>
+		<disk name="PGA Tour 96 (1995)(EA Sports)(EU)[!].chd" sha1="350ac3e7b690cab7cdb12c33ba61b6a356a3deec" />
+	</machine>
+	<machine name="PGA Tour 96 (1995)(EA Sports)(US)[!]">
+		<description>PGA Tour 96 (1995)(EA Sports)(US)[!]</description>
+		<disk name="PGA Tour 96 (1995)(EA Sports)(US)[!].chd" sha1="c3f8b46a7d93fafa45f98abe6cda0c07537ff8eb" />
+	</machine>
+	<machine name="Phoenix 3 (1995)(Studio 3DO)(EU)[!]">
+		<description>Phoenix 3 (1995)(Studio 3DO)(EU)[!]</description>
+		<disk name="Phoenix 3 (1995)(Studio 3DO)(EU)[!].chd" sha1="fa10954ee69dc30a681d02effcc2a289bb425da7" />
+	</machine>
+	<machine name="Phoenix 3 (1995)(Studio 3DO)(US)[!]">
+		<description>Phoenix 3 (1995)(Studio 3DO)(US)[!]</description>
+		<disk name="Phoenix 3 (1995)(Studio 3DO)(US)[!].chd" sha1="37a6b116c0ab12de4bade86c24f5b42556acd9cc" />
+	</machine>
+	<machine name="Plumbers Don't Wear Ties (1994)(Kirin Entertainment)(US)[!]">
+		<description>Plumbers Don't Wear Ties (1994)(Kirin Entertainment)(US)[!]</description>
+		<disk name="Plumbers Don't Wear Ties (1994)(Kirin Entertainment)(US)[!].chd" sha1="48afde3a455549909ca6eaa68c7f7eb61156e625" />
+	</machine>
+	<machine name="PO'ed (1995)(Studio 3DO)(EU-US)[!]">
+		<description>PO'ed (1995)(Studio 3DO)(EU-US)[!]</description>
+		<disk name="PO'ed (1995)(Studio 3DO)(EU-US)[!].chd" sha1="10ca033cc7588145b24a8b827cccc484c85433b9" />
+	</machine>
+	<machine name="PO'ed (1995)(Studio 3DO)(EU-US)[tr ru Spider]">
+		<description>PO'ed (1995)(Studio 3DO)(EU-US)[tr ru Spider]</description>
+		<disk name="PO'ed (1995)(Studio 3DO)(EU-US)[tr ru Spider].chd" sha1="c05e3bb7e06131a038029aa3e0124beabf8b2c87" />
+	</machine>
+	<machine name="Policenauts - Pilot Disk (1995)(Konami)(JP)[!]">
+		<description>Policenauts - Pilot Disk (1995)(Konami)(JP)[!]</description>
+		<disk name="Policenauts - Pilot Disk (1995)(Konami)(JP)[!].chd" sha1="d4fa7ea79f962922c0b27c074ef03bb877467b58" />
+	</machine>
+	<machine name="Policenauts (1995)(Konami)(JP)(Disc 1 of 2)[!]">
+		<description>Policenauts (1995)(Konami)(JP)(Disc 1 of 2)[!]</description>
+		<disk name="Policenauts (1995)(Konami)(JP)(Disc 1 of 2)[!].chd" sha1="0486558c8f0b4b294b7f2fc645e4b6d824f6364f" />
+	</machine>
+	<machine name="Policenauts (1995)(Konami)(JP)(Disc 2 of 2)[!]">
+		<description>Policenauts (1995)(Konami)(JP)(Disc 2 of 2)[!]</description>
+		<disk name="Policenauts (1995)(Konami)(JP)(Disc 2 of 2)[!].chd" sha1="683d9e2dca83481d38ed0cecbf81d576697eeb0c" />
+	</machine>
+	<machine name="Powers Kingdom (1994)(Panasonic)(EU)[!]">
+		<description>Powers Kingdom (1994)(Panasonic)(EU)[!]</description>
+		<disk name="Powers Kingdom (1994)(Panasonic)(EU)[!].chd" sha1="b6c5e165dde60c6398c3db098b57905ca4386781" />
+	</machine>
+	<machine name="Powers Kingdom (1994)(Panasonic)(JP)[!]">
+		<description>Powers Kingdom (1994)(Panasonic)(JP)[!]</description>
+		<disk name="Powers Kingdom (1994)(Panasonic)(JP)[!].chd" sha1="b1ebada13bfa7d04e1a4b0ed612d51a11e38d053" />
+	</machine>
+	<machine name="Powerslide (2007)(Oldergames)(Disc 1 of 2)[!]">
+		<description>Powerslide (2007)(Oldergames)(Disc 1 of 2)[!]</description>
+		<disk name="Powerslide (2007)(Oldergames)(Disc 1 of 2)[!].chd" sha1="a6e23f58bf9b06cba78668ca1cab170c91a4c07a" />
+	</machine>
+	<machine name="Powerslide (2007)(Oldergames)(Disc 2 of 2)[!][Powerslide Bonus Disk - Footie]">
+		<description>Powerslide (2007)(Oldergames)(Disc 2 of 2)[!][Powerslide Bonus Disk - Footie]</description>
+		<disk name="Powerslide (2007)(Oldergames)(Disc 2 of 2)[!][Powerslide Bonus Disk - Footie].chd" sha1="5ae3f1d392e5e68ebb7afcf1859abaf75f3487dd" />
+	</machine>
+	<machine name="Primal Rage v1.0 (1995)(GoldStar)(EU-US)(M7)[!]">
+		<description>Primal Rage v1.0 (1995)(GoldStar)(EU-US)(M7)[!]</description>
+		<disk name="Primal Rage v1.0 (1995)(GoldStar)(EU-US)(M7)[!].chd" sha1="204d5cf7ade690bc9cc2d24abf7d513f6a86171a" />
+	</machine>
+	<machine name="Princess Maker 2 (1995)(Micro Cabin)(JP)[!]">
+		<description>Princess Maker 2 (1995)(Micro Cabin)(JP)[!]</description>
+		<disk name="Princess Maker 2 (1995)(Micro Cabin)(JP)[!].chd" sha1="87f8d6dfc71922af7da70a24cdb36ebcf55c6608" />
+	</machine>
+	<machine name="Pro Stadium (1995)(Sanyo)(JP)[!]">
+		<description>Pro Stadium (1995)(Sanyo)(JP)[!]</description>
+		<disk name="Pro Stadium (1995)(Sanyo)(JP)[!].chd" sha1="797382db0b09af8463507ca4dc6347d38a9de11a" />
+	</machine>
+	<machine name="Pro Yakyuu Virtual Stadium - Professional Baseball (1995)(EA Sports)(JP)[!]">
+		<description>Pro Yakyuu Virtual Stadium - Professional Baseball (1995)(EA Sports)(JP)[!]</description>
+		<disk name="Pro Yakyuu Virtual Stadium - Professional Baseball (1995)(EA Sports)(JP)[!].chd" sha1="ada4fa0a412a3acc9ddf1bd5c5ce20685f4d5331" />
+	</machine>
+	<machine name="Psychic Detective (1995)(Electronic Arts)(EU)(Disc 1 of 3)[!]">
+		<description>Psychic Detective (1995)(Electronic Arts)(EU)(Disc 1 of 3)[!]</description>
+		<disk name="Psychic Detective (1995)(Electronic Arts)(EU)(Disc 1 of 3)[!].chd" sha1="77a0b216624f4535ceeaae34dbbed6e50864cbaf" />
+	</machine>
+	<machine name="Psychic Detective (1995)(Electronic Arts)(EU)(Disc 2 of 3)[!]">
+		<description>Psychic Detective (1995)(Electronic Arts)(EU)(Disc 2 of 3)[!]</description>
+		<disk name="Psychic Detective (1995)(Electronic Arts)(EU)(Disc 2 of 3)[!].chd" sha1="f70cc767f21a0d4f695279710c0b46c3da80f361" />
+	</machine>
+	<machine name="Psychic Detective (1995)(Electronic Arts)(EU)(Disc 3 of 3)[!]">
+		<description>Psychic Detective (1995)(Electronic Arts)(EU)(Disc 3 of 3)[!]</description>
+		<disk name="Psychic Detective (1995)(Electronic Arts)(EU)(Disc 3 of 3)[!].chd" sha1="f60c67e0315807d712586251a3d60be129823bcc" />
+	</machine>
+	<machine name="Psychic Detective (1995)(Electronic Arts)(US)(Disc 1 of 3)[!]">
+		<description>Psychic Detective (1995)(Electronic Arts)(US)(Disc 1 of 3)[!]</description>
+		<disk name="Psychic Detective (1995)(Electronic Arts)(US)(Disc 1 of 3)[!].chd" sha1="cbba9fb7ff44cea69eba170e24dada8a6faf1a82" />
+	</machine>
+	<machine name="Psychic Detective (1995)(Electronic Arts)(US)(Disc 2 of 3)[!]">
+		<description>Psychic Detective (1995)(Electronic Arts)(US)(Disc 2 of 3)[!]</description>
+		<disk name="Psychic Detective (1995)(Electronic Arts)(US)(Disc 2 of 3)[!].chd" sha1="2b692c99dfc8b78b29ec0cb96345c21050d266fd" />
+	</machine>
+	<machine name="Psychic Detective (1995)(Electronic Arts)(US)(Disc 3 of 3)[!]">
+		<description>Psychic Detective (1995)(Electronic Arts)(US)(Disc 3 of 3)[!]</description>
+		<disk name="Psychic Detective (1995)(Electronic Arts)(US)(Disc 3 of 3)[!].chd" sha1="9be787852dda1784909dd1ab54e11ec47942120e" />
+	</machine>
+	<machine name="Puzzle Bobble (1995)(Micro Cabin)(JP)[!]">
+		<description>Puzzle Bobble (1995)(Micro Cabin)(JP)[!]</description>
+		<disk name="Puzzle Bobble (1995)(Micro Cabin)(JP)[!].chd" sha1="d8690f6cd096f296eb3f0c7890e5613ff10f7951" />
+	</machine>
+	<machine name="Pyramid Intruder (1995)(Taito)(JP)(en)[!]">
+		<description>Pyramid Intruder (1995)(Taito)(JP)(en)[!]</description>
+		<disk name="Pyramid Intruder (1995)(Taito)(JP)(en)[!].chd" sha1="9f0bf067c075dbd242944f097bd3564aca5af77e" />
+	</machine>
+	<machine name="Quarantine (1994)(Gametek - Imagineer)(JP-US)(M5)[!][IM-TS9503, 439480068501RE3]">
+		<description>Quarantine (1994)(Gametek - Imagineer)(JP-US)(M5)[!][IM-TS9503, 439480068501RE3]</description>
+		<disk name="Quarantine (1994)(Gametek - Imagineer)(JP-US)(M5)[!][IM-TS9503, 439480068501RE3].chd" sha1="f476994b4f85fb253d4b723beaef78f622e0c9d1" />
+	</machine>
+	<machine name="Quarantine (1994)(Gametek)(US)(M4)[!][439480068501RE]">
+		<description>Quarantine (1994)(Gametek)(US)(M4)[!][439480068501RE]</description>
+		<disk name="Quarantine (1994)(Gametek)(US)(M4)[!][439480068501RE].chd" sha1="9deb527c7f3b9483cbd47a338f8d01baa2c20d88" />
+	</machine>
+	<machine name="Quarterback Attack - The Professional Quarterback Simulator (1995)(Digital Pictures)(US)[!]">
+		<description>Quarterback Attack - The Professional Quarterback Simulator (1995)(Digital Pictures)(US)[!]</description>
+		<disk name="Quarterback Attack - The Professional Quarterback Simulator (1995)(Digital Pictures)(US)[!].chd" sha1="055da976503f180a952aee0fe72439e30370adcf" />
+	</machine>
+	<machine name="Real Pinball (1994)(Panasonic)(CA)">
+		<description>Real Pinball (1994)(Panasonic)(CA)</description>
+		<disk name="Real Pinball (1994)(Panasonic)(CA).chd" sha1="9a989bc71b797b9b5484d350a1747309e7030212" />
+	</machine>
+	<machine name="Real Pinball (1994)(Panasonic)(EU)[!]">
+		<description>Real Pinball (1994)(Panasonic)(EU)[!]</description>
+		<disk name="Real Pinball (1994)(Panasonic)(EU)[!].chd" sha1="863c72794c87a07066a4ae8b466f2e9f226bf9c3" />
+	</machine>
+	<machine name="Real Pinball (1994)(Panasonic)(US)[!]">
+		<description>Real Pinball (1994)(Panasonic)(US)[!]</description>
+		<disk name="Real Pinball (1994)(Panasonic)(US)[!].chd" sha1="29d1b31ac1dc81c84485c03a4e427cff87a2f23d" />
+	</machine>
+	<machine name="Return Fire - Maps O' Death v1.0 FB13.1.0 (1995)(Prolific)(US)[!][data disc]">
+		<description>Return Fire - Maps O' Death v1.0 FB13.1.0 (1995)(Prolific)(US)[!][data disc]</description>
+		<disk name="Return Fire - Maps O' Death v1.0 FB13.1.0 (1995)(Prolific)(US)[!][data disc].chd" sha1="2ac7c9d165bb3d61130c255a67e2e6bd61bfd9e3" />
+	</machine>
+	<machine name="Return Fire v1.0 EC19.1.1 (1995)(Prolific)(US)[!]">
+		<description>Return Fire v1.0 EC19.1.1 (1995)(Prolific)(US)[!]</description>
+		<disk name="Return Fire v1.0 EC19.1.1 (1995)(Prolific)(US)[!].chd" sha1="f7cc7a8880d32cf1948b1f3e0998e5b7f1a0a4b0" />
+	</machine>
+	<machine name="Return Fire v1.0 F306.1.2 (1994)(Prolific - Silent Software)(EU-US)[!]">
+		<description>Return Fire v1.0 F306.1.2 (1994)(Prolific - Silent Software)(EU-US)[!]</description>
+		<disk name="Return Fire v1.0 F306.1.2 (1994)(Prolific - Silent Software)(EU-US)[!].chd" sha1="6566bcd422bc6938468d327b2ed14555a9c5efa4" />
+	</machine>
+	<machine name="Return Fire v1.0 F322.1.3 (1995)(Silent Software)(EU-JP)(M10)[!]">
+		<description>Return Fire v1.0 F322.1.3 (1995)(Silent Software)(EU-JP)(M10)[!]</description>
+		<disk name="Return Fire v1.0 F322.1.3 (1995)(Silent Software)(EU-JP)(M10)[!].chd" sha1="158ce7ce10c6ab4172cb863262a6d82c407d8f2e" />
+	</machine>
+	<machine name="Rise of the Robots (1995)(Absolute)(US)(M3)[!]">
+		<description>Rise of the Robots (1995)(Absolute)(US)(M3)[!]</description>
+		<disk name="Rise of the Robots (1995)(Absolute)(US)(M3)[!].chd" sha1="acecbd3bf27a1e6b76d6f19d86e07d466281def6" />
+	</machine>
+	<machine name="Rise of the Robots (1995)(Art Data)(EU)(M3)[!]">
+		<description>Rise of the Robots (1995)(Art Data)(EU)(M3)[!]</description>
+		<disk name="Rise of the Robots (1995)(Art Data)(EU)(M3)[!].chd" sha1="5d39c81b9619f1b28dc7d356b945fe10b3bbfae4" />
+	</machine>
+	<machine name="Road Rash (1994)(Electronic Arts)(EU)">
+		<description>Road Rash (1994)(Electronic Arts)(EU)</description>
+		<disk name="Road Rash (1994)(Electronic Arts)(EU).chd" sha1="82decc98461fe008ba0f9259081c166ea608350d" />
+	</machine>
+	<machine name="Road Rash (1994)(Electronic Arts)(EU)[a]">
+		<description>Road Rash (1994)(Electronic Arts)(EU)[a]</description>
+		<disk name="Road Rash (1994)(Electronic Arts)(EU)[a].chd" sha1="261c0e0d31d65458a9e9d851bbca103cd05048ec" />
+	</machine>
+	<machine name="Road Rash (1994)(Electronic Arts)(JP)[!]">
+		<description>Road Rash (1994)(Electronic Arts)(JP)[!]</description>
+		<disk name="Road Rash (1994)(Electronic Arts)(JP)[!].chd" sha1="6bfd7333995109037e613ac8472415216fcaab0d" />
+	</machine>
+	<machine name="Road Rash (1994)(Electronic Arts)(US)[!]">
+		<description>Road Rash (1994)(Electronic Arts)(US)[!]</description>
+		<disk name="Road Rash (1994)(Electronic Arts)(US)[!].chd" sha1="6b733e40bfead46ec88872511cd8bf1c90f7e296" />
+	</machine>
+	<machine name="Robinson's Requiem (1996)(ReadySoft - Silmarils)(US)[!]">
+		<description>Robinson's Requiem (1996)(ReadySoft - Silmarils)(US)[!]</description>
+		<disk name="Robinson's Requiem (1996)(ReadySoft - Silmarils)(US)[!].chd" sha1="cdcef93ed0ba09cf0383144a07b1374dd2820961" />
+	</machine>
+	<machine name="Robinson's Requiem (1996)(ReadySoft - Silmarils)(US)[tr fr Le Taon]">
+		<description>Robinson's Requiem (1996)(ReadySoft - Silmarils)(US)[tr fr Le Taon]</description>
+		<disk name="Robinson's Requiem (1996)(ReadySoft - Silmarils)(US)[tr fr Le Taon].chd" sha1="a8be849aba455be3ae14f08f80ea96b17ddf96c5" />
+	</machine>
+	<machine name="Royal Pro Wrestling - Jikkyou Live!! (1996)(Natsume)(JP)[!]">
+		<description>Royal Pro Wrestling - Jikkyou Live!! (1996)(Natsume)(JP)[!]</description>
+		<disk name="Royal Pro Wrestling - Jikkyou Live!! (1996)(Natsume)(JP)[!].chd" sha1="6f07727e3ab57fad078bf3afb658050fbcdc97d8" />
+	</machine>
+	<machine name="Samurai Shodown (1994)(BMG Interactive Entertainment)(JP)(en-ja)[!]">
+		<description>Samurai Shodown (1994)(BMG Interactive Entertainment)(JP)(en-ja)[!]</description>
+		<disk name="Samurai Shodown (1994)(BMG Interactive Entertainment)(JP)(en-ja)[!].chd" sha1="bf3b40f8579119a5f0e7285ab14bb906b3bfe079" />
+	</machine>
+	<machine name="Samurai Shodown (1994)(Crystal Dynamics)(EU-US)[!]">
+		<description>Samurai Shodown (1994)(Crystal Dynamics)(EU-US)[!]</description>
+		<disk name="Samurai Shodown (1994)(Crystal Dynamics)(EU-US)[!].chd" sha1="2dcfd0cf719cec8478ba7d7882c58dd4c6b1ca3c" />
+	</machine>
+	<machine name="Sangokushi IV (1995)(KOEI)(JP)[!]">
+		<description>Sangokushi IV (1995)(KOEI)(JP)[!]</description>
+		<disk name="Sangokushi IV (1995)(KOEI)(JP)[!].chd" sha1="1ee09585425f111ed5824f4b1c24253c5826bf7c" />
+	</machine>
+	<machine name="Scramble Cobra (1994)(Panasonic)(EU)[!]">
+		<description>Scramble Cobra (1994)(Panasonic)(EU)[!]</description>
+		<disk name="Scramble Cobra (1994)(Panasonic)(EU)[!].chd" sha1="a58cc6629234501e5996314250fdc06b60b4b8f9" />
+	</machine>
+	<machine name="Scramble Cobra (1995)(Panasonic)(JP)">
+		<description>Scramble Cobra (1995)(Panasonic)(JP)</description>
+		<disk name="Scramble Cobra (1995)(Panasonic)(JP).chd" sha1="3b359a6386715ac14c13381be626f36950734e31" />
+	</machine>
+	<machine name="Scramble Cobra (1995)(Panasonic)(US)[!]">
+		<description>Scramble Cobra (1995)(Panasonic)(US)[!]</description>
+		<disk name="Scramble Cobra (1995)(Panasonic)(US)[!].chd" sha1="4da644179b940e1ace7ebeefc70619fb84dc1631" />
+	</machine>
+	<machine name="Seal of the Pharaoh (1994)(Panasonic)(US)[!]">
+		<description>Seal of the Pharaoh (1994)(Panasonic)(US)[!]</description>
+		<disk name="Seal of the Pharaoh (1994)(Panasonic)(US)[!].chd" sha1="2771dcda8d130f60bb7b7807cf36d034c851383c" />
+	</machine>
+	<machine name="Seimeihandan (1995)(Ariadne)(JP)[!]">
+		<description>Seimeihandan (1995)(Ariadne)(JP)[!]</description>
+		<disk name="Seimeihandan (1995)(Ariadne)(JP)[!].chd" sha1="8b85cbb2baf35ac136be64933866221764a7f81c" />
+	</machine>
+	<machine name="Sekure Fuumin no Omocha Hako (1994)(GLAMS)(JP)[!]">
+		<description>Sekure Fuumin no Omocha Hako (1994)(GLAMS)(JP)[!]</description>
+		<disk name="Sekure Fuumin no Omocha Hako (1994)(GLAMS)(JP)[!].chd" sha1="e3597f0150ebbefe960ee5dd3cb1685f438a9e6d" />
+	</machine>
+	<machine name="Sento Monogatari - Sono I (1995)(Ariadne)(JP)[!]">
+		<description>Sento Monogatari - Sono I (1995)(Ariadne)(JP)[!]</description>
+		<disk name="Sento Monogatari - Sono I (1995)(Ariadne)(JP)[!].chd" sha1="bcf92b108b419bb78c44031959898fe4720044e9" />
+	</machine>
+	<machine name="Sewer Shark (1994)(Digital Pictures)(US)[!]">
+		<description>Sewer Shark (1994)(Digital Pictures)(US)[!]</description>
+		<disk name="Sewer Shark (1994)(Digital Pictures)(US)[!].chd" sha1="809a7b025be17b3a56ab39a36e2d06de19f961e3" />
+	</machine>
+	<machine name="Shadow - War of Succession (1994)(Tribeca Digital Studios)(US)[!]">
+		<description>Shadow - War of Succession (1994)(Tribeca Digital Studios)(US)[!]</description>
+		<disk name="Shadow - War of Succession (1994)(Tribeca Digital Studios)(US)[!].chd" sha1="e19730946d7e245cb5094466f4d366ed2a93ef2c" />
+	</machine>
+	<machine name="Shadow Warriors (1994)(T&amp;E Soft)(JP)(en)[!]">
+		<description>Shadow Warriors (1994)(T&amp;E Soft)(JP)(en)[!]</description>
+		<disk name="Shadow Warriors (1994)(T&amp;E Soft)(JP)(en)[!].chd" sha1="2be1ddfaf01199b53e7fa95913edfa48c8efb4bd" />
+	</machine>
+	<machine name="Shanghai - Banri no Choujou (1994)(Activision)(JP)[!]">
+		<description>Shanghai - Banri no Choujou (1994)(Activision)(JP)[!]</description>
+		<disk name="Shanghai - Banri no Choujou (1994)(Activision)(JP)[!].chd" sha1="be5e7508e4c579f6a2aed978c8e52672f73c2e4c" />
+	</machine>
+	<machine name="Shanghai - Triple-Threat (1994)(Activision)(US)[!][02500-2.4]">
+		<description>Shanghai - Triple-Threat (1994)(Activision)(US)[!][02500-2.4]</description>
+		<disk name="Shanghai - Triple-Threat (1994)(Activision)(US)[!][02500-2.4].chd" sha1="de3598a1816eb0c161ec34ffdb44f4e26decd3d7" />
+	</machine>
+	<machine name="Shanghai - Triple-Threat (1994)(Activision)(US)[!][TRIPLETHREAT R1J]">
+		<description>Shanghai - Triple-Threat (1994)(Activision)(US)[!][TRIPLETHREAT R1J]</description>
+		<disk name="Shanghai - Triple-Threat (1994)(Activision)(US)[!][TRIPLETHREAT R1J].chd" sha1="a61c3dbf2759fa74aa92234ff708f41fbe8eb9c0" />
+	</machine>
+	<machine name="Shock Wave - Operation JumpGate (1994)(Electronic Arts)(EU-US)[!][data disc]">
+		<description>Shock Wave - Operation JumpGate (1994)(Electronic Arts)(EU-US)[!][data disc]</description>
+		<disk name="Shock Wave - Operation JumpGate (1994)(Electronic Arts)(EU-US)[!][data disc].chd" sha1="94ea8f7f3053bb8854da7a6bbc56f5c03684a8bc" />
+	</machine>
+	<machine name="Shock Wave - Operation JumpGate (1995)(Electronic Arts)(JP)[!]">
+		<description>Shock Wave - Operation JumpGate (1995)(Electronic Arts)(JP)[!]</description>
+		<disk name="Shock Wave - Operation JumpGate (1995)(Electronic Arts)(JP)[!].chd" sha1="056986694d500f35566594c1218f4f50a0490f2d" />
+	</machine>
+	<machine name="Shock Wave (1994)(Electronic Arts)(EU)[!]">
+		<description>Shock Wave (1994)(Electronic Arts)(EU)[!]</description>
+		<disk name="Shock Wave (1994)(Electronic Arts)(EU)[!].chd" sha1="7c468a53c5137115943873c4d535d181d69c60ff" />
+	</machine>
+	<machine name="Shock Wave (1994)(Electronic Arts)(JP)[!]">
+		<description>Shock Wave (1994)(Electronic Arts)(JP)[!]</description>
+		<disk name="Shock Wave (1994)(Electronic Arts)(JP)[!].chd" sha1="9102e3c26232b4a057f1139b77134791374394db" />
+	</machine>
+	<machine name="Shock Wave (1994)(Electronic Arts)(US)[!][722207-2 RE1]">
+		<description>Shock Wave (1994)(Electronic Arts)(US)[!][722207-2 RE1]</description>
+		<disk name="Shock Wave (1994)(Electronic Arts)(US)[!][722207-2 RE1].chd" sha1="5d1dd3b7cd228cbe67614f25c2ef436ebaef6ec5" />
+	</machine>
+	<machine name="Shock Wave (1994)(Electronic Arts)(US)[!][722207-2 RE2]">
+		<description>Shock Wave (1994)(Electronic Arts)(US)[!][722207-2 RE2]</description>
+		<disk name="Shock Wave (1994)(Electronic Arts)(US)[!][722207-2 RE2].chd" sha1="625baa2dcc0149fe498354fce63b30d9a9403bc0" />
+	</machine>
+	<machine name="Shock Wave (1994)(GoldStar)(KR)">
+		<description>Shock Wave (1994)(GoldStar)(KR)</description>
+		<disk name="Shock Wave (1994)(GoldStar)(KR).chd" sha1="32f2f781dbf9f8b9633ce1a466129dd8c94eba8f" />
+	</machine>
+	<machine name="Shockwave 2 - Beyond the Gate (1995)(Electronic Arts)(EU)(Disc 1 of 2)[!]">
+		<description>Shockwave 2 - Beyond the Gate (1995)(Electronic Arts)(EU)(Disc 1 of 2)[!]</description>
+		<disk name="Shockwave 2 - Beyond the Gate (1995)(Electronic Arts)(EU)(Disc 1 of 2)[!].chd" sha1="d60adededc8622c8fcdc4c38fc080f535d709c47" />
+	</machine>
+	<machine name="Shockwave 2 - Beyond the Gate (1995)(Electronic Arts)(EU)(Disc 2 of 2)[!]">
+		<description>Shockwave 2 - Beyond the Gate (1995)(Electronic Arts)(EU)(Disc 2 of 2)[!]</description>
+		<disk name="Shockwave 2 - Beyond the Gate (1995)(Electronic Arts)(EU)(Disc 2 of 2)[!].chd" sha1="c786e0ed11926bd6fa7b709375dd6e963b04aed0" />
+	</machine>
+	<machine name="Shockwave 2 - Beyond the Gate (1995)(Electronic Arts)(US)(Disc 1 of 2)[!]">
+		<description>Shockwave 2 - Beyond the Gate (1995)(Electronic Arts)(US)(Disc 1 of 2)[!]</description>
+		<disk name="Shockwave 2 - Beyond the Gate (1995)(Electronic Arts)(US)(Disc 1 of 2)[!].chd" sha1="af54f60c788e13d8331fedbe3dbad835ad25f867" />
+	</machine>
+	<machine name="Shockwave 2 - Beyond the Gate (1995)(Electronic Arts)(US)(Disc 2 of 2)[!]">
+		<description>Shockwave 2 - Beyond the Gate (1995)(Electronic Arts)(US)(Disc 2 of 2)[!]</description>
+		<disk name="Shockwave 2 - Beyond the Gate (1995)(Electronic Arts)(US)(Disc 2 of 2)[!].chd" sha1="9fde6de895298ee057484fac53a4e895240102b9" />
+	</machine>
+	<machine name="Short Warp - Warp's Short Game Colection (1996)(Warp)(JP)[!]">
+		<description>Short Warp - Warp's Short Game Colection (1996)(Warp)(JP)[!]</description>
+		<disk name="Short Warp - Warp's Short Game Colection (1996)(Warp)(JP)[!].chd" sha1="f80f27aedc4764496016789a3873ef08f7b24dc8" />
+	</machine>
+	<machine name="Slam 'N Jam '95 (1994)(Crystal Dynamics)(EU-US)[!]">
+		<description>Slam 'N Jam '95 (1994)(Crystal Dynamics)(EU-US)[!]</description>
+		<disk name="Slam 'N Jam '95 (1994)(Crystal Dynamics)(EU-US)[!].chd" sha1="062ad2cf7971f0773567559932c25fdf7f45eb8f" />
+	</machine>
+	<machine name="Slam 'N Jam '95 (1995)(BMG Interactive Entertainment)(JP)(en)[!]">
+		<description>Slam 'N Jam '95 (1995)(BMG Interactive Entertainment)(JP)(en)[!]</description>
+		<disk name="Slam 'N Jam '95 (1995)(BMG Interactive Entertainment)(JP)(en)[!].chd" sha1="e90757592fcbc656931a939946dce4e03b71558f" />
+	</machine>
+	<machine name="Slam 'N Jam '95 (1995)(Crystal Dynamics)(US)[!]">
+		<description>Slam 'N Jam '95 (1995)(Crystal Dynamics)(US)[!]</description>
+		<disk name="Slam 'N Jam '95 (1995)(Crystal Dynamics)(US)[!].chd" sha1="b4d8bd06a243f38b8fe970c7d7b31700baad10b8" />
+	</machine>
+	<machine name="Slayer (1994)(Mindscape)(EU)[!]">
+		<description>Slayer (1994)(Mindscape)(EU)[!]</description>
+		<disk name="Slayer (1994)(Mindscape)(EU)[!].chd" sha1="0710d5e9b0f61446b1411d9e5bfd837161cb2834" />
+	</machine>
+	<machine name="Slayer (1994)(SSi)(US)[!][02500-21]">
+		<description>Slayer (1994)(SSi)(US)[!][02500-21]</description>
+		<disk name="Slayer (1994)(SSi)(US)[!][02500-21].chd" sha1="db037054b6d509f24e404a1c66dbe1be764b234d" />
+	</machine>
+	<machine name="Slayer (1994)(SSi)(US)[!][SLAYER R1J]">
+		<description>Slayer (1994)(SSi)(US)[!][SLAYER R1J]</description>
+		<disk name="Slayer (1994)(SSi)(US)[!][SLAYER R1J].chd" sha1="d108da71a2910c06e0ae81582c7877ec1ad22567" />
+	</machine>
+	<machine name="Snow Job Starring Tracy Scoggins (1995)(Studio 3DO)(US)(Disc 1 of 2)[!]">
+		<description>Snow Job Starring Tracy Scoggins (1995)(Studio 3DO)(US)(Disc 1 of 2)[!]</description>
+		<disk name="Snow Job Starring Tracy Scoggins (1995)(Studio 3DO)(US)(Disc 1 of 2)[!].chd" sha1="cc91071076c38bb9390b7c96f53dc6896a919483" />
+	</machine>
+	<machine name="Snow Job Starring Tracy Scoggins (1995)(Studio 3DO)(US)(Disc 2 of 2)[!]">
+		<description>Snow Job Starring Tracy Scoggins (1995)(Studio 3DO)(US)(Disc 2 of 2)[!]</description>
+		<disk name="Snow Job Starring Tracy Scoggins (1995)(Studio 3DO)(US)(Disc 2 of 2)[!].chd" sha1="e28cbff26cade4312d3fc67703845f2a3e1df0d8" />
+	</machine>
+	<machine name="Snowjob (1995)(Studio 3DO)(EU)(Disc 1 of 2)">
+		<description>Snowjob (1995)(Studio 3DO)(EU)(Disc 1 of 2)</description>
+		<disk name="Snowjob (1995)(Studio 3DO)(EU)(Disc 1 of 2).chd" sha1="1d669d239b2b6ef4b55179f41329135da9cec1eb" />
+	</machine>
+	<machine name="Snowjob (1995)(Studio 3DO)(EU)(Disc 2 of 2)">
+		<description>Snowjob (1995)(Studio 3DO)(EU)(Disc 2 of 2)</description>
+		<disk name="Snowjob (1995)(Studio 3DO)(EU)(Disc 2 of 2).chd" sha1="5f78c7e35c8eb06af2ce28324752c60e2a03fb0f" />
+	</machine>
+	<machine name="Soccer Kid (1994)(Studio 3DO)(US)[!]">
+		<description>Soccer Kid (1994)(Studio 3DO)(US)[!]</description>
+		<disk name="Soccer Kid (1994)(Studio 3DO)(US)[!].chd" sha1="d64b92620cac5e4f2ce131a6989b336a7d1067c3" />
+	</machine>
+	<machine name="Sotsugyou Graduation Final (1994)(Shar Rock)(JP)[!]">
+		<description>Sotsugyou Graduation Final (1994)(Shar Rock)(JP)[!]</description>
+		<disk name="Sotsugyou Graduation Final (1994)(Shar Rock)(JP)[!].chd" sha1="84a2ab4292162ae5d49f5f88e98917de17576c61" />
+	</machine>
+	<machine name="Sotsugyou II - Neo Generation Special (1995)(Shar Rock)(JP)[!]">
+		<description>Sotsugyou II - Neo Generation Special (1995)(Shar Rock)(JP)[!]</description>
+		<disk name="Sotsugyou II - Neo Generation Special (1995)(Shar Rock)(JP)[!].chd" sha1="5a5c7692d313e14fa03268f61613314bbac3c704" />
+	</machine>
+	<machine name="Space Ace (1995)(ReadySoft)(US)[!][DH 65008 RE-1]">
+		<description>Space Ace (1995)(ReadySoft)(US)[!][DH 65008 RE-1]</description>
+		<disk name="Space Ace (1995)(ReadySoft)(US)[!][DH 65008 RE-1].chd" sha1="c65384e33875c594fbc58da4e0d94802d21f899d" />
+	</machine>
+	<machine name="Space Ace (1995)(ReadySoft)(US)[DH 65008]">
+		<description>Space Ace (1995)(ReadySoft)(US)[DH 65008]</description>
+		<disk name="Space Ace (1995)(ReadySoft)(US)[DH 65008].chd" sha1="683c88aa9c8d992c8df00670f338a399670a5fc0" />
+	</machine>
+	<machine name="Space Hulk - Vengeance of the Blood Angels (1995)(Electronic Arts)(EU)[!]">
+		<description>Space Hulk - Vengeance of the Blood Angels (1995)(Electronic Arts)(EU)[!]</description>
+		<disk name="Space Hulk - Vengeance of the Blood Angels (1995)(Electronic Arts)(EU)[!].chd" sha1="bdd8472a36d99ea445781da3889ea1cbcd35737a" />
+	</machine>
+	<machine name="Space Hulk - Vengeance of the Blood Angels (1995)(Electronic Arts)(US)[!]">
+		<description>Space Hulk - Vengeance of the Blood Angels (1995)(Electronic Arts)(US)[!]</description>
+		<disk name="Space Hulk - Vengeance of the Blood Angels (1995)(Electronic Arts)(US)[!].chd" sha1="a61d7a3bdf72a294afc12d48d18919ba97e504f8" />
+	</machine>
+	<machine name="Space Pirates (1994)(American Laser Games)(US)[!]">
+		<description>Space Pirates (1994)(American Laser Games)(US)[!]</description>
+		<disk name="Space Pirates (1994)(American Laser Games)(US)[!].chd" sha1="dc741a3fc81e05b7c062393a284476b8e6c0c4fd" />
+	</machine>
+	<machine name="Star Control II (1994)(BMG Interactive Entertainment)(JP)[!]">
+		<description>Star Control II (1994)(BMG Interactive Entertainment)(JP)[!]</description>
+		<disk name="Star Control II (1994)(BMG Interactive Entertainment)(JP)[!].chd" sha1="41d4450f1b14897e0c55275bf58d0d018bda192d" />
+	</machine>
+	<machine name="Star Control II (1994)(Crystal Dynamics)(EU-US)[!]">
+		<description>Star Control II (1994)(Crystal Dynamics)(EU-US)[!]</description>
+		<disk name="Star Control II (1994)(Crystal Dynamics)(EU-US)[!].chd" sha1="93e0c97640f65049a115cd256c18ac0d529bfddd" />
+	</machine>
+	<machine name="Star Fighter (1995)(Studio 3DO)(EU-US)[!]">
+		<description>Star Fighter (1995)(Studio 3DO)(EU-US)[!]</description>
+		<disk name="Star Fighter (1995)(Studio 3DO)(EU-US)[!].chd" sha1="07732e97a256dd75a2245258f6129e69b4d7b4f5" />
+	</machine>
+	<machine name="Star Wars - Rebel Assault v1.0 (1993)(Electronic Arts)(EU-US)[!]">
+		<description>Star Wars - Rebel Assault v1.0 (1993)(Electronic Arts)(EU-US)[!]</description>
+		<disk name="Star Wars - Rebel Assault v1.0 (1993)(Electronic Arts)(EU-US)[!].chd" sha1="135f8767648386b5e2b39acc89f1228467a25310" />
+	</machine>
+	<machine name="Star Wars - Rebel Assault v1.0J (1993)(Electronic Arts)(JP)[!]">
+		<description>Star Wars - Rebel Assault v1.0J (1993)(Electronic Arts)(JP)[!]</description>
+		<disk name="Star Wars - Rebel Assault v1.0J (1993)(Electronic Arts)(JP)[!].chd" sha1="26e07526f176649038a547069d03f568c5694008" />
+	</machine>
+	<machine name="StarBlade (1994)(Namco)(JP)(en)[!]">
+		<description>StarBlade (1994)(Namco)(JP)(en)[!]</description>
+		<disk name="StarBlade (1994)(Namco)(JP)(en)[!].chd" sha1="977f4a1f3188c95a5784bce089878a160bf70a0f" />
+	</machine>
+	<machine name="StarBlade (1994)(Panasonic)(CA)[!]">
+		<description>StarBlade (1994)(Panasonic)(CA)[!]</description>
+		<disk name="StarBlade (1994)(Panasonic)(CA)[!].chd" sha1="2d8189128040eea505be76b28955f8a251ee482e" />
+	</machine>
+	<machine name="StarBlade (1994)(Panasonic)(EU)[!]">
+		<description>StarBlade (1994)(Panasonic)(EU)[!]</description>
+		<disk name="StarBlade (1994)(Panasonic)(EU)[!].chd" sha1="aaa07e1064b3ce51b9db449415804168e686dfea" />
+	</machine>
+	<machine name="StarBlade (1994)(Panasonic)(KR-US)(en)[!]">
+		<description>StarBlade (1994)(Panasonic)(KR-US)(en)[!]</description>
+		<disk name="StarBlade (1994)(Panasonic)(KR-US)(en)[!].chd" sha1="30b3f52f117775eb77be5961fc61bcd1d03122e9" />
+	</machine>
+	<machine name="Stellar 7 - Draxon no Gyakushuu (1994)(Dynamix)(JP)[!]">
+		<description>Stellar 7 - Draxon no Gyakushuu (1994)(Dynamix)(JP)[!]</description>
+		<disk name="Stellar 7 - Draxon no Gyakushuu (1994)(Dynamix)(JP)[!].chd" sha1="908489c1aba89c4812671a361b00d141c85f93a8" />
+	</machine>
+	<machine name="Stellar 7 - Draxon's Revenge (1993)(Dynamix)(US)[!]">
+		<description>Stellar 7 - Draxon's Revenge (1993)(Dynamix)(US)[!]</description>
+		<disk name="Stellar 7 - Draxon's Revenge (1993)(Dynamix)(US)[!].chd" sha1="6e3391d11351ce40d9f12dde225568f7981f952e" />
+	</machine>
+	<machine name="Strahl (1994)(Media Entertainment)(JP)[!]">
+		<description>Strahl (1994)(Media Entertainment)(JP)[!]</description>
+		<disk name="Strahl (1994)(Media Entertainment)(JP)[!].chd" sha1="f03483dba460c217b47d0cf7906e03870c584b86" />
+	</machine>
+	<machine name="Strahl (1995)(Panasonic)(US)[!]">
+		<description>Strahl (1995)(Panasonic)(US)[!]</description>
+		<disk name="Strahl (1995)(Panasonic)(US)[!].chd" sha1="4014a2fcb62308ffdf99068d21a8eaa061388c6b" />
+	</machine>
+	<machine name="Striker - World Cup Special (1995)(Panasonic)(EU)[!]">
+		<description>Striker - World Cup Special (1995)(Panasonic)(EU)[!]</description>
+		<disk name="Striker - World Cup Special (1995)(Panasonic)(EU)[!].chd" sha1="e49c9f12c00e8e8f709fa6b32a1fd4b891c6c5e4" />
+	</machine>
+	<machine name="Super Real Mahjong P.V (1995)(Seta)(JP)[!]">
+		<description>Super Real Mahjong P.V (1995)(Seta)(JP)[!]</description>
+		<disk name="Super Real Mahjong P.V (1995)(Seta)(JP)[!].chd" sha1="07208723d985560311998ff41cdd10008856f3ca" />
+	</machine>
+	<machine name="Super Real Mahjong PIV + Aishou Shindan (1994)(Seta)(JP)">
+		<description>Super Real Mahjong PIV + Aishou Shindan (1994)(Seta)(JP)</description>
+		<disk name="Super Real Mahjong PIV + Aishou Shindan (1994)(Seta)(JP).chd" sha1="9f5bb49b74e80c75fbe697b52fd6d533d3e3ed89" />
+	</machine>
+	<machine name="Super Street Fighter II Turbo (1994)(Panasonic)(CA-US)[!][SM3851-2 RE1]">
+		<description>Super Street Fighter II Turbo (1994)(Panasonic)(CA-US)[!][SM3851-2 RE1]</description>
+		<disk name="Super Street Fighter II Turbo (1994)(Panasonic)(CA-US)[!][SM3851-2 RE1].chd" sha1="3326904d50135676b5f4b5b1dfaaeaeac3988dbd" />
+	</machine>
+	<machine name="Super Street Fighter II Turbo (1994)(Panasonic)(EU)">
+		<description>Super Street Fighter II Turbo (1994)(Panasonic)(EU)</description>
+		<disk name="Super Street Fighter II Turbo (1994)(Panasonic)(EU).chd" sha1="efa2e5cf77b50e4aa8f43ba628f075d9d75f5b0c" />
+	</machine>
+	<machine name="Super Street Fighter II Turbo (1994)(Panasonic)(US)[!][FZSM3851]">
+		<description>Super Street Fighter II Turbo (1994)(Panasonic)(US)[!][FZSM3851]</description>
+		<disk name="Super Street Fighter II Turbo (1994)(Panasonic)(US)[!][FZSM3851].chd" sha1="8bcbe8d6a45f7a2143dbd1e609993d62668bda37" />
+	</machine>
+	<machine name="Super Street Fighter II Turbo (1994)(Panasonic)(US)[SM3851-2 RE2]">
+		<description>Super Street Fighter II Turbo (1994)(Panasonic)(US)[SM3851-2 RE2]</description>
+		<disk name="Super Street Fighter II Turbo (1994)(Panasonic)(US)[SM3851-2 RE2].chd" sha1="e1c0951416bf10b7e8385cc4db8f46d8fe766b1a" />
+	</machine>
+	<machine name="Super Street Fighter II X - Grand Master Challenge (1994)(Capcom)(JP)[!]">
+		<description>Super Street Fighter II X - Grand Master Challenge (1994)(Capcom)(JP)[!]</description>
+		<disk name="Super Street Fighter II X - Grand Master Challenge (1994)(Capcom)(JP)[!].chd" sha1="b465a18c2397c31f1874f7eae30164ac00cd922c" />
+	</machine>
+	<machine name="Super Wing Commander (1994)(Electronic Arts)(JP)[!]">
+		<description>Super Wing Commander (1994)(Electronic Arts)(JP)[!]</description>
+		<disk name="Super Wing Commander (1994)(Electronic Arts)(JP)[!].chd" sha1="834815687a9a469afde210f95c2744c512d34920" />
+	</machine>
+	<machine name="Super Wing Commander (1994)(Origin)(EU)[!]">
+		<description>Super Wing Commander (1994)(Origin)(EU)[!]</description>
+		<disk name="Super Wing Commander (1994)(Origin)(EU)[!].chd" sha1="c593b087ae6857434f34d3803b53521a03e74b5c" />
+	</machine>
+	<machine name="Super Wing Commander (1994)(Origin)(US)[!]">
+		<description>Super Wing Commander (1994)(Origin)(US)[!]</description>
+		<disk name="Super Wing Commander (1994)(Origin)(US)[!].chd" sha1="29e5a9d365bb48718d717774c13a9354ca296c2a" />
+	</machine>
+	<machine name="Supreme Warrior - Ying Heung (1994)(Digital Pictures)(US)(en-zh)(Disc 1 of 2)[!][Fire &amp; Earth]">
+		<description>Supreme Warrior - Ying Heung (1994)(Digital Pictures)(US)(en-zh)(Disc 1 of 2)[!][Fire &amp; Earth]</description>
+		<disk name="Supreme Warrior - Ying Heung (1994)(Digital Pictures)(US)(en-zh)(Disc 1 of 2)[!][Fire &amp; Earth].chd" sha1="4864534349c3642035315d7a87f06193d721e8e8" />
+	</machine>
+	<machine name="Supreme Warrior - Ying Heung (1994)(Digital Pictures)(US)(en-zh)(Disc 1 of 2)[h easy JCE3000GT][Fire &amp; Earth]">
+		<description>Supreme Warrior - Ying Heung (1994)(Digital Pictures)(US)(en-zh)(Disc 1 of 2)[h easy JCE3000GT][Fire &amp; Earth]</description>
+		<disk name="Supreme Warrior - Ying Heung (1994)(Digital Pictures)(US)(en-zh)(Disc 1 of 2)[h easy JCE3000GT][Fire &amp; Earth].chd" sha1="5466083b15ed5484c7e85af64cacb6b29b7fbca0" />
+	</machine>
+	<machine name="Supreme Warrior - Ying Heung (1994)(Digital Pictures)(US)(en-zh)(Disc 2 of 2)[!][Wind &amp; Fang Tu]">
+		<description>Supreme Warrior - Ying Heung (1994)(Digital Pictures)(US)(en-zh)(Disc 2 of 2)[!][Wind &amp; Fang Tu]</description>
+		<disk name="Supreme Warrior - Ying Heung (1994)(Digital Pictures)(US)(en-zh)(Disc 2 of 2)[!][Wind &amp; Fang Tu].chd" sha1="33f82b8e0e067829cd5a999ed4baed53b47e14e4" />
+	</machine>
+	<machine name="Supreme Warrior - Ying Heung (1994)(Digital Pictures)(US)(en-zh)(Disc 2 of 2)[h easy JCE3000GT][Wind &amp; Fang Tu]">
+		<description>Supreme Warrior - Ying Heung (1994)(Digital Pictures)(US)(en-zh)(Disc 2 of 2)[h easy JCE3000GT][Wind &amp; Fang Tu]</description>
+		<disk name="Supreme Warrior - Ying Heung (1994)(Digital Pictures)(US)(en-zh)(Disc 2 of 2)[h easy JCE3000GT][Wind &amp; Fang Tu].chd" sha1="5ce7ce9f79b1f8a9a90f34698dbafee573efb833" />
+	</machine>
+	<machine name="Supreme Warrior - Ying Heung (1995)(Digital Pictures)(JP)(ja-zh)(Disc 1 of 2)">
+		<description>Supreme Warrior - Ying Heung (1995)(Digital Pictures)(JP)(ja-zh)(Disc 1 of 2)</description>
+		<disk name="Supreme Warrior - Ying Heung (1995)(Digital Pictures)(JP)(ja-zh)(Disc 1 of 2).chd" sha1="4c01dab0650407a0d485916dea67af69e4c85509" />
+	</machine>
+	<machine name="Supreme Warrior - Ying Heung (1995)(Digital Pictures)(JP)(ja-zh)(Disc 2 of 2)">
+		<description>Supreme Warrior - Ying Heung (1995)(Digital Pictures)(JP)(ja-zh)(Disc 2 of 2)</description>
+		<disk name="Supreme Warrior - Ying Heung (1995)(Digital Pictures)(JP)(ja-zh)(Disc 2 of 2).chd" sha1="e476d77e1daea127bd43282172fb764763e5c734" />
+	</machine>
+	<machine name="Sword &amp; Sorcery (1995)(Micro Cabin)(JP)[!]">
+		<description>Sword &amp; Sorcery (1995)(Micro Cabin)(JP)[!]</description>
+		<disk name="Sword &amp; Sorcery (1995)(Micro Cabin)(JP)[!].chd" sha1="30e45090090cebfea14c383c436b9971cf8d5c51" />
+	</machine>
+	<machine name="Syndicate (1995)(Electronic Arts)(EU)[!]">
+		<description>Syndicate (1995)(Electronic Arts)(EU)[!]</description>
+		<disk name="Syndicate (1995)(Electronic Arts)(EU)[!].chd" sha1="e341886d2926ed25ae5f767d37018fc5dafd1e32" />
+	</machine>
+	<machine name="Syndicate (1995)(Electronic Arts)(JP)">
+		<description>Syndicate (1995)(Electronic Arts)(JP)</description>
+		<disk name="Syndicate (1995)(Electronic Arts)(JP).chd" sha1="3981a9ef539d3ded89af3f26c7b259c3d1cf62ee" />
+	</machine>
+	<machine name="Syndicate (1995)(Electronic Arts)(US)[!]">
+		<description>Syndicate (1995)(Electronic Arts)(US)[!]</description>
+		<disk name="Syndicate (1995)(Electronic Arts)(US)[!].chd" sha1="2b83da570ad933809f634d9a98e0515de5084f4c" />
+	</machine>
+	<machine name="Taiketsu! Rumii Zu (1995)(Sanyo)(JP)">
+		<description>Taiketsu! Rumii Zu (1995)(Sanyo)(JP)</description>
+		<disk name="Taiketsu! Rumii Zu (1995)(Sanyo)(JP).chd" sha1="e07e9853e9936dd520353c246319ed44a848a52f" />
+	</machine>
+	<machine name="Takeru (1994)(Panasonic)(JP)[!]">
+		<description>Takeru (1994)(Panasonic)(JP)[!]</description>
+		<disk name="Takeru (1994)(Panasonic)(JP)[!].chd" sha1="b92697a541a45ca63f59d058d0694768b65a81dc" />
+	</machine>
+	<machine name="Takeru (1994)(Panasonic)(JP)[tr ru aspyd, SavitarSvit, Zhakharov Alexey]">
+		<description>Takeru (1994)(Panasonic)(JP)[tr ru aspyd, SavitarSvit, Zhakharov Alexey]</description>
+		<disk name="Takeru (1994)(Panasonic)(JP)[tr ru aspyd, SavitarSvit, Zhakharov Alexey].chd" sha1="e92daa903502d560d70a9236251ca9a569b4aa62" />
+	</machine>
+	<machine name="Tanjou Debut - Pure (1996)(Shar Rock)(JP)[!]">
+		<description>Tanjou Debut - Pure (1996)(Shar Rock)(JP)[!]</description>
+		<disk name="Tanjou Debut - Pure (1996)(Shar Rock)(JP)[!].chd" sha1="106074c7180eb9ba4973b13b0a2096407332b906" />
+	</machine>
+	<machine name="Tarot Uranai (1995)(Ariadne)(JP)[!]">
+		<description>Tarot Uranai (1995)(Ariadne)(JP)[!]</description>
+		<disk name="Tarot Uranai (1995)(Ariadne)(JP)[!].chd" sha1="6fe638d54bcaf2fb84b73488188ec7261de431c0" />
+	</machine>
+	<machine name="Tetsujin - Iron Angel of The Apocalypse (1994)(Panasonic)(EU)[!]">
+		<description>Tetsujin - Iron Angel of The Apocalypse (1994)(Panasonic)(EU)[!]</description>
+		<disk name="Tetsujin - Iron Angel of The Apocalypse (1994)(Panasonic)(EU)[!].chd" sha1="c7cf68087302bcfb7b3bc9d754c05deeefa7f7e4" />
+	</machine>
+	<machine name="Tetsujin (1994)(Panasonic)(JP)[!]">
+		<description>Tetsujin (1994)(Panasonic)(JP)[!]</description>
+		<disk name="Tetsujin (1994)(Panasonic)(JP)[!].chd" sha1="2cf4670c324cc496134cdae38017b6d6f878d000" />
+	</machine>
+	<machine name="Tetsujin Returns (1995)(Synergy)(JP)[!]">
+		<description>Tetsujin Returns (1995)(Synergy)(JP)[!]</description>
+		<disk name="Tetsujin Returns (1995)(Synergy)(JP)[!].chd" sha1="846615b1180e05327ecf66df11963408fa34eb6c" />
+	</machine>
+	<machine name="Theatre Wars - Goraku no Dendou (1994)(Panasonic)(JP)[!]">
+		<description>Theatre Wars - Goraku no Dendou (1994)(Panasonic)(JP)[!]</description>
+		<disk name="Theatre Wars - Goraku no Dendou (1994)(Panasonic)(JP)[!].chd" sha1="00cccc2b6f4eedc6661c33c23aa88897547c4316" />
+	</machine>
+	<machine name="Theme Park (1994)(Electronic Arts)(EU)(en-fr)[!]">
+		<description>Theme Park (1994)(Electronic Arts)(EU)(en-fr)[!]</description>
+		<disk name="Theme Park (1994)(Electronic Arts)(EU)(en-fr)[!].chd" sha1="7719815fa20d22032388703ca5cbb7397d29d041" />
+	</machine>
+	<machine name="Theme Park (1994)(Electronic Arts)(US)(en-fr)[!]">
+		<description>Theme Park (1994)(Electronic Arts)(US)(en-fr)[!]</description>
+		<disk name="Theme Park (1994)(Electronic Arts)(US)(en-fr)[!].chd" sha1="421ceaf1528d422470b01d5f7f8788a499c5fc2d" />
+	</machine>
+	<machine name="Theme Park (1995)(Electronic Arts)(JP)[!]">
+		<description>Theme Park (1995)(Electronic Arts)(JP)[!]</description>
+		<disk name="Theme Park (1995)(Electronic Arts)(JP)[!].chd" sha1="566cf86aa14d0a80457d0ab661ededd53cb4883d" />
+	</machine>
+	<machine name="Toki o Koeta Tegami - The Letter That Over Came Time (1994)(Panasonic)(JP)[!]">
+		<description>Toki o Koeta Tegami - The Letter That Over Came Time (1994)(Panasonic)(JP)[!]</description>
+		<disk name="Toki o Koeta Tegami - The Letter That Over Came Time (1994)(Panasonic)(JP)[!].chd" sha1="989d1996b5aeb4f06811da82f7fba7a8d18b5c67" />
+	</machine>
+	<machine name="Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (1996)(Sonnet)(JP)">
+		<description>Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (1996)(Sonnet)(JP)</description>
+		<disk name="Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (1996)(Sonnet)(JP).chd" sha1="c8e73035f224acab92c6842a19c862738b4da75b" />
+	</machine>
+	<machine name="Total Eclipse (1993)(Crystal Dynamics)(JP)[!]">
+		<description>Total Eclipse (1993)(Crystal Dynamics)(JP)[!]</description>
+		<disk name="Total Eclipse (1993)(Crystal Dynamics)(JP)[!].chd" sha1="c63f995b71b3aeb1edb95bcbfc9ddd17597b6c40" />
+	</machine>
+	<machine name="Total Eclipse (1993)(Crystal Dynamics)(US)[!][3DRM-1214760]">
+		<description>Total Eclipse (1993)(Crystal Dynamics)(US)[!][3DRM-1214760]</description>
+		<disk name="Total Eclipse (1993)(Crystal Dynamics)(US)[!][3DRM-1214760].chd" sha1="56ab6f497b657e0ede80bf84fc10183ef93e43ee" />
+	</machine>
+	<machine name="Total Eclipse (1993)(Crystal Dynamics)(US)[!][57911-1]">
+		<description>Total Eclipse (1993)(Crystal Dynamics)(US)[!][57911-1]</description>
+		<disk name="Total Eclipse (1993)(Crystal Dynamics)(US)[!][57911-1].chd" sha1="760cb85a2afa668f0a5f5e2092bd4d0c9239df09" />
+	</machine>
+	<machine name="Total Eclipse (1993)(Crystal Dynamics)(US)[!][DFJN5015ZAZ]">
+		<description>Total Eclipse (1993)(Crystal Dynamics)(US)[!][DFJN5015ZAZ]</description>
+		<disk name="Total Eclipse (1993)(Crystal Dynamics)(US)[!][DFJN5015ZAZ].chd" sha1="2829a7f08c9a186dddc1403a2c6138542b678887" />
+	</machine>
+	<machine name="Total Eclipse (1993)(Crystal Dynamics)(US)[61203]">
+		<description>Total Eclipse (1993)(Crystal Dynamics)(US)[61203]</description>
+		<disk name="Total Eclipse (1993)(Crystal Dynamics)(US)[61203].chd" sha1="4e3707c47bea92889e6b5bd013003d8eba05d96f" />
+	</machine>
+	<machine name="Totsugeki Kikan! Megadasu!! (1994)(Warp)(JP)">
+		<description>Totsugeki Kikan! Megadasu!! (1994)(Warp)(JP)</description>
+		<disk name="Totsugeki Kikan! Megadasu!! (1994)(Warp)(JP).chd" sha1="2f86ed09d7bbd608f7e32f803df9250059d7c067" />
+	</machine>
+	<machine name="Touhaiden Akagi (1996)(Micronet)(JP)">
+		<description>Touhaiden Akagi (1996)(Micronet)(JP)</description>
+		<disk name="Touhaiden Akagi (1996)(Micronet)(JP).chd" sha1="4bf68d522eeab2c5802f13c4cedeb32618df7124" />
+	</machine>
+	<machine name="Tower, The (1996)(OPeNBooK)(JP)[!]">
+		<description>Tower, The (1996)(OPeNBooK)(JP)[!]</description>
+		<disk name="Tower, The (1996)(OPeNBooK)(JP)[!].chd" sha1="8abceda6200b725c8911d193a25828da509157c3" />
+	</machine>
+	<machine name="Tozasareta Yakata (1995)(Studio 3DO)(JP)[!]">
+		<description>Tozasareta Yakata (1995)(Studio 3DO)(JP)[!]</description>
+		<disk name="Tozasareta Yakata (1995)(Studio 3DO)(JP)[!].chd" sha1="d8f292599b89f60bf2f37e1744ad3645f3f24cea" />
+	</machine>
+	<machine name="Trip'd (1995)(Panasonic)(EU-US)[!]">
+		<description>Trip'd (1995)(Panasonic)(EU-US)[!]</description>
+		<disk name="Trip'd (1995)(Panasonic)(EU-US)[!].chd" sha1="6c8061239bcb54d64974ba37338fa6bb9af0d3f6" />
+	</machine>
+	<machine name="Tsuukai Gameshow - Twisted (1994)(Electronic Arts)(JP)[!]">
+		<description>Tsuukai Gameshow - Twisted (1994)(Electronic Arts)(JP)[!]</description>
+		<disk name="Tsuukai Gameshow - Twisted (1994)(Electronic Arts)(JP)[!].chd" sha1="652788a8dd97c5b3c8818a0097e008a23ad2998c" />
+	</machine>
+	<machine name="Twinkle Knights (1995)(Intarus)(JP)">
+		<description>Twinkle Knights (1995)(Intarus)(JP)</description>
+		<disk name="Twinkle Knights (1995)(Intarus)(JP).chd" sha1="af033cfaa24082ad7f58ca12f2a111c32366af4f" />
+	</machine>
+	<machine name="Twinkle Knights (1995)(Intarus)(JP)[f all consoles compatibility-not requiring Kanji ROM2 aspyd]">
+		<description>Twinkle Knights (1995)(Intarus)(JP)[f all consoles compatibility-not requiring Kanji ROM2 aspyd]</description>
+		<disk name="Twinkle Knights (1995)(Intarus)(JP)[f all consoles compatibility-not requiring Kanji ROM2 aspyd].chd" sha1="5d433c15ad2d95b9bea1c3b7aa34b75d7030a488" />
+	</machine>
+	<machine name="Twisted - The Game Show (1993)(Electronic Arts)(EU)">
+		<description>Twisted - The Game Show (1993)(Electronic Arts)(EU)</description>
+		<disk name="Twisted - The Game Show (1993)(Electronic Arts)(EU).chd" sha1="beaeda79d7ff470d1b49cf1af5087150e095bb5e" />
+	</machine>
+	<machine name="Twisted - The Game Show (1993)(Electronic Arts)(US)[!][730807-2 R73]">
+		<description>Twisted - The Game Show (1993)(Electronic Arts)(US)[!][730807-2 R73]</description>
+		<disk name="Twisted - The Game Show (1993)(Electronic Arts)(US)[!][730807-2 R73].chd" sha1="71bc9bc57fffbddbe7f27c2f6e4b236ef91d0898" />
+	</machine>
+	<machine name="Twisted - The Game Show (1993)(Electronic Arts)(US)[730807-2 70]">
+		<description>Twisted - The Game Show (1993)(Electronic Arts)(US)[730807-2 70]</description>
+		<disk name="Twisted - The Game Show (1993)(Electronic Arts)(US)[730807-2 70].chd" sha1="c1e14e02cdeb96a5d29afaa48fd9c8502ce225df" />
+	</machine>
+	<machine name="Uchuu Seifutsu Furopon-kun (1994)(San-Ei Shobo Publishing)(JP)[!]">
+		<description>Uchuu Seifutsu Furopon-kun (1994)(San-Ei Shobo Publishing)(JP)[!]</description>
+		<disk name="Uchuu Seifutsu Furopon-kun (1994)(San-Ei Shobo Publishing)(JP)[!].chd" sha1="90f42b02a280457221358dd6bde147bd696aeb4d" />
+	</machine>
+	<machine name="Ultraman Powered (1994)(Bandai)(JP)[!]">
+		<description>Ultraman Powered (1994)(Bandai)(JP)[!]</description>
+		<disk name="Ultraman Powered (1994)(Bandai)(JP)[!].chd" sha1="22303e87cf9c44bc8c3ea52b70ff89b356849bff" />
+	</machine>
+	<machine name="V Goal Soccer '96 (1996)(Tecmo)(JP)(en)">
+		<description>V Goal Soccer '96 (1996)(Tecmo)(JP)(en)</description>
+		<disk name="V Goal Soccer '96 (1996)(Tecmo)(JP)(en).chd" sha1="bec3abe38fa389eeb1a0e2402dbbb8c2c5633426" />
+	</machine>
+	<machine name="Virtual Cameraman Part 1 - Naomi Sawada &amp; Anna Juri (1995)(Transpegasus)(JP)[!]">
+		<description>Virtual Cameraman Part 1 - Naomi Sawada &amp; Anna Juri (1995)(Transpegasus)(JP)[!]</description>
+		<disk name="Virtual Cameraman Part 1 - Naomi Sawada &amp; Anna Juri (1995)(Transpegasus)(JP)[!].chd" sha1="fe31905cd78ea2663b56e66c19a0c9478a760f31" />
+	</machine>
+	<machine name="Virtual Cameraman Part 2 - Natsumi Kawai &amp; Kimi Tachihara (1995)(Transpegasus)(JP)">
+		<description>Virtual Cameraman Part 2 - Natsumi Kawai &amp; Kimi Tachihara (1995)(Transpegasus)(JP)</description>
+		<disk name="Virtual Cameraman Part 2 - Natsumi Kawai &amp; Kimi Tachihara (1995)(Transpegasus)(JP).chd" sha1="059957abde37856dfeb944ebd85dfd9fd2364c03" />
+	</machine>
+	<machine name="Virtual Cameraman Part 3 - Yumika Sugimoto (1995)(Transpegasus)(JP)">
+		<description>Virtual Cameraman Part 3 - Yumika Sugimoto (1995)(Transpegasus)(JP)</description>
+		<disk name="Virtual Cameraman Part 3 - Yumika Sugimoto (1995)(Transpegasus)(JP).chd" sha1="81f61dd1014de5dda3ecc659ff2d982c9f637b30" />
+	</machine>
+	<machine name="Virtual Cameraman Part 4 - Shiori Fujitani (1995)(Transpegasus)(JP)[!]">
+		<description>Virtual Cameraman Part 4 - Shiori Fujitani (1995)(Transpegasus)(JP)[!]</description>
+		<disk name="Virtual Cameraman Part 4 - Shiori Fujitani (1995)(Transpegasus)(JP)[!].chd" sha1="f2d8859564cc1a2134a4c1fa0db7ac8b4f37f687" />
+	</machine>
+	<machine name="Virtual Cameraman Part 5 - Yuri Andou (1995)(Transpegasus)(JP)[!]">
+		<description>Virtual Cameraman Part 5 - Yuri Andou (1995)(Transpegasus)(JP)[!]</description>
+		<disk name="Virtual Cameraman Part 5 - Yuri Andou (1995)(Transpegasus)(JP)[!].chd" sha1="95281b8b61d12b43e92defe96b7e139f5b34cc3e" />
+	</machine>
+	<machine name="Virtual Horror - Norowareta Tachi (1994)(Electronic Arts)(JP)[!]">
+		<description>Virtual Horror - Norowareta Tachi (1994)(Electronic Arts)(JP)[!]</description>
+		<disk name="Virtual Horror - Norowareta Tachi (1994)(Electronic Arts)(JP)[!].chd" sha1="3a183785090adb0df68de03164e72e050af40b1d" />
+	</machine>
+	<machine name="Virtual Quest - Pharaoh no Fuuin (1994)(ASK KODANSHA)(JP)[!]">
+		<description>Virtual Quest - Pharaoh no Fuuin (1994)(ASK KODANSHA)(JP)[!]</description>
+		<disk name="Virtual Quest - Pharaoh no Fuuin (1994)(ASK KODANSHA)(JP)[!].chd" sha1="a470456a4f40802c24b97a3ea41ea7011700bd0f" />
+	</machine>
+	<machine name="Virtuoso (1994)(Elite)(EU)(M3)[!]">
+		<description>Virtuoso (1994)(Elite)(EU)(M3)[!]</description>
+		<disk name="Virtuoso (1994)(Elite)(EU)(M3)[!].chd" sha1="d570705a5145b36cbc3a89bee24a5b14a565fce5" />
+	</machine>
+	<machine name="Virtuoso (1995)(Data East)(US)[!]">
+		<description>Virtuoso (1995)(Data East)(US)[!]</description>
+		<disk name="Virtuoso (1995)(Data East)(US)[!].chd" sha1="280f8c49f970b1236d55a4964c260629c75da548" />
+	</machine>
+	<machine name="Virtuoso (1995)(Imagineer)(JP)">
+		<description>Virtuoso (1995)(Imagineer)(JP)</description>
+		<disk name="Virtuoso (1995)(Imagineer)(JP).chd" sha1="85e8ae274f375b660ce1ec98141ce811aadd5d45" />
+	</machine>
+	<machine name="VR Stalker (1994)(American Laser Games)(US)[!]">
+		<description>VR Stalker (1994)(American Laser Games)(US)[!]</description>
+		<disk name="VR Stalker (1994)(American Laser Games)(US)[!].chd" sha1="dae1aa4da2c8acf214651de0fca11ad36579848e" />
+	</machine>
+	<machine name="Waialae Country Club (1994)(Panasonic)(CA-US)[!]">
+		<description>Waialae Country Club (1994)(Panasonic)(CA-US)[!]</description>
+		<disk name="Waialae Country Club (1994)(Panasonic)(CA-US)[!].chd" sha1="741416bdc761b5610e4d71758a6c1f35c760133b" />
+	</machine>
+	<machine name="Waialae Country Club (1994)(Panasonic)(EU)">
+		<description>Waialae Country Club (1994)(Panasonic)(EU)</description>
+		<disk name="Waialae Country Club (1994)(Panasonic)(EU).chd" sha1="774d12fbcb0f85f54b6c43cd028c7c10d933c1e7" />
+	</machine>
+	<machine name="Waialae no Kiseki (1994)(Panasonic)(JP)">
+		<description>Waialae no Kiseki (1994)(Panasonic)(JP)</description>
+		<disk name="Waialae no Kiseki (1994)(Panasonic)(JP).chd" sha1="fb397d6a1abcee9db18436fb08f6fc93e044715e" />
+	</machine>
+	<machine name="Way of the Warrior (1994)(Interplay)(PAL)(EU)[!]">
+		<description>Way of the Warrior (1994)(Interplay)(PAL)(EU)[!]</description>
+		<disk name="Way of the Warrior (1994)(Interplay)(PAL)(EU)[!].chd" sha1="29700149eab61d7e907d181979b75cec7c61247d" />
+	</machine>
+	<machine name="Way of the Warrior (1994)(Universal Interactive Studios)(NTSC)(US)[!]">
+		<description>Way of the Warrior (1994)(Universal Interactive Studios)(NTSC)(US)[!]</description>
+		<disk name="Way of the Warrior (1994)(Universal Interactive Studios)(NTSC)(US)[!].chd" sha1="4a9549dc0c5574455621a95c872a1fc35952fc9c" />
+	</machine>
+	<machine name="Way of the Warrior (1995)(Universal Interactive Studios)(JP)[!]">
+		<description>Way of the Warrior (1995)(Universal Interactive Studios)(JP)[!]</description>
+		<disk name="Way of the Warrior (1995)(Universal Interactive Studios)(JP)[!].chd" sha1="f3d3929e00034a94ef7a5a98cddec884c1cef8a1" />
+	</machine>
+	<machine name="Who Shot Johnny Rock (1994)(American Laser Games)(US)[!]">
+		<description>Who Shot Johnny Rock (1994)(American Laser Games)(US)[!]</description>
+		<disk name="Who Shot Johnny Rock (1994)(American Laser Games)(US)[!].chd" sha1="70e72f2bbf94f1bceb46fdec51e7c110a1909e9b" />
+	</machine>
+	<machine name="Wicked 18 (1994)(Panasonic)(US)[!]">
+		<description>Wicked 18 (1994)(Panasonic)(US)[!]</description>
+		<disk name="Wicked 18 (1994)(Panasonic)(US)[!].chd" sha1="d96723bb55f6233ca01d09f3b8667dc259269062" />
+	</machine>
+	<machine name="Wing Commander III - Heart of the Tiger (1995)(Origin)(EU-US)(Disc 1 of 4)[!]">
+		<description>Wing Commander III - Heart of the Tiger (1995)(Origin)(EU-US)(Disc 1 of 4)[!]</description>
+		<disk name="Wing Commander III - Heart of the Tiger (1995)(Origin)(EU-US)(Disc 1 of 4)[!].chd" sha1="1f844951a277cfb8082d778566d0d552d3ac8b14" />
+	</machine>
+	<machine name="Wing Commander III - Heart of the Tiger (1995)(Origin)(EU-US)(Disc 2 of 4)[!]">
+		<description>Wing Commander III - Heart of the Tiger (1995)(Origin)(EU-US)(Disc 2 of 4)[!]</description>
+		<disk name="Wing Commander III - Heart of the Tiger (1995)(Origin)(EU-US)(Disc 2 of 4)[!].chd" sha1="e3f0f6af26540f093d2d7475131c8ed399765b0a" />
+	</machine>
+	<machine name="Wing Commander III - Heart of the Tiger (1995)(Origin)(EU-US)(Disc 3 of 4)[!]">
+		<description>Wing Commander III - Heart of the Tiger (1995)(Origin)(EU-US)(Disc 3 of 4)[!]</description>
+		<disk name="Wing Commander III - Heart of the Tiger (1995)(Origin)(EU-US)(Disc 3 of 4)[!].chd" sha1="e80f3438ec71be7b49e378aae4f41acc86f85899" />
+	</machine>
+	<machine name="Wing Commander III - Heart of the Tiger (1995)(Origin)(EU-US)(Disc 4 of 4)[!]">
+		<description>Wing Commander III - Heart of the Tiger (1995)(Origin)(EU-US)(Disc 4 of 4)[!]</description>
+		<disk name="Wing Commander III - Heart of the Tiger (1995)(Origin)(EU-US)(Disc 4 of 4)[!].chd" sha1="eeef07945d3ee6e2fa4763872136851c23deedb3" />
+	</machine>
+	<machine name="Wing Commander III - Heart of the Tiger (1995)(Origin)(US)(Disc 1 of 4)[!]">
+		<description>Wing Commander III - Heart of the Tiger (1995)(Origin)(US)(Disc 1 of 4)[!]</description>
+		<disk name="Wing Commander III - Heart of the Tiger (1995)(Origin)(US)(Disc 1 of 4)[!].chd" sha1="138c51dedfcad2b2a1202f16a6bcd35d7f99cf79" />
+	</machine>
+	<machine name="Wing Commander III - Heart of the Tiger (1995)(Origin)(US)(Disc 2 of 4)[!]">
+		<description>Wing Commander III - Heart of the Tiger (1995)(Origin)(US)(Disc 2 of 4)[!]</description>
+		<disk name="Wing Commander III - Heart of the Tiger (1995)(Origin)(US)(Disc 2 of 4)[!].chd" sha1="7523b1c2f2c6379119ed16b192ff283ffa2a5fe8" />
+	</machine>
+	<machine name="Wing Commander III - Heart of the Tiger (1995)(Origin)(US)(Disc 3 of 4)">
+		<description>Wing Commander III - Heart of the Tiger (1995)(Origin)(US)(Disc 3 of 4)</description>
+		<disk name="Wing Commander III - Heart of the Tiger (1995)(Origin)(US)(Disc 3 of 4).chd" sha1="df7b4807658dd6cb6ce5cf96f98c2a2d0e92fc13" />
+	</machine>
+	<machine name="Wing Commander III - Heart of the Tiger (1995)(Origin)(US)(Disc 4 of 4)">
+		<description>Wing Commander III - Heart of the Tiger (1995)(Origin)(US)(Disc 4 of 4)</description>
+		<disk name="Wing Commander III - Heart of the Tiger (1995)(Origin)(US)(Disc 4 of 4).chd" sha1="34913489b54fe03f3c1f47bbd2e12f3e569b8713" />
+	</machine>
+	<machine name="Winning Post (1994)(KOEI)(JP)[!]">
+		<description>Winning Post (1994)(KOEI)(JP)[!]</description>
+		<disk name="Winning Post (1994)(KOEI)(JP)[!].chd" sha1="597768e90a144ee1053d5f9151f806cf6ecd721f" />
+	</machine>
+	<machine name="Wolfenstein 3D (1994)(Interplay)(US)[!]">
+		<description>Wolfenstein 3D (1994)(Interplay)(US)[!]</description>
+		<disk name="Wolfenstein 3D (1994)(Interplay)(US)[!].chd" sha1="c28a00fa7b7da8f4bb5be4fefd5a3ced2b234bcc" />
+	</machine>
+	<machine name="Wolfenstein 3D (1995)(Interplay)(JP)[!]">
+		<description>Wolfenstein 3D (1995)(Interplay)(JP)[!]</description>
+		<disk name="Wolfenstein 3D (1995)(Interplay)(JP)[!].chd" sha1="17246054d47ca717be279f9a257e658c844f59d2" />
+	</machine>
+	<machine name="World Cup Golf - Hyatt Dorado Beach (1994)(U.S. Gold)(EU)[!]">
+		<description>World Cup Golf - Hyatt Dorado Beach (1994)(U.S. Gold)(EU)[!]</description>
+		<disk name="World Cup Golf - Hyatt Dorado Beach (1994)(U.S. Gold)(EU)[!].chd" sha1="da03bf6b3cf8fd7b042558047315096fb243b377" />
+	</machine>
+	<machine name="World Cup Golf - Hyatt Dorado Beach (1994)(U.S. Gold)(US)[!]">
+		<description>World Cup Golf - Hyatt Dorado Beach (1994)(U.S. Gold)(US)[!]</description>
+		<disk name="World Cup Golf - Hyatt Dorado Beach (1994)(U.S. Gold)(US)[!].chd" sha1="bd2b1284793f73e6f230d002d14b2a621fb61fe1" />
+	</machine>
+	<machine name="World Cup Special (1995)(Coconuts Japan)(JP)(en)">
+		<description>World Cup Special (1995)(Coconuts Japan)(JP)(en)</description>
+		<disk name="World Cup Special (1995)(Coconuts Japan)(JP)(en).chd" sha1="59476b32036edc1ab3e6f27d9a5c4f6c75ad27f2" />
+	</machine>
+	<machine name="Yakyuuken Special, The (1994)(Societa Daikanyama)(JP)[!]">
+		<description>Yakyuuken Special, The (1994)(Societa Daikanyama)(JP)[!]</description>
+		<disk name="Yakyuuken Special, The (1994)(Societa Daikanyama)(JP)[!].chd" sha1="1adca1f69290b881501afff4b423ff5a3175a7e3" />
+	</machine>
+	<machine name="Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (1994)(Pack-In-Video - Panasonic)(JP)(Disc 1 of 2)[!]">
+		<description>Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (1994)(Pack-In-Video - Panasonic)(JP)(Disc 1 of 2)[!]</description>
+		<disk name="Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (1994)(Pack-In-Video - Panasonic)(JP)(Disc 1 of 2)[!].chd" sha1="0bd4fa1c7d663d05828ee329e803d74de23289d5" />
+	</machine>
+	<machine name="Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (1994)(Pack-In-Video - Panasonic)(JP)(Disc 2 of 2)[!]">
+		<description>Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (1994)(Pack-In-Video - Panasonic)(JP)(Disc 2 of 2)[!]</description>
+		<disk name="Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (1994)(Pack-In-Video - Panasonic)(JP)(Disc 2 of 2)[!].chd" sha1="9816eb5dc1cb71b3816d7115b8531be8b284a6ff" />
+	</machine>
+	<machine name="Yuu Yuu Hakusho (1994)(Tomy)(JP)[!]">
+		<description>Yuu Yuu Hakusho (1994)(Tomy)(JP)[!]</description>
+		<disk name="Yuu Yuu Hakusho (1994)(Tomy)(JP)[!].chd" sha1="aced85b2ac107d9bfe40071fb306ea9094d00567" />
+	</machine>
+	<machine name="Zhadnost - The Peoples Party (1995)(Studio 3DO)(EU)[!]">
+		<description>Zhadnost - The Peoples Party (1995)(Studio 3DO)(EU)[!]</description>
+		<disk name="Zhadnost - The Peoples Party (1995)(Studio 3DO)(EU)[!].chd" sha1="be6f240e5e80bb78cc43f53dcf19fc16593afd6c" />
+	</machine>
+</datafile>

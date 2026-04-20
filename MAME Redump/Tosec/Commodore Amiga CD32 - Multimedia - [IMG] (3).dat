@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Multimedia - [IMG]</name>
+		<description>MAME Redump - Commodore Amiga CD32 - Multimedia - [IMG] (TOSEC-v2019-09-07)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 1.1 r72 (1993)(Commodore)">
+		<description>Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 1.1 r72 (1993)(Commodore)</description>
+		<disk name="Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 1.1 r72 (1993)(Commodore).chd" sha1="b066d546186780c3512596b28015ad440549f170" />
+	</machine>
+	<machine name="Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 2.0 (1994)(Commodore)">
+		<description>Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 2.0 (1994)(Commodore)</description>
+		<disk name="Demo Disc, The - Commodore Amiga CD32 Demonstration Disc 2.0 (1994)(Commodore).chd" sha1="ab3898fd82aa5e75b190efe93a810a83bcd4839a" />
+	</machine>
+	<machine name="Guinness Disc of Records, The - Second Edition (1993)(Commodore)[CDRM-1142100 2]">
+		<description>Guinness Disc of Records, The - Second Edition (1993)(Commodore)[CDRM-1142100 2]</description>
+		<disk name="Guinness Disc of Records, The - Second Edition (1993)(Commodore)[CDRM-1142100 2].chd" sha1="a6aa7e85246c4ca994595937f411bea33ac32129" />
+	</machine>
+</datafile>

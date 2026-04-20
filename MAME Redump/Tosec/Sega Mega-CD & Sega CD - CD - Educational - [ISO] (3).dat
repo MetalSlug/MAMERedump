@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Mega-CD &amp; Sega CD - CD - Educational - [ISO]</name>
+		<description>MAME Redump - Sega Mega-CD &amp; Sega CD - CD - Educational - [ISO] (TOSEC-v2014-07-01)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Compton's Interactive Encyclopedia Rev 19941003 (1994)(Sega)(US)">
+		<description>Compton's Interactive Encyclopedia Rev 19941003 (1994)(Sega)(US)</description>
+		<disk name="Compton's Interactive Encyclopedia Rev 19941003 (1994)(Sega)(US).chd" sha1="0dff8d50e01a1a3069be027cc129beb8ac9300dd" />
+	</machine>
+	<machine name="San Diego Zoo Presents The Animals!, The - A Multimedia Experience (1994)(Mindscape)(EU)(en)">
+		<description>San Diego Zoo Presents The Animals!, The - A Multimedia Experience (1994)(Mindscape)(EU)(en)</description>
+		<disk name="San Diego Zoo Presents The Animals!, The - A Multimedia Experience (1994)(Mindscape)(EU)(en).chd" sha1="5cc5b36e23dac7dc2748554919c47b11a49e3b0a" />
+	</machine>
+	<machine name="San Diego Zoo Presents The Animals!, The - A True Multimedia Experience (1994)(Software Toolworks)(US)">
+		<description>San Diego Zoo Presents The Animals!, The - A True Multimedia Experience (1994)(Software Toolworks)(US)</description>
+		<disk name="San Diego Zoo Presents The Animals!, The - A True Multimedia Experience (1994)(Software Toolworks)(US).chd" sha1="e8c777b1f059bdd14da9764a3db7cdb733739dbb" />
+	</machine>
+</datafile>

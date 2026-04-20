@@ -1,0 +1,13 @@
+FILE "Space Adventure, The - Cobra - The Legendary Bandit (1995)(Hudson - Virgin)(EU)(en).img" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    PREGAP 00:02:00
+    ISRC 0P4002500164
+    INDEX 01 16:37:32
+  TRACK 03 AUDIO
+    INDEX 01 19:59:33
+  TRACK 04 AUDIO
+    INDEX 01 24:14:37
+  TRACK 05 AUDIO
+    INDEX 01 25:16:38

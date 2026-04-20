@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Saturn - Applications</name>
+		<description>MAME Redump - Sega Saturn - Applications (TOSEC-v2020-06-12)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Photo CD Operating System v1.002 (1995)(Sega)(PAL)(M6)[!][MK-81681P-485]">
+		<description>Photo CD Operating System v1.002 (1995)(Sega)(PAL)(M6)[!][MK-81681P-485]</description>
+		<disk name="Photo CD Operating System v1.002 (1995)(Sega)(PAL)(M6)[!][MK-81681P-485].chd" sha1="99f7d5e03f8cced1c60a3f821b69df53848073cb" />
+	</machine>
+</datafile>

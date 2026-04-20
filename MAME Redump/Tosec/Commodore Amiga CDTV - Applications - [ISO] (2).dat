@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga CDTV - Applications - [ISO]</name>
+		<description>MAME Redump - Commodore Amiga CDTV - Applications - [ISO] (TOSEC-v2018-03-24)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="InterOffice (1993)(Interactivision ApS)(M5)[CDTV-Amiga]">
+		<description>InterOffice (1993)(Interactivision ApS)(M5)[CDTV-Amiga]</description>
+		<disk name="InterOffice (1993)(Interactivision ApS)(M5)[CDTV-Amiga].chd" sha1="754072ce774b1efe8b47cfe802605197affd3b6f" />
+	</machine>
+	<machine name="Network CD (1994)(Weird Science)(Amiga-CD32-CDTV)[!]">
+		<description>Network CD (1994)(Weird Science)(Amiga-CD32-CDTV)[!]</description>
+		<disk name="Network CD (1994)(Weird Science)(Amiga-CD32-CDTV)[!].chd" sha1="7e50a87deb3a176b01c03b1a18da6b26cb39fa69" />
+	</machine>
+</datafile>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sony PlayStation 2 - Homebrew - Games - [ELF]</name>
+		<description>MAME Redump - Sony PlayStation 2 - Homebrew - Games - [ELF] (TOSEC-v2022-06-08)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Hermes - Run A La Carte v1.01 (2020)(Retroguru)(FW)" type="">
+		<description>Hermes - Run A La Carte v1.01 (2020)(Retroguru)(FW)</description>
+		<rom name="Hermes - Run A La Carte v1.01 (2020)(Retroguru)(FW).elf" size="2702076" crc="566F93D3" md5="D5E830BAAB1B36B6FE2E947278800A9B" sha1="F544AC44F2B0319C914E344F53264B0E07753C89" />
+	</game>
+	<game name="Tennix Classic Championship Tour 2011 (2016-10-17)(thp)" type="">
+		<description>Tennix Classic Championship Tour 2011 (2016-10-17)(thp)</description>
+		<rom name="Tennix Classic Championship Tour 2011 (2016-10-17)(thp).elf" size="2496277" crc="DF229ECF" md5="ADF727B6FB167407E631931F3A8D18EE" sha1="A12EC18C72B4D5C92FF590BE5EF809CA21ADC6B0" />
+	</game>
+</datafile>

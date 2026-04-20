@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Homebrew - Compilations - [CDI]</name>
+		<description>MAME Redump - Sega Dreamcast - Homebrew - Compilations - [CDI] (TOSEC-v2023-10-03)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Castlevania Collection (2022-12-20)(ShindouGo)[fixed version]" type="">
+		<description>Castlevania Collection (2022-12-20)(ShindouGo)[fixed version]</description>
+		<rom name="Castlevania Collection (2022-12-20)(ShindouGo)[fixed version].cdi" size="832687335" crc="08A6107C" md5="EF40314A449EBDD235006A44DA30C7F4" sha1="C4AFF4FE9B2871357C473FFEBC1EA7483EDF10F3" />
+	</game>
+	<game name="Dogma - The Golden Age Collection (2017-12-31)(Captain Dreamcast)" type="">
+		<description>Dogma - The Golden Age Collection (2017-12-31)(Captain Dreamcast)</description>
+		<rom name="Dogma - The Golden Age Collection (2017-12-31)(Captain Dreamcast).cdi" size="754464885" crc="054806C4" md5="81A7A6792F41F3BC47DF9C2D1730A8B0" sha1="BED05C3BA96AEA3E958E8CCCEB4E4876B71189D5" />
+	</game>
+	<game name="DreamBOR 7 in 1 (2021-12-15)(Dubcity - IMR Technology)[fixed version]" type="">
+		<description>DreamBOR 7 in 1 (2021-12-15)(Dubcity - IMR Technology)[fixed version]</description>
+		<rom name="DreamBOR 7 in 1 (2021-12-15)(Dubcity - IMR Technology)[fixed version].cdi" size="769296988" crc="25165E35" md5="5E68AC8312C80A6C959BB83E0E60AAE8" sha1="65D00D6FCC2A516B7B167C2B116C1655E7DF251A" />
+	</game>
+	<game name="Teenage Mutant Ninja Turtles - The Cowabunga Collection (2022-12-25)(IMR Technology)" type="">
+		<description>Teenage Mutant Ninja Turtles - The Cowabunga Collection (2022-12-25)(IMR Technology)</description>
+		<rom name="Teenage Mutant Ninja Turtles - The Cowabunga Collection (2022-12-25)(IMR Technology).cdi" size="724370413" crc="45D100E1" md5="11B2CC80994F73CD830CC4EBB9BCEB62" sha1="135D353B1588D86AA9B9DCAFBDC99352B2F9E674" />
+	</game>
+</datafile>

@@ -1,0 +1,8 @@
+FILE "BC Racers (demo) (1994)(Core Design)(EU)(en)[a].img" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    PREGAP 00:02:00
+    INDEX 01 00:15:33
+  TRACK 03 AUDIO
+    INDEX 01 04:24:50

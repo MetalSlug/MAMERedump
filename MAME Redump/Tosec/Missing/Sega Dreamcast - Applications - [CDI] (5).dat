@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Applications - [CDI]</name>
+		<description>MAME Redump - Sega Dreamcast - Applications - [CDI] (TOSEC-v2025-02-08)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Dream Passport 2 for LAN (1999)(Sega)(JP)[cr RDC-0011 ReviveDC]" type="">
+		<description>Dream Passport 2 for LAN (1999)(Sega)(JP)[cr RDC-0011 ReviveDC]</description>
+		<rom name="Dream Passport 2 for LAN (1999)(Sega)(JP)[cr RDC-0011 ReviveDC].cdi" size="809578085" crc="81598A8C" md5="D721E2859B302D757F6271B7A96F7572" sha1="88DDA72A01D316E52F16524871EDE83BB23A4656" />
+	</game>
+	<game name="Dreamcast VM Data-shuu (2001)(Enterbrain)(JP)[cr RDC-0024 ReviveDC][AKA Dreamcast VM Data Issue]" type="">
+		<description>Dreamcast VM Data-shuu (2001)(Enterbrain)(JP)[cr RDC-0024 ReviveDC][AKA Dreamcast VM Data Issue]</description>
+		<rom name="Dreamcast VM Data-shuu (2001)(Enterbrain)(JP)[cr RDC-0024 ReviveDC][AKA Dreamcast VM Data Issue].cdi" size="813830578" crc="2A31FC40" md5="C2FFCB6859769E0A8095E72A2CC02804" sha1="7DF373E0B780B758A6DE8BCB143543DFE96AD24B" />
+	</game>
+	<game name="Planetweb Internet Browser V3.0 for Dreamcast (2001)(Planetweb)(US)[cr DCCM]" type="">
+		<description>Planetweb Internet Browser V3.0 for Dreamcast (2001)(Planetweb)(US)[cr DCCM]</description>
+		<rom name="Planetweb Internet Browser V3.0 for Dreamcast (2001)(Planetweb)(US)[cr DCCM].cdi" size="814043111" crc="08E204E5" md5="6672E3244D78A2B38EB223F7605ED0D5" sha1="043D21E975BE94E4817DCD2D0F5182067B2E14F1" />
+	</game>
+	<game name="XDP Dreams Limited Edition (2004)(Excalibur007)" type="">
+		<description>XDP Dreams Limited Edition (2004)(Excalibur007)</description>
+		<rom name="XDP Dreams Limited Edition (2004)(Excalibur007).cdi" size="812473795" crc="18C4E650" md5="BE1BE75F1E0CD39B93507EE98676D17A" sha1="4C002A9B20CB79FB1F026BB56FB80E16C3F1B2AA" />
+	</game>
+	<game name="XDP Dreams Limited Edition R4 (2008)(Excalibur007)" type="">
+		<description>XDP Dreams Limited Edition R4 (2008)(Excalibur007)</description>
+		<rom name="XDP Dreams Limited Edition R4 (2008)(Excalibur007).cdi" size="810756441" crc="6265538A" md5="CFB9E5089CBF15557C0B82C7D477E70F" sha1="132C79C0829149D694615628AC822135F97A5064" />
+	</game>
+</datafile>

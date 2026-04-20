@@ -1,0 +1,79 @@
+REM Ripping Tool: trurip
+
+FILE "Shin Onryou Senki (1995)(Fujicom)(JP).img" BINARY
+  TRACK 01 AUDIO
+    INDEX 01 00:00:00
+  TRACK 02 MODE1/2352
+    INDEX 00 00:44:66
+    INDEX 01 00:47:65
+  TRACK 03 AUDIO
+    INDEX 00 14:58:19
+    INDEX 01 15:00:19
+  TRACK 04 AUDIO
+    INDEX 01 16:46:53
+
+REM DISC HASHES
+REM CRC32 : ecb65238
+REM MD5   : 3ef5fe24bbccf341aa36681555dd5729
+REM SHA1  : 2a16724443a3f1f54a8c04a70d4daecca1b3402c
+
+REM Gap Append Method: Prev [crc32]
+REM Trk 01: a465bf63
+REM Trk 02: 68786e20
+REM Trk 03: 306e513e
+REM Trk 04: c83f7ff0
+
+REM Gap Append Method: Prev [md5]
+REM Trk 01: a8687361a055630465fad260c700dfe9
+REM Trk 02: ead1e80431af5742050828bf9a576e89
+REM Trk 03: 1b4eaea1981e67161fec5c85e2cad4e0
+REM Trk 04: 5c55710f710a9a0ef1e976b1237bd59a
+
+REM Gap Append Method: Prev [sha1]
+REM Trk 01: 8df6b59cc7770b1a21e275057333288a62353b24
+REM Trk 02: 978ae4def4949ee7fa3d94ed4a9eae531ad0ae27
+REM Trk 03: fd470f0dff4afc9d5aa82624dbb5591b315a5dcc
+REM Trk 04: 9c9fa67aeccda432cf08670e4ae77cef7edfa261
+
+REM Gap Append Method: None [crc32]
+REM Trk 01: 22144d0f
+REM Trk 02: 6c95b815
+REM Trk 03: 306e513e
+REM Trk 04: c83f7ff0
+REM Gap 02: eacd1466
+REM Gap 03: 7abe247f
+
+REM Gap Append Method: None [md5]
+REM Trk 01: ad1067d0bcc2ffeea540d3b985c51188
+REM Trk 02: c8b19614ae584d5b6ab1a8262ae59063
+REM Trk 03: 1b4eaea1981e67161fec5c85e2cad4e0
+REM Trk 04: 5c55710f710a9a0ef1e976b1237bd59a
+REM Gap 02: 878bf0e0b9f1b8bc0330bfe39eb227c9
+REM Gap 03: 9df204fbc98bb8965081cb30a89715fc
+
+REM Gap Append Method: None [sha1]
+REM Trk 01: 3b472f5e80bbf8259e09f8e4f547567bddb02490
+REM Trk 02: f7798232ed97827efa626022ca8eca7e56c26165
+REM Trk 03: fd470f0dff4afc9d5aa82624dbb5591b315a5dcc
+REM Trk 04: 9c9fa67aeccda432cf08670e4ae77cef7edfa261
+REM Gap 02: fb2028173c340a0b16ab201d9314c7ae2a171ffe
+REM Gap 03: cbe29e0bd725ef1194f8c47619dd42078e841de2
+
+REM Gap Append Method: Next [crc32]
+REM Trk 01: 22144d0f
+REM Trk 02: 7067f97f
+REM Trk 03: d0d37c22
+REM Trk 04: c83f7ff0
+
+REM Gap Append Method: Next [md5]
+REM Trk 01: ad1067d0bcc2ffeea540d3b985c51188
+REM Trk 02: 10ddb61ca49f89cb5d2539d604e41018
+REM Trk 03: 50fc1076d452868fc8c35e64e7e681e6
+REM Trk 04: 5c55710f710a9a0ef1e976b1237bd59a
+
+REM Gap Append Method: Next [sha1]
+REM Trk 01: 3b472f5e80bbf8259e09f8e4f547567bddb02490
+REM Trk 02: d09a7ca58648c212e16a4db0868d2cf1a203fbb8
+REM Trk 03: e2d80e0ed190f1dae85078264b2bed3a8243f637
+REM Trk 04: 9c9fa67aeccda432cf08670e4ae77cef7edfa261
+

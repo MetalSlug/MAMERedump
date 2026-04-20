@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga CDTV - Applications - [IMG]</name>
+		<description>MAME Redump - Commodore Amiga CDTV - Applications - [IMG] (TOSEC-v2018-03-24)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Network (1994)(Weird Science)(Amiga-CD32-CDTV)[CDD3713 Weird Science NO2]">
+		<description>Network (1994)(Weird Science)(Amiga-CD32-CDTV)[CDD3713 Weird Science NO2]</description>
+		<disk name="Network (1994)(Weird Science)(Amiga-CD32-CDTV)[CDD3713 Weird Science NO2].chd" sha1="e13d53f3dd88e6a6e3d92226c5dbcdc5aa95b3ea" />
+	</machine>
+</datafile>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga - CD - Games - [BIN]</name>
+		<description>Commodore Amiga - CD - Games - [BIN]</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Earth 2140 (2001)(Epic)[PPC][RTG]" type="cd" sha1="d880e85baaf642ca9b5884fac025ba08bb3344ea" size="390080049" crc="57d23252" fullsha1="9e8b0184c8c3a83aea26d8209ec6a40a8cff29ab" datasha1="e5301111d1ca981da166a0f7b522fb3b099dc00e" rawdatasha1="d967e475fef14f40e319eb89caa12b8280fa7b1e" rawdatasize="683996880">
+		<category>Games</category>
+		<description>Earth 2140 (2001)(Epic)[PPC][RTG]</description>
+		<rom name="Earth 2140 (2001)(Epic)[PPC][RTG] (Track 01).bin" size="278664960" crc="df9780f7" md5="9e4004c128569b7fb595fe592a186836" sha1="0b94784af6e53ac7a1d3a7a27ab4df26d8b6da1a"/>
+		<rom name="Earth 2140 (2001)(Epic)[PPC][RTG] (Track 02).bin" size="51191280" crc="43d8a058" md5="9de23bebb294ac89fce4e1d36d79a381" sha1="81333f266b441ae2e83f9be0790fc287a513d377" wavesha1="711c96d5a6359d962b11aed27a29e7264d2e01d5"/>
+		<rom name="Earth 2140 (2001)(Epic)[PPC][RTG] (Track 03).bin" size="31098144" crc="f61b6f88" md5="18f7f1653218ad57decaef2f8b350989" sha1="315272e50a8294e02abf567803b7b0dfae4ce508" wavesha1="368d42f703c3c648f51bdeed3338d04f9596fded"/>
+		<rom name="Earth 2140 (2001)(Epic)[PPC][RTG] (Track 04).bin" size="46080384" crc="3c718791" md5="7b877bb91df4b5f40886827479b5a9e6" sha1="934d0366af932d09894e4704c3b1e1e8b46db5e3" wavesha1="d7716fb5f4632e9a5392ad1a13fdbf7e30de4583"/>
+		<rom name="Earth 2140 (2001)(Epic)[PPC][RTG] (Track 05).bin" size="74349072" crc="139d51af" md5="425165f8196b9fd80c3feb98af94cd8e" sha1="22253edaf9de93cb7e552bd0121205e9f6532170" wavesha1="7128ae3b69a72bad84024d3962e6663f35f74b23"/>
+		<rom name="Earth 2140 (2001)(Epic)[PPC][RTG] (Track 06).bin" size="37018128" crc="6b2ea62d" md5="194156aaed93793d8ef3fa6351ab63e7" sha1="80037cd7e072fa073ae82e5053f441277a695821" wavesha1="0747f179710520898a6f4b0c023331dfe69579fa"/>
+		<rom name="Earth 2140 (2001)(Epic)[PPC][RTG] (Track 07).bin" size="52844736" crc="1f6a4b85" md5="a2bcf5a8d67af081e783d2a78eac0a84" sha1="7b1b3ce076c2a7164dff535db84217481329485b" wavesha1="673b06ebec2523bcdf38d203a0c75e04c94e9561"/>
+		<rom name="Earth 2140 (2001)(Epic)[PPC][RTG] (Track 08).bin" size="36559488" crc="9bb22b70" md5="9e4c41588effc69cddf8f58ee23de290" sha1="40d18dfa6b26dcd759e6cd6dc527b30c4402a444" wavesha1="6110810879fa2b1951559c2930aebf2b6f3a27e0"/>
+		<rom name="Earth 2140 (2001)(Epic)[PPC][RTG] (Track 09).bin" size="61010880" crc="5e279525" md5="fabcf22648b8eb634b07c6d0dc25972f" sha1="bf571e51d353782cd98afbce74eff9d35534e437" wavesha1="d8df423cb7df50996b38c8dad84da302a3ab05e4"/>
+		<rom name="Earth 2140 (2001)(Epic)[PPC][RTG] (Track 10).bin" size="15179808" crc="9f097686" md5="c4a1971404b58a0a54c68ce28e97d1b9" sha1="39addb9df2fff719f142c660e22f2a71dfc13213" wavesha1="bc3ce0739aff5b3691ec00e85b92cdec0058d5d5"/>
+	</game>
+	<game name="Wendetta 2175 (1996)(Skills)[AGA-CD32]" type="cd" sha1="76b2af4c16d62138a5fc2ba2874ce56799fbf6da" size="530" crc="81e02ade" fullsha1="4f0d1550b2ed9482e02644d0bf98bcf22e0157ab" datasha1="0000000000000000000000000000000000000000" rawdatasha1="93f006332900d44e7b2ae1af4b599041adf03f4f" rawdatasize="40416768">
+		<category>Games</category>
+		<description>Wendetta 2175 (1996)(Skills)[AGA-CD32]</description>
+		<rom name="Wendetta 2175 (1996)(Skills)[AGA-CD32] (Track 01).bin" size="40416768" crc="5b23f437" md5="ff97bd242c401c4fd270ee1a18599316" sha1="93f006332900d44e7b2ae1af4b599041adf03f4f"/>
+	</game>
+</datafile>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>NEC PC-FX - Applications - [BIN]</name>
+		<description>MAME Redump - NEC PC-FX - Applications - [BIN] (TOSEC-v2025-01-26)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="PCFX Uploader CD-ROM Image v1.0.0 (2022-10-06)(Wendt, Martin)(DE)(GPLv3)">
+		<description>PCFX Uploader CD-ROM Image v1.0.0 (2022-10-06)(Wendt, Martin)(DE)(GPLv3)</description>
+		<disk name="PCFX Uploader CD-ROM Image v1.0.0 (2022-10-06)(Wendt, Martin)(DE)(GPLv3).chd" sha1="23cf165273a6db2041a27ce2314e73824ee2f64f" />
+	</machine>
+	<machine name="PCFX Uploader Client CD Image (2022-11-29)(Wendt, Martin)(DE)(GPLv3)">
+		<description>PCFX Uploader Client CD Image (2022-11-29)(Wendt, Martin)(DE)(GPLv3)</description>
+		<disk name="PCFX Uploader Client CD Image (2022-11-29)(Wendt, Martin)(DE)(GPLv3).chd" sha1="3142ea9b65789b6d41419d3e103229bfd535ec90" />
+	</machine>
+	<machine name="PCFX Uploader Sender Test (2022-10-10)(Wendt, Martin)(DE)(GPLv3)">
+		<description>PCFX Uploader Sender Test (2022-10-10)(Wendt, Martin)(DE)(GPLv3)</description>
+		<disk name="PCFX Uploader Sender Test (2022-10-10)(Wendt, Martin)(DE)(GPLv3).chd" sha1="8740297258958ce1e3c7618cd4899782873a4712" />
+	</machine>
+</datafile>

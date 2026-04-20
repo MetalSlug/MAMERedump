@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - CD - Multimedia - [ISO]</name>
+		<description>MAME Redump - IBM PC Compatibles - CD - Multimedia - [ISO] (TOSEC-v2025-01-26)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Bioforge Playguide (1995)(Origin Systems)">
+		<description>Bioforge Playguide (1995)(Origin Systems)</description>
+		<year>1995</year>
+		<manufacturer>Origin</manufacturer>
+		<disk name="Bioforge Playguide (1995)(Origin Systems).chd" sha1="2bc3734682a461aae4e07d8a419fde407cefd4c1" />
+	</machine>
+</datafile>

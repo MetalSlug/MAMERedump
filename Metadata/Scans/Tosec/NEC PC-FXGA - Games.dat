@@ -1,0 +1,28 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>NEC PC-FXGA - Games</name>
+		<description>NEC PC-FXGA - Games</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Amachua Teikyou (1995)(Project Team DOGA)(JP)[79753600][PC-9800 bundled version]" type="cd" sha1="5d57dd3a9e682528755c21a739b6dd35105843aa" size="427824540" crc="4783b78b" fullsha1="ce2f6509a2bebcd36a1063ca6233d3d6150b7419" datasha1="c6561a6037240e2abe0087bc76c1094af01da991" rawdatasha1="4857e4ec665f4af2fe56da9e2441223b1804208f" rawdatasize="563764992">
+		<category>Games</category>
+		<description>Amachua Teikyou (1995)(Project Team DOGA)(JP)[79753600][PC-9800 bundled version]</description>
+		<rom name="Amachua Teikyou (1995)(Project Team DOGA)(JP)[79753600][PC-9800 bundled version] (Track 01).bin" size="563764992" crc="bf8e82f3" md5="da53e5a17fc963bf40beec2e5112d208" sha1="4857e4ec665f4af2fe56da9e2441223b1804208f"/>
+	</game>
+	<game name="Angelique Bijutsukan (1995)(KOEI)(JP)[KN10-93101][PC-9800 bundled version]" type="cd" sha1="b23d80a206b7b2a148705c182d489d5ddcac232c" size="66868135" crc="b8f5bb07" fullsha1="cff6f03b1031c12f4b4218feca9edb83403ba9b3" datasha1="4197b4f8c820c6dd014c0e6aff52d9c3c8dbed90" rawdatasha1="8186a7a921bc158171a0c0bd82d5455a51b22a9f" rawdatasize="230044416">
+		<category>Games</category>
+		<description>Angelique Bijutsukan (1995)(KOEI)(JP)[KN10-93101][PC-9800 bundled version]</description>
+		<rom name="Angelique Bijutsukan (1995)(KOEI)(JP)[KN10-93101][PC-9800 bundled version] (Track 01).bin" size="230044416" crc="2c51bdb7" md5="5dd72aed688198c23facd673b61d0042" sha1="8186a7a921bc158171a0c0bd82d5455a51b22a9f"/>
+	</game>
+	<game name="Same Game FX (1995)(Hudson Soft)(JP)(pre-release)[79753599][PC-9800 bundled version]" type="cd" sha1="b765f45b5eaa5af754ed6c2b0a3fa7939db4c26f" size="2796512" crc="9787b6f8" fullsha1="9f8f2f213e6a43904d998b59b8e07795d5a34fd7" datasha1="c1815805a6c22250e040ed0653c0a07ee680e02a" rawdatasha1="cc4551e53cf5de522fc5278f087f232051e07139" rawdatasize="9076368">
+		<category>Games</category>
+		<description>Same Game FX (1995)(Hudson Soft)(JP)(pre-release)[79753599][PC-9800 bundled version]</description>
+		<rom name="Same Game FX (1995)(Hudson Soft)(JP)(pre-release)[79753599][PC-9800 bundled version] (Track 01).bin" size="7161840" crc="cd682ee3" md5="96f09ede17fb75bc2ab67e1fc3769a43" sha1="2a57d05c41a0f085eb3f6849faf12537d5f1a322" wavesha1="4bde3bc682b858d8ae78f4bb355d11bf34e556a5"/>
+		<rom name="Same Game FX (1995)(Hudson Soft)(JP)(pre-release)[79753599][PC-9800 bundled version] (Track 02).bin" size="1914528" crc="d6ef38d2" md5="a6dc3fa711d8e4cae62e889dd690c7b7" sha1="40fd38e1a1175a78b4d3c9bb5cae03855cddb953"/>
+	</game>
+</datafile>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sony PlayStation Portable - Applications - [ISO]</name>
+		<description>MAME Redump - Sony PlayStation Portable - Applications - [ISO] (TOSEC-v2022-12-21)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Go!Explore (2008)(Sony)(EU)[UCET-00860]">
+		<description>Go!Explore (2008)(Sony)(EU)[UCET-00860]</description>
+		<disk name="Go!Explore (2008)(Sony)(EU)[UCET-00860].chd" sha1="51ddd9e330dfc0bb62c3c262fb77ff56f696d261" />
+	</machine>
+	<machine name="Go!Explore (2008)(Sony)(M12)[UCET-00860]">
+		<description>Go!Explore (2008)(Sony)(M12)[UCET-00860]</description>
+		<disk name="Go!Explore (2008)(Sony)(M12)[UCET-00860].chd" sha1="e8d41bb0ebe010bd710a748e6b8a95cc9edb3dd1" />
+	</machine>
+	<machine name="Network Utility Disc Ver 1.00 (2005)(Sony)(KR)[UCKM-84001]">
+		<description>Network Utility Disc Ver 1.00 (2005)(Sony)(KR)[UCKM-84001]</description>
+		<disk name="Network Utility Disc Ver 1.00 (2005)(Sony)(KR)[UCKM-84001].chd" sha1="40ab6101553d1973ea5750653d1c4c72151be182" />
+	</machine>
+	<machine name="Personal Utility Disc Ver.1.0 (2006)(Sony)(KR)[UCKM-84003]">
+		<description>Personal Utility Disc Ver.1.0 (2006)(Sony)(KR)[UCKM-84003]</description>
+		<disk name="Personal Utility Disc Ver.1.0 (2006)(Sony)(KR)[UCKM-84003].chd" sha1="a6e548532f2fd46129cdd7f41844dda9de08028e" />
+	</machine>
+</datafile>

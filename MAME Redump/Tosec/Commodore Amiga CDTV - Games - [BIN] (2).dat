@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga CDTV - Games - [BIN]</name>
+		<description>MAME Redump - Commodore Amiga CDTV - Games - [BIN] (TOSEC-v2018-03-24)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Defender of the Crown II (1993)(Commodore)(CD32-CDTV)">
+		<description>Defender of the Crown II (1993)(Commodore)(CD32-CDTV)</description>
+		<disk name="Defender of the Crown II (1993)(Commodore)(CD32-CDTV).chd" sha1="7eeca6ba438d8c36179018b41fff32f32c11d724" />
+	</machine>
+	<machine name="Xenon 2 - Megablast (1992)(Mirrorsoft)(M5)[CDTV-CD32]">
+		<description>Xenon 2 - Megablast (1992)(Mirrorsoft)(M5)[CDTV-CD32]</description>
+		<disk name="Xenon 2 - Megablast (1992)(Mirrorsoft)(M5)[CDTV-CD32].chd" sha1="5e9e6ac8ecc4c280c67bee7bc9726617c0b7da2c" />
+	</machine>
+</datafile>

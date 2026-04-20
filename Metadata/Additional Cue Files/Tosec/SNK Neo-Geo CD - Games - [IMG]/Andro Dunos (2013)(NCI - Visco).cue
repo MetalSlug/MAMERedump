@@ -1,0 +1,3 @@
+FILE "Andro Dunos (2013)(NCI - Visco).img" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Atari Jaguar CD - Homebrew - Games - [BIN]</name>
+		<description>Atari Jaguar CD - Homebrew - Games - [BIN]</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Beebris (2009)(Bad Brew Crew - Reboot)" type="cd" sha1="35a347aa23c573462b10a3d99e12300666518622" size="1929450" crc="5f28ed46" fullsha1="20e1f051d3403b56b5b23ab84908330b8e87dc98" datasha1="d6d344ed33fc034da7ed031fdb0ba085562dd1d3" rawdatasha1="1a2e5964e21793281747717a394d6700fbb6ea23" rawdatasize="9106944">
+		<category>Games</category>
+		<description>Beebris (2009)(Bad Brew Crew - Reboot)</description>
+		<rom name="Beebris (2009)(Bad Brew Crew - Reboot) (Track 01).bin" size="2537808" crc="1a92fe80" md5="8f37ab914e4dbb87a0fd12348bf802e1" sha1="591ca18619fa800a60ad762851773a357d4b87e0" wavesha1="71c38c019d1effda1fe1c130f0c0e014bff61335"/>
+		<rom name="Beebris (2009)(Bad Brew Crew - Reboot) (Track 02).bin" size="1408848" crc="596a11e8" md5="a7bd7706b229815bf49652339c119b07" sha1="06b83a8196cf8d20082e501732814df80377224d" wavesha1="84c22eb334ee47a28a3ec6d68f49b93dec378c06"/>
+		<rom name="Beebris (2009)(Bad Brew Crew - Reboot) (Track 03).bin" size="2053296" crc="770192d6" md5="436b2c94ed745b32ef0589e56abe372a" sha1="4ce9212ab7919be24c931cc4293c0dad90f899af" wavesha1="c0ef86e955e168b387d4e4b81ab4a2e654aafc27"/>
+		<rom name="Beebris (2009)(Bad Brew Crew - Reboot) (Track 04).bin" size="2053296" crc="578aff93" md5="18badcca4c2e671522fdd38a2e31d5ef" sha1="cd037b67d3fbae4f51c73b1e4e33e874c28813e7" wavesha1="c8e8149b53d28e128d28a41e900f3190a68d2fc9"/>
+		<rom name="Beebris (2009)(Bad Brew Crew - Reboot) (Track 05).bin" size="1053696" crc="772fcf23" md5="79eaadfa3151a85a4e615a993707ee2b" sha1="7daf96a72b3a3b7ca4262ab21bba561d30e2e494" wavesha1="67786d1047a67d8f8f9f96ccf445bcf9116a9e46"/>
+	</game>
+</datafile>

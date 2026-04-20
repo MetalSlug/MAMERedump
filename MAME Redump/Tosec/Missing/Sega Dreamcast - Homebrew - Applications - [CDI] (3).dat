@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Homebrew - Applications - [CDI]</name>
+		<description>MAME Redump - Sega Dreamcast - Homebrew - Applications - [CDI] (TOSEC-v2023-08-29)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="240p Test Suite v2.0 (2022-07-19)(Urbina, Artemio)(GPLv2)" type="">
+		<description>240p Test Suite v2.0 (2022-07-19)(Urbina, Artemio)(GPLv2)</description>
+		<rom name="240p Test Suite v2.0 (2022-07-19)(Urbina, Artemio)(GPLv2).cdi" size="17415792" crc="7B8387ED" md5="801A0929F378B0293645CB14F981B180" sha1="7B1D5EC037D6F89CDBE12214E71641DCC8CEFDF4" />
+	</game>
+	<game name="RetroDream v1.1.2 (2020-12-30)(cpasjuste)(FR)(en)" type="">
+		<description>RetroDream v1.1.2 (2020-12-30)(cpasjuste)(FR)(en)</description>
+		<rom name="RetroDream v1.1.2 (2020-12-30)(cpasjuste)(FR)(en).cdi" size="8342547" crc="9CED6874" md5="9C9A68C53E9F542AD381D6E9FDEF0161" sha1="ACDC9D2E1E73A9D2ACC4C69264AA503522ED4664" />
+	</game>
+	<game name="RetroDream v3.0.0 (2021-11-15)(cpasjuste)(FR)(en)" type="">
+		<description>RetroDream v3.0.0 (2021-11-15)(cpasjuste)(FR)(en)</description>
+		<rom name="RetroDream v3.0.0 (2021-11-15)(cpasjuste)(FR)(en).cdi" size="48479699" crc="219AC6CB" md5="4A984D8B06882B364C63EF3F56B2DC66" sha1="002B873F495F687F64ED9720E516CA4B5EF85DD7" />
+	</game>
+</datafile>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega NAOMI - Applications</name>
+		<description>Sega NAOMI - Applications</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="DIMM Firm Update Version C v2.000 (2002)(Sega)(JP)(en)[!][2.17 Firmware - GDS-0023C]" type="gd" sha1="177c9c7af6c77c88e6209b6896d728bf14ff1d3d" size="12607149" crc="f58f6fd1" fullsha1="a2885169cb5bedbf2352e9f34947e40a8ec93552" datasha1="3cb0376c23b13a75c49d1b54bed12872cdb4391b" rawdatasha1="3a9a2ae30bb76980996c5210607f6590a232f545" rawdatasize="1191836016">
+		<category>Games</category>
+		<description>DIMM Firm Update Version C v2.000 (2002)(Sega)(JP)(en)[!][2.17 Firmware - GDS-0023C]</description>
+		<rom name="DIMM Firm Update Version C v2.000 (2002)(Sega)(JP)(en)[!][2.17 Firmware - GDS-0023C] (Track 01).bin" size="1058400" crc="4a3b3c80" md5="7c718941982c1a413104a6dc461ded21" sha1="4a2810760b08387f35a0246b65669cf540a4a1f7"/>
+		<rom name="DIMM Firm Update Version C v2.000 (2002)(Sega)(JP)(en)[!][2.17 Firmware - GDS-0023C] (Track 02).bin" size="5016816" crc="96402c8d" md5="190a1969895fc5cd2546e235c2e0aa7a" sha1="fbc4fe9504755eabcd7d75ca153b95c8edec3116" wavesha1="cdbd49f28b54aa2ab0911ba09883ae4e2bd595ab"/>
+		<rom name="DIMM Firm Update Version C v2.000 (2002)(Sega)(JP)(en)[!][2.17 Firmware - GDS-0023C] (Track 03).bin" size="1185760800" crc="0ef71676" md5="0c587e062f54679609265afefaeeedde" sha1="d9b4dc72e2dc71a5ca8c1a7f36f1ff97ef4badeb"/>
+	</game>
+	<game name="DIMM Firm Update Version E v4.000 (2004)(Sega)(JP)(en)[!][3.17 Firmware - GDS-0023E]" type="gd" sha1="f83d9d70cd7d658714130bfea7f2c1dd44ecdd5b" size="11705863" crc="2469acf0" fullsha1="ec5d6dea6ca7b0e461f4d4571ece40cb755b9249" datasha1="e25c08dca06bb990fb0e2855ffd8363367d534da" rawdatasha1="1d269ff3d42e3d38e57d90978895c9230b99cfc9" rawdatasize="1189999104">
+		<category>Games</category>
+		<description>DIMM Firm Update Version E v4.000 (2004)(Sega)(JP)(en)[!][3.17 Firmware - GDS-0023E]</description>
+		<rom name="DIMM Firm Update Version E v4.000 (2004)(Sega)(JP)(en)[!][3.17 Firmware - GDS-0023E] (Track 01).bin" size="1058400" crc="1239a201" md5="51adf16c6e695a5fb4fde98a96fa6732" sha1="42acbefa43d2d0cf617d4bd39e5afd6b708a3f94"/>
+		<rom name="DIMM Firm Update Version E v4.000 (2004)(Sega)(JP)(en)[!][3.17 Firmware - GDS-0023E] (Track 02).bin" size="3179904" crc="a57da945" md5="7090645592b55babe4b2f159cae1d27c" sha1="e86ddc83d771b3ec9e044b3429d25c93d43f047c" wavesha1="4558ad9245a087bcd5daf20261257a6e915309d9"/>
+		<rom name="DIMM Firm Update Version E v4.000 (2004)(Sega)(JP)(en)[!][3.17 Firmware - GDS-0023E] (Track 03).bin" size="1185760800" crc="886e154c" md5="7a33e7c8aa242e90569fe9d16fd62b6f" sha1="5b993ca3693654cf2ba1782787ff1154e02e4179"/>
+	</game>
+</datafile>

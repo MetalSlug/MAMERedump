@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sony PlayStation - Samplers - [BIN]</name>
+		<description>MAME Redump - Sony PlayStation - Samplers - [BIN] (TOSEC-v2025-01-26)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Rockman X6 (2001-09-28)(Capcom)(JP)(beta)">
+		<description>Rockman X6 (2001-09-28)(Capcom)(JP)(beta)</description>
+		<year>2001</year>
+		<manufacturer>Capcom</manufacturer>
+		<disk name="Rockman X6 (2001-09-28)(Capcom)(JP)(beta).chd" sha1="023cb6095c47d1f39140b740920b23cef24f7744" />
+	</machine>
+	<machine name="Silent Hill (1999-01-22)(Capcom)(US)(beta)">
+		<description>Silent Hill (1999-01-22)(Capcom)(US)(beta)</description>
+		<year>1999</year>
+		<manufacturer>Konami</manufacturer>
+		<disk name="Silent Hill (1999-01-22)(Capcom)(US)(beta).chd" sha1="cede4831337b2ec5cf1457a410ba8dc25c392454" />
+	</machine>
+	<machine name="Spirit Master (1997)(Acclaim)(proto)">
+		<description>Spirit Master (1997)(Acclaim)(proto)</description>
+		<disk name="Spirit Master (1997)(Acclaim)(proto).chd" sha1="aa6a80fb5d7d6341516530416ce77b4094145f05" />
+	</machine>
+	<machine name="StarCon (1998)(Accolade)(proto)">
+		<description>StarCon (1998)(Accolade)(proto)</description>
+		<year>1998</year>
+		<manufacturer>Accolade</manufacturer>
+		<disk name="StarCon (1998)(Accolade)(proto).chd" sha1="800288bea4d525a49b162b65fe9f25bbc93c0179" />
+	</machine>
+	<machine name="Thrill Kill (1998-10-13)(Virgin)(proto)">
+		<description>Thrill Kill (1998-10-13)(Virgin)(proto)</description>
+		<year>1998</year>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<disk name="Thrill Kill (1998-10-13)(Virgin)(proto).chd" sha1="5920ba43da7d514a35b29fe10d54783a3529068c" />
+	</machine>
+</datafile>

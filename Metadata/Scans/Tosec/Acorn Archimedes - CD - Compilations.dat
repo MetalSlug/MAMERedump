@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Acorn Archimedes - CD - Compilations</name>
+		<description>Acorn Archimedes - CD - Compilations</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="RISC DISC, The - Volume One (1994)(Uniqueway)" type="cd" sha1="c382e5351783c87340677adf2e19e5625226a7fa" size="342223332" crc="8139c5c9" fullsha1="c1a12d2de5dfbade4e55e04c39d531321bd83e0d" datasha1="6d80e6b315959a0f2410a538875799ea934597e2" rawdatasha1="0d823e451dcadc1e55263bb537f2ed622c3db70b" rawdatasize="534489088">
+		<category>Games</category>
+		<description>RISC DISC, The - Volume One (1994)(Uniqueway)</description>
+		<rom name="RISC DISC, The - Volume One (1994)(Uniqueway) (Track 01).bin" size="534489088" crc="5861438a" md5="6d8c1d352db51f4c4c0903a89c4a9b35" sha1="0d823e451dcadc1e55263bb537f2ed622c3db70b"/>
+	</game>
+	<game name="RISC DISC, The - Volume Three (1996)(Uniqueway)" type="cd" sha1="19b649fd3d1c9b328337082d3e16b0f6acb79f11" size="443915213" crc="e51977b3" fullsha1="fff6c1eb0b3d252e2f8afea29100a53e814ab722" datasha1="3bf6f0cb5c3eeaecff0612d8396538c1b564b421" rawdatasha1="39dc6f55dc25e43f18216db2025cefdee998a07f" rawdatasize="649183232">
+		<category>Games</category>
+		<description>RISC DISC, The - Volume Three (1996)(Uniqueway)</description>
+		<rom name="RISC DISC, The - Volume Three (1996)(Uniqueway) (Track 01).bin" size="649183232" crc="bef0dc5e" md5="4fa8ff73621beb09ef709f50f317f036" sha1="39dc6f55dc25e43f18216db2025cefdee998a07f"/>
+	</game>
+	<game name="RISC DISC, The - Volume Two (1995)(Uniqueway)" type="cd" sha1="f4eacf29c24ac91809003606748e82bd736c1eef" size="439310874" crc="1f5d5811" fullsha1="3f1c701f2e4f6f8b799d79ea9b22d686df98e949" datasha1="67dc56ae3e6e0512c2918e5b035d633c6b3e58ce" rawdatasha1="fdc3f70a4d13cec27236af87e8a96333d9a041ea" rawdatasize="637728768">
+		<category>Games</category>
+		<description>RISC DISC, The - Volume Two (1995)(Uniqueway)</description>
+		<rom name="RISC DISC, The - Volume Two (1995)(Uniqueway) (Track 01).bin" size="637728768" crc="bb55cafd" md5="288945224b025454d600ab7468c7ad01" sha1="fdc3f70a4d13cec27236af87e8a96333d9a041ea"/>
+	</game>
+</datafile>

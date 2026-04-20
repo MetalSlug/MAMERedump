@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Acorn Archimedes - CD - Applications</name>
+		<description>Acorn Archimedes - CD - Applications</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="StrongARM CD-ROM (1996)(Acorn Risc Technologies)" type="cd" sha1="1ba92128bdfd8b294e85c31b17a968e97f40a8d7" size="382072255" crc="b16e9e43" fullsha1="6929df962860a3ce79fa57ac3ea4234887071846" datasha1="4592a477c6e9daf20f5c087f9c074bd4d7df17e1" rawdatasha1="02c2ed637b56abd867024405653a225fa0394c38" rawdatasize="537442304">
+		<category>Games</category>
+		<description>StrongARM CD-ROM (1996)(Acorn Risc Technologies)</description>
+		<rom name="StrongARM CD-ROM (1996)(Acorn Risc Technologies) (Track 01).bin" size="537442304" crc="c2aa53ec" md5="c58500f590fff1c34a83cff326f727dd" sha1="02c2ed637b56abd867024405653a225fa0394c38"/>
+	</game>
+</datafile>

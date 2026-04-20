@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sony PlayStation Portable - Homebrew - Games - [PBP]</name>
+		<description>MAME Redump - Sony PlayStation Portable - Homebrew - Games - [PBP] (TOSEC-v2025-02-27)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Dark Souls (2021-12-05)(Seistethic)" type="">
+		<description>Dark Souls (2021-12-05)(Seistethic)</description>
+		<rom name="Dark Souls (2021-12-05)(Seistethic).pbp" size="2191372" crc="4C777907" md5="637C0736C888EF290ECB83A60F413131" sha1="64FCA3EC70272C4CC762557A2909A21330DF99DD" />
+	</game>
+	<game name="Dark Souls 2 (2021-11-29)(Seistethic)" type="">
+		<description>Dark Souls 2 (2021-11-29)(Seistethic)</description>
+		<rom name="Dark Souls 2 (2021-11-29)(Seistethic).pbp" size="1916364" crc="4884D1D6" md5="C5CFF28413539D0DD12392EA82EE9CFB" sha1="279B1F4E48A0D02530082B3A60A086264A6A4187" />
+	</game>
+	<game name="Demon's Souls (2021-11-05)(Seistethic)" type="">
+		<description>Demon's Souls (2021-11-05)(Seistethic)</description>
+		<rom name="Demon's Souls (2021-11-05)(Seistethic).pbp" size="1925484" crc="49D68703" md5="5647642858F43EB1B2C87B429C1812CA" sha1="12BFAFF28E672CBD48F82E7FB088D7522AB33E47" />
+	</game>
+	<game name="Guardians of Sunshine (2021-10-09)(Seistethic)" type="">
+		<description>Guardians of Sunshine (2021-10-09)(Seistethic)</description>
+		<rom name="Guardians of Sunshine (2021-10-09)(Seistethic).pbp" size="1623452" crc="0F3879F3" md5="646D84626DE8F7937A8A9319F9FE3EDE" sha1="2BC31F85B47FFCC49B8A06849752FC715DFC162E" />
+	</game>
+	<game name="Newton Voyage (2014)(Mihai, Sebastian)[emulator]" type="">
+		<description>Newton Voyage (2014)(Mihai, Sebastian)[emulator]</description>
+		<rom name="Newton Voyage (2014)(Mihai, Sebastian)[emulator].pbp" size="97687" crc="DDE4246E" md5="1F266C322A725303BEE75A71E32B6395" sha1="A27462AE51E66FDD61026A0B26483044C2AA6369" />
+	</game>
+	<game name="OpenLara (2018-05-24)(XProger)(alpha)(BSD2)" type="">
+		<description>OpenLara (2018-05-24)(XProger)(alpha)(BSD2)</description>
+		<rom name="OpenLara (2018-05-24)(XProger)(alpha)(BSD2).pbp" size="980013" crc="551A0434" md5="89F6337C5EB0D43706F9AC39E9D87A97" sha1="E836229AB56C4920355B65B2E5865DABDB598DF3" />
+	</game>
+</datafile>

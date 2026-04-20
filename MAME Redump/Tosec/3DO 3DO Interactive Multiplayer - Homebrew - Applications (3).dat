@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>3DO 3DO Interactive Multiplayer - Homebrew - Applications</name>
+		<description>MAME Redump - 3DO 3DO Interactive Multiplayer - Homebrew - Applications (TOSEC-v2017-09-15)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Chip-8 Emulator (2016)(Gameblabla)[incl. Tetris ROM]">
+		<description>Chip-8 Emulator (2016)(Gameblabla)[incl. Tetris ROM]</description>
+		<disk name="Chip-8 Emulator (2016)(Gameblabla)[incl. Tetris ROM].chd" sha1="f3d0439ac8aabbd872d8b8faa71f2aa087b0eb6c" />
+	</machine>
+	<machine name="Joypad Test v1.0 (2011)(Sdevel)">
+		<description>Joypad Test v1.0 (2011)(Sdevel)</description>
+		<disk name="Joypad Test v1.0 (2011)(Sdevel).chd" sha1="9217efd2b601ebde9b8bc5b633f5750b0ebc01da" />
+	</machine>
+	<machine name="LameNES Emulator (2016)(Gameblabla - Saffron)[incl. Hello World ROM]">
+		<description>LameNES Emulator (2016)(Gameblabla - Saffron)[incl. Hello World ROM]</description>
+		<disk name="LameNES Emulator (2016)(Gameblabla - Saffron)[incl. Hello World ROM].chd" sha1="96e4fca325ca5e8f8b3ed7832ca7dfccbb7c461e" />
+	</machine>
+</datafile>

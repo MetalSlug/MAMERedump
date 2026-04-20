@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega NAOMI - Applications</name>
+		<description>MAME Redump - Sega NAOMI - Applications (TOSEC-v2022-12-20)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="DIMM Firm Update Version C v2.000 (2002)(Sega)(JP)(en)[!][2.17 Firmware - GDS-0023C]">
+		<description>DIMM Firm Update Version C v2.000 (2002)(Sega)(JP)(en)[!][2.17 Firmware - GDS-0023C]</description>
+		<disk name="DIMM Firm Update Version C v2.000 (2002)(Sega)(JP)(en)[!][2.17 Firmware - GDS-0023C].chd" sha1="a2885169cb5bedbf2352e9f34947e40a8ec93552" />
+	</machine>
+	<machine name="DIMM Firm Update Version E v4.000 (2004)(Sega)(JP)(en)[!][3.17 Firmware - GDS-0023E]">
+		<description>DIMM Firm Update Version E v4.000 (2004)(Sega)(JP)(en)[!][3.17 Firmware - GDS-0023E]</description>
+		<disk name="DIMM Firm Update Version E v4.000 (2004)(Sega)(JP)(en)[!][3.17 Firmware - GDS-0023E].chd" sha1="ec5d6dea6ca7b0e461f4d4571ece40cb755b9249" />
+	</machine>
+</datafile>

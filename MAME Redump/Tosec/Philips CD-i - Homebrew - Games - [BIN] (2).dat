@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Philips CD-i - Homebrew - Games - [BIN]</name>
+		<description>MAME Redump - Philips CD-i - Homebrew - Games - [BIN] (TOSEC-v2012-07-22)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Connaone (demo) (2007-11-04)(RasterSoft)">
+		<description>Connaone (demo) (2007-11-04)(RasterSoft)</description>
+		<disk name="Connaone (demo) (2007-11-04)(RasterSoft).chd" sha1="1f018719724799a90b9705a66ce09e61c1069c04" />
+	</machine>
+	<machine name="Frog Feast (demo) (2005-04-11)(RasterSoft)">
+		<description>Frog Feast (demo) (2005-04-11)(RasterSoft)</description>
+		<disk name="Frog Feast (demo) (2005-04-11)(RasterSoft).chd" sha1="6659809a41a322686d2534d58c64df09256eece8" />
+	</machine>
+</datafile>

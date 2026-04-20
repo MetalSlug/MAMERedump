@@ -1,0 +1,3 @@
+FILE "Space Ace (1995)(Readysoft)(US)[35008].img" BINARY
+  TRACK 01 AUDIO
+    INDEX 01 00:00:00

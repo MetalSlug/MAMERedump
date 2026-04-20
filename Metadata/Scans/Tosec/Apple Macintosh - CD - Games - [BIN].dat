@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Apple Macintosh - CD - Games - [BIN]</name>
+		<description>Apple Macintosh - CD - Games - [BIN]</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Doom II - Master Levels for the Mac (1996)(id Software)" type="cd" sha1="e7352e6e51f491794ea3b4acccc823da911b1dbf" size="135107104" crc="3dbf0af3" fullsha1="369cc64b0be86abe002bd2769aad51c20bbb0227" datasha1="5c13e8c32574650bc2cfa0385d5428bf568daeab" rawdatasha1="cc099187b6428a4d25ca5dd335e3274fac3f6d46" rawdatasize="472582656">
+		<category>Games</category>
+		<description>Doom II - Master Levels for the Mac (1996)(id Software)</description>
+		<rom name="Doom II - Master Levels for the Mac (1996)(id Software) (Track 01).bin" size="472582656" crc="16805f1e" md5="4c1181cf9a540381265b9bf4a979eb63" sha1="cc099187b6428a4d25ca5dd335e3274fac3f6d46"/>
+	</game>
+	<game name="Worms (1995)(Ocean)(M4)" type="cd" sha1="1b8652269e5fb555eebf1472b9ac510387ab26ad" size="291266070" crc="bc4e0f42" fullsha1="9828e9c4d5efb945f95c94e1db66aef20652dc33" datasha1="a54d99044d9354b53e02db863a179ab882cb06bb" rawdatasha1="5d938305871af1371259a8f5a7561fac216ec809" rawdatasize="602605920">
+		<category>Games</category>
+		<description>Worms (1995)(Ocean)(M4)</description>
+		<rom name="Worms (1995)(Ocean)(M4) (Track 01).bin" size="125650896" crc="21088d3f" md5="b806f80287a6ddd4602b91e3bb076a12" sha1="514cf56a4e5974bbe769ae4b742fe982ad3fbba2"/>
+		<rom name="Worms (1995)(Ocean)(M4) (Track 02).bin" size="60726288" crc="0e4aedbe" md5="8a0592894d24e40346955461c1e99973" sha1="618430e9e4079937fe04882e08e5c520e995e391" wavesha1="38af4f23deba141fdd528b63887467a3d055b168"/>
+		<rom name="Worms (1995)(Ocean)(M4) (Track 03).bin" size="73020192" crc="aaf77d53" md5="cf3985f45bff7aa3882f10e710c10866" sha1="d546c54927e0c9ea373421e435171303ffcaf147" wavesha1="358de841bd3f242e914e4912656f5672fb8c5e40"/>
+		<rom name="Worms (1995)(Ocean)(M4) (Track 04).bin" size="69548640" crc="2bf4eab2" md5="6984a0e0e3517b5f9bd6dae2c78454a1" sha1="588e806f60ad91b7ff22ae946747843d31760565" wavesha1="672a560bd4bd345ded4873d795128b203b5fb28e"/>
+		<rom name="Worms (1995)(Ocean)(M4) (Track 05).bin" size="70905744" crc="3f3c1785" md5="2a422c2749f1e1d4ab2bbe039fbe94de" sha1="6611225783e5002fbf4dd354d867a50bb3b3f324" wavesha1="3d7dc7cc5345935f04f099dad0ca3e61c14d937e"/>
+		<rom name="Worms (1995)(Ocean)(M4) (Track 06).bin" size="70164864" crc="cd30dac5" md5="9d24deda5c50699373bb4f6adee89571" sha1="04bf9efba983a63ef041d7ceaa2942ee57d373d0" wavesha1="d301a049c8630070948e69fa122b9d5f180e54f0"/>
+		<rom name="Worms (1995)(Ocean)(M4) (Track 07).bin" size="74005680" crc="db09de6e" md5="1abad59d3788d6aeb9c1862a05484a2f" sha1="ded8be26b92ffbead779ef2cf8670c4e8ad0018c" wavesha1="7b27e025a24bb3ae4d734129f718aa51a3e3d88b"/>
+		<rom name="Worms (1995)(Ocean)(M4) (Track 08).bin" size="55857648" crc="6d37ca6d" md5="5e8dd8b9526127514820a769da626943" sha1="278403b62b95e94cde92ebe34f6537fb85084821" wavesha1="7a05aac628d9bc48e52703b8ae3985142c03a742"/>
+		<rom name="Worms (1995)(Ocean)(M4) (Track 09).bin" size="2725968" crc="b3d748d5" md5="37345a598a3f4e3554276eb08ce164b4" sha1="2e978f787ea0ad5015539955c8319ea36e422eae" wavesha1="755713dfc0581b3d41290aec85e8e06a8feb1c21"/>
+	</game>
+</datafile>

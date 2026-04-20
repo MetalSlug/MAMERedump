@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - CD - Operating Systems - [ISO]</name>
+		<description>MAME Redump - IBM PC Compatibles - CD - Operating Systems - [ISO] (TOSEC-v2023-06-13)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Microsoft Windows 95 (1995-07)(Microsoft)[OEM]" type="">
+		<description>Microsoft Windows 95 (1995-07)(Microsoft)[OEM]</description>
+		<rom name="Microsoft Windows 95 (1995-07)(Microsoft)[OEM].iso" size="632737792" crc="375080FC" md5="C8CB08629CA6641CB18CF61DA1ECF9B1" sha1="23C6B8756840B227AA909C1B412278F4255C0A5A" />
+	</game>
+	<game name="Microsoft Windows 95 (1996-07)(Microsoft)[OEM]" type="">
+		<description>Microsoft Windows 95 (1996-07)(Microsoft)[OEM]</description>
+		<rom name="Microsoft Windows 95 (1996-07)(Microsoft)[OEM].iso" size="626272256" crc="71F45A59" md5="5C3188E4685D19A98DEFC011395AAA6B" sha1="C5684B0EB2428E033DB8E6FE0D2075D0C4631FC9" />
+	</game>
+	<game name="Microsoft Windows 95 (1997-01)(Microsoft)[OEM]" type="">
+		<description>Microsoft Windows 95 (1997-01)(Microsoft)[OEM]</description>
+		<rom name="Microsoft Windows 95 (1997-01)(Microsoft)[OEM].iso" size="627963904" crc="C93010DD" md5="3A6DFBD356F559783EA9513F54CC8DE9" sha1="DDA68D7909C0054DF0D3D47959BC17C80C597156" />
+	</game>
+	<game name="Microsoft Windows 95 Upgrade (1995-08)(Microsoft)" type="">
+		<description>Microsoft Windows 95 Upgrade (1995-08)(Microsoft)</description>
+		<rom name="Microsoft Windows 95 Upgrade (1995-08)(Microsoft).iso" size="632551424" crc="BB5DA1F8" md5="A5955ACC7C11D94FBF6B9117798AE59E" sha1="C4D4511927CD6A090D2CC6DCC1BD45AD18EA296E" />
+	</game>
+	<game name="Microsoft Windows 98 (1998-03)(Microsoft)" type="">
+		<description>Microsoft Windows 98 (1998-03)(Microsoft)</description>
+		<rom name="Microsoft Windows 98 (1998-03)(Microsoft).iso" size="652054528" crc="AF51F7A1" md5="6853A1D1FA52DEE01B37F84FF27D8554" sha1="BD67B2F335404D72F79C20775D295B88939DF45A" />
+	</game>
+	<game name="Microsoft Windows 98 Second Edition (1999-04)(Microsoft)[OEM]" type="">
+		<description>Microsoft Windows 98 Second Edition (1999-04)(Microsoft)[OEM]</description>
+		<rom name="Microsoft Windows 98 Second Edition (1999-04)(Microsoft)[OEM].iso" size="656203776" crc="6F3C4F1D" md5="CEB2663047DB6633EDDB3ED98EB9C545" sha1="3FC56CA830A8094D66F2223F176115FCDEA4F37A" />
+	</game>
+	<game name="Microsoft Windows 98 Upgrade (1998-03)(Microsoft)" type="">
+		<description>Microsoft Windows 98 Upgrade (1998-03)(Microsoft)</description>
+		<rom name="Microsoft Windows 98 Upgrade (1998-03)(Microsoft).iso" size="651919360" crc="AC7FB4B3" md5="0216396C54CAAA0D9FED74835F1EBB2F" sha1="92282E7BF8B40921889E433610D4A11F8EC75B11" />
+	</game>
+	<game name="Microsoft Windows 98 Year 2000 Update (1998-11)(Microsoft)" type="">
+		<description>Microsoft Windows 98 Year 2000 Update (1998-11)(Microsoft)</description>
+		<rom name="Microsoft Windows 98 Year 2000 Update (1998-11)(Microsoft).iso" size="4673536" crc="7A69C834" md5="5B278795F793BB99B58013BBB267C197" sha1="62F63D810123A31A9DABC6D2CE418C5BC1AEBF58" />
+	</game>
+	<game name="Microsoft Windows ME - Millennium Edition (2000-04)(Microsoft)" type="">
+		<description>Microsoft Windows ME - Millennium Edition (2000-04)(Microsoft)</description>
+		<rom name="Microsoft Windows ME - Millennium Edition (2000-04)(Microsoft).iso" size="429142016" crc="23B72FA0" md5="7C979B78707336305EDB423AF59F1468" sha1="68052F61EDA86FC446B810B2884CCDFAAE0E73C4" />
+	</game>
+	<game name="Osborne Front End - Windows 3.1 - MS-DOS 6.2 (1993)(Osborne)[OEM]" type="">
+		<description>Osborne Front End - Windows 3.1 - MS-DOS 6.2 (1993)(Osborne)[OEM]</description>
+		<rom name="Osborne Front End - Windows 3.1 - MS-DOS 6.2 (1993)(Osborne)[OEM].iso" size="82790400" crc="EE79A797" md5="68C361441924BEB68F13E2A0FF2DDEB3" sha1="F80BF16183DF8F97F1BDB68EB41087F834D7E1B6" />
+	</game>
+</datafile>

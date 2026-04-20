@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>cdi</name>
+		<description>MAME Redump - cdi</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="doorswin\cranberries, the - doors and windows (usa)">
+		<category>Games</category>
+		<description>The Cranberries: Doors and Windows (USA)</description>
+		<year>1995</year>
+		<manufacturer>Philips Media / Island Records</manufacturer>
+		<disk name="doorswin\cranberries, the - doors and windows (usa).chd" sha1="7088d9cead7c658279a362e97caa55e0ee9f07a2" />
+	</machine>
+	<machine name="frogfeas\frog feast">
+		<category>Games</category>
+		<description>Frog Feast (demo)</description>
+		<year>2000</year>
+		<manufacturer>Rastersoft</manufacturer>
+		<disk name="frogfeas\frog feast.chd" sha1="8a8a0faaed6f53a170ca558de41cfca0735ba18b" />
+	</machine>
+	<machine name="gose\go - special edition">
+		<category>Games</category>
+		<description>Go - Special Edition</description>
+		<year>????</year>
+		<manufacturer>The Vision Factory</manufacturer>
+		<disk name="gose\go - special edition.chd" sha1="0766fcef3fbed860a59fb034332a4a67c6999f89" />
+	</machine>
+	<machine name="granprix\grand prix special (1994)(xdra)(eu)">
+		<category>Games</category>
+		<description>Grand Prix Special (Europe)</description>
+		<year>1994</year>
+		<manufacturer>Xdra</manufacturer>
+		<disk name="granprix\grand prix special (1994)(xdra)(eu).chd" sha1="57b3363f818c11dde46b6ec8ca52881582571e9c" />
+	</machine>
+	<machine name="pcd1904\pcd1904">
+		<category>Games</category>
+		<description>The Photo CD Book Companion CD-ROM</description>
+		<year>1994</year>
+		<manufacturer>Abacus</manufacturer>
+		<disk name="pcd1904\pcd1904.chd" sha1="19c7875a0329b2a75b3c0c05fa646536473e8c7d" />
+	</machine>
+	<machine name="plunder\plunderball">
+		<category>Games</category>
+		<description>Plunderball</description>
+		<year>????</year>
+		<manufacturer>The Vision Factory</manufacturer>
+		<disk name="plunder\plunderball.chd" sha1="7c0d0b15ab9e8602a4f067691bf1a80d376173d7" />
+	</machine>
+	<machine name="ridlmaze\riddle of the maze (v2.01)(27-01-94)(testing - phase 2)">
+		<category>Games</category>
+		<description>Riddle of the Maze (prototype v2.01, 19940127)</description>
+		<year>1994</year>
+		<manufacturer>Philips</manufacturer>
+		<disk name="ridlmaze\riddle of the maze (v2.01)(27-01-94)(testing - phase 2).chd" sha1="35957a3fdacf587f54218f9728f191f85344bc30" />
+	</machine>
+	<machine name="smww\super mario wacky worlds (prototype)">
+		<category>Games</category>
+		<description>Super Mario's Wacky Worlds (prototype v0.11, 19930303)</description>
+		<year>1993</year>
+		<manufacturer>Philips</manufacturer>
+		<disk name="smww\super mario wacky worlds (prototype).chd" sha1="00fca9e1e313c6eaf6095d46ddba61cf65903cf9" />
+	</machine>
+	<machine name="voyeur2\voyeur ii (v1.04)(11-06-96)(testing-beta)(access code 3333) (disc1)">
+		<category>Games</category>
+		<description>611)</description>
+		<year>1996</year>
+		<manufacturer>Philips</manufacturer>
+		<disk name="voyeur2\voyeur ii (v1.04)(11-06-96)(testing-beta)(access code 3333) (disc1).chd" sha1="1890d51eed522e6a9947b387f4543ceb38ca56d6" />
+	</machine>
+	<machine name="voyeur2\voyeur ii (v1.04)(11-06-96)(testing-beta)(access code 3333) (disc2)">
+		<category>Games</category>
+		<description>Voyeur II (prototype v1.04, 19960611)</description>
+		<year>1996</year>
+		<manufacturer>Philips</manufacturer>
+		<disk name="voyeur2\voyeur ii (v1.04)(11-06-96)(testing-beta)(access code 3333) (disc2).chd" sha1="44a05a598b7f20f4ebad10aa8c5d68a7ee5496cc" />
+	</machine>
+</datafile>

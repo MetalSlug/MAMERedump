@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Philips CD-i - Homebrew</name>
+		<description>Philips CD-i - Homebrew</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Connaone (demo) (2007-11-04)(RasterSoft)" type="cd" sha1="76043e787d66a501897d06d4f27dbd7a6cb0355a" size="57319" crc="b196f7d6" fullsha1="1f018719724799a90b9705a66ce09e61c1069c04" datasha1="b81a2623b91330d40acf1ab9c79614ee118efecd" rawdatasha1="f84a9d031a29fb49d2eac1058d2bc50f00b7de8b" rawdatasize="5644800">
+		<category>Games</category>
+		<description>Connaone (demo) (2007-11-04)(RasterSoft)</description>
+		<rom name="Connaone (demo) (2007-11-04)(RasterSoft) (Track 01).bin" size="5644800" crc="2e9276aa" md5="1abfb677aca63d30276cff7216ba319b" sha1="f84a9d031a29fb49d2eac1058d2bc50f00b7de8b" datasha1="b289c1b8b0915fd47eb4738cafd01aef4d408767"/>
+	</game>
+	<game name="Frog Feast (demo) (2005-04-11)(RasterSoft)" type="cd" sha1="2e4affa33c6b6d77126284e1f2f4221a58ad8a6b" size="65073" crc="62643897" fullsha1="6659809a41a322686d2534d58c64df09256eece8" datasha1="647121b13c5ec2f35f6914729213f7334b98bc1d" rawdatasha1="1f05241bf51f71530c3dd029608a168446de8bf2" rawdatasize="5644800">
+		<category>Games</category>
+		<description>Frog Feast (demo) (2005-04-11)(RasterSoft)</description>
+		<rom name="Frog Feast (demo) (2005-04-11)(RasterSoft) (Track 01).bin" size="5644800" crc="ec6a1db5" md5="d33037234ddb8a6536c0c6d8201754cd" sha1="1f05241bf51f71530c3dd029608a168446de8bf2" datasha1="bb94510c9e2b919748c6329b0c7990a1b14c8ab4"/>
+	</game>
+	<game name="Mode 7 Demo (2008-01-06)(RasterSoft)" type="cd" sha1="c4b5823de80b066ec2936f5eafb7c87920c6b279" size="48222" crc="6b7547b7" fullsha1="17fc1626fb48370c5da756cd4638628c5f9d84e7" datasha1="bb58164e50c9c0a15f75874a20bddf8889c24f5e" rawdatasha1="cae71cb491965679971d1c40e9e5849e9da0c0e3" rawdatasize="5468400">
+		<category>Games</category>
+		<description>Mode 7 Demo (2008-01-06)(RasterSoft)</description>
+		<rom name="Mode 7 Demo (2008-01-06)(RasterSoft) (Track 01).bin" size="5468400" crc="aa04e674" md5="4827789c3e7e31be94adf5b6e8dfd431" sha1="cae71cb491965679971d1c40e9e5849e9da0c0e3" datasha1="d0b0c08843927f3ab6413762cf642c98328fe683"/>
+	</game>
+</datafile>

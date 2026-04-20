@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Demos - [CDI]</name>
+		<description>MAME Redump - Sega Dreamcast - Demos - [CDI] (TOSEC-v2025-01-18)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Tea Pot Tech Demo (demo-rolling) (1999)(Sega)(NTSC-PAL)[h ShindouGo - Comby, Laurent][version 2, SET4]" type="">
+		<description>Tea Pot Tech Demo (demo-rolling) (1999)(Sega)(NTSC-PAL)[h ShindouGo - Comby, Laurent][version 2, SET4]</description>
+		<rom name="Tea Pot Tech Demo (demo-rolling) (1999)(Sega)(NTSC-PAL)[h ShindouGo - Comby, Laurent][version 2, SET4].cdi" size="130955045" crc="153BFD24" md5="66B546FE4881A186C58390A78235CD13" sha1="76DC9A07AEFE90BAD2D6887C4529158EA44EC3CE" />
+	</game>
+	<game name="Technic Demo Babel (demo-rolling) (1998)(Sega)(NTSC-PAL)[h ShindouGo - Comby, Laurent][version 2, emulator only]" type="">
+		<description>Technic Demo Babel (demo-rolling) (1998)(Sega)(NTSC-PAL)[h ShindouGo - Comby, Laurent][version 2, emulator only]</description>
+		<rom name="Technic Demo Babel (demo-rolling) (1998)(Sega)(NTSC-PAL)[h ShindouGo - Comby, Laurent][version 2, emulator only].cdi" size="122879489" crc="C8D93707" md5="A63402EB2E7230534E6196292C60E90D" sha1="FC114D019E7934CABCA0BFE2A3DA8225854677A6" />
+	</game>
+	<game name="Technic Demo Babel (demo-rolling) (1998)(Sega)(NTSC-PAL)[h ShindouGo][version 3, works on console]" type="">
+		<description>Technic Demo Babel (demo-rolling) (1998)(Sega)(NTSC-PAL)[h ShindouGo][version 3, works on console]</description>
+		<rom name="Technic Demo Babel (demo-rolling) (1998)(Sega)(NTSC-PAL)[h ShindouGo][version 3, works on console].cdi" size="110475408" crc="41221375" md5="A198B10E3A0D58004B668C744743E4C3" sha1="EB178C1E5F5085311259331A44E114DB413AD783" />
+	</game>
+	<game name="Technic Demo F40 (demo-rolling) (1998)(Sega)(NTSC-PAL)[h ShindouGo - Comby, Laurent][no debug menu])" type="">
+		<description>Technic Demo F40 (demo-rolling) (1998)(Sega)(NTSC-PAL)[h ShindouGo - Comby, Laurent][no debug menu])</description>
+		<rom name="Technic Demo F40 (demo-rolling) (1998)(Sega)(NTSC-PAL)[h ShindouGo - Comby, Laurent][no debug menu]).cdi" size="98026777" crc="9C771973" md5="72398C8FDF2AFA18EAA1DCA2E620089D" sha1="7C5ECF6FF8AF24FFE3E06A5A31F5EFD872D2525E" />
+	</game>
+</datafile>

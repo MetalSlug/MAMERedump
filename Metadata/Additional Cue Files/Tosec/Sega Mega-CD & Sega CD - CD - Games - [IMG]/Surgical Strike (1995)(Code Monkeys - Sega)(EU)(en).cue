@@ -1,0 +1,8 @@
+FILE "Surgical Strike (1995)(Code Monkeys - Sega)(EU)(en).img" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    PREGAP 00:02:00
+    INDEX 01 42:02:53
+  TRACK 03 AUDIO
+    INDEX 01 46:07:50

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Saturn - Bonus Discs</name>
+		<description>MAME Redump - Sega Saturn - Bonus Discs (TOSEC-v2012-07-13)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Johnny Bazookatone - Music CD (1995)(U.S. Gold)[!][Johnny Bazookatone, T-7909H-50][CD-Audio]">
+		<description>Johnny Bazookatone - Music CD (1995)(U.S. Gold)[!][Johnny Bazookatone, T-7909H-50][CD-Audio]</description>
+		<disk name="Johnny Bazookatone - Music CD (1995)(U.S. Gold)[!][Johnny Bazookatone, T-7909H-50][CD-Audio].chd" sha1="d198521c53a2264660742419479dd578566a05e3" />
+	</machine>
+	<machine name="Shinseiki Evangelion - 2nd Impression (1997)(Sega)(JP)[!][Shinseiki Evangelion - 2nd Impression, GS-9129][CD-Audio]">
+		<description>Shinseiki Evangelion - 2nd Impression (1997)(Sega)(JP)[!][Shinseiki Evangelion - 2nd Impression, GS-9129][CD-Audio]</description>
+		<disk name="Shinseiki Evangelion - 2nd Impression (1997)(Sega)(JP)[!][Shinseiki Evangelion - 2nd Impression, GS-9129][CD-Audio].chd" sha1="b8f178e558ce8f1ea79d11196753d2ba13cef3a3" />
+	</machine>
+</datafile>

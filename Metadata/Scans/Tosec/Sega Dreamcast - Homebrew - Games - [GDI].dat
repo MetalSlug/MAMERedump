@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Homebrew - Games - [GDI]</name>
+		<description>Sega Dreamcast - Homebrew - Games - [GDI]</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Driving Strikers - Holiday Edition (2021-12-24)(kazade)" type="gd" sha1="7a68021d7a7862e160e1a4867ad13777f79bb988" size="18584152" crc="53e3050f" fullsha1="cca44a572380cd533d1416eed83d8695965cdeb0" datasha1="92fbc0958c9ef334ee9e63f6c42484e36e8fcdcd" rawdatasha1="9587540bd6452c674b93b06a992208ef8155412f" rawdatasize="64303408">
+		<category>Games</category>
+		<description>Driving Strikers - Holiday Edition (2021-12-24)(kazade)</description>
+		<rom name="Driving Strikers - Holiday Edition (2021-12-24)(kazade) (Track 01).bin" size="30869504" crc="70014a2f" md5="d96e32c4a890c27c9f1f46d945bac421" sha1="44f78005bdca37f2802c1e6ca1da9a20d6980a62"/>
+		<rom name="Driving Strikers - Holiday Edition (2021-12-24)(kazade) (Track 02).bin" size="2352" crc="be97ce3f" md5="9e297efc7a522480ef89a4a7f39ce560" sha1="fe1a9e36e57b299b68f2d0f07bbed05c08d460ed" wavesha1="44ca75137fc208559cb913faf625176242585e4f"/>
+		<rom name="Driving Strikers - Holiday Edition (2021-12-24)(kazade) (Track 03).bin" size="94208" crc="fb7f8130" md5="456d8477c98870a86555efb7cc160a17" sha1="b61b8affe763ae565d268501071f27181855df35"/>
+		<rom name="Driving Strikers - Holiday Edition (2021-12-24)(kazade) (Track 04).bin" size="33337344" crc="d3f88aed" md5="807c1feb6f3a6059763293fc0fc367b4" sha1="79f0128a671928332f0777ade8f0dbaace2898ac"/>
+	</game>
+</datafile>

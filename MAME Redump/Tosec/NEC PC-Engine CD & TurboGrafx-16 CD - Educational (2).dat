@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Educational</name>
+		<description>MAME Redump - NEC PC-Engine CD &amp; TurboGrafx-16 CD - Educational (TOSEC-v2018-05-28)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Magical Dinosaur Tour (1990)(NEC)(US)">
+		<description>Magical Dinosaur Tour (1990)(NEC)(US)</description>
+		<disk name="Magical Dinosaur Tour (1990)(NEC)(US).chd" sha1="cafc78f5ecaace392ae3fef6b7e49bb41f54f965" />
+	</machine>
+	<machine name="Magical Saurus Tour - Saishin Kyouryuu Zukai Dai Jiten (1990)(Victor)(JP)">
+		<description>Magical Saurus Tour - Saishin Kyouryuu Zukai Dai Jiten (1990)(Victor)(JP)</description>
+		<disk name="Magical Saurus Tour - Saishin Kyouryuu Zukai Dai Jiten (1990)(Victor)(JP).chd" sha1="e087096a16149ac01ffc1678940db41143a5f40c" />
+	</machine>
+</datafile>

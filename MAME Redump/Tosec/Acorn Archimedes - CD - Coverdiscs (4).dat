@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Acorn Archimedes - CD - Coverdiscs</name>
+		<description>MAME Redump - Acorn Archimedes - CD - Coverdiscs (TOSEC-v2012-07-06)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Acorn Education - Products &amp; Services Catalogue Spring 1996 (1996)(IDG Media)(GB)[Acorn User]">
+		<description>Acorn Education - Products &amp; Services Catalogue Spring 1996 (1996)(IDG Media)(GB)[Acorn User]</description>
+		<disk name="Acorn Education - Products &amp; Services Catalogue Spring 1996 (1996)(IDG Media)(GB)[Acorn User].chd" sha1="8301797a167d8586eb2581d3a2bcf560362f28f7" />
+	</machine>
+	<machine name="Acorn User Collector's CD-ROM No. 1 (1995)(IDG Media)(GB)">
+		<description>Acorn User Collector's CD-ROM No. 1 (1995)(IDG Media)(GB)</description>
+		<disk name="Acorn User Collector's CD-ROM No. 1 (1995)(IDG Media)(GB).chd" sha1="f24dedddeda80ce06e43d92262fdf0209664b5ed" />
+	</machine>
+	<machine name="Acorn User Collector's CD-ROM No. 2 (1996)(IDG Media)(GB)">
+		<description>Acorn User Collector's CD-ROM No. 2 (1996)(IDG Media)(GB)</description>
+		<disk name="Acorn User Collector's CD-ROM No. 2 (1996)(IDG Media)(GB).chd" sha1="f739240cd24104cd0fe55ac0f131ea24f8e8bc4c" />
+	</machine>
+	<machine name="Acorn User Collector's CD-ROM No. 3 (1997)(IDG Media)(GB)">
+		<description>Acorn User Collector's CD-ROM No. 3 (1997)(IDG Media)(GB)</description>
+		<disk name="Acorn User Collector's CD-ROM No. 3 (1997)(IDG Media)(GB).chd" sha1="53b60458c0fcebbbba45fb53351a3ddfb40facf4" />
+	</machine>
+</datafile>

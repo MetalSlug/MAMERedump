@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga CDTV - Applications - [ISO]</name>
+		<description>Commodore Amiga CDTV - Applications - [ISO]</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="InterOffice (1993)(Interactivision ApS)(M5)[CDTV-Amiga]" type="dvd" sha1="52ae83f2ef93a00ec3733e52c87e7e42db1e1037" size="4554557" crc="84f9deb1" fullsha1="754072ce774b1efe8b47cfe802605197affd3b6f" datasha1="bdc8fad0aa839153201f291c1d6ef8fccf15159c">
+		<category>Games</category>
+		<description>InterOffice (1993)(Interactivision ApS)(M5)[CDTV-Amiga]</description>
+		<rom name="InterOffice (1993)(Interactivision ApS)(M5)[CDTV-Amiga].bin" size="14809088" crc="acd499b4" md5="d20d040a020a59e54556b717a6666084" sha1="bdc8fad0aa839153201f291c1d6ef8fccf15159c"/>
+	</game>
+	<game name="Network CD (1994)(Weird Science)(Amiga-CD32-CDTV)[!]" type="cd" sha1="3a986619a3445f27da4ade0780a7fab04101d59b" size="281273208" crc="a979f326" fullsha1="7e50a87deb3a176b01c03b1a18da6b26cb39fa69" datasha1="7f1a70c1682f9cd80968f996f6b1ba8b194d3518" rawdatasha1="95aa2c6b7ff7b6064fb435ff78e11ae2f6c8813f" rawdatasize="509546496">
+		<category>Games</category>
+		<description>Network CD (1994)(Weird Science)(Amiga-CD32-CDTV)[!]</description>
+		<rom name="Network CD (1994)(Weird Science)(Amiga-CD32-CDTV)[!] (Track 01).bin" size="509546496" crc="4844c8fc" md5="15c7a10cf19a00c05e50c967ca4dade8" sha1="95aa2c6b7ff7b6064fb435ff78e11ae2f6c8813f"/>
+	</game>
+</datafile>

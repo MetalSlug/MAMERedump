@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Homebrew - Games - [NRG]</name>
+		<description>MAME Redump - Commodore Amiga CD32 - Homebrew - Games - [NRG] (TOSEC-v2014-10-28)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Hybris (1989)(Discovery)[m Stuermer, A.]" type="">
+		<description>Hybris (1989)(Discovery)[m Stuermer, A.]</description>
+		<rom name="Hybris (1989)(Discovery)[m Stuermer, A.].nrg" size="1548444" crc="392E15E7" md5="37C411DC73BD6C73C1D204779E6B1A12" sha1="651E6B0A63D068BD4B0060560A369599337119C4" />
+	</game>
+	<game name="Phoenix Fighters (1999)(Alive)[RGCD]" type="">
+		<description>Phoenix Fighters (1999)(Alive)[RGCD]</description>
+		<rom name="Phoenix Fighters (1999)(Alive)[RGCD].nrg" size="3457180" crc="F6793163" md5="768D4A9F6315B609CEE3501480771C20" sha1="6C1FD6BED659BCA0DD6005FAE380E71C933816DF" />
+	</game>
+</datafile>

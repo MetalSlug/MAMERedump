@@ -1,0 +1,6 @@
+FILE "Ground Zero Texas (1993)(Sony)(US)(Disc 2 of 2)[a].img" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    PREGAP 00:02:00
+    INDEX 01 56:39:68

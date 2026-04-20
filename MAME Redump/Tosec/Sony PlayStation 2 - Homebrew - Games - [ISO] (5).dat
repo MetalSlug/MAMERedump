@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sony PlayStation 2 - Homebrew - Games - [ISO]</name>
+		<description>MAME Redump - Sony PlayStation 2 - Homebrew - Games - [ISO] (TOSEC-v2022-06-08)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Hermes - Run A La Carte v1.01 (2020)(Retroguru)(FW)">
+		<description>Hermes - Run A La Carte v1.01 (2020)(Retroguru)(FW)</description>
+		<disk name="Hermes - Run A La Carte v1.01 (2020)(Retroguru)(FW).chd" sha1="0ce6216855062b69a582c93adfe8e79729975fe1" />
+	</machine>
+	<machine name="Mazinger Z (2017)(Nova32 Animation Studios)(MX)(en)">
+		<description>Mazinger Z (2017)(Nova32 Animation Studios)(MX)(en)</description>
+		<disk name="Mazinger Z (2017)(Nova32 Animation Studios)(MX)(en).chd" sha1="37ca40cb9e4eee13bdb64a12ce277606cf25b259" />
+	</machine>
+	<machine name="Sailor Moon RevengeX (2022-01-09)(Nova32 Animation Studios)(MX)(en)">
+		<description>Sailor Moon RevengeX (2022-01-09)(Nova32 Animation Studios)(MX)(en)</description>
+		<disk name="Sailor Moon RevengeX (2022-01-09)(Nova32 Animation Studios)(MX)(en).chd" sha1="936c467fe69f59296379b3bd205e1a3512e023a1" />
+	</machine>
+	<machine name="Sailor Moon RevengeX v3 (2022-01-20)(Nova32 Animation Studios)(MX)(en)">
+		<description>Sailor Moon RevengeX v3 (2022-01-20)(Nova32 Animation Studios)(MX)(en)</description>
+		<disk name="Sailor Moon RevengeX v3 (2022-01-20)(Nova32 Animation Studios)(MX)(en).chd" sha1="ce262fc7e8dbc634c3a44e1c262aeabc6289b4d6" />
+	</machine>
+	<machine name="Zoth - Zombie Invasion (2007)(Nova32 Animation Studios)(MX)(en)">
+		<description>Zoth - Zombie Invasion (2007)(Nova32 Animation Studios)(MX)(en)</description>
+		<disk name="Zoth - Zombie Invasion (2007)(Nova32 Animation Studios)(MX)(en).chd" sha1="977982e43f2254a8c730222f9cf414110b272b95" />
+	</machine>
+</datafile>

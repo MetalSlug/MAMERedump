@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Philips CD-i - Samplers</name>
+		<description>MAME Redump - Philips CD-i - Samplers (TOSEC-v2012-07-13)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="CD-i Demonstratie Disc - Fall 1996 - Spring 1997 (1996)(Philips)(NL)[!][DVC]">
+		<description>CD-i Demonstratie Disc - Fall 1996 - Spring 1997 (1996)(Philips)(NL)[!][DVC]</description>
+		<disk name="CD-i Demonstratie Disc - Fall 1996 - Spring 1997 (1996)(Philips)(NL)[!][DVC].chd" sha1="1f7a533feb9261268b994c40d0ac684188ddc668" />
+	</machine>
+	<machine name="Filmmaand, de - Highlights-Previews-Filmclips (1995-05)(Philips)(NL)[a][DVC]">
+		<description>Filmmaand, de - Highlights-Previews-Filmclips (1995-05)(Philips)(NL)[a][DVC]</description>
+		<disk name="Filmmaand, de - Highlights-Previews-Filmclips (1995-05)(Philips)(NL)[a][DVC].chd" sha1="7795ac4f177fa8bd8f41c4c682bd05618cff0a6b" />
+	</machine>
+	<machine name="Filmmaand, de - Highlights-Previews-Filmclips (1995-05)(Philips)(NL)[DVC]">
+		<description>Filmmaand, de - Highlights-Previews-Filmclips (1995-05)(Philips)(NL)[DVC]</description>
+		<disk name="Filmmaand, de - Highlights-Previews-Filmclips (1995-05)(Philips)(NL)[DVC].chd" sha1="afd9cfce805e4454c07a320d6e2b566a305dfb04" />
+	</machine>
+	<machine name="Kinderdisc met het complete verhaal ijsbeer in de tropen, De (1995)(Philips)(NL)[a][DVC]">
+		<description>Kinderdisc met het complete verhaal ijsbeer in de tropen, De (1995)(Philips)(NL)[a][DVC]</description>
+		<disk name="Kinderdisc met het complete verhaal ijsbeer in de tropen, De (1995)(Philips)(NL)[a][DVC].chd" sha1="eb8d5ed5b409f9da4af7a4652f2f970f1e5f9631" />
+	</machine>
+	<machine name="Kinderdisc met het complete verhaal ijsbeer in de tropen, De (1995)(Philips)(NL)[DVC]">
+		<description>Kinderdisc met het complete verhaal ijsbeer in de tropen, De (1995)(Philips)(NL)[DVC]</description>
+		<disk name="Kinderdisc met het complete verhaal ijsbeer in de tropen, De (1995)(Philips)(NL)[DVC].chd" sha1="eb8d5ed5b409f9da4af7a4652f2f970f1e5f9631" />
+	</machine>
+	<machine name="Video CD - Music Sampler (1995)(Philips - PolyGram)(EU)[DVC]">
+		<description>Video CD - Music Sampler (1995)(Philips - PolyGram)(EU)[DVC]</description>
+		<disk name="Video CD - Music Sampler (1995)(Philips - PolyGram)(EU)[DVC].chd" sha1="60dcba7ced8718a189d00f03f29402542804d913" />
+	</machine>
+	<machine name="Why CD-I (1991)(Philips)">
+		<description>Why CD-I (1991)(Philips)</description>
+		<disk name="Why CD-I (1991)(Philips).chd" sha1="d6c25caa47aae202aa98ca64a1626c210fe98416" />
+	</machine>
+	<machine name="You Can Do It All With Philips CD-i - A Title Sampler v1.0 (1992)(Philips)(EU)(M4)[Oct 1992]" cloneof="CD-i - A Title Sampler (Europe) (En,Fr,De,Nl)">
+		<description>You Can Do It All With Philips CD-i - A Title Sampler v1.0 (1992)(Philips)(EU)(M4)[Oct 1992]</description>
+		<disk name="You Can Do It All With Philips CD-i - A Title Sampler v1.0 (1992)(Philips)(EU)(M4)[Oct 1992].chd" sha1="1dbc60892174825ebe59947be7e408ca18ff483d" />
+	</machine>
+</datafile>

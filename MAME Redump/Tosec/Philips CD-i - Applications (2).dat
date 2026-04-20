@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Philips CD-i - Applications</name>
+		<description>MAME Redump - Philips CD-i - Applications (TOSEC-v2012-07-13)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Getting Ahead - Making Time (1994)(Temple Millar Multimedia - Xdra)(EU)[!][CD-i-PC]">
+		<description>Getting Ahead - Making Time (1994)(Temple Millar Multimedia - Xdra)(EU)[!][CD-i-PC]</description>
+		<disk name="Getting Ahead - Making Time (1994)(Temple Millar Multimedia - Xdra)(EU)[!][CD-i-PC].chd" sha1="a396e3ea2d1c6ea8b14de8e366333b103af2bd6f" />
+	</machine>
+	<machine name="WEB-i (1996)(Philips)(US)">
+		<description>WEB-i (1996)(Philips)(US)</description>
+		<disk name="WEB-i (1996)(Philips)(US).chd" sha1="b53930508aa01ff66807e2a7fac0fe1e1c5844fb" />
+	</machine>
+</datafile>

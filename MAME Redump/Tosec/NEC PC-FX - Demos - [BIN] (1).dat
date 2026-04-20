@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>NEC PC-FX - Demos - [BIN]</name>
+		<description>MAME Redump - NEC PC-FX - Demos - [BIN] (TOSEC-v2025-01-26)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Mandelbrot Priorart v1.0 (2022-09-28)(Wendt, Martin)(DE)[BSD-3]">
+		<description>Mandelbrot Priorart v1.0 (2022-09-28)(Wendt, Martin)(DE)[BSD-3]</description>
+		<disk name="Mandelbrot Priorart v1.0 (2022-09-28)(Wendt, Martin)(DE)[BSD-3].chd" sha1="c093c51db4909c19862339552b5921a74addc03b" />
+	</machine>
+</datafile>

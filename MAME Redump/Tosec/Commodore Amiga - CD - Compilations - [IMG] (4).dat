@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga - CD - Compilations - [IMG]</name>
+		<description>MAME Redump - Commodore Amiga - CD - Compilations - [IMG] (TOSEC-v2018-07-02)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="10.000 Amiga Cheats (1999)(Epic Marketing)">
+		<description>10.000 Amiga Cheats (1999)(Epic Marketing)</description>
+		<disk name="10.000 Amiga Cheats (1999)(Epic Marketing).chd" sha1="c2f76e9d2c995b9dd8daa12c2fb4b1e72abf7646" />
+	</machine>
+	<machine name="Amiga Classix 2 (2000)(Epic Marketing)[Amiga-Mac-PC]">
+		<description>Amiga Classix 2 (2000)(Epic Marketing)[Amiga-Mac-PC]</description>
+		<disk name="Amiga Classix 2 (2000)(Epic Marketing)[Amiga-Mac-PC].chd" sha1="11525f1fc23cc62145434d4aa540ee8653f64364" />
+	</machine>
+	<machine name="Amiga Classix 3 (2001)(Magnussoft)[Amiga-Mac-PC]">
+		<description>Amiga Classix 3 (2001)(Magnussoft)[Amiga-Mac-PC]</description>
+		<disk name="Amiga Classix 3 (2001)(Magnussoft)[Amiga-Mac-PC].chd" sha1="3f514370300d13683b40b39d0e168d3e79a188cc" />
+	</machine>
+	<machine name="Assassins - Ultimate CD Games Collection (1994)(Weird Science)[Amiga-CD32-CDTV]" cloneof="Assassins - Ultimate CD Games Collection (1994)(Weird Science)[Amiga-CD32-CDTV][CDD5560]">
+		<description>Assassins - Ultimate CD Games Collection (1994)(Weird Science)[Amiga-CD32-CDTV]</description>
+		<disk name="Assassins - Ultimate CD Games Collection (1994)(Weird Science)[Amiga-CD32-CDTV].chd" sha1="8d6d2d865c9e3b36c802b480ce8295695f2e47b9" />
+	</machine>
+</datafile>

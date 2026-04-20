@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Saturn - Homebrew - Games - [ISO]</name>
+		<description>MAME Redump - Sega Saturn - Homebrew - Games - [ISO] (TOSEC-v2022-06-08)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Asteroids Terra (2019-03-22)(Nova32 Animation Studios)(MX)(en)">
+		<description>Asteroids Terra (2019-03-22)(Nova32 Animation Studios)(MX)(en)</description>
+		<disk name="Asteroids Terra (2019-03-22)(Nova32 Animation Studios)(MX)(en).chd" sha1="624c17458907399870d5382d6a643bb80c13001d" />
+	</machine>
+	<machine name="Saturnade (2015)(Mihai, Sebastian)[COFF]">
+		<description>Saturnade (2015)(Mihai, Sebastian)[COFF]</description>
+		<disk name="Saturnade (2015)(Mihai, Sebastian)[COFF].chd" sha1="2fa381a54aa340584b084b175dac55b4c1eba09e" />
+	</machine>
+	<machine name="Saturnade (2015)(Mihai, Sebastian)[ELF]">
+		<description>Saturnade (2015)(Mihai, Sebastian)[ELF]</description>
+		<disk name="Saturnade (2015)(Mihai, Sebastian)[ELF].chd" sha1="b9073ba49b524dab94e79f2e385ab452238802c0" />
+	</machine>
+</datafile>

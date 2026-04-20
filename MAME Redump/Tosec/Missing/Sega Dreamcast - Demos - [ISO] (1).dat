@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Demos - [ISO]</name>
+		<description>MAME Redump - Sega Dreamcast - Demos - [ISO] (TOSEC-v2024-03-26)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Technic Demo Babel (demo-rolling) (1998)(Sega)(NTSC-PAL)[h Megavolt85][version 3, works on console]" type="">
+		<description>Technic Demo Babel (demo-rolling) (1998)(Sega)(NTSC-PAL)[h Megavolt85][version 3, works on console]</description>
+		<rom name="track01.iso" size="2509824" crc="199F975A" md5="F06E1B6D276455216A79BB466ED35BCF" sha1="9095C65E49261F72F34ABB4339EDF850455842B8" />
+		<rom name="track02.raw" size="1237152" crc="BC56E241" md5="03C796F60DB2E9EF0B65A42A47A9D321" sha1="1BC5D3822F954A634E1F39584F98DA42784E914E" />
+		<rom name="track03.iso" size="26959872" crc="E575D8BC" md5="17115809301D5B78DFA002F45202486D" sha1="1D11B5FB5AA323A2106DED9546A0B54D77D479CB" />
+		<rom name="track04.iso" size="1376256" crc="B4BA3571" md5="875862D7CAC0552612A9C2942F8282CD" sha1="7F4248766E9767D592EF7112C6521D2F8D653EA0" />
+	</game>
+</datafile>

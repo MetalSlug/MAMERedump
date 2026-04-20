@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sony PlayStation Portable - Homebrew - Games - [ISO]</name>
+		<description>MAME Redump - Sony PlayStation Portable - Homebrew - Games - [ISO] (TOSEC-v2023-08-29)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Kogal Kannon (2023-01-30)(Plaguelabs)">
+		<description>Kogal Kannon (2023-01-30)(Plaguelabs)</description>
+		<disk name="Kogal Kannon (2023-01-30)(Plaguelabs).chd" sha1="7195e4452881cb59fafc8393ad3ca572fd6d12ed" />
+	</machine>
+	<machine name="nothing.seriOS (2020-09-25)(Plaguelabs)">
+		<description>nothing.seriOS (2020-09-25)(Plaguelabs)</description>
+		<disk name="nothing.seriOS (2020-09-25)(Plaguelabs).chd" sha1="cb59fb2e1a5ffabfc4b450c199073050823ad111" />
+	</machine>
+</datafile>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Applications</name>
+		<description>MAME Redump - Commodore Amiga CD32 - Applications (TOSEC-v2018-03-24)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="CD Micro French (1994)(LCL)" type="">
+		<description>CD Micro French (1994)(LCL)</description>
+		<rom name="CD Micro French (1994)(LCL)(Track 1 of 7).iso" size="6277488" crc="B52BC676" md5="9964895DEC22C3A6E47CB761FFA2E2BD" sha1="613DC0BA3C35512B4B3D0DCCFDE7050A3ED1BBBC" />
+		<rom name="CD Micro French (1994)(LCL)(Track 2 of 7).wav" size="6733834" crc="AEF8BA46" md5="A01437DB64D6804ACE1949ED6299D668" sha1="6003463EEBB512BFC4C4AD6A5F8F8B4124FC6CD6" />
+		<rom name="CD Micro French (1994)(LCL)(Track 3 of 7).wav" size="6075274" crc="D44E8E3F" md5="AC37A7A4B0ADDA81D8BCC334DCA0A20B" sha1="3846C9D6BF69D3E224F82CCCB46ED26D2F1E6172" />
+		<rom name="CD Micro French (1994)(LCL)(Track 4 of 7).wav" size="6378682" crc="0295D271" md5="B7F4868D839627462404E4CB4674B376" sha1="97DDE9931CD3FDAEBE96C2972BDBC320A0FBBAE6" />
+		<rom name="CD Micro French (1994)(LCL)(Track 5 of 7).wav" size="6228154" crc="9D98FA61" md5="FB43BC6682B2D535C9C9CB71E7221A30" sha1="9D705D7330365A402A1618E35809904D2CE5B685" />
+		<rom name="CD Micro French (1994)(LCL)(Track 6 of 7).wav" size="7133674" crc="2EA8B0A6" md5="1D92E0F3FC4F826171679A36DC449EBF" sha1="09D28269EF1961F7C8DA46A482565617160DE7E3" />
+		<rom name="CD Micro French (1994)(LCL)(Track 7 of 7).wav" size="6604474" crc="87D4421C" md5="0595599EB945CBB9F8CEA3C6D9D78497" sha1="9A223528065C52663A91B3C797AE3ECCBE8EBA1E" />
+	</game>
+</datafile>

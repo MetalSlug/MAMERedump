@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Acorn Archimedes - CD - Compilations</name>
+		<description>MAME Redump - Acorn Archimedes - CD - Compilations (TOSEC-v2012-07-06)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="RISC DISC, The - Volume One (1994)(Uniqueway)">
+		<description>RISC DISC, The - Volume One (1994)(Uniqueway)</description>
+		<disk name="RISC DISC, The - Volume One (1994)(Uniqueway).chd" sha1="c1a12d2de5dfbade4e55e04c39d531321bd83e0d" />
+	</machine>
+	<machine name="RISC DISC, The - Volume Three (1996)(Uniqueway)">
+		<description>RISC DISC, The - Volume Three (1996)(Uniqueway)</description>
+		<disk name="RISC DISC, The - Volume Three (1996)(Uniqueway).chd" sha1="fff6c1eb0b3d252e2f8afea29100a53e814ab722" />
+	</machine>
+	<machine name="RISC DISC, The - Volume Two (1995)(Uniqueway)">
+		<description>RISC DISC, The - Volume Two (1995)(Uniqueway)</description>
+		<disk name="RISC DISC, The - Volume Two (1995)(Uniqueway).chd" sha1="3f1c701f2e4f6f8b799d79ea9b22d686df98e949" />
+	</machine>
+</datafile>

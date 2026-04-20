@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Mega-CD &amp; Sega CD - Homebrew - Demos</name>
+		<description>MAME Redump - Sega Mega-CD &amp; Sega CD - Homebrew - Demos (TOSEC-v2022-06-08)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Equinoxe v0.00 (2005-05)(Evermind Development)">
+		<description>Equinoxe v0.00 (2005-05)(Evermind Development)</description>
+		<disk name="Equinoxe v0.00 (2005-05)(Evermind Development).chd" sha1="9f6b35ebc202305ff26f62435de9c4ac3be149d7" />
+	</machine>
+	<machine name="EQX PRO 8 v0.00 - Beat It (2006-08)(Evermind Development)">
+		<description>EQX PRO 8 v0.00 - Beat It (2006-08)(Evermind Development)</description>
+		<disk name="EQX PRO 8 v0.00 - Beat It (2006-08)(Evermind Development).chd" sha1="67f448358e70f4a70fa55811dc7665766e02b377" />
+	</machine>
+	<machine name="EQX PRO 8 v0.01 - Beat It (2006-08)(Evermind Development)">
+		<description>EQX PRO 8 v0.01 - Beat It (2006-08)(Evermind Development)</description>
+		<disk name="EQX PRO 8 v0.01 - Beat It (2006-08)(Evermind Development).chd" sha1="8a952f99ff861964bc00ff7e890dc0e5cef16497" />
+	</machine>
+	<machine name="EQX PRO 8 v0.02 - Yatta! (2007-01)(Evermind Development)">
+		<description>EQX PRO 8 v0.02 - Yatta! (2007-01)(Evermind Development)</description>
+		<disk name="EQX PRO 8 v0.02 - Yatta! (2007-01)(Evermind Development).chd" sha1="5a0f94a9a8c9e907b2fcfed481dba1a841f1a5df" />
+	</machine>
+	<machine name="FVR Singapore ILY (2004-06)(Fonzie Voltonov)(PD)">
+		<description>FVR Singapore ILY (2004-06)(Fonzie Voltonov)(PD)</description>
+		<disk name="FVR Singapore ILY (2004-06)(Fonzie Voltonov)(PD).chd" sha1="fa13f4b009c4391a9c3d0869ecdd5c71f55fbb44" />
+	</machine>
+	<machine name="Sonic Mania FMV (2017-08-12)(TheStoneBanana)(PD)">
+		<description>Sonic Mania FMV (2017-08-12)(TheStoneBanana)(PD)</description>
+		<disk name="Sonic Mania FMV (2017-08-12)(TheStoneBanana)(PD).chd" sha1="93fcbc50f6553b05d4769af02271f53d02860554" />
+	</machine>
+</datafile>

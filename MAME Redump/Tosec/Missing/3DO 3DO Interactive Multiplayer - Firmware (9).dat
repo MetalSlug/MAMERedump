@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>3DO 3DO Interactive Multiplayer - Firmware</name>
+		<description>MAME Redump - 3DO 3DO Interactive Multiplayer - Firmware (TOSEC-v2017-07-07)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="GoldStar GDO-101M 3DO Interactive Multiplayer BIOS v1.59 (1994-05-10)(3DO Company)(NTSC)" type="">
+		<description>GoldStar GDO-101M 3DO Interactive Multiplayer BIOS v1.59 (1994-05-10)(3DO Company)(NTSC)</description>
+		<rom name="GoldStar GDO-101M 3DO Interactive Multiplayer BIOS v1.59 (1994-05-10)(3DO Company)(NTSC).bin" size="1048576" crc="B6F5028B" md5="8639FD5E549BD6238CFEE79E3E749114" sha1="C4A2E5336F77FB5F743DE1EEA2CDA43675EE2DE7" />
+	</game>
+	<game name="GoldStar GDO-101M 3DO Interactive Multiplayer BIOS v1.59 (1994-05-10)(3DO Company)(NTSC)[cr][RSA disabled]" type="">
+		<description>GoldStar GDO-101M 3DO Interactive Multiplayer BIOS v1.59 (1994-05-10)(3DO Company)(NTSC)[cr][RSA disabled]</description>
+		<rom name="GoldStar GDO-101M 3DO Interactive Multiplayer BIOS v1.59 (1994-05-10)(3DO Company)(NTSC)[cr][RSA disabled].bin" size="1048576" crc="C40121CD" md5="34ECD8CA87EC061AC284099A048C67B7" sha1="D05ABCF837FE581A4CEB1CC635F139C5D6DD6D48" />
+	</game>
+	<game name="Kanji v16.4 ROM (1994)(Panasonic)(JP)[Japanese Font]" type="">
+		<description>Kanji 16.4 ROM (1994)(Panasonic)(JP)[Japanese Font]</description>
+		<rom name="Kanji 16.4 ROM (1994)(Panasonic)(JP)[Japanese Font].bin" size="933636" crc="A8E9447C" md5="B8DC97F778A6245C58E064B0312E8281" sha1="ACD39A8FEE1B9D2950D5AB447846C11FB31AF63E" />
+	</game>
+	<game name="Panasonic FZ-1 REAL 3DO Interactive Multiplayer BIOS (1993-08-03)(3DO Company)(NTSC)" type="">
+		<description>Panasonic FZ-1 REAL 3DO Interactive Multiplayer BIOS (1993-08-03)(3DO Company)(NTSC)</description>
+		<rom name="Panasonic FZ-1 REAL 3DO Interactive Multiplayer BIOS (1993-08-03)(3DO Company)(NTSC).bin" size="1048576" crc="C8C8FF89" md5="F47264DD47FE30F73AB3C010015C155B" sha1="34BF189111295F74D7B7DFC1F304D98B8D36325A" />
+	</game>
+	<game name="Panasonic FZ-10 REAL 3DO Interactive Multiplayer BIOS v1.59.1.1 (1994-08-25)(3DO Company)(NTSC)" type="">
+		<description>Panasonic FZ-10 REAL 3DO Interactive Multiplayer BIOS v1.59.1.1 (1994-08-25)(3DO Company)(NTSC)</description>
+		<rom name="Panasonic FZ-10 REAL 3DO Interactive Multiplayer BIOS v1.59.1.1 (1994-08-25)(3DO Company)(NTSC).bin" size="1048576" crc="58242CEE" md5="51F2F43AE2F3508A14D9F56597E2D3CE" sha1="3C912300775D1AD730DC35757E279C274C0ACAAD" />
+	</game>
+	<game name="Panasonic FZ-10 REAL 3DO Interactive Multiplayer BIOS v1.59.1.1 (1994-08-25)(3DO Company)(NTSC)[cr][RSA disabled]" type="">
+		<description>Panasonic FZ-10 REAL 3DO Interactive Multiplayer BIOS v1.59.1.1 (1994-08-25)(3DO Company)(NTSC)[cr][RSA disabled]</description>
+		<rom name="Panasonic FZ-10 REAL 3DO Interactive Multiplayer BIOS v1.59.1.1 (1994-08-25)(3DO Company)(NTSC)[cr][RSA disabled].bin" size="1048576" crc="230E6FEB" md5="1477BDA80DC33731A65468C1F5BCBEE9" sha1="F05E642322C03694F06A809C0B90FC27AC73C002" />
+	</game>
+	<game name="Panasonic FZ-10 REAL 3DO Interactive Multiplayer BIOS v1.66.1.1 (1994-09-22)(3DO Company)(PAL)" type="">
+		<description>Panasonic FZ-10 REAL 3DO Interactive Multiplayer BIOS v1.66.1.1 (1994-09-22)(3DO Company)(PAL)</description>
+		<rom name="Panasonic FZ-10 REAL 3DO Interactive Multiplayer BIOS v1.66.1.1 (1994-09-22)(3DO Company)(PAL).bin" size="1048576" crc="2495C500" md5="A48E6746BD7EDEC0F40CFF078F0BB19F" sha1="A900371F0CDCDC03F79557F11D406FD71251A5FD" />
+	</game>
+	<game name="Sanyo TRY 3DO Interactive Multiplayer BIOS v1.59 (1994-05-10)(3DO Company)(NTSC)" type="">
+		<description>Sanyo TRY 3DO Interactive Multiplayer BIOS v1.59 (1994-05-10)(3DO Company)(NTSC)</description>
+		<rom name="Sanyo TRY 3DO Interactive Multiplayer BIOS v1.59 (1994-05-10)(3DO Company)(NTSC).bin" size="1048576" crc="D5CBC509" md5="35FA1A1EBAAEEA286DC5CD15487C13EA" sha1="B01C53DA256DDE43FFEC4AD3FC3ADFA8D635E943" />
+	</game>
+	<game name="Sanyo TRY 3DO Interactive Multiplayer BIOS v1.59 (1994-05-10)(3DO Company)(NTSC)[cr][RSA disabled]" type="">
+		<description>Sanyo TRY 3DO Interactive Multiplayer BIOS v1.59 (1994-05-10)(3DO Company)(NTSC)[cr][RSA disabled]</description>
+		<rom name="Sanyo TRY 3DO Interactive Multiplayer BIOS v1.59 (1994-05-10)(3DO Company)(NTSC)[cr][RSA disabled].bin" size="1048576" crc="A73FE64F" md5="1EDC17DE3CDA1B99F561660C990F7293" sha1="0520843CA17BEE4D4F288EF5B23EE35825A2CBC0" />
+	</game>
+</datafile>

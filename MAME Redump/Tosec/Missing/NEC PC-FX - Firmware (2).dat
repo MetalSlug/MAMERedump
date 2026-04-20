@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>NEC PC-FX - Firmware</name>
+		<description>MAME Redump - NEC PC-FX - Firmware (TOSEC-v2012-07-13)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="NEC PC-FX BIOS v1.00 (1994)(NEC)(JP)" type="">
+		<description>NEC PC-FX BIOS v1.00 (1994)(NEC)(JP)</description>
+		<rom name="NEC PC-FX BIOS v1.00 (1994)(NEC)(JP).bin" size="1048576" crc="76FFB97A" md5="08E36EDBEA28A017F79F8D4F7FF9B6D7" sha1="1A77FD83E337F906AECAB27A1604DB064CF10074" />
+	</game>
+	<game name="NEC PC-FX BIOS v1.01 (1994)(NEC)(JP)" type="">
+		<description>NEC PC-FX BIOS v1.01 (1994)(NEC)(JP)</description>
+		<rom name="NEC PC-FX BIOS v1.01 (1994)(NEC)(JP).bin" size="1048576" crc="236102C9" md5="E2FB7C7220E3A7838C2DD7E401A7F3D8" sha1="8B662F7548078BE52A871565E19511CCCA28C5C8" />
+	</game>
+</datafile>

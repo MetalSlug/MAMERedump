@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Philips CD-i - Homebrew - Games - [NRG]</name>
+		<description>MAME Redump - Philips CD-i - Homebrew - Games - [NRG] (TOSEC-v2012-07-22)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Solitaire (2003)(BEPL)" type="">
+		<description>Solitaire (2003)(BEPL)</description>
+		<rom name="Solitaire (2003)(BEPL).nrg" size="17644832" crc="29514E13" md5="68365370D301244AA08BCCD0F397A5FD" sha1="5BC851F197D74E81DC13797982689AE34B220671" />
+	</game>
+	<game name="Tic-Tac-Toe (2003)(BEPL)" type="">
+		<description>Tic-Tac-Toe (2003)(BEPL)</description>
+		<rom name="Tic-Tac-Toe (2003)(BEPL).nrg" size="10512128" crc="95613EB3" md5="88B26FFB758644E4BA2F1EF8588C5A40" sha1="A236C5643BBAEFAADD463F51F707F07A908804B9" />
+	</game>
+</datafile>

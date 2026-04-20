@@ -1,0 +1,6 @@
+FILE "Kokuu Hyouryuu Nirgends (1996)(NEC Home Electronics)(JP)[FXNHE625].img" BINARY
+  TRACK 01 AUDIO
+    INDEX 01 00:00:00
+  TRACK 02 MODE1/2352
+    PREGAP 00:03:00
+    INDEX 01 00:56:67

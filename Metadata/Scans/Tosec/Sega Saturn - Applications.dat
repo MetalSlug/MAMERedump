@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Saturn - Applications</name>
+		<description>Sega Saturn - Applications</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Photo CD Operating System v1.002 (1995)(Sega)(PAL)(M6)[!][MK-81681P-485]" type="cd" sha1="a3d34859c4a56e902ec031a4267de0a987e2e680" size="29200778" crc="079e9524" fullsha1="99f7d5e03f8cced1c60a3f821b69df53848073cb" datasha1="94b35e57698dd62010764d2267335b1211b0c83b" rawdatasha1="8a31fe61752472e713db7925d36f15f653a1097d" rawdatasize="49944448">
+		<category>Games</category>
+		<description>Photo CD Operating System v1.002 (1995)(Sega)(PAL)(M6)[!][MK-81681P-485]</description>
+		<rom name="Photo CD Operating System v1.002 (1995)(Sega)(PAL)(M6)[!][MK-81681P-485] (Track 01).bin" size="4251648" crc="77dbd880" md5="62f6d3ffc3779b0f250fafa21973a965" sha1="bcf3d7b5796e55614983dbb115d5d5d70f6109b9"/>
+		<rom name="Photo CD Operating System v1.002 (1995)(Sega)(PAL)(M6)[!][MK-81681P-485] (Track 02).bin" size="42164800" crc="8043e517" md5="5f44cd3e23c675c5b5a765e5c9a2dabf" sha1="5bafb3b29c0add58c5c2b5f364f2ac557fc39c1c"/>
+		<rom name="Photo CD Operating System v1.002 (1995)(Sega)(PAL)(M6)[!][MK-81681P-485] (Track 03).bin" size="3528000" crc="cae7b526" md5="c98b06c2f4686d53447722fcd48bdf8a" sha1="224fa8e29866745356dcc0b97a227ac1129300bc" wavesha1="67339dcd221b83f5f779ef411c305b04ac18b9cd"/>
+	</game>
+</datafile>

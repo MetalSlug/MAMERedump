@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Compilations</name>
+		<description>MAME Redump - NEC PC-Engine CD &amp; TurboGrafx-16 CD - Compilations (TOSEC-v2019-04-18)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="4 in 1 Super CD (1992)(Hudson)(US)">
+		<description>4 in 1 Super CD (1992)(Hudson)(US)</description>
+		<disk name="4 in 1 Super CD (1992)(Hudson)(US).chd" sha1="e56888d5c3e07b944fef41ecde78b3b4145fbcbf" />
+	</machine>
+	<machine name="Nightmare Collection - Dead of the Brain 1 &amp; 2 (1999)(NEC)(JP)">
+		<description>Nightmare Collection - Dead of the Brain 1 &amp; 2 (1999)(NEC)(JP)</description>
+		<disk name="Nightmare Collection - Dead of the Brain 1 &amp; 2 (1999)(NEC)(JP).chd" sha1="bba49aa593110b813491a974f3d036231b482fd8" />
+	</machine>
+	<machine name="Super Real Mahjong PII-III Custom (1994)(Naxat)(JP)">
+		<description>Super Real Mahjong PII-III Custom (1994)(Naxat)(JP)</description>
+		<disk name="Super Real Mahjong PII-III Custom (1994)(Naxat)(JP).chd" sha1="8108a65d7b6531b517c561fec523f7209ae2e02c" />
+	</machine>
+</datafile>

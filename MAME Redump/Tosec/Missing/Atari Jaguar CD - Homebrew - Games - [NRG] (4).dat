@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Atari Jaguar CD - Homebrew - Games - [NRG]</name>
+		<description>MAME Redump - Atari Jaguar CD - Homebrew - Games - [NRG] (TOSEC-v2024-01-15)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Atomic (2006-02-18)(The Removers)(FR)(en)" type="">
+		<description>Atomic (2006-02-18)(The Removers)(FR)(en)</description>
+		<rom name="Atomic (2006-02-18)(The Removers)(FR)(en).nrg" size="11613766" crc="20D7AA78" md5="31281836BEE0B258755825DCE282C949" sha1="28ABF75551CFF805A60A29514AE2557C1BB73BED" />
+	</game>
+	<game name="Atomic Reloaded (2009-07-04)(The Removers)(FR)(en)" type="">
+		<description>Atomic Reloaded (2009-07-04)(The Removers)(FR)(en)</description>
+		<rom name="Atomic Reloaded (2009-07-04)(The Removers)(FR)(en).nrg" size="8175948" crc="0CC5D936" md5="0276154786B760FCE756376AAAE48006" sha1="E34900882786A72124862FAE9998CABCC0725B51" />
+	</game>
+	<game name="DiamJag (2016)(Jagware Team)" type="">
+		<description>DiamJag (2016)(Jagware Team)</description>
+		<rom name="DiamJag (2016)(Jagware Team).nrg" size="12061750" crc="4886E1DD" md5="9255724FF20943E479C30C16CF79D7A9" sha1="C5A9AF4A39342B63060168789E389EC66993747B" />
+	</game>
+	<game name="Do the Same (2011)(Matmook)" type="">
+		<description>Do the Same (2011)(Matmook)</description>
+		<rom name="Do the Same (2011)(Matmook).nrg" size="10062310" crc="BC5A33F2" md5="91464B8B96ABF06EE9FB52AB11FB2EB5" sha1="1435F303789F133DEE1442BC98FE84C41879ED46" />
+	</game>
+</datafile>

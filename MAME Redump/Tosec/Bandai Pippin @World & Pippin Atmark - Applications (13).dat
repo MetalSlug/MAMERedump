@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Bandai Pippin @World &amp; Pippin Atmark - Applications</name>
+		<description>MAME Redump - Bandai Pippin @World &amp; Pippin Atmark - Applications (TOSEC-v2012-07-06)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="atMark Town ver.1.0 (1996)(Bandai)(JP)[!][BDB-005B]">
+		<description>atMark Town ver.1.0 (1996)(Bandai)(JP)[!][BDB-005B]</description>
+		<disk name="atMark Town ver.1.0 (1996)(Bandai)(JP)[!][BDB-005B].chd" sha1="ae6bfc381d13f2cedc0a5e3ff314e9da692e9f5b" />
+	</machine>
+	<machine name="atMark Town ver.1.0 (1996)(Bandai)(JP)[BDB-005A]">
+		<description>atMark Town ver.1.0 (1996)(Bandai)(JP)[BDB-005A]</description>
+		<disk name="atMark Town ver.1.0 (1996)(Bandai)(JP)[BDB-005A].chd" sha1="1418e89fe4974822a03373c4c1a195f5b29494f8" />
+	</machine>
+	<machine name="Franky Online for Pippin (1995)(Bandai)(JP)[!][BDB-006A]">
+		<description>Franky Online for Pippin (1995)(Bandai)(JP)[!][BDB-006A]</description>
+		<disk name="Franky Online for Pippin (1995)(Bandai)(JP)[!][BDB-006A].chd" sha1="28056aa7f35cf8108afa6adc7a69316b6569716c" />
+	</machine>
+	<machine name="Franky Online for Pippin (1995)(Bandai)(JP)[!][BDB-006B]">
+		<description>Franky Online for Pippin (1995)(Bandai)(JP)[!][BDB-006B]</description>
+		<disk name="Franky Online for Pippin (1995)(Bandai)(JP)[!][BDB-006B].chd" sha1="f53c9db402719cd8abb5ecd97bddb43c9d83f731" />
+	</machine>
+	<machine name="Internet Kit v1.0 (1996)(Bandai)(JP)[!][BDB-004A]">
+		<description>Internet Kit v1.0 (1996)(Bandai)(JP)[!][BDB-004A]</description>
+		<disk name="Internet Kit v1.0 (1996)(Bandai)(JP)[!][BDB-004A].chd" sha1="8b26ed169cd467a0cba7a81e23a7180f08f7f8d9" />
+	</machine>
+	<machine name="Internet Kit v1.0 (1996)(Bandai)(JP)[BDB-004B]">
+		<description>Internet Kit v1.0 (1996)(Bandai)(JP)[BDB-004B]</description>
+		<disk name="Internet Kit v1.0 (1996)(Bandai)(JP)[BDB-004B].chd" sha1="9293f6da623467187520ed8ed40fe903e29defb5" />
+	</machine>
+	<machine name="PEase v1.0 (1996)(MAKI Enterprise)(JP)[PEASE001]">
+		<description>PEase v1.0 (1996)(MAKI Enterprise)(JP)[PEASE001]</description>
+		<disk name="PEase v1.0 (1996)(MAKI Enterprise)(JP)[PEASE001].chd" sha1="dd697d446f097d183352738bbe40e29660601c4e" />
+	</machine>
+	<machine name="PEase v1.0 (1996)(MAKI Enterprise)(JP)[PEASE002]">
+		<description>PEase v1.0 (1996)(MAKI Enterprise)(JP)[PEASE002]</description>
+		<disk name="PEase v1.0 (1996)(MAKI Enterprise)(JP)[PEASE002].chd" sha1="76dab07691da2cc2511fb431ac48b79840defc1e" />
+	</machine>
+	<machine name="Pippin Navigator CD v1.1 (1996)(Bandai)(JP)[!]">
+		<description>Pippin Navigator CD v1.1 (1996)(Bandai)(JP)[!]</description>
+		<disk name="Pippin Navigator CD v1.1 (1996)(Bandai)(JP)[!].chd" sha1="6b0d99d69a5b5d86ba60ae3310315f4da202c537" />
+	</machine>
+	<machine name="Pippin Network CD (1996)(Bandai)(JP)[!][BDB-002A]">
+		<description>Pippin Network CD (1996)(Bandai)(JP)[!][BDB-002A]</description>
+		<disk name="Pippin Network CD (1996)(Bandai)(JP)[!][BDB-002A].chd" sha1="022a0ea97cb861a1da6727e94a915072fc329a60" />
+	</machine>
+	<machine name="Pippin Network CD (1996)(Bandai)(JP)[!][BDB-002B]">
+		<description>Pippin Network CD (1996)(Bandai)(JP)[!][BDB-002B]</description>
+		<disk name="Pippin Network CD (1996)(Bandai)(JP)[!][BDB-002B].chd" sha1="ff7828fee86ff3fa96b11c05d9e6a4b91f143da1" />
+	</machine>
+	<machine name="TV Works Ver.1.0 (1996)(Bandai)(JP)[!]">
+		<description>TV Works Ver.1.0 (1996)(Bandai)(JP)[!]</description>
+		<disk name="TV Works Ver.1.0 (1996)(Bandai)(JP)[!].chd" sha1="891140e8924fac72e5ec964f11888473f9f2d526" />
+	</machine>
+	<machine name="TV Works Ver.2.0 (1996)(Bandai)(JP)[!]">
+		<description>TV Works Ver.2.0 (1996)(Bandai)(JP)[!]</description>
+		<disk name="TV Works Ver.2.0 (1996)(Bandai)(JP)[!].chd" sha1="08930461aa018adc58a6f52507f05ba17c53549d" />
+	</machine>
+</datafile>

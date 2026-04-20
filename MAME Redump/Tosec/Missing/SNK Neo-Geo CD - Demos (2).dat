@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>SNK Neo-Geo CD - Demos</name>
+		<description>MAME Redump - SNK Neo-Geo CD - Demos (TOSEC-v2022-06-08)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Chaos Neo-Geo CD Demo (2005-02-03)(Doty, Charles)(PD)" type="">
+		<description>Chaos Neo-Geo CD Demo (2005-02-03)(Doty, Charles)(PD)</description>
+		<rom name="063_FROG.FIX" size="131072" crc="75DE9468" md5="D4A1A31A9379B5D10E3836F7E6148019" sha1="7EA5C8433D099C971887BED6B471E11EE67677B4" />
+		<rom name="063_FROG.PCM" size="1048576" crc="EC001618" md5="3104634784537096A5BBA4ED66A2EE99" sha1="359E831A7AA4913DD13BE727B1BF3C86352D2B19" />
+		<rom name="063_FROG.PRG" size="524288" crc="DC1DE94C" md5="1321E96C54910A0E9DC495ABC038962C" sha1="0B888D37C29F632BAE0015B02A4154ABDF2A93F9" />
+		<rom name="063_FROG.SPR" size="1048576" crc="42CF4D51" md5="E2E0277EFFC2377CFABCFCFA2BD89207" sha1="D1072821502AE2D752330AF790C4F73E0F68536A" />
+		<rom name="063_FROG.Z80" size="65536" crc="51C4EA52" md5="8539492D40C96CC71FB5762E6C41AB46" sha1="C09AC8A49D792F022B406370D025B2FB9386947D" />
+		<rom name="ABS.TXT" size="30" crc="C4AD414A" md5="F0D91AE03492C0531A9F960C45588112" sha1="BA0101F87B7BB7455A093E8456F8B7B18A961D70" />
+		<rom name="BIB.TXT" size="35" crc="C7A66A0B" md5="0C6DF774D70673EA8E3F29EDF674E413" sha1="71A22C0052BB08124949F6F4CADD83A0F6DDF906" />
+		<rom name="CPY.TXT" size="29" crc="20D6116B" md5="4FF22328FE4B77AD20E302DBA0BF46AD" sha1="EE9F35D7452860827B01A0F93E59BD78AB9E157E" />
+		<rom name="IPL.TXT" size="91" crc="0CE0FD0E" md5="DF5D6A6BD9B6DB7942D55E2DAB64E4B9" sha1="725471A2B4E8E494C8521DBE5BF3CAEE9F9B0D1A" />
+	</game>
+	<game name="Eira (2015-12-23)(Resistance)" type="">
+		<description>Eira (2015-12-23)(Resistance)</description>
+		<rom name="Eira (2015-12-23)(Resistance).iso" size="1722368" crc="7CB72B20" md5="FD3BDF99B09FDDFF967B34AA522E2507" sha1="9DF5630EEA194A178743D9F5C5C59C1DBB399A26" />
+		<rom name="Eira (2015-12-23)(Resistance).mp3" size="2549956" crc="CDB043CE" md5="B4BAD61B14C848EC26E26748BA88CF8A" sha1="D4108D08DF1E747DD39B3C509D8860F94201E840" />
+	</game>
+</datafile>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Demos - [BIN]</name>
+		<description>MAME Redump - Sega Dreamcast - Demos - [BIN] (TOSEC-v2024-03-27)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Technic Demo Babel (demo-rolling) (1998)(Sega)(NTSC-PAL)[h][b partially working][version 1, emulator only, log off]">
+		<description>Technic Demo Babel (demo-rolling) (1998)(Sega)(NTSC-PAL)[h][b partially working][version 1, emulator only, log off]</description>
+		<disk name="Technic Demo Babel (demo-rolling) (1998)(Sega)(NTSC-PAL)[h][b partially working][version 1, emulator only, log off].chd" sha1="95618853003a7a3f934012529af78c5aa666c7d9" />
+	</machine>
+	<machine name="Technic Demo Babel (demo-rolling) (1998)(Sega)(NTSC-PAL)[h][b partially working][version 1, emulator only, log on]">
+		<description>Technic Demo Babel (demo-rolling) (1998)(Sega)(NTSC-PAL)[h][b partially working][version 1, emulator only, log on]</description>
+		<disk name="Technic Demo Babel (demo-rolling) (1998)(Sega)(NTSC-PAL)[h][b partially working][version 1, emulator only, log on].chd" sha1="bb443086952fa3f4ed9e198c807748ecdec96f34" />
+	</machine>
+</datafile>

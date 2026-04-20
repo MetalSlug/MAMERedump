@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Applications</name>
+		<description>MAME Redump - Commodore Amiga CD32 - Applications (TOSEC-v2018-03-24)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Amiga Workbench CD - 32 3.0 (1993)(Commodore)(DE)(en)[!]">
+		<description>Amiga Workbench CD - 32 3.0 (1993)(Commodore)(DE)(en)[!]</description>
+		<disk name="Amiga Workbench CD - 32 3.0 (1993)(Commodore)(DE)(en)[!].chd" sha1="89b0ce0e625603dd084405479f2fcc0365d251f6" />
+	</machine>
+	<machine name="Communicator II (1994)(Eureka)">
+		<description>Communicator II (1994)(Eureka)</description>
+		<disk name="Communicator II (1994)(Eureka).chd" sha1="51ddcbefbc346b34c3df0782593b83c4fbf54e7c" />
+	</machine>
+	<machine name="Communicator III (1994)(Eureka)(M3)[!]">
+		<description>Communicator III (1994)(Eureka)(M3)[!]</description>
+		<disk name="Communicator III (1994)(Eureka)(M3)[!].chd" sha1="a546b9ee756b384e1107d40acf6e2c245b498e47" />
+	</machine>
+	<machine name="FolioworX Player v1.34f (1995)(COME)[!][Amiga-CD32]">
+		<description>FolioworX Player v1.34f (1995)(COME)[!][Amiga-CD32]</description>
+		<disk name="FolioworX Player v1.34f (1995)(COME)[!][Amiga-CD32].chd" sha1="8de8852826e446d18686f88c3698d78888b0411c" />
+	</machine>
+	<machine name="Network CD Volume 2 (1995)(Weird Science)[!]">
+		<description>Network CD Volume 2 (1995)(Weird Science)[!]</description>
+		<disk name="Network CD Volume 2 (1995)(Weird Science)[!].chd" sha1="2cba772cf8ee5e28597d1bc4768027c8f647e406" />
+	</machine>
+	<machine name="PhotoLite (1994)(Eureka)(de-en)[!]">
+		<description>PhotoLite (1994)(Eureka)(de-en)[!]</description>
+		<disk name="PhotoLite (1994)(Eureka)(de-en)[!].chd" sha1="a84ab7bafe8bcc43c88c3b599c4b06027faeed27" />
+	</machine>
+	<machine name="Video Creator v1.1 (1994)(Almathera)[!][FMV enhanced]">
+		<description>Video Creator v1.1 (1994)(Almathera)[!][FMV enhanced]</description>
+		<disk name="Video Creator v1.1 (1994)(Almathera)[!][FMV enhanced].chd" sha1="3cd563cc875f27b7b51c5c50a8cb4c441875b289" />
+	</machine>
+</datafile>

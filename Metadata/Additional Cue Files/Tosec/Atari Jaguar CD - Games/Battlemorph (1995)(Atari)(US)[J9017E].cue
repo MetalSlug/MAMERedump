@@ -1,0 +1,3 @@
+FILE "Battlemorph (1995)(Atari)(US)[J9017E].img" BINARY
+  TRACK 01 AUDIO
+    INDEX 01 00:00:00

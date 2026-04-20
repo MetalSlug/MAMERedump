@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Fujitsu FM Towns - CD - Operating Systems</name>
+		<description>MAME Redump - Fujitsu FM Towns - CD - Operating Systems (TOSEC-v2021-12-11)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="F-BASIC386 v1.1 L20 (1989)(Fujitsu)(JP)">
+		<description>F-BASIC386 v1.1 L20 (1989)(Fujitsu)(JP)</description>
+		<disk name="F-BASIC386 v1.1 L20 (1989)(Fujitsu)(JP).chd" sha1="9beed7857203064212069d9ea9b9c70d6a60829e" />
+	</machine>
+	<machine name="F-BASIC386 v1.1 L21 (1990)(Fujitsu)(JP)[b]">
+		<description>F-BASIC386 v1.1 L21 (1990)(Fujitsu)(JP)[b]</description>
+		<disk name="F-BASIC386 v1.1 L21 (1990)(Fujitsu)(JP)[b].chd" sha1="3fd80ab0594a93ed7f65b19dd562118f9cd1de2b" />
+	</machine>
+	<machine name="F-BASIC386 v2.1 L10 (1992)(Fujitsu)(JP)">
+		<description>F-BASIC386 v2.1 L10 (1992)(Fujitsu)(JP)</description>
+		<disk name="F-BASIC386 v2.1 L10 (1992)(Fujitsu)(JP).chd" sha1="7e6132e871d3ebc353abc8cbb686437609f5aa5c" />
+	</machine>
+	<machine name="GNU for Towns Release 2 (1991)(FM Users Group)(JP)">
+		<description>GNU for Towns Release 2 (1991)(FM Users Group)(JP)</description>
+		<disk name="GNU for Towns Release 2 (1991)(FM Users Group)(JP).chd" sha1="f695d3ebfb7d223cb8d0f70af61bb95197995226" />
+	</machine>
+	<machine name="Linux JE3 (1994)(Laser 5)(JP)">
+		<description>Linux JE3 (1994)(Laser 5)(JP)</description>
+		<disk name="Linux JE3 (1994)(Laser 5)(JP).chd" sha1="7e50461aaaf313ef375cf5c2d5c68a05aa39f26f" />
+	</machine>
+	<machine name="Linux JE4 (1995)(Laser 5)(JP)(Disc 1 of 3)">
+		<description>Linux JE4 (1995)(Laser 5)(JP)(Disc 1 of 3)</description>
+		<disk name="Linux JE4 (1995)(Laser 5)(JP)(Disc 1 of 3).chd" sha1="5e14474842f2837b4d70ed31ed39e1f242acdd9d" />
+	</machine>
+	<machine name="Linux JE4 (1995)(Laser 5)(JP)(Disc 2 of 3)">
+		<description>Linux JE4 (1995)(Laser 5)(JP)(Disc 2 of 3)</description>
+		<disk name="Linux JE4 (1995)(Laser 5)(JP)(Disc 2 of 3).chd" sha1="cc24e573ec5e21a38ca8c0623000b7b21d4dd002" />
+	</machine>
+	<machine name="Linux JE4 (1995)(Laser 5)(JP)(Disc 3 of 3)">
+		<description>Linux JE4 (1995)(Laser 5)(JP)(Disc 3 of 3)</description>
+		<disk name="Linux JE4 (1995)(Laser 5)(JP)(Disc 3 of 3).chd" sha1="bb368f57e048449f5c6814619f169b8c7ea491bf" />
+	</machine>
+	<machine name="TownsOS V1.1 L10 (1989)(Fujitsu)(JP)">
+		<description>TownsOS V1.1 L10 (1989)(Fujitsu)(JP)</description>
+		<disk name="TownsOS V1.1 L10 (1989)(Fujitsu)(JP).chd" sha1="73362199960e64972e1a6850445d0f33d7611b7c" />
+	</machine>
+	<machine name="TownsOS V1.1 L20 (1989)(Fujitsu)(JP)">
+		<description>TownsOS V1.1 L20 (1989)(Fujitsu)(JP)</description>
+		<disk name="TownsOS V1.1 L20 (1989)(Fujitsu)(JP).chd" sha1="e97017ff286d8e8452438045f1984981a934331d" />
+	</machine>
+	<machine name="TownsOS V1.1 L30 (1990)(Fujitsu)(JP)">
+		<description>TownsOS V1.1 L30 (1990)(Fujitsu)(JP)</description>
+		<disk name="TownsOS V1.1 L30 (1990)(Fujitsu)(JP).chd" sha1="b6380fee762c158c6bd9d94ae563ba1c6fa9a389" />
+	</machine>
+	<machine name="TownsOS V2.1 L10A (1991)(Fujitsu)(JP)">
+		<description>TownsOS V2.1 L10A (1991)(Fujitsu)(JP)</description>
+		<disk name="TownsOS V2.1 L10A (1991)(Fujitsu)(JP).chd" sha1="8a45068e8485ba931231472ec0ce647e59a65fc9" />
+	</machine>
+	<machine name="TownsOS V2.1 L51 (1995)(Fujitsu)(JP)">
+		<description>TownsOS V2.1 L51 (1995)(Fujitsu)(JP)</description>
+		<disk name="TownsOS V2.1 L51 (1995)(Fujitsu)(JP).chd" sha1="41ae13e013ec35f941698e4519033bf855c395bd" />
+	</machine>
+	<machine name="Windows 3.1 L11 - Rev 3.95 (1993)(Microsoft)(JP)[TownsOS]">
+		<description>Windows 3.1 L11 - Rev 3.95 (1993)(Microsoft)(JP)[TownsOS]</description>
+		<disk name="Windows 3.1 L11 - Rev 3.95 (1993)(Microsoft)(JP)[TownsOS].chd" sha1="f48bba575fd3da9a6dafcefd0d4ba3444e69fb45" />
+	</machine>
+	<machine name="Windows 95 (1996)(Microsoft)(JP)[b]">
+		<description>Windows 95 (1996)(Microsoft)(JP)[b]</description>
+		<disk name="Windows 95 (1996)(Microsoft)(JP)[b].chd" sha1="fa3d97306066aad1f5bc20f5587444b8f351650e" />
+	</machine>
+	<machine name="Windows 95 (1996)(Microsoft)(JP)[b2]">
+		<description>Windows 95 (1996)(Microsoft)(JP)[b2]</description>
+		<disk name="Windows 95 (1996)(Microsoft)(JP)[b2].chd" sha1="a6f689eb62458b14eab48f6a47979fc870312b3f" />
+	</machine>
+</datafile>

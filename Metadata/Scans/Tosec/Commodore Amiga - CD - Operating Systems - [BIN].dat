@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga - CD - Operating Systems - [BIN]</name>
+		<description>Commodore Amiga - CD - Operating Systems - [BIN]</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="AmigaOS 3.5 (1999)(Haage &amp; Partner)" type="cd" sha1="1801af0ddf0a6d698a96b0bab0962e72907c08d9" size="146580348" crc="6ba2fa63" fullsha1="d1edef9540713db54ace8c598a12e3dc741788ec" datasha1="36be1a1fb3edd2cae1c3b63efd785031bfc49374" rawdatasha1="3b9cf14a4d90b53586ed0130f1bb8fbd12a7fa5e" rawdatasize="294780864">
+		<category>Games</category>
+		<description>AmigaOS 3.5 (1999)(Haage &amp; Partner)</description>
+		<rom name="AmigaOS 3.5 (1999)(Haage &amp; Partner) (Track 01).bin" size="137488512" crc="b316c98b" md5="441932a563a3b49e98a1401c6914e03c" sha1="dbc1092a855d07e086645364c70ff9e904f8db85"/>
+		<rom name="AmigaOS 3.5 (1999)(Haage &amp; Partner) (Track 02).bin" size="157292352" crc="d1875809" md5="af6f59aab81537d4904fe1b78f79ec29" sha1="3836ba5230616d3b660b313d3777346de7aea68e"/>
+	</game>
+</datafile>

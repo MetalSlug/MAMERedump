@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Homebrew - Applications</name>
+		<description>MAME Redump - NEC PC-Engine CD &amp; TurboGrafx-16 CD - Homebrew - Applications (TOSEC-v2023-08-29)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="240p Test Suite v1.12 (2022-05-02)(Urbina, Artemio)(GPLv2)" type="">
+		<description>240p Test Suite v1.12 (2022-05-02)(Urbina, Artemio)(GPLv2)</description>
+		<rom name="240p Test Suite v1.12 (2022-05-02)(Urbina, Artemio)(GPLv2)(Track 1 of 5).wav" size="3267856" crc="82CF434C" md5="2B568F93F2165799EF3D943990FD2F19" sha1="3C3B19ED38277B97F166263039F2C1A2066A00D9" />
+		<rom name="240p Test Suite v1.12 (2022-05-02)(Urbina, Artemio)(GPLv2)(Track 2 of 5).iso" size="1083392" crc="9AEEB957" md5="42980CB631915A058658982F9E5C14A6" sha1="A7A22B1C6DAF87246D31ADE9ACA78F6102FC2242" />
+		<rom name="240p Test Suite v1.12 (2022-05-02)(Urbina, Artemio)(GPLv2)(Track 3 of 5).wav" size="4182032" crc="5DAC9C1D" md5="64566249C613891960F9C13625EAA27F" sha1="9C6D53F6F4F319E78A5F96CA7288A46ED85EFFCD" />
+		<rom name="240p Test Suite v1.12 (2022-05-02)(Urbina, Artemio)(GPLv2)(Track 4 of 5).wav" size="2645956" crc="5C05ED75" md5="BC3AE39444286270EE258EB56AF95B71" sha1="B53EC9869ACDB94DB7CA34140B163AEF5AF6F486" />
+		<rom name="240p Test Suite v1.12 (2022-05-02)(Urbina, Artemio)(GPLv2)(Track 5 of 5).wav" size="2169992" crc="1C44263D" md5="533BEC7C6B8B53D260149BC28551B13C" sha1="254300D118BC561AF36D16B338EACD654403EF1C" />
+	</game>
+	<game name="240p Test Suite v1.12 (2022-05-02)(Urbina, Artemio)(GPLv2)[req Super CD-ROM2]" type="">
+		<description>240p Test Suite v1.12 (2022-05-02)(Urbina, Artemio)(GPLv2)[req Super CD-ROM2]</description>
+		<rom name="240p Test Suite v1.12 (2022-05-02)(Urbina, Artemio)(GPLv2)(Track 1 of 5)[req Super CD-ROM2].wav" size="3267856" crc="82CF434C" md5="2B568F93F2165799EF3D943990FD2F19" sha1="3C3B19ED38277B97F166263039F2C1A2066A00D9" />
+		<rom name="240p Test Suite v1.12 (2022-05-02)(Urbina, Artemio)(GPLv2)(Track 2 of 5)[req Super CD-ROM2].iso" size="921600" crc="C78C7984" md5="7337008F1EA9815F7E1BA8ACF185119C" sha1="866094F854C5F4CE7F774E766E63C44BCEE028DA" />
+		<rom name="240p Test Suite v1.12 (2022-05-02)(Urbina, Artemio)(GPLv2)(Track 3 of 5)[req Super CD-ROM2].wav" size="4182032" crc="5DAC9C1D" md5="64566249C613891960F9C13625EAA27F" sha1="9C6D53F6F4F319E78A5F96CA7288A46ED85EFFCD" />
+		<rom name="240p Test Suite v1.12 (2022-05-02)(Urbina, Artemio)(GPLv2)(Track 4 of 5)[req Super CD-ROM2].wav" size="2645956" crc="5C05ED75" md5="BC3AE39444286270EE258EB56AF95B71" sha1="B53EC9869ACDB94DB7CA34140B163AEF5AF6F486" />
+		<rom name="240p Test Suite v1.12 (2022-05-02)(Urbina, Artemio)(GPLv2)(Track 5 of 5)[req Super CD-ROM2].wav" size="2169992" crc="1C44263D" md5="533BEC7C6B8B53D260149BC28551B13C" sha1="254300D118BC561AF36D16B338EACD654403EF1C" />
+	</game>
+</datafile>

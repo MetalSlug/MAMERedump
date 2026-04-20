@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>cdtv</name>
+		<description>MAME Redump - cdtv</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="assass1\assassins">
+		<category>Games</category>
+		<description>The Assassins Ultimate CD Games Collection</description>
+		<year>19??</year>
+		<manufacturer>Weird Science</manufacturer>
+		<disk name="assass1\assassins.chd" sha1="8d6d2d865c9e3b36c802b480ce8295695f2e47b9" />
+	</machine>
+	<machine name="assass2\assassins 2">
+		<category>Games</category>
+		<description>The Assassins Ultimate Games Volume 2</description>
+		<year>19??</year>
+		<manufacturer>Weird Science</manufacturer>
+		<disk name="assass2\assassins 2.chd" sha1="7387d976e96d04fc208493641c56fcfb0c3868ff" />
+	</machine>
+	<machine name="assass3\assassins 3 - the ultimate games cd (1997)(weird science)[amiga-cd32-cdtv]">
+		<category>Games</category>
+		<description>The Assassins CD 3</description>
+		<year>1997</year>
+		<manufacturer>Weird Science</manufacturer>
+		<disk name="assass3\assassins 3 - the ultimate games cd (1997)(weird science)[amiga-cd32-cdtv].chd" sha1="9324ddf7392421d3bb74cbc199c7cd148fd462c6" />
+	</machine>
+	<machine name="assass4\assassins 4 (1999)(weird science)">
+		<category>Games</category>
+		<description>The Assassins CD 4</description>
+		<year>1999</year>
+		<manufacturer>Weird Science</manufacturer>
+		<disk name="assass4\assassins 4 (1999)(weird science).chd" sha1="d096be854362bb7053ea9406ffb5f30bc685426e" />
+	</machine>
+	<machine name="blkviper\black viper (1996)(neo)">
+		<category>Games</category>
+		<description>Black Viper (CDTV?)</description>
+		<year>1996</year>
+		<manufacturer>Neo</manufacturer>
+		<disk name="blkviper\black viper (1996)(neo).chd" sha1="8fed0ebdf54f749d8099560ef2423fbc1493a054" />
+	</machine>
+	<machine name="btlchess\battle chess (1994)(interplay)">
+		<category>Games</category>
+		<description>Battle Chess</description>
+		<year>1994</year>
+		<manufacturer>Interplay</manufacturer>
+		<disk name="btlchess\battle chess (1994)(interplay).chd" sha1="9b19451fb6a6b8a4cb50a64a2dbfcee50b852e9d" />
+	</machine>
+	<machine name="casigams\casino games cdtv">
+		<category>Games</category>
+		<description>Casino Games</description>
+		<year>1992</year>
+		<manufacturer>Saen Software</manufacturer>
+		<disk name="casigams\casino games cdtv.chd" sha1="1f02c705e57aff330fc393696e6fae96ed8e61d2" />
+	</machine>
+	<machine name="cdremix2\cdremix_ii">
+		<category>Games</category>
+		<description>CD Remix Version II</description>
+		<year>1991</year>
+		<manufacturer>Microdeal</manufacturer>
+		<disk name="cdremix2\cdremix_ii.chd" sha1="55cb5065a6e1b8065b2d78b4096bc9c17b7b08ae" />
+	</machine>
+	<machine name="chaosand\chaos_in_andromeda">
+		<category>Games</category>
+		<description>Chaos in Andromeda - Eyes of the Eagle</description>
+		<year>1992</year>
+		<manufacturer>On-Line</manufacturer>
+		<disk name="chaosand\chaos_in_andromeda.chd" sha1="51255da50f66ae15ce9cd0537d6f22196411422c" />
+	</machine>
+	<machine name="covgrlsp\covergirlstrippoker">
+		<category>Games</category>
+		<description>Cover Girl Strip Poker</description>
+		<year>1991</year>
+		<manufacturer>Emotional Pictures</manufacturer>
+		<disk name="covgrlsp\covergirlstrippoker.chd" sha1="773d750c9d580e17a1f40c1ed05fe3daadeae919" />
+	</machine>
+	<machine name="cubulus\cubulus_magic_serpent">
+		<category>Games</category>
+		<description>Cubulus &amp; Magic Serpent</description>
+		<year>1991</year>
+		<manufacturer>Software 2000</manufacturer>
+		<disk name="cubulus\cubulus_magic_serpent.chd" sha1="c9beba578c2a294485031fc0ea4b4870ab450efb" />
+	</machine>
+	<machine name="essmega\e.s.s. mega">
+		<category>Games</category>
+		<description>E.S.S. Mega</description>
+		<year>1991</year>
+		<manufacturer>Coktel</manufacturer>
+		<disk name="essmega\e.s.s. mega.chd" sha1="dfd5d80325c4fadf7deee11b33d24fa42189e325" />
+	</machine>
+	<machine name="falcon\falcon">
+		<category>Games</category>
+		<description>Falcon</description>
+		<year>1991</year>
+		<manufacturer>Mirrorsoft?</manufacturer>
+		<disk name="falcon\falcon.chd" sha1="bc359735a14b1d2c561fca5800346f81cefe0e24" />
+	</machine>
+	<machine name="gamerdel\gamers' delight (1994)(gti - schatztruhe)(en-de)[amiga-cd32-cdtv]">
+		<category>Games</category>
+		<description>Gamers' Delight (UK, Germany)</description>
+		<year>1994</year>
+		<manufacturer>GTI - Schatztruhe</manufacturer>
+		<disk name="gamerdel\gamers' delight (1994)(gti - schatztruhe)(en-de)[amiga-cd32-cdtv].chd" sha1="3fa256584eed79c90ce7067dd29acf9e3df73878" />
+	</machine>
+	<machine name="insidino\insight dinosaurs v1.0 (1994)(optonica)[cd32-cdtv]">
+		<category>Games</category>
+		<description>Insight: Dinosaurs (Europe, v1.0)</description>
+		<year>1994</year>
+		<manufacturer>Optonica</manufacturer>
+		<disk name="insidino\insight dinosaurs v1.0 (1994)(optonica)[cd32-cdtv].chd" sha1="460ea3865a821b47d51446acacf39e7aaee2cbb7" />
+	</machine>
+	<machine name="insitech\insight technology (1993)(commodore)[cd32-cdtv]">
+		<category>Games</category>
+		<description>Insight: Technology</description>
+		<year>1993</year>
+		<manufacturer>Commodore</manufacturer>
+		<disk name="insitech\insight technology (1993)(commodore)[cd32-cdtv].chd" sha1="f57c5302abe85c79be6812dba74a5afb767680c7" />
+	</machine>
+	<machine name="labytime\labyrinth of time, the (1994)(electronic arts)[amiga-cd32-cdtv]">
+		<category>Games</category>
+		<description>The Labyrinth of Time</description>
+		<year>1994</year>
+		<manufacturer>Electronic Arts</manufacturer>
+		<disk name="labytime\labyrinth of time, the (1994)(electronic arts)[amiga-cd32-cdtv].chd" sha1="82003a6e2d5bfd2b0a9e6573dc89d526849395b8" />
+	</machine>
+	<machine name="musicolr\musicolor cdtv (disc 1 of 2) cdtv">
+		<category>Games</category>
+		<description>Musicolor</description>
+		<year>1992</year>
+		<manufacturer>Virgin Multimedia</manufacturer>
+		<disk name="musicolr\musicolor cdtv (disc 1 of 2) cdtv.chd" sha1="65a49c63d995c6761607670979059b39c1313428" />
+	</machine>
+	<machine name="musicolr\musicolor cdtv (disc 2 of 2) cdtv">
+		<category>Games</category>
+		<description>Musicolor</description>
+		<year>1992</year>
+		<manufacturer>Virgin Multimedia</manufacturer>
+		<disk name="musicolr\musicolor cdtv (disc 2 of 2) cdtv.chd" sha1="db332703aba92c10b118798d0d8a805dec406651" />
+	</machine>
+	<machine name="northpol\north polar expedition (1992)(virgin multimedia)">
+		<category>Games</category>
+		<description>North Polar Expedition (v1.01)</description>
+		<year>1992</year>
+		<manufacturer>Virgin Multimedia</manufacturer>
+		<disk name="northpol\north polar expedition (1992)(virgin multimedia).chd" sha1="3373de60a4421058748616b90d5ec9a489b35045" />
+	</machine>
+	<machine name="shiftrix\shiftrix_lettrix">
+		<category>Games</category>
+		<description>Shiftrix &amp; Lettrix</description>
+		<year>1991</year>
+		<manufacturer>Software 2000</manufacturer>
+		<disk name="shiftrix\shiftrix_lettrix.chd" sha1="d4351b53df43ad0b26376d1c68a1e323b0b41f70" />
+	</machine>
+	<machine name="spacewar\space wars cdtv">
+		<category>Games</category>
+		<description>Space Wars</description>
+		<year>1992</year>
+		<manufacturer>Odyssey</manufacturer>
+		<disk name="spacewar\space wars cdtv.chd" sha1="dd93fa052a9f8e0d717cbf3955a0b4d90baccce1" />
+	</machine>
+	<machine name="spirexa\spirit of excalibur (1991)(virgin)[ntsc]">
+		<category>Games</category>
+		<description>Spirit of Excalibur</description>
+		<year>1991</year>
+		<manufacturer>Virgin</manufacturer>
+		<disk name="spirexa\spirit of excalibur (1991)(virgin)[ntsc].chd" sha1="968a6929276ccf0cbd3f09e9115cdd8c83167028" />
+	</machine>
+	<machine name="townona\town_with_no_name">
+		<category>Games</category>
+		<description>Town With No Name</description>
+		<year>1992</year>
+		<manufacturer>On-Line</manufacturer>
+		<disk name="townona\town_with_no_name.chd" sha1="f8d8eea099378afd61632eda85ce1d48b76d1111" />
+	</machine>
+</datafile>

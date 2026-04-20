@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>3DO 3DO Interactive Multiplayer - Homebrew - Applications</name>
+		<description>3DO 3DO Interactive Multiplayer - Homebrew - Applications</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Chip-8 Emulator (2016)(Gameblabla)[incl. Tetris ROM]" type="cd" sha1="b30c6bb6e85e920ddfa8e6b62199b9ecd6ef6945" size="985602" crc="1b48648d" fullsha1="f3d0439ac8aabbd872d8b8faa71f2aa087b0eb6c" datasha1="e69e31d818698980bd9f7eaa9a0ec381d07cb029" rawdatasha1="9c18e3847d14b1e4627ecb5545c105e49782f59e" rawdatasize="3080192">
+		<category>Games</category>
+		<description>Chip-8 Emulator (2016)(Gameblabla)[incl. Tetris ROM]</description>
+		<rom name="Chip-8 Emulator (2016)(Gameblabla)[incl. Tetris ROM] (Track 01).bin" size="3080192" crc="e7a46be5" md5="ea3e5df452f73bbc3b549b74091b7477" sha1="9c18e3847d14b1e4627ecb5545c105e49782f59e"/>
+	</game>
+	<game name="Joypad Test v1.0 (2011)(Sdevel)" type="cd" sha1="e8932eefc22e74b2c6f222ab99ab2581560ceff2" size="1024131" crc="92220da4" fullsha1="9217efd2b601ebde9b8bc5b633f5750b0ebc01da" datasha1="125040219fe53500ddfaeb898d1da193434f7665" rawdatasha1="751e588db9b37c6183e15c01efe24725351d1d99" rawdatasize="2916352">
+		<category>Games</category>
+		<description>Joypad Test v1.0 (2011)(Sdevel)</description>
+		<rom name="Joypad Test v1.0 (2011)(Sdevel) (Track 01).bin" size="2916352" crc="5342c9d1" md5="2de5a9223fb08430a67c28edbc88cbc6" sha1="751e588db9b37c6183e15c01efe24725351d1d99"/>
+	</game>
+	<game name="LameNES Emulator (2016)(Gameblabla - Saffron)[incl. Hello World ROM]" type="cd" sha1="33efc07465f41b8d36b3f72f0da20a821edf7810" size="1054888" crc="407e4bfe" fullsha1="96e4fca325ca5e8f8b3ed7832ca7dfccbb7c461e" datasha1="463b63ab5593a669e7e8dd00ca388b566458b835" rawdatasha1="c82c4517235e6890f2e144dd7a7f42fe7e1b0823" rawdatasize="3112960">
+		<category>Games</category>
+		<description>LameNES Emulator (2016)(Gameblabla - Saffron)[incl. Hello World ROM]</description>
+		<rom name="LameNES Emulator (2016)(Gameblabla - Saffron)[incl. Hello World ROM] (Track 01).bin" size="3112960" crc="fcec2760" md5="5c22262a64bd91cf1a898b08fc9cdeaf" sha1="c82c4517235e6890f2e144dd7a7f42fe7e1b0823"/>
+	</game>
+</datafile>

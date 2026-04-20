@@ -1,0 +1,3 @@
+FILE "Baldies (1995)(Atari)(US)[J9055E][400720].img" BINARY
+  TRACK 01 AUDIO
+    INDEX 01 00:00:00

@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Homebrew - Demos - [ELF]</name>
+		<description>MAME Redump - Sega Dreamcast - Homebrew - Demos - [ELF] (TOSEC-v2012-02-27)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Burritro Demo v2.0 (19xx)(Kieschnick, Andrew)(PD)" type="">
+		<description>Burritro Demo v2.0 (19xx)(Kieschnick, Andrew)(PD)</description>
+		<rom name="burritro.elf" size="1202256" crc="9BF3D0B5" md5="98FD81B0C83552C75BA9D88C6C27DFE0" sha1="5193834F493D9398CDA699B311F2CE0EC802BFDE" />
+	</game>
+	<game name="Cellshaded Dreamcast Demo (2005-02-02)(TVSpelsfreak)(PD)" type="">
+		<description>Cellshaded Dreamcast Demo (2005-02-02)(TVSpelsfreak)(PD)</description>
+		<rom name="main.elf" size="1314975" crc="80E27088" md5="D40D0198B38E08A357AB833DBE73714C" sha1="DF9F727CCCE1AC5EAF8FB23DB00A24CBEE809631" />
+	</game>
+	<game name="Cheap Shadows Demo - Light FX (19xx)(Tollack, Heinrich)(PD)" type="">
+		<description>Cheap Shadows Demo - Light FX (19xx)(Tollack, Heinrich)(PD)</description>
+		<rom name="light.elf" size="171155" crc="F8993348" md5="ED9936B4BC230D63856D634417C78CB9" sha1="D9A648B6AA88B5D7716713C973D40D15B5C4F5C5" />
+	</game>
+	<game name="Cheap Shadows Demo - Modifier (19xx)(Tollack, Heinrich)(PD)" type="">
+		<description>Cheap Shadows Demo - Modifier (19xx)(Tollack, Heinrich)(PD)</description>
+		<rom name="modifier.elf" size="170934" crc="DE3AEBB1" md5="B8EDA7795FBBEAE4DF30B02B592EC299" sha1="4C854DF72854ADAC51A77A59F147D19A80786A8E" />
+	</game>
+	<game name="EB Demo (2001-02-26)(Pepsis)(PD)" type="">
+		<description>EB Demo (2001-02-26)(Pepsis)(PD)</description>
+		<rom name="ebdemo.elf" size="1040452" crc="AD423EC9" md5="CC2297274F644FDAF9D2478D784869A8" sha1="6F85554956244F8236EC3DFF9152FAD65BABEF33" />
+	</game>
+	<game name="Flower (19xx)(-)(PD)" type="">
+		<description>Flower (19xx)(-)(PD)</description>
+		<rom name="flower.elf" size="34120" crc="C6817B80" md5="338C16C0E1A26CCF6E4611676F283DB9" sha1="CAD201BB3580A15332C0E14BD4FED76874CB87F7" />
+	</game>
+	<game name="libjpeg-6b Test Program (19xx)(Kieschnick, Andrew)(PD)" type="">
+		<description>libjpeg-6b Test Program (19xx)(Kieschnick, Andrew)(PD)</description>
+		<rom name="kallistios.elf" size="392116" crc="742B01BB" md5="9ABB2C874A784EBD4CE430D7DCD26222" sha1="76C4C7AB659C8CFAC8C17A1074A7505312575422" />
+	</game>
+	<game name="MD2 &amp; 3DS Models (2002-09-25)(Tillack, Heinrich)(PD)" type="">
+		<description>MD2 &amp; 3DS Models (2002-09-25)(Tillack, Heinrich)(PD)</description>
+		<rom name="md2.elf" size="799756" crc="945BB398" md5="FC56B080390D9E52EBA71136C71F0767" sha1="35EEFBAD0969B64E1EF18E4EDCF63CB3BB157F9A" />
+	</game>
+	<game name="ODE v0.5 Physics Engine Demo (19xx)(Tillack, Heinrich)(PD)" type="">
+		<description>ODE v0.5 Physics Engine Demo (19xx)(Tillack, Heinrich)(PD)</description>
+		<rom name="collide_iris.elf" size="506347" crc="EA586850" md5="B638F87F48A0C67B9B3631CF02D1B234" sha1="EABA8AA2A9A242551403D82D0CC8ACD6467C8B73" />
+	</game>
+	<game name="Particle (19xx)(KamKa)(PD)" type="">
+		<description>Particle (19xx)(KamKa)(PD)</description>
+		<rom name="part_demo.elf" size="385582" crc="75B34EB7" md5="D67723233B4460BD3400B6794D0380CB" sha1="01D37A0B1CF687038FD368C4F38960DB7D54BA41" />
+	</game>
+	<game name="Perspective Correct Texture Example (19xx)(Kieschnick, Andrew)(PD)" type="">
+		<description>Perspective Correct Texture Example (19xx)(Kieschnick, Andrew)(PD)</description>
+		<rom name="pct_standalone.elf" size="82836" crc="6FB990FC" md5="738BA3CEB0E5AE5134280F2ED67B3623" sha1="1F584168B0CF719F4D8A9A44EE5951F96F2DC8C8" />
+	</game>
+	<game name="Reverie (2003-12-27)(Potter, Dan)(PD)" type="">
+		<description>Reverie (2003-12-27)(Potter, Dan)(PD)</description>
+		<rom name="reverie.elf" size="1559860" crc="867A75E5" md5="EF52D2EFF1363176FFD637D29EFFE177" sha1="19861F0634ED538ECD259A7CA61CD603D6EB41AC" />
+	</game>
+	<game name="SH4 DMAC Demo (19xx)(Tillack, Heinrich)(PD)" type="">
+		<description>SH4 DMAC Demo (19xx)(Tillack, Heinrich)(PD)</description>
+		<rom name="test.elf" size="192071" crc="C3F60850" md5="CD5634A2C33ED0338A4794B8402925A1" sha1="11C8A0A62485CB641DDA5F6B77023F79FC7E3DCA" />
+	</game>
+	<game name="Tiny 3D Demo (2002-10-18)(Tillack, Heinrich)(PD)" type="">
+		<description>Tiny 3D Demo (2002-10-18)(Tillack, Heinrich)(PD)</description>
+		<rom name="demo.elf" size="1020012" crc="9E11F1B7" md5="8A54EDFBD8394D67B7A3FAA3276F26D1" sha1="2163B14CBDEF5CAF7E1752130DD870051141C7F1" />
+	</game>
+</datafile>

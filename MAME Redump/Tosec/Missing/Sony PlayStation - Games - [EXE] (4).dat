@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sony PlayStation - Games - [EXE]</name>
+		<description>MAME Redump - Sony PlayStation - Games - [EXE] (TOSEC-v2024-04-20)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="11th Power, The (2015)(Mihai, Sebastian)" type="">
+		<description>11th Power, The (2015)(Mihai, Sebastian)</description>
+		<rom name="11th Power, The (2015)(Mihai, Sebastian).EXE" size="51200" crc="F0838B13" md5="AE375EEAE96FDF80DC9D7C5277BD2C1A" sha1="DC17C39C0EF39DAB73CEBC1E2D48E48244CA341D" />
+	</game>
+	<game name="Mahjongg (1998)(Hitmen)(PD)" type="">
+		<description>Mahjongg (1998)(Hitmen)(PD)</description>
+		<rom name="Mahjongg (1998)(Hitmen)(PD).exe" size="1456128" crc="2B6ACEE6" md5="F83C0E3C636B5BE4B90665D91A0981AB" sha1="908AB160517D67F85D2AB3CCE4DE9A9D9714BA44" />
+	</game>
+	<game name="SuperBub (2005)(Alex H)(PD)" type="">
+		<description>SuperBub (2005)(Alex H)(PD)</description>
+		<rom name="SuperBub (2005)(Alex H)(PD).exe" size="1302544" crc="F211CAFF" md5="CDC558BFC924F56C7D0F54AA522E82A7" sha1="C9E5A90017753DF29BCDF44A76F75E557A4D4C31" />
+	</game>
+	<game name="Zelda Clone Game Thingy (1999)(Zelda)(PD)" type="">
+		<description>Zelda Clone Game Thingy (1999)(Zelda)(PD)</description>
+		<rom name="Zelda Clone Game Thingy (1999)(Zelda)(PD).exe" size="1506006" crc="0C645FD5" md5="C4BD9549AABF34BDD1C71D221D42702B" sha1="CF22CDEE13364875E045B4CB6BBBB4C5A34078EE" />
+	</game>
+</datafile>

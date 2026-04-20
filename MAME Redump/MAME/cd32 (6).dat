@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>cd32</name>
+		<description>MAME Redump - cd32</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="gamer4\amiga cd32 gamer vol. 04 (1994-08-08)(paragon publishing)(gb)">
+		<category>Games</category>
+		<description>Amiga CD32 Gamer - Volume 4</description>
+		<year>1994</year>
+		<manufacturer>Paragon Publishing</manufacturer>
+		<disk name="gamer4\amiga cd32 gamer vol. 04 (1994-08-08)(paragon publishing)(gb).chd" sha1="2f1ed16a7a604a64c2ffe1beafb08d08588bd9b2" />
+	</machine>
+	<machine name="heimdall2\heimdall 2 - into the hall of worlds (1994)(core)">
+		<category>Games</category>
+		<description>Heimdall 2 - Into The Hall Of Worlds</description>
+		<year>1994</year>
+		<manufacturer>Core</manufacturer>
+		<disk name="heimdall2\heimdall 2 - into the hall of worlds (1994)(core).chd" sha1="45a59bdf869c8db08c8d08beda153cfb4b2cc3d3" />
+	</machine>
+	<machine name="jetstrike\jetstrike (1994)(rasputin)">
+		<category>Games</category>
+		<description>Jetstrike</description>
+		<year>1994</year>
+		<manufacturer>Rasputin</manufacturer>
+		<disk name="jetstrike\jetstrike (1994)(rasputin).chd" sha1="e4f36c04c889eb23c746c8442ec355675183416a" />
+	</machine>
+	<machine name="microcosm\microcosm (1994)(psygnosis)">
+		<category>Games</category>
+		<description>Microcosm</description>
+		<year>1994</year>
+		<manufacturer>Psygnosis</manufacturer>
+		<disk name="microcosm\microcosm (1994)(psygnosis).chd" sha1="a3dd34c5d8056495228661e4508a9ec68481fda0" />
+	</machine>
+	<machine name="suprfrog1\superfrog (europe) (rev 1)">
+		<category>Games</category>
+		<description>Superfrog (rev 1)</description>
+		<year>1999</year>
+		<manufacturer>Islona</manufacturer>
+		<disk name="suprfrog1\superfrog (europe) (rev 1).chd" sha1="4295e7e97d90f3709cad9361841942a3f09866c8" />
+	</machine>
+	<machine name="universe\universe (1994)(core)">
+		<category>Games</category>
+		<description>Universe</description>
+		<year>1994</year>
+		<manufacturer>Core</manufacturer>
+		<disk name="universe\universe (1994)(core).chd" sha1="3e5298465903698528d1b004d279e679decf2272" />
+	</machine>
+</datafile>

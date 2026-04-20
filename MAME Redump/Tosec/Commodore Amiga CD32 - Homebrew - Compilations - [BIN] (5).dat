@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Homebrew - Compilations - [BIN]</name>
+		<description>MAME Redump - Commodore Amiga CD32 - Homebrew - Compilations - [BIN] (TOSEC-v2018-03-24)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="CD32-350 (2004-06)(frostwork - Gary)">
+		<description>CD32-350 (2004-06)(frostwork - Gary)</description>
+		<disk name="CD32-350 (2004-06)(frostwork - Gary).chd" sha1="5a151cc9488bd10f77ba80a2eb21e9c45d3eb03c" />
+	</machine>
+	<machine name="CD32-444 (2004-11)(frostwork)">
+		<description>CD32-444 (2004-11)(frostwork)</description>
+		<disk name="CD32-444 (2004-11)(frostwork).chd" sha1="32841df2cc23404e2e27ee92f674cca429256108" />
+	</machine>
+	<machine name="Old School Paradize 02 (2002)(Lempkee)">
+		<description>Old School Paradize 02 (2002)(Lempkee)</description>
+		<disk name="Old School Paradize 02 (2002)(Lempkee).chd" sha1="acd919704a641d732b749c90cfd64ecf2002b888" />
+	</machine>
+	<machine name="Team17 Anthology v1.2 (2004)(Landais, Tony)">
+		<description>Team17 Anthology v1.2 (2004)(Landais, Tony)</description>
+		<disk name="Team17 Anthology v1.2 (2004)(Landais, Tony).chd" sha1="238a8e2a38935efbc433887bfed48bffb04dfa7d" />
+	</machine>
+	<machine name="Tonycrew Compilation (2003)(Tonycrew)(beta)">
+		<description>Tonycrew Compilation (2003)(Tonycrew)(beta)</description>
+		<disk name="Tonycrew Compilation (2003)(Tonycrew)(beta).chd" sha1="cec9e4a4c5022ae9aaa70e3f5616393b616f07b3" />
+	</machine>
+</datafile>

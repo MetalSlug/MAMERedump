@@ -1,0 +1,3 @@
+FILE "Novastorm (demo) (1994)(Psygnosis - Sony)(EU)(en).img" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00

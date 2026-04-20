@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Philips CD-i - Firmware</name>
+		<description>MAME Redump - Philips CD-i - Firmware (TOSEC-v2012-07-13)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Magnavox CD-i 200 BIOS (1991)(Microware - Philips)(US)" type="">
+		<description>Magnavox CD-i 200 BIOS (1991)(Microware - Philips)(US)</description>
+		<rom name="Magnavox CD-i 200 BIOS (1991)(Microware - Philips)(US).bin" size="524288" crc="40C4E6B9" md5="2969341396AA61E0143DC2351AAA6EF6" sha1="D961DE803C89B3D1902D656CEB9CE7C02DCCB40A" />
+	</game>
+	<game name="Philips CD-i 220 F2 BIOS (1997)(Microware - Philips)" type="">
+		<description>Philips CD-i 220 F2 BIOS (1997)(Microware - Philips)</description>
+		<rom name="Philips CD-i 220 F2 BIOS (1997)(Microware - Philips).bin" size="524288" crc="279683CA" md5="AC0D468BE366779C9DF633BE98DA250A" sha1="53360A1F21DDAC952E95306CED64186A3FC0B93E" />
+	</game>
+	<game name="Philips CD-i 490 BIOS (1997)(Microware - Philips)" type="">
+		<description>Philips CD-i 490 BIOS (1997)(Microware - Philips)</description>
+		<rom name="Philips CD-i 490 BIOS (1997)(Microware - Philips).bin" size="524288" crc="E115F45B" md5="F0F4E0BF948930B50BE8F97730463E34" sha1="F71BE031A5DFA837DE225081B2DDC8DCB74A0552" />
+	</game>
+	<game name="Philips CD-i 910 BIOS (1991)(Microware - Philips)(US)" type="">
+		<description>Philips CD-i 910 BIOS (1991)(Microware - Philips)(US)</description>
+		<rom name="Philips CD-i 910 BIOS (1991)(Microware - Philips)(US).bin" size="524288" crc="8EE44ED6" md5="B69D6553134AD69DFD5CE0EA709B02B5" sha1="3FCDFA96F862B0CB7603FB6C2AF84CAC59527B05" />
+	</game>
+</datafile>

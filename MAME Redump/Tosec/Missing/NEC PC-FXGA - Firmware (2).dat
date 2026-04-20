@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>NEC PC-FXGA - Firmware</name>
+		<description>MAME Redump - NEC PC-FXGA - Firmware (TOSEC-v2012-07-13)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="NEC PC-FXGA BIOS (1994)(NEC)(JP)" type="">
+		<description>NEC PC-FXGA BIOS (1994)(NEC)(JP)</description>
+		<rom name="NEC PC-FXGA BIOS (1994)(NEC)(JP).bin" size="1048576" crc="41C3776B" md5="5885BC9A64BF80D4530B9B9B978FF587" sha1="A9372202A5DB302064C994FCDA9B24D29BB1B41C" />
+	</game>
+	<game name="NEC PC-FXGA BIOS (1994)(NEC)(JP)[b]" type="">
+		<description>NEC PC-FXGA BIOS (1994)(NEC)(JP)[b]</description>
+		<rom name="NEC PC-FXGA BIOS (1994)(NEC)(JP)[b].bin" size="1048576" crc="AC3ED590" md5="1C8996258DFE6C1A07DF305F0A3E5758" sha1="0534726E90A52A4651C4C9041C619554010B83F1" />
+	</game>
+</datafile>

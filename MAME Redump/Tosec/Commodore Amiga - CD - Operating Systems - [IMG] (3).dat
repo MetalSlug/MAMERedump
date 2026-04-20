@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga - CD - Operating Systems - [IMG]</name>
+		<description>MAME Redump - Commodore Amiga - CD - Operating Systems - [IMG] (TOSEC-v2019-09-07)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="AmigaOS 3.9 (2000)(Haage &amp; Partner)[Install 45.0 (2000-11-24)]">
+		<description>AmigaOS 3.9 (2000)(Haage &amp; Partner)[Install 45.0 (2000-11-24)]</description>
+		<disk name="AmigaOS 3.9 (2000)(Haage &amp; Partner)[Install 45.0 (2000-11-24)].chd" sha1="9bf65a4d47708a10031b009b75e1186a08a7afea" />
+	</machine>
+	<machine name="AmigaOS 3.9 (2001)(Haage &amp; Partner)[Install 45.13 (2001-02-09)]">
+		<description>AmigaOS 3.9 (2001)(Haage &amp; Partner)[Install 45.13 (2001-02-09)]</description>
+		<disk name="AmigaOS 3.9 (2001)(Haage &amp; Partner)[Install 45.13 (2001-02-09)].chd" sha1="9221ddc6af892e923456eedaaba1dfde16132bea" />
+	</machine>
+	<machine name="AmigaOS 3.9 (2001)(Haage &amp; Partner)[Install 45.7 (2001-01-30)]">
+		<description>AmigaOS 3.9 (2001)(Haage &amp; Partner)[Install 45.7 (2001-01-30)]</description>
+		<disk name="AmigaOS 3.9 (2001)(Haage &amp; Partner)[Install 45.7 (2001-01-30)].chd" sha1="8265bbcf46f67e2b6d62e6ebd596e1dc64690422" />
+	</machine>
+</datafile>

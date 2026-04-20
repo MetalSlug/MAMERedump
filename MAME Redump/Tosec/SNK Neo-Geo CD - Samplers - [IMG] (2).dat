@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>SNK Neo-Geo CD - Samplers - [IMG]</name>
+		<description>MAME Redump - SNK Neo-Geo CD - Samplers - [IMG] (TOSEC-v2012-09-08)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="ADK World (1995)(ADK - SNK)(JP)">
+		<description>ADK World (1995)(ADK - SNK)(JP)</description>
+		<disk name="ADK World (1995)(ADK - SNK)(JP).chd" sha1="62ad689a468b50f853b5581bda3aea70b945833f" />
+	</machine>
+	<machine name="Neo-Geo CD Special (1995)(SNK)(JP)">
+		<description>Neo-Geo CD Special (1995)(SNK)(JP)</description>
+		<disk name="Neo-Geo CD Special (1995)(SNK)(JP).chd" sha1="6ff5388dcd63750f3a95e42bb512c4abef91f6e7" />
+	</machine>
+</datafile>

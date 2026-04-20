@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>NEC PC-FXGA - Games</name>
+		<description>MAME Redump - NEC PC-FXGA - Games (TOSEC-v2012-07-13)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Angelique Bijutsukan (1995)(KOEI)(JP)[KN10-93101][PC-9800 bundled version]">
+		<description>Angelique Bijutsukan (1995)(KOEI)(JP)[KN10-93101][PC-9800 bundled version]</description>
+		<disk name="Angelique Bijutsukan (1995)(KOEI)(JP)[KN10-93101][PC-9800 bundled version].chd" sha1="cff6f03b1031c12f4b4218feca9edb83403ba9b3" />
+	</machine>
+	<machine name="Same Game FX (1995)(Hudson Soft)(JP)(pre-release)[79753599][PC-9800 bundled version]">
+		<description>Same Game FX (1995)(Hudson Soft)(JP)(pre-release)[79753599][PC-9800 bundled version]</description>
+		<disk name="Same Game FX (1995)(Hudson Soft)(JP)(pre-release)[79753599][PC-9800 bundled version].chd" sha1="9f8f2f213e6a43904d998b59b8e07795d5a34fd7" />
+	</machine>
+</datafile>

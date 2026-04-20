@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - CD - Operating Systems - [BIN]</name>
+		<description>MAME Redump - IBM PC Compatibles - CD - Operating Systems - [BIN] (TOSEC-v2023-06-13)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Microsoft Windows 95 (1995-07)(Microsoft)[OEM]" type="">
+		<description>Microsoft Windows 95 (1995-07)(Microsoft)[OEM]</description>
+		<rom name="Microsoft Windows 95 (1995-07)(Microsoft)[OEM].bin" size="726659808" crc="34950525" md5="6899E67FD09813419112E0FFE4BD75E5" sha1="DC8AB2048A4643DBE403DA03988A43C0F5C155FB" />
+	</game>
+	<game name="Microsoft Windows 95 (1996-07)(Microsoft)[OEM]" type="">
+		<description>Microsoft Windows 95 (1996-07)(Microsoft)[OEM]</description>
+		<rom name="Microsoft Windows 95 (1996-07)(Microsoft)[OEM].bin" size="719234544" crc="1CFF338C" md5="003D3F7EF7FE2100FA0169225D041F53" sha1="12B9ECE5E18FCE5D2FA58B20A8F57CB792F051F9" />
+	</game>
+	<game name="Microsoft Windows 95 Upgrade (1995-08)(Microsoft)" type="">
+		<description>Microsoft Windows 95 Upgrade (1995-08)(Microsoft)</description>
+		<rom name="Microsoft Windows 95 Upgrade (1995-08)(Microsoft).bin" size="726445776" crc="9910B580" md5="079B015F3BB10D088C956A70E73DB56B" sha1="4C3917724DDD0AE5F60C92FE8B86BA5381C7A820" />
+	</game>
+	<game name="Microsoft Windows 95 with USB Support (1997-01)(Microsoft)[OEM]" type="">
+		<description>Microsoft Windows 95 with USB Support (1997-01)(Microsoft)[OEM]</description>
+		<rom name="Microsoft Windows 95 with USB Support (1997-01)(Microsoft)[OEM].bin" size="721177296" crc="EF99C941" md5="F8AC48B178BBF7A8F4F87F51EA5C5EBA" sha1="C8F7011AF8C22EB9CFBC1624020BAFAAF7C4AF76" />
+	</game>
+	<game name="Microsoft Windows 98 Second Edition (1999-04)(Microsoft)[OEM]" type="">
+		<description>Microsoft Windows 98 Second Edition (1999-04)(Microsoft)[OEM]</description>
+		<rom name="Microsoft Windows 98 Second Edition (1999-04)(Microsoft)[OEM].bin" size="753609024" crc="BE6351F2" md5="4189A9324DD01F39FCFECC9CEE7418A6" sha1="667AE6B97C48860C8335077851FA42B9C1CDFD7C" />
+	</game>
+	<game name="Microsoft Windows 98 Upgrade (1998-03)(Microsoft)" type="">
+		<description>Microsoft Windows 98 Upgrade (1998-03)(Microsoft)</description>
+		<rom name="Microsoft Windows 98 Upgrade (1998-03)(Microsoft).bin" size="748688640" crc="1EDCDAD9" md5="53B671F34AD9658C9452FDBEC294100D" sha1="DF68BD2596F2B62F59E0E883B6CF86EE41DED619" />
+	</game>
+	<game name="Microsoft Windows ME - Millennium Edition (2000-04)(Microsoft)" type="">
+		<description>Microsoft Windows ME - Millennium Edition (2000-04)(Microsoft)</description>
+		<rom name="Microsoft Windows ME - Millennium Edition (2000-04)(Microsoft).bin" size="492842784" crc="CE2E78FD" md5="64865D0545B05CFA936BF6D583D49895" sha1="40A8F100E2A47FC2589079712F9AE923527BEEFB" />
+	</game>
+	<game name="Microsoft Windows NT Workstation v3.5 (1994-06)(Microsoft)" type="">
+		<description>Microsoft Windows NT Workstation v3.5 (1994-06)(Microsoft)</description>
+		<rom name="Microsoft Windows NT Workstation v3.5 (1994-06)(Microsoft).bin" size="296641296" crc="A4CB6BAA" md5="CA4D838A7D692D6063C9FDFEF442D99F" sha1="021890EF10776DE682DF59D76316177EA7DFE180" />
+	</game>
+	<game name="Microsoft Windows Server 2003 Enterprise Edition (2003)(Microsoft)[Evaluation Edition]" type="">
+		<description>Microsoft Windows Server 2003 Enterprise Edition (2003)(Microsoft)[Evaluation Edition]</description>
+		<rom name="Microsoft Windows Server 2003 Enterprise Edition (2003)(Microsoft)[Evaluation Edition].bin" size="654211152" crc="65558986" md5="D6FE926040E8E7C01336C52EE4A117DD" sha1="75A7A66B34AE2D8FF0E4695A1B230297FFED4F8B" />
+	</game>
+	<game name="Osborne Front End - Windows 3.1 - MS-DOS 6.0 (1993)(Osborne)[OEM]" type="">
+		<description>Osborne Front End - Windows 3.1 - MS-DOS 6.0 (1993)(Osborne)[OEM]</description>
+		<rom name="Osborne Front End - Windows 3.1 - MS-DOS 6.0 (1993)(Osborne)[OEM].bin" size="95079600" crc="C3B0CB86" md5="21FBD2395B19A9CC067FB7373889D752" sha1="EDB804ECD7CC0D10843267A206EB9CA80A53AE02" />
+	</game>
+	<game name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM]" type="">
+		<description>Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM]</description>
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 01 of 35).bin" size="710304" crc="DC8E50F6" md5="E0142FA7CDF76505AAE1A5AF749C842D" sha1="B37040606CF8266304FF65C52E1EB286EDB6A427" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 02 of 35).bin" size="15142176" crc="AD82FD57" md5="A681FA697C955E1ABCFDD20AC561A86C" sha1="25B8082FBE47E327D3833900D44121B41970BC0C" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 03 of 35).bin" size="10066560" crc="208E80C5" md5="D1753EDD121B8ECFF5607E831D4D5CD9" sha1="08D52CA9235B7818BF4A96C784166F7494C9965E" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 04 of 35).bin" size="51268896" crc="185711E9" md5="9A2AB50AEE2C0DDBCC2A83185A182A0C" sha1="89C55DF2766985F507A6AFF009AAC81384A2E493" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 05 of 35).bin" size="33779424" crc="A199619F" md5="28BE0ED40C7BC71BFFA101A43D8189C0" sha1="18733C5E890C5A27749F8D115E12CECEC6B85F6E" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 06 of 35).bin" size="28235760" crc="9E8CF8FA" md5="DF089EA0A1C3C15C1663AEF01B4881B3" sha1="EC5B8D41FC03F77C7065BE7C5DC95145226ED789" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 07 of 35).bin" size="13232352" crc="352B064A" md5="541516C8920C99D1445609BABE5BE03B" sha1="C3751E7E59A97ADFB737FB5895F9CF5741C06278" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 08 of 35).bin" size="15233904" crc="B1710E6F" md5="B0C41AA07E4754324213CF0D38B73910" sha1="EA70A3474F7CF23293C5E0EA7D51AD2C6C60C8BB" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 09 of 35).bin" size="15226848" crc="C3F1B5F8" md5="3D86C5C40E0CD4C8E442392FFEAC865E" sha1="8E8C99725051DD6D9DAFD993621DE2B195A031BD" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 10 of 35).bin" size="15142176" crc="5232889D" md5="5E07D188018AB6DB936A29A369B24E45" sha1="DE96675D73D251EE22639B6A9536938F5D514AD3" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 11 of 35).bin" size="15163344" crc="22F979DD" md5="75CF01910C991DD2B7AE3BE635DCDE0E" sha1="A6E66C55F1018F0E4CF05768588CB717BFF56CD6" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 12 of 35).bin" size="15285648" crc="3FC8D08E" md5="6E00B8A2329EA5B6FA1307DF3E466967" sha1="DB360AF311AB78E54B0B03A59828A902052266E4" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 13 of 35).bin" size="15290352" crc="E37FEA79" md5="83D4290019EDE8C4B77C4ABDFE8ED855" sha1="F2FEF23863CC5BC2F59486F93A78142AE7F63D5B" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 14 of 35).bin" size="15288000" crc="EDD62FFD" md5="A4D846FAFFD9A767429627C8A51769E1" sha1="8AD03FF5EF98AF76E6C88C72876D6EACF37D111A" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 15 of 35).bin" size="15095136" crc="73D65701" md5="8783A4831456F76505E33AA98C415703" sha1="D03FC3379DD8EBCB8D29BCDD0201842F69A8C35B" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 16 of 35).bin" size="15031632" crc="0839655E" md5="E4DD993A5CD88E38DC46F4BF260CA7A8" sha1="5C9C8262EF0C30E197E5EE1A621344C5BEDA9393" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 17 of 35).bin" size="15229200" crc="62DE9FE5" md5="86AAC84E01927FBB88AB475A971E3B6E" sha1="01B1D7CF4DB8BB9FEFFF3AAD5092FCFC50EA8373" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 18 of 35).bin" size="15278592" crc="24B62D4E" md5="06DB0823C737104C89B6E9EC47C93A41" sha1="37C3F25BBC21A45C1498853E9104C31FC1D54F2B" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 19 of 35).bin" size="15255072" crc="F6FBF6EC" md5="C302931C0CB68B8F64B1333F5CDEF6FD" sha1="83C42C9C1B91BC8518FF983687DE352406497AFB" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 20 of 35).bin" size="15302112" crc="857661A5" md5="1F9BF6C1E0CD6D52DCB8C1790DCC96BA" sha1="7B4E478F557B14D26576CBAB45FCC7EEC45042AE" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 21 of 35).bin" size="15125712" crc="53C6A2E3" md5="89E7A00711056A0C58ACEEE7F7BEA9C9" sha1="48CF42B26B567F018C752EFA79ACABB72C053230" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 22 of 35).bin" size="15295056" crc="7FF3B264" md5="7A5AA28ECC50A2EE0E5F5A7D2CDAB8A7" sha1="EC8C0318208EBE5CFAE414EF474B666FB8914DBF" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 23 of 35).bin" size="15172752" crc="E6D411A4" md5="003715AED88456152707C0554EF7D3A7" sha1="756CAE250C5D80D6CB105F9C6CE2A54B642B22A3" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 24 of 35).bin" size="15109248" crc="22CACA66" md5="52CDC2B3B941954047DBC4ABA0F7CA49" sha1="B559A15CEB8001596893E47AA42F8E49A41F85E3" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 25 of 35).bin" size="15182160" crc="8359734A" md5="49E342586FEC8BE0B0258E86647AD6D3" sha1="AB2F8E78A89D8CCCB885E28C5DFD58B9A97C47AA" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 26 of 35).bin" size="15231552" crc="A57065B5" md5="9A948836CC31AD62757EDDB87F9F4E5C" sha1="CA56D165A2BA198D5C108FE55B1D5A5E7BE22CBC" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 27 of 35).bin" size="15123360" crc="73B2BF26" md5="E2D56296A281B5E4F11ABD21581684FC" sha1="6C7D462B20C342CEE7B27E4A38EF21B6191158E0" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 28 of 35).bin" size="15215088" crc="054BC2A0" md5="B87EB5DE38273CAF055A3FB1125C3726" sha1="8B83091B79190A1ED98F94995B059A64AE6E725E" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 29 of 35).bin" size="15222144" crc="ABF55A54" md5="8F8A4093AC6DC8B94A898C04A3ED9AFF" sha1="CC098DD3A6680A29E950F1095FA26BD4FC67F67F" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 30 of 35).bin" size="15198624" crc="B258DF3A" md5="E198F5540CAEFAB51047DD2CD699AD17" sha1="07A77C7280B03C49381411FF951C9DECD5F631C8" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 31 of 35).bin" size="15250368" crc="49986330" md5="8539FD59566145EB2C48F5F92BAC54B2" sha1="15322F8F70A005D1369AD30DEFB474278F151B9C" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 32 of 35).bin" size="15106896" crc="D059AC07" md5="6D4E3AA404A60AAE2AA34150A5518C43" sha1="214EF6A86AC6204A346694179D618B942ECD7656" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 33 of 35).bin" size="15302112" crc="26A43396" md5="EB3CC17AABD263B37C0EFE16C70EC2D8" sha1="D5D24D23BFA3CD84B99501D4D30FCEC6A08038A3" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 34 of 35).bin" size="15139824" crc="EC2FEB9B" md5="8B75791E708DBD632C8DAFE532D2F9FE" sha1="DF067DADC12A779C8D7EE85AA697058862536502" />
+		<rom name="Osborne Front End - Windows 3.11 - MS-DOS 6.2 (1993)(Osborne)[OEM] (Track 35 of 35).bin" size="15302112" crc="78BE90F2" md5="74183D16C2CA211B132E8B0E40E783D3" sha1="6D2C37A3E9E49CB5DA4BA8E388A5B865D78B4AAA" />
+	</game>
+</datafile>

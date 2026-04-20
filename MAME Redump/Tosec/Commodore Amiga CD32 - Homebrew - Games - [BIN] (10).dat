@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Homebrew - Games - [BIN]</name>
+		<description>MAME Redump - Commodore Amiga CD32 - Homebrew - Games - [BIN] (TOSEC-v2012-07-22)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Apidya (1992)(Kaiko - Play Byte)[cr Pyrodex][m Ridge][t +1 Pyrodex][req. 4Mb Fast RAM - mouse]">
+		<description>Apidya (1992)(Kaiko - Play Byte)[cr Pyrodex][m Ridge][t +1 Pyrodex][req. 4Mb Fast RAM - mouse]</description>
+		<disk name="Apidya (1992)(Kaiko - Play Byte)[cr Pyrodex][m Ridge][t +1 Pyrodex][req. 4Mb Fast RAM - mouse].chd" sha1="bfb16d42363ef004efb1ef7ee7ebbeb0af919258" />
+	</machine>
+	<machine name="Biff Boardin' (1994)(Surf Systems)[m Fakk2]">
+		<description>Biff Boardin' (1994)(Surf Systems)[m Fakk2]</description>
+		<disk name="Biff Boardin' (1994)(Surf Systems)[m Fakk2].chd" sha1="a4f03deef5927e19195ebdf026d96fb9ecc9cc7e" />
+	</machine>
+	<machine name="Dragon's Lair - Escape from Singe's Castle (1990)(ReadySoft)[m TjLaZah][t]">
+		<description>Dragon's Lair - Escape from Singe's Castle (1990)(ReadySoft)[m TjLaZah][t]</description>
+		<disk name="Dragon's Lair - Escape from Singe's Castle (1990)(ReadySoft)[m TjLaZah][t].chd" sha1="907a0f7b055d98b61ff7a3e04f00d614474a05f4" />
+	</machine>
+	<machine name="Frog Feast (demo) (2007-09-25)(RasterSoft)">
+		<description>Frog Feast (demo) (2007-09-25)(RasterSoft)</description>
+		<disk name="Frog Feast (demo) (2007-09-25)(RasterSoft).chd" sha1="93a90f0045f759a8b2ccd99ec90a6d7681f62b3f" />
+	</machine>
+	<machine name="MAX Rally (1998)(Fortress)[h FIA][m]">
+		<description>MAX Rally (1998)(Fortress)[h FIA][m]</description>
+		<disk name="MAX Rally (1998)(Fortress)[h FIA][m].chd" sha1="24fd333847f7b552ece512c9554938a1f4b48601" />
+	</machine>
+	<machine name="Minskies Furballs - The Abduction (1996-12-05)(Guildhall Leisure Services)[m Anarka]">
+		<description>Minskies Furballs - The Abduction (1996-12-05)(Guildhall Leisure Services)[m Anarka]</description>
+		<disk name="Minskies Furballs - The Abduction (1996-12-05)(Guildhall Leisure Services)[m Anarka].chd" sha1="681a4f0a7c3992f59efe271c7e33368b71848c30" />
+	</machine>
+	<machine name="Push-Over v1.23 (1992)(Ocean)(M4)[m Tony]">
+		<description>Push-Over v1.23 (1992)(Ocean)(M4)[m Tony]</description>
+		<disk name="Push-Over v1.23 (1992)(Ocean)(M4)[m Tony].chd" sha1="ade92c480fd6b181e0c76be413d3b74ab7652b8a" />
+	</machine>
+	<machine name="RoboCop (1989)(Ocean)[cr VF][m CHN]">
+		<description>RoboCop (1989)(Ocean)[cr VF][m CHN]</description>
+		<disk name="RoboCop (1989)(Ocean)[cr VF][m CHN].chd" sha1="f079ba3d7ca2ed24c1dc440bb920c79a72607b2d" />
+	</machine>
+	<machine name="Super Wonderboy in Monsterland (1989)(Activision)[m CHN]">
+		<description>Super Wonderboy in Monsterland (1989)(Activision)[m CHN]</description>
+		<disk name="Super Wonderboy in Monsterland (1989)(Activision)[m CHN].chd" sha1="79459cc706e2c2e2e3432e5b7420633411bc4061" />
+	</machine>
+	<machine name="Turbo Trax (1995)(Arcane)[m]">
+		<description>Turbo Trax (1995)(Arcane)[m]</description>
+		<disk name="Turbo Trax (1995)(Arcane)[m].chd" sha1="b9588086ddde2a6eddb73f44feb09e055a6950ba" />
+	</machine>
+</datafile>

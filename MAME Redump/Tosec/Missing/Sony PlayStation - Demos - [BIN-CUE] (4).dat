@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sony PlayStation - Demos - [BIN-CUE]</name>
+		<description>MAME Redump - Sony PlayStation - Demos - [BIN-CUE] (TOSEC-v2025-01-26)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Funtro (2000-07-05)(High Society)(PD)" type="">
+		<description>Funtro (2000-07-05)(High Society)(PD)</description>
+		<rom name="Funtro (2000-07-05)(High Society)(PD).bin" size="16768" crc="8FC3A70E" md5="4F1DD39DAEC4C617348799B0E0F2040D" sha1="FBCE62DA115F290DAACC7913A1A662BEBE32A50F" />
+	</game>
+	<game name="Monophobia (2000)(Witchcraft)(PD)" type="">
+		<description>Monophobia (2000)(Witchcraft)(PD)</description>
+		<rom name="Monophobia (2000)(Witchcraft)(PD).bin" size="2182656" crc="168174B7" md5="69F9305550D4BC14AB425607A10CEB26" sha1="6E93D5C534CB38A72BB139A165AC885EDD2DEA42" />
+		<rom name="Monophobia (2000)(Witchcraft)(PD).mp3" size="5873022" crc="3F16EA33" md5="599A31799D9189DAF72AFED7B1BCA139" sha1="753CE9CFDE2185499E971E5996DD85E1722A01BD" />
+	</game>
+	<game name="MUPS - The Demo (2000)(Most Ugly Playstation Sceners)(PD)" type="">
+		<description>MUPS - The Demo (2000)(Most Ugly Playstation Sceners)(PD)</description>
+		<rom name="MUPS - The Demo (2000)(Most Ugly Playstation Sceners)(PD).bin" size="5343744" crc="20F63889" md5="41A124CFA14CD08E88D2F3BBAFD9E451" sha1="F5CC82C30A4D6055C910C65630C372950D4199CC" />
+		<rom name="MUPS - The Demo (2000)(Most Ugly Playstation Sceners)(PD).mp3" size="16441956" crc="7595F420" md5="AA8B0E7B9CF85933D5F6B36B0790B098" sha1="D48F7D861528C2E7D9616D7CC196596510B2F3BF" />
+	</game>
+	<game name="Trabant 600 (2000)(NTSC)(PD)" type="">
+		<description>Trabant 600 (2000)(NTSC)(PD)</description>
+		<rom name="Trabant 600 (2000)(NTSC)(PD).bin" size="2577792" crc="39157682" md5="B2025240B6075FABF59764F1F532919C" sha1="64F36FB09A9A44EE8C6907356FDFDBFDD0D471D7" />
+		<rom name="Trabant 600 (2000)(NTSC)(PD).mp3" size="3551166" crc="709926FE" md5="A47340DB31E78F0629D6D11A9C80101D" sha1="495948A2269C51BCE0ADBA9E0938540EE84C81D6" />
+	</game>
+</datafile>

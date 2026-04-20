@@ -1,0 +1,7 @@
+FILE "Capcom no Quiz - Tono-sama no Yabou (1992)(Sims)(JP).img" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    PREGAP 00:02:00
+    INDEX 00 47:06:21
+    INDEX 01 47:08:21

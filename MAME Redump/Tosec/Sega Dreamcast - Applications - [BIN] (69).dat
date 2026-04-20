@@ -1,0 +1,334 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Applications - [BIN]</name>
+		<description>MAME Redump - Sega Dreamcast - Applications - [BIN] (TOSEC-v2024-11-02)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Broadband Passport v1.000 (2000)(Sega)(JP)[!][1M1, 1M3]">
+		<description>Broadband Passport v1.000 (2000)(Sega)(JP)[!][1M1, 1M3]</description>
+		<year>2001</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="Broadband Passport v1.000 (2000)(Sega)(JP)[!][1M1, 1M3].chd" sha1="225a47eb2a5d3829af9e53e35bad6bf211cc54c3" />
+	</machine>
+	<machine name="Broadband Passport v1.000 (2000)(Sega)(JP)[!][2M1]" cloneof="Broadband Passport v1.000 (2000)(Sega)(JP)[!][1M1, 1M3]">
+		<description>Broadband Passport v1.000 (2000)(Sega)(JP)[!][2M1]</description>
+		<year>2001</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="Broadband Passport v1.000 (2000)(Sega)(JP)[!][2M1].chd" sha1="dfbe1255065e8fbb6f80e5d590b08ad6e4c64104" />
+	</machine>
+	<machine name="Christmas Seaman - Omoi wo Tsutaeru  Mou Hitotsu no Houhou v1.004 (1999)(Vivarium)(JP)(Present Disc)[!]">
+		<description>Christmas Seaman - Omoi wo Tsutaeru  Mou Hitotsu no Houhou v1.004 (1999)(Vivarium)(JP)(Present Disc)[!]</description>
+		<disk name="Christmas Seaman - Omoi wo Tsutaeru  Mou Hitotsu no Houhou v1.004 (1999)(Vivarium)(JP)(Present Disc)[!].chd" sha1="2a0e160a9dc5a11cd251c7194a72caeb1141535a" />
+	</machine>
+	<machine name="Christmas Seaman - Omoi wo Tsutaeru Mou Hitotsu no Houhou v1.004 (1999)(Vivarium)(JP)(Message Disc)[!][req. microphone]">
+		<description>Christmas Seaman - Omoi wo Tsutaeru Mou Hitotsu no Houhou v1.004 (1999)(Vivarium)(JP)(Message Disc)[!][req. microphone]</description>
+		<disk name="Christmas Seaman - Omoi wo Tsutaeru Mou Hitotsu no Houhou v1.004 (1999)(Vivarium)(JP)(Message Disc)[!][req. microphone].chd" sha1="beb62f72c1ccd2fa0d04b5760e1c170fa2ce7f28" />
+	</machine>
+	<machine name="Climax Landers Motte ke! Minige Campaign Tentou Download-ban v1.000 (1999)(Sega)(JP)[!]">
+		<description>Climax Landers Motte ke! Minige Campaign Tentou Download-ban v1.000 (1999)(Sega)(JP)[!]</description>
+		<disk name="Climax Landers Motte ke! Minige Campaign Tentou Download-ban v1.000 (1999)(Sega)(JP)[!].chd" sha1="a1c475f01dfd74c39c9813d2f8e1e014c4d7320a" />
+	</machine>
+	<machine name="Dejiko no Maibura v1.000 (2000)(ISAO)(JP)[!]">
+		<description>Dejiko no Maibura v1.000 (2000)(ISAO)(JP)[!]</description>
+		<year>2000</year>
+		<manufacturer>Isao</manufacturer>
+		<disk name="Dejiko no Maibura v1.000 (2000)(ISAO)(JP)[!].chd" sha1="6594bcf8409839a5323fec91ab2f1ce2e3eb3a23" />
+	</machine>
+	<machine name="Dream Passport 2 for LAN v1.003 (1999)(Sega)(JP)[!]">
+		<description>Dream Passport 2 for LAN v1.003 (1999)(Sega)(JP)[!]</description>
+		<year>1999</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="Dream Passport 2 for LAN v1.003 (1999)(Sega)(JP)[!].chd" sha1="8cacbbca4acdc6e4b4d0d4938b228c3c9a08cca8" />
+	</machine>
+	<machine name="Dream Passport 2 v1.008 (1999)(Sega)(JP)[!][11M3, 11MB3]" cloneof="Dream Passport 2 v1.008 (1999)(Sega)(JP)[!][12M1, 12M2, 12M3, 12M5]">
+		<description>Dream Passport 2 v1.008 (1999)(Sega)(JP)[!][11M3, 11MB3]</description>
+		<disk name="Dream Passport 2 v1.008 (1999)(Sega)(JP)[!][11M3, 11MB3].chd" sha1="2dd22e2c3d515046aae09f946db4310a251ed8fc" />
+	</machine>
+	<machine name="Dream Passport 2 v1.008 (1999)(Sega)(JP)[!][12M1, 12M2, 12M3, 12M5]">
+		<description>Dream Passport 2 v1.008 (1999)(Sega)(JP)[!][12M1, 12M2, 12M3, 12M5]</description>
+		<year>1999</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="Dream Passport 2 v1.008 (1999)(Sega)(JP)[!][12M1, 12M2, 12M3, 12M5].chd" sha1="9532ea5676d42089119ae0222ca1c0171f9a9301" />
+	</machine>
+	<machine name="Dream Passport 2 v1.102 (1999)(Sega)(JP)[!][20M4]">
+		<description>Dream Passport 2 v1.102 (1999)(Sega)(JP)[!][20M4]</description>
+		<year>1999</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="Dream Passport 2 v1.102 (1999)(Sega)(JP)[!][20M4].chd" sha1="b6027051cd1862551ee5b8123c780e5437de5bec" />
+	</machine>
+	<machine name="Dream Passport 2 v1.102 (1999)(Sega)(JP)[!][21M4, 21M7, 21MB2, 21MM1]" cloneof="Dream Passport 2 v1.102 (1999)(Sega)(JP)[!][20M4]">
+		<description>Dream Passport 2 v1.102 (1999)(Sega)(JP)[!][21M4, 21M7, 21MB2, 21MM1]</description>
+		<disk name="Dream Passport 2 v1.102 (1999)(Sega)(JP)[!][21M4, 21M7, 21MB2, 21MM1].chd" sha1="a53a7e91c7e3d0cfb4316f3b03d8616c7457c95c" />
+	</machine>
+	<machine name="Dream Passport 3 - Urban Style v1.002 (2000)(Sega)(JP)[!]">
+		<description>Dream Passport 3 - Urban Style v1.002 (2000)(Sega)(JP)[!]</description>
+		<year>2000</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="Dream Passport 3 - Urban Style v1.002 (2000)(Sega)(JP)[!].chd" sha1="0f1bd9581784f73cf2cf9642241afcf3ed2fc3f5" />
+	</machine>
+	<machine name="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][1, 2, 3]">
+		<description>Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][1, 2, 3]</description>
+		<year>2000</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][1, 2, 3].chd" sha1="f0195bcf0492f0f1bc7efd7177865108d0a7f66a" />
+	</machine>
+	<machine name="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][21M2, 21M4, 21M5]" cloneof="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][1, 2, 3]">
+		<description>Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][21M2, 21M4, 21M5]</description>
+		<disk name="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][21M2, 21M4, 21M5].chd" sha1="a22540d571c346893fc8db51326ef403c8bf84a4" />
+	</machine>
+	<machine name="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][22M1, 22MB3, 22MM1]" cloneof="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][1, 2, 3]">
+		<description>Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][22M1, 22MB3, 22MM1]</description>
+		<year>2000</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][22M1, 22MB3, 22MM1].chd" sha1="b879c8496fbbbd9fd26ec1de67b56a65fdf5f5e4" />
+	</machine>
+	<machine name="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][23M2, 23M8, 23MM1]" cloneof="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][1, 2, 3]">
+		<description>Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][23M2, 23M8, 23MM1]</description>
+		<disk name="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][23M2, 23M8, 23MM1].chd" sha1="cec02c4211d78d5bbb652fafb7de80388c55a6d7" />
+	</machine>
+	<machine name="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][25M3, 25M12]" cloneof="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][1, 2, 3]">
+		<description>Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][25M3, 25M12]</description>
+		<year>2000</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="Dream Passport 3 v1.011 (2000)(Sega)(JP)[!][25M3, 25M12].chd" sha1="c2dda144a1a4939f13a971c65e529c3bdf117452" />
+	</machine>
+	<machine name="Dream Passport for Toyota v1.031 (1999)(Sega)(JP)[!]">
+		<description>Dream Passport for Toyota v1.031 (1999)(Sega)(JP)[!]</description>
+		<disk name="Dream Passport for Toyota v1.031 (1999)(Sega)(JP)[!].chd" sha1="5f1354c95f5f2e6ed774ca2d4866c8a3ea1648a5" />
+	</machine>
+	<machine name="Dream Passport Premier v1.106 (2001)(Sega)(JP)[!][3M1, 3M4, 3M7]">
+		<description>Dream Passport Premier v1.106 (2001)(Sega)(JP)[!][3M1, 3M4, 3M7]</description>
+		<year>2001</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="Dream Passport Premier v1.106 (2001)(Sega)(JP)[!][3M1, 3M4, 3M7].chd" sha1="60ff8356e5e14fd27b8ca2f8a42f06a04f22f12e" />
+	</machine>
+	<machine name="Dream Passport v1.007 (1998)(Sega)(JP)][!][1M1, 1MM1]">
+		<description>Dream Passport v1.007 (1998)(Sega)(JP)][!][1M1, 1MM1]</description>
+		<disk name="Dream Passport v1.007 (1998)(Sega)(JP)][!][1M1, 1MM1].chd" sha1="bbb8895a723301834587206818aa4ccc133cca52" />
+	</machine>
+	<machine name="Dream Passport v1.007 (1998)(Sega)(JP)][!][2M1, 2M7, 2M10]" cloneof="Dream Passport v1.007 (1998)(Sega)(JP)][!][1M1, 1MM1]">
+		<description>Dream Passport v1.007 (1998)(Sega)(JP)][!][2M1, 2M7, 2M10]</description>
+		<disk name="Dream Passport v1.007 (1998)(Sega)(JP)][!][2M1, 2M7, 2M10].chd" sha1="da8a6d2436a4accadf12196d96e8820ae3e9dbf0" />
+	</machine>
+	<machine name="Dream Passport Ver. 1.01 v1.013 (1998)(Sega)(JP)[!][1MB9]" cloneof="Dream Passport Ver. 1.01 v1.013 (1998)(Sega)(JP)[!][2MB1, 2MB6, 2MB7, 2MB12, 2MB14]">
+		<description>Dream Passport Ver. 1.01 v1.013 (1998)(Sega)(JP)[!][1MB9]</description>
+		<disk name="Dream Passport Ver. 1.01 v1.013 (1998)(Sega)(JP)[!][1MB9].chd" sha1="9577db54b03a283f6fc33fe6a487cfdd3995006f" />
+	</machine>
+	<machine name="Dream Passport Ver. 1.01 v1.013 (1998)(Sega)(JP)[!][2MB1, 2MB6, 2MB7, 2MB12, 2MB14]">
+		<description>Dream Passport Ver. 1.01 v1.013 (1998)(Sega)(JP)[!][2MB1, 2MB6, 2MB7, 2MB12, 2MB14]</description>
+		<year>1998</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="Dream Passport Ver. 1.01 v1.013 (1998)(Sega)(JP)[!][2MB1, 2MB6, 2MB7, 2MB12, 2MB14].chd" sha1="02ee8e27cda04092a77213b18686a6e2fbce4059" />
+	</machine>
+	<machine name="Dream Passport Ver. 1.01 v1.013 (1998)(Sega)(JP)[!][3MB3, 3MB7, 3MM1]" cloneof="Dream Passport Ver. 1.01 v1.013 (1998)(Sega)(JP)[!][2MB1, 2MB6, 2MB7, 2MB12, 2MB14]">
+		<description>Dream Passport Ver. 1.01 v1.013 (1998)(Sega)(JP)[!][3MB3, 3MB7, 3MM1]</description>
+		<disk name="Dream Passport Ver. 1.01 v1.013 (1998)(Sega)(JP)[!][3MB3, 3MB7, 3MM1].chd" sha1="6f8bbb2bab361d286c9c69e531f435de0bd30b06" />
+	</machine>
+	<machine name="Dreamcast SYSTEM-DISC 2 v1.101 (1998)(Sega)(NTSC-PAL)[!]">
+		<description>Dreamcast SYSTEM-DISC 2 v1.101 (1998)(Sega)(NTSC-PAL)[!]</description>
+		<year>1999</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="Dreamcast SYSTEM-DISC 2 v1.101 (1998)(Sega)(NTSC-PAL)[!].chd" sha1="c8375ac2abdc7c99ac20cb388c300a9c0f6c7153" />
+	</machine>
+	<machine name="Dreamcast VM Data-shuu v1.000 (2001)(Enterbrain)(JP)[!][AKA Dreamcast Visual Memory Data Issue]">
+		<description>Dreamcast VM Data-shuu v1.000 (2001)(Enterbrain)(JP)[!][AKA Dreamcast Visual Memory Data Issue]</description>
+		<year>2001</year>
+		<manufacturer>Enterbrain</manufacturer>
+		<disk name="Dreamcast VM Data-shuu v1.000 (2001)(Enterbrain)(JP)[!][AKA Dreamcast Visual Memory Data Issue].chd" sha1="8de504ac98a6fec223a1603bfcfa346aa64e1232" />
+	</machine>
+	<machine name="DreamFlyer v1.008 (1999)(Sega)(JP)[!]">
+		<description>DreamFlyer v1.008 (1999)(Sega)(JP)[!]</description>
+		<year>1999</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="DreamFlyer v1.008 (1999)(Sega)(JP)[!].chd" sha1="73b3c7ff921a98f554f24eb563e49f5a64b296d9" />
+	</machine>
+	<machine name="Dreamkey 3.0 v1.001 (2001)(Sega)(PAL)(M8)[!]">
+		<description>Dreamkey 3.0 v1.001 (2001)(Sega)(PAL)(M8)[!]</description>
+		<year>2001</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="Dreamkey 3.0 v1.001 (2001)(Sega)(PAL)(M8)[!].chd" sha1="bad73895c41f6039ff0799f6069dc38c5d379319" />
+	</machine>
+	<machine name="Dreamkey 3.1 v1.000 (2002)(Sega)(PAL)(ES)[!]">
+		<description>Dreamkey 3.1 v1.000 (2002)(Sega)(PAL)(ES)[!]</description>
+		<disk name="Dreamkey 3.1 v1.000 (2002)(Sega)(PAL)(ES)[!].chd" sha1="73faccb0a6836341ae7967263ab85846d88d95c8" />
+	</machine>
+	<machine name="Dreamkey 3.1 v1.000 (2002)(Sega)(PAL)(PT)[!]">
+		<description>Dreamkey 3.1 v1.000 (2002)(Sega)(PAL)(PT)[!]</description>
+		<disk name="Dreamkey 3.1 v1.000 (2002)(Sega)(PAL)(PT)[!].chd" sha1="424d2961ff28ba1f536c41060844443efc6a886d" />
+	</machine>
+	<machine name="Dreamkey v1.000 (2000)(Sega)(PAL)(AU)[!]">
+		<description>Dreamkey v1.000 (2000)(Sega)(PAL)(AU)[!]</description>
+		<disk name="Dreamkey v1.000 (2000)(Sega)(PAL)(AU)[!].chd" sha1="5025d4df5a553ae7001bc7d4312ab2e1342af5e3" />
+	</machine>
+	<machine name="Dreamkey v1.006 (1999)(Sega)(PAL)(FR)[!]">
+		<description>Dreamkey v1.006 (1999)(Sega)(PAL)(FR)[!]</description>
+		<disk name="Dreamkey v1.006 (1999)(Sega)(PAL)(FR)[!].chd" sha1="92a0b3fb85a91e3d457717bca0af631fc215b795" />
+	</machine>
+	<machine name="Dreamkey v1.006 (1999)(Sega)(PAL)[!]">
+		<description>Dreamkey v1.006 (1999)(Sega)(PAL)[!]</description>
+		<disk name="Dreamkey v1.006 (1999)(Sega)(PAL)[!].chd" sha1="eec0a4ad9d69d27368fe10cf87c6b65e3907f374" />
+	</machine>
+	<machine name="Dreamkey v1.008 (1999)(Sega)(PAL)(FR)[!]">
+		<description>Dreamkey v1.008 (1999)(Sega)(PAL)(FR)[!]</description>
+		<disk name="Dreamkey v1.008 (1999)(Sega)(PAL)(FR)[!].chd" sha1="172e8e876fef11362204c7340f6e945f41f7ec14" />
+	</machine>
+	<machine name="Dreamkey v1.008 (1999)(Sega)(PAL)[!]">
+		<description>Dreamkey v1.008 (1999)(Sega)(PAL)[!]</description>
+		<year>1999</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="Dreamkey v1.008 (1999)(Sega)(PAL)[!].chd" sha1="3cc7d9c54185eff8cc7031d8a8301b5ec529f8c3" />
+	</machine>
+	<machine name="Dreamkey Versao 2.0 v1.003 (2000)(Sega)(PAL)(PT)[!][C - Orange Cover &amp; Disc]">
+		<description>Dreamkey Versao 2.0 v1.003 (2000)(Sega)(PAL)(PT)[!][C - Orange Cover &amp; Disc]</description>
+		<disk name="Dreamkey Versao 2.0 v1.003 (2000)(Sega)(PAL)(PT)[!][C - Orange Cover &amp; Disc].chd" sha1="3fd57a0aabb87fcc633c3024ea844549eaf50691" />
+	</machine>
+	<machine name="Dreamkey Version 1.5 v1.000 (2000)(Sega)(PAL)(ES)[!]">
+		<description>Dreamkey Version 1.5 v1.000 (2000)(Sega)(PAL)(ES)[!]</description>
+		<disk name="Dreamkey Version 1.5 v1.000 (2000)(Sega)(PAL)(ES)[!].chd" sha1="010942824623a4299e1701c33190879d22ef067d" />
+	</machine>
+	<machine name="Dreamkey Version 1.5 v1.001 (2000)(Sega)(PAL)(FR)[!]">
+		<description>Dreamkey Version 1.5 v1.001 (2000)(Sega)(PAL)(FR)[!]</description>
+		<year>2000</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="Dreamkey Version 1.5 v1.001 (2000)(Sega)(PAL)(FR)[!].chd" sha1="3416296ec4f2daee8015b8d45205129923ed3baf" />
+	</machine>
+	<machine name="Dreamkey Version 1.5 v1.003 (2000)(Sega)(PAL)[!]">
+		<description>Dreamkey Version 1.5 v1.003 (2000)(Sega)(PAL)[!]</description>
+		<year>2000</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="Dreamkey Version 1.5 v1.003 (2000)(Sega)(PAL)[!].chd" sha1="a8f907a7940edfa288fb8c4dfe3a52b7dbc937e5" />
+	</machine>
+	<machine name="Dreamkey Version 2.0 v1.000 (2000)(Sega)(PAL)(M5)[!][B - Red Cover &amp; Disc]">
+		<description>Dreamkey Version 2.0 v1.000 (2000)(Sega)(PAL)(M5)[!][B - Red Cover &amp; Disc]</description>
+		<year>2000</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="Dreamkey Version 2.0 v1.000 (2000)(Sega)(PAL)(M5)[!][B - Red Cover &amp; Disc].chd" sha1="bd0cbdc5daf8d36519d586c74582d5fb3d8906fe" />
+	</machine>
+	<machine name="Dreamkey Version 2.0 v1.001 (2000)(Sega)(PAL)(M5)[!][D - Green Cover &amp; Disc]">
+		<description>Dreamkey Version 2.0 v1.001 (2000)(Sega)(PAL)(M5)[!][D - Green Cover &amp; Disc]</description>
+		<disk name="Dreamkey Version 2.0 v1.001 (2000)(Sega)(PAL)(M5)[!][D - Green Cover &amp; Disc].chd" sha1="eb31d316c4c28062af34166225deae0aab4cfcb0" />
+	</machine>
+	<machine name="Dreamstud!o - 3D Adventure Construction v1.002 (2000)(Sega)(JP)[!]">
+		<description>Dreamstud!o - 3D Adventure Construction v1.002 (2000)(Sega)(JP)[!]</description>
+		<year>2000</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="Dreamstud!o - 3D Adventure Construction v1.002 (2000)(Sega)(JP)[!].chd" sha1="447e73bfc5d33100bff3fd81886256a91d86be9a" />
+	</machine>
+	<machine name="Hello Kitty Dream Passport 2 v1.000 (1999)(Sega)(JP)[!]">
+		<description>Hello Kitty Dream Passport 2 v1.000 (1999)(Sega)(JP)[!]</description>
+		<disk name="Hello Kitty Dream Passport 2 v1.000 (1999)(Sega)(JP)[!].chd" sha1="0de8e35e1b02802cd0d7a80b1b656cb539431581" />
+	</machine>
+	<machine name="Hello Kitty no Otonaru Mail v1.016 (2000)(Sega)(JP)[!]">
+		<description>Hello Kitty no Otonaru Mail v1.016 (2000)(Sega)(JP)[!]</description>
+		<year>2000</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="Hello Kitty no Otonaru Mail v1.016 (2000)(Sega)(JP)[!].chd" sha1="fe3818ed2607916bb3b4a8410170ac8ae1dc74c6" />
+	</machine>
+	<machine name="J.League Pro Soccer Club o Tsukurou! Tokusei Otanoshimi File Download Disc v1.000 (1999)(Sega)(JP)[!]">
+		<description>J.League Pro Soccer Club o Tsukurou! Tokusei Otanoshimi File Download Disc v1.000 (1999)(Sega)(JP)[!]</description>
+		<disk name="J.League Pro Soccer Club o Tsukurou! Tokusei Otanoshimi File Download Disc v1.000 (1999)(Sega)(JP)[!].chd" sha1="9244d5055944dcf874bfff10d9c219fefa3ce95d" />
+	</machine>
+	<machine name="JRA PAT for Dreamcast V40L10 v1.002 (2000)(Keiba Security Services - Sega)(JP)[!]">
+		<description>JRA PAT for Dreamcast V40L10 v1.002 (2000)(Keiba Security Services - Sega)(JP)[!]</description>
+		<disk name="JRA PAT for Dreamcast V40L10 v1.002 (2000)(Keiba Security Services - Sega)(JP)[!].chd" sha1="c6e444dc6b8d2f9993251afff441cf3167847373" />
+	</machine>
+	<machine name="JRA PAT for Dreamcast V40L11 v2.000 (2000)(Keiba Security Services - Sega)(JP)[!]">
+		<description>JRA PAT for Dreamcast V40L11 v2.000 (2000)(Keiba Security Services - Sega)(JP)[!]</description>
+		<disk name="JRA PAT for Dreamcast V40L11 v2.000 (2000)(Keiba Security Services - Sega)(JP)[!].chd" sha1="ddf6f1f518a8473895550af1cd04c314f5cc58e4" />
+	</machine>
+	<machine name="JRA PAT for Dreamcast V40L12 v3.000 (2001)(Keiba Security Services - Sega)(JP)[!]">
+		<description>JRA PAT for Dreamcast V40L12 v3.000 (2001)(Keiba Security Services - Sega)(JP)[!]</description>
+		<disk name="JRA PAT for Dreamcast V40L12 v3.000 (2001)(Keiba Security Services - Sega)(JP)[!].chd" sha1="4f5076c66aefdc2d946a156eafb8bebdfb1824d2" />
+	</machine>
+	<machine name="JRA PAT for Dreamcast V50 v1.000 (2002)(Keiba Security Services - Sega)(JP)[!][AKA V50L10]">
+		<description>JRA PAT for Dreamcast V50 v1.000 (2002)(Keiba Security Services - Sega)(JP)[!][AKA V50L10]</description>
+		<disk name="JRA PAT for Dreamcast V50 v1.000 (2002)(Keiba Security Services - Sega)(JP)[!][AKA V50L10].chd" sha1="50da8e21c2299f2942e239a8d8a6a95af2e27eaa" />
+	</machine>
+	<machine name="Microsoft WebTV Setsuzoku Kit - 128bit SSL Taiouhan v1.011 (1999)(WebTV Networks)(JP)[!][AKA Microsoft WebTV Connection Kit]">
+		<description>Microsoft WebTV Setsuzoku Kit - 128bit SSL Taiouhan v1.011 (1999)(WebTV Networks)(JP)[!][AKA Microsoft WebTV Connection Kit]</description>
+		<disk name="Microsoft WebTV Setsuzoku Kit - 128bit SSL Taiouhan v1.011 (1999)(WebTV Networks)(JP)[!][AKA Microsoft WebTV Connection Kit].chd" sha1="b3189130ccda24342947203b88eac367c4f05cad" />
+	</machine>
+	<machine name="Microsoft WebTV Setsuzoku Kit v1.004 (1999)(WebTV Networks)(JP)[!][10MM1][AKA Microsoft WebTV Connection Kit]">
+		<description>Microsoft WebTV Setsuzoku Kit v1.004 (1999)(WebTV Networks)(JP)[!][10MM1][AKA Microsoft WebTV Connection Kit]</description>
+		<year>1999</year>
+		<manufacturer>WebTV Networks</manufacturer>
+		<disk name="Microsoft WebTV Setsuzoku Kit v1.004 (1999)(WebTV Networks)(JP)[!][10MM1][AKA Microsoft WebTV Connection Kit].chd" sha1="e47d97b503d1efb05b7ebb3678bae55c57eeb8b1" />
+	</machine>
+	<machine name="Microsoft WebTV Setsuzoku Kit v1.004 (1999)(WebTV Networks)(JP)[!][11MM1][AKA Microsoft WebTV Connection Kit]" cloneof="Microsoft WebTV Setsuzoku Kit v1.004 (1999)(WebTV Networks)(JP)[!][10MM1][AKA Microsoft WebTV Connection Kit]">
+		<description>Microsoft WebTV Setsuzoku Kit v1.004 (1999)(WebTV Networks)(JP)[!][11MM1][AKA Microsoft WebTV Connection Kit]</description>
+		<disk name="Microsoft WebTV Setsuzoku Kit v1.004 (1999)(WebTV Networks)(JP)[!][11MM1][AKA Microsoft WebTV Connection Kit].chd" sha1="a774c9bad676afe17f9e11d12a85a80fc634f922" />
+	</machine>
+	<machine name="O.To.I.Re Dreamcast Sequencer v1.002 (1999)(Waka Manufacturing)(JP)(en-ja)[!]">
+		<description>O.To.I.Re Dreamcast Sequencer v1.002 (1999)(Waka Manufacturing)(JP)(en-ja)[!]</description>
+		<disk name="O.To.I.Re Dreamcast Sequencer v1.002 (1999)(Waka Manufacturing)(JP)(en-ja)[!].chd" sha1="cac50328483d94d74a8a6e5b056cc4b2265ca13d" />
+	</machine>
+	<machine name="Planetweb Internet Browser V3.0 for Dreamcast v3.040 (2001)(Planetweb)(US)[!]">
+		<description>Planetweb Internet Browser V3.0 for Dreamcast v3.040 (2001)(Planetweb)(US)[!]</description>
+		<disk name="Planetweb Internet Browser V3.0 for Dreamcast v3.040 (2001)(Planetweb)(US)[!].chd" sha1="1be7de08b2fc7a674587458e5014da2f272ed915" />
+	</machine>
+	<machine name="Sakura Taisen - Kinematron Hanagumi Mail v1.008 (2000)(Sega)(JP)[!]">
+		<description>Sakura Taisen - Kinematron Hanagumi Mail v1.008 (2000)(Sega)(JP)[!]</description>
+		<disk name="Sakura Taisen - Kinematron Hanagumi Mail v1.008 (2000)(Sega)(JP)[!].chd" sha1="911509d2ffa9f874f98337102ba661a57e54a22f" />
+	</machine>
+	<machine name="Sakura Taisen 3 Drama Download Disc v1.000 (2002)(Sega)(JP)[!][2M1, 2M2, 2M3][Sakura Taisen 4, HDR-0191]">
+		<description>Sakura Taisen 3 Drama Download Disc v1.000 (2002)(Sega)(JP)[!][2M1, 2M2, 2M3][Sakura Taisen 4, HDR-0191]</description>
+		<disk name="Sakura Taisen 3 Drama Download Disc v1.000 (2002)(Sega)(JP)[!][2M1, 2M2, 2M3][Sakura Taisen 4, HDR-0191].chd" sha1="756dbe9013a3ced9a74fb96f9006c3ee19b55808" />
+	</machine>
+	<machine name="Sakura Taisen 3 Drama Download Disc v1.000 (2002)(Sega)(JP)[!][HM223C, HM223F, HM223G][Sakura Taisen 4, HDR-0191]" cloneof="Sakura Taisen 3 Drama Download Disc v1.000 (2002)(Sega)(JP)[!][2M1, 2M2, 2M3][Sakura Taisen 4, HDR-0191]">
+		<description>Sakura Taisen 3 Drama Download Disc v1.000 (2002)(Sega)(JP)[!][HM223C, HM223F, HM223G][Sakura Taisen 4, HDR-0191]</description>
+		<disk name="Sakura Taisen 3 Drama Download Disc v1.000 (2002)(Sega)(JP)[!][HM223C, HM223F, HM223G][Sakura Taisen 4, HDR-0191].chd" sha1="13b0b62a0c192d1a6c8db3dd3bf2cc9a7076d8fe" />
+	</machine>
+	<machine name="Sakura Taisen Dream Passport 3 v1.007 (2000)(Sega)(JP)[!]">
+		<description>Sakura Taisen Dream Passport 3 v1.007 (2000)(Sega)(JP)[!]</description>
+		<disk name="Sakura Taisen Dream Passport 3 v1.007 (2000)(Sega)(JP)[!].chd" sha1="c06093a4bba80d414975e64059f192ea2b8d7df5" />
+	</machine>
+	<machine name="Seaman Ikusei Shien Kit - Seaman Esa Disc v1.001 (2000)(Vivarium)(JP)[!][AKA Seaman Complete Kit Feed Disc]">
+		<description>Seaman Ikusei Shien Kit - Seaman Esa Disc v1.001 (2000)(Vivarium)(JP)[!][AKA Seaman Complete Kit Feed Disc]</description>
+		<disk name="Seaman Ikusei Shien Kit - Seaman Esa Disc v1.001 (2000)(Vivarium)(JP)[!][AKA Seaman Complete Kit Feed Disc].chd" sha1="13866757c9f75ae5319267d6e5f032f2477296ab" />
+	</machine>
+	<machine name="Sega Dreamcast Web Browser 2.62 v2.613 (2001)(Sega)(US)[!]">
+		<description>Sega Dreamcast Web Browser 2.62 v2.613 (2001)(Sega)(US)[!]</description>
+		<disk name="Sega Dreamcast Web Browser 2.62 v2.613 (2001)(Sega)(US)[!].chd" sha1="c201605d473701294ad76ecb25a581d58e006a0c" />
+	</machine>
+	<machine name="Sega Dreamcast Web Browser v1.124 (1999)(Sega)(US)[!][1S]">
+		<description>Sega Dreamcast Web Browser v1.124 (1999)(Sega)(US)[!][1S]</description>
+		<disk name="Sega Dreamcast Web Browser v1.124 (1999)(Sega)(US)[!][1S].chd" sha1="dfd6d400d04b9c7e68bb96831cec4df7bc491ea8" />
+	</machine>
+	<machine name="Sega Dreamcast Web Browser v1.125 (1999)(Sega)(US)[!][9H037F, 9H037I]">
+		<description>Sega Dreamcast Web Browser v1.125 (1999)(Sega)(US)[!][9H037F, 9H037I]</description>
+		<disk name="Sega Dreamcast Web Browser v1.125 (1999)(Sega)(US)[!][9H037F, 9H037I].chd" sha1="a562e9bd88bb4379938fb396b0307cfa9d317027" />
+	</machine>
+	<machine name="Sega Dreamcast Web Browser v1.125 (1999)(Sega)(US)[!][MK-51027A]" cloneof="Sega Dreamcast Web Browser v1.125 (1999)(Sega)(US)[!][9H037F, 9H037I]">
+		<description>Sega Dreamcast Web Browser v1.125 (1999)(Sega)(US)[!][MK-51027A]</description>
+		<disk name="Sega Dreamcast Web Browser v1.125 (1999)(Sega)(US)[!][MK-51027A].chd" sha1="5354e96eb9504a393458f6f675d19176677ed01d" />
+	</machine>
+	<machine name="Segakara for Dreamcast v1.002 (2001)(Sega Music Networks)(JP)[!][Dreamcast Karaoke, HKT-4301]">
+		<description>Segakara for Dreamcast v1.002 (2001)(Sega Music Networks)(JP)[!][Dreamcast Karaoke, HKT-4301]</description>
+		<disk name="Segakara for Dreamcast v1.002 (2001)(Sega Music Networks)(JP)[!][Dreamcast Karaoke, HKT-4301].chd" sha1="320ea754d3a38f4b4a3a45c824098eb556a8c8d6" />
+	</machine>
+	<machine name="Virtua Fighter 4 Passport - VF.NET v1.001 (2001)(Sega)(JP)[!][HL809C, D][Shenmue II, HDR-0179]">
+		<description>Virtua Fighter 4 Passport - VF.NET v1.001 (2001)(Sega)(JP)[!][HL809C, D][Shenmue II, HDR-0179]</description>
+		<disk name="Virtua Fighter 4 Passport - VF.NET v1.001 (2001)(Sega)(JP)[!][HL809C, D][Shenmue II, HDR-0179].chd" sha1="05652435f3c891c01e218e1e57235f90241e285b" />
+	</machine>
+	<machine name="Visual Park v1.010 (2000)(Sega)(JP)[!][Dreameye, HKT-9402]">
+		<description>Visual Park v1.010 (2000)(Sega)(JP)[!][Dreameye, HKT-9402]</description>
+		<disk name="Visual Park v1.010 (2000)(Sega)(JP)[!][Dreameye, HKT-9402].chd" sha1="b0558f496a8ab9d746e1b06cd6e0087d8dc77bcd" />
+	</machine>
+	<machine name="Web Browser 2.0 v2.004 (2000)(Sega)(US)[!]">
+		<description>Web Browser 2.0 v2.004 (2000)(Sega)(US)[!]</description>
+		<disk name="Web Browser 2.0 v2.004 (2000)(Sega)(US)[!].chd" sha1="fd15e75818f52f601147d6a64df658dd4894dd7c" />
+	</machine>
+	<machine name="Web Browser 2.0 with SegaNet v2.100 (2000)(Sega)(US)[!][3S]">
+		<description>Web Browser 2.0 with SegaNet v2.100 (2000)(Sega)(US)[!][3S]</description>
+		<disk name="Web Browser 2.0 with SegaNet v2.100 (2000)(Sega)(US)[!][3S].chd" sha1="908f60267029f7bbb78a48cdf6318cef9e4cd3b8" />
+	</machine>
+	<machine name="Yumebaken '99 Internet v1.003 (1999)(Shangri-La)(JP)[!]">
+		<description>Yumebaken '99 Internet v1.003 (1999)(Shangri-La)(JP)[!]</description>
+		<disk name="Yumebaken '99 Internet v1.003 (1999)(Shangri-La)(JP)[!].chd" sha1="a977079767ffec0cf297b08e365ac8787df9c25c" />
+	</machine>
+</datafile>

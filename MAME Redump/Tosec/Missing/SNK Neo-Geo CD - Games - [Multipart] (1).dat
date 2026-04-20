@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>SNK Neo-Geo CD - Games - [Multipart]</name>
+		<description>MAME Redump - SNK Neo-Geo CD - Games - [Multipart] (TOSEC-v2012-09-08)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Joy Joy Kid (2005-02-09)(Neo Geo Conversion Project)(en-ja)[p]" type="">
+		<description>Joy Joy Kid (2005-02-09)(Neo Geo Conversion Project)(en-ja)[p]</description>
+		<rom name="021_C1.SPR" size="1048576" crc="24BC0F0A" md5="83FAB8AD2999E7B5D8549FBA1A1808A7" sha1="1E0B0411A5B726044838F59B1523EEF73CF4AB06" />
+		<rom name="021_M1.Z80" size="65200" crc="C0311F37" md5="5E146A5A5DF8313817A503FAC3F99B3B" sha1="2AD84559517784C8B0AA6D5ED15DF87F9D70087E" />
+		<rom name="021_P1.PRG" size="524288" crc="9DE9A495" md5="5A42EF5F2A31652737194B37D103531C" sha1="E4AFCF457C949F4FD1441D1A80FAF690EE424594" />
+		<rom name="021_PCM.PCM" size="1048576" crc="130EF711" md5="E916939F4E62AE2283E1CAD18F727098" sha1="496C50AC0F2C1707B7E7395DB7038E79B1454550" />
+		<rom name="021_S1.FIX" size="131072" crc="6956D778" md5="72896B6439BB00F27C8ADB2E3D726E20" sha1="E3757776D60DC07D8E07C9CA61B223B14732F860" />
+		<rom name="ABS.TXT" size="30" crc="C4AD414A" md5="F0D91AE03492C0531A9F960C45588112" sha1="BA0101F87B7BB7455A093E8456F8B7B18A961D70" />
+		<rom name="BIB.TXT" size="35" crc="C7A66A0B" md5="0C6DF774D70673EA8E3F29EDF674E413" sha1="71A22C0052BB08124949F6F4CADD83A0F6DDF906" />
+		<rom name="CPY.TXT" size="29" crc="20D6116B" md5="4FF22328FE4B77AD20E302DBA0BF46AD" sha1="EE9F35D7452860827B01A0F93E59BD78AB9E157E" />
+		<rom name="IPL.TXT" size="82" crc="700E2B46" md5="F2C53759A7C0A23CE2A93A159723EFC3" sha1="614090643320072DF916A0FFE7F69A5B89C6E6D3" />
+	</game>
+</datafile>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Fujitsu FM Towns - CD - Homebrew - Demos</name>
+		<description>MAME Redump - Fujitsu FM Towns - CD - Homebrew - Demos (TOSEC-v2012-07-22)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Mode 7 Demo (2008-01-06)(RasterSoft)">
+		<description>Mode 7 Demo (2008-01-06)(RasterSoft)</description>
+		<disk name="Mode 7 Demo (2008-01-06)(RasterSoft).chd" sha1="905734f6ced165963db2076926a0dddcc0c9fb5b" />
+	</machine>
+</datafile>

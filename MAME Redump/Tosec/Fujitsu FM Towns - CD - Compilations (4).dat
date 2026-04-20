@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Fujitsu FM Towns - CD - Compilations</name>
+		<description>MAME Redump - Fujitsu FM Towns - CD - Compilations (TOSEC-v2012-07-13)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Free Software Collection 10 (1995)(Fujitsu)(JP)">
+		<description>Free Software Collection 10 (1995)(Fujitsu)(JP)</description>
+		<disk name="Free Software Collection 10 (1995)(Fujitsu)(JP).chd" sha1="43ffe2810ce84ee59c060749ef347ce11e3961e4" />
+	</machine>
+	<machine name="Free Software Collection 11 (1995)(Fujitsu)(JP)[2Mb RAM]">
+		<description>Free Software Collection 11 (1995)(Fujitsu)(JP)[2Mb RAM]</description>
+		<disk name="Free Software Collection 11 (1995)(Fujitsu)(JP)[2Mb RAM].chd" sha1="2aaf76b7fc39ee1220adbeaceb482d10abad6812" />
+	</machine>
+	<machine name="Free Software Collection 4 (1991)(Fujitsu)(JP)(Disc 1 of 2)">
+		<description>Free Software Collection 4 (1991)(Fujitsu)(JP)(Disc 1 of 2)</description>
+		<disk name="Free Software Collection 4 (1991)(Fujitsu)(JP)(Disc 1 of 2).chd" sha1="d54bc0300cad8c7adfb70d9c2108cc27c3da249a" />
+	</machine>
+	<machine name="Free Software Collection 8 (1994)(Fujitsu)(JP)">
+		<description>Free Software Collection 8 (1994)(Fujitsu)(JP)</description>
+		<disk name="Free Software Collection 8 (1994)(Fujitsu)(JP).chd" sha1="6041d241acb04fd12235108d253e07c605ef54d8" />
+	</machine>
+</datafile>

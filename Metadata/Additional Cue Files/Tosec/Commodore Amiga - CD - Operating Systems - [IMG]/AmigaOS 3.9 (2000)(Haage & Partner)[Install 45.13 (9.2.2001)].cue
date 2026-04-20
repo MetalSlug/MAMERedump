@@ -1,0 +1,6 @@
+FILE "AmigaOS 3.9 (2000)(Haage & Partner)[Install 45.13 (9.2.2001)].img" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    PREGAP 00:02:00
+    INDEX 01 62:27:18

@@ -1,0 +1,11 @@
+FILE "Lunar - Eternal Blue - Premium CD (1994)(Game Arts)(JP)[Lunar - Eternal Blue][CD-Audio].img" BINARY
+  TRACK 01 AUDIO
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    INDEX 01 03:32:55
+  TRACK 03 AUDIO
+    INDEX 01 07:08:15
+  TRACK 04 AUDIO
+    INDEX 01 08:48:23
+  TRACK 05 AUDIO
+    INDEX 01 14:52:65

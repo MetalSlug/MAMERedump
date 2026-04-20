@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Homebrew - Games - [GDI]</name>
+		<description>MAME Redump - Sega Dreamcast - Homebrew - Games - [GDI] (TOSEC-v2022-06-08)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Driving Strikers - Holiday Edition (2021-12-24)(kazade)" type="">
+		<description>Driving Strikers - Holiday Edition (2021-12-24)(kazade)</description>
+		<rom name="track01.iso" size="30869504" crc="9941DE39" md5="EFE58D2B30003AA284B74CC2516DD660" sha1="2FBDC9ECDC4FE614D18CCC48BB8728D0CE3E5D92" />
+		<rom name="track02.raw" size="2352" crc="BE97CE3F" md5="9E297EFC7A522480EF89A4A7F39CE560" sha1="FE1A9E36E57B299B68F2D0F07BBED05C08D460ED" />
+		<rom name="track03.bin" size="94208" crc="FB7F8130" md5="456D8477C98870A86555EFB7CC160A17" sha1="B61B8AFFE763AE565D268501071F27181855DF35" />
+		<rom name="track04.bin" size="33337344" crc="D3F88AED" md5="807C1FEB6F3A6059763293FC0FC367B4" sha1="79F0128A671928332F0777ADE8F0DBAACE2898AC" />
+	</game>
+</datafile>

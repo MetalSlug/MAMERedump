@@ -1,0 +1,6 @@
+FILE "Zoku Hatsukoi Monogatari - Shuugaku Ryokou (1997)(NEC Home Electronics)(JP)(Disc 2 of 2)[FXNHE629].img" BINARY
+  TRACK 01 AUDIO
+    INDEX 01 00:00:00
+  TRACK 02 MODE1/2352
+    PREGAP 00:03:00
+    INDEX 01 00:55:45

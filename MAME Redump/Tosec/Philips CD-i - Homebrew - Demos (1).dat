@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Philips CD-i - Homebrew - Demos</name>
+		<description>MAME Redump - Philips CD-i - Homebrew - Demos (TOSEC-v2012-07-22)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Mode 7 Demo (2008-01-06)(RasterSoft)">
+		<description>Mode 7 Demo (2008-01-06)(RasterSoft)</description>
+		<disk name="Mode 7 Demo (2008-01-06)(RasterSoft).chd" sha1="17fc1626fb48370c5da756cd4638628c5f9d84e7" />
+	</machine>
+</datafile>

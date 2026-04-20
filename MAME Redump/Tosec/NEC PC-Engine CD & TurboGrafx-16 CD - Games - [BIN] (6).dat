@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Games - [BIN]</name>
+		<description>MAME Redump - NEC PC-Engine CD &amp; TurboGrafx-16 CD - Games - [BIN] (TOSEC-v2018-08-10)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Angelus 2 - Holy Night (199x)(Asmik)(JP)(proto)[AKA Angels 2]">
+		<description>Angelus 2 - Holy Night (199x)(Asmik)(JP)(proto)[AKA Angels 2]</description>
+		<disk name="Angelus 2 - Holy Night (199x)(Asmik)(JP)(proto)[AKA Angels 2].chd" sha1="47b6d8953ff05f68903686d307dd81012a685e63" />
+	</machine>
+	<machine name="Beyond Shadowgate (1993)(Turbo Technologies - Viacom)(US)">
+		<description>Beyond Shadowgate (1993)(Turbo Technologies - Viacom)(US)</description>
+		<disk name="Beyond Shadowgate (1993)(Turbo Technologies - Viacom)(US).chd" sha1="ab077ca81dfdce82d4bb8701991dbf3d7430fc31" />
+	</machine>
+	<machine name="Bonk 3 - Bonk's Big Adventure CD (1993)(Hudson - Turbo Technologies)(US)">
+		<description>Bonk 3 - Bonk's Big Adventure CD (1993)(Hudson - Turbo Technologies)(US)</description>
+		<disk name="Bonk 3 - Bonk's Big Adventure CD (1993)(Hudson - Turbo Technologies)(US).chd" sha1="bf2d19e58e6ee9142042fcf494f0c58671ba2f9d" />
+	</machine>
+	<machine name="Fantasy Star Soldier (1992)(Hudson)(US)(proto)">
+		<description>Fantasy Star Soldier (1992)(Hudson)(US)(proto)</description>
+		<disk name="Fantasy Star Soldier (1992)(Hudson)(US)(proto).chd" sha1="dad917b99ad4d0c306cb4edc7f07cdc6942a373e" />
+	</machine>
+	<machine name="Ginga Fukei Densetsu Sapphire (1995)(Hudson)(JP)">
+		<description>Ginga Fukei Densetsu Sapphire (1995)(Hudson)(JP)</description>
+		<disk name="Ginga Fukei Densetsu Sapphire (1995)(Hudson)(JP).chd" sha1="518adc355253b3d1833d3b5dbc7cd682c42047cb" />
+	</machine>
+	<machine name="Might and Magic III - Isles of Terra (1993)(Hudson - Turbo Technologies)(US)">
+		<description>Might and Magic III - Isles of Terra (1993)(Hudson - Turbo Technologies)(US)</description>
+		<disk name="Might and Magic III - Isles of Terra (1993)(Hudson - Turbo Technologies)(US).chd" sha1="bea39cd4e4db229f2d136f934caa4e70389f5b8a" />
+	</machine>
+</datafile>

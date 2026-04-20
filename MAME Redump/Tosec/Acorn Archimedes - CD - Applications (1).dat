@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Acorn Archimedes - CD - Applications</name>
+		<description>MAME Redump - Acorn Archimedes - CD - Applications (TOSEC-v2012-07-06)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="StrongARM CD-ROM (1996)(Acorn Risc Technologies)">
+		<description>StrongARM CD-ROM (1996)(Acorn Risc Technologies)</description>
+		<disk name="StrongARM CD-ROM (1996)(Acorn Risc Technologies).chd" sha1="6929df962860a3ce79fa57ac3ea4234887071846" />
+	</machine>
+</datafile>

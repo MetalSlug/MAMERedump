@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>SNK Neo-Geo CD - Firmware</name>
+		<description>MAME Redump - SNK Neo-Geo CD - Firmware (TOSEC-v2012-09-08)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="SNK Neo-Geo CD BIOS (1994)(SNK)(en-ja)" type="">
+		<description>SNK Neo-Geo CD BIOS (1994)(SNK)(en-ja)</description>
+		<rom name="SNK Neo-Geo CD BIOS (1994)(SNK)(en-ja).bin" size="524288" crc="C36A47C0" md5="122AEE210324C72E8A11116E6EF9C0D0" sha1="235F4D1D74364415910F73C10AE5482D90B4274F" />
+	</game>
+	<game name="SNK Neo-Geo CD BIOS (1994)(SNK)(JP)(en-ja)" type="">
+		<description>SNK Neo-Geo CD BIOS (1994)(SNK)(JP)(en-ja)</description>
+		<rom name="SNK Neo-Geo CD BIOS (1994)(SNK)(JP)(en-ja).bin" size="524288" crc="CAC62307" md5="5C2366F25FF92D71788468CA492EBECA" sha1="53BC1F283CDF00FA2EFBB79F2E36D4C8038D743A" />
+	</game>
+	<game name="SNK Neo-Geo CDZ BIOS (1995)(SNK)(JP)(en-ja)" type="">
+		<description>SNK Neo-Geo CDZ BIOS (1995)(SNK)(JP)(en-ja)</description>
+		<rom name="SNK Neo-Geo CDZ BIOS (1995)(SNK)(JP)(en-ja).bin" size="524288" crc="DF9DE490" md5="F39572AF7584CB5B3F70AE8CC848ABA2" sha1="7BB26D1E5D1E930515219CB18BCDE5B7B23E2EDA" />
+	</game>
+</datafile>

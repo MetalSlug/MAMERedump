@@ -1,0 +1,9 @@
+FILE "Lunar - Eternal Blue (1995)(Game Arts - Working Designs)(US).img" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    PREGAP 00:02:00
+    INDEX 01 44:21:66
+  TRACK 03 AUDIO
+    INDEX 00 49:09:51
+    INDEX 01 49:11:51

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sony PlayStation Portable - Homebrew - Games - [ISO]</name>
+		<description>Sony PlayStation Portable - Homebrew - Games - [ISO]</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Kogal Kannon (2023-01-30)(Plaguelabs)" type="dvd" sha1="0fb7ba6a8387d5b9261b9aae1f231c71ef70f9ac" size="5630165" crc="5d598ad7" fullsha1="7195e4452881cb59fafc8393ad3ca572fd6d12ed" datasha1="1b20228fc84b3ebfd814f11d6be7bb58ff81683f">
+		<category>Games</category>
+		<description>Kogal Kannon (2023-01-30)(Plaguelabs)</description>
+		<rom name="Kogal Kannon (2023-01-30)(Plaguelabs).bin" size="118521856" crc="6b5c91fa" md5="1c85191233684f123f7b965d6e64288f" sha1="1b20228fc84b3ebfd814f11d6be7bb58ff81683f"/>
+	</game>
+	<game name="nothing.seriOS (2020-09-25)(Plaguelabs)" type="cd" sha1="5a9662512b4b8ff065ff9e6ad03400d34aa2ac5d" size="4875689" crc="c1f7a753" fullsha1="cb59fb2e1a5ffabfc4b450c199073050823ad111" datasha1="9eb55c301a206c25d7f16e28b8ee8f201074b98f" rawdatasha1="65761d1694a174db8b4805a2248459ee282410a2" rawdatasize="128188416">
+		<category>Games</category>
+		<description>nothing.seriOS (2020-09-25)(Plaguelabs)</description>
+		<rom name="nothing.seriOS (2020-09-25)(Plaguelabs) (Track 01).bin" size="128188416" crc="60bdc312" md5="1c8187a1b6fbe8407dc7135a52462e16" sha1="65761d1694a174db8b4805a2248459ee282410a2"/>
+	</game>
+</datafile>

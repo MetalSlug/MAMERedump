@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sony PlayStation - Homebrew - Games - [ISO]</name>
+		<description>MAME Redump - Sony PlayStation - Homebrew - Games - [ISO] (TOSEC-v2023-06-13)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Blox Basic (2021-07-25)(Sandoomer)" type="">
+		<description>Blox Basic (2021-07-25)(Sandoomer)</description>
+		<rom name="Blox Basic (2021-07-25)(Sandoomer).iso" size="2657760" crc="4C040043" md5="6468D8E380D3739C761D1CE17EDE6F6B" sha1="F6C4D90403FDDC28633DF2362305FD8BE65877B5" />
+	</game>
+	<game name="Dark Souls (2021-12-05)(Seistethic)" type="">
+		<description>Dark Souls (2021-12-05)(Seistethic)</description>
+		<rom name="Dark Souls (2021-12-05)(Seistethic).iso" size="3379824" crc="5A4C0EC7" md5="B79AFE46BFC748753C457C1E2BAE2AD2" sha1="66373E2F23CF98837CB74C16B5D21FA6484E89A2" />
+	</game>
+	<game name="Dark Souls 2 (2021-11-29)(Seistethic)" type="">
+		<description>Dark Souls 2 (2021-11-29)(Seistethic)</description>
+		<rom name="Dark Souls 2 (2021-11-29)(Seistethic).iso" size="3302208" crc="08B8AEB1" md5="D65CF1E07CD3DE9045314BBBA657D23B" sha1="57D7198DE1555273F94CE7BD8A016ED0E4890556" />
+	</game>
+	<game name="Demon's Souls (2021-11-05)(Seistethic)" type="">
+		<description>Demon's Souls (2021-11-05)(Seistethic)</description>
+		<rom name="Demon's Souls (2021-11-05)(Seistethic).iso" size="3210480" crc="D3ECB105" md5="9AE5F7811D1A9780F9D7E764C136F6B7" sha1="37083DCC1962A401FA099655D17706C3C1945A43" />
+	</game>
+	<game name="Guardians of Sunshine (2021-10-09)(Seistethic)" type="">
+		<description>Guardians of Sunshine (2021-10-09)(Seistethic)</description>
+		<rom name="Guardians of Sunshine (2021-10-09)(Seistethic).iso" size="3090528" crc="31F976B0" md5="9DA2CBA0E7B83BF1568C80456CD00DD7" sha1="DDA1EE4F46336CA5232E65A1732CEEFBF4920812" />
+	</game>
+	<game name="Guardians of Sunshine (2021-10-09)(Seistethic)[for overclock]" type="">
+		<description>Guardians of Sunshine (2021-10-09)(Seistethic)[for overclock]</description>
+		<rom name="Guardians of Sunshine (2021-10-09)(Seistethic)[for overclock].iso" size="3090528" crc="E4410AB6" md5="611C0A3F90BB906D8605477C702B96A3" sha1="CD073EA72E682B726F3B53C450C2D380759B805D" />
+	</game>
+	<game name="Sporting Clays (2000)(Doty, Charles)(PD)" type="">
+		<description>Sporting Clays (2000)(Doty, Charles)(PD)</description>
+		<rom name="Sporting Clays (2000)(Doty, Charles)(PD).iso" size="999600" crc="7F0C9C49" md5="AF12426F5A31CBE70FA48A044CBF313A" sha1="2DBC38D91E8B851D451D50E9E6FCBD55A40C5489" />
+	</game>
+</datafile>

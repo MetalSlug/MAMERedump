@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Namco-Sega-Nintendo - Triforce - Applications</name>
+		<description>Namco-Sega-Nintendo - Triforce - Applications</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Boot Update v1.000 (2003)(Sega)(JP)[!][GDT-0011]" type="gd" sha1="afb27def44a10b02060f958e40422682f0e760b5" size="15322652" crc="102d5c61" fullsha1="fbfd7960ca7070721e25c08ccc428a2e0cf4766f" datasha1="31650a8ad740940489c03f929b31b2b67a5f1dfd" rawdatasha1="8a5e23bf90fb5968254fd3d45b481638f674b354" rawdatasize="1189999104">
+		<category>Games</category>
+		<description>Boot Update v1.000 (2003)(Sega)(JP)[!][GDT-0011]</description>
+		<rom name="Boot Update v1.000 (2003)(Sega)(JP)[!][GDT-0011] (Track 01).bin" size="1058400" crc="195a3b84" md5="e289b7e283f63e9e922e8ffb2c9629a8" sha1="17842e4044c7f15018301ee86dbc087a0ef93fc3"/>
+		<rom name="Boot Update v1.000 (2003)(Sega)(JP)[!][GDT-0011] (Track 02).bin" size="3179904" crc="288f3d54" md5="63cd7feee11bcbe7aac7e3737c84a976" sha1="51215f79c15584d9885ab49df675e3effaf43000" wavesha1="e8379739ef62ded1df70699c2c8ad790b89542ad"/>
+		<rom name="Boot Update v1.000 (2003)(Sega)(JP)[!][GDT-0011] (Track 03).bin" size="1185760800" crc="389c43da" md5="f6c544107359ea96672a632e2bc38add" sha1="6c47202165009c173f5a70a851d6bdb5f383faef"/>
+	</game>
+</datafile>

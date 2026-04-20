@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga - CD - Multimedia - [IMG]</name>
+		<description>MAME Redump - Commodore Amiga - CD - Multimedia - [IMG] (TOSEC-v2018-07-02)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Epic Interactive Encyclopedia of the Paranormal First Edition,The (1997)(Epic Marketing)">
+		<description>Epic Interactive Encyclopedia of the Paranormal First Edition,The (1997)(Epic Marketing)</description>
+		<disk name="Epic Interactive Encyclopedia of the Paranormal First Edition,The (1997)(Epic Marketing).chd" sha1="2fb84dd2c0c097b7f55fa910847d2168f721a1c7" />
+	</machine>
+	<machine name="Epic Multimedia Lexikon, Das (1997)(Epic Marketing)(DE)">
+		<description>Epic Multimedia Lexikon, Das (1997)(Epic Marketing)(DE)</description>
+		<disk name="Epic Multimedia Lexikon, Das (1997)(Epic Marketing)(DE).chd" sha1="8a63a0d27a90b14e50cb2923efb7ffb97c7e050a" />
+	</machine>
+	<machine name="World Factbook 2002 (2003)(Faces of Mars)[Amiga-Mac-PC]">
+		<description>World Factbook 2002 (2003)(Faces of Mars)[Amiga-Mac-PC]</description>
+		<disk name="World Factbook 2002 (2003)(Faces of Mars)[Amiga-Mac-PC].chd" sha1="49df0a62eb9ed397938f9bb511215b98db3f7fa9" />
+	</machine>
+</datafile>

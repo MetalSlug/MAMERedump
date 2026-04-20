@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga - CD - Operating Systems - [ISO]</name>
+		<description>MAME Redump - Commodore Amiga - CD - Operating Systems - [ISO] (TOSEC-v2019-09-07)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="AmigaOS 3.5 (1999)(Haage &amp; Partner)[!]">
+		<description>AmigaOS 3.5 (1999)(Haage &amp; Partner)[!]</description>
+		<disk name="AmigaOS 3.5 (1999)(Haage &amp; Partner)[!].chd" sha1="2910f7ffa577134653225fff276854c8d35d61ee" />
+	</machine>
+	<machine name="AmigaOS 4.0 (2007-11)(Hyperion)[a][Classic Amiga][PPC]">
+		<description>AmigaOS 4.0 (2007-11)(Hyperion)[a][Classic Amiga][PPC]</description>
+		<disk name="AmigaOS 4.0 (2007-11)(Hyperion)[a][Classic Amiga][PPC].chd" sha1="b04b9c0e4f2982035fee2ec8d6042cd1a13e51a5" />
+	</machine>
+	<machine name="AmigaOS 4.0 (2007-11)(Hyperion)[Classic Amiga][PPC]" cloneof="AmigaOS 4.0 (2007-11)(Hyperion)[a][Classic Amiga][PPC]">
+		<description>AmigaOS 4.0 (2007-11)(Hyperion)[Classic Amiga][PPC]</description>
+		<disk name="AmigaOS 4.0 (2007-11)(Hyperion)[Classic Amiga][PPC].chd" sha1="b04b9c0e4f2982035fee2ec8d6042cd1a13e51a5" />
+	</machine>
+	<machine name="AmigaOS 4.1 (2011-05-17)(Hyperion)[Update 2][Classic Amiga][PPC]">
+		<description>AmigaOS 4.1 (2011-05-17)(Hyperion)[Update 2][Classic Amiga][PPC]</description>
+		<disk name="AmigaOS 4.1 (2011-05-17)(Hyperion)[Update 2][Classic Amiga][PPC].chd" sha1="0eab8e7ea6c9727e8dacbb22e01391d253133a0b" />
+	</machine>
+	<machine name="AmigaOS 4.1 FE (2014)(Hyperion)[Classic Amiga][PPC]">
+		<description>AmigaOS 4.1 FE (2014)(Hyperion)[Classic Amiga][PPC]</description>
+		<disk name="AmigaOS 4.1 FE (2014)(Hyperion)[Classic Amiga][PPC].chd" sha1="9b91d2dcc1bef1c9963aecf49a3822c91468406b" />
+	</machine>
+	<machine name="Linux M68K (1999)(Schatztruhe)">
+		<description>Linux M68K (1999)(Schatztruhe)</description>
+		<disk name="Linux M68K (1999)(Schatztruhe).chd" sha1="d1efa19ea03c56e56365adb8d16e1bc5e70654fc" />
+	</machine>
+	<machine name="MorphOS 1.4.2 (2004)(MorphOS Development Team)[PowerUP]">
+		<description>MorphOS 1.4.2 (2004)(MorphOS Development Team)[PowerUP]</description>
+		<disk name="MorphOS 1.4.2 (2004)(MorphOS Development Team)[PowerUP].chd" sha1="d4f3fe0ca7fe9cca10c33371845bea99672cab14" />
+	</machine>
+	<machine name="MorphOS 1.4.5 (2006-06-06)(MorphOS Development Team)[PowerUP]">
+		<description>MorphOS 1.4.5 (2006-06-06)(MorphOS Development Team)[PowerUP]</description>
+		<disk name="MorphOS 1.4.5 (2006-06-06)(MorphOS Development Team)[PowerUP].chd" sha1="0c3fe328e0cb3025365b197d1a95a6f120ce44af" />
+	</machine>
+	<machine name="NetBSD 6.1 (2013-05-13)(NetBSD)">
+		<description>NetBSD 6.1 (2013-05-13)(NetBSD)</description>
+		<disk name="NetBSD 6.1 (2013-05-13)(NetBSD).chd" sha1="c78dcab1a37b760d97880fe063492ecba470a928" />
+	</machine>
+	<machine name="NetBSD 6.1.1 (2013-08-13)(NetBSD)">
+		<description>NetBSD 6.1.1 (2013-08-13)(NetBSD)</description>
+		<disk name="NetBSD 6.1.1 (2013-08-13)(NetBSD).chd" sha1="84e2c910474374c2e4d9b33f33bcde4090cb9bcc" />
+	</machine>
+	<machine name="NetBSD 6.1.2 (2013-09-28)(NetBSD)">
+		<description>NetBSD 6.1.2 (2013-09-28)(NetBSD)</description>
+		<disk name="NetBSD 6.1.2 (2013-09-28)(NetBSD).chd" sha1="972bfb07271d50619214d981dc0e3c3b25cfce1d" />
+	</machine>
+	<machine name="NetBSD 6.1.4 (2014-04-13)(NetBSD)">
+		<description>NetBSD 6.1.4 (2014-04-13)(NetBSD)</description>
+		<disk name="NetBSD 6.1.4 (2014-04-13)(NetBSD).chd" sha1="e6e9ee7bed619ab25115edf4ad056e4c1647a9c2" />
+	</machine>
+	<machine name="NetBSD 6.1.5 (2014-10-02)(NetBSD)">
+		<description>NetBSD 6.1.5 (2014-10-02)(NetBSD)</description>
+		<disk name="NetBSD 6.1.5 (2014-10-02)(NetBSD).chd" sha1="6dbfc24b80b06a88a4cdbd36a1c2230a39105866" />
+	</machine>
+	<machine name="NetBSD 7.0 (2015-11-25)(NetBSD)">
+		<description>NetBSD 7.0 (2015-11-25)(NetBSD)</description>
+		<disk name="NetBSD 7.0 (2015-11-25)(NetBSD).chd" sha1="6b8e0f3337e6a93a27643b9252e6114390b64a18" />
+	</machine>
+	<machine name="NetBSD 7.0.1 (2016-05-23)(NetBSD)">
+		<description>NetBSD 7.0.1 (2016-05-23)(NetBSD)</description>
+		<disk name="NetBSD 7.0.1 (2016-05-23)(NetBSD).chd" sha1="8fc96c08a8c8fac2fcc098c08b3b6ad9fb62ef79" />
+	</machine>
+	<machine name="NetBSD 7.0.2 (2016-10-21)(NetBSD)">
+		<description>NetBSD 7.0.2 (2016-10-21)(NetBSD)</description>
+		<disk name="NetBSD 7.0.2 (2016-10-21)(NetBSD).chd" sha1="18912f0d2b5ffdbfc72f66bba65aabf73a16d16d" />
+	</machine>
+	<machine name="NetBSD 7.1 (2017-03-12)(NetBSD)">
+		<description>NetBSD 7.1 (2017-03-12)(NetBSD)</description>
+		<disk name="NetBSD 7.1 (2017-03-12)(NetBSD).chd" sha1="b37675e6c4ec162910435c1e631ce07cc1a48859" />
+	</machine>
+	<machine name="NetBSD 7.1.1 (2017-12-23)(NetBSD)">
+		<description>NetBSD 7.1.1 (2017-12-23)(NetBSD)</description>
+		<disk name="NetBSD 7.1.1 (2017-12-23)(NetBSD).chd" sha1="be08b837abc80a4713ae74b6eb4c58324e3d5ecf" />
+	</machine>
+	<machine name="NetBSD 7.1.2 (2018-03-15)(NetBSD)">
+		<description>NetBSD 7.1.2 (2018-03-15)(NetBSD)</description>
+		<disk name="NetBSD 7.1.2 (2018-03-15)(NetBSD).chd" sha1="53cbb15ef4aa4b4e649097362e661dd49d2e5306" />
+	</machine>
+	<machine name="NetBSD 7.2 (2018-08-29)(NetBSD)">
+		<description>NetBSD 7.2 (2018-08-29)(NetBSD)</description>
+		<disk name="NetBSD 7.2 (2018-08-29)(NetBSD).chd" sha1="e1af941ec207b3708f23e92972b040772c729d8f" />
+	</machine>
+	<machine name="NetBSD 8.0 (2018-07-17)(NetBSD)">
+		<description>NetBSD 8.0 (2018-07-17)(NetBSD)</description>
+		<disk name="NetBSD 8.0 (2018-07-17)(NetBSD).chd" sha1="fcd49eb80c833b7d764224be711950e7e72f8e51" />
+	</machine>
+</datafile>

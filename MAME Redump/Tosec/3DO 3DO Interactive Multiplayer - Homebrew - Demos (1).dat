@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>3DO 3DO Interactive Multiplayer - Homebrew - Demos</name>
+		<description>MAME Redump - 3DO 3DO Interactive Multiplayer - Homebrew - Demos (TOSEC-v2020-07-14)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="STNICCC2000 3DO (2019)(Optimus)">
+		<description>STNICCC2000 3DO (2019)(Optimus)</description>
+		<disk name="STNICCC2000 3DO (2019)(Optimus).chd" sha1="bd85c9c75d44afe575303a3bf782cac7bcc1713e" />
+	</machine>
+</datafile>

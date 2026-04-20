@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>3DO 3DO Interactive Multiplayer - Homebrew - Games</name>
+		<description>MAME Redump - 3DO 3DO Interactive Multiplayer - Homebrew - Games (TOSEC-v2022-06-08)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Crystal Borg in Hyperspace (2017)(Optimus6128)">
+		<description>Crystal Borg in Hyperspace (2017)(Optimus6128)</description>
+		<disk name="Crystal Borg in Hyperspace (2017)(Optimus6128).chd" sha1="35577b3e10063d81dbc1e7a1b503e3a6350e190b" />
+	</machine>
+	<machine name="Evil Australians - Rise of Stupidity v1.1 (2017)(Gameblabla)">
+		<description>Evil Australians - Rise of Stupidity v1.1 (2017)(Gameblabla)</description>
+		<disk name="Evil Australians - Rise of Stupidity v1.1 (2017)(Gameblabla).chd" sha1="5bd9a82d3aa23b595a9d127f5b7c404a94a5dc96" />
+	</machine>
+	<machine name="OpenLara (2021-12-20)(XProger)(BSD2)">
+		<description>OpenLara (2021-12-20)(XProger)(BSD2)</description>
+		<disk name="OpenLara (2021-12-20)(XProger)(BSD2).chd" sha1="56e47f91a6d777a59acd080b358a65c92a95e415" />
+	</machine>
+	<machine name="Space Invaders Invaders (2014)(Mihai, Sebastian)">
+		<description>Space Invaders Invaders (2014)(Mihai, Sebastian)</description>
+		<disk name="Space Invaders Invaders (2014)(Mihai, Sebastian).chd" sha1="f8b7bd9a66b58fc20579f4e979994a78d5e907d3" />
+	</machine>
+	<machine name="Where is Derpy v1.3 Final (2014)(Gameblabla)[unencrypted, req. RSA disable]">
+		<description>Where is Derpy v1.3 Final (2014)(Gameblabla)[unencrypted, req. RSA disable]</description>
+		<disk name="Where is Derpy v1.3 Final (2014)(Gameblabla)[unencrypted, req. RSA disable].chd" sha1="dba5fa0bc8f82bcce1d0122518ab4b706b33a229" />
+	</machine>
+</datafile>

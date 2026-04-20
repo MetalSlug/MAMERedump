@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - DVD - Operating Systems</name>
+		<description>MAME Redump - IBM PC Compatibles - DVD - Operating Systems (TOSEC-v2023-06-13)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Reinstallation DVD Windows 7 Professional SP1 64-bit (2011)(Dell)[PN D0V2K]" type="">
+		<description>Reinstallation DVD Windows 7 Professional SP1 64-bit (2011)(Dell)[PN D0V2K]</description>
+		<rom name="Reinstallation DVD Windows 7 Professional SP1 64-bit (2011)(Dell)[PN D0V2K].iso" size="5620039680" crc="7C67B045" md5="DE25A8DE9F795379A2D6E95B023593D7" sha1="0BE910288CFAABE400318854AB151F1CA211FAA7" />
+	</game>
+	<game name="Reinstallation DVD Windows Vista Basic 32-Bit SP1 (2008)(Dell)[PN T312D]" type="">
+		<description>Reinstallation DVD Windows Vista Basic 32-Bit SP1 (2008)(Dell)[PN T312D]</description>
+		<rom name="Reinstallation DVD Windows Vista Basic 32-Bit SP1 (2008)(Dell)[PN T312D].iso" size="3085238272" crc="58A8D055" md5="EF92C0C5F4D2BD3B92B068670123E371" sha1="8CCC3F4ED7A45E597F3C443850449A9BB99468C7" />
+	</game>
+</datafile>

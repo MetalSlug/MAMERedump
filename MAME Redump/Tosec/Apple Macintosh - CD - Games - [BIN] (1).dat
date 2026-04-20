@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Apple Macintosh - CD - Games - [BIN]</name>
+		<description>MAME Redump - Apple Macintosh - CD - Games - [BIN] (TOSEC-v2025-01-26)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Worms (1995)(Ocean)(M4)">
+		<description>Worms (1995)(Ocean)(M4)</description>
+		<disk name="Worms (1995)(Ocean)(M4).chd" sha1="9828e9c4d5efb945f95c94e1db66aef20652dc33" />
+	</machine>
+</datafile>

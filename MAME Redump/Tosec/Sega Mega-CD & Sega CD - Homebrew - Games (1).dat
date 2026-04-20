@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Mega-CD &amp; Sega CD - Homebrew - Games</name>
+		<description>MAME Redump - Sega Mega-CD &amp; Sega CD - Homebrew - Games (TOSEC-v2022-06-08)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Blackjack CD (2015)(Mihai, Sebastian)">
+		<description>Blackjack CD (2015)(Mihai, Sebastian)</description>
+		<disk name="Blackjack CD (2015)(Mihai, Sebastian).chd" sha1="3959d6ed016c57c443f5fbaeb1591accac7b381b" />
+	</machine>
+</datafile>
