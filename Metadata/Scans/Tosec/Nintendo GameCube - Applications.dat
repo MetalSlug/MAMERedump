@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo GameCube - Applications</name>
+		<description>Nintendo GameCube - Applications</description>
+		<category>Games</category>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Action Replay - Ultimate Codes for Use with Enter the Matrix (2003)(Datel)(US)[b]">
+		<description>Action Replay - Ultimate Codes for Use with Enter the Matrix (2003)(Datel)(US)[b]</description>
+		<rom name="Action Replay - Ultimate Codes for Use with Enter the Matrix (2003)(Datel)(US)[b].rvz" size="278048" crc="6123906f" md5="318b7d07f1db535d7e27fc326d196914" sha1="1860f24724e8e0a8efde9949086342947b0dc2a5"/>
+	</machine>
+</datafile>

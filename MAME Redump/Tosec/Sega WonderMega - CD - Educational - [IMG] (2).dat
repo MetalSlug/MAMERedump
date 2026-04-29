@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega WonderMega - CD - Educational - [IMG]</name>
+		<description>MAME Redump - Sega WonderMega - CD - Educational - [IMG] (TOSEC-v2013-04-10)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Compton's Interactive Encyclopedia Rev 19940504 (1994)(Sega)(US)">
+		<description>Compton's Interactive Encyclopedia Rev 19940504 (1994)(Sega)(US)</description>
+		<disk name="Compton's Interactive Encyclopedia Rev 19940504 (1994)(Sega)(US).chd" sha1="bbdfddad12743deb7cc0144652e691c1337b4596" />
+	</machine>
+	<machine name="Compton's Interactive Encyclopedia Rev 19940928 (1994)(Sega)(US)">
+		<description>Compton's Interactive Encyclopedia Rev 19940928 (1994)(Sega)(US)</description>
+		<disk name="Compton's Interactive Encyclopedia Rev 19940928 (1994)(Sega)(US).chd" sha1="597fbbb549d01eddfb667cdb744b5524685ead1d" />
+	</machine>
+</datafile>

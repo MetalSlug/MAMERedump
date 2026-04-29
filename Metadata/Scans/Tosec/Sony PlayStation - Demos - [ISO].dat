@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sony PlayStation - Demos - [ISO]</name>
+		<description>Sony PlayStation - Demos - [ISO]</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Iaquo (2000)(Yodel)(PD)" type="cd" sha1="f474a221a01a9b22e7c8c6c1eb6947c390c59b7c" size="6346177" crc="ae46e7d3" fullsha1="aaa9d32b9c9687cb33a950af27f223a8779a303f" datasha1="5b93f653c033643b9fe9e8af953735ceadb2543f" rawdatasha1="7284cffb10e6e9281cf5373014bfa9379a084e43" rawdatasize="8429568">
+		<category>Games</category>
+		<description>Iaquo (2000)(Yodel)(PD)</description>
+		<rom name="Iaquo (2000)(Yodel)(PD) (Track 01).bin" size="2387280" crc="2bf09d52" md5="ad8a32de0747949599cd7e74a5bb8208" sha1="3b9509f41f8c4d33e970f86da72a8be7cdc08e04" datasha1="0c6f0d555afaace858299421429b9c87ff837982"/>
+		<rom name="Iaquo (2000)(Yodel)(PD) (Track 02).bin" size="6042288" crc="f3e041a2" md5="0e5b148acecf9fe8dde3db96f10a4733" sha1="6364c1b748aaedab772d0c6239504f46d9e40b97" wavesha1="52441574f8ff8f287eeebc2e308215d261529b7b"/>
+	</game>
+	<game name="Pawlov (1999)(Elite Group)(PD)" type="cd" sha1="059c9e1c7751c97c488d568af5742ebdfb325865" size="5613945" crc="112e9fec" fullsha1="951904afc06d10bde7cfdd7642f3163f804cdfed" datasha1="624fcecd20b8d432a8674145c0425bf5a2048bda" rawdatasha1="c8f5a4f4b82827a5769b44c1e62214aaf7823f6c" rawdatasize="6315120">
+		<category>Games</category>
+		<description>Pawlov (1999)(Elite Group)(PD)</description>
+		<rom name="Pawlov (1999)(Elite Group)(PD) (Track 01).bin" size="1131312" crc="d356f9f3" md5="3cd4c099bce7718bf73fa9706be625d9" sha1="029067e127b5b2c03f6ef584838976b38af317ca" datasha1="5440c0fdb6c12dbb68cece4d6778e6f6998d0591"/>
+		<rom name="Pawlov (1999)(Elite Group)(PD) (Track 02).bin" size="5183808" crc="ba049712" md5="2a93a58f97a93158621d1e16abca1827" sha1="72eb66629c834974f253fd727b0df28b84b59e59" wavesha1="497f5dc18233d92c287540c3090aa69a09c85378"/>
+	</game>
+	<game name="Runkkari (2000)(Haujobb)(PD)" type="cd" sha1="60140295249118bc6212efb3d3b4196cec4a30dd" size="6482750" crc="9fc68651" fullsha1="71d98bdb6bd104834beddbb14da891ed19d68f6c" datasha1="3bc7d8e12c1c51652b8c857d0f4ef56e7ba0934b" rawdatasha1="1258a645ec926688891ba87cc08254dfe1c2b65d" rawdatasize="8613024">
+		<category>Games</category>
+		<description>Runkkari (2000)(Haujobb)(PD)</description>
+		<rom name="Runkkari (2000)(Haujobb)(PD) (Track 01).bin" size="5183808" crc="d1d118c6" md5="5d15c456da5c4b470ee5a91d019a514f" sha1="a53f55742ac5220359ef359030293c80cabc73f4" datasha1="9ae907fa8f101b10574ad6a228e80a724e6f6f4d"/>
+		<rom name="Runkkari (2000)(Haujobb)(PD) (Track 02).bin" size="3429216" crc="d3391ff5" md5="e7e46b152a9757fcea2c733b7657fa4f" sha1="53afe3a20b7bceb53f0e9bd96c43ee75e9963f31" wavesha1="bd1ac9493fb9d7f3a1fbe1e7de6a7adf22c6bc52"/>
+	</game>
+</datafile>

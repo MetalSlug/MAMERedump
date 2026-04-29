@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega WonderMega - CD - Educational - [IMG]</name>
+		<description>Sega WonderMega - CD - Educational - [IMG]</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Compton's Interactive Encyclopedia Rev 19940504 (1994)(Sega)(US)" type="cd" sha1="213130c00e8cd8610d714be0a86dcce5cefb3948" size="92638771" crc="dc934eec" fullsha1="bbdfddad12743deb7cc0144652e691c1337b4596" datasha1="8a1139781c870b71525ed0881d0087561813d251" rawdatasha1="1d9c41457269c14ca4e6f5090c1554849adf13bd" rawdatasize="222993120">
+		<category>Games</category>
+		<description>Compton's Interactive Encyclopedia Rev 19940504 (1994)(Sega)(US)</description>
+		<rom name="Compton's Interactive Encyclopedia Rev 19940504 (1994)(Sega)(US) (Track 01).bin" size="220229520" crc="b0298480" md5="c4af5e3ea669e3c380b19023077c9496" sha1="d7134c29ee3281f7f43fc8fa4b0cb235163d16b3"/>
+		<rom name="Compton's Interactive Encyclopedia Rev 19940504 (1994)(Sega)(US) (Track 02).bin" size="2763600" crc="105280f9" md5="894dcb8c77145d9a8bf81c35bc87a35b" sha1="5276761377b221fa19aad1536dc26600649ab2db" wavesha1="435dd9bb233d3488c20d8a34387fa76c33be560d"/>
+	</game>
+	<game name="Compton's Interactive Encyclopedia Rev 19940928 (1994)(Sega)(US)" type="cd" sha1="ae34aaecaf0a0704aa7935596b49e605d6db642d" size="183662186" crc="05ce3ba7" fullsha1="597fbbb549d01eddfb667cdb744b5524685ead1d" datasha1="ab1e8e0007d3f97e10a993016fccde14437c8780" rawdatasha1="ba516163559d1832792a9d8c1db525d2fc518756" rawdatasize="383027904">
+		<category>Games</category>
+		<description>Compton's Interactive Encyclopedia Rev 19940928 (1994)(Sega)(US)</description>
+		<rom name="Compton's Interactive Encyclopedia Rev 19940928 (1994)(Sega)(US) (Track 01).bin" size="380264304" crc="5377b7df" md5="d913a461b94dd2c54e3488e18dc156bb" sha1="3482aa3154fb4ac2307cb474131564cc96d86227"/>
+		<rom name="Compton's Interactive Encyclopedia Rev 19940928 (1994)(Sega)(US) (Track 02).bin" size="2763600" crc="b02afcd3" md5="1da408ada14cd512fbc44136a2464461" sha1="0918d49a731aa0857d3383c4de1f84cb6dea0dec" wavesha1="a6977512779be8e299145486142edd545e70c10b"/>
+	</game>
+</datafile>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Homebrew - Games</name>
+		<description>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Homebrew - Games</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Frog Feast (demo) (2005)(RasterSoft)(NTSC)(PD)[Req Super CD-ROM2]" type="dvd" sha1="ef0b1ae1f36fb6b3a23b1b8bd1ed11a31bb66c2a" size="32610" crc="25b0ff02" fullsha1="9d1d30e00ec099f70565f55008fdef5c6a5b36d0" datasha1="742a671724f5bc69350997a8b328a9cbe8191730">
+		<category>Games</category>
+		<description>Frog Feast (demo) (2005)(RasterSoft)(NTSC)(PD)[Req Super CD-ROM2]</description>
+		<rom name="Frog Feast (demo) (2005)(RasterSoft)(NTSC)(PD)[Req Super CD-ROM2].bin" size="921600" crc="37116a87" md5="e3738da1900544b382000e6ba417915d" sha1="742a671724f5bc69350997a8b328a9cbe8191730"/>
+	</game>
+	<game name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 02 of 23)" type="dvd" sha1="0edaf73d5bb138e6986a33a9bd371fb06f1d15b1" size="373485" crc="5a79df31" fullsha1="b3240cbf0bd34c74068db7787724156082715ef5" datasha1="7c5e9e4d6d79e240e7637b5dfa9bf1ec60ebb0e9">
+		<category>Games</category>
+		<description>Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 02 of 23)</description>
+		<rom name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)(Track 02 of 23).bin" size="1771520" crc="1179d744" md5="ac18db7c01c5aa2297d631b9093ace27" sha1="7c5e9e4d6d79e240e7637b5dfa9bf1ec60ebb0e9"/>
+	</game>
+</datafile>

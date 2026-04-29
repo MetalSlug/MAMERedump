@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga CDTV - Compilations - [IMG]</name>
+		<description>MAME Redump - Commodore Amiga CDTV - Compilations - [IMG] (TOSEC-v2018-03-24)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="17 Bit - Collection for Amiga CDTV (1993)(Almathera)(Disc 1 of 2)">
+		<description>17 Bit - Collection for Amiga CDTV (1993)(Almathera)(Disc 1 of 2)</description>
+		<disk name="17 Bit - Collection for Amiga CDTV (1993)(Almathera)(Disc 1 of 2).chd" sha1="ea44fb6cb1411a3c54e57c0101ea226a65d6e65b" />
+	</machine>
+	<machine name="17 Bit - Collection for Amiga CDTV (1993)(Almathera)(Disc 2 of 2)">
+		<description>17 Bit - Collection for Amiga CDTV (1993)(Almathera)(Disc 2 of 2)</description>
+		<disk name="17 Bit - Collection for Amiga CDTV (1993)(Almathera)(Disc 2 of 2).chd" sha1="267e7797bb44eb6740a3438337d9e5a903a088d6" />
+	</machine>
+	<machine name="17 Bit Continuation Disc, The (1993)(Almathera)">
+		<description>17 Bit Continuation Disc, The (1993)(Almathera)</description>
+		<disk name="17 Bit Continuation Disc, The (1993)(Almathera).chd" sha1="dfa3dae04b36a483ec4ae4ee497248e10697f46f" />
+	</machine>
+	<machine name="CDPD III - Amiga Public Domain Collection (1993)(Almathera)[Amiga-CDTV]">
+		<description>CDPD III - Amiga Public Domain Collection (1993)(Almathera)[Amiga-CDTV]</description>
+		<disk name="CDPD III - Amiga Public Domain Collection (1993)(Almathera)[Amiga-CDTV].chd" sha1="fb92c90db5952c357aa2f01b6d068e3094047375" />
+	</machine>
+	<machine name="Demo Collection for Amiga CDTV II, The (1993)(Almathera)">
+		<description>Demo Collection for Amiga CDTV II, The (1993)(Almathera)</description>
+		<disk name="Demo Collection for Amiga CDTV II, The (1993)(Almathera).chd" sha1="fc0812e919001742aa3cc8b678a72fb72d16746a" />
+	</machine>
+</datafile>

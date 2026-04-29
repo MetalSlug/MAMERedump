@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Konami Bemani System 573 Digital - Games</name>
+		<description>MAME Redump - Konami Bemani System 573 Digital - Games (TOSEC-v2012-07-22)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Dance Dance Revolution 4th Mix (2000)(Konami)(JP)[A33 JA A02]">
+		<description>Dance Dance Revolution 4th Mix (2000)(Konami)(JP)[A33 JA A02]</description>
+		<disk name="Dance Dance Revolution 4th Mix (2000)(Konami)(JP)[A33 JA A02].chd" sha1="7be9ddd13bb17dbf63259f31cceba80e2b02c4fd" />
+	</machine>
+	<machine name="Guitar Freaks 3rd Mix (2000)(Konami)(JP)[949 JA C01]">
+		<description>Guitar Freaks 3rd Mix (2000)(Konami)(JP)[949 JA C01]</description>
+		<disk name="Guitar Freaks 3rd Mix (2000)(Konami)(JP)[949 JA C01].chd" sha1="675053d4b59d057d378c83fd5d849a8edc603044" />
+	</machine>
+</datafile>

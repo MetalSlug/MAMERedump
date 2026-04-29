@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Mega-CD &amp; Sega CD - Homebrew - Applications</name>
+		<description>MAME Redump - Sega Mega-CD &amp; Sega CD - Homebrew - Applications (TOSEC-v2023-08-29)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(EU)(GPLv2)">
+		<description>240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(EU)(GPLv2)</description>
+		<disk name="240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(EU)(GPLv2).chd" sha1="29153e156e1ee22159b4f16a0e2115199d68c09c" />
+	</machine>
+	<machine name="240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(JP)(GPLv2)">
+		<description>240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(JP)(GPLv2)</description>
+		<disk name="240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(JP)(GPLv2).chd" sha1="074f5660151dbb74eaa0518b1de94dc0f9a57cf0" />
+	</machine>
+	<machine name="240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(US)(GPLv2)">
+		<description>240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(US)(GPLv2)</description>
+		<disk name="240p Test Suite v1.23 (2022-01-22)(Urbina, Artemio)(US)(GPLv2).chd" sha1="5a15bb28d67663de763eeb81d568d6e171e65073" />
+	</machine>
+</datafile>

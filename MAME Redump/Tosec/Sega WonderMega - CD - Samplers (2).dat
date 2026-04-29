@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega WonderMega - CD - Samplers</name>
+		<description>MAME Redump - Sega WonderMega - CD - Samplers (TOSEC-v2012-09-08)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="JVC CD+G Karaoke - Top Hit Sampler (1993)(JVC)(US)">
+		<description>JVC CD+G Karaoke - Top Hit Sampler (1993)(JVC)(US)</description>
+		<year>1993</year>
+		<manufacturer>JVC</manufacturer>
+		<disk name="JVC CD+G Karaoke - Top Hit Sampler (1993)(JVC)(US).chd" sha1="e969df346a8106b837b471cc87670b6aab981ec3" />
+	</machine>
+	<machine name="WonderMega Collection (1992)(JVC)(JP)(en-ja)">
+		<description>WonderMega Collection (1992)(JVC)(JP)(en-ja)</description>
+		<disk name="WonderMega Collection (1992)(JVC)(JP)(en-ja).chd" sha1="7cf94878e4e7d2203c98f1a179bd8d9d629ac85c" />
+	</machine>
+</datafile>

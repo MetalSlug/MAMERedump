@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>NEC PC-Engine CD &amp; TurboGrafx-16 CD - Homebrew - Games</name>
+		<description>MAME Redump - NEC PC-Engine CD &amp; TurboGrafx-16 CD - Homebrew - Games (TOSEC-v2023-10-03)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Frog Feast (demo) (2005)(RasterSoft)(NTSC)(PD)[Req Super CD-ROM2]">
+		<description>Frog Feast (demo) (2005)(RasterSoft)(NTSC)(PD)[Req Super CD-ROM2]</description>
+		<disk name="Frog Feast (demo) (2005)(RasterSoft)(NTSC)(PD)[Req Super CD-ROM2].chd" sha1="9d1d30e00ec099f70565f55008fdef5c6a5b36d0" />
+	</machine>
+	<machine name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express)">
+		<description>Space Ava 201 v1.01 (2021-07-04)(Nicole Express)</description>
+		<disk name="Space Ava 201 v1.01 (2021-07-04)(Nicole Express).chd" sha1="b3240cbf0bd34c74068db7787724156082715ef5" />
+	</machine>
+</datafile>

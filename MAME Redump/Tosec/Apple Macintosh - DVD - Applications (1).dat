@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Apple Macintosh - DVD - Applications</name>
+		<description>MAME Redump - Apple Macintosh - DVD - Applications (TOSEC-v2023-06-13)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Microsoft Office Mac 2008 (2008)(Microsoft)">
+		<description>Microsoft Office Mac 2008 (2008)(Microsoft)</description>
+		<disk name="Microsoft Office Mac 2008 (2008)(Microsoft).chd" sha1="117591051fa12d28dac330b660227d7d15b4b2b9" />
+	</machine>
+</datafile>

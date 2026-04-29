@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega WonderMega - CD - Games</name>
+		<description>Sega WonderMega - CD - Games</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Prize Fighter (1993)(Sega)(US)(Disc 1 of 2)" type="cd" sha1="2ae0854e76eedf2c07e6fa00a6681fe9e814c023" size="273939313" crc="5032d018" fullsha1="5441943c06a938a8f0c2f0b3f2baff104cce79ae" datasha1="556ea0d7f90c3848c4b4431da81aa6f030c52484" rawdatasha1="932414d0d2af3fc61a64d5de34d8d923a03922e1" rawdatasize="412411440">
+		<category>Games</category>
+		<description>Prize Fighter (1993)(Sega)(US)(Disc 1 of 2)</description>
+		<rom name="Prize Fighter (1993)(Sega)(US)(Disc 1 of 2) (Track 01).bin" size="410527488" crc="7d3f2a3c" md5="f8c2e9f9adc690908bd753c5c5ad1511" sha1="a310fc47ee68ba2f6c860b24b11be76ac4f08d86"/>
+		<rom name="Prize Fighter (1993)(Sega)(US)(Disc 1 of 2) (Track 02).bin" size="1883952" crc="34560662" md5="85f21d7eb4f56a4849ed435e00a46438" sha1="6de985945ec71877a748cef15c3a90b51ccf222c" wavesha1="ea60579c23d4409f02093afa43ec0be8c842fab8"/>
+	</game>
+	<game name="Prize Fighter (1993)(Sega)(US)(Disc 2 of 2)" type="cd" sha1="034d92f6894fd562713540bf4ed0d393b3d4e6ca" size="311459107" crc="1e18e683" fullsha1="154547de5e8cf44409e5c2c6e4c916d8dbac7ef0" datasha1="f87f809b80d4c8c789a65ab9deb8a6590016ee44" rawdatasha1="5acf33f327281d767d28658918466c5e2186d30b" rawdatasize="473168304">
+		<category>Games</category>
+		<description>Prize Fighter (1993)(Sega)(US)(Disc 2 of 2)</description>
+		<rom name="Prize Fighter (1993)(Sega)(US)(Disc 2 of 2) (Track 01).bin" size="471286704" crc="ff8dfb67" md5="5e2046423ce13e4553a73f9c24025d23" sha1="9d1d5aa019bd779bbd1111c2282719e5752e178d"/>
+		<rom name="Prize Fighter (1993)(Sega)(US)(Disc 2 of 2) (Track 02).bin" size="1881600" crc="b7752867" md5="bc69d0de347069f889628dab1dc199c2" sha1="feff2b5fe9f117b51e71a37d387f9ab18db7367d" wavesha1="8a6991841b2dfd8e570f9dbb97a258b0088a1e60"/>
+	</game>
+</datafile>

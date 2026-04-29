@@ -1,0 +1,3 @@
+FILE "CDTV Vol.1 (2001-12)(Spanish Company)(FW).img" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00

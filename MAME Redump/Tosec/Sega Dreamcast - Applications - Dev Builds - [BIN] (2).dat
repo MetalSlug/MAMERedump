@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Applications - Dev Builds - [BIN]</name>
+		<description>MAME Redump - Sega Dreamcast - Applications - Dev Builds - [BIN] (TOSEC-v2025-02-02)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Network Info Utility v0.800 (2000-10-11)(No Cliché)(NTSC-PAL)(proto)[devkit, AKA Flash Edit]">
+		<description>Network Info Utility v0.800 (2000-10-11)(No Cliché)(NTSC-PAL)(proto)[devkit, AKA Flash Edit]</description>
+		<disk name="Network Info Utility v0.800 (2000-10-11)(No Cliché)(NTSC-PAL)(proto)[devkit, AKA Flash Edit].chd" sha1="fa47c92eefe1af156436b43ab2e578cd92fb6bf3" />
+	</machine>
+	<machine name="Play Log Editor v1.050 (1999-06-11)(Sega)(NTSC-PAL)(proto)[GD-R, PLAYLOG EDITOR 1.05 6-11-99 label]">
+		<description>Play Log Editor v1.050 (1999-06-11)(Sega)(NTSC-PAL)(proto)[GD-R, PLAYLOG EDITOR 1.05 6-11-99 label]</description>
+		<disk name="Play Log Editor v1.050 (1999-06-11)(Sega)(NTSC-PAL)(proto)[GD-R, PLAYLOG EDITOR 1.05 6-11-99 label].chd" sha1="d3d37c7c6bf488c6129b03cd0e29e0db51c11d9e" />
+	</machine>
+</datafile>

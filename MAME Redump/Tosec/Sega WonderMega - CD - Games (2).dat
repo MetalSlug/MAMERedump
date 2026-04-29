@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega WonderMega - CD - Games</name>
+		<description>MAME Redump - Sega WonderMega - CD - Games (TOSEC-v2014-07-01)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Prize Fighter (1993)(Sega)(US)(Disc 1 of 2)">
+		<description>Prize Fighter (1993)(Sega)(US)(Disc 1 of 2)</description>
+		<disk name="Prize Fighter (1993)(Sega)(US)(Disc 1 of 2).chd" sha1="5441943c06a938a8f0c2f0b3f2baff104cce79ae" />
+	</machine>
+	<machine name="Prize Fighter (1993)(Sega)(US)(Disc 2 of 2)">
+		<description>Prize Fighter (1993)(Sega)(US)(Disc 2 of 2)</description>
+		<disk name="Prize Fighter (1993)(Sega)(US)(Disc 2 of 2).chd" sha1="154547de5e8cf44409e5c2c6e4c916d8dbac7ef0" />
+	</machine>
+</datafile>

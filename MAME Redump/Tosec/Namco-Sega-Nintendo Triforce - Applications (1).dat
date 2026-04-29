@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Namco-Sega-Nintendo Triforce - Applications</name>
+		<description>MAME Redump - Namco-Sega-Nintendo Triforce - Applications (TOSEC-v2022-12-20)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Boot Update v1.000 (2003)(Sega)(JP)[!][GDT-0011]">
+		<description>Boot Update v1.000 (2003)(Sega)(JP)[!][GDT-0011]</description>
+		<disk name="Boot Update v1.000 (2003)(Sega)(JP)[!][GDT-0011].chd" sha1="fbfd7960ca7070721e25c08ccc428a2e0cf4766f" />
+	</machine>
+</datafile>

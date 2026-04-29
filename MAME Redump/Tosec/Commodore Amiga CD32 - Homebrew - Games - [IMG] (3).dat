@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore Amiga CD32 - Homebrew - Games - [IMG]</name>
+		<description>MAME Redump - Commodore Amiga CD32 - Homebrew - Games - [IMG] (TOSEC-v2012-07-22)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Puzznic v1.2 (1990)(Ocean)[m Anarka]">
+		<description>Puzznic v1.2 (1990)(Ocean)[m Anarka]</description>
+		<disk name="Puzznic v1.2 (1990)(Ocean)[m Anarka].chd" sha1="62d388abcef70ca0127a932dd05f173291cee62d" />
+	</machine>
+	<machine name="Super Street Fighter II - The New Challengers (1995)(U.S. Gold)[m Rochabian][v1.1]">
+		<description>Super Street Fighter II - The New Challengers (1995)(U.S. Gold)[m Rochabian][v1.1]</description>
+		<disk name="Super Street Fighter II - The New Challengers (1995)(U.S. Gold)[m Rochabian][v1.1].chd" sha1="dbabd914cbd7a1a9736d9c9ab48b2a7770c6cc8b" />
+	</machine>
+	<machine name="T-Racer (1993)(Virtual Dreams)(SW)[m DaNi]">
+		<description>T-Racer (1993)(Virtual Dreams)(SW)[m DaNi]</description>
+		<disk name="T-Racer (1993)(Virtual Dreams)(SW)[m DaNi].chd" sha1="fad9dd1e0d556dd432f56bfb88edb9f5792de920" />
+	</machine>
+</datafile>

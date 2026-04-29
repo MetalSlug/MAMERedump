@@ -1,27 +1,342 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
 <datafile>
 	<header>
-		<name>Nintendo - GameCube - Games</name>
-		<description>Nintendo - GameCube - Games</description>
+		<name>Nintendo GameCube - Games</name>
+		<description>Nintendo GameCube - Games</description>
+		<category>Games</category>
 		<version>0.281</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
-	<game name="007 - Agent Under Fire (2002)(Electronic Arts)(EU)[h 'Agent Under Fire - Reloaded v1.1' aleckermit]" type="dvd" sha1="10ce4134d3f2671d027ea98f0d8310bfbddd54c7" size="1147496217" crc="47de465b" fullsha1="1189dcd612e59f54259da43c1145be87e3e2534c" datasha1="55bc935aaf862f15fa198606476e6eb90cdd6957">
-		<category>Games</category>
+	<machine name="007 - Agent Under Fire (2002)(Electronic Arts)(EU)[h 'Agent Under Fire - Reloaded v1.1' aleckermit]">
 		<description>007 - Agent Under Fire (2002)(Electronic Arts)(EU)[h 'Agent Under Fire - Reloaded v1.1' aleckermit]</description>
-		<rom name="007 - Agent Under Fire (2002)(Electronic Arts)(EU)[h 'Agent Under Fire - Reloaded v1.1' aleckermit].bin" size="1459978240" crc="9d4c631e" md5="b344ae780af28a35ee71064debbc7870" sha1="55bc935aaf862f15fa198606476e6eb90cdd6957"/>
-	</game>
-	<game name="007 - Agent Under Fire v1.00 (2002)(Electronic Arts)(US)[h 'Agent Under Fire - Reloaded v1.1' aleckermit]" type="dvd" sha1="1b70fd168551ac5b1ebb75df0bfa0d68462234ac" size="1184130683" crc="9d34696e" fullsha1="25a78832ba68ba85c0485ba8da10cf71af72ff90" datasha1="7d38eb29e3886cb15d06fee78f97d74e9cced9fe">
-		<category>Games</category>
+		<rom name="007 - Agent Under Fire (2002)(Electronic Arts)(EU)[h 'Agent Under Fire - Reloaded v1.1' aleckermit].rvz" size="1158757232" crc="fe6d116a" md5="1552bf8111b21a51e879c200fc9689a4" sha1="85cf91fd80465ba6f30b7f2d0187b508bbb691a6"/>
+	</machine>
+	<machine name="007 - Agent Under Fire v1.00 (2002)(Electronic Arts)(US)[h 'Agent Under Fire - Reloaded v1.1' aleckermit]">
 		<description>007 - Agent Under Fire v1.00 (2002)(Electronic Arts)(US)[h 'Agent Under Fire - Reloaded v1.1' aleckermit]</description>
-		<rom name="007 - Agent Under Fire v1.00 (2002)(Electronic Arts)(US)[h 'Agent Under Fire - Reloaded v1.1' aleckermit].bin" size="1459978240" crc="4bc8d2f2" md5="58056cda386ab6e166ec68ac0f3d8062" sha1="7d38eb29e3886cb15d06fee78f97d74e9cced9fe"/>
-	</game>
-	<game name="007 - Agent Under Fire v1.01 (2002)(Electronic Arts)(US)[h 'Agent Under Fire - Reloaded v1.1' aleckermit]" type="dvd" sha1="c2141f4699c16c3aadb1dbe3327f361c26b18c3a" size="1184102259" crc="20bdb2c5" fullsha1="e9f202d52aaadf255987bb045e9eb2456d35d865" datasha1="8789500028a96c72f45b84b67aa94ed725a554b8">
-		<category>Games</category>
+		<rom name="007 - Agent Under Fire v1.00 (2002)(Electronic Arts)(US)[h 'Agent Under Fire - Reloaded v1.1' aleckermit].rvz" size="1189077384" crc="22b87366" md5="d0980128ae2b968c008845d86a07c8fa" sha1="52001e07a84887d20ac05544ff1256ae2b01ed83"/>
+	</machine>
+	<machine name="007 - Agent Under Fire v1.01 (2002)(Electronic Arts)(US)[h 'Agent Under Fire - Reloaded v1.1' aleckermit]">
 		<description>007 - Agent Under Fire v1.01 (2002)(Electronic Arts)(US)[h 'Agent Under Fire - Reloaded v1.1' aleckermit]</description>
-		<rom name="007 - Agent Under Fire v1.01 (2002)(Electronic Arts)(US)[h 'Agent Under Fire - Reloaded v1.1' aleckermit].bin" size="1459978240" crc="623336ba" md5="8a95d6758ed457f7c6d60c4814ab01f7" sha1="8789500028a96c72f45b84b67aa94ed725a554b8"/>
-	</game>
+		<rom name="007 - Agent Under Fire v1.01 (2002)(Electronic Arts)(US)[h 'Agent Under Fire - Reloaded v1.1' aleckermit].rvz" size="1189056796" crc="7dbf7ce9" md5="842e3d9002d86e4370b01ca4938cdba7" sha1="a6019d013bf72e47f17059887adc81a84d3ea188"/>
+	</machine>
+	<machine name="Astérix &amp; Obélix - XXL (2004-02-25)(Atari)(EU)(M5)(beta)[Preview Version label]">
+		<description>Astérix &amp; Obélix - XXL (2004-02-25)(Atari)(EU)(M5)(beta)[Preview Version label]</description>
+		<rom name="Astérix &amp; Obélix - XXL (2004-02-25)(Atari)(EU)(M5)(beta)[Preview Version label].rvz" size="611192860" crc="93ccbbf1" md5="e23bb191de6e35a05f0187a7398175e4" sha1="8931d655da2f6fb108e5689de7b8d3b259eba2b9"/>
+	</machine>
+	<machine name="ATV - Quad Power Racing 2 (2002-10-01)(Acclaim)(EU)(beta)">
+		<description>ATV - Quad Power Racing 2 (2002-10-01)(Acclaim)(EU)(beta)</description>
+		<rom name="ATV - Quad Power Racing 2 (2002-10-01)(Acclaim)(EU)(beta).rvz" size="65061500" crc="9cd9cc5c" md5="4f927dca92f950526ccfb3d0e4649bfe" sha1="ac7328b47495e6403733ecc6982ece8b5017b0ef"/>
+	</machine>
+	<machine name="Baldur's Gate - Dark Alliance (2002-10-14)(Interplay)(US)(beta)">
+		<description>Baldur's Gate - Dark Alliance (2002-10-14)(Interplay)(US)(beta)</description>
+		<rom name="Baldur's Gate - Dark Alliance (2002-10-14)(Interplay)(US)(beta).rvz" size="840415308" crc="7a54eddf" md5="06e330f502b8acef9c1f33d93d5cf6d8" sha1="6050a795ec7ae4ff9b468dde5884455846e700b5"/>
+	</machine>
+	<machine name="Baten Kaitos - Eternal Wings and the Lost Ocean (2004)(Namco)(US)(Disc 1 of 2)[h undub]">
+		<description>Baten Kaitos - Eternal Wings and the Lost Ocean (2004)(Namco)(US)(Disc 1 of 2)[h undub]</description>
+		<rom name="Baten Kaitos - Eternal Wings and the Lost Ocean (2004)(Namco)(US)(Disc 1 of 2)[h undub].rvz" size="1377364744" crc="1592a2cf" md5="665d7eab814dfd6c72794d3c2d9cab7a" sha1="183bacf91d9d17c1c6c6dff4fceace74b876e200"/>
+	</machine>
+	<machine name="Baten Kaitos - Eternal Wings and the Lost Ocean (2004)(Namco)(US)(Disc 2 of 2)[h undub]">
+		<description>Baten Kaitos - Eternal Wings and the Lost Ocean (2004)(Namco)(US)(Disc 2 of 2)[h undub]</description>
+		<rom name="Baten Kaitos - Eternal Wings and the Lost Ocean (2004)(Namco)(US)(Disc 2 of 2)[h undub].rvz" size="1264453112" crc="7dfc5658" md5="cbb0fa881bdcdd467e127fb1865da725" sha1="99c8de57dc89297b78e97eed68d86ff2c8765174"/>
+	</machine>
+	<machine name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[h undub Atelier Traduction]">
+		<description>Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[h undub Atelier Traduction]</description>
+		<rom name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[h undub Atelier Traduction].rvz" size="1371669692" crc="e497b3e5" md5="d4287d5fa18c6c4e36cd8f11e00ff705" sha1="e6c635656b35e0a21b60bc02ba7ea5a30ead73d7"/>
+	</machine>
+	<machine name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[h undub Atelier Traduction][tr fr Myth-Project][v1.01]">
+		<description>Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[h undub Atelier Traduction][tr fr Myth-Project][v1.01]</description>
+		<rom name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[h undub Atelier Traduction][tr fr Myth-Project][v1.01].rvz" size="1370559016" crc="0f1d2918" md5="30fa6e7ae9e83ef63f4986e4a5d86cf3" sha1="f36fb084b60abb9b1c8a9630a03fdaa198d8bcac"/>
+	</machine>
+	<machine name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[h undub Atelier Traduction][tr fr Myth-Project][v1.0]">
+		<description>Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[h undub Atelier Traduction][tr fr Myth-Project][v1.0]</description>
+		<rom name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[h undub Atelier Traduction][tr fr Myth-Project][v1.0].rvz" size="1370558744" crc="ea8a6680" md5="6f8081371a5f38462f89feeaca122e70" sha1="35302f948ba5c9999a16ae390457f0cdbc2ce1c1"/>
+	</machine>
+	<machine name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[h2 undub]">
+		<description>Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[h2 undub]</description>
+		<rom name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[h2 undub].rvz" size="1371592056" crc="ecaa947a" md5="73a2729c4b8877439d4f6950dfe01e8f" sha1="3e8c9a109f74c27b4f5a49f53f4029facc1b8f05"/>
+	</machine>
+	<machine name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[tr es Gadesx][v0.903]">
+		<description>Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[tr es Gadesx][v0.903]</description>
+		<rom name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[tr es Gadesx][v0.903].rvz" size="1377085544" crc="b623fabb" md5="0743dbb6fdd0aba6cdc647f4c3edec0e" sha1="21f7b37a95f570a41c240ca580672d230c354590"/>
+	</machine>
+	<machine name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[tr es Gadesx][v0.904]">
+		<description>Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[tr es Gadesx][v0.904]</description>
+		<rom name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[tr es Gadesx][v0.904].rvz" size="1377085632" crc="68a5d259" md5="1495d76e1e1e914064b6feea5d4190b8" sha1="71de257f3311f08ca430d7b9514b755766d64469"/>
+	</machine>
+	<machine name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[tr es Gadesx][v1.0]">
+		<description>Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[tr es Gadesx][v1.0]</description>
+		<rom name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[tr es Gadesx][v1.0].rvz" size="1377085676" crc="63a37267" md5="15a88cddcafea3db2438cde7eb97305c" sha1="3b36ec92add7f27d62148baebb02bd2419b80b9c"/>
+	</machine>
+	<machine name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[tr fr Myth-Project][v1.01]">
+		<description>Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[tr fr Myth-Project][v1.01]</description>
+		<rom name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[tr fr Myth-Project][v1.01].rvz" size="1375496144" crc="7dd4d5a9" md5="77b04a2c876f6595da71979d9efd28f8" sha1="ef296a9be5231c0a1818c1ee5fe8541fb5b95c7e"/>
+	</machine>
+	<machine name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[tr fr Myth-Project][v1.0]">
+		<description>Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[tr fr Myth-Project][v1.0]</description>
+		<rom name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 1 of 2)[tr fr Myth-Project][v1.0].rvz" size="1375496060" crc="61ffa9be" md5="f0fdb5dabf87e78665de9414b6cf1807" sha1="88c0cca286492b03e2c23c97e0808d1ee486ada6"/>
+	</machine>
+	<machine name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[h undub Atelier Traduction]">
+		<description>Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[h undub Atelier Traduction]</description>
+		<rom name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[h undub Atelier Traduction].rvz" size="1315815728" crc="481159ba" md5="2c67cbb9c15b5672c3aca3a319809bad" sha1="097a7ba82fa1a51e302540f655d4d935fdd6e553"/>
+	</machine>
+	<machine name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[h undub Atelier Traduction][tr fr Myth-Project][v1.01]">
+		<description>Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[h undub Atelier Traduction][tr fr Myth-Project][v1.01]</description>
+		<rom name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[h undub Atelier Traduction][tr fr Myth-Project][v1.01].rvz" size="1314807820" crc="26d04009" md5="462bd065892876376e7c71afcc1803a8" sha1="4f3f9c104b55afc731a89b2f6e4c20ceb3bcaeb8"/>
+	</machine>
+	<machine name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[h undub Atelier Traduction][tr fr Myth-Project][v1.0]">
+		<description>Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[h undub Atelier Traduction][tr fr Myth-Project][v1.0]</description>
+		<rom name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[h undub Atelier Traduction][tr fr Myth-Project][v1.0].rvz" size="1314807896" crc="eb1ac1f4" md5="de2384350399a82aa44f3d95ae1a9733" sha1="9e3c5b7597835f98a957273a9e9fb5563d7dcf98"/>
+	</machine>
+	<machine name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[h2 undub]">
+		<description>Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[h2 undub]</description>
+		<rom name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[h2 undub].rvz" size="1318798456" crc="db177db4" md5="26ba84ff6987ae1ca70cf3c29efc4b58" sha1="9966afdd138aa56e309040b5892266fe71c78ca7"/>
+	</machine>
+	<machine name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[tr es Gadesx][v0.903]">
+		<description>Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[tr es Gadesx][v0.903]</description>
+		<rom name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[tr es Gadesx][v0.903].rvz" size="1320972400" crc="402f3dae" md5="b78773f47e3b528c95e8a9a7fdf5b5f2" sha1="ef1cc2eea2bb34f839a9af8155448879764f5a94"/>
+	</machine>
+	<machine name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[tr es Gadesx][v0.904]">
+		<description>Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[tr es Gadesx][v0.904]</description>
+		<rom name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[tr es Gadesx][v0.904].rvz" size="1320972672" crc="1a75065d" md5="47c27cad149b65c90b0ecabf6ec190a9" sha1="304be0b028bb506e573bcc64a9fd002561f4b075"/>
+	</machine>
+	<machine name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[tr es Gadesx][v1.0]">
+		<description>Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[tr es Gadesx][v1.0]</description>
+		<rom name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[tr es Gadesx][v1.0].rvz" size="1320972364" crc="bbc1c4b2" md5="d2085592c6637efd0e21073dc346b7c5" sha1="1ce369eec3b07eedc187cf52aececb3fd4f6217a"/>
+	</machine>
+	<machine name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[tr fr Myth-Project][v1.01]">
+		<description>Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[tr fr Myth-Project][v1.01]</description>
+		<rom name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[tr fr Myth-Project][v1.01].rvz" size="1319541504" crc="55cd5ef3" md5="3ef43458a6ebb6bfa85be1f1277eb12b" sha1="6fa92a6ea642926b67d74d972763ca892f5abd3c"/>
+	</machine>
+	<machine name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[tr fr Myth-Project][v1.0]">
+		<description>Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[tr fr Myth-Project][v1.0]</description>
+		<rom name="Baten Kaitos Origins (2006)(Nintendo)(US)(Disc 2 of 2)[tr fr Myth-Project][v1.0].rvz" size="1319541544" crc="d695ee5e" md5="33451473fea0b409ca3059b56f802788" sha1="0bdaec89c2f7ce02d766195f476d34db6c4b8cf0"/>
+	</machine>	
+	<machine name="Final Fantasy Crystal Chronicles (2004)(Nintendo)(US)[h 'Single Player Upgrade' Skullcrush04]">
+		<description>Final Fantasy Crystal Chronicles (2004)(Nintendo)(US)[h 'Single Player Upgrade' Skullcrush04]</description>
+		<rom name="Final Fantasy Crystal Chronicles (2004)(Nintendo)(US)[h 'Single Player Upgrade' Skullcrush04].rvz" size="789151484" crc="451f4e50" md5="944a034a81d27e311e8a3372828d0c77" sha1="c3b08811f782ef137115dcb5f964cd6a32b9dcc0"/>
+	</machine>
+	<machine name="Legend of Zelda, The - The Wind Waker (2003)(Nintendo)(US)[h Rewritten aproxm]">
+		<description>Legend of Zelda, The - The Wind Waker (2003)(Nintendo)(US)[h Rewritten aproxm]</description>
+		<rom name="Legend of Zelda, The - The Wind Waker (2003)(Nintendo)(US)[h Rewritten aproxm].rvz" size="496301916" crc="7b0e7a9d" md5="4e098cc4344cb2ee22a2ea0931e95170" sha1="16ed324fed44e06190cee34da7053150a2186363"/>
+	</machine>
+	<machine name="Mario Golf - Toadstool Tour (2004)(Nintendo)(EU)(M5)[h 60Hz Maeson]">
+		<description>Mario Golf - Toadstool Tour (2004)(Nintendo)(EU)(M5)[h 60Hz Maeson]</description>
+		<rom name="Mario Golf - Toadstool Tour (2004)(Nintendo)(EU)(M5)[h 60Hz Maeson].rvz" size="1225434744" crc="28863889" md5="e8db148129b19cc0fe6916d4973f91c8" sha1="c4ace05f159dfbc2562dc541a7873ec1fc2295ca"/>
+	</machine>
+	<machine name="Mario Party 4 v1.00 (2002)(Nintendo)(EU)(M5)[h 60Hz Maeson]">
+		<description>Mario Party 4 v1.00 (2002)(Nintendo)(EU)(M5)[h 60Hz Maeson]</description>
+		<rom name="Mario Party 4 v1.00 (2002)(Nintendo)(EU)(M5)[h 60Hz Maeson].rvz" size="478578328" crc="fe0f20c3" md5="91ce3a54942ed231a48ef8efd42754f8" sha1="59fa9feaa6164d153fd85ae20bc7b70a630fce29"/>
+	</machine>
+	<machine name="Mario Party 4 v1.02 (2002)(Nintendo)(EU)(M5)[h 60Hz Maeson]">
+		<description>Mario Party 4 v1.02 (2002)(Nintendo)(EU)(M5)[h 60Hz Maeson]</description>
+		<rom name="Mario Party 4 v1.02 (2002)(Nintendo)(EU)(M5)[h 60Hz Maeson].rvz" size="478541836" crc="7b469bb7" md5="19ba07db5fbb8693e886568560d58bc8" sha1="6ff5b71e2502389a5ff1816e173564545eae285e"/>
+	</machine>
+	<machine name="Mario Party 5 (2003)(Nintendo)(EU)(M5)[h 60Hz Maeson]">
+		<description>Mario Party 5 (2003)(Nintendo)(EU)(M5)[h 60Hz Maeson]</description>
+		<rom name="Mario Party 5 (2003)(Nintendo)(EU)(M5)[h 60Hz Maeson].rvz" size="824682876" crc="80b167d6" md5="02ec2d5d4a378794347b7d409d90ac01" sha1="3612001a995735b78cfa528433df53995fa9be91"/>
+	</machine>
+	<machine name="Megaman X - Command Mission (2004)(Capcom)(US)[h intro replacement HaqQ]">
+		<description>Megaman X - Command Mission (2004)(Capcom)(US)[h intro replacement HaqQ]</description>
+		<rom name="Megaman X - Command Mission (2004)(Capcom)(US)[h intro replacement HaqQ].rvz" size="752707804" crc="7a2704ea" md5="89f9ec8a875cf61a6f11f31149b6fb07" sha1="0eead46e0b676a83e306feb17514e89297502dc4"/>
+	</machine>
+	<machine name="Megaman X - Command Mission (2004)(Capcom)(US)[h undub]">
+		<description>Megaman X - Command Mission (2004)(Capcom)(US)[h undub]</description>
+		<rom name="Megaman X - Command Mission (2004)(Capcom)(US)[h undub].rvz" size="754319212" crc="c192231a" md5="6745dd5f00aeef2b0ed376be717f2e24" sha1="efa937c12b672d4378e0a0340e025466fb59ade7"/>
+	</machine>
+	<machine name="Metroid Prime (2003)(Nintendo)(EU)(M5)[tr pt Esaan Alencar - MJay - Solid One]">
+		<description>Metroid Prime (2003)(Nintendo)(EU)(M5)[tr pt Esaan Alencar - MJay - Solid One]</description>
+		<rom name="Metroid Prime (2003)(Nintendo)(EU)(M5)[tr pt Esaan Alencar - MJay - Solid One].rvz" size="1224786140" crc="7bca81d7" md5="33b182d304a462973074810647e5c809" sha1="3303071007b852c6f1d8ee44077bd8c563214449"/>
+	</machine>
+	<machine name="Metroid Prime v1.00 (2002)(Nintendo)(US)[h 'Double Trouble v1.15' Fantaselion]">
+		<description>Metroid Prime v1.00 (2002)(Nintendo)(US)[h 'Double Trouble v1.15' Fantaselion]</description>
+		<rom name="Metroid Prime v1.00 (2002)(Nintendo)(US)[h 'Double Trouble v1.15' Fantaselion].rvz" size="1134711368" crc="75dc9dce" md5="480532b0b4c5ca5b1a9adf71c45892a5" sha1="b6d744261ad3ab25aa109211ec91a33e7b1612cb"/>
+	</machine>
+	<machine name="Need for Speed - Underground (2003)(Electronic Arts)(EU)[a wrong header code]">
+		<description>Need for Speed - Underground (2003)(Electronic Arts)(EU)[a wrong header code]</description>
+		<rom name="Need for Speed - Underground (2003)(Electronic Arts)(EU)[a wrong header code].rvz" size="853067500" crc="7127588c" md5="c3e08539684cd165cfd36d56ac05a3be" sha1="01a91e7a446cdcd1ce1c0b1497d1fa18235be0b5"/>
+	</machine>
+	<machine name="Pokémon Colosseum (2004)(Nintendo)(US)[h 'Equality Version v1.2.0' JagGentlemann]">
+		<description>Pokémon Colosseum (2004)(Nintendo)(US)[h 'Equality Version v1.2.0' JagGentlemann]</description>
+		<rom name="Pokémon Colosseum (2004)(Nintendo)(US)[h 'Equality Version v1.2.0' JagGentlemann].rvz" size="574355384" crc="56e479ad" md5="8a2797bb50c5aad8f7002e9649c2a72d" sha1="7ed4754fb50e9903f335e25f250b1d06865651be"/>
+	</machine>
+	<machine name="Pokémon Colosseum (2004)(Nintendo)(US)[h 'Localized Title' Cralex]">
+		<description>Pokémon Colosseum (2004)(Nintendo)(US)[h 'Localized Title' Cralex]</description>
+		<rom name="Pokémon Colosseum (2004)(Nintendo)(US)[h 'Localized Title' Cralex].rvz" size="563489752" crc="a679ce6a" md5="fb176884d87dd739e18a7212ec98da63" sha1="4be66bfd6110758f3c3928128560ddee59d367b2"/>
+	</machine>
+	<machine name="Pokémon Colosseum (2004)(Nintendo)(US)[h 'Play as Red v2407.10' GameBeast92]">
+		<description>Pokémon Colosseum (2004)(Nintendo)(US)[h 'Play as Red v2407.10' GameBeast92]</description>
+		<rom name="Pokémon Colosseum (2004)(Nintendo)(US)[h 'Play as Red v2407.10' GameBeast92].rvz" size="570462508" crc="eb93fe24" md5="8a8f46106eee7962774710abbb28341f" sha1="0a67f77d0af424540e6ef75111656fddfb8e377e"/>
+	</machine>
+	<machine name="Pokémon Colosseum (2004)(Nintendo)(US)[h 'Poison Version v1.0.1' JagGentlemann]">
+		<description>Pokémon Colosseum (2004)(Nintendo)(US)[h 'Poison Version v1.0.1' JagGentlemann]</description>
+		<rom name="Pokémon Colosseum (2004)(Nintendo)(US)[h 'Poison Version v1.0.1' JagGentlemann].rvz" size="574135068" crc="a267527d" md5="830bd0e2338fc063bea56f165d22dc8e" sha1="0014ee3638e5a93f0544b499a2d480e7b00d4606"/>
+	</machine>
+	<machine name="Pokémon Colosseum (2004)(Nintendo)(US)[h 'ReduX v1.0.2' JagGentlemann]">
+		<description>Pokémon Colosseum (2004)(Nintendo)(US)[h 'ReduX v1.0.2' JagGentlemann]</description>
+		<rom name="Pokémon Colosseum (2004)(Nintendo)(US)[h 'ReduX v1.0.2' JagGentlemann].rvz" size="574075340" crc="816262be" md5="a0eff15f3a6eb8eb5f81d84426b03c8b" sha1="daa974d7194b6366582d413199703b4268b20a44"/>
+	</machine>
+	<machine name="Pokémon Colosseum (2004)(Nintendo)(US)[h 'Restored Title' Cralex]">
+		<description>Pokémon Colosseum (2004)(Nintendo)(US)[h 'Restored Title' Cralex]</description>
+		<rom name="Pokémon Colosseum (2004)(Nintendo)(US)[h 'Restored Title' Cralex].rvz" size="562204244" crc="3a8f8731" md5="2bb2212092327028b718d8cec37bc3ef" sha1="6f0dfde91b0d557d1a3938ad56386b9fecdcd868"/>
+	</machine>
+	<machine name="Pokémon Colosseum (2004)(Nintendo)(US)[h 'Sketch Version v1.1' JagGentlemann]">
+		<description>Pokémon Colosseum (2004)(Nintendo)(US)[h 'Sketch Version v1.1' JagGentlemann]</description>
+		<rom name="Pokémon Colosseum (2004)(Nintendo)(US)[h 'Sketch Version v1.1' JagGentlemann].rvz" size="574302200" crc="c908edac" md5="41a1aefde71d8b794205bf47f6180875" sha1="ddba715c868fff98f841b1bceb7f28988c873ef6"/>
+	</machine>
+	<machine name="Pokémon Colosseum (2004)(Nintendo)(US)[h 'Stadium N64 Cries v1.000' FrankBlack22]">
+		<description>Pokémon Colosseum (2004)(Nintendo)(US)[h 'Stadium N64 Cries v1.000' FrankBlack22]</description>
+		<rom name="Pokémon Colosseum (2004)(Nintendo)(US)[h 'Stadium N64 Cries v1.000' FrankBlack22].rvz" size="571722372" crc="e242178e" md5="469fa0e76b1de8c73dddabeaa997fcf6" sha1="d81f4e3f5531a7b787627a1c24348a249c6e8404"/>
+	</machine>
+	<machine name="Pokémon Colosseum (2004)(Nintendo)(US)[h 'Type Mayhem v1.0.1' JagGentlemann]">
+		<description>Pokémon Colosseum (2004)(Nintendo)(US)[h 'Type Mayhem v1.0.1' JagGentlemann]</description>
+		<rom name="Pokémon Colosseum (2004)(Nintendo)(US)[h 'Type Mayhem v1.0.1' JagGentlemann].rvz" size="574175052" crc="9af29682" md5="7f87eb0c9bb3b5bce9cc9c575a6c2c52" sha1="ff2ae7721d0b5c6a413406211824b5f9f7b00c4d"/>
+	</machine>
+	<machine name="Pokémon Colosseum (2004)(Nintendo)(US)[h 'Wes in Red Coat v2408.10' GameBeast92]">
+		<description>Pokémon Colosseum (2004)(Nintendo)(US)[h 'Wes in Red Coat v2408.10' GameBeast92]</description>
+		<rom name="Pokémon Colosseum (2004)(Nintendo)(US)[h 'Wes in Red Coat v2408.10' GameBeast92].rvz" size="570191444" crc="5122a1dd" md5="9a903981b727d09f70d2161917e7f67c" sha1="82220c43580baa40ddeba2195a1ffdc52336b230"/>
+	</machine>
+	<machine name="Pokémon Grand Colosseum 3.1 (2024)(Kya)(US)[h Pokémon Colosseum][Hoenn version - Nuzlocke mode]">
+		<description>Pokémon Grand Colosseum 3.1 (2024)(Kya)(US)[h Pokémon Colosseum][Hoenn version - Nuzlocke mode]</description>
+		<rom name="Pokémon Grand Colosseum 3.1 (2024)(Kya)(US)[h Pokémon Colosseum][Hoenn version - Nuzlocke mode].rvz" size="565933260" crc="056ba3de" md5="6b5aa339cbe8a22612606497466ba308" sha1="9921f383270da7cd74b0af8b8781c7e964b5b2ce"/>
+	</machine>
+	<machine name="Pokémon Grand Colosseum 3.1 (2024)(Kya)(US)[h Pokémon Colosseum][Hoenn version]">
+		<description>Pokémon Grand Colosseum 3.1 (2024)(Kya)(US)[h Pokémon Colosseum][Hoenn version]</description>
+		<rom name="Pokémon Grand Colosseum 3.1 (2024)(Kya)(US)[h Pokémon Colosseum][Hoenn version].rvz" size="565933224" crc="3f7157de" md5="48da7b1aaa0361e62153196de885beae" sha1="6e5133991f554856a094bdd505a77cd26498cd27"/>
+	</machine>
+	<machine name="Pokémon Grand Colosseum 3.1 (2024)(Kya)(US)[h Pokémon Colosseum][Johto version - Nuzlocke mode]">
+		<description>Pokémon Grand Colosseum 3.1 (2024)(Kya)(US)[h Pokémon Colosseum][Johto version - Nuzlocke mode]</description>
+		<rom name="Pokémon Grand Colosseum 3.1 (2024)(Kya)(US)[h Pokémon Colosseum][Johto version - Nuzlocke mode].rvz" size="566075924" crc="fbacccec" md5="a2daa6f582c6a4e3c5d2fea1e40d77c9" sha1="e881c64df1cee59f31202501609e9ec72ed4d361"/>
+	</machine>
+	<machine name="Pokémon Grand Colosseum 3.1 (2024)(Kya)(US)[h Pokémon Colosseum][Johto version]">
+		<description>Pokémon Grand Colosseum 3.1 (2024)(Kya)(US)[h Pokémon Colosseum][Johto version]</description>
+		<rom name="Pokémon Grand Colosseum 3.1 (2024)(Kya)(US)[h Pokémon Colosseum][Johto version].rvz" size="566075772" crc="0f317f32" md5="62b240387c843d1f860b33bda034ede9" sha1="e054739fcbbfe25ef2dccb31fec3314cc8fd53db"/>
+	</machine>
+	<machine name="Pokémon Grand Colosseum 3.1 (2024)(Kya)(US)[h Pokémon Colosseum][Kanto version - Nuzlocke mode]">
+		<description>Pokémon Grand Colosseum 3.1 (2024)(Kya)(US)[h Pokémon Colosseum][Kanto version - Nuzlocke mode]</description>
+		<rom name="Pokémon Grand Colosseum 3.1 (2024)(Kya)(US)[h Pokémon Colosseum][Kanto version - Nuzlocke mode].rvz" size="565938360" crc="dd57c769" md5="6d2a0036c815c0dcc00291f438f1dd43" sha1="00fdb4db5be6c1baa9052d8696af1cebe558bfba"/>
+	</machine>
+	<machine name="Pokémon Grand Colosseum 3.1 (2024)(Kya)(US)[h Pokémon Colosseum][Kanto version]">
+		<description>Pokémon Grand Colosseum 3.1 (2024)(Kya)(US)[h Pokémon Colosseum][Kanto version]</description>
+		<rom name="Pokémon Grand Colosseum 3.1 (2024)(Kya)(US)[h Pokémon Colosseum][Kanto version].rvz" size="565938340" crc="93bfd42f" md5="045bca9b68aed9f9aa9e156cdf105e54" sha1="f039b94b906bb0d97726dfbfdb63060f214fbbc7"/>
+	</machine>
+	<machine name="Pokémon XD - Gale of Darkness (2005)(Nintendo)(US)[h 'Equality Version v1.2.0' JagGentlemann]">
+		<description>Pokémon XD - Gale of Darkness (2005)(Nintendo)(US)[h 'Equality Version v1.2.0' JagGentlemann]</description>
+		<rom name="Pokémon XD - Gale of Darkness (2005)(Nintendo)(US)[h 'Equality Version v1.2.0' JagGentlemann].rvz" size="958274188" crc="07558f34" md5="597aff85cbdc7f5af389ce543ea4baad" sha1="1276fdf4d3ae0da29063195f083a4ea1d62d15ab"/>
+	</machine>
+	<machine name="Pokémon XD - Gale of Darkness (2005)(Nintendo)(US)[h 'Groovy Version v1.0.1' JagGentlemann]">
+		<description>Pokémon XD - Gale of Darkness (2005)(Nintendo)(US)[h 'Groovy Version v1.0.1' JagGentlemann]</description>
+		<rom name="Pokémon XD - Gale of Darkness (2005)(Nintendo)(US)[h 'Groovy Version v1.0.1' JagGentlemann].rvz" size="993950464" crc="1e544c4f" md5="95761c6060cd61cebace65bd93983dbc" sha1="0a308a0e860a72409b6fdd0e4df3c57af6295d50"/>
+	</machine>
+	<machine name="Pokémon XD - Gale of Darkness (2005)(Nintendo)(US)[h 'ReduX v1.0.0' JagGentlemann]">
+		<description>Pokémon XD - Gale of Darkness (2005)(Nintendo)(US)[h 'ReduX v1.0.0' JagGentlemann]</description>
+		<rom name="Pokémon XD - Gale of Darkness (2005)(Nintendo)(US)[h 'ReduX v1.0.0' JagGentlemann].rvz" size="958544204" crc="ca7c1942" md5="20d76a52a90b5784c2ef3b38a3245f1e" sha1="40284140e5ec1b647e6064106ce285a215273429"/>
+	</machine>
+	<machine name="Pokémon XD - Gale of Darkness (2005)(Nintendo)(US)[h 'ReduX v1.0.2' JagGentlemann]">
+		<description>Pokémon XD - Gale of Darkness (2005)(Nintendo)(US)[h 'ReduX v1.0.2' JagGentlemann]</description>
+		<rom name="Pokémon XD - Gale of Darkness (2005)(Nintendo)(US)[h 'ReduX v1.0.2' JagGentlemann].rvz" size="958450352" crc="e98f268f" md5="d3c0ef0d9e994e6fe9631578a9978e31" sha1="402e7a1769b256522f85cbb436d2a063f06cb811"/>
+	</machine>
+	<machine name="Pokémon XD - Gale of Darkness (2005)(Nintendo)(US)[h 'Sketch Version v1.1' JagGentlemann]">
+		<description>Pokémon XD - Gale of Darkness (2005)(Nintendo)(US)[h 'Sketch Version v1.1' JagGentlemann]</description>
+		<rom name="Pokémon XD - Gale of Darkness (2005)(Nintendo)(US)[h 'Sketch Version v1.1' JagGentlemann].rvz" size="958610108" crc="c3255916" md5="f30309b461503d06dccad280decb5afb" sha1="a4856c5f7b98bb07157bf9e68d29b7c77fa01d1a"/>
+	</machine>
+	<machine name="Pokémon XD - Gale of Darkness (2005)(Nintendo)(US)[h 'Type Mayhem v1.0.1' JagGentlemann]">
+		<description>Pokémon XD - Gale of Darkness (2005)(Nintendo)(US)[h 'Type Mayhem v1.0.1' JagGentlemann]</description>
+		<rom name="Pokémon XD - Gale of Darkness (2005)(Nintendo)(US)[h 'Type Mayhem v1.0.1' JagGentlemann].rvz" size="959844744" crc="fe4aa714" md5="1ef79977c7617f79c0d51093b174da2a" sha1="57857eccf8b6a3fb082451c329b539d87169230f"/>
+	</machine>
+	<machine name="Pokémon XG - Next Gen v1.0.4 (2017)(StarsMmd)(US)[h Pokémon XD]">
+		<description>Pokémon XG - Next Gen v1.0.4 (2017)(StarsMmd)(US)[h Pokémon XD]</description>
+		<rom name="Pokémon XG - Next Gen v1.0.4 (2017)(StarsMmd)(US)[h Pokémon XD].rvz" size="960175300" crc="ded45959" md5="1ab3726188868693e8e6e854250c5062" sha1="893ee17ecd889a3f9e0c53c15549a487119bbb55"/>
+	</machine>
+	<machine name="Pokémon XG - Next Gen v1.0.7-2 (2017)(StarsMmd)(US)[h Pokémon XD]">
+		<description>Pokémon XG - Next Gen v1.0.7-2 (2017)(StarsMmd)(US)[h Pokémon XD]</description>
+		<rom name="Pokémon XG - Next Gen v1.0.7-2 (2017)(StarsMmd)(US)[h Pokémon XD].rvz" size="944325044" crc="7f49d69f" md5="32cd0ff8ecd55688801e082055583cf5" sha1="0b7c1c36d5dd582fb7bd61c39e4ccc5b385c48ef"/>
+	</machine>
+	<machine name="Pokémon XG - Next Gen v1.1.5 (2018)(StarsMmd)(US)[h Pokémon XD]">
+		<description>Pokémon XG - Next Gen v1.1.5 (2018)(StarsMmd)(US)[h Pokémon XD]</description>
+		<rom name="Pokémon XG - Next Gen v1.1.5 (2018)(StarsMmd)(US)[h Pokémon XD].rvz" size="955360168" crc="3c0a9a89" md5="39faf04d5dd704d789a9af213d1cd026" sha1="a6ddb61625856d56f42282aefcac5bbe431585e2"/>
+	</machine>
+	<machine name="Pokémon XG - Next Gen v1.1.6-2 (2018)(StarsMmd)(US)[h Pokémon XD]">
+		<description>Pokémon XG - Next Gen v1.1.6-2 (2018)(StarsMmd)(US)[h Pokémon XD]</description>
+		<rom name="Pokémon XG - Next Gen v1.1.6-2 (2018)(StarsMmd)(US)[h Pokémon XD].rvz" size="955359112" crc="67e612d8" md5="b1792e20b92424e48d2126a2bdaf606c" sha1="1f9a3eee32591112a9873044e0f9381a4ee6c49e"/>
+	</machine>
+	<machine name="Pokémon XG - Next Gen v1.1.8-3 (2018)(StarsMmd)(US)[h Pokémon XD]">
+		<description>Pokémon XG - Next Gen v1.1.8-3 (2018)(StarsMmd)(US)[h Pokémon XD]</description>
+		<rom name="Pokémon XG - Next Gen v1.1.8-3 (2018)(StarsMmd)(US)[h Pokémon XD].rvz" size="955346512" crc="38e5e1ab" md5="4d01e2418ee962cc7a9f6937e484aeca" sha1="2e5848c488314a9264463183c937eec553fb8748"/>
+	</machine>
+	<machine name="Pokémon XG - Next Gen v1.2.1-3 (2019)(StarsMmd)(US)[h Pokémon XD]">
+		<description>Pokémon XG - Next Gen v1.2.1-3 (2019)(StarsMmd)(US)[h Pokémon XD]</description>
+		<rom name="Pokémon XG - Next Gen v1.2.1-3 (2019)(StarsMmd)(US)[h Pokémon XD].rvz" size="956755364" crc="82a0bc97" md5="2e2fdc9cb2d6472e0dc067bdb3c20e06" sha1="8e4eabe11b3462cd6630f7f436e5550935487123"/>
+	</machine>
+	<machine name="Pokémon XG Remix v1.15 (2022)(Cheeseboy100)(US)[h Pokémon XD]">
+		<description>Pokémon XG Remix v1.15 (2022)(Cheeseboy100)(US)[h Pokémon XD]</description>
+		<rom name="Pokémon XG Remix v1.15 (2022)(Cheeseboy100)(US)[h Pokémon XD].rvz" size="956405192" crc="1e925931" md5="8666ba83cc83489acb58eef50465d782" sha1="d7e5a971f6326902d7212e6bbd6425617c13624c"/>
+	</machine>
+	<machine name="Radio Allergy (2007-03-23)(O-3 Entertainment)(US)(proto)">
+		<description>Radio Allergy (2007-03-23)(O-3 Entertainment)(US)(proto)</description>
+		<rom name="Radio Allergy (2007-03-23)(O-3 Entertainment)(US)(proto).rvz" size="517611972" crc="af1431be" md5="ff0fbfabadc2da46182a48ccee32605d" sha1="f3b489354c8a82d92f7201e4af4c19a4e4cd900c"/>
+	</machine>
+	<machine name="Samus Goes to the Fridge to Get a Glass of Milk 3D (2021)(kkzero)(US)[h Metroid Prime]">
+		<description>Samus Goes to the Fridge to Get a Glass of Milk 3D (2021)(kkzero)(US)[h Metroid Prime]</description>
+		<rom name="Samus Goes to the Fridge to Get a Glass of Milk 3D (2021)(kkzero)(US)[h Metroid Prime].rvz" size="1142769684" crc="b24744f6" md5="d0fd289dffd09ba7ff6b01661f34328f" sha1="1944a47508df2917ac58251a839e53f12a53072e"/>
+	</machine>
+	<machine name="Skies of Arcadia Legends (2003)(Sega)(EU)(M4)[h Maeson mod &amp; 60Hz 1.49]">
+		<description>Skies of Arcadia Legends (2003)(Sega)(EU)(M4)[h Maeson mod &amp; 60Hz 1.49]</description>
+		<rom name="Skies of Arcadia Legends (2003)(Sega)(EU)(M4)[h Maeson mod &amp; 60Hz 1.49].rvz" size="1306444920" crc="ce6b6baf" md5="5e5efa9729a287ce514ce1aef49bbf68" sha1="e70c013f5dfc61ac998630cc6f8c65e5190def05"/>
+	</machine>
+	<machine name="Skies of Arcadia Legends (2003)(Sega)(EU)(M4)[h Maeson mod 1.49]">
+		<description>Skies of Arcadia Legends (2003)(Sega)(EU)(M4)[h Maeson mod 1.49]</description>
+		<rom name="Skies of Arcadia Legends (2003)(Sega)(EU)(M4)[h Maeson mod 1.49].rvz" size="1306444920" crc="6920021d" md5="e359ec4b01db1b1599114a42ea5ea30f" sha1="6112d17e56adf08a5498c07dcbc32e630ed91d0e"/>
+	</machine>
+	<machine name="Skies of Arcadia Legends (2003)(Sega)(EU)(M4)[h undub]">
+		<description>Skies of Arcadia Legends (2003)(Sega)(EU)(M4)[h undub]</description>
+		<rom name="Skies of Arcadia Legends (2003)(Sega)(EU)(M4)[h undub].rvz" size="1302012412" crc="8e3cd26c" md5="0d9cd758f64ed1bd16b71559b3e1f062" sha1="4e5fd3678108bd604c62577d2b20f9744824f11d"/>
+	</machine>
+	<machine name="Skies of Arcadia Legends (2003)(Sega)(US)[h Maeson mod 1.49]">
+		<description>Skies of Arcadia Legends (2003)(Sega)(US)[h Maeson mod 1.49]</description>
+		<rom name="Skies of Arcadia Legends (2003)(Sega)(US)[h Maeson mod 1.49].rvz" size="1285741472" crc="5f2a4b0f" md5="200e1cc7c4f7f4e4d92df89d1146d2cf" sha1="894d3bb630f127b7d49a3985b5ce5ad43b2023a6"/>
+	</machine>
+	<machine name="Skies of Arcadia Legends (2003)(Sega)(US)[h undub]">
+		<description>Skies of Arcadia Legends (2003)(Sega)(US)[h undub]</description>
+		<rom name="Skies of Arcadia Legends (2003)(Sega)(US)[h undub].rvz" size="1303501020" crc="78676639" md5="60a60a0ba3e8980dfabd092fd45d7e25" sha1="f240b50646a8d7827cbd4d645cbebc527520178d"/>
+	</machine>
+	<machine name="Sonic Heroes (2003)(Sega)(JP)(M6)(beta)[NPDP cartridge prototype 1, req. Gecko codes to boot]">
+		<description>Sonic Heroes (2003)(Sega)(JP)(M6)(beta)[NPDP cartridge prototype 1, req. Gecko codes to boot]</description>
+		<rom name="Sonic Heroes (2003)(Sega)(JP)(M6)(beta)[NPDP cartridge prototype 1, req. Gecko codes to boot].rvz" size="1016346476" crc="cb103a2a" md5="22b68494a19ffca3f5df1560b4e9cc60" sha1="bcead85b7e8decb3517d75802756fb84bae30364"/>
+	</machine>
+	<machine name="Sonic Heroes (2003)(Sega)(US)(M7)(beta)[NPDP cartridge prototype 2]">
+		<description>Sonic Heroes (2003)(Sega)(US)(M7)(beta)[NPDP cartridge prototype 2]</description>
+		<rom name="Sonic Heroes (2003)(Sega)(US)(M7)(beta)[NPDP cartridge prototype 2].rvz" size="986746564" crc="ddcec601" md5="e7734d4eaf8cd153c48e008c5f0a1ee2" sha1="cd9268ce9fe4745d413d63f367bf6e468736e281"/>
+	</machine>
+	<machine name="Sonic Heroes (2003-10-08)(Sega)(US)(M7)(beta)[AKA Prototype v10.8]">
+		<description>Sonic Heroes (2003-10-08)(Sega)(US)(M7)(beta)[AKA Prototype v10.8]</description>
+		<rom name="Sonic Heroes (2003-10-08)(Sega)(US)(M7)(beta)[AKA Prototype v10.8].rvz" size="949387676" crc="f41c362e" md5="8ff54db736b580d821277aa2d76fa23f" sha1="9d9c90dc1abff96caf552c92e164fff93a640d83"/>
+	</machine>
+	<machine name="Sonic Heroes (2003-11-18)(Sega)(US)(M6)(beta)[AKA Prototype v11.18]">
+		<description>Sonic Heroes (2003-11-18)(Sega)(US)(M6)(beta)[AKA Prototype v11.18]</description>
+		<rom name="Sonic Heroes (2003-11-18)(Sega)(US)(M6)(beta)[AKA Prototype v11.18].rvz" size="1002220932" crc="29077ac7" md5="e5c1085d2bd2c0dc86e8a2668af884a4" sha1="fcda3428b231fa5fdf2046661ada71dd38e360b2"/>
+	</machine>
+	<machine name="Sonic Heroes (2004)(Sega)(US)(M6)[h undub]">
+		<description>Sonic Heroes (2004)(Sega)(US)(M6)[h undub]</description>
+		<rom name="Sonic Heroes (2004)(Sega)(US)(M6)[h undub].rvz" size="1001598412" crc="c3c52348" md5="23188a3fd06c8d9274429b212a4ce869" sha1="2742cd60371d8db76bd066122516d3adc302c4cb"/>
+	</machine>
+	<machine name="Sonic Heroes E3 Version (2003)(Sega)(beta)[Sonic Heroes E3 label]">
+		<description>Sonic Heroes E3 Version (2003)(Sega)(beta)[Sonic Heroes E3 label]</description>
+		<rom name="Sonic Heroes E3 Version (2003)(Sega)(beta)[Sonic Heroes E3 label].rvz" size="98503048" crc="6fb736d4" md5="5062dd504db47c72423abe039ec09afb" sha1="5dbd307935f8e35ae22ceee2fb06f016a3a97e05"/>
+	</machine>
+	<machine name="Tales of Symphonia (2004)(Namco)(US)(Disc 1 of 2)[h undub]">
+		<description>Tales of Symphonia (2004)(Namco)(US)(Disc 1 of 2)[h undub]</description>
+		<rom name="Tales of Symphonia (2004)(Namco)(US)(Disc 1 of 2)[h undub].rvz" size="1125809256" crc="5af08362" md5="baa4ff50d1c543e433bba08b924eb42f" sha1="5c0dfe4fc64b5b5a750a9b7a22944966c62de036"/>
+	</machine>
+	<machine name="Tales of Symphonia (2004)(Namco)(US)(Disc 2 of 2)[h undub]">
+		<description>Tales of Symphonia (2004)(Namco)(US)(Disc 2 of 2)[h undub]</description>
+		<rom name="Tales of Symphonia (2004)(Namco)(US)(Disc 2 of 2)[h undub].rvz" size="1154277904" crc="9b9473d6" md5="888fde9e0aea2c7d162cc0ae3bc98712" sha1="ab508f2be080118dbdcd23b4d55527dcf890de21"/>
+	</machine>
+	<machine name="Virtua Quest (2005)(Sega)(US)[h undub]">
+		<description>Virtua Quest (2005)(Sega)(US)[h undub]</description>
+		<rom name="Virtua Quest (2005)(Sega)(US)[h undub].rvz" size="1125379936" crc="aab72ee6" md5="ee97569df849e6af73197dfc7a46fe7e" sha1="14567e4950ddc275acfb7f3321ad5b589b8fca47"/>
+	</machine>
 </datafile>
