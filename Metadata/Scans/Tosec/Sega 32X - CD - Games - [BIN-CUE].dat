@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega 32X - CD - Games - [BIN-CUE]</name>
+		<description>Sega 32X - CD - Games - [BIN-CUE]</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Surgical Strike (1996-01)(Sega)(BR)(en)" type="cd" sha1="7d59166a40188d3d33f0bf47d4cb95eca3f46b88" size="348819198" crc="0313231f" fullsha1="faf11ee4f7da75eb206d1a67fffa42a96af12b27" datasha1="d70dfbb4df124f4342815733dd255bcca2a909fd" rawdatasha1="1fc7ed580d30e01a6d49078a15e6d032067ca9c6" rawdatasize="483343056">
+		<category>Games</category>
+		<description>Surgical Strike (1996-01)(Sega)(BR)(en)</description>
+		<rom name="Surgical Strike (1996-01)(Sega)(BR)(en) (Track 01).bin" size="438499824" crc="2356dcc6" md5="945d37549f11012247e5b064b161340d" sha1="19bb54e5af096ae321af5a02c9e2741cb8c992c4"/>
+		<rom name="Surgical Strike (1996-01)(Sega)(BR)(en) (Track 02).bin" size="42858144" crc="ef6ba3ea" md5="0cfe5d341f99c806755c7dadb4ad2419" sha1="49a37d3e57cd024408763927fdba4d8e1d8007db" wavesha1="ebece65f45bb5fd84bc074d23eddf6d96f1e556d"/>
+		<rom name="Surgical Strike (1996-01)(Sega)(BR)(en) (Track 03).bin" size="1985088" crc="4279470c" md5="6633d57b31e1b52889ceed12b03914bd" sha1="f011e7a856e196e3fe62676ae1616824202b10e8" wavesha1="a4ebf20aa71a540e9d8b0d2a9ec3e9c9276e615a"/>
+	</game>
+</datafile>
