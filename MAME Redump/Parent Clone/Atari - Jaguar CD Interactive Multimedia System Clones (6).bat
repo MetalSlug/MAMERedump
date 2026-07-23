@@ -1,0 +1,6 @@
+chdman copy -i "Battle Morph (USA) (Songbird).chd" -op "Battle Morph (USA).chd" -o "Battle Morph (USA) (Songbird).delta.chd"
+chdman copy -i "Fast Food 64 - Holiday Snacks (USA) (Unl).chd" -op "Ants (USA) (Unl).chd" -o "Fast Food 64 - Holiday Snacks (USA) (Unl).delta.chd"
+chdman copy -i "Fast Food 64 (USA) (Unl).chd" -op "Ants (USA) (Unl).chd" -o "Fast Food 64 (USA) (Unl).delta.chd"
+chdman copy -i "Frogz 64 (USA) (Unl).chd" -op "Ants (USA) (Unl).chd" -o "Frogz 64 (USA) (Unl).delta.chd"
+chdman copy -i "Saucer Wars (USA) (Unl).chd" -op "Ants (USA) (Unl).chd" -o "Saucer Wars (USA) (Unl).delta.chd"
+chdman copy -i "World Tour Racing (USA) (Songbird).chd" -op "World Tour Racing (USA).chd" -o "World Tour Racing (USA) (Songbird).delta.chd"

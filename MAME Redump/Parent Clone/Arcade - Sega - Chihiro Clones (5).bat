@@ -1,0 +1,5 @@
+chdman copy -i "Ghost Squad (World) (Rev A).chd" -op "Ghost Squad (World).chd" -o "Ghost Squad (World) (Rev A).delta.chd"
+chdman copy -i "Wangan Midnight Maximum Tune (Japan) (Rev B).chd" -op "Wangan Midnight Maximum Tune (World) (Rev B).chd" -o "Wangan Midnight Maximum Tune (Japan) (Rev B).delta.chd"
+chdman copy -i "Wangan Midnight Maximum Tune 2 (Japan).chd" -op "Wangan Midnight Maximum Tune 2 (World).chd" -o "Wangan Midnight Maximum Tune 2 (Japan).delta.chd"
+chdman copy -i "Wangan Midnight Maximum Tune 2 (Japan) (Rev A).chd" -op "Wangan Midnight Maximum Tune 2 (World).chd" -o "Wangan Midnight Maximum Tune 2 (Japan) (Rev A).delta.chd"
+chdman copy -i "Wangan Midnight Maximum Tune 2 (World) (Rev A).chd" -op "Wangan Midnight Maximum Tune 2 (World).chd" -o "Wangan Midnight Maximum Tune 2 (World) (Rev A).delta.chd"

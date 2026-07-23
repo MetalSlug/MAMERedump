@@ -1,0 +1,1502 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sony - PlayStation 3 (Decrypted)</name>
+		<description>MAME Redump - Sony - PlayStation 3 (Decrypted) (4481) (2026-03-16 18-37-17)</description>
+		<version>0.286</version>
+		<date>2026-02-12</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="'&amp;' - Sora no Mukou de Sakimasu You ni (Japan)">
+		<category>Games</category>
+		<description>BLJM-61131</description>
+		<disk name="'&amp;' - Sora no Mukou de Sakimasu You ni (Japan).chd" sha1="6246e37c63fe23f318c9002e06b9823569500ebd" />
+	</machine>
+	<machine name="007 - Blood Stone (Europe) (En,Fr,De)" cloneof="007 - Blood Stone (USA) (En,Fr)">
+		<category>Games</category>
+		<description>BLES-01017</description>
+		<disk name="007 - Blood Stone (Europe) (En,Fr,De).delta.chd" sha1="1bd211fec63854d55fa210d2bbdd8b639596b00f" />
+	</machine>
+	<machine name="007 - Blood Stone (Japan)" cloneof="007 - Blood Stone (USA) (En,Fr)">
+		<category>Games</category>
+		<description>BLJM-60301</description>
+		<disk name="007 - Blood Stone (Japan).delta.chd" sha1="d354eb86fa40b1aecdf6ab7815cc4225d6cd378f" />
+	</machine>
+	<machine name="007 - Blood Stone (USA) (En,Fr)">
+		<category>Games</category>
+		<description>BLUS-30289</description>
+		<disk name="007 - Blood Stone (USA) (En,Fr).chd" sha1="581cba545682eefd1969e9929914c7835b9f5011" />
+	</machine>
+	<machine name="007 - Kvant Miloserdiya (Russia)" cloneof="007 - Nagusame no Houshuu (Japan)">
+		<category>Games</category>
+		<description>BLES-00407</description>
+		<disk name="007 - Kvant Miloserdiya (Russia).delta.chd" sha1="0808997c971bd8f1bfc0d208a0dd15b993862d1e" />
+	</machine>
+	<machine name="007 - Nagusame no Houshuu (Japan)">
+		<category>Games</category>
+		<description>BLJM-60137</description>
+		<disk name="007 - Nagusame no Houshuu (Japan).chd" sha1="fd3ecaff167d2864c22502a3d88f0eb398010607" />
+	</machine>
+	<machine name="007 - Quantum of Solace (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-00406</description>
+		<disk name="007 - Quantum of Solace (Europe) (En,Fr,De,Es,It).chd" sha1="42f7d2bc7e2dcfb95185c6a00eab2943ce58ddf7" />
+	</machine>
+	<machine name="007 - Quantum of Solace (Europe) (En,Fr,De,Es,It) (Collector's Edition)" cloneof="007 - Quantum of Solace (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-00411</description>
+		<disk name="007 - Quantum of Solace (Europe) (En,Fr,De,Es,It) (Collector's Edition).delta.chd" sha1="142ad4bcf607b09fdd30773a1c64342ac62b8507" />
+	</machine>
+	<machine name="007 - Quantum of Solace (Korea)" cloneof="007 - Nagusame no Houshuu (Japan)">
+		<category>Games</category>
+		<description>BLKS-20088</description>
+		<disk name="007 - Quantum of Solace (Korea).delta.chd" sha1="a78a4dffa904027a9d34dbcda4b47534a2940752" />
+	</machine>
+	<machine name="007 - Quantum of Solace (USA) (En,Fr)">
+		<category>Games</category>
+		<description>BLUS-30198</description>
+		<disk name="007 - Quantum of Solace (USA) (En,Fr).chd" sha1="5ed26bf619846e560f9899dd4f97d5bf1b6eb448" />
+	</machine>
+	<machine name="007 - Quantum of Solace (USA) (En,Fr) (Collector's Edition)" cloneof="007 - Quantum of Solace (USA) (En,Fr)">
+		<category>Games</category>
+		<description>BLUS-30199</description>
+		<disk name="007 - Quantum of Solace (USA) (En,Fr) (Collector's Edition).delta.chd" sha1="08d7e8b605c1195a794d77f3ecbb2b1ada400839" />
+	</machine>
+	<machine name="007 Legends (Europe) (En,Fr,De)" cloneof="007 Legends (USA) (En,Fr)">
+		<category>Games</category>
+		<description>BLES-01614</description>
+		<disk name="007 Legends (Europe) (En,Fr,De).delta.chd" sha1="7e142a7d8c9758b608394b7a52dbe1907d6bf500" />
+	</machine>
+	<machine name="007 Legends (Russia)" cloneof="007 Legends (USA) (En,Fr)">
+		<category>Games</category>
+		<description>BLES-01690</description>
+		<disk name="007 Legends (Russia).delta.chd" sha1="762b100c2590c51df2b9a65a2715c2f0a28197cd" />
+	</machine>
+	<machine name="007 Legends (USA) (En,Fr)">
+		<category>Games</category>
+		<description>BLUS-30983</description>
+		<disk name="007 Legends (USA) (En,Fr).chd" sha1="be7348e3d03048019e613a0378b88f9ea8ba2234" />
+	</machine>
+	<machine name="2010 FIFA World Cup - Minami Africa Taikai (Japan)" cloneof="2010 FIFA World Cup South Africa (USA, Asia) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLJM-60222</description>
+		<disk name="2010 FIFA World Cup - Minami Africa Taikai (Japan).delta.chd" sha1="269d928bbbbffdba02211668790e9dc14a8a4ade" />
+	</machine>
+	<machine name="2010 FIFA World Cup South Africa (Europe) (En,Fr,De,Es,It,Nl)" cloneof="2010 FIFA World Cup South Africa (USA, Asia) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLES-00796</description>
+		<disk name="2010 FIFA World Cup South Africa (Europe) (En,Fr,De,Es,It,Nl).delta.chd" sha1="59e82c9a347d639e137fd27d5f72f8593b650468" />
+	</machine>
+	<machine name="2010 FIFA World Cup South Africa (USA, Asia) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLUS-30474</description>
+		<disk name="2010 FIFA World Cup South Africa (USA, Asia) (En,Fr,Es).chd" sha1="8832ee60b4f679707bec1d0215a1af7c68f79367" />
+	</machine>
+	<machine name="2014 FIFA World Cup Brazil (Europe) (En,Fr,De,Es,It,Nl)" cloneof="2014 FIFA World Cup Brazil (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLES-01994</description>
+		<disk name="2014 FIFA World Cup Brazil (Europe) (En,Fr,De,Es,It,Nl).delta.chd" sha1="4bc28f24b049910e2e9b4c9e1fbaf7a30fea2d71" />
+	</machine>
+	<machine name="2014 FIFA World Cup Brazil (Japan)" cloneof="2014 FIFA World Cup Brazil (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLJM-61162</description>
+		<disk name="2014 FIFA World Cup Brazil (Japan).delta.chd" sha1="f7da7b37d62bf3253e857f568f12b3e00928804f" />
+	</machine>
+	<machine name="2014 FIFA World Cup Brazil (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLUS-31389</description>
+		<disk name="2014 FIFA World Cup Brazil (USA) (En,Fr,Es).chd" sha1="65f2f209271d7d81131ed3b8ed3261f438e0fa4b" />
+	</machine>
+	<machine name="3.15 IDU Firmware Update (USA)">
+		<category>Applications</category>
+		<description />
+		<disk name="3.15 IDU Firmware Update (USA).chd" sha1="c65db8b5e9a8d6df16f3e389ef3ae219552191c1" />
+	</machine>
+	<machine name="3.40 IDU-IDU FW Update (USA)">
+		<category>Applications</category>
+		<description />
+		<disk name="3.40 IDU-IDU FW Update (USA).chd" sha1="f7c47ab37aaadd4087fb0c6f7b0bf8a5e3bcbb35" />
+	</machine>
+	<machine name="3.66 IDU FW (USA)">
+		<category>Applications</category>
+		<description />
+		<disk name="3.66 IDU FW (USA).chd" sha1="d80c1a19e4861d7ad7035973462646dd67ded173" />
+	</machine>
+	<machine name="3D Collection (Asia)">
+		<category>Games</category>
+		<description>BCAS-20136</description>
+		<disk name="3D Collection (Asia).chd" sha1="41934c6137b36450ba49a06cc46342158d82bdbd" />
+	</machine>
+	<machine name="3D Dot Game Heroes (Europe)" cloneof="3D Dot Game Heroes (USA)">
+		<category>Games</category>
+		<description>BLES-00875</description>
+		<disk name="3D Dot Game Heroes (Europe).delta.chd" sha1="2a85ec374fa074b02a4d8785234adce541379632" />
+	</machine>
+	<machine name="3D Dot Game Heroes (Japan, Korea)" cloneof="3D Dot Game Heroes (USA)">
+		<category>Games</category>
+		<description>BLJM-60180</description>
+		<disk name="3D Dot Game Heroes (Japan, Korea).delta.chd" sha1="dc3e09cb8655378db2f838997df69a7ee989f784" />
+	</machine>
+	<machine name="3D Dot Game Heroes (USA)">
+		<category>Games</category>
+		<description>BLUS-30490</description>
+		<disk name="3D Dot Game Heroes (USA).chd" sha1="a42d3d54759fea9c2b0374b1452bea4fbe922af4" />
+	</machine>
+	<machine name="3D Dot Game Heroes (USA) (Demo)" cloneof="3D Dot Game Heroes (USA)">
+		<category>Demos</category>
+		<description>BLUD-80019</description>
+		<disk name="3D Dot Game Heroes (USA) (Demo).delta.chd" sha1="16dda4a86289f811ba5de89b20b719d03c502f39" />
+	</machine>
+	<machine name="40 Principales, Los - Karaoke Party (Spain) (En,Es)">
+		<category>Games</category>
+		<description>BLES-02090</description>
+		<disk name="40 Principales, Los - Karaoke Party (Spain) (En,Es).chd" sha1="d4c5272a6829fd757bbfc5367fd8610b52c65499" />
+	</machine>
+	<machine name="40 Principales, Los - Karaoke Party Vol. 2 (Spain) (En,Es)">
+		<category>Games</category>
+		<description>BLES-02201</description>
+		<disk name="40 Principales, Los - Karaoke Party Vol. 2 (Spain) (En,Es).chd" sha1="461d7423ace7dd1e4d257cbc2911c332eab2c0c5" />
+	</machine>
+	<machine name="428 - Fuusa Sareta Shibuya de (Japan)">
+		<category>Games</category>
+		<description>BLJS-10057</description>
+		<disk name="428 - Fuusa Sareta Shibuya de (Japan).chd" sha1="eff962dde30a1a81f4adac59c0d6f104cfdfcfc8" />
+	</machine>
+	<machine name="50 Cent - Blood on the Sand (Europe) (En,Fr,De)" cloneof="50 Cent - Blood on the Sand (USA) (En,Fr)">
+		<category>Games</category>
+		<description>BLES-00472</description>
+		<disk name="50 Cent - Blood on the Sand (Europe) (En,Fr,De).delta.chd" sha1="ef5bb75dbac348d783047735f0d0c89bf5a9f2b0" />
+	</machine>
+	<machine name="50 Cent - Blood on the Sand (Japan)" cloneof="50 Cent - Blood on the Sand (USA) (En,Fr)">
+		<category>Games</category>
+		<description>BLJS-10056</description>
+		<disk name="50 Cent - Blood on the Sand (Japan).delta.chd" sha1="bb591be29866ef338e6c0e69b81dec6e5bd19cca" />
+	</machine>
+	<machine name="50 Cent - Blood on the Sand (USA) (En,Fr)">
+		<category>Games</category>
+		<description>BLUS-30256</description>
+		<disk name="50 Cent - Blood on the Sand (USA) (En,Fr).chd" sha1="690e434ee181d24857abd03d4ad5227b08c75ad2" />
+	</machine>
+	<machine name="ABC Wipeout 2 (USA)">
+		<category>Games</category>
+		<description>BLUS-30765</description>
+		<disk name="ABC Wipeout 2 (USA).chd" sha1="9d17ac5b0cae00f8332635214570e120b7c5198b" />
+	</machine>
+	<machine name="Absolute Supercars (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-01500</description>
+		<disk name="Absolute Supercars (Europe) (En,Fr,De,Es,It).chd" sha1="c317a72d2efb160e1fb7d38f17c306382269284d" />
+	</machine>
+	<machine name="Accel World - Gin'yoku no Kakusei (Japan)">
+		<category>Games</category>
+		<description>BLJS-10174</description>
+		<disk name="Accel World - Gin'yoku no Kakusei (Japan).chd" sha1="8e85cf999ff00aa574653495a6c3605d347a3ca0" />
+	</machine>
+	<machine name="Accel World - Kasoku no Chouten (Japan)">
+		<category>Games</category>
+		<description>BLJS-10176</description>
+		<disk name="Accel World - Kasoku no Chouten (Japan).chd" sha1="a8ff1a92946f63d6f0996bafba3d2523ee449945" />
+	</machine>
+	<machine name="AC-DC Live - Rock Band (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-00453</description>
+		<disk name="AC-DC Live - Rock Band (Europe) (En,Fr,De,Es,It).chd" sha1="8452be66c15d2a3510d4c359e2c551025bdaa6e0" />
+	</machine>
+	<machine name="AC-DC Live - Rock Band Track Pack (USA)">
+		<category>Games</category>
+		<description>BLUS-30235</description>
+		<disk name="AC-DC Live - Rock Band Track Pack (USA).chd" sha1="72207694488a02ee113f5a5a7386d8191defca0a" />
+	</machine>
+	<machine name="Ace Combat - Assault Horizon (Asia) (En,Ja)" cloneof="Ace Combat - Assault Horizon (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLAS-50375</description>
+		<disk name="Ace Combat - Assault Horizon (Asia) (En,Ja).delta.chd" sha1="ac177796cf8c426f99a1a573852f3d95cb6b9397" />
+	</machine>
+	<machine name="Ace Combat - Assault Horizon (Europe) (En,Fr,De,Es,It)" cloneof="Ace Combat - Assault Horizon (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLES-01392</description>
+		<disk name="Ace Combat - Assault Horizon (Europe) (En,Fr,De,Es,It).delta.chd" sha1="4a1dd710fea079dba812a9ab2524b22254d5a4b8" />
+	</machine>
+	<machine name="Ace Combat - Assault Horizon (Europe) (En,Ru)" cloneof="Ace Combat - Assault Horizon (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLES-01393</description>
+		<disk name="Ace Combat - Assault Horizon (Europe) (En,Ru).delta.chd" sha1="75f4ec49faf9ed141f15af0ec68a5c9bb87c5fd8" />
+	</machine>
+	<machine name="Ace Combat - Assault Horizon (Japan) (En,Ja)" cloneof="Ace Combat - Assault Horizon (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLJS-10127</description>
+		<disk name="Ace Combat - Assault Horizon (Japan) (En,Ja).delta.chd" sha1="67f4529d0a7a31bcc08a9f99aceaa71d94f44190" />
+	</machine>
+	<machine name="Ace Combat - Assault Horizon (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLUS-30613</description>
+		<disk name="Ace Combat - Assault Horizon (USA) (En,Fr,Es).chd" sha1="79a6ba5119340c6a5f3604fa7e5064333aa92e9b" />
+	</machine>
+	<machine name="Adam's Venture - Chronicles (Brazil) (En,Fr,De,Es,It)" cloneof="Adam's Venture - Chronicles (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLUS-31570</description>
+		<disk name="Adam's Venture - Chronicles (Brazil) (En,Fr,De,Es,It).delta.chd" sha1="18aa237b9d85e6f52d5f910151c6ab6198a8902c" />
+	</machine>
+	<machine name="Adam's Venture - Chronicles (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-02194</description>
+		<disk name="Adam's Venture - Chronicles (Europe) (En,Fr,De,Es,It).chd" sha1="2bf943746b60248f067e12776a205be9ff4769c9" />
+	</machine>
+	<machine name="Adidas miCoach (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-01529</description>
+		<disk name="Adidas miCoach (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="d1ba8c40d0e26c90dafba4a10a17449afb992e92" />
+	</machine>
+	<machine name="Adidas miCoach (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLUS-30815</description>
+		<disk name="Adidas miCoach (USA) (En,Fr,Es).chd" sha1="ea14d1a30433046925bc9aaacf5e157e219e51a0" />
+	</machine>
+	<machine name="Adventure Time - Explore the Dungeon Because I Don't Know! (Europe) (En,Fr,De,Es,It)" cloneof="Adventure Time - Explore the Dungeon Because I Don't Know! (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-01961</description>
+		<disk name="Adventure Time - Explore the Dungeon Because I Don't Know! (Europe) (En,Fr,De,Es,It).delta.chd" sha1="e9b41712189d4b85dd40791f95a61d86a88cde5b" />
+	</machine>
+	<machine name="Adventure Time - Explore the Dungeon Because I Don't Know! (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLUS-31214</description>
+		<disk name="Adventure Time - Explore the Dungeon Because I Don't Know! (USA) (En,Fr,De,Es,It).chd" sha1="b20e814152a51cc1611d5ea3b395576c218e9b36" />
+	</machine>
+	<machine name="Adventure Time - Finn &amp; Jake Investigations (Europe) (En,Fr,De,Es,It,Pt)" cloneof="Adventure Time - Finn &amp; Jake Investigations (USA) (En,Fr,De,Es,It,Pt)">
+		<category>Games</category>
+		<description>BLES-02151</description>
+		<disk name="Adventure Time - Finn &amp; Jake Investigations (Europe) (En,Fr,De,Es,It,Pt).delta.chd" sha1="1328faf4d52af87572230b1c13ef80ac6a0dacb0" />
+	</machine>
+	<machine name="Adventure Time - Finn &amp; Jake Investigations (USA) (En,Fr,De,Es,It,Pt)">
+		<category>Games</category>
+		<description>BLUS-31526</description>
+		<disk name="Adventure Time - Finn &amp; Jake Investigations (USA) (En,Fr,De,Es,It,Pt).chd" sha1="a8a871b7a0fbd1357c7a64c05e4cf6204973c47b" />
+	</machine>
+	<machine name="Adventure Time - Nameless Oukoku no 3-nin no Princess (Japan)" cloneof="Adventure Time - The Secret of the Nameless Kingdom (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLJM-61351</description>
+		<disk name="Adventure Time - Nameless Oukoku no 3-nin no Princess (Japan).delta.chd" sha1="a7f7df2dc2fe2091f51eb19d5a6c6f7e78d8ad53" />
+	</machine>
+	<machine name="Adventure Time - The Secret of the Nameless Kingdom (Europe) (En,Fr,De,Es,It)" cloneof="Adventure Time - The Secret of the Nameless Kingdom (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLES-02063</description>
+		<disk name="Adventure Time - The Secret of the Nameless Kingdom (Europe) (En,Fr,De,Es,It).delta.chd" sha1="8df1c11cdc9d2d01ee356d603447e2e78e9d66fd" />
+	</machine>
+	<machine name="Adventure Time - The Secret of the Nameless Kingdom (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLUS-31450</description>
+		<disk name="Adventure Time - The Secret of the Nameless Kingdom (USA) (En,Fr,Es,Pt).chd" sha1="e11bc1ab4bef41000b40d7e0e7fd71f578d99ef8" />
+	</machine>
+	<machine name="Adventures of Tintin, The - The Game (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLUS-30747</description>
+		<disk name="Adventures of Tintin, The - The Game (USA) (En,Fr,Es,Pt).chd" sha1="f9b915324e15cb29db31b85ce0d7f23d451bc810" />
+	</machine>
+	<machine name="Adventures of Tintin, The - The Secret of the Unicorn (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" cloneof="Adventures of Tintin, The - The Game (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLES-01306</description>
+		<disk name="Adventures of Tintin, The - The Secret of the Unicorn (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).delta.chd" sha1="fad359e38ac0d6b5000375807e8d462935bfeb59" />
+	</machine>
+	<machine name="Adventures of Tintin, The - The Secret of the Unicorn (Europe) (Pl,Ru)" cloneof="Adventures of Tintin, The - The Game (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLES-01464</description>
+		<disk name="Adventures of Tintin, The - The Secret of the Unicorn (Europe) (Pl,Ru).delta.chd" sha1="d1d5d39651f1b249563f5f6dc59d54150f690252" />
+	</machine>
+	<machine name="Aegis of Earth - Protonovus Assault (Europe)">
+		<category>Games</category>
+		<description>BLES-02227</description>
+		<disk name="Aegis of Earth - Protonovus Assault (Europe).chd" sha1="1b171bce69f46837141461c5129ed1e153fc46d9" />
+	</machine>
+	<machine name="Aegis of Earth - Protonovus Assault (USA)">
+		<category>Games</category>
+		<description>BLUS-31587</description>
+		<disk name="Aegis of Earth - Protonovus Assault (USA).chd" sha1="b0f523982f2f44183e53542791a046e950deca96" />
+	</machine>
+	<machine name="AFL Live (Australia)">
+		<category>Games</category>
+		<description>BLES-01038</description>
+		<disk name="AFL Live (Australia).chd" sha1="966f84de861469f2c6621427f57030d6ad15c2b9" />
+	</machine>
+	<machine name="AFL Live 2 (Australia)">
+		<category>Games</category>
+		<description>BLES-01875</description>
+		<disk name="AFL Live 2 (Australia).chd" sha1="417aa42e4cf047fbe44a5be09b05d2c8e2d22a98" />
+	</machine>
+	<machine name="Afrika (Japan)" cloneof="Afrika (USA)">
+		<category>Games</category>
+		<description>BCJS-30021</description>
+		<disk name="Afrika (Japan).delta.chd" sha1="d2ed7a0f2e0a783dad632b9c21675a2d6d1bca75" />
+	</machine>
+	<machine name="Afrika (USA)">
+		<category>Games</category>
+		<description>BLUS-30399</description>
+		<disk name="Afrika (USA).chd" sha1="de80c6259f3203aaa07b1a4765d0e50b5db44346" />
+	</machine>
+	<machine name="Afro Samurai (Europe) (En,Fr,Es,It)" cloneof="Afro Samurai (USA) (En,Fr)">
+		<category>Games</category>
+		<description>BLES-00516</description>
+		<disk name="Afro Samurai (Europe) (En,Fr,Es,It).delta.chd" sha1="fff201ff7abcb97e51fb7511d4f110e4613af9cf" />
+	</machine>
+	<machine name="Afro Samurai (USA) (En,Fr)">
+		<category>Games</category>
+		<description>BLUS-30264</description>
+		<disk name="Afro Samurai (USA) (En,Fr).chd" sha1="4cd09b912880880b2bda88738d0b13efae7097f1" />
+	</machine>
+	<machine name="After Hours Athletes (Europe) (Beta) (2011-07-16)" cloneof="After Hours Athletes (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)">
+		<category>Preproduction</category>
+		<description>BCET-00026</description>
+		<disk name="After Hours Athletes (Europe) (Beta) (2011-07-16).delta.chd" sha1="6dd7e2353b9697cb57db50ece9c337c649fad382" />
+	</machine>
+	<machine name="After Hours Athletes (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)">
+		<category>Games</category>
+		<description>BCES-01335</description>
+		<disk name="After Hours Athletes (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).chd" sha1="c0a2b87261f3548beb3ee53a99708f56d547759e" />
+	</machine>
+	<machine name="Agarest - Generations of War (Europe)">
+		<category>Games</category>
+		<description>BLES-00594</description>
+		<disk name="Agarest - Generations of War (Europe).chd" sha1="4f43c43620126ad943f251c7ad268d38e0c6e5e2" />
+	</machine>
+	<machine name="Agarest - Generations of War 2 (Europe)" cloneof="Record of Agarest War 2 (USA)">
+		<category>Games</category>
+		<description>BLES-01643</description>
+		<disk name="Agarest - Generations of War 2 (Europe).delta.chd" sha1="8dc4b0e77b926e126270ec1b6ce1067ba8b1517f" />
+	</machine>
+	<machine name="Agarest - Generations of War Zero (Europe)" cloneof="Record of Agarest War Zero (USA)">
+		<category>Games</category>
+		<description>BLES-01305</description>
+		<disk name="Agarest - Generations of War Zero (Europe).delta.chd" sha1="e1c058691e7bd3d8936d79c74205059b277b2674" />
+	</machine>
+	<machine name="Agarest Senki (Japan)" cloneof="Agarest - Generations of War (Europe)">
+		<category>Games</category>
+		<description>BLJM-60038</description>
+		<disk name="Agarest Senki (Japan).delta.chd" sha1="a98006ef6f469607a369f5df6768f196759da3e9" />
+	</machine>
+	<machine name="Agarest Senki 2 (Japan)" cloneof="Record of Agarest War 2 (USA)">
+		<category>Games</category>
+		<description>BLJM-60273</description>
+		<disk name="Agarest Senki 2 (Japan).delta.chd" sha1="e8491625247df8fcbfedd21efb394410cf51fd94" />
+	</machine>
+	<machine name="Agarest Senki Zero (Japan)" cloneof="Record of Agarest War Zero (USA)">
+		<category>Games</category>
+		<description>BLJM-60156</description>
+		<disk name="Agarest Senki Zero (Japan).delta.chd" sha1="769d218e5b4f462039094061aa15bd47c3c6f388" />
+	</machine>
+	<machine name="Air Conflicts - Pacific Carriers (Europe) (En,Fr,De,Es,It,Ru)" cloneof="Air Conflicts - Pacific Carriers (USA) (En,Fr,De,Es,It,Ru)">
+		<category>Games</category>
+		<description>BLES-01604</description>
+		<disk name="Air Conflicts - Pacific Carriers (Europe) (En,Fr,De,Es,It,Ru).delta.chd" sha1="6802b528fc9ba8ab28480fdfca804474da273d21" />
+	</machine>
+	<machine name="Air Conflicts - Pacific Carriers (USA) (En,Fr,De,Es,It,Ru)">
+		<category>Games</category>
+		<description>BLUS-31210</description>
+		<disk name="Air Conflicts - Pacific Carriers (USA) (En,Fr,De,Es,It,Ru).chd" sha1="a18f4b083b268a404f3bfb29b2c51e07892ccbec" />
+	</machine>
+	<machine name="Air Conflicts - Secret Wars (Europe) (En,Fr,De,Es,It)" cloneof="Air Conflicts - Secret Wars (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-01316</description>
+		<disk name="Air Conflicts - Secret Wars (Europe) (En,Fr,De,Es,It).delta.chd" sha1="714687b500f76f495671b269cc9f00fc0d95e51d" />
+	</machine>
+	<machine name="Air Conflicts - Secret Wars (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLUS-30850</description>
+		<disk name="Air Conflicts - Secret Wars (USA) (En,Fr,De,Es,It).chd" sha1="7e692489bccd02964217fc256892e46a4f22586e" />
+	</machine>
+	<machine name="Air Conflicts - Vietnam (Europe) (En,Fr,De,Es,It,Ru)" cloneof="Air Conflicts - Vietnam (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLES-01858</description>
+		<disk name="Air Conflicts - Vietnam (Europe) (En,Fr,De,Es,It,Ru).delta.chd" sha1="4167c9f88cc7ebd88bbccd06dfa97c4493068edb" />
+	</machine>
+	<machine name="Air Conflicts - Vietnam (Japan)" cloneof="Air Conflicts - Vietnam (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLJM-61080</description>
+		<disk name="Air Conflicts - Vietnam (Japan).delta.chd" sha1="034e7f05ae544a77605156bca06e310bf6c7a52d" />
+	</machine>
+	<machine name="Air Conflicts - Vietnam (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLUS-31320</description>
+		<disk name="Air Conflicts - Vietnam (USA) (En,Fr,Es).chd" sha1="c5c7374be76c9ec456997b9330019c6cab5cef33" />
+	</machine>
+	<machine name="Akatsuki no Goei Trinity (Japan)">
+		<category>Games</category>
+		<description>BLJM-60521</description>
+		<disk name="Akatsuki no Goei Trinity (Japan).chd" sha1="b91f747501c0a8ca76c297da49675a9e006103d2" />
+	</machine>
+	<machine name="AKB1-149 - Ren'ai Sousenkyo (Japan)">
+		<category>Games</category>
+		<description>BLJS-10241</description>
+		<disk name="AKB1-149 - Ren'ai Sousenkyo (Japan).chd" sha1="8a0269bd7e37384233e89a34ea747c4601d4d213" />
+	</machine>
+	<machine name="Akiba's Trip - Undead &amp; Undressed (Europe) (En,Ja)" cloneof="Akiba's Trip - Undead &amp; Undressed (USA) (En,Ja)">
+		<category>Games</category>
+		<description>BLES-02097</description>
+		<disk name="Akiba's Trip - Undead &amp; Undressed (Europe) (En,Ja).delta.chd" sha1="d3455143ec033f93423fc6b815a2447081db7292" />
+	</machine>
+	<machine name="Akiba's Trip - Undead &amp; Undressed (USA) (En,Ja)">
+		<category>Games</category>
+		<description>BLUS-31425</description>
+		<disk name="Akiba's Trip - Undead &amp; Undressed (USA) (En,Ja).chd" sha1="b84a317c8d503b45d625bd4802dd6e6568c014f4" />
+	</machine>
+	<machine name="Akiba's Trip 2 (Japan)" cloneof="Akiba's Trip - Undead &amp; Undressed (USA) (En,Ja)">
+		<category>Games</category>
+		<description>BLJM-61105</description>
+		<disk name="Akiba's Trip 2 (Japan).delta.chd" sha1="9df6637debd7f0c812b8dfab774b931569de6453" />
+	</machine>
+	<machine name="Akumajou Dracula - Lords of Shadow 2 (Japan) (En,Ja)" cloneof="Castlevania - Lords of Shadow 2 (USA) (En,Fr,De,Es,It,Pt)">
+		<category>Games</category>
+		<description>BLJM-61107</description>
+		<disk name="Akumajou Dracula - Lords of Shadow 2 (Japan) (En,Ja).delta.chd" sha1="a89f63dac72dafe15f930f5d341739365ece418b" />
+	</machine>
+	<machine name="Alice - Madness Returns (Europe) (En,Fr,De,Es,It)" cloneof="Alice - Madness Returns (USA, Asia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-01265</description>
+		<disk name="Alice - Madness Returns (Europe) (En,Fr,De,Es,It).delta.chd" sha1="da2673dd3b5e266440d8aba2e2645710f1d8d139" />
+	</machine>
+	<machine name="Alice - Madness Returns (Japan)" cloneof="Alice - Madness Returns (USA, Asia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLJM-60359</description>
+		<disk name="Alice - Madness Returns (Japan).delta.chd" sha1="26948493a04830505ad7445f45776789241da448" />
+	</machine>
+	<machine name="Alice - Madness Returns (USA, Asia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLUS-30607</description>
+		<disk name="Alice - Madness Returns (USA, Asia) (En,Fr,De,Es,It).chd" sha1="2af062e275d1c6eacc997194eb8e5260a0d6258d" />
+	</machine>
+	<machine name="Alien - Isolation (Europe) (En,Fr,De,Es,It,Pl,Ru)" cloneof="Alien - Isolation (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLES-01697</description>
+		<disk name="Alien - Isolation (Europe) (En,Fr,De,Es,It,Pl,Ru).delta.chd" sha1="5d3d3336847f313eb276575edf9c5b11a38af1d1" />
+	</machine>
+	<machine name="Alien - Isolation (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLUS-30832</description>
+		<disk name="Alien - Isolation (USA) (En,Fr,Es,Pt).chd" sha1="57ee1c98a726fd8bc0c61e268b54106225ef2ecf" />
+	</machine>
+	<machine name="Aliens - Colonial Marines (Europe) (En,Fr,De,Es,It,Pl)" cloneof="Aliens - Colonial Marines (USA, Asia) (En,Fr,De,Es,It,Pl)">
+		<category>Games</category>
+		<description>BLES-01455</description>
+		<disk name="Aliens - Colonial Marines (Europe) (En,Fr,De,Es,It,Pl).delta.chd" sha1="ebb13e1afdd204e628aed2b5b0a32e135485dc35" />
+	</machine>
+	<machine name="Aliens - Colonial Marines (Russia)" cloneof="Aliens - Colonial Marines (USA, Asia) (En,Fr,De,Es,It,Pl)">
+		<category>Games</category>
+		<description>BLES-01770</description>
+		<disk name="Aliens - Colonial Marines (Russia).delta.chd" sha1="21cd00312b0938f958e938a855701dc0487a3f6f" />
+	</machine>
+	<machine name="Aliens - Colonial Marines (USA, Asia) (En,Fr,De,Es,It,Pl)">
+		<category>Games</category>
+		<description>BLUS-30862</description>
+		<disk name="Aliens - Colonial Marines (USA, Asia) (En,Fr,De,Es,It,Pl).chd" sha1="19e016d596440ffcf94e9190cba1489cf2e1485c" />
+	</machine>
+	<machine name="Aliens vs. Predator (Asia) (En,Fr,De,Es,It)" cloneof="Aliens vs. Predator (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLUS-30340</description>
+		<disk name="Aliens vs. Predator (Asia) (En,Fr,De,Es,It).delta.chd" sha1="c7d0454ad5c96ba3d5ea00354bba802b3dc00c2c" />
+	</machine>
+	<machine name="Aliens vs. Predator (Europe) (En,Fr,De,Es,It)" cloneof="Aliens vs. Predator (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-00585</description>
+		<disk name="Aliens vs. Predator (Europe) (En,Fr,De,Es,It).delta.chd" sha1="6551bf52ff04d30089ef7ad71e5a821b05cfae92" />
+	</machine>
+	<machine name="Aliens vs. Predator (Russia)" cloneof="Aliens vs. Predator (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-00586</description>
+		<disk name="Aliens vs. Predator (Russia).delta.chd" sha1="445b68536e928185fa99c6ae47854c4f20710488" />
+	</machine>
+	<machine name="Aliens vs. Predator (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLUS-30340</description>
+		<disk name="Aliens vs. Predator (USA) (En,Fr,De,Es,It).chd" sha1="58404680dfbfd51ecfaaeecd8295bcca275adb91" />
+	</machine>
+	<machine name="All About PlayStation Game Hits Vol. 1 (Asia)">
+		<category>Demos</category>
+		<description>BCAS-20226</description>
+		<disk name="All About PlayStation Game Hits Vol. 1 (Asia).chd" sha1="2e6c40a627596b84e8cefb375283f842295d2088" />
+	</machine>
+	<machine name="All-Pro Football 2K8 (USA)">
+		<category>Games</category>
+		<description>BLUS-30049</description>
+		<disk name="All-Pro Football 2K8 (USA).chd" sha1="215278360b4e3192ce5ff09d30430a2302f33b3f" />
+	</machine>
+	<machine name="Alone in the Dark - Inferno (Europe) (En,Fr,De,Es,It)" cloneof="Alone in the Dark - Inferno (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-00422</description>
+		<disk name="Alone in the Dark - Inferno (Europe) (En,Fr,De,Es,It).delta.chd" sha1="94f06ea563937120f5dd302142a26471a592f901" />
+	</machine>
+	<machine name="Alone in the Dark - Inferno (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLUS-30232</description>
+		<disk name="Alone in the Dark - Inferno (USA) (En,Fr,De,Es,It).chd" sha1="3645b278d90c8a8dc74b0ea5cbc363c040c041a2" />
+	</machine>
+	<machine name="Alone in the Dark (Japan)" cloneof="Alone in the Dark - Inferno (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLJM-60116</description>
+		<disk name="Alone in the Dark (Japan).delta.chd" sha1="d0e666ae74c7d83d7cc25a08ede6f8128bee9447" />
+	</machine>
+	<machine name="Alpha Protocol (Europe) (En,Fr,De,Es,It)" cloneof="Alpha Protocol (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-00704</description>
+		<disk name="Alpha Protocol (Europe) (En,Fr,De,Es,It).delta.chd" sha1="f4ce67f5b7f6171a3369e40fc1a5970df8b36d9d" />
+	</machine>
+	<machine name="Alpha Protocol (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLUS-30341</description>
+		<disk name="Alpha Protocol (USA) (En,Fr,De,Es,It).chd" sha1="0de612a1dd5f65931b488a88aa2cbc465ec99029" />
+	</machine>
+	<machine name="Amazing Spider-Man 2, The (Europe) (En,Fr,De,Es,It)" cloneof="Amazing Spider-Man 2, The (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLES-01989</description>
+		<disk name="Amazing Spider-Man 2, The (Europe) (En,Fr,De,Es,It).delta.chd" sha1="33c640b1e9100c70b5cc3ca5811782c8f6cb948d" />
+	</machine>
+	<machine name="Amazing Spider-Man 2, The (Japan)" cloneof="Amazing Spider-Man 2, The (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLJM-61218</description>
+		<disk name="Amazing Spider-Man 2, The (Japan).delta.chd" sha1="73e35f7470d748b76735ea1779d6a3f9c421a4bb" />
+	</machine>
+	<machine name="Amazing Spider-Man 2, The (Russia)" cloneof="Amazing Spider-Man 2, The (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLES-01990</description>
+		<disk name="Amazing Spider-Man 2, The (Russia).delta.chd" sha1="bb1ca1dd7673aef3bfafe91d857fe233a64c0fb8" />
+	</machine>
+	<machine name="Amazing Spider-Man 2, The (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLUS-41044</description>
+		<disk name="Amazing Spider-Man 2, The (USA) (En,Fr,Es,Pt).chd" sha1="0a5a22bb3c2a8f78d5595ec972a1357d16a5723d" />
+	</machine>
+	<machine name="Amazing Spider-Man, The (Europe) (En,Fr,De,Es,It)" cloneof="Amazing Spider-Man, The (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLES-01547</description>
+		<disk name="Amazing Spider-Man, The (Europe) (En,Fr,De,Es,It).delta.chd" sha1="cbee4e510f0a40d9c8aed29af124d41e9846e832" />
+	</machine>
+	<machine name="Amazing Spider-Man, The (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLUS-30828</description>
+		<disk name="Amazing Spider-Man, The (USA) (En,Fr,Es).chd" sha1="3aae839de7fe73d68efce4205b849ebfd407a211" />
+	</machine>
+	<machine name="Anarchy Reigns (Europe) (En,Ja,Fr,Es,It)" cloneof="Anarchy Reigns (USA) (En,Ja,Fr,Es,It)">
+		<category>Games</category>
+		<description>BLES-01232</description>
+		<disk name="Anarchy Reigns (Europe) (En,Ja,Fr,Es,It).delta.chd" sha1="d6f9e783bc867189cab8187155ea1f020637f693" />
+	</machine>
+	<machine name="Anarchy Reigns (USA) (En,Ja,Fr,Es,It)">
+		<category>Games</category>
+		<description>BLUS-30632</description>
+		<disk name="Anarchy Reigns (USA) (En,Ja,Fr,Es,It).chd" sha1="873eb637c4b1e14c58c81af9c929c6d2fa301447" />
+	</machine>
+	<machine name="Angel Love Online (Japan)">
+		<category>Games</category>
+		<description>BLJS-10124</description>
+		<disk name="Angel Love Online (Japan).chd" sha1="cb650c9a58c303cbddb334da41285a8414cc3cfb" />
+	</machine>
+	<machine name="Angel Senki (Japan)">
+		<category>Games</category>
+		<description>BLJS-10123</description>
+		<disk name="Angel Senki (Japan).chd" sha1="755014804b4ad223efdc6a197175e126902098e9" />
+	</machine>
+	<machine name="Angry Birds Star Wars (Europe) (En,Fr,De,Es,It)" cloneof="Angry Birds Star Wars (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLES-01943</description>
+		<disk name="Angry Birds Star Wars (Europe) (En,Fr,De,Es,It).delta.chd" sha1="adf3e18941ada5922c7a6c0eb28d0f928ba8bbfa" />
+	</machine>
+	<machine name="Angry Birds Star Wars (Europe) (Ru,Ar)" cloneof="Angry Birds Star Wars (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLES-01960</description>
+		<disk name="Angry Birds Star Wars (Europe) (Ru,Ar).delta.chd" sha1="29834dd5a7d6a9934f3ab608ced7cfd4941327cb" />
+	</machine>
+	<machine name="Angry Birds Star Wars (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLUS-31273</description>
+		<disk name="Angry Birds Star Wars (USA) (En,Fr,Es,Pt).chd" sha1="d7f39ace7af2aca65eb4da06cc1554505ee648e9" />
+	</machine>
+	<machine name="Angry Birds Trilogy (Europe) (En,Fr,De,Es,It)" cloneof="Angry Birds Trilogy (USA) (En,Fr)">
+		<category>Games</category>
+		<description>BLES-01732</description>
+		<disk name="Angry Birds Trilogy (Europe) (En,Fr,De,Es,It).delta.chd" sha1="8bd095cf10dad21b3637f08e042de2a7d6c2cac6" />
+	</machine>
+	<machine name="Angry Birds Trilogy (USA) (En,Fr)">
+		<category>Games</category>
+		<description>BLUS-31054</description>
+		<disk name="Angry Birds Trilogy (USA) (En,Fr).chd" sha1="73edff696c848f28dcff1eb7775a1dae8461056e" />
+	</machine>
+	<machine name="Another Century's Episode R (Japan)">
+		<category>Games</category>
+		<description>BLJS-10081</description>
+		<disk name="Another Century's Episode R (Japan).chd" sha1="af14125e0b970166096b25c4e4c2151375ca3cc5" />
+	</machine>
+	<machine name="Ao no Eiyuu - Birds of Steel (Japan)" cloneof="Birds of Steel (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLJM-60387</description>
+		<disk name="Ao no Eiyuu - Birds of Steel (Japan).delta.chd" sha1="9d77ae39323255c2d42fc407dd39f70599402fa9" />
+	</machine>
+	<machine name="Apache - Air Assault (Europe) (En,Fr,De,Es)" cloneof="Apache - Air Assault (USA) (En,Fr)">
+		<category>Games</category>
+		<description>BLES-00937</description>
+		<disk name="Apache - Air Assault (Europe) (En,Fr,De,Es).delta.chd" sha1="3fca00d0c30a6da63d40a4c7f17f581ff244780b" />
+	</machine>
+	<machine name="Apache - Air Assault (USA) (En,Fr)">
+		<category>Games</category>
+		<description>BLUS-30555</description>
+		<disk name="Apache - Air Assault (USA) (En,Fr).chd" sha1="7873e1cb60f153146ec8784f3f044f2ccf3f2a87" />
+	</machine>
+	<machine name="Apdojeog Yuhui - Mugen Souls (Korea)" cloneof="Mugen Souls (USA)">
+		<category>Games</category>
+		<description>BLKS-20385</description>
+		<disk name="Apdojeog Yuhui - Mugen Souls (Korea).delta.chd" sha1="f15f340c0d866d57ffa03868289b484aec32546f" />
+	</machine>
+	<machine name="Apdojeog Yuhui - Mugen Souls Z (Korea)" cloneof="Mugen Souls Z (USA)">
+		<category>Games</category>
+		<description>BLKS-20444</description>
+		<disk name="Apdojeog Yuhui - Mugen Souls Z (Korea).delta.chd" sha1="bae3767350c27a7a5bfe52eb8352b773b78b890e" />
+	</machine>
+	<machine name="Ape Escape - On the Move! (Asia)" cloneof="Ape Escape (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru)">
+		<category>Games</category>
+		<description>BCAS-20159</description>
+		<disk name="Ape Escape - On the Move! (Asia).delta.chd" sha1="628051d0206c3807a822666f334741ca9604a0b0" />
+	</machine>
+	<machine name="Ape Escape (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru)">
+		<category>Games</category>
+		<description>BCES-01186</description>
+		<disk name="Ape Escape (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru).chd" sha1="4f5ecbc68d67facfbfca0a1570f1c1240d7441ae" />
+	</machine>
+	<machine name="April 2009 IDU 2.60 (USA)">
+		<category>Demos</category>
+		<description />
+		<disk name="April 2009 IDU 2.60 (USA).chd" sha1="fd50d619f916313787fa3c944b3134afe1bc04d8" />
+	</machine>
+	<machine name="Aquanaut's Holiday - Hidden Memories (Asia) (En,Zh,Ko)">
+		<category>Games</category>
+		<description>BCAS-20064</description>
+		<disk name="Aquanaut's Holiday - Hidden Memories (Asia) (En,Zh,Ko).chd" sha1="6f6be2fd7dc70fe3186ef32ac2097d5ca7f29100" />
+	</machine>
+	<machine name="Aquanaut's Holiday - Kakusareta Kiroku (Japan)" cloneof="Aquanaut's Holiday - Hidden Memories (Asia) (En,Zh,Ko)">
+		<category>Games</category>
+		<description>BCJS-30023</description>
+		<disk name="Aquanaut's Holiday - Kakusareta Kiroku (Japan).delta.chd" sha1="46f4e011f727845625d0c76ac30d6ac122b19d40" />
+	</machine>
+	<machine name="Aquapazza - Aquaplus Dream Match (Japan)" cloneof="Aquapazza - Aquaplus Dream Match (USA)">
+		<category>Games</category>
+		<description>BLJM-60476</description>
+		<disk name="Aquapazza - Aquaplus Dream Match (Japan).delta.chd" sha1="aad3fdb3d55482ed0102f5be0f7b0965c75b65a0" />
+	</machine>
+	<machine name="Aquapazza - Aquaplus Dream Match (USA)">
+		<category>Games</category>
+		<description>BLUS-31321</description>
+		<disk name="Aquapazza - Aquaplus Dream Match (USA).chd" sha1="f0514596e84869d5f210d320396c6b4f4dbd4468" />
+	</machine>
+	<machine name="Ar nosurge - Ode to an Unborn Star (Europe)" cloneof="Ar nosurge - Ode to an Unborn Star (USA)">
+		<category>Games</category>
+		<description>BLES-02087</description>
+		<disk name="Ar nosurge - Ode to an Unborn Star (Europe).delta.chd" sha1="fba244b8143bf6a4300c86211c0f464cf3125724" />
+	</machine>
+	<machine name="Ar nosurge - Ode to an Unborn Star (USA)">
+		<category>Games</category>
+		<description>BLUS-31478</description>
+		<disk name="Ar nosurge - Ode to an Unborn Star (USA).chd" sha1="418766d035c7c3f5b6597c000023517f793601aa" />
+	</machine>
+	<machine name="Ar nosurge - Umareizuru Hoshi e Inoru Uta (Japan)" cloneof="Ar nosurge - Ode to an Unborn Star (USA)">
+		<category>Games</category>
+		<description>BLJM-61150</description>
+		<disk name="Ar nosurge - Umareizuru Hoshi e Inoru Uta (Japan).delta.chd" sha1="deaa20d1e7a2f527a7a6b507a08ce044bd3c4d96" />
+	</machine>
+	<machine name="Ar Tonelico III - Sekai Shuuen no Hikigane wa Shoujo no Uta ga Hiku (Japan)" cloneof="Ar Tonelico Qoga - Knell of Ar Ciel (USA)">
+		<category>Games</category>
+		<description>BLJS-10075</description>
+		<disk name="Ar Tonelico III - Sekai Shuuen no Hikigane wa Shoujo no Uta ga Hiku (Japan).delta.chd" sha1="8d9e51776c3e90f963ea2c3eeb48f6c794e72b83" />
+	</machine>
+	<machine name="Ar Tonelico III - Sekai Shuuen no Hikigane wa Shoujo no Uta ga Hiku (Japan) (PlayStation 3 the Best)" cloneof="Ar Tonelico Qoga - Knell of Ar Ciel (USA)">
+		<category>Games</category>
+		<description>BLJS-50018</description>
+		<disk name="Ar Tonelico III - Sekai Shuuen no Hikigane wa Shoujo no Uta ga Hiku (Japan) (PlayStation 3 the Best).delta.chd" sha1="9a56ca32d0afd4454da0571167950dd567983846" />
+	</machine>
+	<machine name="Ar Tonelico Qoga - Knell of Ar Ciel (Europe)" cloneof="Ar Tonelico Qoga - Knell of Ar Ciel (USA)">
+		<category>Games</category>
+		<description>BLES-01102</description>
+		<disk name="Ar Tonelico Qoga - Knell of Ar Ciel (Europe).delta.chd" sha1="ff12f5b1a7787a0df7fe150c7f58f801407b2ced" />
+	</machine>
+	<machine name="Ar Tonelico Qoga - Knell of Ar Ciel (USA)">
+		<category>Games</category>
+		<description>BLUS-30639</description>
+		<disk name="Ar Tonelico Qoga - Knell of Ar Ciel (USA).chd" sha1="398aef6f3a9a617242cc7c316055254628eda9e0" />
+	</machine>
+	<machine name="Arcadias no Ikusa-hime (Japan)">
+		<category>Games</category>
+		<description>BLJS-10224</description>
+		<disk name="Arcadias no Ikusa-hime (Japan).chd" sha1="4960ea54e745203d736a8a7f63bf8c0b1399bb86" />
+	</machine>
+	<machine name="Arcana Heart 3 - Love Max!!!!! (Europe)" cloneof="Arcana Heart 3 - Love Max!!!!! (USA)">
+		<category>Games</category>
+		<description>BLES-02126</description>
+		<disk name="Arcana Heart 3 - Love Max!!!!! (Europe).delta.chd" sha1="3e0efe97c9a0b1e18f4437eb747776182980dc1a" />
+	</machine>
+	<machine name="Arcana Heart 3 - Love Max!!!!! (Japan)" cloneof="Arcana Heart 3 - Love Max!!!!! (USA)">
+		<category>Games</category>
+		<description>BLJS-10274</description>
+		<disk name="Arcana Heart 3 - Love Max!!!!! (Japan).delta.chd" sha1="b1f665f1436f90fe02b089b50e65e881cf616f2b" />
+	</machine>
+	<machine name="Arcana Heart 3 - Love Max!!!!! (USA)">
+		<category>Games</category>
+		<description>BLUS-31424</description>
+		<disk name="Arcana Heart 3 - Love Max!!!!! (USA).chd" sha1="66cc81a749620f9e00233be2c2a77c915966147e" />
+	</machine>
+	<machine name="Arcana Heart 3 (Europe) (En,Ja)" cloneof="Arcana Heart 3 - Love Max!!!!! (USA)">
+		<category>Games</category>
+		<description>BLES-01295</description>
+		<disk name="Arcana Heart 3 (Europe) (En,Ja).delta.chd" sha1="c9b2fd9472c4221548ce78a52735e4db9c60532f" />
+	</machine>
+	<machine name="Arcana Heart 3 (Japan)" cloneof="Arcana Heart 3 - Love Max!!!!! (USA)">
+		<category>Games</category>
+		<description>BLJM-60248</description>
+		<disk name="Arcana Heart 3 (Japan).delta.chd" sha1="f9c5077040c6c861a6056c5f68afacc1b1f9f04e" />
+	</machine>
+	<machine name="Arcania - The Complete Tale (Europe) (En,Ja,Fr,De,Es,It,Zh,Pl,Ru,Cs,Hu)" cloneof="Arcania - The Complete Tale (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLES-01783</description>
+		<disk name="Arcania - The Complete Tale (Europe) (En,Ja,Fr,De,Es,It,Zh,Pl,Ru,Cs,Hu).delta.chd" sha1="c562c46e82ec29e74463bff4afb6f894442297f8" />
+	</machine>
+	<machine name="Arcania - The Complete Tale (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLUS-31158</description>
+		<disk name="Arcania - The Complete Tale (USA) (En,Fr,Es).chd" sha1="c56b487f6e55e185efd72006c4e256d6848b76e8" />
+	</machine>
+	<machine name="Arland Atelier Trilogy, The (Europe) (En,Fr)" cloneof="Arland Atelier Trilogy, The (USA)">
+		<category>Games</category>
+		<description>BLES-02138</description>
+		<disk name="Arland Atelier Trilogy, The (Europe) (En,Fr).delta.chd" sha1="0aa2d5fe503d3600d696ba4ecb7aa02a9fe6c634" />
+	</machine>
+	<machine name="Arland Atelier Trilogy, The (USA)">
+		<category>Games</category>
+		<description>BLUS-31581</description>
+		<disk name="Arland Atelier Trilogy, The (USA).chd" sha1="4a0b95f7706085da3acd8806c8e4bb945f5bcbe0" />
+	</machine>
+	<machine name="Armored Core - For Answer (Europe) (En,Fr,Es)" cloneof="Armored Core - For Answer (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLES-00370</description>
+		<disk name="Armored Core - For Answer (Europe) (En,Fr,Es).delta.chd" sha1="4060497c09175997a4a0d5aed67936cfe6b66147" />
+	</machine>
+	<machine name="Armored Core - For Answer (Japan) (PlayStation 3 the Best)" cloneof="Armored Core - For Answer (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLJM-55005</description>
+		<disk name="Armored Core - For Answer (Japan) (PlayStation 3 the Best).delta.chd" sha1="f5240cfcc45b438b522953f0eca12f79a2cf9224" />
+	</machine>
+	<machine name="Armored Core - For Answer (Japan, Asia)" cloneof="Armored Core - For Answer (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLJM-60066</description>
+		<disk name="Armored Core - For Answer (Japan, Asia).delta.chd" sha1="d8206ad79396031794e489c45ef0ae4e1b3c3a52" />
+	</machine>
+	<machine name="Armored Core - For Answer (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLUS-30187</description>
+		<disk name="Armored Core - For Answer (USA) (En,Fr,Es).chd" sha1="e47d0948f71ef8eac684452e8530d47ce41d6bff" />
+	</machine>
+	<machine name="Armored Core - Verdict Day (Europe) (En,Fr,De,Es,It)" cloneof="Armored Core - Verdict Day (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLES-01898</description>
+		<disk name="Armored Core - Verdict Day (Europe) (En,Fr,De,Es,It).delta.chd" sha1="c0a1c6e556090ed14cc7d9a5102692e5daf601d6" />
+	</machine>
+	<machine name="Armored Core - Verdict Day (Japan)" cloneof="Armored Core - Verdict Day (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLJM-61014</description>
+		<disk name="Armored Core - Verdict Day (Japan).delta.chd" sha1="b1680eaf8375c75d7634a9600f928709a265324c" />
+	</machine>
+	<machine name="Armored Core - Verdict Day (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLUS-31194</description>
+		<disk name="Armored Core - Verdict Day (USA) (En,Fr,Es).chd" sha1="f04b81332e9e85366605b764bfa1f2d6dd12ab2e" />
+	</machine>
+	<machine name="Armored Core 4 (Europe) (En,Fr,It)" cloneof="Armored Core 4 (USA)">
+		<category>Games</category>
+		<description>BLES-00039</description>
+		<disk name="Armored Core 4 (Europe) (En,Fr,It).delta.chd" sha1="f32140f4c1ebf87073eab7e3be67a2438cfd73e8" />
+	</machine>
+	<machine name="Armored Core 4 (Japan) (The Best Collection)" cloneof="Armored Core 4 (USA)">
+		<category>Games</category>
+		<description>BLJM-60062</description>
+		<disk name="Armored Core 4 (Japan) (The Best Collection).delta.chd" sha1="b1842dba3c73688470f7c1899460c7991b5ce7d9" />
+	</machine>
+	<machine name="Armored Core 4 (Japan, Asia)" cloneof="Armored Core 4 (USA)">
+		<category>Games</category>
+		<description>BLJM-60012</description>
+		<disk name="Armored Core 4 (Japan, Asia).delta.chd" sha1="55adfa5b932b8becdae8846bacc4ca4e5145661f" />
+	</machine>
+	<machine name="Armored Core 4 (USA)">
+		<category>Games</category>
+		<description>BLUS-30027</description>
+		<disk name="Armored Core 4 (USA).chd" sha1="d95c7da7cf5bf7c22c5b3bdd8c47413ba6072801" />
+	</machine>
+	<machine name="Armored Core V (Asia)" cloneof="Armored Core V (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLAS-50448</description>
+		<disk name="Armored Core V (Asia).delta.chd" sha1="71f0324af0441de8652f0b9e4a3ad528413e5cc9" />
+	</machine>
+	<machine name="Armored Core V (Europe) (En,Fr,De,Es,It)" cloneof="Armored Core V (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLES-01440</description>
+		<disk name="Armored Core V (Europe) (En,Fr,De,Es,It).delta.chd" sha1="66d8495b1ce36c88e8f9dd1f103be26070a7d997" />
+	</machine>
+	<machine name="Armored Core V (Japan)" cloneof="Armored Core V (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLJM-60378</description>
+		<disk name="Armored Core V (Japan).delta.chd" sha1="ec2c62ba7705dc07e2543ef527e57a5df061146f" />
+	</machine>
+	<machine name="Armored Core V (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLUS-30516</description>
+		<disk name="Armored Core V (USA) (En,Fr,Es).chd" sha1="acff33d7dcf15f19c426dff50ca76aca9b40998f" />
+	</machine>
+	<machine name="Army of Two - The 40th Day (Europe) (En,Fr,De,Es,It)" cloneof="Army of Two - The 40th Day (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-00659</description>
+		<disk name="Army of Two - The 40th Day (Europe) (En,Fr,De,Es,It).delta.chd" sha1="c80bbd7816ae9cb0104776f5a78d349c3127ea16" />
+	</machine>
+	<machine name="Army of Two - The 40th Day (Japan)" cloneof="Army of Two - The 40th Day (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLJM-60216</description>
+		<disk name="Army of Two - The 40th Day (Japan).delta.chd" sha1="a9257c02b04c21a4794179a98dd1a907f8749fd3" />
+	</machine>
+	<machine name="Army of Two - The 40th Day (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLUS-30408</description>
+		<disk name="Army of Two - The 40th Day (USA) (En,Fr,De,Es,It).chd" sha1="e191dfa9556959cfc7e1e4610d85c18d9747ab2a" />
+	</machine>
+	<machine name="Army of Two - The Devil's Cartel (Europe) (En,Fr,De,Es,It)" cloneof="Army of Two - The Devil's Cartel (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLES-01763</description>
+		<disk name="Army of Two - The Devil's Cartel (Europe) (En,Fr,De,Es,It).delta.chd" sha1="65469bfb3084d617c7fd944d5472b633d68a2426" />
+	</machine>
+	<machine name="Army of Two - The Devil's Cartel (Germany) (En,De)" cloneof="Army of Two - The Devil's Cartel (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLES-01767</description>
+		<disk name="Army of Two - The Devil's Cartel (Germany) (En,De).delta.chd" sha1="319a8fbc9ed81aff90ddeee71913d9bda4f79b57" />
+	</machine>
+	<machine name="Army of Two - The Devil's Cartel (Japan)" cloneof="Army of Two - The Devil's Cartel (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLJM-60578</description>
+		<disk name="Army of Two - The Devil's Cartel (Japan).delta.chd" sha1="5b3b76b0f71cfa433df9bd61cbe11b5691d1e465" />
+	</machine>
+	<machine name="Army of Two - The Devil's Cartel (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLUS-31069</description>
+		<disk name="Army of Two - The Devil's Cartel (USA) (En,Fr,Es).chd" sha1="95ce5e217eb83f4dc181eb9d7cd907cbbb4da9a8" />
+	</machine>
+	<machine name="Army of Two (Europe) (En,Fr,De,Es,It)" cloneof="Army of Two (USA)">
+		<category>Games</category>
+		<description>BLES-00168</description>
+		<disk name="Army of Two (Europe) (En,Fr,De,Es,It).delta.chd" sha1="5a139b706a75d3cc31e58f54c9e14d2edfb47436" />
+	</machine>
+	<machine name="Army of Two (Japan)" cloneof="Army of Two (USA)">
+		<category>Games</category>
+		<description>BLJM-60069</description>
+		<disk name="Army of Two (Japan).delta.chd" sha1="59565344f4dc8876f4414e54b87a6f90cbcf56e4" />
+	</machine>
+	<machine name="Army of Two (USA)">
+		<category>Games</category>
+		<description>BLUS-30057</description>
+		<disk name="Army of Two (USA).chd" sha1="bbb5f142a9d666cb645784ed32826c4f506631f3" />
+	</machine>
+	<machine name="Arslan Senki x Musou (Japan)">
+		<category>Games</category>
+		<description>BLJM-61308</description>
+		<disk name="Arslan Senki x Musou (Japan).chd" sha1="19de22351e4c3b037e911a85877bc5f8082e2a01" />
+	</machine>
+	<machine name="Arthur and the Revenge of Maltazard (Europe) (En,Fr,De,Es,It,Nl)">
+		<category>Games</category>
+		<description>BLES-00772</description>
+		<disk name="Arthur and the Revenge of Maltazard (Europe) (En,Fr,De,Es,It,Nl).chd" sha1="f6c131875351c248df46c595f688179401305223" />
+	</machine>
+	<machine name="Ashes Cricket 2009 (Europe, Australia)">
+		<category>Games</category>
+		<description>BLES-00639</description>
+		<disk name="Ashes Cricket 2009 (Europe, Australia).chd" sha1="3a578795c34f4cdf5b5b12165871e2c5be8f0139" />
+	</machine>
+	<machine name="Assassin's Creed - Birth of a New World - The American Saga (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru)" cloneof="Assassin's Creed - The Americas Collection (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLES-02085</description>
+		<disk name="Assassin's Creed - Birth of a New World - The American Saga (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru).delta.chd" sha1="957fc8d53cfb36d637d785958d12622a424687c5" />
+	</machine>
+	<machine name="Assassin's Creed - Brotherhood (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da) (v01.01)" cloneof="Assassin's Creed - Brotherhood (USA, Asia) (En,Fr,Es,It)">
+		<category>Games</category>
+		<description>BLES-00909</description>
+		<disk name="Assassin's Creed - Brotherhood (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da) (v01.01).delta.chd" sha1="7986886ecf36f4b29f68d80debaee9997ce6ee5e" />
+	</machine>
+	<machine name="Assassin's Creed - Brotherhood (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da) (v02.00)" cloneof="Assassin's Creed - Brotherhood (USA, Asia) (En,Fr,Es,It)">
+		<category>Games</category>
+		<description>BLES-00909</description>
+		<disk name="Assassin's Creed - Brotherhood (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da) (v02.00).delta.chd" sha1="a43ca522ea5e12ae4be58b36d7584f4098387c5c" />
+	</machine>
+	<machine name="Assassin's Creed - Brotherhood (Europe) (It,Pl,Ru)" cloneof="Assassin's Creed - Brotherhood (USA, Asia) (En,Fr,Es,It)">
+		<category>Games</category>
+		<description>BLES-00911</description>
+		<disk name="Assassin's Creed - Brotherhood (Europe) (It,Pl,Ru).delta.chd" sha1="9e3a92f88373d7d85ae09bb8fa765f0a8dde1e3e" />
+	</machine>
+	<machine name="Assassin's Creed - Brotherhood (Japan) (En,Ja,It)" cloneof="Assassin's Creed - Brotherhood (USA, Asia) (En,Fr,Es,It)">
+		<category>Games</category>
+		<description>BLJM-60250</description>
+		<disk name="Assassin's Creed - Brotherhood (Japan) (En,Ja,It).delta.chd" sha1="07e9ed7672dbf9897e94e38688c4971413510aa9" />
+	</machine>
+	<machine name="Assassin's Creed - Brotherhood (Korea) (It,Ko)" cloneof="Assassin's Creed - Brotherhood (USA, Asia) (En,Fr,Es,It)">
+		<category>Games</category>
+		<description>BLKS-20231</description>
+		<disk name="Assassin's Creed - Brotherhood (Korea) (It,Ko).delta.chd" sha1="338befbf98ab9655656a68ef2248d8ab2211a759" />
+	</machine>
+	<machine name="Assassin's Creed - Brotherhood (UK) (En,It) (v01.00)" cloneof="Assassin's Creed - Brotherhood (USA, Asia) (En,Fr,Es,It)">
+		<category>Games</category>
+		<description>BLES-00910</description>
+		<disk name="Assassin's Creed - Brotherhood (UK) (En,It) (v01.00).delta.chd" sha1="bd8b04e6d3e605c74f9f5a38b167c233ee21bb1d" />
+	</machine>
+	<machine name="Assassin's Creed - Brotherhood (UK) (En,It) (v02.00)" cloneof="Assassin's Creed - Brotherhood (USA, Asia) (En,Fr,Es,It)">
+		<category>Games</category>
+		<description>BLES-00910</description>
+		<disk name="Assassin's Creed - Brotherhood (UK) (En,It) (v02.00).delta.chd" sha1="e426dba3c3ecbba8046e751fa602c7baa8d062ee" />
+	</machine>
+	<machine name="Assassin's Creed - Brotherhood (USA, Asia) (En,Fr,Es,It)">
+		<category>Games</category>
+		<description>BLUS-30537</description>
+		<disk name="Assassin's Creed - Brotherhood (USA, Asia) (En,Fr,Es,It).chd" sha1="71b507ba1dc219bd11d28f031ac866d6807c9126" />
+	</machine>
+	<machine name="Assassin's Creed - Brotherhood + Assassin's Creed - Revelations (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)" cloneof="Assassin's Creed - Ezio Trilogy (USA) (En,Fr,De,Es,It,Pt)">
+		<category>Games</category>
+		<description>BLES-01772</description>
+		<disk name="Assassin's Creed - Brotherhood + Assassin's Creed - Revelations (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).delta.chd" sha1="64bd4a916edb18bf8d1467fbe8e6e62aa2fe31b0" />
+	</machine>
+	<machine name="Assassin's Creed - Connor Saga (Japan)" cloneof="Assassin's Creed III (Japan) (En,Ja,Zh,Ko) (v02.00)">
+		<category>Games</category>
+		<description>BLJM-61174</description>
+		<disk name="Assassin's Creed - Connor Saga (Japan).delta.chd" sha1="38008edac23f09d288dae0a7e1ced9fee836607d" />
+	</machine>
+	<machine name="Assassin's Creed - Ezio Saga (Japan)" cloneof="Assassin's Creed - Ezio Trilogy (USA) (En,Fr,De,Es,It,Pt)">
+		<category>Games</category>
+		<description>BLJM-67011</description>
+		<disk name="Assassin's Creed - Ezio Saga (Japan).delta.chd" sha1="c8185fce52b0e24540e5cca9f820df5a27c0e2a3" />
+	</machine>
+	<machine name="Assassin's Creed - Ezio Trilogy (USA) (En,Fr,De,Es,It,Pt)">
+		<category>Games</category>
+		<description>BLUS-31145</description>
+		<disk name="Assassin's Creed - Ezio Trilogy (USA) (En,Fr,De,Es,It,Pt).chd" sha1="ae38a5157490c2980436bf5c6fc5063fa8aa0dc0" />
+	</machine>
+	<machine name="Assassin's Creed - Heritage Collection (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)" cloneof="Assassin's Creed III (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v02.00)">
+		<category>Games</category>
+		<description>BLES-01968</description>
+		<disk name="Assassin's Creed - Heritage Collection (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).delta.chd" sha1="b5168ebc207d7dbdf219a3fb0ff9a27862840057" />
+	</machine>
+	<machine name="Assassin's Creed - Revelations - Special Edition (Japan) (En,Ja)" cloneof="Assassin's Creed - Revelations (Japan) (En,Ja)">
+		<category>Games</category>
+		<description>BLJM-60573</description>
+		<disk name="Assassin's Creed - Revelations - Special Edition (Japan) (En,Ja).delta.chd" sha1="1b925aabab9fd83521d671d34a4e5278ee27fcc3" />
+	</machine>
+	<machine name="Assassin's Creed - Revelations (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da) (BLES-01384)" cloneof="Assassin's Creed - Revelations (USA) (En,Fr,Es,Pt) (BLUS-30905)">
+		<category>Games</category>
+		<description>BLES-01384</description>
+		<disk name="Assassin's Creed - Revelations (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da) (BLES-01384).delta.chd" sha1="f50193451b4846a3b7376115f3598b4543c9f335" />
+	</machine>
+	<machine name="Assassin's Creed - Revelations (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da) (BLES-01467)" cloneof="Assassin's Creed - Revelations (USA) (En,Fr,Es,Pt) (BLUS-30905)">
+		<category>Games</category>
+		<description>BLES-01467</description>
+		<disk name="Assassin's Creed - Revelations (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da) (BLES-01467).delta.chd" sha1="016f3a2bf2e9e99d85ebf3f08904c7f1c0b1289c" />
+	</machine>
+	<machine name="Assassin's Creed - Revelations (Europe) (En,Pl,Ru) (BLES-01385)" cloneof="Assassin's Creed - Revelations (USA) (En,Fr,Es,Pt) (BLUS-30905)">
+		<category>Games</category>
+		<description>BLES-01385</description>
+		<disk name="Assassin's Creed - Revelations (Europe) (En,Pl,Ru) (BLES-01385).delta.chd" sha1="ca8ff83c125cd78ba294accdb8a3d1b2a7e0ee1e" />
+	</machine>
+	<machine name="Assassin's Creed - Revelations (Europe) (En,Pl,Ru) (BLES-01466)" cloneof="Assassin's Creed - Revelations (USA) (En,Fr,Es,Pt) (BLUS-30905)">
+		<category>Games</category>
+		<description>BLES-01466</description>
+		<disk name="Assassin's Creed - Revelations (Europe) (En,Pl,Ru) (BLES-01466).delta.chd" sha1="c46eb01de980493ff484bc5cfb37dea99e29cdc8" />
+	</machine>
+	<machine name="Assassin's Creed - Revelations (Japan) (En,Ja)">
+		<category>Games</category>
+		<description>BLJM-60412</description>
+		<disk name="Assassin's Creed - Revelations (Japan) (En,Ja).chd" sha1="84d2db9d8ba3335937453858a9b8ce78b81d9180" />
+	</machine>
+	<machine name="Assassin's Creed - Revelations (Korea)" cloneof="Assassin's Creed - Revelations (Japan) (En,Ja)">
+		<category>Games</category>
+		<description>BLKS-20325</description>
+		<disk name="Assassin's Creed - Revelations (Korea).delta.chd" sha1="61fc73ca219d192d227c442bd1679f348a31297e" />
+	</machine>
+	<machine name="Assassin's Creed - Revelations (USA) (En,Fr,Es,Pt) (BLUS-30905)">
+		<category>Games</category>
+		<description>BLUS-30905</description>
+		<disk name="Assassin's Creed - Revelations (USA) (En,Fr,Es,Pt) (BLUS-30905).chd" sha1="bef390abb29f91b7aedd2770813c92286c322006" />
+	</machine>
+	<machine name="Assassin's Creed - Revelations (USA, Asia) (En,Fr,Es,Pt) (BLUS-30808)" cloneof="Assassin's Creed - Revelations (USA) (En,Fr,Es,Pt) (BLUS-30905)">
+		<category>Games</category>
+		<description>BLUS-30808</description>
+		<disk name="Assassin's Creed - Revelations (USA, Asia) (En,Fr,Es,Pt) (BLUS-30808).delta.chd" sha1="c2909ec1b58928ed88dd0f056a2a3b7c0faec699" />
+	</machine>
+	<machine name="Assassin's Creed - Rogue (Europe) (En,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl)" cloneof="Assassin's Creed - Rogue (USA, Brazil) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLES-02061</description>
+		<disk name="Assassin's Creed - Rogue (Europe) (En,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl).delta.chd" sha1="0dbcde66a723b33db8df80701d9e3f6392b3ddf9" />
+	</machine>
+	<machine name="Assassin's Creed - Rogue (Europe) (En,Ru,Ar)" cloneof="Assassin's Creed - Rogue (USA, Brazil) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLES-02062</description>
+		<disk name="Assassin's Creed - Rogue (Europe) (En,Ru,Ar).delta.chd" sha1="467cd4a6bc5acb7d9f6433f2ef7b9e91cdba1402" />
+	</machine>
+	<machine name="Assassin's Creed - Rogue (Japan) (En,Ja)" cloneof="Assassin's Creed - Rogue (USA, Brazil) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLJM-61208</description>
+		<disk name="Assassin's Creed - Rogue (Japan) (En,Ja).delta.chd" sha1="289c9436a827460e9644db986a11f2b8055bb200" />
+	</machine>
+	<machine name="Assassin's Creed - Rogue (USA, Brazil) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLUS-31465</description>
+		<disk name="Assassin's Creed - Rogue (USA, Brazil) (En,Fr,Es,Pt).chd" sha1="efeb165bdd1c3ce7a9c891c131a056fbfb9aaa3d" />
+	</machine>
+	<machine name="Assassin's Creed - The Americas Collection (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLUS-31483</description>
+		<disk name="Assassin's Creed - The Americas Collection (USA) (En,Fr,Es,Pt).chd" sha1="7087a00aaaadfeb176504afb68208f502a76bf26" />
+	</machine>
+	<machine name="Assassin's Creed (Asia) (En,Fr,De,Es,It)" cloneof="Assassin's Creed (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLUS-30089</description>
+		<disk name="Assassin's Creed (Asia) (En,Fr,De,Es,It).delta.chd" sha1="ae0392b14ecaf2da4d65d242930031a454589178" />
+	</machine>
+	<machine name="Assassin's Creed (Europe) (En,Fr,De,Es,It) (FW1.94)" cloneof="Assassin's Creed (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-00158</description>
+		<disk name="Assassin's Creed (Europe) (En,Fr,De,Es,It) (FW1.94).delta.chd" sha1="d80745c151c800059d692fa4fb35328ba0ae7bbc" />
+	</machine>
+	<machine name="Assassin's Creed (Europe, Australia) (En,Fr,De,Es,It) (FW2.00)" cloneof="Assassin's Creed (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-00158</description>
+		<disk name="Assassin's Creed (Europe, Australia) (En,Fr,De,Es,It) (FW2.00).delta.chd" sha1="2e9a687d77aa1104262d639060bea5b188a81afb" />
+	</machine>
+	<machine name="Assassin's Creed (Japan)" cloneof="Assassin's Creed (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLJM-60050</description>
+		<disk name="Assassin's Creed (Japan).delta.chd" sha1="3da963bd3496df356a9ccaa7d53b09a810e7240e" />
+	</machine>
+	<machine name="Assassin's Creed (Korea)" cloneof="Assassin's Creed (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLKS-20049</description>
+		<disk name="Assassin's Creed (Korea).delta.chd" sha1="dc1d1baea0060af5f5a1235a1a1609e05486c153" />
+	</machine>
+	<machine name="Assassin's Creed (Poland)" cloneof="Assassin's Creed (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-00288</description>
+		<disk name="Assassin's Creed (Poland).delta.chd" sha1="c00b9212d798a7c7fb511120a922dd14e7662575" />
+	</machine>
+	<machine name="Assassin's Creed (Russia)" cloneof="Assassin's Creed (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-00199</description>
+		<disk name="Assassin's Creed (Russia).delta.chd" sha1="135b826d9a48416289d16f892759710614f134de" />
+	</machine>
+	<machine name="Assassin's Creed (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLUS-30089</description>
+		<disk name="Assassin's Creed (USA) (En,Fr,De,Es,It).chd" sha1="8ada33003452276874e51af47fd6b9acd88f85f7" />
+	</machine>
+	<machine name="Assassin's Creed I + II Welcome Pack (Japan) (En,Ja,It)" cloneof="Assassin's Creed II - Special Edition (Japan) (En,Ja,It)">
+		<category>Games</category>
+		<description>BLJM-60499</description>
+		<disk name="Assassin's Creed I + II Welcome Pack (Japan) (En,Ja,It).delta.chd" sha1="74e04704d108ce742b6dbc9e383d9594d8cdce9f" />
+	</machine>
+	<machine name="Assassin's Creed II - Game of the Year Edition (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" cloneof="Assassin's Creed II (Europe) (It,Pl,Ru)">
+		<category>Games</category>
+		<description>BLES-00899</description>
+		<disk name="Assassin's Creed II - Game of the Year Edition (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).delta.chd" sha1="9e84630532fa2ee83f57be7df51f734c36454c4d" />
+	</machine>
+	<machine name="Assassin's Creed II - Game of the Year Edition (Europe) (It,Pl,Ru)" cloneof="Assassin's Creed II - Special Edition (Japan) (En,Ja,It)">
+		<category>Games</category>
+		<description>BLES-00898</description>
+		<disk name="Assassin's Creed II - Game of the Year Edition (Europe) (It,Pl,Ru).delta.chd" sha1="94fe59ff27dfcc1e35a043b2aa1ccdd3568ea62a" />
+	</machine>
+	<machine name="Assassin's Creed II - Game of the Year Edition (UK) (En,It)" cloneof="Assassin's Creed II (Europe) (It,Pl,Ru)">
+		<category>Games</category>
+		<description>BLES-00897</description>
+		<disk name="Assassin's Creed II - Game of the Year Edition (UK) (En,It).delta.chd" sha1="4484ab3597c8ee2248bfdbe46914653aa1327203" />
+	</machine>
+	<machine name="Assassin's Creed II - Game of the Year Edition + Assassin's Creed (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" cloneof="Assassin's Creed II (USA, Asia) (En,Fr,Es,It)">
+		<category>Games</category>
+		<description>BLES-01582</description>
+		<disk name="Assassin's Creed II - Game of the Year Edition + Assassin's Creed (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).delta.chd" sha1="8f17d302704123d921ede8751ba2c84bf02a4c5c" />
+	</machine>
+	<machine name="Assassin's Creed II - Special Edition (Japan) (En,Ja,It)">
+		<category>Games</category>
+		<description>BLJM-60233</description>
+		<disk name="Assassin's Creed II - Special Edition (Japan) (En,Ja,It).chd" sha1="6487c8a64adb67824e04dd26d6cb3f33bf16e88f" />
+	</machine>
+	<machine name="Assassin's Creed II (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" cloneof="Assassin's Creed II (Europe) (It,Pl,Ru)">
+		<category>Games</category>
+		<description>BLES-00669</description>
+		<disk name="Assassin's Creed II (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).delta.chd" sha1="0f47ef1f269205f58b236aa5cff34eb64ef07564" />
+	</machine>
+	<machine name="Assassin's Creed II (Europe) (It,Pl,Ru)">
+		<category>Games</category>
+		<description>BLES-00751</description>
+		<disk name="Assassin's Creed II (Europe) (It,Pl,Ru).chd" sha1="099bc4b64bb36c6a020b9bebd0a55fcf954c457d" />
+	</machine>
+	<machine name="Assassin's Creed II (Japan) (En,Ja,It)" cloneof="Assassin's Creed II (Europe) (It,Pl,Ru)">
+		<category>Games</category>
+		<description>BLJM-60185</description>
+		<disk name="Assassin's Creed II (Japan) (En,Ja,It).delta.chd" sha1="2d009e48904cba2120186de0d52a4fe88f5f1240" />
+	</machine>
+	<machine name="Assassin's Creed II (Korea) (It,Ko)" cloneof="Assassin's Creed II (Europe) (It,Pl,Ru)">
+		<category>Games</category>
+		<description>BLKS-20167</description>
+		<disk name="Assassin's Creed II (Korea) (It,Ko).delta.chd" sha1="86316792e6e2ccec43cb629ec189bbe31ceaeff1" />
+	</machine>
+	<machine name="Assassin's Creed II (UK) (En,It)" cloneof="Assassin's Creed II (Europe) (It,Pl,Ru)">
+		<category>Games</category>
+		<description>BLES-00670</description>
+		<disk name="Assassin's Creed II (UK) (En,It).delta.chd" sha1="bed0759bc69ce5026890139e71a071da431c0436" />
+	</machine>
+	<machine name="Assassin's Creed II (USA, Asia) (En,Fr,Es,It)">
+		<category>Games</category>
+		<description>BLUS-30364</description>
+		<disk name="Assassin's Creed II (USA, Asia) (En,Fr,Es,It).chd" sha1="1348e67beae59c1b08ba6824569da07d89ff8c72" />
+	</machine>
+	<machine name="Assassin's Creed III (Australia) (v02.00)" cloneof="Assassin's Creed III (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v02.00)">
+		<category>Games</category>
+		<description>BLES-01668</description>
+		<disk name="Assassin's Creed III (Australia) (v02.00).delta.chd" sha1="5edf7b3d9b3adb458f4a8ebb9880ed86ba1463c3" />
+	</machine>
+	<machine name="Assassin's Creed III (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v01.01)">
+		<category>Games</category>
+		<description>BLES-01667</description>
+		<disk name="Assassin's Creed III (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v01.01).chd" sha1="63e480cf9d21736c882a8adc83c2d88838da1694" />
+	</machine>
+	<machine name="Assassin's Creed III (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v02.00)">
+		<category>Games</category>
+		<description>BLES-01667</description>
+		<disk name="Assassin's Creed III (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v02.00).chd" sha1="2107ec7aa4aec677641d837285c06d5d59cc5b45" />
+	</machine>
+	<machine name="Assassin's Creed III (Europe) (Pl,Ru,Cs,Hu) (v01.01)" cloneof="Assassin's Creed III (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v01.01)">
+		<category>Games</category>
+		<description>BLES-01669</description>
+		<disk name="Assassin's Creed III (Europe) (Pl,Ru,Cs,Hu) (v01.01).delta.chd" sha1="51e16137401484931320b7bc771bbf50a02ea388" />
+	</machine>
+	<machine name="Assassin's Creed III (Europe) (Pl,Ru,Cs,Hu) (v02.00)" cloneof="Assassin's Creed III (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v02.00)">
+		<category>Games</category>
+		<description>BLES-01669</description>
+		<disk name="Assassin's Creed III (Europe) (Pl,Ru,Cs,Hu) (v02.00).delta.chd" sha1="223a9fadfa4fd90e34a859a56e8383ff9e3e29d5" />
+	</machine>
+	<machine name="Assassin's Creed III (Europe, Asia) (v01.00)" cloneof="Assassin's Creed III (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v01.01)">
+		<category>Games</category>
+		<description>BLES-01668</description>
+		<disk name="Assassin's Creed III (Europe, Asia) (v01.00).delta.chd" sha1="194e98e6ddfd981b1ebd44b03cab7726cf4f1047" />
+	</machine>
+	<machine name="Assassin's Creed III (Japan) (En,Ja,Zh,Ko) (v01.01)" cloneof="Assassin's Creed III (Japan) (En,Ja,Zh,Ko) (v02.00)">
+		<category>Games</category>
+		<description>BLJM-60516</description>
+		<disk name="Assassin's Creed III (Japan) (En,Ja,Zh,Ko) (v01.01).delta.chd" sha1="e677667804a09a7c1423a7e2bfec0222f378af7b" />
+	</machine>
+	<machine name="Assassin's Creed III (Japan) (En,Ja,Zh,Ko) (v02.00)">
+		<category>Games</category>
+		<description>BLJM-60516</description>
+		<disk name="Assassin's Creed III (Japan) (En,Ja,Zh,Ko) (v02.00).chd" sha1="ad142ba3d85f81d8d8a075da1827bf68d0cb43ef" />
+	</machine>
+	<machine name="Assassin's Creed III (USA) (En,Fr,Es,Pt) (v01.00)" cloneof="Assassin's Creed III (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v02.00)">
+		<category>Games</category>
+		<description>BLUS-30991</description>
+		<disk name="Assassin's Creed III (USA) (En,Fr,Es,Pt) (v01.00).delta.chd" sha1="149121a900a02e8f8ab6690b0b77cc38b6a9774c" />
+	</machine>
+	<machine name="Assassin's Creed III (USA) (En,Fr,Es,Pt) (v02.00)" cloneof="Assassin's Creed III (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v02.00)">
+		<category>Games</category>
+		<description>BLUS-30991</description>
+		<disk name="Assassin's Creed III (USA) (En,Fr,Es,Pt) (v02.00).delta.chd" sha1="7d023ad6f29afbec1a0ba6b1e484605a3b54b4cc" />
+	</machine>
+	<machine name="Assassin's Creed IV - Black Flag (Europe) (En,Ar)" cloneof="Assassin's Creed IV - Black Flag (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLES-01884</description>
+		<disk name="Assassin's Creed IV - Black Flag (Europe) (En,Ar).delta.chd" sha1="36235c90aaf570cdc3852c20882db78985d0c3eb" />
+	</machine>
+	<machine name="Assassin's Creed IV - Black Flag (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)" cloneof="Assassin's Creed IV - Black Flag (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLES-01882</description>
+		<disk name="Assassin's Creed IV - Black Flag (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).delta.chd" sha1="6edd82fd60f099b2e406ca76dd1fa629eb0697bb" />
+	</machine>
+	<machine name="Assassin's Creed IV - Black Flag (Europe) (Pl,Ru,Cs,Hu)" cloneof="Assassin's Creed IV - Black Flag (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLES-01883</description>
+		<disk name="Assassin's Creed IV - Black Flag (Europe) (Pl,Ru,Cs,Hu).delta.chd" sha1="223f97aaffa3b910a6434d00bf2a26d2f33a620c" />
+	</machine>
+	<machine name="Assassin's Creed IV - Black Flag (Japan, Asia) (En,Ja,Zh,Ko)" cloneof="Assassin's Creed IV - Black Flag (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLJM-61056</description>
+		<disk name="Assassin's Creed IV - Black Flag (Japan, Asia) (En,Ja,Zh,Ko).delta.chd" sha1="484936c7158225ada8b48fa142cf80fe9b482fac" />
+	</machine>
+	<machine name="Assassin's Creed IV - Black Flag (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLUS-31193</description>
+		<disk name="Assassin's Creed IV - Black Flag (USA) (En,Fr,Es,Pt).chd" sha1="5cfebffe5c2d216f142db9e25ffc837341bbc905" />
+	</machine>
+	<machine name="Assassin's Creed IV - Black Flag + Assassin's Creed - Rogue (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)" cloneof="Assassin's Creed IV - Black Flag (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLES-02204</description>
+		<disk name="Assassin's Creed IV - Black Flag + Assassin's Creed - Rogue (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl).delta.chd" sha1="329c5aafc3df8193f3076762b2c78493b87087f5" />
+	</machine>
+	<machine name="Assassin's Creed IV - Black Flag + Assassin's Creed - Rogue (Russia) (En,Pl,Ru,Cs,Hu,Ar)" cloneof="Assassin's Creed IV - Black Flag (USA) (En,Fr,Es,Pt)">
+		<category>Games</category>
+		<description>BLES-02211</description>
+		<disk name="Assassin's Creed IV - Black Flag + Assassin's Creed - Rogue (Russia) (En,Pl,Ru,Cs,Hu,Ar).delta.chd" sha1="da7a5d6644814cc893fe24278d2bd01f6d4bd396" />
+	</machine>
+	<machine name="Asura's Wrath (Europe) (En,Ja,Fr,De,Es,It)" cloneof="Asura's Wrath (USA, Korea) (En,Ja,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-01227</description>
+		<disk name="Asura's Wrath (Europe) (En,Ja,Fr,De,Es,It).delta.chd" sha1="21639b222c497b42f3379ae4e70510b9f1cc1229" />
+	</machine>
+	<machine name="Asura's Wrath (Japan) (En,Ja,Fr,De,Es,It)" cloneof="Asura's Wrath (USA, Korea) (En,Ja,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLJM-60409</description>
+		<disk name="Asura's Wrath (Japan) (En,Ja,Fr,De,Es,It).delta.chd" sha1="bd8d419dd3e278b1fa0b5dc9ea43c08e0b648d8e" />
+	</machine>
+	<machine name="Asura's Wrath (USA, Korea) (En,Ja,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLUS-30721</description>
+		<disk name="Asura's Wrath (USA, Korea) (En,Ja,Fr,De,Es,It).chd" sha1="adff7ed902c35d6c7193ce21db1a3742380bce74" />
+	</machine>
+	<machine name="Atelier Ayesha - The Alchemist of Dusk (Europe)" cloneof="Atelier Ayesha - The Alchemist of Dusk (USA)">
+		<category>Games</category>
+		<description>BLES-01793</description>
+		<disk name="Atelier Ayesha - The Alchemist of Dusk (Europe).delta.chd" sha1="5a11838f8f57898515e90799bc5dd9782a0fba2a" />
+	</machine>
+	<machine name="Atelier Ayesha - The Alchemist of Dusk (USA)">
+		<category>Games</category>
+		<description>BLUS-31152</description>
+		<disk name="Atelier Ayesha - The Alchemist of Dusk (USA).chd" sha1="6cdeee1a801a2ac2f4f8e4cf586c26d286a7c8bb" />
+	</machine>
+	<machine name="Atelier Ayesha (Asia)" cloneof="Atelier Ayesha - The Alchemist of Dusk (USA)">
+		<category>Games</category>
+		<description>BLAS-50502</description>
+		<disk name="Atelier Ayesha (Asia).delta.chd" sha1="ce22599125b686c710321299ecd59cc9d98a8cbb" />
+	</machine>
+	<machine name="Atelier Escha &amp; Logy - Alchemists of the Dusk Sky (Europe)" cloneof="Atelier Escha &amp; Logy - Alchemists of the Dusk Sky (USA)">
+		<category>Games</category>
+		<description>BLES-01992</description>
+		<disk name="Atelier Escha &amp; Logy - Alchemists of the Dusk Sky (Europe).delta.chd" sha1="82e0adb2db2d70a5f1a4aaf08b20e5855ae211d7" />
+	</machine>
+	<machine name="Atelier Escha &amp; Logy - Alchemists of the Dusk Sky (USA)">
+		<category>Games</category>
+		<description>BLUS-31391</description>
+		<disk name="Atelier Escha &amp; Logy - Alchemists of the Dusk Sky (USA).chd" sha1="acbddb824912f39a73227ec76a688a77e7d42d9c" />
+	</machine>
+	<machine name="Atelier Meruru - The Apprentice of Arland (Europe)" cloneof="Atelier Meruru - The Apprentice of Arland (USA)">
+		<category>Games</category>
+		<description>BLES-01593</description>
+		<disk name="Atelier Meruru - The Apprentice of Arland (Europe).delta.chd" sha1="b9c96a4f94900aa02f788d44e954fa1e88ab115f" />
+	</machine>
+	<machine name="Atelier Meruru - The Apprentice of Arland (USA)">
+		<category>Games</category>
+		<description>BLUS-30941</description>
+		<disk name="Atelier Meruru - The Apprentice of Arland (USA).chd" sha1="8fe76a4777edeaec3689b51d4b43bc16d21bf7c4" />
+	</machine>
+	<machine name="Atelier Rorona - The Alchemist of Arland (Europe) (En,Fr)" cloneof="Atelier Rorona - The Alchemist of Arland (USA)">
+		<category>Games</category>
+		<description>BLES-01030</description>
+		<disk name="Atelier Rorona - The Alchemist of Arland (Europe) (En,Fr).delta.chd" sha1="c66d1e38eed309c4a46817e3670b3487cdf613b7" />
+	</machine>
+	<machine name="Atelier Rorona - The Alchemist of Arland (USA)">
+		<category>Games</category>
+		<description>BLUS-30465</description>
+		<disk name="Atelier Rorona - The Alchemist of Arland (USA).chd" sha1="07e911de2583a170d7eb6c32ee24f0a1c8d1407a" />
+	</machine>
+	<machine name="Atelier Rorona Plus - The Alchemist of Arland (Europe)" cloneof="Atelier Rorona Plus - The Alchemist of Arland (USA)">
+		<category>Games</category>
+		<description>BLES-02050</description>
+		<disk name="Atelier Rorona Plus - The Alchemist of Arland (Europe).delta.chd" sha1="4fec7b91dd9fcfe6eb41341bf6af2ac15ec6aad2" />
+	</machine>
+	<machine name="Atelier Rorona Plus - The Alchemist of Arland (USA)">
+		<category>Games</category>
+		<description>BLUS-31449</description>
+		<disk name="Atelier Rorona Plus - The Alchemist of Arland (USA).chd" sha1="245398843d5fc74a74770863353c5b006eeff158" />
+	</machine>
+	<machine name="Atelier Shallie - Alchemists of the Dusk Sea (Europe)" cloneof="Atelier Shallie - Alchemists of the Dusk Sea (USA)">
+		<category>Games</category>
+		<description>BLES-02143</description>
+		<disk name="Atelier Shallie - Alchemists of the Dusk Sea (Europe).delta.chd" sha1="9defd06ed9437f42f3a2ac1205568de3d1548c50" />
+	</machine>
+	<machine name="Atelier Shallie - Alchemists of the Dusk Sea (USA)">
+		<category>Games</category>
+		<description>BLUS-31525</description>
+		<disk name="Atelier Shallie - Alchemists of the Dusk Sea (USA).chd" sha1="13142f5459bb3b52501763bd78d7fbf0319796d0" />
+	</machine>
+	<machine name="Atelier Totori - The Adventurer of Arland (Europe)" cloneof="Atelier Totori - The Adventurer of Arland (USA)">
+		<category>Games</category>
+		<description>BLES-01221</description>
+		<disk name="Atelier Totori - The Adventurer of Arland (Europe).delta.chd" sha1="7970570a8683f4a154dd40169e418c4a79c567db" />
+	</machine>
+	<machine name="Atelier Totori - The Adventurer of Arland (USA)">
+		<category>Games</category>
+		<description>BLUS-30735</description>
+		<disk name="Atelier Totori - The Adventurer of Arland (USA).chd" sha1="c8d4f200730863ce060857349ed797cf0cd1b746" />
+	</machine>
+	<machine name="Attouteki Yuugi - Mugen Souls (Japan, Asia)" cloneof="Mugen Souls (USA)">
+		<category>Games</category>
+		<description>BLJM-60456</description>
+		<disk name="Attouteki Yuugi - Mugen Souls (Japan, Asia).delta.chd" sha1="b54c4f8c9b5ddfd53a1670e95ce7a02a22f08daa" />
+	</machine>
+	<machine name="Attouteki Yuugi - Mugen Souls Z (Japan)" cloneof="Mugen Souls Z (USA)">
+		<category>Games</category>
+		<description>BLJM-61028</description>
+		<disk name="Attouteki Yuugi - Mugen Souls Z (Japan).delta.chd" sha1="3b0f82d0245089fab660f2aaac9ae40500f86c13" />
+	</machine>
+	<machine name="Awakened Fate Ultimatum, The (Europe)" cloneof="Awakened Fate Ultimatum, The (USA)">
+		<category>Games</category>
+		<description>BLES-02128</description>
+		<disk name="Awakened Fate Ultimatum, The (Europe).delta.chd" sha1="7fab774d04bc8f87f0c0abc1945f047b557a69d8" />
+	</machine>
+	<machine name="Awakened Fate Ultimatum, The (USA)">
+		<category>Games</category>
+		<description>BLUS-31500</description>
+		<disk name="Awakened Fate Ultimatum, The (USA).chd" sha1="da8b1a69a25fc173bfb1a955a98bf05e6a7841f7" />
+	</machine>
+	<machine name="Ayesha no Atelier - Tasogare no Daichi no Renkinjutsushi (Japan, Asia)" cloneof="Atelier Ayesha - The Alchemist of Dusk (USA)">
+		<category>Games</category>
+		<description>BLJM-60486</description>
+		<disk name="Ayesha no Atelier - Tasogare no Daichi no Renkinjutsushi (Japan, Asia).delta.chd" sha1="59810441db1870ba251ce16342a2da088b6d5f30" />
+	</machine>
+	<machine name="Birds of Steel (Europe) (En,Fr,De,Es,It,Ru)" cloneof="Birds of Steel (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLES-01397</description>
+		<disk name="Birds of Steel (Europe) (En,Fr,De,Es,It,Ru).delta.chd" sha1="3d47db6a7e15ba8279a2698e5e35686a6ba39e7a" />
+	</machine>
+	<machine name="Birds of Steel (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>BLUS-30831</description>
+		<disk name="Birds of Steel (USA) (En,Fr,Es).chd" sha1="632d9f0a9f0e861673dc78cfd74c8a79b39b31dd" />
+	</machine>
+	<machine name="Castlevania - Lords of Shadow 2 (Europe) (En,Fr,De,Es,It,Pt)" cloneof="Castlevania - Lords of Shadow 2 (USA) (En,Fr,De,Es,It,Pt)">
+		<category>Games</category>
+		<description>BLES-01644</description>
+		<disk name="Castlevania - Lords of Shadow 2 (Europe) (En,Fr,De,Es,It,Pt).delta.chd" sha1="d9281c4ee61ea43e60e8f0efcc4ae782033fb8d5" />
+	</machine>
+	<machine name="Castlevania - Lords of Shadow 2 (USA) (En,Fr,De,Es,It,Pt)">
+		<category>Games</category>
+		<description>BLUS-30999</description>
+		<disk name="Castlevania - Lords of Shadow 2 (USA) (En,Fr,De,Es,It,Pt).chd" sha1="8004ffaa4df10fc8b9ad41ecdb6da4ef74483daf" />
+	</machine>
+	<machine name="Escha &amp; Logy no Atelier - Tasogare no Sora no Renkinjutsushi (Japan)" cloneof="Atelier Escha &amp; Logy - Alchemists of the Dusk Sky (USA)">
+		<category>Games</category>
+		<description>BLJM-61050</description>
+		<disk name="Escha &amp; Logy no Atelier - Tasogare no Sora no Renkinjutsushi (Japan).delta.chd" sha1="5dea63af320d9eebd15bd9dde9b6e074bd261c2c" />
+	</machine>
+	<machine name="Ferrari Challenge - Trofeo Pirelli (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-00166</description>
+		<disk name="Ferrari Challenge - Trofeo Pirelli (Europe) (En,Fr,De,Es,It).chd" sha1="106d471d676c77cf35d6fb53e1d6d42e6cb9dbe6" />
+	</machine>
+	<machine name="Ferrari Challenge - Trofeo Pirelli (USA) (En,Fr)">
+		<category>Games</category>
+		<description>BLUS-30162</description>
+		<disk name="Ferrari Challenge - Trofeo Pirelli (USA) (En,Fr).chd" sha1="e02c9a101cab4654af722b30874951d25a6df480" />
+	</machine>
+	<machine name="Ferrari Challenge - Trofeo Pirelli with Supercar Challenge (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-01451</description>
+		<disk name="Ferrari Challenge - Trofeo Pirelli with Supercar Challenge (Europe) (En,Fr,De,Es,It).chd" sha1="92c6e88a905d901b5864f636c82356bce22f99b7" />
+	</machine>
+	<machine name="Hakuna Matata (Asia) (En,Zh,Ko)" cloneof="Afrika (USA)">
+		<category>Games</category>
+		<description>BCAS-20062</description>
+		<disk name="Hakuna Matata (Asia) (En,Zh,Ko).delta.chd" sha1="55f07e5797e4529f981953f74fc1b431148a7c8c" />
+	</machine>
+	<machine name="Hakuna Matata (Asia) (Ja)" cloneof="Afrika (USA)">
+		<category>Games</category>
+		<description>BCAS-20050</description>
+		<disk name="Hakuna Matata (Asia) (Ja).delta.chd" sha1="9603c2e62fca8fc06a1851a40cead3517c105198" />
+	</machine>
+	<machine name="Jeoldae Yogyeok Wars - Metropolis Defenders (Korea)">
+		<category>Games</category>
+		<description>BLKS-20512</description>
+		<disk name="Jeoldae Yogyeok Wars - Metropolis Defenders (Korea).chd" sha1="5f24b5eb3992c3cdd014e66d680905b35bc6acbf" />
+	</machine>
+	<machine name="Max Anarchy (Japan) (En,Ja,Fr,Es,It)" cloneof="Anarchy Reigns (USA) (En,Ja,Fr,Es,It)">
+		<category>Games</category>
+		<description>BLJM-60305</description>
+		<disk name="Max Anarchy (Japan) (En,Ja,Fr,Es,It).delta.chd" sha1="4e179549910f1c19a45bff15ec7fa9b763249ba6" />
+	</machine>
+	<machine name="Meruru no Atelier - Arland no Renkinjutsushi 3 (Japan) (v01.01)" cloneof="Atelier Meruru - The Apprentice of Arland (USA)">
+		<category>Games</category>
+		<description>BLJM-60348</description>
+		<disk name="Meruru no Atelier - Arland no Renkinjutsushi 3 (Japan) (v01.01).delta.chd" sha1="1a2cddc1ff737a952eb6c2ffa46b099ca81ae04f" />
+	</machine>
+	<machine name="Meruru no Atelier - Arland no Renkinjutsushi 3 (Japan, Asia) (v02.00)" cloneof="Atelier Meruru - The Apprentice of Arland (USA)">
+		<category>Games</category>
+		<description>BLJM-60348</description>
+		<disk name="Meruru no Atelier - Arland no Renkinjutsushi 3 (Japan, Asia) (v02.00).delta.chd" sha1="3ef3c2cc46e436e93a11512f06a1a5ccba13ea57" />
+	</machine>
+	<machine name="Mugen Souls (Europe)" cloneof="Mugen Souls (USA)">
+		<category>Games</category>
+		<description>BLES-01723</description>
+		<disk name="Mugen Souls (Europe).delta.chd" sha1="bd7e92047688cc435a09b476698fa7a840b4e8b4" />
+	</machine>
+	<machine name="Mugen Souls (USA)">
+		<category>Games</category>
+		<description>BLUS-31007</description>
+		<disk name="Mugen Souls (USA).chd" sha1="42871ff7994067cf40ab8623362510ca5c746916" />
+	</machine>
+	<machine name="Mugen Souls Z (Europe)" cloneof="Mugen Souls Z (USA)">
+		<category>Games</category>
+		<description>BLES-02022</description>
+		<disk name="Mugen Souls Z (Europe).delta.chd" sha1="0454e32d881bccca5b56e0c85b59e2856a4c4fee" />
+	</machine>
+	<machine name="Mugen Souls Z (USA)">
+		<category>Games</category>
+		<description>BLUS-31417</description>
+		<disk name="Mugen Souls Z (USA).chd" sha1="4673f713414ecbe19edaeef383c173ce33f12fa9" />
+	</machine>
+	<machine name="Novyj Chelovek-Pauk (Russia)">
+		<category>Games</category>
+		<description>BLES-01618</description>
+		<disk name="Novyj Chelovek-Pauk (Russia).chd" sha1="a65777515ed27caf470b7cd5bed0b4c3d4cd0c65" />
+	</machine>
+	<machine name="Record of Agarest War (Korea)" cloneof="Agarest - Generations of War (Europe)">
+		<category>Games</category>
+		<description>BLKS-20063</description>
+		<disk name="Record of Agarest War (Korea).delta.chd" sha1="a16b74a9e5214199f94c2a749f13cb37848df4c8" />
+	</machine>
+	<machine name="Record of Agarest War 2 (Korea)" cloneof="Record of Agarest War 2 (USA)">
+		<category>Games</category>
+		<description>BLKS-20300</description>
+		<disk name="Record of Agarest War 2 (Korea).delta.chd" sha1="70e9b896446f58a5984eb9d9be7210ccb9a34266" />
+	</machine>
+	<machine name="Record of Agarest War 2 (USA)">
+		<category>Games</category>
+		<description>BLUS-30881</description>
+		<disk name="Record of Agarest War 2 (USA).chd" sha1="2280f4414eec59885992820dfcced2cec6d75201" />
+	</machine>
+	<machine name="Record of Agarest War Zero (USA)">
+		<category>Games</category>
+		<description>BLUS-30686</description>
+		<disk name="Record of Agarest War Zero (USA).chd" sha1="893b61c12b9925165d87a855a541edba6c33244e" />
+	</machine>
+	<machine name="Rorona no Atelier - Arland no Renkinjutsushi (Japan)" cloneof="Atelier Rorona - The Alchemist of Arland (USA)">
+		<category>Games</category>
+		<description>BLJM-60154</description>
+		<disk name="Rorona no Atelier - Arland no Renkinjutsushi (Japan).delta.chd" sha1="733ca3d5cef6c2f1f0e957c5c4574669fab9818b" />
+	</machine>
+	<machine name="Rorona no Atelier - Arland no Renkinjutsushi (Japan, Asia) (PlayStation 3 the Best)" cloneof="Atelier Rorona - The Alchemist of Arland (USA)">
+		<category>Games</category>
+		<description>BLJM-55018</description>
+		<disk name="Rorona no Atelier - Arland no Renkinjutsushi (Japan, Asia) (PlayStation 3 the Best).delta.chd" sha1="bbd12020c9feb80d067ecb24ecd0ff495677c5dc" />
+	</machine>
+	<machine name="Shallie no Atelier - Tasogare no Umi no Renkinjutsushi (Japan)" cloneof="Atelier Shallie - Alchemists of the Dusk Sea (USA)">
+		<category>Games</category>
+		<description>BLJM-61192</description>
+		<disk name="Shallie no Atelier - Tasogare no Umi no Renkinjutsushi (Japan).delta.chd" sha1="34de219976ff27a4ac9a27eb0019416bfba889a3" />
+	</machine>
+	<machine name="Shin Rorona no Atelier - Hajimari no Monogatari - Arland no Renkinjutsushi (Japan, Asia)">
+		<category>Games</category>
+		<description>BLJM-61127</description>
+		<disk name="Shin Rorona no Atelier - Hajimari no Monogatari - Arland no Renkinjutsushi (Japan, Asia).chd" sha1="8e4698deb1b42fee749eeda960697f4027422c15" />
+	</machine>
+	<machine name="Supercar Challenge (Europe) (En,Fr,De,Es,It)" cloneof="Absolute Supercars (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>BLES-00581</description>
+		<disk name="Supercar Challenge (Europe) (En,Fr,De,Es,It).delta.chd" sha1="2101758f8ed8a65853bc779330c938786af016ba" />
+	</machine>
+	<machine name="Totori no Atelier - Arland no Renkinjutsushi 2 (Japan, Asia)" cloneof="Atelier Totori - The Adventurer of Arland (USA)">
+		<category>Games</category>
+		<description>BLJM-60241</description>
+		<disk name="Totori no Atelier - Arland no Renkinjutsushi 2 (Japan, Asia).delta.chd" sha1="69a38659fd0c58996d8c85fe3d5826e284d7a6dd" />
+	</machine>
+	<machine name="Zettai Geigeki Wars - Metropolis Defenders (Japan)">
+		<category>Games</category>
+		<description>BLJM-61238</description>
+		<disk name="Zettai Geigeki Wars - Metropolis Defenders (Japan).chd" sha1="2d94c057abde0031f7054edb571b40b0ea3fdf43" />
+	</machine>
+</datafile>

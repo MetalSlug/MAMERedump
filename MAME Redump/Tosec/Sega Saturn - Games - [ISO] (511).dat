@@ -109,7 +109,7 @@
 		<description>Blam! -Machinehead v1.000 (1996)(Eidos)(PAL)(DE)[!]</description>
 		<disk name="Blam! -Machinehead v1.000 (1996)(Eidos)(PAL)(DE)[!].chd" sha1="2d4f67ff323db6c09e37f07bf3f33a7eac00adc9" />
 	</machine>
-	<machine name="Blam! -Machinehead v1.000 (1996)(Eidos)(PAL)[!]" cloneof="Blam! -Machinehead v1.000 (1996)(Eidos)(PAL)(DE)[!]">
+	<machine name="Blam! -Machinehead v1.000 (1996)(Eidos)(PAL)[!]">
 		<description>Blam! -Machinehead v1.000 (1996)(Eidos)(PAL)[!]</description>
 		<disk name="Blam! -Machinehead v1.000 (1996)(Eidos)(PAL)[!].chd" sha1="879dbf627bcc397e6118a66cec530caa555c7368" />
 	</machine>
@@ -477,7 +477,7 @@
 		<description>Doukyuusei - if v1.001 (1996)(NEC InterChannel)(JP)[!][T-20102GP-00945 2M2, 2MM1]</description>
 		<disk name="Doukyuusei - if v1.001 (1996)(NEC InterChannel)(JP)[!][T-20102GP-00945 2M2, 2MM1].chd" sha1="25413e623f93ee687bf2fb0d355a118c6aa93b74" />
 	</machine>
-	<machine name="Doukyuusei - if v1.001 (1996)(NEC InterChannel)(JP)[!][T-20102GP-00945 3M2, 3MB2]" cloneof="Doukyuusei - if v1.001 (1996)(NEC InterChannel)(JP)[!][T-20102GP-00945 2M2, 2MM1]">
+	<machine name="Doukyuusei - if v1.001 (1996)(NEC InterChannel)(JP)[!][T-20102GP-00945 3M2, 3MB2]">
 		<description>Doukyuusei - if v1.001 (1996)(NEC InterChannel)(JP)[!][T-20102GP-00945 3M2, 3MB2]</description>
 		<disk name="Doukyuusei - if v1.001 (1996)(NEC InterChannel)(JP)[!][T-20102GP-00945 3M2, 3MB2].chd" sha1="3bcc45a1c2079ee0bbe6f0b0f5df3499b47549fe" />
 	</machine>
@@ -525,11 +525,11 @@
 		<description>Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 1 of 4)[!][Disk-0 - Opening Disk][T-30001GP-01270 2M3]</description>
 		<disk name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 1 of 4)[!][Disk-0 - Opening Disk][T-30001GP-01270 2M3].chd" sha1="b34c11dd0da45e4347f922bde2a2d10e591c7c7f" />
 	</machine>
-	<machine name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 1 of 4)[!][Disk-0 - Opening Disk][T-30001GP-01270-P1K]" cloneof="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 1 of 4)[!][Disk-0 - Opening Disk][T-30001GP-01270 2M3]">
+	<machine name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 1 of 4)[!][Disk-0 - Opening Disk][T-30001GP-01270-P1K]">
 		<description>Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 1 of 4)[!][Disk-0 - Opening Disk][T-30001GP-01270-P1K]</description>
 		<disk name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 1 of 4)[!][Disk-0 - Opening Disk][T-30001GP-01270-P1K].chd" sha1="ca050dda18a33e5f4cdb5ac7e3ed57a7768237d7" />
 	</machine>
-	<machine name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 1 of 4)[!][Disk-0 - Opening Disk][T-30001GP-01270-P2K]" cloneof="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 1 of 4)[!][Disk-0 - Opening Disk][T-30001GP-01270 2M3]">
+	<machine name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 1 of 4)[!][Disk-0 - Opening Disk][T-30001GP-01270-P2K]">
 		<description>Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 1 of 4)[!][Disk-0 - Opening Disk][T-30001GP-01270-P2K]</description>
 		<disk name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 1 of 4)[!][Disk-0 - Opening Disk][T-30001GP-01270-P2K].chd" sha1="6f240462e06ffc8e12360c07545d1895b1fc391c" />
 	</machine>
@@ -537,7 +537,7 @@
 		<description>Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 2 of 4)[!][Disk-1 - Game Disk][T-30001GP-01271-P1K]</description>
 		<disk name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 2 of 4)[!][Disk-1 - Game Disk][T-30001GP-01271-P1K].chd" sha1="b64347d0b830cb8db584d4dd2ac2ad407df45650" />
 	</machine>
-	<machine name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 2 of 4)[!][Disk-1 - Game Disk][T-30001GP-01271-P2K]" cloneof="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 2 of 4)[!][Disk-1 - Game Disk][T-30001GP-01271-P1K]">
+	<machine name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 2 of 4)[!][Disk-1 - Game Disk][T-30001GP-01271-P2K]">
 		<description>Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 2 of 4)[!][Disk-1 - Game Disk][T-30001GP-01271-P2K]</description>
 		<disk name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 2 of 4)[!][Disk-1 - Game Disk][T-30001GP-01271-P2K].chd" sha1="70ae65485f3f2a3f115e67528931984441ad1c12" />
 	</machine>
@@ -545,7 +545,7 @@
 		<description>Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 3 of 4)[!][Disk-2 - Game Disk][T-30001GP-01272 2MB5, 2MM1]</description>
 		<disk name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 3 of 4)[!][Disk-2 - Game Disk][T-30001GP-01272 2MB5, 2MM1].chd" sha1="f32406c689ead681916692002bc8ad1d9303d9c1" />
 	</machine>
-	<machine name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 3 of 4)[!][Disk-2 - Game Disk][T-30001GP-01272-P1C, P2C]" cloneof="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 3 of 4)[!][Disk-2 - Game Disk][T-30001GP-01272 2MB5, 2MM1]">
+	<machine name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 3 of 4)[!][Disk-2 - Game Disk][T-30001GP-01272-P1C, P2C]">
 		<description>Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 3 of 4)[!][Disk-2 - Game Disk][T-30001GP-01272-P1C, P2C]</description>
 		<disk name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 3 of 4)[!][Disk-2 - Game Disk][T-30001GP-01272-P1C, P2C].chd" sha1="feb9e117601e31886cf93fca6bae2a648ead5152" />
 	</machine>
@@ -553,11 +553,11 @@
 		<description>Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 4 of 4)[!][Disk-3 - Game Disk][T-30001GP-01273 1M1]</description>
 		<disk name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 4 of 4)[!][Disk-3 - Game Disk][T-30001GP-01273 1M1].chd" sha1="bc1bd68cb2ed448baaf95c7b33d932aae0a81288" />
 	</machine>
-	<machine name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 4 of 4)[!][Disk-3 - Game Disk][T-30001GP-01273 1MM1, 4M1]" cloneof="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 4 of 4)[!][Disk-3 - Game Disk][T-30001GP-01273 1M1]">
+	<machine name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 4 of 4)[!][Disk-3 - Game Disk][T-30001GP-01273 1MM1, 4M1]">
 		<description>Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 4 of 4)[!][Disk-3 - Game Disk][T-30001GP-01273 1MM1, 4M1]</description>
 		<disk name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 4 of 4)[!][Disk-3 - Game Disk][T-30001GP-01273 1MM1, 4M1].chd" sha1="480e9f2077ff2634428219272ae26b3c4cadc6af" />
 	</machine>
-	<machine name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 4 of 4)[!][Disk-3 - Game Disk][T-30001GP-01273-P1K]" cloneof="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 4 of 4)[!][Disk-3 - Game Disk][T-30001GP-01273 1M1]">
+	<machine name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 4 of 4)[!][Disk-3 - Game Disk][T-30001GP-01273-P1K]">
 		<description>Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 4 of 4)[!][Disk-3 - Game Disk][T-30001GP-01273-P1K]</description>
 		<disk name="Enemy Zero v1.000 (1996)(Warp)(JP)(Disc 4 of 4)[!][Disk-3 - Game Disk][T-30001GP-01273-P1K].chd" sha1="fe4299dedd30ebe1cc4d19ceab8b6949030db44e" />
 	</machine>
@@ -725,7 +725,7 @@
 		<description>Greatest Nine '96 v1.013 (1996)(Sega)(JP)[!][GS-9086P-00922 1M2]</description>
 		<disk name="Greatest Nine '96 v1.013 (1996)(Sega)(JP)[!][GS-9086P-00922 1M2].chd" sha1="647b84b70b7c8d8944c1b4f0978ec9eb8d485def" />
 	</machine>
-	<machine name="Greatest Nine '96 v1.013 (1996)(Sega)(JP)[!][GS-9086P-00922 2MB1]" cloneof="Greatest Nine '96 v1.013 (1996)(Sega)(JP)[!][GS-9086P-00922 1M2]">
+	<machine name="Greatest Nine '96 v1.013 (1996)(Sega)(JP)[!][GS-9086P-00922 2MB1]">
 		<description>Greatest Nine '96 v1.013 (1996)(Sega)(JP)[!][GS-9086P-00922 2MB1]</description>
 		<disk name="Greatest Nine '96 v1.013 (1996)(Sega)(JP)[!][GS-9086P-00922 2MB1].chd" sha1="a0f446d76247c7e5e940b94b10dd80a41721061a" />
 	</machine>
@@ -869,7 +869,7 @@
 		<description>Kakyuusei v1.002 (1997)(elf)(JP)(Disc 1 of 3)[!][T-28002GP-01484 1M3]</description>
 		<disk name="Kakyuusei v1.002 (1997)(elf)(JP)(Disc 1 of 3)[!][T-28002GP-01484 1M3].chd" sha1="20f1a27c4cc829446148265adebe6ce1e86599b4" />
 	</machine>
-	<machine name="Kakyuusei v1.002 (1997)(elf)(JP)(Disc 1 of 3)[!][T-28002GP-01484 2M5, 2MB2]" cloneof="Kakyuusei v1.002 (1997)(elf)(JP)(Disc 1 of 3)[!][T-28002GP-01484 1M3]">
+	<machine name="Kakyuusei v1.002 (1997)(elf)(JP)(Disc 1 of 3)[!][T-28002GP-01484 2M5, 2MB2]">
 		<description>Kakyuusei v1.002 (1997)(elf)(JP)(Disc 1 of 3)[!][T-28002GP-01484 2M5, 2MB2]</description>
 		<disk name="Kakyuusei v1.002 (1997)(elf)(JP)(Disc 1 of 3)[!][T-28002GP-01484 2M5, 2MB2].chd" sha1="2cbdd252768d18d9cd6fca764cfde867eef6b0d4" />
 	</machine>
@@ -949,7 +949,7 @@
 		<description>Loaded v1.001 (1996)(Gremlin)(PAL)(M3)[!][T-12301HP-00963 A]</description>
 		<disk name="Loaded v1.001 (1996)(Gremlin)(PAL)(M3)[!][T-12301HP-00963 A].chd" sha1="3e54bc50fda094e5e3b7d4c5d61f598980767e8f" />
 	</machine>
-	<machine name="Loaded v1.001 (1996)(Gremlin)(PAL)(M3)[!][T-12301HP-00963 B]" cloneof="Loaded v1.001 (1996)(Gremlin)(PAL)(M3)[!][T-12301HP-00963 A]">
+	<machine name="Loaded v1.001 (1996)(Gremlin)(PAL)(M3)[!][T-12301HP-00963 B]">
 		<description>Loaded v1.001 (1996)(Gremlin)(PAL)(M3)[!][T-12301HP-00963 B]</description>
 		<disk name="Loaded v1.001 (1996)(Gremlin)(PAL)(M3)[!][T-12301HP-00963 B].chd" sha1="4af0c05ffa9d055c524b758dd28a1fdf806a18ae" />
 	</machine>
@@ -1173,7 +1173,7 @@
 		<description>Olympic Soccer v2.000 (1994)(U.S. Gold)(PAL)(DE)[!]</description>
 		<disk name="Olympic Soccer v2.000 (1994)(U.S. Gold)(PAL)(DE)[!].chd" sha1="c2d133b952d70c6f20d9293ca205ec1c4fb3c181" />
 	</machine>
-	<machine name="Olympic Soccer v2.000 (1994)(U.S. Gold)(PAL)(M5)[!]" cloneof="Olympic Soccer v2.000 (1994)(U.S. Gold)(PAL)(DE)[!]">
+	<machine name="Olympic Soccer v2.000 (1994)(U.S. Gold)(PAL)(M5)[!]">
 		<description>Olympic Soccer v2.000 (1994)(U.S. Gold)(PAL)(M5)[!]</description>
 		<disk name="Olympic Soccer v2.000 (1994)(U.S. Gold)(PAL)(M5)[!].chd" sha1="e3c4bd1eede5adc53c0f72e5537fd99b170c1ce7" />
 	</machine>
@@ -1285,7 +1285,7 @@
 		<description>Puyo Puyo 2 - Tsuu v1.200 (1995)(Compile)(JP)[!][T-6601GP-00504 1M2, 1MM1]</description>
 		<disk name="Puyo Puyo 2 - Tsuu v1.200 (1995)(Compile)(JP)[!][T-6601GP-00504 1M2, 1MM1].chd" sha1="eaa8b07daaf1de201e101e601375b1299327366c" />
 	</machine>
-	<machine name="Puyo Puyo 2 - Tsuu v1.200 (1995)(Compile)(JP)[!][T-6601GP-00504 3M2, 3MB3, 3MM1]" cloneof="Puyo Puyo 2 - Tsuu v1.200 (1995)(Compile)(JP)[!][T-6601GP-00504 1M2, 1MM1]">
+	<machine name="Puyo Puyo 2 - Tsuu v1.200 (1995)(Compile)(JP)[!][T-6601GP-00504 3M2, 3MB3, 3MM1]">
 		<description>Puyo Puyo 2 - Tsuu v1.200 (1995)(Compile)(JP)[!][T-6601GP-00504 3M2, 3MB3, 3MM1]</description>
 		<disk name="Puyo Puyo 2 - Tsuu v1.200 (1995)(Compile)(JP)[!][T-6601GP-00504 3M2, 3MB3, 3MM1].chd" sha1="55e7e347d5ac7dddc9c27fed41541e047e19252f" />
 	</machine>
@@ -1341,7 +1341,7 @@
 		<description>Riglordsaga 2 v1.100 (1996)(Sega)(JP)[!][GS-9084P-01101 1M2, 1MM1]</description>
 		<disk name="Riglordsaga 2 v1.100 (1996)(Sega)(JP)[!][GS-9084P-01101 1M2, 1MM1].chd" sha1="32e4fa74f4ee3f410d459e00698f60d5a352d729" />
 	</machine>
-	<machine name="Riglordsaga 2 v1.100 (1996)(Sega)(JP)[!][GS-9084P-01101 2M1, 2MB1]" cloneof="Riglordsaga 2 v1.100 (1996)(Sega)(JP)[!][GS-9084P-01101 1M2, 1MM1]">
+	<machine name="Riglordsaga 2 v1.100 (1996)(Sega)(JP)[!][GS-9084P-01101 2M1, 2MB1]">
 		<description>Riglordsaga 2 v1.100 (1996)(Sega)(JP)[!][GS-9084P-01101 2M1, 2MB1]</description>
 		<disk name="Riglordsaga 2 v1.100 (1996)(Sega)(JP)[!][GS-9084P-01101 2M1, 2MB1].chd" sha1="0d162ce331fd82fa5fd52a6363c6c98a8861baf7" />
 	</machine>
@@ -1401,7 +1401,7 @@
 		<description>Sakura Taisen v1.005 (1996)(Sega)(JP)(Disc 1 of 2)[!][GS-9037P-00958 6M1, 6MB5]</description>
 		<disk name="Sakura Taisen v1.005 (1996)(Sega)(JP)(Disc 1 of 2)[!][GS-9037P-00958 6M1, 6MB5].chd" sha1="aaeb417474b1a12589ba90200bbd809d19c165f7" />
 	</machine>
-	<machine name="Sakura Taisen v1.005 (1996)(Sega)(JP)(Disc 1 of 2)[!][GS-9037P-00958 8MB1, 8MB6]" cloneof="Sakura Taisen v1.005 (1996)(Sega)(JP)(Disc 1 of 2)[!][GS-9037P-00958 6M1, 6MB5]">
+	<machine name="Sakura Taisen v1.005 (1996)(Sega)(JP)(Disc 1 of 2)[!][GS-9037P-00958 8MB1, 8MB6]">
 		<description>Sakura Taisen v1.005 (1996)(Sega)(JP)(Disc 1 of 2)[!][GS-9037P-00958 8MB1, 8MB6]</description>
 		<disk name="Sakura Taisen v1.005 (1996)(Sega)(JP)(Disc 1 of 2)[!][GS-9037P-00958 8MB1, 8MB6].chd" sha1="d714ed573c1670cfdce820caee55c2e450525eb4" />
 	</machine>
@@ -1469,7 +1469,7 @@
 		<description>Sentimental Graffiti v1.000 (1997)(NEC InterChannel)(JP)(Disc 2 of 2)[!][T-20106GP-02076 5MB3, 5MM1]</description>
 		<disk name="Sentimental Graffiti v1.000 (1997)(NEC InterChannel)(JP)(Disc 2 of 2)[!][T-20106GP-02076 5MB3, 5MM1].chd" sha1="9708ff74b6acc10d19f26f11fdaa8ed636adb546" />
 	</machine>
-	<machine name="Sentimental Graffiti v1.000 (1997)(NEC InterChannel)(JP)(Disc 2 of 2)[!][T-20106GP-02076 6MB1]" cloneof="Sentimental Graffiti v1.000 (1997)(NEC InterChannel)(JP)(Disc 2 of 2)[!][T-20106GP-02076 5MB3, 5MM1]">
+	<machine name="Sentimental Graffiti v1.000 (1997)(NEC InterChannel)(JP)(Disc 2 of 2)[!][T-20106GP-02076 6MB1]">
 		<description>Sentimental Graffiti v1.000 (1997)(NEC InterChannel)(JP)(Disc 2 of 2)[!][T-20106GP-02076 6MB1]</description>
 		<disk name="Sentimental Graffiti v1.000 (1997)(NEC InterChannel)(JP)(Disc 2 of 2)[!][T-20106GP-02076 6MB1].chd" sha1="4ca8f741309d6e3e516b8356ef877a7c2140a12f" />
 	</machine>
@@ -1493,7 +1493,7 @@
 		<description>Shining Wisdom v1.000 (1995)(Sega)(JP)[!][GS-9057P-00416A-P1K]</description>
 		<disk name="Shining Wisdom v1.000 (1995)(Sega)(JP)[!][GS-9057P-00416A-P1K].chd" sha1="b2a105818c38ac491d22d733ec61657aff959e0c" />
 	</machine>
-	<machine name="Shining Wisdom v1.000 (1995)(Sega)(JP)[!][GS-9057P-00416A-P2K]" cloneof="Shining Wisdom v1.000 (1995)(Sega)(JP)[!][GS-9057P-00416A-P1K]">
+	<machine name="Shining Wisdom v1.000 (1995)(Sega)(JP)[!][GS-9057P-00416A-P2K]">
 		<description>Shining Wisdom v1.000 (1995)(Sega)(JP)[!][GS-9057P-00416A-P2K]</description>
 		<disk name="Shining Wisdom v1.000 (1995)(Sega)(JP)[!][GS-9057P-00416A-P2K].chd" sha1="20f3835cfb32639e9742fd87a6e082e74e0c8467" />
 	</machine>
@@ -1665,7 +1665,7 @@
 		<description>Super Robot Taisen F - Kanketsu-hen v1.003 (1998)(Banpresto)(JP)[!][T-20612GP-02239 1MC2, 5M1, 5M2]</description>
 		<disk name="Super Robot Taisen F - Kanketsu-hen v1.003 (1998)(Banpresto)(JP)[!][T-20612GP-02239 1MC2, 5M1, 5M2].chd" sha1="52d14eaf3ef39015ac98e9f7148869b8a3749314" />
 	</machine>
-	<machine name="Super Robot Taisen F - Kanketsu-hen v1.003 (1998)(Banpresto)(JP)[!][T-20612GP-02239 3M1, 3M2, 3MB4]" cloneof="Super Robot Taisen F - Kanketsu-hen v1.003 (1998)(Banpresto)(JP)[!][T-20612GP-02239 1MC2, 5M1, 5M2]">
+	<machine name="Super Robot Taisen F - Kanketsu-hen v1.003 (1998)(Banpresto)(JP)[!][T-20612GP-02239 3M1, 3M2, 3MB4]">
 		<description>Super Robot Taisen F - Kanketsu-hen v1.003 (1998)(Banpresto)(JP)[!][T-20612GP-02239 3M1, 3M2, 3MB4]</description>
 		<disk name="Super Robot Taisen F - Kanketsu-hen v1.003 (1998)(Banpresto)(JP)[!][T-20612GP-02239 3M1, 3M2, 3MB4].chd" sha1="627f8c2730aeaa353a85ae8f96b944a829148367" />
 	</machine>

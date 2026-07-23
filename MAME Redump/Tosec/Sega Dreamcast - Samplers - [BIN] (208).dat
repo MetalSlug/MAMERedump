@@ -119,7 +119,7 @@
 		<description>Dorimaga GD Vol. 10 v1.001 (2000)(Softbank)(JP)[!][1M2]</description>
 		<disk name="Dorimaga GD Vol. 10 v1.001 (2000)(Softbank)(JP)[!][1M2].chd" sha1="9794c1ade6641b73014f0a5a9f47434f402f3fa5" />
 	</machine>
-	<machine name="Dorimaga GD Vol. 10 v1.001 (2000)(Softbank)(JP)[!][2M2]" cloneof="Dorimaga GD Vol. 10 v1.001 (2000)(Softbank)(JP)[!][1M2]">
+	<machine name="Dorimaga GD Vol. 10 v1.001 (2000)(Softbank)(JP)[!][2M2]">
 		<description>Dorimaga GD Vol. 10 v1.001 (2000)(Softbank)(JP)[!][2M2]</description>
 		<disk name="Dorimaga GD Vol. 10 v1.001 (2000)(Softbank)(JP)[!][2M2].chd" sha1="46519aee7517d1db907c8c0cb8440dee1651a32e" />
 	</machine>
@@ -511,11 +511,11 @@
 		<manufacturer>Acclaim</manufacturer>
 		<disk name="Fur Fighters v1.000 (demo) (2000)(Acclaim)(PAL)[!][DC-UK Issue 10].chd" sha1="40f10b9c4d9ad0c6a303d5eb325c8408ae340a1d" />
 	</machine>
-	<machine name="Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][14S]" cloneof="Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][2MB13, 2MB14, 2MB32]">
+	<machine name="Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][14S]">
 		<description>Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][14S]</description>
 		<disk name="Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][14S].chd" sha1="c99d8bb14da1c84c818d4a3591a3b795403f6755" />
 	</machine>
-	<machine name="Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][1M5, 1MM1]" cloneof="Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][2MB13, 2MB14, 2MB32]">
+	<machine name="Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][1M5, 1MM1]">
 		<description>Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][1M5, 1MM1]</description>
 		<year>1999</year>
 		<manufacturer>Sega</manufacturer>
@@ -527,19 +527,19 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][2MB13, 2MB14, 2MB32].chd" sha1="40f4d88c9b57a1ce13d37fed47fb90eb74f4f7e8" />
 	</machine>
-	<machine name="Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][2MB3, 7MM1]" cloneof="Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][2MB13, 2MB14, 2MB32]">
+	<machine name="Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][2MB3, 7MM1]">
 		<description>Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][2MB3, 7MM1]</description>
 		<year>1999</year>
 		<manufacturer>Sega</manufacturer>
 		<disk name="Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][2MB3, 7MM1].chd" sha1="02bfb8debf9e457436459a1cb922f6ec5246303e" />
 	</machine>
-	<machine name="Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][5M2, 5M3]" cloneof="Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][2MB13, 2MB14, 2MB32]">
+	<machine name="Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][5M2, 5M3]">
 		<description>Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][5M2, 5M3]</description>
 		<year>1999</year>
 		<manufacturer>Sega</manufacturer>
 		<disk name="Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][5M2, 5M3].chd" sha1="a557feecc41fb80a7ed94acf46567d41a91f27d4" />
 	</machine>
-	<machine name="Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][8MB1, 8MB4]" cloneof="Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][2MB13, 2MB14, 2MB32]">
+	<machine name="Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][8MB1, 8MB4]">
 		<description>Generator Vol. 1 v1.002 (1999)(Sega)(US)[!][8MB1, 8MB4]</description>
 		<year>1999</year>
 		<manufacturer>Sega</manufacturer>
@@ -555,27 +555,27 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][%MK-51057].chd" sha1="7574751019bc0aad4e00c9192827bc3308537c92" />
 	</machine>
-	<machine name="Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][14M1, 14M2, 14M3, 14M5]" cloneof="Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][%MK-51057]">
+	<machine name="Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][14M1, 14M2, 14M3, 14M5]">
 		<description>Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][14M1, 14M2, 14M3, 14M5]</description>
 		<year>2000</year>
 		<manufacturer>Sega</manufacturer>
 		<disk name="Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][14M1, 14M2, 14M3, 14M5].chd" sha1="a9abc6c837fd56ca67589ea8f89b49bb86306a27" />
 	</machine>
-	<machine name="Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][15M4]" cloneof="Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][%MK-51057]">
+	<machine name="Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][15M4]">
 		<description>Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][15M4]</description>
 		<disk name="Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][15M4].chd" sha1="2af822f37694dbe736741a6358881b1f73940491" />
 	</machine>
-	<machine name="Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][1M2]" cloneof="Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][%MK-51057]">
+	<machine name="Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][1M2]">
 		<description>Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][1M2]</description>
 		<disk name="Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][1M2].chd" sha1="b26eb36ebf0ee5163efd9235caf01bc06ce387c0" />
 	</machine>
-	<machine name="Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][6M2, 6M8]" cloneof="Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][%MK-51057]">
+	<machine name="Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][6M2, 6M8]">
 		<description>Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][6M2, 6M8]</description>
 		<year>2000</year>
 		<manufacturer>Sega</manufacturer>
 		<disk name="Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][6M2, 6M8].chd" sha1="cdac7ef5c86154a3b11724d70845b57aee6dfcfe" />
 	</machine>
-	<machine name="Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][8MM1]" cloneof="Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][%MK-51057]">
+	<machine name="Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][8MM1]">
 		<description>Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][8MM1]</description>
 		<disk name="Generator Vol. 2 v1.000 (2000)(Sega)(US)[!][8MM1].chd" sha1="808926eb7a5eddf0ca7a48006901ee58998167d2" />
 	</machine>
@@ -669,7 +669,7 @@
 		<description>Marvel vs. Capcom 2 - New Age of Heroes Tentou Taikenban v1.001 (2000)(Capcom)(JP)[!]</description>
 		<disk name="Marvel vs. Capcom 2 - New Age of Heroes Tentou Taikenban v1.001 (2000)(Capcom)(JP)[!].chd" sha1="cef8fb299d392dce5a960d113abdb042f5cf8822" />
 	</machine>
-	<machine name="MDK 2 v1.000 (2000)(Interplay)(PAL)[!][White Label]" cloneof="MDK 2 v1.100 (2000)(Interplay)(US)[!]">
+	<machine name="MDK 2 v1.000 (2000)(Interplay)(PAL)[!][White Label]">
 		<description>MDK 2 v1.000 (2000)(Interplay)(PAL)[!][White Label]</description>
 		<disk name="MDK 2 v1.000 (2000)(Interplay)(PAL)[!][White Label].chd" sha1="8501c4f1d00d1c5c48b416a573e6d68288615e5c" />
 	</machine>
@@ -707,7 +707,7 @@
 		<description>Official Sega Dreamcast Magazine Vol. 2 v1.020 (1999)(Sega)(US)[!][Nov 1999][1M1, 1MB2, 1MB3]</description>
 		<disk name="Official Sega Dreamcast Magazine Vol. 2 v1.020 (1999)(Sega)(US)[!][Nov 1999][1M1, 1MB2, 1MB3].chd" sha1="c12354e161b98e5c271f5ab43334da3e1f59b519" />
 	</machine>
-	<machine name="Official Sega Dreamcast Magazine Vol. 2 v1.020 (1999)(Sega)(US)[!][Nov 1999][2M3, 2MM1]" cloneof="Official Sega Dreamcast Magazine Vol. 2 v1.020 (1999)(Sega)(US)[!][Nov 1999][1M1, 1MB2, 1MB3]">
+	<machine name="Official Sega Dreamcast Magazine Vol. 2 v1.020 (1999)(Sega)(US)[!][Nov 1999][2M3, 2MM1]">
 		<description>Official Sega Dreamcast Magazine Vol. 2 v1.020 (1999)(Sega)(US)[!][Nov 1999][2M3, 2MM1]</description>
 		<disk name="Official Sega Dreamcast Magazine Vol. 2 v1.020 (1999)(Sega)(US)[!][Nov 1999][2M3, 2MM1].chd" sha1="177a79c3ab2624a9afeb5e74d437e9935aebfba5" />
 	</machine>
@@ -875,7 +875,7 @@
 		<description>Sonic Adventure 2 - The Trial v1.000 (2000)(Sega)(JP)(en-ja)[!][1M1, 1M2, 1M4, 1MM1][Phantasy Star Online, HDR-0129]</description>
 		<disk name="Sonic Adventure 2 - The Trial v1.000 (2000)(Sega)(JP)(en-ja)[!][1M1, 1M2, 1M4, 1MM1][Phantasy Star Online, HDR-0129].chd" sha1="ebb9672c2d77b165072e5f6b3341e546c9879035" />
 	</machine>
-	<machine name="Sonic Adventure 2 - The Trial v1.000 (2000)(Sega)(US)(en-ja)[!][2S 51100-2S][Phantasy Star Online, 51100]" cloneof="Sonic Adventure 2 - The Trial v1.000 (2000)(Sega)(JP)(en-ja)[!][1M1, 1M2, 1M4, 1MM1][Phantasy Star Online, HDR-0129]">
+	<machine name="Sonic Adventure 2 - The Trial v1.000 (2000)(Sega)(US)(en-ja)[!][2S 51100-2S][Phantasy Star Online, 51100]">
 		<description>Sonic Adventure 2 - The Trial v1.000 (2000)(Sega)(US)(en-ja)[!][2S 51100-2S][Phantasy Star Online, 51100]</description>
 		<disk name="Sonic Adventure 2 - The Trial v1.000 (2000)(Sega)(US)(en-ja)[!][2S 51100-2S][Phantasy Star Online, 51100].chd" sha1="5e1ed38038209509f5b470328c3e2dd5e5bcd100" />
 	</machine>
@@ -903,7 +903,7 @@
 		<description>Space Channel 5 v1.000 (2000)(Sega)(PAL)(M4)[!][White Label]</description>
 		<disk name="Space Channel 5 v1.000 (2000)(Sega)(PAL)(M4)[!][White Label].chd" sha1="2b82526b299abbbf0418eb3055daaeebc2d1d082" />
 	</machine>
-	<machine name="Star Gladiator 2 - Nightmare of Bilstein Tentou Taikenban v1.000 (1999)(Capcom)(JP)(en)[!]" cloneof="Star Gladiator 2 - Nightmare of Bilstein v1.002 (1999)(Capcom)(JP)[!]">
+	<machine name="Star Gladiator 2 - Nightmare of Bilstein Tentou Taikenban v1.000 (1999)(Capcom)(JP)(en)[!]">
 		<description>Star Gladiator 2 - Nightmare of Bilstein Tentou Taikenban v1.000 (1999)(Capcom)(JP)(en)[!]</description>
 		<disk name="Star Gladiator 2 - Nightmare of Bilstein Tentou Taikenban v1.000 (1999)(Capcom)(JP)(en)[!].chd" sha1="e8b06d859feaa366e15d7932fef06d21cb02997b" />
 	</machine>
@@ -947,11 +947,11 @@
 		<description>What's Shenmue v1.004 (1999)(Sega)(JP)[!][10M2, 10M3]</description>
 		<disk name="What's Shenmue v1.004 (1999)(Sega)(JP)[!][10M2, 10M3].chd" sha1="7ca376389759337a89bd1286ba2a54ddda941d2c" />
 	</machine>
-	<machine name="What's Shenmue v1.004 (1999)(Sega)(JP)[!][11M1, 11MB1]" cloneof="What's Shenmue v1.004 (1999)(Sega)(JP)[!][10M2, 10M3]">
+	<machine name="What's Shenmue v1.004 (1999)(Sega)(JP)[!][11M1, 11MB1]">
 		<description>What's Shenmue v1.004 (1999)(Sega)(JP)[!][11M1, 11MB1]</description>
 		<disk name="What's Shenmue v1.004 (1999)(Sega)(JP)[!][11M1, 11MB1].chd" sha1="c6aa73e2252179a3ebeb985eaaff28e94c342654" />
 	</machine>
-	<machine name="What's Shenmue v1.004 (1999)(Sega)(JP)[!][HJ722A, HJ722B, HJ723B, HJ723E]" cloneof="What's Shenmue v1.004 (1999)(Sega)(JP)[!][10M2, 10M3]">
+	<machine name="What's Shenmue v1.004 (1999)(Sega)(JP)[!][HJ722A, HJ722B, HJ723B, HJ723E]">
 		<description>What's Shenmue v1.004 (1999)(Sega)(JP)[!][HJ722A, HJ722B, HJ723B, HJ723E]</description>
 		<disk name="What's Shenmue v1.004 (1999)(Sega)(JP)[!][HJ722A, HJ722B, HJ723B, HJ723E].chd" sha1="386b3c5ac954f556b40a4143772781ab28742ea7" />
 	</machine>

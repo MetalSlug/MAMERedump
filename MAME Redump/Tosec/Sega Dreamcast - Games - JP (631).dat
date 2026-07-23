@@ -65,7 +65,7 @@
 		<description>Air v2.000 (2001)(NEC InterChannel)(JP)[!][11M4]</description>
 		<disk name="Air v2.000 (2001)(NEC InterChannel)(JP)[!][11M4].chd" sha1="916ee39280d27a960f6eacb3fbaf95b0e15c4eb9" />
 	</machine>
-	<machine name="Air v2.000 (2001)(NEC InterChannel)(JP)[!][12M1, 12MM1]" cloneof="Air v2.000 (2001)(NEC InterChannel)(JP)[!][11M4]">
+	<machine name="Air v2.000 (2001)(NEC InterChannel)(JP)[!][12M1, 12MM1]">
 		<description>Air v2.000 (2001)(NEC InterChannel)(JP)[!][12M1, 12MM1]</description>
 		<disk name="Air v2.000 (2001)(NEC InterChannel)(JP)[!][12M1, 12MM1].chd" sha1="c42d9a8c3d965201cd17bd7cfa4d6cdff03b5c1a" />
 	</machine>
@@ -167,7 +167,7 @@
 		<manufacturer>Capcom</manufacturer>
 		<disk name="Biohazard - Code Veronica - Kanzenban v1.003 (2001)(Capcom)(JP)(Disc 2 of 2)[!].chd" sha1="f3d70c9ffc63eecdaccfc5f54305c58d69788164" />
 	</machine>
-	<machine name="Biohazard - Code Veronica Shokai Genteiban v1.002 (1999)(Capcom)(JP)(Disc 1 of 2)[!][2, 3]" cloneof="Biohazard - Code Veronica Shokai Genteiban v1.002 (1999)(Capcom)(JP)(Disc 1 of 2)[!][2M1, 2M3, 2MB1, 2MB6]">
+	<machine name="Biohazard - Code Veronica Shokai Genteiban v1.002 (1999)(Capcom)(JP)(Disc 1 of 2)[!][2, 3]">
 		<description>Biohazard - Code Veronica Shokai Genteiban v1.002 (1999)(Capcom)(JP)(Disc 1 of 2)[!][2, 3]</description>
 		<disk name="Biohazard - Code Veronica Shokai Genteiban v1.002 (1999)(Capcom)(JP)(Disc 1 of 2)[!][2, 3].chd" sha1="51e0fcb620c6b0fb164f572b6fc96d03a3ec0cd3" />
 	</machine>
@@ -177,13 +177,13 @@
 		<manufacturer>Capcom</manufacturer>
 		<disk name="Biohazard - Code Veronica Shokai Genteiban v1.002 (1999)(Capcom)(JP)(Disc 1 of 2)[!][2M1, 2M3, 2MB1, 2MB6].chd" sha1="07b1699fa32f7a88aeef478086efc49f86adace0" />
 	</machine>
-	<machine name="Biohazard - Code Veronica Shokai Genteiban v1.002 (1999)(Capcom)(JP)(Disc 1 of 2)[!][HK112D, HK112E]" cloneof="Biohazard - Code Veronica Shokai Genteiban v1.002 (1999)(Capcom)(JP)(Disc 1 of 2)[!][2M1, 2M3, 2MB1, 2MB6]">
+	<machine name="Biohazard - Code Veronica Shokai Genteiban v1.002 (1999)(Capcom)(JP)(Disc 1 of 2)[!][HK112D, HK112E]">
 		<description>Biohazard - Code Veronica Shokai Genteiban v1.002 (1999)(Capcom)(JP)(Disc 1 of 2)[!][HK112D, HK112E]</description>
 		<year>2000</year>
 		<manufacturer>Capcom</manufacturer>
 		<disk name="Biohazard - Code Veronica Shokai Genteiban v1.002 (1999)(Capcom)(JP)(Disc 1 of 2)[!][HK112D, HK112E].chd" sha1="813f29c44e69bd84d44b77b5977bdd2ce753c7dc" />
 	</machine>
-	<machine name="Biohazard - Code Veronica Shokai Genteiban v1.002 (1999)(Capcom)(JP)(Disc 2 of 2)[!][1, 2]" cloneof="Biohazard - Code Veronica Shokai Genteiban v1.002 (1999)(Capcom)(JP)(Disc 2 of 2)[!][1M3, 1M4, 1MM1]">
+	<machine name="Biohazard - Code Veronica Shokai Genteiban v1.002 (1999)(Capcom)(JP)(Disc 2 of 2)[!][1, 2]">
 		<description>Biohazard - Code Veronica Shokai Genteiban v1.002 (1999)(Capcom)(JP)(Disc 2 of 2)[!][1, 2]</description>
 		<disk name="Biohazard - Code Veronica Shokai Genteiban v1.002 (1999)(Capcom)(JP)(Disc 2 of 2)[!][1, 2].chd" sha1="50d60e274dd7f5d0ae4ea90431b0652307087526" />
 	</machine>
@@ -193,7 +193,7 @@
 		<manufacturer>Capcom</manufacturer>
 		<disk name="Biohazard - Code Veronica Shokai Genteiban v1.002 (1999)(Capcom)(JP)(Disc 2 of 2)[!][1M3, 1M4, 1MM1].chd" sha1="9e0588b09884f991892df08d74d429811aa5ad39" />
 	</machine>
-	<machine name="Biohazard - Code Veronica Shokai Genteiban v1.002 (1999)(Capcom)(JP)(Disc 2 of 2)[!][HK112A, HK112F]" cloneof="Biohazard - Code Veronica Shokai Genteiban v1.002 (1999)(Capcom)(JP)(Disc 2 of 2)[!][1M3, 1M4, 1MM1]">
+	<machine name="Biohazard - Code Veronica Shokai Genteiban v1.002 (1999)(Capcom)(JP)(Disc 2 of 2)[!][HK112A, HK112F]">
 		<description>Biohazard - Code Veronica Shokai Genteiban v1.002 (1999)(Capcom)(JP)(Disc 2 of 2)[!][HK112A, HK112F]</description>
 		<year>2000</year>
 		<manufacturer>Capcom</manufacturer>
@@ -401,15 +401,15 @@
 		<description>Comic Party v2.001 (2001)(Aqua Plus)(JP)(Disc 1 of 2)[!][10MM1]</description>
 		<disk name="Comic Party v2.001 (2001)(Aqua Plus)(JP)(Disc 1 of 2)[!][10MM1].chd" sha1="1f190ede15a5f6a8d1510792a55df17ef729685a" />
 	</machine>
-	<machine name="Comic Party v2.001 (2001)(Aqua Plus)(JP)(Disc 1 of 2)[!][12MM1]" cloneof="Comic Party v2.001 (2001)(Aqua Plus)(JP)(Disc 1 of 2)[!][10MM1]">
+	<machine name="Comic Party v2.001 (2001)(Aqua Plus)(JP)(Disc 1 of 2)[!][12MM1]">
 		<description>Comic Party v2.001 (2001)(Aqua Plus)(JP)(Disc 1 of 2)[!][12MM1]</description>
 		<disk name="Comic Party v2.001 (2001)(Aqua Plus)(JP)(Disc 1 of 2)[!][12MM1].chd" sha1="75c7a61d2886b8b37f6dd76d8b73459e3330d183" />
 	</machine>
-	<machine name="Comic Party v2.001 (2001)(Aqua Plus)(JP)(Disc 1 of 2)[!][14M1]" cloneof="Comic Party v2.001 (2001)(Aqua Plus)(JP)(Disc 1 of 2)[!][10MM1]">
+	<machine name="Comic Party v2.001 (2001)(Aqua Plus)(JP)(Disc 1 of 2)[!][14M1]">
 		<description>Comic Party v2.001 (2001)(Aqua Plus)(JP)(Disc 1 of 2)[!][14M1]</description>
 		<disk name="Comic Party v2.001 (2001)(Aqua Plus)(JP)(Disc 1 of 2)[!][14M1].chd" sha1="e8966a0e1ac5b950df94e6738901216661eef391" />
 	</machine>
-	<machine name="Comic Party v2.001 (2001)(Aqua Plus)(JP)(Disc 1 of 2)[!][15M1, 15M2]" cloneof="Comic Party v2.001 (2001)(Aqua Plus)(JP)(Disc 1 of 2)[!][10MM1]">
+	<machine name="Comic Party v2.001 (2001)(Aqua Plus)(JP)(Disc 1 of 2)[!][15M1, 15M2]">
 		<description>Comic Party v2.001 (2001)(Aqua Plus)(JP)(Disc 1 of 2)[!][15M1, 15M2]</description>
 		<disk name="Comic Party v2.001 (2001)(Aqua Plus)(JP)(Disc 1 of 2)[!][15M1, 15M2].chd" sha1="40cfd31e955992c79e5dda62442c9a327336b9c5" />
 	</machine>
@@ -485,17 +485,17 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 1 of 4)[!][1M2].chd" sha1="d2c92c3b1f0dbdfff553347ed969c6841895de85" />
 	</machine>
-	<machine name="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 1 of 4)[!][2MM1]" cloneof="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 1 of 4)[!][1M2]">
+	<machine name="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 1 of 4)[!][2MM1]">
 		<description>D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 1 of 4)[!][2MM1]</description>
 		<year>2000</year>
 		<manufacturer>Sega</manufacturer>
 		<disk name="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 1 of 4)[!][2MM1].chd" sha1="91198c669e13fb22dc3fe5c32fc1c39210c53a47" />
 	</machine>
-	<machine name="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 1 of 4)[!][3]" cloneof="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 1 of 4)[!][1M2]">
+	<machine name="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 1 of 4)[!][3]">
 		<description>D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 1 of 4)[!][3]</description>
 		<disk name="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 1 of 4)[!][3].chd" sha1="ffea77cf938ec87358a6c8ffd0da36dc2708654a" />
 	</machine>
-	<machine name="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 2 of 4)[!][1, 2]" cloneof="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 2 of 4)[!][2M3]">
+	<machine name="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 2 of 4)[!][1, 2]">
 		<description>D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 2 of 4)[!][1, 2]</description>
 		<disk name="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 2 of 4)[!][1, 2].chd" sha1="e336be4cebbbbf65feaefc0e44a1007e66e34561" />
 	</machine>
@@ -505,7 +505,7 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 2 of 4)[!][2M3].chd" sha1="8d7815e3dcdcc8a090b9ac13725307b362fcd598" />
 	</machine>
-	<machine name="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 3 of 4)[!][1]" cloneof="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 3 of 4)[!][1M2, 1M4]">
+	<machine name="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 3 of 4)[!][1]">
 		<description>D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 3 of 4)[!][1]</description>
 		<disk name="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 3 of 4)[!][1].chd" sha1="97a0d45b99906f99672c1d92a0de4a2dfc063298" />
 	</machine>
@@ -515,13 +515,13 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 3 of 4)[!][1M2, 1M4].chd" sha1="b7b5ddea87e6461b27f162a4f37c5cfabb7c4c9f" />
 	</machine>
-	<machine name="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 3 of 4)[!][2M2]" cloneof="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 3 of 4)[!][1M2, 1M4]">
+	<machine name="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 3 of 4)[!][2M2]">
 		<description>D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 3 of 4)[!][2M2]</description>
 		<year>2000</year>
 		<manufacturer>Sega</manufacturer>
 		<disk name="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 3 of 4)[!][2M2].chd" sha1="f45e879c442e5a410a787b0be80bf709b5aee275" />
 	</machine>
-	<machine name="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 4 of 4)[!][1, 3, 5]" cloneof="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 4 of 4)[!][1M3, 1MB2, 1MM1]">
+	<machine name="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 4 of 4)[!][1, 3, 5]">
 		<description>D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 4 of 4)[!][1, 3, 5]</description>
 		<disk name="D2 - D no Shokutaku 2 v1.001 (1999)(WARP)(JP)(Disc 4 of 4)[!][1, 3, 5].chd" sha1="03411c77891667382d72aede5c8f771233886e1e" />
 	</machine>
@@ -745,7 +745,7 @@
 		<description>Eternal Arcadia @barai Ban v1.003 (2000)(Sega)(JP)(Disc 1 of 2)[!][1M1, 1M8, 1MM1]</description>
 		<disk name="Eternal Arcadia @barai Ban v1.003 (2000)(Sega)(JP)(Disc 1 of 2)[!][1M1, 1M8, 1MM1].chd" sha1="2e05b81df6656a4ea706a68e8f4b43c2fb1fd945" />
 	</machine>
-	<machine name="Eternal Arcadia @barai Ban v1.003 (2000)(Sega)(JP)(Disc 1 of 2)[!][2]" cloneof="Eternal Arcadia @barai Ban v1.003 (2000)(Sega)(JP)(Disc 1 of 2)[!][1M1, 1M8, 1MM1]">
+	<machine name="Eternal Arcadia @barai Ban v1.003 (2000)(Sega)(JP)(Disc 1 of 2)[!][2]">
 		<description>Eternal Arcadia @barai Ban v1.003 (2000)(Sega)(JP)(Disc 1 of 2)[!][2]</description>
 		<disk name="Eternal Arcadia @barai Ban v1.003 (2000)(Sega)(JP)(Disc 1 of 2)[!][2].chd" sha1="95cf754fce8a8319d78eb40f87d51d44d5731778" />
 	</machine>
@@ -753,7 +753,7 @@
 		<description>Eternal Arcadia @barai Ban v1.003 (2000)(Sega)(JP)(Disc 2 of 2)[!][1M1, 1M3]</description>
 		<disk name="Eternal Arcadia @barai Ban v1.003 (2000)(Sega)(JP)(Disc 2 of 2)[!][1M1, 1M3].chd" sha1="4c6c66c01c5f3dce053e75d94ff03d96127857ec" />
 	</machine>
-	<machine name="Eternal Arcadia @barai Ban v1.003 (2000)(Sega)(JP)(Disc 2 of 2)[!][2, MT B10]" cloneof="Eternal Arcadia @barai Ban v1.003 (2000)(Sega)(JP)(Disc 2 of 2)[!][1M1, 1M3]">
+	<machine name="Eternal Arcadia @barai Ban v1.003 (2000)(Sega)(JP)(Disc 2 of 2)[!][2, MT B10]">
 		<description>Eternal Arcadia @barai Ban v1.003 (2000)(Sega)(JP)(Disc 2 of 2)[!][2, MT B10]</description>
 		<disk name="Eternal Arcadia @barai Ban v1.003 (2000)(Sega)(JP)(Disc 2 of 2)[!][2, MT B10].chd" sha1="ad5e8bb1d0c70b4e58344cedbce871a77f013e5d" />
 	</machine>
@@ -881,7 +881,7 @@
 		<description>Get Bass - Sega Bass Fishing v1.002 (1999)(Sega)(JP)(en)[!][HJ306E, HJ306G]</description>
 		<disk name="Get Bass - Sega Bass Fishing v1.002 (1999)(Sega)(JP)(en)[!][HJ306E, HJ306G].chd" sha1="b5e0576fd377c859dee2191ae79efc2f08129110" />
 	</machine>
-	<machine name="Get Bass - Sega Bass Fishing v1.002 (1999)(Sega)(JP)(en)[!][HJ308F]" cloneof="Get Bass - Sega Bass Fishing v1.002 (1999)(Sega)(JP)(en)[!][HJ306E, HJ306G]">
+	<machine name="Get Bass - Sega Bass Fishing v1.002 (1999)(Sega)(JP)(en)[!][HJ308F]">
 		<description>Get Bass - Sega Bass Fishing v1.002 (1999)(Sega)(JP)(en)[!][HJ308F]</description>
 		<disk name="Get Bass - Sega Bass Fishing v1.002 (1999)(Sega)(JP)(en)[!][HJ308F].chd" sha1="fdda8f55e58b7c20667ced55fbf58ca63ec8074c" />
 	</machine>
@@ -907,7 +907,7 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="Giant Gram 2000 - All Japan Pro Wrestling 3 Eikou no Yuusha-tachi v1.004 (2000)(Sega)(JP)[!][2MS1].chd" sha1="e3e343c40111d8a5525e6d9931ef26e2c326e662" />
 	</machine>
-	<machine name="Giant Gram 2000 - All Japan Pro Wrestling 3 Eikou no Yuusha-tachi v1.004 (2000)(Sega)(JP)[!][3M1]" cloneof="Giant Gram 2000 - All Japan Pro Wrestling 3 Eikou no Yuusha-tachi v1.004 (2000)(Sega)(JP)[!][2MS1]">
+	<machine name="Giant Gram 2000 - All Japan Pro Wrestling 3 Eikou no Yuusha-tachi v1.004 (2000)(Sega)(JP)[!][3M1]">
 		<description>Giant Gram 2000 - All Japan Pro Wrestling 3 Eikou no Yuusha-tachi v1.004 (2000)(Sega)(JP)[!][3M1]</description>
 		<year>2000</year>
 		<manufacturer>Sega</manufacturer>
@@ -969,7 +969,7 @@
 		<description>Grandia II v1.001 (2000)(Game Arts)(JP)[!][1M2]</description>
 		<disk name="Grandia II v1.001 (2000)(Game Arts)(JP)[!][1M2].chd" sha1="7027c9e50f8ff721eee9c5e6c97d4a5bcc316469" />
 	</machine>
-	<machine name="Grandia II v1.001 (2000)(Game Arts)(JP)[!][5M1, 5M2, 5M4]" cloneof="Grandia II v1.001 (2000)(Game Arts)(JP)[!][1M2]">
+	<machine name="Grandia II v1.001 (2000)(Game Arts)(JP)[!][5M1, 5M2, 5M4]">
 		<description>Grandia II v1.001 (2000)(Game Arts)(JP)[!][5M1, 5M2, 5M4]</description>
 		<disk name="Grandia II v1.001 (2000)(Game Arts)(JP)[!][5M1, 5M2, 5M4].chd" sha1="839199e1e978b253e666ea74df828f6dcf64ccd1" />
 	</machine>
@@ -993,7 +993,7 @@
 		<manufacturer>Bandai</manufacturer>
 		<disk name="Gundam - Side Story 0079 - Rise from the Ashes - Colony no Ochita Chi de... v1.003 (1999)(Bandai)(JP)[!][1M3, 1M5, 1M7].chd" sha1="16dd8f44c78b738f96c6e04eead13904b7b64a28" />
 	</machine>
-	<machine name="Gundam - Side Story 0079 - Rise from the Ashes - Colony no Ochita Chi de... v1.003 (1999)(Bandai)(JP)[!][2M1]" cloneof="Gundam - Side Story 0079 - Rise from the Ashes - Colony no Ochita Chi de... v1.003 (1999)(Bandai)(JP)[!][1M3, 1M5, 1M7]">
+	<machine name="Gundam - Side Story 0079 - Rise from the Ashes - Colony no Ochita Chi de... v1.003 (1999)(Bandai)(JP)[!][2M1]">
 		<description>Gundam - Side Story 0079 - Rise from the Ashes - Colony no Ochita Chi de... v1.003 (1999)(Bandai)(JP)[!][2M1]</description>
 		<disk name="Gundam - Side Story 0079 - Rise from the Ashes - Colony no Ochita Chi de... v1.003 (1999)(Bandai)(JP)[!][2M1].chd" sha1="eb1fc4b66eb104ddb3d87019e218d819edddace4" />
 	</machine>
@@ -1083,7 +1083,7 @@
 		<description>House of the Dead 2, The v1.007 (1999)(Sega)(JP)[!][1M4, 1M5, 1MB4]</description>
 		<disk name="House of the Dead 2, The v1.007 (1999)(Sega)(JP)[!][1M4, 1M5, 1MB4].chd" sha1="3a0b7dfd5b3a4311542c1a2dcf1d95866d275687" />
 	</machine>
-	<machine name="House of the Dead 2, The v1.007 (1999)(Sega)(JP)[!][2MB2]" cloneof="House of the Dead 2, The v1.007 (1999)(Sega)(JP)[!][1M4, 1M5, 1MB4]">
+	<machine name="House of the Dead 2, The v1.007 (1999)(Sega)(JP)[!][2MB2]">
 		<description>House of the Dead 2, The v1.007 (1999)(Sega)(JP)[!][2MB2]</description>
 		<disk name="House of the Dead 2, The v1.007 (1999)(Sega)(JP)[!][2MB2].chd" sha1="be0f6b9381973c28522d3313d5e2c0adf2b9b358" />
 	</machine>
@@ -1165,7 +1165,7 @@
 		<description>J.League Pro Soccer Club o Tsukurou! v1.006 (1999)(Sega)(JP)[!][1M1]</description>
 		<disk name="J.League Pro Soccer Club o Tsukurou! v1.006 (1999)(Sega)(JP)[!][1M1].chd" sha1="b4c309ab87b3806577d964359461f60d0420e416" />
 	</machine>
-	<machine name="J.League Pro Soccer Club o Tsukurou! v1.006 (1999)(Sega)(JP)[!][3M3]" cloneof="J.League Pro Soccer Club o Tsukurou! v1.006 (1999)(Sega)(JP)[!][1M1]">
+	<machine name="J.League Pro Soccer Club o Tsukurou! v1.006 (1999)(Sega)(JP)[!][3M3]">
 		<description>J.League Pro Soccer Club o Tsukurou! v1.006 (1999)(Sega)(JP)[!][3M3]</description>
 		<disk name="J.League Pro Soccer Club o Tsukurou! v1.006 (1999)(Sega)(JP)[!][3M3].chd" sha1="79e2e0f132fd62be443dfc8fcce0603b79d47c15" />
 	</machine>
@@ -1195,7 +1195,7 @@
 		<description>Jet Set Radio v1.006 (2000)(Sega)(JP)[!][6M2, 6M4, 6M5]</description>
 		<disk name="Jet Set Radio v1.006 (2000)(Sega)(JP)[!][6M2, 6M4, 6M5].chd" sha1="c9ed483c2811feb6213d16d5ccfc54299ae10a10" />
 	</machine>
-	<machine name="Jet Set Radio v1.006 (2000)(Sega)(JP)[!][7MM1]" cloneof="Jet Set Radio v1.006 (2000)(Sega)(JP)[!][6M2, 6M4, 6M5]">
+	<machine name="Jet Set Radio v1.006 (2000)(Sega)(JP)[!][7MM1]">
 		<description>Jet Set Radio v1.006 (2000)(Sega)(JP)[!][7MM1]</description>
 		<disk name="Jet Set Radio v1.006 (2000)(Sega)(JP)[!][7MM1].chd" sha1="851a2868e0f1b820e13cd77052ab91fd65304f65" />
 	</machine>
@@ -1205,7 +1205,7 @@
 		<manufacturer>Konami</manufacturer>
 		<disk name="Jikkyou Powerful Pro Yakyuu - Dreamcast Edition v1.003 (2000)(Konami)(JP)[!].chd" sha1="07e2e64eaa62690b431998750e7d3976d36db6a0" />
 	</machine>
-	<machine name="Jinsei Game for Dreamcast v1.001 (2000)(Takara)(JP)[!][1MM1]" cloneof="Jinsei Game for Dreamcast v1.001 (2000)(Takara)(JP)[!][2MM1]">
+	<machine name="Jinsei Game for Dreamcast v1.001 (2000)(Takara)(JP)[!][1MM1]">
 		<description>Jinsei Game for Dreamcast v1.001 (2000)(Takara)(JP)[!][1MM1]</description>
 		<disk name="Jinsei Game for Dreamcast v1.001 (2000)(Takara)(JP)[!][1MM1].chd" sha1="027eb6e3f27971dde560bd65884bd7e8b5a7af83" />
 	</machine>
@@ -1459,7 +1459,7 @@
 		<description>Mars Matrix v1.000 (2000)(Capcom)(JP)(en)[!]</description>
 		<disk name="Mars Matrix v1.000 (2000)(Capcom)(JP)(en)[!].chd" sha1="29eea999ff0275a055034a8cb8b46a69775ce572" />
 	</machine>
-	<machine name="Marvel vs. Capcom - Clash of Super Heroes v1.003 (1999)(Capcom)(JP)[!][HJ224D, HJ224F, HJ307A]" cloneof="Marvel vs. Capcom - Clash of Super Heroes v1.003 (1999)(Capcom)(JP)[!][HJ224G, HJ225A]">
+	<machine name="Marvel vs. Capcom - Clash of Super Heroes v1.003 (1999)(Capcom)(JP)[!][HJ224D, HJ224F, HJ307A]">
 		<description>Marvel vs. Capcom - Clash of Super Heroes v1.003 (1999)(Capcom)(JP)[!][HJ224D, HJ224F, HJ307A]</description>
 		<disk name="Marvel vs. Capcom - Clash of Super Heroes v1.003 (1999)(Capcom)(JP)[!][HJ224D, HJ224F, HJ307A].chd" sha1="731e45e254304ddff24045df56e6446338d5b2c8" />
 	</machine>
@@ -1827,11 +1827,11 @@
 		<description>Phantasy Star Online v1.012 (2000)(Sega)(JP)(M5)[!][10M1, 10M4]</description>
 		<disk name="Phantasy Star Online v1.012 (2000)(Sega)(JP)(M5)[!][10M1, 10M4].chd" sha1="a5c167ac8fd42464d0939b6d8274984341eeece2" />
 	</machine>
-	<machine name="Phantasy Star Online v1.012 (2000)(Sega)(JP)(M5)[!][11M1, 11M2, 11MM1]" cloneof="Phantasy Star Online v1.012 (2000)(Sega)(JP)(M5)[!][10M1, 10M4]">
+	<machine name="Phantasy Star Online v1.012 (2000)(Sega)(JP)(M5)[!][11M1, 11M2, 11MM1]">
 		<description>Phantasy Star Online v1.012 (2000)(Sega)(JP)(M5)[!][11M1, 11M2, 11MM1]</description>
 		<disk name="Phantasy Star Online v1.012 (2000)(Sega)(JP)(M5)[!][11M1, 11M2, 11MM1].chd" sha1="5f23794acd16edece2535249061e6982369b81a3" />
 	</machine>
-	<machine name="Phantasy Star Online v1.012 (2000)(Sega)(JP)(M5)[!][12M1, 12MM1]" cloneof="Phantasy Star Online v1.012 (2000)(Sega)(JP)(M5)[!][10M1, 10M4]">
+	<machine name="Phantasy Star Online v1.012 (2000)(Sega)(JP)(M5)[!][12M1, 12MM1]">
 		<description>Phantasy Star Online v1.012 (2000)(Sega)(JP)(M5)[!][12M1, 12MM1]</description>
 		<disk name="Phantasy Star Online v1.012 (2000)(Sega)(JP)(M5)[!][12M1, 12MM1].chd" sha1="bf090afa1f22ebc246b4bad420b8211829b0b529" />
 	</machine>
@@ -1899,7 +1899,7 @@
 		<description>Power Stone v1.020 (1999)(Capcom)(JP)[!][1MB1]</description>
 		<disk name="Power Stone v1.020 (1999)(Capcom)(JP)[!][1MB1].chd" sha1="ee8781a47b699930e2ef6b56e33cacf7b222aafd" />
 	</machine>
-	<machine name="Power Stone v1.020 (1999)(Capcom)(JP)[!][2MB1, 2MM1]" cloneof="Power Stone v1.020 (1999)(Capcom)(JP)[!][1MB1]">
+	<machine name="Power Stone v1.020 (1999)(Capcom)(JP)[!][2MB1, 2MM1]">
 		<description>Power Stone v1.020 (1999)(Capcom)(JP)[!][2MB1, 2MM1]</description>
 		<disk name="Power Stone v1.020 (1999)(Capcom)(JP)[!][2MB1, 2MM1].chd" sha1="469738549bd96a470cb94c661033f58f90d1df34" />
 	</machine>
@@ -2093,11 +2093,11 @@
 		<description>Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 1 of 3)[!][1M1, 1M3]</description>
 		<disk name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 1 of 3)[!][1M1, 1M3].chd" sha1="09bda992cf5385fa3b5f3cc124ed1905b8f9a407" />
 	</machine>
-	<machine name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 1 of 3)[!][3M1]" cloneof="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 1 of 3)[!][1M1, 1M3]">
+	<machine name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 1 of 3)[!][3M1]">
 		<description>Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 1 of 3)[!][3M1]</description>
 		<disk name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 1 of 3)[!][3M1].chd" sha1="8863b5cae42d9251a649143c0d9f881a47926161" />
 	</machine>
-	<machine name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 1 of 3)[!][HL214D, HL215E, HL404A]" cloneof="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 1 of 3)[!][1M1, 1M3]">
+	<machine name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 1 of 3)[!][HL214D, HL215E, HL404A]">
 		<description>Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 1 of 3)[!][HL214D, HL215E, HL404A]</description>
 		<disk name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 1 of 3)[!][HL214D, HL215E, HL404A].chd" sha1="00c0ee14bda79dac0ed142311a82169773174007" />
 	</machine>
@@ -2105,11 +2105,11 @@
 		<description>Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 2 of 3)[!][2M2, 2MM1]</description>
 		<disk name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 2 of 3)[!][2M2, 2MM1].chd" sha1="156014d763dbbcfe52885a22a95e63b932c61470" />
 	</machine>
-	<machine name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 2 of 3)[!][3M1, 3M2]" cloneof="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 2 of 3)[!][2M2, 2MM1]">
+	<machine name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 2 of 3)[!][3M1, 3M2]">
 		<description>Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 2 of 3)[!][3M1, 3M2]</description>
 		<disk name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 2 of 3)[!][3M1, 3M2].chd" sha1="7f5a77b72ea5d49095d11514b5e67bfd7be7d216" />
 	</machine>
-	<machine name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 2 of 3)[!][HL214E, HL214F, HL215F, HL301C]" cloneof="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 2 of 3)[!][2M2, 2MM1]">
+	<machine name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 2 of 3)[!][HL214E, HL214F, HL215F, HL301C]">
 		<description>Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 2 of 3)[!][HL214E, HL214F, HL215F, HL301C]</description>
 		<disk name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 2 of 3)[!][HL214E, HL214F, HL215F, HL301C].chd" sha1="41beaba5e940b91190b46ba5bc00114084f70da0" />
 	</machine>
@@ -2117,15 +2117,15 @@
 		<description>Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 3 of 3)[!][1MM1]</description>
 		<disk name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 3 of 3)[!][1MM1].chd" sha1="3d61f04ad9fc3c4d228ff67845dc9e211b5ad780" />
 	</machine>
-	<machine name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 3 of 3)[!][2M1, 2M2]" cloneof="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 3 of 3)[!][1MM1]">
+	<machine name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 3 of 3)[!][2M1, 2M2]">
 		<description>Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 3 of 3)[!][2M1, 2M2]</description>
 		<disk name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 3 of 3)[!][2M1, 2M2].chd" sha1="47e196c411de47fc4f41cdeaadb814088b394b12" />
 	</machine>
-	<machine name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 3 of 3)[!][3M3]" cloneof="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 3 of 3)[!][1MM1]">
+	<machine name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 3 of 3)[!][3M3]">
 		<description>Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 3 of 3)[!][3M3]</description>
 		<disk name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 3 of 3)[!][3M3].chd" sha1="bd1bdb83c1c140f93b492e1129bd639bbf65b555" />
 	</machine>
-	<machine name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 3 of 3)[!][HL214G, HL228B]" cloneof="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 3 of 3)[!][1MM1]">
+	<machine name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 3 of 3)[!][HL214G, HL228B]">
 		<description>Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 3 of 3)[!][HL214G, HL228B]</description>
 		<disk name="Sakura Taisen 3 - Paris wa Moete Iru Ka v1.003 (2001)(Sega)(JP)(Disc 3 of 3)[!][HL214G, HL228B].chd" sha1="7966829fa546b42e7c891151ab24096cf1a112d2" />
 	</machine>
@@ -2133,7 +2133,7 @@
 		<description>Sakura Taisen 4 - Koi Seyo Otome v1.003 (2002)(Sega)(JP)[!][2M1, 2M3, 2M5, 2MM1]</description>
 		<disk name="Sakura Taisen 4 - Koi Seyo Otome v1.003 (2002)(Sega)(JP)[!][2M1, 2M3, 2M5, 2MM1].chd" sha1="cd8f9700204a01f1e7c2e4caf0040d62a24bd9d5" />
 	</machine>
-	<machine name="Sakura Taisen 4 - Koi Seyo Otome v1.003 (2002)(Sega)(JP)[!][HM223A, HM302B, HM303F]" cloneof="Sakura Taisen 4 - Koi Seyo Otome v1.003 (2002)(Sega)(JP)[!][2M1, 2M3, 2M5, 2MM1]">
+	<machine name="Sakura Taisen 4 - Koi Seyo Otome v1.003 (2002)(Sega)(JP)[!][HM223A, HM302B, HM303F]">
 		<description>Sakura Taisen 4 - Koi Seyo Otome v1.003 (2002)(Sega)(JP)[!][HM223A, HM302B, HM303F]</description>
 		<disk name="Sakura Taisen 4 - Koi Seyo Otome v1.003 (2002)(Sega)(JP)[!][HM223A, HM302B, HM303F].chd" sha1="bfea453f92fbba24e22cfdf5661e985abb42e77c" />
 	</machine>
@@ -2165,7 +2165,7 @@
 		<description>Samba de Amigo v1.000 (2000)(Sega)(JP)[!][10MS1]</description>
 		<disk name="Samba de Amigo v1.000 (2000)(Sega)(JP)[!][10MS1].chd" sha1="5d8641cca28f938f1332611f9d81d858ab947057" />
 	</machine>
-	<machine name="Samba de Amigo v1.000 (2000)(Sega)(JP)[!][14MM1]" cloneof="Samba de Amigo v1.000 (2000)(Sega)(JP)[!][10MS1]">
+	<machine name="Samba de Amigo v1.000 (2000)(Sega)(JP)[!][14MM1]">
 		<description>Samba de Amigo v1.000 (2000)(Sega)(JP)[!][14MM1]</description>
 		<disk name="Samba de Amigo v1.000 (2000)(Sega)(JP)[!][14MM1].chd" sha1="bb60d4d3b99fa9c8bd3785b49feec2bc8d8a0521" />
 	</machine>
@@ -2279,11 +2279,11 @@
 		<description>Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 1 of 4)[!][1MB3, 1MB4, 1MB5, 1MM1]</description>
 		<disk name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 1 of 4)[!][1MB3, 1MB4, 1MB5, 1MM1].chd" sha1="96c0a70843ca66dff565bc759926a2cbae3d9af1" />
 	</machine>
-	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 1 of 4)[!][HJB26B, HJB29A]" cloneof="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 1 of 4)[!][1MB3, 1MB4, 1MB5, 1MM1]">
+	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 1 of 4)[!][HJB26B, HJB29A]">
 		<description>Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 1 of 4)[!][HJB26B, HJB29A]</description>
 		<disk name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 1 of 4)[!][HJB26B, HJB29A].chd" sha1="703e624fd89461b2d74663a8d4deba0aa162b023" />
 	</machine>
-	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 1 of 4)[!][MT B01, MT B02]" cloneof="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 1 of 4)[!][1MB3, 1MB4, 1MB5, 1MM1]">
+	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 1 of 4)[!][MT B01, MT B02]">
 		<description>Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 1 of 4)[!][MT B01, MT B02]</description>
 		<disk name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 1 of 4)[!][MT B01, MT B02].chd" sha1="45969bc0c7534f67dfd25113230862c851ffba7e" />
 	</machine>
@@ -2291,15 +2291,15 @@
 		<description>Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 2 of 4)[!][1M2, 1MB4]</description>
 		<disk name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 2 of 4)[!][1M2, 1MB4].chd" sha1="cf683b1f20c0ed66405b2b8be9bee4276d4ff5be" />
 	</machine>
-	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 2 of 4)[!][2M1, 2M2, 2M4, 2MB2]" cloneof="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 2 of 4)[!][1M2, 1MB4]">
+	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 2 of 4)[!][2M1, 2M2, 2M4, 2MB2]">
 		<description>Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 2 of 4)[!][2M1, 2M2, 2M4, 2MB2]</description>
 		<disk name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 2 of 4)[!][2M1, 2M2, 2M4, 2MB2].chd" sha1="dd6bc036e84470a01d34b8ece7ce643f0da2aa69" />
 	</machine>
-	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 2 of 4)[!][HJC02H]" cloneof="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 2 of 4)[!][1M2, 1MB4]">
+	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 2 of 4)[!][HJC02H]">
 		<description>Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 2 of 4)[!][HJC02H]</description>
 		<disk name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 2 of 4)[!][HJC02H].chd" sha1="f85d41e8073c6f8a267f179e85046ab8010816fe" />
 	</machine>
-	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 2 of 4)[!][MT B03, MT B06, MT B09]" cloneof="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 2 of 4)[!][1M2, 1MB4]">
+	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 2 of 4)[!][MT B03, MT B06, MT B09]">
 		<description>Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 2 of 4)[!][MT B03, MT B06, MT B09]</description>
 		<disk name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 2 of 4)[!][MT B03, MT B06, MT B09].chd" sha1="bf52527cb4cd5463225f87d45b4d3e15eedb3741" />
 	</machine>
@@ -2307,15 +2307,15 @@
 		<description>Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 3 of 4)[!][1M2, 1M3]</description>
 		<disk name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 3 of 4)[!][1M2, 1M3].chd" sha1="faba7881218e428e34da633c21c717621334a76f" />
 	</machine>
-	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 3 of 4)[!][2M1, 2MB1]" cloneof="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 3 of 4)[!][1M2, 1M3]">
+	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 3 of 4)[!][2M1, 2MB1]">
 		<description>Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 3 of 4)[!][2M1, 2MB1]</description>
 		<disk name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 3 of 4)[!][2M1, 2MB1].chd" sha1="f0de6a4e55ef730fc560f8350e03603344f53344" />
 	</machine>
-	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 3 of 4)[!][HJB29C]" cloneof="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 3 of 4)[!][1M2, 1M3]">
+	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 3 of 4)[!][HJB29C]">
 		<description>Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 3 of 4)[!][HJB29C]</description>
 		<disk name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 3 of 4)[!][HJB29C].chd" sha1="087fa545259dadaced4d33209a57b01d50788b21" />
 	</machine>
-	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 3 of 4)[!][MT B03, MT B04, MT B08]" cloneof="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 3 of 4)[!][1M2, 1M3]">
+	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 3 of 4)[!][MT B03, MT B04, MT B08]">
 		<description>Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 3 of 4)[!][MT B03, MT B04, MT B08]</description>
 		<disk name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 3 of 4)[!][MT B03, MT B04, MT B08].chd" sha1="73e1e25669a3668b6beaee7335398d7b112d2a11" />
 	</machine>
@@ -2327,15 +2327,15 @@
 		<description>Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 4 of 4)[!][40M3, 40M4][Passport v1.014]</description>
 		<disk name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 4 of 4)[!][40M3, 40M4][Passport v1.014].chd" sha1="2fce5187838c14bcff9bec7bdcf64c181231d36f" />
 	</machine>
-	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 4 of 4)[!][41MM1][Passport v1.014]" cloneof="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 4 of 4)[!][40M3, 40M4][Passport v1.014]">
+	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 4 of 4)[!][41MM1][Passport v1.014]">
 		<description>Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 4 of 4)[!][41MM1][Passport v1.014]</description>
 		<disk name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 4 of 4)[!][41MM1][Passport v1.014].chd" sha1="79eb6f61c861ec05c1be3067b19dcdf5b70d6c23" />
 	</machine>
-	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 4 of 4)[!][HJC06D, HJC15B][Passport v1.014]" cloneof="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 4 of 4)[!][40M3, 40M4][Passport v1.014]">
+	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 4 of 4)[!][HJC06D, HJC15B][Passport v1.014]">
 		<description>Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 4 of 4)[!][HJC06D, HJC15B][Passport v1.014]</description>
 		<disk name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 4 of 4)[!][HJC06D, HJC15B][Passport v1.014].chd" sha1="a0a37034ec94b2852f43fb415d2ae7770e97314e" />
 	</machine>
-	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 4 of 4)[!][MT B11, MT B12][Passport v1.014]" cloneof="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 4 of 4)[!][40M3, 40M4][Passport v1.014]">
+	<machine name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 4 of 4)[!][MT B11, MT B12][Passport v1.014]">
 		<description>Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 4 of 4)[!][MT B11, MT B12][Passport v1.014]</description>
 		<disk name="Shenmue - Ichishou Yokosuka v1.007 (1999)(Sega)(JP)(Disc 4 of 4)[!][MT B11, MT B12][Passport v1.014].chd" sha1="58ccb21a0780317c3e81b27a802ed976a225f031" />
 	</machine>
@@ -2343,7 +2343,7 @@
 		<description>Shenmue II v1.003 (2001)(Sega)(JP)(Disc 1 of 4)[!][3MM1]</description>
 		<disk name="Shenmue II v1.003 (2001)(Sega)(JP)(Disc 1 of 4)[!][3MM1].chd" sha1="b509fe9781048076234ac0bf93bd5e7a011dd0f4" />
 	</machine>
-	<machine name="Shenmue II v1.003 (2001)(Sega)(JP)(Disc 1 of 4)[!][HL724A, HL724C, HL728A]" cloneof="Shenmue II v1.003 (2001)(Sega)(JP)(Disc 1 of 4)[!][3MM1]">
+	<machine name="Shenmue II v1.003 (2001)(Sega)(JP)(Disc 1 of 4)[!][HL724A, HL724C, HL728A]">
 		<description>Shenmue II v1.003 (2001)(Sega)(JP)(Disc 1 of 4)[!][HL724A, HL724C, HL728A]</description>
 		<disk name="Shenmue II v1.003 (2001)(Sega)(JP)(Disc 1 of 4)[!][HL724A, HL724C, HL728A].chd" sha1="d5ae01b068e7000741444f3a7ddf1c6299a5d255" />
 	</machine>
@@ -2351,7 +2351,7 @@
 		<description>Shenmue II v1.003 (2001)(Sega)(JP)(Disc 2 of 4)[!][2M1, 2M2]</description>
 		<disk name="Shenmue II v1.003 (2001)(Sega)(JP)(Disc 2 of 4)[!][2M1, 2M2].chd" sha1="d4e7ce04ce1f2d25cf00a592b920d5b98ce82db6" />
 	</machine>
-	<machine name="Shenmue II v1.003 (2001)(Sega)(JP)(Disc 2 of 4)[!][HL724B, HL724D]" cloneof="Shenmue II v1.003 (2001)(Sega)(JP)(Disc 2 of 4)[!][2M1, 2M2]">
+	<machine name="Shenmue II v1.003 (2001)(Sega)(JP)(Disc 2 of 4)[!][HL724B, HL724D]">
 		<description>Shenmue II v1.003 (2001)(Sega)(JP)(Disc 2 of 4)[!][HL724B, HL724D]</description>
 		<disk name="Shenmue II v1.003 (2001)(Sega)(JP)(Disc 2 of 4)[!][HL724B, HL724D].chd" sha1="eeb357045356f9564b80d742eddb2e366b496ec2" />
 	</machine>
@@ -2359,7 +2359,7 @@
 		<description>Shenmue II v1.003 (2001)(Sega)(JP)(Disc 3 of 4)[!][2M2, 2M4]</description>
 		<disk name="Shenmue II v1.003 (2001)(Sega)(JP)(Disc 3 of 4)[!][2M2, 2M4].chd" sha1="990c641613c1555b50f8bce3b137df613763aeb9" />
 	</machine>
-	<machine name="Shenmue II v1.003 (2001)(Sega)(JP)(Disc 3 of 4)[!][HL725E]" cloneof="Shenmue II v1.003 (2001)(Sega)(JP)(Disc 3 of 4)[!][2M2, 2M4]">
+	<machine name="Shenmue II v1.003 (2001)(Sega)(JP)(Disc 3 of 4)[!][HL725E]">
 		<description>Shenmue II v1.003 (2001)(Sega)(JP)(Disc 3 of 4)[!][HL725E]</description>
 		<disk name="Shenmue II v1.003 (2001)(Sega)(JP)(Disc 3 of 4)[!][HL725E].chd" sha1="7bc66f4548636a70c3b61f58c674f1fceb569f56" />
 	</machine>
@@ -2367,7 +2367,7 @@
 		<description>Shenmue II v1.003 (2001)(Sega)(JP)(Disc 4 of 4)[!][2M4]</description>
 		<disk name="Shenmue II v1.003 (2001)(Sega)(JP)(Disc 4 of 4)[!][2M4].chd" sha1="8e0c9d881086c2d88e7ddd4aba4b3602e3f196f0" />
 	</machine>
-	<machine name="Shenmue II v1.003 (2001)(Sega)(JP)(Disc 4 of 4)[!][HL731C]" cloneof="Shenmue II v1.003 (2001)(Sega)(JP)(Disc 4 of 4)[!][2M4]">
+	<machine name="Shenmue II v1.003 (2001)(Sega)(JP)(Disc 4 of 4)[!][HL731C]">
 		<description>Shenmue II v1.003 (2001)(Sega)(JP)(Disc 4 of 4)[!][HL731C]</description>
 		<disk name="Shenmue II v1.003 (2001)(Sega)(JP)(Disc 4 of 4)[!][HL731C].chd" sha1="6330bff4b274d0b30c5228fbf59bb2cacea28bd6" />
 	</machine>
@@ -2395,7 +2395,7 @@
 		<manufacturer>ESP</manufacturer>
 		<disk name="Shinki Sekai Evolution v1.023 (1998)(ESP)(JP)[!][1MB1].chd" sha1="42ade2ac0d753f5069b8b6ef10a84ec7c263c44a" />
 	</machine>
-	<machine name="Shinki Sekai Evolution v1.023 (1998)(ESP)(JP)[!][2MB1, 2MM1]" cloneof="Shinki Sekai Evolution v1.023 (1998)(ESP)(JP)[!][1MB1]">
+	<machine name="Shinki Sekai Evolution v1.023 (1998)(ESP)(JP)[!][2MB1, 2MM1]">
 		<description>Shinki Sekai Evolution v1.023 (1998)(ESP)(JP)[!][2MB1, 2MM1]</description>
 		<disk name="Shinki Sekai Evolution v1.023 (1998)(ESP)(JP)[!][2MB1, 2MM1].chd" sha1="918dc6307727318f4748e2519b92f00e75a3544d" />
 	</machine>
@@ -2471,15 +2471,15 @@
 		<description>Sonic Adventure v1.007 (1998)(Sega)(JP)[!][1M1, 1MB3, 1MM1]</description>
 		<disk name="Sonic Adventure v1.007 (1998)(Sega)(JP)[!][1M1, 1MB3, 1MM1].chd" sha1="9dc9b8912065f23a271be5f4cc5c9dcd2305727a" />
 	</machine>
-	<machine name="Sonic Adventure v1.007 (1998)(Sega)(JP)[!][2M2, 2M3, 3MM1]" cloneof="Sonic Adventure v1.007 (1998)(Sega)(JP)[!][1M1, 1MB3, 1MM1]">
+	<machine name="Sonic Adventure v1.007 (1998)(Sega)(JP)[!][2M2, 2M3, 3MM1]">
 		<description>Sonic Adventure v1.007 (1998)(Sega)(JP)[!][2M2, 2M3, 3MM1]</description>
 		<disk name="Sonic Adventure v1.007 (1998)(Sega)(JP)[!][2M2, 2M3, 3MM1].chd" sha1="739f21d15189a059ed72dc40b4e2612f31fa71e3" />
 	</machine>
-	<machine name="Sonic Adventure v1.007 (1998)(Sega)(JP)[!][3MB1, 3MB2]" cloneof="Sonic Adventure v1.007 (1998)(Sega)(JP)[!][1M1, 1MB3, 1MM1]">
+	<machine name="Sonic Adventure v1.007 (1998)(Sega)(JP)[!][3MB1, 3MB2]">
 		<description>Sonic Adventure v1.007 (1998)(Sega)(JP)[!][3MB1, 3MB2]</description>
 		<disk name="Sonic Adventure v1.007 (1998)(Sega)(JP)[!][3MB1, 3MB2].chd" sha1="c0be794b9d4a3143917fc6530f209ce4c3613d01" />
 	</machine>
-	<machine name="Sonic Adventure v1.007 (1998)(Sega)(JP)[!][HIC11A, HIC11E, HIC16C]" cloneof="Sonic Adventure v1.007 (1998)(Sega)(JP)[!][1M1, 1MB3, 1MM1]">
+	<machine name="Sonic Adventure v1.007 (1998)(Sega)(JP)[!][HIC11A, HIC11E, HIC16C]">
 		<description>Sonic Adventure v1.007 (1998)(Sega)(JP)[!][HIC11A, HIC11E, HIC16C]</description>
 		<disk name="Sonic Adventure v1.007 (1998)(Sega)(JP)[!][HIC11A, HIC11E, HIC16C].chd" sha1="4348a8219b0c01838fdfb73fb71983b5eb62187f" />
 	</machine>
@@ -2563,7 +2563,7 @@
 		<description>Sunrise Eiyuutan v1.000 (1999)(Sunrise Interactive)(JP)[!][1M7, 1M10, 1MB1, 1MB4]</description>
 		<disk name="Sunrise Eiyuutan v1.000 (1999)(Sunrise Interactive)(JP)[!][1M7, 1M10, 1MB1, 1MB4].chd" sha1="5c3e9408460897d53e5493efe5bc2a7ef2b8e5cb" />
 	</machine>
-	<machine name="Sunrise Eiyuutan v1.000 (1999)(Sunrise Interactive)(JP)[!][2MM1]" cloneof="Sunrise Eiyuutan v1.000 (1999)(Sunrise Interactive)(JP)[!][1M7, 1M10, 1MB1, 1MB4]">
+	<machine name="Sunrise Eiyuutan v1.000 (1999)(Sunrise Interactive)(JP)[!][2MM1]">
 		<description>Sunrise Eiyuutan v1.000 (1999)(Sunrise Interactive)(JP)[!][2MM1]</description>
 		<disk name="Sunrise Eiyuutan v1.000 (1999)(Sunrise Interactive)(JP)[!][2MM1].chd" sha1="bb04ac719d269f70fd4aba9667ae0c6a7f6d500c" />
 	</machine>
@@ -2587,11 +2587,11 @@
 		<description>Super Robot Taisen Alpha for Dreamcast v1.016 (2001)(Banpresto)(JP)[!][1M1]</description>
 		<disk name="Super Robot Taisen Alpha for Dreamcast v1.016 (2001)(Banpresto)(JP)[!][1M1].chd" sha1="3bfe7cb08c7735ca34caa86a62a32cc91cfd1d58" />
 	</machine>
-	<machine name="Super Robot Taisen Alpha for Dreamcast v1.016 (2001)(Banpresto)(JP)[!][2MS1]" cloneof="Super Robot Taisen Alpha for Dreamcast v1.016 (2001)(Banpresto)(JP)[!][1M1]">
+	<machine name="Super Robot Taisen Alpha for Dreamcast v1.016 (2001)(Banpresto)(JP)[!][2MS1]">
 		<description>Super Robot Taisen Alpha for Dreamcast v1.016 (2001)(Banpresto)(JP)[!][2MS1]</description>
 		<disk name="Super Robot Taisen Alpha for Dreamcast v1.016 (2001)(Banpresto)(JP)[!][2MS1].chd" sha1="1b16c7d7c58fc005eb54796876f5a549f51aaf61" />
 	</machine>
-	<machine name="Super Robot Taisen Alpha for Dreamcast v1.016 (2001)(Banpresto)(JP)[!][5M1, 5M3]" cloneof="Super Robot Taisen Alpha for Dreamcast v1.016 (2001)(Banpresto)(JP)[!][1M1]">
+	<machine name="Super Robot Taisen Alpha for Dreamcast v1.016 (2001)(Banpresto)(JP)[!][5M1, 5M3]">
 		<description>Super Robot Taisen Alpha for Dreamcast v1.016 (2001)(Banpresto)(JP)[!][5M1, 5M3]</description>
 		<disk name="Super Robot Taisen Alpha for Dreamcast v1.016 (2001)(Banpresto)(JP)[!][5M1, 5M3].chd" sha1="375baa7c3b2b6b079ae50f865dadaddec871090e" />
 	</machine>
@@ -2629,7 +2629,7 @@
 		<description>Taisen Net Gimmick - Capcom &amp; Psikyo All Stars v1.002 (2001)(Capcom)(JP)[!][1M1]</description>
 		<disk name="Taisen Net Gimmick - Capcom &amp; Psikyo All Stars v1.002 (2001)(Capcom)(JP)[!][1M1].chd" sha1="20725e285b672a0809e704277b2cd2e52b305449" />
 	</machine>
-	<machine name="Taisen Net Gimmick - Capcom &amp; Psikyo All Stars v1.002 (2001)(Capcom)(JP)[!][2MM1]" cloneof="Taisen Net Gimmick - Capcom &amp; Psikyo All Stars v1.002 (2001)(Capcom)(JP)[!][1M1]">
+	<machine name="Taisen Net Gimmick - Capcom &amp; Psikyo All Stars v1.002 (2001)(Capcom)(JP)[!][2MM1]">
 		<description>Taisen Net Gimmick - Capcom &amp; Psikyo All Stars v1.002 (2001)(Capcom)(JP)[!][2MM1]</description>
 		<disk name="Taisen Net Gimmick - Capcom &amp; Psikyo All Stars v1.002 (2001)(Capcom)(JP)[!][2MM1].chd" sha1="4936f6e6e5367191b5b44f38f6e9f37d66d7b439" />
 	</machine>
@@ -2777,7 +2777,7 @@
 		<description>Virtua Fighter 3tb v1.000 (1998)(Sega)(JP)(en)[!][1M2, 1M3, 1M4, 1MB1, 1MM1]</description>
 		<disk name="Virtua Fighter 3tb v1.000 (1998)(Sega)(JP)(en)[!][1M2, 1M3, 1M4, 1MB1, 1MM1].chd" sha1="ac8373932ca332349ed5a497c635777dc382070f" />
 	</machine>
-	<machine name="Virtua Fighter 3tb v1.000 (1998)(Sega)(JP)(en)[!][3M2, 3M3, 3MB1, 3MM1]" cloneof="Virtua Fighter 3tb v1.000 (1998)(Sega)(JP)(en)[!][1M2, 1M3, 1M4, 1MB1, 1MM1]">
+	<machine name="Virtua Fighter 3tb v1.000 (1998)(Sega)(JP)(en)[!][3M2, 3M3, 3MB1, 3MM1]">
 		<description>Virtua Fighter 3tb v1.000 (1998)(Sega)(JP)(en)[!][3M2, 3M3, 3MB1, 3MM1]</description>
 		<disk name="Virtua Fighter 3tb v1.000 (1998)(Sega)(JP)(en)[!][3M2, 3M3, 3MB1, 3MM1].chd" sha1="31e9945e808663a7f53ccfe78ed07921195e3c4e" />
 	</machine>
@@ -2785,7 +2785,7 @@
 		<description>Virtua Fighter 3tb v1.003 (1998)(Sega)(JP)(en)[!][2M2]</description>
 		<disk name="Virtua Fighter 3tb v1.003 (1998)(Sega)(JP)(en)[!][2M2].chd" sha1="3b6c5ab3fea1b24150c7be8ddfcfb1818b186fb3" />
 	</machine>
-	<machine name="Virtua Fighter 3tb v1.003 (1998)(Sega)(JP)(en)[!][3M2]" cloneof="Virtua Fighter 3tb v1.003 (1998)(Sega)(JP)(en)[!][2M2]">
+	<machine name="Virtua Fighter 3tb v1.003 (1998)(Sega)(JP)(en)[!][3M2]">
 		<description>Virtua Fighter 3tb v1.003 (1998)(Sega)(JP)(en)[!][3M2]</description>
 		<disk name="Virtua Fighter 3tb v1.003 (1998)(Sega)(JP)(en)[!][3M2].chd" sha1="486f551ba54071f896644da069ddaf80bb66c34c" />
 	</machine>
@@ -2845,11 +2845,11 @@
 		<description>Yukawa Moto Senmu no Otakara Sagashi v1.002 (1999)(Sega)(JP)[!][2M2, 2MM1]</description>
 		<disk name="Yukawa Moto Senmu no Otakara Sagashi v1.002 (1999)(Sega)(JP)[!][2M2, 2MM1].chd" sha1="3308370c1538006eceaa93aecec7325fdde2e179" />
 	</machine>
-	<machine name="Yukawa Moto Senmu no Otakara Sagashi v1.002 (1999)(Sega)(JP)[!][3M2, 3MB2, 3MB3]" cloneof="Yukawa Moto Senmu no Otakara Sagashi v1.002 (1999)(Sega)(JP)[!][2M2, 2MM1]">
+	<machine name="Yukawa Moto Senmu no Otakara Sagashi v1.002 (1999)(Sega)(JP)[!][3M2, 3MB2, 3MB3]">
 		<description>Yukawa Moto Senmu no Otakara Sagashi v1.002 (1999)(Sega)(JP)[!][3M2, 3MB2, 3MB3]</description>
 		<disk name="Yukawa Moto Senmu no Otakara Sagashi v1.002 (1999)(Sega)(JP)[!][3M2, 3MB2, 3MB3].chd" sha1="e86f2f877ec100a254a4a6799b3e56117ad8c109" />
 	</machine>
-	<machine name="Yukawa Moto Senmu no Otakara Sagashi v1.002 (1999)(Sega)(JP)[!][HJ226D]" cloneof="Yukawa Moto Senmu no Otakara Sagashi v1.002 (1999)(Sega)(JP)[!][2M2, 2MM1]">
+	<machine name="Yukawa Moto Senmu no Otakara Sagashi v1.002 (1999)(Sega)(JP)[!][HJ226D]">
 		<description>Yukawa Moto Senmu no Otakara Sagashi v1.002 (1999)(Sega)(JP)[!][HJ226D]</description>
 		<disk name="Yukawa Moto Senmu no Otakara Sagashi v1.002 (1999)(Sega)(JP)[!][HJ226D].chd" sha1="5c3e467e929c0b1bc6a9b8c13e5b226ca78c102c" />
 	</machine>

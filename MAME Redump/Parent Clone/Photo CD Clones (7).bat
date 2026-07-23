@@ -1,0 +1,7 @@
+chdman copy -i "Flowers of Robert Mapplethorpe, The (USA) (Beta) (1992-10-29).chd" -op "Flowers of Robert Mapplethorpe, The (USA).chd" -o "Flowers of Robert Mapplethorpe, The (USA) (Beta) (1992-10-29).delta.chd"
+chdman copy -i "Flowers of Robert Mapplethorpe, The (USA) (Beta) (1994-12-01).chd" -op "Flowers of Robert Mapplethorpe, The (USA).chd" -o "Flowers of Robert Mapplethorpe, The (USA) (Beta) (1994-12-01).delta.chd"
+chdman copy -i "How to Photograph Nature (USA) (Beta).chd" -op "How to Photograph Nature (USA).chd" -o "How to Photograph Nature (USA) (Beta).delta.chd"
+chdman copy -i "Introduction to Photo CD, An - Version 2.1 (Europe).chd" -op "Introduction to Photo CD, An - Version 2.0 (USA).chd" -o "Introduction to Photo CD, An - Version 2.1 (Europe).delta.chd"
+chdman copy -i "Kodak Photo CD Access Software & Photo Sampler (USA) (OEM).chd" -op "Kodak Photo CD Access Software & Photo Sampler (USA).chd" -o "Kodak Photo CD Access Software & Photo Sampler (USA) (OEM).delta.chd"
+chdman copy -i "Kodak Photo CD Photo Sampler (USA) (OEM).chd" -op "Kodak Photo CD Photo Sampler (USA).chd" -o "Kodak Photo CD Photo Sampler (USA) (OEM).delta.chd"
+chdman copy -i "National Parks Tour, A (USA) (Beta) (1992-10-27).chd" -op "National Parks Tour, A (USA).chd" -o "National Parks Tour, A (USA) (Beta) (1992-10-27).delta.chd"

@@ -214,7 +214,7 @@
 		<description>AirForce Delta (Japan)</description>
 		<disk name="AirForce Delta (Japan).chd" sha1="91b2ce19a8bd2aa40e376982a3ae213570c2df54" />
 	</machine>
-	<machine name="AirForce Delta (USA)" cloneof="AirForce Delta (Japan)">
+	<machine name="AirForce Delta (USA)">
 		<category>Games</category>
 		<description>AirForce Delta (USA)</description>
 		<disk name="AirForce Delta (USA).chd" sha1="6fa426f66415e5c7bc68217879849b423902de42" />
@@ -1222,7 +1222,7 @@
 		<description>Dead or Alive 2 (USA) (Demo)</description>
 		<disk name="Dead or Alive 2 (USA) (Demo).chd" sha1="d87724246c817265f59baa6f61a9cd4848be34fb" />
 	</machine>
-	<machine name="Deadly Skies (Europe) (En,Fr,De,Es,It)" cloneof="AirForce Delta (Japan)">
+	<machine name="Deadly Skies (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Deadly Skies (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Deadly Skies (Europe) (En,Fr,De,Es,It).chd" sha1="a0d7fd9094127b5ad90dfce308b7d82e5e2eebe2" />
@@ -3962,7 +3962,7 @@
 		<description>MDK2 (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="MDK2 (Europe) (En,Fr,De,Es,It).chd" sha1="ea0f449cc230cc1f68d65539947e1ccebb24a065" />
 	</machine>
-	<machine name="MDK2 (USA)" cloneof="MDK2 (Europe) (Beta) (2000-03-05)">
+	<machine name="MDK2 (USA)">
 		<category>Games</category>
 		<description>MDK2 (USA)</description>
 		<disk name="MDK2 (USA).chd" sha1="cb2a697b445773a1aa0766f59ca44f81d0fae30b" />
@@ -4297,7 +4297,7 @@
 		<description>NBA Showtime - NBA on NBC (Europe)</description>
 		<disk name="NBA Showtime - NBA on NBC (Europe).chd" sha1="cee9a15baf4dc2895c2c3497ca09913bd1b5e3af" />
 	</machine>
-	<machine name="NBA Showtime - NBA on NBC (USA)" cloneof="NBA Showtime - NBA on NBC (Europe)">
+	<machine name="NBA Showtime - NBA on NBC (USA)">
 		<category>Games</category>
 		<description>NBA Showtime - NBA on NBC (USA)</description>
 		<disk name="NBA Showtime - NBA on NBC (USA).chd" sha1="9d1fd1c67405a17566c7c1cfcd40aae52c98ca10" />
@@ -4827,7 +4827,7 @@
 		<description>Plasma Sword - Nightmare of Bilstein (Europe)</description>
 		<disk name="Plasma Sword - Nightmare of Bilstein (Europe).chd" sha1="04fddf7fcf6488fc8e2fb46572ecda43b92ea77c" />
 	</machine>
-	<machine name="Plasma Sword - Nightmare of Bilstein (USA)" cloneof="Plasma Sword - Nightmare of Bilstein (Europe)">
+	<machine name="Plasma Sword - Nightmare of Bilstein (USA)">
 		<category>Games</category>
 		<description>Plasma Sword - Nightmare of Bilstein (USA)</description>
 		<disk name="Plasma Sword - Nightmare of Bilstein (USA).chd" sha1="8b7b0cb2814bf246f9fb34a9abbcfef7e6e2dc7a" />
@@ -5824,7 +5824,7 @@
 		<description>Sega Rally 2 (Japan)</description>
 		<disk name="Sega Rally 2 (Japan).chd" sha1="4f78a05c76b8a81be36ef5a775e5b3cda918a1ee" />
 	</machine>
-	<machine name="Sega Rally 2 (Japan) (Alt)" cloneof="Sega Rally 2 (Japan)">
+	<machine name="Sega Rally 2 (Japan) (Alt)">
 		<category>Games</category>
 		<description>Sega Rally 2 (Japan) (Alt)</description>
 		<disk name="Sega Rally 2 (Japan) (Alt).chd" sha1="256847f0769f2650ffc082da82a7c0da9907e644" />
@@ -6544,12 +6544,12 @@
 		<description>Sports Jam (USA)</description>
 		<disk name="Sports Jam (USA).chd" sha1="98f4cf9b81b68670376b1cfbb9d0a0f87d451eee" />
 	</machine>
-	<machine name="Star Gladiator 2 - Nightmare of Bilstein (Japan)" cloneof="Plasma Sword - Nightmare of Bilstein (Europe)">
+	<machine name="Star Gladiator 2 - Nightmare of Bilstein (Japan)">
 		<category>Games</category>
 		<description>Star Gladiator 2 - Nightmare of Bilstein (Japan)</description>
 		<disk name="Star Gladiator 2 - Nightmare of Bilstein (Japan).chd" sha1="7856ca42c18cbc93fa09263f45f2e1e20b4eb3df" />
 	</machine>
-	<machine name="Star Gladiator 2 - Nightmare of Bilstein (Japan) (Tentou Taikenban)" cloneof="Plasma Sword - Nightmare of Bilstein (Europe)">
+	<machine name="Star Gladiator 2 - Nightmare of Bilstein (Japan) (Tentou Taikenban)">
 		<category>Demos</category>
 		<description>Star Gladiator 2 - Nightmare of Bilstein (Japan) (Tentou Taikenban)</description>
 		<disk name="Star Gladiator 2 - Nightmare of Bilstein (Japan) (Tentou Taikenban).chd" sha1="4948e1a4a3e52a1ae2efbb10b9b8d5e956a443f3" />
@@ -7444,7 +7444,7 @@
 		<description>Virtua Fighter History-VF4 (Japan)</description>
 		<disk name="Virtua Fighter History-VF4 (Japan).chd" sha1="038bb81f83faeb0a9f130c18112c1c682e296dee" />
 	</machine>
-	<machine name="Virtua Fighter History-VF4 (Japan) (Alt)" cloneof="Virtua Fighter History-VF4 (Japan)">
+	<machine name="Virtua Fighter History-VF4 (Japan) (Alt)">
 		<category>Multimedia</category>
 		<description>Virtua Fighter History-VF4 (Japan) (Alt)</description>
 		<disk name="Virtua Fighter History-VF4 (Japan) (Alt).chd" sha1="00386e3a2b4fc7ac60a30224a6ccce009932ad44" />
@@ -7729,7 +7729,7 @@
 		<description>Xploder DC (USA) (Unl)</description>
 		<disk name="Xploder DC (USA) (Unl).chd" sha1="cd08380b8f6960ab556a72dbcb5c56cde19d327d" />
 	</machine>
-	<machine name="Xtreme Sports (USA)" cloneof="Sega Extreme Sports (Europe) (En,Fr,De,Es)">
+	<machine name="Xtreme Sports (USA)">
 		<category>Games</category>
 		<description>Xtreme Sports (USA)</description>
 		<disk name="Xtreme Sports (USA).chd" sha1="bcd25e259d0a703f106b03c8f69686a90717ee3a" />

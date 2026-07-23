@@ -1,0 +1,5 @@
+chdman copy -i "DIMM Firm Update (Japan) (Rev C).chd" -op "DIMM Firm Update (Japan) (Rev A).chd" -o "DIMM Firm Update (Japan) (Rev C).delta.chd"
+chdman copy -i "DIMM Firm Update (Japan) (Rev E).chd" -op "DIMM Firm Update (Japan) (Rev A).chd" -o "DIMM Firm Update (Japan) (Rev E).delta.chd"
+chdman copy -i "Melty Blood - Act Cadenza Ver. B (Japan) (Rev A).chd" -op "Melty Blood - Act Cadenza Ver. B (Japan).chd" -o "Melty Blood - Act Cadenza Ver. B (Japan) (Rev A).delta.chd"
+chdman copy -i "Puyo Pop Fever (World).chd" -op "Puyo Puyo Fever (Japan).chd" -o "Puyo Pop Fever (World).delta.chd"
+chdman copy -i "Super Shanghai 2005 (Japan) (Rev A).chd" -op "Super Shanghai 2005 (Japan).chd" -o "Super Shanghai 2005 (Japan) (Rev A).delta.chd"
