@@ -39,8 +39,8 @@ MAME Software List CHDs (merged)
 Additional Redump CHDs
 - Redump CHDs which are not included in MAME SW CHDs
 
-Additional GDI Files
-- GDI Files that was missing in Redump
+GDI Files
+- GDI Files (since redump.info no longer provides GDI files)
   
 # Building CHDs
 
