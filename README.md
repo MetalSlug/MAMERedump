@@ -128,7 +128,7 @@ Sega - Mega-CD - Sega CD|2025-11-07|1504|3|624 GB|338 GB|
 Sega - Saturn|2025-12-29|4976|22|1,99 TB|1,23 TB|
 **Sharp - X68000**|2025-06-16|30|0|12 GB|6 GB|
 SNK - Neo Geo CD|2025-11-07|372|7|208 GB|108 GB|105 GB (8)
-Sony - PlayStation 2|2026-01-06|11756|125|25,43 TB|15,35 TB|11,67 TB (3230)
+Sony - PlayStation 2|2026-01-06|11756|125|25,43 TB|15,35 TB|10,97 TB (3793)
 *Sony - PlayStation 3 (Decrypted)*|2026-03-16|298|4183|2,29 TB|1,11 TB| (180)
 Sony - PlayStation Portable|2026-01-05|3461|353|3,01 TB|2,02 TB|
 Sony - PlayStation|2026-01-05|11755|136|4,91 TB|2,73 TB|
@@ -137,7 +137,7 @@ Sony - PlayStation|2026-01-05|11755|136|4,91 TB|2,73 TB|
 VM Labs - NUON|2025-01-23|9|2|12 GB|8 GB|
 **VTech - V.Flash & V.Smile Pro**|2025-11-04|51|0|23 GB|9 GB|
 **ZAPiT Games - Game Wave Family Entertainment System**|2025-12-08|16|0|53 GB|50 GB|
-Total||108199|17297|130,28 TB|90,50 TB|86,64 TB (4044)
+Total||108199|17297|130,28 TB|90,50 TB|85,94 TB (4607)
 
 
 |MAME|Exclusive|Matched|Exclusive Size|Matched Size|
