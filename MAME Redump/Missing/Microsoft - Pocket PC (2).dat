@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Microsoft - Pocket PC</name>
+		<description>MAME Redump - Microsoft - Pocket PC - Datfile (82) (2026-07-03 10-16-06)</description>
+		<version>0.289</version>
+		<date>2026-03-09</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Get Away for Windows CE (Japan)" type="">
+		<category>Games</category>
+		<description>Get Away for Windows CE (Japan)</description>
+		<rom name="Get Away for Windows CE (Japan).bin" size="2312016" crc="EE68CDF2" md5="82A03DF754EF336CE573B00E6A11517C" sha1="4E05693C87487ABDF0C492C84C2F1C7B9AC589A6" />
+	</game>
+	<game name="Microsoft Plus! Digital Media Edition (USA)" type="">
+		<category>Applications</category>
+		<description>Microsoft Plus! Digital Media Edition (USA)</description>
+		<rom name="Microsoft Plus! Digital Media Edition (USA).bin" size="248460576" crc="7F9A898B" md5="FF10CDBFC4FDC3335762EA281529890C" sha1="1C46AD512CAA6272BEE6C0DBEF2CC0285AFBE52F" />
+	</game>
+</datafile>

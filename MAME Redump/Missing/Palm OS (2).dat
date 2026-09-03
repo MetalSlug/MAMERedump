@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Palm OS</name>
+		<description>MAME Redump - Palm OS - Datfile (161) (2026-08-05 16-24-53)</description>
+		<version>0.289</version>
+		<date>2026-03-09</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Mobi - 02-2007 (Russia)" type="">
+		<category>Coverdiscs</category>
+		<description>Mobi - 02-2007 (Russia)</description>
+		<rom name="Mobi - 02-2007 (Russia).iso" size="4699783168" crc="AC20781B" md5="E4948A6D1EAAE48D98EE03AA6A30EC1D" sha1="11403995B743905872CC722E1309067DD8EA0C58" />
+	</game>
+	<game name="Mobi - 12-2006 (Russia)" type="">
+		<category>Coverdiscs</category>
+		<description>Mobi - 12-2006 (Russia)</description>
+		<rom name="Mobi - 12-2006 (Russia).bin" size="771157296" crc="9F6B86E1" md5="011E0488ADECD87FAC36C898DB2D14E9" sha1="754F66427E1F69642D7078787786785FF75721F1" />
+	</game>
+</datafile>

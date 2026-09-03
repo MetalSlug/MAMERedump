@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sharp - X68000</name>
+		<description>MAME Redump - Sharp - X68000 - Datfile (32) (2026-07-03 10-16-56)</description>
+		<version>0.289</version>
+		<date>2026-03-09</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Reiwa-ban Oh!X (Japan) (Disc 1)" type="">
+		<category>Coverdiscs</category>
+		<description>Reiwa-ban Oh!X (Japan) (Disc 1)</description>
+		<rom name="Reiwa-ban Oh!X (Japan) (Disc 1).iso" size="1755596800" crc="DE4A5C4C" md5="123B90A1ED3FCE7AEBBD83068A09FBA9" sha1="C4FCF7A66DC42C3A9D3DF76BB3517200424997F6" />
+	</game>
+	<game name="Reiwa-ban Oh!X (Japan) (Disc 2)" type="">
+		<category>Coverdiscs</category>
+		<description>Reiwa-ban Oh!X (Japan) (Disc 2)</description>
+		<rom name="Reiwa-ban Oh!X (Japan) (Disc 2).iso" size="4500879360" crc="50C6129D" md5="A31850F93BCE3441FD00B3306FA66E26" sha1="4D54C9A6A446B8D2A404DCB270652F1C41C5390E" />
+	</game>
+</datafile>

@@ -4,8 +4,8 @@
 	<header>
 		<name>psx</name>
 		<description>MAME Redump - psx</description>
-		<version>0.286</version>
-		<date>2026-02-12</date>
+		<version>0.289</version>
+		<date>2026-03-09</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -2074,6 +2074,13 @@
 		<manufacturer>Kioon Sony Records</manufacturer>
 		<disk name="groovejv\groove jigoku v (japan) [slps-01205].chd" sha1="8096acdbc3f5bd0f21cbf17cbe3e47a1a81595ad" />
 	</machine>
+	<machine name="gshark22\gameshark enhancement cd version 2.2 (usa)">
+		<category>Games</category>
+		<description>GameShark Enhancement CD Version 2.2 (USA)</description>
+		<year>199?</year>
+		<manufacturer>&lt;unlicensed&gt;</manufacturer>
+		<disk name="gshark22\gameshark enhancement cd version 2.2 (usa).chd" sha1="c6a7342e2a4995032a03bbb0fa18d1a477027630" />
+	</machine>
 	<machine name="gtrfrk2m\guitar freaks append 2nd mix (japan) [slpm-86446]">
 		<category>Games</category>
 		<description>Guitar Freaks Append 2nd Mix (Japan)</description>
@@ -4068,13 +4075,6 @@
 		<year>2001</year>
 		<manufacturer>Success / Konami</manufacturer>
 		<disk name="salarymc\salary man champ - tatakau salary man (japan) [slpm-86820].chd" sha1="20cae68d59987a7e51eea4d5a1c57dd78c3a1a24" />
-	</machine>
-	<machine name="samsho3\samurai spirits - zankurou musouken (japan) [slps-91024]">
-		<category>Games</category>
-		<description>Samurai Spirits - Zankurou Musouken (Japan, PlayStation the Best)</description>
-		<year>1997</year>
-		<manufacturer>SNK</manufacturer>
-		<disk name="samsho3\samurai spirits - zankurou musouken (japan) [slps-91024].chd" sha1="5a8735c2626c73bee269aaacda37fbd301e0f49e" />
 	</machine>
 	<machine name="samshoky\samurai spirits - kenkaku yubinan pack (japan) [slps-00647]">
 		<category>Games</category>

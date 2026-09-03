@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast</name>
-		<description>MAME Redump - Sega - Dreamcast - Discs (1506) (2026-01-02 18-40-27)</description>
-		<version>0.286</version>
-		<date>2026-02-12</date>
+		<description>MAME Redump - Sega - Dreamcast - Datfile (1518) (2026-08-05 11-54-53)</description>
+		<version>0.289</version>
+		<date>2026-03-09</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -80,12 +80,12 @@
 		<description>Action Replay CDX Version 3.0 (France) (Unl)</description>
 		<disk name="Action Replay CDX Version 3.0 (France) (Unl).chd" sha1="c1e05eb4a90746bce6029fa1edfb33f409845f23" />
 	</machine>
-	<machine name="Advanced Daisenryaku - Sturm ueber Europa - Der Deutsche Blitzkrieg (Japan)">
+	<machine name="Advanced Daisenryaku - Sturm uber Europa - Der Deutsche Blitzkrieg (Japan)">
 		<category>Games</category>
-		<description>Advanced Daisenryaku - Sturm ueber Europa - Der Deutsche Blitzkrieg (Japan)</description>
+		<description>Advanced Daisenryaku - Sturm uber Europa - Der Deutsche Blitzkrieg (Japan)</description>
 		<year>2000</year>
 		<manufacturer>Sega</manufacturer>
-		<disk name="Advanced Daisenryaku - Sturm ueber Europa - Der Deutsche Blitzkrieg (Japan).chd" sha1="665a179438e4da74267acfc5e808bfbf883ad124" />
+		<disk name="Advanced Daisenryaku - Sturm uber Europa - Der Deutsche Blitzkrieg (Japan).chd" sha1="665a179438e4da74267acfc5e808bfbf883ad124" />
 	</machine>
 	<machine name="Advanced Daisenryaku 2001 (Japan)">
 		<category>Games</category>
@@ -351,15 +351,15 @@
 		<description>Atsumare! Guru Guru Onsen (Japan)</description>
 		<disk name="Atsumare! Guru Guru Onsen (Japan).chd" sha1="e6264ce7772bde78449653ac0c1acc45d3b8df3b" />
 	</machine>
-	<machine name="Atsumare! Guru Guru Onsen (Japan) (Demo 1)">
+	<machine name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 1)">
 		<category>Demos</category>
-		<description>Atsumare! Guru Guru Onsen (Japan) (Demo 1)</description>
-		<disk name="Atsumare! Guru Guru Onsen (Japan) (Demo 1).chd" sha1="4c9037ad0d201a9a0213577b4ad86cd4a011e771" />
+		<description>Atsumare! Guru Guru Onsen (Japan) (Taikenban 1)</description>
+		<disk name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 1).chd" sha1="4c9037ad0d201a9a0213577b4ad86cd4a011e771" />
 	</machine>
-	<machine name="Atsumare! Guru Guru Onsen (Japan) (Demo 2)">
+	<machine name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 2)">
 		<category>Demos</category>
-		<description>Atsumare! Guru Guru Onsen (Japan) (Demo 2)</description>
-		<disk name="Atsumare! Guru Guru Onsen (Japan) (Demo 2).chd" sha1="65476c648e034bc129a69cc008f2e0a6af8735d8" />
+		<description>Atsumare! Guru Guru Onsen (Japan) (Taikenban 2)</description>
+		<disk name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 2).chd" sha1="65476c648e034bc129a69cc008f2e0a6af8735d8" />
 	</machine>
 	<machine name="Atsumare! Guru Guru Onsen BB (Japan)">
 		<category>Games</category>
@@ -373,10 +373,10 @@
 		<description>Atsumare! Guru Guru Onsen BB (Japan) (Rev A)</description>
 		<disk name="Atsumare! Guru Guru Onsen BB (Japan) (Rev A).chd" sha1="e9e9a55ecfaa0815fc8d0631bc18a0cd0e8f70e9" />
 	</machine>
-	<machine name="Bakumatsu Roman Daini Maku - Gekka no Kenshi - Final Edition (Japan)">
+	<machine name="Bakumatsu Roman Dainimaku - Gekka no Kenshi - Final Edition (Japan)">
 		<category>Games</category>
-		<description>Bakumatsu Roman Daini Maku - Gekka no Kenshi - Final Edition (Japan)</description>
-		<disk name="Bakumatsu Roman Daini Maku - Gekka no Kenshi - Final Edition (Japan).chd" sha1="de2086813a04231bd7ab9c7545d3ab59f1a32fe5" />
+		<description>Bakumatsu Roman Dainimaku - Gekka no Kenshi - Final Edition (Japan)</description>
+		<disk name="Bakumatsu Roman Dainimaku - Gekka no Kenshi - Final Edition (Japan).chd" sha1="de2086813a04231bd7ab9c7545d3ab59f1a32fe5" />
 	</machine>
 	<machine name="Bakuretsu Muteki Bangaioh (Japan)">
 		<category>Games</category>
@@ -512,10 +512,10 @@
 		<description>Blue Stinger (France)</description>
 		<disk name="Blue Stinger (France).chd" sha1="deeb3c8f0088620f6a6de7e217b4b9c12c323483" />
 	</machine>
-	<machine name="Blue Stinger (Germany) (En,De)">
+	<machine name="Blue Stinger (Germany)">
 		<category>Games</category>
-		<description>Blue Stinger (Germany) (En,De)</description>
-		<disk name="Blue Stinger (Germany) (En,De).chd" sha1="ae2843c802eb044fe2345a7833b658210b27c0c0" />
+		<description>Blue Stinger (Germany)</description>
+		<disk name="Blue Stinger (Germany).chd" sha1="ae2843c802eb044fe2345a7833b658210b27c0c0" />
 	</machine>
 	<machine name="Blue Stinger (Japan)">
 		<category>Games</category>
@@ -740,10 +740,10 @@
 		<description>Centipede (USA)</description>
 		<disk name="Centipede (USA).chd" sha1="53c1c72fdeb18a6fc7ae3f0eabf91b651459a28c" />
 	</machine>
-	<machine name="Championship Surfer (Europe) (Beta) (2000-10-24)">
+	<machine name="Championship Surfer (Europe) (En,Fr,De) (Beta) (2000-10-24)">
 		<category>Preproduction</category>
-		<description>Championship Surfer (Europe) (Beta) (2000-10-24)</description>
-		<disk name="Championship Surfer (Europe) (Beta) (2000-10-24).chd" sha1="83db2104e03fefdb49ea3dd4ed61f5ffbe65ff29" />
+		<description>Championship Surfer (Europe) (En,Fr,De) (Beta) (2000-10-24)</description>
+		<disk name="Championship Surfer (Europe) (En,Fr,De) (Beta) (2000-10-24).chd" sha1="83db2104e03fefdb49ea3dd4ed61f5ffbe65ff29" />
 	</machine>
 	<machine name="Championship Surfer (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -821,10 +821,10 @@
 		<manufacturer>Alchemist</manufacturer>
 		<disk name="Chocolat - Maid Cafe Curio (Japan).chd" sha1="92ddb0d5acf83f3fb6bec362b19082f807f13fe6" />
 	</machine>
-	<machine name="Chocolat - Maid Cafe Curio (Japan) (Demo)">
+	<machine name="Chocolat - Maid Cafe Curio (Japan) (Taikenban)">
 		<category>Demos</category>
-		<description>Chocolat - Maid Cafe Curio (Japan) (Demo)</description>
-		<disk name="Chocolat - Maid Cafe Curio (Japan) (Demo).chd" sha1="e9da4243697162c0d582349ad9aae62c8a4c4bc9" />
+		<description>Chocolat - Maid Cafe Curio (Japan) (Taikenban)</description>
+		<disk name="Chocolat - Maid Cafe Curio (Japan) (Taikenban).chd" sha1="e9da4243697162c0d582349ad9aae62c8a4c4bc9" />
 	</machine>
 	<machine name="Chou Hatsumei Boy Kanipan - Bousou Robot no Nazo! (Japan)">
 		<category>Games</category>
@@ -905,12 +905,12 @@
 		<description>Coaster Works (USA)</description>
 		<disk name="Coaster Works (USA).chd" sha1="3c5b8f0ebd16ff08acfd55b1f4963d971b2fdabd" />
 	</machine>
-	<machine name="Comic Party (Japan) (Disc 1)">
+	<machine name="Comic Party (Japan) (Disc 1) (Rev A)">
 		<category>Games</category>
-		<description>Comic Party (Japan) (Disc 1)</description>
+		<description>Comic Party (Japan) (Disc 1) (Rev A)</description>
 		<year>2001</year>
 		<manufacturer>AquaPlus</manufacturer>
-		<disk name="Comic Party (Japan) (Disc 1).chd" sha1="4a26b68634360f6ec4c39763e1ec3aef1d46dff9" />
+		<disk name="Comic Party (Japan) (Disc 1) (Rev A).chd" sha1="4a26b68634360f6ec4c39763e1ec3aef1d46dff9" />
 	</machine>
 	<machine name="Comic Party (Japan) (Disc 2)">
 		<category>Games</category>
@@ -931,10 +931,10 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="Confidential Mission (Japan) (En,Ja,Fr,De,Es).chd" sha1="be5a2cc59ee335b29821607c617c19ade454fcea" />
 	</machine>
-	<machine name="Confidential Mission (USA)">
+	<machine name="Confidential Mission (USA) (En,Ja,Fr,De,Es)">
 		<category>Games</category>
-		<description>Confidential Mission (USA)</description>
-		<disk name="Confidential Mission (USA).chd" sha1="51deccee91e60e3edc43ac8725f93c0b3b434491" />
+		<description>Confidential Mission (USA) (En,Ja,Fr,De,Es)</description>
+		<disk name="Confidential Mission (USA) (En,Ja,Fr,De,Es).chd" sha1="51deccee91e60e3edc43ac8725f93c0b3b434491" />
 	</machine>
 	<machine name="Conflict Zone (Europe) (En,Fr,De)">
 		<category>Games</category>
@@ -995,10 +995,10 @@
 		<description>Crazy Taxi (Japan)</description>
 		<disk name="Crazy Taxi (Japan).chd" sha1="ae5c57bec624cccb09f9994e4788424c87bdea50" />
 	</machine>
-	<machine name="Crazy Taxi (USA)">
+	<machine name="Crazy Taxi (USA) (En,Ja)">
 		<category>Games</category>
-		<description>Crazy Taxi (USA)</description>
-		<disk name="Crazy Taxi (USA).chd" sha1="a6d60321bb33d541edb6611516f92ccc095608af" />
+		<description>Crazy Taxi (USA) (En,Ja)</description>
+		<disk name="Crazy Taxi (USA) (En,Ja).chd" sha1="a6d60321bb33d541edb6611516f92ccc095608af" />
 	</machine>
 	<machine name="Crazy Taxi 2 (Europe) (En,Ja,Fr,De,Es)">
 		<category>Games</category>
@@ -1405,15 +1405,15 @@
 		<description>Disney-Pixar Captain Buzz Lightyear - Star Command (Germany)</description>
 		<disk name="Disney-Pixar Captain Buzz Lightyear - Star Command (Germany).chd" sha1="77b3728cdeeaee0684605ac5d8766d005a93171c" />
 	</machine>
-	<machine name="Disney-Pixar Les Aventures de Buzz L'Eclair (France)">
+	<machine name="Disney-Pixar Les Aventures de Buzz l'Eclair (France)">
 		<category>Games</category>
-		<description>Disney-Pixar Les Aventures de Buzz L'Eclair (France)</description>
-		<disk name="Disney-Pixar Les Aventures de Buzz L'Eclair (France).chd" sha1="3c70e93a258369dc6a37a378bb055b9c2c5a6a82" />
+		<description>Disney-Pixar Les Aventures de Buzz l'Eclair (France)</description>
+		<disk name="Disney-Pixar Les Aventures de Buzz l'Eclair (France).chd" sha1="3c70e93a258369dc6a37a378bb055b9c2c5a6a82" />
 	</machine>
-	<machine name="Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse ! (France)">
+	<machine name="Disney-Pixar Toy Story 2 - Buzz l'Eclair a la rescousse ! (France)">
 		<category>Games</category>
-		<description>Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse ! (France)</description>
-		<disk name="Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse ! (France).chd" sha1="7841a3e04b48a71a4cf989cada9feb5ba0e7bb73" />
+		<description>Disney-Pixar Toy Story 2 - Buzz l'Eclair a la rescousse ! (France)</description>
+		<disk name="Disney-Pixar Toy Story 2 - Buzz l'Eclair a la rescousse ! (France).chd" sha1="7841a3e04b48a71a4cf989cada9feb5ba0e7bb73" />
 	</machine>
 	<machine name="Disney-Pixar Toy Story 2 - Buzz Lightyear eilt zur Hilfe! (Germany)">
 		<category>Games</category>
@@ -1455,10 +1455,10 @@
 		<description>Disney's Dinosaur (Europe) (En,Fr,De,Es,It) (Beta) (2000-10-05)</description>
 		<disk name="Disney's Dinosaur (Europe) (En,Fr,De,Es,It) (Beta) (2000-10-05).chd" sha1="55eab0e222c66dd8e8b28f437998f45c1fabb5d2" />
 	</machine>
-	<machine name="Disney's Dinosaur (USA)">
+	<machine name="Disney's Dinosaur (USA) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Disney's Dinosaur (USA)</description>
-		<disk name="Disney's Dinosaur (USA).chd" sha1="602ad7129a7002c2de984d239591861669bd70a9" />
+		<description>Disney's Dinosaur (USA) (En,Fr,De,Es,It)</description>
+		<disk name="Disney's Dinosaur (USA) (En,Fr,De,Es,It).chd" sha1="602ad7129a7002c2de984d239591861669bd70a9" />
 	</machine>
 	<machine name="Disney's Donald Duck - Goin' Quackers (USA)">
 		<category>Games</category>
@@ -1792,12 +1792,12 @@
 		<description>Dreamcast Middleware Conference Demo Disc Part.2 (Japan)</description>
 		<disk name="Dreamcast Middleware Conference Demo Disc Part.2 (Japan).chd" sha1="944dfc6cbf4d13608d8f3f0035a2d6dacfe7d1c8" />
 	</machine>
-	<machine name="Dreamcast Promotion Disk (Japan)">
+	<machine name="Dreamcast Promotion Disk (Japan) (610-7124)">
 		<category>Coverdiscs</category>
-		<description>Dreamcast Promotion Disk (Japan)</description>
+		<description>Dreamcast Promotion Disk (Japan) (610-7124)</description>
 		<year>1999</year>
 		<manufacturer>Sega</manufacturer>
-		<disk name="Dreamcast Promotion Disk (Japan).chd" sha1="48c3d90c4e0b272ccb8f9ada7a1feb3758d83061" />
+		<disk name="Dreamcast Promotion Disk (Japan) (610-7124).chd" sha1="48c3d90c4e0b272ccb8f9ada7a1feb3758d83061" />
 	</machine>
 	<machine name="Dreamcast System-Disc 2 (Japan)">
 		<category>Applications</category>
@@ -2424,10 +2424,10 @@
 		<description>F1 World Grand Prix II for Dreamcast (Japan) (Demo)</description>
 		<disk name="F1 World Grand Prix II for Dreamcast (Japan) (Demo).chd" sha1="d9af182cc622d8f9419266093de6932b0628af27" />
 	</machine>
-	<machine name="F355 Challenge - Passione Rossa (Europe) (En,Fr,De,Es,It)">
+	<machine name="F355 Challenge - Passione Rossa (Europe)">
 		<category>Games</category>
-		<description>F355 Challenge - Passione Rossa (Europe) (En,Fr,De,Es,It)</description>
-		<disk name="F355 Challenge - Passione Rossa (Europe) (En,Fr,De,Es,It).chd" sha1="1d9c175ee7cd8c940cec9afc83cbce55a2fa124f" />
+		<description>F355 Challenge - Passione Rossa (Europe)</description>
+		<disk name="F355 Challenge - Passione Rossa (Europe).chd" sha1="1d9c175ee7cd8c940cec9afc83cbce55a2fa124f" />
 	</machine>
 	<machine name="F355 Challenge - Passione Rossa (USA)">
 		<category>Games</category>
@@ -2486,15 +2486,15 @@
 		<manufacturer>Eidos Interactive</manufacturer>
 		<disk name="Fighting Force 2 (USA) (Rev A).chd" sha1="7814c912238861742b2375d25017ee0cc6d76d81" />
 	</machine>
-	<machine name="Fighting Vipers 2 (Europe) (Beta) (2000-12-26)">
-		<category>Preproduction</category>
-		<description>Fighting Vipers 2 (Europe) (Beta) (2000-12-26)</description>
-		<disk name="Fighting Vipers 2 (Europe) (Beta) (2000-12-26).chd" sha1="f7433bdc28d195572952332437c61b0546e12f82" />
-	</machine>
 	<machine name="Fighting Vipers 2 (Europe) (En,Ja,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Fighting Vipers 2 (Europe) (En,Ja,Fr,De,Es,It)</description>
 		<disk name="Fighting Vipers 2 (Europe) (En,Ja,Fr,De,Es,It).chd" sha1="e872c7b1b2bbee66f457700c09e0c411dfe50b74" />
+	</machine>
+	<machine name="Fighting Vipers 2 (Europe) (En,Ja,Fr,De,Es,It) (Beta) (2000-12-26)">
+		<category>Preproduction</category>
+		<description>Fighting Vipers 2 (Europe) (En,Ja,Fr,De,Es,It) (Beta) (2000-12-26)</description>
+		<disk name="Fighting Vipers 2 (Europe) (En,Ja,Fr,De,Es,It) (Beta) (2000-12-26).chd" sha1="f7433bdc28d195572952332437c61b0546e12f82" />
 	</machine>
 	<machine name="Fighting Vipers 2 (Japan) (En,Ja)">
 		<category>Games</category>
@@ -2740,10 +2740,10 @@
 		<description>Giant Gram - Zen Nihon Pro Wres 2 in Nippon Budoukan (Japan)</description>
 		<disk name="Giant Gram - Zen Nihon Pro Wres 2 in Nippon Budoukan (Japan).chd" sha1="80f95a71ad1ff85223e5e1cfeee9b9b4569e6590" />
 	</machine>
-	<machine name="Giant Gram 2000 - Zen Nihon Pro Wres 3 Eikou no Yuusha-tachi (Japan)">
+	<machine name="Giant Gram 2000 - Zen Nihon Pro Wres 3 Eikou no Yuushatachi (Japan)">
 		<category>Games</category>
-		<description>Giant Gram 2000 - Zen Nihon Pro Wres 3 Eikou no Yuusha-tachi (Japan)</description>
-		<disk name="Giant Gram 2000 - Zen Nihon Pro Wres 3 Eikou no Yuusha-tachi (Japan).chd" sha1="436380b415b222bece79f10d35f19347bb00384a" />
+		<description>Giant Gram 2000 - Zen Nihon Pro Wres 3 Eikou no Yuushatachi (Japan)</description>
+		<disk name="Giant Gram 2000 - Zen Nihon Pro Wres 3 Eikou no Yuushatachi (Japan).chd" sha1="436380b415b222bece79f10d35f19347bb00384a" />
 	</machine>
 	<machine name="Giant Killers (Europe) (Beta) (2001-01-09)">
 		<category>Preproduction</category>
@@ -3191,12 +3191,12 @@
 		<description>Hydro Thunder (USA) (Rev 1)</description>
 		<disk name="Hydro Thunder (USA) (Rev 1).chd" sha1="c4ac107ffac8cb94bf7beb910de72298cd490d9d" />
 	</machine>
-	<machine name="Idol Janshi o Tsukucchaou (Japan)">
+	<machine name="Idol Janshi o Tsukutchaou (Japan)">
 		<category>Games</category>
-		<description>Idol Janshi o Tsukucchaou (Japan)</description>
+		<description>Idol Janshi o Tsukutchaou (Japan)</description>
 		<year>1999</year>
 		<manufacturer>Jaleco</manufacturer>
-		<disk name="Idol Janshi o Tsukucchaou (Japan).chd" sha1="f31ee28505fdd303caead1160915dc11ee712ca4" />
+		<disk name="Idol Janshi o Tsukutchaou (Japan).chd" sha1="f31ee28505fdd303caead1160915dc11ee712ca4" />
 	</machine>
 	<machine name="Ikaruga (Japan)">
 		<category>Games</category>
@@ -3483,15 +3483,15 @@
 		<manufacturer>NEC Interchannel</manufacturer>
 		<disk name="Kanon (Japan).chd" sha1="4c915bc782f743c6f87812041c9baccb0e947825" />
 	</machine>
-	<machine name="Kao the Kangaroo (Europe) (Demo)">
-		<category>Demos</category>
-		<description>Kao the Kangaroo (Europe) (Demo)</description>
-		<disk name="Kao the Kangaroo (Europe) (Demo).chd" sha1="8f263d551cebf0ffcf9b5ccbde086d6ab2cdccb8" />
-	</machine>
 	<machine name="Kao the Kangaroo (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
 		<description>Kao the Kangaroo (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Kao the Kangaroo (Europe) (En,Fr,De,Es,It).chd" sha1="d3dbcecc95ac44736d2ee37bdbafbbbc2ddb3624" />
+	</machine>
+	<machine name="Kao the Kangaroo (Europe) (En,Fr,De,Es,It) (Demo)">
+		<category>Demos</category>
+		<description>Kao the Kangaroo (Europe) (En,Fr,De,Es,It) (Demo)</description>
+		<disk name="Kao the Kangaroo (Europe) (En,Fr,De,Es,It) (Demo).chd" sha1="8f263d551cebf0ffcf9b5ccbde086d6ab2cdccb8" />
 	</machine>
 	<machine name="Kao the Kangaroo (USA) (En,Es)">
 		<category>Games</category>
@@ -3593,10 +3593,10 @@
 		<description>King of Fighters 2001, The (Japan)</description>
 		<disk name="King of Fighters 2001, The (Japan).chd" sha1="8ae60580e8a7b3f37675f14646101d7c6d5b6fb5" />
 	</machine>
-	<machine name="King of Fighters 2002, The (Japan) (En,Ja)">
+	<machine name="King of Fighters 2002, The (Japan)">
 		<category>Games</category>
-		<description>King of Fighters 2002, The (Japan) (En,Ja)</description>
-		<disk name="King of Fighters 2002, The (Japan) (En,Ja).chd" sha1="b90f4dbd8919b466296cf0f93b8dc41f080209b7" />
+		<description>King of Fighters 2002, The (Japan)</description>
+		<disk name="King of Fighters 2002, The (Japan).chd" sha1="b90f4dbd8919b466296cf0f93b8dc41f080209b7" />
 	</machine>
 	<machine name="King of Fighters '99, The - Evolution (Japan)">
 		<category>Games</category>
@@ -3887,10 +3887,10 @@
 		<description>Marionette Handler 2 (Japan)</description>
 		<disk name="Marionette Handler 2 (Japan).chd" sha1="a283333db2d0691f06c8c7ea0cc9879048c6317d" />
 	</machine>
-	<machine name="Mars Matrix (Japan) (En,Ja)">
+	<machine name="Mars Matrix (Japan)">
 		<category>Games</category>
-		<description>Mars Matrix (Japan) (En,Ja)</description>
-		<disk name="Mars Matrix (Japan) (En,Ja).chd" sha1="8a7310947bf56c0c21122c22c4d48f7e99cffb75" />
+		<description>Mars Matrix (Japan)</description>
+		<disk name="Mars Matrix (Japan).chd" sha1="8a7310947bf56c0c21122c22c4d48f7e99cffb75" />
 	</machine>
 	<machine name="Mars Matrix (USA)">
 		<category>Games</category>
@@ -4487,10 +4487,10 @@
 		<description>NHL 2K (Europe)</description>
 		<disk name="NHL 2K (Europe).chd" sha1="5177a8d105c4fd1cacbc1c51f8c53d7e3a4622ec" />
 	</machine>
-	<machine name="NHL 2K (USA)">
+	<machine name="NHL 2K (USA, Canada)">
 		<category>Games</category>
-		<description>NHL 2K (USA)</description>
-		<disk name="NHL 2K (USA).chd" sha1="661ae4ae1fb11abb5dcda351f3dccaea6be86d61" />
+		<description>NHL 2K (USA, Canada)</description>
+		<disk name="NHL 2K (USA, Canada).chd" sha1="661ae4ae1fb11abb5dcda351f3dccaea6be86d61" />
 	</machine>
 	<machine name="NHL 2K2 (Japan)">
 		<category>Games</category>
@@ -4792,20 +4792,15 @@
 		<description>Pizzicato Polka - Ensa Gen'ya (Japan)</description>
 		<disk name="Pizzicato Polka - Ensa Gen'ya (Japan).chd" sha1="9407c1a36ab60e8898748f7fca03e67798a2fd5d" />
 	</machine>
-	<machine name="Planet DC Cheats Band 1 fuer Dreamcast (Germany) (Unl)">
+	<machine name="Planet DC Cheats Band 1 fur Dreamcast (Germany) (Unl)">
 		<category>Applications</category>
-		<description>Planet DC Cheats Band 1 fuer Dreamcast (Germany) (Unl)</description>
-		<disk name="Planet DC Cheats Band 1 fuer Dreamcast (Germany) (Unl).chd" sha1="23d27b88d5ad18072152fe312667763302790ed3" />
+		<description>Planet DC Cheats Band 1 fur Dreamcast (Germany) (Unl)</description>
+		<disk name="Planet DC Cheats Band 1 fur Dreamcast (Germany) (Unl).chd" sha1="23d27b88d5ad18072152fe312667763302790ed3" />
 	</machine>
-	<machine name="Planet DC Cheats Band 2 fuer Dreamcast (Germany) (Unl)">
+	<machine name="Planet DC Cheats Band 2 fur Dreamcast (Germany) (Unl)">
 		<category>Applications</category>
-		<description>Planet DC Cheats Band 2 fuer Dreamcast (Germany) (Unl)</description>
-		<disk name="Planet DC Cheats Band 2 fuer Dreamcast (Germany) (Unl).chd" sha1="83fc4970192fc25abe789ecd1c5dc84d190b866b" />
-	</machine>
-	<machine name="Planet DC Cheats Band 3 fuer Dreamcast (Germany) (Unl)">
-		<category>Applications</category>
-		<description>Planet DC Cheats Band 3 fuer Dreamcast (Germany) (Unl)</description>
-		<disk name="Planet DC Cheats Band 3 fuer Dreamcast (Germany) (Unl).chd" sha1="38b5cdfc73c8ffe3eb7b8b30deb28cd4f2077b8b" />
+		<description>Planet DC Cheats Band 2 fur Dreamcast (Germany) (Unl)</description>
+		<disk name="Planet DC Cheats Band 2 fur Dreamcast (Germany) (Unl).chd" sha1="83fc4970192fc25abe789ecd1c5dc84d190b866b" />
 	</machine>
 	<machine name="Planet DC Cheats Volume 1 (UK) (Unl)">
 		<category>Applications</category>
@@ -4816,6 +4811,11 @@
 		<category>Applications</category>
 		<description>Planet DC Cheats Volume 2 (UK) (Unl)</description>
 		<disk name="Planet DC Cheats Volume 2 (UK) (Unl).chd" sha1="0a051bd7ba2a8181da5132957c443104e2baaf43" />
+	</machine>
+	<machine name="Planet DC Cheats Volume 3 (Europe) (Unl)">
+		<category>Applications</category>
+		<description>Planet DC Cheats Volume 3 (Europe) (Unl)</description>
+		<disk name="Planet DC Cheats Volume 3 (Europe) (Unl).chd" sha1="38b5cdfc73c8ffe3eb7b8b30deb28cd4f2077b8b" />
 	</machine>
 	<machine name="Planet Ring (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -5112,10 +5112,10 @@
 		<description>Quake III - Arena (USA)</description>
 		<disk name="Quake III - Arena (USA).chd" sha1="baf012bf5c1d8c00b495f032f3ff764b8cdd604f" />
 	</machine>
-	<machine name="Qui Veut Gagner des Millions (France)">
+	<machine name="Qui veut gagner des millions (France)">
 		<category>Games</category>
-		<description>Qui Veut Gagner des Millions (France)</description>
-		<disk name="Qui Veut Gagner des Millions (France).chd" sha1="5f9cbd39cc55e4c07c2b6bcebaac25801c35aeca" />
+		<description>Qui veut gagner des millions (France)</description>
+		<disk name="Qui veut gagner des millions (France).chd" sha1="5f9cbd39cc55e4c07c2b6bcebaac25801c35aeca" />
 	</machine>
 	<machine name="Quiz Aa Megami-sama - Tatakau Tsubasa to Tomoni (Japan)">
 		<category>Games</category>
@@ -5519,11 +5519,6 @@
 		<description>Rune Jade (Japan)</description>
 		<disk name="Rune Jade (Japan).chd" sha1="7e0f32b615b183f76a311ed0a5c3df85edcc1344" />
 	</machine>
-	<machine name="Rush 2049 (Europe) (En,De,Es,It,Nl,Fi) (Beta) (2000-08-07)">
-		<category>Preproduction</category>
-		<description>Rush 2049 (Europe) (En,De,Es,It,Nl,Fi) (Beta) (2000-08-07)</description>
-		<disk name="Rush 2049 (Europe) (En,De,Es,It,Nl,Fi) (Beta) (2000-08-07).chd" sha1="78d5a566db948a95eb7970d9c71ac5d9c0a40307" />
-	</machine>
 	<machine name="Rush Rush Rally Racing (Europe) (Unl)">
 		<category>Games</category>
 		<description>Rush Rush Rally Racing (Europe) (Unl)</description>
@@ -5549,20 +5544,20 @@
 		<description>Rush Rush Rally Reloaded (USA) (En,Fr,De,Es,It,Nl) (Unl)</description>
 		<disk name="Rush Rush Rally Reloaded (USA) (En,Fr,De,Es,It,Nl) (Unl).chd" sha1="148f2be5a03adca7c64adcac7440ecf466361c77" />
 	</machine>
-	<machine name="Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan)">
+	<machine name="Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan)">
 		<category>Games</category>
-		<description>Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan)</description>
-		<disk name="Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan).chd" sha1="36a077d7a09a8a8bb76a83e2816026f8f105094c" />
+		<description>Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan)</description>
+		<disk name="Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan).chd" sha1="36a077d7a09a8a8bb76a83e2816026f8f105094c" />
 	</machine>
-	<machine name="Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A)">
+	<machine name="Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A)">
 		<category>Games</category>
-		<description>Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A)</description>
-		<disk name="Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A).chd" sha1="5937d5f483f61a12382390006eb544d4f22f6b96" />
+		<description>Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A)</description>
+		<disk name="Sakatsuku Tokudaigou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A).chd" sha1="5937d5f483f61a12382390006eb544d4f22f6b96" />
 	</machine>
-	<machine name="Sakatsuku Tokudai-gou 2 - J.League Pro Soccer Club o Tsukurou! (Japan)">
+	<machine name="Sakatsuku Tokudaigou 2 - J.League Pro Soccer Club o Tsukurou! (Japan)">
 		<category>Games</category>
-		<description>Sakatsuku Tokudai-gou 2 - J.League Pro Soccer Club o Tsukurou! (Japan)</description>
-		<disk name="Sakatsuku Tokudai-gou 2 - J.League Pro Soccer Club o Tsukurou! (Japan).chd" sha1="f58d56871f453462fafc8adc4be74ed810a376ce" />
+		<description>Sakatsuku Tokudaigou 2 - J.League Pro Soccer Club o Tsukurou! (Japan)</description>
+		<disk name="Sakatsuku Tokudaigou 2 - J.League Pro Soccer Club o Tsukurou! (Japan).chd" sha1="f58d56871f453462fafc8adc4be74ed810a376ce" />
 	</machine>
 	<machine name="Sakura Momoko Gekijou - Coji-Coji (Japan)">
 		<category>Games</category>
@@ -5589,10 +5584,10 @@
 		<description>Sakura Taisen (Japan) (Disc 2) (Rev A)</description>
 		<disk name="Sakura Taisen (Japan) (Disc 2) (Rev A).chd" sha1="01e3e853423ba641e8d24b120102a0227ac96b22" />
 	</machine>
-	<machine name="Sakura Taisen (Japan) (Omake Disc)">
+	<machine name="Sakura Taisen (Japan) (Omake)">
 		<category>Bonus Discs</category>
-		<description>Sakura Taisen (Japan) (Omake Disc)</description>
-		<disk name="Sakura Taisen (Japan) (Omake Disc).chd" sha1="7c364a49b522417e246579cf30ae8e7e4bdb3472" />
+		<description>Sakura Taisen (Japan) (Omake)</description>
+		<disk name="Sakura Taisen (Japan) (Omake).chd" sha1="7c364a49b522417e246579cf30ae8e7e4bdb3472" />
 	</machine>
 	<machine name="Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Japan) (Disc 1)">
 		<category>Games</category>
@@ -5718,6 +5713,11 @@
 		<category>Games</category>
 		<description>San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<disk name="San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl).chd" sha1="8d58ca7ee3472f971e7f19710fa6899af5a28c1e" />
+	</machine>
+	<machine name="San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-08-07)">
+		<category>Preproduction</category>
+		<description>San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-08-07)</description>
+		<disk name="San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-08-07).chd" sha1="78d5a566db948a95eb7970d9c71ac5d9c0a40307" />
 	</machine>
 	<machine name="San Francisco Rush 2049 (USA) (En,Fr,De,Es,It,Nl)">
 		<category>Games</category>
@@ -6289,15 +6289,15 @@
 		<description>Sonic Adventure (Japan)</description>
 		<disk name="Sonic Adventure (Japan).chd" sha1="07e460bd2a5593fd86aaa643b7d87a9b8badd9a7" />
 	</machine>
-	<machine name="Sonic Adventure (USA)">
-		<category>Games</category>
-		<description>Sonic Adventure (USA)</description>
-		<disk name="Sonic Adventure (USA).chd" sha1="cf0ae03446ae76c9f5e14176a8f524a0661fe78b" />
-	</machine>
 	<machine name="Sonic Adventure (USA) (Demo)">
 		<category>Demos</category>
 		<description>Sonic Adventure (USA) (Demo)</description>
 		<disk name="Sonic Adventure (USA) (Demo).chd" sha1="c2d6b4995c75515240a4be2a7f2b5c83b89d4e23" />
+	</machine>
+	<machine name="Sonic Adventure (USA) (En,Ja,Fr,De,Es)">
+		<category>Games</category>
+		<description>Sonic Adventure (USA) (En,Ja,Fr,De,Es)</description>
+		<disk name="Sonic Adventure (USA) (En,Ja,Fr,De,Es).chd" sha1="cf0ae03446ae76c9f5e14176a8f524a0661fe78b" />
 	</machine>
 	<machine name="Sonic Adventure (USA) (En,Ja,Fr,De,Es) (Rev A)">
 		<category>Games</category>
@@ -7069,15 +7069,15 @@
 		<description>Tomb Raider - Die Chronik (Germany)</description>
 		<disk name="Tomb Raider - Die Chronik (Germany).chd" sha1="0146876fd2af0e00bd024fc41ef1bcfa17d443c9" />
 	</machine>
-	<machine name="Tomb Raider - La Revelation Finale (France)">
+	<machine name="Tomb Raider - La Revelation finale (France)">
 		<category>Games</category>
-		<description>Tomb Raider - La Revelation Finale (France)</description>
-		<disk name="Tomb Raider - La Revelation Finale (France).chd" sha1="35c640d600caac2e117f4477639f3a902940de43" />
+		<description>Tomb Raider - La Revelation finale (France)</description>
+		<disk name="Tomb Raider - La Revelation finale (France).chd" sha1="35c640d600caac2e117f4477639f3a902940de43" />
 	</machine>
-	<machine name="Tomb Raider - Sur les Traces de Lara Croft (France)">
+	<machine name="Tomb Raider - Sur les traces de Lara Croft (France)">
 		<category>Games</category>
-		<description>Tomb Raider - Sur les Traces de Lara Croft (France)</description>
-		<disk name="Tomb Raider - Sur les Traces de Lara Croft (France).chd" sha1="0c88df99fdb4c4950ae9c598c35e9077b8c88016" />
+		<description>Tomb Raider - Sur les traces de Lara Croft (France)</description>
+		<disk name="Tomb Raider - Sur les traces de Lara Croft (France).chd" sha1="0c88df99fdb4c4950ae9c598c35e9077b8c88016" />
 	</machine>
 	<machine name="Tomb Raider - The Last Revelation (Europe)">
 		<category>Games</category>
@@ -7449,25 +7449,25 @@
 		<description>Virtua Fighter History-VF4 (Japan) (Alt)</description>
 		<disk name="Virtua Fighter History-VF4 (Japan) (Alt).chd" sha1="00386e3a2b4fc7ac60a30224a6ccce009932ad44" />
 	</machine>
-	<machine name="Virtua Striker 2 (USA) (En,Ja,De,Es)">
+	<machine name="Virtua Striker 2 (USA)">
 		<category>Games</category>
-		<description>Virtua Striker 2 (USA) (En,Ja,De,Es)</description>
-		<disk name="Virtua Striker 2 (USA) (En,Ja,De,Es).chd" sha1="f35a25fe7f6010165aa7d449d1dbd5383dfd81e2" />
+		<description>Virtua Striker 2 (USA)</description>
+		<disk name="Virtua Striker 2 (USA).chd" sha1="f35a25fe7f6010165aa7d449d1dbd5383dfd81e2" />
+	</machine>
+	<machine name="Virtua Striker 2 Ver. 2000.1 (Europe)">
+		<category>Games</category>
+		<description>Virtua Striker 2 Ver. 2000.1 (Europe)</description>
+		<disk name="Virtua Striker 2 Ver. 2000.1 (Europe).chd" sha1="f9370186ce7606abef9f4d462930aa9bfd8d3e83" />
 	</machine>
 	<machine name="Virtua Striker 2 Ver. 2000.1 (Europe) (Beta) (1999-11-29)">
 		<category>Preproduction</category>
 		<description>Virtua Striker 2 Ver. 2000.1 (Europe) (Beta) (1999-11-29)</description>
 		<disk name="Virtua Striker 2 Ver. 2000.1 (Europe) (Beta) (1999-11-29).chd" sha1="ddc5f02597ee0c98af9570f3e743af0e3c8f153b" />
 	</machine>
-	<machine name="Virtua Striker 2 Ver. 2000.1 (Europe) (En,Ja,Fr,De,Es)">
+	<machine name="Virtua Striker 2 Ver. 2000.1 (Japan)">
 		<category>Games</category>
-		<description>Virtua Striker 2 Ver. 2000.1 (Europe) (En,Ja,Fr,De,Es)</description>
-		<disk name="Virtua Striker 2 Ver. 2000.1 (Europe) (En,Ja,Fr,De,Es).chd" sha1="f9370186ce7606abef9f4d462930aa9bfd8d3e83" />
-	</machine>
-	<machine name="Virtua Striker 2 Ver. 2000.1 (Japan) (En,Ja,Fr,De,Es)">
-		<category>Games</category>
-		<description>Virtua Striker 2 Ver. 2000.1 (Japan) (En,Ja,Fr,De,Es)</description>
-		<disk name="Virtua Striker 2 Ver. 2000.1 (Japan) (En,Ja,Fr,De,Es).chd" sha1="e42192bc97df6f554cf595741ac2e116ad1ae332" />
+		<description>Virtua Striker 2 Ver. 2000.1 (Japan)</description>
+		<disk name="Virtua Striker 2 Ver. 2000.1 (Japan).chd" sha1="e42192bc97df6f554cf595741ac2e116ad1ae332" />
 	</machine>
 	<machine name="Virtua Tennis - Sega Professional Tennis (Europe) (Beta) (2000-06-15)">
 		<category>Preproduction</category>
@@ -7489,10 +7489,10 @@
 		<description>Virtua Tennis (USA)</description>
 		<disk name="Virtua Tennis (USA).chd" sha1="23b976a7a3b1259e094e2417c06efae5c373b18a" />
 	</machine>
-	<machine name="Virtua Tennis 2 - Sega Professional Tennis (Europe) (En,Fr,De,Es)">
+	<machine name="Virtua Tennis 2 - Sega Professional Tennis (Europe) (En,Ja,Fr,De,Es)">
 		<category>Games</category>
-		<description>Virtua Tennis 2 - Sega Professional Tennis (Europe) (En,Fr,De,Es)</description>
-		<disk name="Virtua Tennis 2 - Sega Professional Tennis (Europe) (En,Fr,De,Es).chd" sha1="0024edbc7d79a3ed6b12585c3a3cbe0dcc0a7266" />
+		<description>Virtua Tennis 2 - Sega Professional Tennis (Europe) (En,Ja,Fr,De,Es)</description>
+		<disk name="Virtua Tennis 2 - Sega Professional Tennis (Europe) (En,Ja,Fr,De,Es).chd" sha1="0024edbc7d79a3ed6b12585c3a3cbe0dcc0a7266" />
 	</machine>
 	<machine name="Visual Park (Japan)">
 		<category>Applications</category>

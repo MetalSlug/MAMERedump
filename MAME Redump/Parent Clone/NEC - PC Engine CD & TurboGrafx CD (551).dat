@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>NEC - PC Engine CD &amp; TurboGrafx CD</name>
-		<description>MAME Redump - NEC - PC Engine CD &amp; TurboGrafx CD - Discs (551) (2026-01-06 09-10-30)</description>
-		<version>0.286</version>
-		<date>2026-02-12</date>
+		<description>MAME Redump - NEC - PC Engine CD &amp; TurboGrafx CD - Datfile (551) (2026-07-27 09-33-14)</description>
+		<version>0.289</version>
+		<date>2026-03-09</date>
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
@@ -286,10 +286,10 @@
 		<description>Cardangels (Japan)</description>
 		<disk name="Cardangels (Japan).chd" sha1="307219a9fb182bc9b465fda225f31e35174af2df" />
 	</machine>
-	<machine name="CD Battle - Hikari no Yuusha-tachi (Japan)">
+	<machine name="CD Battle - Hikari no Yuushatachi (Japan)">
 		<category>Games</category>
-		<description>CD Battle - Hikari no Yuusha-tachi (Japan)</description>
-		<disk name="CD Battle - Hikari no Yuusha-tachi (Japan).chd" sha1="b5c1d99fc6955c3ea08ee4d6a53a2cfcb9f5b2e0" />
+		<description>CD Battle - Hikari no Yuushatachi (Japan)</description>
+		<disk name="CD Battle - Hikari no Yuushatachi (Japan).chd" sha1="b5c1d99fc6955c3ea08ee4d6a53a2cfcb9f5b2e0" />
 	</machine>
 	<machine name="CD Bishoujo Pachinko - Kyuuma Yon Shimai (Japan) (Unl)">
 		<category>Games</category>
@@ -878,11 +878,6 @@
 		<description>Godzilla Bakutou Retsuden (Japan)</description>
 		<disk name="Godzilla Bakutou Retsuden (Japan).delta.chd" sha1="bc61075f1094e32504ce6e8e50e29ea2981767e6" />
 	</machine>
-	<machine name="Goetzendiener (Japan)">
-		<category>Games</category>
-		<description>Goetzendiener (Japan)</description>
-		<disk name="Goetzendiener (Japan).chd" sha1="2866ee7152d3cbeea7c4da25706d18f96b4aac0f" />
-	</machine>
 	<machine name="Golden Axe (Japan)">
 		<category>Games</category>
 		<description>Golden Axe (Japan)</description>
@@ -892,6 +887,11 @@
 		<category>Games</category>
 		<description>Golden Axe (Japan) (Alt)</description>
 		<disk name="Golden Axe (Japan) (Alt).delta.chd" sha1="6fc8bdab240880b060a55d209e2634b8c683a88c" />
+	</machine>
+	<machine name="Gotzendiener (Japan)">
+		<category>Games</category>
+		<description>Gotzendiener (Japan)</description>
+		<disk name="Gotzendiener (Japan).chd" sha1="2866ee7152d3cbeea7c4da25706d18f96b4aac0f" />
 	</machine>
 	<machine name="Gradius II - Gofer no Yabou (Japan)">
 		<category>Games</category>
@@ -2574,10 +2574,10 @@
 		<description>Ultra Box 6-gou (Japan)</description>
 		<disk name="Ultra Box 6-gou (Japan).chd" sha1="9175463b38ecaf8410673435922388ef37e1dcda" />
 	</machine>
-	<machine name="Ultra Box Soukan-gou (Japan)">
+	<machine name="Ultra Box Soukangou (Japan)">
 		<category>Multimedia</category>
-		<description>Ultra Box Soukan-gou (Japan)</description>
-		<disk name="Ultra Box Soukan-gou (Japan).chd" sha1="0eef71f930dfb99b0c1f8f5379047891a4739c8d" />
+		<description>Ultra Box Soukangou (Japan)</description>
+		<disk name="Ultra Box Soukangou (Japan).chd" sha1="0eef71f930dfb99b0c1f8f5379047891a4739c8d" />
 	</machine>
 	<machine name="Urusei Yatsura - Stay with You (Japan)">
 		<category>Games</category>
