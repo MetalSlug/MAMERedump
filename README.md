@@ -81,10 +81,10 @@ Following Sets contains ISO Files
 
 |Redump												|Version   |Have					|MIA		|Uncompressed	|CHD Size	|P/C Size	|
 |---------------------------------------------------|----------|------------------------|-----------|-------|-----------|-----------|
-**3DO Interactive Multiplayer**|2026-08-04|672|0|322 GB|189 GB|157 GB (123)
+**3DO Interactive Multiplayer**|2026-08-04|668|0|321 GB|188 GB|156 GB (123)
 **Acorn - Archimedes**|2026-07-23|79|0|32 GB|16 GB|
 Apple - Macintosh|2026-08-05|1179|259|928 GB|651 GB|621 GB (31)
-*Apple - Pippin*|2026-07-03|35|1437|16 GB|7 GB|
+**Apple - Pippin**|2026-07-03|34|0|16 GB|6 GB|
 **Arcade - Funworld - Photo Play**|2026-07-03|17|0|10 GB|5 GB|
 **Arcade - Incredible Technologies - Eagle**|2026-07-03|7|0|4 GB|3 GB|
 Arcade - Konami - e-Amusement|2026-07-03|27|22|31 GB|26 GB|
@@ -92,22 +92,22 @@ Arcade - Konami - e-Amusement|2026-07-03|27|22|31 GB|26 GB|
 **Arcade - Konami - System 573**|2026-07-03|44|0|11 GB|8 GB|8 GB (1)
 Arcade - Konami - System GV|2026-07-07|2|1|985 MB|641 MB|321 MB (1)
 **Arcade - Namco - Sega - Nintendo - Triforce**|2026-07-03|22|0|24 GB|7 GB|5 GB (9)
-**Arcade - Namco - System 246**|2026-07-09|15|0|37 GB|9 GB|
+**Arcade - Namco - System 246**|2026-07-09|11|0|25 GB|6 GB|
 Arcade - Sega - Chihiro|2026-07-03|17|2|19 GB|11 GB|9 GB (5)
 Arcade - Sega - Lindbergh|2026-07-03|69|2|184 GB|175 GB|155 GB (10)
 **Arcade - Sega - Naomi 2**|2026-07-03|13|0|14 GB|3 GB|2 GB (3)
 **Arcade - Sega - Naomi**|2026-07-03|34|0|38 GB|4 GB|4 GB (5)
 Arcade - Sega - RingEdge 2|2026-07-07|34|11|153 GB|153 GB|
-Arcade - Sega - RingEdge|2026-07-08|33|27|133 GB|132 GB|
-**Arcade - TAB-Austria - Quizard**|2026-07-27|15|0|6 GB|4 GB|
+Arcade - Sega - RingEdge|2026-07-08|27|27|124 GB|124 GB|
+**Arcade - TAB-Austria - Quizard**|2026-07-27|10|0|3 GB|1 GB|
 Atari - Jaguar CD Interactive Multimedia System|2026-07-03|27|11|8 GB|5 GB|4 GB (6)
 Bandai - Playdia Quick Interactive System|2026-07-03|37|1|24 GB|18 GB|
 Commodore - Amiga CD|2026-08-02|601|2|348 GB|210 GB|209 GB (3)
 **Commodore - Amiga CD32**|2026-08-02|207|0|47 GB|24 GB|24 GB (2)
 **Commodore - Amiga CDTV**|2026-08-05|62|0|17 GB|9 GB|9 GB (1)
 **Datel - PlayStation Cheat Device Updates**|2026-07-03|34|0|8 GB|579 MB|
-Fujitsu - FM Towns series|2026-07-24|947|140|300 GB|136 GB|136 GB (2)
-IBM - PC compatible|2026-08-06|53579|6893|64,34 TB|56,16 TB|
+Fujitsu - FM Towns series|2026-07-24|947|1|300 GB|136 GB|136 GB (2)
+IBM - PC compatible|2026-08-06|53506|6754|64,29 TB|56,12 TB|
 **Mattel - Fisher-Price iXL**|2026-07-03|26|0|3 GB|2 GB|2 GB (2)
 **Mattel - HyperScan**|2026-07-03|8|0|1 GB|505 MB|294 MB (3)
 **Memorex - Visual Information System**|2026-07-03|72|0|17 GB|8 GB|8 GB (1)
@@ -116,28 +116,28 @@ Microsoft - Pocket PC|2026-07-03|80|2|15 GB|12 GB|
 ~~Microsoft - Xbox~~|2026-08-06|0|2684|||
 **NEC - PC Engine CD & TurboGrafx CD**|2026-07-27|551|0|238 GB|123 GB|104 GB (94)
 **NEC - PC-88 series**|2026-07-03|4|0|2 GB|842 MB|555 MB (1)
-*NEC - PC-98 series*|2026-07-31|206|881|55 GB|29 GB|29 GB (1)
+NEC - PC-98 series|2026-07-31|129|10|29 GB|15 GB|15 GB (1)
 **NEC - PC-FX**|2026-07-28|79|0|44 GB|30 GB|
 Nintendo - GameCube|2026-08-03|1982|39|2,63 TB|1,46 TB|
-Nintendo - Wii|2026-08-04|3719|186|16,02 TB|5,78 TB|
+Nintendo - Wii|2026-08-04|3719|62|16,02 TB|5,78 TB|
 Palm OS|2026-08-05|159|2|19 GB|14 GB|
-Philips - CD-i|2026-08-04|2414|297|1,20 TB|728 GB|705 GB (93)
-Photo CD|2026-07-28|251|33|98 GB|48 GB|47 GB (7)
+Philips - CD-i|2026-08-04|2414|14|1,20 TB|728 GB|705 GB (93)
+Photo CD|2026-07-28|250|33|98 GB|47 GB|47 GB (7)
 Sega - Dreamcast|2026-08-05|1506|12|1,58 TB|608 GB|556 GB (220)
 **Sega - Mega-CD - Sega CD**|2026-08-04|549|0|237 GB|127 GB|
 **Sega - Prologue 21 Multimedia Karaoke System**|2026-08-02|30|0|19 GB|17 GB|
-*Sega - Saturn*|2026-08-05|2448|60278|1 TB|613 GB|
+Sega - Saturn|2026-08-05|2446|18|1 TB|613 GB|
 Sharp - X68000|2026-07-03|30|2|12 GB|6 GB|
 **SNK - Neo Geo CD**|2026-07-24|111|0|60 GB|31 GB|28 GB (8)
 Sony - PlayStation 2|2026-08-05|11735|89|25,42 TB|15,34 TB|9,72 TB (4861)
 *Sony - PlayStation 3 (Decrypted)*|2026-03-16|298|4183|2,29 TB|1,11 TB| (180)
 Sony - PlayStation Portable|2026-08-06|3509|17|3,07 TB|2,07 TB|
-Sony - PlayStation|2026-08-06|10897|66|4,58 TB|2,55 TB|
+Sony - PlayStation|2026-08-06|10896|66|4,58 TB|2,55 TB|
 **Tomy - Kiss-Site**|2026-07-03|30|0|3 GB|3 GB|
 VM Labs - NUON|2026-07-03|9|2|12 GB|8 GB|
 **VTech - V.Flash & V.Smile Pro**|2026-07-03|51|0|23 GB|9 GB|
 **ZAPiT Games - Game Wave Family Entertainment System**|2026-07-03|17|0|53 GB|50 GB|
-Total||98589|81279|125,67 TB|88,66 TB|82,85 TB (5674)
+Total||98415|18026|125,56 TB|88,58 TB|82,77 TB (5674)
 
 
 |MAME|Exclusive|Matched|Exclusive Size|Matched Size|
