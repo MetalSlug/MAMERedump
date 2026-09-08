@@ -199,10 +199,10 @@
 		<description>BLJS-10176</description>
 		<disk name="Accel World - Kasoku no Chouten (Japan).chd" sha1="a8ff1a92946f63d6f0996bafba3d2523ee449945" />
 	</machine>
-	<machine name="AC-DC Live - Rock Band (Europe) (En,Fr,De,Es,It)">
+	<machine name="AC-DC Live - Rock Band (Europe) (En,Fr,De,Es,It)" cloneof="AC-DC Live - Rock Band Track Pack (USA)">
 		<category>Games</category>
 		<description>BLES-00453</description>
-		<disk name="AC-DC Live - Rock Band (Europe) (En,Fr,De,Es,It).chd" sha1="8452be66c15d2a3510d4c359e2c551025bdaa6e0" />
+		<disk name="AC-DC Live - Rock Band (Europe) (En,Fr,De,Es,It).delta.chd" sha1="8452be66c15d2a3510d4c359e2c551025bdaa6e0" />
 	</machine>
 	<machine name="AC-DC Live - Rock Band Track Pack (USA)">
 		<category>Games</category>
@@ -244,10 +244,10 @@
 		<description>BLES-02194</description>
 		<disk name="Adam's Venture - Chronicles (Europe) (En,Fr,De,Es,It).chd" sha1="2bf943746b60248f067e12776a205be9ff4769c9" />
 	</machine>
-	<machine name="Adidas miCoach (Europe, Australia) (En,Fr,De,Es,It)">
+	<machine name="Adidas miCoach (Europe, Australia) (En,Fr,De,Es,It)" cloneof="Adidas miCoach (USA) (En,Fr,Es)">
 		<category>Games</category>
 		<description>BLES-01529</description>
-		<disk name="Adidas miCoach (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="d1ba8c40d0e26c90dafba4a10a17449afb992e92" />
+		<disk name="Adidas miCoach (Europe, Australia) (En,Fr,De,Es,It).delta.chd" sha1="d1ba8c40d0e26c90dafba4a10a17449afb992e92" />
 	</machine>
 	<machine name="Adidas miCoach (USA) (En,Fr,Es)">
 		<category>Games</category>
@@ -1439,10 +1439,10 @@
 		<description>BLUS-31417</description>
 		<disk name="Mugen Souls Z (USA).chd" sha1="4673f713414ecbe19edaeef383c173ce33f12fa9" />
 	</machine>
-	<machine name="Novyj Chelovek-Pauk (Russia)">
+	<machine name="Novyj Chelovek-Pauk (Russia)" cloneof="Amazing Spider-Man, The (USA) (En,Fr,Es)">
 		<category>Games</category>
 		<description>BLES-01618</description>
-		<disk name="Novyj Chelovek-Pauk (Russia).chd" sha1="a65777515ed27caf470b7cd5bed0b4c3d4cd0c65" />
+		<disk name="Novyj Chelovek-Pauk (Russia).delta.chd" sha1="a65777515ed27caf470b7cd5bed0b4c3d4cd0c65" />
 	</machine>
 	<machine name="Record of Agarest War (Korea)" cloneof="Agarest - Generations of War (Europe)">
 		<category>Games</category>

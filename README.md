@@ -130,14 +130,14 @@ Sega - Saturn|2026-08-05|2446|18|1 TB|613 GB|
 Sharp - X68000|2026-07-03|30|2|12 GB|6 GB|
 **SNK - Neo Geo CD**|2026-07-24|111|0|60 GB|31 GB|28 GB (8)
 Sony - PlayStation 2|2026-08-05|11735|89|25,42 TB|15,34 TB|9,72 TB (4861)
-*Sony - PlayStation 3 (Decrypted)*|2026-03-16|298|4183|2,29 TB|1,11 TB| (180)
+*Sony - PlayStation 3 (Decrypted)*|2026-03-16|298|4183|2,29 TB|1,97 TB|1,09 TB (183)
 Sony - PlayStation Portable|2026-08-06|3509|17|3,07 TB|2,07 TB|
 Sony - PlayStation|2026-08-06|10896|66|4,58 TB|2,55 TB|
 **Tomy - Kiss-Site**|2026-07-03|30|0|3 GB|3 GB|
 VM Labs - NUON|2026-07-03|9|2|12 GB|8 GB|
 **VTech - V.Flash & V.Smile Pro**|2026-07-03|51|0|23 GB|9 GB|
 **ZAPiT Games - Game Wave Family Entertainment System**|2026-07-03|17|0|53 GB|50 GB|
-Total||98415|18026|125,56 TB|88,58 TB|82,77 TB (5674)
+Total||98415|18026|125,56 TB|89,44 TB|82,75 TB (5677)
 
 
 |MAME|Exclusive|Matched|Exclusive Size|Matched Size|
