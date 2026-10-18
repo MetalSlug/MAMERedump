@@ -314,6 +314,8 @@
 	<machine name="Inherit the Earth - Quest for the Orb (Japan)">
 		<category>Games</category>
 		<description>Inherit the Earth - Quest for the Orb (Japan)</description>
+		<year>1995</year>
+		<manufacturer>スタークラフト (Starcraft)</manufacturer>
 		<disk name="Inherit the Earth - Quest for the Orb (Japan).chd" sha1="7ed036c851fcb958144613a0d4cacd3f8d9c939e" />
 	</machine>
 	<machine name="Innocent Tour (Japan)">
@@ -377,10 +379,10 @@
 		<manufacturer>パンサーソフトウェア (Panther Software)</manufacturer>
 		<disk name="Lesser Mern - Special Director's Edition (Japan).chd" sha1="9ecf32d0dfe54a3781e822e30ac40ab971ba03b2" />
 	</machine>
-	<machine name="Logicool Mouseware 8.2J (Japan) (En,Ja)">
+	<machine name="Logicool Mouseware 8.2J (Japan) (En,Ja)" cloneof="Logicool Mouseware 8.2J (Japan) (En,Ja)">
 		<category>Applications</category>
 		<description>Logicool Mouseware 8.2J (Japan) (En,Ja)</description>
-		<disk name="Logicool Mouseware 8.2J (Japan) (En,Ja).chd" sha1="955e13d8e1ee393938d6f80931dbdc531b00d27b" />
+		<disk name="Logicool Mouseware 8.2J (Japan) (En,Ja).delta.chd" sha1="955e13d8e1ee393938d6f80931dbdc531b00d27b" />
 	</machine>
 	<machine name="Logicool Mouseware 8.2J (Japan) (En,Ja) (Alt)" cloneof="Logicool Mouseware 8.2J (Japan) (En,Ja)">
 		<category>Applications</category>

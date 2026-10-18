@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>amiga_cd</name>
+		<description>MAME Redump - amiga_cd</description>
+		<version>0.289</version>
+		<date>2026-03-09</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="bigred\big_red_adventure_(1997)(ludomedia-power_computing)[m4]">
+		<category>Games</category>
+		<description>The Big Red Adventure (Europe)</description>
+		<year>1997</year>
+		<manufacturer>Power Computing</manufacturer>
+		<disk name="bigred\big_red_adventure_(1997)(ludomedia-power_computing)[m4].chd" sha1="4883a7e4418321c649e4df9a66958b51697656fb" />
+	</machine>
+</datafile>

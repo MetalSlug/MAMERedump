@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Mega-CD &amp; Sega CD - CD - Multimedia - [ISO]</name>
+		<description>MAME Redump - Sega Mega-CD &amp; Sega CD - CD - Multimedia - [ISO] (TOSEC-v2014-07-01)</description>
+		<version>0.289</version>
+		<date>2026-03-09</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="INXS (1993)(Digital Pictures - Sony)(EU)(en)">
+		<description>INXS (1993)(Digital Pictures - Sony)(EU)(en)</description>
+		<year>1993</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="INXS (1993)(Digital Pictures - Sony)(EU)(en).chd" sha1="274a831113134ca9264bf8c3dcf33efc1862d893" />
+	</machine>
+	<machine name="Rock Paintings - CD+G Sampler + Hot Hits - Adventurous New Music Sampler (1992)(Sega)(Disc 2 of 2)[CD-Audio]">
+		<description>Rock Paintings - CD+G Sampler + Hot Hits - Adventurous New Music Sampler (1992)(Sega)(Disc 2 of 2)[CD-Audio]</description>
+		<year>1992</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="Rock Paintings - CD+G Sampler + Hot Hits - Adventurous New Music Sampler (1992)(Sega)(Disc 2 of 2)[CD-Audio].chd" sha1="66fbc916efd18f0e523e966caa8f865dbaa9fbbd" />
+	</machine>
+	<machine name="Virtual VCR - The Colors of Modern Rock (1993)(Digital Pictures)(US)">
+		<description>Virtual VCR - The Colors of Modern Rock (1993)(Digital Pictures)(US)</description>
+		<year>1993</year>
+		<manufacturer>Sega / Warner Custom Music</manufacturer>
+		<disk name="Virtual VCR - The Colors of Modern Rock (1993)(Digital Pictures)(US).chd" sha1="05aee62a06bac7e380a9bca772a853845c210093" />
+	</machine>
+</datafile>

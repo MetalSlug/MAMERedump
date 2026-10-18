@@ -9,94 +9,259 @@
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
-	<game name="Amazing Spider-Man, The - Countdown to Doom (UK)" type="cd" sha1="62dab892bc5bd19e2d70d54443842fb95277b9fa" size="135207463" crc="66896ffb" fullsha1="599f7fac8abb555457558ed52b4ca1c1710e2065" datasha1="79b0e58c0c57c463374235539dbaf73eed87ae3f">
+	<game name="Amazing Spider-Man, The - Countdown to Doom (UK)" type="cd" sha1="62dab892bc5bd19e2d70d54443842fb95277b9fa" size="135207463" crc="66896ffb" fullsha1="599f7fac8abb555457558ed52b4ca1c1710e2065" datasha1="79b0e58c0c57c463374235539dbaf73eed87ae3f" rawdatasha1="454fdc9602d20359a51c628c5e4e185b45cbb8eb" rawdatasize="375346272">
 		<category>Games</category>
 		<description>Amazing Spider-Man, The - Countdown to Doom (UK)</description>
-		<rom name="Amazing Spider-Man, The - Countdown to Doom (UK) (Track 01).bin" size="375346272" crc="9994c734" md5="68acf6e39f6ebdeafbd9fe9c2c5e8709" sha1="454fdc9602d20359a51c628c5e4e185b45cbb8eb"/>
+		<rom name="Amazing Spider-Man, The - Countdown to Doom (UK) (Track 01).bin" size="375346272" crc="9994c734" md5="68acf6e39f6ebdeafbd9fe9c2c5e8709" sha1="454fdc9602d20359a51c628c5e4e185b45cbb8eb" datasha1="48d313b9568a8367c18baf163b59e039461b0d63" datasize="326832128"/>
 	</game>
-	<game name="Bob L'Eponge - Une Idee Spongieuse (France)" type="cd" sha1="99b8951d4a5d8ac66578649db8928c26db3a6806" size="174349380" crc="eec7af43" fullsha1="be15748e1345e69217148178be48ee015e48d4bf" datasha1="ebfc8cf9f9c72b44477d6b8a50fa53d65cd6e909">
+	<game name="Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 1)" type="cd" sha1="450d83b15d14ac9aaf4b9c7cdd12f5be7553a4ef" size="137016961" crc="abc5b185" fullsha1="b41bfab381ec4e1a2ceab56aa10d71b17c8a31bb" datasha1="c0e991835ad7280d6dc2f700b2fbbac3841d4c58" rawdatasha1="f8e5886d0821478db7596c4fa0a23cb01f8d606b" rawdatasize="377164368">
+		<category>Games</category>
+		<description>Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 1)</description>
+		<rom name="Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 1) (Track 01).bin" size="377164368" crc="1e971cfe" md5="63b755c424376ed5001cb16585f66c8b" sha1="f8e5886d0821478db7596c4fa0a23cb01f8d606b" datasha1="c0c1d79b4f3c384601b16b8569d96f58bb0093b0" datasize="328415232"/>
+	</game>
+	<game name="Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 2)" type="cd" sha1="c926711214c0fbf6c09ff55e4b3f1e128c429e83" size="137082985" crc="215671b2" fullsha1="79fbb95a0c313097d09199a0ff9d0648436afff5" datasha1="28f5c3d4e3d596d00c5dc1f4faaa83e1b03d8bbe" rawdatasha1="eb1627908b34bedfab60d61088d5ff67069ffb48" rawdatasize="377178480">
+		<category>Games</category>
+		<description>Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 2)</description>
+		<rom name="Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 2) (Track 01).bin" size="377178480" crc="8b81146a" md5="a3f58172b73a46fc256e9fe04f1ee8aa" sha1="eb1627908b34bedfab60d61088d5ff67069ffb48" datasha1="19d28abd0d81ce7d4291a695849b3bacfe54650f" datasize="328427520"/>
+	</game>
+	<game name="Asombroso Spider-Man, El - Persecucion en la Ciudad (Spain)" type="cd" sha1="ed02d1f3e51e9a1dcf7f77d021a8a23810c6fbd5" size="137706398" crc="9654ff43" fullsha1="083d2808f46f7e9d8a6f7f419241356d1f8405ea" datasha1="f66efca3d347c61b572f14a22cb37984d6e01f59" rawdatasha1="e21a6195dff27ce31c436088eab7f51061cfdb4f" rawdatasize="379869168">
+		<category>Games</category>
+		<description>Asombroso Spider-Man, El - Persecucion en la Ciudad (Spain)</description>
+		<rom name="Asombroso Spider-Man, El - Persecucion en la Ciudad (Spain) (Track 01).bin" size="379869168" crc="f8586771" md5="7c308de353f00b8cb067719b589772e4" sha1="e21a6195dff27ce31c436088eab7f51061cfdb4f" datasha1="0feeb1ba5b8a5dc27c3b8c595bc5d16bbf1727dd" datasize="330770432"/>
+	</game>
+	<game name="Bob L'Eponge - Une Idee Spongieuse (France)" type="cd" sha1="99b8951d4a5d8ac66578649db8928c26db3a6806" size="174349380" crc="eec7af43" fullsha1="be15748e1345e69217148178be48ee015e48d4bf" datasha1="ebfc8cf9f9c72b44477d6b8a50fa53d65cd6e909" rawdatasha1="f9070dfece0929b0fd48f89a6ef74b174078f4e6" rawdatasize="480530064">
 		<category>Games</category>
 		<description>Bob L'Eponge - Une Idee Spongieuse (France)</description>
-		<rom name="Bob L'Eponge - Une Idee Spongieuse (France) (Track 01).bin" size="480530064" crc="bcc5ad55" md5="70f51298f0579a0cc0fe51bc015fa0b7" sha1="f9070dfece0929b0fd48f89a6ef74b174078f4e6"/>
+		<rom name="Bob L'Eponge - Une Idee Spongieuse (France) (Track 01).bin" size="480530064" crc="bcc5ad55" md5="70f51298f0579a0cc0fe51bc015fa0b7" sha1="f9070dfece0929b0fd48f89a6ef74b174078f4e6" datasha1="b2f80d7bcb5d5f98c5e06bde0bc0e88217733336" datasize="418420736"/>
 	</game>
-	<game name="Bratz Fashion Pixiez - Le Collier Magique (France)" type="cd" sha1="025cc7a77694463e5a289e31e4e41401e9a0aa7f" size="248443496" crc="b5a3201a" fullsha1="50888c43b802d5f180c2b312a0301daa5474a7c5" datasha1="3caac593cf24333dbc5f3153d6e00cfa91a32e5a">
+	<game name="Bratz - El Misterio del Collar (Spain)" type="cd" sha1="43ab33cecaabbe32e5642d118869b6bdd304b976" size="256536139" crc="512b20ba" fullsha1="371369ad911912be3cf82129bfe105b071b342d0" datasha1="2f26abfc2dfb9b2b99939f068dc0ecb467b0d85c" rawdatasha1="879366712219b4577594a414dedad9a8e69bd662" rawdatasize="567161280">
+		<category>Games</category>
+		<description>Bratz - El Misterio del Collar (Spain)</description>
+		<rom name="Bratz - El Misterio del Collar (Spain) (Track 01).bin" size="567161280" crc="f58a656f" md5="2f51d37b1b5b4b9cd3065d8370930c29" sha1="879366712219b4577594a414dedad9a8e69bd662" datasha1="c54652b17517bb966a7bb4bc2074688dd4b2b6ee" datasize="493854720"/>
+	</game>
+	<game name="Bratz - Fashion Pixiez - The Secret Necklace (USA)" type="cd" sha1="915d4d3dd3949f3d1e0462988208e39a94425219" size="252112619" crc="6a3bf059" fullsha1="4f5a1ab3254de3840be6b9c8edd4aefec1f1f301" datasha1="3b3f202dbd0f9ae14cca074173ab4a5b105ad8ce" rawdatasha1="d63b998729e990ceb7f1fa3842fd1c9e58f57bbe" rawdatasize="559354992">
+		<category>Games</category>
+		<description>Bratz - Fashion Pixiez - The Secret Necklace (USA)</description>
+		<rom name="Bratz - Fashion Pixiez - The Secret Necklace (USA) (Track 01).bin" size="559354992" crc="46e8e1fd" md5="ee5ea1200d6077c11171ad918a5bc81e" sha1="d63b998729e990ceb7f1fa3842fd1c9e58f57bbe" datasha1="094bcce70f3412fbde9a5c14e1d8d7eb1a68f4ff" datasize="487057408"/>
+	</game>
+	<game name="Bratz Fashion Pixiez - Le Collier Magique (France)" type="cd" sha1="025cc7a77694463e5a289e31e4e41401e9a0aa7f" size="248443496" crc="b5a3201a" fullsha1="50888c43b802d5f180c2b312a0301daa5474a7c5" datasha1="3caac593cf24333dbc5f3153d6e00cfa91a32e5a" rawdatasha1="70b6d483ddece3d4101456c6ae4188992e548c2a" rawdatasize="557708592">
 		<category>Games</category>
 		<description>Bratz Fashion Pixiez - Le Collier Magique (France)</description>
-		<rom name="Bratz Fashion Pixiez - Le Collier Magique (France) (Track 01).bin" size="557708592" crc="98126810" md5="6c16106a01564f4696611c634bc14d3d" sha1="70b6d483ddece3d4101456c6ae4188992e548c2a"/>
+		<rom name="Bratz Fashion Pixiez - Le Collier Magique (France) (Track 01).bin" size="557708592" crc="98126810" md5="6c16106a01564f4696611c634bc14d3d" sha1="70b6d483ddece3d4101456c6ae4188992e548c2a" datasha1="321503a7adc31b2b807b83bf72a243c4c9a59e26" datasize="485623808"/>
 	</game>
-	<game name="Defis Sports (France)" type="cd" sha1="2f9876d5ced919765b0b2412de2c3d82540a0d58" size="51069972" crc="9ba89357" fullsha1="4f21e8e0cc76f0a31c697425ef25b2dae496bf89" datasha1="9c3114520a92587c4bfb3d528db2b97766e7f4f0">
+	<game name="Carrera Loca en la Isla de las Vainas Fritas (Spain) (Rev 1)" type="cd" sha1="23860a5c0e2be744ecfdecc9a87fe441626dadbb" size="181644577" crc="e1ef7e21" fullsha1="c3c98b37c6d235815698aaf67e796a34fb7ab577" datasha1="d40b839712e5804db01d012765827e4cb2e8d57c" rawdatasha1="056b7974ff60c56790aa43e382681b1c96d17b9d" rawdatasize="443638944">
+		<category>Games</category>
+		<description>Carrera Loca en la Isla de las Vainas Fritas (Spain) (Rev 1)</description>
+		<rom name="Carrera Loca en la Isla de las Vainas Fritas (Spain) (Rev 1) (Track 01).bin" size="443638944" crc="0c7dff14" md5="11a4101a1cad9b392670b6fb354e090a" sha1="056b7974ff60c56790aa43e382681b1c96d17b9d" datasha1="c3ba91858ea81f93192d81a4d4cc09bbcc456dd0" datasize="386297856"/>
+	</game>
+	<game name="Cars - Auf der Uberholspur (Germany)" type="cd" sha1="59946a10bffee31111f0f24c25453920baca9953" size="209725905" crc="cd257856" fullsha1="360498c7e97b953c3dbb6b5c7b5e8ca394c07388" datasha1="fc07789bc6800f677a8c2f077183c6bcc836ce81" rawdatasha1="2794bb37d03435c1318ee632d067d64aaecbbebf" rawdatasize="562353792">
+		<category>Games</category>
+		<description>Cars - Auf der Uberholspur (Germany)</description>
+		<rom name="Cars - Auf der Uberholspur (Germany) (Track 01).bin" size="562353792" crc="e487ef85" md5="cb4e68d95acd4346d3726da2201f37d7" sha1="2794bb37d03435c1318ee632d067d64aaecbbebf" datasha1="34d6923871ffb6589bf298bb833a5ee8735fb17a" datasize="489668608"/>
+	</game>
+	<game name="Cars - El Carril Rapido (Spain)" type="cd" sha1="7523a0e2083d33aea1a1aecb695c6ee04d65e076" size="194254653" crc="29ebcda7" fullsha1="af1261e0e309e144b4a5f335c368fae12c2d7034" datasha1="65fa6364fd521c8dd45d32d6d1824abd1d6d0183" rawdatasha1="513c1453eb0f74a2bad8c20896ecedf9d85f8913" rawdatasize="547032864">
+		<category>Games</category>
+		<description>Cars - El Carril Rapido (Spain)</description>
+		<rom name="Cars - El Carril Rapido (Spain) (Track 01).bin" size="547032864" crc="1dc57b07" md5="59b1ea0bd4ebfbf538287a5f22e817c8" sha1="513c1453eb0f74a2bad8c20896ecedf9d85f8913" datasha1="cea374aa4e486e47cbed6c768753b2b705df0a12" datasize="476327936"/>
+	</game>
+	<game name="Defis Sports (France)" type="cd" sha1="2f9876d5ced919765b0b2412de2c3d82540a0d58" size="51069972" crc="9ba89357" fullsha1="4f21e8e0cc76f0a31c697425ef25b2dae496bf89" datasha1="9c3114520a92587c4bfb3d528db2b97766e7f4f0" rawdatasha1="55dcab6f8d69ff60bbf6315dcda5428e5fb4c675" rawdatasize="299847072">
 		<category>Games</category>
 		<description>Defis Sports (France)</description>
-		<rom name="Defis Sports (France) (Track 01).bin" size="299847072" crc="3d43a73d" md5="1903d7075e0b42a5f2256019130cae94" sha1="55dcab6f8d69ff60bbf6315dcda5428e5fb4c675"/>
+		<rom name="Defis Sports (France) (Track 01).bin" size="299847072" crc="3d43a73d" md5="1903d7075e0b42a5f2256019130cae94" sha1="55dcab6f8d69ff60bbf6315dcda5428e5fb4c675" datasha1="e375823ad7bc38b582f921763187d0e381850c20" datasize="261091328"/>
 	</game>
-	<game name="Dingo Rallye - Fou ! Fou ! Fou ! (France)" type="cd" sha1="9096b624c228a136e499831353e62852393ff646" size="190824672" crc="72e4f103" fullsha1="e911b1f54ba2ef2ebc945ae6f09c2df960811cd7" datasha1="eb5ce568c17f13d0830edcc86bb9c3b6d038fdb9">
+	<game name="Dingo Rallye - Fou ! Fou ! Fou ! (France)" type="cd" sha1="9096b624c228a136e499831353e62852393ff646" size="190824672" crc="72e4f103" fullsha1="e911b1f54ba2ef2ebc945ae6f09c2df960811cd7" datasha1="eb5ce568c17f13d0830edcc86bb9c3b6d038fdb9" rawdatasha1="c5876be45e2f562292dd1a3d8441cb3b7a238a36" rawdatasize="456299760">
 		<category>Games</category>
 		<description>Dingo Rallye - Fou ! Fou ! Fou ! (France)</description>
-		<rom name="Dingo Rallye - Fou ! Fou ! Fou ! (France) (Track 01).bin" size="456299760" crc="6a6d0266" md5="d23d0e8da66a6e1fbce5bd229f4e792b" sha1="c5876be45e2f562292dd1a3d8441cb3b7a238a36"/>
+		<rom name="Dingo Rallye - Fou ! Fou ! Fou ! (France) (Track 01).bin" size="456299760" crc="6a6d0266" md5="d23d0e8da66a6e1fbce5bd229f4e792b" sha1="c5876be45e2f562292dd1a3d8441cb3b7a238a36" datasha1="6ffea170b13a532738f7fd8a4dc105e8fad1a0aa" datasize="397322240"/>
 	</game>
-	<game name="Disney Princess - The Crystal Ball Adventure (UK)" type="cd" sha1="e62f34ab7115eaf93c0c3a84987f23fc4a6957c7" size="190343387" crc="bc23a396" fullsha1="2b599c532ed0551c78bd1ea73461c5a855cd8bfe" datasha1="76ffe24e8fef4c714f45c1c66b6de42b163dbf13">
+	<game name="Disney Princess - Das Zauberhafte Marchen-Abenteuer (Germany)" type="cd" sha1="2bcf441a9a488e057ffc578ce1f7e281d56ee620" size="187876942" crc="6ac33339" fullsha1="c260c8d182292b777b94c8418bceb1339a6ebc6d" datasha1="591924dfb54dca664f3c9d0602cece8f0e3394ef" rawdatasha1="d50f91fb7c79b8851cb3b6fbb80b66d78def511e" rawdatasize="467570544">
+		<category>Games</category>
+		<description>Disney Princess - Das Zauberhafte Marchen-Abenteuer (Germany)</description>
+		<rom name="Disney Princess - Das Zauberhafte Marchen-Abenteuer (Germany) (Track 01).bin" size="467570544" crc="f919071f" md5="113931a8190127d723fa4348f92d6b4f" sha1="d50f91fb7c79b8851cb3b6fbb80b66d78def511e" datasha1="2a0636fe90200762222dcab4ccc919fabda60dbb" datasize="407136256"/>
+	</game>
+	<game name="Disney Princess - El Castillo de las Princesas (Spain)" type="cd" sha1="f791fd89f6e88c07383dbc191f31d1f2cbdb8f70" size="165700974" crc="b15aed91" fullsha1="eaf2998e561fe238a07d9410ab320c63af0673fd" datasha1="c2f502f304654a44fbb84611c55221fe920c1675" rawdatasha1="460deadcd71d46e51db714a4ac4f2efe659f9051" rawdatasize="431876592">
+		<category>Games</category>
+		<description>Disney Princess - El Castillo de las Princesas (Spain)</description>
+		<rom name="Disney Princess - El Castillo de las Princesas (Spain) (Track 01).bin" size="431876592" crc="37ee2273" md5="e56056501943e726e93c2c19ba465474" sha1="460deadcd71d46e51db714a4ac4f2efe659f9051" datasha1="ea3ca085936910491871b2ba284cadc5628b530f" datasize="376055808"/>
+	</game>
+	<game name="Disney Princess - The Crystal Ball Adventure (UK)" type="cd" sha1="e62f34ab7115eaf93c0c3a84987f23fc4a6957c7" size="190343387" crc="bc23a396" fullsha1="2b599c532ed0551c78bd1ea73461c5a855cd8bfe" datasha1="76ffe24e8fef4c714f45c1c66b6de42b163dbf13" rawdatasha1="e1dbf43735fef9eb15b3c16e13363f90f5e13c6f" rawdatasize="470785728">
 		<category>Games</category>
 		<description>Disney Princess - The Crystal Ball Adventure (UK)</description>
-		<rom name="Disney Princess - The Crystal Ball Adventure (UK) (Track 01).bin" size="470785728" crc="3f358bc4" md5="622baea678e1c2b8ba6c43ae9877e0d8" sha1="e1dbf43735fef9eb15b3c16e13363f90f5e13c6f"/>
+		<rom name="Disney Princess - The Crystal Ball Adventure (UK) (Track 01).bin" size="470785728" crc="3f358bc4" md5="622baea678e1c2b8ba6c43ae9877e0d8" sha1="e1dbf43735fef9eb15b3c16e13363f90f5e13c6f" datasha1="c7600158c4fde623cbaa2452890e99998e78ff06" datasize="409935872"/>
 	</game>
-	<game name="Disney Princess - The Crystal Ball Adventure (USA) (Alt 2)" type="cd" sha1="d57c0e4ddac0696afb7373ed406075022a78ba23" size="192976753" crc="0a52b306" fullsha1="60b961b0515a1c62a2a381d7b66b9f5e1d314423" datasha1="ac4aeaf33623a6d708b0e98eff59cc02e83173b1">
+	<game name="Disney Princess - The Crystal Ball Adventure (USA)" type="cd" sha1="0ccdab77ad877aa15c5d128b4bd5587a15036c6e" size="191859066" crc="d4c2cdf1" fullsha1="04b9d84635a5271a8639a460fc7148ad3e215bf7" datasha1="ff37395896e693f1251d03011e698b2d48a1d23b" rawdatasha1="b5dd0d446da323db37b671a06d14ba4d6a900ea7" rawdatasize="470098944">
+		<category>Games</category>
+		<description>Disney Princess - The Crystal Ball Adventure (USA)</description>
+		<rom name="Disney Princess - The Crystal Ball Adventure (USA) (Track 01).bin" size="470098944" crc="49f568d1" md5="89da78bb92eeba6235cf27956c658cf3" sha1="b5dd0d446da323db37b671a06d14ba4d6a900ea7" datasha1="12574ae6e1b3bc4a6d980765e2983c86e021deef" datasize="409337856"/>
+	</game>
+	<game name="Disney Princess - The Crystal Ball Adventure (USA) (Alt 2)" type="cd" sha1="d57c0e4ddac0696afb7373ed406075022a78ba23" size="192976753" crc="0a52b306" fullsha1="60b961b0515a1c62a2a381d7b66b9f5e1d314423" datasha1="ac4aeaf33623a6d708b0e98eff59cc02e83173b1" rawdatasha1="31143026e7f1f9b8986ecadfaaa6ef88f9e57abe" rawdatasize="471912336">
 		<category>Games</category>
 		<description>Disney Princess - The Crystal Ball Adventure (USA) (Alt 2)</description>
-		<rom name="Disney Princess - The Crystal Ball Adventure (USA) (Alt 2) (Track 01).bin" size="471912336" crc="99743337" md5="399e77a4d5e61c8532baf57d34b3b9a9" sha1="31143026e7f1f9b8986ecadfaaa6ef88f9e57abe"/>
+		<rom name="Disney Princess - The Crystal Ball Adventure (USA) (Alt 2) (Track 01).bin" size="471912336" crc="99743337" md5="399e77a4d5e61c8532baf57d34b3b9a9" sha1="31143026e7f1f9b8986ecadfaaa6ef88f9e57abe" datasha1="e7d2d722e4ff47971452c96a3798615e08e52615" datasize="410916864"/>
 	</game>
-	<game name="Disney Princess - The Crystal Ball Adventure (USA) (Alt)" type="cd" sha1="03a3737797560b1cba334223d1ccbfb513577b54" size="190591552" crc="21197ae1" fullsha1="08e074beb86b1e79aa55aff5aaae0d21104eea0c" datasha1="e3cdb4585aedb844e271cdd1726b574e794d22dd">
+	<game name="Disney Princess - The Crystal Ball Adventure (USA) (Alt)" type="cd" sha1="03a3737797560b1cba334223d1ccbfb513577b54" size="190591552" crc="21197ae1" fullsha1="08e074beb86b1e79aa55aff5aaae0d21104eea0c" datasha1="e3cdb4585aedb844e271cdd1726b574e794d22dd" rawdatasha1="adc967fc856208be2bdfaf5d6f4f64bd77d20122" rawdatasize="469750848">
 		<category>Games</category>
 		<description>Disney Princess - The Crystal Ball Adventure (USA) (Alt)</description>
-		<rom name="Disney Princess - The Crystal Ball Adventure (USA) (Alt) (Track 01).bin" size="469750848" crc="6e86d3f1" md5="9197cbe56409db518627ffd1c56b1bf1" sha1="adc967fc856208be2bdfaf5d6f4f64bd77d20122"/>
+		<rom name="Disney Princess - The Crystal Ball Adventure (USA) (Alt) (Track 01).bin" size="469750848" crc="6e86d3f1" md5="9197cbe56409db518627ffd1c56b1bf1" sha1="adc967fc856208be2bdfaf5d6f4f64bd77d20122" datasha1="e7aea66ed93b986b575e0a293fdca216cb37bc11" datasize="409034752"/>
 	</game>
-	<game name="Disney Princesses - L'Aventure Enchantee (France)" type="cd" sha1="0a95d2e99cc77434ec814ed0d860aaf248f8dd59" size="167161387" crc="832d01d5" fullsha1="190d0d5b9af63b6cdfb45e619e65ffb03ab780b7" datasha1="05aec4dd3ca0efa2898046e48acff858e8d1c4db">
+	<game name="Disney Princesses - L'Aventure Enchantee (France)" type="cd" sha1="0a95d2e99cc77434ec814ed0d860aaf248f8dd59" size="167161387" crc="832d01d5" fullsha1="190d0d5b9af63b6cdfb45e619e65ffb03ab780b7" datasha1="05aec4dd3ca0efa2898046e48acff858e8d1c4db" rawdatasha1="101ce8075ead19d9c9c07aecb3035e65e5306abb" rawdatasize="442258320">
 		<category>Games</category>
 		<description>Disney Princesses - L'Aventure Enchantee (France)</description>
-		<rom name="Disney Princesses - L'Aventure Enchantee (France) (Track 01).bin" size="442258320" crc="ea9b231f" md5="a4e013176afc971b0d64c43965622533" sha1="101ce8075ead19d9c9c07aecb3035e65e5306abb"/>
+		<rom name="Disney Princesses - L'Aventure Enchantee (France) (Track 01).bin" size="442258320" crc="ea9b231f" md5="a4e013176afc971b0d64c43965622533" sha1="101ce8075ead19d9c9c07aecb3035e65e5306abb" datasha1="cff0b6019adc770ff51ab4f3d98f09dbc45150dd" datasize="385095680"/>
 	</game>
-	<game name="Disney-Pixar Cars - A Fond la Caisse ! (France)" type="cd" sha1="3825df5bc465846bd2410af10145b28276f7e2d2" size="204279636" crc="ba2957f0" fullsha1="a7e24ebdf66819264b1148be9cd38b61c3503899" datasha1="648bb953e1485737401ba975ad8a5fe8b0093980">
+	<game name="Disney-Pixar Cars - A Fond la Caisse ! (France)" type="cd" sha1="3825df5bc465846bd2410af10145b28276f7e2d2" size="204279636" crc="ba2957f0" fullsha1="a7e24ebdf66819264b1148be9cd38b61c3503899" datasha1="648bb953e1485737401ba975ad8a5fe8b0093980" rawdatasha1="bfa19b92096f70afd931f56f3232e43c71bfb05c" rawdatasize="558378912">
 		<category>Games</category>
 		<description>Disney-Pixar Cars - A Fond la Caisse ! (France)</description>
-		<rom name="Disney-Pixar Cars - A Fond la Caisse ! (France) (Track 01).bin" size="558378912" crc="29245761" md5="9f6c659eed48b4018c83b766ba936cd9" sha1="bfa19b92096f70afd931f56f3232e43c71bfb05c"/>
+		<rom name="Disney-Pixar Cars - A Fond la Caisse ! (France) (Track 01).bin" size="558378912" crc="29245761" md5="9f6c659eed48b4018c83b766ba936cd9" sha1="bfa19b92096f70afd931f56f3232e43c71bfb05c" datasha1="61d6d7e9b67fa984ca89580a0f7999b8f084988e" datasize="486207488"/>
 	</game>
-	<game name="Incredibles, The - Mission Incredible (UK)" type="cd" sha1="8c6b4fd8ee6ac7cb2d782d27c4edbe799ecee979" size="119833394" crc="bc9b5948" fullsha1="8e170ffa74b83a07e0b523f988324dccd2b11e4f" datasha1="68ccb3a2f849f0b7a6f41d6547bfb00fceaaa97d">
+	<game name="Disney-Pixar Cars - In the Fast Lane (USA)" type="cd" sha1="418a0d46a4cc1744aef53076d9845dc9bf9eda80" size="163213111" crc="8b57f9f2" fullsha1="47edbad81f59bc0cebd51bc7e51137ca949890de" datasha1="4c8839a0371686495c6b79cddbb6362ccfaa0068" rawdatasha1="0df1c4b019aad47bcf78fcb8124ec7c5af1ca752" rawdatasize="506049264">
+		<category>Games</category>
+		<description>Disney-Pixar Cars - In the Fast Lane (USA)</description>
+		<rom name="Disney-Pixar Cars - In the Fast Lane (USA) (Track 01).bin" size="506049264" crc="b4ef6bf0" md5="ae13989512cf59cc86429155fb6ef6f7" sha1="0df1c4b019aad47bcf78fcb8124ec7c5af1ca752" datasha1="ffc12fa66f24530a0dee636ea3123cf9a25ba8db" datasize="440641536"/>
+	</game>
+	<game name="Disney-Pixar Cars - In the Fast Lane (USA) (Rev 1)" type="cd" sha1="d7634d51487ee98069009012cd01802f3d76f45d" size="163512601" crc="99238174" fullsha1="584bf1cdd17e33ab8f729f27e47426aa0ab2789a" datasha1="46e2ddefa82ca4dee3241e61b39c598b4df0e877" rawdatasha1="b7522abe11f1dab3e5adc56ae4cdc2c9f9957a3a" rawdatasize="506249184">
+		<category>Games</category>
+		<description>Disney-Pixar Cars - In the Fast Lane (USA) (Rev 1)</description>
+		<rom name="Disney-Pixar Cars - In the Fast Lane (USA) (Rev 1) (Track 01).bin" size="506249184" crc="33b3b437" md5="71fa399ce6d3e6d4baad6d3b607ae258" sha1="b7522abe11f1dab3e5adc56ae4cdc2c9f9957a3a" datasha1="8f41e3251c6a2109c4f9cc118580abac61f7de36" datasize="440815616"/>
+	</game>
+	<game name="Disney-Pixar Cars - In the Fast Lane (USA) (Rev 3)" type="cd" sha1="ced2efefd589e5451bd20ac9fd8677f0600e94e4" size="163346213" crc="5641ed6d" fullsha1="138f0203d1279b6656b1eeb7cc61705c2f728845" datasha1="b66f2c2a356c20f97149b177fb007d91aa9f1505" rawdatasha1="73676fed26539ad7d770cb7950de80ed9467b3e4" rawdatasize="505884624">
+		<category>Games</category>
+		<description>Disney-Pixar Cars - In the Fast Lane (USA) (Rev 3)</description>
+		<rom name="Disney-Pixar Cars - In the Fast Lane (USA) (Rev 3) (Track 01).bin" size="505884624" crc="27f1e33f" md5="bff9c53e5d77eeae9b2217819129a4ea" sha1="73676fed26539ad7d770cb7950de80ed9467b3e4" datasha1="e7d5b6c8b9099d7e6a1eef6105b9045bf209ad51" datasize="440498176"/>
+	</game>
+	<game name="Incredibles, The - Mission Incredible (UK)" type="cd" sha1="8c6b4fd8ee6ac7cb2d782d27c4edbe799ecee979" size="119833394" crc="bc9b5948" fullsha1="8e170ffa74b83a07e0b523f988324dccd2b11e4f" datasha1="68ccb3a2f849f0b7a6f41d6547bfb00fceaaa97d" rawdatasha1="f6aec08322ef084b5d7751d1a76f5fb3598002d0" rawdatasize="355787040">
 		<category>Games</category>
 		<description>Incredibles, The - Mission Incredible (UK)</description>
-		<rom name="Incredibles, The - Mission Incredible (UK) (Track 01).bin" size="355787040" crc="005507f8" md5="8918c62c1431b0f14bb5345450c9a7a4" sha1="f6aec08322ef084b5d7751d1a76f5fb3598002d0"/>
+		<rom name="Incredibles, The - Mission Incredible (UK) (Track 01).bin" size="355787040" crc="005507f8" md5="8918c62c1431b0f14bb5345450c9a7a4" sha1="f6aec08322ef084b5d7751d1a76f5fb3598002d0" datasha1="cfef62ad514c286a9fe89564839595c0ed6e5239" datasize="309800960"/>
 	</game>
-	<game name="Indestructibles, Les - Les Indestructibles a la Rescousse (France)" type="cd" sha1="fca5c6854e3299ae9f1b01de512d6bb11e17c621" size="96913596" crc="3ec4dad4" fullsha1="c05719a249909d83860faf4d66e896645c115cfc" datasha1="07e3f037d26b1b22e01e6ffc6449e15572d8dda7">
+	<game name="Incredibles, The - Mission Incredible (USA)" type="cd" sha1="ddddd7f472519f73eae9501615b1fbddc2415c7f" size="122450889" crc="c54ff768" fullsha1="b300be746222691d0235551ef582eb221863c50a" datasha1="90d52f7401ad864eb5731535ebee4225e6fe64ad" rawdatasha1="859bab005788a5c23bb7c40c0e729eed04da6750" rawdatasize="358705872">
+		<category>Games</category>
+		<description>Incredibles, The - Mission Incredible (USA)</description>
+		<rom name="Incredibles, The - Mission Incredible (USA) (Track 01).bin" size="358705872" crc="8fffffeb" md5="7be97725dff4fdd59bb26c6305dc0edf" sha1="859bab005788a5c23bb7c40c0e729eed04da6750" datasha1="446e062ca9a4904567fba005688d87ba9a9f0394" datasize="312342528"/>
+	</game>
+	<game name="Increibles, Los - Mision Increible (Spain)" type="cd" sha1="deefe15ece2dd8e4eac73c3e1b9f8224191b5cb3" size="124676245" crc="9a33810f" fullsha1="f804204b4b7ce7ba111a3099c4f8a3f821ea53a6" datasha1="22a745a7bf04290454a04ca8f3db1326e57ed93e" rawdatasha1="4539863ac08788c3b67b555066b4c6e79ae6dfe1" rawdatasize="357440496">
+		<category>Games</category>
+		<description>Increibles, Los - Mision Increible (Spain)</description>
+		<rom name="Increibles, Los - Mision Increible (Spain) (Track 01).bin" size="357440496" crc="9ddf13bc" md5="8e781b68470e3131138a53875a5849f9" sha1="4539863ac08788c3b67b555066b4c6e79ae6dfe1" datasha1="5849d203e87f41f25feaa74bba43e1d98ac526c1" datasize="311240704"/>
+	</game>
+	<game name="Indestructibles, Les - Les Indestructibles a la Rescousse (France)" type="cd" sha1="fca5c6854e3299ae9f1b01de512d6bb11e17c621" size="96913596" crc="3ec4dad4" fullsha1="c05719a249909d83860faf4d66e896645c115cfc" datasha1="07e3f037d26b1b22e01e6ffc6449e15572d8dda7" rawdatasha1="8df26727f89a386417d2addb6c6ff7ccbeb1843e" rawdatasize="327779424">
 		<category>Games</category>
 		<description>Indestructibles, Les - Les Indestructibles a la Rescousse (France)</description>
-		<rom name="Indestructibles, Les - Les Indestructibles a la Rescousse (France) (Track 01).bin" size="327779424" crc="10816c60" md5="8c2906dee58982a1bf64d6c2228b4bfb" sha1="8df26727f89a386417d2addb6c6ff7ccbeb1843e"/>
+		<rom name="Indestructibles, Les - Les Indestructibles a la Rescousse (France) (Track 01).bin" size="327779424" crc="10816c60" md5="8c2906dee58982a1bf64d6c2228b4bfb" sha1="8df26727f89a386417d2addb6c6ff7ccbeb1843e" datasha1="26653b553704de352c189acd794cd1636516c887" datasize="285413376"/>
 	</game>
-	<game name="Nickelodeon SpongeBob SquarePants - Idea Sponge (UK)" type="cd" sha1="1d4d7262be570e0023f0700eb1babec6e3af8a92" size="188319545" crc="a2585ab2" fullsha1="62b756fc70a14e0ecf441d23905725a145ffb56d" datasha1="ad4b2ba81852986b6ab99936e5879916f9769e6a">
+	<game name="Multisports (Germany)" type="cd" sha1="bc8a7ba8e17fd717a064dfd76eaeb266d0050f01" size="46922317" crc="843e1c70" fullsha1="08608ae0c22e2048405b60f3e4eb9c3f54dbdc33" datasha1="fc64efbe7f311180b560631acfc3a016953d7fbf" rawdatasha1="091567e473d996182c5157f2f34b729f2bc7dcff" rawdatasize="295248912">
+		<category>Games</category>
+		<description>Multisports (Germany)</description>
+		<rom name="Multisports (Germany) (Track 01).bin" size="295248912" crc="fd73e33a" md5="f3170b78bb5fa0263f6fb619400e5968" sha1="091567e473d996182c5157f2f34b729f2bc7dcff" datasha1="0ad56318afdd42f608d3a5bdbbe8536bb40d50cd" datasize="257087488"/>
+	</game>
+	<game name="Nick SpongeBob Schwammkopf - Ein Schwamm Voller Ideen (Germany)" type="cd" sha1="af7589ca4ce0cf037726dd4a0e30c2dc8c1c0c14" size="174782142" crc="d0cf7eb5" fullsha1="8edf7d8398bcc7e26144044801fc72155230c65f" datasha1="57ac0456783a54e543029c7235ec3a181604c7ee" rawdatasha1="ad066c51cccaaf13ae5a06f9a109821980f96c7a" rawdatasize="475449744">
+		<category>Games</category>
+		<description>Nick SpongeBob Schwammkopf - Ein Schwamm Voller Ideen (Germany)</description>
+		<rom name="Nick SpongeBob Schwammkopf - Ein Schwamm Voller Ideen (Germany) (Track 01).bin" size="475449744" crc="a608ea69" md5="e958a8482837a60b5c01d4e52f472670" sha1="ad066c51cccaaf13ae5a06f9a109821980f96c7a" datasha1="3b80e39fe6217c00f07a4c80d50b4c9593000605" datasize="413997056"/>
+	</game>
+	<game name="Nickelodeon Bob Esponja - Mision Esponja (Spain)" type="cd" sha1="177b2e66d8b0cae3ed342ff4ccd685195a461c16" size="146133624" crc="7f6bbe78" fullsha1="37dd91c9321f8a631e269034569958d400dd7b98" datasha1="f30688fa5550e6793f7bb5175dd3a1b655fe2adf" rawdatasha1="5280687403e8933abf2321d5720e47fe8a50e86f" rawdatasize="415450224">
+		<category>Games</category>
+		<description>Nickelodeon Bob Esponja - Mision Esponja (Spain)</description>
+		<rom name="Nickelodeon Bob Esponja - Mision Esponja (Spain) (Track 01).bin" size="415450224" crc="09134f50" md5="581c4abb08fb593dfc8ca69b1a51b56c" sha1="5280687403e8933abf2321d5720e47fe8a50e86f" datasha1="852e79ef47e6469647a5c9e25d30a3ec322a1fce" datasize="361752576"/>
+	</game>
+	<game name="Nickelodeon SpongeBob SquarePants - Idea Sponge (UK)" type="cd" sha1="1d4d7262be570e0023f0700eb1babec6e3af8a92" size="188319545" crc="a2585ab2" fullsha1="62b756fc70a14e0ecf441d23905725a145ffb56d" datasha1="ad4b2ba81852986b6ab99936e5879916f9769e6a" rawdatasha1="e140c44506d35ca1206bd40dba7a96d69afc3f68" rawdatasize="433882848">
 		<category>Games</category>
 		<description>Nickelodeon SpongeBob SquarePants - Idea Sponge (UK)</description>
-		<rom name="Nickelodeon SpongeBob SquarePants - Idea Sponge (UK) (Track 01).bin" size="433882848" crc="322db1ed" md5="e7d6d28d7d4f1b36b3c2767dd85d7186" sha1="e140c44506d35ca1206bd40dba7a96d69afc3f68"/>
+		<rom name="Nickelodeon SpongeBob SquarePants - Idea Sponge (UK) (Track 01).bin" size="433882848" crc="322db1ed" md5="e7d6d28d7d4f1b36b3c2767dd85d7186" sha1="e140c44506d35ca1206bd40dba7a96d69afc3f68" datasha1="5d08b2b57fba2f7c794750402096bcab2895d999" datasize="377802752"/>
 	</game>
-	<game name="Scooby-Doo! Ancient Adventure (UK)" type="cd" sha1="69edfff9c20f0f914b6da50b08c54487b3f554f7" size="253752599" crc="7ad9a00b" fullsha1="698bc0809010b29d2920440d8fac0045d41808b2" datasha1="28c2f9041db8b63750d22e5b2fb68c699113de6f">
+	<game name="Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 1)" type="cd" sha1="44acd583f95b1709e22071f3c5be50e4fd45562c" size="188175832" crc="7cbf554e" fullsha1="feabc1d3eac7045fb4c0ef29c1a137d7a5c07619" datasha1="b3d56f635ba6bce877a29d5bbfbc829d7dbf5f14" rawdatasha1="82c7a04c306baa463ff893c7e5e81cdad5bf0764" rawdatasize="432937344">
+		<category>Games</category>
+		<description>Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 1)</description>
+		<rom name="Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 1) (Track 01).bin" size="432937344" crc="b600eff5" md5="5bfe7b0fc92486e90ec3cd0586b86696" sha1="82c7a04c306baa463ff893c7e5e81cdad5bf0764" datasha1="682f9011696a3aaa61fa45cd3c4d431d10ac5669" datasize="376979456"/>
+	</game>
+	<game name="Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 2)" type="cd" sha1="9c7c96be954c44b1c9f53cb914ff4ef2fd6d06f0" size="187724273" crc="6b25cffc" fullsha1="22e5d08eeb01d660e9662c3663c5b1b26a2e57fb" datasha1="0e2973a4550cd3e7aac8c86356d710a6cf2d618a" rawdatasha1="bc70d3a4017b6282bea065e4ed8a05c601471069" rawdatasize="373038960">
+		<category>Games</category>
+		<description>Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 2)</description>
+		<rom name="Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 2) (Track 01).bin" size="373038960" crc="f3dcd059" md5="a5e9a13e2cd70e40c724fd79c96a28c2" sha1="bc70d3a4017b6282bea065e4ed8a05c601471069" datasha1="27e9ae8114c137af9e5c3fd7ef5cf52c199b64cc" datasize="324823040"/>
+	</game>
+	<game name="Scooby-Doo - Viaje al Pasado (Spain)" type="cd" sha1="61b2618df7738b957ad7f23012b504a5b03556a1" size="240159568" crc="d6f81643" fullsha1="1b8f4e54ec2cfb709e82212275f5efc7075a34c0" datasha1="8b031e24d4fb5e1b378f3c8d3359493dfa0ea0a2" rawdatasha1="4f6913204032132c99ac894007eaca6f250af97c" rawdatasize="641766720">
+		<category>Games</category>
+		<description>Scooby-Doo - Viaje al Pasado (Spain)</description>
+		<rom name="Scooby-Doo - Viaje al Pasado (Spain) (Track 01).bin" size="641766720" crc="92a181b3" md5="88cbc7a897a57fb411e33933c9bf9e2b" sha1="4f6913204032132c99ac894007eaca6f250af97c" datasha1="18eeabfcc855ea55fdd7e7060f6abc453ec910c4" datasize="558817280"/>
+	</game>
+	<game name="Scooby-Doo! Ancient Adventure (UK)" type="cd" sha1="69edfff9c20f0f914b6da50b08c54487b3f554f7" size="253752599" crc="7ad9a00b" fullsha1="698bc0809010b29d2920440d8fac0045d41808b2" datasha1="28c2f9041db8b63750d22e5b2fb68c699113de6f" rawdatasha1="b57fac8b10628e8ec5b0b3e1b2d31e08309c9959" rawdatasize="665202048">
 		<category>Games</category>
 		<description>Scooby-Doo! Ancient Adventure (UK)</description>
-		<rom name="Scooby-Doo! Ancient Adventure (UK) (Track 01).bin" size="665202048" crc="f93943e3" md5="7a92d72e654450d33121823a5b3f8561" sha1="b57fac8b10628e8ec5b0b3e1b2d31e08309c9959"/>
+		<rom name="Scooby-Doo! Ancient Adventure (UK) (Track 01).bin" size="665202048" crc="f93943e3" md5="7a92d72e654450d33121823a5b3f8561" sha1="b57fac8b10628e8ec5b0b3e1b2d31e08309c9959" datasha1="787679284a5426a400fb26720bb44bb79c2e0084" datasize="579223552"/>
 	</game>
-	<game name="Scooby-Doo! Ancient Adventure (USA)" type="cd" sha1="586fd3cf4b85ae7ccf90507e54e2bf3e89aee5d6" size="232415224" crc="3fcec7b9" fullsha1="a57d8788250a6a40d54093c9f9adfdeece89d45f" datasha1="96f7a956a4f9cd57d63bab0a077a27911050c85a">
+	<game name="Scooby-Doo! Ancient Adventure (USA)" type="cd" sha1="586fd3cf4b85ae7ccf90507e54e2bf3e89aee5d6" size="232415224" crc="3fcec7b9" fullsha1="a57d8788250a6a40d54093c9f9adfdeece89d45f" datasha1="96f7a956a4f9cd57d63bab0a077a27911050c85a" rawdatasha1="f5224fa4ad9661fea25e03d5b0d10d0ed2815ecd" rawdatasize="638629152">
 		<category>Games</category>
 		<description>Scooby-Doo! Ancient Adventure (USA)</description>
-		<rom name="Scooby-Doo! Ancient Adventure (USA) (Track 01).bin" size="638629152" crc="42abc660" md5="002b4f5818d84517dc856515e354f79e" sha1="f5224fa4ad9661fea25e03d5b0d10d0ed2815ecd"/>
+		<rom name="Scooby-Doo! Ancient Adventure (USA) (Track 01).bin" size="638629152" crc="42abc660" md5="002b4f5818d84517dc856515e354f79e" sha1="f5224fa4ad9661fea25e03d5b0d10d0ed2815ecd" datasha1="bde3addaf03c3aa436f9d50960fe227d4abbe1f7" datasize="556085248"/>
 	</game>
-	<game name="Scooby-Doo! Les Civilisations Perdues (France)" type="cd" sha1="ac13154274ba45cf57da58aee5f084dc88896ccb" size="264199963" crc="71338765" fullsha1="daf3337b4056220b0502b9dfb393724d93bfa014" datasha1="a474ec16246d39b35114efce30a50ff44e26a494">
+	<game name="Scooby-Doo! Ancient Adventure (USA) (Rev 1)" type="cd" sha1="b3a29ff4623e48996acfea7f84ea806e690b674e" size="232499961" crc="716fb10c" fullsha1="aec5cc394d1e7d2e660a1d765f23ae3cabe0147d" datasha1="fb024731aaed493abf21205b49680df9f31e61da" rawdatasha1="24e753c394d8a6d9aed462be4c0c2b41dd6e79e6" rawdatasize="638582112">
+		<category>Games</category>
+		<description>Scooby-Doo! Ancient Adventure (USA) (Rev 1)</description>
+		<rom name="Scooby-Doo! Ancient Adventure (USA) (Rev 1) (Track 01).bin" size="638582112" crc="d6d3c531" md5="df166d1c3ba243a372264b18c28730b3" sha1="24e753c394d8a6d9aed462be4c0c2b41dd6e79e6" datasha1="eec44e32e5b9794b14e0b9888a36a721559e47d1" datasize="556044288"/>
+	</game>
+	<game name="Scooby-Doo! Les Civilisations Perdues (France)" type="cd" sha1="ac13154274ba45cf57da58aee5f084dc88896ccb" size="264199963" crc="71338765" fullsha1="daf3337b4056220b0502b9dfb393724d93bfa014" datasha1="a474ec16246d39b35114efce30a50ff44e26a494" rawdatasha1="ea358a2e4cea0e8892f8e141c3c005f43daa8109" rawdatasize="692257104">
 		<category>Games</category>
 		<description>Scooby-Doo! Les Civilisations Perdues (France)</description>
-		<rom name="Scooby-Doo! Les Civilisations Perdues (France) (Track 01).bin" size="692257104" crc="6038f2eb" md5="6dad47d5a52c0f54f109e76548aa3913" sha1="ea358a2e4cea0e8892f8e141c3c005f43daa8109"/>
+		<rom name="Scooby-Doo! Les Civilisations Perdues (France) (Track 01).bin" size="692257104" crc="6038f2eb" md5="6dad47d5a52c0f54f109e76548aa3913" sha1="ea358a2e4cea0e8892f8e141c3c005f43daa8109" datasha1="91e9a86998dccd5bee6b47def397ef8168373e73" datasize="602781696"/>
 	</game>
-	<game name="Shrek Le Troisieme - En quete d'Artur (France)" type="cd" sha1="126eac2de7cbf6f48e2b9b4f22b01045371aff2d" size="228754252" crc="974acb78" fullsha1="728c0690b8aee8622c5f2fa1c33d323206509f76" datasha1="0073f443b8710dc034e85afef8defe9e7ebf65d8">
+	<game name="Shrek Le Troisieme - En quete d'Artur (France)" type="cd" sha1="126eac2de7cbf6f48e2b9b4f22b01045371aff2d" size="228754252" crc="974acb78" fullsha1="728c0690b8aee8622c5f2fa1c33d323206509f76" datasha1="0073f443b8710dc034e85afef8defe9e7ebf65d8" rawdatasha1="cad4c048d56b4853a07055c2896211675c810c7f" rawdatasize="613705008">
 		<category>Games</category>
 		<description>Shrek Le Troisieme - En quete d'Artur (France)</description>
-		<rom name="Shrek Le Troisieme - En quete d'Artur (France) (Track 01).bin" size="613705008" crc="029ddfb7" md5="4a156c9963b9ac9c0381e5473c09fa6e" sha1="cad4c048d56b4853a07055c2896211675c810c7f"/>
+		<rom name="Shrek Le Troisieme - En quete d'Artur (France) (Track 01).bin" size="613705008" crc="029ddfb7" md5="4a156c9963b9ac9c0381e5473c09fa6e" sha1="cad4c048d56b4853a07055c2896211675c810c7f" datasha1="fa6025522a56a2ff58303e25054aabce1474cd25" datasize="534382592"/>
 	</game>
-	<game name="Spider-Man Course-Poursuite a Manhattan (France)" type="cd" sha1="1e2aec5b6dfc0a193d74b725920c488f9c8d72cb" size="130938025" crc="97922030" fullsha1="2f2dde15d805b54b80e6f94d2f0d3fc95e239cab" datasha1="ab24e804a38714ded58f0798da234328fdcc5bdf">
+	<game name="Shrek Tercero - Donde Esta Arturo (Spain)" type="cd" sha1="b9b0a012ad93901cca5ba06f62404882d5590e7d" size="233666611" crc="a7afed0c" fullsha1="2a310736185336e93e8cf5e3a2d0a6e4949e11d3" datasha1="8ae14df55279ebeb5fbce36ae9ac9ff80c0db53e" rawdatasha1="67a3df45cf47f9bba9b103c090aba93fafaade86" rawdatasize="618655968">
+		<category>Games</category>
+		<description>Shrek Tercero - Donde Esta Arturo (Spain)</description>
+		<rom name="Shrek Tercero - Donde Esta Arturo (Spain) (Track 01).bin" size="618655968" crc="542d16e5" md5="d4d8397328b4f3507fa428b554f96643" sha1="67a3df45cf47f9bba9b103c090aba93fafaade86" datasha1="199e4a08dd48704dc9d4a18fccf3d02b7970fdb0" datasize="538693632"/>
+	</game>
+	<game name="Shrek der Dritte - Die Suche nach Arthus (Germany)" type="cd" sha1="ec0199a076e0ec9ed1793f92674172aba475ce63" size="238501584" crc="92a8148d" fullsha1="a3dde498182a0c8e2872e83b93172a81540d1a12" datasha1="1ae699babbc3b6532f33b1509cf18eb4fde3f650" rawdatasha1="28c486e6b5b9c6e4e79aa3151be82534f0f1245f" rawdatasize="623663376">
+		<category>Games</category>
+		<description>Shrek der Dritte - Die Suche nach Arthus (Germany)</description>
+		<rom name="Shrek der Dritte - Die Suche nach Arthus (Germany) (Track 01).bin" size="623663376" crc="968ff493" md5="da49780987a087a415dc321928421a93" sha1="28c486e6b5b9c6e4e79aa3151be82534f0f1245f" datasha1="eca70e19aa86115e06374089748a60757ba7e3f0" datasize="543053824"/>
+	</game>
+	<game name="Shrek the Third - The Search for Arthur (UK)" type="cd" sha1="09941e508fed98e31c6ecd3c09eaf046b9ac955c" size="230325808" crc="42b822c4" fullsha1="8f1294e2b862bb5803757149c33ca3564054231e" datasha1="7bffad5e734710db9601004953c1004a9b480377" rawdatasha1="6fa99fb64e6cb7e4ceda68e0a3de9811dad3c5fb" rawdatasize="613055856">
+		<category>Games</category>
+		<description>Shrek the Third - The Search for Arthur (UK)</description>
+		<rom name="Shrek the Third - The Search for Arthur (UK) (Track 01).bin" size="613055856" crc="b63070b1" md5="2033a0c18eb7636225f63fdb62801965" sha1="6fa99fb64e6cb7e4ceda68e0a3de9811dad3c5fb" datasha1="09023f982fe52de1e8df329d1b1e4a585e4960e1" datasize="533817344"/>
+	</game>
+	<game name="Shrek the Third - The Search for Arthur (USA)" type="cd" sha1="fad589a8f1d3578ea11bccc22a2d20a3d8420191" size="230854921" crc="eb9b3220" fullsha1="cf8711eb19be0843f0fc2bf7fa999cc1f9a5d890" datasha1="0df6e19ae556f74b4159eeb306c9da35477670ca" rawdatasha1="e671b64b248cbe976a131c6e5bc229d26f0c60c6" rawdatasize="614031936">
+		<category>Games</category>
+		<description>Shrek the Third - The Search for Arthur (USA)</description>
+		<rom name="Shrek the Third - The Search for Arthur (USA) (Track 01).bin" size="614031936" crc="6c27be68" md5="3ee572ee6603fe2828ee4c4bc758ab72" sha1="e671b64b248cbe976a131c6e5bc229d26f0c60c6" datasha1="d21dcc7edf6006faf587e0923c2a3611e0c8cc25" datasize="534667264"/>
+	</game>
+	<game name="Spider-Man - Angriff der Super-Schurken (Germany)" type="cd" sha1="19a1d13b5b71be2abd40e105abb00cd2dd871420" size="134777919" crc="4b078c77" fullsha1="fde701911c2bed2a573e6e5dc4491d2c7e74a23a" datasha1="2a6898f227db80314787038ef724a565f9f45a13" rawdatasha1="80a0ae321273a4b7190ba79854b21fdfb96b75f4" rawdatasize="378956592">
+		<category>Games</category>
+		<description>Spider-Man - Angriff der Super-Schurken (Germany)</description>
+		<rom name="Spider-Man - Angriff der Super-Schurken (Germany) (Track 01).bin" size="378956592" crc="5039f062" md5="3ccc0abb06dc62402b7a4ad1ba28b550" sha1="80a0ae321273a4b7190ba79854b21fdfb96b75f4" datasha1="215cdeca0109dc2da696f732494f50559c8f8eb4" datasize="329975808"/>
+	</game>
+	<game name="Spider-Man Course-Poursuite a Manhattan (France)" type="cd" sha1="1e2aec5b6dfc0a193d74b725920c488f9c8d72cb" size="130938025" crc="97922030" fullsha1="2f2dde15d805b54b80e6f94d2f0d3fc95e239cab" datasha1="ab24e804a38714ded58f0798da234328fdcc5bdf" rawdatasha1="03eb17eb561cb579b9e1aaf416e3d86612c1057a" rawdatasize="371766528">
 		<category>Games</category>
 		<description>Spider-Man Course-Poursuite a Manhattan (France)</description>
-		<rom name="Spider-Man Course-Poursuite a Manhattan (France) (Track 01).bin" size="371766528" crc="4bb8afec" md5="7ae1c3c854fe625ebe7b9a566e140e3e" sha1="03eb17eb561cb579b9e1aaf416e3d86612c1057a"/>
+		<rom name="Spider-Man Course-Poursuite a Manhattan (France) (Track 01).bin" size="371766528" crc="4bb8afec" md5="7ae1c3c854fe625ebe7b9a566e140e3e" sha1="03eb17eb561cb579b9e1aaf416e3d86612c1057a" datasha1="fd6bbec346cf53e436c67f28b4bac391354da4f4" datasize="323715072"/>
+	</game>
+	<game name="Unglaublichen, Die (The Incredibles) - In Unglaublicher Mission (Germany)" type="cd" sha1="5b1292c3a84c89ccd4c16c7f529efd66b44885d7" size="129364482" crc="7b0fad5a" fullsha1="011d644a603a80c15ddbbad473baac467f1a020d" datasha1="f58ffc515dd1e27ac224b086a919e84dfa209d85" rawdatasha1="6745971dab69942f85d32a4e1484b9d79c2163ee" rawdatasize="365481984">
+		<category>Games</category>
+		<description>Unglaublichen, Die (The Incredibles) - In Unglaublicher Mission (Germany)</description>
+		<rom name="Unglaublichen, Die (The Incredibles) - In Unglaublicher Mission (Germany) (Track 01).bin" size="365481984" crc="4ac35678" md5="c3b8bae31a1335b642bae83f8ee3ccd5" sha1="6745971dab69942f85d32a4e1484b9d79c2163ee" datasha1="e8223136809f8dfafe4eb68efab2cedc6c913935" datasize="318242816"/>
+	</game>
+	<game name="Verruckte Rennen der Hupf-Bohnen Insel, Das (Germany)" type="cd" sha1="208ff13162ffd98eb0aff3014b807a0d1df4852a" size="195546669" crc="6c3c1239" fullsha1="c57009bdd422dd036d0485cc3e32d0d7219955e5" datasha1="9c92478e8c36700f850f15c4a2e1838e9359b689" rawdatasha1="a3a8e54d5f12094bfc0c89954987cc793d83d3f9" rawdatasize="457901472">
+		<category>Games</category>
+		<description>Verruckte Rennen der Hupf-Bohnen Insel, Das (Germany)</description>
+		<rom name="Verruckte Rennen der Hupf-Bohnen Insel, Das (Germany) (Track 01).bin" size="457901472" crc="92a0ebe0" md5="84192c291bc3398657d96a4c9a83b688" sha1="a3a8e54d5f12094bfc0c89954987cc793d83d3f9" datasha1="e46d8b0079ab16a46769237cf085b21c0e2fcfd0" datasize="398716928"/>
+	</game>
+	<game name="Wacky Race on Jumpin' Bean Island (UK)" type="cd" sha1="c317df85a0faeeeb6181e4af7e4d45899e2b1c1f" size="186657067" crc="14d0619f" fullsha1="430b54111c22fdf12b10bc7d04c2b097f9f97f6f" datasha1="8178946058944a18f89ef1edcd8ac8d032f655f9" rawdatasha1="a5328837c0025052c498ea00efb62194cf896c1a" rawdatasize="449511888">
+		<category>Games</category>
+		<description>Wacky Race on Jumpin' Bean Island (UK)</description>
+		<rom name="Wacky Race on Jumpin' Bean Island (UK) (Track 01).bin" size="449511888" crc="24bb78e5" md5="91d703b16b7a77063a6c744d92f6a85e" sha1="a5328837c0025052c498ea00efb62194cf896c1a" datasha1="c065a392a5b0da2c8c708360578c57d2943b5836" datasize="391411712"/>
+	</game>
+	<game name="Wacky Race on Jumpin' Bean Island (USA) (Rev 2)" type="cd" sha1="6c897eb6311dc6abd82b8be078cd5ff6a00472a2" size="189714070" crc="ad6c0aeb" fullsha1="84f658c990f6c69754092aa4d9314ebee7026c6a" datasha1="dce509ffee49e4aabcfb9739e985367c2d49460d" rawdatasha1="9dcd612d05f13ce650188a89764e69103f404487" rawdatasize="394651488">
+		<category>Games</category>
+		<description>Wacky Race on Jumpin' Bean Island (USA) (Rev 2)</description>
+		<rom name="Wacky Race on Jumpin' Bean Island (USA) (Rev 2) (Track 01).bin" size="394651488" crc="fd17a03c" md5="8548f0914c618cb2da08dbeebf6155d0" sha1="9dcd612d05f13ce650188a89764e69103f404487" datasha1="1e6e0c6a324a59c72e76a2dc4ed84e342d625cb9" datasize="343642112"/>
+	</game>
+	<game name="Wacky Race on Jumpin' Bean Island (USA) (Rev 3)" type="cd" sha1="a2b4d61e81696ac9e024651a87cb74dc49ff1da9" size="189662405" crc="ae608bf1" fullsha1="e6abe437961eb4f1e024dd744f23bb2611e65c39" datasha1="3e40bab40b8bac1e1daff76cc52d094ade85f207" rawdatasha1="b643d8fd3f0f46459d2313e2c256bc6b5f33fd54" rawdatasize="394752624">
+		<category>Games</category>
+		<description>Wacky Race on Jumpin' Bean Island (USA) (Rev 3)</description>
+		<rom name="Wacky Race on Jumpin' Bean Island (USA) (Rev 3) (Track 01).bin" size="394752624" crc="6af8435e" md5="f438c0f7a042be1bf7db03de5778561c" sha1="b643d8fd3f0f46459d2313e2c256bc6b5f33fd54" datasha1="3ba6ea116ae51970f8200fc583e94a8728e1af5c" datasize="343730176"/>
 	</game>
 </datafile>

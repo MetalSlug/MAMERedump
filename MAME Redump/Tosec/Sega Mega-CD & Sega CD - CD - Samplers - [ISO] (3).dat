@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Mega-CD &amp; Sega CD - CD - Samplers - [ISO]</name>
+		<description>MAME Redump - Sega Mega-CD &amp; Sega CD - CD - Samplers - [ISO] (TOSEC-v2014-07-01)</description>
+		<version>0.289</version>
+		<date>2026-03-09</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Frog Feast (demo) (2005-04-03)(RasterSoft)(PD)">
+		<description>Frog Feast (demo) (2005-04-03)(RasterSoft)(PD)</description>
+		<year>2007</year>
+		<manufacturer>RasterSoft</manufacturer>
+		<disk name="Frog Feast (demo) (2005-04-03)(RasterSoft)(PD).chd" sha1="8411e49c5ef3a39a70d3e1612a04c66e3161eea9" />
+	</machine>
+	<machine name="Lodoss Jima Senki - Eiyuu Sensou (demo) (1994)(Sega)(JP)">
+		<description>Lodoss Jima Senki - Eiyuu Sensou (demo) (1994)(Sega)(JP)</description>
+		<year>1994</year>
+		<manufacturer>Sega</manufacturer>
+		<disk name="Lodoss Jima Senki - Eiyuu Sensou (demo) (1994)(Sega)(JP).chd" sha1="b2b4f3e768f9748edc358ae87947c594f854c0e8" />
+	</machine>
+	<machine name="Star Wars - Rebel Assault (demo) (1994)(JVC - LucasArts)(EU)(en)">
+		<description>Star Wars - Rebel Assault (demo) (1994)(JVC - LucasArts)(EU)(en)</description>
+		<year>1994</year>
+		<manufacturer>JVC</manufacturer>
+		<disk name="Star Wars - Rebel Assault (demo) (1994)(JVC - LucasArts)(EU)(en).chd" sha1="152ce04a3ac91617febd114815cb1aecba067d4e" />
+	</machine>
+</datafile>

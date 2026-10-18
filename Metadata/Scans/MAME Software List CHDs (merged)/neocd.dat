@@ -542,18 +542,18 @@
 		<description>Captain Barrel</description>
 		<year>2024</year>
 		<manufacturer>Neo Byte Force</manufacturer>
-		<rom name="cbarrel_Neocd (Track 01).bin" size="5146176" crc="f728852d" md5="0f081aa0a55705b58365dc68b63af01c" sha1="36101a277a7093fc641983721ea48c1b5ad21d4a"/>
-		<rom name="cbarrel_Neocd (Track 02).bin" size="20050800" crc="2e33e496" md5="7597ae834cea5a158fc093e0a0a18cc9" sha1="4bfee1582b76e64019a4c5e1ee084ce5ffcc512f" wavesha1="e7524a1384cf8e2bd9f725237f3c6ba56c255ba6"/>
-		<rom name="cbarrel_Neocd (Track 03).bin" size="138212928" crc="a699b8bc" md5="0f358f9a188a007ea8a04023971abd93" sha1="6c93d783c5fa6d55e212bbcfcb2b9f47526349f5" wavesha1="76f392b35062d20cda335f2394c33dbf0c6df8a5"/>
-		<rom name="cbarrel_Neocd (Track 04).bin" size="140176848" crc="d34fa935" md5="26f2b0368b098a0861e3602ece987e40" sha1="86db912d03f9c61e4fb0ae9289bd4dacf8ae8c1c" wavesha1="bd7c4bd5ad968162b89b7b1ac6270392e5b95272"/>
-		<rom name="cbarrel_Neocd (Track 05).bin" size="91358736" crc="9b6be89e" md5="a0afe862a290d095400961b00d9f55b1" sha1="03b3a08efab8e65f719e1f9c64878effe6e0dcc4" wavesha1="9f212a0ffb19631a284b987971b04c251ed39f17"/>
-		<rom name="cbarrel_Neocd (Track 06).bin" size="89136096" crc="906334b0" md5="9260cee443e16c00cd6cf8978231c3c4" sha1="970177cbcd0e6854f174a6cde5379fa9e128077d" wavesha1="358c9f85511303ce6f0564b37c09d2176fe8cb12"/>
-		<rom name="cbarrel_Neocd (Track 07).bin" size="10920336" crc="82481f97" md5="c606cde03a1f52af03c5115b8cdc74cb" sha1="7ce6ab85499e74a27ca6ba0e04f6de20640c5a21" wavesha1="68bafd128e4e3bb30a28e4e5a9b00be8f6c83a8e"/>
-		<rom name="cbarrel_Neocd (Track 08).bin" size="27986448" crc="27a7108e" md5="b8843c09ebed6897b2a8c8383fa25f23" sha1="b8eb31ae2a6b9b74c647062bb32e6db814f2498a" wavesha1="ebc5eef3ce533e26e76f3fa2ef6dd7ad5a46ad34"/>
-		<rom name="cbarrel_Neocd (Track 09).bin" size="28602672" crc="6d1047fb" md5="934d1d949fd2d1c689f0822a02a5e814" sha1="68688726a8aec3d2694dddb4baa47d12f800bc83" wavesha1="b0edf28f54487e618f723a334e10b2bd6bba78e3"/>
-		<rom name="cbarrel_Neocd (Track 10).bin" size="93515520" crc="1496c82d" md5="a5fef7a30f05ef0a9de9618b64df35c6" sha1="0608bf4dc49ce24bae264cc686184c6ae25a0104" wavesha1="1178dab063e0ea206e0deed16a44fde557512514"/>
-		<rom name="cbarrel_Neocd (Track 11).bin" size="85083600" crc="2388e037" md5="b1b99daf092884573ab441580f76412f" sha1="88eeb7287244864808e911e3d781b0fb77768119" wavesha1="44c6ee3fa1edf6d31975b6055f968685ffb663e0"/>
-		<rom name="cbarrel_Neocd (Track 12).bin" size="26728128" crc="22e12ba9" md5="c20ce650b4671bf56b433ff9671b581f" sha1="9dd576c452617aa20cb2ff8ca5ecd9166571bfec" wavesha1="3237115722e892b55933a13e7ab5c6b173ca473e"/>
+		<rom name="cbarrel_Neocd (Track 01).bin" size="5146176" crc="f728852d" md5="0f081aa0a55705b58365dc68b63af01c" sha1="36101a277a7093fc641983721ea48c1b5ad21d4a" datasha1="e3db96ab9fd74ae9b2ba1205da7ed86fa0c6d25b" datasize="4481024"/>
+		<rom name="cbarrel_Neocd (Track 02).bin" size="20050800" crc="2e33e496" md5="7597ae834cea5a158fc093e0a0a18cc9" sha1="4bfee1582b76e64019a4c5e1ee084ce5ffcc512f" wavesha1="e7524a1384cf8e2bd9f725237f3c6ba56c255ba6" offsetsha1="71e063e3d15d44702a4ed198356f1ef6f9b606e8" offset="0" offsetsize="19698000"/>
+		<rom name="cbarrel_Neocd (Track 03).bin" size="138212928" crc="a699b8bc" md5="0f358f9a188a007ea8a04023971abd93" sha1="6c93d783c5fa6d55e212bbcfcb2b9f47526349f5" wavesha1="76f392b35062d20cda335f2394c33dbf0c6df8a5" offsetsha1="18071ad7b424533287bca207361dfffd12345e3b" offset="0" offsetsize="137860128"/>
+		<rom name="cbarrel_Neocd (Track 04).bin" size="140176848" crc="d34fa935" md5="26f2b0368b098a0861e3602ece987e40" sha1="86db912d03f9c61e4fb0ae9289bd4dacf8ae8c1c" wavesha1="bd7c4bd5ad968162b89b7b1ac6270392e5b95272" offsetsha1="4960b8cf8bf3f7e2488c6871bc67eba8e29e9ff0" offset="0" offsetsize="139824047"/>
+		<rom name="cbarrel_Neocd (Track 05).bin" size="91358736" crc="9b6be89e" md5="a0afe862a290d095400961b00d9f55b1" sha1="03b3a08efab8e65f719e1f9c64878effe6e0dcc4" wavesha1="9f212a0ffb19631a284b987971b04c251ed39f17" offsetsha1="59f6a305aedd2a1fb1894ec89cf7d821e748a541" offset="0" offsetsize="91005935"/>
+		<rom name="cbarrel_Neocd (Track 06).bin" size="89136096" crc="906334b0" md5="9260cee443e16c00cd6cf8978231c3c4" sha1="970177cbcd0e6854f174a6cde5379fa9e128077d" wavesha1="358c9f85511303ce6f0564b37c09d2176fe8cb12" offsetsha1="03c1e11eb18093d4e50485a04b6157a1d18d624e" offset="0" offsetsize="88783296"/>
+		<rom name="cbarrel_Neocd (Track 07).bin" size="10920336" crc="82481f97" md5="c606cde03a1f52af03c5115b8cdc74cb" sha1="7ce6ab85499e74a27ca6ba0e04f6de20640c5a21" wavesha1="68bafd128e4e3bb30a28e4e5a9b00be8f6c83a8e" offsetsha1="60feb8f6fc2a6b9b2f6dd647befb7aca7db21868" offset="0" offsetsize="10567535"/>
+		<rom name="cbarrel_Neocd (Track 08).bin" size="27986448" crc="27a7108e" md5="b8843c09ebed6897b2a8c8383fa25f23" sha1="b8eb31ae2a6b9b74c647062bb32e6db814f2498a" wavesha1="ebc5eef3ce533e26e76f3fa2ef6dd7ad5a46ad34" offsetsha1="c947a74fda90e398061b1d873b924a7b8808546f" offset="0" offsetsize="27633648"/>
+		<rom name="cbarrel_Neocd (Track 09).bin" size="28602672" crc="6d1047fb" md5="934d1d949fd2d1c689f0822a02a5e814" sha1="68688726a8aec3d2694dddb4baa47d12f800bc83" wavesha1="b0edf28f54487e618f723a334e10b2bd6bba78e3" offsetsha1="6177e4807341a548a55eade11e10ec2644ca10cf" offset="0" offsetsize="28249872"/>
+		<rom name="cbarrel_Neocd (Track 10).bin" size="93515520" crc="1496c82d" md5="a5fef7a30f05ef0a9de9618b64df35c6" sha1="0608bf4dc49ce24bae264cc686184c6ae25a0104" wavesha1="1178dab063e0ea206e0deed16a44fde557512514" offsetsha1="4ee9aed911619186529b9cac5af6af9346d4b301" offset="0" offsetsize="93162719"/>
+		<rom name="cbarrel_Neocd (Track 11).bin" size="85083600" crc="2388e037" md5="b1b99daf092884573ab441580f76412f" sha1="88eeb7287244864808e911e3d781b0fb77768119" wavesha1="44c6ee3fa1edf6d31975b6055f968685ffb663e0" offsetsha1="b35b7736c73dac5a77fd7bcd6e48c3db5db42ef0" offset="6" offsetsize="84730791"/>
+		<rom name="cbarrel_Neocd (Track 12).bin" size="26728128" crc="22e12ba9" md5="c20ce650b4671bf56b433ff9671b581f" sha1="9dd576c452617aa20cb2ff8ca5ecd9166571bfec" wavesha1="3237115722e892b55933a13e7ab5c6b173ca473e" offsetsha1="200300991166fca92e5f2455b53fa611eb11a351" offset="6" offsetsize="26728121"/>
 	</game>
 	<game name="crsword2\crossed swords ii (1995)(adk)(jp)" type="cd" sha1="f3c57b51ecdce2a9302cc531bbe4afe731b16660" size="251288114" crc="165ad8b0" fullsha1="94c12ee15d9177f788901f05fc61e835900d9ad5" datasha1="7f653cafb8b70675a2e369156b6596dd27a12d51" rawdatasha1="bd0f35163e554e353747a8ade6d86d4c79309130" rawdatasize="541660416">
 		<category>Games</category>
@@ -1907,7 +1907,7 @@
 		<year>2022</year>
 		<manufacturer>Blastar</manufacturer>
 		<rom name="Looptris Plus (Track 01).bin" size="1187840" crc="6d6b3e92" md5="53fbec2464555d0855753ca80777ad47" sha1="bad6e7144e59b0d3f8e196df28e922412bd5e919"/>
-		<rom name="Looptris Plus (Track 02).bin" size="63701568" crc="21d2482a" md5="6ae5134a739c13d28b052b9423229117" sha1="e652081800f116bdc9267aa4cd7c6fb329e8e6f4" wavesha1="7f6afda3691f75bf7ca5b8fb758b4a0c8fcd7b3e"/>
+		<rom name="Looptris Plus (Track 02).bin" size="63701568" crc="21d2482a" md5="6ae5134a739c13d28b052b9423229117" sha1="e652081800f116bdc9267aa4cd7c6fb329e8e6f4" wavesha1="7f6afda3691f75bf7ca5b8fb758b4a0c8fcd7b3e" rawdatasha1="26132ac0e7cc1403894fa5c448bcfc14c91ce55e" rawdatasize="64054368" rawdatawavesha1="e7448de71ab4bebdb051ce24bb55c8589b856571" offset="0" offsetsize="63701568"/>
 	</game>
 	<game name="lresort\last resort (1994)(snk)(jp-us)" type="cd" sha1="15449520e449d1e3ac2979936fcebc2adbbe5dcf" size="215191241" crc="16d9b9f9" fullsha1="1f3a149f0a13d2f46b29712ea9f9b4ac774aebe2" datasha1="3aa9e6eff23276d11e39df9245c9d1bc416dcdf0" rawdatasha1="15f92eac60ea0419ed434f28419e046fa5fa9516" rawdatasize="404300528">
 		<category>Games</category>

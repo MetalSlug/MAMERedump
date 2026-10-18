@@ -9,158 +9,496 @@
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
-	<game name="17 Bit - Collection for Amiga CDTV (Europe) (Disc B) (The Latest Batch)" type="cd" sha1="ad360264e4ac823977e1a1c6e4cd01e0cb7a5fd3" size="404548090" crc="ec1a4f27" fullsha1="07975d301e9f80523fe81e2f79584f82148762dd" datasha1="210878eb42377e676b079299136399f3eb6cd916">
+	<game name="17 Bit - Collection for Amiga CDTV (Europe) (Disc A) (The Early Classics)" type="cd" sha1="9e437cfc2da2282a19ee8f0528a3d865c6937572" size="429126349" crc="040cf8c0" fullsha1="697bc00b482bd4a5f1a11b44dbaf9662919a360b" datasha1="78796a7c5de70de1ee594037978ea6ea6cd58bbf" rawdatasha1="3d30e7117674698c5f6f401e59626c001ac14a98" rawdatasize="526906800">
+		<category>Games</category>
+		<description>17 Bit - Collection for Amiga CDTV (Europe) (Disc A) (The Early Classics)</description>
+		<rom name="17 Bit - Collection for Amiga CDTV (Europe) (Disc A) (The Early Classics) (Track 01).bin" size="526906800" crc="3b70fc1b" md5="b1c6f08b7f199283641e672cef13f89a" sha1="3d30e7117674698c5f6f401e59626c001ac14a98" datasha1="76e4e50acf66ddeb144cc077e921b6e45fe88214" datasize="458803200"/>
+	</game>
+	<game name="17 Bit - Collection for Amiga CDTV (Europe) (Disc B) (The Latest Batch)" type="cd" sha1="ad360264e4ac823977e1a1c6e4cd01e0cb7a5fd3" size="404548090" crc="ec1a4f27" fullsha1="07975d301e9f80523fe81e2f79584f82148762dd" datasha1="210878eb42377e676b079299136399f3eb6cd916" rawdatasha1="796abcd266f6f6366ed12fec264bdeb7851c3e55" rawdatasize="520556400">
 		<category>Games</category>
 		<description>17 Bit - Collection for Amiga CDTV (Europe) (Disc B) (The Latest Batch)</description>
-		<rom name="17 Bit - Collection for Amiga CDTV (Europe) (Disc B) (The Latest Batch) (Track 01).bin" size="520556400" crc="cf3523d2" md5="ddddd464ba83808d6a0e8c386e88013b" sha1="796abcd266f6f6366ed12fec264bdeb7851c3e55"/>
+		<rom name="17 Bit - Collection for Amiga CDTV (Europe) (Disc B) (The Latest Batch) (Track 01).bin" size="520556400" crc="cf3523d2" md5="ddddd464ba83808d6a0e8c386e88013b" sha1="796abcd266f6f6366ed12fec264bdeb7851c3e55" datasha1="2e9ff21e2d3550066394dbf778ca9ccbb51b430d" datasize="453273600"/>
 	</game>
-	<game name="AMOS PD (UK)" type="cd" sha1="aeee9de7545498d0a2396a2a692f81cf5d6a7545" size="299123284" crc="14097175" fullsha1="81b77ded4fe75a8d2ef0234707f80da58177509b" datasha1="350a7d2fae8d1e45a783d807685b8a86632f4817">
+	<game name="17 Bit - Collection for Amiga CDTV (Europe) (Disc B) (The Latest Batch) (Rev 1)" type="cd" sha1="3a48ed2e6d7fe89b535482c53596d0f2ef278ccd" size="403808622" crc="e09d9e15" fullsha1="7439e4a275e563ef26fa5797fca18148d88636c3" datasha1="4df41dcb0acd41b8d587f90f082bfb3855fd42b4" rawdatasha1="b3bafc74b2766c858599cc6e8f81deac9d0590e0" rawdatasize="520027200">
+		<category>Games</category>
+		<description>17 Bit - Collection for Amiga CDTV (Europe) (Disc B) (The Latest Batch) (Rev 1)</description>
+		<rom name="17 Bit - Collection for Amiga CDTV (Europe) (Disc B) (The Latest Batch) (Rev 1) (Track 01).bin" size="520027200" crc="d24d2746" md5="8d312fec9a3de6892c4ab44b8d0d267d" sha1="b3bafc74b2766c858599cc6e8f81deac9d0590e0" datasha1="3781fdba0b87fbadd4959655adc38f6d0d18e0f6" datasize="452812800"/>
+	</game>
+	<game name="17 Bit - Continuation Disc (Europe)" type="cd" sha1="d295e7e18ef2656e7d65df12ce623a3f24cccc27" size="414301617" crc="fdee68fe" fullsha1="692c90e4885c51638b1165a643d855c1cd355f44" datasha1="f7e0401f2e0f95380acae430e63dd44bb682396b" rawdatasha1="0c2ac57d774e4dc67f1e5580fa3840e7a1276fd9" rawdatasize="524512464">
+		<category>Games</category>
+		<description>17 Bit - Continuation Disc (Europe)</description>
+		<rom name="17 Bit - Continuation Disc (Europe) (Track 01).bin" size="524512464" crc="64504039" md5="4cde0425b6dddb522e611b688744d81c" sha1="0c2ac57d774e4dc67f1e5580fa3840e7a1276fd9" datasha1="0d91e1b11f721679b7269ea960ff2a0281595427" datasize="456718336"/>
+	</game>
+	<game name="AMOS PD (UK)" type="cd" sha1="aeee9de7545498d0a2396a2a692f81cf5d6a7545" size="299123284" crc="14097175" fullsha1="81b77ded4fe75a8d2ef0234707f80da58177509b" datasha1="350a7d2fae8d1e45a783d807685b8a86632f4817" rawdatasha1="c2dab466663a706590931a0e8afc92a60876ed75" rawdatasize="681494352">
 		<category>Games</category>
 		<description>AMOS PD (UK)</description>
-		<rom name="AMOS PD (UK) (Track 01).bin" size="681494352" crc="5d0eb96c" md5="e696fd1b3fce229c6d55197dc24b115c" sha1="c2dab466663a706590931a0e8afc92a60876ed75"/>
+		<rom name="AMOS PD (UK) (Track 01).bin" size="681494352" crc="5d0eb96c" md5="e696fd1b3fce229c6d55197dc24b115c" sha1="c2dab466663a706590931a0e8afc92a60876ed75" datasha1="ad0bab54e8be6b55fe72479848604787ab0bad28" datasize="593410048"/>
 	</game>
-	<game name="Battlestorm (Europe)" type="cd" sha1="9a3ff369f77acf2776e73c9a6d37932d30a65502" size="138520862" crc="14780606" fullsha1="ebe06d306735c8d462403ed9d72e1d6135f94080" datasha1="e0ea8476cb92aa76b2af77f8dc5fb3408583bec0">
+	<game name="Advanced Military Systems (Europe)" type="cd" sha1="624232163338fa2ad46e3f53931758117cabc2a9" size="348799512" crc="1a5752c6" fullsha1="2346440660220d05abf7906a9c107e05eef0eb59" datasha1="fcbaa7aeb26847c5b039538863ec654c2190d5fc" rawdatasha1="2e8942920ef41040198a8b59cd87061f51fd1b5f" rawdatasize="551607504">
+		<category>Games</category>
+		<description>Advanced Military Systems (Europe)</description>
+		<rom name="Advanced Military Systems (Europe) (Track 01).bin" size="551607504" crc="8c6fb38b" md5="753f2ca1e417ae15fa9180a85c0534fc" sha1="2e8942920ef41040198a8b59cd87061f51fd1b5f" datasha1="6ac1d683a558e89621dd82bed5decaf8725d0ce7" datasize="480311296"/>
+	</game>
+	<game name="American Heritage - Illustrated Encyclopedic Dictionary - 1991a Edition (USA)" type="cd" sha1="39c91231f023ce0042257bd0bb3d58cb1556e144" size="367152145" crc="055d1a4b" fullsha1="92ee48480e671c9cc9e4238a9a1170874df2dfd3" datasha1="9237b707f2340d12f33e69ad140898f4c7a1d209" rawdatasha1="b5f8db73a1f59d5aac690a598d0b66cc5b35729f" rawdatasize="523242384">
+		<category>Games</category>
+		<description>American Heritage - Illustrated Encyclopedic Dictionary - 1991a Edition (USA)</description>
+		<rom name="American Heritage - Illustrated Encyclopedic Dictionary - 1991a Edition (USA) (Track 01).bin" size="523242384" crc="7b780ae0" md5="880f7e4540e0a25d96a8ee3a1312284d" sha1="b5f8db73a1f59d5aac690a598d0b66cc5b35729f" datasha1="192bbde48244b65325a8fd5a52eab5d35aac7aab" datasize="455612416"/>
+	</game>
+	<game name="Barney Bear Goes to School (USA)" type="cd" sha1="e64593c7f7f6bfdc9ae139d9c7f2bd57f6a4bf86" size="42120124" crc="a1a17450" fullsha1="12013b203e4b7e1280fd6c0819a8ac6013a0e947" datasha1="359404e018008ed3bed3135007238c73d61bb783" rawdatasha1="e8693a7ebcec2af3544fbd5a9ef61b27c319707e" rawdatasize="99165024">
+		<category>Games</category>
+		<description>Barney Bear Goes to School (USA)</description>
+		<rom name="Barney Bear Goes to School (USA) (Track 01).bin" size="2391984" crc="c2b0380c" md5="d660d7258e04b3de83248f488c58e47c" sha1="552497c13fc47fa14a7b626bf6b01de6020e091a" datasha1="398138c5893619caa428f00615d769045e7055b5" datasize="2082816"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 02).bin" size="712656" crc="c5a453dc" md5="ddcca5e6b1d05442505a935f1444c82d" sha1="d2bbb8e2d902bab9d2326c358da0f89076ba86ac" wavesha1="4a7c7be01e8be38e60d4bc83c8e41b80a0e6bd46" offsetsha1="7e1bf0699425eac5d813c87c1c774ee2e202c947" offset="788" offsetsize="711868"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 03).bin" size="717360" crc="ace9996c" md5="52fb246984bd4bab51571454d9501904" sha1="14c9d68301fd1116bf929d26119cf34c03889af3" wavesha1="6eae5329c2f68294d417398a5d7787847734df2b" offsetsha1="950c5c268606678047609e64687b9818bc6690ea" offset="0" offsetsize="717359"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 04).bin" size="1239504" crc="6f40b0b0" md5="48e8a5b4813a942f1251aa9d013af83c" sha1="3d494d1975bd89a10e1f17dc5ac0a1f5827c32f2" wavesha1="5b4c1b9dd48d961f933a1bfd5a35569f454fadab" offsetsha1="56770691192fa68988e2689169e105c78f529e51" offset="2" offsetsize="1239502"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 05).bin" size="1241856" crc="8ac376dc" md5="b8b04a48f1dae3ff2994a7a15143f924" sha1="c80bae6ba28fc9e7c45ef3228903c0b3b06d384f" wavesha1="c54dc8d669aee578136ba17c784f1aa565cc6b49" offset="0" offsetsize="1241856"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 06).bin" size="2297904" crc="c645a24b" md5="7dfdb3a6718188c6230eef6c003b0a66" sha1="059bcbad79f1d3455f3bc75befebaad9ad3f9324" wavesha1="95eede8c747564d1eba2f78b7641b9e7a0680d55" offset="0" offsetsize="2297904"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 07).bin" size="1947456" crc="d94cf99c" md5="43dbf6509b694673c625c550d1583ab6" sha1="7960707b46957df2cabb8fa154bf033e31580b2c" wavesha1="33017760ebddd2dc3e93761cd8207c8d17c95663" offsetsha1="78eae6bd7b760ce8f4e583f013a6c9c3e4f512b5" offset="0" offsetsize="1947455"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 08).bin" size="639744" crc="cbbd68c0" md5="870b67155c66d389833f7bdb4c226b78" sha1="452e78d923ac63e02b0b165a1e1c986734ebba61" wavesha1="db6065bd5ff6149b1ec75c7fb6d98dcdd2534c56" offset="0" offsetsize="639744"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 09).bin" size="2293200" crc="f0fc14c8" md5="2146f79948f95394cd7bc8a92d8ffed3" sha1="cf189c32133d62df96c3ce0a36288113da823aa7" wavesha1="bcf492f8a19362ddcce97324c2492e61912b09cb" offset="0" offsetsize="2293200"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 10).bin" size="893760" crc="acf0a9a5" md5="a95d931d28de5639e51d3ad02cdcaa0d" sha1="a1434029702c0b353d8306c7e9950819ba5267db" wavesha1="682a1ec9b63c672c7f423a858064585a225c8a9e" offsetsha1="5773513e2766d4c8f378db4f1c4db671019fcd5f" offset="0" offsetsize="890663"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 11).bin" size="893760" crc="5b331b57" md5="710b0c91d19db1e23eb0dff53c7e5b52" sha1="ce4fc5f66808d0fe367e68f880431498f6b478fb" wavesha1="d5ee7ec177c18fef43153453adf53b08c5f7e4d8" offsetsha1="c93c698f13cb6132edda0b332bfcf419f81d0c58" offset="120" offsetsize="818075"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 12).bin" size="893760" crc="b9b64ec0" md5="92ce9aa1f3f1b6ed9be3dd601c2ff51d" sha1="3e80a154316a345fb127ca37ba6b8b72c750e4e6" wavesha1="b79eb96e3052321e48e108bfccaeb70aa9fdf8d4" offsetsha1="9dc069e60349141de0636755d00d0ff539cbdd17" offset="120" offsetsize="893640"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 13).bin" size="453936" crc="d6851dee" md5="83746c04b76586218074c2098d97e4ec" sha1="50ff9c0f8e9b0a87e5b36e2ecc0f3f1508784675" wavesha1="6a8bb13625cabb6ec498e76c4a5dccc7729e5cb4" offsetsha1="e3bd35daa813a9446506312c154d95293eaf7caf" offset="0" offsetsize="453935"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 14).bin" size="799680" crc="037889d2" md5="ced4ec11d8c1be2e1148803f19cd1f42" sha1="0762ef8f6905f45acf8c4ae4054ab60a6cf7c073" wavesha1="032ac6f6de9fbac7f4356735c07421bcf673d201" offset="0" offsetsize="799680"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 15).bin" size="2474304" crc="f3d32cea" md5="09060e33785a50292eba201b0762de43" sha1="ad67f5ca5844d75c592fad8f12336d3133a183b4" wavesha1="0fd0a55c76eab76a5e7e0788375b0568c7bd5c79" offsetsha1="74b9f26b624adb7ecc8b2e9186bbb18a1622d89a" offset="0" offsetsize="2474303"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 16).bin" size="646800" crc="3ccd6a90" md5="5018feddca5aa792e78a3ab0faecfcce" sha1="0920f59fd541026fe4d0d795bc7b6c57a36ad91f" wavesha1="2e77a05bf435ca053a539073ab2c1a8024aad2bc" offset="0" offsetsize="646800"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 17).bin" size="536256" crc="feeb7b3e" md5="fabea432e2ec97f7920388877d3b2c96" sha1="3309dab66316e075faf4893f55ff0798ae2f88cc" wavesha1="de462503c8a86a9237a5e5248b3fd646ac9de6cb" offset="0" offsetsize="536256"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 18).bin" size="799680" crc="9400c912" md5="04e1ca138b7682022d44815771f7d610" sha1="3c69e6c6973218c427eb1a1e9a345f68e6b49fc6" wavesha1="eb58b92eeabf7ae3b1726bc381514ef9cb406640" offset="0" offsetsize="799680"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 19).bin" size="717360" crc="31b6478a" md5="3724b24f0f3db4e6dc5bf3719fd96159" sha1="4f5cf49b310c832252127b12cc2b0df229180359" wavesha1="44fb48a82e43b2a2e56ec5ba2007ca7c5e30104d" offsetsha1="f89866da0e3bec0da47d4b69cdca2858f934435a" offset="0" offsetsize="717358"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 20).bin" size="482160" crc="ed18d3d0" md5="712529d5c03be26bc61018e2a6d62231" sha1="7ab59b64684c10884fcf6c9ecc043dc7a5153841" wavesha1="de2d4ffaa0a39c48afde22691e982cef647963de" offset="0" offsetsize="482160"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 21).bin" size="533904" crc="6aca0fd9" md5="416183742a8ec7c08595695a1d36f49e" sha1="3a278ff89146499e6a7e7e25909305d1cfa5fb80" wavesha1="acaee85775e1f2ebfe2020511bdca7870d472c83" offset="0" offsetsize="533904"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 22).bin" size="536256" crc="1f4c00d4" md5="3fdee94ba5e0d7e4a474f2a016d38d16" sha1="0b92f885a17fc0553927f9fa0cacf1da6b6b7b39" wavesha1="ac9a419b82f8f1271619464e8227332011589816" offset="0" offsetsize="536256"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 23).bin" size="533904" crc="ce9c3836" md5="3213aad3d108d80d1d530eca243877f3" sha1="8669634838d19a7032e8526e038bd399bfdf9b57" wavesha1="646e4383c66517857c93932243a5e1d73c7d6a15" offsetsha1="30ea26a3be31ec2366eb6db30d5aac2a01baf0e5" offset="0" offsetsize="533903"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 24).bin" size="1187760" crc="14a52799" md5="dc646e0e23fcc0112dda6dee7fc94048" sha1="6912d94ded87afb74bcca87806f3f72bf4702b9d" wavesha1="d0d7ff8de2d1ace4e88bc12d46d2d5db541803f7" offsetsha1="36835762964a4a411abd901d172f83133b59b340" offset="0" offsetsize="1187759"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 25).bin" size="364560" crc="b8735a03" md5="d49d329b62d952e14bd5629b103cc5b1" sha1="9ed5776b573c700ab26c32a459a0fd1a00485328" wavesha1="b5977e291e8456375373c2706ddbf9956c3b07f5" offsetsha1="a01a7f5a499027c9661f0c1b7c3c72c92229e18c" offset="0" offsetsize="364559"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 26).bin" size="536256" crc="f489cd1f" md5="a4c765c36e20e37993aedfaeed3b9dea" sha1="9efdff891f55eca95a02b348d66c35980ad968de" wavesha1="7cec4daac9defbcdab44515170485d233a2bcc54" offsetsha1="38e04ab83c518e702977890eb1ba06bb71cd74d3" offset="0" offsetsize="454055"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 27).bin" size="717360" crc="bbb1166b" md5="81a413c1524ad483650317036b3d9687" sha1="d2a421fd7018b6eed013cbe61b8ee2070eb2aceb" wavesha1="1a61ac2b477693b8268b8731d960dcc13ca7a464" offsetsha1="5b563eca23092b896cb0745d6a1befd5545a0554" offset="120" offsetsize="717240"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 28).bin" size="627984" crc="991e15c5" md5="f0291a33a245df7c38c0cea1ee4df9cc" sha1="90442878e2556a87b57c321641e708e8ad93a471" wavesha1="646bbb82e47a36cc7512a2bffd8ae7ad7ff91180" offsetsha1="05ca980e093411684439fde572d55d5a5f57ad66" offset="0" offsetsize="562580"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 29).bin" size="1594656" crc="7649e2b4" md5="0db6fe455ecc9b1fbeb55a85358d58a9" sha1="e2fda0b201b406190a1917ed7efd00e79d272efb" wavesha1="e3805c50fd7858b482f1faa95da3d3033e3ea704" offsetsha1="ce3c596f5fe75fa937e437af9d6d3d602c6e2cbc" offset="120" offsetsize="1594535"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 30).bin" size="1528800" crc="6902b486" md5="f57d4d0cca4e1a1dbbc6d34dac28aee3" sha1="76cb82eb26e66fa432e268fe43911fc708cbb6ee" wavesha1="1fac4a233a8d9158a54626b613dd9036259fe6a4" offsetsha1="09fed4f1d2c26a605b7297234046e911226b24a2" offset="0" offsetsize="1440360"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 31).bin" size="980784" crc="f154b6a4" md5="18b018bb693b22530fa1e087a79bf2da" sha1="b69ef59ca3a9826c4137c59a5eb30f3e305f9b30" wavesha1="ff88e008b604adb2bfd9c069a201787bf79e5bfb" offsetsha1="31fc55e0d1f2e0a21c3a31d65dcc106695cc8659" offset="120" offsetsize="980664"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 32).bin" size="893760" crc="58dbf520" md5="1bccdfc3c0f7bc0bf63b75c703d2849d" sha1="2bde2c5a8f0d74c6bd083dd1cb5377be2070524d" wavesha1="00734657743d19d5c69f94b6f2c04b53881a76e6" offset="0" offsetsize="893760"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 33).bin" size="712656" crc="8ff80802" md5="d13b18473053b6f93a931acdef2ac9ff" sha1="54d4a3f7869786899393d4fb67fbe03e40626330" wavesha1="24f4d22dbb2a3ce92ae07b2fcc92bc62d92fc6f6" offsetsha1="5ea64f602e75b46b4ae2e56b51436efefc0bc470" offset="0" offsetsize="496834"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 34).bin" size="4245360" crc="8b54c487" md5="f106712d1ebb1c07fa2408efff0cbe53" sha1="9e52d519d4579ebac2d3da9c5ce0669eddb19cfe" wavesha1="f8b1c0afa12c7d34a4d4c700fe9de7ef6526c201" offsetsha1="b2863ada2b93510c7b2337b2a386c9bcb501dee2" offset="120" offsetsize="4245240"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 35).bin" size="364560" crc="c8de569a" md5="13aea576e33afc7923d0ab977d2470b5" sha1="ee811b8c5f8f60e3398148a79d195ae2848d8e4c" wavesha1="9f04002c4b84e327762abc72ab0a076b3edb996b" offsetsha1="faf0a91844e74ea8cad96ec753735a0ff8fcaafc" offset="0" offsetsize="364559"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 36).bin" size="369264" crc="7cdecfde" md5="c1392dbb1c8e820f80c447ebb50ca10f" sha1="e27350c280c69b7c11bd44267a539073fb0b77fc" wavesha1="1d40043488eebc0a6596a1957744c85fb09e617d" offsetsha1="1cba266d96244a2f7b28a9d0707daa91b9e9c70e" offset="0" offsetsize="369263"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 37).bin" size="364560" crc="601727ad" md5="83923ea897d5284536257c85e9d468c4" sha1="d5089422ddfce443abf69ec23befb210c9062077" wavesha1="f99dac7ddbac3507025f22cfb6e65b66795bc4b9" offsetsha1="e00dff9bbd74cacefc20d85e950eab667e521a21" offset="4" offsetsize="364555"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 38).bin" size="371616" crc="807f518e" md5="416d19d1a4471c06a6fab9cafd270541" sha1="835924566f39f4d8c64094d1ed863937917e0707" wavesha1="6063eb28e31f1be4b787f98113e313d39807d8f9" offsetsha1="fc8ef993f73ef4e1bee36e797e7a4c7551fffb2b" offset="0" offsetsize="371615"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 39).bin" size="364560" crc="e5048ba4" md5="de980b883d382e7159848f2264d11905" sha1="4abf1743a011b3183f0b057ebeccc163fa0f3045" wavesha1="c90212d80271b1251c921b66269e75a2be2d3f39" offsetsha1="f7ec7fc51dcbaf39cbb32659ed9169e6532406a0" offset="0" offsetsize="364559"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 40).bin" size="364560" crc="de2bcb80" md5="7f01aabfae9776414f4029798921f3f1" sha1="c150b686dda96233048b0f1d29ccea071daf9f01" wavesha1="c248b24873b36d86784ff1140142b11ab119435a" offset="0" offsetsize="364560"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 41).bin" size="369264" crc="9025a637" md5="43cfd6bb7f9f4e5add2b1119f78d4569" sha1="640d9918d448bce59be2e1ef52e5b82587613b23" wavesha1="e43bf1173d7461b59883f7c8b582f7c68f4f8db0" offset="0" offsetsize="369264"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 42).bin" size="364560" crc="df40bb50" md5="59ca076d2fdc665f701e7467a3d2b180" sha1="ce62fdb5a9f32b9292b787ac51e04d7498f11964" wavesha1="a59ee0390693897056bd3f098f9f9e8a4fae485b" offset="0" offsetsize="364560"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 43).bin" size="1147776" crc="01f0c4b3" md5="88ec47b4e372a1bfc9eb5b63a3ef2353" sha1="23d147665661a130d1f073467cf6f6f0704f4d7b" wavesha1="fe57cbba369643801e0a6b9da414ec14f34b2582" offset="0" offsetsize="1147776"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 44).bin" size="1152480" crc="8b4242b2" md5="a14c7b0d159dd11f65fb82c8c7299938" sha1="6b4349b5279a92f428e349abebce438cd965810c" wavesha1="f7f59104c963e91924dfb6b105535ea03210b838" offset="0" offsetsize="1152480"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 45).bin" size="1145424" crc="7876d09b" md5="9381f3af88a86a453167a6079a17c1aa" sha1="85b3d934c062498f3090538d6da6a3c63d089508" wavesha1="703bd4ecf36efbad962cc6688f539e8b1721a1cb" offset="0" offsetsize="1145424"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 46).bin" size="1241856" crc="9428abad" md5="7d607ede892bb6f012467cfc07fab285" sha1="302edc1ad287fa0df75b4c86307ac747f8df4a24" wavesha1="aa76865ac1d8c949f8ead709088f2393210156a6" offset="0" offsetsize="1241856"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 47).bin" size="1239504" crc="9d893258" md5="f737f25818598092c3c483732ac2ca8f" sha1="2de127469e98e4fa7bfe00bbb882007fcdb12856" wavesha1="f9f19c0c078f2128d733d59ee0c85ac74034ca90" offsetsha1="a46a495d6dae606197fde11f0ecfc0700a3c833f" offset="0" offsetsize="1239503"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 48).bin" size="1241856" crc="51aac16b" md5="3454bf5eac48968e920d78e083be5aab" sha1="e6b1ae9d4e5f281afe8b6c3defed0431dcb99b91" wavesha1="643d4881917f9abfbe7059aaa6ddf38386ef4cae" offsetsha1="d6df502805e1e662d63aef5f063f00e0e04d9c37" offset="0" offsetsize="1241853"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 49).bin" size="1246560" crc="362fa379" md5="f20cf6292d3dd47d77efa1102e43e530" sha1="893cb6ade428f689b38a125d275379bf31aee8d3" wavesha1="3a302b85bd7da7b09f397b14731b82776f4b40ec" offset="0" offsetsize="1246560"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 50).bin" size="1145424" crc="e4d8ecaa" md5="c5616328576e7b94cc54f3a39d035caf" sha1="8358d5170b00b4d09c56b8a28c828ebba1d5adf7" wavesha1="bb8d6369ddbda00d9ff6543ba4eb6dac13f3a410" offset="0" offsetsize="1145424"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 51).bin" size="1147776" crc="f08992b3" md5="4c8a8712674e4c8a98f00a5dee8053d8" sha1="2b423bf03c9c49dc0be0175c8c3299012d364200" wavesha1="203b7725a7ce26e575d54c93f66c3b317ed7440d" offsetsha1="4e4d4f49f477ca3a9b45936c8cedce4039c86527" offset="0" offsetsize="1147775"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 52).bin" size="1239504" crc="3c8d4367" md5="861e523b14ae06b1acfd0ae37654eedb" sha1="12a6097937de5d869b27d7a8238da8340f438ade" wavesha1="1f137265fbcacbc38b10e807a6b17168091b4ce2" offsetsha1="392a790fbe8f6238dc2d66c2f8143e97bcb3313e" offset="0" offsetsize="1168996"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 53).bin" size="1077216" crc="87954cbc" md5="c0023a8fe8cf1683277c8fd61552eec5" sha1="84698a6f846de2a779a81a8b93cbbcbc9036a8dc" wavesha1="6b44ae1c27b04a4026405d5045616ecb7e0978bf" offsetsha1="af0b9d84bbc62a1536c3c2603043a37c5b54db7b" offset="120" offsetsize="1077095"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 54).bin" size="976080" crc="ec086f32" md5="4551ef330c5a5e8ebabd3dc7367d0997" sha1="4061e1f7258a0c87cb23336e4f64cbaf4cdd254d" wavesha1="3e7ea5adcca47a2be59c2b546ade4f3d6cf4d0eb" offset="0" offsetsize="976080"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 55).bin" size="1145424" crc="c394fa0f" md5="6a1b8cab8ffc7f8ba0e398d06d6d6a3c" sha1="cc8f53b24f138fc21a23b019a437368289a4c265" wavesha1="4e4446e22fbdd9f8a6c0699ad9cd5c6a86c6e6a9" offset="0" offsetsize="1145424"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 56).bin" size="1077216" crc="3ad4671d" md5="5da6fcdc3f19652cecd96bd45211f0b3" sha1="7b763ba759342e15eb2ccc4d98acbc01cca3ca39" wavesha1="37343ae2f3117abb6a8294969c544e07912321c5" offsetsha1="2167deab1c6db7edf29c05ba27c2c65ab2fae79e" offset="0" offsetsize="1077215"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 57).bin" size="1070160" crc="333cacef" md5="5d56d449922dac2fb60888bcc8b65e84" sha1="f630af7d1e49a95ab428bdb74126f81b62730912" wavesha1="a68d36a7d84476d64bc46858f9ee466ced016778" offset="0" offsetsize="1070160"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 58).bin" size="1145424" crc="cbfcb5d7" md5="1cb6a16bfb96ddbff6981df77597ea5a" sha1="17e48a7e1a32b85977eb7b8ad4fae85d8c42bf86" wavesha1="1e64e4d6b528ea43dcc38ea213b6350880edf6a3" offsetsha1="4dcca225d75d1f93a2b25198fe49fad58578898f" offset="0" offsetsize="1145423"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 59).bin" size="1077216" crc="504777c6" md5="fee45f55442782a1d97c06c4caea3b94" sha1="10d5b198c8499ebfd41d68eb6c8de18b2e69e65f" wavesha1="e0a55247989cbeb02516fd38a84848b5af83bb7b" offset="0" offsetsize="1077216"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 60).bin" size="1070160" crc="1fa823d3" md5="1012b41b1077cb5ab2d687049c229b1a" sha1="47185af038c1d83ab89317010050afa512bc2886" wavesha1="1f8fefcbf62d5c90fe0337916029f0477baeb40f" offset="0" offsetsize="1070160"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 61).bin" size="1239504" crc="24ee30bb" md5="6ac86f3c17074d42a9f098d8ff957e25" sha1="f5bd27601429f2f716e65ab2f897d5197717ede8" wavesha1="e25b461d887b21316ab5b05a67cbfe6b3732229d" offsetsha1="8653597c19b6b00dfc27b741001f402f9f9f29ee" offset="0" offsetsize="1175608"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 62).bin" size="1077216" crc="660b6ef0" md5="0aadb961334bec4cace74b17c40d24aa" sha1="199f76e7ed30f85009e05a5525b23f0e89995a91" wavesha1="d0cfc22f79f72aa205b7c9362ddb914638cc6ed3" offsetsha1="d9899935df30108aac7f50ad42a73dbfd0bb7a54" offset="120" offsetsize="1077096"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 63).bin" size="1070160" crc="f666dcd5" md5="aa3616d2742a44dd8cbeada00657607d" sha1="0cab20ff575958d3c81728c90c891e10f715e0af" wavesha1="18957f83f7044927e8c98fb7fb806d899e4e87c6" offset="0" offsetsize="1070160"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 64).bin" size="1145424" crc="e32633c6" md5="3c9a490073e319936bae51981132c955" sha1="e335f003aea9e9e813cf5e426bc72f07ec768b17" wavesha1="05c7ab84216271e518f4acbeb1056ea1b21bfe43" offset="0" offsetsize="1145424"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 65).bin" size="1241856" crc="2188de3b" md5="7e698663d98466bd2000a882bbe5b8cb" sha1="e99995125809473a9a3bfcefcec7e4da1d4f797b" wavesha1="0bcaf6f68943127372aceb31d6fe350260790459" offset="0" offsetsize="1241856"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 66).bin" size="1074864" crc="f91dd564" md5="18f8511fe266d9538ade3216ea1661c5" sha1="97afb5a41008b20e1bcccdac76936f49d9a749eb" wavesha1="4765d6b169c50913950b431818c15c773abe8885" offset="0" offsetsize="1074864"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 67).bin" size="1241856" crc="37bf5c5b" md5="b9f7c67c8581229fad348445f50c6371" sha1="53be03dfca426ac80378b10d0e36a33e9c11d776" wavesha1="ce9bef12d2960705a1009c783aa370cec05134ca" offsetsha1="1ab9edea125d04332faf32be03d82b521500c68a" offset="0" offsetsize="1241855"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 68).bin" size="1422960" crc="668ed023" md5="70b9006b57fa5ee625259694f8cb47a0" sha1="3d9a3eaa86603918ebe477ae28bacfc304fe5425" wavesha1="be282280966ca8f4dace25c00545c1d2259876d1" offsetsha1="af80f87b9b900d3b3676564885ac50290bc0d495" offset="0" offsetsize="1422959"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 69).bin" size="1239504" crc="5518673c" md5="01f3ec3d63c80e274887699198e75606" sha1="9da2fdf58468db4b780b57c5b2076e481d7698ed" wavesha1="69fa51a607df0671a79580fb6b24f649e522af21" offset="0" offsetsize="1239504"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 70).bin" size="1418256" crc="e439b914" md5="7752af3ad4a3b8cea680e4b7e1bfeb4d" sha1="5e2855cf17f0d2030ea88aa95ce23caa210a3510" wavesha1="bb3431b3522e27f221b96178a126e6267e5fa6ef" offsetsha1="96aba337d2ba283d832e06ee5a3e169181d30659" offset="0" offsetsize="1325236"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 71).bin" size="1074864" crc="56ee347d" md5="bdef9ebec16c0cea78d2f4fecd48e688" sha1="d3b7ac10d5ad278d395c0728d93d83e731f93967" wavesha1="783a740ac433717b49be55991eed81a57b904c17" offsetsha1="5d6aa36335b52bdc9237c0c683532ad4e00ce484" offset="120" offsetsize="1074743"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 72).bin" size="893760" crc="4be41c59" md5="c8f3323905f892a046c979916fae514b" sha1="06af05085066a2d57fdf0bfd1426567e740372c7" wavesha1="65119c3c04bd56b43424c12a1edd6d407ab0e29d" offset="0" offsetsize="893760"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 73).bin" size="1418256" crc="5a115f81" md5="0a30fcd90e2839119e93ed7136a07097" sha1="52149d8d53a03d0cee85cc4e4df1b82e5ac88e10" wavesha1="690994ccb06a9fdad730af7e2b498e6db87ebceb" offsetsha1="96dc50dbc7e2697e580318db497393b7397291b3" offset="0" offsetsize="1236468"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 74).bin" size="1422960" crc="11634540" md5="3a3edb3674bd30f7a61dc806b7562bf9" sha1="85f6ad48de39dfbc87aa4fa46ba016984aa8c679" wavesha1="2357f742da3e03fd2640a8c899328ef2808019c0" offsetsha1="2f2f8560610f7ae5ca6fc2f282d1172118845249" offset="120" offsetsize="1422839"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 75).bin" size="1422960" crc="476bb94b" md5="9014a8d1a3356b01dccd95fa460bc785" sha1="a2791067722c9b0f3da80ed06b264498dd98ff15" wavesha1="dc4f7183bbc1c17a40b89ceb523ab2c1b84f254e" offset="0" offsetsize="1422960"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 76).bin" size="1415904" crc="6826e507" md5="d0e58f8d6a734b20777f244edc1a45c7" sha1="c7313b864bc7d8577bfb9f51fc3c78d21f531816" wavesha1="7430b1e083ebf8164eeaf1976339547743569c57" offsetsha1="23de5883d1d8be2adbd1ff59f3dc1e9fd8817e18" offset="0" offsetsize="1415903"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 77).bin" size="1422960" crc="305f858f" md5="e4619f010e4af80f7a8770fb8b223cf7" sha1="4213b728f776ce2c9794249f0e606e374d8360a9" wavesha1="5687b7e8da4a0665e9c69db7d901ade38d97043f" offsetsha1="549484d51c3dafd04a5b053fa37f075233eccf62" offset="0" offsetsize="1422959"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 78).bin" size="1070160" crc="08502ef6" md5="1215b28b90fec2fc1fddc6fbe3a63e87" sha1="c820dff0bb7701b713e23349b0fd7f7ab4665fdd" wavesha1="a4a3ed2ce17c738bab0b4b7f2874eef756cb4f1a" offset="0" offsetsize="1070160"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 79).bin" size="983136" crc="a8aa910e" md5="1c855c082e2185d7566681d63db741dc" sha1="3d9e1093945b295cb55cad9677670596f662795d" wavesha1="e71336eee15f3de3d76d6e50d2f5dd3968861f16" offsetsha1="544afcb05a509097a74158b0c7d9e389295c11f7" offset="0" offsetsize="983135"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 80).bin" size="710304" crc="e02d0ab2" md5="fddaab4f57e73c36dc1af52fc66bd58d" sha1="ae9a1f294ef937e5d55a879a1902aa8977363c14" wavesha1="c773f366f4b353f2557805ed7203798f6457f273" offsetsha1="cb6325efd9b4d6cab641342d3819abdc29b35226" offset="0" offsetsize="710303"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 81).bin" size="717360" crc="d49c10fa" md5="14dfd6e66c6754ea546b23c3e56d0a75" sha1="0d2590dfa441e56044b2a10a43a9db970874030f" wavesha1="3418cc2416d804ad8bc77de49a04aba3919a3622" offset="0" offsetsize="717360"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 82).bin" size="536256" crc="068d3b79" md5="44b0379a2278f84f7e7015ed8bf79c54" sha1="d60d6f2e180d66167eaf33263939b7955f86d5f5" wavesha1="31aedea894b4867a8499e6ea82ebf29708aa58c1" offset="0" offsetsize="536256"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 83).bin" size="533904" crc="1e893985" md5="8089a558e9808640820fe624a32b3f8a" sha1="15cbcf935c605fdb99052b5d21733eeb77ddd72b" wavesha1="f47271468e3e7dd73460774282e336e72f30170c" offset="0" offsetsize="533904"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 84).bin" size="536256" crc="f4a1fa93" md5="e862789c432b7e851d552e75e922716c" sha1="001f27aebd72128158b2d5b7a48d8f713dde7c95" wavesha1="e72f6f3eaebdc43374f64a09466aa98599d9d2cb" offsetsha1="11ab052a3f6307efc703a832ec67f99eb91d6100" offset="0" offsetsize="536255"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 85).bin" size="540960" crc="4602f294" md5="f7f27620f89bd7c7e19fd2d5a94e82c1" sha1="2a67600411c22a58f721b3da5a289957f9f52f65" wavesha1="f90acaef8e1911e69f2d07d664d36657c3fee1b2" offsetsha1="445ff68fc506be60a862f6e78f6b0c9332cba836" offset="0" offsetsize="540959"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 86).bin" size="627984" crc="5a128907" md5="2829f242300b36fc233c8eff72000c4a" sha1="4e42e0e0adb78d3917bc38b5101e7a973d7238b6" wavesha1="d5081ea1e3a2278ec1c9ef709bd5ee1bcb8c7775" offset="0" offsetsize="627984"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 87).bin" size="536256" crc="f07cd311" md5="342875d61f152a7da7d9143ebd0d767c" sha1="4a190ced3513bfce98e3c93dbdb774ecf8b1d6aa" wavesha1="fd6f2164e66a1ae493e17599fbe6865f56db3a0a" offset="0" offsetsize="536256"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 88).bin" size="533904" crc="f05e95f7" md5="351f42129a3ca0212923c924ab028399" sha1="2325d30fe9ce608a5c6982c7c02185e6f97fab63" wavesha1="ee288950226ac9c7f0b5594f636a7d8c35c5a525" offsetsha1="1a5f2691c104984856fd32d446d0c3718bd61fdf" offset="0" offsetsize="533903"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 89).bin" size="1241856" crc="4a349918" md5="f0ab189b06da969784133ca81a51454e" sha1="7fc6e6263f54c245770ddb9a541e323036f67d2c" wavesha1="9c76dc4d93de489c168742af4b0bfc2a82c18e74" offsetsha1="380e12a9682ce69443ab811268d7034d6cb5a65d" offset="0" offsetsize="1241855"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 90).bin" size="893760" crc="86946adb" md5="e6ee817f6712a8150fa793baa1333796" sha1="b3e79071a649e2492a9f7937e062ad57454858a1" wavesha1="cc989379769e15ec0ca61435483a3d04116a9437" offset="0" offsetsize="893760"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 91).bin" size="1246560" crc="8cb842ec" md5="2a74a5b6b3a1225a4ff9b4b824fe5fe0" sha1="c2eab8f35e746dfd9335dfd67203dfeccb458de5" wavesha1="6e4a47e97ca3a32aee1b8c3ae6b82ced9d331f51" offset="0" offsetsize="1246560"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 92).bin" size="1145424" crc="25a06f44" md5="c2c9ef8ce916c8bfd9cfad5da61c8bb3" sha1="6da8c81d445b0190ba0c11ef44dc181b48981eb3" wavesha1="c71d4066434b54e261f1f4b57a4b73db5e9e2701" offset="0" offsetsize="1145424"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 93).bin" size="1418256" crc="103f23af" md5="1dab7e75dcee645759988fba5c5017cc" sha1="58c0f25bdc479a7c7ab63324fa8e5257aee4ec30" wavesha1="85668384e7ada6bfce3adee0488c48cc8af1d33a" offsetsha1="9c45bc43bebd8cab360180910ef0a51c44c8cd06" offset="0" offsetsize="1418255"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 94).bin" size="369264" crc="37ab546f" md5="3a1abd4966bdc662bc9d9d51f6338942" sha1="ff55b21f3931d8f2a7685a207a95088445eb31cd" wavesha1="0d11237dc3e34dc8e9acbd68ca4ece982f4a38ad" offsetsha1="600537daf075217ec538ef1af032aef3a87f31aa" offset="0" offsetsize="369263"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 95).bin" size="536256" crc="96f61b43" md5="bd8e3e04f133b41b84fd5b84c13997b6" sha1="78497cb64ca43645e14a21129329982e7138f802" wavesha1="190432e8a35820b48699f198cb295df1bb2b7bed" offset="0" offsetsize="536256"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 96).bin" size="533904" crc="3cf5c0a6" md5="fef61422100cc1a282250efb79a85292" sha1="6df2447ce0fd01e7db56a23942c0ae72200f3a97" wavesha1="bad684a97fc4ca910742a2f8c94e5455e7d79fd6" offsetsha1="da803b0ed9cd3387555185784865ed1bbc456f3c" offset="0" offsetsize="417334"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 97).bin" size="371616" crc="3f9148ea" md5="d087996d7f1e9856ddf833a697d2ea0b" sha1="13134fa895412372ba243b161965c978e23f6fd2" wavesha1="ea5b812e2dfac8ad41077b95026f7720bd8becc8" offsetsha1="4c651c943cdc2474c8eafe27507a37e6d5876171" offset="120" offsetsize="371496"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 98).bin" size="533904" crc="4fd7ddae" md5="781edf7bd5b6be3ae60a8f0198120f15" sha1="360703189c7756f774ac4c26d4f381ae1d1b5b07" wavesha1="a5e3ba894932b0fc69345c74238e6f382d9e4936" offset="0" offsetsize="533904"/>
+		<rom name="Barney Bear Goes to School (USA) (Track 99).bin" size="717360" crc="fab012e6" md5="bc206671819ac2b5b13e906fd27b89fd" sha1="43b2ab2a65d451f0527c1572f1308430148c96e3" wavesha1="e196a8e13527482268482e4bb3f901020f86c601" offsetsha1="9d4a0e4275e0de4ca04eedf418b34fc2e557ccea" offset="0" offsetsize="364680"/>
+	</game>
+	<game name="Battlestorm (Europe)" type="cd" sha1="9a3ff369f77acf2776e73c9a6d37932d30a65502" size="138520862" crc="14780606" fullsha1="ebe06d306735c8d462403ed9d72e1d6135f94080" datasha1="e0ea8476cb92aa76b2af77f8dc5fb3408583bec0" rawdatasha1="d2f3228f5151cd040ffd331a3b4597d5fc7e76ad" rawdatasize="263741520">
 		<category>Games</category>
 		<description>Battlestorm (Europe)</description>
-		<rom name="Battlestorm (Europe) (Track 01).bin" size="1822800" crc="175686ed" md5="33beeec5550d7ff07da26e007af35ff2" sha1="1aeff50854b19f0810b3abf3d6e010f420c8b8f8"/>
-		<rom name="Battlestorm (Europe) (Track 02).bin" size="2888256" crc="f3585c58" md5="107e0d299f37a5659955616d3e8a1d03" sha1="3f784efd55cacc7e09a6972ac16cf58599330ccf"/>
-		<rom name="Battlestorm (Europe) (Track 03).bin" size="4367664" crc="f05f2b43" md5="823897ff9b3049acda6b0514d6b36a0f" sha1="0701eb992ef395ed4bbdc78c4f90081da85e1140"/>
-		<rom name="Battlestorm (Europe) (Track 04).bin" size="4417056" crc="d2dede96" md5="019a106cf047c330a030cc82ef43afa4" sha1="c93f26af8c96b56133fa3e4b319d495ecea8c848"/>
-		<rom name="Battlestorm (Europe) (Track 05).bin" size="4426464" crc="3bce9366" md5="0f4789dda9653d7b01872d351e914612" sha1="416a0f3b0a549f248817f0576afe18ee6d330201"/>
-		<rom name="Battlestorm (Europe) (Track 06).bin" size="3158736" crc="5128cc36" md5="c6807d9d910985791ba1ef9acd51881f" sha1="4ead44c3a1be77bf7db39553f1aa9cde5311a105"/>
-		<rom name="Battlestorm (Europe) (Track 07).bin" size="23912784" crc="c4a56de4" md5="650ead542d248c877a1059b0b2d14ea0" sha1="bcce417e3bfe009a33c34c280c32be6aef73d85e"/>
-		<rom name="Battlestorm (Europe) (Track 08).bin" size="18898320" crc="4138cdc2" md5="671db596290f182a752df4ee02f4a5cd" sha1="9787cde56511228ac250641ac32b7f4f9f0198f0"/>
-		<rom name="Battlestorm (Europe) (Track 09).bin" size="11513040" crc="7b8f90db" md5="c46aadc6afe2c4a1bef2b619bdd59485" sha1="eea608441090e6baec878eb4973a33d15982deda"/>
-		<rom name="Battlestorm (Europe) (Track 10).bin" size="34938960" crc="42cfec89" md5="bb6e36c46f54893b66ff93c6d05871b1" sha1="851508d77e21663603a71bc081b37cc7c1318f87"/>
-		<rom name="Battlestorm (Europe) (Track 11).bin" size="38078880" crc="7e8992d3" md5="7a9590d7a3f8a596fef3210ac38f3627" sha1="fe991b0e6f6f2fa61989f01d94b16e4a8c46fb24"/>
-		<rom name="Battlestorm (Europe) (Track 12).bin" size="41759760" crc="6f7e91fe" md5="b0660936a7881ca24be556da0fb543b0" sha1="d50bbe02b94f2ee9710cc4a9e335c72bc6d60894"/>
-		<rom name="Battlestorm (Europe) (Track 13).bin" size="38321136" crc="db8b752e" md5="d4bf4b22ad6e251bdff1d3b351465394" sha1="9f9c1c628cd5334a60c591e856a5f4d66246b57f"/>
-		<rom name="Battlestorm (Europe) (Track 14).bin" size="32591664" crc="0fa48c99" md5="5df5794a9167c7e97d638d2d0673b8b1" sha1="01c01979c2c819b6b64f93fb01271a26f44b6167"/>
-		<rom name="Battlestorm (Europe) (Track 15).bin" size="2646000" crc="b8c4f957" md5="c93be2e6989d4bd23b5b1d38a33f421d" sha1="4a01923e7d3276271353f66778a4e86bedf73a85"/>
+		<rom name="Battlestorm (Europe) (Track 01).bin" size="1822800" crc="175686ed" md5="33beeec5550d7ff07da26e007af35ff2" sha1="1aeff50854b19f0810b3abf3d6e010f420c8b8f8" datasha1="f43d51264622b9cca75c2eefaef349eca29d01e0" datasize="1587200"/>
+		<rom name="Battlestorm (Europe) (Track 02).bin" size="2888256" crc="f3585c58" md5="107e0d299f37a5659955616d3e8a1d03" sha1="3f784efd55cacc7e09a6972ac16cf58599330ccf" wavesha1="e7f62c6b1fde9c98eff3b8eb81d8c8d7f8c415e4" offsetsha1="38c94afff9a1aec45215a0eecef909fa05299ef3" offset="409248" offsetsize="2442208"/>
+		<rom name="Battlestorm (Europe) (Track 03).bin" size="4367664" crc="f05f2b43" md5="823897ff9b3049acda6b0514d6b36a0f" sha1="0701eb992ef395ed4bbdc78c4f90081da85e1140" wavesha1="c04dc776f5c86bebfe22db3bdb80d62cf94b1e07" offsetsha1="48ef40881ef4198bc7a791f239025c9551e798e2" offset="352032" offsetsize="3971776"/>
+		<rom name="Battlestorm (Europe) (Track 04).bin" size="4417056" crc="d2dede96" md5="019a106cf047c330a030cc82ef43afa4" sha1="c93f26af8c96b56133fa3e4b319d495ecea8c848" wavesha1="00e9fb09672fe6a24e4d7b2c43b1292314e9dbeb" offsetsha1="ed0497a9c8e2b52fce5ea16784f50290d7f25746" offset="362490" offsetsize="4003654"/>
+		<rom name="Battlestorm (Europe) (Track 05).bin" size="4426464" crc="3bce9366" md5="0f4789dda9653d7b01872d351e914612" sha1="416a0f3b0a549f248817f0576afe18ee6d330201" wavesha1="c0e1e81a4d509a3c2e3fe6a4b6bf6018509e41f5" offsetsha1="e97c831af37b3c91e982559cc779650d1864085b" offset="373998" offsetsize="3985089"/>
+		<rom name="Battlestorm (Europe) (Track 06).bin" size="3158736" crc="5128cc36" md5="c6807d9d910985791ba1ef9acd51881f" sha1="4ead44c3a1be77bf7db39553f1aa9cde5311a105" wavesha1="c0e5d9299ec311d97df1269327d7e92931218549" offsetsha1="85ec1ddf3a45210a00f20227b2897fafda7a0353" offset="344540" offsetsize="2763283"/>
+		<rom name="Battlestorm (Europe) (Track 07).bin" size="23912784" crc="c4a56de4" md5="650ead542d248c877a1059b0b2d14ea0" sha1="bcce417e3bfe009a33c34c280c32be6aef73d85e" wavesha1="ea229b09a67a174b23ff213de67776ee3812fdc8" offsetsha1="e442bf65d38f8d4f9410b1beb8bea2a55806d696" offset="326560" offsetsize="23586223"/>
+		<rom name="Battlestorm (Europe) (Track 08).bin" size="18898320" crc="4138cdc2" md5="671db596290f182a752df4ee02f4a5cd" sha1="9787cde56511228ac250641ac32b7f4f9f0198f0" wavesha1="9e48df15bb165466644b9e2e6a3525716d5e4d5b" offsetsha1="cd20fc905fee7299741cc3fb68058e17dcd5e5b7" offset="0" offsetsize="18898319"/>
+		<rom name="Battlestorm (Europe) (Track 09).bin" size="11513040" crc="7b8f90db" md5="c46aadc6afe2c4a1bef2b619bdd59485" sha1="eea608441090e6baec878eb4973a33d15982deda" wavesha1="288ab700cf47e9c44e027d86e2ad0c087834ecfd" offsetsha1="d5d494a8f27006ff97d9cc4e6ae8c1de753c38b8" offset="0" offsetsize="11469183"/>
+		<rom name="Battlestorm (Europe) (Track 10).bin" size="34938960" crc="42cfec89" md5="bb6e36c46f54893b66ff93c6d05871b1" sha1="851508d77e21663603a71bc081b37cc7c1318f87" wavesha1="164e2e41608017049979084955c9aea04b339a2d" offsetsha1="6a312ccfd15388e28fd382a2d26a11c2a2443fa5" offset="308944" offsetsize="34574399"/>
+		<rom name="Battlestorm (Europe) (Track 11).bin" size="38078880" crc="7e8992d3" md5="7a9590d7a3f8a596fef3210ac38f3627" sha1="fe991b0e6f6f2fa61989f01d94b16e4a8c46fb24" wavesha1="e30a91c3910c4f896229a708b827dc64d80b9587" offsetsha1="cdd9cba60a8a366f56bd28c80cdefb4766db517b" offset="334648" offsetsize="37613351"/>
+		<rom name="Battlestorm (Europe) (Track 12).bin" size="41759760" crc="6f7e91fe" md5="b0660936a7881ca24be556da0fb543b0" sha1="d50bbe02b94f2ee9710cc4a9e335c72bc6d60894" wavesha1="548a996bc4e6829ec163d3e028b36e95bc480538" offsetsha1="8354ca080ed55c6b84443aba597c6c3d05237b77" offset="314360" offsetsize="41361560"/>
+		<rom name="Battlestorm (Europe) (Track 13).bin" size="38321136" crc="db8b752e" md5="d4bf4b22ad6e251bdff1d3b351465394" sha1="9f9c1c628cd5334a60c591e856a5f4d66246b57f" wavesha1="fb32538925867ee7cf57fe5eb444872c76c0284a" offsetsha1="3a53ddf957e55abe7586c5825baed439a58e25c0" offset="345552" offsetsize="37849408"/>
+		<rom name="Battlestorm (Europe) (Track 14).bin" size="32591664" crc="0fa48c99" md5="5df5794a9167c7e97d638d2d0673b8b1" sha1="01c01979c2c819b6b64f93fb01271a26f44b6167" wavesha1="9fb1c8051dbf87cd3d67e5044949a0eb108b7162" offsetsha1="47408d161f65ac04fab42e96b201af560168a9e3" offset="254826" offsetsize="32252996"/>
+		<rom name="Battlestorm (Europe) (Track 15).bin" size="2646000" crc="b8c4f957" md5="c93be2e6989d4bd23b5b1d38a33f421d" sha1="4a01923e7d3276271353f66778a4e86bedf73a85" wavesha1="8ee8812b238ea6fe74997563c7e4be79c624fee7" offset="0" offsetsize="0"/>
 	</game>
-	<game name="CD Remix Version II (Europe)" type="cd" sha1="9f96770eeb5f7c2a37561782a384e6656b02abbc" size="9941634" crc="07fef5f3" fullsha1="1080455a511647c8d96a094fc679f60677b9cc36" datasha1="d3feee0996218335c36bb8fb35a40b1ba33f1085">
+	<game name="Bun for Barney, A (USA)" type="cd" sha1="3994af052259f35434e09144c7f7fcf2a69bf4e5" size="203505310" crc="f1c3d3c5" fullsha1="39bdb862ef00d3fa16b518ede5b3277484ac08be" datasha1="33c6c57e9ab23373c29c8a9adf49c8ad9794ce3c" rawdatasha1="9703b1854af0fa543c70e887a48fa5ca5a1114ba" rawdatasize="434520240">
+		<category>Games</category>
+		<description>Bun for Barney, A (USA)</description>
+		<rom name="Bun for Barney, A (USA) (Track 01).bin" size="57769824" crc="fde78f74" md5="413076048144d9d6ebcad263ce1a27b9" sha1="dcc7099de1c33945e8ffd5eda10d3d70c3855dcd" datasha1="8640085d9a5544ebb2ef4b2477a9f6d7859d0f96" datasize="50302976"/>
+		<rom name="Bun for Barney, A (USA) (Track 02).bin" size="376750416" crc="e5b93bdc" md5="b4b36d533cd6978e238649879a19f8e0" sha1="b08272eb3acf4bc8e41c04364dc838de5abb4076" wavesha1="80c3eea117b478062676ea8ccf9a392ad0977d67" offsetsha1="21b870242c7e1a3d80010d0fa495d111fe3de975" offset="604" offsetsize="376749188"/>
+	</game>
+	<game name="CD Remix Version II (Europe)" type="cd" sha1="9f96770eeb5f7c2a37561782a384e6656b02abbc" size="9941634" crc="07fef5f3" fullsha1="1080455a511647c8d96a094fc679f60677b9cc36" datasha1="d3feee0996218335c36bb8fb35a40b1ba33f1085" rawdatasha1="2712b4dd677dc87f76493f7fb382a9760600086d" rawdatasize="69325200">
 		<category>Games</category>
 		<description>CD Remix Version II (Europe)</description>
-		<rom name="CD Remix Version II (Europe) (Track 01).bin" size="69325200" crc="5b69da2d" md5="cb908fdfc8a2f85c33a5808e68993962" sha1="2712b4dd677dc87f76493f7fb382a9760600086d"/>
+		<rom name="CD Remix Version II (Europe) (Track 01).bin" size="69325200" crc="5b69da2d" md5="cb908fdfc8a2f85c33a5808e68993962" sha1="2712b4dd677dc87f76493f7fb382a9760600086d" datasha1="e37060c06f790a328157d01e30e12ab475b4d8aa" datasize="60364800"/>
 	</game>
-	<game name="CDPD 1 (Europe)" type="cd" sha1="483c5962f1dfd16d5766f2aa8d9a51a1e2f90e2f" size="275841259" crc="1eaf90fb" fullsha1="c5ce61d0400b373d5aba18e9df42d1d9763dbbc9" datasha1="ac0ede13fbcdc19ba534aa0b3ba205c408825b7d">
+	<game name="CDPD 1 (Europe)" type="cd" sha1="483c5962f1dfd16d5766f2aa8d9a51a1e2f90e2f" size="275841259" crc="1eaf90fb" fullsha1="c5ce61d0400b373d5aba18e9df42d1d9763dbbc9" datasha1="ac0ede13fbcdc19ba534aa0b3ba205c408825b7d" rawdatasha1="225aacb6444ac647e32a95181596aff874996137" rawdatasize="719100480">
 		<category>Games</category>
 		<description>CDPD 1 (Europe)</description>
-		<rom name="CDPD 1 (Europe) (Track 01).bin" size="719100480" crc="3a8b9c52" md5="48e3f0114fadbbbede435a914dcb2e2d" sha1="225aacb6444ac647e32a95181596aff874996137"/>
+		<rom name="CDPD 1 (Europe) (Track 01).bin" size="719100480" crc="3a8b9c52" md5="48e3f0114fadbbbede435a914dcb2e2d" sha1="225aacb6444ac647e32a95181596aff874996137" datasha1="6b8a31595041ad8ef32081c704f1a375bd202d70" datasize="626155520"/>
 	</game>
-	<game name="CDPD 1 (Europe) (CD32 Compatible)" type="cd" sha1="d25d9e07d9870a574f29ccd92d8b0fc7b0104c64" size="280799425" crc="0634982b" fullsha1="b1030863295bdbc69c6031bae4338275c22e1000" datasha1="6a81de6f1d0cdae8365d45f40c4070cd59ab6b0f">
+	<game name="CDPD 1 (Europe) (CD32 Compatible)" type="cd" sha1="d25d9e07d9870a574f29ccd92d8b0fc7b0104c64" size="280799425" crc="0634982b" fullsha1="b1030863295bdbc69c6031bae4338275c22e1000" datasha1="6a81de6f1d0cdae8365d45f40c4070cd59ab6b0f" rawdatasha1="b7bfffba90db15f4effd1fd27bf5d302411353c5" rawdatasize="735348096">
 		<category>Games</category>
 		<description>CDPD 1 (Europe) (CD32 Compatible)</description>
-		<rom name="CDPD 1 (Europe) (CD32 Compatible) (Track 01).bin" size="735348096" crc="027037d7" md5="179890822e85c9990e50d0888370a73b" sha1="b7bfffba90db15f4effd1fd27bf5d302411353c5"/>
+		<rom name="CDPD 1 (Europe) (CD32 Compatible) (Track 01).bin" size="735348096" crc="027037d7" md5="179890822e85c9990e50d0888370a73b" sha1="b7bfffba90db15f4effd1fd27bf5d302411353c5" datasha1="f3bc11a0f86424b66baf6140b342ac3335dac963" datasize="640303104"/>
 	</game>
-	<game name="CDPD 2 (Europe)" type="cd" sha1="3f7060bd31be46891fd33e84a54234920f34c589" size="274031968" crc="3bccda81" fullsha1="a5bea7abf4e5302b7afa761e700246b7ce7943d4" datasha1="cd6bc2787eb8ee59488ee0be1499df6b37342f66">
+	<game name="CDPD 2 (Europe)" type="cd" sha1="3f7060bd31be46891fd33e84a54234920f34c589" size="274031968" crc="3bccda81" fullsha1="a5bea7abf4e5302b7afa761e700246b7ce7943d4" datasha1="cd6bc2787eb8ee59488ee0be1499df6b37342f66" rawdatasha1="c23883895864584040bcc03145c8f4a3fa77bb1b" rawdatasize="635216400">
 		<category>Games</category>
 		<description>CDPD 2 (Europe)</description>
-		<rom name="CDPD 2 (Europe) (Track 01).bin" size="635216400" crc="d042057b" md5="9aa3d776a31df428f5d507ff41d4c15f" sha1="c23883895864584040bcc03145c8f4a3fa77bb1b"/>
+		<rom name="CDPD 2 (Europe) (Track 01).bin" size="635216400" crc="d042057b" md5="9aa3d776a31df428f5d507ff41d4c15f" sha1="c23883895864584040bcc03145c8f4a3fa77bb1b" datasha1="7cd3622febf426097f9b05e7f7b97fe071abe3f0" datasize="553113600"/>
 	</game>
-	<game name="CDPD 3 (Europe)" type="cd" sha1="c92d1179cc11abde6b92a0d637bdfc6e88de99dd" size="379763427" crc="7b788336" fullsha1="f9618916987ef0b4ba43bcd3eeb043386eded3ac" datasha1="fbedd19c4addc4c468ee31dd0dfd2ab4e323ae52">
+	<game name="CDPD 3 (Europe)" type="cd" sha1="c92d1179cc11abde6b92a0d637bdfc6e88de99dd" size="379763427" crc="7b788336" fullsha1="f9618916987ef0b4ba43bcd3eeb043386eded3ac" datasha1="fbedd19c4addc4c468ee31dd0dfd2ab4e323ae52" rawdatasha1="589860d5c9b97b4ee4ba14fab6ec29247da6e3d9" rawdatasize="707131152">
 		<category>Games</category>
 		<description>CDPD 3 (Europe)</description>
-		<rom name="CDPD 3 (Europe) (Track 01).bin" size="707131152" crc="a1a24c58" md5="8712be6e9745842a7c9ac72e6f4e8167" sha1="589860d5c9b97b4ee4ba14fab6ec29247da6e3d9"/>
+		<rom name="CDPD 3 (Europe) (Track 01).bin" size="707131152" crc="a1a24c58" md5="8712be6e9745842a7c9ac72e6f4e8167" sha1="589860d5c9b97b4ee4ba14fab6ec29247da6e3d9" datasha1="1cf6b33a8ac57aa3cd1397eaa41648f40b147de8" datasize="615733248"/>
 	</game>
-	<game name="Case of the Cautious Condor, The (Europe)" type="cd" sha1="ee1651447b936a9ed93b527b5ba61bd51ae2cb98" size="61348810" crc="f5e2cf9f" fullsha1="3e32eae38ff8fd917dded7973ed8e973a2035f65" datasha1="501f23d8c74b96ec815b16f7fb8b6621560632e3">
+	<game name="CDTV Demo Disc (Europe) (Disc 1) (Amiga CD Psygnosis Demo)" type="cd" sha1="40d9c2cc1e3c9da5dd9de5d65bb9e60eea4cbb87" size="22130019" crc="fdbb5ae7" fullsha1="366bd22505dccf00fbb30bbee02d7e33a94e0b76" datasha1="ed75f7af2a99fd7ba6b526a52e03c30a028ea36c" rawdatasha1="eccbbe05cb3cd3329950b873f4da4a7f74b659fe" rawdatasize="35632800">
+		<category>Games</category>
+		<description>CDTV Demo Disc (Europe) (Disc 1) (Amiga CD Psygnosis Demo)</description>
+		<rom name="CDTV Demo Disc (Europe) (Disc 1) (Amiga CD Psygnosis Demo) (Track 01).bin" size="35632800" crc="3915bf02" md5="cc567b2f5973d34527abe5b16971d1e3" sha1="eccbbe05cb3cd3329950b873f4da4a7f74b659fe" datasha1="565f8f32af945aff66cb888dd071d2b1a2999b78" datasize="31027200"/>
+	</game>
+	<game name="CDTV Demo Disc (Europe) (Disc 2) (Amiga CDTV - Amiga 600 - Amiga 600 HD)" type="cd" sha1="26e56a6a20026ae89389ad6f4c860405e3a2612f" size="32556940" crc="880bd6b3" fullsha1="2041131e0070e36d206afdf2acab5ea9d9c0ec21" datasha1="a15b422fad13f148aba450ea663652778d67b33f" rawdatasha1="c6b52e93fb7cae4048cf5c47c0ed54f8d6ddff82" rawdatasize="81144000">
+		<category>Games</category>
+		<description>CDTV Demo Disc (Europe) (Disc 2) (Amiga CDTV - Amiga 600 - Amiga 600 HD)</description>
+		<rom name="CDTV Demo Disc (Europe) (Disc 2) (Amiga CDTV - Amiga 600 - Amiga 600 HD) (Track 01).bin" size="81144000" crc="d8a48e3c" md5="fce0a1df485e9e5ac538fdc06e29b68b" sha1="c6b52e93fb7cae4048cf5c47c0ed54f8d6ddff82" datasha1="97ded025eecdb1f44bdfcd0c2ec0db0b03996957" datasize="70656000"/>
+	</game>
+	<game name="Case of the Cautious Condor, The (Europe)" type="cd" sha1="ee1651447b936a9ed93b527b5ba61bd51ae2cb98" size="61348810" crc="f5e2cf9f" fullsha1="3e32eae38ff8fd917dded7973ed8e973a2035f65" datasha1="501f23d8c74b96ec815b16f7fb8b6621560632e3" rawdatasha1="506500ac32ba1d775d4ef75968cd84e8967f0690" rawdatasize="153204576">
 		<category>Games</category>
 		<description>Case of the Cautious Condor, The (Europe)</description>
-		<rom name="Case of the Cautious Condor, The (Europe) (Track 01).bin" size="153204576" crc="057a0f34" md5="b1ef10bd3234fbafa04dcb477b1da105" sha1="506500ac32ba1d775d4ef75968cd84e8967f0690"/>
+		<rom name="Case of the Cautious Condor, The (Europe) (Track 01).bin" size="153204576" crc="057a0f34" md5="b1ef10bd3234fbafa04dcb477b1da105" sha1="506500ac32ba1d775d4ef75968cd84e8967f0690" datasha1="d6548cc46727116b08256019b652b74d16c1f6db" datasize="133402624"/>
 	</game>
-	<game name="Defender of the Crown II (Europe)" type="cd" sha1="867c7b1f7717eaa9e288190ac2bb02d5873710be" size="56664160" crc="d8a339bf" fullsha1="d32c46f9d93f2b536175db3567237463dfbc7ca9" datasha1="159dbb12b2032d0d5c286423a367eff47096a0e5" parentsha1="e4255ce41c96925f886a0e01f846a1ee7ff405f4" childsize="25452155">
+	<game name="Cinderella - The Original Fairy Tale (USA) (En,Fr,De,Es,It)" type="cd" sha1="1714ede5f1f909b0d71e630b757bf56f3224c8bc" size="264335243" crc="f5db66e6" fullsha1="3c62af0cb40c98f54a935de70d4fe52f2fedd62c" datasha1="509a655bbd77c57d449c46c59d22aa122757400f" rawdatasha1="6c848eb2c47a2076fd3e820fee1b72130fe051c3" rawdatasize="608222496">
+		<category>Games</category>
+		<description>Cinderella - The Original Fairy Tale (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Cinderella - The Original Fairy Tale (USA) (En,Fr,De,Es,It) (Track 01).bin" size="608222496" crc="9483d665" md5="9a6f8e3ab8560b1efa1b1e7ae6e6548f" sha1="6c848eb2c47a2076fd3e820fee1b72130fe051c3" datasha1="bd72d28f702edcaf0fee17b1a9185b6d3d634413" datasize="529608704"/>
+	</game>
+	<game name="Classic Board Games (Europe) (En,Ja,Fr,De,Es,It)" type="cd" sha1="e980c3262474fca58d320bd068e1c81d3d857d9c" size="39085100" crc="4f3745a7" fullsha1="030e99b691f38279c83dae1a4256bb9dcf9c0081" datasha1="296bb1111ee6159cb452c30ef00d5b21cd2435d3" rawdatasha1="3080a6870e2f574672d8349562df52b4014b8427" rawdatasize="113926176">
+		<category>Games</category>
+		<description>Classic Board Games (Europe) (En,Ja,Fr,De,Es,It)</description>
+		<rom name="Classic Board Games (Europe) (En,Ja,Fr,De,Es,It) (Track 01).bin" size="113926176" crc="5540a1d9" md5="343851d323c2d708ceb39208f98d712d" sha1="3080a6870e2f574672d8349562df52b4014b8427" datasha1="174aac44ba4b48a71fc12a02032b5663ad35128d" datasize="99201024"/>
+	</game>
+	<game name="Curse of RA, The (Germany)" type="cd" sha1="1414ee1e3cfec4a66998e91bb3aab5a56e882260" size="824875" crc="088b5aec" fullsha1="49bffe73647ca8eaf2381e80a5fda5ec746cda7f" datasha1="100a45681223b7e3f2c3b2db0763d25dd5c612b6" rawdatasha1="17cf59f01ee8a58a165498674b76dad13d6b265c" rawdatasize="20815200">
+		<category>Games</category>
+		<description>Curse of RA, The (Germany)</description>
+		<rom name="Curse of RA, The (Germany) (Track 01).bin" size="20815200" crc="2ad9b4db" md5="cc713d8f30095f05172c5c4c19ac43fa" sha1="17cf59f01ee8a58a165498674b76dad13d6b265c" datasha1="0a3408cbc0b5b33c6c9d3fad2a7ee7c365e2ae8f" datasize="18124800"/>
+	</game>
+	<game name="Defender of the Crown (Europe)" type="cd" sha1="af7b384d850551253fc061e81928637de446b179" size="136164058" crc="0755f59f" fullsha1="61e5ac7f19c4569443e1c2f28bbc274d637173f3" datasha1="4fcdc8cfbf2f02415d52d14e2b0a2891a1a4b503" rawdatasha1="e2d5b068e996fd5704424d57d20190088a903744" rawdatasize="270839856">
+		<category>Games</category>
+		<description>Defender of the Crown (Europe)</description>
+		<rom name="Defender of the Crown (Europe) (Track 01).bin" size="9878400" crc="104f29d5" md5="937a65f3cbecc340e006234e811f9386" sha1="b481c4a1645bd946c4e9643d55a105e6fa747526" datasha1="9928c1474cb9255ff54d1574c2a8e528c16be044" datasize="8601600"/>
+		<rom name="Defender of the Crown (Europe) (Track 02).bin" size="260961456" crc="c387dbaf" md5="97272f12a36df7867ab5424b9dcff8e8" sha1="1f582a800fa371d0ac39f446e47f7c95776ec6b8" wavesha1="bb66bd6932ca0366d93ecdca7515936c3a79c0c9" offsetsha1="9244b8f4f0116af95fe8f3ab09eff53b0540c2b4" offset="352800" offsetsize="260608656"/>
+	</game>
+	<game name="Defender of the Crown II (Europe)" type="cd" sha1="867c7b1f7717eaa9e288190ac2bb02d5873710be" size="56664160" crc="d8a339bf" fullsha1="d32c46f9d93f2b536175db3567237463dfbc7ca9" datasha1="159dbb12b2032d0d5c286423a367eff47096a0e5" rawdatasha1="899283198df57e97089ce589de2bb732e503eeb4" rawdatasize="143474352" parentsha1="e4255ce41c96925f886a0e01f846a1ee7ff405f4" childsize="25452155">
 		<category>Games</category>
 		<description>Defender of the Crown II (Europe)</description>
-		<rom name="Defender of the Crown II (Europe) (Track 01).bin" size="65028096" crc="9a65e453" md5="1f01389edb4a08e917f2e273e163183e" sha1="31342fd20f1b39f3704809b734f82f65be8ab7e5"/>
-		<rom name="Defender of the Crown II (Europe) (Track 02).bin" size="6228096" crc="17935a2b" md5="38c8cae9b6c3e0cc2bb761f59feff0da" sha1="f25f8cb32da8b846a243d24da500a2be3d7c393f"/>
-		<rom name="Defender of the Crown II (Europe) (Track 03).bin" size="10819200" crc="fbbaf51e" md5="222cf42e2554610bfc657d9a48254ce0" sha1="e9819116a0ba91b06e083167e52ce6868d910879"/>
-		<rom name="Defender of the Crown II (Europe) (Track 04).bin" size="5851776" crc="dd8ede84" md5="7a30607b2cc957b54965f9d1595a17c5" sha1="f7f169853da74548fd1b36c039d0454eb16473d8"/>
-		<rom name="Defender of the Crown II (Europe) (Track 05).bin" size="5400192" crc="9e2a2d5b" md5="e835fbabc4b3fb9ac3d6eca0c5f3779e" sha1="1eab87f60b64b4abe70374abcdaa778a89683d31"/>
-		<rom name="Defender of the Crown II (Europe) (Track 06).bin" size="5475456" crc="ceca1058" md5="b37a5fed6c43de6cdcf26a0ef9e45229" sha1="c7e24d95fd87703a1594d75a4b6d9bb3b29bd035"/>
-		<rom name="Defender of the Crown II (Europe) (Track 07).bin" size="5550720" crc="4362c953" md5="c9d708c2da4763f38eb2473c327da5f0" sha1="00f632763bf200b14abb7c8db44296211dce0d13"/>
-		<rom name="Defender of the Crown II (Europe) (Track 08).bin" size="6679680" crc="ae794f71" md5="e7e13268ba08af1bcdb8df226b7ea272" sha1="f1da4f29ba5a1494db6b1af14eadbc3dd2bf0def"/>
-		<rom name="Defender of the Crown II (Europe) (Track 09).bin" size="10743936" crc="6c5258b1" md5="e4d02162295bfd13eb692ff0d8fb06c9" sha1="043ac5a38fcd43f2ec734cf3eaf41e074f06ea35"/>
-		<rom name="Defender of the Crown II (Europe) (Track 10).bin" size="1862784" crc="f5f90979" md5="1edd4fbcb18acc8c9d40f955c1aba470" sha1="9ece151333d846d16254e2830b63437bc133edaf"/>
-		<rom name="Defender of the Crown II (Europe) (Track 11).bin" size="5475456" crc="e24b36e3" md5="1b9db0a0e657749aad4346cacb00cdf1" sha1="cf2a8ad96bd7d4575bfb685b2f20d3a76a448fec"/>
-		<rom name="Defender of the Crown II (Europe) (Track 12).bin" size="14358960" crc="ee634c1b" md5="1560a324f2f1f089d0831d43347365c7" sha1="e27c0a64f318148ae4ade8750f0a4204432ca514"/>
+		<rom name="Defender of the Crown II (Europe) (Track 01).bin" size="65028096" crc="9a65e453" md5="1f01389edb4a08e917f2e273e163183e" sha1="31342fd20f1b39f3704809b734f82f65be8ab7e5" datasha1="2f2e012142a519a78bfff6c9c82b2459656317fd" datasize="56623104"/>
+		<rom name="Defender of the Crown II (Europe) (Track 02).bin" size="6228096" crc="17935a2b" md5="38c8cae9b6c3e0cc2bb761f59feff0da" sha1="f25f8cb32da8b846a243d24da500a2be3d7c393f" wavesha1="e20e38ed99720fcc3e5e899cd837eb68d2dffaba" offsetsha1="e7be9becc3238a4aa0d31340f1d2b851e03053be" offset="352800" offsetsize="5835378"/>
+		<rom name="Defender of the Crown II (Europe) (Track 03).bin" size="10819200" crc="fbbaf51e" md5="222cf42e2554610bfc657d9a48254ce0" sha1="e9819116a0ba91b06e083167e52ce6868d910879" wavesha1="6f8857856aad4857883fc489ab5661a78aec07fb" offsetsha1="3c7d3a3efc44556053d7a02c492a83f774922092" offset="371732" offsetsize="10442897"/>
+		<rom name="Defender of the Crown II (Europe) (Track 04).bin" size="5851776" crc="dd8ede84" md5="7a30607b2cc957b54965f9d1595a17c5" sha1="f7f169853da74548fd1b36c039d0454eb16473d8" wavesha1="e928656090c82cf593525e7e9ab06526bdc79921" offsetsha1="bc81558931d75168000ed6a1aa9e136d694dd22d" offset="352800" offsetsize="5421453"/>
+		<rom name="Defender of the Crown II (Europe) (Track 05).bin" size="5400192" crc="9e2a2d5b" md5="e835fbabc4b3fb9ac3d6eca0c5f3779e" sha1="1eab87f60b64b4abe70374abcdaa778a89683d31" wavesha1="a2fe0a3c2924f1b1b398c4c783a37df874a851dd" offsetsha1="4bbb126ccb3cd1a8dddbbeb0545cff32534c2db0" offset="376480" offsetsize="5023712"/>
+		<rom name="Defender of the Crown II (Europe) (Track 06).bin" size="5475456" crc="ceca1058" md5="b37a5fed6c43de6cdcf26a0ef9e45229" sha1="c7e24d95fd87703a1594d75a4b6d9bb3b29bd035" wavesha1="2212689bab16683fab34728de20c589539f7163d" offsetsha1="7f91c0e3883ecafcf6ab1f87a47fc010e9aded09" offset="367056" offsetsize="5108400"/>
+		<rom name="Defender of the Crown II (Europe) (Track 07).bin" size="5550720" crc="4362c953" md5="c9d708c2da4763f38eb2473c327da5f0" sha1="00f632763bf200b14abb7c8db44296211dce0d13" wavesha1="8adb79c3a3b48ad553dd2c198e9cc5bbc258f54c" offsetsha1="b283b9d4d8dca1f8084a16148bb6c73babf5337a" offset="376456" offsetsize="5127377"/>
+		<rom name="Defender of the Crown II (Europe) (Track 08).bin" size="6679680" crc="ae794f71" md5="e7e13268ba08af1bcdb8df226b7ea272" sha1="f1da4f29ba5a1494db6b1af14eadbc3dd2bf0def" wavesha1="84342f7dcea5578ffbc65a8776fa30e223518abf" offsetsha1="7dbf4a333c0150a7931d4e9a02df19b0020f61eb" offset="359988" offsetsize="6284554"/>
+		<rom name="Defender of the Crown II (Europe) (Track 09).bin" size="10743936" crc="6c5258b1" md5="e4d02162295bfd13eb692ff0d8fb06c9" sha1="043ac5a38fcd43f2ec734cf3eaf41e074f06ea35" wavesha1="8f1036035f5961b6dfeb2efb954b41df8e78ae0f" offsetsha1="bdbc91da9cc8a94141ba121aebcd15ca3bc54554" offset="359948" offsetsize="10377030"/>
+		<rom name="Defender of the Crown II (Europe) (Track 10).bin" size="1862784" crc="f5f90979" md5="1edd4fbcb18acc8c9d40f955c1aba470" sha1="9ece151333d846d16254e2830b63437bc133edaf" wavesha1="daec46a5eebeb014bc53eaaa940eae647ea62112" offsetsha1="d5e07a0a34370108d15c7753fa1c77d4eeaa1165" offset="362328" offsetsize="1448849"/>
+		<rom name="Defender of the Crown II (Europe) (Track 11).bin" size="5475456" crc="e24b36e3" md5="1b9db0a0e657749aad4346cacb00cdf1" sha1="cf2a8ad96bd7d4575bfb685b2f20d3a76a448fec" wavesha1="4ae3a8f0d77df905836a0bec9d9ec3f6e102edc7" offsetsha1="595b2e07ec97e549c426413b4e4f1f88b63b3e62" offset="367016" offsetsize="5108440"/>
+		<rom name="Defender of the Crown II (Europe) (Track 12).bin" size="14358960" crc="ee634c1b" md5="1560a324f2f1f089d0831d43347365c7" sha1="e27c0a64f318148ae4ade8750f0a4204432ca514" wavesha1="afa2dad178b0c53dce675b95679958c08c1189d9" offsetsha1="130ddff86fb4e6af6016e1885375e13e36878137" offset="357616" offsetsize="13472144"/>
 	</game>
-	<game name="Defender of the Crown II (USA) (En,Fr,De,Es,It)" type="cd" sha1="bd28c417a91b26b7417aa732bde001abe00c27e0" size="56663717" crc="f9bcc9c1" fullsha1="e4255ce41c96925f886a0e01f846a1ee7ff405f4" datasha1="a06d92479e06666ddcfab82284db9e94fe6f9876">
+	<game name="Defender of the Crown II (USA) (En,Fr,De,Es,It)" type="cd" sha1="bd28c417a91b26b7417aa732bde001abe00c27e0" size="56663717" crc="f9bcc9c1" fullsha1="e4255ce41c96925f886a0e01f846a1ee7ff405f4" datasha1="a06d92479e06666ddcfab82284db9e94fe6f9876" rawdatasha1="d1cdb28e3d90499fa466c1ab76fa906801f190f6" rawdatasize="143827152">
 		<category>Games</category>
 		<description>Defender of the Crown II (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 01).bin" size="65030448" crc="3c1bd1a7" md5="8d06279c2d025c37185bd930beef5c2a" sha1="def7d790861d74742596bc430ce6ee73f055ced5"/>
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 02).bin" size="6225744" crc="ef8f115b" md5="3e2e895ffb6546941bdbf25cf365255b" sha1="78b4dddfe28d1eb2539cc6bbdea00723c421e4ca"/>
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 03).bin" size="10819200" crc="73babf1b" md5="8e24b06073cdc5ec155b2c1d0d101f04" sha1="8830adfe6248bdc6ce0558e4b730184d18f29c30"/>
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 04).bin" size="5851776" crc="f51597cc" md5="e36993c26ebb6236d73ca37cda86b9c1" sha1="74439dbab8c2f836a8c33d73a116108735d5e041"/>
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 05).bin" size="5400192" crc="63a1ce42" md5="682b7a999e97043ca32adc03ed10be67" sha1="e7470e8040340c5d611be3f3c9c07832bf8e7690"/>
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 06).bin" size="5475456" crc="d4f28bd1" md5="fb055e587cd4db8b3f8fb6eb5fba784a" sha1="1b3d88af19ff230c431457dc67dcf984dc7bb2f6"/>
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 07).bin" size="5550720" crc="59058cf0" md5="18b85afc5e0fda42f24ed4130f8ffc8d" sha1="ba44ebb264fba458c5fe35e6552c448002d13308"/>
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 08).bin" size="6679680" crc="292ac899" md5="005ed4f316b1b39a08ff6c2116222b98" sha1="5219d872fd05c144490ba636c9b0fb53c0cbc58c"/>
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 09).bin" size="10743936" crc="b509a742" md5="d1c1fd20f36948e72d9c5ba6ddcc004b" sha1="01dec3d1373a465fa044b088c93c1b230bc40c78"/>
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 10).bin" size="1862784" crc="c8d09149" md5="1e6694fe8ab15614649b3b431c8a2dd7" sha1="aab89ae9668d0db76dc842625fa4d0f7e9f69e17"/>
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 11).bin" size="5475456" crc="c7f71fa2" md5="5af03014d3382588a8125cda9a7fc59d" sha1="2f5081347ff2478f6b313c5245c75fc871066244"/>
-		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 12).bin" size="14711760" crc="f0a729f6" md5="2de38dcdfe7c6409317fccd33221607d" sha1="df2fafe0e61dccb635aab213c3c87284461639bd"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 01).bin" size="65030448" crc="3c1bd1a7" md5="8d06279c2d025c37185bd930beef5c2a" sha1="def7d790861d74742596bc430ce6ee73f055ced5" datasha1="9811bae0fac80801b97a9fe712bcc7cbade0f049" datasize="56625152"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 02).bin" size="6225744" crc="ef8f115b" md5="3e2e895ffb6546941bdbf25cf365255b" sha1="78b4dddfe28d1eb2539cc6bbdea00723c421e4ca" wavesha1="67f592791e296a4fd8e8e757b884293cb843dc32" offsetsha1="e7be9becc3238a4aa0d31340f1d2b851e03053be" offset="354216" offsetsize="5835378"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 03).bin" size="10819200" crc="73babf1b" md5="8e24b06073cdc5ec155b2c1d0d101f04" sha1="8830adfe6248bdc6ce0558e4b730184d18f29c30" wavesha1="1c9a0d0eaef163ec00f6c4bc46c060ed933e2ddd" offsetsha1="3c7d3a3efc44556053d7a02c492a83f774922092" offset="375500" offsetsize="10442897"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 04).bin" size="5851776" crc="f51597cc" md5="e36993c26ebb6236d73ca37cda86b9c1" sha1="74439dbab8c2f836a8c33d73a116108735d5e041" wavesha1="695e3bac3de95127f86914fb0836b14a570332d7" offsetsha1="bc81558931d75168000ed6a1aa9e136d694dd22d" offset="356568" offsetsize="5421453"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 05).bin" size="5400192" crc="63a1ce42" md5="682b7a999e97043ca32adc03ed10be67" sha1="e7470e8040340c5d611be3f3c9c07832bf8e7690" wavesha1="ef1e1fad955d73557d4249938461eae61262c871" offsetsha1="4adce9fb4ee7825fdb74e84ee9fc3f69a74e492e" offset="380248" offsetsize="5019944"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 06).bin" size="5475456" crc="d4f28bd1" md5="fb055e587cd4db8b3f8fb6eb5fba784a" sha1="1b3d88af19ff230c431457dc67dcf984dc7bb2f6" wavesha1="b84f0b5a0b9cfe5fad8f7b73a8e5388fb6d330a9" offsetsha1="2ddf9766ae4369eb8ed9aa5a4fbf8c97793a5097" offset="0" offsetsize="5475455"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 07).bin" size="5550720" crc="59058cf0" md5="18b85afc5e0fda42f24ed4130f8ffc8d" sha1="ba44ebb264fba458c5fe35e6552c448002d13308" wavesha1="15149d8c7303eebd952d93c896e7b85379eb8004" offsetsha1="dd3893632be644a4b3a54548725c0f8f2dea4df5" offset="0" offsetsize="5507601"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 08).bin" size="6679680" crc="292ac899" md5="005ed4f316b1b39a08ff6c2116222b98" sha1="5219d872fd05c144490ba636c9b0fb53c0cbc58c" wavesha1="6b62c36857600ab0d606a76b286b44df7194e389" offsetsha1="7dbf4a333c0150a7931d4e9a02df19b0020f61eb" offset="363756" offsetsize="6284554"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 09).bin" size="10743936" crc="b509a742" md5="d1c1fd20f36948e72d9c5ba6ddcc004b" sha1="01dec3d1373a465fa044b088c93c1b230bc40c78" wavesha1="2fe88c70efe5724521b9ea9eec59df6f534a4b86" offsetsha1="bdbc91da9cc8a94141ba121aebcd15ca3bc54554" offset="363716" offsetsize="10377030"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 10).bin" size="1862784" crc="c8d09149" md5="1e6694fe8ab15614649b3b431c8a2dd7" sha1="aab89ae9668d0db76dc842625fa4d0f7e9f69e17" wavesha1="51c101ca6ed7e891cb5f9f9da3b1f741ad623cd3" offsetsha1="d5e07a0a34370108d15c7753fa1c77d4eeaa1165" offset="366096" offsetsize="1448849"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 11).bin" size="5475456" crc="c7f71fa2" md5="5af03014d3382588a8125cda9a7fc59d" sha1="2f5081347ff2478f6b313c5245c75fc871066244" wavesha1="97290840b140bdecde2e0aae54cb02941cb60052" offsetsha1="074f87e98dd6ef913c6e4c57710fa5396a301225" offset="370784" offsetsize="5104671"/>
+		<rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 12).bin" size="14711760" crc="f0a729f6" md5="2de38dcdfe7c6409317fccd33221607d" sha1="df2fafe0e61dccb635aab213c3c87284461639bd" wavesha1="e70117fe4d047191eaf451f41867c5ee1204b936" offsetsha1="d5a213642a839c058178356349f0359c49c13bb7" offset="0" offsetsize="13833528"/>
 	</game>
-	<game name="Demo II - Amiga Public Domain Collection (Europe)" type="cd" sha1="e86a45814b5a715d48e38dbcbabd8dfc033a45c1" size="397623912" crc="5f12ed04" fullsha1="97fe7fdeb5a108c3e0279bda04ef2838d4e0134d" datasha1="098d973a88b4cc0632ffca250ab5713d6a851666">
+	<game name="Demo Collection for Amiga CDTV, The (Europe) (Black Disc)" type="cd" sha1="79884493aff44d968752ed78e92c99560e6a8816" size="371905834" crc="6c3d7165" fullsha1="cf8bb5f1da7dae035d93c4e57d840d065fab6047" datasha1="5a190a318280d3804cf92fcdbd447a564c23c1af" rawdatasha1="796c40e4f404a75ff437ae554bf210b553d32721" rawdatasize="712656000">
+		<category>Games</category>
+		<description>Demo Collection for Amiga CDTV, The (Europe) (Black Disc)</description>
+		<rom name="Demo Collection for Amiga CDTV, The (Europe) (Black Disc) (Track 01).bin" size="712656000" crc="563ed322" md5="0e1a3760f4b3141c0462afe267f96903" sha1="796c40e4f404a75ff437ae554bf210b553d32721" datasha1="6d2693e2180b954e3a79080991d9516d78e0b350" datasize="620544000"/>
+	</game>
+	<game name="Demo II - Amiga Public Domain Collection (Europe)" type="cd" sha1="e86a45814b5a715d48e38dbcbabd8dfc033a45c1" size="397623912" crc="5f12ed04" fullsha1="97fe7fdeb5a108c3e0279bda04ef2838d4e0134d" datasha1="098d973a88b4cc0632ffca250ab5713d6a851666" rawdatasha1="dd5cd17ba6b3aa81f23543803920fb348e760be6" rawdatasize="699623568">
 		<category>Games</category>
 		<description>Demo II - Amiga Public Domain Collection (Europe)</description>
-		<rom name="Demo II - Amiga Public Domain Collection (Europe) (Track 01).bin" size="699623568" crc="44e2cb21" md5="13e934b8e8a3660431ae8cccedcecace" sha1="dd5cd17ba6b3aa81f23543803920fb348e760be6"/>
+		<rom name="Demo II - Amiga Public Domain Collection (Europe) (Track 01).bin" size="699623568" crc="44e2cb21" md5="13e934b8e8a3660431ae8cccedcecace" sha1="dd5cd17ba6b3aa81f23543803920fb348e760be6" datasha1="1dc8bf2cf2629146e232d618fbf7ee71d5e93820" datasize="609196032"/>
+	</game>
+	<game name="Deutschland Kompakt (Germany)" type="cd" sha1="27ec97da888719f82f301896f7fbec7c93e6f598" size="237339155" crc="f8682abf" fullsha1="3c203d8e3dcbf1dbbf6bd951c92de0e8fe03c2a0" datasha1="0f771387cea58d236ac99a2a34baa4178889b96e" rawdatasha1="922a86de11fd54fdf153e5f2cc808cb6198d1356" rawdatasize="435531600">
+		<category>Games</category>
+		<description>Deutschland Kompakt (Germany)</description>
+		<rom name="Deutschland Kompakt (Germany) (Track 01).bin" size="435531600" crc="a68713ab" md5="1003357013af7251e5704f7cc15487da" sha1="922a86de11fd54fdf153e5f2cc808cb6198d1356" datasha1="4849227b000d572a3e5d2be06ad754c5278f3cd3" datasize="379238400"/>
 	</game>
 	<game name="Electric Crayon - All Dogs Go to Heaven (USA)" type="cd" sha1="a86a7b85ffceedcde7850a8904b533c6d572e72d" size="16934819" crc="d314acef" fullsha1="55a5b3ba61d1bb03550983882c69aba34a7412c3" datasha1="319be23c74a5f7ea2711387e19cb339cb98bf2ba" rawdatasha1="b7507edc8ef7c0e7041decbfada558ee0445e2fc" rawdatasize="33092640">
 		<category>Games</category>
 		<description>Electric Crayon - All Dogs Go to Heaven (USA)</description>
-		<rom name="Electric Crayon - All Dogs Go to Heaven (USA) (Track 01).bin" size="33092640" crc="1b7263ed" md5="aca6b8360eed8618db3665f11fad707b" sha1="b7507edc8ef7c0e7041decbfada558ee0445e2fc"/>
+		<rom name="Electric Crayon - All Dogs Go to Heaven (USA) (Track 01).bin" size="33092640" crc="1b7263ed" md5="aca6b8360eed8618db3665f11fad707b" sha1="b7507edc8ef7c0e7041decbfada558ee0445e2fc" datasha1="751d29ef875e0bb489fb1073a1d4dfbd2ee9392f" datasize="28815360"/>
 	</game>
 	<game name="Enciclopedia Elettronica Multimediale Grolier - Edizione 1996 (Italy)" type="cd" sha1="8d87548c45f06ab8dfa804f831d1392bf1eda071" size="287264441" crc="012e6182" fullsha1="e7a1da77461aa83d55f525824e08c78294e6ac8a" datasha1="98d97cc0139924a130feaf2ce7c701c5f06a3421" rawdatasha1="30a868af4c9cc5bba372cc222af3aeef5676ac45" rawdatasize="501187680">
 		<category>Games</category>
 		<description>Enciclopedia Elettronica Multimediale Grolier - Edizione 1996 (Italy)</description>
-		<rom name="Enciclopedia Elettronica Multimediale Grolier - Edizione 1996 (Italy) (Track 01).bin" size="501187680" crc="9827dd76" md5="fb915ecf7b0411772c00d0ab3474866e" sha1="30a868af4c9cc5bba372cc222af3aeef5676ac45"/>
+		<rom name="Enciclopedia Elettronica Multimediale Grolier - Edizione 1996 (Italy) (Track 01).bin" size="501187680" crc="9827dd76" md5="fb915ecf7b0411772c00d0ab3474866e" sha1="30a868af4c9cc5bba372cc222af3aeef5676ac45" datasha1="7ef989d147b2670a3231caca83b62497d2fa8ac8" datasize="436408320"/>
+	</game>
+	<game name="Fantastic Voyage (USA)" type="cd" sha1="c202458b1c13d203fd906aecdd046eca101896a2" size="1147445" crc="2e6dc7d2" fullsha1="c35cafd8639c9a19c63d19f2e6765106c83b9b8c" datasha1="0a8c20fbdd51e7a6a247956bed0a40da1b54d1de" rawdatasha1="e32aebdac017a3f19cdbaa746c829fc3c817dcfa" rawdatasize="5244960">
+		<category>Games</category>
+		<description>Fantastic Voyage (USA)</description>
+		<rom name="Fantastic Voyage (USA) (Track 01).bin" size="5244960" crc="019d4fcb" md5="eee20caf9b36a2f8830f7aeb9584d57c" sha1="e32aebdac017a3f19cdbaa746c829fc3c817dcfa" datasha1="8e97c8972b57e3bf9f028e9f0c6929d614863de1" datasize="4567040"/>
 	</game>
 	<game name="Fractal Universe (Europe)" type="cd" sha1="356b4c6b56778702b16df955ab86b8d8c2a2b429" size="79382702" crc="0093fdba" fullsha1="7ebdf9a142b8b437ea94efc37d5ab9ea6b4f13e2" datasha1="81815f7e19ea9b79e0e8ed848b742e87d83c2e49" rawdatasha1="f848ce3fffc199f684c125c5c71997dfb7c6998c" rawdatasize="128948400">
 		<category>Games</category>
 		<description>Fractal Universe (Europe)</description>
-		<rom name="Fractal Universe (Europe) (Track 01).bin" size="128948400" crc="88facd9f" md5="798f75337c5e0d9a4039a79ac566cbe6" sha1="f848ce3fffc199f684c125c5c71997dfb7c6998c"/>
+		<rom name="Fractal Universe (Europe) (Track 01).bin" size="128948400" crc="88facd9f" md5="798f75337c5e0d9a4039a79ac566cbe6" sha1="f848ce3fffc199f684c125c5c71997dfb7c6998c" datasha1="538dd9b458906caf951ce7d68acd63f7e287a1f5" datasize="112281600"/>
 	</game>
-	<game name="Games &amp; Goodies (UK)" type="cd" sha1="5d0f431f5a11dc1319eaeae9b575b197424883e6" size="58633153" crc="ce2f8e63" fullsha1="3d382610ab12396dc425ab3968794cae77390b91" datasha1="f4c8f99b57ab30801ab2f3bce47a75981ee58ada">
+	<game name="Games &amp; Goodies (UK)" type="cd" sha1="7467c699c64840d56a5a6967d0001f74c8e4d4af" size="58520429" crc="6337a775" fullsha1="3d382610ab12396dc425ab3968794cae77390b91" datasha1="f4c8f99b57ab30801ab2f3bce47a75981ee58ada" rawdatasha1="4bdca5b99f720bdb38523064165e5bb83c926c85" rawdatasize="125420400">
 		<category>Games</category>
 		<description>Games &amp; Goodies (UK)</description>
-		<rom name="Games &amp; Goodies (UK) (Track 01).bin" size="125420400" crc="aa9f8b83" md5="c13282e67847c48343e4c26d8a6eaf4c" sha1="4bdca5b99f720bdb38523064165e5bb83c926c85"/>
+		<rom name="Games &amp; Goodies (UK) (Track 01).bin" size="125420400" crc="aa9f8b83" md5="c13282e67847c48343e4c26d8a6eaf4c" sha1="4bdca5b99f720bdb38523064165e5bb83c926c85" datasha1="9e80b08f3900ce32c665f1394be79eae7c7e5af6" datasize="109209600"/>
 	</game>
-	<game name="Insight Dinosaurs (Europe)" type="cd" sha1="7eb9401d08f7febd92f55537f3115c3225e5bd60" size="466123910" crc="0d5a1051" fullsha1="ed0c93173d37b1597a30436d228ec7b2db5e4abb" datasha1="4e3a4cd63f2f5a7e5aec6a06492e7bc0dcd6676b">
+	<game name="Garden Fax - Fruits, Vegetables &amp; Herbs (USA)" type="cd" sha1="ba8630acbba1b3f336a0920a32ca1f41c699b48a" size="28643810" crc="df6f4c05" fullsha1="23058efa5a7407cadc10f9aba483bb86f024907f" datasha1="8d1d5faff21292530fb0631d595bcd58a2a01f9c" rawdatasha1="81da12d518b0295c191a7d7667294a4763f39430" rawdatasize="57769824">
+		<category>Games</category>
+		<description>Garden Fax - Fruits, Vegetables &amp; Herbs (USA)</description>
+		<rom name="Garden Fax - Fruits, Vegetables &amp; Herbs (USA) (Track 01).bin" size="57769824" crc="fd17702b" md5="f9f02b788f34b93e9579de83cd8bcaa9" sha1="81da12d518b0295c191a7d7667294a4763f39430" datasha1="44f52b4c5a7cc02fb59e4922291902e24ba6de3d" datasize="50302976"/>
+	</game>
+	<game name="Garden Fax - Garden Plants (USA)" type="cd" sha1="4bd5f7759d54dfb85467f8d6c210e3abef4dbd40" size="41850817" crc="4b36084c" fullsha1="7083333adb31f8ed7d7eaf1c5092b30a3d8a5584" datasha1="b8dcef6ce5b3883738942072fe09de67f706421d" rawdatasha1="7dde3c9d4b9fb0057f9a118756021cc944a0ad79" rawdatasize="57769824">
+		<category>Games</category>
+		<description>Garden Fax - Garden Plants (USA)</description>
+		<rom name="Garden Fax - Garden Plants (USA) (Track 01).bin" size="57769824" crc="2b3cabdd" md5="561655a6444cc265217962822edbdabb" sha1="7dde3c9d4b9fb0057f9a118756021cc944a0ad79" datasha1="31d8d88db7efab957583f8f65dc07ab4089d3283" datasize="50302976"/>
+	</game>
+	<game name="Garden Fax - Indoor Plants (USA)" type="cd" sha1="67f52d0c5c5da0c016dca327b696be465ac5f8d6" size="29291819" crc="a814ae24" fullsha1="2571fa8264f6b5d8f8cd02b195b27c52591b2668" datasha1="2cec5d2be67c45b329e0da96b8b93999c9e96141" rawdatasha1="ea0e901b07cb8ced9a033e1fa1c9cac7599901cd" rawdatasize="57769824">
+		<category>Games</category>
+		<description>Garden Fax - Indoor Plants (USA)</description>
+		<rom name="Garden Fax - Indoor Plants (USA) (Track 01).bin" size="57769824" crc="832fb520" md5="5a86d484111723436522a23dea3da5d6" sha1="ea0e901b07cb8ced9a033e1fa1c9cac7599901cd" datasha1="076d54ccb8f2412a6590e529af818586219c1296" datasize="50302976"/>
+	</game>
+	<game name="Garden Fax - Trees, Shrubs, Roses &amp; Conifers (USA)" type="cd" sha1="5b8ba1fd5622902a7f0d82e6194c35fcbe3da1d9" size="58044232" crc="186b4dca" fullsha1="5eccf33ae1585323f16551a6118753e137d53c34" datasha1="9cb881307c8e0771f885cc2c51645e466783e24d" rawdatasha1="7abc58ae49c189f5b70f413d300052f9ece706d8" rawdatasize="115196256">
+		<category>Games</category>
+		<description>Garden Fax - Trees, Shrubs, Roses &amp; Conifers (USA)</description>
+		<rom name="Garden Fax - Trees, Shrubs, Roses &amp; Conifers (USA) (Track 01).bin" size="115196256" crc="9004e8a6" md5="40b64c56656a3f634688368540a4c176" sha1="7abc58ae49c189f5b70f413d300052f9ece706d8" datasha1="fc0021d0c73cb0d00a7bb9bcc915521a3cdfcbe4" datasize="100306944"/>
+	</game>
+	<game name="Hutchinson Encyclopedia, The (Europe)" type="cd" sha1="7a1ce0867e806d42bdc7ee74a9b986923d134363" size="120816519" crc="0f416c8b" fullsha1="46479f2422dba9d70c5ed2a97d2c6967e30322aa" datasha1="257f46dd971f00f48de69241d8ee47c25444ba13" rawdatasha1="12b0b32c314d419a252723be7af8146372c7444a" rawdatasize="767163600">
+		<category>Games</category>
+		<description>Hutchinson Encyclopedia, The (Europe)</description>
+		<rom name="Hutchinson Encyclopedia, The (Europe) (Track 01).bin" size="767163600" crc="45a05376" md5="79ec5274dd664993cc988cf9ff278d9c" sha1="12b0b32c314d419a252723be7af8146372c7444a" datasha1="8e6ebfa43d1ef65b6d08fbf4121694741959baa4" datasize="668006400"/>
+	</game>
+	<game name="Insight Dinosaurs (Europe)" type="cd" sha1="7eb9401d08f7febd92f55537f3115c3225e5bd60" size="466123910" crc="0d5a1051" fullsha1="ed0c93173d37b1597a30436d228ec7b2db5e4abb" datasha1="4e3a4cd63f2f5a7e5aec6a06492e7bc0dcd6676b" rawdatasha1="95da49ffa6f6cfe3933f447272ccb9a2bd6d2619" rawdatasize="766940160">
 		<category>Games</category>
 		<description>Insight Dinosaurs (Europe)</description>
-		<rom name="Insight Dinosaurs (Europe) (Track 01).bin" size="766940160" crc="67f592d9" md5="d35bdb5d6efa2b01b989aefe2cda044f" sha1="95da49ffa6f6cfe3933f447272ccb9a2bd6d2619"/>
+		<rom name="Insight Dinosaurs (Europe) (Track 01).bin" size="766940160" crc="67f592d9" md5="d35bdb5d6efa2b01b989aefe2cda044f" sha1="95da49ffa6f6cfe3933f447272ccb9a2bd6d2619" datasha1="69b98c195b87e11fd19feb7a03a1a5ab0ce20684" datasize="667811840"/>
 	</game>
-	<game name="Insight Technology (Europe)" type="cd" sha1="467a44a7dd7aef5fb389213c67fec86310213701" size="368182715" crc="6269078f" fullsha1="7ef8e1034f3b4b2a1ea3892df797f50b7ff7fec0" datasha1="2329eddfa9844fd1bf57feadd19d307e43ecbddd">
+	<game name="Insight Technology (Europe)" type="cd" sha1="467a44a7dd7aef5fb389213c67fec86310213701" size="368182715" crc="6269078f" fullsha1="7ef8e1034f3b4b2a1ea3892df797f50b7ff7fec0" datasha1="2329eddfa9844fd1bf57feadd19d307e43ecbddd" rawdatasha1="597d0f1112e7c95748676e657948b180eba9824d" rawdatasize="619220448">
 		<category>Games</category>
 		<description>Insight Technology (Europe)</description>
-		<rom name="Insight Technology (Europe) (Track 01).bin" size="619220448" crc="2fe34b98" md5="fb92ea4c4ef4a6ab30ea3cf921f9f1fb" sha1="597d0f1112e7c95748676e657948b180eba9824d"/>
+		<rom name="Insight Technology (Europe) (Track 01).bin" size="619220448" crc="2fe34b98" md5="fb92ea4c4ef4a6ab30ea3cf921f9f1fb" sha1="597d0f1112e7c95748676e657948b180eba9824d" datasha1="25bc6bb8503282e3a2f0134c462bc08d4c4e41c7" datasize="539185152"/>
 	</game>
-	<game name="Now That's What I Call Games (UK)" type="cd" sha1="8ea8bb07f72e48d1a62547f0bd0ba3a72bef7e5e" size="11948676" crc="c78c561b" fullsha1="93c983100b59b325cb0f01b2a5cb0e18689bff7e" datasha1="b3560beba37d19ea8561ab78ba4616978fa23eed">
+	<game name="Language TV - English (France)" type="cd" sha1="c4f1250384fa7e64f5630826b7323ad7ccf4b200" size="196286553" crc="db7ede56" fullsha1="454079ed073087278320a15b05262fa28328e9cb" datasha1="8c548673c7694e9cb907405d0e0b2a607d411d2e" rawdatasha1="52d12aa51de2de874e30aa1889c14ba0c00802e7" rawdatasize="399421344">
+		<category>Games</category>
+		<description>Language TV - English (France)</description>
+		<rom name="Language TV - English (France) (Track 01).bin" size="399421344" crc="fd497b38" md5="f4cb8d1a72f86d5c7791be3c9069bea7" sha1="52d12aa51de2de874e30aa1889c14ba0c00802e7" datasha1="e778ac9efc9e11e24f2dbc2b1ca5120c97ed1b2e" datasize="347795456"/>
+	</game>
+	<game name="Lemmings (Europe)" type="cd" sha1="e69b088042d410f4bf793984ae9f7e79426d38a5" size="20885709" crc="b21397f6" fullsha1="49e5e8932f24c5e0845ce97663419b6892a185c5" datasha1="91bb9289f9b8ebfe993cb30ad5c401a20a9a859c" rawdatasha1="ceaec027822c03a08e060b139908c0340c77bb20" rawdatasize="69259344">
+		<category>Games</category>
+		<description>Lemmings (Europe)</description>
+		<rom name="Lemmings (Europe) (Track 01).bin" size="69259344" crc="1659d12d" md5="1ee64a7b66aa58a94adefb98c412f622" sha1="ceaec027822c03a08e060b139908c0340c77bb20" datasha1="a92ec9de89109e586986c58f068c3862f33641c6" datasize="60307456"/>
+	</game>
+	<game name="Log!cal (Europe)" type="cd" sha1="28fd296eb554b69a96d8fb3a5ffbfa79a234e1fb" size="602371" crc="9e825d65" fullsha1="1a7e3709d8fe8ef98fa0e11a124b8088194ccd7c" datasha1="eaa11e581f57980e05f24a9b61cba061033afb66" rawdatasha1="200f812cb38236840c3189c71108c63d8bc41d24" rawdatasize="20815200">
+		<category>Games</category>
+		<description>Log!cal (Europe)</description>
+		<rom name="Log!cal (Europe) (Track 01).bin" size="20815200" crc="9005c890" md5="cbe25fd3c5bcf9e6edcff7c9e940b864" sha1="200f812cb38236840c3189c71108c63d8bc41d24" datasha1="c3c08f01c3eb7a5023ccb324e73ac34f20b3e952" datasize="18124800"/>
+	</game>
+	<game name="Mud Puddle (USA) (En,Fr,De,Es,It)" type="cd" sha1="55f01cc945e9f466d702b6fbc98437b6765e4e60" size="138047313" crc="ef618329" fullsha1="69d622e3ae3e4c2994d194abb7d10b2e88fc4f0a" datasha1="47849c65035c61371d6b88fe4f2ccadb80a91f73" rawdatasha1="b5b7c32c7e588cf9c67d80a2d4192cdb21dd1696" rawdatasize="322557984">
+		<category>Games</category>
+		<description>Mud Puddle (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Mud Puddle (USA) (En,Fr,De,Es,It) (Track 01).bin" size="322557984" crc="1485937a" md5="dafe4aac6fd8ac341c1bb357bc3392be" sha1="b5b7c32c7e588cf9c67d80a2d4192cdb21dd1696" datasha1="40489d81095fa24cda245bdf698ce07cf5982f7f" datasize="280866816"/>
+	</game>
+	<game name="New Basics Electronic Cookbook, The - 1991a Edition (USA)" type="cd" sha1="ddd26b8d0123c4b4f04d39b26423dab474ed41e2" size="55526524" crc="5d59d3fa" fullsha1="d64cbb09b28cf2b32102c0f71adb6003a9b61b41" datasha1="ae804d11e234e01dd239f6498d04157a9161f05b" rawdatasha1="5e66985095280f9829bc8845955391a9e177c73e" rawdatasize="95317152">
+		<category>Games</category>
+		<description>New Basics Electronic Cookbook, The - 1991a Edition (USA)</description>
+		<rom name="New Basics Electronic Cookbook, The - 1991a Edition (USA) (Track 01).bin" size="95317152" crc="c8d7ef3d" md5="59bf30dd84e33e6435de31c256749169" sha1="5e66985095280f9829bc8845955391a9e177c73e" datasha1="8b4d7fe70409a36674d079169f102895f0b8c7eb" datasize="82997248"/>
+	</game>
+	<game name="Now That's What I Call Games (UK)" type="cd" sha1="64baca30197d7434cced4c03f98e13f31745860d" size="11933878" crc="dbbb1ad6" fullsha1="93c983100b59b325cb0f01b2a5cb0e18689bff7e" datasha1="b3560beba37d19ea8561ab78ba4616978fa23eed" rawdatasha1="97b2532ff7fbf2cf6898fff06094c0330483a11e" rawdatasize="29341200">
 		<category>Games</category>
 		<description>Now That's What I Call Games (UK)</description>
-		<rom name="Now That's What I Call Games (UK) (Track 01).bin" size="29341200" crc="1163b18a" md5="fe5e6378777bdbe397cb8d34a0d22e18" sha1="97b2532ff7fbf2cf6898fff06094c0330483a11e"/>
+		<rom name="Now That's What I Call Games (UK) (Track 01).bin" size="29341200" crc="1163b18a" md5="fe5e6378777bdbe397cb8d34a0d22e18" sha1="97b2532ff7fbf2cf6898fff06094c0330483a11e" datasha1="c1c527fdbe2adeda192248b3dcc8f0f799c199ea" datasize="25548800"/>
 	</game>
-	<game name="Prehistorik (Europe)" type="cd" sha1="525601447cdd2d850ff14d60e92142246b7a3329" size="136819026" crc="b183f377" fullsha1="9202c820dc3511f4f6d999767b6019f4c6d8f993" datasha1="9e11f803341c07720afcc1a5afd18f0b53b07f03">
+	<game name="Pandora's CD (Europe)" type="cd" sha1="10f70c0317c836c51f8f1a10315c1d2103622afa" size="295103667" crc="0bb3d2d8" fullsha1="4a3b76e246bcc245053be1415ac26e7feab3c1aa" datasha1="edab3115e246414cae759edc31fcf75f61fb882a" rawdatasha1="a68fac9b872e436a0ea970b0dbcf347bc0a4a684" rawdatasize="444351600">
+		<category>Games</category>
+		<description>Pandora's CD (Europe)</description>
+		<rom name="Pandora's CD (Europe) (Track 01).bin" size="444351600" crc="af034f7f" md5="1cc8ca2a08fff2a6fba41945e5bb690f" sha1="a68fac9b872e436a0ea970b0dbcf347bc0a4a684" datasha1="170a68cc255e550e0691cea92e4315544f5834e8" datasize="386918400"/>
+	</game>
+	<game name="Prehistorik (Europe)" type="cd" sha1="525601447cdd2d850ff14d60e92142246b7a3329" size="136819026" crc="b183f377" fullsha1="9202c820dc3511f4f6d999767b6019f4c6d8f993" datasha1="9e11f803341c07720afcc1a5afd18f0b53b07f03" rawdatasha1="092a17fc77cab792825d4bb9bc178b44c160d650" rawdatasize="243796560">
 		<category>Games</category>
 		<description>Prehistorik (Europe)</description>
-		<rom name="Prehistorik (Europe) (Track 01).bin" size="20815200" crc="56b4d0fa" md5="4a064683c8e096a393953fa89e70f035" sha1="24e5ac0166ba71d8dad2a9866effff44e695069d"/>
-		<rom name="Prehistorik (Europe) (Track 02).bin" size="16468704" crc="b037b721" md5="349c5f19fcdda8d500ca4626e8a63303" sha1="85323e4be1116bb9ea228652faa38213825b049e"/>
-		<rom name="Prehistorik (Europe) (Track 03).bin" size="34922496" crc="f04a918a" md5="3409e84fe46de14a64d40cb83b725403" sha1="e226afbd55dd1ed6f2a1de9465958cdf60c25fe4"/>
-		<rom name="Prehistorik (Europe) (Track 04).bin" size="30357264" crc="6e206333" md5="22cf4fe6f24877381a4a8df88e9380b5" sha1="b1c31d9ab120de4a089af3e1f832671e96031cc1"/>
-		<rom name="Prehistorik (Europe) (Track 05).bin" size="34550880" crc="be6729d2" md5="e38a61fb655b1125f92319cd6880e29c" sha1="122ffaf38ca2f337f2cf7504150d15b58b246e42"/>
-		<rom name="Prehistorik (Europe) (Track 06).bin" size="20622336" crc="de6d3809" md5="1dfef6afdce0af91ac2a63513e2d1962" sha1="4f953e2315fb0822d41316756f7b9c0aa9d10388"/>
-		<rom name="Prehistorik (Europe) (Track 07).bin" size="4767504" crc="8e8ec611" md5="a1cca469272a4e3ffdcb3bb17205aa8e" sha1="ac0abe748519f4f94a20882e9ed181c20d25d3ca"/>
-		<rom name="Prehistorik (Europe) (Track 08).bin" size="33464256" crc="f8e596fc" md5="0199e0d75f96cc43aeefe28e72a8093d" sha1="976f155f313fe0ca812da698c434e340ec7bc13a"/>
-		<rom name="Prehistorik (Europe) (Track 09).bin" size="3857280" crc="3333b3cd" md5="0e89d2c98a8a4d7556a6e27201e4c49a" sha1="0d48b81478fb9ab204b5ab9f6d89fa00082bfb86"/>
-		<rom name="Prehistorik (Europe) (Track 10).bin" size="38114160" crc="3a3d72ff" md5="12674f3cd6f09139dc6f1edcabc82694" sha1="66bf47ea12384c7bdef7aaf4c5e23dab439ec7c3"/>
-		<rom name="Prehistorik (Europe) (Track 11).bin" size="3633840" crc="cd08893e" md5="226062ab6a048301f41ec7cdfacca943" sha1="1f6f6461c8df6e2a85e3edfbddcc597ce1cf172c"/>
-		<rom name="Prehistorik (Europe) (Track 12).bin" size="2222640" crc="7611df1b" md5="b1d9a5e82f5886a72eeb0c8e6756104a" sha1="f7134cb90bec4139383723ad4ee2c0510174c588"/>
+		<rom name="Prehistorik (Europe) (Track 01).bin" size="20815200" crc="56b4d0fa" md5="4a064683c8e096a393953fa89e70f035" sha1="24e5ac0166ba71d8dad2a9866effff44e695069d" datasha1="abe7915b4306af1ec49fa640b35b71f1112488d1" datasize="18124800"/>
+		<rom name="Prehistorik (Europe) (Track 02).bin" size="16468704" crc="b037b721" md5="349c5f19fcdda8d500ca4626e8a63303" sha1="85323e4be1116bb9ea228652faa38213825b049e" wavesha1="126519e420a532c19e4cc48308367e0af5a528cc" offsetsha1="6a2a264589561e21b2d6db764f4dd3d14758118c" offset="1" offsetsize="16463751"/>
+		<rom name="Prehistorik (Europe) (Track 03).bin" size="34922496" crc="f04a918a" md5="3409e84fe46de14a64d40cb83b725403" sha1="e226afbd55dd1ed6f2a1de9465958cdf60c25fe4" wavesha1="eed72f49a22df7e2ed1cd2a1252461511aeb2624" offsetsha1="c862d03c461eb015fbaf873b8d8bd05e45d20143" offset="551848" offsetsize="34362416"/>
+		<rom name="Prehistorik (Europe) (Track 04).bin" size="30357264" crc="6e206333" md5="22cf4fe6f24877381a4a8df88e9380b5" sha1="b1c31d9ab120de4a089af3e1f832671e96031cc1" wavesha1="9bf9addc277296f26af09d324be102b658259c4b" offsetsha1="cf6c094f6704810288a9fd50a31a5340aa44191d" offset="525098" offsetsize="29826990"/>
+		<rom name="Prehistorik (Europe) (Track 05).bin" size="34550880" crc="be6729d2" md5="e38a61fb655b1125f92319cd6880e29c" sha1="122ffaf38ca2f337f2cf7504150d15b58b246e42" wavesha1="47c18e8face58f19724cd5353b3f6e4620bd1c33" offsetsha1="e17846415e714812db664bda9675f37dd6d324e2" offset="518004" offsetsize="34029470"/>
+		<rom name="Prehistorik (Europe) (Track 06).bin" size="20622336" crc="de6d3809" md5="1dfef6afdce0af91ac2a63513e2d1962" sha1="4f953e2315fb0822d41316756f7b9c0aa9d10388" wavesha1="e50477d93fe58671d10c81a7b548fd03a45a85cd" offsetsha1="975d3bf09a46304070acf21a52b710b4d6df30f0" offset="537028" offsetsize="20079746"/>
+		<rom name="Prehistorik (Europe) (Track 07).bin" size="4767504" crc="8e8ec611" md5="a1cca469272a4e3ffdcb3bb17205aa8e" sha1="ac0abe748519f4f94a20882e9ed181c20d25d3ca" wavesha1="a2f7b3852402d56b70c39b9913a38f013f3d7328" offsetsha1="eca220f2255188f4030dd1f7e3794ddb9ef1d3e6" offset="513512" offsetsize="4244440"/>
+		<rom name="Prehistorik (Europe) (Track 08).bin" size="33464256" crc="f8e596fc" md5="0199e0d75f96cc43aeefe28e72a8093d" sha1="976f155f313fe0ca812da698c434e340ec7bc13a" wavesha1="ae16206a603884c17bc1fa4d5d1d597f7ea5977a" offsetsha1="31e19e4cbd551ce03ccbf360338e917a6c8795a1" offset="510110" offsetsize="32947290"/>
+		<rom name="Prehistorik (Europe) (Track 09).bin" size="3857280" crc="3333b3cd" md5="0e89d2c98a8a4d7556a6e27201e4c49a" sha1="0d48b81478fb9ab204b5ab9f6d89fa00082bfb86" wavesha1="82b9008f129831716c304c40e1be320bcf82d4ed" offsetsha1="2de8b350eb6fb6045af431e83ed59912d470c863" offset="521358" offsetsize="3325720"/>
+		<rom name="Prehistorik (Europe) (Track 10).bin" size="38114160" crc="3a3d72ff" md5="12674f3cd6f09139dc6f1edcabc82694" sha1="66bf47ea12384c7bdef7aaf4c5e23dab439ec7c3" wavesha1="8776a8c8a32a309a8bcebf69079cf835da841f57" offsetsha1="26675918534b9370a5b0c0ee60620b0358210a0d" offset="531888" offsetsize="37576228"/>
+		<rom name="Prehistorik (Europe) (Track 11).bin" size="3633840" crc="cd08893e" md5="226062ab6a048301f41ec7cdfacca943" sha1="1f6f6461c8df6e2a85e3edfbddcc597ce1cf172c" wavesha1="e249860903b3fcec3965c2d9fe42f826b85d0c96" offsetsha1="fa78c4b4e49c86934b3a47a415238c85732c3d3d" offset="515680" offsetsize="3108906"/>
+		<rom name="Prehistorik (Europe) (Track 12).bin" size="2222640" crc="7611df1b" md5="b1d9a5e82f5886a72eeb0c8e6756104a" sha1="f7134cb90bec4139383723ad4ee2c0510174c588" wavesha1="54c97eb6d664633cf86e22d38e8229a4cf6c3349" offset="0" offsetsize="0"/>
 	</game>
-	<game name="Town with No Name (Europe) (En,Fr,De,Es,It,Da)" type="cd" sha1="670d402c64c7bdf6247cc76f7a1d0f7c69aec669" size="190722771" crc="c04e9f7b" fullsha1="d82b9dac18a793af5b176d0f31caa9d2138960cf" datasha1="494d1c29751fb9ecdf50161e2183ca5614f9bc1b">
+	<game name="Psycho Killer (Europe)" type="cd" sha1="3ec93473da0ac44eba642db232cf6336b544ab46" size="32220554" crc="cc3996a8" fullsha1="86027a278c35312859e6c1ed778c7b366528f1a1" datasha1="8c35faaa39100905e1a0460a0319f8b50552f764" rawdatasha1="516938a10e27bcffa51f6a7424282b22a4fd8ec1" rawdatasize="85118880">
+		<category>Games</category>
+		<description>Psycho Killer (Europe)</description>
+		<rom name="Psycho Killer (Europe) (Track 01).bin" size="57769824" crc="f980487b" md5="4b19901c0a1d54a5b3072415d4c75269" sha1="b736e60d043783af98ff3ab4cd6857c8628c976e" datasha1="0b86b61ec9c6e7b5adc583f3a6b2b3791341d1ff" datasize="50302976"/>
+		<rom name="Psycho Killer (Europe) (Track 02).bin" size="14648256" crc="c2901df2" md5="6e7593e6616a787d2b763794242d7eb0" sha1="156cb5dafc12c506cf8a55c00e1e30c2f66ed6ac" wavesha1="35459bb7a265941f3471656e935ac4b7a397c1a4" offsetsha1="f0e8a7bd8cf99b0349baa337e7e35f51df6dab54" offset="352800" offsetsize="14295456"/>
+		<rom name="Psycho Killer (Europe) (Track 03).bin" size="12700800" crc="515f6db3" md5="4df215db241a60fbb54275d0b455a007" sha1="d6a164262167d3baf77e5765bc0d5e0e5f39d0c7" wavesha1="23d8c1a20873d0b06da366da8f4639951d096d85" offsetsha1="69642d1232b28fe3cde3bb15b9b28c231978f7ef" offset="0" offsetsize="12348000"/>
+	</game>
+	<game name="Raffles (Sweden)" type="cd" sha1="4212c270baf438cca9a63b5cb9e83da8cee05aeb" size="7145943" crc="a8e2b88e" fullsha1="17a3c1ea794658e5ea08e321ee0800466ad0c1a0" datasha1="3c76eee19c3a45a5fbfe0fc879b6051ed12c732b" rawdatasha1="f35b8960889e34f9cd7cbb539336a33b48752aee" rawdatasize="23320080">
+		<category>Games</category>
+		<description>Raffles (Sweden)</description>
+		<rom name="Raffles (Sweden) (Track 01).bin" size="23320080" crc="563c7008" md5="7eb24c2032d3b083b59f987198415491" sha1="f35b8960889e34f9cd7cbb539336a33b48752aee" datasha1="b80f6df05fafb77c1ca3bfef630d12d4ca847eb8" datasize="20305920"/>
+	</game>
+	<game name="SimCity (Europe) (En,Fr,De,Es,It)" type="cd" sha1="5b1dd2c578719a69ce411b92fed13ca436491140" size="129854747" crc="eecce536" fullsha1="9b500eac8c4272f4bc04c00e967dbd8ca857d777" datasha1="4dee8ad4549f7462a005ea85f94d0a3ca3a49ab1" rawdatasha1="4affd192d4606511071fd3fb4e1025f3c3a21064" rawdatasize="252080304">
+		<category>Games</category>
+		<description>SimCity (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="6091680" crc="287d124f" md5="aa9de61812285e908c3a111dff70758d" sha1="5a84eb2a945b50206da5e6dc3dd1172238a2ff8b" datasha1="3f28971b5c0cbd9bbea288944fc5e2f43f0a302a" datasize="5304320"/>
+		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 02).bin" size="37930704" crc="ebf52a7d" md5="0dc904e1835b22e0f7403d41c2e2be9a" sha1="31b897c96fbd1c53fb1b2ccf3cb1968938500efc" wavesha1="50a86f850c39a879c41a40cde76201aafce7c55e" offsetsha1="26cfa51cfedb71b4450548919f08820e1275c6e2" offset="352800" offsetsize="37574654"/>
+		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 03).bin" size="9525600" crc="3ce9cfa5" md5="ba5e52edfe0befab44337c662f818918" sha1="8f7cb4e19306c3cfe5c38721c2cdb47ef7ecdb4f" wavesha1="e729b33f8e6b5882f80790ce86648df730517d8d" offsetsha1="650b858dd334d9b673e7702df2997e85344c59ed" offset="350448" offsetsize="9175038"/>
+		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 04).bin" size="23997456" crc="f6e4e1ed" md5="e49ae5cbe35b2ea885f1055e4d64caa9" sha1="60954af77bb90961f832381588560c50488095a3" wavesha1="4c9ba8996db70af8c51f694f1472d97f965be75a" offsetsha1="bdb906fdd09a4e476ca981823a32b4628d7eff08" offset="641898" offsetsize="23353013"/>
+		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 05).bin" size="28581504" crc="4b4b5e2a" md5="27e41f4e378fb3c749c27afbda81c1ac" sha1="f07eaaec1e5bb69a3a767bc07dcef4fe52e36154" wavesha1="291bd33f5cf9dc7e9a07cd5821e7a928ffab6714" offsetsha1="d9a8a312bacc966ab20be045978831a691d5deb8" offset="498736" offsetsize="28081343"/>
+		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 06).bin" size="6886656" crc="4a74afb3" md5="f0591b6dc1f08214f4e26b634bbf5314" sha1="7a1c5e4220de3b2a08a981cb684996f980115778" wavesha1="6080755c397b9efe132aa9a069c02ac3bce14430" offsetsha1="fd089b07458e810dfb2690eae37fe24392717828" offset="377742" offsetsize="6504081"/>
+		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 07).bin" size="7413504" crc="0e7d7633" md5="c89cbdafb7de9e60471d9c4959ad077f" sha1="7230c1702d4ca32642115b299eca0119deae89b5" wavesha1="5482fa8a2f6d507d49aaa05f75ca77ff79176855" offsetsha1="9613272942c063b16895141b48001c6e3152a306" offset="546744" offsetsize="6862856"/>
+		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 08).bin" size="10231200" crc="b6d35220" md5="e7d5b39a7503ea8fae574c3be7e852f2" sha1="2604b65ef94d104e035fc3da4259d44a4f277dce" wavesha1="6531f182002501dfcea914e10bad07533d45e93e" offsetsha1="088e5055a9365eaef27e3aa20e04cfb330cf225e" offset="585160" offsetsize="9644840"/>
+		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 09).bin" size="7063056" crc="99661fd6" md5="11d03ee3164d6cfb0b5009c03819826a" sha1="542b29eed6c08e44b1bc5ba98d9965070dadebc4" wavesha1="d7914c853cb2c9a4ed210694a60b444d843d799d" offsetsha1="afc7ed3f0c656abe483bf946a9f0c2836b68575d" offset="352800" offsetsize="6709247"/>
+		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 10).bin" size="6009360" crc="f8b868a9" md5="a1040240e36e798dffee4e0d73f972b6" sha1="693682045069863e1ae0e7302198ba36c4db897f" wavesha1="95e68370b754538d054a9ac0bb047666dc49e202" offsetsha1="be8abe1cba2c027fff7a136a60997d4ce07c5856" offset="506550" offsetsize="5498729"/>
+		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 11).bin" size="11289600" crc="a3952254" md5="559f28e3aedd1c9933cd09f0be651730" sha1="239da6a94ad8bf8fc54166f587bb5fc046321ba3" wavesha1="0bbd215389d89e2489b9a1c05793766663f7fcee" offsetsha1="f3bb34ead565db3b87db56d2fa7439ead59b22e5" offset="524108" offsetsize="10764708"/>
+		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 12).bin" size="15527904" crc="360e392a" md5="c73d0fe9102c34607dc3fc59fd9289b7" sha1="e4d014ec31b91629458c37b01b181dd2672e36c8" wavesha1="9417a3a75de85a12f2f346610c96e9adb52b3954" offsetsha1="81f275e2e9f10cd5f472db191d8ec10702f763b1" offset="352800" offsetsize="15171584"/>
+		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 13).bin" size="22057056" crc="5e58b7df" md5="9ad79d9d9608a23fddc7c9b6705984c8" sha1="18fc53e2bcee5eb6690c0ecad1692a50f73aa8a6" wavesha1="ade230d077f9e5e75eda95b2355571cb2b90890d" offsetsha1="bc8ac78779c9b374313b003fecdd23f9105e92b2" offset="350448" offsetsize="21700608"/>
+		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 14).bin" size="14112000" crc="16c67cf3" md5="c45eb034a26356bd8a60e23177063ced" sha1="c8ab87a029b410f67187fa7da5342e64f90485a4" wavesha1="fc76dd46165cd341e9569a3ee7994afe20174cab" offsetsha1="97aea2c9271ec13b621b75716ab75b749418857f" offset="348096" offsetsize="13762560"/>
+		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 15).bin" size="7942704" crc="56df5b85" md5="66c1bda1978bb8cb7b7a006ca884a430" sha1="e9e5f66f3e7b4c890eba513aad086936785115dc" wavesha1="edcc3f17c534adf297d54e87cf0f66e94d92645e" offsetsha1="2e0257b7a9318d484c8ea94d71c98d1fb3a1465b" offset="352800" offsetsize="7585792"/>
+		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 16).bin" size="9003456" crc="452c19d3" md5="0267fea677396bf2ba214fb18c504807" sha1="6e7a1acd2e00aabf1bd58f4a8e8c540b52f05bd1" wavesha1="0ab3833edfff0358537d500732862dda39a4fe05" offsetsha1="712fa3c5350c84e423045508db651b44d10ae3ba" offset="720272" offsetsize="8280928"/>
+		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 17).bin" size="10066560" crc="a376e9ea" md5="d175d3fbd6df5384207bd5f418cfc5d5" sha1="322b9a8b7651bd8e214c65dcec5df988bb4f8946" wavesha1="249a3ca7d2b44dc378b6354433132bc5586ebaad" offsetsha1="ab10a22b3d8614d9dc39a4d863d1e5b52d2819ee" offset="571208" offsetsize="9489111"/>
+		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 18).bin" size="10231200" crc="8292e162" md5="e2ceb61bf0641fa97e1ff762ddff2abb" sha1="273d847d5cf25e72dfde7f5560724ea03286d386" wavesha1="ea06f90ffe990cc3433048e35d46c0ad6cde30c8" offsetsha1="5193138d6345375903d77416e7f8cd2cc92eb2e7" offset="348096" offsetsize="9879551"/>
+		<rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 19).bin" size="8119104" crc="8b75cc6e" md5="88d22182ec667ac5357a5b97802e9791" sha1="cacafa1bdf008d9d756abe51ec72ffc065e9e487" wavesha1="7b73fa8ef918b76589e08eda80a6940346661a87" offsetsha1="d3c397cbb39dc214c1bc51747a07ad07e94e0ff9" offset="586376" offsetsize="7530087"/>
+	</game>
+	<game name="Snoopy - The Case of the Missing Blanket (Sweden)" type="cd" sha1="cd9cc4184194123f2bd462a9d72127d3cb2625ad" size="29758472" crc="56100c87" fullsha1="a02bfb81dd9640b492451d53c6c0a387f5cbe577" datasha1="bdb6505031f764c9fc3432bce63f2593b221aa3a" rawdatasha1="2e5fb910c550c29d0a5693181f76b2bd0f4ef961" rawdatasize="64044960">
+		<category>Games</category>
+		<description>Snoopy - The Case of the Missing Blanket (Sweden)</description>
+		<rom name="Snoopy - The Case of the Missing Blanket (Sweden) (Track 01).bin" size="11830560" crc="b0c9e975" md5="d5b0ee51db3a90d3ed793938e8258c4e" sha1="7bcb83f33a11ee2dc01921ddfe9e78c9ead7d828" datasha1="a22fb878dde2d901974fc8bae3ad74c4714abc3c" datasize="10301440"/>
+		<rom name="Snoopy - The Case of the Missing Blanket (Sweden) (Track 02).bin" size="52214400" crc="7d1afcb2" md5="b21ca4b2844a73320452eda42b4b2a1e" sha1="9b3f3971827658b07bba4988cabba71c2f546a15" wavesha1="d3da826d53e7aec75cce724a54e3052d79b45b7b" offsetsha1="fea43cf87c49f22556fc3a896fe1efe0b6c9f506" offset="352800" offsetsize="51508800"/>
+	</game>
+	<game name="Team Yankee (Europe)" type="cd" sha1="6d769e14c33eecdd78ea436c2f45718878568bfd" size="324956" crc="282ad524" fullsha1="8050a55146950f32873237afb8cd814f3c21805c" datasha1="d607a7880930f237a0a95d3d697fa8698bbf0e79" rawdatasha1="845b51c3bf7ea9e0a3e94ac6af544dcab34b5f93" rawdatasize="6091680">
+		<category>Games</category>
+		<description>Team Yankee (Europe)</description>
+		<rom name="Team Yankee (Europe) (Track 01).bin" size="6091680" crc="a500bad1" md5="807ed3b870edeae21752141dcabeeb58" sha1="845b51c3bf7ea9e0a3e94ac6af544dcab34b5f93" datasha1="dbff4e4c908e91bed745ea150c5722083e3b59a6" datasize="5304320"/>
+	</game>
+	<game name="Time Table of History - Business, Politics &amp; Media - 1991a Edition (USA)" type="cd" sha1="a5ea7f869c6dc69373008bb07f2a2e0ea36b7ca6" size="102945668" crc="ec3ded8c" fullsha1="63da7a2eccc43982e0571063b6e015292995ca9b" datasha1="3879dc2af74c3fe00c049e71e3bca51855149466" rawdatasha1="97fccd3602f006cf4956209f2421afe004acc0cc" rawdatasize="182642208">
+		<category>Games</category>
+		<description>Time Table of History - Business, Politics &amp; Media - 1991a Edition (USA)</description>
+		<rom name="Time Table of History - Business, Politics &amp; Media - 1991a Edition (USA) (Track 01).bin" size="182642208" crc="e1c53227" md5="006f3f3288136cb0f1c7b3986388615d" sha1="97fccd3602f006cf4956209f2421afe004acc0cc" datasha1="35c2f0bb9ce081e1d1e2872ff1448679b23379a0" datasize="159035392"/>
+	</game>
+	<game name="Town with No Name (Europe) (En,Fr,De,Es,It,Da)" type="cd" sha1="670d402c64c7bdf6247cc76f7a1d0f7c69aec669" size="190722771" crc="c04e9f7b" fullsha1="d82b9dac18a793af5b176d0f31caa9d2138960cf" datasha1="494d1c29751fb9ecdf50161e2183ca5614f9bc1b" rawdatasha1="034acc51ac9d8909e7df1b06caa229d620dff908" rawdatasize="453317424">
 		<category>Games</category>
 		<description>Town with No Name (Europe) (En,Fr,De,Es,It,Da)</description>
-		<rom name="Town with No Name (Europe) (En,Fr,De,Es,It,Da) (Track 01).bin" size="80732400" crc="71f38f74" md5="c9819d1148d03786df01eedc6a9f2099" sha1="15e684f752c96d9f321f5a3b7458c2da8156a4d7"/>
-		<rom name="Town with No Name (Europe) (En,Fr,De,Es,It,Da) (Track 02).bin" size="208462464" crc="de9c1618" md5="77db85b690f51247e65addb6f3725e61" sha1="50904a0f15c9d64cffb72bd94be4863b0d5e07c3"/>
-		<rom name="Town with No Name (Europe) (En,Fr,De,Es,It,Da) (Track 03).bin" size="164122560" crc="58b994da" md5="c46748d1b99dad022efe924c358b38ce" sha1="2c5cd23516b908f14bc1b4ed459b2cddc0721591"/>
+		<rom name="Town with No Name (Europe) (En,Fr,De,Es,It,Da) (Track 01).bin" size="80732400" crc="71f38f74" md5="c9819d1148d03786df01eedc6a9f2099" sha1="15e684f752c96d9f321f5a3b7458c2da8156a4d7" datasha1="bc99caf2b72ff4d7d0bac60f7441d6610ca4bf6f" datasize="70297600"/>
+		<rom name="Town with No Name (Europe) (En,Fr,De,Es,It,Da) (Track 02).bin" size="208462464" crc="de9c1618" md5="77db85b690f51247e65addb6f3725e61" sha1="50904a0f15c9d64cffb72bd94be4863b0d5e07c3" wavesha1="4678d05b13808391ce78d5b015e2c58ec459959b" offsetsha1="afd2a0d03e2cf7cc37ebd23c897d5d759b4618b1" offset="1" offsetsize="207834935"/>
+		<rom name="Town with No Name (Europe) (En,Fr,De,Es,It,Da) (Track 03).bin" size="164122560" crc="58b994da" md5="c46748d1b99dad022efe924c358b38ce" sha1="2c5cd23516b908f14bc1b4ed459b2cddc0721591" wavesha1="39ed280aef4f64a5b16c08fbf27c61096d81f92a" offsetsha1="b29b946c0bd389d5e1cf3f82d796df01c4841c73" offset="1200476" offsetsize="162922084"/>
+	</game>
+	<game name="Trivial Pursuit - The CDTV Edition (Europe) (Disc 1)" type="cd" sha1="8386d8daedf799d047181847e5112f96a4e6553e" size="157591846" crc="87d5b4bf" fullsha1="adb6491aa448da224883c294d9a021d36425e91f" datasha1="808a39c7eb02fa51e47bbd0fed32269f5b09dde9" rawdatasha1="ceda26140d4ae1f7cef6763f396d9863d0a421b9" rawdatasize="270562320">
+		<category>Games</category>
+		<description>Trivial Pursuit - The CDTV Edition (Europe) (Disc 1)</description>
+		<rom name="Trivial Pursuit - The CDTV Edition (Europe) (Disc 1) (Track 01).bin" size="270562320" crc="48b01ac5" md5="5b43f79ea4f4419e77024bee6a95461a" sha1="ceda26140d4ae1f7cef6763f396d9863d0a421b9" datasha1="09ed06afbd0ea828e319696d449346ee044264c7" datasize="235591680"/>
+	</game>
+	<game name="Trivial Pursuit - The CDTV Edition (Europe) (Disc 2)" type="cd" sha1="fdb3a31cd83b521967343c36bb1dd616b48ec616" size="157632908" crc="9b4d9cfc" fullsha1="9f61d019f3d0ba4b876f880d26eed8b0c3325a9c" datasha1="e43fd26262879a8bdf4da2429ff2a03baf4e5649" rawdatasha1="d49eae1588d08a51cca075d8ab3ffe23fd5e8e21" rawdatasize="269873184">
+		<category>Games</category>
+		<description>Trivial Pursuit - The CDTV Edition (Europe) (Disc 2)</description>
+		<rom name="Trivial Pursuit - The CDTV Edition (Europe) (Disc 2) (Track 01).bin" size="269873184" crc="ee29ff98" md5="474bc93345bf2503ae2a11a1d0148966" sha1="d49eae1588d08a51cca075d8ab3ffe23fd5e8e21" datasha1="70dab0af85d08db93ddf060b2c3b4b9ee4252fd4" datasize="234991616"/>
+	</game>
+	<game name="Turrican (Germany)" type="cd" sha1="dd65310d53473c9d9d1db0dc344b94c3de6292ae" size="877557" crc="df3f3478" fullsha1="48c9423f28ed9b0bae866844c8647321612450e0" datasha1="fb16d4783307181dc87e5b2dec0de0abf3cd50e5" rawdatasha1="ccfb408204450abe929b402bbd3c0b4367376f2f" rawdatasize="20815200">
+		<category>Games</category>
+		<description>Turrican (Germany)</description>
+		<rom name="Turrican (Germany) (Track 01).bin" size="20815200" crc="d9d2a700" md5="2c5ac366851ae22038a876a0b1e8e579" sha1="ccfb408204450abe929b402bbd3c0b4367376f2f" datasha1="77858a22d6a9d0ab365ad62d338cec101fc0c356" datasize="18124800"/>
+	</game>
+	<game name="Turrican II - The Final Fight (Germany)" type="cd" sha1="f8a525d68f85fad2e9d5bd42a59fe7747abd2e30" size="1193148" crc="5f28b32e" fullsha1="940d854e943f3c0db3a61168f12b52a029056047" datasha1="b170dc8ee1d1ad15282140b7cf74aae01a55b921" rawdatasha1="715a958452c084db614447c7f3da73dadb0b46db" rawdatasize="20815200">
+		<category>Games</category>
+		<description>Turrican II - The Final Fight (Germany)</description>
+		<rom name="Turrican II - The Final Fight (Germany) (Track 01).bin" size="20815200" crc="7c2e3f0a" md5="87a97d7d2c7981b218e6ffa65f869e7b" sha1="715a958452c084db614447c7f3da73dadb0b46db" datasha1="04a19cd4133d637b353df0856ee8efda985cd5ed" datasize="18124800"/>
+	</game>
+	<game name="Welcome to CDTV Multimedia (USA)" type="cd" sha1="f48e0589805aa5e128751a0556b8997b86aeb464" size="30994243" crc="573fda26" fullsha1="797b6e6b42b7b5359bfa7b518bdf3a5b39acd6b2" datasha1="08b14e565b58d75902d2f1c56b503a59fa4be4d4" rawdatasha1="11284bb7da00456a538565484344c5a88bd82906" rawdatasize="62069280">
+		<category>Games</category>
+		<description>Welcome to CDTV Multimedia (USA)</description>
+		<rom name="Welcome to CDTV Multimedia (USA) (Track 01).bin" size="62069280" crc="d76ddb22" md5="068fe7f30136c68504fe124a2417e454" sha1="11284bb7da00456a538565484344c5a88bd82906" datasha1="8bb1aeecc63571c981d02ba2741dbebf0099adf9" datasize="54046720"/>
+	</game>
+	<game name="Will Bridge Vol. 1 - Initiation aux Encheres - Practice (France)" type="cd" sha1="7adaf8fc327ead2459339bb53c276a482ef9881c" size="12391395" crc="97b8b2d0" fullsha1="565c00a36bf7c39a0d8202280e1c6d56cf9443cf" datasha1="2f51afeea384040a7d08a6a751a3321b37a68eb1" rawdatasha1="c9a4d93361c0d5a989c2b2077879c53224eb8cac" rawdatasize="25401600">
+		<category>Games</category>
+		<description>Will Bridge Vol. 1 - Initiation aux Encheres - Practice (France)</description>
+		<rom name="Will Bridge Vol. 1 - Initiation aux Encheres - Practice (France) (Track 01).bin" size="25401600" crc="d5fb39ce" md5="1d094697cd68269ece9824d5148d9f70" sha1="c9a4d93361c0d5a989c2b2077879c53224eb8cac" datasha1="8dd31e687c46310861d34b307691fdaae7ad1df7" datasize="22118400"/>
+	</game>
+	<game name="Wrath of the Demon (USA)" type="cd" sha1="6f6475b937fa098a19c44ee0ebfbcff45e53ca93" size="2319503" crc="a1f6920a" fullsha1="8175074606c087b7c15a317a96eb65ae187ab8b5" datasha1="b94da97bd8400a085d092514d56ef78c6740d7d5" rawdatasha1="5ad8d5b13cdd5bbbe5ea03c508804888f5fa344a" rawdatasize="7756896">
+		<category>Games</category>
+		<description>Wrath of the Demon (USA)</description>
+		<rom name="Wrath of the Demon (USA) (Track 01).bin" size="7756896" crc="5397eb5c" md5="e92c37712b3bc5ab3d339a9e548e4710" sha1="5ad8d5b13cdd5bbbe5ea03c508804888f5fa344a" datasha1="3725b9889fc0e5de013538fb169b07c604635743" datasize="6754304"/>
+	</game>
+	<game name="Xenon 2 - Megablast (Europe) (En,Fr,De,It)" type="cd" sha1="213ea3bbb546dd3414735c769c532c651bc11cff" size="450757587" crc="07bc96bf" fullsha1="609c31fe3d6ff992594d07fcdb8c1b3bdbe36a4d" datasha1="606cdb2bc46ab2a2ebb822adb1df25b91051cb0a" rawdatasha1="48a174af8b0fca924a6bb920284026623427ccd1" rawdatasize="726250560">
+		<category>Games</category>
+		<description>Xenon 2 - Megablast (Europe) (En,Fr,De,It)</description>
+		<rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 01).bin" size="14123760" crc="74f0388c" md5="c6d86451da6881150267b20a9ed625ec" sha1="a1cd9d031308295f76927c660aa37e4c7ff4e9ca" datasha1="038dd3cc47bebb8210dc2fad8eb4cfe241d346de" datasize="12298240"/>
+		<rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 02).bin" size="48921600" crc="b4614563" md5="6b028111a6d69689c2d3270dacbad392" sha1="331fb27fe3b2b76c501a8e62c717b4c585b0f309" wavesha1="5cab940186aa8ed9b0b68e8dd6fb76c37f9481ee" offsetsha1="4c8e73386d7e53cd682f609309a2e7c4869b86b4" offset="1628" offsetsize="48919972"/>
+		<rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 03).bin" size="75205200" crc="defc133a" md5="c6905e204542c54bf9da039ee3a92aeb" sha1="96e8fe0c4f0d1c289a0dd5c3bdf1230853d761a1" wavesha1="fb7913eaabffaaa81e76978dca6d6ae93cf914c3" offsetsha1="5dc303b64548f6dbe314f74d657922cc3563e989" offset="0" offsetsize="75205199"/>
+		<rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 04).bin" size="65884224" crc="3ab4a0f9" md5="92dfede47d576562f67088ff9df79beb" sha1="b4719f61e460c7ff330dcf3e3f0b12a8d856ee87" wavesha1="272241ff219aa88809fa96eebd516d7c2f8c6b20" offset="0" offsetsize="65884224"/>
+		<rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 05).bin" size="56330400" crc="4b560cf8" md5="bf5a59f6577c615d58da9ad770028cd3" sha1="38e8d775b3f9b22f129ac639a8a30ee32abf03fd" wavesha1="ba725db66914a791baf41b088bec299a4832c935" offset="0" offsetsize="56330400"/>
+		<rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 06).bin" size="54860400" crc="3099b68e" md5="4bf0f3c127446a9805afd961c3099549" sha1="15346d2fde55d3e848675ef572565ff72006e504" wavesha1="f0eb40484b77232587bc7c19e068a59ce8320890" offsetsha1="49c3347b200d4c2d6eae5d50a5d4008532831fa3" offset="0" offsetsize="54860399"/>
+		<rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 07).bin" size="72500400" crc="85dc22fe" md5="e1a5ee468df29065f503797eb90e9d34" sha1="9a04ad6453825169af952619e3200e88e6389261" wavesha1="d1c6a16e4eff1ee99e8297dd5a2f1d7dda44d8c4" offset="0" offsetsize="72500400"/>
+		<rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 08).bin" size="47804400" crc="48ede2fc" md5="b6d18097c3246f9bbcd80ae12ab4106a" sha1="5d42c26eaa06509813001b5929bc6354b38472c6" wavesha1="d1a5af7f0048807e810e37d8e5152ce418e065ef" offset="0" offsetsize="47804400"/>
+		<rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 09).bin" size="59623200" crc="5ba4b786" md5="b7e7a982808837f11b785873fbd4e24f" sha1="51b7c5761e6fd28ccafb5000d1166fc2575387f4" wavesha1="d10a3b0c4f9bd63040e3d9eb9dc7e6713253afe5" offset="0" offsetsize="59623200"/>
+		<rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 10).bin" size="62974800" crc="95895ff1" md5="d2a914adc1807e51158c8decc1f4bc9b" sha1="053f4134fdf75eb2e542e07c872f08cfcbf24b43" wavesha1="59569d4df0ae942741dc6efe76403cf1f3b8762a" offset="0" offsetsize="62974800"/>
+		<rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 11).bin" size="71354976" crc="3c53724a" md5="fd45bd0e2f6bcad889a2bc7a85c271f8" sha1="888e44da5728c30202e0dc3b8c1aea546da48154" wavesha1="9ce0350bd23798cd3f5b6225e8a582344abe7b98" offsetsha1="93f22d91b725e5fafb388858fd08348ab939e555" offset="0" offsetsize="71354975"/>
+		<rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 12).bin" size="35691600" crc="3d9f5590" md5="65cc971eb2443e145e10ed40e2fc9278" sha1="de5b2de9c8dcda755213a1e086e551f6c9bb02a3" wavesha1="d81a04912f73326d893581046eb75d9471272638" offsetsha1="b738227c2c2b987e54bfbdfd7b59614e2bf66717" offset="352802" offsetsize="35338797"/>
+		<rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 13).bin" size="60975600" crc="765df8df" md5="31df16fc7429ffec552ce01f73bcf331" sha1="6e5d4fca1812beeb9276793566159fa62650e9b4" wavesha1="cfa3e50d60421a787f376ce9d27d3563a47cc69c" offsetsha1="79c199ee6601a9ad9e2af16ee97f79b3b5b07586" offset="352800" offsetsize="60622800"/>
 	</game>
 </datafile>

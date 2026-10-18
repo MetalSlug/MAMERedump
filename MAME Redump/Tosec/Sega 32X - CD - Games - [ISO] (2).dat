@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega 32X - CD - Games - [ISO]</name>
+		<description>MAME Redump - Sega 32X - CD - Games - [ISO] (TOSEC-v2022-06-08)</description>
+		<version>0.289</version>
+		<date>2026-03-09</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Corpse Killer (1994)(Digital Pictures)(US)">
+		<description>Corpse Killer (1994)(Digital Pictures)(US)</description>
+		<disk name="Corpse Killer (1994)(Digital Pictures)(US).chd" sha1="f6c1542951e1f0483aae245e707bfc9f9c791d6f" />
+	</machine>
+	<machine name="Surgical Strike (1996-01)(Sega)(BR)(en)">
+		<description>Surgical Strike (1996-01)(Sega)(BR)(en)</description>
+		<disk name="Surgical Strike (1996-01)(Sega)(BR)(en).chd" sha1="2f17f8f9731516fece7cefae52be2d90850e0058" />
+	</machine>
+</datafile>

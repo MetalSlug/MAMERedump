@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega WonderMega - CD - Educational - [ISO]</name>
+		<description>Sega WonderMega - CD - Educational - [ISO]</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Compton's Interactive Encyclopedia Rev 19940928 (1994)(Sega)(US)" type="cd" sha1="42313b292b44e985c2e272a381c5b93ffdc113e7" size="182268593" crc="bf6b9319" fullsha1="2a235e6c399bae8aca06baaa6d5e6860e74784e8" datasha1="cffcfa74365929602bcc77034421f87bb645cb2d" rawdatasha1="e8d00b7acece51bfc517b1365878dc5fd9aebbde" rawdatasize="333525296">
+		<category>Games</category>
+		<description>Compton's Interactive Encyclopedia Rev 19940928 (1994)(Sega)(US)</description>
+		<rom name="Compton's Interactive Encyclopedia Rev 19940928 (1994)(Sega)(US) (Track 01).bin" size="331114496" crc="2dfc3acf" md5="70b39c29c86dd1e749a4f3f828cf5628" sha1="a3287b85d8350088c9f2d863e64cf12fd489ece7"/>
+		<rom name="Compton's Interactive Encyclopedia Rev 19940928 (1994)(Sega)(US) (Track 02).bin" size="2410800" crc="51a9d227" md5="6c071d52c4ebeeec689a181901302470" sha1="b141dc3750f85b5824f21f0b07b0e3b59e166084" wavesha1="28744e6b1cc0e698c627d81dd02f9bae7979fe3d" rawdatasha1="44fc6790602fccfaef6ca9d78933e41397b4d314" rawdatasize="2763600" rawdatawavesha1="26f3c484cf5c1e049aa385eef63054a3afcedeb2" offsetsha1="5401918869717c0e984f36bbbb6789611987f503" offset="2492" offsetsize="2058000"/>
+	</game>
+</datafile>

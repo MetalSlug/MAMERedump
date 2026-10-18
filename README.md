@@ -94,13 +94,13 @@ Arcade - Konami - System GV|2026-07-07|2|1|985 MB|641 MB|321 MB (1)
 **Arcade - Namco - Sega - Nintendo - Triforce**|2026-07-03|22|0|24 GB|7 GB|5 GB (9)
 **Arcade - Namco - System 246**|2026-07-09|11|0|25 GB|6 GB|
 Arcade - Sega - Chihiro|2026-07-03|17|2|19 GB|11 GB|9 GB (5)
-Arcade - Sega - Lindbergh|2026-07-03|69|2|184 GB|175 GB|155 GB (10)
+Arcade - Sega - Lindbergh|2026-07-03|69|2|184 GB|175 GB|158 GB (9)
 **Arcade - Sega - Naomi 2**|2026-07-03|13|0|14 GB|3 GB|2 GB (3)
 **Arcade - Sega - Naomi**|2026-07-03|34|0|38 GB|4 GB|4 GB (5)
 Arcade - Sega - RingEdge 2|2026-07-07|34|11|153 GB|153 GB|
 Arcade - Sega - RingEdge|2026-07-08|27|27|124 GB|124 GB|
 **Arcade - TAB-Austria - Quizard**|2026-07-27|10|0|3 GB|1 GB|
-Atari - Jaguar CD Interactive Multimedia System|2026-07-03|27|11|8 GB|5 GB|4 GB (6)
+Atari - Jaguar CD Interactive Multimedia System|2026-07-03|34|4|9 GB|5 GB|5 GB (6)
 Bandai - Playdia Quick Interactive System|2026-07-03|37|1|24 GB|18 GB|
 Commodore - Amiga CD|2026-08-02|601|2|348 GB|210 GB|209 GB (3)
 **Commodore - Amiga CD32**|2026-08-02|207|0|47 GB|24 GB|24 GB (2)
@@ -116,18 +116,18 @@ Microsoft - Pocket PC|2026-07-03|80|2|15 GB|12 GB|
 ~~Microsoft - Xbox~~|2026-08-06|0|2684|||
 **NEC - PC Engine CD & TurboGrafx CD**|2026-07-27|551|0|238 GB|123 GB|104 GB (94)
 **NEC - PC-88 series**|2026-07-03|4|0|2 GB|842 MB|555 MB (1)
-NEC - PC-98 series|2026-07-31|129|10|29 GB|15 GB|15 GB (1)
+NEC - PC-98 series|2026-07-31|129|10|29 GB|15 GB|15 GB (2)
 **NEC - PC-FX**|2026-07-28|79|0|44 GB|30 GB|
 Nintendo - GameCube|2026-08-03|1982|39|2,63 TB|1,46 TB|
 Nintendo - Wii|2026-08-04|3719|62|16,02 TB|5,78 TB|
 Palm OS|2026-08-05|159|2|19 GB|14 GB|
-Philips - CD-i|2026-08-04|2414|14|1,20 TB|728 GB|705 GB (93)
-Photo CD|2026-07-28|250|33|98 GB|47 GB|47 GB (7)
-Sega - Dreamcast|2026-08-05|1506|12|1,58 TB|608 GB|556 GB (220)
+Philips - CD-i|2026-08-04|2414|14|1,20 TB|728 GB|703 GB (100)
+Photo CD|2026-07-28|250|33|98 GB|47 GB|47 GB (8)
+Sega - Dreamcast|2026-08-05|1517|1|1,59 TB|613 GB|561 GB (220)
 **Sega - Mega-CD - Sega CD**|2026-08-04|549|0|237 GB|127 GB|
 **Sega - Prologue 21 Multimedia Karaoke System**|2026-08-02|30|0|19 GB|17 GB|
 Sega - Saturn|2026-08-05|2446|18|1 TB|613 GB|
-Sharp - X68000|2026-07-03|30|2|12 GB|6 GB|
+Sharp - X68000|2026-07-03|29|3|12 GB|6 GB|
 **SNK - Neo Geo CD**|2026-07-24|111|0|60 GB|31 GB|28 GB (8)
 Sony - PlayStation 2|2026-08-05|11735|89|25,42 TB|15,34 TB|9,72 TB (4861)
 *Sony - PlayStation 3 (Decrypted)*|2026-03-16|298|4183|2,29 TB|1,97 TB|1,09 TB (183)
@@ -137,7 +137,7 @@ Sony - PlayStation|2026-08-06|10896|66|4,58 TB|2,55 TB|
 VM Labs - NUON|2026-07-03|9|2|12 GB|8 GB|
 **VTech - V.Flash & V.Smile Pro**|2026-07-03|51|0|23 GB|9 GB|
 **ZAPiT Games - Game Wave Family Entertainment System**|2026-07-03|17|0|53 GB|50 GB|
-Total||98415|18026|125,56 TB|89,44 TB|82,75 TB (5677)
+Total||98432|18009|125,57 TB|89,45 TB|82,75 TB (5685)
 
 
 |MAME|Exclusive|Matched|Exclusive Size|Matched Size|
@@ -145,26 +145,26 @@ Total||98415|18026|125,56 TB|89,44 TB|82,75 TB (5677)
 ~3DO Interactive Multiplayer~|0|5||2 GB
 Apple - Macintosh|20|0|3 GB|
 **Apple - Pippin**|61|30|14 GB|6 GB
-**Commodore - Amiga CD**|3|19|936 MB|4 GB
+**Commodore - Amiga CD**|1|21|16 MB|5 GB
 **Commodore - Amiga CD32**|6|126|993 MB|11 GB
-**Commodore - Amiga CDTV**|24|108|4 GB|11 GB
+**Commodore - Amiga CDTV**|20|112|4 GB|11 GB
 **Fujitsu - FM Towns series**|25|944|6 GB|137 GB
-**IBM - PC compatible**|313|303|62 GB|62 GB
-**NEC - PC Engine CD & TurboGrafx CD**|483|21|103 GB|4 GB
+**IBM - PC compatible**|308|308|61 GB|63 GB
+**NEC - PC Engine CD & TurboGrafx CD**|481|23|103 GB|4 GB
 ~NEC - PC-88 series~|0|4||842 MB
-**NEC - PC-98 series**|116|177|24 GB|26 GB
+**NEC - PC-98 series**|115|178|24 GB|26 GB
 **NEC - PC-FX**|1|15|5 MB|5 GB
 **Philips - CD-i**|10|681|2 GB|170 GB
 ~Photo CD~|0|2||363 MB
-**Sega - Dreamcast**|46|689|16 GB|290 GB
-**Sega - Mega-CD - Sega CD**|24|522|5 GB|117 GB
-**Sega - Saturn**|2026|518|508 GB|138 GB
+**Sega - Dreamcast**|42|693|14 GB|292 GB
+**Sega - Mega-CD - Sega CD**|22|524|5 GB|117 GB
+**Sega - Saturn**|1350|1194|339 GB|308 GB
 **SNK - Neo Geo CD**|3|107|445 MB|29 GB
-**Sony - PlayStation**|799|2303|180 GB|581 GB
+**Sony - PlayStation**|609|2493|139 GB|622 GB
 ~Tomy - Kiss-Site~|0|30||3 GB
 ~VM Labs - NUON~|0|8||6 GB
 ~VTech - V.Flash & V.Smile Pro~|0|33||6 GB
-Total|3960|6645|930 GB|1,57 TB
+Total|3074|7531|715 GB|1,78 TB
 
 
 |TOSEC ISO|Missing|Exclusive|Matched|Exclusive Size|Matched Size|
@@ -181,26 +181,26 @@ Arcade - Sega - Naomi 2|0|17|0|4 GB|
 Arcade - Sega - Naomi|0|48|0|6 GB|
 Atari - Jaguar CD Interactive Multimedia System|16|14|0|3 GB|
 **Bandai - Playdia Quick Interactive System**|0|22|17|11 GB|9 GB
-**Commodore - Amiga CD**|108|755|4|247 GB|2 GB
-**Commodore - Amiga CD32**|7|572|8|49 GB|172 MB
-**Commodore - Amiga CDTV**|3|207|9|26 GB|1 GB
+**Commodore - Amiga CD**|69|397|401|116 GB|155 GB
+**Commodore - Amiga CD32**|7|496|84|46 GB|3 GB
+**Commodore - Amiga CDTV**|3|168|48|20 GB|7 GB
 **Fujitsu - FM Towns series**|0|28|2|5 GB|49 MB
-**IBM - PC compatible**|1496|130|336|35 GB|635 GB
+**IBM - PC compatible**|1487|127|348|34 GB|638 GB
 ~Mattel - HyperScan~|0|0|7||396 MB
-Memorex - Visual Information System|0|67|0|8 GB|
+**Memorex - Visual Information System**|0|19|48|2 GB|6 GB
 **NEC - PC Engine CD & TurboGrafx CD**|2|432|4|95 GB|1 GB
 **NEC - PC-FX**|4|70|1|25 GB|408 MB
 **Nintendo - GameCube**|0|83|500|74 GB|680 GB
-**Philips - CD-i**|6|113|553|30 GB|137 GB
-Sega - Dreamcast|476|1723|0|714 GB|
-**Sega - Mega-CD - Sega CD**|3|935|11|207 GB|2 GB
-**Sega - Saturn**|10|566|26|148 GB|8 GB
-**SNK - Neo Geo CD**|7|258|2|77 GB|3 MB
+**Philips - CD-i**|6|79|587|23 GB|143 GB
+**Sega - Dreamcast**|476|820|903|328 GB|386 GB
+**Sega - Mega-CD - Sega CD**|3|675|271|147 GB|63 GB
+**Sega - Saturn**|10|324|268|82 GB|73 GB
+**SNK - Neo Geo CD**|7|257|3|77 GB|4 MB
 **Sony - PlayStation 2**|124|21|329|3 GB|1,04 TB
 **Sony - PlayStation Portable**|341|24|421|5 GB|157 GB
-**Sony - PlayStation**|136|67|56|8 GB|17 GB
+**Sony - PlayStation**|136|66|57|8 GB|17 GB
 Tomy - Kiss-Site|0|19|0|2 GB|
 ~VM Labs - NUON~|0|0|4||3 GB
 ~VTech - V.Flash & V.Smile Pro~|0|0|9||2 GB
 ~ZAPiT Games - Game Wave Family Entertainment System~|0|0|15||46 GB
-Total|2769|6894|2353|1,96 TB|2,71 TB
+Total|2721|4929|4366|1,31 TB|3,38 TB

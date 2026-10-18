@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Philips CD-i - Homebrew - Demos</name>
+		<description>Philips CD-i - Homebrew - Demos</description>
+		<version>0.281</version>
+		<date>2024-03-22</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Mode 7 Demo (2008-01-06)(RasterSoft)" type="cd" sha1="c4b5823de80b066ec2936f5eafb7c87920c6b279" size="48222" crc="6b7547b7" fullsha1="17fc1626fb48370c5da756cd4638628c5f9d84e7" datasha1="bb58164e50c9c0a15f75874a20bddf8889c24f5e" rawdatasha1="cae71cb491965679971d1c40e9e5849e9da0c0e3" rawdatasize="5468400">
+		<category>Games</category>
+		<description>Mode 7 Demo (2008-01-06)(RasterSoft)</description>
+		<rom name="Mode 7 Demo (2008-01-06)(RasterSoft) (Track 01).bin" size="5468400" crc="aa04e674" md5="4827789c3e7e31be94adf5b6e8dfd431" sha1="cae71cb491965679971d1c40e9e5849e9da0c0e3" datasha1="d0b0c08843927f3ab6413762cf642c98328fe683" datasize="128040"/>
+	</game>
+</datafile>

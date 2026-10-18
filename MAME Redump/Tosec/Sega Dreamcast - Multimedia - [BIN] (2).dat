@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Multimedia - [BIN]</name>
+		<description>MAME Redump - Sega Dreamcast - Multimedia - [BIN] (TOSEC-v2024-11-03)</description>
+		<version>0.289</version>
+		<date>2026-03-09</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Virtua Fighter History - VF4 v1.001 (2001)(Sega)(JP)[!][2M1][Shenmue II, HDR-0179]">
+		<description>Virtua Fighter History - VF4 v1.001 (2001)(Sega)(JP)[!][2M1][Shenmue II, HDR-0179]</description>
+		<disk name="Virtua Fighter History - VF4 v1.001 (2001)(Sega)(JP)[!][2M1][Shenmue II, HDR-0179].chd" sha1="c53743cb641cc7b4987f30b168528f35340e6b37" />
+	</machine>
+	<machine name="Virtua Fighter History - VF4 v1.001 (2001)(Sega)(JP)[!][HL802F][Shenmue II, HDR-0179]">
+		<description>Virtua Fighter History - VF4 v1.001 (2001)(Sega)(JP)[!][HL802F][Shenmue II, HDR-0179]</description>
+		<disk name="Virtua Fighter History - VF4 v1.001 (2001)(Sega)(JP)[!][HL802F][Shenmue II, HDR-0179].chd" sha1="f9852616719b6728f70c6a635847251c5206d9a9" />
+	</machine>
+</datafile>

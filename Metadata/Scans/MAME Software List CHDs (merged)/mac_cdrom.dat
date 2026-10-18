@@ -16,9 +16,11 @@
 		<manufacturer>Apple</manufacturer>
 		<rom name="aplegrec (Track 01).bin" size="679405568" crc="c15bca41" md5="4354f0fc58dffdec6e4bd425a514e720" sha1="09ed9d16842b27482ee3f800cd17affa484c1049"/>
 	</game>
-	<game name="bluebox\blue box" type="cd" sha1="cf127d1410657482bd3fff57f26f7d459ec342ce" size="26922841" crc="e2ada43c" fullsha1="bc94536ff8ac3ed701bd5e5ad5e96fa846adc481" datasha1="6ef8eea1e39b61ae6ba4e8ea303e02ba686b7796">
+	<game name="bluebox\blue box" type="cd" sha1="cf127d1410657482bd3fff57f26f7d459ec342ce" size="26922841" crc="e2ada43c" fullsha1="bc94536ff8ac3ed701bd5e5ad5e96fa846adc481" datasha1="6ef8eea1e39b61ae6ba4e8ea303e02ba686b7796" rawdatasha1="1a33ed5037df8ecb53090d90737c1d9129f620f6" rawdatasize="32077824">
 		<category>Games</category>
-		<description>bluebox\blue box</description>
+		<description>Rhapsody Blue Box (Developer Release)</description>
+		<year>1997</year>
+		<manufacturer>Apple</manufacturer>
 		<rom name="blue box (Track 01).bin" size="32077824" crc="f5853792" md5="a6b5f3f355df3ef3ef4e5ab57d0877bd" sha1="1a33ed5037df8ecb53090d90737c1d9129f620f6"/>
 	</game>
 	<game name="chexquest\chex quest" type="cd" sha1="06fe7303b628e58a33f0de06ed1c2a5ba16e277e" size="217426853" crc="c3649c60" fullsha1="c90476cc54dfee86bf358c2eb06091ac5859d63a" datasha1="f1cc181f45e17df53e788f7b442e002102e372a6" rawdatasha1="876e6690e1e269c4a909db6d667a18fccd73f2a1" rawdatasize="283723776">
@@ -75,7 +77,7 @@
 		<description>System Software 7.5 (US English)</description>
 		<year>1994</year>
 		<manufacturer>Apple</manufacturer>
-		<rom name="mac75 (Track 01).bin" size="120775200" crc="b8e792e4" md5="6b46a40a89b88f0d58fdbbd7065fc9b7" sha1="1c50141008b378d48b60d92e6577188ad6f40245"/>
+		<rom name="mac75 (Track 01).bin" size="120775200" crc="b8e792e4" md5="6b46a40a89b88f0d58fdbbd7065fc9b7" sha1="1c50141008b378d48b60d92e6577188ad6f40245" datasha1="dc625997fdd484d2acbea1338d982717ee2c7ba2" datasize="105164800"/>
 	</game>
 	<game name="mac761\mac761" type="cd" sha1="a68657f5f749175ea810d10f80b9b892c01ec00e" size="140121302" crc="8afd0a18" fullsha1="ce0c2c7810be05a033c80cdf36bae0e5a5b3d22a" datasha1="b134d68c0e0df1cd3fa648f08feaffc9b988f6d2" rawdatasha1="13b23a5e87776c8ebb85ffd4bda890091d05fea0" rawdatasize="278183936">
 		<category>Games</category>
@@ -126,14 +128,18 @@
 		<manufacturer>Apple</manufacturer>
 		<rom name="pwrmaccd (Track 01).bin" size="380176384" crc="43da0906" md5="ef17bc5b097a6318f7b61a0b0126f57a" sha1="ab6c240e6c3f232d7debf2297c511e1d88d2a3fb"/>
 	</game>
-	<game name="rhapsody1\rhapsody dr1" type="cd" sha1="eb6655667af70f76475f2f74f8c4260a7f9a98b4" size="206921044" crc="4ec2ac5c" fullsha1="612d8c65b1bd50fc38de7929bad328a901ed9dde" datasha1="56ba86a64048e4ced9683ef5dc7448c085f6421f">
+	<game name="rhapsody1\rhapsody dr1" type="cd" sha1="eb6655667af70f76475f2f74f8c4260a7f9a98b4" size="206921044" crc="4ec2ac5c" fullsha1="612d8c65b1bd50fc38de7929bad328a901ed9dde" datasha1="56ba86a64048e4ced9683ef5dc7448c085f6421f" rawdatasha1="97755e01bfa5805a5bd44a4565493e9b6666d8ec" rawdatasize="682446848">
 		<category>Games</category>
-		<description>rhapsody1\rhapsody dr1</description>
+		<description>Rhapsody (Developer Release 1)</description>
+		<year>1997</year>
+		<manufacturer>Apple</manufacturer>
 		<rom name="rhapsody dr1 (Track 01).bin" size="682446848" crc="3cc5121e" md5="c6b1f9041f663f9e96a4ca8f34712b8b" sha1="97755e01bfa5805a5bd44a4565493e9b6666d8ec"/>
 	</game>
-	<game name="rhapsody\rhapsody dr2" type="cd" sha1="9d46e728a792ae26a8cde8be50323aeaad57b1b9" size="257241312" crc="59267a4e" fullsha1="9e23371dc7c2594e571522774da44647d83dd036" datasha1="b14448d0a07409afd5d4e824ea62020bcbf5e09a">
+	<game name="rhapsody\rhapsody dr2" type="cd" sha1="9d46e728a792ae26a8cde8be50323aeaad57b1b9" size="257241312" crc="59267a4e" fullsha1="9e23371dc7c2594e571522774da44647d83dd036" datasha1="b14448d0a07409afd5d4e824ea62020bcbf5e09a" rawdatasha1="857a865cf6b6b66a3b1cbc434e7218d6effda58d" rawdatasize="678135808">
 		<category>Games</category>
-		<description>rhapsody\rhapsody dr2</description>
+		<description>Rhapsody (Developer Release 2)</description>
+		<year>1998</year>
+		<manufacturer>Apple</manufacturer>
 		<rom name="rhapsody dr2 (Track 01).bin" size="678135808" crc="197512f0" md5="557e18f3c9f107418e49cd7248401135" sha1="857a865cf6b6b66a3b1cbc434e7218d6effda58d"/>
 	</game>
 	<game name="ultdoom\ultimate doom" type="cd" sha1="e7a1f4a94df6d60f6853ae3683e0c27375469d56" size="20722008" crc="313e7789" fullsha1="145cbe5e43e7d4eb223602e7be6009e09c051f94" datasha1="2f9fc3e2a51194352ea43044ff55487fbc79401b" rawdatasha1="d1898d33b66fe61564754547b230332baaccf1e3" rawdatasize="42563584">

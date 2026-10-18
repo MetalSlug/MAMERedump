@@ -18,7 +18,9 @@
 	</machine>
 	<machine name="bluebox\blue box">
 		<category>Games</category>
-		<description>bluebox\blue box</description>
+		<description>Rhapsody Blue Box (Developer Release)</description>
+		<year>1997</year>
+		<manufacturer>Apple</manufacturer>
 		<disk name="bluebox\blue box.chd" sha1="bc94536ff8ac3ed701bd5e5ad5e96fa846adc481" />
 	</machine>
 	<machine name="chexquest\chex quest">
@@ -128,12 +130,16 @@
 	</machine>
 	<machine name="rhapsody\rhapsody dr2">
 		<category>Games</category>
-		<description>rhapsody\rhapsody dr2</description>
+		<description>Rhapsody (Developer Release 2)</description>
+		<year>1998</year>
+		<manufacturer>Apple</manufacturer>
 		<disk name="rhapsody\rhapsody dr2.chd" sha1="9e23371dc7c2594e571522774da44647d83dd036" />
 	</machine>
 	<machine name="rhapsody1\rhapsody dr1">
 		<category>Games</category>
-		<description>rhapsody1\rhapsody dr1</description>
+		<description>Rhapsody (Developer Release 1)</description>
+		<year>1997</year>
+		<manufacturer>Apple</manufacturer>
 		<disk name="rhapsody1\rhapsody dr1.chd" sha1="612d8c65b1bd50fc38de7929bad328a901ed9dde" />
 	</machine>
 	<machine name="ultdoom\ultimate doom">

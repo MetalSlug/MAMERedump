@@ -579,10 +579,10 @@
 		<description>Kodak Photo CD Access Plus Software &amp; Photo Sampler II (USA, Japan)</description>
 		<disk name="Kodak Photo CD Access Plus Software &amp; Photo Sampler II (USA, Japan).chd" sha1="9bfaf7a67bd9d6e560cb688527983ace7f853fb6" />
 	</machine>
-	<machine name="Kodak Photo CD Access Software &amp; Photo Sampler (USA)">
+	<machine name="Kodak Photo CD Access Software &amp; Photo Sampler (USA)" cloneof="Kodak Photo CD Access Software &amp; Photo Sampler (USA)">
 		<category>Applications</category>
 		<description>Kodak Photo CD Access Software &amp; Photo Sampler (USA)</description>
-		<disk name="Kodak Photo CD Access Software &amp; Photo Sampler (USA).chd" sha1="03070ee0667779223bde06185ac156bac9356bed" />
+		<disk name="Kodak Photo CD Access Software &amp; Photo Sampler (USA).delta.chd" sha1="03070ee0667779223bde06185ac156bac9356bed" />
 	</machine>
 	<machine name="Kodak Photo CD Access Software &amp; Photo Sampler (USA) (OEM)" cloneof="Kodak Photo CD Access Software &amp; Photo Sampler (USA)">
 		<category>Applications</category>
