@@ -158,13 +158,13 @@ Apple - Macintosh|20|0|3 GB|
 ~Photo CD~|0|2||363 MB
 **Sega - Dreamcast**|42|693|14 GB|292 GB
 **Sega - Mega-CD - Sega CD**|22|524|5 GB|117 GB
-**Sega - Saturn**|1350|1194|339 GB|308 GB
+**Sega - Saturn**|1342|1194|338 GB|308 GB
 **SNK - Neo Geo CD**|3|107|445 MB|29 GB
-**Sony - PlayStation**|609|2493|139 GB|622 GB
+**Sony - PlayStation**|605|2548|137 GB|633 GB
 ~Tomy - Kiss-Site~|0|30||3 GB
 ~VM Labs - NUON~|0|8||6 GB
 ~VTech - V.Flash & V.Smile Pro~|0|33||6 GB
-Total|3074|7531|715 GB|1,78 TB
+Total|3062|7586|711 GB|1,79 TB
 
 
 |TOSEC ISO|Missing|Exclusive|Matched|Exclusive Size|Matched Size|

@@ -625,13 +625,6 @@
 		<manufacturer>Activision</manufacturer>
 		<disk name="blastchm\blast chamber v1.000 (1996)(activision)(pal).chd" sha1="48995a77249c2ac77d6ac6d8efa7d46697f9a810" />
 	</machine>
-	<machine name="blastwnd\blast wind (japan) (iso-mp3 sourced)">
-		<category>Games</category>
-		<description>Blast Wind (Japan)</description>
-		<year>1997</year>
-		<manufacturer>Technosoft</manufacturer>
-		<disk name="blastwnd\blast wind (japan) (iso-mp3 sourced).chd" sha1="71d6ebd576bedf29191537a4e1b37ad9b86b5c6f" />
-	</machine>
 	<machine name="blazdrag\0694-blazing_dragons-fre">
 		<category>Games</category>
 		<description>Blazing Dragons (France)</description>
@@ -1086,13 +1079,6 @@
 		<year>1997</year>
 		<manufacturer>Acclaim Japan</manufacturer>
 		<disk name="crow\the crow - city of angels (t-8123g).chd" sha1="207b91c9667f6eb6c5033ebdaca404d794405060" />
-	</machine>
-	<machine name="crows\crows the battle action for sega saturn (j)(saturn) (iso-mp3 sourced)">
-		<category>Games</category>
-		<description>Crows The Battle Action for Sega Saturn (Japan)</description>
-		<year>1997</year>
-		<manufacturer>Athena</manufacturer>
-		<disk name="crows\crows the battle action for sega saturn (j)(saturn) (iso-mp3 sourced).chd" sha1="f21edf6473eebe4ddc9cf36fd71571f385180c44" />
 	</machine>
 	<machine name="crshock\sat-0757-creature_shock-usa-cd1">
 		<category>Games</category>
@@ -2248,13 +2234,6 @@
 		<year>1996</year>
 		<manufacturer>Human</manufacturer>
 		<disk name="fpw6men\fire prowrestling s ~6men scramble~ (jpn) (dw0476).chd" sha1="bcec43c3a39be0320d5d3fded1f4c4cf90eb3822" />
-	</machine>
-	<machine name="fromanc2\idol mahjong final romance 2 (japan) [t-16702g] (iso-mp3 sourced)">
-		<category>Games</category>
-		<description>Idol Mahjong Final Romance 2 (Japan)</description>
-		<year>1995</year>
-		<manufacturer>ASK Kodansha</manufacturer>
-		<disk name="fromanc2\idol mahjong final romance 2 (japan) [t-16702g] (iso-mp3 sourced).chd" sha1="256b1b0e55ecfbc79e5b99e3e6c72e1b71924679" />
 	</machine>
 	<machine name="fromanc4\idol maajan final romance 4 (t-3003g)">
 		<category>Games</category>
@@ -5518,13 +5497,6 @@
 		<manufacturer>Datam Polystar</manufacturer>
 		<disk name="pitgraph\shichu suimei pitagraph (t-19501g).chd" sha1="c01c4cad1a2cdee7b0f4695732b820b2550fb8f0" />
 	</machine>
-	<machine name="planetjk\planet joker (iso-mp3 sourced)">
-		<category>Games</category>
-		<description>Planet Joker (Japan)</description>
-		<year>1997</year>
-		<manufacturer>Naxat Soft</manufacturer>
-		<disk name="planetjk\planet joker (iso-mp3 sourced).chd" sha1="c51258512857eea7daeadf75a726d71947876043" />
-	</machine>
 	<machine name="powyak95\jikkyou pawerful puroyakyu '95 (j) (t-9502g)">
 		<category>Games</category>
 		<description>Jikkyou Pawafuru Puro Yakyū '95 Kaimaku-ban (Japan)</description>
@@ -5588,6 +5560,18 @@
 		<manufacturer>Micro Cabin</manufacturer>
 		<disk name="prinmak2\princess maker 2 (satakore) (t-5203g).chd" sha1="06d9684c6a2a20ba069fcd7bbe9233148bc0d669" />
 	</machine>
+	<machine name="prizefhe\prize fighter - heavyweight edition (japan) (proto) (1996-04-18) (disc 1)">
+		<category>Games</category>
+		<description>prizefhej\prize fighter - heavyweight edition (japan) (proto) (1996-04-18) (disc 1)</description>
+		<disk name="prizefhe\prize fighter - heavyweight edition (japan) (proto) (1996-04-18) (disc 1).chd" sha1="04c2357ab28a1842e3c7e9942fd1eb9e233da372" />
+	</machine>
+	<machine name="prizefhe\prize fighter - heavyweight edition (japan) (proto) (1996-04-18) (disc 2)">
+		<category>Games</category>
+		<description>Prize Fighter: Heavyweight Edition (Japan, prototype 19960418)</description>
+		<year>1996</year>
+		<manufacturer>Digital Pictures</manufacturer>
+		<disk name="prizefhe\prize fighter - heavyweight edition (japan) (proto) (1996-04-18) (disc 2).chd" sha1="fe5d98f370b0cd1385c121b1a04935a41bd15397" />
+	</machine>
 	<machine name="prizefhe\prize fighter - heavyweight edition (usa) (proto) (1996-03-25) (disc 1)">
 		<category>Games</category>
 		<description>prizefhe\prize fighter - heavyweight edition (usa) (proto) (1996-03-25) (disc 1)</description>
@@ -5599,18 +5583,6 @@
 		<year>1996</year>
 		<manufacturer>Digital Pictures</manufacturer>
 		<disk name="prizefhe\prize fighter - heavyweight edition (usa) (proto) (1996-03-25) (disc 2).chd" sha1="7ba5aeb6934f4d2c0d964096670e564fe8efe6d7" />
-	</machine>
-	<machine name="prizefhej\prize fighter - heavyweight edition (japan) (proto) (1996-04-18) (disc 1)">
-		<category>Games</category>
-		<description>prizefhej\prize fighter - heavyweight edition (japan) (proto) (1996-04-18) (disc 1)</description>
-		<disk name="prizefhej\prize fighter - heavyweight edition (japan) (proto) (1996-04-18) (disc 1).chd" sha1="04c2357ab28a1842e3c7e9942fd1eb9e233da372" />
-	</machine>
-	<machine name="prizefhej\prize fighter - heavyweight edition (japan) (proto) (1996-04-18) (disc 2)">
-		<category>Games</category>
-		<description>Prize Fighter: Heavyweight Edition (Japan, prototype 19960418)</description>
-		<year>1996</year>
-		<manufacturer>Digital Pictures</manufacturer>
-		<disk name="prizefhej\prize fighter - heavyweight edition (japan) (proto) (1996-04-18) (disc 2).chd" sha1="fe5d98f370b0cd1385c121b1a04935a41bd15397" />
 	</machine>
 	<machine name="propin\pro pinball - the web (e)">
 		<category>Games</category>
@@ -6312,13 +6284,6 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="scorcher\scorcher (u) (81214).chd" sha1="c75a678d18144181292b59b7255f0185276fedc4" />
 	</machine>
-	<machine name="scouncil\sokkou seitokai sonic council (japan) [t-20611g] (iso-mp3 sourced)">
-		<category>Games</category>
-		<description>Sokkou Seitokai - Sonic Council (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Banpresto</manufacturer>
-		<disk name="scouncil\sokkou seitokai sonic council (japan) [t-20611g] (iso-mp3 sourced).chd" sha1="f78cf1d053d6af844fb3a2f0624220769f685e82" />
-	</machine>
 	<machine name="scud\scud_-_sega_saturn_t-30403h">
 		<category>Games</category>
 		<description>Scud - The Disposable Assassin (USA)</description>
@@ -6886,13 +6851,6 @@
 		<manufacturer>ASCII</manufacturer>
 		<disk name="skgkodo\shin kaitei gunkan - koutetsu no kodoku (t-2105g).chd" sha1="edfb01ec1d2cf158a7128d1f85a4f68beb61fabf" />
 	</machine>
-	<machine name="skullfan\skull fang - kuuga gaiden (japan) (iso-mp3 sourced)">
-		<category>Games</category>
-		<description>Skull Fang - Kuuga Gaiden (Japan)</description>
-		<year>1997</year>
-		<manufacturer>Data East</manufacturer>
-		<disk name="skullfan\skull fang - kuuga gaiden (japan) (iso-mp3 sourced).chd" sha1="910cab707fad508554b26bb51a40a6d452e88063" />
-	</machine>
 	<machine name="skurupa\shingata kururin pa (japan)">
 		<category>Games</category>
 		<description>Shingata Kururin Pa! (Japan)</description>
@@ -7025,13 +6983,6 @@
 		<year>1997</year>
 		<manufacturer>Sega</manufacturer>
 		<disk name="sonicr\sonic_r_usa.chd" sha1="2845105d05f4a3c9a641ce277f5f62dc5e70c442" />
-	</machine>
-	<machine name="sonicwin\sonic wings special (japan) (iso-mp3 sourced)">
-		<category>Games</category>
-		<description>Sonic Wings Special (Japan)</description>
-		<year>1996</year>
-		<manufacturer>Media Quest</manufacturer>
-		<disk name="sonicwin\sonic wings special (japan) (iso-mp3 sourced).chd" sha1="777ca728c3e04413c859b1afc51e5dcc0e1416bf" />
 	</machine>
 	<machine name="sorvice\sorvice (j) (t-16609g)">
 		<category>Games</category>
@@ -8629,13 +8580,6 @@
 		<manufacturer>Hudson</manufacturer>
 		<disk name="virus\virus disc 3 (j) (t-14304g).chd" sha1="659f5bcf53351027234d5c053699a7ce74148406" />
 	</machine>
-	<machine name="vkyoute2\virtual kyoutei 2 (japan) [t-7104g] (iso-mp3 sourced)">
-		<category>Games</category>
-		<description>Virtual Kyoutei 2 (Japan)</description>
-		<year>1997</year>
-		<manufacturer>Nihon Bussan</manufacturer>
-		<disk name="vkyoute2\virtual kyoutei 2 (japan) [t-7104g] (iso-mp3 sourced).chd" sha1="757d6c4afa0ea1c7db2522c17c5a1073944ad5a9" />
-	</machine>
 	<machine name="vmahjong\my fair lady virtual maajan 2 disc 1 (t-2207g)">
 		<category>Games</category>
 		<description>Virtual Mahjong (Japan)</description>
@@ -8916,19 +8860,19 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="wingarms\wing arms hibaihin (jpn) (dw0891).chd" sha1="0821cfe5b4b7217915b3b7120c16d2e644de735a" />
 	</machine>
-	<machine name="winpost\winning post 2 (j) (t-7612g)">
-		<category>Games</category>
-		<description>Winning Post 2 (Japan, alt)</description>
-		<year>1996</year>
-		<manufacturer>Koei</manufacturer>
-		<disk name="winpost\winning post 2 (j) (t-7612g).chd" sha1="2b9ac0225673208f17934ddd6e53f33dd0073677" />
-	</machine>
 	<machine name="winpost\winningpost">
 		<category>Games</category>
 		<description>Winning Post (USA)</description>
 		<year>1996</year>
 		<manufacturer>Koei</manufacturer>
 		<disk name="winpost\winningpost.chd" sha1="ecd99f080e331ca3359747d4aec001e4e1cab3e8" />
+	</machine>
+	<machine name="winpost2\winning post 2 (j) (t-7612g)">
+		<category>Games</category>
+		<description>Winning Post 2 (Japan, alt)</description>
+		<year>1996</year>
+		<manufacturer>Koei</manufacturer>
+		<disk name="winpost2\winning post 2 (j) (t-7612g).chd" sha1="2b9ac0225673208f17934ddd6e53f33dd0073677" />
 	</machine>
 	<machine name="winpost3\winning post 3 (t-7660g)">
 		<category>Games</category>

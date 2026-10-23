@@ -1225,15 +1225,15 @@
 		<manufacturer>Ubi Soft</manufacturer>
 		<disk name="rayman\rayman.chd" sha1="7e2eeda69210a4d862f3f3b29c8b984d4aa443fd" />
 	</machine>
+	<machine name="rhapsody\rhapsody dr1">
+		<category>Games</category>
+		<description>rhapsody1\rhapsody dr1</description>
+		<disk name="rhapsody\rhapsody dr1.chd" sha1="0b4185d3dc509a0055f3cf18b8183242eafb9d13" />
+	</machine>
 	<machine name="rhapsody\rhapsody dr2">
 		<category>Games</category>
 		<description>rhapsody\rhapsody dr2</description>
 		<disk name="rhapsody\rhapsody dr2.chd" sha1="ef2d6aee8f2f148832328d74532e62f8c5abaee3" />
-	</machine>
-	<machine name="rhapsody1\rhapsody dr1">
-		<category>Games</category>
-		<description>rhapsody1\rhapsody dr1</description>
-		<disk name="rhapsody1\rhapsody dr1.chd" sha1="0b4185d3dc509a0055f3cf18b8183242eafb9d13" />
 	</machine>
 	<machine name="rise2dc\rise 2 resurrection - director's cut (disc 1)">
 		<category>Games</category>
@@ -1725,19 +1725,19 @@
 		<manufacturer>Millenium Interactive / Efecto Caos / Starhill Productions</manufacturer>
 		<disk name="wpressure\wpressure.chd" sha1="77b464665b1d827551a3bcd09b4f32c7cb621d17" />
 	</machine>
+	<machine name="yellowbox\rhapsody yellow box dr1">
+		<category>Games</category>
+		<description>Rhapsody Yellow Box (Developer Release 1)</description>
+		<year>1997</year>
+		<manufacturer>Apple</manufacturer>
+		<disk name="yellowbox\rhapsody yellow box dr1.chd" sha1="92d0b880f77f5b22f6869fac52b5a88d472d2a7f" />
+	</machine>
 	<machine name="yellowbox\rhapsody yellow box dr2">
 		<category>Games</category>
 		<description>Rhapsody Yellow Box (Developer Release 2)</description>
 		<year>1998</year>
 		<manufacturer>Apple</manufacturer>
 		<disk name="yellowbox\rhapsody yellow box dr2.chd" sha1="578d4ab9febb23c07b8440e982280f6e8757a59b" />
-	</machine>
-	<machine name="yellowbox1\rhapsody yellow box dr1">
-		<category>Games</category>
-		<description>Rhapsody Yellow Box (Developer Release 1)</description>
-		<year>1997</year>
-		<manufacturer>Apple</manufacturer>
-		<disk name="yellowbox1\rhapsody yellow box dr1.chd" sha1="92d0b880f77f5b22f6869fac52b5a88d472d2a7f" />
 	</machine>
 	<machine name="zombiewrj\zwgam01">
 		<category>Games</category>

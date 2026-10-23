@@ -30,13 +30,6 @@
 		<manufacturer>Nihon Telenet</manufacturer>
 		<disk name="adlibouj\ad lib ouji... to fuyukai na nakamatachi (japan) [slps-03510].chd" sha1="1a071e3839c999ad9ddd83ae839c8a3ca455f069" />
 	</machine>
-	<machine name="advanrac\advan racing (japan) [slps-01689]">
-		<category>Games</category>
-		<description>Advan Racing (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Atlus</manufacturer>
-		<disk name="advanrac\advan racing (japan) [slps-01689].chd" sha1="ae93c0219fabea01919f55592fb0aa766b24adf3" />
-	</machine>
 	<machine name="afragean\afraid gear another (japan) [slpm-86834]">
 		<category>Games</category>
 		<description>Afraid Gear Another (Japan)</description>
@@ -106,27 +99,6 @@
 		<year>2001</year>
 		<manufacturer>Victor Interactive Software</manufacturer>
 		<disk name="akagawaj\akagawa jirou - yasoukyoku 2 (japan) [slps-03213].chd" sha1="44bc92a6940ea13c13ab522f161cbf8686b23137" />
-	</machine>
-	<machine name="alive\alive (japan) (disc 1) [slps-01527]">
-		<category>Games</category>
-		<description>Alive (Japan)</description>
-		<year>1998</year>
-		<manufacturer>Entertainment</manufacturer>
-		<disk name="alive\alive (japan) (disc 1) [slps-01527].chd" sha1="ecde2e9acaea18ca70e7d6359daab84afc1440a6" />
-	</machine>
-	<machine name="alive\alive (japan) (disc 2) [slps-01528]">
-		<category>Games</category>
-		<description>Alive (Japan)</description>
-		<year>1998</year>
-		<manufacturer>General Entertainment</manufacturer>
-		<disk name="alive\alive (japan) (disc 2) [slps-01528].chd" sha1="e0726c4b35f31fc19c66005e8290d8aaf185047e" />
-	</machine>
-	<machine name="alive\alive (japan) (disc 3) [slps-01529]">
-		<category>Games</category>
-		<description>Alive (Japan)</description>
-		<year>1998</year>
-		<manufacturer>General Entertainment</manufacturer>
-		<disk name="alive\alive (japan) (disc 3) [slps-01529].chd" sha1="8aaacafc5f4dbc2c1b9a712dda5b6ea1c63d882c" />
 	</machine>
 	<machine name="alundra2\alundra 2 (japan) [scps-10115]">
 		<category>Games</category>
@@ -218,13 +190,6 @@
 		<year>1999</year>
 		<manufacturer>Taito</manufacturer>
 		<disk name="arknoi2k\arkanoid r 2000 (japan) [slpm-86262].chd" sha1="122344ad4e4e2d138ee1b8039c78ee922b12dcb3" />
-	</machine>
-	<machine name="armstrng\agent armstrong (japan) [slps-01073]">
-		<category>Games</category>
-		<description>Agent Armstrong - Himitsu Shirei Daisakusen (Japan)</description>
-		<year>1997</year>
-		<manufacturer>WENet</manufacturer>
-		<disk name="armstrng\agent armstrong (japan) [slps-01073].chd" sha1="77b0d6e11cd1afbbccc3297821cb3bc713dc12c6" />
 	</machine>
 	<machine name="artcam\art camion - geijutsuden (japan) [slpm-87186]">
 		<category>Games</category>
@@ -4138,6 +4103,13 @@
 		<year>1996</year>
 		<manufacturer>ASCII</manufacturer>
 		<disk name="xbright\extra bright (japan) [slps-00625].chd" sha1="f989647ea91a0dea2086614f9f961f7108518673" />
+	</machine>
+	<machine name="xena\psx - xena warrior princess 8-11-99 beta 2">
+		<category>Games</category>
+		<description>Xena - Warrior Princess (USA, prototype 19990811)</description>
+		<year>1999</year>
+		<manufacturer>Electronic Arts</manufacturer>
+		<disk name="xena\psx - xena warrior princess 8-11-99 beta 2.chd" sha1="7ac1ad84655b85a77b3c615781061c632790d6cd" />
 	</machine>
 	<machine name="xracing\x-racing (japan) [slps-01063]">
 		<category>Games</category>
