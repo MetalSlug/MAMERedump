@@ -9,10 +9,6 @@
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
-	<machine name="Adventures of Willy Beamish, The (1993)(Dynamix)(US)[!][CDAC-036400 1]">
-		<description>Adventures of Willy Beamish, The (1993)(Dynamix)(US)[!][CDAC-036400 1]</description>
-		<disk name="Adventures of Willy Beamish, The (1993)(Dynamix)(US)[!][CDAC-036400 1].chd" sha1="30783fdb0fdabfcf28ee18915b46c2521699a22f" />
-	</machine>
 	<machine name="After Armageddon Gaiden - Majuu Toushouden Eclipse (1994)(Sega)(NTSC)(JP)[!]">
 		<description>After Armageddon Gaiden - Majuu Toushouden Eclipse (1994)(Sega)(NTSC)(JP)[!]</description>
 		<year>1994</year>
@@ -63,17 +59,9 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="Arislan Senki - The Heroic Legend of Arslan (1993)(Sega)(NTSC)(JP)[!].chd" sha1="f4b914d12c173a150895247cecefa85b11e7f373" />
 	</machine>
-	<machine name="AX-101 (1994)(Sega)(NTSC)(JP)[!]">
-		<description>AX-101 (1994)(Sega)(NTSC)(JP)[!]</description>
-		<disk name="AX-101 (1994)(Sega)(NTSC)(JP)[!].chd" sha1="22cd3a2a09ab3fde2c84afa06cd3e0d6f64c82ed" />
-	</machine>
 	<machine name="Bari-Arm (1993)(Human)(NTSC)(JP)(en)[!]">
 		<description>Bari-Arm (1993)(Human)(NTSC)(JP)(en)[!]</description>
 		<disk name="Bari-Arm (1993)(Human)(NTSC)(JP)(en)[!].chd" sha1="623705fd5082298ea24fc6dc96d75ad077b3852d" />
-	</machine>
-	<machine name="Batman Returns (1993)(Sega)(NTSC)(US)[!][CDAC-040500 1]">
-		<description>Batman Returns (1993)(Sega)(NTSC)(US)[!][CDAC-040500 1]</description>
-		<disk name="Batman Returns (1993)(Sega)(NTSC)(US)[!][CDAC-040500 1].chd" sha1="7a1bc6c54074729acd4a03f0ba1e09309a3cec4d" />
 	</machine>
 	<machine name="Batman Returns (1993)(Sega)(PAL)[!][MK-4401P-00084 3]">
 		<description>Batman Returns (1993)(Sega)(PAL)[!][MK-4401P-00084 3]</description>
@@ -221,14 +209,6 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="Double Switch (1994)(Sega)(PAL)[!].chd" sha1="b22653b1c561e8adff457365a9ab653f457758eb" />
 	</machine>
-	<machine name="Dracula Unleashed (1993)(Sega)(NTSC)(US)(Disc 1 of 2)[!]">
-		<description>Dracula Unleashed (1993)(Sega)(NTSC)(US)(Disc 1 of 2)[!]</description>
-		<disk name="Dracula Unleashed (1993)(Sega)(NTSC)(US)(Disc 1 of 2)[!].chd" sha1="af9ee4df0b0de9d368370171c268bd050f131a3f" />
-	</machine>
-	<machine name="Dracula Unleashed (1993)(Sega)(NTSC)(US)(Disc 2 of 2)[!]">
-		<description>Dracula Unleashed (1993)(Sega)(NTSC)(US)(Disc 2 of 2)[!]</description>
-		<disk name="Dracula Unleashed (1993)(Sega)(NTSC)(US)(Disc 2 of 2)[!].chd" sha1="7d6c7aa055c2bab45563975e56fa110fe6a0a1f2" />
-	</machine>
 	<machine name="Dungeon Master II - Skullkeep v1.0 (1994)(JVC)(NTSC)(US)[!]">
 		<description>Dungeon Master II - Skullkeep v1.0 (1994)(JVC)(NTSC)(US)[!]</description>
 		<year>1994</year>
@@ -344,12 +324,6 @@
 		<year>1993</year>
 		<manufacturer>Micronet</manufacturer>
 		<disk name="IIIrd World War, The (1993)(Micronet)(NTSC)(JP)[!].chd" sha1="2be684454b542ca3f9260e9c6382863c4c837408" />
-	</machine>
-	<machine name="Ishii Hisaichi no Daisekai (1994)(Sega)(NTSC)(JP)[!]">
-		<description>Ishii Hisaichi no Daisekai (1994)(Sega)(NTSC)(JP)[!]</description>
-		<year>1994</year>
-		<manufacturer>Sega</manufacturer>
-		<disk name="Ishii Hisaichi no Daisekai (1994)(Sega)(NTSC)(JP)[!].chd" sha1="76a0bd124a8187ae0adcdbf1a34865148a942a87" />
 	</machine>
 	<machine name="Jaguar XJ220 (1993)(JVC)(NTSC)(US)[!]">
 		<description>Jaguar XJ220 (1993)(JVC)(NTSC)(US)[!]</description>
@@ -474,10 +448,6 @@
 		<year>1994</year>
 		<manufacturer>Sega</manufacturer>
 		<disk name="Masked Rider, The - Kamen Rider ZO (1994)(Sega)(NTSC)(US)[!].chd" sha1="f82f32797252e4ee31c97ffc90c6f5c00f8c063f" />
-	</machine>
-	<machine name="Mickey Mania (1994)(Disney Software - Sony Imagesoft)(PAL)[!]">
-		<description>Mickey Mania (1994)(Disney Software - Sony Imagesoft)(PAL)[!]</description>
-		<disk name="Mickey Mania (1994)(Disney Software - Sony Imagesoft)(PAL)[!].chd" sha1="169302e0bc15a971fa7f0097616bb7f0406f773d" />
 	</machine>
 	<machine name="Might and Magic III - Isles of Terra (1993)(CRI)(NTSC)(JP)[!]">
 		<description>Might and Magic III - Isles of Terra (1993)(CRI)(NTSC)(JP)[!]</description>
@@ -719,20 +689,6 @@
 		<manufacturer>Good Deal Games</manufacturer>
 		<disk name="Star Strike (2000)(Good Deal Games)(NTSC)(US)[!].chd" sha1="7f93fa6d38fb9511e2d9ab4d338b7ed729d6ff04" />
 	</machine>
-	<machine name="StarBlade (1994)(Namco)(NTSC)(US)[!]">
-		<description>StarBlade (1994)(Namco)(NTSC)(US)[!]</description>
-		<disk name="StarBlade (1994)(Namco)(NTSC)(US)[!].chd" sha1="de4dd6165c60ad94507b166732f6974d55a4e8b6" />
-	</machine>
-	<machine name="StarBlade (1994)(Namcot)(NTSC)(JP)(en)[!]">
-		<description>StarBlade (1994)(Namcot)(NTSC)(JP)(en)[!]</description>
-		<disk name="StarBlade (1994)(Namcot)(NTSC)(JP)(en)[!].chd" sha1="efe722a64c661b31cfb06cf3903f11586d90cc16" />
-	</machine>
-	<machine name="StarBlade (1994)(Sega)(PAL)[!]">
-		<description>StarBlade (1994)(Sega)(PAL)[!]</description>
-		<year>1994</year>
-		<manufacturer>Sega</manufacturer>
-		<disk name="StarBlade (1994)(Sega)(PAL)[!].chd" sha1="2cd941d1737bae92d2c8d8bd18fee897b3a7a3c8" />
-	</machine>
 	<machine name="Stellar-Fire (1993)(Dynamix)(NTSC)(US)[!]">
 		<description>Stellar-Fire (1993)(Dynamix)(NTSC)(US)[!]</description>
 		<disk name="Stellar-Fire (1993)(Dynamix)(NTSC)(US)[!].chd" sha1="980a3c0b7291c7c63f290858700776d3f7966deb" />
@@ -804,10 +760,6 @@
 	<machine name="Wheel of Fortune (1994)(Sony Imagesoft)(NTSC)(US)[!]">
 		<description>Wheel of Fortune (1994)(Sony Imagesoft)(NTSC)(US)[!]</description>
 		<disk name="Wheel of Fortune (1994)(Sony Imagesoft)(NTSC)(US)[!].chd" sha1="824cfb4f2ab4750acd8982e350525166dfa21473" />
-	</machine>
-	<machine name="Who Shot Johnny Rock (1994)(American Laser Games)(NTSC)(US)[!]">
-		<description>Who Shot Johnny Rock (1994)(American Laser Games)(NTSC)(US)[!]</description>
-		<disk name="Who Shot Johnny Rock (1994)(American Laser Games)(NTSC)(US)[!].chd" sha1="b067d0eea50ad65cbae8947a4190c3e567a19992" />
 	</machine>
 	<machine name="Winning Post (1993)(KOEI)(NTSC)(JP)[!]">
 		<description>Winning Post (1993)(KOEI)(NTSC)(JP)[!]</description>

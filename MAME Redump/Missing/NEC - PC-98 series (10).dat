@@ -12,179 +12,189 @@
 	<game name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan)" type="">
 		<category>Applications</category>
 		<description>Demonstration CD-ROM &amp; System Install CD-ROM (Japan)</description>
-		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 01).bin" size="168462000" crc="8D2ABCAC" md5="1546918D2ECAEC81EA5AE7C41329DBA3" sha1="458CEFFBBB70AB30D8FA5E29AAE2A4F020D4AA79" />
-		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 02).bin" size="4123056" crc="0BC3B978" md5="7FF6EF062E6556E28C57F3E119B70507" sha1="59E564365E435A2E6D9B76FA040EE35C940AF2BD" />
-		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 03).bin" size="4880400" crc="6E50C1EE" md5="A4CAADB17AE61ECAA8CD57677EDD35AD" sha1="11477DF91F97D56A20F0D0412836FC8FDC040445" />
-		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 04).bin" size="4767504" crc="26355D2F" md5="72E56353252C09DB88BBE9EFE632E952" sha1="ACA0C3DAE475B5E646B4BCBAF10DEA46517C722E" />
-		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 05).bin" size="2827104" crc="4B695DA9" md5="A6AE4747CC9393A75BE27728D58BDD93" sha1="08353D3DD6DF7BC2AF3B77F1C26D53A379469C55" />
-		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 06).bin" size="4045440" crc="F3A78A3A" md5="D77E29CF7691E32E2EED07136E68F2D9" sha1="A392CA5F748EF35EAFB6FE99322D39EF64B21B09" />
-		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 07).bin" size="4965072" crc="6C7699B5" md5="892345DFD8098BA0A57260FCCE87ABCE" sha1="1EE38EA43D45AC0B37B3B79DD4CCC56861E7B925" />
-		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 08).bin" size="4395888" crc="E35E6406" md5="719FB681C1BFF40DDF4864282D895313" sha1="D8A44EB28B8D6B9C8D473F715EE250A3F5C46D74" />
-		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 09).bin" size="3003504" crc="8DB5C450" md5="175AF7C3C090F1BF618781090B183CA1" sha1="51D918E4003B6D715FA9E829B7988493C222A69E" />
-		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 10).bin" size="4243008" crc="F04593CC" md5="E9671B46C0C6C4C11AACF09B3D7BC6A8" sha1="2444BF3436D40DD7FD5FC4D5A322A018AD3B5CD9" />
-		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 11).bin" size="2620128" crc="06AA93BF" md5="F298074B16A98ACAD0A59B1FE8B94ACB" sha1="C062D124F8A2D97765BF4E58732D8073FF04F86B" />
-		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 12).bin" size="3751440" crc="D3CD6849" md5="8B64481BB10B3890B7C058D0F9D2C4D5" sha1="36750E34A2AD50CCE015F7717B40C68B25302852" />
-		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 13).bin" size="3885504" crc="C2E1F8F6" md5="69AD153AD0BF2297B56BFF48428EA7EB" sha1="B4E2B5D88004F01CB5E9649D5BAA83F5354D9489" />
-		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 14).bin" size="4191264" crc="ADD4351F" md5="7B65C9221B7EA63CA183519740BEAA5B" sha1="C41D5DC76F86BAF9E58C9873136E01EA13A2FB50" />
+		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan).cue" size="1787" crc="2aa3de94" md5="250496250a23d7ee485d8a46329b6376" sha1="ce22805bb5052c10d2873f1489ceef4fe346f145"/>
+		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 01).bin" size="168462000" crc="8d2abcac" md5="1546918d2ecaec81ea5ae7c41329dba3" sha1="458ceffbbb70ab30d8fa5e29aae2a4f020d4aa79"/>
+		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 02).bin" size="4123056" crc="0bc3b978" md5="7ff6ef062e6556e28c57f3e119b70507" sha1="59e564365e435a2e6d9b76fa040ee35c940af2bd"/>
+		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 03).bin" size="4880400" crc="6e50c1ee" md5="a4caadb17ae61ecaa8cd57677edd35ad" sha1="11477df91f97d56a20f0d0412836fc8fdc040445"/>
+		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 04).bin" size="4767504" crc="26355d2f" md5="72e56353252c09db88bbe9efe632e952" sha1="aca0c3dae475b5e646b4bcbaf10dea46517c722e"/>
+		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 05).bin" size="2827104" crc="4b695da9" md5="a6ae4747cc9393a75be27728d58bdd93" sha1="08353d3dd6df7bc2af3b77f1c26d53a379469c55"/>
+		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 06).bin" size="4045440" crc="f3a78a3a" md5="d77e29cf7691e32e2eed07136e68f2d9" sha1="a392ca5f748ef35eafb6fe99322d39ef64b21b09"/>
+		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 07).bin" size="4965072" crc="6c7699b5" md5="892345dfd8098ba0a57260fcce87abce" sha1="1ee38ea43d45ac0b37b3b79dd4ccc56861e7b925"/>
+		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 08).bin" size="4395888" crc="e35e6406" md5="719fb681c1bff40ddf4864282d895313" sha1="d8a44eb28b8d6b9c8d473f715ee250a3f5c46d74"/>
+		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 09).bin" size="3003504" crc="8db5c450" md5="175af7c3c090f1bf618781090b183ca1" sha1="51d918e4003b6d715fa9e829b7988493c222a69e"/>
+		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 10).bin" size="4243008" crc="f04593cc" md5="e9671b46c0c6c4c11aacf09b3d7bc6a8" sha1="2444bf3436d40dd7fd5fc4d5a322a018ad3b5cd9"/>
+		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 11).bin" size="2620128" crc="06aa93bf" md5="f298074b16a98acad0a59b1fe8b94acb" sha1="c062d124f8a2d97765bf4e58732d8073ff04f86b"/>
+		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 12).bin" size="3751440" crc="d3cd6849" md5="8b64481bb10b3890b7c058d0f9d2c4d5" sha1="36750e34a2ad50cce015f7717b40c68b25302852"/>
+		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 13).bin" size="3885504" crc="c2e1f8f6" md5="69ad153ad0bf2297b56bff48428ea7eb" sha1="b4e2b5d88004f01cb5e9649d5baa83f5354d9489"/>
+		<rom name="Demonstration CD-ROM &amp; System Install CD-ROM (Japan) (Track 14).bin" size="4191264" crc="add4351f" md5="7b65c9221b7ea63ca183519740beaa5b" sha1="c41d5dc76f86baf9e58c9873136e01ea13a2fb50"/>
 	</game>
 	<game name="Demonstration CD-ROM (Japan) (1992-10-30)" type="">
 		<category>Demos</category>
 		<description>Demonstration CD-ROM (Japan) (1992-10-30)</description>
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 01).bin" size="55476624" crc="03F8ACCF" md5="BF9FB4166E45B7BF0337A0880F7AC034" sha1="D4E984CA5D7AA46CD65197C8F60A0D7D5A42843D" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 02).bin" size="4308864" crc="AED86765" md5="A5B46FED61526C606FC2825A895B4534" sha1="08C3774F23EE6916D88386A6F8D86905BFB70FA6" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 03).bin" size="4734576" crc="90E250C3" md5="E6A85D15B9C7FD84C40462C25574C3CB" sha1="4C546A8564BD143879615D844E9D168F5C063A8B" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 04).bin" size="4880400" crc="696CB404" md5="36C911168D3CB74D999DD6EB2529CD30" sha1="9CF028722C468A48CFF0081A1A9D32F4073A0D58" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 05).bin" size="5821200" crc="3BAF8081" md5="96991BF8522010E4BC881CC4430C08A5" sha1="49B9C318913CE4EACA48ED5520725F9C8971AB45" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 06).bin" size="4861584" crc="7861FDD5" md5="362E9E7A198789AE1386FEE4BD1CA3B3" sha1="C552ADED1EF99A642E9714BEAB72796B384289EB" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 07).bin" size="6039936" crc="F63BA08E" md5="35560AA86583F53AF50825A1431D14C9" sha1="EDD4ECA088EB5C24A71780C23EE871E3F817A025" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 08).bin" size="2921184" crc="083E5421" md5="798FC0D812E51864A7DCA8F242BA3C70" sha1="0BCE42CD45167B1C527EF9C427BB031016892B8F" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 09).bin" size="3346896" crc="251BCBCE" md5="FC20F4E824609B7F43FC248104A08E89" sha1="F385A83D946A081DAB762DBE99031E48EDB8A2FB" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 10).bin" size="4116000" crc="5B8ED698" md5="5A29BCACE5308A07FA4223A85F445DB6" sha1="A61093883BD63475AF19742AD161829D0CC28B14" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 11).bin" size="5496624" crc="09F5888B" md5="91B837A544D13489B58081C523C3D46F" sha1="AE29EA766BF55E9510F084378A592706A11950D3" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 12).bin" size="5092080" crc="5D3AE3C6" md5="40895CDAA3441D40527732C679BF0E22" sha1="F41E65FE016F723596D6BAE2D9677E0EA0F3AF8E" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 13).bin" size="6510336" crc="1C83CADA" md5="43886155672F2701D92CA96FF459D2EF" sha1="008DDCE7139E8BCDA60BD74D1DD1536D0E3DCE97" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 14).bin" size="4461744" crc="4A6F253D" md5="B1FC66706F0EC976DE9CB5B78473FB38" sha1="FDFEF7A94090F51FF8BBFF20B1A87D731641451E" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 15).bin" size="5393136" crc="15A533C1" md5="341C5F7F6200866B817EF064E0DC7E5F" sha1="587A9F57C3F914EA7806E3B2612DBF4CB0BCB446" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 16).bin" size="3097584" crc="15B7EE49" md5="DD682CDB9145D555D6BD5580A18EED0B" sha1="C5AB6B7BF63BE7C47F80C0066C50D90382BA7699" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 17).bin" size="3713808" crc="66BF2BFA" md5="CEF7DFFDEED6FFF5A75E7FD53994AF2E" sha1="5B4B8244A1DB0D5270C5EB00496B163BD043990D" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 18).bin" size="4341792" crc="F7A1C027" md5="5B3F3169718BFFD8C519770B927F307B" sha1="417B090C58778AF083C2FCFAA28522127FD596D1" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 19).bin" size="5322576" crc="D3149215" md5="9AB79E426C0CB8A0A684404280CB56F6" sha1="EF6BC7EDB8E3BE01BCF9CA0EE452C1CF8794FFD6" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 20).bin" size="2669520" crc="B0354032" md5="99FDA4954FA293B7012472F6F75C15EF" sha1="F15A73FDFAD2EB3C35F725D16E56DF0F804DEDF6" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 21).bin" size="3292800" crc="877F5F98" md5="4410EDD4563D4ABE0EE2A1A306A5A305" sha1="7FA230349EFE165D8D49B7DF74C9C7796F55F65F" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 22).bin" size="3909024" crc="EE8F6A93" md5="3557FB3386C9756097669323E01AC4FC" sha1="6FCA23875DE526E73BF66AC6BC67140C017B8B20" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 23).bin" size="4751040" crc="08D4E71D" md5="A06DF969D7D02466FD8939EA03640208" sha1="A845D1697FEF2AA64B01B752F58DEDBE1FA3C6ED" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 24).bin" size="3981936" crc="770353B1" md5="14D4CFFC74E131C83004EEBC2D3A53C0" sha1="B100F56E0AE93C5D7C17AB554F719276931EC83C" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 25).bin" size="4696944" crc="8201EC03" md5="E99CBD8AA915814F6A832AD169FDECF1" sha1="A3D544FA3B974FF82CC2BBDC6DE04FF9B69B2FA9" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 26).bin" size="4217136" crc="ABB823E6" md5="8CF0DE5FAC960765A60A20A850504005" sha1="64D29FF3373A29D758A0B48BB4E209A61A3D9564" />
-		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 27).bin" size="4958016" crc="10BFCE9F" md5="19517AB186B4426DBE749BDEA169397B" sha1="FF55E773DBC4D4B88D957BA4A941A55B186B8850" />
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30).cue" size="3677" crc="ac54c09e" md5="551387719f8c137ba4d7296d05b212cc" sha1="05a4fb6b7306c4bd187fee5f431a8ddce44e723f"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 01).bin" size="55476624" crc="03f8accf" md5="bf9fb4166e45b7bf0337a0880f7ac034" sha1="d4e984ca5d7aa46cd65197c8f60a0d7d5a42843d"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 02).bin" size="4308864" crc="aed86765" md5="a5b46fed61526c606fc2825a895b4534" sha1="08c3774f23ee6916d88386a6f8d86905bfb70fa6"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 03).bin" size="4734576" crc="90e250c3" md5="e6a85d15b9c7fd84c40462c25574c3cb" sha1="4c546a8564bd143879615d844e9d168f5c063a8b"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 04).bin" size="4880400" crc="696cb404" md5="36c911168d3cb74d999dd6eb2529cd30" sha1="9cf028722c468a48cff0081a1a9d32f4073a0d58"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 05).bin" size="5821200" crc="3baf8081" md5="96991bf8522010e4bc881cc4430c08a5" sha1="49b9c318913ce4eaca48ed5520725f9c8971ab45"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 06).bin" size="4861584" crc="7861fdd5" md5="362e9e7a198789ae1386fee4bd1ca3b3" sha1="c552aded1ef99a642e9714beab72796b384289eb"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 07).bin" size="6039936" crc="f63ba08e" md5="35560aa86583f53af50825a1431d14c9" sha1="edd4eca088eb5c24a71780c23ee871e3f817a025"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 08).bin" size="2921184" crc="083e5421" md5="798fc0d812e51864a7dca8f242ba3c70" sha1="0bce42cd45167b1c527ef9c427bb031016892b8f"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 09).bin" size="3346896" crc="251bcbce" md5="fc20f4e824609b7f43fc248104a08e89" sha1="f385a83d946a081dab762dbe99031e48edb8a2fb"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 10).bin" size="4116000" crc="5b8ed698" md5="5a29bcace5308a07fa4223a85f445db6" sha1="a61093883bd63475af19742ad161829d0cc28b14"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 11).bin" size="5496624" crc="09f5888b" md5="91b837a544d13489b58081c523c3d46f" sha1="ae29ea766bf55e9510f084378a592706a11950d3"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 12).bin" size="5092080" crc="5d3ae3c6" md5="40895cdaa3441d40527732c679bf0e22" sha1="f41e65fe016f723596d6bae2d9677e0ea0f3af8e"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 13).bin" size="6510336" crc="1c83cada" md5="43886155672f2701d92ca96ff459d2ef" sha1="008ddce7139e8bcda60bd74d1dd1536d0e3dce97"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 14).bin" size="4461744" crc="4a6f253d" md5="b1fc66706f0ec976de9cb5b78473fb38" sha1="fdfef7a94090f51ff8bbff20b1a87d731641451e"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 15).bin" size="5393136" crc="15a533c1" md5="341c5f7f6200866b817ef064e0dc7e5f" sha1="587a9f57c3f914ea7806e3b2612dbf4cb0bcb446"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 16).bin" size="3097584" crc="15b7ee49" md5="dd682cdb9145d555d6bd5580a18eed0b" sha1="c5ab6b7bf63be7c47f80c0066c50d90382ba7699"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 17).bin" size="3713808" crc="66bf2bfa" md5="cef7dffdeed6fff5a75e7fd53994af2e" sha1="5b4b8244a1db0d5270c5eb00496b163bd043990d"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 18).bin" size="4341792" crc="f7a1c027" md5="5b3f3169718bffd8c519770b927f307b" sha1="417b090c58778af083c2fcfaa28522127fd596d1"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 19).bin" size="5322576" crc="d3149215" md5="9ab79e426c0cb8a0a684404280cb56f6" sha1="ef6bc7edb8e3be01bcf9ca0ee452c1cf8794ffd6"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 20).bin" size="2669520" crc="b0354032" md5="99fda4954fa293b7012472f6f75c15ef" sha1="f15a73fdfad2eb3c35f725d16e56df0f804dedf6"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 21).bin" size="3292800" crc="877f5f98" md5="4410edd4563d4abe0ee2a1a306a5a305" sha1="7fa230349efe165d8d49b7df74c9c7796f55f65f"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 22).bin" size="3909024" crc="ee8f6a93" md5="3557fb3386c9756097669323e01ac4fc" sha1="6fca23875de526e73bf66ac6bc67140c017b8b20"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 23).bin" size="4751040" crc="08d4e71d" md5="a06df969d7d02466fd8939ea03640208" sha1="a845d1697fef2aa64b01b752f58dedbe1fa3c6ed"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 24).bin" size="3981936" crc="770353b1" md5="14d4cffc74e131c83004eebc2d3a53c0" sha1="b100f56e0ae93c5d7c17ab554f719276931ec83c"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 25).bin" size="4696944" crc="8201ec03" md5="e99cbd8aa915814f6a832ad169fdecf1" sha1="a3d544fa3b974ff82cc2bbdc6de04ff9b69b2fa9"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 26).bin" size="4217136" crc="abb823e6" md5="8cf0de5fac960765a60a20a850504005" sha1="64d29ff3373a29d758a0b48bb4e209a61a3d9564"/>
+		<rom name="Demonstration CD-ROM (Japan) (1992-10-30) (Track 27).bin" size="4958016" crc="10bfce9f" md5="19517ab186b4426dbe749bdea169397b" sha1="ff55e773dbc4d4b88d957ba4a941a55b186b8850"/>
 	</game>
 	<game name="Hiiragizaka no Kyuukan (Japan)" type="">
 		<category>Games</category>
 		<description>Hiiragizaka no Kyuukan (Japan)</description>
-		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 01).bin" size="214093152" crc="5F34CFE9" md5="E08990815060C63B6B228EDE348668C7" sha1="B29DD02844E6B9ED2EA12F2186BA91CA839E4BFE" />
-		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 02).bin" size="15304464" crc="29E67180" md5="C02EA8FE6BC5AE0329746BE36CF87E44" sha1="EE8BE48F6412BF859F93E1ED6CF060A27C6C7DFE" />
-		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 03).bin" size="13766256" crc="72F9D5CF" md5="7F31C563404C1100730974FD6C8795F9" sha1="3E5B88D01A1F01EE749B07817349C073790177E0" />
-		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 04).bin" size="22301664" crc="2F0F4877" md5="EFC07022D96CD650F310D40CEE5B7AEE" sha1="A129AEA0DCB70D9C72E8D81F23F0C5A330186D52" />
-		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 05).bin" size="12213936" crc="5ED1344A" md5="B173AE22D511C47D0D2F88305D974801" sha1="B2137549218ED0FB8023806AD2430763CC7363D6" />
-		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 06).bin" size="11037936" crc="6FFE5B65" md5="72248D77CD7A4AD70B3E76CAFCEDBF5A" sha1="34418D7ED9E6B744A54E16DDFFEBAC04E1CD7197" />
-		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 07).bin" size="15821904" crc="501DF811" md5="2EAA1E0D1404A86B52B63034B8A95F52" sha1="6EC25A4D5BECF93D988D317973C684DF4A194F61" />
-		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 08).bin" size="11978736" crc="F674F5E8" md5="1D12E3CC0064EDCA860C49E2A553AF03" sha1="95A11F33795CB47A80FC9576DDDBF61723AE34F5" />
-		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 09).bin" size="15431472" crc="454BF543" md5="054321CA20A508A897B5995CB1AB7861" sha1="87536E5EB88ABF776AF6F2B9B1D7234625AD96B6" />
-		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 10).bin" size="25051152" crc="EEC09A54" md5="177684775732C7545AD1CC68D9C893D5" sha1="D27D00663C94386239650BECCDCEBE1ADE55841A" />
-		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 11).bin" size="20511792" crc="24956471" md5="275D0CE546F262E3707309EA9D550739" sha1="99269E9F8E915654A0775B58583AAE8418CC7BD5" />
+		<rom name="Hiiragizaka no Kyuukan (Japan).cue" size="1357" crc="ef7d511b" md5="54c4cfe21ccc70ba57f89be063609ad0" sha1="f894c251b91e81f9e495dc83976e8fddfd71c3b7"/>
+		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 01).bin" size="214093152" crc="5f34cfe9" md5="e08990815060c63b6b228ede348668c7" sha1="b29dd02844e6b9ed2ea12f2186ba91ca839e4bfe"/>
+		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 02).bin" size="15304464" crc="29e67180" md5="c02ea8fe6bc5ae0329746be36cf87e44" sha1="ee8be48f6412bf859f93e1ed6cf060a27c6c7dfe"/>
+		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 03).bin" size="13766256" crc="72f9d5cf" md5="7f31c563404c1100730974fd6c8795f9" sha1="3e5b88d01a1f01ee749b07817349c073790177e0"/>
+		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 04).bin" size="22301664" crc="2f0f4877" md5="efc07022d96cd650f310d40cee5b7aee" sha1="a129aea0dcb70d9c72e8d81f23f0c5a330186d52"/>
+		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 05).bin" size="12213936" crc="5ed1344a" md5="b173ae22d511c47d0d2f88305d974801" sha1="b2137549218ed0fb8023806ad2430763cc7363d6"/>
+		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 06).bin" size="11037936" crc="6ffe5b65" md5="72248d77cd7a4ad70b3e76cafcedbf5a" sha1="34418d7ed9e6b744a54e16ddffebac04e1cd7197"/>
+		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 07).bin" size="15821904" crc="501df811" md5="2eaa1e0d1404a86b52b63034b8a95f52" sha1="6ec25a4d5becf93d988d317973c684df4a194f61"/>
+		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 08).bin" size="11978736" crc="f674f5e8" md5="1d12e3cc0064edca860c49e2a553af03" sha1="95a11f33795cb47a80fc9576dddbf61723ae34f5"/>
+		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 09).bin" size="15431472" crc="454bf543" md5="054321ca20a508a897b5995cb1ab7861" sha1="87536e5eb88abf776af6f2b9b1d7234625ad96b6"/>
+		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 10).bin" size="25051152" crc="eec09a54" md5="177684775732c7545ad1cc68d9c893d5" sha1="d27d00663c94386239650beccdcebe1ade55841a"/>
+		<rom name="Hiiragizaka no Kyuukan (Japan) (Track 11).bin" size="20511792" crc="24956471" md5="275d0ce546f262e3707309ea9d550739" sha1="99269e9f8e915654a0775b58583aae8418cc7bd5"/>
 	</game>
 	<game name="Living Body Armor, A - Elm Knight (Japan)" type="">
 		<category>Games</category>
 		<description>Living Body Armor, A - Elm Knight (Japan)</description>
-		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 01).bin" size="16416960" crc="B4B40941" md5="0A251A30A032C40DB823C1AFBEE1958A" sha1="57AC08479EDD6641965CB1D514D9DCB7DD5875C9" />
-		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 02).bin" size="28094640" crc="CBB4AD0B" md5="DFAC8B27BFCF9386F50294242E022665" sha1="222CA58A92C27FAA6FBFAD9E777814DCE536E7AF" />
-		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 03).bin" size="30246720" crc="696615D2" md5="96413D681B8BE4A9853E12634079A3C7" sha1="B007CA91195F63BB79361D77303C778B0D8EF7E7" />
-		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 04).bin" size="29251824" crc="1E902948" md5="BDDD6409EA5CBA9B9D546F7D4A6E9DA5" sha1="AFDD86B75A716D494437931AE2DD58DC1BC6FD12" />
-		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 05).bin" size="21168000" crc="9AB31D5F" md5="63FEB6A84903CE15D5E334468EA00C71" sha1="CE1EC1AAABAF8C84C1A778F9645EB3E8119802C5" />
-		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 06).bin" size="34205136" crc="78DFA1D6" md5="19C42BCBE502EA257D87EEE0B099B45A" sha1="76DBAA5BFD040198A34DE4916BE59BD3BA678C95" />
-		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 07).bin" size="28682640" crc="23F18E69" md5="846B6B69657C6219B678410564465255" sha1="AF174EF4CA719AD7321A5B9B396ECBA151EE763F" />
-		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 08).bin" size="32104800" crc="837EDF13" md5="3354AB7F3EC2AC7AFDBBF91643D49583" sha1="493AE8A9F406CCD6FB7E987F5A6AD181933BA158" />
-		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 09).bin" size="34809600" crc="94BD6742" md5="BA5DDD388A8CBB96C0B4EB3819D58F60" sha1="0C050623B94A0F7549042623119F8BFF8097D65D" />
-		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 10).bin" size="40771920" crc="C6D5843D" md5="0AE59AB887461BAD175D0998F522E24C" sha1="311A4D3058F8926CCA290F23275CDE26B20E6662" />
-		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 11).bin" size="47087040" crc="08B08AAD" md5="4F5B9C41349D0485DE80B7F79F865715" sha1="D5EF02D82909CD9AD2F9E3BE2E58FD9EB9BFA8B1" />
-		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 12).bin" size="24147984" crc="A67CA031" md5="A1BF8FF469AFBC40F50D9CFB7E78DAE2" sha1="8DBA82589B1F0300736EF3C171255979ECE960C9" />
-		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 13).bin" size="19662720" crc="476EEF4A" md5="B38614771D2CBD02ED0A8A7D16643AA1" sha1="B80594532A0BB24888785456798C2E8CDCD5A3A5" />
-		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 14).bin" size="24314976" crc="B9ADBC42" md5="8FCE0F3C162AA180D26F6CEE0CCC3733" sha1="8090B967314A7F193E3E6673E5DADEEBFBC2ABF8" />
-		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 15).bin" size="27882960" crc="CE46F906" md5="A15DC0694CFA4EDD9BFC4B6BDB1E1912" sha1="48802CA5832013D021CB379D39FD5ACBD1A2ADC4" />
-		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 16).bin" size="24571344" crc="50F45C0F" md5="D55A408DC0D54527574AA660679C1D01" sha1="849E0195997EF7B13F634E8361735C3FE8F32F18" />
-		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 17).bin" size="43876560" crc="59594529" md5="B0CAB9ACC74CADFEDCCB6891FFACCE0D" sha1="210EFD34B90C704714CBDE6EB08A4B7B45BB3DCB" />
+		<rom name="Living Body Armor, A - Elm Knight (Japan).cue" size="2317" crc="25bb217d" md5="ef6463ed41dc89d3c61cef3dc3bfb9b3" sha1="a35744fc93c148faf2ac9c5349e10eaef6af376d"/>
+		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 01).bin" size="16416960" crc="b4b40941" md5="0a251a30a032c40db823c1afbee1958a" sha1="57ac08479edd6641965cb1d514d9dcb7dd5875c9"/>
+		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 02).bin" size="28094640" crc="cbb4ad0b" md5="dfac8b27bfcf9386f50294242e022665" sha1="222ca58a92c27faa6fbfad9e777814dce536e7af"/>
+		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 03).bin" size="30246720" crc="696615d2" md5="96413d681b8be4a9853e12634079a3c7" sha1="b007ca91195f63bb79361d77303c778b0d8ef7e7"/>
+		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 04).bin" size="29251824" crc="1e902948" md5="bddd6409ea5cba9b9d546f7d4a6e9da5" sha1="afdd86b75a716d494437931ae2dd58dc1bc6fd12"/>
+		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 05).bin" size="21168000" crc="9ab31d5f" md5="63feb6a84903ce15d5e334468ea00c71" sha1="ce1ec1aaabaf8c84c1a778f9645eb3e8119802c5"/>
+		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 06).bin" size="34205136" crc="78dfa1d6" md5="19c42bcbe502ea257d87eee0b099b45a" sha1="76dbaa5bfd040198a34de4916be59bd3ba678c95"/>
+		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 07).bin" size="28682640" crc="23f18e69" md5="846b6b69657c6219b678410564465255" sha1="af174ef4ca719ad7321a5b9b396ecba151ee763f"/>
+		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 08).bin" size="32104800" crc="837edf13" md5="3354ab7f3ec2ac7afdbbf91643d49583" sha1="493ae8a9f406ccd6fb7e987f5a6ad181933ba158"/>
+		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 09).bin" size="34809600" crc="94bd6742" md5="ba5ddd388a8cbb96c0b4eb3819d58f60" sha1="0c050623b94a0f7549042623119f8bff8097d65d"/>
+		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 10).bin" size="40771920" crc="c6d5843d" md5="0ae59ab887461bad175d0998f522e24c" sha1="311a4d3058f8926cca290f23275cde26b20e6662"/>
+		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 11).bin" size="47087040" crc="08b08aad" md5="4f5b9c41349d0485de80b7f79f865715" sha1="d5ef02d82909cd9ad2f9e3be2e58fd9eb9bfa8b1"/>
+		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 12).bin" size="24147984" crc="a67ca031" md5="a1bf8ff469afbc40f50d9cfb7e78dae2" sha1="8dba82589b1f0300736ef3c171255979ece960c9"/>
+		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 13).bin" size="19662720" crc="476eef4a" md5="b38614771d2cbd02ed0a8a7d16643aa1" sha1="b80594532a0bb24888785456798c2e8cdcd5a3a5"/>
+		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 14).bin" size="24314976" crc="b9adbc42" md5="8fce0f3c162aa180d26f6cee0ccc3733" sha1="8090b967314a7f193e3e6673e5dadeebfbc2abf8"/>
+		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 15).bin" size="27882960" crc="ce46f906" md5="a15dc0694cfa4edd9bfc4b6bdb1e1912" sha1="48802ca5832013d021cb379d39fd5acbd1a2adc4"/>
+		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 16).bin" size="24571344" crc="50f45c0f" md5="d55a408dc0d54527574aa660679c1d01" sha1="849e0195997ef7b13f634e8361735c3fe8f32f18"/>
+		<rom name="Living Body Armor, A - Elm Knight (Japan) (Track 17).bin" size="43876560" crc="59594529" md5="b0cab9acc74cadfedccb6891ffacce0d" sha1="210efd34b90c704714cbde6eb08a4b7b45bb3dcb"/>
 	</game>
 	<game name="Lost Eden (Japan)" type="">
 		<category>Games</category>
 		<description>Lost Eden (Japan)</description>
-		<rom name="Lost Eden (Japan).bin" size="517545840" crc="49610361" md5="0FADFE94832C478525B9A8E961FAD263" sha1="9C4DF091AED5ED62054B158294593E080D434E3F" />
+		<rom name="Lost Eden (Japan).cue" size="106" crc="29a17ede" md5="a6ab6fbccb2491a07f32d0593703a7c5" sha1="879b159cf826cdbc3207559362855f3d47890eda"/>
+		<rom name="Lost Eden (Japan).bin" size="517545840" crc="49610361" md5="0fadfe94832c478525b9a8e961fad263" sha1="9c4df091aed5ed62054b158294593e080d434e3f"/>
 	</game>
 	<game name="Persian Soft Special CD-ROM Volume 1 (Japan)" type="">
 		<category>Bonus Discs</category>
 		<description>Persian Soft Special CD-ROM Volume 1 (Japan)</description>
-		<rom name="Persian Soft Special CD-ROM Volume 1 (Japan) (Track 1).bin" size="6091680" crc="004A9566" md5="31F6E3BD012DFAEDD654F80242CBDEFD" sha1="52F1C2757190227758D799B8D1E6981868332858" />
-		<rom name="Persian Soft Special CD-ROM Volume 1 (Japan) (Track 2).bin" size="38631600" crc="0D8F0E63" md5="A328C3A77AF30636BB1768F4F004F29E" sha1="A29D54A7A129A8F454B20847AD88AC5568144DAB" />
-		<rom name="Persian Soft Special CD-ROM Volume 1 (Japan) (Track 3).bin" size="33339600" crc="EF0BB834" md5="F95815DF44D66CBA58DA9CCF11A03A78" sha1="66AEEC1EF0BF92CBDF67E86E0E45DB169E0BD595" />
-		<rom name="Persian Soft Special CD-ROM Volume 1 (Japan) (Track 4).bin" size="58388400" crc="CC68C35B" md5="084FABE9A8B3DCC113BA07E65E70BBE6" sha1="6D1D0A0567E8CC01A4B80E1538AAA25296837B13" />
+		<rom name="Persian Soft Special CD-ROM Volume 1 (Japan).cue" size="534" crc="1060f611" md5="47b96056ce23c921babc08e44f87f0f6" sha1="71554f717bf47503cf57dca48264ae7518c4d3a3"/>
+		<rom name="Persian Soft Special CD-ROM Volume 1 (Japan) (Track 1).bin" size="6091680" crc="004a9566" md5="31f6e3bd012dfaedd654f80242cbdefd" sha1="52f1c2757190227758d799b8d1e6981868332858"/>
+		<rom name="Persian Soft Special CD-ROM Volume 1 (Japan) (Track 2).bin" size="38631600" crc="0d8f0e63" md5="a328c3a77af30636bb1768f4f004f29e" sha1="a29d54a7a129a8f454b20847ad88ac5568144dab"/>
+		<rom name="Persian Soft Special CD-ROM Volume 1 (Japan) (Track 3).bin" size="33339600" crc="ef0bb834" md5="f95815df44d66cba58da9ccf11a03a78" sha1="66aeec1ef0bf92cbdf67e86e0e45db169e0bd595"/>
+		<rom name="Persian Soft Special CD-ROM Volume 1 (Japan) (Track 4).bin" size="58388400" crc="cc68c35b" md5="084fabe9a8b3dcc113ba07e65e70bbe6" sha1="6d1d0a0567e8cc01a4b80e1538aaa25296837b13"/>
 	</game>
 	<game name="Sela (Japan) (Game CD-ROM)" type="">
 		<category>Games</category>
 		<description>Sela (Japan) (Game CD-ROM)</description>
-		<rom name="Sela (Japan) (Game CD-ROM).bin" size="227897040" crc="AE2D5E11" md5="3B7483AF36FC7EC25ABDD6E8B9B9E17C" sha1="A7294B0DAC5DCBF007766F8EB1283FD40EB3CE80" />
+		<rom name="Sela (Japan) (Game CD-ROM).cue" size="92" crc="7a9db155" md5="ec129c3c9217794c1c1a75000bfcaf32" sha1="2d9580bcc1cc58892c8e3d3356d95392ec71e32c"/>
+		<rom name="Sela (Japan) (Game CD-ROM).bin" size="227897040" crc="ae2d5e11" md5="3b7483af36fc7ec25abdd6e8b9b9e17c" sha1="a7294b0dac5dcbf007766f8eb1283fd40eb3ce80"/>
 	</game>
 	<game name="ShadowCaster (Japan)" type="">
 		<category>Games</category>
 		<description>ShadowCaster (Japan)</description>
-		<rom name="ShadowCaster (Japan) (Track 01).bin" size="47204640" crc="957F954A" md5="34CFB75085494B0A83AD9FACD185F2A9" sha1="87540E53F5C39F24E9BAC9E61F1BB2E6C0A233A3" />
-		<rom name="ShadowCaster (Japan) (Track 02).bin" size="1234800" crc="95317356" md5="74B90BA9E50FBC705076F28C8577EE1F" sha1="C13B7EA244747EF19539CCC6CB739904106F199C" />
-		<rom name="ShadowCaster (Japan) (Track 03).bin" size="1263024" crc="6E67AF20" md5="C8F0FBD5652687E8133FDCAD2BC63CD4" sha1="EEA117AACC82D919219807ECA34AB92287A02ED6" />
-		<rom name="ShadowCaster (Japan) (Track 04).bin" size="1912176" crc="17C896D8" md5="60D864DAF13B067760ECEF5E34885B9E" sha1="85F05B1562F6E94411614D5CF227BE2E86E74F57" />
-		<rom name="ShadowCaster (Japan) (Track 05).bin" size="1822800" crc="8AA3D4D8" md5="E1A5C718640B5CB6960E5FE9887587BD" sha1="11E50454F4A76747C824A8471D12D9A2FB5FCFCF" />
-		<rom name="ShadowCaster (Japan) (Track 06).bin" size="1552320" crc="C0395B03" md5="1668FC16E838EBD2856189126BDE94D3" sha1="3B41A0D93AB4893E1B9241FB5D221B57B30327EC" />
-		<rom name="ShadowCaster (Japan) (Track 07).bin" size="3215184" crc="23821D79" md5="D2830FA1406D712E818CEF0B7BEE3ED4" sha1="05D67A6B46A2B76A14F2372D0477FE635B6B94DC" />
-		<rom name="ShadowCaster (Japan) (Track 08).bin" size="2622480" crc="F76BBFDE" md5="BA1C175A715C2FF76B2549732164645C" sha1="55952810554CE627C6F74503FD57AEC9CEA823E3" />
-		<rom name="ShadowCaster (Japan) (Track 09).bin" size="1905120" crc="9C8C464D" md5="16FAD3A3306AAB49153EB5A17423156A" sha1="C90614495FE38D3E306390212064906E089B990D" />
-		<rom name="ShadowCaster (Japan) (Track 10).bin" size="2241456" crc="7F7BF40B" md5="5BC1044827313317ACEDD83B018EF0DC" sha1="4F8DD703FFD044815388728E9691FF130D3F01B3" />
-		<rom name="ShadowCaster (Japan) (Track 11).bin" size="1451184" crc="20C7F3AC" md5="CE43601278530BAE76F482184B7EEE0F" sha1="B295D2ED639876AD273EDEAE29EB7F3FF850CB59" />
-		<rom name="ShadowCaster (Japan) (Track 12).bin" size="1312416" crc="7611018E" md5="F40C070322EAA8372D9E7F00CCCE2B79" sha1="6E5D51266B395D7A0E8B3364301477B0856F5B50" />
-		<rom name="ShadowCaster (Japan) (Track 13).bin" size="1651104" crc="DD25101A" md5="EE8E4A0FAFB810D25DF0062050997FD1" sha1="8D59517283DB654490DD09DEE57FC107D9E91A56" />
-		<rom name="ShadowCaster (Japan) (Track 14).bin" size="2869440" crc="3906C4F0" md5="51958E7E095244BC20A631C23C84C8FE" sha1="215BA1FADE762858FD7FB8854590B11F345E65C3" />
-		<rom name="ShadowCaster (Japan) (Track 15).bin" size="2970576" crc="DCE5B84D" md5="837F0214C1199389112A5F08F6124F3B" sha1="C887F65803DD287B35CC712ADF5F01A9DC75E37A" />
-		<rom name="ShadowCaster (Japan) (Track 16).bin" size="2486064" crc="6D257AD2" md5="7B61FCD8079E778D6D788D7CFECCA2AF" sha1="6FB0745B7A15995BFF3E1DCE2604B6DDB15B4381" />
-		<rom name="ShadowCaster (Japan) (Track 17).bin" size="1959216" crc="555EC005" md5="09708D554622E082B5E350BE084E7780" sha1="692727ECDBE3A9A7A0248DCB79E7183E7E9B2DEC" />
-		<rom name="ShadowCaster (Japan) (Track 18).bin" size="2046240" crc="4AD69743" md5="9B1C7D173836C628B79393D640EDA03C" sha1="2186F8A67EB86F26795BEED007B5C442C72A3964" />
-		<rom name="ShadowCaster (Japan) (Track 19).bin" size="1905120" crc="869D64D4" md5="D2FFFC90FDDD84E620688A2B7DC31D96" sha1="27AAED658A0CD67561F6D1BEE749D5EC2371AF5B" />
-		<rom name="ShadowCaster (Japan) (Track 20).bin" size="2504880" crc="91764212" md5="476DDA9B4827D211C67173207BB0D0E5" sha1="7CF9E61913C8E6EF4A58D783771D8EA2B0DC07CE" />
-		<rom name="ShadowCaster (Japan) (Track 21).bin" size="2140320" crc="0FBEDE55" md5="22E8B56025E754BD3F89CEBD3658E2D0" sha1="F4350867443BB23F91DD0623212DA6F61DBF873D" />
-		<rom name="ShadowCaster (Japan) (Track 22).bin" size="1933344" crc="03D06DE2" md5="4BF2CD035EE5F927DA65F57B97440FB8" sha1="121539F239E3DD3E998C3BA6101AC274F6C45FC7" />
-		<rom name="ShadowCaster (Japan) (Track 23).bin" size="2464896" crc="8D3171DF" md5="47EAE84010A336ED9DF0AAB7D310CE2B" sha1="B9B6184D9A8159E47F07278CEFA15F8D48F5E54B" />
-		<rom name="ShadowCaster (Japan) (Track 24).bin" size="1768704" crc="9E84A1C1" md5="41AFEE634F942DB4D9AEBD9F9F31419E" sha1="F851035A081B71EB2A069F15AEA9AAAC9DB06E41" />
-		<rom name="ShadowCaster (Japan) (Track 25).bin" size="3163440" crc="1607A2D4" md5="8843B7C5FD992ED058A851B14970DFF1" sha1="06DA49A91800B3650803187EB1D8040E1424F7F4" />
-		<rom name="ShadowCaster (Japan) (Track 26).bin" size="1841616" crc="0A691FAC" md5="83CDA6B95C77C21DF110AE2DE330F777" sha1="8A9E37EDCC8CF4F1E48E789EA414CC7F156C2DA0" />
-		<rom name="ShadowCaster (Japan) (Track 27).bin" size="1451184" crc="F3F1176D" md5="8381103CD32454473523695ADA6F492B" sha1="97223DB1596BA5AC7076BA8AB7797604D549340C" />
-		<rom name="ShadowCaster (Japan) (Track 28).bin" size="2217936" crc="D7856008" md5="6627DB472ECFFDA6DBCCAE34B50BEB6B" sha1="0CE9EF457B60D5059FF1E8AFE58F61DDA808F158" />
-		<rom name="ShadowCaster (Japan) (Track 29).bin" size="1333584" crc="E0F20BC1" md5="275BE07CBC55F2459CDC4094E47341E9" sha1="83982352D90D8780B705CBA5EDD4257AFEC08805" />
-		<rom name="ShadowCaster (Japan) (Track 30).bin" size="2281440" crc="BA5D6048" md5="399914BFA0420FA4216FE3D5E6EE5E4D" sha1="E744A6E50B23AEB42B2E454DB39FB1235C543F02" />
-		<rom name="ShadowCaster (Japan) (Track 31).bin" size="1058400" crc="6E12FBC1" md5="9339ABF78B138AF3323FD573FAAE60B0" sha1="11048063B72548C9EAF540DD2FAF0C193CE73636" />
-		<rom name="ShadowCaster (Japan) (Track 32).bin" size="2293200" crc="087272A8" md5="3DC46E9F587F654ED343045041282093" sha1="66C686F747F025E30696EBA6A6D1F0A1F5804734" />
-		<rom name="ShadowCaster (Japan) (Track 33).bin" size="1218336" crc="30B9EBA7" md5="333F5DA698B8040F5C0A32B80FC8A20A" sha1="AA34D98412EB85149000B4624E131821CC4A4BCB" />
-		<rom name="ShadowCaster (Japan) (Track 34).bin" size="1458240" crc="023B2092" md5="1CF77FCAFE6F412E4FB86FE34AC48FB9" sha1="63B5E94F0BCB28BEC59B402261414A678B63070E" />
-		<rom name="ShadowCaster (Japan) (Track 35).bin" size="1811040" crc="FE3FAD9E" md5="59EF79F70B286DCAE4013E4448CA0AA0" sha1="1B7F6C35E13D0855BDE7893EF1E7BE5909E7138C" />
-		<rom name="ShadowCaster (Japan) (Track 36).bin" size="2027424" crc="FD973CC6" md5="CC5C759D9BD148338B02FC9600CD4119" sha1="9F18966380013CCED4ED9EAAC4448078101B21C1" />
-		<rom name="ShadowCaster (Japan) (Track 37).bin" size="1465296" crc="A4CF496B" md5="63CB073FAB4A2369110204A916177582" sha1="43092B2437919230F67F988C78161B7DB3134678" />
-		<rom name="ShadowCaster (Japan) (Track 38).bin" size="1058400" crc="FB14B6E3" md5="E8FBEF979C6C496AF9589DE46D817EC1" sha1="456CA6684E0E8F3D565E03C3AC867A412236D369" />
-		<rom name="ShadowCaster (Japan) (Track 39).bin" size="3085824" crc="594190F3" md5="CAB608F11CDB8A241ADFB79B79F49590" sha1="6A39D991820976FEEDA323667FF56FF1AAE00782" />
-		<rom name="ShadowCaster (Japan) (Track 40).bin" size="2481360" crc="79893EFF" md5="F88EB72217901AD3D23F4CDE49805A7E" sha1="659CC64D298208082CDB1FD8C991A3DBFEBABD47" />
+		<rom name="ShadowCaster (Japan).cue" size="5182" crc="05db82eb" md5="e505775f3db8ec2f40bd5aac38042479" sha1="5830d587dccfec781b7209d11032dbd2ffa2b145"/>
+		<rom name="ShadowCaster (Japan) (Track 01).bin" size="47204640" crc="957f954a" md5="34cfb75085494b0a83ad9facd185f2a9" sha1="87540e53f5c39f24e9bac9e61f1bb2e6c0a233a3"/>
+		<rom name="ShadowCaster (Japan) (Track 02).bin" size="1234800" crc="95317356" md5="74b90ba9e50fbc705076f28c8577ee1f" sha1="c13b7ea244747ef19539ccc6cb739904106f199c"/>
+		<rom name="ShadowCaster (Japan) (Track 03).bin" size="1263024" crc="6e67af20" md5="c8f0fbd5652687e8133fdcad2bc63cd4" sha1="eea117aacc82d919219807eca34ab92287a02ed6"/>
+		<rom name="ShadowCaster (Japan) (Track 04).bin" size="1912176" crc="17c896d8" md5="60d864daf13b067760ecef5e34885b9e" sha1="85f05b1562f6e94411614d5cf227be2e86e74f57"/>
+		<rom name="ShadowCaster (Japan) (Track 05).bin" size="1822800" crc="8aa3d4d8" md5="e1a5c718640b5cb6960e5fe9887587bd" sha1="11e50454f4a76747c824a8471d12d9a2fb5fcfcf"/>
+		<rom name="ShadowCaster (Japan) (Track 06).bin" size="1552320" crc="c0395b03" md5="1668fc16e838ebd2856189126bde94d3" sha1="3b41a0d93ab4893e1b9241fb5d221b57b30327ec"/>
+		<rom name="ShadowCaster (Japan) (Track 07).bin" size="3215184" crc="23821d79" md5="d2830fa1406d712e818cef0b7bee3ed4" sha1="05d67a6b46a2b76a14f2372d0477fe635b6b94dc"/>
+		<rom name="ShadowCaster (Japan) (Track 08).bin" size="2622480" crc="f76bbfde" md5="ba1c175a715c2ff76b2549732164645c" sha1="55952810554ce627c6f74503fd57aec9cea823e3"/>
+		<rom name="ShadowCaster (Japan) (Track 09).bin" size="1905120" crc="9c8c464d" md5="16fad3a3306aab49153eb5a17423156a" sha1="c90614495fe38d3e306390212064906e089b990d"/>
+		<rom name="ShadowCaster (Japan) (Track 10).bin" size="2241456" crc="7f7bf40b" md5="5bc1044827313317acedd83b018ef0dc" sha1="4f8dd703ffd044815388728e9691ff130d3f01b3"/>
+		<rom name="ShadowCaster (Japan) (Track 11).bin" size="1451184" crc="20c7f3ac" md5="ce43601278530bae76f482184b7eee0f" sha1="b295d2ed639876ad273edeae29eb7f3ff850cb59"/>
+		<rom name="ShadowCaster (Japan) (Track 12).bin" size="1312416" crc="7611018e" md5="f40c070322eaa8372d9e7f00ccce2b79" sha1="6e5d51266b395d7a0e8b3364301477b0856f5b50"/>
+		<rom name="ShadowCaster (Japan) (Track 13).bin" size="1651104" crc="dd25101a" md5="ee8e4a0fafb810d25df0062050997fd1" sha1="8d59517283db654490dd09dee57fc107d9e91a56"/>
+		<rom name="ShadowCaster (Japan) (Track 14).bin" size="2869440" crc="3906c4f0" md5="51958e7e095244bc20a631c23c84c8fe" sha1="215ba1fade762858fd7fb8854590b11f345e65c3"/>
+		<rom name="ShadowCaster (Japan) (Track 15).bin" size="2970576" crc="dce5b84d" md5="837f0214c1199389112a5f08f6124f3b" sha1="c887f65803dd287b35cc712adf5f01a9dc75e37a"/>
+		<rom name="ShadowCaster (Japan) (Track 16).bin" size="2486064" crc="6d257ad2" md5="7b61fcd8079e778d6d788d7cfecca2af" sha1="6fb0745b7a15995bff3e1dce2604b6ddb15b4381"/>
+		<rom name="ShadowCaster (Japan) (Track 17).bin" size="1959216" crc="555ec005" md5="09708d554622e082b5e350be084e7780" sha1="692727ecdbe3a9a7a0248dcb79e7183e7e9b2dec"/>
+		<rom name="ShadowCaster (Japan) (Track 18).bin" size="2046240" crc="4ad69743" md5="9b1c7d173836c628b79393d640eda03c" sha1="2186f8a67eb86f26795beed007b5c442c72a3964"/>
+		<rom name="ShadowCaster (Japan) (Track 19).bin" size="1905120" crc="869d64d4" md5="d2fffc90fddd84e620688a2b7dc31d96" sha1="27aaed658a0cd67561f6d1bee749d5ec2371af5b"/>
+		<rom name="ShadowCaster (Japan) (Track 20).bin" size="2504880" crc="91764212" md5="476dda9b4827d211c67173207bb0d0e5" sha1="7cf9e61913c8e6ef4a58d783771d8ea2b0dc07ce"/>
+		<rom name="ShadowCaster (Japan) (Track 21).bin" size="2140320" crc="0fbede55" md5="22e8b56025e754bd3f89cebd3658e2d0" sha1="f4350867443bb23f91dd0623212da6f61dbf873d"/>
+		<rom name="ShadowCaster (Japan) (Track 22).bin" size="1933344" crc="03d06de2" md5="4bf2cd035ee5f927da65f57b97440fb8" sha1="121539f239e3dd3e998c3ba6101ac274f6c45fc7"/>
+		<rom name="ShadowCaster (Japan) (Track 23).bin" size="2464896" crc="8d3171df" md5="47eae84010a336ed9df0aab7d310ce2b" sha1="b9b6184d9a8159e47f07278cefa15f8d48f5e54b"/>
+		<rom name="ShadowCaster (Japan) (Track 24).bin" size="1768704" crc="9e84a1c1" md5="41afee634f942db4d9aebd9f9f31419e" sha1="f851035a081b71eb2a069f15aea9aaac9db06e41"/>
+		<rom name="ShadowCaster (Japan) (Track 25).bin" size="3163440" crc="1607a2d4" md5="8843b7c5fd992ed058a851b14970dff1" sha1="06da49a91800b3650803187eb1d8040e1424f7f4"/>
+		<rom name="ShadowCaster (Japan) (Track 26).bin" size="1841616" crc="0a691fac" md5="83cda6b95c77c21df110ae2de330f777" sha1="8a9e37edcc8cf4f1e48e789ea414cc7f156c2da0"/>
+		<rom name="ShadowCaster (Japan) (Track 27).bin" size="1451184" crc="f3f1176d" md5="8381103cd32454473523695ada6f492b" sha1="97223db1596ba5ac7076ba8ab7797604d549340c"/>
+		<rom name="ShadowCaster (Japan) (Track 28).bin" size="2217936" crc="d7856008" md5="6627db472ecffda6dbccae34b50beb6b" sha1="0ce9ef457b60d5059ff1e8afe58f61dda808f158"/>
+		<rom name="ShadowCaster (Japan) (Track 29).bin" size="1333584" crc="e0f20bc1" md5="275be07cbc55f2459cdc4094e47341e9" sha1="83982352d90d8780b705cba5edd4257afec08805"/>
+		<rom name="ShadowCaster (Japan) (Track 30).bin" size="2281440" crc="ba5d6048" md5="399914bfa0420fa4216fe3d5e6ee5e4d" sha1="e744a6e50b23aeb42b2e454db39fb1235c543f02"/>
+		<rom name="ShadowCaster (Japan) (Track 31).bin" size="1058400" crc="6e12fbc1" md5="9339abf78b138af3323fd573faae60b0" sha1="11048063b72548c9eaf540dd2faf0c193ce73636"/>
+		<rom name="ShadowCaster (Japan) (Track 32).bin" size="2293200" crc="087272a8" md5="3dc46e9f587f654ed343045041282093" sha1="66c686f747f025e30696eba6a6d1f0a1f5804734"/>
+		<rom name="ShadowCaster (Japan) (Track 33).bin" size="1218336" crc="30b9eba7" md5="333f5da698b8040f5c0a32b80fc8a20a" sha1="aa34d98412eb85149000b4624e131821cc4a4bcb"/>
+		<rom name="ShadowCaster (Japan) (Track 34).bin" size="1458240" crc="023b2092" md5="1cf77fcafe6f412e4fb86fe34ac48fb9" sha1="63b5e94f0bcb28bec59b402261414a678b63070e"/>
+		<rom name="ShadowCaster (Japan) (Track 35).bin" size="1811040" crc="fe3fad9e" md5="59ef79f70b286dcae4013e4448ca0aa0" sha1="1b7f6c35e13d0855bde7893ef1e7be5909e7138c"/>
+		<rom name="ShadowCaster (Japan) (Track 36).bin" size="2027424" crc="fd973cc6" md5="cc5c759d9bd148338b02fc9600cd4119" sha1="9f18966380013cced4ed9eaac4448078101b21c1"/>
+		<rom name="ShadowCaster (Japan) (Track 37).bin" size="1465296" crc="a4cf496b" md5="63cb073fab4a2369110204a916177582" sha1="43092b2437919230f67f988c78161b7db3134678"/>
+		<rom name="ShadowCaster (Japan) (Track 38).bin" size="1058400" crc="fb14b6e3" md5="e8fbef979c6c496af9589de46d817ec1" sha1="456ca6684e0e8f3d565e03c3ac867a412236d369"/>
+		<rom name="ShadowCaster (Japan) (Track 39).bin" size="3085824" crc="594190f3" md5="cab608f11cdb8a241adfb79b79f49590" sha1="6a39d991820976feeda323667ff56ff1aae00782"/>
+		<rom name="ShadowCaster (Japan) (Track 40).bin" size="2481360" crc="79893eff" md5="f88eb72217901ad3d23f4cde49805a7e" sha1="659cc64d298208082cdb1fd8c991a3dbfebabd47"/>
 	</game>
 	<game name="Stars (Japan)" type="">
 		<category>Games</category>
 		<description>Stars (Japan)</description>
-		<rom name="Stars (Japan) (Track 01).bin" size="65131584" crc="38B2AEAC" md5="AC9BD72F71FA1A76E16E245015F0BFC3" sha1="34B09C13AF1B9C99C33D7748E6C6AF4BEC27229C" />
-		<rom name="Stars (Japan) (Track 02).bin" size="30338448" crc="90F01EBF" md5="3E9EED80A00E9899654E9D96C6752535" sha1="B146211EE73231B5704B5D2E0F36EFD28E88EE52" />
-		<rom name="Stars (Japan) (Track 03).bin" size="705600" crc="B6905524" md5="C5019D7B06D2D95BB406571233BB6C04" sha1="7447B4D4B5966C05C186137E6F32492DCD04483C" />
-		<rom name="Stars (Japan) (Track 04).bin" size="26462352" crc="9545B40A" md5="DD850C6200512F248C00C57193982C09" sha1="144C7FAA1947F46EF0593C9328B8327E9EE034B3" />
-		<rom name="Stars (Japan) (Track 05).bin" size="26462352" crc="73A53399" md5="AFF70E686E509A7B27303E896C4B0B55" sha1="41F603B70249EC19DCB8A7355EE05B922222001A" />
-		<rom name="Stars (Japan) (Track 06).bin" size="26464704" crc="A5B30DE1" md5="9FA2B7EAD3A2526B2BAC4BE7ADC590CE" sha1="60EAFA358C472410D1A966DAB665F693E34B1128" />
-		<rom name="Stars (Japan) (Track 07).bin" size="26464704" crc="470A81F4" md5="20DC1115919BE7AE53E23AA4C710E9D5" sha1="92093BABD4B8AE896820227063717B853A2445A2" />
-		<rom name="Stars (Japan) (Track 08).bin" size="26462352" crc="6042DC53" md5="45FAC5D09364959F52F0C6DE0B0B3435" sha1="CE6051E14B703C90125A3865F9DBC2580D0DADA6" />
-		<rom name="Stars (Japan) (Track 09).bin" size="26462352" crc="2FB04359" md5="A8F1521496E648E08FF1BA5A994B17AE" sha1="C41019186D35429AE3BEBEEB83351446CD83431F" />
-		<rom name="Stars (Japan) (Track 10).bin" size="26464704" crc="96C83F23" md5="1A7E8513229730A896B46CD58E76062A" sha1="31BC7E47598E5E2488311819F796457FE116501B" />
-		<rom name="Stars (Japan) (Track 11).bin" size="26464704" crc="6B6E62BB" md5="A3834B7A63AE38DD9900F9061912AB50" sha1="9F46EAF30B641568F0BE40B423CF64BD3E1ACD41" />
-		<rom name="Stars (Japan) (Track 12).bin" size="26462352" crc="29432DCB" md5="7AFB20018E011BB7B7FE06E3EC0241D2" sha1="8EF97A6086A7DA28B36EA0E343B677B44436239D" />
-		<rom name="Stars (Japan) (Track 13).bin" size="21172704" crc="D4D8A896" md5="3600F5C96989B34798BD89B1414BA782" sha1="46BBD08E273AD808E149873833AE554851045DC8" />
-		<rom name="Stars (Japan) (Track 14).bin" size="21172704" crc="29E60625" md5="3BA4EC6C5ABE22AFD556258157340186" sha1="84A148C44E68A2A26625E69EC51E320579737D70" />
-		<rom name="Stars (Japan) (Track 15).bin" size="26462352" crc="CF7F0183" md5="33FA018173EAEF189B2ABE827B553930" sha1="9082F90FC5377A8259FA54E94A5D9655785D882D" />
-		<rom name="Stars (Japan) (Track 16).bin" size="26462352" crc="ECB6FB69" md5="BDC09CA9110922B0A57A7A6DF74AD38C" sha1="8FD31BFDAB2F58611DCFC07E26983CE3D2E6BFE0" />
-		<rom name="Stars (Japan) (Track 17).bin" size="26462352" crc="83F8202B" md5="E884D0278392430B19B32BA517928A43" sha1="130F6436C8180AB383D6A09D548ADC573D121170" />
-		<rom name="Stars (Japan) (Track 18).bin" size="26462352" crc="188AD764" md5="76EF76FE0BF42F425D67A2D38BA87E3B" sha1="C2044F0F7C19D88ED3835799C78A40E97A9E79F7" />
-		<rom name="Stars (Japan) (Track 19).bin" size="31436832" crc="6885C1B5" md5="4F820797FB18BDA71F62765F79BC3A9D" sha1="59F4BA9C71DBCE9CDF0854B1B60863B090312490" />
-		<rom name="Stars (Japan) (Track 20).bin" size="21172704" crc="B469CD2E" md5="45C0070AA86AEB03B57918285EC9DA71" sha1="A7498BB1C7CF6DAEDB600BD1F0710587E1345AA0" />
-		<rom name="Stars (Japan) (Track 21).bin" size="10588704" crc="44206100" md5="FB319824E44670273C9AB40C8711A107" sha1="36EDE5471A31545524A43DC7E37E52B121E8D907" />
-		<rom name="Stars (Japan) (Track 22).bin" size="10591056" crc="46F4B876" md5="7536E67F44F099EFDB5089387796A3E9" sha1="3D81EE1FF33179A7EFDEEBAE2B4FC6E6E909521E" />
+		<rom name="Stars (Japan).cue" size="1898" crc="2ac3c9d8" md5="3ebd6340bf003476bae3f7035633083e" sha1="2c4efcf3c9b2a47d765b7123a9f4b1d620a5b5cb"/>
+		<rom name="Stars (Japan) (Track 01).bin" size="65131584" crc="38b2aeac" md5="ac9bd72f71fa1a76e16e245015f0bfc3" sha1="34b09c13af1b9c99c33d7748e6c6af4bec27229c"/>
+		<rom name="Stars (Japan) (Track 02).bin" size="30338448" crc="90f01ebf" md5="3e9eed80a00e9899654e9d96c6752535" sha1="b146211ee73231b5704b5d2e0f36efd28e88ee52"/>
+		<rom name="Stars (Japan) (Track 03).bin" size="705600" crc="b6905524" md5="c5019d7b06d2d95bb406571233bb6c04" sha1="7447b4d4b5966c05c186137e6f32492dcd04483c"/>
+		<rom name="Stars (Japan) (Track 04).bin" size="26462352" crc="9545b40a" md5="dd850c6200512f248c00c57193982c09" sha1="144c7faa1947f46ef0593c9328b8327e9ee034b3"/>
+		<rom name="Stars (Japan) (Track 05).bin" size="26462352" crc="73a53399" md5="aff70e686e509a7b27303e896c4b0b55" sha1="41f603b70249ec19dcb8a7355ee05b922222001a"/>
+		<rom name="Stars (Japan) (Track 06).bin" size="26464704" crc="a5b30de1" md5="9fa2b7ead3a2526b2bac4be7adc590ce" sha1="60eafa358c472410d1a966dab665f693e34b1128"/>
+		<rom name="Stars (Japan) (Track 07).bin" size="26464704" crc="470a81f4" md5="20dc1115919be7ae53e23aa4c710e9d5" sha1="92093babd4b8ae896820227063717b853a2445a2"/>
+		<rom name="Stars (Japan) (Track 08).bin" size="26462352" crc="6042dc53" md5="45fac5d09364959f52f0c6de0b0b3435" sha1="ce6051e14b703c90125a3865f9dbc2580d0dada6"/>
+		<rom name="Stars (Japan) (Track 09).bin" size="26462352" crc="2fb04359" md5="a8f1521496e648e08ff1ba5a994b17ae" sha1="c41019186d35429ae3bebeeb83351446cd83431f"/>
+		<rom name="Stars (Japan) (Track 10).bin" size="26464704" crc="96c83f23" md5="1a7e8513229730a896b46cd58e76062a" sha1="31bc7e47598e5e2488311819f796457fe116501b"/>
+		<rom name="Stars (Japan) (Track 11).bin" size="26464704" crc="6b6e62bb" md5="a3834b7a63ae38dd9900f9061912ab50" sha1="9f46eaf30b641568f0be40b423cf64bd3e1acd41"/>
+		<rom name="Stars (Japan) (Track 12).bin" size="26462352" crc="29432dcb" md5="7afb20018e011bb7b7fe06e3ec0241d2" sha1="8ef97a6086a7da28b36ea0e343b677b44436239d"/>
+		<rom name="Stars (Japan) (Track 13).bin" size="21172704" crc="d4d8a896" md5="3600f5c96989b34798bd89b1414ba782" sha1="46bbd08e273ad808e149873833ae554851045dc8"/>
+		<rom name="Stars (Japan) (Track 14).bin" size="21172704" crc="29e60625" md5="3ba4ec6c5abe22afd556258157340186" sha1="84a148c44e68a2a26625e69ec51e320579737d70"/>
+		<rom name="Stars (Japan) (Track 15).bin" size="26462352" crc="cf7f0183" md5="33fa018173eaef189b2abe827b553930" sha1="9082f90fc5377a8259fa54e94a5d9655785d882d"/>
+		<rom name="Stars (Japan) (Track 16).bin" size="26462352" crc="ecb6fb69" md5="bdc09ca9110922b0a57a7a6df74ad38c" sha1="8fd31bfdab2f58611dcfc07e26983ce3d2e6bfe0"/>
+		<rom name="Stars (Japan) (Track 17).bin" size="26462352" crc="83f8202b" md5="e884d0278392430b19b32ba517928a43" sha1="130f6436c8180ab383d6a09d548adc573d121170"/>
+		<rom name="Stars (Japan) (Track 18).bin" size="26462352" crc="188ad764" md5="76ef76fe0bf42f425d67a2d38ba87e3b" sha1="c2044f0f7c19d88ed3835799c78a40e97a9e79f7"/>
+		<rom name="Stars (Japan) (Track 19).bin" size="31436832" crc="6885c1b5" md5="4f820797fb18bda71f62765f79bc3a9d" sha1="59f4ba9c71dbce9cdf0854b1b60863b090312490"/>
+		<rom name="Stars (Japan) (Track 20).bin" size="21172704" crc="b469cd2e" md5="45c0070aa86aeb03b57918285ec9da71" sha1="a7498bb1c7cf6daedb600bd1f0710587e1345aa0"/>
+		<rom name="Stars (Japan) (Track 21).bin" size="10588704" crc="44206100" md5="fb319824e44670273c9ab40c8711a107" sha1="36ede5471a31545524a43dc7e37e52b121e8d907"/>
+		<rom name="Stars (Japan) (Track 22).bin" size="10591056" crc="46f4b876" md5="7536e67f44f099efdb5089387796a3e9" sha1="3d81ee1ff33179a7efdeebae2b4fc6e6e909521e"/>
 	</game>
 	<game name="Taiheiyou no Arashi 2 (Japan)" type="">
 		<category>Games</category>
 		<description>Taiheiyou no Arashi 2 (Japan)</description>
-		<rom name="Taiheiyou no Arashi 2 (Japan).bin" size="8436624" crc="99555541" md5="BB719068CC1C1AF2F570D43AE7F01FCB" sha1="FD6AF894B7FF70C3E448BA6E89DBC04ACC5B5AA8" />
+		<rom name="Taiheiyou no Arashi 2 (Japan).cue" size="118" crc="ef18e6b9" md5="e5dbd6523fcf453fba96e1b52817651b" sha1="fb11ebab839674328451dcf9ffac72782e207911"/>
+		<rom name="Taiheiyou no Arashi 2 (Japan).bin" size="8436624" crc="99555541" md5="bb719068cc1c1af2f570d43ae7f01fcb" sha1="fd6af894b7ff70c3e448ba6e89dbc04acc5b5aa8"/>
 	</game>
 </datafile>

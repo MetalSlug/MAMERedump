@@ -11,40 +11,40 @@
 	</header>
 	<game name="Cellshaded Teapot Demo v1.0 (2005-03-08)(Greay)(PD)[scrambled]" type="">
 		<description>Cellshaded Teapot Demo v1.0 (2005-03-08)(Greay)(PD)[scrambled]</description>
-		<rom name="1ST_READ.BIN" size="676684" crc="37201ED4" md5="906CB16BDE78AE2EDA8970F16324DD8E" sha1="21615863B0871DFD2FB0A0F9453D36D0B051DDD6" />
-		<rom name="RTest.BIN" size="676684" crc="1C5DC82F" md5="E7C93550FC47E3690B25EEA22E615AB0" sha1="1F3E3227CE8459C3EC39707FB00E996D808AB031" />
+		<rom name="1ST_READ.BIN" size="676684" crc="37201ed4" md5="906cb16bde78ae2eda8970f16324dd8e" sha1="21615863b0871dfd2fb0a0f9453d36d0b051ddd6"/>
+		<rom name="RTest.BIN" size="676684" crc="1c5dc82f" md5="e7c93550fc47e3690b25eea22e615ab0" sha1="1f3e3227ce8459c3ec39707fb00e996d808ab031"/>
 	</game>
 	<game name="Cheap Shadows Demo - Modifier Tex (19xx)(Tollack, Heinrich)(PD)" type="">
 		<description>Cheap Shadows Demo - Modifier Tex (19xx)(Tollack, Heinrich)(PD)</description>
-		<rom name="modifier_tex.elf" size="267283" crc="BC521014" md5="C6028B3E0A801BF5A95637C15FD19D41" sha1="A8BD02D70B8CAADC4FE0666F8E224CE3742E14DE" />
-		<rom name="romdisk.img" size="3072" crc="11D43A0E" md5="23A4F21DE39916B2CC008FC5300CEB49" sha1="4EEA8F62ACEDB7AD3358C7B6A86794536FBB3C98" />
-		<rom name="romdisk\tex1.png" size="274" crc="B46F9400" md5="64AFE3679A7AE66A6755D1AE86F42536" sha1="5F544412DAABE3A22AC46C406097EFBB49754004" />
-		<rom name="romdisk\tex2.png" size="1880" crc="6CCF889F" md5="F85B0B21B8B8F7F060045A42DEE39518" sha1="073250E03E54D9358C74CCCCFA9324487711260D" />
+		<rom name="modifier_tex.elf" size="267283" crc="bc521014" md5="c6028b3e0a801bf5a95637c15fd19d41" sha1="a8bd02d70b8caadc4fe0666f8e224ce3742e14de"/>
+		<rom name="romdisk.img" size="3072" crc="11d43a0e" md5="23a4f21de39916b2cc008fc5300ceb49" sha1="4eea8f62acedb7ad3358c7b6a86794536fbb3c98"/>
+		<rom name="romdisk\tex1.png" size="274" crc="b46f9400" md5="64afe3679a7ae66a6755d1ae86f42536" sha1="5f544412daabe3a22ac46c406097efbb49754004"/>
+		<rom name="romdisk\tex2.png" size="1880" crc="6ccf889f" md5="f85b0b21b8b8f7f060045a42dee39518" sha1="073250e03e54d9358c74ccccfa9324487711260d"/>
 	</game>
 	<game name="Heightfield (19xx)(-)(PD)" type="">
 		<description>Heightfield (19xx)(-)(PD)</description>
-		<rom name="heightfield.elf" size="93764" crc="18EAB059" md5="57C4A824BF4E3D81ED7CF4CBB5EA7D99" sha1="79356349DD048802E87515C547381E66269895C2" />
-		<rom name="heightfield.xpm" size="66750" crc="A7FA00D4" md5="625B3A030F60276613D4753E74168707" sha1="E350F542A77A9EAFCCBD27B3FB6CFF0C2A670411" />
+		<rom name="heightfield.elf" size="93764" crc="18eab059" md5="57c4a824bf4e3d81ed7cf4cbb5ea7d99" sha1="79356349dd048802e87515c547381e66269895c2"/>
+		<rom name="heightfield.xpm" size="66750" crc="a7fa00d4" md5="625b3a030f60276613d4753e74168707" sha1="e350f542a77a9eafccbd27b3fb6cff0c2a670411"/>
 	</game>
 	<game name="NewVoxel (2003-05-03)(Reaper2k2)(PD)[scrambled]" type="">
 		<description>NewVoxel (2003-05-03)(Reaper2k2)(PD)[scrambled]</description>
-		<rom name="1ST_READ.BIN" size="901660" crc="D9B760A3" md5="20F88E5BAD23F18767FBD2A3150F0879" sha1="1AE25A04C991C9065E9E15147DB45547B6211510" />
-		<rom name="about.png" size="72014" crc="BA065FEE" md5="F1D4514A54D4BB340F83B1ED6D51ED36" sha1="E1602BE89EDCD668C4C6557599EB861C2D0BAB6B" />
-		<rom name="imr.png" size="77841" crc="8342E771" md5="416512E25E1346E17F6F1CA6FF1FBF8B" sha1="6A6ABB7056F6C92087FBDFE8D162DC21F4EA5884" />
-		<rom name="IP.BIN" size="32768" crc="507A4EC6" md5="9D53E2015BB246641B9D0E9BA2B31E67" sha1="D4A42A20566542975CD908053C5B852E5F125D0B" />
-		<rom name="man1.png" size="1432" crc="0FB3F6FC" md5="DA7D8EED402CBEB9F2F885DF743E79C5" sha1="3345672B55A15EAF3B1754985FE901905EDFD53E" />
-		<rom name="man2.png" size="1450" crc="E569D504" md5="5DB52FBFD03DD112F23B3FF4B3EF23FD" sha1="985C2C8786CE86AF77ED2856568AAACE1E91D15C" />
-		<rom name="man3.png" size="1356" crc="E0AE332A" md5="9CCDB0E62375CABD1829D972A6AD8553" sha1="F066B895CBB52FD5EC402AE8247DC1D5C28C52E9" />
-		<rom name="man4.png" size="1420" crc="F044517C" md5="5E2350F75DAB4655DFAEE0FB53D758DE" sha1="018B7036D5EB6D40462E7ECDCEA01DCC17AC92D4" />
-		<rom name="sam.ogg" size="307506" crc="3F0B4920" md5="900FB38A312D96FE59F15A340EB29E5A" sha1="5694CF8A42DD4FBE3D883B67DD49D6B01434123A" />
-		<rom name="stick.png" size="76094" crc="62DC7FA8" md5="88D366758C583A7A8EB93DD1626F235C" sha1="F1D2760F750AFF56CB7D8BE11AAD1EE06D79C471" />
-		<rom name="tex1.png" size="2074" crc="09BD3FCB" md5="8D14C14DD9CBCAE9554FBF29468D8F91" sha1="7FD2D98CC4A90F271B24C0A09E90FE1FB674F53E" />
+		<rom name="1ST_READ.BIN" size="901660" crc="d9b760a3" md5="20f88e5bad23f18767fbd2a3150f0879" sha1="1ae25a04c991c9065e9e15147db45547b6211510"/>
+		<rom name="about.png" size="72014" crc="ba065fee" md5="f1d4514a54d4bb340f83b1ed6d51ed36" sha1="e1602be89edcd668c4c6557599eb861c2d0bab6b"/>
+		<rom name="imr.png" size="77841" crc="8342e771" md5="416512e25e1346e17f6f1ca6ff1fbf8b" sha1="6a6abb7056f6c92087fbdfe8d162dc21f4ea5884"/>
+		<rom name="IP.BIN" size="32768" crc="507a4ec6" md5="9d53e2015bb246641b9d0e9ba2b31e67" sha1="d4a42a20566542975cd908053c5b852e5f125d0b"/>
+		<rom name="man1.png" size="1432" crc="0fb3f6fc" md5="da7d8eed402cbeb9f2f885df743e79c5" sha1="3345672b55a15eaf3b1754985fe901905edfd53e"/>
+		<rom name="man2.png" size="1450" crc="e569d504" md5="5db52fbfd03dd112f23b3ff4b3ef23fd" sha1="985c2c8786ce86af77ed2856568aaace1e91d15c"/>
+		<rom name="man3.png" size="1356" crc="e0ae332a" md5="9ccdb0e62375cabd1829d972a6ad8553" sha1="f066b895cbb52fd5ec402ae8247dc1d5c28c52e9"/>
+		<rom name="man4.png" size="1420" crc="f044517c" md5="5e2350f75dab4655dfaee0fb53d758de" sha1="018b7036d5eb6d40462e7ecdcea01dcc17ac92d4"/>
+		<rom name="sam.ogg" size="307506" crc="3f0b4920" md5="900fb38a312d96fe59f15a340eb29e5a" sha1="5694cf8a42dd4fbe3d883b67dd49d6b01434123a"/>
+		<rom name="stick.png" size="76094" crc="62dc7fa8" md5="88d366758c583a7a8eb93dd1626f235c" sha1="f1d2760f750aff56cb7d8be11aad1ee06d79c471"/>
+		<rom name="tex1.png" size="2074" crc="09bd3fcb" md5="8d14c14dd9cbcae9554fbf29468d8f91" sha1="7fd2d98cc4a90f271b24c0a09e90fe1fb674f53e"/>
 	</game>
 	<game name="SDL Sprite Example (2003-04-05)(Reaper2k2)(PD)[scrambled]" type="">
 		<description>SDL Sprite Example (2003-04-05)(Reaper2k2)(PD)[scrambled]</description>
-		<rom name="1ST_READ.BIN" size="310540" crc="96D18B8C" md5="094DE4622C02B682152EAADBDDD1EA35" sha1="094CC2EB4BCEFA99BEB153D80179D4FFBB1F81F4" />
-		<rom name="IP.BIN" size="32768" crc="507A4EC6" md5="9D53E2015BB246641B9D0E9BA2B31E67" sha1="D4A42A20566542975CD908053C5B852E5F125D0B" />
-		<rom name="sdlsprite_example2" size="94404" crc="3BE049F7" md5="3618152BEFB642756ACD854CF421CC6B" sha1="190A2845E0828E278252BBB3110F9B4F411061AC" />
-		<rom name="Voiture2.bmp" size="73782" crc="3095FD5D" md5="3272F16C3F34432732E7437560C12A67" sha1="0E7E7BE2C16A5CB939C95A0A27F21EDAE79A8484" />
+		<rom name="1ST_READ.BIN" size="310540" crc="96d18b8c" md5="094de4622c02b682152eaadbddd1ea35" sha1="094cc2eb4bcefa99beb153d80179d4ffbb1f81f4"/>
+		<rom name="IP.BIN" size="32768" crc="507a4ec6" md5="9d53e2015bb246641b9d0e9ba2b31e67" sha1="d4a42a20566542975cd908053c5b852e5f125d0b"/>
+		<rom name="sdlsprite_example2" size="94404" crc="3be049f7" md5="3618152befb642756acd854cf421cc6b" sha1="190a2845e0828e278252bbb3110f9b4f411061ac"/>
+		<rom name="Voiture2.bmp" size="73782" crc="3095fd5d" md5="3272f16c3f34432732e7437560c12a67" sha1="0e7e7be2c16a5cb939c95a0a27f21edae79a8484"/>
 	</game>
 </datafile>
