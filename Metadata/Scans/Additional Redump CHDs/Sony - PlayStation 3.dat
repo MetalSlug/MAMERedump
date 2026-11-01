@@ -2,8 +2,8 @@
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
-		<name>Sony - Playstation 3</name>
-		<description>Sony - Playstation 3</description>
+		<name>Sony - PlayStation 3</name>
+		<description>Sony - PlayStation 3</description>
 		<version>0.281</version>
 		<date>2024-03-22</date>
 		<author>MAME Redump</author>
@@ -684,15 +684,15 @@
 		<description>Aquapazza - Aquaplus Dream Match (USA)</description>
 		<rom name="Aquapazza - Aquaplus Dream Match (USA).bin" size="5957025792" crc="64193355" md5="2b84cfc2a40d52f564786ef536f26396" sha1="fab4a6be63762c0fe08606afe2d37b8533e22add"/>
 	</game>
-	<game name="Ar Tonelico III - Sekai Shuuen no Hikigane wa Shoujo no Uta ga Hiku (Japan) (PlayStation 3 the Best)" type="dvd" sha1="44a87de65ab1d90cff0e47a489afcc7472d0e908" size="21067500979" crc="a299128b" fullsha1="9a56ca32d0afd4454da0571167950dd567983846" datasha1="a34afab44fab6313cd9b27f600901a33614b7a74" parentsha1="398aef6f3a9a617242cc7c316055254628eda9e0" childsize="10909468416">
-		<category>Games</category>
-		<description>Ar Tonelico III - Sekai Shuuen no Hikigane wa Shoujo no Uta ga Hiku (Japan) (PlayStation 3 the Best)</description>
-		<rom name="Ar Tonelico III - Sekai Shuuen no Hikigane wa Shoujo no Uta ga Hiku (Japan) (PlayStation 3 the Best).bin" size="24571346944" crc="dca83415" md5="249713c4836bc6e1a5fc9088ba011338" sha1="a34afab44fab6313cd9b27f600901a33614b7a74"/>
-	</game>
 	<game name="Ar Tonelico III - Sekai Shuuen no Hikigane wa Shoujo no Uta ga Hiku (Japan)" type="dvd" sha1="608754d8d09f4c162cdd79e44e6c323f90650a50" size="21043956921" crc="7d0f2675" fullsha1="8d9e51776c3e90f963ea2c3eeb48f6c794e72b83" datasha1="c44ec6857982617d7f48674fc61aa3d9be922c17" parentsha1="398aef6f3a9a617242cc7c316055254628eda9e0" childsize="10885916352">
 		<category>Games</category>
 		<description>Ar Tonelico III - Sekai Shuuen no Hikigane wa Shoujo no Uta ga Hiku (Japan)</description>
 		<rom name="Ar Tonelico III - Sekai Shuuen no Hikigane wa Shoujo no Uta ga Hiku (Japan).bin" size="24570363904" crc="17cdee8b" md5="dec031849e86e5ef7e7e06b6fd3627b6" sha1="c44ec6857982617d7f48674fc61aa3d9be922c17"/>
+	</game>
+	<game name="Ar Tonelico III - Sekai Shuuen no Hikigane wa Shoujo no Uta ga Hiku (Japan) (PlayStation 3 the Best)" type="dvd" sha1="44a87de65ab1d90cff0e47a489afcc7472d0e908" size="21067500979" crc="a299128b" fullsha1="9a56ca32d0afd4454da0571167950dd567983846" datasha1="a34afab44fab6313cd9b27f600901a33614b7a74" parentsha1="398aef6f3a9a617242cc7c316055254628eda9e0" childsize="10909468416">
+		<category>Games</category>
+		<description>Ar Tonelico III - Sekai Shuuen no Hikigane wa Shoujo no Uta ga Hiku (Japan) (PlayStation 3 the Best)</description>
+		<rom name="Ar Tonelico III - Sekai Shuuen no Hikigane wa Shoujo no Uta ga Hiku (Japan) (PlayStation 3 the Best).bin" size="24571346944" crc="dca83415" md5="249713c4836bc6e1a5fc9088ba011338" sha1="a34afab44fab6313cd9b27f600901a33614b7a74"/>
 	</game>
 	<game name="Ar Tonelico Qoga - Knell of Ar Ciel (Europe)" type="dvd" sha1="03344fa6a783775898260f29adcb966543e1c0bc" size="19683875961" crc="7fd6d531" fullsha1="ff12f5b1a7787a0df7fe150c7f58f801407b2ced" datasha1="c03e063474c9ff79552edf34a74a2bb297144c48" parentsha1="398aef6f3a9a617242cc7c316055254628eda9e0" childsize="1585563073">
 		<category>Games</category>
@@ -914,10 +914,10 @@
 		<description>Assassin's Creed (Asia) (En,Fr,De,Es,It)</description>
 		<rom name="Assassin's Creed (Asia) (En,Fr,De,Es,It).bin" size="8458469376" crc="a8a0745c" md5="db6731a6869acc20016d24daa3691983" sha1="0be60e1afd4924833229b55ed4f68a1f67628fc7"/>
 	</game>
-	<game name="Assassin's Creed (Europe, Australia) (En,Fr,De,Es,It) (FW1.94)" type="dvd" sha1="dd401fb3525944acdd3cabdb9e752e1afcdb0c8e" size="7196250464" crc="2bd1e600" fullsha1="d80745c151c800059d692fa4fb35328ba0ae7bbc" datasha1="c06b694f13a5a31127bbeb67795cacc0856acb2c" parentsha1="8ada33003452276874e51af47fd6b9acd88f85f7" childsize="78672">
+	<game name="Assassin's Creed (Europe) (En,Fr,De,Es,It) (FW1.94)" type="dvd" sha1="dd401fb3525944acdd3cabdb9e752e1afcdb0c8e" size="7196250464" crc="2bd1e600" fullsha1="d80745c151c800059d692fa4fb35328ba0ae7bbc" datasha1="c06b694f13a5a31127bbeb67795cacc0856acb2c" parentsha1="8ada33003452276874e51af47fd6b9acd88f85f7" childsize="78672">
 		<category>Games</category>
-		<description>Assassin's Creed (Europe, Australia) (En,Fr,De,Es,It) (FW1.94)</description>
-		<rom name="Assassin's Creed (Europe, Australia) (En,Fr,De,Es,It) (FW1.94).bin" size="8458469376" crc="37b77dc9" md5="03b701046dda0947e679266d6a7553c9" sha1="c06b694f13a5a31127bbeb67795cacc0856acb2c"/>
+		<description>Assassin's Creed (Europe) (En,Fr,De,Es,It) (FW1.94)</description>
+		<rom name="Assassin's Creed (Europe) (En,Fr,De,Es,It) (FW1.94).bin" size="8458469376" crc="37b77dc9" md5="03b701046dda0947e679266d6a7553c9" sha1="c06b694f13a5a31127bbeb67795cacc0856acb2c"/>
 	</game>
 	<game name="Assassin's Creed (Europe, Australia) (En,Fr,De,Es,It) (FW2.00)" type="dvd" sha1="47935f91b4b377757ef338ac7a70954162f3ef93" size="7195653949" crc="42789991" fullsha1="2e9a687d77aa1104262d639060bea5b188a81afb" datasha1="054bb14f67c2c7964271ad254792ddaa2318b705" parentsha1="8ada33003452276874e51af47fd6b9acd88f85f7" childsize="124800903">
 		<category>Games</category>
@@ -1244,10 +1244,10 @@
 		<description>Asura's Wrath (Japan) (En,Ja,Fr,De,Es,It)</description>
 		<rom name="Asura's Wrath (Japan) (En,Ja,Fr,De,Es,It).bin" size="7229145088" crc="5190ed3c" md5="65fe4400181b8cc05e06176cc7ef3fcf" sha1="a91b1edc652397d298857825a0ddb04f8d6c4727"/>
 	</game>
-	<game name="Asura's Wrath (USA) (En,Ja,Fr,De,Es,It)" type="dvd" sha1="8bf2d88df3460108ca6e499e9fc641fd60d99b83" size="7030774022" crc="6a99d7ef" fullsha1="adff7ed902c35d6c7193ce21db1a3742380bce74" datasha1="9b2838d346a1d9d132d5f710de4178dcffd83224">
+	<game name="Asura's Wrath (USA, Korea) (En,Ja,Fr,De,Es,It)" type="dvd" sha1="8bf2d88df3460108ca6e499e9fc641fd60d99b83" size="7030774022" crc="6a99d7ef" fullsha1="adff7ed902c35d6c7193ce21db1a3742380bce74" datasha1="9b2838d346a1d9d132d5f710de4178dcffd83224">
 		<category>Games</category>
-		<description>Asura's Wrath (USA) (En,Ja,Fr,De,Es,It)</description>
-		<rom name="Asura's Wrath (USA) (En,Ja,Fr,De,Es,It).bin" size="7229145088" crc="17dff4b7" md5="0a09f08e890fa0a7d704e31b20102356" sha1="9b2838d346a1d9d132d5f710de4178dcffd83224"/>
+		<description>Asura's Wrath (USA, Korea) (En,Ja,Fr,De,Es,It)</description>
+		<rom name="Asura's Wrath (USA, Korea) (En,Ja,Fr,De,Es,It).bin" size="7229145088" crc="17dff4b7" md5="0a09f08e890fa0a7d704e31b20102356" sha1="9b2838d346a1d9d132d5f710de4178dcffd83224"/>
 	</game>
 	<game name="Atelier Ayesha (Asia)" type="dvd" sha1="9fbfe2a31c6faaf9d01675b87f3b78479b576780" size="13807306495" crc="5e6152ab" fullsha1="ce22599125b686c710321299ecd59cc9d98a8cbb" datasha1="19705c57c951704cb4012e6abbefccdae1e6c5fc" parentsha1="6cdeee1a801a2ac2f4f8e4cf586c26d286a7c8bb" childsize="2614079276">
 		<category>Games</category>
@@ -1344,10 +1344,10 @@
 		<description>Awakened Fate Ultimatum, The (USA)</description>
 		<rom name="Awakened Fate Ultimatum, The (USA).bin" size="2741960704" crc="8ef7833f" md5="73eb6bd5cf14f3e687cf1e733d728b2a" sha1="d27478bede437121ceb0a85601f917278c7b012f"/>
 	</game>
-	<game name="Ayesha no Atelier - Tasogare no Daichi no Renkinjutsushi (Japan)" type="dvd" sha1="bcb0f610f23399ca67e531114cecd54a1d66dac2" size="13723979600" crc="30b68c27" fullsha1="59810441db1870ba251ce16342a2da088b6d5f30" datasha1="cf0cdf3687748575842785ea1a678d15f0055ee4" parentsha1="6cdeee1a801a2ac2f4f8e4cf586c26d286a7c8bb" childsize="2768113182">
+	<game name="Ayesha no Atelier - Tasogare no Daichi no Renkinjutsushi (Japan, Asia)" type="dvd" sha1="bcb0f610f23399ca67e531114cecd54a1d66dac2" size="13723979600" crc="30b68c27" fullsha1="59810441db1870ba251ce16342a2da088b6d5f30" datasha1="cf0cdf3687748575842785ea1a678d15f0055ee4" parentsha1="6cdeee1a801a2ac2f4f8e4cf586c26d286a7c8bb" childsize="2768113182">
 		<category>Games</category>
-		<description>Ayesha no Atelier - Tasogare no Daichi no Renkinjutsushi (Japan)</description>
-		<rom name="Ayesha no Atelier - Tasogare no Daichi no Renkinjutsushi (Japan).bin" size="16404447232" crc="e97b65cc" md5="cb2a11be5efac7375d03eda448bc7de1" sha1="cf0cdf3687748575842785ea1a678d15f0055ee4"/>
+		<description>Ayesha no Atelier - Tasogare no Daichi no Renkinjutsushi (Japan, Asia)</description>
+		<rom name="Ayesha no Atelier - Tasogare no Daichi no Renkinjutsushi (Japan, Asia).bin" size="16404447232" crc="e97b65cc" md5="cb2a11be5efac7375d03eda448bc7de1" sha1="cf0cdf3687748575842785ea1a678d15f0055ee4"/>
 	</game>
 	<game name="Birds of Steel (Europe) (En,Fr,De,Es,It,Ru)" type="dvd" sha1="00ff1516a29596347e019dd8e73bce9fb2c586bf" size="6204165184" crc="0b9790e7" fullsha1="3d47db6a7e15ba8279a2698e5e35686a6ba39e7a" datasha1="d2b2bb776f6ddc7684155ffb763d9b3289ccb7c3" parentsha1="632d9f0a9f0e861673dc78cfd74c8a79b39b31dd" childsize="293361059">
 		<category>Games</category>

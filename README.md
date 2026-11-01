@@ -118,8 +118,8 @@ Microsoft - Pocket PC|2026-07-03|80|2|15 GB|12 GB|
 **NEC - PC-88 series**|2026-07-03|4|0|2 GB|842 MB|555 MB (1)
 NEC - PC-98 series|2026-07-31|129|10|29 GB|15 GB|15 GB (2)
 **NEC - PC-FX**|2026-07-28|79|0|44 GB|30 GB|
-Nintendo - GameCube|2026-08-03|1982|39|2,63 TB|1,46 TB|
-Nintendo - Wii|2026-08-04|3719|62|16,02 TB|5,78 TB|
+Nintendo - GameCube|2026-11-01|2016|6|2,67 TB|1,48 TB|
+Nintendo - Wii|2026-10-29|3772|10|16,24 TB|5,87 TB|
 Palm OS|2026-08-05|159|2|19 GB|14 GB|
 Philips - CD-i|2026-08-04|2414|14|1,20 TB|728 GB|703 GB (100)
 Photo CD|2026-07-28|250|33|98 GB|47 GB|47 GB (8)
@@ -137,7 +137,7 @@ Sony - PlayStation|2026-08-06|10896|66|4,58 TB|2,55 TB|
 VM Labs - NUON|2026-07-03|9|2|12 GB|8 GB|
 **VTech - V.Flash & V.Smile Pro**|2026-07-03|51|0|23 GB|9 GB|
 **ZAPiT Games - Game Wave Family Entertainment System**|2026-07-03|17|0|53 GB|50 GB|
-Total||98432|18009|125,57 TB|89,45 TB|82,75 TB (5685)
+Total||98519|17924|125,84 TB|89,56 TB|82,86 TB (5685)
 
 
 |MAME|Exclusive|Matched|Exclusive Size|Matched Size|
