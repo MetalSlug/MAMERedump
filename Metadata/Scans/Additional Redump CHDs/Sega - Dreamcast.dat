@@ -25,7 +25,7 @@
 		<rom name="09 Chairs (Japan) (Track 11).bin" size="47969040" crc="6811d6e9" md5="f619d1356035805350a24ce3a4120a17" sha1="66f3bec5a76ee9781c74383e4acba8b08a9e75a2" wavesha1="96f7678f6cdbd200a8928ddf46fe65ba53f7e955" offsetsha1="fec440843aa153174ed14bd41338e42591efd3c5" offset="105484" offsetsize="47838214"/>
 		<rom name="09 Chairs (Japan) (Track 12).bin" size="240040416" crc="41886e5a" md5="2e9a22bc9801684be1e64c134403fe77" sha1="f7e6ccdc64664efd119bbc858081e1fb529ce138" datasha1="2193325d561d9ef299a36db5f6d870fe7e8844f2" datasize="209014784"/>
 	</game>
-	<game name="18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es)" type="gd" sha1="0e533b3e8dd4c999b1616b82805bb5183b46ff12" size="168349588" crc="36407345" fullsha1="d7522c58505780b3bc22c6d5d7b16ad587e3a72e" datasha1="09ec0d6d1911271a2680cf0bffaed46c18d9852d" rawdatasha1="0577baa5dbd6ef89e8ed63b6c907c2a8a67ddd28" rawdatasize="1201166400">
+	<game name="18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es)" type="gd" sha1="0e533b3e8dd4c999b1616b82805bb5183b46ff12" size="168349588" crc="36407345" fullsha1="d7522c58505780b3bc22c6d5d7b16ad587e3a72e" datasha1="09ec0d6d1911271a2680cf0bffaed46c18d9852d" rawdatasha1="0577baa5dbd6ef89e8ed63b6c907c2a8a67ddd28" rawdatasize="1201166400" parentsha1="c03adc04607282f755d10abb9b69975b74b25869" childsize="9794482">
 		<category>Games</category>
 		<description>18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es)</description>
 		<rom name="18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es) (Track 01).bin" size="1058400" crc="a559def4" md5="202a2b7b53f8be7314d6cea6102bda10" sha1="43ba242fe1a06bf70a451fd1bcfae7853e9c4f34" datasha1="3cc07c6e8eb088d88032b1a727cb9564d789f1e8" datasize="921600"/>
@@ -53,7 +53,7 @@
 		<rom name="21 - Two One (Japan) (Track 02).bin" size="24122112" crc="38aebe2f" md5="f63fe92c70073276a2b4526edfebe205" sha1="a7ce93021eb698d3f95fa5d69f076557c1ca0a6a" wavesha1="01def74a56ebd2da3ba00e20d7fcccc2bec18ea2" offsetsha1="426ee15c7df280880ede82d5322633685c4986e9" offset="352800" offsetsize="23415004"/>
 		<rom name="21 - Two One (Japan) (Track 03).bin" size="1185760800" crc="174bea3a" md5="315b835318048fc6674140326bade1ac" sha1="55ab754dd7a923e96b73ab703a76b04e668a7435" datasha1="3dd8573654c49ec4ee91c37ec153beda4ddd779a" datasize="1032499200"/>
 	</game>
-	<game name="4 Wheel Thunder (Europe) (En,Fr)" type="gd" sha1="66523f086c92981161f85fae03e77445ed8c106c" size="727345021" crc="e476973f" fullsha1="53b50328a3f2d05fe278de0907c321fa339ec597" datasha1="3253bbe7c04b29fda26741be6f985e24b2590469" rawdatasha1="a6c46ed5a02cdc039db1eba38aebd84ac805a903" rawdatasize="1202925696">
+	<game name="4 Wheel Thunder (Europe) (En,Fr)" type="gd" sha1="66523f086c92981161f85fae03e77445ed8c106c" size="727345021" crc="e476973f" fullsha1="53b50328a3f2d05fe278de0907c321fa339ec597" datasha1="3253bbe7c04b29fda26741be6f985e24b2590469" rawdatasha1="a6c46ed5a02cdc039db1eba38aebd84ac805a903" rawdatasize="1202925696" parentsha1="023e6d8c232ae0ef22b0315ff7a8f14ad5f686fc" childsize="353715729">
 		<category>Games</category>
 		<description>4 Wheel Thunder (Europe) (En,Fr)</description>
 		<rom name="4 Wheel Thunder (Europe) (En,Fr) (Track 01).bin" size="2817696" crc="c67f9d00" md5="673b843d54ca08e11a304df6f415bf90" sha1="6516c76403bcee8853826d97b580f19f1418d983" datasha1="09d0ec92b5a880e7cf60642681ca8f31349b624d" datasize="2453504"/>
@@ -1608,7 +1608,7 @@
 		<rom name="Christmas Seaman - Omoi o Tsutaeru Mou Hitotsu no Houhou (Japan) (Message Disc) (Track 02).bin" size="25636800" crc="541dd842" md5="8960c303de0974f99cccf8fcd4b89941" sha1="43d1a9b123c47444a31e4211aa03e2665827760e" wavesha1="10121ccff2f5ffeaca6eee0417b2fffefdf46576" offsetsha1="b28506018286b806cf060a84ef231bb7ba37994e" offset="352800" offsetsize="24500374"/>
 		<rom name="Christmas Seaman - Omoi o Tsutaeru Mou Hitotsu no Houhou (Japan) (Message Disc) (Track 03).bin" size="1185760800" crc="92d4dbd4" md5="c75117ccece870a4fa94131de344f31c" sha1="c7eda662a36151a634378848da1129504a0ab74b" datasha1="070d90ce8e39331c90e8ba70624d6e3ff154f988" datasize="1032499200"/>
 	</game>
-	<game name="Christmas Seaman - Omoi o Tsutaeru Mou Hitotsu no Houhou (Japan) (Present Disc)" type="gd" sha1="fd1d1b59a4bda08321643f31c4722aca1fd8e5df" size="408945500" crc="85e50e20" fullsha1="d04cb12d5dd9b674688b665084944851cbe68bf9" datasha1="ca7f0803b67e70c738ce9f03f614bac62585e44a" rawdatasha1="129fdd3969047cc06cfa04002ee8396cdd0bba46" rawdatasize="1212456000">
+	<game name="Christmas Seaman - Omoi o Tsutaeru Mou Hitotsu no Houhou (Japan) (Present Disc)" type="gd" sha1="fd1d1b59a4bda08321643f31c4722aca1fd8e5df" size="408945500" crc="85e50e20" fullsha1="d04cb12d5dd9b674688b665084944851cbe68bf9" datasha1="ca7f0803b67e70c738ce9f03f614bac62585e44a" rawdatasha1="129fdd3969047cc06cfa04002ee8396cdd0bba46" rawdatasize="1212456000" parentsha1="044e7326bfaa8d676541a783cd4ca2484108ed85" childsize="1121468">
 		<category>Games</category>
 		<description>Christmas Seaman - Omoi o Tsutaeru Mou Hitotsu no Houhou (Japan) (Present Disc)</description>
 		<rom name="Christmas Seaman - Omoi o Tsutaeru Mou Hitotsu no Houhou (Japan) (Present Disc) (Track 01).bin" size="1058400" crc="7e3b941a" md5="7e671ffa4b53eb57056020e1f5975582" sha1="99990900da66b05053598fc2d1876c9882938c64" datasha1="9888252d3b0774d462b21e7e914451288cd6adfe" datasize="921600"/>
@@ -6539,7 +6539,7 @@
 		<rom name="Incoming (USA) (Track 13).bin" size="20916336" crc="280304e3" md5="fc5d1f0824677699a824b3c3ddedb615" sha1="05cc33e378fd977853efe1695854083150a233e3" wavesha1="c234a726fd1048367b4a5b227dd68b4191bd61cb" offsetsha1="aee0a0dc07b2f0eeae2ae2960738b41eb97ea983" offset="352800" offsetsize="20561568"/>
 		<rom name="Incoming (USA) (Track 14).bin" size="92793456" crc="c794fc28" md5="f65b8727b63e2933010b629754aeea02" sha1="51845a91969a176d690c291d2125151bd6fdc9ff" datasha1="702fa8e27e5f0577e3a4e1cccf0a9c8e205ad7bf" datasize="80799744"/>
 	</game>
-	<game name="Incoming - Jinrui Saishuu Kessen (Japan) (Rev A)" type="gd" sha1="86973e2fa06edf0d2daca49215c8e55d5ac7ab14" size="228793327" crc="b9fa6e5b" fullsha1="c718d45279efdf9397bc7bed2c79d4bc4174a2d5" datasha1="fe025f4823b937b68725a177b78745912150a8c3" rawdatasha1="1695044f1f294dcc11f70f7ce7df9ff8d5b459d4" rawdatasize="1189284096">
+	<game name="Incoming - Jinrui Saishuu Kessen (Japan) (Rev A)" type="gd" sha1="86973e2fa06edf0d2daca49215c8e55d5ac7ab14" size="228793327" crc="b9fa6e5b" fullsha1="c718d45279efdf9397bc7bed2c79d4bc4174a2d5" datasha1="fe025f4823b937b68725a177b78745912150a8c3" rawdatasha1="1695044f1f294dcc11f70f7ce7df9ff8d5b459d4" rawdatasize="1189284096" parentsha1="0e616ac1eb6f8d669fb67ac6057b1f37fea66d78" childsize="13032261">
 		<category>Games</category>
 		<description>Incoming - Jinrui Saishuu Kessen (Japan) (Rev A)</description>
 		<rom name="Incoming - Jinrui Saishuu Kessen (Japan) (Rev A) (Track 01).bin" size="1220688" crc="0f1de77e" md5="1c0936b7306fa2fa0c38e33dee1d28b7" sha1="517607c0627404c20d4749c04bab6039b9b6b6fc" datasha1="622a73aee569970954e96d31c6d90f99fa5fc585" datasize="1062912"/>

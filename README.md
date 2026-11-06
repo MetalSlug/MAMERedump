@@ -94,7 +94,7 @@ Arcade - Konami - System GV|2026-07-07|2|1|985 MB|641 MB|321 MB (1)
 **Arcade - Namco - Sega - Nintendo - Triforce**|2026-07-03|22|0|24 GB|7 GB|5 GB (9)
 **Arcade - Namco - System 246**|2026-07-09|11|0|25 GB|6 GB|
 Arcade - Sega - Chihiro|2026-07-03|17|2|19 GB|11 GB|9 GB (5)
-Arcade - Sega - Lindbergh|2026-07-03|69|2|184 GB|175 GB|158 GB (9)
+Arcade - Sega - Lindbergh|2026-07-03|69|2|184 GB|175 GB|155 GB (10)
 **Arcade - Sega - Naomi 2**|2026-07-03|13|0|14 GB|3 GB|2 GB (3)
 **Arcade - Sega - Naomi**|2026-07-03|34|0|38 GB|4 GB|4 GB (5)
 Arcade - Sega - RingEdge 2|2026-07-07|34|11|153 GB|153 GB|
@@ -103,8 +103,8 @@ Arcade - Sega - RingEdge|2026-07-08|27|27|124 GB|124 GB|
 Atari - Jaguar CD Interactive Multimedia System|2026-07-03|34|4|9 GB|5 GB|5 GB (6)
 Bandai - Playdia Quick Interactive System|2026-07-03|37|1|24 GB|18 GB|
 Commodore - Amiga CD|2026-08-02|601|2|348 GB|210 GB|209 GB (3)
-**Commodore - Amiga CD32**|2026-08-02|207|0|47 GB|24 GB|24 GB (2)
-**Commodore - Amiga CDTV**|2026-08-05|62|0|17 GB|9 GB|9 GB (1)
+**Commodore - Amiga CD32**|2026-08-02|207|0|47 GB|24 GB|24 GB (5)
+**Commodore - Amiga CDTV**|2026-08-05|62|0|17 GB|9 GB|9 GB (2)
 **Datel - PlayStation Cheat Device Updates**|2026-07-03|34|0|8 GB|579 MB|
 Fujitsu - FM Towns series|2026-07-24|947|1|300 GB|136 GB|136 GB (2)
 IBM - PC compatible|2026-08-06|53506|6754|64,29 TB|56,12 TB|
@@ -121,23 +121,23 @@ NEC - PC-98 series|2026-07-31|129|10|29 GB|15 GB|15 GB (2)
 Nintendo - GameCube|2026-11-01|2016|6|2,67 TB|1,48 TB|
 Nintendo - Wii|2026-10-29|3772|10|16,24 TB|5,87 TB|
 Palm OS|2026-08-05|159|2|19 GB|14 GB|
-Philips - CD-i|2026-08-04|2414|14|1,20 TB|728 GB|703 GB (100)
+Philips - CD-i|2026-08-04|2414|14|1,20 TB|728 GB|686 GB (174)
 Photo CD|2026-07-28|250|33|98 GB|47 GB|47 GB (8)
-Sega - Dreamcast|2026-08-05|1517|1|1,59 TB|613 GB|561 GB (220)
+Sega - Dreamcast|2026-08-05|1517|1|1,59 TB|613 GB|560 GB (224)
 **Sega - Mega-CD - Sega CD**|2026-08-04|549|0|237 GB|127 GB|
 **Sega - Prologue 21 Multimedia Karaoke System**|2026-08-02|30|0|19 GB|17 GB|
 Sega - Saturn|2026-08-05|2446|18|1 TB|613 GB|
 Sharp - X68000|2026-07-03|29|3|12 GB|6 GB|
-**SNK - Neo Geo CD**|2026-07-24|111|0|60 GB|31 GB|28 GB (8)
-Sony - PlayStation 2|2026-08-05|11735|89|25,42 TB|15,34 TB|9,72 TB (4861)
+**SNK - Neo Geo CD**|2026-07-24|111|0|60 GB|31 GB|27 GB (9)
+Sony - PlayStation 2|2026-08-05|11735|89|25,42 TB|15,34 TB|9,71 TB (4863)
 *Sony - PlayStation 3 (Decrypted)*|2026-03-16|298|4183|2,29 TB|1,97 TB|1,09 TB (183)
-Sony - PlayStation Portable|2026-08-06|3509|17|3,07 TB|2,07 TB|
+Sony - PlayStation Portable|2026-08-06|3509|17|3,07 TB|2,07 TB|2,06 TB (1626)
 Sony - PlayStation|2026-08-06|10896|66|4,58 TB|2,55 TB|
 **Tomy - Kiss-Site**|2026-07-03|30|0|3 GB|3 GB|
 VM Labs - NUON|2026-07-03|9|2|12 GB|8 GB|
 **VTech - V.Flash & V.Smile Pro**|2026-07-03|51|0|23 GB|9 GB|
 **ZAPiT Games - Game Wave Family Entertainment System**|2026-07-03|17|0|53 GB|50 GB|
-Total||98519|17924|125,84 TB|89,56 TB|82,86 TB (5685)
+Total||98519|17924|125,84 TB|89,56 TB|82,83 TB (7397)
 
 
 |MAME|Exclusive|Matched|Exclusive Size|Matched Size|
@@ -181,8 +181,8 @@ Arcade - Sega - Naomi 2|0|17|0|4 GB|
 Arcade - Sega - Naomi|0|48|0|6 GB|
 Atari - Jaguar CD Interactive Multimedia System|16|14|0|3 GB|
 **Bandai - Playdia Quick Interactive System**|0|22|17|11 GB|9 GB
-**Commodore - Amiga CD**|69|397|401|116 GB|155 GB
-**Commodore - Amiga CD32**|7|496|84|46 GB|3 GB
+**Commodore - Amiga CD**|5|450|412|134 GB|159 GB
+**Commodore - Amiga CD32**|4|499|84|46 GB|3 GB
 **Commodore - Amiga CDTV**|3|168|48|20 GB|7 GB
 **Fujitsu - FM Towns series**|0|28|2|5 GB|49 MB
 **IBM - PC compatible**|1487|127|348|34 GB|638 GB
@@ -198,9 +198,9 @@ Atari - Jaguar CD Interactive Multimedia System|16|14|0|3 GB|
 **SNK - Neo Geo CD**|7|257|3|77 GB|4 MB
 **Sony - PlayStation 2**|124|21|329|3 GB|1,04 TB
 **Sony - PlayStation Portable**|341|24|421|5 GB|157 GB
-**Sony - PlayStation**|136|66|57|8 GB|17 GB
+**Sony - PlayStation**|135|67|57|8 GB|17 GB
 Tomy - Kiss-Site|0|19|0|2 GB|
 ~VM Labs - NUON~|0|0|4||3 GB
 ~VTech - V.Flash & V.Smile Pro~|0|0|9||2 GB
 ~ZAPiT Games - Game Wave Family Entertainment System~|0|0|15||46 GB
-Total|2721|4918|4377|1,30 TB|3,38 TB
+Total|2653|4975|4388|1,32 TB|3,39 TB

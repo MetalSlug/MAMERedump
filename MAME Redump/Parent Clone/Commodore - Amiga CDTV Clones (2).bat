@@ -1,0 +1,2 @@
+chdman copy -i "17 Bit - Collection for Amiga CDTV (Europe) (Disc B) (The Latest Batch) (Rev 1).chd" -op "17 Bit - Collection for Amiga CDTV (Europe) (Disc B) (The Latest Batch).chd" -o "17 Bit - Collection for Amiga CDTV (Europe) (Disc B) (The Latest Batch) (Rev 1).delta.chd"
+chdman copy -i "Defender of the Crown II (Europe).chd" -op "Defender of the Crown II (USA) (En,Fr,De,Es,It).chd" -o "Defender of the Crown II (Europe).delta.chd"

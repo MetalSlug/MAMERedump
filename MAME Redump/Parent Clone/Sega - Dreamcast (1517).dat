@@ -14,12 +14,12 @@
 		<description>09 Chairs (Japan)</description>
 		<disk name="09 Chairs (Japan).chd" sha1="b41ac2e38b84ada109c56967ccd8ad24b4bc7c64" />
 	</machine>
-	<machine name="18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es)">
+	<machine name="18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es)" cloneof="18 Wheeler - American Pro Trucker (USA)">
 		<category>Games</category>
 		<description>18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es)</description>
 		<year>2001</year>
 		<manufacturer>Sega</manufacturer>
-		<disk name="18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es).chd" sha1="d7522c58505780b3bc22c6d5d7b16ad587e3a72e" />
+		<disk name="18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es).delta.chd" sha1="d7522c58505780b3bc22c6d5d7b16ad587e3a72e" />
 	</machine>
 	<machine name="18 Wheeler - American Pro Trucker (Japan)">
 		<category>Games</category>
@@ -42,12 +42,12 @@
 		<manufacturer>Princess Soft</manufacturer>
 		<disk name="21 - Two One (Japan).chd" sha1="46468591b751dab05b8fcc92e8d02959b3b11d9c" />
 	</machine>
-	<machine name="4 Wheel Thunder (Europe) (En,Fr)">
+	<machine name="4 Wheel Thunder (Europe) (En,Fr)" cloneof="4 Wheel Thunder (USA)">
 		<category>Games</category>
 		<description>4 Wheel Thunder (Europe) (En,Fr)</description>
 		<year>2000</year>
 		<manufacturer>Midway</manufacturer>
-		<disk name="4 Wheel Thunder (Europe) (En,Fr).chd" sha1="53b50328a3f2d05fe278de0907c321fa339ec597" />
+		<disk name="4 Wheel Thunder (Europe) (En,Fr).delta.chd" sha1="53b50328a3f2d05fe278de0907c321fa339ec597" />
 	</machine>
 	<machine name="4 Wheel Thunder (USA)">
 		<category>Games</category>
@@ -947,12 +947,12 @@
 		<manufacturer>Sega</manufacturer>
 		<disk name="Christmas Seaman - Omoi o Tsutaeru Mou Hitotsu no Houhou (Japan) (Message Disc).chd" sha1="044e7326bfaa8d676541a783cd4ca2484108ed85" />
 	</machine>
-	<machine name="Christmas Seaman - Omoi o Tsutaeru Mou Hitotsu no Houhou (Japan) (Present Disc)">
+	<machine name="Christmas Seaman - Omoi o Tsutaeru Mou Hitotsu no Houhou (Japan) (Present Disc)" cloneof="Christmas Seaman - Omoi o Tsutaeru Mou Hitotsu no Houhou (Japan) (Message Disc)">
 		<category>Games</category>
 		<description>Christmas Seaman - Omoi o Tsutaeru Mou Hitotsu no Houhou (Japan) (Present Disc)</description>
 		<year>1999</year>
 		<manufacturer>Vivarium</manufacturer>
-		<disk name="Christmas Seaman - Omoi o Tsutaeru Mou Hitotsu no Houhou (Japan) (Present Disc).chd" sha1="d04cb12d5dd9b674688b665084944851cbe68bf9" />
+		<disk name="Christmas Seaman - Omoi o Tsutaeru Mou Hitotsu no Houhou (Japan) (Present Disc).delta.chd" sha1="d04cb12d5dd9b674688b665084944851cbe68bf9" />
 	</machine>
 	<machine name="ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es)" cloneof="ChuChu Rocket! (USA) (En,Ja,Fr,De,Es)">
 		<category>Games</category>
@@ -3640,12 +3640,12 @@
 		<manufacturer>Global A Entertainment</manufacturer>
 		<disk name="Imperial no Taka - Fighter of Zero (Japan).chd" sha1="77932411c375b86f653fb8d50fd6c7bfd1bb8cce" />
 	</machine>
-	<machine name="Incoming - Jinrui Saishuu Kessen (Japan) (Rev A)">
+	<machine name="Incoming - Jinrui Saishuu Kessen (Japan) (Rev A)" cloneof="Incoming (USA)">
 		<category>Games</category>
 		<description>Incoming - Jinrui Saishuu Kessen (Japan) (Rev A)</description>
 		<year>1998</year>
 		<manufacturer>Imagineer</manufacturer>
-		<disk name="Incoming - Jinrui Saishuu Kessen (Japan) (Rev A).chd" sha1="c718d45279efdf9397bc7bed2c79d4bc4174a2d5" />
+		<disk name="Incoming - Jinrui Saishuu Kessen (Japan) (Rev A).delta.chd" sha1="c718d45279efdf9397bc7bed2c79d4bc4174a2d5" />
 	</machine>
 	<machine name="Incoming (Europe) (En,Fr,De,Es,It)" cloneof="Incoming (USA)">
 		<category>Games</category>

@@ -1,0 +1,5 @@
+chdman copy -i "Gulp! (Europe) (En,Fr,De,Es,It) (Alt).chd" -op "Gulp! (Europe) (En,Fr,De,Es,It).chd" -o "Gulp! (Europe) (En,Fr,De,Es,It) (Alt).delta.chd"
+chdman copy -i "James Pond 3 - Operation Starfi5h (Europe) (Kixx).chd" -op "James Pond 3 - Operation Starfi5h (Europe).chd" -o "James Pond 3 - Operation Starfi5h (Europe) (Kixx).delta.chd"
+chdman copy -i "Roadkill (Europe) (Alt).chd" -op "Roadkill (Europe).chd" -o "Roadkill (Europe) (Alt).delta.chd"
+chdman copy -i "Super Skidmarks (Europe) (Alt).chd" -op "Super Skidmarks (Europe).chd" -o "Super Skidmarks (Europe) (Alt).delta.chd"
+chdman copy -i "Vital Light (Europe) (Alt).chd" -op "Vital Light (Europe).chd" -o "Vital Light (Europe) (Alt).delta.chd"

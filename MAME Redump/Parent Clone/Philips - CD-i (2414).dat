@@ -459,12 +459,12 @@
 		<description>Alien Gate (Europe) (Rev 2)</description>
 		<disk name="Alien Gate (Europe) (Rev 2).delta.chd" sha1="03fe16d0cffd522e7cc1d3575e91135c3afabde8" />
 	</machine>
-	<machine name="Alien Gate (Europe) (Rev 3)">
+	<machine name="Alien Gate (Europe) (Rev 3)" cloneof="Alien Gate (USA)">
 		<category>Games</category>
 		<description>Alien Gate (Europe) (Rev 3)</description>
 		<year>1992</year>
 		<manufacturer>The Vision Factory</manufacturer>
-		<disk name="Alien Gate (Europe) (Rev 3).chd" sha1="8ad4d0c5b875a04a7db3abbe236ba18eb2696a96" />
+		<disk name="Alien Gate (Europe) (Rev 3).delta.chd" sha1="8ad4d0c5b875a04a7db3abbe236ba18eb2696a96" />
 	</machine>
 	<machine name="Alien Gate (Europe) (Rev 4)" cloneof="Alien Gate (USA)">
 		<category>Games</category>
@@ -478,12 +478,12 @@
 		<manufacturer>The Vision Factory</manufacturer>
 		<disk name="Alien Gate (USA).chd" sha1="16009503b1fadb28b9fff293a7099b7cab062325" />
 	</machine>
-	<machine name="Alien Gate (USA) (Rev 1)">
+	<machine name="Alien Gate (USA) (Rev 1)" cloneof="Alien Gate (USA)">
 		<category>Games</category>
 		<description>Alien Gate (USA) (Rev 1)</description>
 		<year>1992</year>
 		<manufacturer>The Vision Factory</manufacturer>
-		<disk name="Alien Gate (USA) (Rev 1).chd" sha1="823a5b692a87b51a7c2f35ac0d63865494e253f7" />
+		<disk name="Alien Gate (USA) (Rev 1).delta.chd" sha1="823a5b692a87b51a7c2f35ac0d63865494e253f7" />
 	</machine>
 	<machine name="All the Fun of the Fair - Engels voor Kinderen (Netherlands)">
 		<category>Educational</category>
@@ -631,12 +631,12 @@
 		<description>Appraisal Interview, The (UK) (Disc 2)</description>
 		<disk name="Appraisal Interview, The (UK) (Disc 2).chd" sha1="b56cbddac3a37e08fd088ee321148f426876a6c0" />
 	</machine>
-	<machine name="Apprentice, The (Europe)">
+	<machine name="Apprentice, The (Europe)" cloneof="Apprentice, The (USA)">
 		<category>Games</category>
 		<description>Apprentice, The (Europe)</description>
 		<year>????</year>
 		<manufacturer>The Vision Factory</manufacturer>
-		<disk name="Apprentice, The (Europe).chd" sha1="3a66337c20b9157e64228847ee3d153f80c25e4e" />
+		<disk name="Apprentice, The (Europe).delta.chd" sha1="3a66337c20b9157e64228847ee3d153f80c25e4e" />
 	</machine>
 	<machine name="Apprentice, The (USA)">
 		<category>Games</category>
@@ -2091,12 +2091,12 @@
 		<description>C.Hafner - Fur Gute Zahne - Galvanoforming Leicht Gemacht - Vol. 2-12.95 (Germany)</description>
 		<disk name="C.Hafner - Fur Gute Zahne - Galvanoforming Leicht Gemacht - Vol. 2-12.95 (Germany).chd" sha1="e8f2d6d3d8a7a7ce811b10c4342195b1d8aa1300" />
 	</machine>
-	<machine name="Caesars World of Boxing (Europe)">
+	<machine name="Caesars World of Boxing (Europe)" cloneof="Caesars World of Boxing (USA) (Rev 1)">
 		<category>Games</category>
 		<description>Caesars World of Boxing (Europe)</description>
 		<year>1993</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Caesars World of Boxing (Europe).chd" sha1="4696713492e3ee2f557c8b764a980a2890c798d6" />
+		<disk name="Caesars World of Boxing (Europe).delta.chd" sha1="4696713492e3ee2f557c8b764a980a2890c798d6" />
 	</machine>
 	<machine name="Caesars World of Boxing (France)">
 		<category>Games</category>
@@ -2178,12 +2178,12 @@
 		<description>Caricature (UK) (Beta) (1992-09-28)</description>
 		<disk name="Caricature (UK) (Beta) (1992-09-28).delta.chd" sha1="935a9971f5fbf6104f08dd9c8654cf38c05f51b7" />
 	</machine>
-	<machine name="Cartoon Jukebox (Europe) (Alt)">
+	<machine name="Cartoon Jukebox (Europe) (Alt)" cloneof="Cartoon Jukebox (USA, Europe)">
 		<category>Games</category>
 		<description>Cartoon Jukebox (Europe) (Alt)</description>
 		<year>1991</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Cartoon Jukebox (Europe) (Alt).chd" sha1="cf674d9eab427b59b427ab1034629d5cb5b3188e" />
+		<disk name="Cartoon Jukebox (Europe) (Alt).delta.chd" sha1="cf674d9eab427b59b427ab1034629d5cb5b3188e" />
 	</machine>
 	<machine name="Cartoon Jukebox (France)">
 		<category>Games</category>
@@ -2229,12 +2229,12 @@
 		<description>Cathedrales Gothiques d'Europe (France)</description>
 		<disk name="Cathedrales Gothiques d'Europe (France).chd" sha1="f37532b49f11396ab65d4641f7f8c82d73de9328" />
 	</machine>
-	<machine name="CD Shoot (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt)">
+	<machine name="CD Shoot (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt)" cloneof="CD Shoot (USA) (En,Ja,Fr,De,Es,It,Nl,Pt)">
 		<category>Games</category>
 		<description>CD Shoot (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt)</description>
 		<year>1992</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="CD Shoot (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt).chd" sha1="5cdb62cd737e82ed89b5918fa90632325faa76a1" />
+		<disk name="CD Shoot (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt).delta.chd" sha1="5cdb62cd737e82ed89b5918fa90632325faa76a1" />
 	</machine>
 	<machine name="CD Shoot (USA) (En,Ja,Fr,De,Es,It,Nl,Pt)">
 		<category>Games</category>
@@ -3661,12 +3661,12 @@
 		<description>Chew the Right Thing (USA)</description>
 		<disk name="Chew the Right Thing (USA).chd" sha1="73290da05a11d6ef6a06b2d2d9e576b0a6ff8799" />
 	</machine>
-	<machine name="Child is Born, A (Europe)">
+	<machine name="Child is Born, A (Europe)" cloneof="Child is Born, A (USA)">
 		<category>Multimedia</category>
 		<description>Child is Born, A (Europe)</description>
 		<year>1993</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Child is Born, A (Europe).chd" sha1="5a08be44857ab8c02003693ed2f4b6264c561a86" />
+		<disk name="Child is Born, A (Europe).delta.chd" sha1="5a08be44857ab8c02003693ed2f4b6264c561a86" />
 	</machine>
 	<machine name="Child is Born, A (Europe) (Rev 1)" cloneof="Child is Born, A (USA)">
 		<category>Multimedia</category>
@@ -3766,43 +3766,43 @@
 		<manufacturer>Philips</manufacturer>
 		<disk name="Classical Jukebox (USA, Europe).chd" sha1="b43ac106ad3a23d829937e215ebe4a32621c99c9" />
 	</machine>
-	<machine name="Clue - The Mysteries Continue (USA)">
+	<machine name="Clue - The Mysteries Continue (USA)" cloneof="Clue - The Mysteries Continue (USA)">
 		<category>Games</category>
 		<description>Clue - The Mysteries Continue (USA)</description>
 		<year>1995</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Clue - The Mysteries Continue (USA).chd" sha1="033ba320dbcda5c9d14e4f6461172a14c9382995" />
+		<disk name="Clue - The Mysteries Continue (USA).delta.chd" sha1="033ba320dbcda5c9d14e4f6461172a14c9382995" />
 	</machine>
-	<machine name="Clue (USA)">
+	<machine name="Clue (USA)" cloneof="Clue (USA)">
 		<category>Games</category>
 		<description>Clue (USA)</description>
 		<year>1994</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Clue (USA).chd" sha1="32efc76259ba41781d715fdeb686e2a67170f092" />
+		<disk name="Clue (USA).delta.chd" sha1="32efc76259ba41781d715fdeb686e2a67170f092" />
 	</machine>
 	<machine name="Clue (USA) (Beta) (1994-09-06)" cloneof="Clue (USA)">
 		<category>Preproduction</category>
 		<description>Clue (USA) (Beta) (1994-09-06)</description>
 		<disk name="Clue (USA) (Beta) (1994-09-06).delta.chd" sha1="2c7b09bbae3f24fc98830d897123f259e0086571" />
 	</machine>
-	<machine name="Cluedo - The Mystery Continues (Europe)">
+	<machine name="Cluedo - The Mystery Continues (Europe)" cloneof="Clue - The Mysteries Continue (USA)">
 		<category>Games</category>
 		<description>Cluedo - The Mystery Continues (Europe)</description>
 		<year>1995</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Cluedo - The Mystery Continues (Europe).chd" sha1="ac4946a1f01c01b50ef5b4af6489f6df2fae1fea" />
+		<disk name="Cluedo - The Mystery Continues (Europe).delta.chd" sha1="ac4946a1f01c01b50ef5b4af6489f6df2fae1fea" />
 	</machine>
 	<machine name="Cluedo - The Mystery Continues (Europe) (Beta) (1995-06-12)">
 		<category>Preproduction</category>
 		<description>Cluedo - The Mystery Continues (Europe) (Beta) (1995-06-12)</description>
 		<disk name="Cluedo - The Mystery Continues (Europe) (Beta) (1995-06-12).chd" sha1="5e479adc3f637692f8d2b5e8345017454175b6b1" />
 	</machine>
-	<machine name="Cluedo (Europe)">
+	<machine name="Cluedo (Europe)" cloneof="Clue (USA)">
 		<category>Games</category>
 		<description>Cluedo (Europe)</description>
 		<year>1994</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Cluedo (Europe).chd" sha1="c32bb7df75e6091a0a9f59553ac295b93f625007" />
+		<disk name="Cluedo (Europe).delta.chd" sha1="c32bb7df75e6091a0a9f59553ac295b93f625007" />
 	</machine>
 	<machine name="Cluedo (Europe) (Beta) (1994-09-05)" cloneof="Clue (USA)">
 		<category>Preproduction</category>
@@ -3846,12 +3846,12 @@
 		<manufacturer>Philips</manufacturer>
 		<disk name="Comprendre le CD-i (Europe).chd" sha1="125641d7ad38f1b29f5c6e38f387f60e2a537b81" />
 	</machine>
-	<machine name="Compton's Interactive Encyclopedia (Europe)">
+	<machine name="Compton's Interactive Encyclopedia (Europe)" cloneof="Compton's Interactive Encyclopedia (USA)">
 		<category>Multimedia</category>
 		<description>Compton's Interactive Encyclopedia (Europe)</description>
 		<year>1992</year>
 		<manufacturer>Compton's NewMedia</manufacturer>
-		<disk name="Compton's Interactive Encyclopedia (Europe).chd" sha1="211dcac2f4be25321f33dc9405de97b0375ef494" />
+		<disk name="Compton's Interactive Encyclopedia (Europe).delta.chd" sha1="211dcac2f4be25321f33dc9405de97b0375ef494" />
 	</machine>
 	<machine name="Compton's Interactive Encyclopedia (Europe) (1995)" cloneof="Compton's Interactive Encyclopedia (USA) (1995) (Digital Video)">
 		<category>Multimedia</category>
@@ -4289,12 +4289,12 @@
 		<description>Digital Video Demonstration Disc (USA)</description>
 		<disk name="Digital Video Demonstration Disc (USA).chd" sha1="3b728e34be584a5c0f48891c8818c213099a7e24" />
 	</machine>
-	<machine name="Dimo's Quest (Europe)">
+	<machine name="Dimo's Quest (Europe)" cloneof="Dimo's Quest (USA)">
 		<category>Games</category>
 		<description>Dimo's Quest (Europe)</description>
 		<year>????</year>
 		<manufacturer>The Vision Factory</manufacturer>
-		<disk name="Dimo's Quest (Europe).chd" sha1="4264e939dc76c3f8386390c597be4dde765207d1" />
+		<disk name="Dimo's Quest (Europe).delta.chd" sha1="4264e939dc76c3f8386390c597be4dde765207d1" />
 	</machine>
 	<machine name="Dimo's Quest (USA)">
 		<category>Games</category>
@@ -4395,12 +4395,12 @@
 		<manufacturer>Philips</manufacturer>
 		<disk name="Downhome Blues, The (USA).chd" sha1="120b4ffb5037f5c911f937cf17a4924d3076ae2f" />
 	</machine>
-	<machine name="Dragon's Lair (Europe)">
+	<machine name="Dragon's Lair (Europe)" cloneof="Dragon's Lair (USA)">
 		<category>Games</category>
 		<description>Dragon's Lair (Europe)</description>
 		<year>1994</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Dragon's Lair (Europe).chd" sha1="cd09b56677c65b30d96a69d2fde333a4a8a32f91" />
+		<disk name="Dragon's Lair (Europe).delta.chd" sha1="cd09b56677c65b30d96a69d2fde333a4a8a32f91" />
 	</machine>
 	<machine name="Dragon's Lair (USA)">
 		<category>Games</category>
@@ -4459,12 +4459,12 @@
 		<description>Duistere Fabels van Aesopus, De (Netherlands)</description>
 		<disk name="Duistere Fabels van Aesopus, De (Netherlands).chd" sha1="cb97733cc05c8502ad8e71173b5b9f2c4b16fb01" />
 	</machine>
-	<machine name="Dutch Masters of the Seventeenth Century (UK)">
+	<machine name="Dutch Masters of the Seventeenth Century (UK)" cloneof="Dutch Masters of the Seventeenth Century (USA)">
 		<category>Multimedia</category>
 		<description>Dutch Masters of the Seventeenth Century (UK)</description>
 		<year>1992</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Dutch Masters of the Seventeenth Century (UK).chd" sha1="d2cc64450bc236fa66ffc997b840d0f1cbf31ba2" />
+		<disk name="Dutch Masters of the Seventeenth Century (UK).delta.chd" sha1="d2cc64450bc236fa66ffc997b840d0f1cbf31ba2" />
 	</machine>
 	<machine name="Dutch Masters of the Seventeenth Century (USA)">
 		<category>Multimedia</category>
@@ -4480,12 +4480,12 @@
 		<manufacturer>World of Wonders</manufacturer>
 		<disk name="Earth - A Multimedia Guide to Changing Environment (Canada).chd" sha1="a915d9b21221c62a85b0a0bb9f661639a69c4e97" />
 	</machine>
-	<machine name="Earth Command (Europe)">
+	<machine name="Earth Command (Europe)" cloneof="Earth Command (USA)">
 		<category>Games</category>
 		<description>Earth Command (Europe)</description>
 		<year>1994</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Earth Command (Europe).chd" sha1="f3b54e47edd13bbe776ad211afd3e1cafbacba6d" />
+		<disk name="Earth Command (Europe).delta.chd" sha1="f3b54e47edd13bbe776ad211afd3e1cafbacba6d" />
 	</machine>
 	<machine name="Earth Command (Europe) (Beta) (1993-06-08)">
 		<category>Preproduction</category>
@@ -4681,12 +4681,12 @@
 		<description>Elsevier's Interactive Anatomy - Volume 2-III (Europe) (Elbow Joint &amp; Cubital Fossa)</description>
 		<disk name="Elsevier's Interactive Anatomy - Volume 2-III (Europe) (Elbow Joint &amp; Cubital Fossa).chd" sha1="7bb6fdc6ba008b9ff340eb9d16dba60ca773bf8a" />
 	</machine>
-	<machine name="Emperor's New Clothes, The (Europe)">
+	<machine name="Emperor's New Clothes, The (Europe)" cloneof="Emperor's New Clothes, The (USA)">
 		<category>Educational</category>
 		<description>Emperor's New Clothes, The (Europe)</description>
 		<year>1992</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Emperor's New Clothes, The (Europe).chd" sha1="73c0ee7bfa91dc4accb6c4d5675afeeb9501f1bc" />
+		<disk name="Emperor's New Clothes, The (Europe).delta.chd" sha1="73c0ee7bfa91dc4accb6c4d5675afeeb9501f1bc" />
 	</machine>
 	<machine name="Emperor's New Clothes, The (USA)">
 		<category>Educational</category>
@@ -5277,12 +5277,12 @@
 		<description>Flashback (Europe) (Beta) (1994-12-21)</description>
 		<disk name="Flashback (Europe) (Beta) (1994-12-21).chd" sha1="f2bfd8848c3fa449fa2ce1d633862604a7651aed" />
 	</machine>
-	<machine name="Flashback (Europe) (En,Ja,Fr,De,Es,It,Nl)">
+	<machine name="Flashback (Europe) (En,Ja,Fr,De,Es,It,Nl)" cloneof="Flashback (USA)">
 		<category>Games</category>
 		<description>Flashback (Europe) (En,Ja,Fr,De,Es,It,Nl)</description>
 		<year>1995</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Flashback (Europe) (En,Ja,Fr,De,Es,It,Nl).chd" sha1="dd236aca6f78081a8b8d8d577e0dae770ea67f36" />
+		<disk name="Flashback (Europe) (En,Ja,Fr,De,Es,It,Nl).delta.chd" sha1="dd236aca6f78081a8b8d8d577e0dae770ea67f36" />
 	</machine>
 	<machine name="Flashback (USA)">
 		<category>Games</category>
@@ -5294,12 +5294,12 @@
 		<description>Flight - The Universal Dream (USA) (Proto) (1993-08-12)</description>
 		<disk name="Flight - The Universal Dream (USA) (Proto) (1993-08-12).chd" sha1="c9cef32a3c979a008c17dd4f2a9238d1a5a1c70b" />
 	</machine>
-	<machine name="Flintstones-Jetsons Timewarp (Europe)">
+	<machine name="Flintstones-Jetsons Timewarp (Europe)" cloneof="Flintstones-Jetsons Timewarp (USA)">
 		<category>Games</category>
 		<description>Flintstones-Jetsons Timewarp (Europe)</description>
 		<year>1994</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Flintstones-Jetsons Timewarp (Europe).chd" sha1="06fbc2398b8a8edacfca66be12835cd0320138cf" />
+		<disk name="Flintstones-Jetsons Timewarp (Europe).delta.chd" sha1="06fbc2398b8a8edacfca66be12835cd0320138cf" />
 	</machine>
 	<machine name="Flintstones-Jetsons Timewarp (USA)">
 		<category>Games</category>
@@ -5459,12 +5459,12 @@
 		<description>Getting Ahead - Making Time (Europe)</description>
 		<disk name="Getting Ahead - Making Time (Europe).chd" sha1="d23a7b4b82cf58476b3d476fb48245105cd3d925" />
 	</machine>
-	<machine name="Getting Ahead - Making Time (Europe) (Rev 1)">
+	<machine name="Getting Ahead - Making Time (Europe) (Rev 1)" cloneof="Getting Ahead - Making Time (Europe)">
 		<category>Educational</category>
 		<description>Getting Ahead - Making Time (Europe) (Rev 1)</description>
 		<year>1995</year>
 		<manufacturer>XDRA Ltd. ~ Temple Millar Multimedia</manufacturer>
-		<disk name="Getting Ahead - Making Time (Europe) (Rev 1).chd" sha1="fcf77ca56c8b33a2032c7c3108eb542e586b3c78" />
+		<disk name="Getting Ahead - Making Time (Europe) (Rev 1).delta.chd" sha1="fcf77ca56c8b33a2032c7c3108eb542e586b3c78" />
 	</machine>
 	<machine name="Getting Ahead - Managing Your Boss (Europe)">
 		<category>Educational</category>
@@ -5599,24 +5599,24 @@
 		<manufacturer>SPC Vision</manufacturer>
 		<disk name="Golden Oldies II (Europe).chd" sha1="8f2538e7c1662467c1e27bb60fe3171aea95cc8a" />
 	</machine>
-	<machine name="Golden Oldies Jukebox (Europe)">
+	<machine name="Golden Oldies Jukebox (Europe)" cloneof="Golden Oldies Jukebox (USA)">
 		<category>Multimedia</category>
 		<description>Golden Oldies Jukebox (Europe)</description>
 		<year>1991</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Golden Oldies Jukebox (Europe).chd" sha1="202473ad9c64ca21522fc925f23a7d2fa8897841" />
+		<disk name="Golden Oldies Jukebox (Europe).delta.chd" sha1="202473ad9c64ca21522fc925f23a7d2fa8897841" />
 	</machine>
 	<machine name="Golden Oldies Jukebox (USA)">
 		<category>Multimedia</category>
 		<description>Golden Oldies Jukebox (USA)</description>
 		<disk name="Golden Oldies Jukebox (USA).chd" sha1="717abed62b45952ddd7ed94374d9acf08406ffbb" />
 	</machine>
-	<machine name="Golden Oldies Jukebox (USA) (Rev 1)">
+	<machine name="Golden Oldies Jukebox (USA) (Rev 1)" cloneof="Golden Oldies Jukebox (USA)">
 		<category>Multimedia</category>
 		<description>Golden Oldies Jukebox (USA) (Rev 1)</description>
 		<year>1991</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Golden Oldies Jukebox (USA) (Rev 1).chd" sha1="2c5d8b6046ba73bcfe3984907d1a361f2103a8db" />
+		<disk name="Golden Oldies Jukebox (USA) (Rev 1).delta.chd" sha1="2c5d8b6046ba73bcfe3984907d1a361f2103a8db" />
 	</machine>
 	<machine name="Golf My Way (USA) (Disc 1)">
 		<category>Multimedia</category>
@@ -5719,12 +5719,12 @@
 		<description>Great British Golf (UK)</description>
 		<disk name="Great British Golf (UK).chd" sha1="0a7b626d89ad069823e53cbb1792b2117786e378" />
 	</machine>
-	<machine name="Great Day at the Races, A (Europe)">
+	<machine name="Great Day at the Races, A (Europe)" cloneof="Great Day at the Races, A (USA)">
 		<category>Games</category>
 		<description>Great Day at the Races, A (Europe)</description>
 		<year>1993</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Great Day at the Races, A (Europe).chd" sha1="8d840c884c31a06266d2e64d90b015e025371598" />
+		<disk name="Great Day at the Races, A (Europe).delta.chd" sha1="8d840c884c31a06266d2e64d90b015e025371598" />
 	</machine>
 	<machine name="Great Day at the Races, A (USA)">
 		<category>Games</category>
@@ -5783,19 +5783,19 @@
 		<description>Guide to Heavy Duty Pumps in the Construction Market (USA)</description>
 		<disk name="Guide to Heavy Duty Pumps in the Construction Market (USA).chd" sha1="7e03ad6af6a59f27509e6afb889efb6e873a3462" />
 	</machine>
-	<machine name="Guignols de l'Info, Les ...le Jeu ! (France)">
+	<machine name="Guignols de l'Info, Les ...le Jeu ! (France)" cloneof="Guignols de l'Info, Les ...le Jeu ! (France)">
 		<category>Multimedia</category>
 		<description>Guignols de l'Info, Les ...le Jeu ! (France)</description>
 		<year>1996</year>
 		<manufacturer>CANAL+ ~ Philips</manufacturer>
-		<disk name="Guignols de l'Info, Les ...le Jeu ! (France).chd" sha1="3c4458eeccfc6bbc9a16e4fc133b3fff5edc3631" />
+		<disk name="Guignols de l'Info, Les ...le Jeu ! (France).delta.chd" sha1="3c4458eeccfc6bbc9a16e4fc133b3fff5edc3631" />
 	</machine>
-	<machine name="Guignols de l'Info, Les ...le Jeu ! (France) (Alt)">
+	<machine name="Guignols de l'Info, Les ...le Jeu ! (France) (Alt)" cloneof="Guignols de l'Info, Les ...le Jeu ! (France)">
 		<category>Games</category>
 		<description>Guignols de l'Info, Les ...le Jeu ! (France) (Alt)</description>
 		<year>1996</year>
 		<manufacturer>CANAL+ ~ Philips</manufacturer>
-		<disk name="Guignols de l'Info, Les ...le Jeu ! (France) (Alt).chd" sha1="d44e4e551d07e81107967378a150bebf025527d9" />
+		<disk name="Guignols de l'Info, Les ...le Jeu ! (France) (Alt).delta.chd" sha1="d44e4e551d07e81107967378a150bebf025527d9" />
 	</machine>
 	<machine name="Guignols de l'Info, Les ...le Jeu ! (France) (Beta) (1996-02-08)">
 		<category>Preproduction</category>
@@ -6143,12 +6143,12 @@
 		<description>Hot and Cold (Europe) (En,Fr)</description>
 		<disk name="Hot and Cold (Europe) (En,Fr).chd" sha1="8996446879ea460a43ad773167271c58d868fe60" />
 	</machine>
-	<machine name="Hotel Mario (Europe)">
+	<machine name="Hotel Mario (Europe)" cloneof="Hotel Mario (USA)">
 		<category>Games</category>
 		<description>Hotel Mario (Europe)</description>
 		<year>1994</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Hotel Mario (Europe).chd" sha1="b75164b0b9bdb4058a640fbc54e4b44dc4638092" />
+		<disk name="Hotel Mario (Europe).delta.chd" sha1="b75164b0b9bdb4058a640fbc54e4b44dc4638092" />
 	</machine>
 	<machine name="Hotel Mario (France)">
 		<category>Games</category>
@@ -6176,12 +6176,12 @@
 		<manufacturer>AIMS Multimedia</manufacturer>
 		<disk name="How Animals Survive (USA).chd" sha1="069043d83665f5b1f4320c5cbcd79fc2291f3e24" />
 	</machine>
-	<machine name="How the Camel Got His Hump (Europe)">
+	<machine name="How the Camel Got His Hump (Europe)" cloneof="How the Camel Got His Hump (USA)">
 		<category>Educational</category>
 		<description>How the Camel Got His Hump (Europe)</description>
 		<year>1992</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="How the Camel Got His Hump (Europe).chd" sha1="c0bd42442002177ada9c8e10fdb37dc1221119ef" />
+		<disk name="How the Camel Got His Hump (Europe).delta.chd" sha1="c0bd42442002177ada9c8e10fdb37dc1221119ef" />
 	</machine>
 	<machine name="How the Camel Got His Hump (USA)">
 		<category>Multimedia</category>
@@ -6316,12 +6316,12 @@
 		<description>Inca (Europe) (Beta) (1993-05-07)</description>
 		<disk name="Inca (Europe) (Beta) (1993-05-07).delta.chd" sha1="6ee72e3fc68d6aa78dd37b667ef8f9a2fe9c1de5" />
 	</machine>
-	<machine name="Inca (Europe) (En,Fr,De,Nl)">
+	<machine name="Inca (Europe) (En,Fr,De,Nl)" cloneof="Inca (USA)">
 		<category>Games</category>
 		<description>Inca (Europe) (En,Fr,De,Nl)</description>
 		<year>1993</year>
 		<manufacturer>Coktel Vision ~ Philips</manufacturer>
-		<disk name="Inca (Europe) (En,Fr,De,Nl).chd" sha1="01af974debc2d397186213e95a4753fb6c0c4e55" />
+		<disk name="Inca (Europe) (En,Fr,De,Nl).delta.chd" sha1="01af974debc2d397186213e95a4753fb6c0c4e55" />
 	</machine>
 	<machine name="Inca (Europe) (En,Fr,De,Nl) (Beta) (1993-04-21)">
 		<category>Preproduction</category>
@@ -7052,12 +7052,12 @@
 		<manufacturer>Pathe ~ Philips</manufacturer>
 		<disk name="International Tennis Open (Europe) (En,Fr).chd" sha1="fe3636263c9f2afa8d014ae0c9330539d555fc44" />
 	</machine>
-	<machine name="International Tennis Open (Europe) (En,Fr) (Simultaneous 2 Player Game)">
+	<machine name="International Tennis Open (Europe) (En,Fr) (Simultaneous 2 Player Game)" cloneof="International Tennis Open (USA) (En,Fr) (Simultaneous 2 Player Game)">
 		<category>Games</category>
 		<description>International Tennis Open (Europe) (En,Fr) (Simultaneous 2 Player Game)</description>
 		<year>1994</year>
 		<manufacturer>Pathe ~ Philips</manufacturer>
-		<disk name="International Tennis Open (Europe) (En,Fr) (Simultaneous 2 Player Game).chd" sha1="ce7055658769e7a9913d5cd5d9725b2521d1a9e4" />
+		<disk name="International Tennis Open (Europe) (En,Fr) (Simultaneous 2 Player Game).delta.chd" sha1="ce7055658769e7a9913d5cd5d9725b2521d1a9e4" />
 	</machine>
 	<machine name="International Tennis Open (Germany) (En,De)">
 		<category>Games</category>
@@ -7461,12 +7461,12 @@
 		<description>Karaoke Vol. 3 (Netherlands)</description>
 		<disk name="Karaoke Vol. 3 (Netherlands).chd" sha1="f9b6e3cefc50e054066a72a0d018e6be30f1c3ca" />
 	</machine>
-	<machine name="Kathy Smith - Personal Trainer (Europe)">
+	<machine name="Kathy Smith - Personal Trainer (Europe)" cloneof="Kathy Smith - Personal Trainer (USA)">
 		<category>Video</category>
 		<description>Kathy Smith - Personal Trainer (Europe)</description>
 		<year>1995</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Kathy Smith - Personal Trainer (Europe).chd" sha1="cb4eff249ff87a38532f69dc1d4702cf347560d0" />
+		<disk name="Kathy Smith - Personal Trainer (Europe).delta.chd" sha1="cb4eff249ff87a38532f69dc1d4702cf347560d0" />
 	</machine>
 	<machine name="Kathy Smith - Personal Trainer (USA)">
 		<category>Video</category>
@@ -8012,12 +8012,12 @@
 		<description>Lekker Lezen over Huisdieren (Netherlands)</description>
 		<disk name="Lekker Lezen over Huisdieren (Netherlands).chd" sha1="7ce4b6e1e8abf5813762fc3b1f1c50f1e93d5fb7" />
 	</machine>
-	<machine name="Lemmings (Europe)">
+	<machine name="Lemmings (Europe)" cloneof="Lemmings (USA)">
 		<category>Games</category>
 		<description>Lemmings (Europe)</description>
 		<year>1994</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Lemmings (Europe).chd" sha1="fb7db4b51cc65fbb657a7b8f8c834779afd283ee" />
+		<disk name="Lemmings (Europe).delta.chd" sha1="fb7db4b51cc65fbb657a7b8f8c834779afd283ee" />
 	</machine>
 	<machine name="Lemmings (USA)">
 		<category>Games</category>
@@ -8126,12 +8126,12 @@
 		<manufacturer>Philips</manufacturer>
 		<disk name="Link - The Faces of Evil (Europe).delta.chd" sha1="7dc33d2bbc10b41175625bef950104fa46794143" />
 	</machine>
-	<machine name="Link - The Faces of Evil (France)">
+	<machine name="Link - The Faces of Evil (France)" cloneof="Link - The Faces of Evil (USA)">
 		<category>Games</category>
 		<description>Link - The Faces of Evil (France)</description>
 		<year>1993</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Link - The Faces of Evil (France).chd" sha1="376344e087e2e89f57d0b0b5bfa8010b758d672b" />
+		<disk name="Link - The Faces of Evil (France).delta.chd" sha1="376344e087e2e89f57d0b0b5bfa8010b758d672b" />
 	</machine>
 	<machine name="Link - The Faces of Evil (USA)">
 		<category>Games</category>
@@ -8190,12 +8190,12 @@
 		<description>Loek Sanders SFH6 - Isere - 21 Sept 90 (Netherlands)</description>
 		<disk name="Loek Sanders SFH6 - Isere - 21 Sept 90 (Netherlands).chd" sha1="764f0e3a3869262806b8452fae10985e4f542c2d" />
 	</machine>
-	<machine name="Lords of the Rising Sun (Europe)">
+	<machine name="Lords of the Rising Sun (Europe)" cloneof="Lords of the Rising Sun (USA)">
 		<category>Games</category>
 		<description>Lords of the Rising Sun (Europe)</description>
 		<year>1992</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Lords of the Rising Sun (Europe).chd" sha1="ecd2a1427a80b7efe806b1a673bb1368475c6e2f" />
+		<disk name="Lords of the Rising Sun (Europe).delta.chd" sha1="ecd2a1427a80b7efe806b1a673bb1368475c6e2f" />
 	</machine>
 	<machine name="Lords of the Rising Sun (USA)">
 		<category>Games</category>
@@ -8379,12 +8379,12 @@
 		<description>Mad Dog McCree (Portugal)</description>
 		<disk name="Mad Dog McCree (Portugal).chd" sha1="e1f43d45c9b8c8a9fc9febade648d9fbe9734bfc" />
 	</machine>
-	<machine name="Mad Dog McCree (USA) (Alt)">
+	<machine name="Mad Dog McCree (USA) (Alt)" cloneof="Mad Dog McCree (USA, Europe)">
 		<category>Games</category>
 		<description>Mad Dog McCree (USA) (Alt)</description>
 		<year>1994</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Mad Dog McCree (USA) (Alt).chd" sha1="db80f64fc5942e8eedb4206f7c5e7c3a8fe6878e" />
+		<disk name="Mad Dog McCree (USA) (Alt).delta.chd" sha1="db80f64fc5942e8eedb4206f7c5e7c3a8fe6878e" />
 	</machine>
 	<machine name="Mad Dog McCree (USA) (Beta) (1993-12-09)">
 		<category>Preproduction</category>
@@ -8694,12 +8694,12 @@
 		<description>Meetings, Bloody Meetings (UK)</description>
 		<disk name="Meetings, Bloody Meetings (UK).chd" sha1="adec4e138b00eef56f031393bdb7ce0aa7ace765" />
 	</machine>
-	<machine name="Mega Maze (Europe)">
+	<machine name="Mega Maze (Europe)" cloneof="Mega Maze (USA)">
 		<category>Games</category>
 		<description>Mega Maze (Europe)</description>
 		<year>1994</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Mega Maze (Europe).chd" sha1="32fafc06c32de3d07a8498a75543d4ddd76cfe0c" />
+		<disk name="Mega Maze (Europe).delta.chd" sha1="32fafc06c32de3d07a8498a75543d4ddd76cfe0c" />
 	</machine>
 	<machine name="Mega Maze (Europe) (Beta) (1993-10-21)">
 		<category>Preproduction</category>
@@ -8730,12 +8730,12 @@
 		<manufacturer>Compact Disc Incorporated</manufacturer>
 		<disk name="Memory Works, The - For Names and Faces (USA).chd" sha1="66413acdf1eea1f8738dbca6812860fca71ea442" />
 	</machine>
-	<machine name="Mercer Mayer's Little Monster at School (Europe)">
+	<machine name="Mercer Mayer's Little Monster at School (Europe)" cloneof="Mercer Mayer's Little Monster at School (USA) (Rev 1)">
 		<category>Educational</category>
 		<description>Mercer Mayer's Little Monster at School (Europe)</description>
 		<year>1994</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Mercer Mayer's Little Monster at School (Europe).chd" sha1="8b80bc1220883cd0ecf643aadb4d3265f2783e20" />
+		<disk name="Mercer Mayer's Little Monster at School (Europe).delta.chd" sha1="8b80bc1220883cd0ecf643aadb4d3265f2783e20" />
 	</machine>
 	<machine name="Mercer Mayer's Little Monster at School (USA)">
 		<category>Educational</category>
@@ -8749,24 +8749,24 @@
 		<manufacturer>Philips</manufacturer>
 		<disk name="Mercer Mayer's Little Monster at School (USA) (Rev 1).chd" sha1="539ba0d4e6f5b87a80d0bb6f06022f85d5253365" />
 	</machine>
-	<machine name="Merlin's Apprentice (Europe)">
+	<machine name="Merlin's Apprentice (Europe)" cloneof="Merlin's Apprentice (USA)">
 		<category>Games</category>
 		<description>Merlin's Apprentice (Europe)</description>
 		<year>1995</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Merlin's Apprentice (Europe).chd" sha1="a6c5639efef3779d0c88dbe060e97c70e6620f23" />
+		<disk name="Merlin's Apprentice (Europe).delta.chd" sha1="a6c5639efef3779d0c88dbe060e97c70e6620f23" />
 	</machine>
 	<machine name="Merlin's Apprentice (USA)">
 		<category>Games</category>
 		<description>Merlin's Apprentice (USA)</description>
 		<disk name="Merlin's Apprentice (USA).chd" sha1="07205373bec467c88b046a9ceed0b3334815efcf" />
 	</machine>
-	<machine name="Merlin's Apprentice (USA) (Rev 1)">
+	<machine name="Merlin's Apprentice (USA) (Rev 1)" cloneof="Merlin's Apprentice (USA)">
 		<category>Games</category>
 		<description>Merlin's Apprentice (USA) (Rev 1)</description>
 		<year>1995</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Merlin's Apprentice (USA) (Rev 1).chd" sha1="1cbad0c40dc82925c1d298fddc6e3aa9ff872511" />
+		<disk name="Merlin's Apprentice (USA) (Rev 1).delta.chd" sha1="1cbad0c40dc82925c1d298fddc6e3aa9ff872511" />
 	</machine>
 	<machine name="Merz + Co. GmbH &amp; Co. - Tetesept Erkaltungsmedizin (Germany)">
 		<category>Multimedia</category>
@@ -8906,12 +8906,12 @@
 		<manufacturer>Philips</manufacturer>
 		<disk name="Moses - The Exodus (USA, Europe).chd" sha1="15b27521d8d904e5f18666d38090aedb5f5b7cd5" />
 	</machine>
-	<machine name="Mother Goose - Hidden Pictures (Europe)">
+	<machine name="Mother Goose - Hidden Pictures (Europe)" cloneof="Mother Goose - Hidden Pictures (USA)">
 		<category>Educational</category>
 		<description>Mother Goose - Hidden Pictures (Europe)</description>
 		<year>1991</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Mother Goose - Hidden Pictures (Europe).chd" sha1="c29fd52bef5cc178e6c0a01950cb252e284d4032" />
+		<disk name="Mother Goose - Hidden Pictures (Europe).delta.chd" sha1="c29fd52bef5cc178e6c0a01950cb252e284d4032" />
 	</machine>
 	<machine name="Mother Goose - Hidden Pictures (USA)">
 		<category>Educational</category>
@@ -8920,12 +8920,12 @@
 		<manufacturer>Philips</manufacturer>
 		<disk name="Mother Goose - Hidden Pictures (USA).chd" sha1="01324ae0b08c3f6a6a975403f2122cdd2cb348b1" />
 	</machine>
-	<machine name="Mother Goose - Rhymes to Color (Europe)">
+	<machine name="Mother Goose - Rhymes to Color (Europe)" cloneof="Mother Goose - Rhymes to Color (USA)">
 		<category>Games</category>
 		<description>Mother Goose - Rhymes to Color (Europe)</description>
 		<year>1991</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Mother Goose - Rhymes to Color (Europe).chd" sha1="c3b5dffc8cbc1374429f6e46f525553541eb9f38" />
+		<disk name="Mother Goose - Rhymes to Color (Europe).delta.chd" sha1="c3b5dffc8cbc1374429f6e46f525553541eb9f38" />
 	</machine>
 	<machine name="Mother Goose - Rhymes to Color (USA)">
 		<category>Educational</category>
@@ -8999,36 +8999,36 @@
 		<description>Museo Amparo (Mexico)</description>
 		<disk name="Museo Amparo (Mexico).chd" sha1="e49fa2f11906f4c0ec4bc43a4d23c0ebfb0af6f8" />
 	</machine>
-	<machine name="Mutant Rampage - Bodyslam (Europe)">
+	<machine name="Mutant Rampage - Bodyslam (Europe)" cloneof="Mutant Rampage - Bodyslam (USA)">
 		<category>Games</category>
 		<description>Mutant Rampage - Bodyslam (Europe)</description>
 		<year>1994</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Mutant Rampage - Bodyslam (Europe).chd" sha1="ed30c69600ff179cb6af9e45b34b09e1fc2799f9" />
+		<disk name="Mutant Rampage - Bodyslam (Europe).delta.chd" sha1="ed30c69600ff179cb6af9e45b34b09e1fc2799f9" />
 	</machine>
 	<machine name="Mutant Rampage - Bodyslam (USA)">
 		<category>Games</category>
 		<description>Mutant Rampage - Bodyslam (USA)</description>
 		<disk name="Mutant Rampage - Bodyslam (USA).chd" sha1="df16ced9f78393e69c76d9a04299450d8bff4380" />
 	</machine>
-	<machine name="Mutant Rampage - Bodyslam (USA) (Beta) (1994-08-25)">
+	<machine name="Mutant Rampage - Bodyslam (USA) (Beta) (1994-08-25)" cloneof="Mutant Rampage - Bodyslam (USA)">
 		<category>Preproduction</category>
 		<description>Mutant Rampage - Bodyslam (USA) (Beta) (1994-08-25)</description>
 		<year>1994</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Mutant Rampage - Bodyslam (USA) (Beta) (1994-08-25).chd" sha1="637f5ccd865a3002b69b958abb6de0224a7a233a" />
+		<disk name="Mutant Rampage - Bodyslam (USA) (Beta) (1994-08-25).delta.chd" sha1="637f5ccd865a3002b69b958abb6de0224a7a233a" />
 	</machine>
 	<machine name="Muziek in Economie (Netherlands)">
 		<category>Multimedia</category>
 		<description>Muziek in Economie (Netherlands)</description>
 		<disk name="Muziek in Economie (Netherlands).chd" sha1="ddde3533c98171054923fd5e389ca87f3d1f0340" />
 	</machine>
-	<machine name="Muzzy (Europe)">
+	<machine name="Muzzy (Europe)" cloneof="Muzzy (USA)">
 		<category>Educational</category>
 		<description>Muzzy (Europe)</description>
 		<year>1994</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Muzzy (Europe).chd" sha1="b1ffb9a4846033e099952e90b0f03350bd4a7c99" />
+		<disk name="Muzzy (Europe).delta.chd" sha1="b1ffb9a4846033e099952e90b0f03350bd4a7c99" />
 	</machine>
 	<machine name="Muzzy (Europe) (Beta) (1994-07-14)">
 		<category>Preproduction</category>
@@ -9049,12 +9049,12 @@
 		<manufacturer>Philips</manufacturer>
 		<disk name="Myst (Europe).chd" sha1="4d678435ae3866db42879ee119162e5a14d706f8" />
 	</machine>
-	<machine name="Mystic Midway - Phantom Express (Europe)">
+	<machine name="Mystic Midway - Phantom Express (Europe)" cloneof="Mystic Midway - Phantom Express (USA)">
 		<category>Games</category>
 		<description>Mystic Midway - Phantom Express (Europe)</description>
 		<year>1993</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Mystic Midway - Phantom Express (Europe).chd" sha1="8a688d06c5def77c98046b02358b29575b830d2f" />
+		<disk name="Mystic Midway - Phantom Express (Europe).delta.chd" sha1="8a688d06c5def77c98046b02358b29575b830d2f" />
 	</machine>
 	<machine name="Mystic Midway - Phantom Express (USA)">
 		<category>Games</category>
@@ -9209,12 +9209,12 @@
 		<description>Newcomers, The (UK)</description>
 		<disk name="Newcomers, The (UK).chd" sha1="33e5b53a09a88a17df97a5782ab533cd3f763aa3" />
 	</machine>
-	<machine name="NFL 100 Greatest Touchdowns (Europe)">
+	<machine name="NFL 100 Greatest Touchdowns (Europe)" cloneof="NFL 100 Greatest Touchdowns (USA)">
 		<category>Video</category>
 		<description>NFL 100 Greatest Touchdowns (Europe)</description>
 		<year>1996</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="NFL 100 Greatest Touchdowns (Europe).chd" sha1="b4b055e65af676bd9810c04b9c1cf9219c6d8d58" />
+		<disk name="NFL 100 Greatest Touchdowns (Europe).delta.chd" sha1="b4b055e65af676bd9810c04b9c1cf9219c6d8d58" />
 	</machine>
 	<machine name="NFL 100 Greatest Touchdowns (USA)">
 		<category>Video</category>
@@ -9230,24 +9230,24 @@
 		<manufacturer>Philips</manufacturer>
 		<disk name="NFL Football Trivia Challenge (USA).chd" sha1="c63e33c3e04488d0875f57a401bee8513e0e4880" />
 	</machine>
-	<machine name="NFL Football Trivia Challenge '94-'95 Edition (Europe)">
+	<machine name="NFL Football Trivia Challenge '94-'95 Edition (Europe)" cloneof="NFL Football Trivia Challenge '94-'95 Edition (USA)">
 		<category>Games</category>
 		<description>NFL Football Trivia Challenge '94-'95 Edition (Europe)</description>
 		<year>1994</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="NFL Football Trivia Challenge '94-'95 Edition (Europe).chd" sha1="2b7cb525b99bddc159437645000f37873dd6a803" />
+		<disk name="NFL Football Trivia Challenge '94-'95 Edition (Europe).delta.chd" sha1="2b7cb525b99bddc159437645000f37873dd6a803" />
 	</machine>
 	<machine name="NFL Football Trivia Challenge '94-'95 Edition (USA)">
 		<category>Games</category>
 		<description>NFL Football Trivia Challenge '94-'95 Edition (USA)</description>
 		<disk name="NFL Football Trivia Challenge '94-'95 Edition (USA).chd" sha1="adb041beb12b54f8133017cbae98c8acfbe18bd3" />
 	</machine>
-	<machine name="NFL Hall of Fame Football (Europe)">
+	<machine name="NFL Hall of Fame Football (Europe)" cloneof="NFL Hall of Fame Football (USA)">
 		<category>Games</category>
 		<description>NFL Hall of Fame Football (Europe)</description>
 		<year>1994</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="NFL Hall of Fame Football (Europe).chd" sha1="27462d56968053f465f4781a4d7117fe2419e147" />
+		<disk name="NFL Hall of Fame Football (Europe).delta.chd" sha1="27462d56968053f465f4781a4d7117fe2419e147" />
 	</machine>
 	<machine name="NFL Hall of Fame Football (USA)">
 		<category>Games</category>
@@ -9448,12 +9448,12 @@
 		<description>Op Jacht naar Vernuft (Netherlands)</description>
 		<disk name="Op Jacht naar Vernuft (Netherlands).chd" sha1="153c54e9a86bad190458974f93c7c041a84cd025" />
 	</machine>
-	<machine name="Open de Palm Springs, L' (France)">
+	<machine name="Open de Palm Springs, L' (France)" cloneof="Palm Springs Open, The (USA)">
 		<category>Games</category>
 		<description>Open de Palm Springs, L' (France)</description>
 		<year>1992</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Open de Palm Springs, L' (France).chd" sha1="d961d08e5207c79d5f3ba036feaa800ae86419d5" />
+		<disk name="Open de Palm Springs, L' (France).delta.chd" sha1="d961d08e5207c79d5f3ba036feaa800ae86419d5" />
 	</machine>
 	<machine name="Open Universiteit - Practicum Toxicologische Histopathologie (Netherlands)">
 		<category>Multimedia</category>
@@ -9581,12 +9581,12 @@
 		<description>Paint School II (Asia) (En,Ja,Zh,Ko)</description>
 		<disk name="Paint School II (Asia) (En,Ja,Zh,Ko).chd" sha1="6413d043ba5636f1662606ceda54ccc87c1b24c5" />
 	</machine>
-	<machine name="Paint School II (Europe)">
+	<machine name="Paint School II (Europe)" cloneof="Paint School II (USA)">
 		<category>Educational</category>
 		<description>Paint School II (Europe)</description>
 		<year>1991</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Paint School II (Europe).chd" sha1="7bac31108aa2bac053d1af6b493f7028244c082b" />
+		<disk name="Paint School II (Europe).delta.chd" sha1="7bac31108aa2bac053d1af6b493f7028244c082b" />
 	</machine>
 	<machine name="Paint School II (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)">
 		<category>Educational</category>
@@ -9610,12 +9610,12 @@
 		<manufacturer>Philips</manufacturer>
 		<disk name="Palm Springs Open, The (Germany).chd" sha1="bead71e36309bf836914b72afb0fcc6eed77e74b" />
 	</machine>
-	<machine name="Palm Springs Open, The (Italy)">
+	<machine name="Palm Springs Open, The (Italy)" cloneof="Palm Springs Open, The (USA)">
 		<category>Games</category>
 		<description>Palm Springs Open, The (Italy)</description>
 		<year>1992</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Palm Springs Open, The (Italy).chd" sha1="c39c6ff4ed48a41c8499b38638ae37cdc96cdc65" />
+		<disk name="Palm Springs Open, The (Italy).delta.chd" sha1="c39c6ff4ed48a41c8499b38638ae37cdc96cdc65" />
 	</machine>
 	<machine name="Palm Springs Open, The (USA)">
 		<category>Games</category>
@@ -9624,12 +9624,12 @@
 		<manufacturer>Philips</manufacturer>
 		<disk name="Palm Springs Open, The (USA).chd" sha1="af2b213ecf4f44011dee2cda99d21a6b34d3bacd" />
 	</machine>
-	<machine name="Palm Springs Open, The (World)">
+	<machine name="Palm Springs Open, The (World)" cloneof="Palm Springs Open, The (USA)">
 		<category>Games</category>
 		<description>Palm Springs Open, The (World)</description>
 		<year>1991</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Palm Springs Open, The (World).chd" sha1="ccedb03825565220da7d5a58c12b0f43afdcb83b" />
+		<disk name="Palm Springs Open, The (World).delta.chd" sha1="ccedb03825565220da7d5a58c12b0f43afdcb83b" />
 	</machine>
 	<machine name="Paris Belle Epoque (France)">
 		<category>Multimedia</category>
@@ -9725,12 +9725,12 @@
 		<manufacturer>Icontact Multimedia Limited</manufacturer>
 		<disk name="Peaches (Europe).chd" sha1="df00e53db21f8f924569a9b842c9dd1f4bb608b3" />
 	</machine>
-	<machine name="Pecos Bill (Europe)">
+	<machine name="Pecos Bill (Europe)" cloneof="Pecos Bill (USA)">
 		<category>Educational</category>
 		<description>Pecos Bill (Europe)</description>
 		<year>1992</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Pecos Bill (Europe).chd" sha1="362b2662e8e4f35c4fde91d9244e6b5d1bac9216" />
+		<disk name="Pecos Bill (Europe).delta.chd" sha1="362b2662e8e4f35c4fde91d9244e6b5d1bac9216" />
 	</machine>
 	<machine name="Pecos Bill (Italy) (En,It)">
 		<category>Educational</category>
@@ -10111,12 +10111,12 @@
 		<description>Posse (USA) (Disc 2)</description>
 		<disk name="Posse (USA) (Disc 2).chd" sha1="54c2eae2f7382fc7b9d82c57db79af59bd1336b4" />
 	</machine>
-	<machine name="Power Hitter (Europe)">
+	<machine name="Power Hitter (Europe)" cloneof="Power Hitter (USA)">
 		<category>Games</category>
 		<description>Power Hitter (Europe)</description>
 		<year>1992</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Power Hitter (Europe).chd" sha1="f1966ff29aded36948d8464fa1281e713441bc01" />
+		<disk name="Power Hitter (Europe).delta.chd" sha1="f1966ff29aded36948d8464fa1281e713441bc01" />
 	</machine>
 	<machine name="Power Hitter (Europe) (Rev 1)" cloneof="Power Hitter (USA)">
 		<category>Games</category>
@@ -10132,12 +10132,12 @@
 		<manufacturer>Philips</manufacturer>
 		<disk name="Power Hitter (USA).chd" sha1="2598ee8feeff8f2bae372717c45f79311a332a0f" />
 	</machine>
-	<machine name="Power Hitter (USA) (Rev 1)">
+	<machine name="Power Hitter (USA) (Rev 1)" cloneof="Power Hitter (USA)">
 		<category>Games</category>
 		<description>Power Hitter (USA) (Rev 1)</description>
 		<year>1993</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Power Hitter (USA) (Rev 1).chd" sha1="4c42959a6ab95a69771274e8d7f397546ca2e02a" />
+		<disk name="Power Hitter (USA) (Rev 1).delta.chd" sha1="4c42959a6ab95a69771274e8d7f397546ca2e02a" />
 	</machine>
 	<machine name="Power Match (Europe)">
 		<category>Games</category>
@@ -10217,12 +10217,12 @@
 		<description>Private Lesson Series - Methode de Guitare Classique (France)</description>
 		<disk name="Private Lesson Series - Methode de Guitare Classique (France).chd" sha1="026fc98c45a6bbfbaac591f7e7604c96e1d88fca" />
 	</machine>
-	<machine name="Private Lesson Series - Rock Guitar - A Beginner's Guide (Europe)">
+	<machine name="Private Lesson Series - Rock Guitar - A Beginner's Guide (Europe)" cloneof="Private Lesson Series - Rock Guitar - A Beginner's Guide (USA)">
 		<category>Multimedia</category>
 		<description>Private Lesson Series - Rock Guitar - A Beginner's Guide (Europe)</description>
 		<year>1992</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Private Lesson Series - Rock Guitar - A Beginner's Guide (Europe).chd" sha1="1c32387fe14d0dcfc6c48da44384d1a859be0428" />
+		<disk name="Private Lesson Series - Rock Guitar - A Beginner's Guide (Europe).delta.chd" sha1="1c32387fe14d0dcfc6c48da44384d1a859be0428" />
 	</machine>
 	<machine name="Private Lesson Series - Rock Guitar - A Beginner's Guide (USA)">
 		<category>Multimedia</category>
@@ -10446,19 +10446,19 @@
 		<manufacturer>Philips</manufacturer>
 		<disk name="Rhythm Maker (USA).chd" sha1="5c79159bc3d2588520c2240eecdc647c058a57e0" />
 	</machine>
-	<machine name="Rhythm Maker (USA) (Beta) (1993-03-09)">
+	<machine name="Rhythm Maker (USA) (Beta) (1993-03-09)" cloneof="Rhythm Maker (USA) (Beta) (1993-03-09)">
 		<category>Preproduction</category>
 		<description>Rhythm Maker (USA) (Beta) (1993-03-09)</description>
 		<year>1993</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Rhythm Maker (USA) (Beta) (1993-03-09).chd" sha1="0254960151a60ab92504c3d81f660b345785a452" />
+		<disk name="Rhythm Maker (USA) (Beta) (1993-03-09).delta.chd" sha1="0254960151a60ab92504c3d81f660b345785a452" />
 	</machine>
-	<machine name="Rhythm Maker (USA) (Beta) (1993-03-09) (Alt)">
+	<machine name="Rhythm Maker (USA) (Beta) (1993-03-09) (Alt)" cloneof="Rhythm Maker (USA) (Beta) (1993-03-09)">
 		<category>Preproduction</category>
 		<description>Rhythm Maker (USA) (Beta) (1993-03-09) (Alt)</description>
 		<year>1993</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Rhythm Maker (USA) (Beta) (1993-03-09) (Alt).chd" sha1="0a37f691acea48cc5b049b5eea7a60e3a0d66396" />
+		<disk name="Rhythm Maker (USA) (Beta) (1993-03-09) (Alt).delta.chd" sha1="0a37f691acea48cc5b049b5eea7a60e3a0d66396" />
 	</machine>
 	<machine name="Richard Scarry - La Citta piu Felice del Mondo! (Italy)">
 		<category>Educational</category>
@@ -10691,12 +10691,12 @@
 		<manufacturer>Philips</manufacturer>
 		<disk name="Santa Claus' Mice (Europe) (En,Fr).chd" sha1="6b4d1c31659aab2b1ad6d82cbd92fc2157614183" />
 	</machine>
-	<machine name="Sargon Chess (Europe)">
+	<machine name="Sargon Chess (Europe)" cloneof="Sargon Chess (USA)">
 		<category>Games</category>
 		<description>Sargon Chess (Europe)</description>
 		<year>1992</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Sargon Chess (Europe).chd" sha1="de79986b70aa19c8427d55a153e8bb38399b0e42" />
+		<disk name="Sargon Chess (Europe).delta.chd" sha1="de79986b70aa19c8427d55a153e8bb38399b0e42" />
 	</machine>
 	<machine name="Sargon Chess (USA)">
 		<category>Games</category>
@@ -11041,12 +11041,12 @@
 		<description>Source Media Network - CD-i Demo Disc (USA)</description>
 		<disk name="Source Media Network - CD-i Demo Disc (USA).chd" sha1="e10458095924374fbdbb6d34b910693f9a15aa04" />
 	</machine>
-	<machine name="Space Ace (Europe)">
+	<machine name="Space Ace (Europe)" cloneof="Space Ace (USA)">
 		<category>Games</category>
 		<description>Space Ace (Europe)</description>
 		<year>1994</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Space Ace (Europe).chd" sha1="74fdcdaf3f9a14ea8c701b4ccabbc1268745d455" />
+		<disk name="Space Ace (Europe).delta.chd" sha1="74fdcdaf3f9a14ea8c701b4ccabbc1268745d455" />
 	</machine>
 	<machine name="Space Ace (Europe) (Beta) (1993-10-26)">
 		<category>Preproduction</category>
@@ -11267,24 +11267,24 @@
 		<description>Stomach in Motion (Belgium)</description>
 		<disk name="Stomach in Motion (Belgium).chd" sha1="7a1d3213b690a371e81b7a6d93499ba378ece8c1" />
 	</machine>
-	<machine name="Story Machine - Magic Tales (Europe)">
+	<machine name="Story Machine - Magic Tales (Europe)" cloneof="Story Machine - Magic Tales (USA)">
 		<category>Educational</category>
 		<description>Story Machine - Magic Tales (Europe)</description>
 		<year>1992</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Story Machine - Magic Tales (Europe).chd" sha1="4c73330e7fb2d4a0e7eac5d7a396b18dcdb01bb8" />
+		<disk name="Story Machine - Magic Tales (Europe).delta.chd" sha1="4c73330e7fb2d4a0e7eac5d7a396b18dcdb01bb8" />
 	</machine>
 	<machine name="Story Machine - Magic Tales (USA)">
 		<category>Educational</category>
 		<description>Story Machine - Magic Tales (USA)</description>
 		<disk name="Story Machine - Magic Tales (USA).chd" sha1="b38b23816a22ccac5e5941200447fedba3976684" />
 	</machine>
-	<machine name="Story Machine - Star Dreams (Europe)">
+	<machine name="Story Machine - Star Dreams (Europe)" cloneof="Story Machine - Star Dreams (USA)">
 		<category>Educational</category>
 		<description>Story Machine - Star Dreams (Europe)</description>
 		<year>1992</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Story Machine - Star Dreams (Europe).chd" sha1="61e440c4b6a8612f2ee90fa30fa8d8c3861c13ce" />
+		<disk name="Story Machine - Star Dreams (Europe).delta.chd" sha1="61e440c4b6a8612f2ee90fa30fa8d8c3861c13ce" />
 	</machine>
 	<machine name="Story Machine - Star Dreams (USA)">
 		<category>Educational</category>
@@ -11320,12 +11320,12 @@
 		<description>Stretch-Top System - Wasserbett-Information (Europe)</description>
 		<disk name="Stretch-Top System - Wasserbett-Information (Europe).chd" sha1="cb7db35fcec25319c01a8a4a32b5c5fb3c58b25b" />
 	</machine>
-	<machine name="Striker Pro (Europe)">
+	<machine name="Striker Pro (Europe)" cloneof="Striker Pro (USA)">
 		<category>Games</category>
 		<description>Striker Pro (Europe)</description>
 		<year>1994</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Striker Pro (Europe).chd" sha1="f68f0e06af39754caed6fb8407b0cd6880f7478c" />
+		<disk name="Striker Pro (Europe).delta.chd" sha1="f68f0e06af39754caed6fb8407b0cd6880f7478c" />
 	</machine>
 	<machine name="Striker Pro (USA)">
 		<category>Games</category>
@@ -11405,12 +11405,12 @@
 		<description>SuperTest (Europe) (De,It) (Beta) (1995-04-11)</description>
 		<disk name="SuperTest (Europe) (De,It) (Beta) (1995-04-11).chd" sha1="6d77f885c2717c4f2616c678cac2e2bb9721d3fd" />
 	</machine>
-	<machine name="Surf City (Europe)">
+	<machine name="Surf City (Europe)" cloneof="Surf City (USA)">
 		<category>Games</category>
 		<description>Surf City (Europe)</description>
 		<year>1994</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Surf City (Europe).chd" sha1="8ba096203c5ccc6a7955e04962b9fb2160123dce" />
+		<disk name="Surf City (Europe).delta.chd" sha1="8ba096203c5ccc6a7955e04962b9fb2160123dce" />
 	</machine>
 	<machine name="Surf City (Europe) (Beta) (1994-05-30)">
 		<category>Preproduction</category>
@@ -11664,12 +11664,12 @@
 		<description>Thrombolyse dans Tous Ses Etats, La (France)</description>
 		<disk name="Thrombolyse dans Tous Ses Etats, La (France).chd" sha1="564809c4f7177b081ce677eb85290f4ead6f58b2" />
 	</machine>
-	<machine name="Thunder in Paradise (Europe) (Disc 1) (The Game)">
+	<machine name="Thunder in Paradise (Europe) (Disc 1) (The Game)" cloneof="Thunder in Paradise (USA) (Disc 1) (The Game)">
 		<category>Games</category>
 		<description>Thunder in Paradise (Europe) (Disc 1) (The Game)</description>
 		<year>1995</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Thunder in Paradise (Europe) (Disc 1) (The Game).chd" sha1="b5fce8515b52a77148d81306832354ff6067b05b" />
+		<disk name="Thunder in Paradise (Europe) (Disc 1) (The Game).delta.chd" sha1="b5fce8515b52a77148d81306832354ff6067b05b" />
 	</machine>
 	<machine name="Thunder in Paradise (Germany)">
 		<category>Games</category>
@@ -11809,12 +11809,12 @@
 		<manufacturer>Philips</manufacturer>
 		<disk name="Time Life Presente - La Photographie 24 x 36 mm (France).chd" sha1="f51047ada4ae71a7fd2f108907b10e59e189ede2" />
 	</machine>
-	<machine name="Time Life Presents - 35mm Photography (Europe)">
+	<machine name="Time Life Presents - 35mm Photography (Europe)" cloneof="Time Life Presents - 35mm Photography (USA)">
 		<category>Multimedia</category>
 		<description>Time Life Presents - 35mm Photography (Europe)</description>
 		<year>1991</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Time Life Presents - 35mm Photography (Europe).chd" sha1="c7f75a796db010bfe7803211666c9ec14a0e5620" />
+		<disk name="Time Life Presents - 35mm Photography (Europe).delta.chd" sha1="c7f75a796db010bfe7803211666c9ec14a0e5620" />
 	</machine>
 	<machine name="Time Life Presents - 35mm Photography (USA)" cloneof="Time Life Presents - 35mm Photography (USA)">
 		<category>Multimedia</category>
@@ -12038,12 +12038,12 @@
 		<description>TV Interactief - Site Seeing in Digitaal Eindhoven (Netherlands)</description>
 		<disk name="TV Interactief - Site Seeing in Digitaal Eindhoven (Netherlands).chd" sha1="dab6573e46a6c639692bbe66c6ba9cfa4ce17510" />
 	</machine>
-	<machine name="TV Interactief - Site Seeing in Digitaal Eindhoven (Netherlands) (Rev 1)">
+	<machine name="TV Interactief - Site Seeing in Digitaal Eindhoven (Netherlands) (Rev 1)" cloneof="TV Interactief - Site Seeing in Digitaal Eindhoven (Netherlands)">
 		<category>Multimedia</category>
 		<description>TV Interactief - Site Seeing in Digitaal Eindhoven (Netherlands) (Rev 1)</description>
 		<year>1997</year>
 		<manufacturer>TV-Tokyo</manufacturer>
-		<disk name="TV Interactief - Site Seeing in Digitaal Eindhoven (Netherlands) (Rev 1).chd" sha1="103b9dd044d6a99a8ede3124f1c13ffad7707ed5" />
+		<disk name="TV Interactief - Site Seeing in Digitaal Eindhoven (Netherlands) (Rev 1).delta.chd" sha1="103b9dd044d6a99a8ede3124f1c13ffad7707ed5" />
 	</machine>
 	<machine name="UEFA Champions League (Europe) (Demo)">
 		<category>Demos</category>
@@ -12098,12 +12098,12 @@
 		<manufacturer>SKC Limited</manufacturer>
 		<disk name="Ulihamkke Bulleoyo - Jayeongwa Hamkke (Korea).chd" sha1="64e69cd4fc4c71d8cdddd65465da2646a3cb434a" />
 	</machine>
-	<machine name="Ultimate Noah's Ark, The (UK)">
+	<machine name="Ultimate Noah's Ark, The (UK)" cloneof="Ultimate Noah's Ark, The (USA)">
 		<category>Games</category>
 		<description>Ultimate Noah's Ark, The (UK)</description>
 		<year>1994</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Ultimate Noah's Ark, The (UK).chd" sha1="7b0c3e484d2bdec39bebdfe9d3fa03abab4e7a6f" />
+		<disk name="Ultimate Noah's Ark, The (UK).delta.chd" sha1="7b0c3e484d2bdec39bebdfe9d3fa03abab4e7a6f" />
 	</machine>
 	<machine name="Ultimate Noah's Ark, The (USA)">
 		<category>Games</category>
@@ -12354,12 +12354,12 @@
 		<manufacturer>Philips</manufacturer>
 		<disk name="Video Speedway - Grand Prix (France).chd" sha1="2571007ed6480ac61087abbdf0d35e466a39a7d1" />
 	</machine>
-	<machine name="Video Speedway - The Ultimate Racing Experience (Europe)">
+	<machine name="Video Speedway - The Ultimate Racing Experience (Europe)" cloneof="Video Speedway - The Ultimate Racing Experience (USA)">
 		<category>Games</category>
 		<description>Video Speedway - The Ultimate Racing Experience (Europe)</description>
 		<year>1993</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Video Speedway - The Ultimate Racing Experience (Europe).chd" sha1="e21f86210f18938f0c4b995d6ad68dba2429bda4" />
+		<disk name="Video Speedway - The Ultimate Racing Experience (Europe).delta.chd" sha1="e21f86210f18938f0c4b995d6ad68dba2429bda4" />
 	</machine>
 	<machine name="Video Speedway - The Ultimate Racing Experience (USA)">
 		<category>Games</category>
@@ -12395,12 +12395,12 @@
 		<description>Visit to Sesame Street, A - Letters (USA)</description>
 		<disk name="Visit to Sesame Street, A - Letters (USA).chd" sha1="f50113d87f9118d789a09ee5355a881c7ac8172c" />
 	</machine>
-	<machine name="Visit to Sesame Street, A - Letters (USA, Europe) (Rev 1)">
+	<machine name="Visit to Sesame Street, A - Letters (USA, Europe) (Rev 1)" cloneof="Visit to Sesame Street, A - Letters (USA)">
 		<category>Educational</category>
 		<description>Visit to Sesame Street, A - Letters (USA, Europe) (Rev 1)</description>
 		<year>1992</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Visit to Sesame Street, A - Letters (USA, Europe) (Rev 1).chd" sha1="c36d382bdaf13ea4dbd455d5934d2f30066b7282" />
+		<disk name="Visit to Sesame Street, A - Letters (USA, Europe) (Rev 1).delta.chd" sha1="c36d382bdaf13ea4dbd455d5934d2f30066b7282" />
 	</machine>
 	<machine name="Visit to Sesame Street, A - Numbers (USA)">
 		<category>Educational</category>
@@ -12409,12 +12409,12 @@
 		<manufacturer>Philips</manufacturer>
 		<disk name="Visit to Sesame Street, A - Numbers (USA).chd" sha1="58b6a508852ba661e2a42b02d5c3492c496f063a" />
 	</machine>
-	<machine name="Visit to Sesame Street, A - Numbers (USA, Europe)">
+	<machine name="Visit to Sesame Street, A - Numbers (USA, Europe)" cloneof="Visit to Sesame Street, A - Numbers (USA)">
 		<category>Educational</category>
 		<description>Visit to Sesame Street, A - Numbers (USA, Europe)</description>
 		<year>1992</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Visit to Sesame Street, A - Numbers (USA, Europe).chd" sha1="d06900b7aee967ee2f92ae27dda7dad0c819bf7a" />
+		<disk name="Visit to Sesame Street, A - Numbers (USA, Europe).delta.chd" sha1="d06900b7aee967ee2f92ae27dda7dad0c819bf7a" />
 	</machine>
 	<machine name="Visit to the Valley of Puebla and the Amparo Museum, A (Europe) (En,Fr,De,Es)" cloneof="Visit to the Valley of Puebla and the Amparo Museum, A (USA) (En,Fr,De,Es)">
 		<category>Multimedia</category>
@@ -12838,12 +12838,12 @@
 		<manufacturer>Philips</manufacturer>
 		<disk name="Voyeur (USA) (Rev 1) (Alt).chd" sha1="a93dff003441435bb6062c6c38a71cb9ad0f22b1" />
 	</machine>
-	<machine name="Voyeur ...Don't Get Caught (Europe)">
+	<machine name="Voyeur ...Don't Get Caught (Europe)" cloneof="Voyeur (USA)">
 		<category>Games</category>
 		<description>Voyeur ...Don't Get Caught (Europe)</description>
 		<year>1993</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Voyeur ...Don't Get Caught (Europe).chd" sha1="659c4da10c7b9c50aa9fdbf8800346dbb3b7f5a1" />
+		<disk name="Voyeur ...Don't Get Caught (Europe).delta.chd" sha1="659c4da10c7b9c50aa9fdbf8800346dbb3b7f5a1" />
 	</machine>
 	<machine name="Voyeur ...Lass Dich Nicht Erwischen! (Germany)">
 		<category>Games</category>
@@ -12852,12 +12852,12 @@
 		<manufacturer>Philips</manufacturer>
 		<disk name="Voyeur ...Lass Dich Nicht Erwischen! (Germany).chd" sha1="dcf7830dea60bf5ba82e1372cb7fdee4d1fd9061" />
 	</machine>
-	<machine name="Wacky World of Miniature Golf with Eugene Levy, The (Europe)">
+	<machine name="Wacky World of Miniature Golf with Eugene Levy, The (Europe)" cloneof="Wacky World of Miniature Golf with Eugene Levy, The (USA)">
 		<category>Games</category>
 		<description>Wacky World of Miniature Golf with Eugene Levy, The (Europe)</description>
 		<year>1993</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Wacky World of Miniature Golf with Eugene Levy, The (Europe).chd" sha1="4facb2fdcd1864f55ffee3bb3a466e0f0d746f35" />
+		<disk name="Wacky World of Miniature Golf with Eugene Levy, The (Europe).delta.chd" sha1="4facb2fdcd1864f55ffee3bb3a466e0f0d746f35" />
 	</machine>
 	<machine name="Wacky World of Miniature Golf with Eugene Levy, The (USA)">
 		<category>Games</category>
@@ -12977,12 +12977,12 @@
 		<description>What's That Bird Britain and Europe (Europe) (En,Fr,De,Es,It) (Rev 2)</description>
 		<disk name="What's That Bird Britain and Europe (Europe) (En,Fr,De,Es,It) (Rev 2).chd" sha1="8f923555252ee8804149b15da99e5cf4c57f77ea" />
 	</machine>
-	<machine name="Who Shot Johnny Rock (Europe)">
+	<machine name="Who Shot Johnny Rock (Europe)" cloneof="Who Shot Johnny Rock (USA)">
 		<category>Games</category>
 		<description>Who Shot Johnny Rock (Europe)</description>
 		<year>1995</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Who Shot Johnny Rock (Europe).chd" sha1="7c3f3543a42859c460190158f33c073215b1baed" />
+		<disk name="Who Shot Johnny Rock (Europe).delta.chd" sha1="7c3f3543a42859c460190158f33c073215b1baed" />
 	</machine>
 	<machine name="Who Shot Johnny Rock (Europe) (Beta) (1995-04-24)">
 		<category>Preproduction</category>
@@ -13286,12 +13286,12 @@
 		<description>Zombie Dinos from Planet Zeltoid (USA)</description>
 		<disk name="Zombie Dinos from Planet Zeltoid (USA).chd" sha1="1807aea6194fe93e9c15ca28ec077c9f39962062" />
 	</machine>
-	<machine name="Zombie Dinos from Planet Zeltoid (USA, Europe) (Rev 1)">
+	<machine name="Zombie Dinos from Planet Zeltoid (USA, Europe) (Rev 1)" cloneof="Zombie Dinos from Planet Zeltoid (USA)">
 		<category>Games</category>
 		<description>Zombie Dinos from Planet Zeltoid (USA, Europe) (Rev 1)</description>
 		<year>1992</year>
 		<manufacturer>Philips</manufacturer>
-		<disk name="Zombie Dinos from Planet Zeltoid (USA, Europe) (Rev 1).chd" sha1="793dbadd21e2284885fe3cf9a0bef8d5da3c5a06" />
+		<disk name="Zombie Dinos from Planet Zeltoid (USA, Europe) (Rev 1).delta.chd" sha1="793dbadd21e2284885fe3cf9a0bef8d5da3c5a06" />
 	</machine>
 	<machine name="Zombie Dinos van de Planeet Zeltoid (Netherlands)">
 		<category>Games</category>

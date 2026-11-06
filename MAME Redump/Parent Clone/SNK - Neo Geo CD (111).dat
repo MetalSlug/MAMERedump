@@ -106,12 +106,12 @@
 		<description>Double Dragon (Export) (En,Ja)</description>
 		<disk name="Double Dragon (Export) (En,Ja).chd" sha1="04dcb46a1b1356ca2f041c0c1240968fc4596422" />
 	</machine>
-	<machine name="Double Dragon (Japan) (En,Ja) (Rev 1)">
+	<machine name="Double Dragon (Japan) (En,Ja) (Rev 1)" cloneof="Double Dragon (Export) (En,Ja)">
 		<category>Games</category>
 		<description>Double Dragon (Japan) (En,Ja) (Rev 1)</description>
 		<year>1995</year>
 		<manufacturer>SNK</manufacturer>
-		<disk name="Double Dragon (Japan) (En,Ja) (Rev 1).chd" sha1="64bf06de31105900dacbdd927ef635f71d264725" />
+		<disk name="Double Dragon (Japan) (En,Ja) (Rev 1).delta.chd" sha1="64bf06de31105900dacbdd927ef635f71d264725" />
 	</machine>
 	<machine name="Dunk Dream ~ Street Slam ~ Street Hoop (World)">
 		<category>Games</category>

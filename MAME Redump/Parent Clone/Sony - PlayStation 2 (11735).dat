@@ -56839,10 +56839,10 @@
 		<description>World Soccer Winning Eleven 8 - Asia Championship (China)</description>
 		<disk name="World Soccer Winning Eleven 8 - Asia Championship (China).delta.chd" sha1="ed798685b2514ce9a9a6b518f7181244377ff591" />
 	</machine>
-	<machine name="World Soccer Winning Eleven 8 - International (Korea)">
+	<machine name="World Soccer Winning Eleven 8 - International (Korea)" cloneof="J.League Winning Eleven 8 - Asia Championship (Japan)">
 		<category>Games</category>
 		<description>World Soccer Winning Eleven 8 - International (Korea)</description>
-		<disk name="World Soccer Winning Eleven 8 - International (Korea).chd" sha1="72bbae22941b2254aa0416aa7c9b570d67756619" />
+		<disk name="World Soccer Winning Eleven 8 - International (Korea).delta.chd" sha1="72bbae22941b2254aa0416aa7c9b570d67756619" />
 	</machine>
 	<machine name="World Soccer Winning Eleven 8 - International (USA) (En,Es)" cloneof="J.League Winning Eleven 8 - Asia Championship (Japan)">
 		<category>Games</category>
@@ -56879,10 +56879,10 @@
 		<description>World Soccer Winning Eleven 9 (Korea)</description>
 		<disk name="World Soccer Winning Eleven 9 (Korea).chd" sha1="0797db2842b69b09363af836063242db2a82fded" />
 	</machine>
-	<machine name="World Soccer Winning Eleven 9 (USA) (En,Es)">
+	<machine name="World Soccer Winning Eleven 9 (USA) (En,Es)" cloneof="World Soccer Winning Eleven 9 (Korea)">
 		<category>Games</category>
 		<description>World Soccer Winning Eleven 9 (USA) (En,Es)</description>
-		<disk name="World Soccer Winning Eleven 9 (USA) (En,Es).chd" sha1="d85c3648a0120e8d261db3fc2f54f74a9d0a81ff" />
+		<disk name="World Soccer Winning Eleven 9 (USA) (En,Es).delta.chd" sha1="d85c3648a0120e8d261db3fc2f54f74a9d0a81ff" />
 	</machine>
 	<machine name="World Super Police (Europe, Australia)" cloneof="Kousoku Kidoutai - World Super Police (Japan) (En,Ja)">
 		<category>Games</category>

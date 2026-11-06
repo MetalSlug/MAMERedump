@@ -94,10 +94,10 @@
 		<description>Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev A)</description>
 		<disk name="Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev A).chd" sha1="c0422b617dd5d4f92fe8417e430155c2faa6e540" />
 	</machine>
-	<machine name="Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev B)">
+	<machine name="Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev B)" cloneof="Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev A)">
 		<category>Games</category>
 		<description>Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev B)</description>
-		<disk name="Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev B).chd" sha1="8aedfe6b4bccbd50ea298e438bafca6b3936639f" />
+		<disk name="Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev B).delta.chd" sha1="8aedfe6b4bccbd50ea298e438bafca6b3936639f" />
 	</machine>
 	<machine name="Initial D - Arcade Stage 4 (Japan) (Lindbergh Yellow) (Rev C)">
 		<category>Games</category>

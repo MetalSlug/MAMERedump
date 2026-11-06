@@ -946,12 +946,12 @@
 		<manufacturer>Acid</manufacturer>
 		<disk name="Roadkill (Europe).chd" sha1="234bd47866333732f74a7563e149f0ab73529294" />
 	</machine>
-	<machine name="Roadkill (Europe) (Alt)">
+	<machine name="Roadkill (Europe) (Alt)" cloneof="Roadkill (Europe)">
 		<category>Games</category>
 		<description>Roadkill (Europe) (Alt)</description>
 		<year>1995</year>
 		<manufacturer>Acid</manufacturer>
-		<disk name="Roadkill (Europe) (Alt).chd" sha1="030a9af9f5a4aa6d201447225e3256c98dd315a4" />
+		<disk name="Roadkill (Europe) (Alt).delta.chd" sha1="030a9af9f5a4aa6d201447225e3256c98dd315a4" />
 	</machine>
 	<machine name="Ryder Cup - Johnnie Walker (Europe)">
 		<category>Games</category>
@@ -1094,12 +1094,12 @@
 		<manufacturer>Guildhall Leisure</manufacturer>
 		<disk name="Super Skidmarks (Europe).chd" sha1="9c978f5412163ac0acd03c89758cbab86b1d9a5f" />
 	</machine>
-	<machine name="Super Skidmarks (Europe) (Alt)">
+	<machine name="Super Skidmarks (Europe) (Alt)" cloneof="Super Skidmarks (Europe)">
 		<category>Games</category>
 		<description>Super Skidmarks (Europe) (Alt)</description>
 		<year>1995</year>
 		<manufacturer>Guildhall Leisure</manufacturer>
-		<disk name="Super Skidmarks (Europe) (Alt).chd" sha1="ff15f0c45b71c26df7da0d1dce1b16b64517a528" />
+		<disk name="Super Skidmarks (Europe) (Alt).delta.chd" sha1="ff15f0c45b71c26df7da0d1dce1b16b64517a528" />
 	</machine>
 	<machine name="Super Stardust (Europe)">
 		<category>Games</category>
@@ -1198,12 +1198,12 @@
 		<manufacturer>Millennium</manufacturer>
 		<disk name="Vital Light (Europe).chd" sha1="552ad81da4c89b08dca3c5fef5f8d64b08bf23e4" />
 	</machine>
-	<machine name="Vital Light (Europe) (Alt)">
+	<machine name="Vital Light (Europe) (Alt)" cloneof="Vital Light (Europe)">
 		<category>Games</category>
 		<description>Vital Light (Europe) (Alt)</description>
 		<year>1995</year>
 		<manufacturer>Paragon Publishing</manufacturer>
-		<disk name="Vital Light (Europe) (Alt).chd" sha1="0696ea358fc0f503d56a3327253501926cacbe52" />
+		<disk name="Vital Light (Europe) (Alt).delta.chd" sha1="0696ea358fc0f503d56a3327253501926cacbe52" />
 	</machine>
 	<machine name="Wembley International Soccer (Europe)">
 		<category>Games</category>

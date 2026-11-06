@@ -1793,7 +1793,7 @@
 		<description>Roadkill (Europe)</description>
 		<rom name="Roadkill (Europe) (Track 01).bin" size="37232160" crc="20e75590" md5="0f7f6d31634698e138a504ccc7ab2c9b" sha1="13dbf89baa15de168aea10b79edc12849f203139" datasha1="a7a08605cdf44e119216d479c86d488dd05feedc" datasize="32419840"/>
 	</game>
-	<game name="Roadkill (Europe) (Alt)" type="cd" sha1="35661b03d0c4bb7fa23b163b3caa5db6f16ab6cd" size="24459722" crc="c051d661" fullsha1="030a9af9f5a4aa6d201447225e3256c98dd315a4" datasha1="48446bb6bc09e1bc0811869a4026342e2d0bd1ce" rawdatasha1="bdbfed946d30a2db78742d775421a43dec513d06" rawdatasize="37584960">
+	<game name="Roadkill (Europe) (Alt)" type="cd" sha1="35661b03d0c4bb7fa23b163b3caa5db6f16ab6cd" size="24459722" crc="c051d661" fullsha1="030a9af9f5a4aa6d201447225e3256c98dd315a4" datasha1="48446bb6bc09e1bc0811869a4026342e2d0bd1ce" rawdatasha1="bdbfed946d30a2db78742d775421a43dec513d06" rawdatasize="37584960" parentsha1="234bd47866333732f74a7563e149f0ab73529294" childsize="9019">
 		<category>Games</category>
 		<description>Roadkill (Europe) (Alt)</description>
 		<rom name="Roadkill (Europe) (Alt) (Track 01).bin" size="37584960" crc="d3438b06" md5="a3c8ae0fd357150b35d2a5d17d32852d" sha1="bdbfed946d30a2db78742d775421a43dec513d06" datasha1="d1f079d05eb65700424635fff77bf7b5e255388c" datasize="32727040"/>
@@ -2061,7 +2061,7 @@
 		<rom name="Super Skidmarks (Europe) (Track 03).bin" size="42129024" crc="f91adb5d" md5="f6b6e25cc0a1da6255322a1565b82a37" sha1="7e342c501c3433693c1fc2a001cc9eea73eb7fb3" wavesha1="b3e73427a576667aa3ed396854e6f0f919110004" offsetsha1="b52d961b473f7b5c8e31123f2c40a12991f4554a" offset="356448" offsetsize="41726665"/>
 		<rom name="Super Skidmarks (Europe) (Track 04).bin" size="50158752" crc="8fe4ebbe" md5="d557b4f44d53f5cb01d51ae70bb63f83" sha1="1f11ef87e9a5facc45e58d6272048c45ac6d0bda" wavesha1="eefe34d7908dcb22f45e0bb4afaf336ee02d1363" offsetsha1="e0e4790d290874ea42659c17fd310e74d096cac1" offset="356432" offsetsize="49404845"/>
 	</game>
-	<game name="Super Skidmarks (Europe) (Alt)" type="cd" sha1="c258b226bfce506a9211dd333d93252226df36d9" size="96566138" crc="cb22c94c" fullsha1="ff15f0c45b71c26df7da0d1dce1b16b64517a528" datasha1="1a39f3079a2931a6d174a62a676bf34fa6500487" rawdatasha1="b09294942bdb3aa97dd8b1c29132aae11004c04f" rawdatasize="151682832">
+	<game name="Super Skidmarks (Europe) (Alt)" type="cd" sha1="c258b226bfce506a9211dd333d93252226df36d9" size="96566138" crc="cb22c94c" fullsha1="ff15f0c45b71c26df7da0d1dce1b16b64517a528" datasha1="1a39f3079a2931a6d174a62a676bf34fa6500487" rawdatasha1="b09294942bdb3aa97dd8b1c29132aae11004c04f" rawdatasize="151682832" parentsha1="9c978f5412163ac0acd03c89758cbab86b1d9a5f" childsize="73591067">
 		<category>Games</category>
 		<description>Super Skidmarks (Europe) (Alt)</description>
 		<rom name="Super Skidmarks (Europe) (Alt) (Track 01).bin" size="35604576" crc="3c0803bf" md5="25edad2d837bc8ea6e41eb5ee361fb8b" sha1="0ccde3b2f525541ccb58255e3319265ca1106775" datasha1="bafd358d6f2bab8192390faedcc793152062726a" datasize="31002624"/>
@@ -2290,7 +2290,7 @@
 		<description>Vital Light (Europe)</description>
 		<rom name="Vital Light (Europe) (Track 01).bin" size="5350800" crc="b370fe15" md5="97f3fc2bab404cc895ef4670578c25c5" sha1="33d3dbfd3187c9e8a7c9179c42f7a3b946484266" datasha1="c367e9e50b09a51d5dea311d2e3ba7bc87034972" datasize="4659200"/>
 	</game>
-	<game name="Vital Light (Europe) (Alt)" type="cd" sha1="881af514c5d120027af6a6b1a3ba21c36174f1a3" size="2417598" crc="2084640f" fullsha1="0696ea358fc0f503d56a3327253501926cacbe52" datasha1="4283b5c2976d44c7a54b48681ebec810b633fcb8" rawdatasha1="3ac12dd02b86f1b435f85c0c9c7a3790a8204e48" rawdatasize="4998000">
+	<game name="Vital Light (Europe) (Alt)" type="cd" sha1="881af514c5d120027af6a6b1a3ba21c36174f1a3" size="2417598" crc="2084640f" fullsha1="0696ea358fc0f503d56a3327253501926cacbe52" datasha1="4283b5c2976d44c7a54b48681ebec810b633fcb8" rawdatasha1="3ac12dd02b86f1b435f85c0c9c7a3790a8204e48" rawdatasize="4998000" parentsha1="552ad81da4c89b08dca3c5fef5f8d64b08bf23e4" childsize="363">
 		<category>Games</category>
 		<description>Vital Light (Europe) (Alt)</description>
 		<rom name="Vital Light (Europe) (Alt) (Track 01).bin" size="4998000" crc="767d9dbd" md5="c2f373cec225a51b8a572bece6682218" sha1="3ac12dd02b86f1b435f85c0c9c7a3790a8204e48" datasha1="4cf24affc2d770045d3e4a84e6e22a0d12b3f449" datasize="4352000"/>
