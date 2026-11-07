@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega 32X - CD - Games - [IMG]</name>
+		<description>MAME Redump - Sega 32X - CD - Games - [IMG] (TOSEC-v2013-04-10)</description>
+		<version>0.289</version>
+		<date>2026-03-09</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<machine name="Night Trap (1994)(Digital Pictures)(US)(Disc 1 of 2)">
+		<description>Night Trap (1994)(Digital Pictures)(US)(Disc 1 of 2)</description>
+		<disk name="Night Trap (1994)(Digital Pictures)(US)(Disc 1 of 2).chd" sha1="02dbdd5239bd2c2bc3636208a56ef125d9574376" />
+	</machine>
+	<machine name="Night Trap (1994)(Digital Pictures)(US)(Disc 2 of 2)">
+		<description>Night Trap (1994)(Digital Pictures)(US)(Disc 2 of 2)</description>
+		<disk name="Night Trap (1994)(Digital Pictures)(US)(Disc 2 of 2).chd" sha1="cd6e403303949f738069d92e4f796d2d640afaee" />
+	</machine>
+</datafile>

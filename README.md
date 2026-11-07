@@ -174,7 +174,7 @@ Acorn - Archimedes|0|8|0|3 GB|
 **Apple - Macintosh**|21|38|1|51 GB|129 MB
 Apple - Pippin|0|14|0|2 GB|
 ~Arcade - Incredible Technologies - Eagle~|0|0|1||269 MB
-**Arcade - Konami - System 573**|0|5|4|304 MB|598 MB
+**Arcade - Konami - System 573**|0|4|5|283 MB|619 MB
 Arcade - Namco - Sega - Nintendo - Triforce|0|10|0|3 GB|
 Arcade - Sega - Chihiro|0|11|0|7 GB|
 Arcade - Sega - Naomi 2|0|17|0|4 GB|
@@ -188,19 +188,19 @@ Atari - Jaguar CD Interactive Multimedia System|16|14|0|3 GB|
 **IBM - PC compatible**|1487|127|348|34 GB|638 GB
 ~Mattel - HyperScan~|0|0|7||396 MB
 **Memorex - Visual Information System**|0|19|48|2 GB|6 GB
-**NEC - PC Engine CD & TurboGrafx CD**|2|432|4|95 GB|1 GB
+**NEC - PC Engine CD & TurboGrafx CD**|2|157|279|34 GB|62 GB
 **NEC - PC-FX**|4|70|1|25 GB|408 MB
 **Nintendo - GameCube**|0|83|500|74 GB|680 GB
 **Philips - CD-i**|6|79|587|23 GB|143 GB
 **Sega - Dreamcast**|476|820|903|328 GB|386 GB
-**Sega - Mega-CD - Sega CD**|3|664|282|145 GB|65 GB
+**Sega - Mega-CD - Sega CD**|3|482|464|101 GB|109 GB
 **Sega - Saturn**|10|324|268|82 GB|73 GB
 **SNK - Neo Geo CD**|7|257|3|77 GB|4 MB
 **Sony - PlayStation 2**|124|21|329|3 GB|1,04 TB
 **Sony - PlayStation Portable**|341|24|421|5 GB|157 GB
 **Sony - PlayStation**|135|67|57|8 GB|17 GB
-Tomy - Kiss-Site|0|19|0|2 GB|
+~Tomy - Kiss-Site~|0|0|19||2 GB
 ~VM Labs - NUON~|0|0|4||3 GB
 ~VTech - V.Flash & V.Smile Pro~|0|0|9||2 GB
 ~ZAPiT Games - Game Wave Family Entertainment System~|0|0|15||46 GB
-Total|2653|4975|4388|1,32 TB|3,39 TB
+Total|2653|4498|4865|1,22 TB|3,49 TB
