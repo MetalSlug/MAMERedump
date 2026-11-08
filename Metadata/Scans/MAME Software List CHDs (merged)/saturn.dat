@@ -459,7 +459,7 @@
 		<rom name="airs adventure (t-20301g) (Track 01).bin" size="531636672" crc="1791e04f" md5="11ce71a979c4901448b87279d814e26b" sha1="1f7550167576646fb14230365bc5b22215200d9d" datasha1="27f81dad5221200f84723805a437b6d91a948ea4" datasize="462921728"/>
 		<rom name="airs adventure (t-20301g) (Track 02).bin" size="33445440" crc="8240bc32" md5="d3b9c93ac5bf337b33fb7515b538fc9b" sha1="8e204776fcc428fcb4acd36e98fe07ddbdceb4af" wavesha1="86a23278b8b76b7941155843b4aee8ab908ed082" rawdatasha1="ec8923d6faf197a51632131204ba5f288a0d02e9" rawdatasize="33798240" rawdatawavesha1="428c80e4338427e0d240e1a03c762c8777bc4f19" offsetsha1="dc3b9cb965184dc2b42ee5bc97c87e6c9b282099" offset="3096" offsetsize="33442344"/>
 	</game>
-	<game name="aishogi2\ai shougi 2 (japan)" type="gd" sha1="a5b418905cf704fe21c5271a32cf08e236cfb368" size="17459887" crc="f94176e3" fullsha1="6c42d91ce7ace93baeccabf4aac80c39a93c4d21" datasha1="d5d8f92c0859af08a8bcab9764f759f75d35d492">
+	<game name="aishogi2\ai shougi 2 (japan)" type="gd" sha1="a5b418905cf704fe21c5271a32cf08e236cfb368" size="17459887" crc="f94176e3" fullsha1="6c42d91ce7ace93baeccabf4aac80c39a93c4d21" datasha1="d5d8f92c0859af08a8bcab9764f759f75d35d492" status="baddump">
 		<category>Games</category>
 		<description>AI Shougi 2 (Japan)</description>
 		<year>1995</year>
@@ -5496,7 +5496,7 @@
 		<rom name="daitoride (t-29201g) (Track 01).bin" size="12216288" crc="8770255f" md5="479e8a3c23f073e8a80b9de8758c11b1" sha1="a1285eb54964b1477b7c0e35e8dbeb73a183a1db" datasha1="dcde5ad7f688fa687e2d395f5c1fab05e81949d6" datasize="10637312"/>
 		<rom name="daitoride (t-29201g) (Track 02).bin" size="1411200" crc="b1a485e8" md5="79578f274802ff7e061b11c671070498" sha1="dd806cd1400d4165b8cc3f9ef2e14d96c526b170" wavesha1="d69eabc46fa50a38a793999924a89b8b0cf974da" rawdatasha1="781f50c198cd616ae869e472082beefb47f90952" rawdatasize="1764000" rawdatawavesha1="34ff909dace47763d8f0914ace2aefa4c957ad3d" offsetsha1="a38962d80a0e984ed688b154bef7b86820d4cc15" offset="2120" offsetsize="1408049"/>
 	</game>
-	<game name="darius2\darius ii (japan) [t-1104g] (iso-ogg sourced)" type="cd" sha1="4daf50a14586e34db86f658ff740a37497177337" size="223768106" crc="b9950901" fullsha1="2ce77ca7ef501ab961f1b22b2aa5f2b13bfb2a73" datasha1="0de2708ac58889af67651ae7f6bccddc9ff72607" rawdatasha1="4e5ab94b507a4f3f5f76b441def206fdb7eaa91a" rawdatasize="487752032">
+	<game name="darius2\darius ii (japan) [t-1104g] (iso-ogg sourced)" type="cd" sha1="4daf50a14586e34db86f658ff740a37497177337" size="223768106" crc="b9950901" fullsha1="2ce77ca7ef501ab961f1b22b2aa5f2b13bfb2a73" datasha1="0de2708ac58889af67651ae7f6bccddc9ff72607" rawdatasha1="4e5ab94b507a4f3f5f76b441def206fdb7eaa91a" rawdatasize="487752032" status="baddump">
 		<category>Games</category>
 		<description>Darius II (Japan)</description>
 		<year>1996</year>
@@ -5759,7 +5759,7 @@
 		<rom name="sat-0799-darklight_conflict-usa (Track 08).bin" size="21518448" crc="f3c33984" md5="7c66bdd865df8d5c20f549392e0394ac" sha1="0050115dff270007a323ae8e9f071d4c2fc67cd4" wavesha1="0642f9b999034e6bdb64d2996567bea1e22cd14c" rawdatasha1="b07dbe4de963655791675271b43e61b9d0441b19" rawdatasize="21871248" rawdatawavesha1="672071d0f37209e7e962c7ec017e3694e127a1c4" offsetsha1="400ce04bfc2c1d8064e7fa34614935a27f3eb1c2" offset="11192" offsetsize="21163818"/>
 		<rom name="sat-0799-darklight_conflict-usa (Track 09).bin" size="20253072" crc="343e5ff7" md5="86036e29b641c268d23e1c7bc762de15" sha1="2ee9a41a4220c5c4bae77a52e5b146ea25b29d40" wavesha1="a77e989e695c838fe3b4ef245c9cde1a017c0842" rawdatasha1="531991a0ca351ebca08446d30dd1e082122d808a" rawdatasize="20605872" rawdatawavesha1="7697b48e718d6d4a03f4a562f1e60c0458b36fd9" offsetsha1="e6a01edccf9573d0c4ba940d587a718c24c16607" offset="11186" offsetsize="20241884"/>
 	</game>
-	<game name="darksav\dark savior (europe)" type="gd" sha1="d9b75987a77482ecc5a39fa87a1fb41987598abe" size="181693326" crc="4ed4b4ea" fullsha1="8bbb624a8f1f6b452ed5325ee58bc5a86dae7bca" datasha1="555c71adf951d696ea65ad4afac582b8e593f26d">
+	<game name="darksav\dark savior (europe)" type="gd" sha1="d9b75987a77482ecc5a39fa87a1fb41987598abe" size="181693326" crc="4ed4b4ea" fullsha1="8bbb624a8f1f6b452ed5325ee58bc5a86dae7bca" datasha1="555c71adf951d696ea65ad4afac582b8e593f26d" status="baddump">
 		<category>Games</category>
 		<description>Dark Savior (Europe)</description>
 		<year>1996</year>
@@ -5767,7 +5767,7 @@
 		<rom name="dark savior (europe) (Track 01).bin" size="113646288" crc="ba43f47e" md5="d69798707ae11506617deff847493207" sha1="f620789ddec4023d24cf6f4f63072d847ab1e87b"/>
 		<rom name="dark savior (europe) (Track 02).bin" size="263440464" crc="e075a73d" md5="1c0a3b23f9fbc2fd2830c23f8cb37b32" sha1="b99b261a289f0f4484eba08ae65083fa3b27de69"/>
 	</game>
-	<game name="darksav\dark savior (japan)" type="cd" sha1="22e1f9d28b7a7d8229aaa1d86e074c8ac38424ac" size="196687590" crc="a5b93868" fullsha1="0f47706fb5f2ccfdc00f86040196c24042f324a3" datasha1="ccd46407b335432df86c24793ced84d980cd6d43">
+	<game name="darksav\dark savior (japan)" type="cd" sha1="22e1f9d28b7a7d8229aaa1d86e074c8ac38424ac" size="196687590" crc="a5b93868" fullsha1="0f47706fb5f2ccfdc00f86040196c24042f324a3" datasha1="ccd46407b335432df86c24793ced84d980cd6d43" status="baddump">
 		<category>Games</category>
 		<description>Dark Savior (Japan)</description>
 		<year>1996</year>
@@ -5791,7 +5791,7 @@
 		<rom name="dark savior (japan, taikenban, 19960409) (Track 01).bin" size="36728832" crc="ca12a0b0" md5="b3c10ea2716337ca13abbe762c29893e" sha1="b621489e9373bddb690cafb39268e9b1a9842638"/>
 		<rom name="dark savior (japan, taikenban, 19960409) (Track 02).bin" size="1712256" crc="7835adaa" md5="2c9b11e90a0ac803efdbcf02f50d96ae" sha1="2ef9201abd679429ad1a91d483d701aa7763d8c7"/>
 	</game>
-	<game name="darksav\dark savior (usa)" type="gd" sha1="aa00fd3151def34d3c1250a9da065304851f011e" size="185290173" crc="c062e6e1" fullsha1="4c331f8360bd23a4117f14ace761aeac51c00f2c" datasha1="348adf919c424591586470e592e38176fff20efc">
+	<game name="darksav\dark savior (usa)" type="gd" sha1="aa00fd3151def34d3c1250a9da065304851f011e" size="185290173" crc="c062e6e1" fullsha1="4c331f8360bd23a4117f14ace761aeac51c00f2c" datasha1="348adf919c424591586470e592e38176fff20efc" status="baddump">
 		<category>Games</category>
 		<description>Dark Savior (USA)</description>
 		<year>1996</year>

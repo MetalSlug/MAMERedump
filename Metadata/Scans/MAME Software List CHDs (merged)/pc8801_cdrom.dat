@@ -9,7 +9,7 @@
 		<author>MAME Redump</author>
 		<url>https://github.com/MetalSlug/MAMERedump</url>
 	</header>
-	<game name="dioscd\dios (japan)" type="cd" sha1="a6170af96b5cd805a6d4d594d64cd28c33b2e910" size="35900893" crc="c064699a" fullsha1="d7023222681862904756422c1465abeb3b09bd07" datasha1="976957d12f4193a75724e455c796daa7d5c6e9b6">
+	<game name="dioscd\dios (japan)" type="cd" sha1="a6170af96b5cd805a6d4d594d64cd28c33b2e910" size="35900893" crc="c064699a" fullsha1="d7023222681862904756422c1465abeb3b09bd07" datasha1="976957d12f4193a75724e455c796daa7d5c6e9b6" status="baddump">
 		<category>Games</category>
 		<description>Dios CD-ROM-ban</description>
 		<year>1990</year>
@@ -39,7 +39,7 @@
 		<rom name="mirrors (japan) (Track 14).bin" size="57330000" crc="9d435e2b" md5="5bfc82a39ae383366d8963ed5a4d97ed" sha1="a4ac505b1cc917ce69c93a05049c7e3e04ca86a1"/>
 		<rom name="mirrors (japan) (Track 15).bin" size="33163200" crc="d78cf0a2" md5="34137c2bc6db1dd734e5257bd26d9b45" sha1="c4e0f500e42b988b9a301b85577253448d00712e"/>
 	</game>
-	<game name="takabako\cd takarabako (japan)" type="gd" sha1="0d2e7268448d45cdce98665fadf0a9a819e4d941" size="301596233" crc="c52df91b" fullsha1="fa04ebd2556c6508a2401e9a261b8bce843164c0" datasha1="eb9dcdade21a5813ee81a14a09836ba982c50483">
+	<game name="takabako\cd takarabako (japan)" type="gd" sha1="0d2e7268448d45cdce98665fadf0a9a819e4d941" size="301596233" crc="c52df91b" fullsha1="fa04ebd2556c6508a2401e9a261b8bce843164c0" datasha1="eb9dcdade21a5813ee81a14a09836ba982c50483" status="baddump">
 		<category>Games</category>
 		<description>CD Takarabako</description>
 		<year>1989</year>
@@ -86,7 +86,7 @@
 		<rom name="cd takarabako (japan) (Track 40).bin" size="8902320" crc="36dc6e44" md5="dc205b3903e1b46799221ce7b98e1afd" sha1="432f96ea9b03dbfe5ec01387dca76d4e7498b9aa"/>
 		<rom name="cd takarabako (japan) (Track 41).bin" size="7197120" crc="f9d13813" md5="49507b75d112fb7eeebfc0b3aa3c4c54" sha1="30189b4b12e04e6f373acb9b4b9892e8f3ebc8e8"/>
 	</game>
-	<game name="takabako\cd takarabako (japan) (alt)" type="cd" sha1="8d69a6ad274a0d4dea64a3407f90c817d9ea5a16" size="300956637" crc="5daf9d85" fullsha1="1975f9f054ca1827fdf0c3eb2c8ba0dc4b4357b0" datasha1="fa6fa0770e12ba95731d6dbff0e2b76f677599c6">
+	<game name="takabako\cd takarabako (japan) (alt)" type="cd" sha1="8d69a6ad274a0d4dea64a3407f90c817d9ea5a16" size="300956637" crc="5daf9d85" fullsha1="1975f9f054ca1827fdf0c3eb2c8ba0dc4b4357b0" datasha1="fa6fa0770e12ba95731d6dbff0e2b76f677599c6" status="baddump">
 		<category>Games</category>
 		<description>CD Takarabako (alt)</description>
 		<year>1989</year>

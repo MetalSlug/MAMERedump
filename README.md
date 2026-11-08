@@ -162,7 +162,7 @@ Apple - Macintosh|20|0|3 GB|
 **SNK - Neo Geo CD**|3|107|445 MB|29 GB
 **Sony - PlayStation**|605|2548|137 GB|633 GB
 ~Tomy - Kiss-Site~|0|30||3 GB
-~VM Labs - NUON~|0|8||6 GB
+~VM Labs - NUON~|0|8||5 GB
 ~VTech - V.Flash & V.Smile Pro~|0|33||6 GB
 Total|3062|7586|711 GB|1,79 TB
 
