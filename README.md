@@ -1,7 +1,7 @@
 # MAME Redump 0.289 (WIP)
 
 The aim of the MAME Redump project is to convert the redump sets to formats that take up little space, such as the chd format. Gamecube and Wii sets have been converted to the NKit2 RVZ format (zstd-19-128k).
-All MAME Software List CHDs are merged or included. You will need to re-compress any Mame CHDs that don't match since 0.263, as Mame uses outdated hashes.
+All MAME Software List CHDs are merged or included. You will need to re-compress any Mame CHDs that don't match with the newest CHDMAN version, as Mame uses outdated hashes.
 
 Another goal is deduplication and showing how big or small the intersection is between the two. It should be possible to create either a MAME set or a redump set from the data.
 
@@ -13,6 +13,18 @@ The program to read the track information or merge the sets is not yet public as
 
 - Use this at your own risk
 - Backup your files before using any of the files provided here
+
+# Deduplication
+
+This project now employs a variety of methods to deduplicate TOSEC, MAME, and Redump. In some instances, converting Redump data back into the TOSEC format is not possible without the use of additional tools. However, the duplicated data is entirely identical, typically differing only in terms of offsets or file formats.
+
+The following methods are used:
+- Direct SHA1 comparison when the track data are completely identical
+- Wave SHA1 matching. CHDs do not store a wave header. The MAMERedump scan data contains the wave data sha1 checksum and this can be used to match tosec dumps in wave format.
+- Audio offset matching. The MAMERedump scan data includes the audio offset, length, and SHA1 checksum. For this purpose, all leading and trailing zeros are removed. This allows for the reconciliation of the discrepancies in audio offsets between Redump and TOSEC.
+- Data SHA1 matching. MAMERedump scan data includes a data checksum for each track, with header data stripped away. This allows for the comparison of different formats, such as 2352 and 2048.
+- Raw Data SHA1 matching. MAMERedump scan data includes a checksum that encompasses all tracks. This allows Redump dumps to be matched against TOSEC dumps, which do not use a split-track format.
+- Parent Clone sets. To further reduce storage requirements, parent clone sets can be used, which group together similar titles or variants. These CHDs reuse as many "hunks" as possible from the parent CHD.
 
 # Folders in this repository
 
