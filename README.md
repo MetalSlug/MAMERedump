@@ -206,7 +206,7 @@ Atari - Jaguar CD Interactive Multimedia System|16|14|0|3 GB|
 **Philips - CD-i**|6|79|587|23 GB|143 GB
 **Sega - Dreamcast**|476|820|903|328 GB|386 GB
 **Sega - Mega-CD - Sega CD**|3|482|464|101 GB|109 GB
-**Sega - Saturn**|10|324|268|82 GB|73 GB
+**Sega - Saturn**|10|324|268|83 GB|73 GB
 **SNK - Neo Geo CD**|7|257|3|77 GB|4 MB
 **Sony - PlayStation 2**|124|21|329|3 GB|1,04 TB
 **Sony - PlayStation Portable**|341|24|421|5 GB|157 GB
