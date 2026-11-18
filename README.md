@@ -143,13 +143,13 @@ Sharp - X68000|2026-07-03|29|3|12 GB|6 GB|
 **SNK - Neo Geo CD**|2026-07-24|111|0|60 GB|31 GB|27 GB (9)
 Sony - PlayStation 2|2026-08-05|11735|89|25,42 TB|15,34 TB|9,71 TB (4863)
 *Sony - PlayStation 3 (Decrypted)*|2026-03-16|298|4183|2,29 TB|1,97 TB|1,09 TB (183)
-Sony - PlayStation Portable|2026-08-06|3509|17|3,07 TB|2,08 TB|1,45 TB (1626)
+Sony - PlayStation Portable|2026-08-06|3510|16|3,07 TB|2,08 TB|1,45 TB (1626)
 Sony - PlayStation|2026-08-06|10896|66|4,58 TB|2,55 TB|
 **Tomy - Kiss-Site**|2026-07-03|30|0|3 GB|3 GB|
 VM Labs - NUON|2026-07-03|9|2|12 GB|8 GB|
 **VTech - V.Flash & V.Smile Pro**|2026-07-03|51|0|23 GB|9 GB|
 **ZAPiT Games - Game Wave Family Entertainment System**|2026-07-03|17|0|53 GB|50 GB|
-Total||98533|17910|125,89 TB|89,59 TB|82,24 TB (7397)
+Total||98534|17909|125,89 TB|89,59 TB|82,25 TB (7397)
 
 
 |MAME|Exclusive|Matched|Exclusive Size|Matched Size|
@@ -209,10 +209,10 @@ Atari - Jaguar CD Interactive Multimedia System|16|14|0|3 GB|
 **Sega - Saturn**|10|324|268|83 GB|73 GB
 **SNK - Neo Geo CD**|7|257|3|77 GB|4 MB
 **Sony - PlayStation 2**|124|21|329|3 GB|1,04 TB
-**Sony - PlayStation Portable**|341|24|421|5 GB|157 GB
-**Sony - PlayStation**|135|67|57|8 GB|17 GB
+**Sony - PlayStation Portable**|85|280|421|55 GB|79 GB
+**Sony - PlayStation**|128|74|57|8 GB|17 GB
 ~Tomy - Kiss-Site~|0|0|19||2 GB
 ~VM Labs - NUON~|0|0|4||3 GB
 ~VTech - V.Flash & V.Smile Pro~|0|0|9||2 GB
 ~ZAPiT Games - Game Wave Family Entertainment System~|0|0|15||46 GB
-Total|2653|4498|4865|1,22 TB|3,49 TB
+Total|2390|4761|4865|1,27 TB|3,41 TB

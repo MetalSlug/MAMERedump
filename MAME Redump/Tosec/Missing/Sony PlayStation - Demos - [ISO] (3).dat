@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sony PlayStation - Demos - [ISO]</name>
+		<description>MAME Redump - Sony PlayStation - Demos - [ISO] (TOSEC-v2012-09-08)</description>
+		<version>0.289</version>
+		<date>2026-03-09</date>
+		<author>MAME Redump</author>
+		<url>https://github.com/MetalSlug/MAMERedump</url>
+	</header>
+	<game name="Iaquo (2000)(Yodel)(PD)" type="">
+		<description>Iaquo (2000)(Yodel)(PD)</description>
+		<rom name="Iaquo (2000)(Yodel)(PD).cue" size="192" crc="3e601d13" md5="17393e3e2a6cfeba977baba3be736d78" sha1="fe4e0a62f00d4604ee4ca319c9f4ec93508cca30"/>
+		<rom name="Iaquo (2000)(Yodel)(PD).iso" size="2387280" crc="2bf09d52" md5="ad8a32de0747949599cd7e74a5bb8208" sha1="3b9509f41f8c4d33e970f86da72a8be7cdc08e04"/>
+		<rom name="Iaquo (2000)(Yodel)(PD).mp3" size="6043167" crc="1a3196b8" md5="ed56c73b17058cc34efdd824f27d00d1" sha1="770245832757daa6584e73253dfdff3c89f98def"/>
+	</game>
+	<game name="Pawlov (1999)(Elite Group)(PD)" type="">
+		<description>Pawlov (1999)(Elite Group)(PD)</description>
+		<rom name="Pawlov (1999)(Elite Group)(PD).cue" size="206" crc="76b9dffe" md5="f7681baffa376d46448edab6b15ce2a5" sha1="8975e912368a3aad95f34aff9d849a2d37097023"/>
+		<rom name="Pawlov (1999)(Elite Group)(PD).iso" size="1131312" crc="d356f9f3" md5="3cd4c099bce7718bf73fa9706be625d9" sha1="029067e127b5b2c03f6ef584838976b38af317ca"/>
+		<rom name="Pawlov (1999)(Elite Group)(PD).mp3" size="5184971" crc="e3c70deb" md5="ee3474a56bef93fd107aa01d3a359230" sha1="745352ad512e124c0144fc97874a7ccd2614d332"/>
+	</game>
+	<game name="Runkkari (2000)(Haujobb)(PD)" type="">
+		<description>Runkkari (2000)(Haujobb)(PD)</description>
+		<rom name="Runkkari (2000)(Haujobb)(PD).cue" size="203" crc="04e0e937" md5="e936ccb6b6a69cc2b192016ab4ee3a37" sha1="06c2270629bd763ed466e53dce8874fb366ae6d6"/>
+		<rom name="Runkkari (2000)(Haujobb)(PD).iso" size="5183808" crc="d1d118c6" md5="5d15c456da5c4b470ee5a91d019a514f" sha1="a53f55742ac5220359ef359030293c80cabc73f4"/>
+		<rom name="Runkkari (2000)(Haujobb)(PD).mp3" size="3430608" crc="3c4462a9" md5="d8a292c8316da1db81322840064412d2" sha1="ed8e1a25ef3c8cf4dada2cbdd5e85f2d8af61368"/>
+	</game>
+</datafile>
