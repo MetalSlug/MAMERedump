@@ -1,4 +1,4 @@
-# MAME Redump 0.289 (WIP)
+# MAME Redump 0.289
 
 The aim of the MAME-Redump project is to convert Redump datasets into space-efficient formats, such as the CHD format. GameCube and Wii datasets have been converted into the NKit2-RVZ format (using zstd-19-128k compression).
 All CHDs from the MAME software lists, as well as the majority of the TOSEC collection, are integrated or included. MAME CHDs that do not align with the latest version of CHDMAN must be recompressed, as MAME utilizes outdated hash values.
